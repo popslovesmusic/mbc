@@ -89,6 +89,13 @@ Command group: `hgg-index`
 - `hgg-index graph [--cluster <id>]`: Render dependency/cluster graph for segments.
 - `hgg-index doctor`: Validate that every segment has exactly one encyclopedia entry and that no source text is duplicated in outputs.
 
+## Concept-to-Box Diagram Pipeline
+- **Rule Catalog**: Maintain a configuration (e.g., `docs/concept_diagram_rules.yaml`) that maps concept block roles to diagram shapes and edge semantics (splits/merges like `boxA → boxB + boxC`).
+- **Block Tagging**: Extend segmentation/annotation to tag each block with roles (source, transform, outcome), relationship hints (dependencies, antonyms, analogues), and eligibility for diagramming.
+- **Diagram Generation**: Build a generator that consumes tagged blocks and emits graph data (JSON/Graphviz) showing rule-driven chains plus related-concept edges (cluster proximity, shared aliases, contradiction pairs).
+- **Viewpoint Suggestions**: Provide template-driven alternative perspectives for a block (inversion, duality, boundary cases) seeded by semantic neighbors to surface overlooked angles.
+- **CLI Surfacing**: Extend `hgg-index graph` with `--concept <id>` to render per-concept diagrams and viewpoint suggestions, always pointing back to location codes instead of duplicating source text.
+
 ## QA and Next Steps
 - Validate cleaning rules on representative files (e.g., `intake/BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md`) to ensure technical statements are preserved.
 - Confirm that location codes and alias handling satisfy the provided `Am154nb2`, `Am458mk5`, and `Am230mnbh` patterns.
