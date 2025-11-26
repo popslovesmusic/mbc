@@ -1,10 +1,25 @@
+id: GEN20-7124
+location: genesis-20/mbc-40-documentaitio-1::a27-the-axiom-system-formal-summary::axiom-6-polarity-governs-flow::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5854-5856
+heading: Axiom 6 (Polarity Governs Flow)
+parent_heading: A2.7 The Axiom System (Formal Summary)
 block_type: paragraph
+excerpt: All directional influence is mediated by Θ.
 concepts:
 - Θ
-excerpt: All directional influence is mediated by Θ.
-heading: Axiom 6 (Polarity Governs Flow)
-id: GEN20-7124
-lines: 5854-5856
-location: genesis-20/mbc-40-documentaitio-1::a27-the-axiom-system-formal-summary::axiom-6-polarity-governs-flow::b1
-parent_heading: A2.7 The Axiom System (Formal Summary)
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk398ad
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

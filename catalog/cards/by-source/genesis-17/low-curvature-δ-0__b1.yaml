@@ -1,10 +1,30 @@
+id: GEN17-4840
+location: genesis-17/box-calculus::4-asymptotic-regimes-igsoa-limits::low-curvature-δ-0::b1
+source: genesis-17\box_calculus.md
+lines: 10189-10200
+heading: ⭐ Low Curvature (δ → 0\)
+parent_heading: 🔷 4\. Asymptotic Regimes (IGS/OA Limits)
 block_type: paragraph
+excerpt: 'IGS-shadow: dΣdt≈−∇2Σ dt'
 concepts:
 - Σ
-excerpt: 'IGS-shadow: dΣdt≈−∇2Σ dt'
-heading: ⭐ Low Curvature (δ → 0\)
-id: GEN17-4840
-lines: 10189-10200
-location: genesis-17/box-calculus::4-asymptotic-regimes-igsoa-limits::low-curvature-δ-0::b1
-parent_heading: 🔷 4\. Asymptotic Regimes (IGS/OA Limits)
-source: genesis-17\box_calculus.md
+- ≈
+- ∇
+- →
+- IGS-shadow
+- Σdt
+aliases:
+- Bk182is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 46.15384615384615
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

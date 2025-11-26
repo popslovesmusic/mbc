@@ -1,14 +1,35 @@
+id: GEN9-9330
+location: genesis-9/is-the-source-of-all-structure::δ-is-the-source-of-all-structure::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 2-21
+heading: '**δ is the source of all structure**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
-- δ-curvature
-- δ-harmonics
 excerpt: 'Deviation **δ** is the only thing that can happen to the zero-state Ψ₀.
   Once δ exists, the universe is no longer a perfect static manifold — it now contains:
   * **δ-curvature**'
-heading: '**δ is the source of all structure**'
-id: GEN9-9330
-lines: 2-21
-location: genesis-9/is-the-source-of-all-structure::δ-is-the-source-of-all-structure::b1
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- δ
+- Deviation
+- δ-Hessian mass terms
+- δ-adjacency defects
+- δ-adjacency
+- δ-curvature
+- δ-harmonics
+- zero-state
+- δ-Hessian
+- Ψ
+- Ψ₀
+aliases:
+- Bk236dt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.642857142857142
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

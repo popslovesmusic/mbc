@@ -1,15 +1,33 @@
+id: GEN15-3489
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-δ-as-a-comonad::comonad-structure-maps::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1782-1803
+heading: '**Comonad Structure Maps**'
+parent_heading: '**🔷 2\. δ as a Comonad**'
 block_type: paragraph
-concepts:
-- co-multiplication
-- co-unit
-- Π
-- Φ
-- δ
 excerpt: 'A comonad GGG consists of: * **co-unit** ϵ:Gδ⇒Id\\epsilon : G\_{\\delta}
   \\Rightarrow \\mathrm{Id}ϵ:Gδ​⇒Id'
-heading: '**Comonad Structure Maps**'
-id: GEN15-3489
-lines: 1782-1803
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-δ-as-a-comonad::comonad-structure-maps::b1
-parent_heading: '**🔷 2\. δ as a Comonad**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- Δ
+- Π
+- Φ
+- co-multiplication
+- co-unit
+- ε
+- δG
+aliases:
+- Bk987cg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.876543209876543
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

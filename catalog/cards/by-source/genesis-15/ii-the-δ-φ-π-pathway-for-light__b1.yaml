@@ -1,13 +1,29 @@
+id: GEN15-3294
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::ii-the-δ-φ-π-pathway-for-light::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 550-562
+heading: '**II. The δ → Φ → Π pathway for light**'
 block_type: paragraph
+excerpt: 'The same δ → Φ → Π chain applies, but Π now means *null geodesic projection*:
+  `δ (adjacency curvature)` `|`'
 concepts:
 - Π
 - Φ
-- α
+- →
 - δ
-excerpt: 'The same δ → Φ → Π chain applies, but Π now means *null geodesic projection*:
-  `δ (adjacency curvature)` `|`'
-heading: '**II. The δ → Φ → Π pathway for light**'
-id: GEN15-3294
-lines: 550-562
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::ii-the-δ-φ-π-pathway-for-light::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+- light-ray
+- α
+aliases:
+- Bk722ts
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.689655172413794
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

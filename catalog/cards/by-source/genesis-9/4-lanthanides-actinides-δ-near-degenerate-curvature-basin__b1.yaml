@@ -1,13 +1,33 @@
+id: GEN9-9150
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::deep-igsoa-commentary-why-the-table-has-this-shape::4-lanthanides-actinides-δ-near-degenerate-curvature-basin::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1941-1949
+heading: '**4\. Lanthanides & Actinides \= δ-near-degenerate curvature basin**'
+parent_heading: '**Deep IGSOA Commentary: Why the Table Has This Shape**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'The almost uniform chemistry of f-block elements occurs because: ∇δΠ4f≈∇δΠ5d\\nabla\_\\delta
   \\Pi\_{4f} \\approx \\nabla\_\\delta \\Pi\_{5d}∇δ​Π4f​≈∇δ​Π5d​ producing alternate
   Π-modes with nearly iden...'
-heading: '**4\. Lanthanides & Actinides \= δ-near-degenerate curvature basin**'
-id: GEN9-9150
-lines: 1941-1949
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::deep-igsoa-commentary-why-the-table-has-this-shape::4-lanthanides-actinides-δ-near-degenerate-curvature-basin::b1
-parent_heading: '**Deep IGSOA Commentary: Why the Table Has This Shape**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Π
+- δ
+- ∇
+- ≈
+- δ-curvature
+- f-block
+- Π-modes
+aliases:
+- Bk249ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.94871794871795
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,30 @@
+id: GEN4-7825
+location: genesis-4/the-first-adjacency::6-space-as-the-completion-of-adjacency::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 162-186
+heading: '**6\. Space as the Completion of Adjacency**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Math
-- δ
 excerpt: Space does not arise when the first two states appear. It arises when adjacency
   becomes *closed under iteration*, meaning each new difference can fit coherently
   into the growing relational web. Formal...
-heading: '**6\. Space as the Completion of Adjacency**'
-id: GEN4-7825
-lines: 162-186
-location: genesis-4/the-first-adjacency::6-space-as-the-completion-of-adjacency::b1
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Adjacency
+- Meta-Genesis
+- Meta-Math
+- δ-curvature
+- δ
+- →
+aliases:
+- Bk132sd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.724409448818897
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

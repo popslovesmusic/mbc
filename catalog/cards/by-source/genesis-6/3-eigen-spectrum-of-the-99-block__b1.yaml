@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Solve: S9×9v(a)=ma2 v(a)\\mathbf{S}\_{9\\times9} v^{(a)} \= m\_a^2\\ v^{(a)}S9×9​v(a)=ma2​
-  v(a) You get nine eigenvalues:'
-heading: '**3\. Eigen-Spectrum of the 9×9 Block**'
 id: GEN6-8344
-lines: 1184-1200
 location: genesis-6/spectral-triple-axiom-box-sealed-version::3-eigen-spectrum-of-the-99-block::b1
 source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1184-1200
+heading: '**3\. Eigen-Spectrum of the 9×9 Block**'
+block_type: paragraph
+excerpt: 'Solve: S9×9v(a)=ma2 v(a)\\mathbf{S}\_{9\\times9} v^{(a)} \= m\_a^2\\ v^{(a)}S9×9​v(a)=ma2​
+  v(a) You get nine eigenvalues:'
+concepts:
+- δ-bosons
+- δ
+aliases:
+- Bk997sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.694915254237288
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

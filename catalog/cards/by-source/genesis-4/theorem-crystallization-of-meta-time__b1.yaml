@@ -1,13 +1,30 @@
+id: GEN4-7875
+location: genesis-4/the-first-adjacency::3-why-deviation-forces-ordering-formal-derivation::theorem-crystallization-of-meta-time::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1103-1119
+heading: '**Theorem (Crystallization of Meta-Time).**'
+parent_heading: '**3\. Why Deviation Forces Ordering (Formal Derivation)**'
 block_type: paragraph
-concepts:
-- Genesis Closure Principle
-- Meta-Time
-- δ
 excerpt: 'The preorder ≺\\prec≺ induced by δ is the minimal consistent ordering on
   the set of deviated states. It satisfies: 1. Reflexivity'
-heading: '**Theorem (Crystallization of Meta-Time).**'
-id: GEN4-7875
-lines: 1103-1119
-location: genesis-4/the-first-adjacency::3-why-deviation-forces-ordering-formal-derivation::theorem-crystallization-of-meta-time::b1
-parent_heading: '**3\. Why Deviation Forces Ordering (Formal Derivation)**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Meta-Time
+- δ
+- Genesis Closure Principle
+- total order
+- partial order
+aliases:
+- Bk709tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.803921568627452
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,25 @@
+id: INTK-9855
+location: intake/meta-genesis-core-papers-foundations::4-what-emerges-and-why::44-curvature-and-energy::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1302-1314
+heading: '**4.4 Curvature and Energy**'
+parent_heading: '**4\. What Emerges and Why**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Deviation curvature: R(Ψ1)∝δ2(Ψ1)\\mathcal{R}(\\Psi\_1) \\propto \\delta^2(\\Psi\_1)R(Ψ1​)∝δ2(Ψ1​)
   Deviation energy:'
-heading: '**4.4 Curvature and Energy**'
-id: INTK-9855
-lines: 1302-1314
-location: intake/meta-genesis-core-papers-foundations::4-what-emerges-and-why::44-curvature-and-energy::b1
-parent_heading: '**4\. What Emerges and Why**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- Deviation
+- δ
+aliases:
+- Bk192dc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.976744186046512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

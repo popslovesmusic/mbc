@@ -1,13 +1,32 @@
+id: GEN19-5957
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-canonical-operator-table-dual-column::2-and::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1074-1084
+heading: '**2\. AND**'
+parent_heading: '**I. Canonical Operator Table (dual-column)**'
 block_type: table
-concepts:
-- Θ
-- δ
-- σ
 excerpt: '**Router parameters:** w1=w2=1,b=−1.5w\_1=w\_2=1,\\quad b=-1.5w1​=w2​=1,b=−1.5
   ---'
-heading: '**2\. AND**'
-id: GEN19-5957
-lines: 1074-1084
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-canonical-operator-table-dual-column::2-and::b1
-parent_heading: '**I. Canonical Operator Table (dual-column)**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- IGSOA
+- σ
+- Router
+- ∧
+- δ-flows
+- δ
+- Θ
+aliases:
+- Bk028is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.475409836065573
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

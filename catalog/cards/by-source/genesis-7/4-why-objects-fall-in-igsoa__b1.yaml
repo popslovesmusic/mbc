@@ -1,13 +1,29 @@
+id: GEN7-8622
+location: genesis-7/why-curvature-gives-gravity::4-why-objects-fall-in-igsoa::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 91-111
+heading: '**4\. Why Objects “Fall” in IGSOA**'
 block_type: paragraph
-concepts:
-- Γ
-- δ
-- τ
 excerpt: 'Because adjacency is deformed, shortest paths are deformed. The δ-geodesic
   equation is: DuiDτ=δΓjkiujuk=0\\frac{D u^i}{D\\tau} \= \\delta\\Gamma^i\_{jk} u^j
   u^k \= 0DτDui​=δΓjki​ujuk=0'
-heading: '**4\. Why Objects “Fall” in IGSOA**'
-id: GEN7-8622
-lines: 91-111
-location: genesis-7/why-curvature-gives-gravity::4-why-objects-fall-in-igsoa::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- IGSOA
+- τ
+- Γ
+- δ-distorted
+- δ-curvature
+- δ-geodesic
+aliases:
+- Bk157ba
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.45945945945946
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

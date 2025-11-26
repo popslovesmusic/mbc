@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'We treat time-evolution as a 2-morphism: T:κ(t1)⇒κ(t2).\\mathcal{T}: \\kappa(t\_1)\\Rightarrow
-  \\kappa(t\_2).T:κ(t1​)⇒κ(t2​). Φ preserves 2-morphisms:'
-heading: '**Ⅵ. Category-Theoretic Proof**'
 id: GEN15-3254
-lines: 2580-2604
 location: genesis-15/the-mass-curvature-projection-theorem::ⅵ-category-theoretic-proof::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2580-2604
+heading: '**Ⅵ. Category-Theoretic Proof**'
+block_type: paragraph
+excerpt: 'We treat time-evolution as a 2-morphism: T:κ(t1)⇒κ(t2).\\mathcal{T}: \\kappa(t\_1)\\Rightarrow
+  \\kappa(t\_2).T:κ(t1​)⇒κ(t2​). Φ preserves 2-morphisms:'
+concepts:
+- Φ
+- κ
+- Π
+- image of a 2-morphism
+- time-evolution
+- δ-curvature
+- δ
+aliases:
+- Bk483tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.216867469879518
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

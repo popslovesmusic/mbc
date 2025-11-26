@@ -1,10 +1,27 @@
+id: SPEC-11205
+location: special/specil::2-priests-survived-because-they-controlled-the-reserve-system::the-temple-could-feed-the-village-when-the-crops-failed::b1
+source: special\specil.md
+lines: 4308-4314
+heading: '**✔ The temple could feed the village when the crops failed**'
+parent_heading: '**⭐ 2\. Priests survived because they controlled the reserve system**'
 block_type: paragraph
-concepts: []
 excerpt: 'In other words: **The priesthood was the first large-scale risk-mitigation
   system.** ---'
-heading: '**✔ The temple could feed the village when the crops failed**'
-id: SPEC-11205
-lines: 4308-4314
-location: special/specil::2-priests-survived-because-they-controlled-the-reserve-system::the-temple-could-feed-the-village-when-the-crops-failed::b1
-parent_heading: '**⭐ 2\. Priests survived because they controlled the reserve system**'
-source: special\specil.md
+concepts:
+- risk-mitigation
+- large-scale
+aliases:
+- Bk907ow
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
+id: GEN13-2428
+location: genesis-13/the-weight-of-light::2-the-goal-in-2-categorical-terms::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 2246-2270
+heading: '**2\. The Goal in 2-Categorical Terms**'
 block_type: paragraph
-concepts:
-- 1-morphisms
-- Π
-- Φ
-- δ
 excerpt: 'We must show a **pasting identity in the bicategory**: FMP∘FGM    ≅    Π∘Φ∘δF\_{MP}\\circ
   F\_{GM} \\;\\;\\cong\\;\\; \\Pi\\circ\\Phi\\circ\\deltaFMP​∘FGM​≅Π∘Φ∘δ as **1-morphisms**,
   with the isomorphis...'
-heading: '**2\. The Goal in 2-Categorical Terms**'
-id: GEN13-2428
-lines: 2246-2270
-location: genesis-13/the-weight-of-light::2-the-goal-in-2-categorical-terms::b1
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- The two outer pastings are equal as string diagrams
+- Π
+- δ
+- Φ
+- Theorem
+- pasting identity in the bicategory
+- invertible 2-cell
+- δF
+aliases:
+- Bk086ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.38961038961039
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,28 @@
+id: GEN17-4584
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::5-proof-of-the-correspondence::53-boxes-programs::b1
+source: genesis-17\box_calculus.md
+lines: 6908-6940
+heading: 5.3 Boxes ↔ Programs
+parent_heading: 5\. Proof of the Correspondence
 block_type: table
+excerpt: 'A program is a path: w=Op1⋯Opn w=Op'
 concepts:
+- IGSOA
 - Box
 - λ
-excerpt: 'A program is a path: w=Op1⋯Opn w=Op'
-heading: 5.3 Boxes ↔ Programs
-id: GEN17-4584
-lines: 6908-6940
-location: genesis-17/box-calculus::curryhoward-for-box-calculus::5-proof-of-the-correspondence::53-boxes-programs::b1
-parent_heading: 5\. Proof of the Correspondence
-source: genesis-17\box_calculus.md
+- ↔
+aliases:
+- Bk994if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

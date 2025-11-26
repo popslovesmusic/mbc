@@ -1,13 +1,33 @@
+id: GEN9-9538
+location: genesis-9/strong-force::3-the-c-algebra-of-fiber-preserving-endomorphisms::b1
+source: genesis-9\strong-force.md
+lines: 1728-1768
+heading: '**3\. The C\*-Algebra of Fiber-Preserving Endomorphisms**'
 block_type: paragraph
-concepts:
-- Φ
-- α
-- δ
 excerpt: 'Consider the algebra of adjointable operators on Hδ\\mathcal{H}\_\\deltaHδ​:
   EndAδ(Hδ).\\mathrm{End}\_{\\mathcal{A}\_\\delta}(\\mathcal{H}\_\\delta).EndAδ​​(Hδ​).
   Operators preserving the θ-fibration ...'
-heading: '**3\. The C\*-Algebra of Fiber-Preserving Endomorphisms**'
-id: GEN9-9538
-lines: 1728-1768
-location: genesis-9/strong-force::3-the-c-algebra-of-fiber-preserving-endomorphisms::b1
-source: genesis-9\strong-force.md
+concepts:
+- α
+- δ
+- δ-geometry
+- ∈
+- determinant 1 across the total module
+- θ
+- Φ
+- →
+- pairing structure
+aliases:
+- Bk205ct
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: true
+concept_density: 4.245283018867925
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

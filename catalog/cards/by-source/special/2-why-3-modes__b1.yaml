@@ -1,11 +1,26 @@
+id: SPEC-11031
+location: special/specil::2-why-3-modes::b1
+source: special\specil.md
+lines: 934-976
+heading: '**🧠 \*\*2. Why 3 modes?**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Because 3D space requires 3 independent expressions\*\* A monistic property
   cannot simply “exist” in 3D without splitting into its minimal independent components.
   A 3D space has:'
-heading: '**🧠 \*\*2. Why 3 modes?**'
-id: SPEC-11031
-lines: 934-976
-location: special/specil::2-why-3-modes::b1
-source: special\specil.md
+concepts:
+- orthogonal projections of a single monistic property
+- δ
+aliases:
+- Bk850bs
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.4598540145985401
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

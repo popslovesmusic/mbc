@@ -1,14 +1,29 @@
+id: GEN10-977
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-vii-unification-of-forces::71-the-strong-force-su3-via-torsion::b1
+source: genesis-10\research_overview.md
+lines: 237-239
+heading: '**7.1 The Strong Force (SU(3)) via Torsion**'
+parent_heading: '**Part VII: Unification of Forces**'
 block_type: paragraph
-concepts:
-- Strong Force
-- The Strong Force
-- Torsion
 excerpt: The Strong Force arises from the **Torsion** of the $\\delta$-geometry. Torsion
   measures the "twisting" of the space. In a discrete lattice, 3-cycles (loops of
   3 deviations) are the fundamental stable...
-heading: '**7.1 The Strong Force (SU(3)) via Torsion**'
-id: GEN10-977
-lines: 237-239
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-vii-unification-of-forces::71-the-strong-force-su3-via-torsion::b1
-parent_heading: '**Part VII: Unification of Forces**'
-source: genesis-10\research_overview.md
+concepts:
+- Strong Force
+- Torsion
+- The Strong Force
+aliases:
+- Bk355ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

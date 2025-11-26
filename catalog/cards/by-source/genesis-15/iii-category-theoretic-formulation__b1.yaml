@@ -1,19 +1,46 @@
+id: GEN15-3261
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-category-theoretic-formulation::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 54-89
+heading: '**III. Category-Theoretic Formulation**'
 block_type: paragraph
+excerpt: 'We treat the δ → Φ → Π chain as an adjoint triple: * δ:Genesis→Deviation\\delta
+  : \\mathsf{Genesis} \\to \\mathsf{Deviation}δ:Genesis→Deviation * Φ:Deviation→Dynamics\\Phi
+  : \\mathsf{Deviation} \\to \...'
 concepts:
+- δ
+- →
+- Deviation
+- Π
+- Φ
+- δ-object
+- Theorem
+- constant-velocity functor
+- CSOI-tail
+- constant-velocity
 - Functorial Rotation Curve Law
+- δ-objects
+- Πδ-object
+- Φδ-object
 - 'Observables
 
 
   Define'
-- Theorem
-- Π
-- Φ
-- δ
-excerpt: 'We treat the δ → Φ → Π chain as an adjoint triple: * δ:Genesis→Deviation\\delta
-  : \\mathsf{Genesis} \\to \\mathsf{Deviation}δ:Genesis→Deviation * Φ:Deviation→Dynamics\\Phi
-  : \\mathsf{Deviation} \\to \...'
-heading: '**III. Category-Theoretic Formulation**'
-id: GEN15-3261
-lines: 54-89
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-category-theoretic-formulation::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+aliases:
+- Th519tt
+tags:
+- functorial-rotation-curve-law
+- theorem
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

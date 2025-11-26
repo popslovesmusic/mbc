@@ -1,23 +1,39 @@
+id: GEN7-8607
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::δ-weitzenböck-δ-higgs-potential-axiom-box::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 841-850
+heading: '**δ-Weitzenböck → δ-Higgs Potential Axiom Box**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Boxes
-- Deviational Curvature
-- Foundation Layer
-- Layer
-- Meta-Einstein
-- Meta-Genesis
-- Meta-Physics
-- Tri-Unity
-- exactly
-- δ
-- δ-EFT
-- δ-Geometry
 excerpt: formatted **exactly** like your other IGSOA Axiom Boxes (Meta-Einstein, Deviational
   Curvature, Tri-Unity, NOT-Axiom, etc.). It is clean, unmistakably formal, and fully
   self-contained. This box can be ...
-heading: '**δ-Weitzenböck → δ-Higgs Potential Axiom Box**'
-id: GEN7-8607
-lines: 841-850
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::δ-weitzenböck-δ-higgs-potential-axiom-box::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- Meta-Einstein
+- Meta-Genesis
+- Tri-Unity
+- Foundation Layer
+- Curvature
+- Deviation
+- IGSOA
+- Axiom
+- Layer
+- δ
+- self-contained
+- Meta-Physics
+- axiom-level
+- δ-Geometry
+- NOT-Axiom
+aliases:
+- Bk072fe
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 37.03703703703704
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

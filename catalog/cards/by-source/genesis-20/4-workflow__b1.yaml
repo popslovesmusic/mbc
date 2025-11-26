@@ -1,9 +1,23 @@
-block_type: list
-concepts: []
-excerpt: '* You direct the order of chapters. * After each chapter: * you review'
-heading: 4\. Workflow
 id: GEN20-6680
-lines: 333-339
 location: genesis-20/mbc-40-documentaitio-1::mbc-40-documentation-writing-protocol::4-workflow::b1
-parent_heading: MBC-4.0 Documentation Writing Protocol
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 333-339
+heading: 4\. Workflow
+parent_heading: MBC-4.0 Documentation Writing Protocol
+block_type: list
+excerpt: '* You direct the order of chapters. * After each chapter: * you review'
+aliases:
+- Bk361yd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

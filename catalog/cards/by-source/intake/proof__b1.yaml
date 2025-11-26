@@ -1,15 +1,31 @@
-block_type: paragraph
-concepts:
-- Composite Physical Laws
-- Gauge Fields
-- Meta-Time
-- Quantum Mechanics
-- μ
-- ν
-excerpt: 'We prove closure: 1. **Forces:** Forces come from interaction \+ time evolution:'
-heading: '**Proof.**'
 id: INTK-10647
-lines: 1429-1455
 location: intake/volume-i-core-ontology-and-metagenesis-summary::a7-the-unification-theorem::theorem-a71-triadic-generators-span-physics::proof::b1
-parent_heading: '**Theorem A.7.1 (Triadic Generators Span Physics).**'
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1429-1455
+heading: '**Proof.**'
+parent_heading: '**Theorem A.7.1 (Triadic Generators Span Physics).**'
+block_type: paragraph
+excerpt: 'We prove closure: 1. **Forces:** Forces come from interaction \+ time evolution:'
+concepts:
+- Meta-Time
+- ∈
+- ν
+- μ
+- Composite Physical Laws
+- Quantum Mechanics
+- Gauge Fields
+aliases:
+- Bk952pc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.794520547945205
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,36 @@
+id: GEN17-4933
+location: genesis-17/key-points::5-the-igsoa-statement-final-form::b1
+source: genesis-17\Key_Points.md
+lines: 801-839
+heading: '**⭐ 5\. The IGSOA Statement (final form)**'
 block_type: paragraph
-concepts:
-- The Dependent Cause Record Theorem
-- The Universe
-- Theorem
-- Π
-- Φ
-- δ
 excerpt: 'Here is the exact, fully correct version: **In IGSOA, causal order is the
   record of dependent causes:** **a structural mapping showing which curvature features
   depend on which deviations.**'
-heading: '**⭐ 5\. The IGSOA Statement (final form)**'
-id: GEN17-4933
-lines: 801-839
-location: genesis-17/key-points::5-the-igsoa-statement-final-form::b1
-source: genesis-17\Key_Points.md
+concepts:
+- IGSOA
+- →
+- Theorem
+- Π
+- The Dependent Cause Record Theorem
+- δ
+- Φ
+- non-temporal
+- dual-column
+- formal operator notation
+- ↔
+- The Universe
+- a diagram
+- a theorem
+aliases:
+- Bk459ht
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.864406779661017
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

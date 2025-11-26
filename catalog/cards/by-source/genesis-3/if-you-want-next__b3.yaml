@@ -1,18 +1,35 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Layer
-- Physics Theorem
-- The Foundation Layer Seal
-- Theorem
-- Φ
-- δ
-excerpt: 'I can produce: * **A TikZ / LaTeX version of the full Axiom Box** * **A
-  flowchart / mermaid diagram version**'
-heading: '**If you want next:**'
 id: GEN3-7421
-lines: 796-808
 location: genesis-3/the-physics-box-diagram::if-you-want-next::b3
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 796-808
+heading: '**If you want next:**'
+block_type: paragraph
+excerpt: 'I can produce: * **A TikZ / LaTeX version of the full Axiom Box** * **A
+  flowchart / mermaid diagram version**'
+concepts:
+- Foundation Layer
+- Theorem
+- Axiom
+- Layer
+- Proof
+- Box
+- δ
+- Φ
+- The Foundation Layer Seal
+- Physics Theorem
+- Axiom Box
+aliases:
+- Bk547cp
+tags:
+- axiom-box
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 26.82926829268293
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

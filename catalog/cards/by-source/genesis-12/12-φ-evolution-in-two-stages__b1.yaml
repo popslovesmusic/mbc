@@ -1,10 +1,25 @@
+id: GEN12-1853
+location: genesis-12/untitled-document::1-preliminaries::12-φ-evolution-in-two-stages::b1
+source: genesis-12\Untitled_document.md
+lines: 2050-2052
+heading: '**1.2 Φ Evolution in Two Stages**'
+parent_heading: '**1\. Preliminaries**'
 block_type: paragraph
+excerpt: 'Φ acts twice in galaxy formation:'
 concepts:
 - Φ
-excerpt: 'Φ acts twice in galaxy formation:'
-heading: '**1.2 Φ Evolution in Two Stages**'
-id: GEN12-1853
-lines: 2050-2052
-location: genesis-12/untitled-document::1-preliminaries::12-φ-evolution-in-two-stages::b1
-parent_heading: '**1\. Preliminaries**'
-source: genesis-12\Untitled_document.md
+aliases:
+- Bk617at
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

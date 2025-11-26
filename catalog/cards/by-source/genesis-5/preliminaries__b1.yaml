@@ -1,16 +1,41 @@
+id: GEN5-8095
+location: genesis-5/meta-einstein-axiom-box-language-sealed::the-δφ-unity-meta-einstein-theorem::preliminaries::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 152-173
+heading: '**Preliminaries**'
+parent_heading: '**The δ–Φ Unity ⇒ Meta-Einstein Theorem**'
 block_type: paragraph
-concepts:
-- Deviational Geometry
-- Meta-Einstein
-- The Meta
-- Φ
-- δ
 excerpt: 'Let: * G\\mathcal GG \= the Genesis/Deviational Geometry category. * δ:G→G\\delta
   : \\mathcal G \\to \\mathcal Gδ:G→G \= the **Deviation endofunctor** (potential
   → structure).'
-heading: '**Preliminaries**'
-id: GEN5-8095
-lines: 152-173
-location: genesis-5/meta-einstein-axiom-box-language-sealed::the-δφ-unity-meta-einstein-theorem::preliminaries::b1
-parent_heading: '**The δ–Φ Unity ⇒ Meta-Einstein Theorem**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Φ
+- δ
+- ∇
+- Meta-Einstein
+- →
+- Deviational Geometry
+- Deviation
+- naturality-defects
+- Υ
+- Φ-connection
+- δ-connection
+- Φ-consistent
+- δ-consistent
+- Φ-geometry
+- Deviation endofunctor
+aliases:
+- Bk352lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.39240506329114
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: Π that evaluates meta-properties. ---
-heading: 8.3. Meta-Π Evaluation
 id: GEN17-4347
-lines: 2687-2690
 location: genesis-17/box-calculus::8-expansion-direction-viii-meta-calculus-self-referential-layer::83-meta-π-evaluation::b1
-parent_heading: '⭐ 8\. Expansion Direction VIII: Meta-Calculus (Self-Referential Layer)'
 source: genesis-17\box_calculus.md
+lines: 2687-2690
+heading: 8.3. Meta-Π Evaluation
+parent_heading: '⭐ 8\. Expansion Direction VIII: Meta-Calculus (Self-Referential Layer)'
+block_type: paragraph
+excerpt: Π that evaluates meta-properties. ---
+concepts:
+- meta-properties
+- Π
+aliases:
+- Bk410te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

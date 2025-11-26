@@ -1,14 +1,32 @@
-block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- δ
-- μ
-- ν
-excerpt: '**Curvature:** Rδ:=δ2−2δ+1R\_\\delta := \\delta^2 \- 2\\delta \+ 1Rδ​:=δ2−2δ+1
-  **Energy:**'
-heading: '**VI. Ultra-Compact Version (For Diagrams)**'
 id: GEN1-464
-lines: 707-725
 location: genesis-1/the-foundation-layer::vi-ultra-compact-version-for-diagrams::b1
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 707-725
+heading: '**VI. Ultra-Compact Version (For Diagrams)**'
+block_type: paragraph
+excerpt: '**Curvature:** Rδ:=δ2−2δ+1R\_\\delta := \\delta^2 \- 2\\delta \+ 1Rδ​:=δ2−2δ+1
+  **Energy:**'
+concepts:
+- δ
+- Meta-Einstein
+- Projection
+- Curvature
+- ν
+- μ
+- Einstein Equation
+- δR
+aliases:
+- Bk973cd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.307692307692308
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

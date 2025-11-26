@@ -1,16 +1,35 @@
+id: GEN13-2559
+location: genesis-13/what-biology-is-in-meta-genesis::section-ii4-composite-operator-formalism::proposition-ii41-atp-synthesis-as-operator-composition::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1412-1424
+heading: '**Proposition II.4.1 (ATP Synthesis as Operator Composition).**'
+parent_heading: '**SECTION II.4 — Composite Operator Formalism**'
 block_type: paragraph
-concepts:
-- projection
-- Γ
-- Π
-- Φ
-- Ω
-- δ
 excerpt: 'The ATP object AAA satisfies: A=F(f)A \= \\mathcal{F}(f)A=F(f) for some
   f∈Γ(∂M)f \\in \\Gamma(\\partial M)f∈Γ(∂M), with:'
-heading: '**Proposition II.4.1 (ATP Synthesis as Operator Composition).**'
-id: GEN13-2559
-lines: 1412-1424
-location: genesis-13/what-biology-is-in-meta-genesis::section-ii4-composite-operator-formalism::proposition-ii41-atp-synthesis-as-operator-composition::b1
-parent_heading: '**SECTION II.4 — Composite Operator Formalism**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- ∈
+- Ω
+- Γ
+- ∂
+- Π-closure
+- Φ-modes
+- δ-flux
+- Π
+- δ
+- Φ
+- projection
+aliases:
+- Bk381ta
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.741935483870968
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

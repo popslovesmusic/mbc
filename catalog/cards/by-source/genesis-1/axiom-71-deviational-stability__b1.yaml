@@ -1,11 +1,27 @@
+id: GEN1-543
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::7-stability-and-consistency-conditions::axiom-71-deviational-stability::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 575-583
+heading: '**Axiom 7.1 — Deviational Stability.**'
+parent_heading: '**7\. Stability and Consistency Conditions**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'States evolve toward minimizing deviation norm: δ†δ→minimum.\\delta^\\dagger\\delta
   \\to \\text{minimum}.δ†δ→minimum. This defines equilibrium physics.'
-heading: '**Axiom 7.1 — Deviational Stability.**'
-id: GEN1-543
-lines: 575-583
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::7-stability-and-consistency-conditions::axiom-71-deviational-stability::b1
-parent_heading: '**7\. Stability and Consistency Conditions**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- →
+aliases:
+- Bk635se
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

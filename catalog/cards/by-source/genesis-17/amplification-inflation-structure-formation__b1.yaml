@@ -1,10 +1,23 @@
+id: GEN17-4718
+location: genesis-17/box-calculus::3-physics-level-interpretability::amplification-inflation-structure-formation::b1
+source: genesis-17\box_calculus.md
+lines: 8379-8393
+heading: Amplification → inflation, structure formation
+parent_heading: ⭐ 3\. Physics-Level Interpretability
 block_type: paragraph
-concepts: []
 excerpt: 'It’s not metaphor. It’s literally the structure physicists look for: One
   generator with eigenmodes → the universe emerges.'
-heading: Amplification → inflation, structure formation
-id: GEN17-4718
-lines: 8379-8393
-location: genesis-17/box-calculus::3-physics-level-interpretability::amplification-inflation-structure-formation::b1
-parent_heading: ⭐ 3\. Physics-Level Interpretability
-source: genesis-17\box_calculus.md
+concepts:
+- →
+aliases:
+- Bk513nm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 2.4390243902439024
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

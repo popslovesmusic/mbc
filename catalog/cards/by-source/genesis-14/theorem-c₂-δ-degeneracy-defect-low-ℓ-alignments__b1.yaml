@@ -1,13 +1,31 @@
+id: GEN14-2793
+location: genesis-14/inflation-structure-formation::3-low-ℓ-alignment-theorem-axis-of-evil::theorem-c₂-δ-degeneracy-defect-low-ℓ-alignments::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 2278-2294
+heading: '**Theorem C₂ (δ-Degeneracy Defect ⇒ Low-ℓ Alignments)**'
+parent_heading: '**3\. Low-ℓ Alignment Theorem (Axis of Evil)**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'If the δ-harmonic degeneracy class for n=1,2,3n=1,2,3n=1,2,3 contains asymmetry:
   hn,ℓ1,m1≠hn,ℓ2,m2h\_{n,\\ell\_1,m\_1} \\neq h\_{n,\\ell\_2,m\_2}hn,ℓ1​,m1​​=hn,ℓ2​,m2​​
   due to adjacency defects at Gen...'
-heading: '**Theorem C₂ (δ-Degeneracy Defect ⇒ Low-ℓ Alignments)**'
-id: GEN14-2793
-lines: 2278-2294
-location: genesis-14/inflation-structure-formation::3-low-ℓ-alignment-theorem-axis-of-evil::theorem-c₂-δ-degeneracy-defect-low-ℓ-alignments::b1
-parent_heading: '**3\. Low-ℓ Alignment Theorem (Axis of Evil)**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- large-scale
+- δ-harmonic
+- ≠
+- Π
+- δ
+aliases:
+- Bk705th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.042253521126761
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

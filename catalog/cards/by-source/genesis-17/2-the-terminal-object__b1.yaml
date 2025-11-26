@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- Box
-excerpt: 'We want a Box 1 1 such that:'
-heading: ⭐ 2\. The Terminal Object
 id: GEN17-4474
-lines: 5089-5095
 location: genesis-17/box-calculus::2-the-terminal-object::b1
 source: genesis-17\box_calculus.md
+lines: 5089-5095
+heading: ⭐ 2\. The Terminal Object
+block_type: paragraph
+excerpt: 'We want a Box 1 1 such that:'
+concepts:
+- Box
+- ∀
+aliases:
+- Bk574wb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

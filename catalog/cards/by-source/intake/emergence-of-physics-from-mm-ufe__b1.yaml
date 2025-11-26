@@ -1,10 +1,26 @@
+id: INTK-10435
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::emergence-of-physics-from-mm-ufe::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1464-1466
+heading: Emergence of Physics from MM-UFE
+parent_heading: Meta-Differential Equations (Meta-PDEs)
 block_type: paragraph
-concepts: []
 excerpt: 'The MM-UFE is designed such that standard physical theories emerge as specific
   limits or projections:'
-heading: Emergence of Physics from MM-UFE
-id: INTK-10435
-lines: 1464-1466
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::emergence-of-physics-from-mm-ufe::b1
-parent_heading: Meta-Differential Equations (Meta-PDEs)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- MM-UFE
+aliases:
+- Bk591tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,26 @@
-block_type: table
-concepts:
-- Meta-Time
-- Physical Time
-- δ
-excerpt: '---'
-heading: '**8\. Meta-Time vs Physical Time: Summary Table**'
 id: GEN8-8788
-lines: 278-290
 location: genesis-8/meta-time-geometry-and-temporal-projection::8-meta-time-vs-physical-time-summary-table::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 278-290
+heading: '**8\. Meta-Time vs Physical Time: Summary Table**'
+block_type: table
+excerpt: '---'
+concepts:
+- Meta-Time
+- Τ
+- →
+- cone-structured
+- δ
+- Physical Time
+aliases:
+- Bk321pm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

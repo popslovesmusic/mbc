@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Λ
-- Φ
-- δ
-excerpt: 'Entropy is not statistical; it is **modal counting**. S(t)=log⁡dim⁡Φ(t).S(t)
-  \= \\log \\dim Φ(t).S(t)=logdimΦ(t). Equivalently, via the δ-spectrum:'
-heading: '**3\. Entropy: Modal Multiplicity of δ**'
 id: GEN10-931
-lines: 2986-2996
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-entropy-modal-multiplicity-of-δ::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2986-2996
+heading: '**3\. Entropy: Modal Multiplicity of δ**'
+block_type: paragraph
+excerpt: 'Entropy is not statistical; it is **modal counting**. S(t)=log⁡dim⁡Φ(t).S(t)
+  \= \\log \\dim Φ(t).S(t)=logdimΦ(t). Equivalently, via the δ-spectrum:'
+concepts:
+- δ
+- Φ
+- Λ
+- δ-spectrum
+- δ-Dirac
+- modal counting
+- δN
+aliases:
+- Bk188en
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.864406779661017
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

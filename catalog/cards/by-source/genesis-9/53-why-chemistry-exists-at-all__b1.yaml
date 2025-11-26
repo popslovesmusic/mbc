@@ -1,12 +1,30 @@
+id: GEN9-9171
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-from-π-orbitals-to-atoms::53-why-chemistry-exists-at-all::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2214-2222
+heading: '**5.3 Why Chemistry Exists At All**'
+parent_heading: '**5\. From Π-Orbitals to Atoms**'
 block_type: paragraph
+excerpt: Because Φ produces geometry and Π stabilizes it under δ-curvature.
 concepts:
+- δ-harmonic equilibrium seeking stable shapes
+- δ
+- δ-curvature
+- δ-harmonic
 - Π
 - Φ
-- δ
-excerpt: Because Φ produces geometry and Π stabilizes it under δ-curvature.
-heading: '**5.3 Why Chemistry Exists At All**'
-id: GEN9-9171
-lines: 2214-2222
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-from-π-orbitals-to-atoms::53-why-chemistry-exists-at-all::b1
-parent_heading: '**5\. From Π-Orbitals to Atoms**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+aliases:
+- Bk255bp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

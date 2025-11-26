@@ -1,12 +1,33 @@
+id: INTK-9949
+location: intake/meta-genesis-mathematical-papers::4-algebraic-structure::42-δ-module-structure::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 90-100
+heading: '**4.2 δ-Module Structure**'
+parent_heading: '**4\. Algebraic Structure**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Hδ\\mathcal{H}\_\\deltaHδ​ is closed under δ: δ(Hδ)⊆Hδ.\\delta(\\mathcal{H}\_\\delta)
   \\subseteq \\mathcal{H}\_\\delta.δ(Hδ​)⊆Hδ​. Proof:'
-heading: '**4.2 δ-Module Structure**'
-id: INTK-9949
-lines: 90-100
-location: intake/meta-genesis-mathematical-papers::4-algebraic-structure::42-δ-module-structure::b1
-parent_heading: '**4\. Algebraic Structure**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- δ
+- ∑
+- Ψ
+- Proof
+- δn
+- ∈
+- left module
+aliases:
+- Bk477mc
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: true
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

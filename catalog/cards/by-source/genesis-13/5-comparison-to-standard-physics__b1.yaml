@@ -1,14 +1,29 @@
-block_type: table
-concepts:
-- Flat Rotation Curves
-- Λ
-- Π
-- Φ
-- δ
-excerpt: IGSOA does not need a halo or a modified “force law.” The rotation curve
-  follows naturally from the curvature decomposition. ---
-heading: '**5\. Comparison to Standard Physics**'
 id: GEN13-2280
-lines: 262-273
 location: genesis-13/the-weight-of-light::5-comparison-to-standard-physics::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 262-273
+heading: '**5\. Comparison to Standard Physics**'
+block_type: table
+excerpt: IGSOA does not need a halo or a modified “force law.” The rotation curve
+  follows naturally from the curvature decomposition. ---
+concepts:
+- IGSOA
+- →
+- Π
+- δ
+- Φ
+- δ-curvature
+- Λ
+- Flat Rotation Curves
+aliases:
+- Bk771fr
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.3265306122449
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

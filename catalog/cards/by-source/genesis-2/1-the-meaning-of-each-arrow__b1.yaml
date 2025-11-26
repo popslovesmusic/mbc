@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Below is the formal meaning of the arrows in the topos diagram. ---
-heading: '**1\. The Meaning of Each Arrow**'
 id: GEN2-6520
-lines: 646-650
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-meaning-of-each-arrow::b1
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 646-650
+heading: '**1\. The Meaning of Each Arrow**'
+block_type: paragraph
+excerpt: Below is the formal meaning of the arrows in the topos diagram. ---
+aliases:
+- Bk506bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

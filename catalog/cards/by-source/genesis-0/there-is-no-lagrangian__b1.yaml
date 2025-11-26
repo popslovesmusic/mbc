@@ -1,10 +1,25 @@
+id: GEN0-272
+location: genesis-0/why-the-first-action-is-necessary::3-stillness-cannot-minimize-anything::there-is-no-lagrangian::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 227-242
+heading: '**There is no Lagrangian**'
+parent_heading: '**3\. Stillness Cannot Minimize Anything**'
 block_type: paragraph
+excerpt: 'A Lagrangian evaluates dynamical behavior. But Ψ₀ has: * no behavior'
 concepts:
 - Ψ
-excerpt: 'A Lagrangian evaluates dynamical behavior. But Ψ₀ has: * no behavior'
-heading: '**There is no Lagrangian**'
-id: GEN0-272
-lines: 227-242
-location: genesis-0/why-the-first-action-is-necessary::3-stillness-cannot-minimize-anything::there-is-no-lagrangian::b1
-parent_heading: '**3\. Stillness Cannot Minimize Anything**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+- Ψ₀
+aliases:
+- Bk057le
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0606060606060606
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

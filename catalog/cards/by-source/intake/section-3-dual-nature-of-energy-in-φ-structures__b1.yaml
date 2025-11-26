@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: bb2ccb10-d7ef-4f3d-9c39-380580b…
-heading: '**📄 Section 3 — Dual Nature of Energy in Φ-Structures**'
 id: INTK-9604
-lines: 165-167
 location: intake/abstract-editorial-review::section-3-dual-nature-of-energy-in-φ-structures::b1
 source: intake\ABSTRACT__Editorial_Review.md
+lines: 165-167
+heading: '**📄 Section 3 — Dual Nature of Energy in Φ-Structures**'
+block_type: paragraph
+excerpt: bb2ccb10-d7ef-4f3d-9c39-380580b…
+concepts:
+- bb2ccb10-d7ef
+aliases:
+- Bk0422b
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

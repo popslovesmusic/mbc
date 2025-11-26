@@ -1,11 +1,26 @@
+id: GEN17-4782
+location: genesis-17/box-calculus::axiom-6-projection-emergence-two-shadows::b1
+source: genesis-17\box_calculus.md
+lines: 9348-9374
+heading: 🔷 AXIOM 6 – Projection Emergence (Two Shadows)
 block_type: paragraph
+excerpt: 'The two apparent “modes” are curvature-limits of 𝓕: 1. Low curvature (IGS):
+  EIGS(Σ)=Fδ→0(Σ)'
 concepts:
 - Σ
 - δ
-excerpt: 'The two apparent “modes” are curvature-limits of 𝓕: 1. Low curvature (IGS):
-  EIGS(Σ)=Fδ→0(Σ)'
-heading: 🔷 AXIOM 6 – Projection Emergence (Two Shadows)
-id: GEN17-4782
-lines: 9348-9374
-location: genesis-17/box-calculus::axiom-6-projection-emergence-two-shadows::b1
-source: genesis-17\box_calculus.md
+- →
+- curvature-limits
+- ∞
+aliases:
+- Bk748tt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

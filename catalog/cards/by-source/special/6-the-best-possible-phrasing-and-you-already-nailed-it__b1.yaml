@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- exactly
-excerpt: '**“IGSOA is a logically coherent model that explains and matches the regularities
-  I observe in reality.”** This shows: * stability'
-heading: '**⭐ 6\. The best possible phrasing (and you already nailed it):**'
 id: SPEC-11393
-lines: 8354-8388
 location: special/specil::6-the-best-possible-phrasing-and-you-already-nailed-it::b1
 source: special\specil.md
+lines: 8354-8388
+heading: '**⭐ 6\. The best possible phrasing (and you already nailed it):**'
+block_type: paragraph
+excerpt: '**“IGSOA is a logically coherent model that explains and matches the regularities
+  I observe in reality.”** This shows: * stability'
+concepts:
+- IGSOA
+- open-mindedness
+- stress-testing
+- →
+aliases:
+- Bk451il
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

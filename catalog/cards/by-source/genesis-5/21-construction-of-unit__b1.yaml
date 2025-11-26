@@ -1,11 +1,27 @@
+id: GEN5-7941
+location: genesis-5/formal-proof-of-the-adjoint-triple::2-proof-that-lul-dashv-ulu::21-construction-of-unit::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 93-103
+heading: '**2.1 Construction of unit**'
+parent_heading: '**2\. Proof that L⊣UL \\dashv UL⊣U**'
 block_type: paragraph
-concepts:
-- η
 excerpt: 'Define: ηX:X→U(LX)\\eta\_X : X \\to U(LX)ηX​:X→U(LX) by the canonical embedding
   of pure potential XXX into its freely generated structural sheaf.'
-heading: '**2.1 Construction of unit**'
-id: GEN5-7941
-lines: 93-103
-location: genesis-5/formal-proof-of-the-adjoint-triple::2-proof-that-lul-dashv-ulu::21-construction-of-unit::b1
-parent_heading: '**2\. Proof that L⊣UL \\dashv UL⊣U**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- η
+- →
+aliases:
+- Bk779de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.405405405405405
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

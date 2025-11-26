@@ -1,16 +1,40 @@
+id: GEN8-8784
+location: genesis-8/meta-time-geometry-and-temporal-projection::5-meta-time-curvature-no-metric-but-has-curvature::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 189-219
+heading: '**5\. Meta-Time Curvature (No metric, but has curvature??)**'
 block_type: paragraph
-concepts:
-- But Meta
-- Meta-Temporal
-- Meta-Time
-- δ
-- μ
-- ν
 excerpt: 'Curvature appears *after projection*, not inside Meta-Time. But Meta-Time
   induces **pre-geometric curvature**: * A deviation “bend” in Meta-Time corresponds
   to non-uniform adjacency shift'
-heading: '**5\. Meta-Time Curvature (No metric, but has curvature??)**'
-id: GEN8-8784
-lines: 189-219
-location: genesis-8/meta-time-geometry-and-temporal-projection::5-meta-time-curvature-no-metric-but-has-curvature::b1
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- Meta-Time
+- Curvature
+- Deviation
+- δ
+- μ
+- ν
+- ∂
+- pre-geometric curvature
+- metric-projection
+- Meta-Temporal
+- pre-geometric
+- non-uniform
+- Τ
+- →
+- But Meta
+aliases:
+- Bk166ca
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

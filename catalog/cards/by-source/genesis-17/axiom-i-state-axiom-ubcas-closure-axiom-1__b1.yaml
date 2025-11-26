@@ -1,14 +1,32 @@
+id: GEN17-4284
+location: genesis-17/box-calculus::2-axiom-set-structure::axiom-i-state-axiom-ubcas-closure-axiom-1::b1
+source: genesis-17\box_calculus.md
+lines: 2082-2096
+heading: Axiom I (State Axiom) — UBCAS ↔ Closure Axiom 1
+parent_heading: 2\. Axiom Set Structure
 block_type: table
+excerpt: You emphasize uniqueness (“∃\! Σ”). I emphasize typing (“Σ ∈ Vτ
 concepts:
 - Axiom
-- Box
-- Closure Axiom Box
 - Σ
+- Box
 - τ
-excerpt: You emphasize uniqueness (“∃\! Σ”). I emphasize typing (“Σ ∈ Vτ
-heading: Axiom I (State Axiom) — UBCAS ↔ Closure Axiom 1
-id: GEN17-4284
-lines: 2082-2096
-location: genesis-17/box-calculus::2-axiom-set-structure::axiom-i-state-axiom-ubcas-closure-axiom-1::b1
-parent_heading: 2\. Axiom Set Structure
-source: genesis-17\box_calculus.md
+- non-zero
+- ∃
+- ∈
+- Closure Axiom Box
+aliases:
+- Bk400uc
+tags:
+- axiom-box
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.51282051282051
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

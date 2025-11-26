@@ -1,11 +1,28 @@
+id: GEN20-6995
+location: genesis-20/mbc-40-documentaitio-1::why-each-topic-deserves-full-expansion-in-a-later-booklet::a5-tensor-semantic-field-interpretation::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4230-4243
+heading: A5 — Tensor & Semantic Field Interpretation
+parent_heading: ⭐ Why Each Topic Deserves Full Expansion in a Later Booklet
 block_type: paragraph
-concepts:
-- Though Chapter
 excerpt: 'Warrant own chapter? → Yes. Though Chapter 10 served as a preview, the full
   treatment includes:'
-heading: A5 — Tensor & Semantic Field Interpretation
-id: GEN20-6995
-lines: 4230-4243
-location: genesis-20/mbc-40-documentaitio-1::why-each-topic-deserves-full-expansion-in-a-later-booklet::a5-tensor-semantic-field-interpretation::b1
-parent_heading: ⭐ Why Each Topic Deserves Full Expansion in a Later Booklet
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- multi-dimensional
+- →
+- Though Chapter
+aliases:
+- Bk646wo
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

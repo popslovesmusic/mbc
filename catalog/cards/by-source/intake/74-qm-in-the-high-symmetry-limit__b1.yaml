@@ -1,13 +1,28 @@
+id: INTK-10798
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-math-interpretation-of-quantum-gravity::7-how-this-reproduces-standard-quantum-gravity-predictions::74-qm-in-the-high-symmetry-limit::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2374-2380
+heading: '**7.4 QM in the High-Symmetry Limit**'
+parent_heading: '**7\. How This Reproduces Standard Quantum Gravity Predictions**'
 block_type: paragraph
-concepts:
-- Linear Schro
-- Ω
 excerpt: Ω→0⇒Linear Schro¨dinger or Dirac equation.\\Omega \\to 0 \\quad\\Rightarrow\\quad
   \\text{Linear Schrödinger or Dirac equation.}Ω→0⇒Linear Schro¨dinger or Dirac equation.
   Thus the framework naturally i...
-heading: '**7.4 QM in the High-Symmetry Limit**'
-id: INTK-10798
-lines: 2374-2380
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-math-interpretation-of-quantum-gravity::7-how-this-reproduces-standard-quantum-gravity-predictions::74-qm-in-the-high-symmetry-limit::b1
-parent_heading: '**7\. How This Reproduces Standard Quantum Gravity Predictions**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Ω
+- →
+- Linear Schro
+aliases:
+- Bk154ls
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

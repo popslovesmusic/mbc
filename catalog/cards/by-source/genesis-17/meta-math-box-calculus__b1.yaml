@@ -1,13 +1,26 @@
+id: GEN17-4354
+location: genesis-17/box-calculus::meta-math-box-calculus::b1
+source: genesis-17\box_calculus.md
+lines: 2747-2752
+heading: ⭐ META-MATH → BOX CALCULUS
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Meta-Math
 excerpt: A precise, dual-column translation of the Meta-Math ontology into the Box
   Calculus operator algebra. This gives you the formal mapping, the semantic equivalences,
   and the operator correspondences. Thi...
-heading: ⭐ META-MATH → BOX CALCULUS
-id: GEN17-4354
-lines: 2747-2752
-location: genesis-17/box-calculus::meta-math-box-calculus::b1
-source: genesis-17\box_calculus.md
+concepts:
+- Meta-Math
+- Box Calculus
+- Box
+- dual-column
+aliases:
+- Bk914pd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 8.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

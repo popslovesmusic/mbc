@@ -1,23 +1,38 @@
+id: GEN16-3705
+location: genesis-16/quantum-measurement-in-igsoa-vs::the-δ-qcd-curvature-theorem::theorem-statement::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 386-416
+heading: '**Theorem Statement**'
+parent_heading: '**The δ-QCD Curvature Theorem**'
 block_type: table
-concepts:
-- Geometry Formulation
-- The Standard Model
-- The Yang
-- Theorem
-- Yang-Mills
-- Π
-- Φ
-- δ
-- μ
-- ν
-- ρ
-- σ
 excerpt: Bδ(3)→  δ  F(3)→  Π  O.\\mathcal{B}\_\\delta^{(3)} \\xrightarrow{\\;\\delta\\;}
   \\mathcal{F}^{(3)} \\xrightarrow{\\;\\Pi\\;} \\mathcal{O}.Bδ(3)​δ​F(3)Π​O. Then
   **the CP-odd topological invariant** GG\...
-heading: '**Theorem Statement**'
-id: GEN16-3705
-lines: 386-416
-location: genesis-16/quantum-measurement-in-igsoa-vs::the-δ-qcd-curvature-theorem::theorem-statement::b1
-parent_heading: '**The δ-QCD Curvature Theorem**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- θ
+- δ
+- δ-geometry
+- has no representation inside the δ-curvature algebra
+- IGSOA
+- Theorem
+- σ
+- π
+- μ
+- ν
+- ρ
+- the CP-odd topological invariant
+- Π
+- CP-odd
+- →
+aliases:
+- Bk978ig
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.574585635359114
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,33 @@
+id: GEN9-9486
+location: genesis-9/strong-force::7-summary-the-weak-force-from-δ-torsion::δ-torsion-θ-phase-su2-weak-force::b1
+source: genesis-9\strong-force.md
+lines: 752-766
+heading: '**δ-torsion → θ-phase → SU(2) → weak force**'
+parent_heading: '**7\. Summary: The Weak Force from δ-Torsion**'
 block_type: paragraph
-concepts:
-- Electromagnetism
-- Gravity
-- Meta-Einstein
-- δ
 excerpt: 'Thus we obtain the unified logic: * **Strong force** \= curvature-driven
   degeneracy triplet * **Weak force** \= torsion-driven degeneracy doublet'
-heading: '**δ-torsion → θ-phase → SU(2) → weak force**'
-id: GEN9-9486
-lines: 752-766
-location: genesis-9/strong-force::7-summary-the-weak-force-from-δ-torsion::δ-torsion-θ-phase-su2-weak-force::b1
-parent_heading: '**7\. Summary: The Weak Force from δ-Torsion**'
-source: genesis-9\strong-force.md
+concepts:
+- Meta-Einstein
+- δ-geometry
+- torsion-preserving
+- δ
+- curvature-driven
+- torsion-driven
+- δ-curvature
+- Electromagnetism
+- Strong force
+- Weak force
+- Gravity
+aliases:
+- Bk340to
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.72972972972973
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

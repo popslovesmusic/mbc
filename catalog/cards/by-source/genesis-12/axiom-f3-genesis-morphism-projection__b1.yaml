@@ -1,13 +1,33 @@
+id: GEN12-1665
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-functoriality::axiom-f3-genesis-morphism-projection::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2120-2130
+heading: '**Axiom F3 (Genesis Morphism Projection).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Functoriality ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Ψ
 excerpt: 'Any morphism f:Ψi→Ψjf : \\Psi\_i \\rightarrow \\Psi\_jf:Ψi​→Ψj​ in the Genesis
   category projects to a corresponding morphism of observables: Obs(f)=(LC∘Π∘H∘Δ)(f).\\mathsf{Obs}(f)
   \= (\\mathsf{LC}\\cir...'
-heading: '**Axiom F3 (Genesis Morphism Projection).**'
-id: GEN12-1665
-lines: 2120-2130
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-functoriality::axiom-f3-genesis-morphism-projection::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Functoriality ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Ψ
+- Δ
+- →
+- Π
+- Ψi
+- Ψj
+- Ψjf
+aliases:
+- Bk296am
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.864406779661017
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

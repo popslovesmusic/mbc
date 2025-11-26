@@ -1,12 +1,28 @@
+id: INTK-9856
+location: intake/meta-genesis-core-papers-foundations::4-what-emerges-and-why::45-proto-metric-space::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1316-1324
+heading: '**4.5 Proto-Metric Space**'
+parent_heading: '**4\. What Emerges and Why**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'With adjacency \+ directionality: d(Ψ1,Ψ1+Δ)=∥δ(Δ)∥d(\\Psi\_1, \\Psi\_1+\\Delta)=\\|\\delta(\\Delta)\\|d(Ψ1​,Ψ1​+Δ)=∥δ(Δ)∥
   Distance emerges from deviation.'
-heading: '**4.5 Proto-Metric Space**'
-id: INTK-9856
-lines: 1316-1324
-location: intake/meta-genesis-core-papers-foundations::4-what-emerges-and-why::45-proto-metric-space::b1
-parent_heading: '**4\. What Emerges and Why**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- Δ
+- δ
+aliases:
+- Bk804wa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

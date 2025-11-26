@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: We prove a natural bijection of Hom-sets. ---
-heading: '**Proof.**'
 id: GEN1-649
-lines: 1746-1750
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-31-meta-genesis-and-meta-math-form-an-adjoint-pair::proof::b1
-parent_heading: '**Theorem 3.1 — Meta-Genesis and Meta-Math Form an Adjoint Pair**'
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1746-1750
+heading: '**Proof.**'
+parent_heading: '**Theorem 3.1 — Meta-Genesis and Meta-Math Form an Adjoint Pair**'
+block_type: paragraph
+excerpt: We prove a natural bijection of Hom-sets. ---
+concepts:
+- Hom-sets
+aliases:
+- Bk037pn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

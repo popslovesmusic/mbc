@@ -1,13 +1,39 @@
-block_type: paragraph
-concepts:
-- Field
-- Field Equation
-- Ψ
-- δ
-excerpt: '`┌────────────────────────────────────────────────────────────┐` `│                   δ-GEOMETRY
-  OPERATOR BOX                   │` `│                                                            │`'
-heading: '**X. Diagram: δ-Geometry Operator Box**'
 id: GEN1-454
-lines: 531-548
 location: genesis-1/the-foundation-layer::x-diagram-δ-geometry-operator-box::b1
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 531-548
+heading: '**X. Diagram: δ-Geometry Operator Box**'
+block_type: paragraph
+excerpt: '`┌────────────────────────────────────────────────────────────┐` `│                   δ-GEOMETRY
+  OPERATOR BOX                   │` `│                                                            │`'
+concepts:
+- δ
+- Ψ
+- Ψn
+- Field
+- ∇
+- second-order
+- δ-connection
+- δ-curvature
+- δ-GEOMETRY
+- δ-ordering
+- δ-Laplace
+- δ-energy
+- δ-metric
+- δ-chains
+- Δ
+aliases:
+- Bk687go
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.48148148148148
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

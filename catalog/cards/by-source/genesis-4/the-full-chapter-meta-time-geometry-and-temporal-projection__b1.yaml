@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Tell me which you want next and I’ll produce it.
-heading: '**✔ The full chapter: *Meta-Time Geometry and Temporal Projection***'
 id: GEN4-7744
-lines: 512-514
 location: genesis-4/the-adjoint-triple::part-5-if-you-want-next-i-can-generate::the-full-chapter-meta-time-geometry-and-temporal-projection::b1
-parent_heading: '**✦ Part 5 — If you want, next I can generate:**'
 source: genesis-4\The_Adjoint_Triple.md
+lines: 512-514
+heading: '**✔ The full chapter: *Meta-Time Geometry and Temporal Projection***'
+parent_heading: '**✦ Part 5 — If you want, next I can generate:**'
+block_type: paragraph
+excerpt: Tell me which you want next and I’ll produce it.
+aliases:
+- Bk905tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

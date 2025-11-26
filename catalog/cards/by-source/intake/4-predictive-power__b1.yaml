@@ -1,13 +1,35 @@
+id: INTK-9940
+location: intake/meta-genesis-diagrammatic-papers::5-what-deviational-geometry-accomplishes::4-predictive-power::b1
+source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 712-724
+heading: '**(4) Predictive power**'
+parent_heading: '**5\. What Deviational Geometry Accomplishes**'
 block_type: list
+excerpt: '* δ-curvature → gravitational waves * δ-spectrum → particle masses * δ-stress
+  → energy conditions'
 concepts:
 - Meta-Genesis
 - Meta-Math
+- IGSOA
 - δ
-excerpt: '* δ-curvature → gravitational waves * δ-spectrum → particle masses * δ-stress
-  → energy conditions'
-heading: '**(4) Predictive power**'
-id: INTK-9940
-lines: 712-724
-location: intake/meta-genesis-diagrammatic-papers::5-what-deviational-geometry-accomplishes::4-predictive-power::b1
-parent_heading: '**5\. What Deviational Geometry Accomplishes**'
-source: intake\Meta-Genesis_Diagrammatic_Papers.md
+- →
+- δ-adjacency
+- δ-curvature
+- δ-spectrum
+- single geometric language
+- δ-stress
+aliases:
+- Bk143cg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

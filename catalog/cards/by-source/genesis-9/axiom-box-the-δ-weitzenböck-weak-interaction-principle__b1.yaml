@@ -1,15 +1,36 @@
+id: GEN9-9487
+location: genesis-9/strong-force::8-formal-axiom-box-δ-weitzenböck-weak-sector::axiom-box-the-δ-weitzenböck-weak-interaction-principle::b1
+source: genesis-9\strong-force.md
+lines: 770-791
+heading: '**Axiom Box: The δ-Weitzenböck Weak Interaction Principle**'
+parent_heading: '**8\. Formal Axiom Box (δ-Weitzenböck Weak Sector)**'
 block_type: list
-concepts:
-- Γ
-- δ
-- λ
-- μ
-- ν
 excerpt: '1. The δ-connection decomposes as: ∇(δ)=Γ(δ)+K(δ).\\nabla^{(\\delta)} \=
   \\Gamma^{(\\delta)} \+ K^{(\\delta)}.∇(δ)=Γ(δ)+K(δ). 2. The Weitzenböck condition'
-heading: '**Axiom Box: The δ-Weitzenböck Weak Interaction Principle**'
-id: GEN9-9487
-lines: 770-791
-location: genesis-9/strong-force::8-formal-axiom-box-δ-weitzenböck-weak-sector::axiom-box-the-δ-weitzenböck-weak-interaction-principle::b1
-parent_heading: '**8\. Formal Axiom Box (δ-Weitzenböck Weak Sector)**'
-source: genesis-9\strong-force.md
+concepts:
+- δ
+- μ
+- ν
+- λ
+- ∂
+- θ
+- ∇
+- Γ
+- pure-torsion
+- δ-connection
+- δ-torsion
+aliases:
+- Bk719tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

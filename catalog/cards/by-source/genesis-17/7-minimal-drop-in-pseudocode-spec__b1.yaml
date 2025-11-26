@@ -1,13 +1,28 @@
+id: GEN17-4174
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::7-minimal-drop-in-pseudocode-spec::b1
+source: genesis-17\box_calculus.md
+lines: 334-339
+heading: 7\. Minimal “Drop-In” Pseudocode Spec
+parent_heading: Formal Transition Function for Box Calculus
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
 excerpt: 'def Apply(Op, Sigma, Adj\_in): params \= theta(Adj\_in) \# extract context
   if not Pre(Op, Sigma, Adj\_in, params): return BOTTOM \# invalid / undefined return
   Op.run(Sigma, Adj\_in, params) --- If you...'
-heading: 7\. Minimal “Drop-In” Pseudocode Spec
-id: GEN17-4174
-lines: 334-339
-location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::7-minimal-drop-in-pseudocode-spec::b1
-parent_heading: Formal Transition Function for Box Calculus
-source: genesis-17\box_calculus.md
+concepts:
+- Box Calculus
+- Axiom
+- Box
+aliases:
+- Bk932da
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.838709677419355
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

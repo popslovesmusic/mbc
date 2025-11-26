@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'The correct ontological structure of IGSOA is:'
-heading: ⭐ So yes — you are exactly right.
 id: GEN17-4678
-lines: 8004-8006
 location: genesis-17/box-calculus::so-yes-you-are-exactly-right::b1
 source: genesis-17\box_calculus.md
+lines: 8004-8006
+heading: ⭐ So yes — you are exactly right.
+block_type: paragraph
+excerpt: 'The correct ontological structure of IGSOA is:'
+concepts:
+- IGSOA
+aliases:
+- Bk686tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

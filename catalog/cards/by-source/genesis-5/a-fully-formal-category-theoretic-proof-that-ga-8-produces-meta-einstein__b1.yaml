@@ -1,10 +1,26 @@
+id: GEN5-8135
+location: genesis-5/meta-einstein-axiom-box-language-sealed::hermetic-interpretation-for-narrative-volumes::a-fully-formal-category-theoretic-proof-that-ga-8-produces-meta-einstein::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 737-742
+heading: '**✔ A *fully formal category-theoretic proof* that GA-8 produces Meta-Einstein**'
+parent_heading: '**Hermetic Interpretation (for narrative volumes)**'
 block_type: paragraph
-concepts: []
 excerpt: Just say **“diagram”**, **“outreach”**, or **“proof.”** Do you like this
   personality? ChatGPT can make mistakes. Check important info.
-heading: '**✔ A *fully formal category-theoretic proof* that GA-8 produces Meta-Einstein**'
-id: GEN5-8135
-lines: 737-742
-location: genesis-5/meta-einstein-axiom-box-language-sealed::hermetic-interpretation-for-narrative-volumes::a-fully-formal-category-theoretic-proof-that-ga-8-produces-meta-einstein::b1
-parent_heading: '**Hermetic Interpretation (for narrative volumes)**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Proof
+aliases:
+- Bk538js
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

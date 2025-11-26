@@ -1,16 +1,33 @@
+id: GEN13-2159
+location: genesis-13/meta-math-nuclear-physics::5-π-layer-iii-nuclear-physics-stabilization::53-reactions-as-πφ-transitions::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1933-1945
+heading: '**5.3 Reactions as Π(Φ-transitions)**'
+parent_heading: '**5\. Π-Layer III: Nuclear Physics Stabilization**'
 block_type: list
-concepts:
-- Π
-- Φ
-- α
-- β
-- γ
-- τ
 excerpt: '* β-decay: Π(τiso)\\Pi(\\tau\_{iso})Π(τiso​) * γ-decay: Π(τspin)\\Pi(\\tau\_{spin})Π(τspin​)
   * α-decay: Π(τcluster)\\Pi(\\tau\_{cluster})Π(τcluster​)'
-heading: '**5.3 Reactions as Π(Φ-transitions)**'
-id: GEN13-2159
-lines: 1933-1945
-location: genesis-13/meta-math-nuclear-physics::5-π-layer-iii-nuclear-physics-stabilization::53-reactions-as-πφ-transitions::b1
-parent_heading: '**5\. Π-Layer III: Nuclear Physics Stabilization**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Π
+- τ
+- Π-projections
+- Φ-transition
+- γ
+- β
+- Φ
+- α
+aliases:
+- Bk931dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,29 @@
+id: GEN12-1569
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-genesis-deviation-δ::axiom-g6-precedence-of-difference::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 603-611
+heading: '**Axiom G6 (Precedence of Difference).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Genesis → Deviation (δ) ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Difference exists before space: δ⇒adjacency⇒topology⇒geometry\\delta \\Rightarrow
   \\text{adjacency} \\Rightarrow \\text{topology} \\Rightarrow \\text{geometry}δ⇒adjacency⇒topology⇒geometry
   Space is a ...'
-heading: '**Axiom G6 (Precedence of Difference).**'
-id: GEN12-1569
-lines: 603-611
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-genesis-deviation-δ::axiom-g6-precedence-of-difference::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Genesis → Deviation (δ) ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- δ
+- Π-projective
+- Π
+aliases:
+- Bk378de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

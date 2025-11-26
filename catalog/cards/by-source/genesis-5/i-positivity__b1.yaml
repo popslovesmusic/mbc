@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: d(x,y)≥0,d(x,y) \\ge 0,d(x,y)≥0, obvious since lengths are natural numbers.
-heading: '**(i) Positivity**'
 id: GEN5-8171
-lines: 555-559
 location: genesis-5/the-ga-8-meta-einstein-theorem::5-verification-of-metric-axioms::i-positivity::b1
-parent_heading: '**5\. Verification of Metric Axioms**'
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 555-559
+heading: '**(i) Positivity**'
+parent_heading: '**5\. Verification of Metric Axioms**'
+block_type: paragraph
+excerpt: d(x,y)≥0,d(x,y) \\ge 0,d(x,y)≥0, obvious since lengths are natural numbers.
+concepts:
+- ≥
+aliases:
+- Bk480os
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

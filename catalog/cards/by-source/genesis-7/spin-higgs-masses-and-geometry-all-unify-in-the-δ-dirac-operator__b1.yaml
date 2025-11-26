@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**spin, Higgs, masses, and geometry all unify in the δ-Dirac operator.**'
 id: GEN7-8603
-lines: 813-815
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::8-final-δ-dirac-equation-boxed::spin-higgs-masses-and-geometry-all-unify-in-the-δ-dirac-operator::b1
-parent_heading: '**8\. Final δ-Dirac Equation (boxed)**'
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 813-815
+heading: '**spin, Higgs, masses, and geometry all unify in the δ-Dirac operator.**'
+parent_heading: '**8\. Final δ-Dirac Equation (boxed)**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

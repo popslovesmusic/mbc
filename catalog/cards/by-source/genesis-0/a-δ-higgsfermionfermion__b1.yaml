@@ -1,11 +1,26 @@
+id: GEN0-031
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::7-δ-higgs-flavor-vertices-feynman-rules::a-δ-higgsfermionfermion::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 389-391
+heading: '**(A) δ-Higgs–fermion–fermion**'
+parent_heading: '**7\. δ-Higgs / flavor vertices (Feynman rules)**'
 block_type: paragraph
+excerpt: VδΨˉΨ(m)=−i yij(m)V\_{\\delta\\bar\\Psi\\Psi}^{(m)} \= \-i\\,y^{(m)}\_{ij}VδΨˉΨ(m)​=−iyij(m)​
 concepts:
 - Ψ
 - δ
-excerpt: VδΨˉΨ(m)=−i yij(m)V\_{\\delta\\bar\\Psi\\Psi}^{(m)} \= \-i\\,y^{(m)}\_{ij}VδΨˉΨ(m)​=−iyij(m)​
-heading: '**(A) δ-Higgs–fermion–fermion**'
-id: GEN0-031
-lines: 389-391
-location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::7-δ-higgs-flavor-vertices-feynman-rules::a-δ-higgsfermionfermion::b1
-parent_heading: '**7\. δ-Higgs / flavor vertices (Feynman rules)**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+aliases:
+- Bk219yd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: For each MG claim, ensure an MM counterpart exists.
-heading: '**Rule 3 — Require Correspondence**'
 id: INTK-9694
-lines: 672-674
 location: intake/axioms-geometry::section-8-integration-rules-for-your-writing-agents::rule-3-require-correspondence::b1
-parent_heading: '**Section 8 — Integration Rules for Your Writing Agents**'
 source: intake\Axioms-geometry.md
+lines: 672-674
+heading: '**Rule 3 — Require Correspondence**'
+parent_heading: '**Section 8 — Integration Rules for Your Writing Agents**'
+block_type: paragraph
+excerpt: For each MG claim, ensure an MM counterpart exists.
+aliases:
+- Bk474fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

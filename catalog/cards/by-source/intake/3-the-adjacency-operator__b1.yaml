@@ -1,13 +1,32 @@
+id: INTK-9870
+location: intake/meta-genesis-core-papers-foundations::3-the-adjacency-operator::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1477-1493
+heading: '**3\. The Adjacency Operator**'
 block_type: paragraph
-concepts:
-- Θ
-- Ψ
-- δ
 excerpt: 'Once Ψ₁ exists and δ becomes a proper operator, adjacency is induced by
   δ via: A=Θ(δ)\\mathcal{A} \= \\Theta(\\delta)A=Θ(δ) where Θ maps “amount of deviation”
   to “structural proximity.”'
-heading: '**3\. The Adjacency Operator**'
-id: INTK-9870
-lines: 1477-1493
-location: intake/meta-genesis-core-papers-foundations::3-the-adjacency-operator::b1
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- δ
+- Θ
+- ≤
+- first combinatorial structure
+- ε
+- Ψ
+- Ψ₁
+aliases:
+- Bk305oe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.608695652173914
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

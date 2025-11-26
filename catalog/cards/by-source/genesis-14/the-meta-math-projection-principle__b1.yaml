@@ -1,15 +1,33 @@
+id: GEN14-2834
+location: genesis-14/meta-math-and-cryptography::6-cryptographic-hardness-meta-math-irreversibility::the-meta-math-projection-principle::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 663-672
+heading: '**The Meta-Math Projection Principle:**'
+parent_heading: '**6\. Cryptographic Hardness \= Meta-Math Irreversibility**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Π
-- Φ
-- δ
 excerpt: Any δ-dependent structure that Φ disperses and Π compresses becomes inaccessible
   via any natural transformation in the topos. This is stronger than “computational
   hardness.” It is **structural hardnes...
-heading: '**The Meta-Math Projection Principle:**'
-id: GEN14-2834
-lines: 663-672
-location: genesis-14/meta-math-and-cryptography::6-cryptographic-hardness-meta-math-irreversibility::the-meta-math-projection-principle::b1
-parent_heading: '**6\. Cryptographic Hardness \= Meta-Math Irreversibility**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Meta-Math
+- Theorem
+- δ-dependent
+- Π
+- δ
+- Φ
+- structural hardness
+aliases:
+- Bk468ad
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

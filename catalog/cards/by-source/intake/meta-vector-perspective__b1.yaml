@@ -1,17 +1,33 @@
-block_type: paragraph
-concepts:
-- Meta-Connection
-- Meta-Metric
-- Meta-Scalar
-- Meta-Vector
-- Γ
-- λ
-- σ
-- τ
-excerpt: 'Given a Meta-Scalar λ and a Meta-Vector V: ``` V_res = λ ⊙ V'
-heading: Meta-Vector Perspective
 id: INTK-10294
-lines: 695-709
 location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::formal-definition::meta-vector-perspective::b1
-parent_heading: Formal Definition
 source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 695-709
+heading: Meta-Vector Perspective
+parent_heading: Formal Definition
+block_type: paragraph
+excerpt: 'Given a Meta-Scalar λ and a Meta-Vector V: ``` V_res = λ ⊙ V'
+concepts:
+- λ
+- τ
+- σ
+- Γ
+- Meta-Connection
+- Meta-Vector
+- Meta-Scalar
+- Meta-Metric
+- non-linear
+aliases:
+- Bk907gm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

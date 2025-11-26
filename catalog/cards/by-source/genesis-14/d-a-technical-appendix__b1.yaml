@@ -1,13 +1,28 @@
+id: GEN14-2863
+location: genesis-14/meta-math-and-cryptography::if-you-want-i-can-now-give-you::d-a-technical-appendix::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1036-1040
+heading: '**D. A technical appendix**'
+parent_heading: '**If you want, I can now give you:**'
 block_type: paragraph
-concepts:
-- Lift Theorem
-- No-Lift
-- Theorem
 excerpt: showing how each cryptosystem fits into your **No-Lift Theorem** framework.
   Which one do you want next?
-heading: '**D. A technical appendix**'
-id: GEN14-2863
-lines: 1036-1040
-location: genesis-14/meta-math-and-cryptography::if-you-want-i-can-now-give-you::d-a-technical-appendix::b1
-parent_heading: '**If you want, I can now give you:**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Theorem
+- No-Lift Theorem
+- No-Lift
+- Lift Theorem
+aliases:
+- Bk711sh
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 23.52941176470588
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

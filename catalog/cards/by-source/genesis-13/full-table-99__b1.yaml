@@ -1,17 +1,36 @@
-block_type: paragraph
-concepts:
-- Tri-Unity
-- Λ
-- Φ
-- Ω
-- γ
-- δ
-- η
-- ω
-excerpt: '`┌─────────────────────────────────────────────────────────────────────────┐`
-  `│                         THE 9×9 δ–BOSON SPECTRUM                       │` `├─────────────┬─────────────┬─────────────┬─...'
-heading: '**FULL TABLE (9×9)**'
 id: GEN13-2346
-lines: 1212-1257
 location: genesis-13/the-weight-of-light::full-table-99::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 1212-1257
+heading: '**FULL TABLE (9×9)**'
+block_type: paragraph
+excerpt: '`┌─────────────────────────────────────────────────────────────────────────┐`
+  `│                         THE 9×9 δ–BOSON SPECTRUM                       │` `├─────────────┬─────────────┬─────────────┬─...'
+concepts:
+- δ
+- Φ
+- χ
+- Tri-Unity
+- η
+- Ω
+- Ξ
+- →
+- pre-Einstein
+- proto-boson
+- gluon-prec
+- δ-Einstein
+- color-seed
+- phase-spin
+- long-range
+aliases:
+- Bk493tb
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.510204081632653
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

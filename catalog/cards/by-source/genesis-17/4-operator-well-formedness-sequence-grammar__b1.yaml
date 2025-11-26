@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: This is the heart of Gap C.
-heading: 4\. Operator-Well-Formedness (Sequence Grammar)
 id: GEN17-4248
-lines: 1506-1508
 location: genesis-17/box-calculus::graph-grammar-for-box-calculus-topology-legal-wiring::4-operator-well-formedness-sequence-grammar::b1
-parent_heading: ⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)
 source: genesis-17\box_calculus.md
+lines: 1506-1508
+heading: 4\. Operator-Well-Formedness (Sequence Grammar)
+parent_heading: ⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)
+block_type: paragraph
+excerpt: This is the heart of Gap C.
+aliases:
+- Bk023tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

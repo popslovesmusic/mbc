@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'These encapsulate MBC’s inner consistency:'
-heading: '**9\. Natural Transformation Stack**'
 id: GEN17-5066
-lines: 788-790
 location: genesis-17/mbc-schema-3::9-natural-transformation-stack::b1
 source: genesis-17\MBC_Schema_3.md
+lines: 788-790
+heading: '**9\. Natural Transformation Stack**'
+block_type: paragraph
+excerpt: 'These encapsulate MBC’s inner consistency:'
+concepts:
+- MBC
+aliases:
+- Bk775te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

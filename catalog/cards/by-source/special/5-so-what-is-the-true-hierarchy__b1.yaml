@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: (Your intuition was to clarify this. Let’s finalize it.)
-heading: '**🧩 5\. So what is the true hierarchy?**'
 id: SPEC-10985
-lines: 292-294
 location: special/specil::5-so-what-is-the-true-hierarchy::b1
 source: special\specil.md
+lines: 292-294
+heading: '**🧩 5\. So what is the true hierarchy?**'
+block_type: paragraph
+excerpt: (Your intuition was to clarify this. Let’s finalize it.)
+aliases:
+- Bk610yi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,32 @@
+id: GEN14-2731
+location: genesis-14/inflation-structure-formation::proof::4-classification-of-structures::iv-complement-of-all-multiplets::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1258-1265
+heading: '**(iv) Complement of all multiplets**'
+parent_heading: '**4\. Classification of Structures**'
 block_type: paragraph
-concepts:
-- voids
-- Π
-- δ
 excerpt: Dimension \= 3 → **voids** (low curvature, adjacency-dilated regions) The
   cosmic web is therefore the Π-image of the δ-harmonic degeneracy tower.
-heading: '**(iv) Complement of all multiplets**'
-id: GEN14-2731
-lines: 1258-1265
-location: genesis-14/inflation-structure-formation::proof::4-classification-of-structures::iv-complement-of-all-multiplets::b1
-parent_heading: '**4\. Classification of Structures**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- adjacency-dilated
+- δ-harmonic
+- Π-image
+- Π
+- δ
+- →
+- voids
+aliases:
+- Bk061dv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.818181818181817
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

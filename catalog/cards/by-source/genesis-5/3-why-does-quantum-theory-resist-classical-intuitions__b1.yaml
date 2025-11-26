@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'IGSOA: superposition is the expression of potential before operator resolution.'
-heading: '**(3) Why does quantum theory resist classical intuitions?**'
 id: GEN5-7995
-lines: 863-865
 location: genesis-5/formal-proof-of-the-adjoint-triple::5-why-monism-solves-the-oldest-paradoxes-of-physics::3-why-does-quantum-theory-resist-classical-intuitions::b1
-parent_heading: '**5\. Why Monism Solves the Oldest Paradoxes of Physics**'
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 863-865
+heading: '**(3) Why does quantum theory resist classical intuitions?**'
+parent_heading: '**5\. Why Monism Solves the Oldest Paradoxes of Physics**'
+block_type: paragraph
+excerpt: 'IGSOA: superposition is the expression of potential before operator resolution.'
+concepts:
+- IGSOA
+aliases:
+- Bk149is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

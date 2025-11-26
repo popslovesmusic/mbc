@@ -1,12 +1,30 @@
+id: GEN13-2194
+location: genesis-13/meta-math-nuclear-physics::4-φ-π-superconductivity-and-δ-origin-of-pairing::theorem-42-δ-adjacency-cooper-channel::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2256-2266
+heading: '**Theorem 4.2 — δ-Adjacency → Cooper Channel**'
+parent_heading: '**4\. Φ → Π Superconductivity and δ-Origin of Pairing**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'If δ-adjacency supports negative deviation curvature on edges, δ(x,y)\<0,\\delta(x,y)\<0,δ(x,y)\<0,
   then Φ produces attractive Cooper channel:'
-heading: '**Theorem 4.2 — δ-Adjacency → Cooper Channel**'
-id: GEN13-2194
-lines: 2256-2266
-location: genesis-13/meta-math-nuclear-physics::4-φ-π-superconductivity-and-δ-origin-of-pairing::theorem-42-δ-adjacency-cooper-channel::b1
-parent_heading: '**4\. Φ → Π Superconductivity and δ-Origin of Pairing**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- Φ
+- Δ
+- δ-adjacency
+- ≠
+aliases:
+- Bk510as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

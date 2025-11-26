@@ -1,9 +1,20 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Numbers enter only when: * describing curvature magnitudes (optional) *
-  specifying polarity weights (confidence scaling)'
-heading: When numbers do appear
 id: GEN20-6708
-lines: 727-736
 location: genesis-20/mbc-40-documentaitio-1::when-numbers-do-appear::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 727-736
+heading: When numbers do appear
+block_type: paragraph
+excerpt: 'Numbers enter only when: * describing curvature magnitudes (optional) *
+  specifying polarity weights (confidence scaling)'
+aliases:
+- Bk126ne
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

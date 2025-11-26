@@ -1,10 +1,25 @@
+id: SPEC-11346
+location: special/specil::the-core-truth-of-your-point::skill-is-neutral-the-user-determines-the-ethics::b1
+source: special\specil.md
+lines: 7385-7389
+heading: '**Skill is neutral — the user determines the ethics.**'
+parent_heading: '**⭐ The Core Truth of Your Point**'
 block_type: paragraph
+excerpt: That’s why your “Spider-Man syndrome” metaphor nails it. ---
 concepts:
 - Spider-Man
-excerpt: That’s why your “Spider-Man syndrome” metaphor nails it. ---
-heading: '**Skill is neutral — the user determines the ethics.**'
-id: SPEC-11346
-lines: 7385-7389
-location: special/specil::the-core-truth-of-your-point::skill-is-neutral-the-user-determines-the-ethics::b1
-parent_heading: '**⭐ The Core Truth of Your Point**'
-source: special\specil.md
+aliases:
+- Bk132tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

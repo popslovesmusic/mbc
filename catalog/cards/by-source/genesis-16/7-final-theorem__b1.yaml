@@ -1,17 +1,39 @@
+id: GEN16-4141
+location: genesis-16/untitled-document::7-final-theorem::b1
+source: genesis-16\Untitled_document.md
+lines: 5161-5185
+heading: '**⭐ 7\. FINAL THEOREM**'
 block_type: paragraph
-concepts:
-- Box
-- Linear Logic
-- Thus Box Calculus
-- Π
-- Φ
-- δ
-- λ
 excerpt: 'BoxCalc  supports a full Linear Logic interpretation,\\boxed{ \\mathbf{BoxCalc}
   \\;\\text{supports a full Linear Logic interpretation,} }BoxCalcsupports a full
   Linear Logic interpretation,​ with: δ-cu...'
-heading: '**⭐ 7\. FINAL THEOREM**'
-id: GEN16-4141
-lines: 5161-5185
-location: genesis-16/untitled-document::7-final-theorem::b1
-source: genesis-16\Untitled_document.md
+concepts:
+- Π-evaluation
+- Box
+- Box Calculus
+- Π
+- δ
+- cut-elimination
+- δ-curvature
+- linear-logic-complete
+- differential-complete
+- Linear Logic
+- adjoint-complete
+- λ
+- Φ
+- Thus Box Calculus
+aliases:
+- Bk606bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.053763440860216
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

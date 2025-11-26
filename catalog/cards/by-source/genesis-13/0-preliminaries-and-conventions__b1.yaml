@@ -1,15 +1,38 @@
-block_type: paragraph
-concepts:
-- stillness
-- Π
-- Φ
-- Ψ
-- Ω
-- δ
-excerpt: 'Let: * **𝒮** denote the *stillness* (Ψ₀) state space. * **𝒟** the δ-deviation
-  category. Objects: δ-gradients; morphisms: adjacency-curvature defects.'
-heading: '**0\. Preliminaries and Conventions**'
 id: GEN13-2526
-lines: 905-943
 location: genesis-13/what-biology-is-in-meta-genesis::0-preliminaries-and-conventions::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 905-943
+heading: '**0\. Preliminaries and Conventions**'
+block_type: paragraph
+excerpt: 'Let: * **𝒮** denote the *stillness* (Ψ₀) state space. * **𝒟** the δ-deviation
+  category. Objects: δ-gradients; morphisms: adjacency-curvature defects.'
+concepts:
+- δ
+- Π
+- Φ
+- →
+- adjacency-curvature
+- Π-fixed
+- Φ-mode
+- δ-operators
+- δ-adjacency
+- δ-deviation
+- δ-gradients
+- Π-closure
+- δ-packet
+- Π-stable
+- Φ-state
+aliases:
+- Bk848ld
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.32258064516129
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

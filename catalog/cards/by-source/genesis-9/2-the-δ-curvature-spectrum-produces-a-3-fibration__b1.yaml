@@ -1,13 +1,37 @@
-block_type: paragraph
-concepts:
-- three
-- Φ
-- δ
-- μ
-excerpt: 'The δ-harmonic operator: Hδ=−∇(δ)μ∇μ(δ)H\_\\delta \= \- \\nabla^{(\\delta)\\mu}\\nabla^{(\\delta)}\_\\muHδ​=−∇(δ)μ∇μ(δ)​
-  inherits curvature-induced degeneracies.'
-heading: '**2\. The δ-curvature spectrum produces a 3-fibration**'
 id: GEN9-9522
-lines: 1399-1429
 location: genesis-9/strong-force::2-the-δ-curvature-spectrum-produces-a-3-fibration::b1
 source: genesis-9\strong-force.md
+lines: 1399-1429
+heading: '**2\. The δ-curvature spectrum produces a 3-fibration**'
+block_type: paragraph
+excerpt: 'The δ-harmonic operator: Hδ=−∇(δ)μ∇μ(δ)H\_\\delta \= \- \\nabla^{(\\delta)\\mu}\\nabla^{(\\delta)}\_\\muHδ​=−∇(δ)μ∇μ(δ)​
+  inherits curvature-induced degeneracies.'
+concepts:
+- δ
+- χ
+- μ
+- ∇
+- curvature-induced
+- ⊂
+- π
+- Φ-compatibility
+- δ-convexity
+- δ-harmonic
+- trace-free
+- Φ
+- three
+aliases:
+- Bk780th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.926605504587156
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

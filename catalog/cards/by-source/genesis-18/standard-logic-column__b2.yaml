@@ -1,13 +1,30 @@
+id: GEN18-5457
+location: genesis-18/mbc-4::i-statement-of-the-theorem::standard-logic-column::b2
+source: genesis-18\MBC-4.md
+lines: 1111-1120
+heading: '**Standard logic column**'
+parent_heading: '**I. Statement of the Theorem**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'For any set of relational facts XXX, the meaning of XXX is: Semantics(X):=Close(Eval∘Unify∘Relate(X))\\text{Semantics}(X)
   := \\text{Close}\\big(\\text{Eval} \\circ \\text{Unify} \\circ \\text{Relate}(...'
-heading: '**Standard logic column**'
-id: GEN18-5457
-lines: 1111-1120
-location: genesis-18/mbc-4::i-statement-of-the-theorem::standard-logic-column::b2
-parent_heading: '**I. Statement of the Theorem**'
-source: genesis-18\MBC-4.md
+concepts:
+- Theorem
+- →
+- Π
+- δ
+- Φ
+aliases:
+- Bk539fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.771929824561402
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,38 @@
-block_type: paragraph
-concepts:
-- Deviational Geometry
-- Effective Field Theory
-- Field
-- Meta-Genesis
-- Meta-Standard-Model
-- Meta-Time
-- δ
-excerpt: 'It is written as if it belongs inside your *Meta-Standard-Model / δ-Field*
-  volume, bridging: * Effective Field Theory (EFT) * The fractal δ-mode spectrum'
-heading: '**“The δ-Boson Interpretation (EFT \+ Spectral Tower)”**'
 id: GEN0-307
-lines: 984-1006
 location: genesis-0/why-the-first-action-is-necessary::the-δ-boson-interpretation-eft-spectral-tower::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 984-1006
+heading: '**“The δ-Boson Interpretation (EFT \+ Spectral Tower)”**'
+block_type: paragraph
+excerpt: 'It is written as if it belongs inside your *Meta-Standard-Model / δ-Field*
+  volume, bridging: * Effective Field Theory (EFT) * The fractal δ-mode spectrum'
+concepts:
+- Meta-Genesis
+- Meta-Time
+- Deviational Geometry
+- δ
+- Deviation
+- Field
+- renormalization-group
+- Meta-Standard-Model
+- δ-propagator
+- δ-Feynman
+- δ-Field
+- δ-Higgs
+- Effective Field Theory
+- δ-mode
+aliases:
+- Bk114wb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

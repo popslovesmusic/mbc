@@ -1,14 +1,29 @@
+id: GEN4-7870
+location: genesis-4/the-first-adjacency::the-first-ordering::how-meta-time-crystallizes::1-narrative-prelude-when-difference-tries-to-remember-itself::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 998-1035
+heading: '**1\. Narrative Prelude — When difference tries to remember itself**'
+parent_heading: '**How Meta-Time Crystallizes**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- ordered
-- Ψ
 excerpt: 'After the first crack in stillness, something new stirs in the newborn relational
   field. Two states exist where only one had been possible: Ψ0, Ψ1.\\Psi\_0,\\ \\Psi\_1.Ψ0​,
   Ψ1​.'
-heading: '**1\. Narrative Prelude — When difference tries to remember itself**'
-id: GEN4-7870
-lines: 998-1035
-location: genesis-4/the-first-adjacency::the-first-ordering::how-meta-time-crystallizes::1-narrative-prelude-when-difference-tries-to-remember-itself::b1
-parent_heading: '**How Meta-Time Crystallizes**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Meta-Time
+- Ψ
+- logical tension
+aliases:
+- Bk591at
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.083333333333333
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

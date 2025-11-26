@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: “Both inputs must be true.”
-heading: Classical AND
 id: GEN20-7184
-lines: 6916-6918
 location: genesis-20/mbc-40-documentaitio-1::b23-semantic-and-φ-alignment-gate::classical-and::b1
-parent_heading: B2.3 Semantic AND (Φ-Alignment Gate)
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6916-6918
+heading: Classical AND
+parent_heading: B2.3 Semantic AND (Φ-Alignment Gate)
+block_type: paragraph
+excerpt: “Both inputs must be true.”
+aliases:
+- Bk903bi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

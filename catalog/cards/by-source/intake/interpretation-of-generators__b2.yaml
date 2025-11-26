@@ -1,14 +1,30 @@
+id: INTK-10517
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::formal-definition::interpretation-of-generators::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1959-1963
+heading: 'Interpretation of Generators:'
+parent_heading: Formal Definition
 block_type: list
-concepts:
-- Phase-Inverting
-- Phase-Neutral
-- Phase-Preserving
 excerpt: '*   **J_3 (Phase-Preserving / Identity):** Represents transformations that
   largely preserve the intrinsic phase or coherence of a deviation mode. It can be
   related to the identity operation or a funda...'
-heading: 'Interpretation of Generators:'
-id: INTK-10517
-lines: 1959-1963
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::formal-definition::interpretation-of-generators::b2
-parent_heading: Formal Definition
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Phase-Preserving
+- Phase-Inverting
+- Phase-Neutral
+- higher-order
+- re-normalize
+aliases:
+- Bk210pp
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.41025641025641
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

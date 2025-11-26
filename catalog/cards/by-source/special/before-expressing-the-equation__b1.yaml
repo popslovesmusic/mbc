@@ -1,11 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: Religion \= conceptual topology. Mathematics \= quantitative topology. Same
-  structure, different language.
-heading: '**✘ before expressing the *equation***'
 id: SPEC-11166
-lines: 3370-3377
 location: special/specil::2-meta-math-structure-that-is-felt-or-intuited-before-it-is-formalized::before-expressing-the-equation::b1
+source: special\specil.md
+lines: 3370-3377
+heading: '**✘ before expressing the *equation***'
 parent_heading: '**⭐ 2\. Meta-math \= structure that is “felt” or “intuited” before
   it is formalized**'
-source: special\specil.md
+block_type: paragraph
+excerpt: Religion \= conceptual topology. Mathematics \= quantitative topology. Same
+  structure, different language.
+aliases:
+- Bk131rc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

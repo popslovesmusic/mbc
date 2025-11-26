@@ -1,13 +1,32 @@
+id: GEN12-1842
+location: genesis-12/untitled-document::5-rotation-curves-from-δ-geometry::b1
+source: genesis-12\Untitled_document.md
+lines: 1827-1850
+heading: '**5\. Rotation Curves from δ-Geometry**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Dark matter is not a new substance in IGSOA. It is simply the **massive
   part of the δ-Hessian mass tower** projected into matter dynamics. The flat rotation
   curves arise because:'
-heading: '**5\. Rotation Curves from δ-Geometry**'
-id: GEN12-1842
-lines: 1827-1850
-location: genesis-12/untitled-document::5-rotation-curves-from-δ-geometry::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- IGSOA
+- massive part of the δ-Hessian mass tower
+- δ-curvature
+- δ-Hessian
+- long-range
+- halo-like
+- fingerprint of deviation
+- Π
+- Φ
+aliases:
+- Bk757dm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.204081632653061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,19 +1,37 @@
+id: GEN15-3332
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::i-core-result-the-csoi-strong-lensing-theorem::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1143-1170
+heading: '**I. Core Result: The CSOI Strong-Lensing Theorem**'
 block_type: paragraph
-concepts:
-- Causal Sphere
-- Lensing Theorem
-- Strong-Lensing
-- Theorem
-- Π
-- Φ
-- α
-- β
-- δ
 excerpt: '**CSOI Strong-Lensing Theorem.** Given a δ-curvature field with adjacency
   extension through the Causal Sphere of Influence: δCSOI(r)∼A/r,\\delta\_{\\mathrm{CSOI}}(r)
   \\sim A/r,δCSOI​(r)∼A/r,'
-heading: '**I. Core Result: The CSOI Strong-Lensing Theorem**'
-id: GEN15-3332
-lines: 1143-1170
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::i-core-result-the-csoi-strong-lensing-theorem::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- θ
+- Theorem
+- δ
+- Φ
+- thin-lens equation
+- β
+- α
+- Strong-Lensing
+- dark-matter
+- δ-curvature
+- thin-lens
+- Π
+- Π-null
+- Einstein radius
+- δCSOI
+aliases:
+- Bk340cs
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

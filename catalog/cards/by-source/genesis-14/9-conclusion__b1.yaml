@@ -1,14 +1,29 @@
+id: GEN14-2921
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::main-paper-outline-formal::9-conclusion::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 160-168
+heading: '**9\. Conclusion**'
+parent_heading: '**Main Paper Outline (formal)**'
 block_type: list
-concepts:
-- Meta-Genesis
-- Φ
-- δ
 excerpt: '* Thermodynamic potentials \= curvature-defect-corrected Φ-traces. * Irreversibility
   is not probabilistic—it''s structural to δ. * Thermodynamics is the low-frequency
   shadow of Meta-Genesis.'
-heading: '**9\. Conclusion**'
-id: GEN14-2921
-lines: 160-168
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::main-paper-outline-formal::9-conclusion::b1
-parent_heading: '**Main Paper Outline (formal)**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Meta-Genesis
+- curvature-defect-corrected
+- low-frequency
+- Φ-traces
+- δ
+- Φ
+aliases:
+- Bk332tp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

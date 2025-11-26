@@ -1,14 +1,31 @@
-block_type: paragraph
-concepts:
-- Einstein Equations
-- Math Functor
-- Meta-Einstein
-- Meta-Math
-- The Genesis
-excerpt: ✔ **The Genesis → Meta-Math Functor** ✔ **Meta-Einstein Equations from Axioms
-  G1–G9** ✔ **Mermaid/TikZ diagrams for the entire Genesis category**
-heading: '**If you want next:**'
 id: GEN2-6238
-lines: 205-212
 location: genesis-2/axioms-for-the-category-genesis::if-you-want-next::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 205-212
+heading: '**If you want next:**'
+block_type: paragraph
+excerpt: ✔ **The Genesis → Meta-Math Functor** ✔ **Meta-Einstein Equations from Axioms
+  G1–G9** ✔ **Mermaid/TikZ diagrams for the entire Genesis category**
+concepts:
+- Meta-Math
+- Meta-Einstein
+- Functor
+- Proof
+- →
+- Einstein Equations
+- Math Functor
+- The Genesis
+aliases:
+- Bk122tg
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.857142857142858
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

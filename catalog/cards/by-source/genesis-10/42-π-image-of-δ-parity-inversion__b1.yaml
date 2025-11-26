@@ -1,13 +1,33 @@
+id: GEN10-718
+location: genesis-10/how-stillness-becomes-solid::4-bulkedge-correspondence-δ-version::42-π-image-of-δ-parity-inversion::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 591-601
+heading: '**4.2 Π-Image of δ-Parity Inversion**'
+parent_heading: '**4\. Bulk–Edge Correspondence (δ-Version)**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Edge modes satisfy: Π(ψn⋆)=chiral boundary state.\\Pi(\\psi\_{n}^\\star)
   \= \\text{chiral boundary state}.Π(ψn⋆​)=chiral boundary state. Thus bulk–edge correspondence
   is a corollary of δ-parity conser...'
-heading: '**4.2 Π-Image of δ-Parity Inversion**'
-id: GEN10-718
-lines: 591-601
-location: genesis-10/how-stillness-becomes-solid::4-bulkedge-correspondence-δ-version::42-π-image-of-δ-parity-inversion::b1
-parent_heading: '**4\. Bulk–Edge Correspondence (δ-Version)**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- Π
+- Corollary
+- ψ
+- δ
+- δ-curvature
+- δ-parity
+- Π-edge
+aliases:
+- Bk056em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.893617021276595
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

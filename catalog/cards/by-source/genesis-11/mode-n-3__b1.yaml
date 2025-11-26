@@ -1,12 +1,28 @@
+id: GEN11-1022
+location: genesis-11/how-curvature-could-generate-an-axis::7-compute-mode-dependent-echo-shifts::mode-n-3::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 523-527
+heading: '**Mode n \= 3**'
+parent_heading: '**⭐ 7\. Compute mode-dependent echo shifts**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Lδ,3=0.001+0.00064=0.00164L\_{\\delta,3}=0.001+0.00064=0.00164Lδ,3​=0.001+0.00064=0.00164
   ∣ln⁡(1.85×10−5)∣=10.90|\\ln(1.85\\times 10^{-5})|=10.90∣ln(1.85×10−5)∣=10.90 Δr∗,3=966.5 km\\Delta
   r\_{\*,3}=9...
-heading: '**Mode n \= 3**'
-id: GEN11-1022
-lines: 523-527
-location: genesis-11/how-curvature-could-generate-an-axis::7-compute-mode-dependent-echo-shifts::mode-n-3::b1
-parent_heading: '**⭐ 7\. Compute mode-dependent echo shifts**'
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+concepts:
+- Δ
+- δ
+aliases:
+- Bk968dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.564102564102564
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

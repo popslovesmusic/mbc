@@ -1,10 +1,25 @@
+id: GEN20-7061
+location: genesis-20/mbc-40-documentaitio-1::advanced-mbc-40-complete-volume-outline::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5094-5097
+heading: '@@@ Advanced MBC-4.0 — Complete Volume Outline'
 block_type: paragraph
+excerpt: (Full Outline for the Companion Book) ---
 concepts:
 - Companion Book
 - Full Outline
-excerpt: (Full Outline for the Companion Book) ---
-heading: '@@@ Advanced MBC-4.0 — Complete Volume Outline'
-id: GEN20-7061
-lines: 5094-5097
-location: genesis-20/mbc-40-documentaitio-1::advanced-mbc-40-complete-volume-outline::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk005fo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

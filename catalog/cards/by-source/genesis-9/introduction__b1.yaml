@@ -1,13 +1,31 @@
+id: GEN9-9308
+location: genesis-9/does-meta-genesis-indicate-new-physics::why-symmetry-and-asymmetry-are-one-thing-in-two-modes::introduction::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1442-1468
+heading: '**Introduction**'
+parent_heading: '**Why Symmetry and Asymmetry Are One Thing in Two Modes**'
 block_type: paragraph
-concepts:
-- Asymmetry
-- Symmetry
 excerpt: 'Every physical theory inherits an ancient duality: * **Symmetry** — the
   uniform, the smooth, the consistent. * **Asymmetry** — the broken, the perturbed,
   the differentiated.'
-heading: '**Introduction**'
-id: GEN9-9308
-lines: 1442-1468
-location: genesis-9/does-meta-genesis-indicate-new-physics::why-symmetry-and-asymmetry-are-one-thing-in-two-modes::introduction::b1
-parent_heading: '**Why Symmetry and Asymmetry Are One Thing in Two Modes**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- IGSOA
+- Symmetry
+- co-stabilize
+- co-sustain
+- co-arise
+- Asymmetry
+aliases:
+- Bk986ep
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 3.870967741935484
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

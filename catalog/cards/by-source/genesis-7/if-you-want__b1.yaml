@@ -1,11 +1,33 @@
+id: GEN7-8570
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::if-you-want::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 250-261
+heading: '**If you want:**'
 block_type: paragraph
+excerpt: 'I can now generate any of the following: ✅ A diagram showing the δ→torsion→orbitals
+  flow ✅ A full appendix version (axioms → lemmas → theorems → corollaries)'
 concepts:
 - Meta-Einstein
 - δ
-excerpt: 'I can now generate any of the following: ✅ A diagram showing the δ→torsion→orbitals
-  flow ✅ A full appendix version (axioms → lemmas → theorems → corollaries)'
-heading: '**If you want:**'
-id: GEN7-8570
-lines: 250-261
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::if-you-want::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+- →
+- Theorem
+- sub-theorem
+- δ-orbital
+- δ-shifts
+- δ-Higgs
+- δ-Dirac
+aliases:
+- Bk666cn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

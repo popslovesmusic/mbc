@@ -1,16 +1,40 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Higgs Reheating Axiom
-- Π
-- Φ
-- δ
-- λ
-- μ
-excerpt: '**⟡ The δ-Higgs Reheating Axiom (Hermetic) ⟡** Let δ(t) be the time-evolving
-  deviation operator with curvature Kδ(t)=δ†(t)δ(t),\\mathcal{K}\_\\delta(t)=\\delta^\\dagger(t)\\delta(t),Kδ​(t)=δ†(t)δ(t),'
-heading: '**Ⅷ. SEALEDBOX: The δ-Higgs Reheating Axiom**'
 id: GEN15-3165
-lines: 1422-1452
 location: genesis-15/the-mass-curvature-projection-theorem::ⅷ-sealedbox-the-δ-higgs-reheating-axiom::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1422-1452
+heading: '**Ⅷ. SEALEDBOX: The δ-Higgs Reheating Axiom**'
+block_type: paragraph
+excerpt: '**⟡ The δ-Higgs Reheating Axiom (Hermetic) ⟡** Let δ(t) be the time-evolving
+  deviation operator with curvature Kδ(t)=δ†(t)δ(t),\\mathcal{K}\_\\delta(t)=\\delta^\\dagger(t)\\delta(t),Kδ​(t)=δ†(t)δ(t),'
+concepts:
+- δ
+- Φ
+- Φ-projection
+- Π
+- μ
+- λ
+- Axiom
+- radiation-dominated
+- negative-curvature
+- δ-Higgs
+- time-evolving
+- Π-evolution
+- δ-curvature
+- Φ-spectrum
+- Φ-modes
+aliases:
+- Bk251th
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.60215053763441
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

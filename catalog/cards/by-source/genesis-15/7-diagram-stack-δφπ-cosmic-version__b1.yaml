@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: '`δ-Level:        δₙ modes → adjacency defects → pre-inflation seeds` `│`
-  `▼`'
-heading: '**7\. Diagram Stack (δ→Φ→Π): Cosmic Version**'
 id: GEN15-3384
-lines: 184-200
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-diagram-stack-δφπ-cosmic-version::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 184-200
+heading: '**7\. Diagram Stack (δ→Φ→Π): Cosmic Version**'
+block_type: paragraph
+excerpt: '`δ-Level:        δₙ modes → adjacency defects → pre-inflation seeds` `│`
+  `▼`'
+concepts:
+- →
+- δ
+- pre-inflation
+- Φ-Level
+- Π-Level
+- δ-Level
+- Π
+- Φ
+aliases:
+- Bk151lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.52941176470588
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

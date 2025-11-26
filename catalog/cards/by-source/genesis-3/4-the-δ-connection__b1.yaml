@@ -1,12 +1,35 @@
-block_type: paragraph
-concepts:
-- Γ
-- Ψ
-- δ
-excerpt: 'Curvature must be deviation-derived. Define the δ-connection on an Action
-  object AAA by: ∇δ=∂+Γδ\\nabla\_\\delta \= \\partial \+ \\Gamma\_\\delta∇δ​=∂+Γδ​'
-heading: '**4\. The δ-Connection**'
 id: GEN3-7321
-lines: 733-755
 location: genesis-3/metagenesis::4-the-δ-connection::b1
 source: genesis-3\metagenesis.md
+lines: 733-755
+heading: '**4\. The δ-Connection**'
+block_type: paragraph
+excerpt: 'Curvature must be deviation-derived. Define the δ-connection on an Action
+  object AAA by: ∇δ=∂+Γδ\\nabla\_\\delta \= \\partial \+ \\Gamma\_\\delta∇δ​=∂+Γδ​'
+concepts:
+- δ
+- Curvature
+- Γ
+- δ-connection
+- deviation-derived
+- ∇
+- Ψ
+- ∂
+- second-order
+- natural lift
+- δ²
+aliases:
+- Bk479cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.666666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

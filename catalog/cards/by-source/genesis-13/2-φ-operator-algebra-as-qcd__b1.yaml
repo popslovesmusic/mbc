@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: We now lift δ-geometry into operator algebra. This is where gluons, quarks,
-  color, and QCD’s algebraic structure reside. ---
-heading: '**2\. Φ-Operator Algebra as QCD**'
 id: GEN13-2117
-lines: 1485-1490
 location: genesis-13/meta-math-nuclear-physics::2-φ-operator-algebra-as-qcd::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1485-1490
+heading: '**2\. Φ-Operator Algebra as QCD**'
+block_type: paragraph
+excerpt: We now lift δ-geometry into operator algebra. This is where gluons, quarks,
+  color, and QCD’s algebraic structure reside. ---
+concepts:
+- δ-geometry
+- δ
+aliases:
+- Bk406nl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

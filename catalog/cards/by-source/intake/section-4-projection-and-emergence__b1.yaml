@@ -1,24 +1,39 @@
+id: INTK-9681
+location: intake/axioms-geometry::section-4-projection-and-emergence::b1
+source: intake\Axioms-geometry.md
+lines: 509-533
+heading: '**Section 4 — Projection and Emergence**'
 block_type: paragraph
-concepts:
-- Action Projection
-- Compatibility Rule
-- Geometric Projection
-- Meta-Genesis
-- Meta-Math
-- Meta-Time
-- Physical Time Projection
-- Ψ
-- δ
-- μ
-- ν
-- ρ
-- σ
-- τ
 excerpt: 'There are **three fundamental projection arrows**: 1. **Potential → Action
   Projection** Ψ0→δΨ1→δΨ2→⋯\\Psi\_0 \\xrightarrow{\\delta} \\Psi\_1 \\xrightarrow{\\delta}
   \\Psi\_2 \\to \\cdotsΨ0​δ​Ψ1​δ​Ψ2​→⋯'
-heading: '**Section 4 — Projection and Emergence**'
-id: INTK-9681
-lines: 509-533
-location: intake/axioms-geometry::section-4-projection-and-emergence::b1
-source: intake\Axioms-geometry.md
+concepts:
+- δ
+- →
+- Projection
+- Meta-Genesis
+- Meta-Math
+- Meta-Time
+- Ψ
+- Deviation
+- π
+- μ
+- ν
+- three fundamental projection arrows
+- σ
+- τ
+- ρ
+aliases:
+- Bk778ta
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

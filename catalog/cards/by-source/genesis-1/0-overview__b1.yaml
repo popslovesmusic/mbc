@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Deviational Geometry
-- dynamical
-- δ
-excerpt: 'This chapter develops the **dynamical** content of Deviational Geometry:
-  * the evolution of δ * the structure of δ-curvature'
-heading: '**0\. Overview**'
 id: GEN1-602
-lines: 1142-1162
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::0-overview::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1142-1162
+heading: '**0\. Overview**'
+block_type: paragraph
+excerpt: 'This chapter develops the **dynamical** content of Deviational Geometry:
+  * the evolution of δ * the structure of δ-curvature'
+concepts:
+- Deviational Geometry
+- Deviation
+- δ
+- higher-order
+- δ-curvature
+- δ-Einstein
+- δ-waves
+- dynamical
+aliases:
+- Bk955tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

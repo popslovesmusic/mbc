@@ -1,12 +1,30 @@
+id: GEN1-444
+location: genesis-1/the-foundation-layer::the-δ-geometry-operator-box::canonical-operator-layer-of-igsoa::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 364-369
+heading: '***(Canonical Operator Layer of IGSOA)***'
+parent_heading: '**THE δ-GEOMETRY OPERATOR BOX**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: This box defines **how δ generates geometry**, curvature, adjacency, metric
   structure, and operator domains. It is the *lowest-level operator layer* in the
   entire IGSOA stack. ---
-heading: '***(Canonical Operator Layer of IGSOA)***'
-id: GEN1-444
-lines: 364-369
-location: genesis-1/the-foundation-layer::the-δ-geometry-operator-box::canonical-operator-layer-of-igsoa::b1
-parent_heading: '**THE δ-GEOMETRY OPERATOR BOX**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- IGSOA
+- lowest-level
+- how δ generates geometry
+- δ
+aliases:
+- Bk746tb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

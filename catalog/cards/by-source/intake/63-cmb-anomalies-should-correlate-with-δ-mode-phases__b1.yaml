@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- "Evil  \n Cold Spot  \n Large"
-- δ
-excerpt: Axis of Evil Cold Spot Large-angle parity anomaly
-heading: '**6.3 CMB anomalies should correlate with δ-mode phases**'
 id: INTK-9729
-lines: 227-234
 location: intake/core-insight-is-a-projection-artifact::6-experimental-predictions-your-outline-has-them-but-we-can-sharpen-them::63-cmb-anomalies-should-correlate-with-δ-mode-phases::b1
+source: intake\Core_Insight___is_a_Projection_Artifact.md
+lines: 227-234
+heading: '**6.3 CMB anomalies should correlate with δ-mode phases**'
 parent_heading: '**6\. Experimental Predictions (Your outline has them, but we can
   sharpen them):**'
-source: intake\Core_Insight___is_a_Projection_Artifact.md
+block_type: paragraph
+excerpt: Axis of Evil Cold Spot Large-angle parity anomaly
+concepts:
+- δ-structured
+- Large-angle
+- "Evil  \n Cold Spot  \n Large"
+- δ
+aliases:
+- Bk288ae
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.052631578947366
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

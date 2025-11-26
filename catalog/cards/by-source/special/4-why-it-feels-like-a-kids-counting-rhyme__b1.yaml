@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Because the **human brain** learns counting the same way humanity invented
-  it: * repetition * grouping'
-heading: '**⭐ 4\. Why it feels like a "kid’s counting rhyme"**'
 id: SPEC-11196
-lines: 4103-4121
 location: special/specil::4-why-it-feels-like-a-kids-counting-rhyme::b1
 source: special\specil.md
+lines: 4103-4121
+heading: '**⭐ 4\. Why it feels like a "kid’s counting rhyme"**'
+block_type: paragraph
+excerpt: 'Because the **human brain** learns counting the same way humanity invented
+  it: * repetition * grouping'
+concepts:
+- human brain
+aliases:
+- Bk779bt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.5
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,20 +1,42 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- Meta-Time
-- Φ
-- β
-- γ
-- δ
-- η
-- λ
-- μ
-- ν
-- σ
-excerpt: Lδ-EFT=12(∂δ)2−12mδ2δ2+116πGδ(R+β1(∇δ)2+β2δR+β3δ2R)−14(1+γ1δ+γ2δ2) Aμν2−14(M2+ηδMA)+(DΦ)2−(λ0Φ4+λ1δ2Φ2+λ2δ4−μ2Φ2+σδΦ3)−y(δ)ψˉΦψ+(κ1δΦ2+κ2δAM+κ3ΦAM)+(g1δ(∂δ)2+g2δ3+g3δΦ2+g4δψˉψ+g5δA2).\\boxed{
-  \\begin{...
-heading: '**SUMMARIZED MASTER FORM**'
 id: GEN7-8451
-lines: 176-194
 location: genesis-7/the-complete-eft-lagrangian::summarized-master-form::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 176-194
+heading: '**SUMMARIZED MASTER FORM**'
+block_type: paragraph
+excerpt: Lδ-EFT=12(∂δ)2−12mδ2δ2+116πGδ(R+β1(∇δ)2+β2δR+β3δ2R)−14(1+γ1δ+γ2δ2) Aμν2−14(M2+ηδMA)+(DΦ)2−(λ0Φ4+λ1δ2Φ2+λ2δ4−μ2Φ2+σδΦ3)−y(δ)ψˉΦψ+(κ1δΦ2+κ2δAM+κ3ΦAM)+(g1δ(∂δ)2+g2δ3+g3δΦ2+g4δψˉψ+g5δA2).\\boxed{
+  \\begin{...
+concepts:
+- δ
+- Φ
+- ψ
+- Meta-Einstein
+- Meta-Time
+- β
+- κ
+- λ
+- γ
+- μ
+- ∂
+- δ-EFT
+- the complete δ-EFT
+- δA
+- η
+aliases:
+- Bk002a
+tags:
+- A2
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.40766550522648
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A2

@@ -1,13 +1,30 @@
-block_type: paragraph
-concepts:
-- Semantic Stack
-- Π
-- Φ
-- δ
-excerpt: '**MBC-4.0 / δ→Φ→Π Semantic Stack** ---'
-heading: '***(Quantifiers, Modalities, Structural Operators)***'
 id: GEN19-5973
-lines: 1550-1554
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::higher-order-reasoning-operators-in-θ-logic::quantifiers-modalities-structural-operators::b1
-parent_heading: '**HIGHER-ORDER REASONING OPERATORS IN Θ-LOGIC**'
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1550-1554
+heading: '***(Quantifiers, Modalities, Structural Operators)***'
+parent_heading: '**HIGHER-ORDER REASONING OPERATORS IN Θ-LOGIC**'
+block_type: paragraph
+excerpt: '**MBC-4.0 / δ→Φ→Π Semantic Stack** ---'
+concepts:
+- MBC
+- →
+- Π
+- δ
+- Φ
+- Semantic Stack
+aliases:
+- Bk791ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 75.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
+id: GEN7-8667
+location: genesis-7/why-curvature-gives-gravity::iv-operator-theoretic-axioms::axiom-dc-10-necessity-of-extremal-trajectories::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 647-655
+heading: '**Axiom DC-10 — Necessity of Extremal Trajectories**'
+parent_heading: '**IV. OPERATOR-THEORETIC AXIOMS**'
 block_type: paragraph
-concepts:
-- Γ
-- δ
-- τ
 excerpt: 'Geodesics are extremal with respect to the δ-connection: DuiDτ=duidτ+Γjkδiujuk=0.\\frac{D
   u^i}{D\\tau} \= \\frac{d u^i}{d\\tau} \+ \\Gamma^\\delta\_{jk}{}^i u^j u^k \= 0.DτDui​=dτdui​+Γjkδ​iujuk=0.
   Th...'
-heading: '**Axiom DC-10 — Necessity of Extremal Trajectories**'
-id: GEN7-8667
-lines: 647-655
-location: genesis-7/why-curvature-gives-gravity::iv-operator-theoretic-axioms::axiom-dc-10-necessity-of-extremal-trajectories::b1
-parent_heading: '**IV. OPERATOR-THEORETIC AXIOMS**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ-geometry
+- τ
+- δ
+- Γ
+- δ-connection
+- extremal adjacency path
+- δiujuk
+aliases:
+- Bk817ga
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

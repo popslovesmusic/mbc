@@ -1,14 +1,32 @@
+id: GEN3-7384
+location: genesis-3/the-physics-box-diagram::i-the-δφ-generative-symmetry::axiom-me-1-dual-generators::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 297-315
+heading: '**Axiom ME-1 (Dual Generators)**'
+parent_heading: '**I. The δ/Φ Generative Symmetry**'
 block_type: paragraph
-concepts:
-- Genesis-Math
-- Φ
-- δ
 excerpt: 'There exist two primitive and mutually defining generative structures: *
   **δ**, the deviation operator: intrinsic, atemporal, responsible for difference,
   disturbance, and non-identity.'
-heading: '**Axiom ME-1 (Dual Generators)**'
-id: GEN3-7384
-lines: 297-315
-location: genesis-3/the-physics-box-diagram::i-the-δφ-generative-symmetry::axiom-me-1-dual-generators::b1
-parent_heading: '**I. The δ/Φ Generative Symmetry**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- δ
+- Φ
+- co-originary
+- non-identity
+- Genesis-Math
+- not an algebraic accident
+- duality relation
+aliases:
+- Bk368te
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.860759493670885
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

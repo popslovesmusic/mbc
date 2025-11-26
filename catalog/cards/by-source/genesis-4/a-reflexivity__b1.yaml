@@ -1,12 +1,26 @@
+id: GEN4-7651
+location: genesis-4/meta-physics-axiom-box::step-3-internal-transitivity-formal-δ-time::a-reflexivity::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 722-734
+heading: '**(a) Reflexivity**'
+parent_heading: '**Step 3 — Internal transitivity (formal δ-time)**'
 block_type: paragraph
+excerpt: 'By NOT Axiom \+ δ-Axiom: δ0(X)=X,\\delta^0(X)=X,δ0(X)=X, and we always have
+  the identity morphism internally:'
 concepts:
 - Axiom
 - δ
-excerpt: 'By NOT Axiom \+ δ-Axiom: δ0(X)=X,\\delta^0(X)=X,δ0(X)=X, and we always have
-  the identity morphism internally:'
-heading: '**(a) Reflexivity**'
-id: GEN4-7651
-lines: 722-734
-location: genesis-4/meta-physics-axiom-box::step-3-internal-transitivity-formal-δ-time::a-reflexivity::b1
-parent_heading: '**Step 3 — Internal transitivity (formal δ-time)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+- →
+- δ-Axiom
+aliases:
+- Bk596na
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.30232558139535
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

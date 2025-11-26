@@ -1,12 +1,31 @@
+id: GEN16-3687
+location: genesis-16/quantum-measurement-in-igsoa-vs::cross-reference-to-igsoa-core-concepts::φ-dynamics-coherence::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 213-219
+heading: '**Φ-Dynamics (Coherence)**'
+parent_heading: '**Cross-Reference to IGSOA Core Concepts**'
 block_type: list
-concepts:
-- Φ
-- δ
 excerpt: '* Screen’s lattice \= structured, low-entropy Φ-field. * It forces δ-degeneracy
   lifting. * Only a single Φ-branch survives the coupling.'
-heading: '**Φ-Dynamics (Coherence)**'
-id: GEN16-3687
-lines: 213-219
-location: genesis-16/quantum-measurement-in-igsoa-vs::cross-reference-to-igsoa-core-concepts::φ-dynamics-coherence::b1
-parent_heading: '**Cross-Reference to IGSOA Core Concepts**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- Φ
+- δ-degeneracy
+- low-entropy
+- Φ-branch
+- Φ-field
+- δ
+aliases:
+- Bk190sl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

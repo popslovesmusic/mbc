@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Tri-Unity
-excerpt: 'We require three categories, mirroring the Tri-Unity stack:'
-heading: '**1\. Categories Involved**'
 id: GEN13-2286
-lines: 352-354
 location: genesis-13/the-weight-of-light::1-categories-involved::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 352-354
+heading: '**1\. Categories Involved**'
+block_type: paragraph
+excerpt: 'We require three categories, mirroring the Tri-Unity stack:'
+concepts:
+- Tri-Unity
+aliases:
+- Bk354rt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

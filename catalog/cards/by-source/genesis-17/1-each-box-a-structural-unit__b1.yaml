@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- box
-- Φ
-- δ
-excerpt: 'A **box** in your system is: * a unit of curvature structure * a finite
-  region of distinguishability'
-heading: '**⭐ 1\. Each “box” \= a structural unit**'
 id: GEN17-4937
-lines: 856-870
 location: genesis-17/key-points::1-each-box-a-structural-unit::b1
 source: genesis-17\Key_Points.md
+lines: 856-870
+heading: '**⭐ 1\. Each “box” \= a structural unit**'
+block_type: paragraph
+excerpt: 'A **box** in your system is: * a unit of curvature structure * a finite
+  region of distinguishability'
+concepts:
+- IGSOA
+- node in the structural graph
+- δ
+- Φ
+- →
+- box
+aliases:
+- Bk714by
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

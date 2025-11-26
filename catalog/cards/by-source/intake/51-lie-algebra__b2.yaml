@@ -1,16 +1,34 @@
+id: INTK-10504
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::5-lie-algebras-and-the-3-6-9-symmetry::51-lie-algebra::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1868-1869
+heading: '**5.1. Lie ∞-Algebra**'
+parent_heading: '**5. Lie ∞-Algebras and the 3-6-9 Symmetry**'
 block_type: paragraph
-concepts:
-- Fractal Operators
-- Meta-Fractal
-- Scale-Stack
-- The Meta
-- Σ
 excerpt: The Meta-Fractal Operators (A/H/E/F, T̂, Σ̂, ∇̂) form a **Lie ∞-algebra**
   of higher derivations on the Scale-Stack. This is a higher-categorical generalization
   of a Lie algebra, suitable for describin...
-heading: '**5.1. Lie ∞-Algebra**'
-id: INTK-10504
-lines: 1868-1869
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::5-lie-algebras-and-the-3-6-9-symmetry::51-lie-algebra::b2
-parent_heading: '**5. Lie ∞-Algebras and the 3-6-9 Symmetry**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- higher-categorical
+- ∞
+- Meta-Fractal
+- Scale-Stack
+- Σ
+- ∇
+- Fractal Operators
+- The Meta
+aliases:
+- Bk514tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**5\. Hermetic Sealed Box**'
 id: GEN13-2374
-lines: 1589-1591
 location: genesis-13/the-weight-of-light::5-hermetic-sealed-box::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 1589-1591
+heading: '**5\. Hermetic Sealed Box**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

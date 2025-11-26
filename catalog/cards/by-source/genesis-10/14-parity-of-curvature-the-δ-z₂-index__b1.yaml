@@ -1,13 +1,32 @@
+id: GEN10-709
+location: genesis-10/how-stillness-becomes-solid::1-δ-geometry-curvature-parity-on-adjacency-space::14-parity-of-curvature-the-δ-z₂-index::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 471-487
+heading: '**1.4 Parity of Curvature: The δ-Z₂ Index**'
+parent_heading: '**1\. δ-Geometry: Curvature Parity on Adjacency Space**'
 block_type: paragraph
-concepts:
-- Σ
-- δ
-- ν
 excerpt: 'The key step: define the **δ-parity invariant**: νδ(Σ)=m mod 2.\\nu\_\\delta(\\Sigma)
   \= m \\bmod 2.νδ​(Σ)=mmod2. This is a purely Genesis-level invariant:'
-heading: '**1.4 Parity of Curvature: The δ-Z₂ Index**'
-id: GEN10-709
-lines: 471-487
-location: genesis-10/how-stillness-becomes-solid::1-δ-geometry-curvature-parity-on-adjacency-space::14-parity-of-curvature-the-δ-z₂-index::b1
-parent_heading: '**1\. δ-Geometry: Curvature Parity on Adjacency Space**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- δ
+- δ-parity
+- δ-parity invariant
+- ν
+- Σ
+- Genesis-level
+- δ-gauge
+aliases:
+- Bk666tk
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.29032258064516
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

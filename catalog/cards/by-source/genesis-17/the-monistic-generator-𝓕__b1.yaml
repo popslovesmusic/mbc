@@ -1,10 +1,25 @@
+id: GEN17-4628
+location: genesis-17/box-calculus::1-igsoa-is-one-process-not-two-modes::the-monistic-generator-𝓕::b1
+source: genesis-17\box_calculus.md
+lines: 7469-7479
+heading: '⭐ The monistic generator 𝓕:'
+parent_heading: ⭐ 1\. IGSOA is One Process, Not Two Modes
 block_type: paragraph
+excerpt: F:Σ→Σ′ F:Σ→Σ ′
 concepts:
 - Σ
-excerpt: F:Σ→Σ′ F:Σ→Σ ′
-heading: '⭐ The monistic generator 𝓕:'
-id: GEN17-4628
-lines: 7469-7479
-location: genesis-17/box-calculus::1-igsoa-is-one-process-not-two-modes::the-monistic-generator-𝓕::b1
-parent_heading: ⭐ 1\. IGSOA is One Process, Not Two Modes
-source: genesis-17\box_calculus.md
+- →
+aliases:
+- Bk754it
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

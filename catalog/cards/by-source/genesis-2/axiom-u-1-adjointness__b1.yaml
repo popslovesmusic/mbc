@@ -1,13 +1,29 @@
+id: GEN2-6469
+location: genesis-2/axioms-of-geometry-topos-compatible::v-δφ-unity-layer-structural-harmony::axiom-u-1-adjointness::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1962-1968
+heading: '**Axiom (U-1) — Adjointness**'
+parent_heading: '**V. δ–Φ Unity Layer (Structural Harmony)**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Φ
-- δ
 excerpt: 'There exists an adjoint pair Φ:δ-Geom  ⇄  Meta-Math:U.\\Phi : \\delta\\text{-Geom}
   \\;\\rightleftarrows\\; \\text{Meta-Math} : U.Φ:δ-Geom⇄Meta-Math:U. ---'
-heading: '**Axiom (U-1) — Adjointness**'
-id: GEN2-6469
-lines: 1962-1968
-location: genesis-2/axioms-of-geometry-topos-compatible::v-δφ-unity-layer-structural-harmony::axiom-u-1-adjointness::b1
-parent_heading: '**V. δ–Φ Unity Layer (Structural Harmony)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Meta-Math
+- δ-Geom
+- δ
+- Φ
+aliases:
+- Bk957te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: δ defines adjacency and deviation on an abstract graph. ---
-heading: '**1\. δ-Layer: Lattice Geometry and Emergent Order**'
 id: GEN13-2175
-lines: 2087-2091
 location: genesis-13/meta-math-nuclear-physics::1-δ-layer-lattice-geometry-and-emergent-order::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2087-2091
+heading: '**1\. δ-Layer: Lattice Geometry and Emergent Order**'
+block_type: paragraph
+excerpt: δ defines adjacency and deviation on an abstract graph. ---
+concepts:
+- δ
+aliases:
+- Bk294da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

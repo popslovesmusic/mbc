@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- Meta-Physics
-- δ
-excerpt: 'Now the bridge: In your formalism, the Meta-Physics layer projects down
-  into: * geometry,'
-heading: '**6\. How ordinary physical causality emerges**'
 id: GEN4-7667
-lines: 1002-1039
 location: genesis-4/meta-physics-axiom-box::6-how-ordinary-physical-causality-emerges::b1
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1002-1039
+heading: '**6\. How ordinary physical causality emerges**'
+block_type: paragraph
+excerpt: 'Now the bridge: In your formalism, the Meta-Physics layer projects down
+  into: * geometry,'
+concepts:
+- Meta-Einstein
+- light-cone
+- δ
+- Meta-Physics
+- light-coneYX
+- light-cones
+- δ-order
+- δYX
+aliases:
+- Bk094nt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.6190476190476195
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

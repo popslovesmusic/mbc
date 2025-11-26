@@ -1,12 +1,26 @@
-block_type: paragraph
-concepts:
-- Man Syndrome
-- Spider-Man
-- scale
-excerpt: Spider-Man Syndrome\*\* And unlike mentalists, the *scale* is global. Let’s
-  break this down cleanly and honestly.
-heading: '**No built-in responsibility**'
 id: SPEC-11353
-lines: 7496-7504
 location: special/specil::no-built-in-responsibility::b1
 source: special\specil.md
+lines: 7496-7504
+heading: '**No built-in responsibility**'
+block_type: paragraph
+excerpt: Spider-Man Syndrome\*\* And unlike mentalists, the *scale* is global. Let’s
+  break this down cleanly and honestly.
+concepts:
+- Spider-Man
+- Man Syndrome
+aliases:
+- Bk601sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

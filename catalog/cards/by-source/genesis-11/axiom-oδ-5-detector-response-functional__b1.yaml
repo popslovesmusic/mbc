@@ -1,12 +1,36 @@
+id: GEN11-1073
+location: genesis-11/how-curvature-could-generate-an-axis::the-δecho-observation-axiom::axiom-oδ-5-detector-response-functional::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 1217-1240
+heading: '**Axiom Oδ-5 (Detector Response Functional)**'
+parent_heading: '**The δ–Echo Observation Axiom**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: A gravitational-wave detector measures s(t)=hobs(t)+ninst(t),s(t)=h\_{\\rm
   obs}(t)+n\_{\\rm inst}(t),s(t)=hobs​(t)+ninst​(t), where ninst(t)n\_{\\rm inst}(t)ninst​(t)
   is instrument noise, and
-heading: '**Axiom Oδ-5 (Detector Response Functional)**'
-id: GEN11-1073
-lines: 1217-1240
-location: genesis-11/how-curvature-could-generate-an-axis::the-δecho-observation-axiom::axiom-oδ-5-detector-response-functional::b1
-parent_heading: '**The δ–Echo Observation Axiom**'
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+concepts:
+- Δ
+- ∑
+- frequency-dependent
+- gravitational-wave
+- π
+- δ
+- ∞
+- echo-modulated
+- spectral comb structures
+- δ-echo
+- interference ripples
+aliases:
+- Bk165gw
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.699481865284974
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,18 +1,38 @@
-block_type: table
-concepts:
-- Evolution Law
-- Growth Dynamics
-- Heat Flow
-- Quantum Mechanics
-- Ricci Flow
-- Π
-- Σ
-- β
-- δ
-- λ
-excerpt: IGSOA becomes a universal deformation theory. ---
-heading: 🔷 7\. Analogy Table (Cross-Referenced)
 id: GEN17-4845
-lines: 10286-10297
 location: genesis-17/box-calculus::7-analogy-table-cross-referenced::b1
 source: genesis-17\box_calculus.md
+lines: 10286-10297
+heading: 🔷 7\. Analogy Table (Cross-Referenced)
+block_type: table
+excerpt: IGSOA becomes a universal deformation theory. ---
+concepts:
+- Σ
+- ∂
+- IGSOA
+- ψ
+- ∇
+- δ
+- Δ
+- →
+- Π-shadow
+- Π
+- β
+- λ
+- Quantum Mechanics
+- Growth Dynamics
+- Evolution Law
+aliases:
+- Bk145se
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.675675675675674
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'SMBH arises from δ-curvature saturation: Cδ\>Ccrit.C\_\\delta \> C\_{\\mathrm{crit}}.Cδ​\>Ccrit​.
-  Evolution of the SMBH corresponds to:'
-heading: '**Part VI — Central Black Hole Growth**'
 id: GEN12-1925
-lines: 3022-3036
 location: genesis-12/untitled-document::part-vi-central-black-hole-growth::b1
 source: genesis-12\Untitled_document.md
+lines: 3022-3036
+heading: '**Part VI — Central Black Hole Growth**'
+block_type: paragraph
+excerpt: 'SMBH arises from δ-curvature saturation: Cδ\>Ccrit.C\_\\delta \> C\_{\\mathrm{crit}}.Cδ​\>Ccrit​.
+  Evolution of the SMBH corresponds to:'
+concepts:
+- δ
+- Φ
+- δ-peak
+- Π
+- δ-curvature
+- Φ₂
+aliases:
+- Bk734sa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.317073170731707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

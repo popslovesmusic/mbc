@@ -1,12 +1,38 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-- μ
-excerpt: 'Let Tδ=(Aδ,  Hδ,  Dδ)\\mathfrak T\_\\delta \= (\\mathcal A\_\\delta,\\;\\mathcal
-  H\_\\delta,\\;D\_\\delta)Tδ​=(Aδ​,Hδ​,Dδ​) with:'
-heading: '**THEOREM (δ-Harmonic Spectral Triple Legitimacy).**'
 id: GEN6-8391
-lines: 465-485
 location: genesis-6/the-harmonic-spectral-triple::theorem-δ-harmonic-spectral-triple-legitimacy::b1
 source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 465-485
+heading: '**THEOREM (δ-Harmonic Spectral Triple Legitimacy).**'
+block_type: paragraph
+excerpt: 'Let Tδ=(Aδ,  Hδ,  Dδ)\\mathfrak T\_\\delta \= (\\mathcal A\_\\delta,\\;\\mathcal
+  H\_\\delta,\\;D\_\\delta)Tδ​=(Aδ​,Hδ​,Dδ​) with:'
+concepts:
+- δ
+- π
+- self-adjoint
+- ∀
+- μ
+- ∈
+- Φ
+- →
+- δ-harmonic
+- δ-Hilbert
+- δ-Dirac
+- spectral triple
+- each condition
+- ΦD
+aliases:
+- Bk805lm
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.303030303030303
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

@@ -1,18 +1,41 @@
+id: GEN18-5792
+location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-produce-one-of-the-following-extensions::explicit-small-step-and-big-step-reasoning-semantics::you-said::chatgpt-said::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1847-1856
+heading: '**ChatGPT said:**'
+parent_heading: '**You said:**'
 block_type: paragraph
-concepts:
-- Category Theory
-- Semantic Logic Diagram Stack
-- Standard Logic
-- dual-column
-- Π
-- Φ
-- δ
 excerpt: 'Below is the **MBC-4.0 Semantic Logic Diagram Stack** you requested — the
   canonical, sealed visualization of the **semantic logic layer**: **δ-adjacency →
   Φ-functoriality → Π-truth**, shown in **dual-...'
-heading: '**ChatGPT said:**'
-id: GEN18-5792
-lines: 1847-1856
-location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-produce-one-of-the-following-extensions::explicit-small-step-and-big-step-reasoning-semantics::you-said::chatgpt-said::b1
-parent_heading: '**You said:**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- IGSOA
+- MBC
+- →
+- Π
+- δ
+- Φ
+- Φ-functoriality
+- Semantic Logic Diagram Stack
+- dual-column
+- δ-adjacency
+- Π-truth
+- ↔
+- semantic logic layer
+- Category Theory
+- Standard Logic
+aliases:
+- Bk327bt
+tags:
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.59016393442623
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

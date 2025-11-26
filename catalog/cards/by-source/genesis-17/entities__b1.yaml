@@ -1,14 +1,31 @@
+id: GEN17-5016
+location: genesis-17/mbc-schema-3::9-minimal-syntax-for-llm-usage::entities::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 159-165
+heading: '**Entities**'
+parent_heading: '**9\. Minimal Syntax (For LLM Usage)**'
 block_type: paragraph
-concepts:
-- Box
-- Π
-- Φ
-- δ
 excerpt: '`IGSOA   // monistic ground` `δ       // deviation` `Φ(x)    // curvature
   created by δ`'
-heading: '**Entities**'
-id: GEN17-5016
-lines: 159-165
-location: genesis-17/mbc-schema-3::9-minimal-syntax-for-llm-usage::entities::b1
-parent_heading: '**9\. Minimal Syntax (For LLM Usage)**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- IGSOA
+- Box
+- Π
+- δ
+- Π-ordered
+- Φ
+aliases:
+- Bk417im
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.57894736842105
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

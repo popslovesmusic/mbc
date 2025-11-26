@@ -1,13 +1,32 @@
+id: GEN12-1580
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::2-δ-φ-harmonicization::25-unified-interpretation-one-ladder-many-phenomena::1-gw-echo-bands::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 796-802
+heading: '**(1) GW Echo Bands**'
+parent_heading: '**2.5 Unified Interpretation: One Ladder, Many Phenomena**'
 block_type: paragraph
-concepts:
-- Φ
-- λ
 excerpt: 'The spacing between gravitational-wave echo peaks is determined by: Δfecho=λk+1−λk.\\Delta
   f\_{\\text{echo}} \= \\lambda\_{k+1} \- \\lambda\_k.Δfecho​=λk+1​−λk​. Thus echoes
   are **Φ-mode spacing**.'
-heading: '**(1) GW Echo Bands**'
-id: GEN12-1580
-lines: 796-802
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::2-δ-φ-harmonicization::25-unified-interpretation-one-ladder-many-phenomena::1-gw-echo-bands::b1
-parent_heading: '**2.5 Unified Interpretation: One Ladder, Many Phenomena**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- λ
+- gravitational-wave
+- Δ
+- Φ-mode spacing
+- Φ-mode
+- Φ
+aliases:
+- Bk397ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

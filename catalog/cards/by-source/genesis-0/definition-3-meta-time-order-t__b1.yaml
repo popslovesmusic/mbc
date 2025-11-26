@@ -1,13 +1,29 @@
+id: GEN0-226
+location: genesis-0/tri-unity-theorem-equivalence-of::2-key-definitions::definition-3-meta-time-order-t::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1034-1038
+heading: '**Definition 3 — Meta-Time Order (T)**'
+parent_heading: '**2\. Key Definitions**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: Ψi≺Ψj  ⟺  ∃n\>0:Ψj=δnΨi.\\Psi\_i \\prec \\Psi\_j \\iff \\exists n\>0:\\Psi\_j
   \= \\delta^n\\Psi\_i.Ψi​≺Ψj​⟺∃n\>0:Ψj​=δnΨi​. This is a strict partial order (never
   invertible).
-heading: '**Definition 3 — Meta-Time Order (T)**'
-id: GEN0-226
-lines: 1034-1038
-location: genesis-0/tri-unity-theorem-equivalence-of::2-key-definitions::definition-3-meta-time-order-t::b1
-parent_heading: '**2\. Key Definitions**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- Ψi
+- Ψj
+- ∃
+- δ
+- δn
+aliases:
+- Bk176pp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

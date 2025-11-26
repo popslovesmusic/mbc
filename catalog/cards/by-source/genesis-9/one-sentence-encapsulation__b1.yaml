@@ -1,13 +1,31 @@
+id: GEN9-9152
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::one-sentence-encapsulation::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1960-1966
+heading: '**One-sentence encapsulation**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '**In IGSOA, the periodic table is not a collection of electron counts but
   the geometric shadow of δ-harmonic degeneracy, Φ-mode symmetry, and Π-orbital curvature.**
   --- If you want, I can also produce...'
-heading: '**One-sentence encapsulation**'
-id: GEN9-9152
-lines: 1960-1966
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::one-sentence-encapsulation::b1
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- IGSOA
+- δ-harmonic
+- Π-orbital
+- Φ-mode
+- Π
+- δ
+- Φ
+aliases:
+- Bk955it
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.588235294117645
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

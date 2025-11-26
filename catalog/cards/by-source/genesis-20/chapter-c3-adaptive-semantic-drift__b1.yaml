@@ -1,10 +1,28 @@
+id: GEN20-7071
+location: genesis-20/mbc-40-documentaitio-1::part-iii-statistical-adaptive-extensions::chapter-c3-adaptive-semantic-drift::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5180-5185
+heading: Chapter C3 — Adaptive Semantic Drift
+parent_heading: PART III — Statistical & Adaptive Extensions
 block_type: list
-concepts: []
 excerpt: '* long-range context drift * gradual polarity rebalancing * concept-stability
   fields'
-heading: Chapter C3 — Adaptive Semantic Drift
-id: GEN20-7071
-lines: 5180-5185
-location: genesis-20/mbc-40-documentaitio-1::part-iii-statistical-adaptive-extensions::chapter-c3-adaptive-semantic-drift::b1
-parent_heading: PART III — Statistical & Adaptive Extensions
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- concept-stability
+- memory-based
+- long-range
+aliases:
+- Bk875lr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

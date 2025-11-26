@@ -1,11 +1,29 @@
+id: GEN17-5039
+location: genesis-17/mbc-schema-3::expanded-diagram-stack-multi-layer::stage-6-aggregation::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 458-462
+heading: '**Stage 6 — Aggregation**'
+parent_heading: '**Expanded Diagram Stack (Multi-Layer)**'
 block_type: paragraph
+excerpt: '`(ΣΣ)a(Box-set) → Aggregated higher-order Box` ---'
 concepts:
 - Box
 - Σ
-excerpt: '`(ΣΣ)a(Box-set) → Aggregated higher-order Box` ---'
-heading: '**Stage 6 — Aggregation**'
-id: GEN17-5039
-lines: 458-462
-location: genesis-17/mbc-schema-3::expanded-diagram-stack-multi-layer::stage-6-aggregation::b1
-parent_heading: '**Expanded Diagram Stack (Multi-Layer)**'
-source: genesis-17\MBC_Schema_3.md
+- higher-order
+- Box-set
+- →
+aliases:
+- Bk249bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 62.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

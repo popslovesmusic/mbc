@@ -1,12 +1,28 @@
+id: GEN14-3080
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::viii-natural-transformations-domains-and-excitations::1-domain-morphisms::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 2255-2259
+heading: '**1\. Domain Morphisms**'
+parent_heading: '**VIII. Natural Transformations: Domains and Excitations**'
 block_type: paragraph
-concepts:
-- Π
-- η
 excerpt: 'Domains correspond to natural transformations between Π-stable objects:
   η:F(X)⇒F(Y).\\eta: F(X) \\Rightarrow F(Y).η:F(X)⇒F(Y).'
-heading: '**1\. Domain Morphisms**'
-id: GEN14-3080
-lines: 2255-2259
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::viii-natural-transformations-domains-and-excitations::1-domain-morphisms::b1
-parent_heading: '**VIII. Natural Transformations: Domains and Excitations**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- η
+- Π-stable
+- Π
+aliases:
+- Bk346dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,30 @@
-block_type: paragraph
-concepts:
-- Anchored Translation Projection
-- Genesis Layer
-- Layer
-- Math Layer
-- Meta-Math
-- Scale-Anchored
-- Ψ
-- δ
-excerpt: '`Genesis Layer` `(δ, NOT, Ψ₀, δΨ₀, A, Tₘₑₜₐ)` `│`'
-heading: '**1\. Top-Level Projection Flow**'
 id: INTK-9919
-lines: 357-370
 location: intake/meta-genesis-diagrammatic-papers::1-top-level-projection-flow::b1
 source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 357-370
+heading: '**1\. Top-Level Projection Flow**'
+block_type: paragraph
+excerpt: '`Genesis Layer` `(δ, NOT, Ψ₀, δΨ₀, A, Tₘₑₜₐ)` `│`'
+concepts:
+- Meta-Math
+- Projection
+- Layer
+- Anchored Translation Projection
+- δ
+- Ψ
+- Scale-Anchored
+- Genesis Layer
+- Ψ₀
+- Math Layer
+aliases:
+- Bk087gl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 32.25806451612903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

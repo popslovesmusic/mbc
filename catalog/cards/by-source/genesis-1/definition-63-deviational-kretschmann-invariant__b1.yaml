@@ -1,15 +1,31 @@
+id: GEN1-625
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::6-higher-deviational-curvature-invariants::definition-63-deviational-kretschmann-invariant::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1391-1397
+heading: '**Definition 6.3 — Deviational Kretschmann Invariant.**'
+parent_heading: '**6\. Higher Deviational Curvature Invariants**'
 block_type: paragraph
-concepts:
-- δ
-- λ
-- μ
-- ν
-- σ
 excerpt: Kδ:=Tr(\[δ,δ\]†\[δ,δ\]).K\_\\delta := \\mathrm{Tr}(\[\\delta,\\delta\]^\\dagger\[\\delta,\\delta\]).Kδ​:=Tr(\[δ,δ\]†\[δ,δ\]).
   This plays the role of a deviation-curvature invariant analogous to RμνλσR...
-heading: '**Definition 6.3 — Deviational Kretschmann Invariant.**'
-id: GEN1-625
-lines: 1391-1397
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::6-higher-deviational-curvature-invariants::definition-63-deviational-kretschmann-invariant::b1
-parent_heading: '**6\. Higher Deviational Curvature Invariants**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- ν
+- λ
+- μ
+- σ
+- deviation-curvature
+aliases:
+- Bk881dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

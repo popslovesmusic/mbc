@@ -1,12 +1,26 @@
+id: INTK-10237
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::5-eigenvalues-and-observables::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 263-271
+heading: '**5. Eigenvalues and Observables**'
 block_type: paragraph
-concepts:
-- Fractal Matrix
-- Meta-Fractal
 excerpt: The eigenvalues of the 9x9 Meta-Fractal Matrix `M_IJ` represent fundamental
   conserved quantities or inherent properties of the deviation field. *   **Mass eigenvalues:**
   Direct link between specific m...
-heading: '**5. Eigenvalues and Observables**'
-id: INTK-10237
-lines: 263-271
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::5-eigenvalues-and-observables::b1
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Fractal
+- Fractal Matrix
+aliases:
+- Bk332te
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.6363636363636362
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

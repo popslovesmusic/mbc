@@ -1,11 +1,23 @@
+id: GEN17-4790
+location: genesis-17/box-calculus::axiom-9-all-other-operators-are-derived-operators::routing-merge-r::b1
+source: genesis-17\box_calculus.md
+lines: 9447-9470
+heading: 'Routing Merge (R):'
+parent_heading: 🔷 AXIOM 9 – All Other Operators Are Derived Operators
 block_type: paragraph
+excerpt: R(Σ+,Σ−)=Σ++Σ−+δ(Σ+,Σ−) R(Σ \+
 concepts:
 - Σ
 - δ
-excerpt: R(Σ+,Σ−)=Σ++Σ−+δ(Σ+,Σ−) R(Σ \+
-heading: 'Routing Merge (R):'
-id: GEN17-4790
-lines: 9447-9470
-location: genesis-17/box-calculus::axiom-9-all-other-operators-are-derived-operators::routing-merge-r::b1
-parent_heading: 🔷 AXIOM 9 – All Other Operators Are Derived Operators
-source: genesis-17\box_calculus.md
+aliases:
+- Bk896aa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

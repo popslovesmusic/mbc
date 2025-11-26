@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: 'In category language: * SU(2) \= automorphisms of θ-doublet * Φ removes
-  fiber asymmetry'
-heading: '**9\. Category-Theoretic Interpretation**'
 id: GEN9-9570
-lines: 2338-2356
 location: genesis-9/strong-force::9-category-theoretic-interpretation::b1
 source: genesis-9\strong-force.md
+lines: 2338-2356
+heading: '**9\. Category-Theoretic Interpretation**'
+block_type: paragraph
+excerpt: 'In category language: * SU(2) \= automorphisms of θ-doublet * Φ removes
+  fiber asymmetry'
+concepts:
+- θ
+- Φ
+aliases:
+- Bk211cl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,31 @@
+id: GEN4-7641
+location: genesis-4/meta-physics-axiom-box::vi-foundation-closure-axiom::axiom-fc2-conservation-of-deviation::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 593-601
+heading: '**Axiom FC.2 — Conservation of Deviation**'
+parent_heading: '**VI. FOUNDATION CLOSURE AXIOM**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'For any lawful morphism f:X→Yf:X\\to Yf:X→Y: ∣δY∣≥∣δX∣.|\\delta Y|\\ge |\\delta
   X|.∣δY∣≥∣δX∣. This is the foundation’s analog of information conservation \+ entropy
   monotonicity.'
-heading: '**Axiom FC.2 — Conservation of Deviation**'
-id: GEN4-7641
-lines: 593-601
-location: genesis-4/meta-physics-axiom-box::vi-foundation-closure-axiom::axiom-fc2-conservation-of-deviation::b1
-parent_heading: '**VI. FOUNDATION CLOSURE AXIOM**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- δ
+- ≥
+- →
+- δY
+- δX
+aliases:
+- Bk140fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

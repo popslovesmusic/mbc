@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- -module
-- γ
-- δ
-excerpt: 'Because: Tδ=−Tδ\\\*,T\_\\delta \= \-T\_\\delta^\\\*,Tδ​=−Tδ\\\*​, and because:'
-heading: '**5\. Chirality from C\*-Structure**'
 id: GEN9-9540
-lines: 1792-1818
 location: genesis-9/strong-force::5-chirality-from-c-structure::b1
 source: genesis-9\strong-force.md
+lines: 1792-1818
+heading: '**5\. Chirality from C\*-Structure**'
+block_type: paragraph
+excerpt: 'Because: Tδ=−Tδ\\\*,T\_\\delta \= \-T\_\\delta^\\\*,Tδ​=−Tδ\\\*​, and because:'
+concepts:
+- δ
+- γ
+- ⊕
+- ≠
+- weak chirality
+aliases:
+- Bk411bd
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.166666666666666
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

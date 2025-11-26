@@ -1,12 +1,25 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- Φ
-- δ
-excerpt: No alternative curvature law is compatible with δ/Φ unity. Thus **Meta-Einstein
-  is the only possible IGSOA curvature equation.** ---
-heading: '**Corollary 2 (Uniqueness)**'
 id: GEN3-7436
-lines: 986-991
 location: genesis-3/the-physics-box-diagram::corollary-2-uniqueness::b1
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 986-991
+heading: '**Corollary 2 (Uniqueness)**'
+block_type: paragraph
+excerpt: No alternative curvature law is compatible with δ/Φ unity. Thus **Meta-Einstein
+  is the only possible IGSOA curvature equation.** ---
+concepts:
+- Meta-Einstein
+- IGSOA
+- δ
+- Φ
+aliases:
+- Bk432ac
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,25 @@
-block_type: paragraph
-concepts:
-- Ψ
-excerpt: If Ψ₀ contained differences, operators, or geometry, then Ψ₀ would not be
-  “zero.” It would already be structured.
-heading: '**(1) The Zero-State (Ψ₀) cannot contain distinctions.**'
 id: GEN5-7980
-lines: 668-671
 location: genesis-5/formal-proof-of-the-adjoint-triple::1-why-monism-is-not-a-philosophical-choice-but-a-mathematical-necessity::1-the-zero-state-ψ₀-cannot-contain-distinctions::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 668-671
+heading: '**(1) The Zero-State (Ψ₀) cannot contain distinctions.**'
 parent_heading: '**1\. Why Monism Is Not a Philosophical Choice but a Mathematical
   Necessity**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+block_type: paragraph
+excerpt: If Ψ₀ contained differences, operators, or geometry, then Ψ₀ would not be
+  “zero.” It would already be structured.
+concepts:
+- Ψ
+- Ψ₀
+aliases:
+- Bk029cd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,31 @@
+id: GEN15-3415
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-the-δ-operad-𝒪δ::11-objects::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 562-568
+heading: '**1.1 Objects**'
+parent_heading: '**1\. The δ-Operad 𝒪₍δ₎**'
 block_type: paragraph
-concepts:
-- scales
-- δ
 excerpt: 'The colors/types of the operad are the **scales** or **harmonic degrees**:
   Col(Oδ)={0,1,2,…}\\text{Col}(\\mathcal{O}\_\\delta) \= \\{ 0,1,2,\\ldots \\}Col(Oδ​)={0,1,2,…}
   Each index corresponds to a δ-...'
-heading: '**1.1 Objects**'
-id: GEN15-3415
-lines: 562-568
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-the-δ-operad-𝒪δ::11-objects::b1
-parent_heading: '**1\. The δ-Operad 𝒪₍δ₎**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- δ-harmonic
+- harmonic degrees
+- δn
+- scales
+aliases:
+- Bk985tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.627906976744185
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

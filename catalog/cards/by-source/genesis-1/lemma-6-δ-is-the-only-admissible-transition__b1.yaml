@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Box
-- defined
-- Φ
-- Ψ
-- δ
-excerpt: '**Claim:** The only possible Φ such that Ψ₀ → Φ is **δΨ₀**. **Proof:**'
-heading: '**Lemma 6 (δ Is the Only Admissible Transition).**'
 id: GEN1-491
-lines: 1119-1155
 location: genesis-1/the-foundation-layer::ii-lemmas-leading-to-the-theorem::lemma-6-δ-is-the-only-admissible-transition::b1
-parent_heading: '**II. Lemmas Leading to the Theorem**'
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1119-1155
+heading: '**Lemma 6 (δ Is the Only Admissible Transition).**'
+parent_heading: '**II. Lemmas Leading to the Theorem**'
+block_type: paragraph
+excerpt: '**Claim:** The only possible Φ such that Ψ₀ → Φ is **δΨ₀**. **Proof:**'
+concepts:
+- Ψ
+- Ψ₀
+- δ
+- Φ
+- Proof
+- →
+- Box
+- non-existent
+- defined
+aliases:
+- Bk966ct
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.278350515463918
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

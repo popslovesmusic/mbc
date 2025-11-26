@@ -1,12 +1,28 @@
+id: GEN13-2335
+location: genesis-13/the-weight-of-light::2-second-adjoint-pair-φ-π::24-triangle-identities::left-triangle::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1051-1055
+heading: '**Left Triangle:**'
+parent_heading: '**2.4 Triangle identities**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: \\Phi(P) \\to \\Phi(\\Pi^\\\!\*\\Phi(P)) \\to P Φ(P) → Π\*Φ(P) → Φ(P) commutes
   because Π\*Φ \= geodesic reconstruction.
-heading: '**Left Triangle:**'
-id: GEN13-2335
-lines: 1051-1055
-location: genesis-13/the-weight-of-light::2-second-adjoint-pair-φ-π::24-triangle-identities::left-triangle::b1
-parent_heading: '**2.4 Triangle identities**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Φ
+- Π
+- →
+aliases:
+- Bk568pp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

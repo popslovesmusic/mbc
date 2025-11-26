@@ -1,14 +1,28 @@
+id: GEN6-8412
+location: genesis-6/the-harmonic-spectral-triple::consistency-conditions-for-meta-genesis-meta-math::overview-intuition::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 740-768
+heading: '**Overview (Intuition)**'
+parent_heading: '**Consistency Conditions for Meta-Genesis ↔ Meta-Math**'
 block_type: paragraph
+excerpt: 'Meta-Genesis describes: * *Potential before structure* * No operators, no
+  metric, no adjacency, no topology'
 concepts:
 - Meta-Genesis
 - Meta-Math
-- only
+- never contradicts the structures Meta-Math constructs
+- never implicitly assumes what Meta-Genesis denies
 - δ
-excerpt: 'Meta-Genesis describes: * *Potential before structure* * No operators, no
-  metric, no adjacency, no topology'
-heading: '**Overview (Intuition)**'
-id: GEN6-8412
-lines: 740-768
-location: genesis-6/the-harmonic-spectral-triple::consistency-conditions-for-meta-genesis-meta-math::overview-intuition::b1
-parent_heading: '**Consistency Conditions for Meta-Genesis ↔ Meta-Math**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+- only
+aliases:
+- Bk564mg
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

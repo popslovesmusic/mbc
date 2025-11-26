@@ -1,14 +1,32 @@
+id: GEN17-4295
+location: genesis-17/box-calculus::5-big-picture-differences::closure-axiom-box-is::b1
+source: genesis-17\box_calculus.md
+lines: 2216-2228
+heading: 'Closure Axiom Box is:'
+parent_heading: ⭐ 5\. Big Picture Differences
 block_type: list
-concepts:
-- Box
-- Formal Logic
-- "Ontology  \nClosure Box"
-- "Process Algebra  \nThey"
 excerpt: '* more granular * more category/computation-theoretic * more syntactically
   explicit'
-heading: 'Closure Axiom Box is:'
-id: GEN17-4295
-lines: 2216-2228
-location: genesis-17/box-calculus::5-big-picture-differences::closure-axiom-box-is::b1
-parent_heading: ⭐ 5\. Big Picture Differences
-source: genesis-17\box_calculus.md
+concepts:
+- computation-theoretic
+- Box
+- meta-theory
+- "Ontology  \nClosure Box"
+- "Process Algebra  \nThey"
+- Formal Logic
+aliases:
+- Bk354mg
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

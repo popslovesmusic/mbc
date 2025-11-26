@@ -1,14 +1,32 @@
-block_type: table
-concepts:
-- Box
-- Standard Interpretation
-- only
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: '**4\. Consequences For Entire MBC-4.0 Stack**'
 id: GEN18-5328
-lines: 2486-2495
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::4-consequences-for-entire-mbc-40-stack::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2486-2495
+heading: '**4\. Consequences For Entire MBC-4.0 Stack**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- →
+- MBC
+- Box
+- Π
+- δ
+- Φ
+- Standard Interpretation
+- no second genesis
+- only
+aliases:
+- Bk230si
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.084507042253522
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

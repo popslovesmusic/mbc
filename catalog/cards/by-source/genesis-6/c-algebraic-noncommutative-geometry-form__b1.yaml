@@ -1,13 +1,33 @@
+id: GEN6-8365
+location: genesis-6/the-harmonic-spectral-triple::the-δ-harmonic-spectral-triple::c-algebraic-noncommutative-geometry-form::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 4-12
+heading: '***(C\*-algebraic / Noncommutative-Geometry Form)***'
+parent_heading: '**The δ-Harmonic Spectral Triple**'
 block_type: paragraph
-concepts:
-- Harmonic Spectral Triple
-- δ
 excerpt: We define a **δ-Harmonic Spectral Triple** Tδ  =  ( Aδ,  Hδ,  Dδ )\\mathfrak{T}\_\\delta
   \\;=\\; (\\,\\mathcal{A}\_\\delta,\\; \\mathcal{H}\_\\delta,\\; D\_\\delta \\,)Tδ​=(Aδ​,Hδ​,Dδ​)
   which encodes ...
-heading: '***(C\*-algebraic / Noncommutative-Geometry Form)***'
-id: GEN6-8365
-lines: 4-12
-location: genesis-6/the-harmonic-spectral-triple::the-δ-harmonic-spectral-triple::c-algebraic-noncommutative-geometry-form::b1
-parent_heading: '**The δ-Harmonic Spectral Triple**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- δ
+- δ-geometry
+- δ-Harmonic Spectral Triple
+- δ-harmonic
+- δ-Harmonic
+- δ-bosonic
+- Harmonic Spectral Triple
+aliases:
+- Bk194dh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.27906976744186
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

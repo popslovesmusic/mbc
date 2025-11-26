@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Drift occurs when metadata slowly shifts: d(t+1)=d(t)+δd d'
-heading: C1.5 Semantic Drift Rule
 id: GEN20-7264
-lines: 8156-8174
 location: genesis-20/mbc-40-documentaitio-1::c15-semantic-drift-rule::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 8156-8174
+heading: C1.5 Semantic Drift Rule
+block_type: paragraph
+excerpt: 'Drift occurs when metadata slowly shifts: d(t+1)=d(t)+δd d'
+concepts:
+- δ
+- long-term
+- δd
+aliases:
+- Bk472do
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

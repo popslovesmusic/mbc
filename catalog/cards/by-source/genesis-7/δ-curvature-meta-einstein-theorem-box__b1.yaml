@@ -1,20 +1,36 @@
+id: GEN7-8643
+location: genesis-7/why-curvature-gives-gravity::δ-curvature-meta-einstein-theorem-box::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 335-342
+heading: '**◼ δ-Curvature → Meta-Einstein Theorem Box**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom-Box
-- Box
-- Foundation Layer
-- Genesis Axiom
-- Geometry Axiom Boxes
-- Law Stability Axiom
-- Layer
-- Meta-Einstein
-- δ
 excerpt: '*(The core mapping theorem that powers all Meta-Einstein derivations)* This
   is written in the same polished Axiom-Box style as the NOT Axiom, Genesis Axiom,
   Law Stability Axiom, and δ-Geometry Axiom B...'
-heading: '**◼ δ-Curvature → Meta-Einstein Theorem Box**'
-id: GEN7-8643
-lines: 335-342
-location: genesis-7/why-curvature-gives-gravity::δ-curvature-meta-einstein-theorem-box::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- Axiom
+- Meta-Einstein
+- Foundation Layer
+- Box
+- Theorem
+- Layer
+- δ-Geometry
+- Axiom-Box
+- δ
+- Geometry Axiom Boxes
+- Law Stability Axiom
+- Genesis Axiom
+aliases:
+- Bk644tc
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 27.906976744186046
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

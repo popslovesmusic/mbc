@@ -1,11 +1,27 @@
+id: INTK-10525
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::physical-implications::4-self-organization-and-patterns::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1993-1994
+heading: 4. Self-Organization and Patterns
+parent_heading: Physical Implications
 block_type: paragraph
-concepts: []
 excerpt: The group explains the ubiquitous appearance of 3-fold, 6-fold, and 9-fold
   patterns in natural systems, from atomic structures to large-scale cosmic webs,
   as manifestations of underlying resonance.
-heading: 4. Self-Organization and Patterns
-id: INTK-10525
-lines: 1993-1994
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::physical-implications::4-self-organization-and-patterns::b2
-parent_heading: Physical Implications
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- large-scale
+aliases:
+- Bk651tg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.225806451612903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

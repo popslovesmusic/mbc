@@ -1,11 +1,31 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'The functor has three components: 1. **Projection of δ-spectrum → metric**
-  2. **Projection of δ-connection → Levi–Civita connection**'
-heading: '**2\. Construction of the Projection Functor Π:DGδ→RG\\Pi: \\mathbf{DG}\_\\delta\\to
-  \\mathbf{RG}Π:DGδ​→RG**'
 id: GEN2-6502
-lines: 382-394
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::2-construction-of-the-projection-functor-πdgδrgpi-mathbfdg-deltato-mathbfrgπdgδrg::b1
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 382-394
+heading: '**2\. Construction of the Projection Functor Π:DGδ→RG\\Pi: \\mathbf{DG}\_\\delta\\to
+  \\mathbf{RG}Π:DGδ​→RG**'
+block_type: paragraph
+excerpt: 'The functor has three components: 1. **Projection of δ-spectrum → metric**
+  2. **Projection of δ-connection → Levi–Civita connection**'
+concepts:
+- Projection
+- δ
+- →
+- δ-connection
+- δ-curvature
+- δ-spectrum
+aliases:
+- Bk099tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.35483870967742
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

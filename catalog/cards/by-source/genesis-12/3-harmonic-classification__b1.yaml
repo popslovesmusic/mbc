@@ -1,15 +1,34 @@
+id: GEN12-1896
+location: genesis-12/untitled-document::part-ii-morphology-determination-δ-morphology::3-harmonic-classification::b1
+source: genesis-12\Untitled_document.md
+lines: 2613-2633
+heading: '**3\. (Harmonic Classification)**'
+parent_heading: '**Part II — Morphology Determination (δ → Morphology)**'
 block_type: paragraph
-concepts:
-- Axiom
-- By Axiom
-- GF-3
-- δ
 excerpt: 'By Axiom **GF-3**, galaxy morphology is determined by the dominant δ-harmonic
   mode: dom(δ∣Bi)=δn⇒morphology(Ki).\\text{dom}(\\delta|\_{B\_i}) \= \\delta\_n \\quad\\Rightarrow\\quad
   \\text{morphology}(...'
-heading: '**3\. (Harmonic Classification)**'
-id: GEN12-1896
-lines: 2613-2633
-location: genesis-12/untitled-document::part-ii-morphology-determination-δ-morphology::3-harmonic-classification::b1
-parent_heading: '**Part II — Morphology Determination (δ → Morphology)**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- →
+- Axiom
+- grid-locked
+- δ-harmonic
+- GF-3
+- δn
+- By Axiom
+- δ₉
+- δ₃
+- δ₆
+aliases:
+- Bk630ag
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.176470588235293
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

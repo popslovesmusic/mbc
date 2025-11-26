@@ -1,12 +1,30 @@
+id: GEN4-7672
+location: genesis-4/meta-physics-axiom-box::i-δaxioms-deviation-generator-of-structure-and-dynamics::δ1-deviation-exists-and-is-necessary::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1109-1119
+heading: '**δ.1 — Deviation Exists and is Necessary**'
+parent_heading: '**I. δ–AXIOMS (Deviation \= Generator of Structure and Dynamics)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: There is an endofunctor δ:MetaPhys→MetaPhys\\delta:\\mathbf{MetaPhys}\\to\\mathbf{MetaPhys}δ:MetaPhys→MetaPhys
   such that
-heading: '**δ.1 — Deviation Exists and is Necessary**'
-id: GEN4-7672
-lines: 1109-1119
-location: genesis-4/meta-physics-axiom-box::i-δaxioms-deviation-generator-of-structure-and-dynamics::δ1-deviation-exists-and-is-necessary::b1
-parent_heading: '**I. δ–AXIOMS (Deviation \= Generator of Structure and Dynamics)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Deviation
+- Ψ
+- δ
+- →
+- ≠
+aliases:
+- Bk702te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

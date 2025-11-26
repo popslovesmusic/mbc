@@ -1,11 +1,26 @@
+id: GEN6-8330
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::3-fixed-points::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 946-948
+heading: '**3\) Fixed Points**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
+excerpt: Solve βλ=0\\beta\_\\lambda=0βλ​=0.
 concepts:
 - β
 - λ
-excerpt: Solve βλ=0\\beta\_\\lambda=0βλ​=0.
-heading: '**3\) Fixed Points**'
-id: GEN6-8330
-lines: 946-948
-location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::3-fixed-points::b1
-parent_heading: '**If you want next:**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+aliases:
+- Bk815sb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

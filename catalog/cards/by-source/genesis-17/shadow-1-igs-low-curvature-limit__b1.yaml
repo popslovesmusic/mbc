@@ -1,11 +1,29 @@
+id: GEN17-4740
+location: genesis-17/box-calculus::iii-emergence-of-the-two-shadows::shadow-1-igs-low-curvature-limit::b1
+source: genesis-17\box_calculus.md
+lines: 8635-8647
+heading: 'Shadow 1: IGS (Low Curvature Limit)'
+parent_heading: 🔷 III. Emergence of the Two Shadows
 block_type: paragraph
+excerpt: 'When δ → 0: F(Σ)≈−∇2Σ F(Σ)≈−∇'
 concepts:
 - Σ
+- ≈
+- ∇
 - δ
-excerpt: 'When δ → 0: F(Σ)≈−∇2Σ F(Σ)≈−∇'
-heading: 'Shadow 1: IGS (Low Curvature Limit)'
-id: GEN17-4740
-lines: 8635-8647
-location: genesis-17/box-calculus::iii-emergence-of-the-two-shadows::shadow-1-igs-low-curvature-limit::b1
-parent_heading: 🔷 III. Emergence of the Two Shadows
-source: genesis-17\box_calculus.md
+- →
+aliases:
+- Bk322wb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.411764705882355
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

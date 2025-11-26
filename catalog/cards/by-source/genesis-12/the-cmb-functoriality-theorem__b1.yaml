@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Projection Framework
-- Π
-- Φ
-- δ
-excerpt: '*(IGSOA δ–Φ–Π Projection Framework)* ---'
-heading: '**The CMB Functoriality Theorem**'
 id: GEN12-1713
-lines: 2-6
 location: genesis-12/untitled-document::the-cmb-functoriality-theorem::b1
 source: genesis-12\Untitled_document.md
+lines: 2-6
+heading: '**The CMB Functoriality Theorem**'
+block_type: paragraph
+excerpt: '*(IGSOA δ–Φ–Π Projection Framework)* ---'
+concepts:
+- Projection
+- IGSOA
+- Π
+- δ
+- Φ
+- Projection Framework
+aliases:
+- Bk235ip
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 100.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

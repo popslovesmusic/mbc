@@ -1,15 +1,33 @@
+id: GEN16-3948
+location: genesis-16/untitled-document::3-meta-math-axioms-box-calculus-axioms::axiom-3-generative-expansion-has-a-cost::b1
+source: genesis-16\Untitled_document.md
+lines: 2645-2657
+heading: '**AXIOM 3: Generative Expansion Has a Cost**'
+parent_heading: '**⭐ 3\. META-MATH AXIOMS → BOX CALCULUS AXIOMS**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Expansion Axiom
-- Meta-Math
 excerpt: '**Meta-Math:** Definitions expand structure but cannot continue indefinitely.
   **Box Calculus:**'
-heading: '**AXIOM 3: Generative Expansion Has a Cost**'
-id: GEN16-3948
-lines: 2645-2657
-location: genesis-16/untitled-document::3-meta-math-axioms-box-calculus-axioms::axiom-3-generative-expansion-has-a-cost::b1
-parent_heading: '**⭐ 3\. META-MATH AXIOMS → BOX CALCULUS AXIOMS**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Meta-Math
+- Box Calculus
+- Axiom
+- Box
+- Δ
+- Expansion Axiom
+aliases:
+- Df065mm
+tags:
+- definition
+- conflicted
+- expand-structure-but-cannot-continue-indefinitely
+is_formal: true
+statement_type: definition
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

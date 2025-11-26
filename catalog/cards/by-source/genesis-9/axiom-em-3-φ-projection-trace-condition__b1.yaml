@@ -1,13 +1,32 @@
+id: GEN9-9579
+location: genesis-9/strong-force::sealed-axiom-box-electromagnetism-emf-emergence-δ-φ-u1::axiom-em-3-φ-projection-trace-condition::b1
+source: genesis-9\strong-force.md
+lines: 2466-2474
+heading: '**Axiom EM-3: Φ-Projection Trace Condition**'
+parent_heading: '**⬛ SEALED AXIOM BOX — Electromagnetism & EMF Emergence (δ → Φ →
+  U(1))**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'The Φ functor collapses torsion-antisymmetry while preserving phase-invariant
   transformations: Φ:SU(2)⟶U(1).\\Phi : SU(2)\\longrightarrow U(1).Φ:SU(2)⟶U(1). Thus
   Φ selects the **residual phase symmetr...'
-heading: '**Axiom EM-3: Φ-Projection Trace Condition**'
-id: GEN9-9579
-lines: 2466-2474
-location: genesis-9/strong-force::sealed-axiom-box-electromagnetism-emf-emergence-δ-φ-u1::axiom-em-3-φ-projection-trace-condition::b1
-parent_heading: '**⬛ SEALED AXIOM BOX — Electromagnetism & EMF Emergence (δ → Φ →
-  U(1))**'
-source: genesis-9\strong-force.md
+concepts:
+- Φ
+- torsion-antisymmetry
+- phase-invariant
+- residual phase symmetry
+- θ
+aliases:
+- Bk203tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.157894736842104
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

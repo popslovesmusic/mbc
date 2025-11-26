@@ -1,14 +1,28 @@
+id: GEN3-7292
+location: genesis-3/metagenesis::12-outreach-version-movie-director-style::b1
+source: genesis-3\metagenesis.md
+lines: 331-346
+heading: '**12\. Outreach Version (Movie-Director Style)**'
 block_type: paragraph
+excerpt: Before anything could happen, there had to be a place where “difference”
+  could exist. The Zero-State had none—not even time. Then deviation struck.
 concepts:
+- δ
+- Functor
+- State
+- Zero-State
 - Action Functor
 - The Genesis
 - The Zero
-- Zero-State
-- δ
-excerpt: Before anything could happen, there had to be a place where “difference”
-  could exist. The Zero-State had none—not even time. Then deviation struck.
-heading: '**12\. Outreach Version (Movie-Director Style)**'
-id: GEN3-7292
-lines: 331-346
-location: genesis-3/metagenesis::12-outreach-version-movie-director-style::b1
-source: genesis-3\metagenesis.md
+aliases:
+- Bk394ba
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.777777777777778
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

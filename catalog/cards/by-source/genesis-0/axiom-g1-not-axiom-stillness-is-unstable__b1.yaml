@@ -1,12 +1,29 @@
+id: GEN0-222
+location: genesis-0/tri-unity-theorem-equivalence-of::1-axioms-of-the-genesis-layer::axiom-g1-not-axiom-stillness-is-unstable::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 990-1002
+heading: '**Axiom G1 — NOT Axiom (Stillness Is Unstable)**'
+parent_heading: '**1\. Axioms of the Genesis Layer**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'Perfect stillness cannot be sustained: Ψ0 cannot remain invariant under
   all allowable dynamics.\\Psi\_0 \\text{ cannot remain invariant under all allowable
   dynamics.}Ψ0​ cannot remain invariant under ...'
-heading: '**Axiom G1 — NOT Axiom (Stillness Is Unstable)**'
-id: GEN0-222
-lines: 990-1002
-location: genesis-0/tri-unity-theorem-equivalence-of::1-axioms-of-the-genesis-layer::axiom-g1-not-axiom-stillness-is-unstable::b1
-parent_heading: '**1\. Axioms of the Genesis Layer**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- ∀
+- ¬
+aliases:
+- Bk898ps
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.660377358490567
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

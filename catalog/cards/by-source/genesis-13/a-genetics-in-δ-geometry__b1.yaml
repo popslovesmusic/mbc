@@ -1,13 +1,33 @@
+id: GEN13-2468
+location: genesis-13/what-biology-is-in-meta-genesis::6-optional-extensions-tell-me-which-direction::a-genetics-in-δ-geometry::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 163-167
+heading: '**★ (A) Genetics in δ-Geometry**'
+parent_heading: '**6\. Optional Extensions (tell me which direction):**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: DNA \= Π-frozen δ-Φ harmonic ladder Replication \= Π-splitting of Φ-modes
   Mutations \= δ-adjacency curvature defects
-heading: '**★ (A) Genetics in δ-Geometry**'
-id: GEN13-2468
-lines: 163-167
-location: genesis-13/what-biology-is-in-meta-genesis::6-optional-extensions-tell-me-which-direction::a-genetics-in-δ-geometry::b1
-parent_heading: '**6\. Optional Extensions (tell me which direction):**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- δ
+- Φ
+- δ-adjacency
+- Π-splitting
+- Π-frozen
+- Φ-modes
+- δ-Φ
+aliases:
+- Bk994df
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 44.44444444444444
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

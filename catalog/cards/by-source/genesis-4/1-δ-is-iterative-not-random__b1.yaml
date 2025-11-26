@@ -1,12 +1,28 @@
+id: GEN4-7923
+location: genesis-4/the-first-adjacency::3-why-patterns-must-stabilize-meta-reason::1-δ-is-iterative-not-random::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 2020-2024
+heading: '**(1) δ is iterative, not random**'
+parent_heading: '**3\. Why Patterns Must Stabilize (Meta-Reason)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Repeated deviation amplifies regularities and suppresses anomalies. This
   is analogous to renormalization flow: patterns that behave consistently across δ-scales
   survive.'
-heading: '**(1) δ is iterative, not random**'
-id: GEN4-7923
-lines: 2020-2024
-location: genesis-4/the-first-adjacency::3-why-patterns-must-stabilize-meta-reason::1-δ-is-iterative-not-random::b1
-parent_heading: '**3\. Why Patterns Must Stabilize (Meta-Reason)**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- δ-scales
+- δ
+aliases:
+- Bk908rd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Universal Reasoning Engine
-excerpt: (Box Calculus → A Universal Reasoning Engine)
-heading: '5\. Expansion Direction V: Computational Universality'
 id: GEN17-4332
-lines: 2584-2586
 location: genesis-17/box-calculus::5-expansion-direction-v-computational-universality::b1
 source: genesis-17\box_calculus.md
+lines: 2584-2586
+heading: '5\. Expansion Direction V: Computational Universality'
+block_type: paragraph
+excerpt: (Box Calculus → A Universal Reasoning Engine)
+concepts:
+- Box Calculus
+- Box
+- Universal Reasoning Engine
+- →
+aliases:
+- Bk624bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

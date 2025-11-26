@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Σ
-excerpt: Σ1⊕Σ2≠Σ2⊕Σ1 Σ 1
-heading: 3.3 Non-Commutativity (Essential\!\!)
 id: GEN17-4216
-lines: 1053-1069
 location: genesis-17/box-calculus::3-algebraic-properties-of-the-mixing-law::33-non-commutativity-essential::b1
-parent_heading: 3\. Algebraic Properties of the Mixing Law
 source: genesis-17\box_calculus.md
+lines: 1053-1069
+heading: 3.3 Non-Commutativity (Essential\!\!)
+parent_heading: 3\. Algebraic Properties of the Mixing Law
+block_type: paragraph
+excerpt: Σ1⊕Σ2≠Σ2⊕Σ1 Σ 1
+concepts:
+- Σ
+- Box Calculus
+- ⊕
+- Box
+- ≠
+aliases:
+- Bk361tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.857142857142858
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

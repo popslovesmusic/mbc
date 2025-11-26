@@ -1,15 +1,40 @@
+id: GEN9-9530
+location: genesis-9/strong-force::10-axiom-box-categorical-strong-force-version::axiom-box-automorphisms-of-3-fibered-δ-objects::b1
+source: genesis-9\strong-force.md
+lines: 1587-1604
+heading: '**Axiom Box: Automorphisms of 3-Fibered δ-Objects**'
+parent_heading: '**10\. Axiom Box (Categorical Strong-Force Version)**'
 block_type: list
-concepts:
-- Φ
-- α
-- δ
-- μ
-- ν
 excerpt: '1. δ-curvature defines a 3-fiber decomposition: X=X1⊔X2⊔X3.X \= X\_1 \\sqcup
   X\_2 \\sqcup X\_3.X=X1​⊔X2​⊔X3​. 2. This is the χ-fibration:'
-heading: '**Axiom Box: Automorphisms of 3-Fibered δ-Objects**'
-id: GEN9-9530
-lines: 1587-1604
-location: genesis-9/strong-force::10-axiom-box-categorical-strong-force-version::axiom-box-automorphisms-of-3-fibered-δ-objects::b1
-parent_heading: '**10\. Axiom Box (Categorical Strong-Force Version)**'
-source: genesis-9\strong-force.md
+concepts:
+- χ
+- π
+- α
+- δ-geometry
+- δ
+- μ
+- Φ
+- ∧
+- ∈
+- ∇
+- ν
+- →
+- trace-freeness
+- δ-curvature
+- Φ-image
+aliases:
+- Bk417cd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.936507936507936
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**7.3 Π multiplicity determines transition rates**'
 id: GEN14-2919
-lines: 144-146
 location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::main-paper-outline-formal::7-emergence-of-free-energy-landscapes::73-π-multiplicity-determines-transition-rates::b1
-parent_heading: '**7\. Emergence of Free Energy Landscapes**'
 source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 144-146
+heading: '**7.3 Π multiplicity determines transition rates**'
+parent_heading: '**7\. Emergence of Free Energy Landscapes**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

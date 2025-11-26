@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Define semantic “tensor products”: B1⊗B2 B'
-heading: 2.2. Monoidal Structure
 id: GEN17-4322
-lines: 2490-2500
 location: genesis-17/box-calculus::2-expansion-direction-ii-category-theoretic-completion::22-monoidal-structure::b1
-parent_heading: '2\. Expansion Direction II: Category-Theoretic Completion'
 source: genesis-17\box_calculus.md
+lines: 2490-2500
+heading: 2.2. Monoidal Structure
+parent_heading: '2\. Expansion Direction II: Category-Theoretic Completion'
+block_type: paragraph
+excerpt: 'Define semantic “tensor products”: B1⊗B2 B'
+concepts:
+- ⊗
+aliases:
+- Bk200ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

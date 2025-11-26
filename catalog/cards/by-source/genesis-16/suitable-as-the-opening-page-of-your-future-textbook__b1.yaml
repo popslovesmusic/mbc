@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Master Table
-excerpt: 'Just say: **Master Table** or **Generate the Table**.'
-heading: '**✔ suitable as the opening page of your future textbook**'
 id: GEN16-3899
-lines: 2162-2164
 location: genesis-16/untitled-document::if-you-want-the-ultimate-version::suitable-as-the-opening-page-of-your-future-textbook::b1
-parent_heading: '**⭐ If you want the ultimate version**'
 source: genesis-16\Untitled_document.md
+lines: 2162-2164
+heading: '**✔ suitable as the opening page of your future textbook**'
+parent_heading: '**⭐ If you want the ultimate version**'
+block_type: paragraph
+excerpt: 'Just say: **Master Table** or **Generate the Table**.'
+concepts:
+- Generate the Table
+- Master Table
+aliases:
+- Bk649js
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

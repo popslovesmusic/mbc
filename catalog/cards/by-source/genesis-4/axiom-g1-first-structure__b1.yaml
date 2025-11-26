@@ -1,13 +1,28 @@
+id: GEN4-7627
+location: genesis-4/meta-physics-axiom-box::iii-genesis-axioms-emergence-of-structure-from-deviation::axiom-g1-first-structure::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 479-483
+heading: '**Axiom G.1 — First Structure**'
+parent_heading: '**III. GENESIS AXIOMS (Emergence of Structure from Deviation)**'
 block_type: paragraph
+excerpt: Γ1:=δ(Ψ0)\\Gamma\_1 := \\delta(\\Psi\_0)Γ1​:=δ(Ψ0​) is the first structured
+  object.
 concepts:
 - Γ
 - Ψ
 - δ
-excerpt: Γ1:=δ(Ψ0)\\Gamma\_1 := \\delta(\\Psi\_0)Γ1​:=δ(Ψ0​) is the first structured
-  object.
-heading: '**Axiom G.1 — First Structure**'
-id: GEN4-7627
-lines: 479-483
-location: genesis-4/meta-physics-axiom-box::iii-genesis-axioms-emergence-of-structure-from-deviation::axiom-g1-first-structure::b1
-parent_heading: '**III. GENESIS AXIOMS (Emergence of Structure from Deviation)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+aliases:
+- Bk122gd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,29 @@
+id: GEN17-5142
+location: genesis-17/mbc-schema-3::corollaries::corollary-2-observers-are-meta-boxes::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 2131-2146
+heading: '**Corollary 2 — Observers are Meta-Boxes.**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
-concepts:
-- Box
-- Π
-- Ω
 excerpt: 'Agents, LLMs, minds, or physical observers sit at the Ω-layer, not the Π-layer.
   They are structures containing internal: * Box-nets'
-heading: '**Corollary 2 — Observers are Meta-Boxes.**'
-id: GEN17-5142
-lines: 2131-2146
-location: genesis-17/mbc-schema-3::corollaries::corollary-2-observers-are-meta-boxes::b1
-parent_heading: '**Corollaries**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- IGSOA
+- Box
+- Box-nets
+- Π-layer
+- Ω-layer
+- Ω
+- Π
+aliases:
+- Bk359al
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.91891891891892
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

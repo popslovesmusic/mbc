@@ -1,11 +1,23 @@
+id: INTK-9753
+location: intake/meta-genesis-core-papers-foundations::placement-in-the-full-axiom-stack::level-0-pre-ontological::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 175-179
+heading: '**LEVEL 0 (Pre-Ontological)**'
+parent_heading: '**Placement in the Full Axiom Stack**'
 block_type: list
-concepts:
-- Axiom
 excerpt: '* **Axiom (NOT): Absence is not a state.** * Defines the allowed ontological
   domain.'
-heading: '**LEVEL 0 (Pre-Ontological)**'
-id: INTK-9753
-lines: 175-179
-location: intake/meta-genesis-core-papers-foundations::placement-in-the-full-axiom-stack::level-0-pre-ontological::b1
-parent_heading: '**Placement in the Full Axiom Stack**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Axiom
+aliases:
+- Bk854an
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

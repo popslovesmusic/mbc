@@ -1,25 +1,39 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Block
-- Bioenergetic Framework
-- Bioenergetic Spectral Sequence
-- Bioenergetic Theorem
-- Compactness Lemma
-- Complete Summary
-- Flux Conservation Law
-- Full Functorial Stack
-- Lemma
-- Theorem
-- directly
-- Π
-- Φ
-- δ
-excerpt: 'This final part will include: * The **Grand δ–Φ–Π Bioenergetic Theorem**
-  * Full Functorial Stack: Stillness → δ → Φ → Π → Work'
-heading: '**PART V — Consolidation, Formal Theorems, and Full δ–Φ–Π Bioenergetic Foundation
-  Layer**'
 id: GEN13-2599
-lines: 2003-2023
 location: genesis-13/what-biology-is-in-meta-genesis::part-v-consolidation-formal-theorems-and-full-δφπ-bioenergetic-foundation-layer::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2003-2023
+heading: '**PART V — Consolidation, Formal Theorems, and Full δ–Φ–Π Bioenergetic Foundation
+  Layer**'
+block_type: paragraph
+excerpt: 'This final part will include: * The **Grand δ–Φ–Π Bioenergetic Theorem**
+  * Full Functorial Stack: Stillness → δ → Φ → Π → Work'
+concepts:
+- δ
+- Π
+- →
+- Theorem
+- Lemma
+- Axiom
+- Φ
+- Bioenergetic Spectral Sequence
+- δ-Bioenergetic
+- Π-Compactness
+- Bioenergetic Framework
+- Full Functorial Stack
+- Flux Conservation Law
+- δ-Flux
+- Bioenergetic Theorem
+aliases:
+- Bk016tf
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.76923076923077
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

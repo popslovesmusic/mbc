@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Ready?
-heading: Chapter 13 — Advanced Topics Overview (Bridge Chapter)
 id: GEN20-7003
-lines: 4319-4321
 location: genesis-20/mbc-40-documentaitio-1::conclusion::advanced-volume-mbc-40-semantic-router-systems::chapter-13-advanced-topics-overview-bridge-chapter::b1
-parent_heading: 'Advanced Volume: MBC-4.0 Semantic & Router Systems'
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4319-4321
+heading: Chapter 13 — Advanced Topics Overview (Bridge Chapter)
+parent_heading: 'Advanced Volume: MBC-4.0 Semantic & Router Systems'
+block_type: paragraph
+excerpt: Ready?
+aliases:
+- Bk199re
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,18 +1,43 @@
+id: GEN19-5928
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-dual-column-theorem-statement::b2
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 770-782
+heading: '**I. Dual-Column Theorem Statement**'
 block_type: table
-concepts:
-- Geometry Column
-- Reasoning Column
-- Standard Logic
-- Theorem
-- Θ
-- Π
-- Φ
-- δ
 excerpt: '**Theorem (informal form):** **Every valid reasoning step in MBC-4.0 is
   equivalent to a polarity-preserving transformation under the δ→Φ→Π operator chain.**
   Equivalently:'
-heading: '**I. Dual-Column Theorem Statement**'
-id: GEN19-5928
-lines: 770-782
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-dual-column-theorem-statement::b2
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- →
+- δ
+- sign-preserving computation over weighted linear forms
+- Polarity
+- IGSOA
+- MBC
+- Π
+- Φ
+- Theorem
+- Θ
+- δ-curvature
+- polarity-preserving
+- sign-preserving
+- δ-adjacency
+- δ-Geometry
+aliases:
+- Th285ig
+tags:
+- theorem
+- informal-form
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.17910447761194
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

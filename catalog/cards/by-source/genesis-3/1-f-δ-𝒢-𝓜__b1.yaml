@@ -1,14 +1,35 @@
-block_type: paragraph
-concepts:
-- Deviation Functor
-- Meta-Time
-- Φ
-- Ψ
-- δ
-excerpt: 'The **Deviation Functor** Takes: * objects: deviations, δ-operators, δ-adjacency'
-heading: '**1\. F\_δ : 𝒢 → 𝓜**'
 id: GEN3-7365
-lines: 78-91
 location: genesis-3/the-physics-box-diagram::2-formal-functors-and-arrows::primary-vertical-functors::1-f-δ-𝒢-𝓜::b1
-parent_heading: '**Primary (Vertical) Functors**'
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 78-91
+heading: '**1\. F\_δ : 𝒢 → 𝓜**'
+parent_heading: '**Primary (Vertical) Functors**'
+block_type: paragraph
+excerpt: 'The **Deviation Functor** Takes: * objects: deviations, δ-operators, δ-adjacency'
+concepts:
+- Meta-Time
+- Deviation
+- δ
+- Functor
+- Ψ
+- NOT-compatible
+- proto-metric
+- δ-adjacency
+- δ-operators
+- Φ-forms
+- Φ
+- →
+- Deviation Functor
+- Ψ₀
+aliases:
+- Bk703td
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 48.275862068965516
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,27 @@
+id: GEN9-9279
+location: genesis-9/does-meta-genesis-indicate-new-physics::sealed-axiom-box::the-symmetryasymmetry-co-arising-axiom::axiom-symmetryasymmetry-co-arising::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1058-1068
+heading: '**Axiom (Symmetry–Asymmetry Co-Arising).**'
+parent_heading: '**The Symmetry–Asymmetry Co-Arising Axiom**'
 block_type: paragraph
-concepts:
-- IGS
 excerpt: 'Let **IGS** be the monistic ontic substrate admitting two intrinsic modality
   modes: * **S**: the symmetry mode (tendency toward indistinguishability, smoothness,
   and homogeneity), * **A**: the asymmet...'
-heading: '**Axiom (Symmetry–Asymmetry Co-Arising).**'
-id: GEN9-9279
-lines: 1058-1068
-location: genesis-9/does-meta-genesis-indicate-new-physics::sealed-axiom-box::the-symmetryasymmetry-co-arising-axiom::axiom-symmetryasymmetry-co-arising::b1
-parent_heading: '**The Symmetry–Asymmetry Co-Arising Axiom**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- IGS
+aliases:
+- Bk478li
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 2.631578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

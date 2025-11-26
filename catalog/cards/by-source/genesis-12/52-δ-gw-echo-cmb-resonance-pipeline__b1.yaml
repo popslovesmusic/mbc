@@ -1,16 +1,39 @@
+id: GEN12-1736
+location: genesis-12/untitled-document::5-consequences-for-cmb-physics::52-δ-gw-echo-cmb-resonance-pipeline::b1
+source: genesis-12\Untitled_document.md
+lines: 220-234
+heading: '**5.2 δ → GW Echo → CMB Resonance Pipeline**'
+parent_heading: '**5\. Consequences for CMB Physics**'
 block_type: paragraph
-concepts:
-- Echo Frequencies
-- Multipole Ladders
-- correspondence
-- Π
-- Φ
-- δ
 excerpt: 'Because the same δ-harmonic structure produces both: * **GW echoes** (Φ-resonant
   modes), and * **CMB features** (Π-spectral modes),'
-heading: '**5.2 δ → GW Echo → CMB Resonance Pipeline**'
-id: GEN12-1736
-lines: 220-234
-location: genesis-12/untitled-document::5-consequences-for-cmb-physics::52-δ-gw-echo-cmb-resonance-pipeline::b1
-parent_heading: '**5\. Consequences for CMB Physics**'
-source: genesis-12\Untitled_document.md
+concepts:
+- IGSOA
+- Corollary
+- Multipole Ladders
+- Echo Frequencies
+- ↔
+- Φ-resonant
+- Π-spectral
+- δ-harmonic
+- Π
+- δ
+- Φ
+- correspondence
+- CMB features
+- GW echoes
+aliases:
+- Bk557bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 27.450980392156865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

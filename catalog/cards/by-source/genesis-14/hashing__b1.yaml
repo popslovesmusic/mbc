@@ -1,11 +1,28 @@
+id: GEN14-2897
+location: genesis-14/meta-math-and-cryptography::4-consequences-for-each-cryptographic-branch::hashing::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1569-1571
+heading: '**Hashing:**'
+parent_heading: '**4\. Consequences for Each Cryptographic Branch**'
 block_type: paragraph
+excerpt: Π fixed-length digest is an extreme collapse; Ψ is maximally non-injective.
 concepts:
+- non-injective
+- fixed-length
 - Π
 - Ψ
-excerpt: Π fixed-length digest is an extreme collapse; Ψ is maximally non-injective.
-heading: '**Hashing:**'
-id: GEN14-2897
-lines: 1569-1571
-location: genesis-14/meta-math-and-cryptography::4-consequences-for-each-cryptographic-branch::hashing::b1
-parent_heading: '**4\. Consequences for Each Cryptographic Branch**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+aliases:
+- Bk252fl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

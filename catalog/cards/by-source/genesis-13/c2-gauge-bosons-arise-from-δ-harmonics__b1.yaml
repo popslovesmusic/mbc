@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: Gauge fields \= low-order Φ-lifts of δ-modes.
-heading: '**C2 — Gauge bosons arise from δ-harmonics**'
 id: GEN13-2370
-lines: 1571-1573
 location: genesis-13/the-weight-of-light::4-consequences-physics::c2-gauge-bosons-arise-from-δ-harmonics::b1
-parent_heading: '**4\. Consequences (Physics)**'
 source: genesis-13\The_Weight_of_Light.md
+lines: 1571-1573
+heading: '**C2 — Gauge bosons arise from δ-harmonics**'
+parent_heading: '**4\. Consequences (Physics)**'
+block_type: paragraph
+excerpt: Gauge fields \= low-order Φ-lifts of δ-modes.
+concepts:
+- low-order
+- δ-modes
+- Φ-lifts
+- δ
+- Φ
+aliases:
+- Bk178gf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 55.55555555555556
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,31 @@
+id: GEN4-7676
+location: genesis-4/meta-physics-axiom-box::i-δaxioms-deviation-generator-of-structure-and-dynamics::δ5-δ-generates-causality::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1145-1151
+heading: '**δ.5 — δ Generates Causality**'
+parent_heading: '**I. δ–AXIOMS (Deviation \= Generator of Structure and Dynamics)**'
 block_type: paragraph
-concepts:
-- Meta-Causal
-- δ
 excerpt: X⪯δY  ⟺  Y=δn(X) for some n.X \\preceq\_\\delta Y \\iff Y=\\delta^n(X)\\
   \\text{for some } n.X⪯δ​Y⟺Y=δn(X) for some n. This δ-order is the **Meta-Causal
   structure** (the CSI). ---
-heading: '**δ.5 — δ Generates Causality**'
-id: GEN4-7676
-lines: 1145-1151
-location: genesis-4/meta-physics-axiom-box::i-δaxioms-deviation-generator-of-structure-and-dynamics::δ5-δ-generates-causality::b1
-parent_heading: '**I. δ–AXIOMS (Deviation \= Generator of Structure and Dynamics)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- δ
+- Meta-Causal structure
+- Meta-Causal
+- δ-order
+- δn
+- δY
+aliases:
+- Bk947fs
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.634146341463413
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

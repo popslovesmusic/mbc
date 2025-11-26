@@ -1,15 +1,30 @@
+id: GEN3-7306
+location: genesis-3/metagenesis::hermetic-consequences::consequence-h2-ψ₀-δψ₀-must-be-axiomatic-not-operational::b1
+source: genesis-3\metagenesis.md
+lines: 518-524
+heading: '**Consequence H2: Ψ₀ → δΨ₀ must be axiomatic, not operational**'
+parent_heading: '**Hermetic Consequences**'
 block_type: paragraph
-concepts:
-- Axiom
-- Deviational Necessity
-- Ψ
-- δ
 excerpt: 'Since NO operator may define the first deviation: Ψ0→not via OδΨ0\\Psi\_0
   \\xrightarrow{\\text{not via }\\mathcal{O}} \\delta\\Psi\_0Ψ0​not via O​δΨ0​ the
   mapping is purely axiomatic (δ-Axiom of Devia...'
-heading: '**Consequence H2: Ψ₀ → δΨ₀ must be axiomatic, not operational**'
-id: GEN3-7306
-lines: 518-524
-location: genesis-3/metagenesis::hermetic-consequences::consequence-h2-ψ₀-δψ₀-must-be-axiomatic-not-operational::b1
-parent_heading: '**Hermetic Consequences**'
-source: genesis-3\metagenesis.md
+concepts:
+- Deviation
+- Ψ
+- Axiom
+- δ
+- δ-Axiom
+- Deviational Necessity
+- →
+aliases:
+- Bk563so
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.91891891891892
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

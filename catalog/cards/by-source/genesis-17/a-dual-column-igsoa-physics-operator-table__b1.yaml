@@ -1,13 +1,29 @@
+id: GEN17-5000
+location: genesis-17/key-points::vi-final-formal-statement::a-dual-column-igsoa-physics-operator-table::b1
+source: genesis-17\Key_Points.md
+lines: 1677-1683
+heading: '**✓ A *dual-column IGSOA ↔ Physics operator table***'
+parent_heading: '**VI. Final Formal Statement**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Just tell me which one you want next. a fully formal natural transformation
   δ→Φ→Π ChatGPT can make mistakes. Check im
-heading: '**✓ A *dual-column IGSOA ↔ Physics operator table***'
-id: GEN17-5000
-lines: 1677-1683
-location: genesis-17/key-points::vi-final-formal-statement::a-dual-column-igsoa-physics-operator-table::b1
-parent_heading: '**VI. Final Formal Statement**'
-source: genesis-17\Key_Points.md
+concepts:
+- →
+- Π
+- δ
+- Φ
+aliases:
+- Bk132jt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

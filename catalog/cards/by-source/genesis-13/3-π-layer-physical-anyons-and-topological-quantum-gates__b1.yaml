@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-excerpt: Π maps Φ-operator statistics into physical, observable anyonic behavior.
-  ---
-heading: '**3\. Π-Layer: Physical Anyons and Topological Quantum Gates**'
 id: GEN13-2224
-lines: 2565-2569
 location: genesis-13/meta-math-nuclear-physics::3-π-layer-physical-anyons-and-topological-quantum-gates::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2565-2569
+heading: '**3\. Π-Layer: Physical Anyons and Topological Quantum Gates**'
+block_type: paragraph
+excerpt: Π maps Φ-operator statistics into physical, observable anyonic behavior.
+  ---
+concepts:
+- Φ-operator
+- Π
+- Φ
+aliases:
+- Bk929mo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

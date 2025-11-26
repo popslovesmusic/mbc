@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: Φ acts linearly on δ-curvature modes and preserves δ-harmonic degeneracies.
-heading: '**Axiom Box A2: Φ-Evolution Axiom**'
 id: GEN12-1724
-lines: 87-89
 location: genesis-12/untitled-document::2-axiom-boxes-used::axiom-box-a2-φ-evolution-axiom::b1
-parent_heading: '**2\. Axiom Boxes Used**'
 source: genesis-12\Untitled_document.md
+lines: 87-89
+heading: '**Axiom Box A2: Φ-Evolution Axiom**'
+parent_heading: '**2\. Axiom Boxes Used**'
+block_type: paragraph
+excerpt: Φ acts linearly on δ-curvature modes and preserves δ-harmonic degeneracies.
+concepts:
+- δ
+- δ-curvature
+- δ-harmonic
+- Φ
+aliases:
+- Bk107al
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

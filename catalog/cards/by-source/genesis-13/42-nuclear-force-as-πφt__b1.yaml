@@ -1,13 +1,30 @@
+id: GEN13-2155
+location: genesis-13/meta-math-nuclear-physics::4-π-layer-ii-formation-of-nuclear-matter::42-nuclear-force-as-πφt::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1885-1891
+heading: '**4.2 Nuclear Force as Π(Φ(T))**'
+parent_heading: '**4\. Π-Layer II: Formation of Nuclear Matter**'
 block_type: paragraph
+excerpt: VN(r)=Π ⁣(Φ(T))(r).V\_N(r) \= \\Pi\\\!\\left(\\Phi(T)\\right)(r).VN​(r)=Π(Φ(T))(r).
+  Thus nuclear force \= Π-shadow of δ-torsion lifted by Φ. ---
 concepts:
 - Π
 - Φ
+- δ-torsion
+- Π-shadow
 - δ
-excerpt: VN(r)=Π ⁣(Φ(T))(r).V\_N(r) \= \\Pi\\\!\\left(\\Phi(T)\\right)(r).VN​(r)=Π(Φ(T))(r).
-  Thus nuclear force \= Π-shadow of δ-torsion lifted by Φ. ---
-heading: '**4.2 Nuclear Force as Π(Φ(T))**'
-id: GEN13-2155
-lines: 1885-1891
-location: genesis-13/meta-math-nuclear-physics::4-π-layer-ii-formation-of-nuclear-matter::42-nuclear-force-as-πφt::b1
-parent_heading: '**4\. Π-Layer II: Formation of Nuclear Matter**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+aliases:
+- Bk766lp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

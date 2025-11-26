@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We must show: HomMM(LX,  Y)  ≅  HomMG(X,  UY).(L–U)\\text{Hom}\_{MM}(LX,\\;
-  Y) \\;\\cong\\; \\text{Hom}\_{MG}(X,\\; UY). \\tag{L–U}HomMM​(LX,Y)≅HomMG​(X,UY).(L–U)'
-heading: '**2\. Proof that L⊣UL \\dashv UL⊣U**'
 id: GEN5-7938
-lines: 69-73
 location: genesis-5/formal-proof-of-the-adjoint-triple::2-proof-that-lul-dashv-ulu::b1
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 69-73
+heading: '**2\. Proof that L⊣UL \\dashv UL⊣U**'
+block_type: paragraph
+excerpt: 'We must show: HomMM(LX,  Y)  ≅  HomMG(X,  UY).(L–U)\\text{Hom}\_{MM}(LX,\\;
+  Y) \\;\\cong\\; \\text{Hom}\_{MG}(X,\\; UY). \\tag{L–U}HomMM​(LX,Y)≅HomMG​(X,UY).(L–U)'
+aliases:
+- Bk015ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

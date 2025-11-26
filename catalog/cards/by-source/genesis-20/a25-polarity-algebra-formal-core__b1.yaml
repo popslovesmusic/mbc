@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: 'Polarity values inhabit a semantic interval: Θ∈\[−1,1\] Θ∈\[−1,1\]'
-heading: A2.5 Polarity Algebra (Formal Core)
 id: GEN20-7116
-lines: 5774-5783
 location: genesis-20/mbc-40-documentaitio-1::a25-polarity-algebra-formal-core::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5774-5783
+heading: A2.5 Polarity Algebra (Formal Core)
+block_type: paragraph
+excerpt: 'Polarity values inhabit a semantic interval: Θ∈\[−1,1\] Θ∈\[−1,1\]'
+concepts:
+- Polarity
+- Θ
+- ∈
+aliases:
+- Bk625pv
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

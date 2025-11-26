@@ -1,11 +1,30 @@
+id: GEN15-3425
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::5-galaxy-formation-as-an-induced-𝒪δ-algebra::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 691-707
+heading: '**5\. Galaxy Formation as an Induced 𝒪δ-Algebra**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Define: AGal={galaxy/halo configurations}A\_{\\mathrm{Gal}} \= \\{\\text{galaxy/halo
   configurations}\\}AGal​={galaxy/halo configurations} with structure induced from
   δ via physical evolution:'
-heading: '**5\. Galaxy Formation as an Induced 𝒪δ-Algebra**'
-id: GEN15-3425
-lines: 691-707
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::5-galaxy-formation-as-an-induced-𝒪δ-algebra::b1
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- adjacency-induced
+- degree-k
+- →
+- δk
+aliases:
+- Bk862da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.578947368421052
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

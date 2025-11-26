@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'These arise when adjacency tensors ℐ are integrated out:'
-heading: '**5\. Adjacency-Induced Effective Nonlocal Vertices**'
 id: GEN0-015
-lines: 168-170
 location: genesis-0/feynman-rules-interaction-vertices::5-adjacency-induced-effective-nonlocal-vertices::b1
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 168-170
+heading: '**5\. Adjacency-Induced Effective Nonlocal Vertices**'
+block_type: paragraph
+excerpt: 'These arise when adjacency tensors ℐ are integrated out:'
+aliases:
+- Bk954ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

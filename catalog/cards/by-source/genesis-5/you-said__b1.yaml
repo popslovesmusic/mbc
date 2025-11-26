@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: δ-harmonic spectral decomposition
-heading: '**You said:**'
 id: GEN5-8192
-lines: 880-882
 location: genesis-5/the-ga-8-meta-einstein-theorem::8-final-sealed-equivalence-statement::a-c-adjoint-triple-genesis-adjacency-geometry::you-said::b1
-parent_heading: '**✔ A C\*-adjoint triple (Genesis → Adjacency → Geometry)**'
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 880-882
+heading: '**You said:**'
+parent_heading: '**✔ A C\*-adjoint triple (Genesis → Adjacency → Geometry)**'
+block_type: paragraph
+excerpt: δ-harmonic spectral decomposition
+concepts:
+- δ-harmonic
+- δ
+aliases:
+- Bk473hs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

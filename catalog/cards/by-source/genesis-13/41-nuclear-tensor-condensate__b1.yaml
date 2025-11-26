@@ -1,13 +1,31 @@
+id: GEN13-2154
+location: genesis-13/meta-math-nuclear-physics::4-π-layer-ii-formation-of-nuclear-matter::41-nuclear-tensor-condensate::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1877-1883
+heading: '**4.1 Nuclear Tensor Condensate**'
+parent_heading: '**4\. Π-Layer II: Formation of Nuclear Matter**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: N=SymA(Π(Φn1)⊗⋯⊗Π(Φnk)).\\mathcal{N} \= \\mathrm{Sym}^A\\left( \\Pi(\\Phi\_{n\_1})\\otimes
   \\cdots \\otimes \\Pi(\\Phi\_{n\_k}) \\right).N=SymA(Π(Φn1​​)⊗⋯⊗Π(Φnk​​)). Nuclear
   matter is a coherent tenso...
-heading: '**4.1 Nuclear Tensor Condensate**'
-id: GEN13-2154
-lines: 1877-1883
-location: genesis-13/meta-math-nuclear-physics::4-π-layer-ii-formation-of-nuclear-matter::41-nuclear-tensor-condensate::b1
-parent_heading: '**4\. Π-Layer II: Formation of Nuclear Matter**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Π
+- ⊗
+- Φ
+- Φn
+- Φnk
+aliases:
+- Bk406sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

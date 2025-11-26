@@ -1,11 +1,26 @@
+id: INTK-10723
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::grok4::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1866-1867
+heading: Grok4
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Read More
 excerpt: 'Introduction (Source: 02_Grok4_and_the_Interdimensional_Question.txt) [[Read
   More](concepts/Encyclopedia\Grok4.md)]'
-heading: Grok4
-id: INTK-10723
-lines: 1866-1867
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::grok4::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Read More
+aliases:
+- Bk205is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

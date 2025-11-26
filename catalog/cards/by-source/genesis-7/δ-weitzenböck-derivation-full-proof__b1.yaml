@@ -1,17 +1,40 @@
+id: GEN7-8693
+location: genesis-7/why-curvature-gives-gravity::δ-weitzenböck-derivation-full-proof::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 1054-1062
+heading: '**◼ δ-Weitzenböck Derivation (Full Proof)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Curvature Reconstruction Formula
-- Geometry Axioms
-- Meta-Einstein
-- Spectral Triple Axiom Box
-- δ
 excerpt: '*(How the δ-Dirac operator encodes all δ-curvature, and why Dδ2D\_\\delta^2Dδ2​
   splits into Laplacian \+ curvature \+ δ-corrections)* This proof is written at the
   level of a **spectral-geometry chapte...'
-heading: '**◼ δ-Weitzenböck Derivation (Full Proof)**'
-id: GEN7-8693
-lines: 1054-1062
-location: genesis-7/why-curvature-gives-gravity::δ-weitzenböck-derivation-full-proof::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Meta-Einstein
+- Curvature
+- Axiom
+- spectral-geometry chapter
+- Theorem
+- Proof
+- Box
+- Curvature Reconstruction Formula
+- spectral-geometry
+- δ-corrections
+- δ-curvature
+- δ-Curvature
+- Spectral Triple Axiom Box
+- δ-Geometry
+aliases:
+- Bk967ht
+tags:
+- axiom-box
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 27.692307692307693
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

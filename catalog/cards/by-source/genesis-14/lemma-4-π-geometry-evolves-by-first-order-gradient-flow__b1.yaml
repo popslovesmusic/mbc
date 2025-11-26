@@ -1,13 +1,35 @@
+id: GEN14-2763
+location: genesis-14/inflation-structure-formation::proof::lemma-4-π-geometry-evolves-by-first-order-gradient-flow::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1822-1846
+heading: '**Lemma 4 — Π-geometry evolves by first-order gradient flow**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Metric Stability Equation
-- Π
-- δ
 excerpt: 'Π-geometry is defined as the **gradient flow** of the curvature potential:
   g˙=−∇κ,\\dot g \= \-\\nabla \\kappa,g˙​=−∇κ, exactly when:'
-heading: '**Lemma 4 — Π-geometry evolves by first-order gradient flow**'
-id: GEN14-2763
-lines: 1822-1846
-location: genesis-14/inflation-structure-formation::proof::lemma-4-π-geometry-evolves-by-first-order-gradient-flow::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- ∇
+- κ
+- Π
+- Π-geometry
+- Π-compatibility
+- Π-geometric
+- Metric Stability Equation
+- Π-Metric
+- δ
+- gradient flow
+aliases:
+- Bk144gd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.204081632653061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'When early humans drew: * a hunting plan * a valley outline'
-heading: '**⭐ 3\. Scratching in dirt \= birth of spatial abstraction**'
 id: SPEC-11227
-lines: 4908-4936
 location: special/specil::3-scratching-in-dirt-birth-of-spatial-abstraction::b1
 source: special\specil.md
+lines: 4908-4936
+heading: '**⭐ 3\. Scratching in dirt \= birth of spatial abstraction**'
+block_type: paragraph
+excerpt: 'When early humans drew: * a hunting plan * a valley outline'
+concepts:
+- proto-cartography
+aliases:
+- Bk027we
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 2.3255813953488373
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

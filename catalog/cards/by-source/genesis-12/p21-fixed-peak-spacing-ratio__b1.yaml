@@ -1,10 +1,26 @@
+id: GEN12-1696
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p2-cmb-multipole-predictions::p21-fixed-peak-spacing-ratio::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2539-2543
+heading: '**P2.1 Fixed Peak Spacing Ratio**'
+parent_heading: '**Axiom P2 (CMB Multipole Predictions).**'
 block_type: paragraph
-concepts: []
 excerpt: ΔℓkΔℓk+1=ΔfkΔfk+1.\\frac{\\Delta \\ell\_k}{\\Delta \\ell\_{k+1}} \= \\frac{\\Delta
   f\_k}{\\Delta f\_{k+1}}.Δℓk+1​Δℓk​​=Δfk+1​Δfk​​. CMB peak ratios \= GW echo ratios.
-heading: '**P2.1 Fixed Peak Spacing Ratio**'
-id: GEN12-1696
-lines: 2539-2543
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p2-cmb-multipole-predictions::p21-fixed-peak-spacing-ratio::b1
-parent_heading: '**Axiom P2 (CMB Multipole Predictions).**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Δ
+aliases:
+- Bk068fd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.941176470588235
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

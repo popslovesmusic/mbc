@@ -1,10 +1,25 @@
-block_type: table
-concepts:
-- Axiom
-- δ
-excerpt: '---'
-heading: '**Summary Table**'
 id: GEN2-6292
-lines: 1167-1185
 location: genesis-2/axioms-for-the-category-genesis::summary-table::b3
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 1167-1185
+heading: '**Summary Table**'
+block_type: table
+excerpt: '---'
+concepts:
+- δ
+- Axiom
+- non-commutative
+- ≠
+- →
+aliases:
+- Bk034as
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,15 +1,37 @@
-block_type: paragraph
-concepts:
-- Box
-- Exponential Boxes
-- Γ
-- Π
-- β
-- λ
-excerpt: 'We prove a **bi-directional translation**: 1. **λ → Box** Every λ-term can
-  be represented as a Box network.'
-heading: '**⭐ 0\. OVERVIEW OF THE EQUIVALENCE**'
 id: GEN16-4081
-lines: 4376-4396
 location: genesis-16/untitled-document::0-overview-of-the-equivalence::b1
 source: genesis-16\Untitled_document.md
+lines: 4376-4396
+heading: '**⭐ 0\. OVERVIEW OF THE EQUIVALENCE**'
+block_type: paragraph
+excerpt: 'We prove a **bi-directional translation**: 1. **λ → Box** Every λ-term can
+  be represented as a Box network.'
+concepts:
+- Box
+- Π-evaluation
+- λ
+- ↔
+- bi-directional translation
+- →
+- bi-directional
+- eval-morphism
+- well-formed
+- Π
+- β
+- Γ
+- Exponential Boxes
+aliases:
+- Bk473pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 22.033898305084744
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

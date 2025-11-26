@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- μ
-- ν
-excerpt: 'Every adjacency mode corresponds to a consistent gauge curvature: Aμν=∂μAν−∂νAμ+\[Aμ,Aν\].\\mathcal{A}\_{\\mu\\nu}
-  \= \\partial\_\\mu A\_\\nu \- \\partial\_\\nu A\_\\mu \+ \[A\_\\mu, A\_\\nu\].Aμν​=∂μ...'
-heading: '**Axiom 7 — Adjacency–Curvature Completion (Gauge Law Condition)**'
 id: GEN7-8507
-lines: 982-991
 location: genesis-7/the-complete-eft-lagrangian::axiom-7-adjacencycurvature-completion-gauge-law-condition::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 982-991
+heading: '**Axiom 7 — Adjacency–Curvature Completion (Gauge Law Condition)**'
+block_type: paragraph
+excerpt: 'Every adjacency mode corresponds to a consistent gauge curvature: Aμν=∂μAν−∂νAμ+\[Aμ,Aν\].\\mathcal{A}\_{\\mu\\nu}
+  \= \\partial\_\\mu A\_\\nu \- \\partial\_\\nu A\_\\mu \+ \[A\_\\mu, A\_\\nu\].Aμν​=∂μ...'
+concepts:
+- ν
+- μ
+- ∂
+aliases:
+- Bk106ea
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.769230769230769
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

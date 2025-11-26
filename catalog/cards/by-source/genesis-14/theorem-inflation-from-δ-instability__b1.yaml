@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- not
-- Π
-- δ
-- λ
-excerpt: If the δ-adjacency curvature operator contains a positive eigenvalue λ+\>0\\lambda\_+
-  \> 0λ+​\>0, then the Π-projected metric undergoes exponential expansion
-heading: '**THEOREM (Inflation from δ-Instability)**'
 id: GEN14-2677
-lines: 441-452
 location: genesis-14/inflation-structure-formation::theorem-inflation-from-δ-instability::b1
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 441-452
+heading: '**THEOREM (Inflation from δ-Instability)**'
+block_type: paragraph
+excerpt: If the δ-adjacency curvature operator contains a positive eigenvalue λ+\>0\\lambda\_+
+  \> 0λ+​\>0, then the Π-projected metric undergoes exponential expansion
+concepts:
+- λ
+- δ
+- Π-projected
+- δ-adjacency
+- δ-curvature
+- Π
+- geometric projection
+- not
+aliases:
+- Bk769ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.559322033898304
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

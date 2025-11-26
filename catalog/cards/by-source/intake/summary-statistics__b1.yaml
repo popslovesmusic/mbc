@@ -1,15 +1,31 @@
+id: INTK-10961
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::summary-statistics::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 618-641
+heading: SUMMARY STATISTICS
+parent_heading: MetaMath White Papers - Volume Structure Gap Analysis
 block_type: paragraph
+excerpt: '**Total Parts:** 19 **Complete Parts:** 9 (47%) **Empty Parts:** 10 (53%)'
 concepts:
-- By Volume
+- I-III
+- Encyclopedia Entries
 - Complete Parts
 - Empty Parts
-- Encyclopedia Entries
 - Total Files
 - Total Parts
-excerpt: '**Total Parts:** 19 **Complete Parts:** 9 (47%) **Empty Parts:** 10 (53%)'
-heading: SUMMARY STATISTICS
-id: INTK-10961
-lines: 618-641
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::summary-statistics::b1
-parent_heading: MetaMath White Papers - Volume Structure Gap Analysis
-source: intake\Volume_Structure_Gap_Analysis.md
+- By Volume
+aliases:
+- Bk330tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.235294117647058
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

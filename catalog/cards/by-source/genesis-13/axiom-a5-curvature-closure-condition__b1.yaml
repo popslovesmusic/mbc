@@ -1,14 +1,30 @@
+id: GEN13-2360
+location: genesis-13/the-weight-of-light::1-the-axioms::axiom-a5-curvature-closure-condition::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1437-1443
+heading: '**Axiom A5 — Curvature Closure Condition**'
+parent_heading: '**1\. The Axioms**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Curvature extracted from δ and curvature induced via Π must coincide under
   Φ: Rδ=RΠ∘Φ.R\_\\delta \= R\_{\\Pi} \\circ \\Phi.Rδ​=RΠ​∘Φ. This prevents contradictions
   between deviation curvature and geome...'
-heading: '**Axiom A5 — Curvature Closure Condition**'
-id: GEN13-2360
-lines: 1437-1443
-location: genesis-13/the-weight-of-light::1-the-axioms::axiom-a5-curvature-closure-condition::b1
-parent_heading: '**1\. The Axioms**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Curvature
+- Π
+- δ
+- Φ
+aliases:
+- Bk229ce
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

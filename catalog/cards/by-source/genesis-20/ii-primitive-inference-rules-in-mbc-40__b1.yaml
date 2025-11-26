@@ -1,10 +1,26 @@
+id: GEN20-6631
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::ii-primitive-inference-rules-in-mbc-40::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 844-847
+heading: II. Primitive Inference Rules in MBC-4.0
 block_type: paragraph
+excerpt: Every rule is expressed dual-column and then in Box-Calculus form. ---
 concepts:
 - Box
 - Box-Calculus
-excerpt: Every rule is expressed dual-column and then in Box-Calculus form. ---
-heading: II. Primitive Inference Rules in MBC-4.0
-id: GEN20-6631
-lines: 844-847
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::ii-primitive-inference-rules-in-mbc-40::b1
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+- dual-column
+aliases:
+- Bk639er
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

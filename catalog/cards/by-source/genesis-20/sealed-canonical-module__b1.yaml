@@ -1,26 +1,40 @@
+id: GEN20-6639
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::v-machine-readable-json-for-the-mbc-40-semantic-inference-layer::sealed-canonical-module::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 904-907
+heading: (Sealed, canonical module)
+parent_heading: V. Machine-Readable JSON for the MBC-4.0 Semantic Inference Layer
 block_type: paragraph
-concepts:
-- Aggregation Rule
-- Closure Rule
-- Composition Rule
-- Every Pi
-- Federated Inference Rule
-- Identity Rule
-- Pi-Closure
-- Polarity-Weighted
-- Projection Rule
-- Routing Rule
-- Semantic Stability
-- Stability Rule
-- Theta-Routing
-- Weighted Deduction
-- δ
 excerpt: '{ "mbc\_version": "4.0", "module": "semantic\_inference\_rules", "sealed":
   true, "judgments": { "deduction": "⊢", "routing\_implication": "⇒", "semantic\_entailment":
   "|=" }, "operators\_used": \["del...'
-heading: (Sealed, canonical module)
-id: GEN20-6639
-lines: 904-907
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::v-machine-readable-json-for-the-mbc-40-semantic-inference-layer::sealed-canonical-module::b1
-parent_heading: V. Machine-Readable JSON for the MBC-4.0 Semantic Inference Layer
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- Projection
+- Polarity
+- Polarity-Weighted
+- δ
+- R-DELTA-STABLE
+- Theta-Routing
+- δ-Projection
+- R-DELTA-PROJ
+- δ-Stability
+- R-POLARITY
+- Pi-Closure
+- Federated Inference Rule
+- Pi-stable
+- R-THETA
+- R-SOUND
+aliases:
+- Bk732mm
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.151515151515152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

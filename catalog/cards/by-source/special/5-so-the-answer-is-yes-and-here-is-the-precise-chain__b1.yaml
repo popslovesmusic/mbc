@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'You asked: “The universe’s first moments were not physical… time had started…
-  deviation evolved… then it moved… rapid expansion… universe heats… physical is created?”'
-heading: '**🌋 5\. So the answer is: Yes, and here is the precise chain**'
 id: SPEC-11010
-lines: 668-672
 location: special/specil::5-so-the-answer-is-yes-and-here-is-the-precise-chain::b1
 source: special\specil.md
+lines: 668-672
+heading: '**🌋 5\. So the answer is: Yes, and here is the precise chain**'
+block_type: paragraph
+excerpt: 'You asked: “The universe’s first moments were not physical… time had started…
+  deviation evolved… then it moved… rapid expansion… universe heats… physical is created?”'
+aliases:
+- Bk176ya
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

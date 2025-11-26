@@ -1,11 +1,26 @@
+id: GEN1-512
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-δ-axiom-set-minimal-form::axiom-δ2-deviation-generates-structure::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 43-47
+heading: '**Axiom δ2 (Deviation Generates Structure).**'
+parent_heading: '**1\. δ-Axiom Set (Minimal Form)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'All geometric, dynamical, and relational structure arises from δ: G=⟨δ⟩closure.\\mathcal{G}
   \= \\langle \\delta \\rangle\_{\\text{closure}}.G=⟨δ⟩closure​.'
-heading: '**Axiom δ2 (Deviation Generates Structure).**'
-id: GEN1-512
-lines: 43-47
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-δ-axiom-set-minimal-form::axiom-δ2-deviation-generates-structure::b1
-parent_heading: '**1\. δ-Axiom Set (Minimal Form)**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+aliases:
+- Bk862ag
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.3478260869565215
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

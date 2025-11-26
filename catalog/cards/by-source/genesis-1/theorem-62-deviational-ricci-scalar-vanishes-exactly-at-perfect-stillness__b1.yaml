@@ -1,12 +1,32 @@
+id: GEN1-624
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::6-higher-deviational-curvature-invariants::theorem-62-deviational-ricci-scalar-vanishes-exactly-at-perfect-stillness::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1380-1389
+heading: '**Theorem 6.2 — Deviational Ricci Scalar Vanishes Exactly at Perfect Stillness.**'
+parent_heading: '**6\. Higher Deviational Curvature Invariants**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Rδsc=0  ⟺  \[δ,δ\]=0.\\mathcal{R}\_\\delta^{\\mathrm{sc}} \= 0 \\iff \[\\delta,\\delta\]=0.Rδsc​=0⟺\[δ,δ\]=0.
   **Proof.** The trace of a non-zero commutator vanishes iff the commutator is zero
   (fundame...
-heading: '**Theorem 6.2 — Deviational Ricci Scalar Vanishes Exactly at Perfect Stillness.**'
-id: GEN1-624
-lines: 1380-1389
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::6-higher-deviational-curvature-invariants::theorem-62-deviational-ricci-scalar-vanishes-exactly-at-perfect-stillness::b1
-parent_heading: '**6\. Higher Deviational Curvature Invariants**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Proof
+- trace-class
+- non-zero
+- δsc
+aliases:
+- Bk790md
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

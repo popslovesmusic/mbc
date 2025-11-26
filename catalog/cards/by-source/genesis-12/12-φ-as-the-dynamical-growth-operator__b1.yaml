@@ -1,11 +1,29 @@
+id: GEN12-1795
+location: genesis-12/untitled-document::1-preliminaries::12-φ-as-the-dynamical-growth-operator::b1
+source: genesis-12\Untitled_document.md
+lines: 1149-1167
+heading: '**1.2 Φ as the Dynamical Growth Operator**'
+parent_heading: '**1\. Preliminaries**'
 block_type: paragraph
+excerpt: 'Φ evolves δ into: * resonance kernels, * mode-coupling networks,'
 concepts:
 - Φ
+- radiation-matter
+- mode-coupling
+- first Φ-burst
+- Φ-burst
 - δ
-excerpt: 'Φ evolves δ into: * resonance kernels, * mode-coupling networks,'
-heading: '**1.2 Φ as the Dynamical Growth Operator**'
-id: GEN12-1795
-lines: 1149-1167
-location: genesis-12/untitled-document::1-preliminaries::12-φ-as-the-dynamical-growth-operator::b1
-parent_heading: '**1\. Preliminaries**'
-source: genesis-12\Untitled_document.md
+aliases:
+- Bk676ei
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.75
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

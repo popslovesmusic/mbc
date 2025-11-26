@@ -1,9 +1,31 @@
-block_type: paragraph
-concepts: []
-excerpt: '**Peakset ∞-stack**: ``` P : S_PPG^op → ∞-Groupoids'
-heading: Peaksets as ∞-Stack Sections
 id: INTK-10896
-lines: 3797-3814
 location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::ahef-as-higher-derivations-in-stack::peaksets-as-stack-sections::b2
-parent_heading: A/H/E/F as Higher Derivations in ∞-Stack
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3797-3814
+heading: Peaksets as ∞-Stack Sections
+parent_heading: A/H/E/F as Higher Derivations in ∞-Stack
+block_type: paragraph
+excerpt: '**Peakset ∞-stack**: ``` P : S_PPG^op → ∞-Groupoids'
+concepts:
+- Deviation
+- homotopy-coherent sections
+- ∞
+- homotopy-coherent
+- topos-theoretic
+- fractal-open
+- →
+aliases:
+- Bk152ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.725490196078432
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

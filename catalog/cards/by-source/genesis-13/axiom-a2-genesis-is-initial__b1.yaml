@@ -1,12 +1,27 @@
+id: GEN13-2404
+location: genesis-13/the-weight-of-light::1-axioms::axiom-a2-genesis-is-initial::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1995-1997
+heading: '**Axiom A2 — Genesis is Initial**'
+parent_heading: '**1\. Axioms**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: For any category C,HomG0(Ψ0,X) is singleton.\\text{For any category } \\mathcal{C},\\quad
   \\mathrm{Hom}\_{\\mathcal{G}\_0}(\\Psi\_0, X) \\text{ is singleton.}For any category
   C,HomG0​​(Ψ0​,X) is singl...
-heading: '**Axiom A2 — Genesis is Initial**'
-id: GEN13-2404
-lines: 1995-1997
-location: genesis-13/the-weight-of-light::1-axioms::axiom-a2-genesis-is-initial::b1
-parent_heading: '**1\. Axioms**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Ψ
+aliases:
+- Bk655fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.7027027027027026
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

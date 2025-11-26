@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
+id: GEN2-6442
+location: genesis-2/axioms-of-geometry-topos-compatible::theorem-δφ-unity-meta-einstein::the-meta-einstein-field-equation-arises-necessarily-from-the-unified-δφ-foundation-layer::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1644-1646
 heading: '***The Meta-Einstein Field Equation arises necessarily from the unified
   δ–Φ Foundation Layer.***'
-id: GEN2-6442
-lines: 1644-1646
-location: genesis-2/axioms-of-geometry-topos-compatible::theorem-δφ-unity-meta-einstein::the-meta-einstein-field-equation-arises-necessarily-from-the-unified-δφ-foundation-layer::b1
 parent_heading: '**Theorem (δ–Φ Unity ⇒ Meta-Einstein)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

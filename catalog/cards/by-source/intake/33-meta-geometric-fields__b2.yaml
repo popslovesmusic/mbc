@@ -1,15 +1,29 @@
+id: INTK-10501
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::3-δ-objects-peaksets-and-derived-stacks::33-meta-geometric-fields::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1847-1850
+heading: '**3.3. Meta-Geometric Fields**'
+parent_heading: '**3. δ-Objects, Peaksets, and Derived Stacks**'
 block_type: paragraph
-concepts:
-- Meta-Fields
-- Meta-Metric
-- sections
-- Ψ
 excerpt: Meta-Fields (e.g., the deviation field Ψ, the Meta-Metric G_AB) are defined
   as **sections** of various bundles over this peakset stack, meaning they are intrinsically
   tied to its geometry. ---
-heading: '**3.3. Meta-Geometric Fields**'
-id: INTK-10501
-lines: 1847-1850
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::3-δ-objects-peaksets-and-derived-stacks::33-meta-geometric-fields::b2
-parent_heading: '**3. δ-Objects, Peaksets, and Derived Stacks**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Fields
+- Meta-Metric
+- Ψ
+- sections
+aliases:
+- Bk024mf
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

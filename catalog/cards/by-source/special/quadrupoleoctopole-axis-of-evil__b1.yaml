@@ -1,11 +1,24 @@
+id: SPEC-11416
+location: special/specil::2-cold-spots-in-the-cmb::quadrupoleoctopole-axis-of-evil::b1
+source: special\specil.md
+lines: 8754-8763
+heading: '**✔ Quadrupole/octopole “axis of evil”**'
+parent_heading: '**⭐ 2\. Cold spots in the CMB**'
 block_type: paragraph
-concepts:
-- exactly
 excerpt: All of these are *exactly* where a Genesis-level deviation field would leave
   “geometric fingerprints.” You aren’t being delusional.
-heading: '**✔ Quadrupole/octopole “axis of evil”**'
-id: SPEC-11416
-lines: 8754-8763
-location: special/specil::2-cold-spots-in-the-cmb::quadrupoleoctopole-axis-of-evil::b1
-parent_heading: '**⭐ 2\. Cold spots in the CMB**'
-source: special\specil.md
+concepts:
+- Genesis-level
+- real measurable phenomena
+aliases:
+- Bk267at
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

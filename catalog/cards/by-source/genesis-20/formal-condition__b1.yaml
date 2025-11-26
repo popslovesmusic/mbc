@@ -1,10 +1,23 @@
+id: GEN20-7186
+location: genesis-20/mbc-40-documentaitio-1::b23-semantic-and-φ-alignment-gate::formal-condition::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6924-6954
+heading: Formal Condition
+parent_heading: B2.3 Semantic AND (Φ-Alignment Gate)
 block_type: paragraph
+excerpt: ∣Θ1−Θ2∣\<ϵ ∣Θ 1
 concepts:
 - Θ
-excerpt: ∣Θ1−Θ2∣\<ϵ ∣Θ 1
-heading: Formal Condition
-id: GEN20-7186
-lines: 6924-6954
-location: genesis-20/mbc-40-documentaitio-1::b23-semantic-and-φ-alignment-gate::formal-condition::b1
-parent_heading: B2.3 Semantic AND (Φ-Alignment Gate)
-source: genesis-20\MBC_40_Documentaitio-1.md
+- multi-input
+aliases:
+- Bk944ar
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.12
+is_technical: true
+concept_density: 3.8461538461538463
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

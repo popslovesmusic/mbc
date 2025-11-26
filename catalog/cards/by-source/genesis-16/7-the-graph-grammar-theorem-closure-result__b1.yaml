@@ -1,17 +1,39 @@
+id: GEN16-3845
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::7-the-graph-grammar-theorem-closure-result::b1
+source: genesis-16\Untitled_document.md
+lines: 1414-1427
+heading: '**7\. The Graph Grammar Theorem (Closure Result)**'
+parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
 block_type: table
-concepts:
-- Box
-- Standard Statement
-- Theorem
-- Π
-- Φ
-- ρ
 excerpt: '**Theorem (Termination-to-Π):** If WF(G)\\mathrm{WF}(\\mathcal{G})WF(G),
   then every maximal path in G\\mathcal{G}G is of the form: w=E∗(A/ρR)∗Φ?Πw \= E^\*
   (A/\\rho\\mathcal{R})^\* \\Phi? \\Piw=E∗(A/ρR...'
-heading: '**7\. The Graph Grammar Theorem (Closure Result)**'
-id: GEN16-3845
-lines: 1414-1427
-location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::7-the-graph-grammar-theorem-closure-result::b1
-parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- IGSOA
+- Π
+- Theorem
+- Box
+- Termination-to-Π
+- Φ
+- ρ
+- well-formed
+- Π-realized
+- Standard Statement
+- Πw
+aliases:
+- Th605is
+tags:
+- theorem
+- termination-to-π
+- ambiguous
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.790697674418606
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

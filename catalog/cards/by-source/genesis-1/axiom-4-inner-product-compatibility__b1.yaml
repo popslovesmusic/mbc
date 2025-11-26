@@ -1,12 +1,28 @@
+id: GEN1-561
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-axiomatic-foundation::axiom-4-inner-product-compatibility::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 739-747
+heading: '**Axiom 4 (Inner Product Compatibility).**'
+parent_heading: '**1\. Axiomatic Foundation**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: There exists an inner product ⟨⋅,⋅⟩\\langle\\cdot,\\cdot\\rangle⟨⋅,⋅⟩ on
   H\\mathcal{H}H for which ∥δψ∥2=⟨ψ, δ†δ ψ⟩,\\|\\delta\\psi\\|^2 \= \\langle\\psi,\\,
   \\delta^\\dagger \\delta\\,\\psi\\rangle,∥δ...
-heading: '**Axiom 4 (Inner Product Compatibility).**'
-id: GEN1-561
-lines: 739-747
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-axiomatic-foundation::axiom-4-inner-product-compatibility::b1
-parent_heading: '**1\. Axiomatic Foundation**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- ψ
+- δ
+aliases:
+- Bk703te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.25531914893617
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

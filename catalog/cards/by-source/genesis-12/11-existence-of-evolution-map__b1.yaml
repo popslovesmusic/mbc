@@ -1,16 +1,34 @@
+id: GEN12-1916
+location: genesis-12/untitled-document::part-i-determinism-of-evolution::11-existence-of-evolution-map::b1
+source: genesis-12\Untitled_document.md
+lines: 2890-2902
+heading: '**1.1 (Existence of Evolution Map)**'
+parent_heading: '**Part I — Determinism of Evolution**'
 block_type: paragraph
-concepts:
-- Galaxy Formation Theorem
-- Theorem
-- Π
-- Φ
-- δ
 excerpt: 'From the Galaxy Formation Theorem: Gi=Π(Φ2(Bi)),Bi∈Bδ.\\mathcal{G}\_i \=
   \\Pi(\\Phi\_2(B\_i)), \\quad B\_i \\in \\mathcal{B}\_\\delta.Gi​=Π(Φ2​(Bi​)),Bi​∈Bδ​.
   Since Φ₂ and Π are functorial, the time-e...'
-heading: '**1.1 (Existence of Evolution Map)**'
-id: GEN12-1916
-lines: 2890-2902
-location: genesis-12/untitled-document::part-i-determinism-of-evolution::11-existence-of-evolution-map::b1
-parent_heading: '**Part I — Determinism of Evolution**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- Π
+- Theorem
+- δ
+- ∈
+- time-evolved
+- Galaxy Formation Theorem
+- Φ₂
+aliases:
+- Bk515ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.38961038961039
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

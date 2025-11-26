@@ -1,11 +1,31 @@
+id: GEN13-2006
+location: genesis-13/meta-math-nuclear-physics::1-δ-layer-meta-genesis-geometry::13-δ-flux-tubes::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 55-62
+heading: '**1.3 δ-Flux Tubes**'
+parent_heading: '**1\. δ-Layer (Meta-Genesis Geometry)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'A δ-geometric *flux-tube bundle* naturally forms: the δ-version of chromoelectric
   flux tubes in QCD. This is the **proto-nuclear binding mechanism**.'
-heading: '**1.3 δ-Flux Tubes**'
-id: GEN13-2006
-lines: 55-62
-location: genesis-13/meta-math-nuclear-physics::1-δ-layer-meta-genesis-geometry::13-δ-flux-tubes::b1
-parent_heading: '**1\. δ-Layer (Meta-Genesis Geometry)**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- proto-nuclear binding mechanism
+- δ
+- proto-nuclear
+- δ-geometric
+- δ-version
+- flux-tube
+aliases:
+- Bk694gf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

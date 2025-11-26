@@ -1,13 +1,38 @@
-block_type: paragraph
-concepts:
-- Standard Model
-- Φ
-- α
-- δ
-excerpt: 'In IGSOA, the weak SU(2) arises from torsion and acts on a θ-doublet: (ψ+,ψ−).(\\psi\_+,
-  \\psi\_-).(ψ+​,ψ−​). But your Φ functor:'
-heading: '**2\. SU(2) → U(1) under Φ**'
 id: GEN9-9549
-lines: 1927-1961
 location: genesis-9/strong-force::2-su2-u1-under-φ::b1
 source: genesis-9\strong-force.md
+lines: 1927-1961
+heading: '**2\. SU(2) → U(1) under Φ**'
+block_type: paragraph
+excerpt: 'In IGSOA, the weak SU(2) arises from torsion and acts on a θ-doublet: (ψ+,ψ−).(\\psi\_+,
+  \\psi\_-).(ψ+​,ψ−​). But your Φ functor:'
+concepts:
+- IGSOA
+- ψ
+- θ
+- phase-preserving subgroup
+- fixed-point symmetry
+- ⊂
+- time-propagating
+- phase-preserving
+- α
+- Φ
+- mode-content
+- fixed-point
+- χ
+- δ
+- Standard Model
+aliases:
+- Bk919it
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

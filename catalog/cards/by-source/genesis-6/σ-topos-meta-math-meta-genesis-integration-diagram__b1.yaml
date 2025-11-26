@@ -1,22 +1,40 @@
+id: GEN6-8308
+location: genesis-6/spectral-triple-axiom-box-sealed-version::the-commuting-cube-sealed-version::σ-topos-meta-math-meta-genesis-integration-diagram::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 649-663
+heading: '**σ-Topos ↔ Meta-Math ↔ Meta-Genesis Integration Diagram**'
+parent_heading: '**THE COMMUTING CUBE (SEALED VERSION)**'
 block_type: paragraph
-concepts:
-- Generated Geometry
-- Hilbert Object
-- Mathematical Universe
-- Meta-Einstein
-- Meta-Genesis
-- Meta-Math
-- Meta-Mathematical
-- Spectral Triple
-- Zero-State
-- Ψ
-- δ
-- σ
 excerpt: 'We have a cube whose vertices are objects: * **Ψ₀**: Zero-State (Meta-Genesis)
   * **𝓗δ**: δ-Hilbert Object (σ-Topos internal state space)'
-heading: '**σ-Topos ↔ Meta-Math ↔ Meta-Genesis Integration Diagram**'
-id: GEN6-8308
-lines: 649-663
-location: genesis-6/spectral-triple-axiom-box-sealed-version::the-commuting-cube-sealed-version::σ-topos-meta-math-meta-genesis-integration-diagram::b1
-parent_heading: '**THE COMMUTING CUBE (SEALED VERSION)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- Meta-Math
+- Meta-Einstein
+- Meta-Genesis
+- δ
+- State
+- Meta-Mathematical
+- δ-Spectral Triple
+- δ-Spectral
+- Zero-State
+- δ-Hilbert
+- σ
+- Ψ
+- Mathematical Universe
+- commutative squares
+- Generated Geometry
+aliases:
+- Bk905hc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 34.54545454545455
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-- μ
-- ν
-excerpt: 'Applying the Φ-projection functor PΦP\_\\PhiPΦ​: PΦ(RΦ)=Gμν,PΦ(TδΦ)=8πTμν,P\_\\Phi(\\mathcal{R}\_\\Phi)
-  \= G\_{\\mu\\nu}, \\qquad P\_\\Phi(T\_{\\delta\\Phi}) \= 8\\pi T\_{\\mu\\nu},PΦ​(RΦ​)=Gμν​,PΦ​(T...'
-heading: '**Corollary 1 (Projection to Physics)**'
 id: GEN3-7435
-lines: 974-984
 location: genesis-3/the-physics-box-diagram::corollary-1-projection-to-physics::b1
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 974-984
+heading: '**Corollary 1 (Projection to Physics)**'
+block_type: paragraph
+excerpt: 'Applying the Φ-projection functor PΦP\_\\PhiPΦ​: PΦ(RΦ)=Gμν,PΦ(TδΦ)=8πTμν,P\_\\Phi(\\mathcal{R}\_\\Phi)
+  \= G\_{\\mu\\nu}, \\qquad P\_\\Phi(T\_{\\delta\\Phi}) \= 8\\pi T\_{\\mu\\nu},PΦ​(RΦ​)=Gμν​,PΦ​(T...'
+concepts:
+- Φ
+- ν
+- μ
+- Φ-projection
+- π
+- δ
+- ΦP
+aliases:
+- Bk549at
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

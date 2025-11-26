@@ -1,14 +1,31 @@
+id: INTK-10229
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-nine-fundamental-deviation-dimensions::23-the-interaction-triad-gauge-analog::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 197-205
+heading: '**2.3. The Interaction Triad (Gauge Analog)**'
+parent_heading: '**2. The Nine Fundamental Deviation Dimensions**'
 block_type: paragraph
-concepts:
-- Cross-Dimensional
-- Mass-Generating
-- δ
 excerpt: 'These three dimensions describe how deviation **interacts or transforms**
   internal symmetries: 7.  **δ_E (Exchange/Entanglement):** Nonlocal correlations
   / information transfer. 8.  **δ_X (Exotic/Cros...'
-heading: '**2.3. The Interaction Triad (Gauge Analog)**'
-id: INTK-10229
-lines: 197-205
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-nine-fundamental-deviation-dimensions::23-the-interaction-triad-gauge-analog::b1
-parent_heading: '**2. The Nine Fundamental Deviation Dimensions**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- δ
+- Cross-Dimensional
+- Mass-Generating
+- Yukawa-like
+- interacts or transforms
+aliases:
+- Bk310tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

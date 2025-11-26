@@ -1,19 +1,38 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Tensor Model
-- Π
-- Σ
-- Φ
-- α
-- β
-- δ
-excerpt: '**You should choose Option 2: the Vector/Tensor Model** because: 1. IGSOA
-  treats meaning as **structured, continuous, deformable geometries** in δ-space.'
-heading: '**🎯 Correct Answer for IGSOA (And for Box Calculus)**'
 id: GEN16-3787
-lines: 715-748
 location: genesis-16/untitled-document::correct-answer-for-igsoa-and-for-box-calculus::b1
 source: genesis-16\Untitled_document.md
+lines: 715-748
+heading: '**🎯 Correct Answer for IGSOA (And for Box Calculus)**'
+block_type: paragraph
+excerpt: '**You should choose Option 2: the Vector/Tensor Model** because: 1. IGSOA
+  treats meaning as **structured, continuous, deformable geometries** in δ-space.'
+concepts:
+- Σ
+- δ-geometry
+- IGSOA
+- Box Calculus
+- Polarity
+- infinite-dimensional
+- β
+- α
+- Axiom
+- δ
+- Router
+- Box
+- ∈
+- linear and nonlinear mappings
+- projection to a richer basis
+aliases:
+- Bk025ys
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.2317880794702
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

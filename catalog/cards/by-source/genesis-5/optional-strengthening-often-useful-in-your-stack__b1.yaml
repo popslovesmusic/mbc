@@ -1,15 +1,32 @@
+id: GEN5-8025
+location: genesis-5/formal-proof-of-the-adjoint-triple::2-δ-as-a-pointed-endofunctor-the-first-deviation::optional-strengthening-often-useful-in-your-stack::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1305-1318
+heading: '**Optional strengthening (often useful in your stack)**'
+parent_heading: '**2\. δ as a pointed endofunctor (the “first deviation”)**'
 block_type: paragraph
-concepts:
-- comonad
-- monad
-- δ
-- η
-- μ
 excerpt: You can make δ a **comonad** (δ,  ε,  Δ)(\\delta,\\;\\varepsilon,\\;\\Delta)(δ,ε,Δ)
   or **monad**
-heading: '**Optional strengthening (often useful in your stack)**'
-id: GEN5-8025
-lines: 1305-1318
-location: genesis-5/formal-proof-of-the-adjoint-triple::2-δ-as-a-pointed-endofunctor-the-first-deviation::optional-strengthening-often-useful-in-your-stack::b1
-parent_heading: '**2\. δ as a pointed endofunctor (the “first deviation”)**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- δ
+- monad
+- η
+- ε
+- μ
+- Δ
+- comonad
+aliases:
+- Bk845yc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.280701754385964
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Warrant its own chapter? → Yes. This is where:'
-heading: A7 — Semantic Field Theory & Curvature Dynamics
 id: GEN20-6997
-lines: 4260-4272
 location: genesis-20/mbc-40-documentaitio-1::why-each-topic-deserves-full-expansion-in-a-later-booklet::a7-semantic-field-theory-curvature-dynamics::b1
-parent_heading: ⭐ Why Each Topic Deserves Full Expansion in a Later Booklet
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4260-4272
+heading: A7 — Semantic Field Theory & Curvature Dynamics
+parent_heading: ⭐ Why Each Topic Deserves Full Expansion in a Later Booklet
+block_type: paragraph
+excerpt: 'Warrant its own chapter? → Yes. This is where:'
+concepts:
+- physics-minded
+- →
+aliases:
+- Bk982wi
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.451612903225806
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-- δ
-excerpt: We now formalize ATP as a Π-fixed δ-packet.
-heading: '**4\. ATP as a Π-Fixed Φ-State**'
 id: GEN13-2534
-lines: 1047-1049
 location: genesis-13/what-biology-is-in-meta-genesis::4-atp-as-a-π-fixed-φ-state::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1047-1049
+heading: '**4\. ATP as a Π-Fixed Φ-State**'
+block_type: paragraph
+excerpt: We now formalize ATP as a Π-fixed δ-packet.
+concepts:
+- δ-packet
+- Π-fixed
+- Π
+- δ
+aliases:
+- Bk548nf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

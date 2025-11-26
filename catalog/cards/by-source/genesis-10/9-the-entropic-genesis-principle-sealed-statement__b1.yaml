@@ -1,14 +1,29 @@
+id: GEN10-872
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::9-the-entropic-genesis-principle-sealed-statement::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2060-2064
+heading: '**9\. The Entropic Genesis Principle (Sealed Statement)**'
 block_type: paragraph
-concepts:
-- The Universe
-- Zero-State
-- Ψ
-- δ
 excerpt: \\boxed{ \\textbf{The Universe cannot begin cold because the Zero-State Ψ₀
   cannot persist. Deviation δ forces modal excitation, curvature, and entropy. S(Ψ\_1)
   \> 0 is a geometric necessity.} } ---
-heading: '**9\. The Entropic Genesis Principle (Sealed Statement)**'
-id: GEN10-872
-lines: 2060-2064
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::9-the-entropic-genesis-principle-sealed-statement::b1
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Deviation
+- State
+- Ψ
+- Zero-State
+- δ
+- The Universe
+- Ψ₀
+aliases:
+- Bk115bt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

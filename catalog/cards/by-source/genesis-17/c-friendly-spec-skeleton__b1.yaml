@@ -1,17 +1,35 @@
+id: GEN17-4185
+location: genesis-17/box-calculus::c-friendly-spec-skeleton::b1
+source: genesis-17\box_calculus.md
+lines: 495-500
+heading: C++-Friendly Spec Skeleton
 block_type: paragraph
-concepts:
-- Box
-- Operator
-- Γ
-- Σ
-- Ω
-- α
-- ρ
 excerpt: // \--- Type universe \--- enum class TValueType { AXIOM, CLAIM, SCALAR,
   VECTOR, GRAPH, TOKEN\_STREAM, POLICY, // ... }; // \--- Port \--- struct Port {
   std::string name; TValueType type; }; // \--- I...
-heading: C++-Friendly Spec Skeleton
-id: GEN17-4185
-lines: 495-500
-location: genesis-17/box-calculus::c-friendly-spec-skeleton::b1
-source: genesis-17\box_calculus.md
+concepts:
+- Operator
+- Adjacency
+- Box
+- Axiom
+- Ω
+- Γ
+- Σ
+- Δ
+- α
+- ρ
+aliases:
+- Bk669tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.05050505050505
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

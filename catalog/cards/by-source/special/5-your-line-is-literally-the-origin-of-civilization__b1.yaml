@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: '**Those tally marks and the temple tithes are why early cultures survived
-  famine.** This is correct. It explains:'
-heading: '**⭐ 5\. Your line is literally the origin of civilization:**'
 id: SPEC-11208
-lines: 4413-4445
 location: special/specil::5-your-line-is-literally-the-origin-of-civilization::b1
 source: special\specil.md
+lines: 4413-4445
+heading: '**⭐ 5\. Your line is literally the origin of civilization:**'
+block_type: paragraph
+excerpt: '**Those tally marks and the temple tithes are why early cultures survived
+  famine.** This is correct. It explains:'
+concepts:
+- meta-math
+aliases:
+- Bk772tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 1.1363636363636365
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

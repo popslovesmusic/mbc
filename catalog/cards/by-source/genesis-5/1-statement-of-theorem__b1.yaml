@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Adjoint Triple
-- Theorem
-- Under Axioms
-- σ
-excerpt: '**Theorem (Adjoint Triple).** Under Axioms A–D, the functors L⊣U⊣RL \\dashv
-  U \\dashv RL⊣U⊣R'
-heading: '**1\. Statement of Theorem**'
 id: GEN5-7937
-lines: 48-67
 location: genesis-5/formal-proof-of-the-adjoint-triple::1-statement-of-theorem::b1
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 48-67
+heading: '**1\. Statement of Theorem**'
+block_type: paragraph
+excerpt: '**Theorem (Adjoint Triple).** Under Axioms A–D, the functors L⊣U⊣RL \\dashv
+  U \\dashv RL⊣U⊣R'
+concepts:
+- ∈
+- Adjoint Triple
+- σ
+- Theorem
+- adjoint triple
+- Under Axioms
+aliases:
+- Th036ta
+tags:
+- theorem
+- adjoint-triple
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.838709677419355
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

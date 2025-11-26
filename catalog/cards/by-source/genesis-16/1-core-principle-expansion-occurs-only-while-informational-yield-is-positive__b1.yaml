@@ -1,12 +1,29 @@
+id: GEN16-3814
+location: genesis-16/untitled-document::1-core-principle-expansion-occurs-only-while-informational-yield-is-positive::b1
+source: genesis-16\Untitled_document.md
+lines: 1014-1028
+heading: '**⭐ 1\. Core Principle: Expansion Occurs Only While Informational Yield
+  Is Positive**'
 block_type: paragraph
-concepts:
-- Σ
 excerpt: 'Formally: E(Σt) is permitted only if ΔH(Σt)\>ϵ\\boxed{ E(\\Sigma\_t) \\
   \\text{is permitted only if} \\ \\Delta H(\\Sigma\_t) \> \\epsilon }E(Σt​) is permitted
   only if ΔH(Σt​)\>ϵ​ Where:'
-heading: '**⭐ 1\. Core Principle: Expansion Occurs Only While Informational Yield
-  Is Positive**'
-id: GEN16-3814
-lines: 1014-1028
-location: genesis-16/untitled-document::1-core-principle-expansion-occurs-only-while-informational-yield-is-positive::b1
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- Σt
+- Δ
+aliases:
+- Bk769fp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.896103896103896
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

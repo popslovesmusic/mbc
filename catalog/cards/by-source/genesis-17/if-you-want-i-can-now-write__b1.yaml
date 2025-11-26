@@ -1,16 +1,36 @@
-block_type: paragraph
-concepts:
-- Deviation-Driven
-- Driven Expansion Theorem
-- The Deviation
-- Theorem
-- Π
-- Φ
-- δ
-excerpt: ✓ a dual-column cross-reference version ✓ a narrative version (collapse →
-  hot point → expansion) ✓ a mathematical δ→Φ→Π formalization
-heading: '**If you want, I can now write:**'
 id: GEN17-4883
-lines: 168-175
 location: genesis-17/key-points::if-you-want-i-can-now-write::b1
 source: genesis-17\Key_Points.md
+lines: 168-175
+heading: '**If you want, I can now write:**'
+block_type: paragraph
+excerpt: ✓ a dual-column cross-reference version ✓ a narrative version (collapse →
+  hot point → expansion) ✓ a mathematical δ→Φ→Π formalization
+concepts:
+- Deviation
+- →
+- Theorem
+- Deviation-Driven
+- cross-reference
+- theorem-level
+- dual-column
+- Driven Expansion Theorem
+- Π
+- δ
+- Φ
+- The Deviation
+aliases:
+- Bk860dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 34.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

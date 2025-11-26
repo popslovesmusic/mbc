@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Paper Version
-- White-Paper
-excerpt: '*(Formal IGSOA White-Paper Version)*'
-heading: '**1\. Genesis → Deviation (δ)**'
 id: GEN12-1553
-lines: 365-367
 location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::1-genesis-deviation-δ::b1
 source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 365-367
+heading: '**1\. Genesis → Deviation (δ)**'
+block_type: paragraph
+excerpt: '*(Formal IGSOA White-Paper Version)*'
+concepts:
+- IGSOA
+- White-Paper
+- Paper Version
+aliases:
+- Bk619fi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 60.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

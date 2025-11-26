@@ -1,16 +1,32 @@
+id: GEN15-3494
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::6-cosmic-evolution-as-co-kleisli-co-induction::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1904-1925
+heading: '**🔷 6\. Cosmic Evolution as Co-Kleisli Co-Induction**'
 block_type: paragraph
-concepts:
-- produce
-- reveals
-- Π
-- Φ
-- γ
-- δ
 excerpt: 'The co-Kleisli category **CoKl(Gδ)** captures the stepwise unfolding: δ⇒Φ⇒Π⇒Structure⇒Galaxy\\delta
   \\Rightarrow \\Phi \\Rightarrow \\Pi \\Rightarrow \\text{Structure} \\Rightarrow
   \\text{Galaxy}δ⇒Φ⇒Π...'
-heading: '**🔷 6\. Cosmic Evolution as Co-Kleisli Co-Induction**'
-id: GEN15-3494
-lines: 1904-1925
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::6-cosmic-evolution-as-co-kleisli-co-induction::b1
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- →
+- Π
+- γ
+- Φ
+- co-Kleisli
+- reveals
+aliases:
+- Bk105tk
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.07070707070707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

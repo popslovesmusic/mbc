@@ -1,18 +1,35 @@
+id: GEN0-168
+location: genesis-0/tri-unity-theorem-equivalence-of::tiny-intuition-translation-for-outreach-layer::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 166-177
+heading: '**Tiny intuition translation (for outreach layer)**'
 block_type: list
-concepts:
-- Axiom
-- Box
-- Classical Physics
-- Tri-Unity
-- Unity Axiom Box
-- Π
-- Φ
-- δ
 excerpt: '* **δ says:** “something must happen.” * **Φ says:** “what happens forms
   a structured field of possibilities.” * **Π says:** “that structure is what we experience
   as spacetime physics.”'
-heading: '**Tiny intuition translation (for outreach layer)**'
-id: GEN0-168
-lines: 166-177
-location: genesis-0/tri-unity-theorem-equivalence-of::tiny-intuition-translation-for-outreach-layer::b1
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Tri-Unity
+- Axiom
+- Tri-Unity Axiom Box
+- Box
+- Π
+- δ
+- Φ
+- Classical Physics
+- Unity Axiom Box
+aliases:
+- Bk407ss
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.843373493975903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

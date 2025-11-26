@@ -1,10 +1,29 @@
+id: INTK-9833
+location: intake/meta-genesis-core-papers-foundations::3-formal-proof::step-3-non-empty-maximal-symmetry-is-unstable::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 985-1005
+heading: '**Step 3 — Non-empty maximal symmetry is unstable**'
+parent_heading: '**3\. Formal Proof**'
 block_type: paragraph
+excerpt: '(From A3) R(Ψ0)=∞.R(\\Psi\_0) \= \\infty.R(Ψ0​)=∞. This means:'
 concepts:
 - Ψ
-excerpt: '(From A3) R(Ψ0)=∞.R(\\Psi\_0) \= \\infty.R(Ψ0​)=∞. This means:'
-heading: '**Step 3 — Non-empty maximal symmetry is unstable**'
-id: INTK-9833
-lines: 985-1005
-location: intake/meta-genesis-core-papers-foundations::3-formal-proof::step-3-non-empty-maximal-symmetry-is-unstable::b1
-parent_heading: '**3\. Formal Proof**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+- ∞
+- Ψ₀
+aliases:
+- Bk003a
+tags:
+- A3
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.317073170731707
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7
+identifiers:
+- A3

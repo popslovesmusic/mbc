@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- γ
-- δ
-- μ
-- ν
-excerpt: 'Adjacency curvature: Aμν(a)=∂μAν(a)−∂νAμ(a)+fabcAμ(b)Aν(c).\\mathcal{A}\_{\\mu\\nu}^{(a)}
-  \= \\partial\_\\mu A^{(a)}\_\\nu \- \\partial\_\\nu A^{(a)}\_\\mu \+ f^{abc}A\_\\mu^{(b)}A\_\\nu^{(c)}.Aμν(a)​...'
-heading: '**4\. Adjacency Gauge Sector (Origin of Forces)**'
 id: GEN7-8445
-lines: 68-86
 location: genesis-7/the-complete-eft-lagrangian::4-adjacency-gauge-sector-origin-of-forces::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 68-86
+heading: '**4\. Adjacency Gauge Sector (Origin of Forces)**'
+block_type: paragraph
+excerpt: 'Adjacency curvature: Aμν(a)=∂μAν(a)−∂νAμ(a)+fabcAμ(b)Aν(c).\\mathcal{A}\_{\\mu\\nu}^{(a)}
+  \= \\partial\_\\mu A^{(a)}\_\\nu \- \\partial\_\\nu A^{(a)}\_\\mu \+ f^{abc}A\_\\mu^{(b)}A\_\\nu^{(c)}.Aμν(a)​...'
+concepts:
+- ν
+- μ
+- δ
+- Adjacency
+- γ
+- ∂
+- ∑
+aliases:
+- Bk657ac
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.46875
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

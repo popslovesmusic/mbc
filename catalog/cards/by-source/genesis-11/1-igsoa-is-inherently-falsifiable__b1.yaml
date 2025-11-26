@@ -1,14 +1,32 @@
+id: GEN11-1201
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-igsoa-empirical-prediction-axiom::immediate-consequences::1-igsoa-is-inherently-falsifiable::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1375-1377
+heading: '**1\. IGSOA is inherently falsifiable**'
+parent_heading: '**IMMEDIATE CONSEQUENCES**'
 block_type: paragraph
-concepts:
-- Λ
-- Π
-- Φ
-- δ
 excerpt: If all surviving Φ-evolved δ-features produce Π-imprints indistinguishable
   from ΛCDM/GR, the theory is falsified.
-heading: '**1\. IGSOA is inherently falsifiable**'
-id: GEN11-1201
-lines: 1375-1377
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-igsoa-empirical-prediction-axiom::immediate-consequences::1-igsoa-is-inherently-falsifiable::b1
-parent_heading: '**IMMEDIATE CONSEQUENCES**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- Π-imprints
+- δ-features
+- Φ-evolved
+- Λ
+- Π
+- δ
+- Φ
+aliases:
+- Bk913as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 38.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

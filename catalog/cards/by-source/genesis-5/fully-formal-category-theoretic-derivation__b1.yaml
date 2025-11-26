@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Fully Formal Category-Theoretic Derivation)***'
 id: GEN5-8136
-lines: 4-6
 location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::fully-formal-category-theoretic-derivation::b1
-parent_heading: '**THE GA-8 → META-EINSTEIN THEOREM**'
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 4-6
+heading: '***(Fully Formal Category-Theoretic Derivation)***'
+parent_heading: '**THE GA-8 → META-EINSTEIN THEOREM**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

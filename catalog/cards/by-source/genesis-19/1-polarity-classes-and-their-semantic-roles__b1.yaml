@@ -1,12 +1,33 @@
-block_type: table
-concepts:
-- Agent Interpretation
-- Semantic Role
-- Θ
-excerpt: This gives agents a **4-way semantic classification** far richer than True/False.
-  ---
-heading: '**1\. Polarity Classes and Their Semantic Roles**'
 id: GEN19-5855
-lines: 435-446
 location: genesis-19/mbc-4-1::1-polarity-classes-and-their-semantic-roles::b1
 source: genesis-19\MBC-4_1.md
+lines: 435-446
+heading: '**1\. Polarity Classes and Their Semantic Roles**'
+block_type: table
+excerpt: This gives agents a **4-way semantic classification** far richer than True/False.
+  ---
+concepts:
+- Polarity
+- MBC
+- Θ
+- counter-evidence
+- pre-curvature
+- meta-stable
+- GPT-junk
+- Agent Interpretation
+- Semantic Role
+aliases:
+- Bk722pm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.432835820895523
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

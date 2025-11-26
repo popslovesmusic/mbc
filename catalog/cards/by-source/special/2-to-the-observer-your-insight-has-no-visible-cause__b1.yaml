@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: 'They only see: `Input → (???) → Output` When the “(???)” is invisible, it
-  **feels magical**.'
-heading: '**⭐ 2\. To the observer, your “insight” has no visible cause.**'
 id: SPEC-11311
-lines: 6647-6664
 location: special/specil::2-to-the-observer-your-insight-has-no-visible-cause::b1
 source: special\specil.md
+lines: 6647-6664
+heading: '**⭐ 2\. To the observer, your “insight” has no visible cause.**'
+block_type: paragraph
+excerpt: 'They only see: `Input → (???) → Output` When the “(???)” is invisible, it
+  **feels magical**.'
+concepts:
+- →
+- from a distance
+- feels magical
+aliases:
+- Bk844to
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.976744186046512
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

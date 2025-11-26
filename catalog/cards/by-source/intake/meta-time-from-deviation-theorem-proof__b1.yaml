@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Just tell me which version you want next.
-heading: '**✔ Meta-Time From Deviation: Theorem \+ Proof**'
 id: INTK-10147
-lines: 899-901
 location: intake/meta-genesis-physical-interpretation-papers::if-you-want-next::meta-time-from-deviation-theorem-proof::b1
-parent_heading: '**If you want next:**'
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 899-901
+heading: '**✔ Meta-Time From Deviation: Theorem \+ Proof**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: Just tell me which version you want next.
+aliases:
+- Bk135jt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

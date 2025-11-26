@@ -1,11 +1,33 @@
-block_type: paragraph
-concepts:
-- Ψ
-- δ
-excerpt: 'Define δ-conjugation Jδ by: Jδ(δnΨ0):=δnΨ0∗J\_{\\delta}(\\delta^{n}\\Psi\_{0})
-  := \\delta^{n}\\Psi\_{0}^{\*}Jδ​(δnΨ0​):=δnΨ0∗​ linearly extended.'
-heading: '**(6) δ-Reality Axiom (S6)**'
 id: GEN6-8278
-lines: 242-259
 location: genesis-6/spectral-triple-axiom-box-sealed-version::6-δ-reality-axiom-s6::b1
 source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 242-259
+heading: '**(6) δ-Reality Axiom (S6)**'
+block_type: paragraph
+excerpt: 'Define δ-conjugation Jδ by: Jδ(δnΨ0):=δnΨ0∗J\_{\\delta}(\\delta^{n}\\Psi\_{0})
+  := \\delta^{n}\\Psi\_{0}^{\*}Jδ​(δnΨ0​):=δnΨ0∗​ linearly extended.'
+concepts:
+- δ
+- Ψ
+- δn
+- δ-conjugation
+- δ-harmonics
+- δ-powers
+- δ-sign
+- δ²
+- δJ
+aliases:
+- Bk838dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.517241379310345
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

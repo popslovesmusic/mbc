@@ -1,17 +1,39 @@
+id: GEN17-5040
+location: genesis-17/mbc-schema-3::collapsed-single-arrow-canonical-form::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 464-482
+heading: '**Collapsed “Single-Arrow” Canonical Form**'
 block_type: paragraph
-concepts:
-- Box
-- Cat Theory Appendix
-- Causal Order
-- Syntax Guide
-- Π
-- Φ
-- δ
 excerpt: 'This is the formal backbone of the entire metaphysics → physics pipeline:
   IGSOA→δΦ→ΠBox→ΠCausal Order\\boxed{ IGSOA \\xrightarrow{\\delta} \\Phi \\xrightarrow{\\Pi}
   \\mathsf{Box} \\xrightarrow{\\Pi} \...'
-heading: '**Collapsed “Single-Arrow” Canonical Form**'
-id: GEN17-5040
-lines: 464-482
-location: genesis-17/mbc-schema-3::collapsed-single-arrow-canonical-form::b1
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- MBC
+- IGSOA
+- Π
+- Box
+- δ
+- Φ
+- →
+- Causal Order
+- meta-operators
+- MBC-Cat
+- Cat Theory Appendix
+- Syntax Guide
+- ΠCausal
+- ΠBox
+aliases:
+- Bk196tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.893617021276595
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

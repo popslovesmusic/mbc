@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Just say which one.
-heading: '**✓ A narrative version (leaf/snowflake causal unfolding)**'
 id: GEN17-4965
-lines: 1251-1253
 location: genesis-17/key-points::conclusion::a-narrative-version-leafsnowflake-causal-unfolding::b1
-parent_heading: '**Conclusion**'
 source: genesis-17\Key_Points.md
+lines: 1251-1253
+heading: '**✓ A narrative version (leaf/snowflake causal unfolding)**'
+parent_heading: '**Conclusion**'
+block_type: paragraph
+excerpt: Just say which one.
+aliases:
+- Bk824js
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,30 @@
+id: GEN15-3098
+location: genesis-15/the-mass-curvature-projection-theorem::corollaries::corollary-3-gravity-mass-curvature-consistency::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 152-158
+heading: '**Corollary 3 — Gravity \= Mass-Curvature Consistency**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- Π
-- Φ
-- δ
 excerpt: 'Mass generates curvature because curvature generates mass; the adjoint triple
   enforces: ΠΦ(Kδ)⟺Meta-Einstein curvature\\Pi \\Phi (\\mathcal{K}\_\\delta) \\quad\\Longleftrightarrow\\quad
   \\text{Meta-Ei...'
-heading: '**Corollary 3 — Gravity \= Mass-Curvature Consistency**'
-id: GEN15-3098
-lines: 152-158
-location: genesis-15/the-mass-curvature-projection-theorem::corollaries::corollary-3-gravity-mass-curvature-consistency::b1
-parent_heading: '**Corollaries**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Meta-Einstein
+- Π
+- δ
+- Φ
+aliases:
+- Bk526mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

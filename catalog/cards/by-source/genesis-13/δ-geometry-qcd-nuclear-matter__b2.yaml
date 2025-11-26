@@ -1,10 +1,28 @@
+id: GEN13-2099
+location: genesis-13/meta-math-nuclear-physics::δ-geometry-qcd-nuclear-matter::b2
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1256-1262
+heading: '**“δ-Geometry → QCD → Nuclear Matter”**'
 block_type: paragraph
-concepts: []
 excerpt: 'Version A: *Maximal formal rigor.* Before I begin generating the full chapter,
   I need to confirm **one final structural choice**, because this chapter will set
   the template for all future high-formali...'
-heading: '**“δ-Geometry → QCD → Nuclear Matter”**'
-id: GEN13-2099
-lines: 1256-1262
-location: genesis-13/meta-math-nuclear-physics::δ-geometry-qcd-nuclear-matter::b2
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- IGSOA
+- high-formality
+- one final structural choice
+aliases:
+- Bk813vm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

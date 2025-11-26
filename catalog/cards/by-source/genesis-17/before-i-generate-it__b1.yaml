@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'I need one binary choice from you:'
-heading: 'Before I generate it:'
 id: GEN17-4190
-lines: 531-533
 location: genesis-17/box-calculus::proceeding-operator-kernel-registry-v02-canonical-spec::before-i-generate-it::b1
-parent_heading: '✅ Proceeding: Operator Kernel Registry v0.2 (Canonical Spec)'
 source: genesis-17\box_calculus.md
+lines: 531-533
+heading: 'Before I generate it:'
+parent_heading: '✅ Proceeding: Operator Kernel Registry v0.2 (Canonical Spec)'
+block_type: paragraph
+excerpt: 'I need one binary choice from you:'
+aliases:
+- Bk681no
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

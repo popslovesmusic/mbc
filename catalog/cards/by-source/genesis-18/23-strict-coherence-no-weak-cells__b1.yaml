@@ -1,13 +1,28 @@
+id: GEN18-5258
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-i-strict-2-operad-globular-operad-for-δ-modes::2-δ-as-a-strict-2-operad::23-strict-coherence-no-weak-cells::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1678-1693
+heading: '**2.3 Strict Coherence (No Weak Cells)**'
+parent_heading: '**2\. δ as a Strict 2-Operad**'
 block_type: paragraph
-concepts:
-- strict
-- δ
-- ω
 excerpt: 'Because IGSOA is monistic, the δ-operad is **strict**: * associators \=
   identity * unitors \= identity'
-heading: '**2.3 Strict Coherence (No Weak Cells)**'
-id: GEN18-5258
-lines: 1678-1693
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-i-strict-2-operad-globular-operad-for-δ-modes::2-δ-as-a-strict-2-operad::23-strict-coherence-no-weak-cells::b1
-parent_heading: '**2\. δ as a Strict 2-Operad**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- ω
+- IGSOA
+- →
+- strict
+- δ-operad
+- δ
+aliases:
+- Bk265bi
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

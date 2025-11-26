@@ -1,10 +1,25 @@
+id: INTK-10761
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::string-theory::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2004-2005
+heading: String Theory
+parent_heading: Glossary
 block_type: paragraph
+excerpt: 'Introduction (Source: 09_Dark_Matter_and_Higher_Dimensions.txt) [[Read More](concepts/Encyclopedia\String_Theory.md)]'
 concepts:
 - Read More
-excerpt: 'Introduction (Source: 09_Dark_Matter_and_Higher_Dimensions.txt) [[Read More](concepts/Encyclopedia\String_Theory.md)]'
-heading: String Theory
-id: INTK-10761
-lines: 2004-2005
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::string-theory::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+aliases:
+- Bk033is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

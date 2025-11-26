@@ -1,10 +1,26 @@
+id: GEN15-3108
+location: genesis-15/the-mass-curvature-projection-theorem::igsoa-monistic-interpretation::1-δ-curvature-is-the-only-ontological-source-of-mass::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 379-381
+heading: '**1 — δ-curvature is the only ontological source of mass**'
+parent_heading: '**IGSOA Monistic Interpretation**'
 block_type: paragraph
-concepts: []
 excerpt: Deviation creates curvature; curvature produces eigenvalues; eigenvalues
   become inertial mass.
-heading: '**1 — δ-curvature is the only ontological source of mass**'
-id: GEN15-3108
-lines: 379-381
-location: genesis-15/the-mass-curvature-projection-theorem::igsoa-monistic-interpretation::1-δ-curvature-is-the-only-ontological-source-of-mass::b1
-parent_heading: '**IGSOA Monistic Interpretation**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Deviation
+aliases:
+- Bk134dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

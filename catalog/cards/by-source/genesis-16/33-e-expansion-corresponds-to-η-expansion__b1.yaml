@@ -1,14 +1,31 @@
+id: GEN16-4112
+location: genesis-16/untitled-document::3-proof-η-long-normal-form-fully-expanded-box-graph::33-e-expansion-corresponds-to-η-expansion::b1
+source: genesis-16\Untitled_document.md
+lines: 4780-4789
+heading: '**3.3 E-expansion corresponds to η-expansion**'
+parent_heading: '**⭐ 3\. PROOF: η-LONG NORMAL FORM → FULLY EXPANDED BOX GRAPH**'
 block_type: table
+excerpt: Thus η-long form forces all E-operators to be *exhaustively applied*.
 concepts:
 - Box
-- Full Box
-- Γ
-- η
 - λ
-excerpt: Thus η-long form forces all E-operators to be *exhaustively applied*.
-heading: '**3.3 E-expansion corresponds to η-expansion**'
-id: GEN16-4112
-lines: 4780-4789
-location: genesis-16/untitled-document::3-proof-η-long-normal-form-fully-expanded-box-graph::33-e-expansion-corresponds-to-η-expansion::b1
-parent_heading: '**⭐ 3\. PROOF: η-LONG NORMAL FORM → FULLY EXPANDED BOX GRAPH**'
-source: genesis-16\Untitled_document.md
+- E-operators
+- η
+- Γ
+- Δ
+- Full Box
+aliases:
+- Bk800eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.475409836065573
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

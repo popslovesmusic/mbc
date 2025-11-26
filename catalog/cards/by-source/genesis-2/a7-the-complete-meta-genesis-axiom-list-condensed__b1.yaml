@@ -1,16 +1,62 @@
-block_type: list
-concepts:
-- Φ
-- Ψ
-- α
-- δ
-- δ-generation
-- δ-tower
-- η
-excerpt: '1. **Ψ₀** exists and is terminal (A1). 2. **η : Ψ₀→δΨ₀** breaks identity
-  (A2). 3. **δΨ₀** carries minimal structure (A3).'
-heading: '**A.7 The Complete Meta-Genesis Axiom List (Condensed)**'
 id: GEN2-6550
-lines: 1131-1159
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a7-the-complete-meta-genesis-axiom-list-condensed::b1
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 1131-1159
+heading: '**A.7 The Complete Meta-Genesis Axiom List (Condensed)**'
+block_type: list
+excerpt: '1. **Ψ₀** exists and is terminal (A1). 2. **η : Ψ₀→δΨ₀** breaks identity
+  (A2). 3. **δΨ₀** carries minimal structure (A3).'
+concepts:
+- δ
+- Adjacency
+- Deviation
+- Ψ
+- Zero-state is operator-free
+- Deviation is origin of classical geometry
+- Lemma
+- Ψ₀
+- →
+- operator-free
+- δ-generation
+- Zero-state
+- δ-tower
+- η
+- α
+aliases:
+- Bk001a
+tags:
+- A10
+- A6
+- A11
+- A2
+- A1
+- A8
+- A7
+- A12
+- A3
+- A4
+- A5
+- A9
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.649484536082475
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A1
+- A10
+- A11
+- A12
+- A2
+- A3
+- A4
+- A5
+- A6
+- A7
+- A8
+- A9

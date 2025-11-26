@@ -1,25 +1,40 @@
+id: INTK-10952
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::encyclopedia-asset-inventory::concepts-missing-from-encyclopedia::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 471-521
+heading: '**Concepts Missing from Encyclopedia:**'
+parent_heading: ENCYCLOPEDIA ASSET INVENTORY
 block_type: paragraph
-concepts:
-- Anomalous Dimensions
-- Beta Functions
-- Conformal Gauge
-- Cosmological Constant
-- Coupling Constants
-- Dark Matter
-- Deviation Space
-- Electron Orbitals
-- Electroweak Symmetry Breaking
-- Field
-- Fixed Points
-- For Part
-- For Volume
-- Fractal Adjacency Matrix
-- Fractal Dimension
 excerpt: '**For Part 3 (Early MetaGenesis):** - Primordial Deviation Field - Symmetry
   Breaking Cascade'
-heading: '**Concepts Missing from Encyclopedia:**'
-id: INTK-10952
-lines: 471-521
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::encyclopedia-asset-inventory::concepts-missing-from-encyclopedia::b1
-parent_heading: ENCYCLOPEDIA ASSET INVENTORY
-source: intake\Volume_Structure_Gap_Analysis.md
+concepts:
+- Meta-Genesis
+- Deviation
+- Adjacency
+- Operator
+- For Part
+- Field
+- δ
+- Self-Similarity
+- Scale-Deviation
+- Electroweak Symmetry Breaking
+- Pre-Physical
+- Standard Model Gauge Groups
+- Meta-String
+- δ-dimension
+- Primordial Deviation Field
+aliases:
+- Bk017fp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 35.77235772357724
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

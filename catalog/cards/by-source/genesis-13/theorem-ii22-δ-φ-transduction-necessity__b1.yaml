@@ -1,13 +1,38 @@
+id: GEN13-2554
+location: genesis-13/what-biology-is-in-meta-genesis::section-ii2-φ-rotor-harmonic-algebra-f₀f₁-formalization::theorem-ii22-δ-φ-transduction-necessity::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1323-1342
+heading: '**Theorem II.2.2 (δ → Φ Transduction Necessity).**'
+parent_heading: '**SECTION II.2 — Φ-Rotor Harmonic Algebra (F₀–F₁ Formalization)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'For any δ-operator with non-zero curvature defect Δδ\\Delta\_\\deltaΔδ​,
   the induced Φ-rotor satisfies: LR=Φ(Δδ),\\mathcal{L}\_R \= \\Phi(\\Delta\_\\delta),
   LR​=Φ(Δδ​), and'
-heading: '**Theorem II.2.2 (δ → Φ Transduction Necessity).**'
-id: GEN13-2554
-lines: 1323-1342
-location: genesis-13/what-biology-is-in-meta-genesis::section-ii2-φ-rotor-harmonic-algebra-f₀f₁-formalization::theorem-ii22-δ-φ-transduction-necessity::b1
-parent_heading: '**SECTION II.2 — Φ-Rotor Harmonic Algebra (F₀–F₁ Formalization)**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Δ
+- Φ
+- Proof
+- spectral-compatibility
+- non-zero
+- δ-operator
+- Non-zero
+- Φ-rotor
+- ≠
+- mathematical heart
+aliases:
+- Bk924fa
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.359550561797752
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

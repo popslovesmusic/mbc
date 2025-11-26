@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Just say: **“Next: X.”**'
-heading: '**✔ The full “Δ-curvature → metric → spacetime” extension**'
 id: INTK-10010
-lines: 1038-1040
 location: intake/meta-genesis-mathematical-papers::7-compact-version-for-white-papers::the-full-δ-curvature-metric-spacetime-extension::b1
-parent_heading: '**7\. Compact Version (for white papers)**'
 source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1038-1040
+heading: '**✔ The full “Δ-curvature → metric → spacetime” extension**'
+parent_heading: '**7\. Compact Version (for white papers)**'
+block_type: paragraph
+excerpt: 'Just say: **“Next: X.”**'
+aliases:
+- Bk084js
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,36 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Π
-- α
-- δ
-- μ
-- ν
-excerpt: 'Axiom δ5 (projection functor): Π:δ↦∇\\Pi: \\delta \\mapsto \\nabla Π:δ↦∇
-  Therefore:'
-heading: '**6\. Projection to Classical Einstein Equation**'
 id: GEN1-520
-lines: 154-176
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::6-projection-to-classical-einstein-equation::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 154-176
+heading: '**6\. Projection to Classical Einstein Equation**'
+block_type: paragraph
+excerpt: 'Axiom δ5 (projection functor): Π:δ↦∇\\Pi: \\delta \\mapsto \\nabla Π:δ↦∇
+  Therefore:'
+concepts:
+- μ
+- ν
+- δ
+- Π
+- π
+- α
+- Axiom
+- ∇
+- δ-equation
+aliases:
+- Am198ap
+tags:
+- δ5-projection-functor
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

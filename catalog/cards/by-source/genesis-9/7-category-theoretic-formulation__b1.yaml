@@ -1,13 +1,30 @@
-block_type: paragraph
-concepts:
-- Meta-Math
-- Φ
-- δ
-- η
-excerpt: 'Define: * G=\\mathcal{G} \=G= Genesis category * M=\\mathcal{M} \=M= Mathematical
-  (Meta-Math) category'
-heading: '**7\. Category-Theoretic Formulation**'
 id: GEN9-9473
-lines: 487-511
 location: genesis-9/strong-force::7-category-theoretic-formulation::b1
 source: genesis-9\strong-force.md
+lines: 487-511
+heading: '**7\. Category-Theoretic Formulation**'
+block_type: paragraph
+excerpt: 'Define: * G=\\mathcal{G} \=G= Genesis category * M=\\mathcal{M} \=M= Mathematical
+  (Meta-Math) category'
+concepts:
+- δ
+- Φ
+- Meta-Math
+- →
+- η
+- phase-cycle
+- automorphism groups
+aliases:
+- Bk510dm
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.072463768115942
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

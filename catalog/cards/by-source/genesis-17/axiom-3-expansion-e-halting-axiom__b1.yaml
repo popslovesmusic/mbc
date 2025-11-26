@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Σ
-- δ
-excerpt: Expansion is allowed only when informational yield is positive. Define semantic
-  entropy H:V→R≥0
-heading: ⭐ AXIOM 3 — Expansion (E-Halting) Axiom
 id: GEN17-4267
-lines: 1829-1856
 location: genesis-17/box-calculus::axiom-3-expansion-e-halting-axiom::b1
 source: genesis-17\box_calculus.md
+lines: 1829-1856
+heading: ⭐ AXIOM 3 — Expansion (E-Halting) Axiom
+block_type: paragraph
+excerpt: Expansion is allowed only when informational yield is positive. Define semantic
+  entropy H:V→R≥0
+concepts:
+- Σ
+- δ
+- Δ
+- ≥
+- →
+- κ
+- re-expansion
+- Π
+aliases:
+- Bk449ea
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.38961038961039
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

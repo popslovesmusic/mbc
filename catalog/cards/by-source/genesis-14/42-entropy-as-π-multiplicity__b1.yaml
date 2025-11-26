@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-excerpt: '**S \= ln Π(Φ-modes)** Π counts distinguishable adjacency micro-configurations.'
-heading: '**4.2 Entropy as Π-Multiplicity**'
 id: GEN14-2914
-lines: 100-103
 location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::main-paper-outline-formal::4-deriving-thermodynamic-potentials::42-entropy-as-π-multiplicity::b1
-parent_heading: '**4\. Deriving Thermodynamic Potentials**'
 source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 100-103
+heading: '**4.2 Entropy as Π-Multiplicity**'
+parent_heading: '**4\. Deriving Thermodynamic Potentials**'
+block_type: paragraph
+excerpt: '**S \= ln Π(Φ-modes)** Π counts distinguishable adjacency micro-configurations.'
+concepts:
+- micro-configurations
+- Π
+- Φ-modes
+- Φ
+aliases:
+- Bk401mc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 36.36363636363637
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,18 +1,38 @@
+id: GEN2-6293
+location: genesis-2/axioms-for-the-category-genesis::next-deliverables-choose::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 1187-1197
+heading: '**Next deliverables (choose):**'
 block_type: paragraph
-concepts:
-- Deviational Geometry
-- Einstein Equation
-- Meta-Einstein
-- Meta-Math
-- Operator
-- Operator Algebra
-- The Meta
-- δ
 excerpt: '**A.** *The δ-Operator Algebra (Meta-Math layer)* **B.** *The Meta-Einstein
   Equation derived purely from δ-Axioms* **C.** *Mermaid/TikZ diagrams of the δ-structure
   chain*'
-heading: '**Next deliverables (choose):**'
-id: GEN2-6293
-lines: 1187-1197
-location: genesis-2/axioms-for-the-category-genesis::next-deliverables-choose::b1
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Meta-Einstein
+- Meta-Math
+- Deviational Geometry
+- Deviation
+- δ
+- Operator
+- δ-structure
+- δ-Operator
+- δ-Axioms
+- →
+- Einstein Equation
+- Operator Algebra
+- The Meta
+aliases:
+- Bk112to
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.033898305084744
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

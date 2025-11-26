@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts:
-- not
-excerpt: '*(The first projections of IGSOA. These are **not** primitives.)*'
-heading: '**B. SHADOW OPERATORS**'
 id: GEN18-5192
-lines: 730-732
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::b-shadow-operators::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 730-732
+heading: '**B. SHADOW OPERATORS**'
+block_type: paragraph
+excerpt: '*(The first projections of IGSOA. These are **not** primitives.)*'
+concepts:
+- IGSOA
+- not
+aliases:
+- Bk533tf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

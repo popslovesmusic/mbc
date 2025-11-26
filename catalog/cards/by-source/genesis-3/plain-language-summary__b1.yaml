@@ -1,13 +1,33 @@
+id: GEN3-7526
+location: genesis-3/the-tri-unity-theorem::i-conceptual-overview::plain-language-summary::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 643-653
+heading: '**Plain-language summary:**'
+parent_heading: '**I. Conceptual Overview**'
 block_type: list
-concepts:
-- Φ
-- δ
 excerpt: '* **δ** generates adjacency \+ curvature \= the seeds of geometry. * **Φ**
   turns these into structured mode-spaces \= harmonic, fractal, patterned. * **π**
   selects a low-entropy, stable, decohered bra...'
-heading: '**Plain-language summary:**'
-id: GEN3-7526
-lines: 643-653
-location: genesis-3/the-tri-unity-theorem::i-conceptual-overview::plain-language-summary::b1
-parent_heading: '**I. Conceptual Overview**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- δ-geometry
+- π
+- δ
+- Φ
+- low-entropy
+- mode-spaces
+- Φ-patterns
+aliases:
+- Bk649ga
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

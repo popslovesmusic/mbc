@@ -1,14 +1,31 @@
+id: INTK-10544
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::physical-implications::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 2072-2078
+heading: Physical Implications
+parent_heading: Meta-Geometry
 block_type: paragraph
-concepts:
-- Background Independence
-- Meta-Geometry
-- Quantum Gravity
 excerpt: 'Meta-Geometry is essential for: - **Quantum Gravity:** Provides a framework
   where quantum phenomena and gravity are intrinsically linked at a pre-spacetime
   level. - **Background Independence:** Geomet...'
-heading: Physical Implications
-id: INTK-10544
-lines: 2072-2078
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::physical-implications::b1
-parent_heading: Meta-Geometry
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Geometry
+- pre-spacetime
+- scale-flow
+- Background Independence
+- Quantum Gravity
+aliases:
+- Bk973mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.578947368421052
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

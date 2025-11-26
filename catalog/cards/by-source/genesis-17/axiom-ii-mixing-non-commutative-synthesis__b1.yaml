@@ -1,21 +1,40 @@
+id: GEN17-4387
+location: genesis-17/box-calculus::3-mapping-the-laws-axioms::axiom-ii-mixing-non-commutative-synthesis::b1
+source: genesis-17\box_calculus.md
+lines: 3154-3163
+heading: Axiom II — Mixing / Non-commutative Synthesis
+parent_heading: ⭐ 3\. Mapping the Laws (Axioms)
 block_type: table
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Meta-Math
-- Mixing Axiom
-- Order-Sensitive
-- Sensitive Composition Axiom
-- Σ
-- α
-- β
-- δ
 excerpt: G(Mixing Axiom)=Order-Sensitive Composition Axiom G(Mixing Axiom)=Order-Sensitive
   Composition Axiom ​
-heading: Axiom II — Mixing / Non-commutative Synthesis
-id: GEN17-4387
-lines: 3154-3163
-location: genesis-17/box-calculus::3-mapping-the-laws-axioms::axiom-ii-mixing-non-commutative-synthesis::b1
-parent_heading: ⭐ 3\. Mapping the Laws (Axioms)
-source: genesis-17\box_calculus.md
+concepts:
+- Σ
+- Meta-Math
+- Axiom
+- Box Calculus
+- Order-Sensitive
+- Sensitive Composition Axiom
+- curvature-corrected
+- Box
+- β
+- δ
+- α
+- non-commutative
+- order-sensitive
+- Mixing Axiom
+- ≠
+aliases:
+- Bk201bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.058823529411764
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

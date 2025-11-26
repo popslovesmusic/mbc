@@ -1,10 +1,30 @@
+id: GEN6-8354
+location: genesis-6/spectral-triple-axiom-box-sealed-version::2-the-369-block-structure-curvature-layering::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1350-1356
+heading: '**2\. The 3–6–9 Block Structure \= Curvature Layering**'
 block_type: paragraph
-concepts: []
 excerpt: 'The 3–6–9 decomposition: S=(A3×3B3×6B6×3†D6×6)\\mathbf{S}= \\begin{pmatrix}
   A\_{3\\times3} & B\_{3\\times6}\\\\ B^\\dagger\_{6\\times3} & D\_{6\\times6} \\end{pmatrix}S=(A3×3​B6×3†​​B3×6​D6×6​​)
   corre...'
-heading: '**2\. The 3–6–9 Block Structure \= Curvature Layering**'
-id: GEN6-8354
-lines: 1350-1356
-location: genesis-6/spectral-triple-axiom-box-sealed-version::2-the-369-block-structure-curvature-layering::b1
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- IGSOA
+- three layers of curvature
+aliases:
+- Bk003a
+tags:
+- A3
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A3

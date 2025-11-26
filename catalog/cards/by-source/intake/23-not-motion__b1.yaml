@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Motion presupposes time. δ is what generates meta-time.
-heading: '**2.3 Not motion**'
 id: INTK-10123
-lines: 661-664
 location: intake/meta-genesis-physical-interpretation-papers::2-what-deviation-is-not::23-not-motion::b1
-parent_heading: '**2\. What Deviation Is Not**'
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 661-664
+heading: '**2.3 Not motion**'
+parent_heading: '**2\. What Deviation Is Not**'
+block_type: paragraph
+excerpt: Motion presupposes time. δ is what generates meta-time.
+concepts:
+- meta-time
+- δ
+aliases:
+- Bk073mp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

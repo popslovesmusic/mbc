@@ -1,14 +1,32 @@
-block_type: paragraph
-concepts:
-- Curvature Born
-- Fractal Deviational Spectrum
-- Higher Gauge Structure
-- Meta-Fractal
-- δ
-excerpt: 'If you want, I can now produce: 📘 **Next chapter: “Meta-Fractal Deviational
-  Spectrum (δₙₘₖ) and Higher Gauge Structure”** 📙 **The LaTeX version of this chapter**'
-heading: '**Chapter Complete.**'
 id: GEN1-636
-lines: 1511-1520
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-complete::b3
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1511-1520
+heading: '**Chapter Complete.**'
+block_type: paragraph
+excerpt: 'If you want, I can now produce: 📘 **Next chapter: “Meta-Fractal Deviational
+  Spectrum (δₙₘₖ) and Higher Gauge Structure”** 📙 **The LaTeX version of this chapter**'
+concepts:
+- Curvature
+- Deviation
+- The LaTeX version of this chapter
+- Fractal Deviational Spectrum
+- Meta-Fractal
+- adjoint-flow
+- Higher Gauge Structure
+- δ
+- Curvature Born
+aliases:
+- Bk426yw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.148936170212767
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

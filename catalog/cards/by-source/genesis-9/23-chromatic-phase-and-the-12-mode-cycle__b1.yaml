@@ -1,12 +1,31 @@
+id: GEN9-9162
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-δ-harmonic-geometry-the-first-structure::23-chromatic-phase-and-the-12-mode-cycle::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2086-2104
+heading: '**2.3 Chromatic Phase and the 12-Mode Cycle**'
+parent_heading: '**2\. δ-Harmonic Geometry: The First Structure**'
 block_type: paragraph
-concepts:
-- re-expressions
-- δ
 excerpt: 'Each δ-mode carries a phase: χ(ψn,k)∈Z12.\\chi(\\psi\_{n,k}) \\in \\mathbb{Z}\_{12}.χ(ψn,k​)∈Z12​.
   This phase encodes:'
-heading: '**2.3 Chromatic Phase and the 12-Mode Cycle**'
-id: GEN9-9162
-lines: 2086-2104
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-δ-harmonic-geometry-the-first-structure::23-chromatic-phase-and-the-12-mode-cycle::b1
-parent_heading: '**2\. δ-Harmonic Geometry: The First Structure**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- χ
+- ψ
+- ∈
+- re-expressions
+- δ-mode
+- δ
+aliases:
+- Bk958em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

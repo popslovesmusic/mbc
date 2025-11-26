@@ -1,18 +1,36 @@
+id: GEN16-4069
+location: genesis-16/untitled-document::4-exponentials-function-boxes::define-the-exponential-box::b1
+source: genesis-16\Untitled_document.md
+lines: 4200-4212
+heading: '**Define the exponential Box:**'
+parent_heading: '**⭐ 4\. Exponentials (Function Boxes)**'
 block_type: paragraph
-concepts:
-- Boundary
-- Box
-- Metadata
-- Operators
-- State
-- Γ
-- Ω
 excerpt: 'B2B1=⟨Hom(B1,B2), Γfun, Δfun, Ωfun⟩B\_2^{B\_1} \= \\langle Hom(B\_1,B\_2),\\
   \\Gamma^{fun},\\ \\Delta^{fun},\\ \\Omega^{fun} \\rangleB2B1​​=⟨Hom(B1​,B2​), Γfun,
   Δfun, Ωfun⟩ Where: * **State** is the *...'
-heading: '**Define the exponential Box:**'
-id: GEN16-4069
-lines: 4200-4212
-location: genesis-16/untitled-document::4-exponentials-function-boxes::define-the-exponential-box::b1
-parent_heading: '**⭐ 4\. Exponentials (Function Boxes)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- State
+- Box
+- Ω
+- Δ
+- Γ
+- Box-operators
+- Ωfun
+- Operators
+- Metadata
+- Boundary
+aliases:
+- Bk150hl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.873015873015872
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

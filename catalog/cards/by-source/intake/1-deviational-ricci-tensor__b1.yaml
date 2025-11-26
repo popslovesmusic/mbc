@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- δ
-- μ
-- ν
-excerpt: 'The **δ-Ricci tensor** is defined by contraction: RicABδ=RACBδC.\\mathrm{Ric}^\\delta\_{AB}
-  \= R^\\delta\_{ACB}{}^{C}.RicABδ​=RACBδ​C. Explicitly:'
-heading: '**1\. Deviational Ricci Tensor**'
 id: INTK-9665
-lines: 256-270
 location: intake/axioms-geometry::1-deviational-ricci-tensor::b1
 source: intake\Axioms-geometry.md
+lines: 256-270
+heading: '**1\. Deviational Ricci Tensor**'
+block_type: paragraph
+excerpt: 'The **δ-Ricci tensor** is defined by contraction: RicABδ=RACBδC.\\mathrm{Ric}^\\delta\_{AB}
+  \= R^\\delta\_{ACB}{}^{C}.RicABδ​=RACBδ​C. Explicitly:'
+concepts:
+- δ
+- π
+- ν
+- μ
+- δ-Ricci tensor
+- δ-Ricci
+- δC
+aliases:
+- Bk311tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.433734939759036
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

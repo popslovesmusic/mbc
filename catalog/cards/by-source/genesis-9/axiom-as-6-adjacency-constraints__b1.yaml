@@ -1,13 +1,30 @@
+id: GEN9-9367
+location: genesis-9/is-the-source-of-all-structure::igsoa-axiom-box::atomic-structure-emergence-axiom-δφπ-framework::axiom-as-6-adjacency-constraints::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 495-500
+heading: '**Axiom AS-6 (Adjacency Constraints).**'
+parent_heading: '**Atomic Structure Emergence Axiom (δ–Φ–Π Framework)**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: Atomic configuration and shell filling follow **δ-adjacency minimization**,
   not arbitrary quantum rules. Atoms correspond to adjacency-consistent collections
   of Π-stable δ-modes. ---
-heading: '**Axiom AS-6 (Adjacency Constraints).**'
-id: GEN9-9367
-lines: 495-500
-location: genesis-9/is-the-source-of-all-structure::igsoa-axiom-box::atomic-structure-emergence-axiom-δφπ-framework::axiom-as-6-adjacency-constraints::b1
-parent_heading: '**Atomic Structure Emergence Axiom (δ–Φ–Π Framework)**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- δ-adjacency minimization
+- adjacency-consistent
+- δ
+- δ-adjacency
+- Π-stable
+- δ-modes
+- Π
+aliases:
+- Bk336ac
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.166666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

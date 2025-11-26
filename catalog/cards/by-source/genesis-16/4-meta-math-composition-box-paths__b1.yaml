@@ -1,17 +1,40 @@
+id: GEN16-3953
+location: genesis-16/untitled-document::4-meta-math-composition-box-paths::b1
+source: genesis-16\Untitled_document.md
+lines: 2715-2727
+heading: '**⭐ 4\. META-MATH COMPOSITION → BOX PATHS**'
 block_type: paragraph
+excerpt: 'Every Meta-Mathematical chain: Definition→Expansion→Distinction→Resolution\\text{Definition}
+  \\rightarrow \\text{Expansion} \\rightarrow \\text{Distinction} \\rightarrow \\text{Resolution}Definition→E...'
 concepts:
-- Box
+- Meta-Math
+- →
+- Definition
 - Box Calculus
-- En  Am
-- Every Meta
+- Box
 - Meta-Mathematical
 - Π
 - Φ
 - ρ
-excerpt: 'Every Meta-Mathematical chain: Definition→Expansion→Distinction→Resolution\\text{Definition}
-  \\rightarrow \\text{Expansion} \\rightarrow \\text{Distinction} \\rightarrow \\text{Resolution}Definition→E...'
-heading: '**⭐ 4\. META-MATH COMPOSITION → BOX PATHS**'
-id: GEN16-3953
-lines: 2715-2727
-location: genesis-16/untitled-document::4-meta-math-composition-box-paths::b1
-source: genesis-16\Untitled_document.md
+- exact closure correspondence
+- Every Meta
+- En  Am
+- ΠE
+aliases:
+- Df860em
+tags:
+- definitive
+- definition
+- expansiondistinctionresolutiontextdefinition-rightarrow-textexpansion-rightarrow-textdistinction-rightarrow-textresolutiondefinitionexpansiondistinctionresolution
+- low-uncertainty
+is_formal: true
+statement_type: definition
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 24.074074074074073
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Cohesion is not a force. It is the *persistent configuration* of δ-curvature
-  across adjacency.
-heading: '**III. WHY THIS THEOREM IS TRUE (IGSOA Logic)**'
 id: GEN14-3021
-lines: 1475-1478
 location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-why-this-theorem-is-true-igsoa-logic::b1
 source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1475-1478
+heading: '**III. WHY THIS THEOREM IS TRUE (IGSOA Logic)**'
+block_type: paragraph
+excerpt: Cohesion is not a force. It is the *persistent configuration* of δ-curvature
+  across adjacency.
+concepts:
+- δ-curvature
+- δ
+aliases:
+- Bk722cn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

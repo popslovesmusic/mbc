@@ -1,23 +1,39 @@
-block_type: list
-concepts:
-- Adjacency Extension Axiom
-- Axiom
-- Concentration Scaling Axiom
-- Harmonic Anisotropy Axiom
-- Lift Axiom
-- Morphology Theorem
-- Outer Shape Axiom
-- Projection Axiom
-- Theorem
-- Π
-- Φ
-- γ
-- δ
-- ρ
-excerpt: '1. **Adjacency Extension Axiom** δ-curvature includes a nonlocal tail: δtail(r,θ,ϕ)∼1rY2(θ,ϕ)+…\\delta\_{\\rm
-  tail}(r,\\theta,\\phi) \\sim \\frac{1}{r}Y\_2(\\theta,\\phi) \+ \\dotsδtail​(r,θ,ϕ)∼r1​Y2​...'
-heading: '**□ Axiom Box: δ–Halo Morphology**'
 id: GEN15-3365
-lines: 1747-1769
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::axiom-box-δhalo-morphology::b1
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1747-1769
+heading: '**□ Axiom Box: δ–Halo Morphology**'
+block_type: list
+excerpt: '1. **Adjacency Extension Axiom** δ-curvature includes a nonlocal tail: δtail(r,θ,ϕ)∼1rY2(θ,ϕ)+…\\delta\_{\\rm
+  tail}(r,\\theta,\\phi) \\sim \\frac{1}{r}Y\_2(\\theta,\\phi) \+ \\dotsδtail​(r,θ,ϕ)∼r1​Y2​...'
+concepts:
+- δ
+- Axiom
+- Φ
+- δ-geometry
+- θ
+- ρ
+- Projection
+- Adjacency
+- natural projections of δ-geometry
+- Theorem
+- δtail
+- δ-harmonic
+- Π-Projection Axiom
+- Π
+- γ
+aliases:
+- Bk131ae
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.146341463414632
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

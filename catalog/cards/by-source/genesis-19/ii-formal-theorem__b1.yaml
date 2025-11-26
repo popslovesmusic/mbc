@@ -1,13 +1,37 @@
-block_type: paragraph
-concepts:
-- Polarity Multiplicative Law
-- Θ
-- α
-- δ
-excerpt: 'Let: * δ-curvature inputs: κi∈R\\kappa\_i \\in \\mathbb{R}κi​∈R * δ-metadata
-  weights: wi=exp⁡(α⋅mi)\>0w\_i \= \\exp(\\alpha\\cdot m\_i) \> 0wi​=exp(α⋅mi​)\>0'
-heading: '**II. Formal Theorem**'
 id: GEN19-5897
-lines: 358-383
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-formal-theorem::b1
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 358-383
+heading: '**II. Formal Theorem**'
+block_type: paragraph
+excerpt: 'Let: * δ-curvature inputs: κi∈R\\kappa\_i \\in \\mathbb{R}κi​∈R * δ-metadata
+  weights: wi=exp⁡(α⋅mi)\>0w\_i \= \\exp(\\alpha\\cdot m\_i) \> 0wi​=exp(α⋅mi​)\>0'
+concepts:
+- Θ
+- Polarity
+- ∈
+- κ
+- ∑
+- ⊗
+- δ
+- δ-curvature
+- ∏
+- α
+- Polarity Multiplicative Law
+- δ-metadata
+- if and only if
+aliases:
+- Bk247lc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.784431137724551
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

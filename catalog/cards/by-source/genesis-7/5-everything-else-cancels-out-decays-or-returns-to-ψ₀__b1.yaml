@@ -1,12 +1,28 @@
+id: GEN7-8463
+location: genesis-7/the-complete-eft-lagrangian::physics-version-compact::5-everything-else-cancels-out-decays-or-returns-to-ψ₀::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 369-377
+heading: '**5\. Everything else cancels out, decays, or returns to Ψ₀.**'
+parent_heading: '**PHYSICS VERSION (Compact)**'
 block_type: paragraph
-concepts:
-- can
 excerpt: 'In your language: Deviation → Closure → Structure → Law.\\text{Deviation
   → Closure → Structure → Law}.Deviation → Closure → Structure → Law. All surviving
   patterns are lawful because they are the only...'
-heading: '**5\. Everything else cancels out, decays, or returns to Ψ₀.**'
-id: GEN7-8463
-lines: 369-377
-location: genesis-7/the-complete-eft-lagrangian::physics-version-compact::5-everything-else-cancels-out-decays-or-returns-to-ψ₀::b1
-parent_heading: '**PHYSICS VERSION (Compact)**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- →
+- Deviation
+aliases:
+- Bk984yl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.878048780487805
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

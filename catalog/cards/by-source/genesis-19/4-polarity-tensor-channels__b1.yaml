@@ -1,11 +1,28 @@
+id: GEN19-6147
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-polarity-tensor-channels::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1496-1504
+heading: ⭐ 4\. Polarity → Tensor Channels
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'Each color in your visualization becomes a tensor channel in semantic space.
   If we label polarity channels as Θ₁, Θ₂, Θ₃, ... Then the probability field must
   store:'
-heading: ⭐ 4\. Polarity → Tensor Channels
-id: GEN19-6147
-lines: 1496-1504
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-polarity-tensor-channels::b1
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- Θ
+- tensor-valued
+- →
+aliases:
+- Bk121ec
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

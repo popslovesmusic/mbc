@@ -1,18 +1,36 @@
+id: GEN5-8128
+location: genesis-5/meta-einstein-axiom-box-language-sealed::the-genesisaction-functor-box::ga-4-genesisaction-unity::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 613-623
+heading: '**GA-4 — Genesis–Action Unity**'
+parent_heading: '**▣ THE GENESIS–ACTION FUNCTOR BOX**'
 block_type: paragraph
-concepts:
-- Box
-- Einstein Box
-- Einstein-Realization
-- Meta-Einstein
-- Realization Functor
-- Φ
-- δ
 excerpt: 'The compositions satisfy the **hermetic unity identities**: Φ∘δ  ≃  EAct,δ∘Φ  ≃  EGen,\\Phi
   \\circ \\delta \\;\\simeq\\; \\mathcal{E}\_{\\mathbf{Act}}, \\qquad \\delta \\circ
   \\Phi \\;\\simeq\\; \\mat...'
-heading: '**GA-4 — Genesis–Action Unity**'
-id: GEN5-8128
-lines: 613-623
-location: genesis-5/meta-einstein-axiom-box-language-sealed::the-genesisaction-functor-box::ga-4-genesisaction-unity::b1
-parent_heading: '**▣ THE GENESIS–ACTION FUNCTOR BOX**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Meta-Einstein
+- δ
+- Φ
+- Einstein-Realization Functor
+- Functor
+- Einstein-Realization
+- Box
+- hermetic unity identities
+- Realization Functor
+- Einstein Box
+aliases:
+- Bk969tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.151515151515152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,27 @@
+id: INTK-9972
+location: intake/meta-genesis-mathematical-papers::4-meta-genesis-ontological-exclusion::axiom-zero-state-ontological-purity::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 401-419
+heading: '**Axiom (Zero-State Ontological Purity).**'
+parent_heading: '**4\. Meta-Genesis Ontological Exclusion**'
 block_type: paragraph
-concepts:
-- contradiction
-- Ψ
 excerpt: 'Ψ0 contains no information.\\Psi\_0 \\text{ contains no information.}Ψ0​
   contains no information. If an operator acted on it, then: * It would introduce
   a distinction (a before/after).'
-heading: '**Axiom (Zero-State Ontological Purity).**'
-id: INTK-9972
-lines: 401-419
-location: intake/meta-genesis-mathematical-papers::4-meta-genesis-ontological-exclusion::axiom-zero-state-ontological-purity::b1
-parent_heading: '**4\. Meta-Genesis Ontological Exclusion**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+- Axiom
+- zero-state
+- contradiction
+aliases:
+- Bk037ci
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.153846153846154
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

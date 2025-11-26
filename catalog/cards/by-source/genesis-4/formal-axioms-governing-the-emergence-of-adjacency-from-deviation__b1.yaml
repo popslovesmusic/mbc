@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***Formal Axioms Governing the Emergence of Adjacency from Deviation***'
 id: GEN4-7854
-lines: 764-766
 location: genesis-4/the-first-adjacency::δ-adjacency-axiom-box::formal-axioms-governing-the-emergence-of-adjacency-from-deviation::b1
-parent_heading: '**δ-Adjacency Axiom Box**'
 source: genesis-4\The_First_Adjacency.md
+lines: 764-766
+heading: '***Formal Axioms Governing the Emergence of Adjacency from Deviation***'
+parent_heading: '**δ-Adjacency Axiom Box**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

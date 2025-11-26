@@ -1,12 +1,31 @@
+id: GEN20-7075
+location: genesis-20/mbc-40-documentaitio-1::part-iv-multi-input-boxes-higher-order-structures::chapter-d3-conceptual-superposition-semantic-entanglement::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5210-5215
+heading: Chapter D3 — Conceptual Superposition & Semantic Entanglement
+parent_heading: PART IV — Multi-Input Boxes & Higher-Order Structures
 block_type: list
-concepts:
-- Π
-- Φ
 excerpt: '* multi-meaning coexistence * structured ambiguity * Φ-resolvable vs Φ-irreducible
   superposition'
-heading: Chapter D3 — Conceptual Superposition & Semantic Entanglement
-id: GEN20-7075
-lines: 5210-5215
-location: genesis-20/mbc-40-documentaitio-1::part-iv-multi-input-boxes-higher-order-structures::chapter-d3-conceptual-superposition-semantic-entanglement::b1
-parent_heading: PART IV — Multi-Input Boxes & Higher-Order Structures
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Φ
+- Φ-irreducible
+- multi-meaning
+- Π-projection
+- Φ-resolvable
+- Π
+aliases:
+- Bk915mm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 42.857142857142854
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

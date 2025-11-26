@@ -1,15 +1,32 @@
+id: GEN9-9568
+location: genesis-9/strong-force::7-electromotive-force-emf::b1
+source: genesis-9\strong-force.md
+lines: 2296-2314
+heading: '**7\. Electromotive Force (EMF)**'
 block_type: paragraph
-concepts:
-- Φ
-- γ
-- δ
-- μ
-- ν
 excerpt: 'Electromotive force is the **U(1) covariant potential difference** around
   a loop: E=∮γFμν(EM) dxν.\\mathcal{E} \= \\oint\_\\gamma F\_{\\mu\\nu}^{(EM)}\\,dx^\\nu.E=∮γ​Fμν(EM)​dxν.
   Thus:'
-heading: '**7\. Electromotive Force (EMF)**'
-id: GEN9-9568
-lines: 2296-2314
-location: genesis-9/strong-force::7-electromotive-force-emf::b1
-source: genesis-9\strong-force.md
+concepts:
+- IGSOA
+- ν
+- δ-torsion
+- γ
+- δ
+- Φ
+- μ
+- Φ-projected
+aliases:
+- Bk152ef
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.428571428571429
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

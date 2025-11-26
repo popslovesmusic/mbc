@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- work
-- δ
-excerpt: Define **work** purely in δ-operator terms. ---
-heading: '**SECTION III.4 — The Work Operator WδW\_\\deltaWδ​**'
 id: GEN13-2574
-lines: 1641-1645
 location: genesis-13/what-biology-is-in-meta-genesis::section-iii4-the-work-operator-wδw-deltawδ::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1641-1645
+heading: '**SECTION III.4 — The Work Operator WδW\_\\deltaWδ​**'
+block_type: paragraph
+excerpt: Define **work** purely in δ-operator terms. ---
+concepts:
+- δ-operator
+- δ
+- work
+aliases:
+- Bk273dw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 42.857142857142854
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

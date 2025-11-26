@@ -1,18 +1,41 @@
+id: GEN14-2986
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-hermetic-sealed-axiom-box::axiom-box-the-δ-curvature-crystalline-order-principle::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 975-995
+heading: '**Axiom Box: The δ-Curvature Crystalline Order Principle**'
+parent_heading: '**II. Hermetic Sealed Axiom Box**'
 block_type: list
-concepts:
-- Crystalline Identity
-- Curvature Plateaus
-- Degeneracy Stabilization
-- Genesis Deviation
-- Harmonic Quantization
-- Π
-- Φ
-- δ
 excerpt: 1. **Genesis Deviation (δ):** δ induces local curvature κ on adjacency networks.
   2. **Curvature Plateaus:**
-heading: '**Axiom Box: The δ-Curvature Crystalline Order Principle**'
-id: GEN14-2986
-lines: 975-995
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-hermetic-sealed-axiom-box::axiom-box-the-δ-curvature-crystalline-order-principle::b1
-parent_heading: '**II. Hermetic Sealed Axiom Box**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Φ
+- δ
+- κ
+- Curvature
+- Deviation
+- Π
+- Φ-spectrum
+- δ-curvature
+- Π-stabilization
+- Φ-quantization
+- Π-Degeneracy
+- δ-adjacency
+- Φ-Harmonic
+- Degeneracy Stabilization
+- →
+aliases:
+- Bk443gd
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.964285714285715
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,17 +1,33 @@
+id: GEN13-2165
+location: genesis-13/meta-math-nuclear-physics::7-master-theorem-of-the-entire-chain::the-tri-unity-nuclear-genesis-theorem::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1977-1987
+heading: '**The Tri-Unity Nuclear Genesis Theorem**'
+parent_heading: '**7\. Master Theorem of the Entire Chain**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Nuclear Matter
-- Nuclear Physics
-- Π
-- Φ
-- δ
 excerpt: Nuclear Physics=Π ⁣(Φ ⁣(δ)).\\boxed{ \\textbf{Nuclear Physics} \= \\Pi\\\!\\left(
   \\Phi\\\!\\left( \\delta \\right) \\right). }Nuclear Physics=Π(Φ(δ)).​ But at **every
   resolution scale simultaneously*...
-heading: '**The Tri-Unity Nuclear Genesis Theorem**'
-id: GEN13-2165
-lines: 1977-1987
-location: genesis-13/meta-math-nuclear-physics::7-master-theorem-of-the-entire-chain::the-tri-unity-nuclear-genesis-theorem::b1
-parent_heading: '**7\. Master Theorem of the Entire Chain**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- Φ
+- Π
+- Nuclear Physics
+- Meta-Math
+- Nuclear Matter
+- →
+- every resolution scale simultaneously
+aliases:
+- Bk450np
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.6115702479338845
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,13 +1,30 @@
+id: GEN16-3697
+location: genesis-16/quantum-measurement-in-igsoa-vs::cross-referenced-igsoa-explanation::3-π-evaluation-enforces-global-consistency::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 338-344
+heading: '**3\. Π-Evaluation Enforces Global Consistency**'
+parent_heading: '**Cross-Referenced IGSOA Explanation**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: Π cannot evaluate a CP-odd curvature term because such a term has **no fixed
   point** in the Φ-evaluatable manifold. This is the real IGSOA version of “θ \= 0.”
   ---
-heading: '**3\. Π-Evaluation Enforces Global Consistency**'
-id: GEN16-3697
-lines: 338-344
-location: genesis-16/quantum-measurement-in-igsoa-vs::cross-referenced-igsoa-explanation::3-π-evaluation-enforces-global-consistency::b1
-parent_heading: '**Cross-Referenced IGSOA Explanation**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- IGSOA
+- Φ-evaluatable
+- θ
+- Π
+- Φ
+- CP-odd
+- no fixed point
+aliases:
+- Bk082ce
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 23.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

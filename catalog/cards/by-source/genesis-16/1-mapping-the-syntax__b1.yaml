@@ -1,20 +1,35 @@
-block_type: table
-concepts:
-- Box
-- Box Calculus Equivalent
-- Calculus Element
-- Closed Boxes
-- Exponential Box
-- Γ
-- Π
-- Σ
-- Ω
-- α
-- β
-- λ
-excerpt: 'Thus:'
-heading: '**⭐ 1\. Mapping the Syntax**'
 id: GEN16-4082
-lines: 4398-4411
 location: genesis-16/untitled-document::1-mapping-the-syntax::b1
 source: genesis-16\Untitled_document.md
+lines: 4398-4411
+heading: '**⭐ 1\. Mapping the Syntax**'
+block_type: table
+excerpt: 'Thus:'
+concepts:
+- Box
+- Π-evaluation
+- Box Calculus
+- λ
+- Box Calculus Equivalent
+- Ω
+- Π
+- β
+- Σ
+- Γ
+- α
+- →
+- Calculus Element
+- Exponential Box
+- Closed Boxes
+aliases:
+- Bk521ce
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

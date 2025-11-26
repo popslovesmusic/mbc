@@ -1,14 +1,32 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Σ
-- δ
-excerpt: 'Options: * Dependent types * Linear modal types (via \! from δ-curvature)'
-heading: ⭐ Type system must be enriched into a δ-curved type theory
 id: GEN17-4597
-lines: 7128-7138
 location: genesis-17/box-calculus::3-define-types-as-a-full-internal-logic-hott-style-or-linear-modal-logic::type-system-must-be-enriched-into-a-δ-curved-type-theory::b1
+source: genesis-17\box_calculus.md
+lines: 7128-7138
+heading: ⭐ Type system must be enriched into a δ-curved type theory
 parent_heading: ⭐ 3\. Define Types as a Full Internal Logic (HoTT-style or Linear
   Modal Logic)
-source: genesis-17\box_calculus.md
+block_type: paragraph
+excerpt: 'Options: * Dependent types * Linear modal types (via \! from δ-curvature)'
+concepts:
+- Box Calculus
+- Box
+- δ
+- δ-curvature
+- δ-energy
+- Σ-lens
+- Σ
+aliases:
+- Bk881od
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.588235294117645
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

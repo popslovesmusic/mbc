@@ -1,11 +1,27 @@
+id: GEN12-1705
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p5-large-scale-structure-predictions::p52-filament-orientation-distribution::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2607-2611
+heading: '**P5.2 Filament Orientation Distribution**'
+parent_heading: '**Axiom P5 (Large-Scale Structure Predictions).**'
 block_type: paragraph
+excerpt: 'Filament orientations obey: p(θ)=Π(degeneracies(Φ)).p(\\theta) \= \\Pi(\\text{degeneracies}(\\Phi)).p(θ)=Π(degeneracies(Φ)).'
 concepts:
 - Π
+- θ
 - Φ
-excerpt: 'Filament orientations obey: p(θ)=Π(degeneracies(Φ)).p(\\theta) \= \\Pi(\\text{degeneracies}(\\Phi)).p(θ)=Π(degeneracies(Φ)).'
-heading: '**P5.2 Filament Orientation Distribution**'
-id: GEN12-1705
-lines: 2607-2611
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p5-large-scale-structure-predictions::p52-filament-orientation-distribution::b1
-parent_heading: '**Axiom P5 (Large-Scale Structure Predictions).**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+aliases:
+- Bk558fo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

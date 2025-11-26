@@ -1,9 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Because δ: * raises spectral levels * encodes adjacency'
-heading: '**7\. Why δ-Algebra Replaces All SM Symmetry Groups**'
 id: GEN0-342
-lines: 1566-1604
 location: genesis-0/why-the-first-action-is-necessary::7-why-δ-algebra-replaces-all-sm-symmetry-groups::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1566-1604
+heading: '**7\. Why δ-Algebra Replaces All SM Symmetry Groups**'
+block_type: paragraph
+excerpt: 'Because δ: * raises spectral levels * encodes adjacency'
+concepts:
+- δ
+- H-commutators
+- unified algebraic generator
+- δ-operator
+- δ-algebra
+aliases:
+- Bk035br
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.462686567164178
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

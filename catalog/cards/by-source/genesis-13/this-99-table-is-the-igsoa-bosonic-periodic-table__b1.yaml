@@ -1,21 +1,39 @@
+id: GEN13-2349
+location: genesis-13/the-weight-of-light::the-physical-interpretation::this-99-table-is-the-igsoa-bosonic-periodic-table::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1303-1331
+heading: '**This 9×9 table is the IGSOA bosonic “periodic table.”**'
+parent_heading: '**THE PHYSICAL INTERPRETATION**'
 block_type: list
-concepts:
-- Gluons
-- Harmonic Spectral Triple
-- Photon
-- The Standard Model
-- can
-- column
-- row
-- Π
-- Φ
-- γ
-- δ
 excerpt: '* Each **row** \= a δ-curvature harmonic * Each **column** \= how Φ lifts
   that δ-mode * Π gives you the *actual boson* (mass, spin, coupling)'
-heading: '**This 9×9 table is the IGSOA bosonic “periodic table.”**'
-id: GEN13-2349
-lines: 1303-1331
-location: genesis-13/the-weight-of-light::the-physical-interpretation::this-99-table-is-the-igsoa-bosonic-periodic-table::b1
-parent_heading: '**THE PHYSICAL INTERPRETATION**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- complete δ-boson spectrum
+- δ-Einstein boson
+- γ
+- δ-excitations
+- δ-curvature
+- δ-Einstein
+- δ-Harmonic
+- Harmonic Spectral Triple
+- δ-boson
+- Π
+- δ-mode
+- Φ
+- Graviton precursor
+- The Standard Model
+aliases:
+- Bk173er
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.599999999999998
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,25 @@
+id: INTK-10286
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::physical-implications::arrow-of-time::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 643-644
+heading: Arrow of Time
+parent_heading: Physical Implications
 block_type: paragraph
-concepts:
-- Meta-Aggregation
 excerpt: Meta-Aggregation directly explains the physical arrow of time. The irreversibility
   of aggregation means that the universe inherently builds up a history that cannot
   be unwound, leading to a thermodyna...
-heading: Arrow of Time
-id: INTK-10286
-lines: 643-644
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::physical-implications::arrow-of-time::b1
-parent_heading: Physical Implications
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- thermodynamic-like
+- Meta-Aggregation
+aliases:
+- Bk707ma
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

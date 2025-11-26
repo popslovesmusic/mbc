@@ -1,13 +1,32 @@
+id: GEN4-7896
+location: genesis-4/the-first-adjacency::4-noncommutativity-curvature::lemma-1-δ-is-noncommutative-across-neighborhoods::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1435-1443
+heading: '**Lemma 1 (δ is noncommutative across neighborhoods).**'
+parent_heading: '**4\. Noncommutativity ⇒ Curvature**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'For generic δ, we have: ∇δ(∇δ(Ψn))≠∇δ2(Ψn).\\nabla\_\\delta(\\nabla\_\\delta(\\Psi\_n))
   \\neq \\nabla\_\\delta^2(\\Psi\_n).∇δ​(∇δ​(Ψn​))=∇δ2​(Ψn​). Why? Because δ introduces
   asymmetric patterns of adj...'
-heading: '**Lemma 1 (δ is noncommutative across neighborhoods).**'
-id: GEN4-7896
-lines: 1435-1443
-location: genesis-4/the-first-adjacency::4-noncommutativity-curvature::lemma-1-δ-is-noncommutative-across-neighborhoods::b1
-parent_heading: '**4\. Noncommutativity ⇒ Curvature**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- δ
+- ∇
+- Ψ
+- Ψn
+- δ-connection
+- torsion-like
+- ≠
+aliases:
+- Bk861fg
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

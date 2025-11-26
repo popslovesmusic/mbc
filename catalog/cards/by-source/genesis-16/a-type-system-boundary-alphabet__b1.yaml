@@ -1,16 +1,36 @@
+id: GEN16-3764
+location: genesis-16/untitled-document::box-calculus-v02-closing-the-three-gaps::a-type-system-boundary-alphabet::b1
+source: genesis-16\Untitled_document.md
+lines: 348-357
+heading: '**A) Type System / Boundary Alphabet**'
+parent_heading: '**Box Calculus v0.2 — Closing the Three Gaps**'
 block_type: table
+excerpt: ''
 concepts:
+- τ
+- Γ
 - Axiom
 - Box
 - Box Calculus
-- Each Box
+- Adjacency
+- IGSOA
+- ∏
+- →
+- port-typed interface
+- ∃
+- port-typed
+- Type signature of a Box
+- typed semantic state
 - Standard Formalism
-- Γ
-- τ
-excerpt: ''
-heading: '**A) Type System / Boundary Alphabet**'
-id: GEN16-3764
-lines: 348-357
-location: genesis-16/untitled-document::box-calculus-v02-closing-the-three-gaps::a-type-system-boundary-alphabet::b1
-parent_heading: '**Box Calculus v0.2 — Closing the Three Gaps**'
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk820ib
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.7164179104477615
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

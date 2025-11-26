@@ -1,14 +1,32 @@
+id: GEN5-8152
+location: genesis-5/the-ga-8-meta-einstein-theorem::zero-state-universe-minimal-derivation-flow::1-zero-state-ψ₀::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 331-341
+heading: '**1\. Zero State (Ψ₀)**'
+parent_heading: '**ZERO STATE → UNIVERSE (MINIMAL DERIVATION FLOW)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Zero State
-- Ψ
 excerpt: '**Axiom (Zero State).** Ψ0:object with no operators, no adjacency, no measure,
   no time.\\Psi\_0:\\text{object with no operators, no adjacency, no measure, no time.}Ψ0​:object
   with no operators, no adj...'
-heading: '**1\. Zero State (Ψ₀)**'
-id: GEN5-8152
-lines: 331-341
-location: genesis-5/the-ga-8-meta-einstein-theorem::zero-state-universe-minimal-derivation-flow::1-zero-state-ψ₀::b1
-parent_heading: '**ZERO STATE → UNIVERSE (MINIMAL DERIVATION FLOW)**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- Ψ
+- Axiom
+- State
+- ∩
+- Zero State
+aliases:
+- Am301az
+tags:
+- axiom
+- zero-state
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.928571428571429
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

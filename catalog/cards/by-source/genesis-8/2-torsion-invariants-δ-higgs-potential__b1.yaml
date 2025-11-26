@@ -1,19 +1,36 @@
+id: GEN8-8885
+location: genesis-8/meta-time-geometry-and-temporal-projection::2-torsion-invariants-δ-higgs-potential::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2124-2151
+heading: '**2\. Torsion Invariants → δ-Higgs Potential**'
 block_type: paragraph
+excerpt: 'The δ-Weitzenböck action uses the single torsion scalar: Tδ=14TρμνTρμν+12TρμνTνμρ−TρμρTνμν\\mathcal{T}\_\\delta
+  \= \\frac{1}{4} T\_{\\rho\\mu\\nu}T^{\\rho\\mu\\nu} \+ \\frac{1}{2} T\_{\\rho\\mu\\nu}T^...'
 concepts:
-- derived
-- α
-- β
-- γ
-- δ
-- η
-- λ
 - μ
 - ν
 - ρ
-excerpt: 'The δ-Weitzenböck action uses the single torsion scalar: Tδ=14TρμνTρμν+12TρμνTνμρ−TρμρTνμν\\mathcal{T}\_\\delta
-  \= \\frac{1}{4} T\_{\\rho\\mu\\nu}T^{\\rho\\mu\\nu} \+ \\frac{1}{2} T\_{\\rho\\mu\\nu}T^...'
-heading: '**2\. Torsion Invariants → δ-Higgs Potential**'
-id: GEN8-8885
-lines: 2124-2151
-location: genesis-8/meta-time-geometry-and-temporal-projection::2-torsion-invariants-δ-higgs-potential::b1
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+- δ
+- IGSOA
+- δ-Higgs potential
+- η
+- γ
+- β
+- λ
+- α
+- δ-harmonic
+- δ-Higgs
+- spectral contractions
+- δ-mode
+aliases:
+- Bk728ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.18918918918919
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

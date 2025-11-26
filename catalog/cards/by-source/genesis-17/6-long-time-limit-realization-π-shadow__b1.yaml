@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Σ
-excerpt: 'MGDE guarantees: lim⁡t→∞Σ(t)=P0Σ(0) t→∞'
-heading: 🔷 6\. Long-Time Limit (Realization / Π-shadow)
 id: GEN17-4844
-lines: 10261-10284
 location: genesis-17/box-calculus::6-long-time-limit-realization-π-shadow::b1
 source: genesis-17\box_calculus.md
+lines: 10261-10284
+heading: 🔷 6\. Long-Time Limit (Realization / Π-shadow)
+block_type: paragraph
+excerpt: 'MGDE guarantees: lim⁡t→∞Σ(t)=P0Σ(0) t→∞'
+concepts:
+- Σ
+- ∞
+- Π
+- Theorem
+- →
+- Π-operator
+aliases:
+- Bk121mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.634146341463413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

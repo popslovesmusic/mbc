@@ -1,10 +1,26 @@
+id: GEN20-7021
+location: genesis-20/mbc-40-documentaitio-1::conclusion::135-how-the-reader-should-use-this-bridge-chapter::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4545-4557
+heading: 13.5 How the Reader Should Use This Bridge Chapter
+parent_heading: ⭐ Conclusion
 block_type: paragraph
-concepts: []
 excerpt: 'This chapter prepares the reader by: * announcing the advanced landscape
   * showing how it relates to the basics'
-heading: 13.5 How the Reader Should Use This Bridge Chapter
-id: GEN20-7021
-lines: 4545-4557
-location: genesis-20/mbc-40-documentaitio-1::conclusion::135-how-the-reader-should-use-this-bridge-chapter::b1
-parent_heading: ⭐ Conclusion
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- multi-dimensionality
+aliases:
+- Bk117tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.272727272727273
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

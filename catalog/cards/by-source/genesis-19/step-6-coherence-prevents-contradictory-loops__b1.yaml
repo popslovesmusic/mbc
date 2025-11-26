@@ -1,13 +1,31 @@
+id: GEN19-5905
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::igsoa-column::step-6-coherence-prevents-contradictory-loops::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 428-437
+heading: '**Step 6 — Coherence prevents contradictory loops**'
+parent_heading: '**IGSOA Column**'
 block_type: paragraph
-concepts:
-- Axiom
-- Θ
-- δ
 excerpt: 'A δ-flow cannot reverse polarity on a closed path (Axiom A4). Thus all cycles
   satisfy: ∏Θ=+1,\\prod \\Theta \= \+1,∏Θ=+1,'
-heading: '**Step 6 — Coherence prevents contradictory loops**'
-id: GEN19-5905
-lines: 428-437
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::igsoa-column::step-6-coherence-prevents-contradictory-loops::b1
-parent_heading: '**IGSOA Column**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Axiom
+- ∏
+- Θ
+- δ
+- δ-flow
+aliases:
+- Bk004a
+tags:
+- A4
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.857142857142858
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A4

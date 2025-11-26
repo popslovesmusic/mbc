@@ -1,11 +1,26 @@
+id: GEN0-236
+location: genesis-0/tri-unity-theorem-equivalence-of::5-corollaries::corollary-a-time-must-exist::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1167-1171
+heading: '**Corollary A — Time Must Exist**'
+parent_heading: '**5\. Corollaries**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: If δ exists, ordering exists; ordering **is** time. δ⇒T.\\delta \\Rightarrow
   \\mathcal{T}.δ⇒T.
-heading: '**Corollary A — Time Must Exist**'
-id: GEN0-236
-lines: 1167-1171
-location: genesis-0/tri-unity-theorem-equivalence-of::5-corollaries::corollary-a-time-must-exist::b1
-parent_heading: '**5\. Corollaries**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- δ
+aliases:
+- Bk562eo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

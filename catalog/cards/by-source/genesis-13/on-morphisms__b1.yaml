@@ -1,17 +1,36 @@
+id: GEN13-2449
+location: genesis-13/the-weight-of-light::2-definition-of-the-genesisaction-functor::on-morphisms::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 2561-2571
+heading: '**On Morphisms**'
+parent_heading: '**2\. Definition of the Genesis–Action Functor**'
 block_type: paragraph
-concepts:
-- Action Functor
-- The Genesis
-- Tri-Unity
-- Ψ
-- δ
-- τ
 excerpt: A(τ0)=δ-activation\\mathbb{A}(\\tau\_0) \= \\delta\\text{-activation}A(τ0​)=δ-activation
   A(τ1)=δ-closure morphism\\mathbb{A}(\\tau\_1) \= \\delta\\text{-closure morphism}A(τ1​)=δ-closure
   morphism In o...
-heading: '**On Morphisms**'
-id: GEN13-2449
-lines: 2561-2571
-location: genesis-13/the-weight-of-light::2-definition-of-the-genesisaction-functor::on-morphisms::b1
-parent_heading: '**2\. Definition of the Genesis–Action Functor**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Tri-Unity
+- δ
+- τ
+- Functor
+- δ-activation
+- δ-closure
+- Ψ
+- Action Functor
+- The Genesis
+- Ψ₀
+aliases:
+- Bk440am
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.151515151515152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

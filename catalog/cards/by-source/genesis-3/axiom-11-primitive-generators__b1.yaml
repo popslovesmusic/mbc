@@ -1,13 +1,26 @@
+id: GEN3-7401
+location: genesis-3/the-physics-box-diagram::1-the-δφ-dual-generative-layer::axiom-11-primitive-generators::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 531-557
+heading: '**Axiom 1.1 (Primitive Generators)**'
+parent_heading: '**1\. The δ–Φ Dual Generative Layer**'
 block_type: paragraph
-concepts:
-- co-origination
-- Φ
-- δ
 excerpt: 'There exist two mutually generative and commutative operators: * **δ** —
   the deviation generator * intrinsic'
-heading: '**Axiom 1.1 (Primitive Generators)**'
-id: GEN3-7401
-lines: 531-557
-location: genesis-3/the-physics-box-diagram::1-the-δφ-dual-generative-layer::axiom-11-primitive-generators::b1
-parent_heading: '**1\. The δ–Φ Dual Generative Layer**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- δ
+- Φ
+- co-origination
+- non-identity
+aliases:
+- Bk108te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.797101449275362
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

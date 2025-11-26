@@ -1,13 +1,32 @@
+id: GEN3-7582
+location: genesis-3/the-tri-unity-theorem::iii-δφ-unity-axioms::axiom-u4-δφ-commutativity-structure-stability::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1334-1348
+heading: '**Axiom U4 — δ–Φ Commutativity (Structure Stability)**'
+parent_heading: '**III. δ–Φ Unity Axioms**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Φ
-- δ
 excerpt: 'Φ∘δ=δ∘Φ.\\Phi\\circ\\delta \= \\delta\\circ\\Phi.Φ∘δ=δ∘Φ. This ensures:
   * stable evolution of patterns,'
-heading: '**Axiom U4 — δ–Φ Commutativity (Structure Stability)**'
-id: GEN3-7582
-lines: 1334-1348
-location: genesis-3/the-tri-unity-theorem::iii-δφ-unity-axioms::axiom-u4-δφ-commutativity-structure-stability::b1
-parent_heading: '**III. δ–Φ Unity Axioms**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Meta-Math
+- δ
+- Φ
+- Φ-transformation
+- well-defined
+- δ-curvature
+- mode-spaces
+aliases:
+- Bk114pc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,30 @@
+id: GEN4-7611
+location: genesis-4/meta-physics-axiom-box::step-4-uniqueness-up-to-natural-isomorphism::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 325-352
+heading: '**Step 4 — Uniqueness up to Natural Isomorphism**'
 block_type: paragraph
-concepts:
-- Because Genesis
-- Meta-Math
-- Ψ
-- δ
 excerpt: 'Suppose there is another functor F′:Genesis→MetaMath.F'':\\mathbf{Genesis}\\rightarrow
   \\mathbf{MetaMath}.F′:Genesis→MetaMath. Because Genesis\\mathbf{Genesis}Genesis
   is a free monogenic category:'
-heading: '**Step 4 — Uniqueness up to Natural Isomorphism**'
-id: GEN4-7611
-lines: 325-352
-location: genesis-4/meta-physics-axiom-box::step-4-uniqueness-up-to-natural-isomorphism::b1
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Meta-Math
+- Ψ
+- unique natural isomorphism
+- →
+- δ
+- Because Genesis
+aliases:
+- Bk474st
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.615384615384616
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

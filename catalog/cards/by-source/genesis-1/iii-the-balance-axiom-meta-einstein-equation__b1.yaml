@@ -1,15 +1,40 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Deviation Balance
-- Einstein Equation
-- Meta-Einstein
-- Ψ
-- δ
-excerpt: '**Axiom ME-3 (Curvature–Deviation Balance):** The δ-curvature and δ-energy
-  must balance: δRδ=Tδ\\boxed{ \\delta R\_\\delta \= T\_\\delta }δRδ​=Tδ​​'
-heading: '**III. The Balance Axiom (Meta-Einstein Equation)**'
 id: GEN1-461
-lines: 634-658
 location: genesis-1/the-foundation-layer::iii-the-balance-axiom-meta-einstein-equation::b1
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 634-658
+heading: '**III. The Balance Axiom (Meta-Einstein Equation)**'
+block_type: paragraph
+excerpt: '**Axiom ME-3 (Curvature–Deviation Balance):** The δ-curvature and δ-energy
+  must balance: δRδ=Tδ\\boxed{ \\delta R\_\\delta \= T\_\\delta }δRδ​=Tδ​​'
+concepts:
+- δ
+- Ψ
+- Ψn
+- Meta-Einstein
+- Curvature
+- Deviation
+- Axiom
+- Meta-Einstein Equation
+- δ-generated
+- δ-curvature
+- Pre-metric
+- δ-energy
+- δ-rate
+- Deviation Balance
+- Einstein Equation
+aliases:
+- Am824ac
+tags:
+- curvaturedeviation-balance
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.15929203539823
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

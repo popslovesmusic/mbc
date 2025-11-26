@@ -1,17 +1,33 @@
+id: INTK-10849
+location: intake/volume-i-core-ontology-and-metagenesis-summary::72-meta-time-τ-the-ordering-of-deviation::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3160-3166
+heading: '**7.2 Meta-Time (τ): The Ordering of Deviation**'
 block_type: paragraph
-concepts:
-- Deviation Flow Equation
-- Deviation Operator
-- Meta-Deviation
-- Meta-Time
-- Operator
-- Ψ
-- τ
 excerpt: 'Meta-Time is defined by the **Deviation Flow Equation**: dΨdτ=D\[Ψ\],\\frac{d
   \\Psi}{d\\tau} \= \\mathcal{D}\[\\Psi\],dτdΨ​=D\[Ψ\], where D\\mathcal{D}D is the
   Meta-Deviation Operator (A/H/E/F in vari...'
-heading: '**7.2 Meta-Time (τ): The Ordering of Deviation**'
-id: INTK-10849
-lines: 3160-3166
-location: intake/volume-i-core-ontology-and-metagenesis-summary::72-meta-time-τ-the-ordering-of-deviation::b1
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- Deviation
+- Ψ
+- Operator
+- τ
+- Meta-Deviation
+- Deviation Flow Equation
+- Deviation Operator
+- Ψd
+aliases:
+- Bk367mt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.5
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

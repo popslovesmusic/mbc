@@ -1,13 +1,38 @@
+id: GEN5-8205
+location: genesis-5/the-ga-8-meta-einstein-theorem::11-δ-harmonic-expansion-of-the-metric::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 1065-1081
+heading: '**11\. δ-Harmonic Expansion of the Metric**'
 block_type: paragraph
+excerpt: 'Expand the δ-metric in δ-harmonics: gδ,μν(x)=∑n=0∞gμν(n)ψn(x).g\_{\\delta,\\mu\\nu}(x)
+  \= \\sum\_{n=0}^\\infty g\_{\\mu\\nu}^{(n)} \\psi\_n(x).gδ,μν​(x)=n=0∑∞​gμν(n)​ψn​(x).
+  This is used for:'
 concepts:
 - δ
 - μ
 - ν
-excerpt: 'Expand the δ-metric in δ-harmonics: gδ,μν(x)=∑n=0∞gμν(n)ψn(x).g\_{\\delta,\\mu\\nu}(x)
-  \= \\sum\_{n=0}^\\infty g\_{\\mu\\nu}^{(n)} \\psi\_n(x).gδ,μν​(x)=n=0∑∞​gμν(n)​ψn​(x).
-  This is used for:'
-heading: '**11\. δ-Harmonic Expansion of the Metric**'
-id: GEN5-8205
-lines: 1065-1081
-location: genesis-5/the-ga-8-meta-einstein-theorem::11-δ-harmonic-expansion-of-the-metric::b1
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+- Theorem
+- ψ
+- ∑
+- ∞
+- δ-curvature
+- δ-harmonics
+- δ-Einstein
+- δ-metric
+- δ-boson
+- →
+aliases:
+- Bk228et
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 20.3125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

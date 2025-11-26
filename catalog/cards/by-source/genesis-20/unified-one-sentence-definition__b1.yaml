@@ -1,14 +1,31 @@
+id: GEN20-6622
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::unified-one-sentence-definition::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 753-758
+heading: Unified One-Sentence Definition
 block_type: paragraph
-concepts:
-- Federated Geometry
-- Θ
-- Π
-- δ
 excerpt: Federated Geometry is the IGSOA framework where many local δ-geometries compute
   independently but exchange Θ-weighted Π-truths to achieve global coherence without
   merging their underlying structures. ...
-heading: Unified One-Sentence Definition
-id: GEN20-6622
-lines: 753-758
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::unified-one-sentence-definition::b1
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- IGSOA
+- δ-geometries
+- Π-truths
+- δ
+- Π
+- Θ
+- Federated Geometry
+aliases:
+- Bk065fg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

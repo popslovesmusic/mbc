@@ -1,11 +1,35 @@
+id: GEN13-2064
+location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-nuclear-pre-geometry::definition-15-δ-defects::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 766-777
+heading: '**Definition 1.5 (δ-Defects).**'
+parent_heading: '**1\. The δ-Layer: Nuclear Pre-Geometry**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'A δ-defect is a localized non-trivial element of H1(Dδ)H\_1(\\mathcal{D}\_\\delta)H1​(Dδ​).
   Types: * δ-kinks (single-fiber defects)'
-heading: '**Definition 1.5 (δ-Defects).**'
-id: GEN13-2064
-lines: 766-777
-location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-nuclear-pre-geometry::definition-15-δ-defects::b1
-parent_heading: '**1\. The δ-Layer: Nuclear Pre-Geometry**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- triple-adjacency
+- proto-baryons
+- single-fiber
+- non-trivial
+- δ-tripoles
+- δ-dipoles
+- δ-defect
+- δ-kinks
+- →
+aliases:
+- Bk277dl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.31578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

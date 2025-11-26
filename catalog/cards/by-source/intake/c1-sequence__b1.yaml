@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Events (deviations) can follow each other.
-heading: '**(C1) Sequence**'
 id: INTK-9894
-lines: 1797-1799
 location: intake/meta-genesis-core-papers-foundations::5-meta-time-as-the-origin-of-causality::c1-sequence::b1
-parent_heading: '**5\. Meta-Time as the Origin of Causality**'
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1797-1799
+heading: '**(C1) Sequence**'
+parent_heading: '**5\. Meta-Time as the Origin of Causality**'
+block_type: paragraph
+excerpt: Events (deviations) can follow each other.
+aliases:
+- Bk252ed
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

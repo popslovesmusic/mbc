@@ -1,16 +1,28 @@
+id: GEN3-7515
+location: genesis-3/the-tri-unity-theorem::tri-unity-axiom-box::axiom-t1-δ-deviation-action::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 495-511
+heading: '**Axiom T1 — δ (Deviation / Action)**'
+parent_heading: '**▣ TRI-UNITY AXIOM BOX**'
 block_type: paragraph
-concepts:
-- Axiom
-- action
-- change
-- non-stillness
-- Ψ
-- δ
 excerpt: 'There exists a distinguished endofunctor δ:G→G\\delta: \\mathcal{G} \\to
   \\mathcal{G}δ:G→G on the Genesis category such that:'
-heading: '**Axiom T1 — δ (Deviation / Action)**'
-id: GEN3-7515
-lines: 495-511
-location: genesis-3/the-tri-unity-theorem::tri-unity-axiom-box::axiom-t1-δ-deviation-action::b1
-parent_heading: '**▣ TRI-UNITY AXIOM BOX**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- δ
+- Axiom
+- Ψ
+- →
+- non-stillness
+- ≠
+aliases:
+- Bk510te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

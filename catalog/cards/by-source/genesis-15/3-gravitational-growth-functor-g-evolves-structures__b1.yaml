@@ -1,13 +1,28 @@
+id: GEN15-3243
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-proof-from-the-functor-stack::3-gravitational-growth-functor-g-evolves-structures::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2481-2485
+heading: '**3\. Gravitational growth functor G evolves structures**'
+parent_heading: '**Ⅲ. Proof From the Functor Stack**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
-- ρ
 excerpt: δρ(k,t)=G(P(k,t)).\\delta\\rho(k,t)=G(\\mathcal{P}(k,t)).δρ(k,t)=G(P(k,t)).
   The density field changes with time as Φ and δ shift.
-heading: '**3\. Gravitational growth functor G evolves structures**'
-id: GEN15-3243
-lines: 2481-2485
-location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-proof-from-the-functor-stack::3-gravitational-growth-functor-g-evolves-structures::b1
-parent_heading: '**Ⅲ. Proof From the Functor Stack**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- ρ
+- Φ
+aliases:
+- Bk629dr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

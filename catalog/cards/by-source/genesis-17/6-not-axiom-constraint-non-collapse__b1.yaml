@@ -1,11 +1,33 @@
+id: GEN17-4173
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::6-not-axiom-constraint-non-collapse::b1
+source: genesis-17\box_calculus.md
+lines: 323-332
+heading: 6\. NOT-Axiom Constraint (Non-Collapse)
+parent_heading: Formal Transition Function for Box Calculus
 block_type: table
+excerpt: 'So validity condition expands to: Pre⇒I(Apply(⋅))\>0 Pre⇒I(Apply(⋅))\>0'
 concepts:
 - Σ
+- Deviation
+- IGSOA
+- ≠
+- ∀
 - Ψ
-excerpt: 'So validity condition expands to: Pre⇒I(Apply(⋅))\>0 Pre⇒I(Apply(⋅))\>0'
-heading: 6\. NOT-Axiom Constraint (Non-Collapse)
-id: GEN17-4173
-lines: 323-332
-location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::6-not-axiom-constraint-non-collapse::b1
-parent_heading: Formal Transition Function for Box Calculus
-source: genesis-17\box_calculus.md
+- →
+- non-zero
+- Σt
+aliases:
+- Bk275is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.071428571428573
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

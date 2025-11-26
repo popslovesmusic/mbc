@@ -1,14 +1,38 @@
+id: GEN13-2528
+location: genesis-13/what-biology-is-in-meta-genesis::1-the-δ-deviation-structure-of-bioenergetics::theorem-12-non-equilibrium-constraint::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 970-980
+heading: '**Theorem 1.2 (Non-Equilibrium Constraint).**'
+parent_heading: '**1\. The δ-Deviation Structure of Bioenergetics**'
 block_type: paragraph
-concepts:
-- Π
-- γ
-- δ
 excerpt: 'If Δδ\\Delta\_\\deltaΔδ​ acts on any Π-preboundary ∂M\\partial M∂M with
   finite measure, then: Δδ⇏0  ⟹  ∃  γ∈Grad(∂M)\\Delta\_\\delta \\not\\Rightarrow
   0 \\quad \\implies \\quad \\exists \\; \\gamma \...'
-heading: '**Theorem 1.2 (Non-Equilibrium Constraint).**'
-id: GEN13-2528
-lines: 970-980
-location: genesis-13/what-biology-is-in-meta-genesis::1-the-δ-deviation-structure-of-bioenergetics::theorem-12-non-equilibrium-constraint::b1
-parent_heading: '**1\. The δ-Deviation Structure of Bioenergetics**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Δ
+- ∂
+- Proof
+- Definition
+- non-equilibrium gradient
+- γ
+- ∈
+- ∃
+- non-equilibrium
+- Π-preboundary
+- non-zero
+- Π
+aliases:
+- Bk560da
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.30985915492958
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

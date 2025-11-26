@@ -1,12 +1,30 @@
+id: GEN0-193
+location: genesis-0/tri-unity-theorem-equivalence-of::the-stability-theorem::statement::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 529-547
+heading: '**Statement**'
+parent_heading: '**The Stability Theorem**'
 block_type: paragraph
+excerpt: 'Let Ψ0\\Psi\_0Ψ0​ be the zero-state (structureless, operator-free) and let
+  Ψ1=δΨ0\\Psi\_1 \= \\delta\\Psi\_0Ψ1​=δΨ0​ be the first deviated state. Then:'
 concepts:
 - Ψ
 - δ
-excerpt: 'Let Ψ0\\Psi\_0Ψ0​ be the zero-state (structureless, operator-free) and let
-  Ψ1=δΨ0\\Psi\_1 \= \\delta\\Psi\_0Ψ1​=δΨ0​ be the first deviated state. Then:'
-heading: '**Statement**'
-id: GEN0-193
-lines: 529-547
-location: genesis-0/tri-unity-theorem-equivalence-of::the-stability-theorem::statement::b1
-parent_heading: '**The Stability Theorem**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+- return to perfect stillness is forbidden
+- zero-state
+- ∀
+- →
+- operator-free
+- ≠
+aliases:
+- Bk794lp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.207207207207207
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

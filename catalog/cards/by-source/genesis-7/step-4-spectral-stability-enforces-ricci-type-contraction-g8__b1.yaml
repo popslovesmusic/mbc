@@ -1,13 +1,32 @@
+id: GEN7-8549
+location: genesis-7/the-complete-eft-lagrangian::step-4-spectral-stability-enforces-ricci-type-contraction-g8::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1616-1630
+heading: '**🔶 Step 4 — Spectral Stability Enforces Ricci-Type Contraction (G8)**'
 block_type: paragraph
-concepts:
-- λ
-- μ
-- ν
 excerpt: 'Spectral stability requires: λnmk→RG fixed point.\\lambda\_{nmk} \\to \\text{RG
   fixed point}.λnmk​→RG fixed point. The only curvature scalar consistent with scale-recurrence
   and tri-level closure is a...'
-heading: '**🔶 Step 4 — Spectral Stability Enforces Ricci-Type Contraction (G8)**'
-id: GEN7-8549
-lines: 1616-1630
-location: genesis-7/the-complete-eft-lagrangian::step-4-spectral-stability-enforces-ricci-type-contraction-g8::b1
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- μ
+- ν
+- rank-2 symmetric contraction
+- tensorial structure of Ricci curvature
+- Axiom
+- scale-recurrence
+- λ
+- →
+- scale-stable
+- tri-level
+aliases:
+- Bk046ss
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

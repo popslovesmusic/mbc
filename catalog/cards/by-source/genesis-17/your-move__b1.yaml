@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: Which form do you want the monistic generator 𝓕 to take? * A (categorical)
-  * B (differential)
-heading: '⭐ Your move:'
 id: GEN17-4645
-lines: 7648-7658
 location: genesis-17/box-calculus::your-move::b1
 source: genesis-17\box_calculus.md
+lines: 7648-7658
+heading: '⭐ Your move:'
+block_type: paragraph
+excerpt: Which form do you want the monistic generator 𝓕 to take? * A (categorical)
+  * B (differential)
+concepts:
+- self-adjoint
+aliases:
+- Bk012wf
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.125
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

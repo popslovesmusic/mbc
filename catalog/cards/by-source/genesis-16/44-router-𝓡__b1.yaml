@@ -1,11 +1,33 @@
-block_type: table
-concepts:
-- Σ
-- α
-excerpt: '---'
-heading: '**4.4 Router 𝓡**'
 id: GEN16-3757
-lines: 282-288
 location: genesis-16/untitled-document::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::44-router-𝓡::b1
-parent_heading: '**4\. Operator-Specific Transition Rules**'
 source: genesis-16\Untitled_document.md
+lines: 282-288
+heading: '**4.4 Router 𝓡**'
+parent_heading: '**4\. Operator-Specific Transition Rules**'
+block_type: table
+excerpt: '---'
+concepts:
+- α
+- Σ
+- ∑
+- IGSOA
+- Router
+- Σk
+- κ
+- ≥
+- attention-style
+aliases:
+- Bk716is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.183673469387756
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

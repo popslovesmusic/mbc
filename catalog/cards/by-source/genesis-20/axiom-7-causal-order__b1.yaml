@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Connectors define a partial order for evaluation.
-heading: Axiom 7 (Causal Order)
 id: GEN20-7125
-lines: 5858-5860
 location: genesis-20/mbc-40-documentaitio-1::a27-the-axiom-system-formal-summary::axiom-7-causal-order::b1
-parent_heading: A2.7 The Axiom System (Formal Summary)
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5858-5860
+heading: Axiom 7 (Causal Order)
+parent_heading: A2.7 The Axiom System (Formal Summary)
+block_type: paragraph
+excerpt: Connectors define a partial order for evaluation.
+aliases:
+- Bk359cd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

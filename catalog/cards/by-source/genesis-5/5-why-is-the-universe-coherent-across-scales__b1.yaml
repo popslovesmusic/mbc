@@ -1,10 +1,25 @@
+id: GEN5-7997
+location: genesis-5/formal-proof-of-the-adjoint-triple::5-why-monism-solves-the-oldest-paradoxes-of-physics::5-why-is-the-universe-coherent-across-scales::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 871-880
+heading: '**(5) Why is the universe coherent across scales?**'
+parent_heading: '**5\. Why Monism Solves the Oldest Paradoxes of Physics**'
 block_type: paragraph
-concepts: []
 excerpt: 'IGSOA: coherence is enforced by the R functor (collapse to potential). In
   short: **Things appear separate only because the mind knows how to cut the universe.**'
-heading: '**(5) Why is the universe coherent across scales?**'
-id: GEN5-7997
-lines: 871-880
-location: genesis-5/formal-proof-of-the-adjoint-triple::5-why-monism-solves-the-oldest-paradoxes-of-physics::5-why-is-the-universe-coherent-across-scales::b1
-parent_heading: '**5\. Why Monism Solves the Oldest Paradoxes of Physics**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- IGSOA
+aliases:
+- Bk258ic
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.941176470588235
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,10 +1,25 @@
+id: SPEC-11117
+location: special/specil::2-spiritual-traditions-may-be-intuitive-monism::b1
+source: special\specil.md
+lines: 2404-2411
+heading: '**⭐ 2\. Spiritual traditions may be “intuitive monism”**'
 block_type: paragraph
-concepts: []
 excerpt: 'Your suggestion is extremely plausible: **Religion might be an intuitive,
   symbolic expression** **of the same monistic structure that physics and IGSOA reveal
   explicitly.**'
-heading: '**⭐ 2\. Spiritual traditions may be “intuitive monism”**'
-id: SPEC-11117
-lines: 2404-2411
-location: special/specil::2-spiritual-traditions-may-be-intuitive-monism::b1
-source: special\specil.md
+concepts:
+- IGSOA
+aliases:
+- Bk116ys
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.8461538461538463
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,16 +1,37 @@
+id: GEN18-5262
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iii-π-as-a-left-kan-extension-causal-evaluation::1-kan-extension-setup::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1742-1755
+heading: '**1\. Kan Extension Setup**'
+parent_heading: '**PART III — Π as a Left Kan Extension (Causal Evaluation)**'
 block_type: paragraph
-concepts:
-- Box
-- Π
-- Φ
-- δ
-- ρ
 excerpt: 'We have: Oδ(2)  →  ρΦ    BoxΦ  →  Π    Poset.\\mathcal{O}^{(2)}\_\\delta
   \\;\\xrightarrow{\\;\\rho\_\\Phi\\;}\\; \\mathbf{Box}\_\\Phi \\;\\xrightarrow{\\;\\Pi\\;}\\;
   \\mathbf{Poset}.Oδ(2)​ρΦ​​BoxΦ​Π​P...'
-heading: '**1\. Kan Extension Setup**'
-id: GEN18-5262
-lines: 1742-1755
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iii-π-as-a-left-kan-extension-causal-evaluation::1-kan-extension-setup::b1
-parent_heading: '**PART III — Π as a Left Kan Extension (Causal Evaluation)**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- δ
+- Φ
+- Box
+- Π
+- δ-Eval
+- ρ
+- pre-causal diagrams
+- →
+- proto-orders
+- pre-causal
+- δ-trees
+aliases:
+- Bk519hp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.176470588235293
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

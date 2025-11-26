@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'All adjacency maps in IGSOA (1D, 2D, proto-3D) reduce to: * 3 primary adjacency
-  relations (potential/active/deviational) * 6 dual adjacency transitions'
-heading: '**⭐ 5\. 3, 6, 9 as Adjacency**'
 id: SPEC-11072
-lines: 1585-1595
 location: special/specil::5-3-6-9-as-adjacency::b1
 source: special\specil.md
+lines: 1585-1595
+heading: '**⭐ 5\. 3, 6, 9 as Adjacency**'
+block_type: paragraph
+excerpt: 'All adjacency maps in IGSOA (1D, 2D, proto-3D) reduce to: * 3 primary adjacency
+  relations (potential/active/deviational) * 6 dual adjacency transitions'
+concepts:
+- IGSOA
+aliases:
+- Bk559aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.7037037037037033
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

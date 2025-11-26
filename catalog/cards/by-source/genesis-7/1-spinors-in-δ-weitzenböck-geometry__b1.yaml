@@ -1,19 +1,38 @@
-block_type: paragraph
-concepts:
-- contorsion
-- Γ
-- Ω
-- γ
-- δ
-- μ
-- ν
-- ρ
-- σ
-- ω
-excerpt: 'Weitzenböck geometry has: * **zero curvature** Rρσμν=0R^\\rho{}\_{\\sigma\\mu\\nu}
-  \= 0Rρσμν​=0 * **nonzero torsion** Tρμν=δρμνT^\\rho{}\_{\\mu\\nu} \= \\delta^\\rho{}\_{\\mu\\nu}Tρμν​=δρμν​'
-heading: '**1\. Spinors in δ-Weitzenböck Geometry**'
 id: GEN7-8592
-lines: 606-638
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::1-spinors-in-δ-weitzenböck-geometry::b1
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 606-638
+heading: '**1\. Spinors in δ-Weitzenböck Geometry**'
+block_type: paragraph
+excerpt: 'Weitzenböck geometry has: * **zero curvature** Rρσμν=0R^\\rho{}\_{\\sigma\\mu\\nu}
+  \= 0Rρσμν​=0 * **nonzero torsion** Tρμν=δρμνT^\\rho{}\_{\\mu\\nu} \= \\delta^\\rho{}\_{\\mu\\nu}Tρμν​=δρμν​'
+concepts:
+- μ
+- δ
+- ν
+- ρ
+- δ-geometry
+- IGSOA
+- ω
+- IGSOA δ-geometry modifies this
+- δ-torsion spin connection
+- Ω
+- γ
+- σ
+- Γ
+- ∂
+- δ-torsion
+aliases:
+- Bk487gh
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

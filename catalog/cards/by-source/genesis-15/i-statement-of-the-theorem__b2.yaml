@@ -1,18 +1,38 @@
-block_type: paragraph
-concepts:
-- Causal Sphere
-- Lensing Equivalence Theorem
-- Theorem
-- Λ
-- Π
-- Φ
-- α
-- δ
-- ρ
-excerpt: '**CSOI–Lensing Equivalence Theorem.** Let C(x)\\mathcal{C}(x)C(x) be the
-  **Causal Sphere of Influence** and let δCSOI(r)\\delta\_{\\mathrm{CSOI}}(r)δCSOI​(r)'
-heading: '**I. Statement of the Theorem**'
 id: GEN15-3293
-lines: 524-548
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::i-statement-of-the-theorem::b2
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 524-548
+heading: '**I. Statement of the Theorem**'
+block_type: paragraph
+excerpt: '**CSOI–Lensing Equivalence Theorem.** Let C(x)\\mathcal{C}(x)C(x) be the
+  **Causal Sphere of Influence** and let δCSOI(r)\\delta\_{\\mathrm{CSOI}}(r)δCSOI​(r)'
+concepts:
+- δ-curvature produces precisely the same lensing pattern as dark matter halos
+- α
+- δ
+- Theorem
+- δ-curvature
+- Φ
+- adjacency-extended
+- ∇
+- ρ
+- gravitational deflection angle
+- Lensing Equivalence Theorem
+- Causal Sphere of Influence
+- δ-tail
+- Π
+- Λ
+aliases:
+- Bk705cl
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.320754716981133
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

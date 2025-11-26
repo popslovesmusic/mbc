@@ -1,15 +1,31 @@
+id: GEN4-7807
+location: genesis-4/the-adjoint-triple::the-δφ-tri-unity-transition-box::axiom-t2-modal-necessity-δ-φ-π::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1524-1538
+heading: '**Axiom T2 — Modal Necessity (δ → Φ → π)**'
+parent_heading: '**✦ THE δ–Φ → TRI-UNITY TRANSITION BOX**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Unity Flow
-- must
-- Φ
-- δ
 excerpt: 'Each mode arises necessarily from the one before it: δ  ⇒  Φ  ⇒  π\\delta
   \\;\\Rightarrow\\; \\Phi \\;\\Rightarrow\\; \\piδ⇒Φ⇒π Meaning:'
-heading: '**Axiom T2 — Modal Necessity (δ → Φ → π)**'
-id: GEN4-7807
-lines: 1524-1538
-location: genesis-4/the-adjoint-triple::the-δφ-tri-unity-transition-box::axiom-t2-modal-necessity-δ-φ-π::b1
-parent_heading: '**✦ THE δ–Φ → TRI-UNITY TRANSITION BOX**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Tri-Unity
+- Deviation
+- π
+- δ
+- Φ
+- Unity Flow
+aliases:
+- Bk836em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

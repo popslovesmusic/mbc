@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: 'Stable laws correspond to **endofunctors that preserve the Genesis–Action
-  functor**. Let: * G\\mathcal{G}G: category of Genesis (potential modes)'
-heading: '**CATEGORY-THEORETIC / TOPOS VERSION**'
 id: GEN7-8459
-lines: 280-310
 location: genesis-7/the-complete-eft-lagrangian::category-theoretic-topos-version::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 280-310
+heading: '**CATEGORY-THEORETIC / TOPOS VERSION**'
+block_type: paragraph
+excerpt: 'Stable laws correspond to **endofunctors that preserve the Genesis–Action
+  functor**. Let: * G\\mathcal{G}G: category of Genesis (potential modes)'
+concepts:
+- →
+- δ
+- Φ
+- natural transformation
+- stable physical law
+aliases:
+- Bk841sl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.4965034965034967
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

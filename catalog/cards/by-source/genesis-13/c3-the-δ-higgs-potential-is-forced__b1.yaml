@@ -1,11 +1,26 @@
+id: GEN13-2371
+location: genesis-13/the-weight-of-light::4-consequences-physics::c3-the-δ-higgs-potential-is-forced::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1575-1577
+heading: '**C3 — The δ-Higgs potential is forced**'
+parent_heading: '**4\. Consequences (Physics)**'
 block_type: paragraph
+excerpt: Because Π must absorb Φ’s trace defect.
 concepts:
 - Π
 - Φ
-excerpt: Because Π must absorb Φ’s trace defect.
-heading: '**C3 — The δ-Higgs potential is forced**'
-id: GEN13-2371
-lines: 1575-1577
-location: genesis-13/the-weight-of-light::4-consequences-physics::c3-the-δ-higgs-potential-is-forced::b1
-parent_heading: '**4\. Consequences (Physics)**'
-source: genesis-13\The_Weight_of_Light.md
+aliases:
+- Bk848bm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

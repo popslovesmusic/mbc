@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- Λ
-excerpt: 'In ΛCDM: * Strong lensing requires large DM halos. In IGSOA:'
-heading: '**VIII. Physical Interpretation**'
 id: GEN15-3342
-lines: 1384-1407
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::viii-physical-interpretation::b1
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1384-1407
+heading: '**VIII. Physical Interpretation**'
+block_type: paragraph
+excerpt: 'In ΛCDM: * Strong lensing requires large DM halos. In IGSOA:'
+concepts:
+- IGSOA
+- dark-matter
+- Λ
+aliases:
+- Bk781sl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

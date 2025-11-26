@@ -1,11 +1,26 @@
+id: GEN0-224
+location: genesis-0/tri-unity-theorem-equivalence-of::2-key-definitions::definition-1-first-deviation::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1026-1028
+heading: '**Definition 1 — First Deviation**'
+parent_heading: '**2\. Key Definitions**'
 block_type: paragraph
+excerpt: Ψ1:=δΨ0.\\Psi\_1 := \\delta\\Psi\_0.Ψ1​:=δΨ0​.
 concepts:
 - Ψ
 - δ
-excerpt: Ψ1:=δΨ0.\\Psi\_1 := \\delta\\Psi\_0.Ψ1​:=δΨ0​.
-heading: '**Definition 1 — First Deviation**'
-id: GEN0-224
-lines: 1026-1028
-location: genesis-0/tri-unity-theorem-equivalence-of::2-key-definitions::definition-1-first-deviation::b1
-parent_heading: '**2\. Key Definitions**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+aliases:
+- Bk023pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

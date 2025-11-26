@@ -1,12 +1,28 @@
+id: GEN0-016
+location: genesis-0/feynman-rules-interaction-vertices::5-adjacency-induced-effective-nonlocal-vertices::effective-δ-nonlocal-2-vertex::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 172-186
+heading: '**Effective δ-Nonlocal 2-vertex**'
+parent_heading: '**5\. Adjacency-Induced Effective Nonlocal Vertices**'
 block_type: paragraph
-concepts:
-- α
-- δ
 excerpt: 'Leff⊃δ(x) K(x−y) δ(y)\\mathcal{L}\_{\\text{eff}}\\supset \\delta(x)\\,K(x-y)\\,\\delta(y)Leff​⊃δ(x)K(x−y)δ(y)
   Feynman rule: VδKδ=−iK\~(p)V\_{\\delta K \\delta} \= \-i \\tilde{K}(p)VδKδ​=−iK\~(p)'
-heading: '**Effective δ-Nonlocal 2-vertex**'
-id: GEN0-016
-lines: 172-186
-location: genesis-0/feynman-rules-interaction-vertices::5-adjacency-induced-effective-nonlocal-vertices::effective-δ-nonlocal-2-vertex::b1
-parent_heading: '**5\. Adjacency-Induced Effective Nonlocal Vertices**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- ⊃
+- α
+- x-y
+- straight geometry
+- δK
+aliases:
+- Bk402lm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.228915662650602
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

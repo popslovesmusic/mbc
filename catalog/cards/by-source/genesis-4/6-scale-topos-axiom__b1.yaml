@@ -1,12 +1,30 @@
+id: GEN4-7595
+location: genesis-4/meta-physics-axiom-box::meta-physics-axiom-box::6-scale-topos-axiom::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 130-147
+heading: '**6\. Scale-Topos Axiom**'
+parent_heading: '**META-PHYSICS AXIOM BOX**'
 block_type: paragraph
-concepts:
-- Descent Condition
-- σ
 excerpt: 'There exists a scale-parameterized ∞-topos σ-Topos\\sigma\\text{-Topos}σ-Topos
   such that:'
-heading: '**6\. Scale-Topos Axiom**'
-id: GEN4-7595
-lines: 130-147
-location: genesis-4/meta-physics-axiom-box::meta-physics-axiom-box::6-scale-topos-axiom::b1
-parent_heading: '**META-PHYSICS AXIOM BOX**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- σ
+- scale-parameterized
+- Every level of physics
+- ∞
+- Descent Condition
+aliases:
+- Bk815te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

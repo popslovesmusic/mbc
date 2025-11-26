@@ -1,15 +1,35 @@
+id: GEN13-2197
+location: genesis-13/meta-math-nuclear-physics::5-φ-π-topological-phases::theorem-51-δ-curvature-classes-topological-bands::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2280-2286
+heading: '**Theorem 5.1 — δ-Curvature Classes → Topological Bands**'
+parent_heading: '**5\. Φ → Π Topological Phases**'
 block_type: paragraph
-concepts:
-- Λ
-- Π
-- Φ
-- δ
 excerpt: 'Each δ-defect class maps to a Φ-band topology class: π1(Λδ)→ΦK1(BZ)→Π{topological
   phases}.\\pi\_1(\\Lambda\_\\delta) \\xrightarrow{\\Phi} K^1(\\text{BZ}) \\xrightarrow{\\Pi}
   \\{\\text{topological phas...'
-heading: '**Theorem 5.1 — δ-Curvature Classes → Topological Bands**'
-id: GEN13-2197
-lines: 2280-2286
-location: genesis-13/meta-math-nuclear-physics::5-φ-π-topological-phases::theorem-51-δ-curvature-classes-topological-bands::b1
-parent_heading: '**5\. Φ → Π Topological Phases**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- Φ
+- π
+- Π
+- Λ
+- →
+- δ-defect
+- Φ-band
+- ΦK
+aliases:
+- Bk620ed
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

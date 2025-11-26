@@ -1,13 +1,30 @@
+id: GEN6-8362
+location: genesis-6/spectral-triple-axiom-box-sealed-version::5-why-exactly-nine-meta-genesis-answer::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1490-1507
+heading: '**5\. Why Exactly Nine? (Meta-Genesis Answer)**'
 block_type: paragraph
+excerpt: 'Because: 1. **The first 3 δ-harmonics are forced by deviation and the Tri-Unity
+  map.** 2. **The next 6 are the minimal closure of the adjacency operator under second
+  deviation.**'
 concepts:
 - Meta-Einstein
 - Tri-Unity
 - δ
-excerpt: 'Because: 1. **The first 3 δ-harmonics are forced by deviation and the Tri-Unity
-  map.** 2. **The next 6 are the minimal closure of the adjacency operator under second
-  deviation.**'
-heading: '**5\. Why Exactly Nine? (Meta-Genesis Answer)**'
-id: GEN6-8362
-lines: 1490-1507
-location: genesis-6/spectral-triple-axiom-box-sealed-version::5-why-exactly-nine-meta-genesis-answer::b1
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+- δ-commutators
+- δ-harmonics
+aliases:
+- Bk763bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.097560975609756
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

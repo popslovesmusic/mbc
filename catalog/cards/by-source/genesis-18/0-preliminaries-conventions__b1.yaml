@@ -1,16 +1,38 @@
-block_type: table
-concepts:
-- Box
-- Standard Physics
-- Π
-- Φ
-- δ
-- μ
-- ν
-- τ
-excerpt: '---'
-heading: '**0\. Preliminaries & Conventions**'
 id: GEN18-5160
-lines: 126-136
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::0-preliminaries-conventions::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 126-136
+heading: '**0\. Preliminaries & Conventions**'
+block_type: table
+excerpt: '---'
+concepts:
+- Φ-projection
+- Π
+- Box
+- δ
+- Deviation
+- IGSOA
+- μ
+- ν
+- Φ
+- τ
+- adjacency-matrix
+- →
+- δ-Geometry
+- Π-ordering
+- Π-functor
+aliases:
+- Bk697sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.101123595505616
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,31 @@
+id: GEN13-2231
+location: genesis-13/meta-math-nuclear-physics::4-π-topological-quantum-gates-from-φ-braid-operators::theorem-42-universality-criterion::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2629-2639
+heading: '**Theorem 4.2 — Universality Criterion**'
+parent_heading: '**4\. Π-Topological Quantum Gates From Φ-Braid Operators**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'If the Φ-R-matrices generate a dense subgroup of SU(2) on the fusion space,
   then: {Π(RΦ),Π(FΦ)}\\{ \\Pi(R\_\\Phi), \\Pi(F\_\\Phi)\\}{Π(RΦ​),Π(FΦ​)} is a universal
   gate set.'
-heading: '**Theorem 4.2 — Universality Criterion**'
-id: GEN13-2231
-lines: 2629-2639
-location: genesis-13/meta-math-nuclear-physics::4-π-topological-quantum-gates-from-φ-braid-operators::theorem-42-universality-criterion::b1
-parent_heading: '**4\. Π-Topological Quantum Gates From Φ-Braid Operators**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ-geometry
+- Φ
+- Π
+- Φ-R-matrices
+- δ
+aliases:
+- Bk727tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.803921568627452
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

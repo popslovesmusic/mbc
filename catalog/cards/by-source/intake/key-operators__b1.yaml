@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Fractal Calculus
-- Meta-Fractal
-excerpt: 'Meta-Fractal Calculus employs several specialized operators:'
-heading: Key Operators
 id: INTK-10447
-lines: 1528-1530
 location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::key-operators::b1
-parent_heading: Meta-Fractal Calculus
 source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1528-1530
+heading: Key Operators
+parent_heading: Meta-Fractal Calculus
+block_type: paragraph
+excerpt: 'Meta-Fractal Calculus employs several specialized operators:'
+concepts:
+- Meta-Fractal
+- Fractal Calculus
+aliases:
+- Bk515mf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

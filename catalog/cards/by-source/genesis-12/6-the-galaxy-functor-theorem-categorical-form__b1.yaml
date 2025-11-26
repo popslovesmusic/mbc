@@ -1,13 +1,31 @@
+id: GEN12-2000
+location: genesis-12/untitled-document::6-the-galaxy-functor-theorem-categorical-form::b1
+source: genesis-12\Untitled_document.md
+lines: 4405-4415
+heading: '**6\. The Galaxy Functor Theorem (Categorical Form)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Π∘Φ2∘Φ1∘δ is a covariant functor, \\boxed{ \\Pi\\circ\\Phi\_2\\circ\\Phi\_1\\circ\\delta
   \\text{ is a covariant functor, } }Π∘Φ2​∘Φ1​∘δ is a covariant functor, ​ and for
   all X∈GenX\\in\\mathsf{Gen}X∈G...
-heading: '**6\. The Galaxy Functor Theorem (Categorical Form)**'
-id: GEN12-2000
-lines: 4405-4415
-location: genesis-12/untitled-document::6-the-galaxy-functor-theorem-categorical-form::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- the entire galaxy population of the universe is a functorial image of δ
+- δ
+- Π
+- ∈
+- →
+aliases:
+- Bk960cf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.976744186046512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

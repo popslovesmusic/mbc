@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(How Adjacency Becomes Metric)***'
 id: GEN1-364
-lines: 4-6
 location: genesis-1/the-first-geometry::the-first-geometry::how-adjacency-becomes-metric::b1
-parent_heading: '**THE FIRST GEOMETRY**'
 source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 4-6
+heading: '***(How Adjacency Becomes Metric)***'
+parent_heading: '**THE FIRST GEOMETRY**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

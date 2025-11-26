@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Ψ
-- δ
-excerpt: 'In Ψ₀, no distinctions exist. After δ, at least one distinction exists:
-  Ψ0≠Ψ1.\\Psi\_0 \\neq \\Psi\_1.Ψ0​=Ψ1​.'
-heading: '**4\. Deviation as the First Differentiation**'
 id: INTK-10128
-lines: 708-733
 location: intake/meta-genesis-physical-interpretation-papers::4-deviation-as-the-first-differentiation::b1
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 708-733
+heading: '**4\. Deviation as the First Differentiation**'
+block_type: paragraph
+excerpt: 'In Ψ₀, no distinctions exist. After δ, at least one distinction exists:
+  Ψ0≠Ψ1.\\Psi\_0 \\neq \\Psi\_1.Ψ0​=Ψ1​.'
+concepts:
+- Ψ
+- source of all differentiability and all structure
+- δ
+- ≠
+- Ψ₀
+aliases:
+- Bk985de
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.204081632653061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

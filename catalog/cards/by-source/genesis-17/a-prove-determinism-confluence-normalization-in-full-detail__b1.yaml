@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (20–30 lines each, fully formal)
-heading: A. Prove determinism, confluence, normalization in full detail
 id: GEN17-4829
-lines: 10048-10050
 location: genesis-17/box-calculus::next-options::a-prove-determinism-confluence-normalization-in-full-detail::b1
-parent_heading: '⭐ Next Options:'
 source: genesis-17\box_calculus.md
+lines: 10048-10050
+heading: A. Prove determinism, confluence, normalization in full detail
+parent_heading: '⭐ Next Options:'
+block_type: paragraph
+excerpt: (20–30 lines each, fully formal)
+aliases:
+- Bk336le
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

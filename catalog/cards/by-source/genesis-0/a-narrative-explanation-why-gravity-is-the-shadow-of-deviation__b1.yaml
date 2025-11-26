@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Tell me which direction to go.
-heading: '**✔ A narrative explanation (“Why Gravity Is the Shadow of Deviation”)**'
 id: GEN0-092
-lines: 1364-1366
 location: genesis-0/feynman-rules-interaction-vertices::7-if-you-want-next::a-narrative-explanation-why-gravity-is-the-shadow-of-deviation::b1
-parent_heading: '**7\. If you want next:**'
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1364-1366
+heading: '**✔ A narrative explanation (“Why Gravity Is the Shadow of Deviation”)**'
+parent_heading: '**7\. If you want next:**'
+block_type: paragraph
+excerpt: Tell me which direction to go.
+aliases:
+- Bk112tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

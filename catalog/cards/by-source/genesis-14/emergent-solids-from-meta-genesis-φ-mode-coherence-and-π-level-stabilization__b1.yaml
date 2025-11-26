@@ -1,18 +1,40 @@
+id: GEN14-2966
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::emergent-solids-from-meta-genesis-φ-mode-coherence-and-π-level-stabilization::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 689-707
+heading: '**Emergent Solids from Meta-Genesis: Φ-Mode Coherence and Π-Level Stabilization**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Meta-Genesis
-- abstract
-- Π
-- Φ
-- δ
 excerpt: '*(How “solidity” arises from δ-adjacency curvature locking into coherent
   Φ-modes with Π-stabilized multiplicity)* This paper explains why *solids exist at
   all*—not as an empirical category, but as a *...'
-heading: '**Emergent Solids from Meta-Genesis: Φ-Mode Coherence and Π-Level Stabilization**'
-id: GEN14-2966
-lines: 689-707
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::emergent-solids-from-meta-genesis-φ-mode-coherence-and-π-level-stabilization::b1
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Meta-Genesis
+- Axiom
+- Meta-Genesis projection result
+- full multi-part outline
+- δ-adjacency
+- Box
+- Π
+- δ
+- Φ-mode
+- Φ
+- Π-multiplicity
+- Genesis-level
+- Π-stabilized
+- multi-part
+- Φ-modes
+aliases:
+- Bk668hs
+tags:
+- axiom-box
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.78481012658228
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

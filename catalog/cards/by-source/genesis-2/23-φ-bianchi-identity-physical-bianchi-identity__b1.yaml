@@ -1,14 +1,31 @@
+id: GEN2-6372
+location: genesis-2/axioms-of-geometry-topos-compatible::2-geometric-dynamic-mapping::23-φ-bianchi-identity-physical-bianchi-identity::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 967-979
+heading: '**2.3 Φ-Bianchi Identity → Physical Bianchi Identity**'
+parent_heading: '**2\. Geometric / Dynamic Mapping**'
 block_type: paragraph
-concepts:
-- Meta-Strings
-- Φ
-- μ
-- ν
 excerpt: 'P(∇ΦRΦ)=∇MetaFμν=0\\mathcal{P}(\\nabla^\\Phi R\_\\Phi) \= \\nabla\_{\\text{Meta}}
   F\_{\\mu\\nu} \= 0P(∇ΦRΦ​)=∇Meta​Fμν​=0 Ensures: * gauge covariance'
-heading: '**2.3 Φ-Bianchi Identity → Physical Bianchi Identity**'
-id: GEN2-6372
-lines: 967-979
-location: genesis-2/axioms-of-geometry-topos-compatible::2-geometric-dynamic-mapping::23-φ-bianchi-identity-physical-bianchi-identity::b1
-parent_heading: '**2\. Geometric / Dynamic Mapping**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Φ
+- ∇
+- ν
+- μ
+- Meta-Strings
+- ΦR
+aliases:
+- Bk161mn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

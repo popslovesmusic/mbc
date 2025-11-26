@@ -1,25 +1,41 @@
+id: GEN16-3863
+location: genesis-16/untitled-document::next-step-you-choose::b1
+source: genesis-16\Untitled_document.md
+lines: 1710-1729
+heading: '**❓ Next Step (You Choose)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Category Equivalence Theorem
-- Closure Axiom Box
-- Completeness Theorem
-- Fixed-Point
-- Operator
-- Point Theorem
-- The Box Calculus
-- The Box Calculus Fixed
-- The Box Calculus Normal Form Theorem
-- The Box Calculus Sealed Operator Table
-- The Box Calculus Soundness
-- Theorem
 excerpt: 'With the Closure Axiom Box in place, the natural next theoretical constructions
   are: 1. **The Box Calculus → Category Equivalence Theorem** (prove that Box Calculus
   is a monoidal category with evaluat...'
-heading: '**❓ Next Step (You Choose)**'
-id: GEN16-3863
-lines: 1710-1729
-location: genesis-16/untitled-document::next-step-you-choose::b1
-source: genesis-16\Untitled_document.md
+concepts:
+- Box Calculus
+- Box
+- Theorem
+- The Box Calculus
+- The Box Calculus Fixed-Point Theorem
+- Axiom
+- Operator
+- The Box Calculus Sealed Operator Table
+- The Box Calculus Normal Form Theorem
+- Category Equivalence Theorem
+- The Box Calculus Soundness
+- Fixed-Point
+- δ-semantic
+- Π-normal
+- The Box Calculus Fixed
+aliases:
+- Bk166wt
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.444444444444443
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

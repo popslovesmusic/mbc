@@ -1,17 +1,36 @@
-block_type: table
-concepts:
-- Axiom
-- Box
-- Every Box
-- Mathematical Polarity
-- Σ
-- δ
-- η
-- τ
-excerpt: '**Same meaning:** *Meaning exists, has structure, and cannot collapse.*
-  ---'
-heading: '**AXIOM I — THE STATE AXIOM (Ontology / Existence of Meaning)**'
 id: GEN16-3890
-lines: 2037-2047
 location: genesis-16/untitled-document::axiom-i-the-state-axiom-ontology-existence-of-meaning::b1
 source: genesis-16\Untitled_document.md
+lines: 2037-2047
+heading: '**AXIOM I — THE STATE AXIOM (Ontology / Existence of Meaning)**'
+block_type: table
+excerpt: '**Same meaning:** *Meaning exists, has structure, and cannot collapse.*
+  ---'
+concepts:
+- Σ
+- ΣB
+- Polarity
+- Deviation
+- IGSOA
+- Axiom
+- Box
+- τ
+- η
+- ∈
+- non-vanishing
+- NOT-Axiom
+- δ-space
+- ≠
+- δ
+aliases:
+- Bk421ip
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.385826771653544
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

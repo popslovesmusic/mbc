@@ -1,12 +1,32 @@
+id: GEN12-1882
+location: genesis-12/untitled-document::sealed-axiom-box-the-δφπ-galaxy-formation-axiom::axiom-gf-3-δ-harmonic-dominance-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 2426-2444
+heading: '**Axiom GF-3 (δ-Harmonic Dominance Axiom).**'
+parent_heading: '**⟡ SEALED AXIOM BOX: The δ–Φ–Π Galaxy-Formation Axiom ⟡**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Galaxy morphology and dynamical class are uniquely determined by the **dominant
   δ-harmonic mode** in the local curvature spectrum: dom(δ)⟹morphology classification.\\text{dom}(\\delta)
   \\quad\\Longrig...'
-heading: '**Axiom GF-3 (δ-Harmonic Dominance Axiom).**'
-id: GEN12-1882
-lines: 2426-2444
-location: genesis-12/untitled-document::sealed-axiom-box-the-δφπ-galaxy-formation-axiom::axiom-gf-3-δ-harmonic-dominance-axiom::b1
-parent_heading: '**⟡ SEALED AXIOM BOX: The δ–Φ–Π Galaxy-Formation Axiom ⟡**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- →
+- dominant δ-harmonic mode
+- δ-harmonic
+- grid-based
+- δ-modes
+- δ₉
+- δ₃
+- δ₆
+aliases:
+- Bk044gm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.0625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

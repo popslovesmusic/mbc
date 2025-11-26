@@ -1,13 +1,31 @@
+id: GEN16-4135
+location: genesis-16/untitled-document::4-δ-curvature-as-the-modality::44-promotion::b1
+source: genesis-16\Untitled_document.md
+lines: 5081-5098
+heading: '**⭐ 4.4 Promotion**'
+parent_heading: '**⭐ 4\. δ-curvature AS THE \!-MODALITY**'
 block_type: paragraph
+excerpt: 'A⊢\!AA \\vdash \!AA⊢\!A In Box Calculus: When expansion energy is available:'
 concepts:
-- Box
-- In Box Calculus
+- Box Calculus
 - Σ
 - δ
-excerpt: 'A⊢\!AA \\vdash \!AA⊢\!A In Box Calculus: When expansion energy is available:'
-heading: '**⭐ 4.4 Promotion**'
-id: GEN16-4135
-lines: 5081-5098
-location: genesis-16/untitled-document::4-δ-curvature-as-the-modality::44-promotion::b1
-parent_heading: '**⭐ 4\. δ-curvature AS THE \!-MODALITY**'
-source: genesis-16\Untitled_document.md
+- δ-curvature
+- Box
+- Δ
+- In Box Calculus
+aliases:
+- Bk342vb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

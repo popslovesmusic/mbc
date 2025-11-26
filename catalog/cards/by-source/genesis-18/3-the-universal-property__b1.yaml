@@ -1,18 +1,39 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Causality Axiom
-- Monistic Consistency Axiom
-- least
-- Π
-- Φ
-- δ
-- ρ
-excerpt: 'Standard: For any functor F:BoxΦ→PosetF:\\mathbf{Box}\_\\Phi\\to\\mathbf{Poset}F:BoxΦ​→Poset'
-heading: '**3\. The Universal Property**'
 id: GEN18-5266
-lines: 1801-1827
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iii-π-as-a-left-kan-extension-causal-evaluation::3-the-universal-property::b1
-parent_heading: '**PART III — Π as a Left Kan Extension (Causal Evaluation)**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1801-1827
+heading: '**3\. The Universal Property**'
+parent_heading: '**PART III — Π as a Left Kan Extension (Causal Evaluation)**'
+block_type: paragraph
+excerpt: 'Standard: For any functor F:BoxΦ→PosetF:\\mathbf{Box}\_\\Phi\\to\\mathbf{Poset}F:BoxΦ​→Poset'
+concepts:
+- δ
+- Φ
+- Axiom
+- Π
+- →
+- IGSOA
+- MBC
+- Box
+- ρ
+- Monistic Consistency Axiom
+- δ-preorders
+- δ-modes
+- Causality Axiom
+- CSOI Axiom
+- least
+aliases:
+- Bk708sf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.545454545454545
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,37 @@
+id: GEN20-7026
+location: genesis-20/mbc-40-documentaitio-1::conclusion::141-what-does-it-mean-to-implement-mbc::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4601-4623
+heading: 14.1 What Does It Mean to “Implement” MBC?
+parent_heading: ⭐ Conclusion
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Causal Order
-- Π
-- Φ
-- δ
 excerpt: 'Implementing MBC means creating a system with: * Box objects (structured
   local units) * Connectors (directional semantic links)'
-heading: 14.1 What Does It Mean to “Implement” MBC?
-id: GEN20-7026
-lines: 4601-4623
-location: genesis-20/mbc-40-documentaitio-1::conclusion::141-what-does-it-mean-to-implement-mbc::b1
-parent_heading: ⭐ Conclusion
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Polarity
+- MBC
+- Axiom
+- architecture-flexible
+- Box
+- language-neutral
+- →
+- Π
+- δ
+- Φ
+- Causal Order
+aliases:
+- Am474im
+tags:
+- axiom
+- to-maintain-monistic-consistency
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.095238095238097
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

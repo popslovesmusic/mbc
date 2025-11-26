@@ -1,12 +1,28 @@
-block_type: table
-concepts:
-- Box
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: '**7\. Highest-Level Interpretation**'
 id: GEN18-5333
-lines: 2525-2533
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::7-highest-level-interpretation::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2525-2533
+heading: '**7\. Highest-Level Interpretation**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- MBC
+- →
+- higher-categorical
+- Box
+- Π
+- δ
+- Φ
+aliases:
+- Bk325si
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

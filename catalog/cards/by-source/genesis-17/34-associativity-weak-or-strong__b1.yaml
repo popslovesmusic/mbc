@@ -1,11 +1,27 @@
+id: GEN17-4217
+location: genesis-17/box-calculus::3-algebraic-properties-of-the-mixing-law::34-associativity-weak-or-strong::b1
+source: genesis-17\box_calculus.md
+lines: 1071-1096
+heading: 3.4 Associativity (Weak or Strong)
+parent_heading: 3\. Algebraic Properties of the Mixing Law
 block_type: paragraph
+excerpt: 'We permit weak associativity: A(A(Σ1,Σ2),Σ3)∼A(Σ1,A(Σ2,Σ3)) A(A(Σ'
 concepts:
 - Σ
+- IGSOA
+- δ-corrections
 - δ
-excerpt: 'We permit weak associativity: A(A(Σ1,Σ2),Σ3)∼A(Σ1,A(Σ2,Σ3)) A(A(Σ'
-heading: 3.4 Associativity (Weak or Strong)
-id: GEN17-4217
-lines: 1071-1096
-location: genesis-17/box-calculus::3-algebraic-properties-of-the-mixing-law::34-associativity-weak-or-strong::b1
-parent_heading: 3\. Algebraic Properties of the Mixing Law
-source: genesis-17\box_calculus.md
+aliases:
+- Bk265pw
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

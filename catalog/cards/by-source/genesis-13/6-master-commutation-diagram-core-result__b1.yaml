@@ -1,14 +1,39 @@
+id: GEN13-2234
+location: genesis-13/meta-math-nuclear-physics::6-master-commutation-diagram-core-result::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2667-2673
+heading: '**6\. Master Commutation Diagram (Core Result)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- ρ
 excerpt: δ-defects→Φanyonic MTC→Πphysical anyons / TQC↓↓↓π1(M ⁣∖ ⁣Dδ)→ρΦEnd(HΦ)→ΠUtopological
   gate\\begin{CD} \\delta\\text{-defects} @\>\\Phi\>\> \\text{anyonic MTC} @\>\\Pi\>\>
   \\text{physical anyons / TQC}\...
-heading: '**6\. Master Commutation Diagram (Core Result)**'
-id: GEN13-2234
-lines: 2667-2673
-location: genesis-13/meta-math-nuclear-physics::6-master-commutation-diagram-core-result::b1
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- δ-geometry
+- Π
+- δ
+- →
+- δ-defects
+- π
+- Φ-representation
+- ρ
+- Π-projection
+- ΠUtopological
+- Πphysical
+- Φanyonic
+- ΦEnd
+aliases:
+- Bk269dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.091954022988507
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

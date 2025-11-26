@@ -1,11 +1,28 @@
+id: GEN12-1676
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::62-specific-cmb-predictions::621-fixed-peak-spacing-ratio::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2281-2287
+heading: '**6.2.1 Fixed Peak Spacing Ratio**'
+parent_heading: '**6.2 Specific CMB Predictions**'
 block_type: paragraph
-concepts: []
 excerpt: 'The ratio of CMB acoustic peak spacings must match the ratio of GW echo
   band spacings: ΔℓkΔℓk+1=ΔfkΔfk+1.\\frac{\\Delta \\ell\_k}{\\Delta \\ell\_{k+1}}
   \= \\frac{\\Delta f\_k}{\\Delta f\_{k+1}}.Δℓk+1​...'
-heading: '**6.2.1 Fixed Peak Spacing Ratio**'
-id: GEN12-1676
-lines: 2281-2287
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::62-specific-cmb-predictions::621-fixed-peak-spacing-ratio::b1
-parent_heading: '**6.2 Specific CMB Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Δ
+- IGSOA
+aliases:
+- Bk507tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

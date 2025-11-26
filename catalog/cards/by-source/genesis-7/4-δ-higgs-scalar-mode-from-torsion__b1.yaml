@@ -1,14 +1,32 @@
+id: GEN7-8596
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::4-δ-higgs-scalar-mode-from-torsion::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 690-703
+heading: '**4\. δ-Higgs Scalar Mode From Torsion**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
-- μ
-- ρ
 excerpt: 'As derived earlier: Vμ=δρρμ,Φ=VμVμ.(6)V\_\\mu \= \\delta^\\rho{}\_{\\rho\\mu},
   \\qquad \\Phi \= \\sqrt{V\_\\mu V^\\mu}. \\tag{6}Vμ​=δρρμ​,Φ=Vμ​Vμ​.(6) This **is
   the Higgs field** in IGSOA.'
-heading: '**4\. δ-Higgs Scalar Mode From Torsion**'
-id: GEN7-8596
-lines: 690-703
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::4-δ-higgs-scalar-mode-from-torsion::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- μ
+- Φ
+- IGSOA
+- ψ
+- δ
+- ρ
+- spin-scalar
+- δ-torsion
+- δ-Dirac
+- is the Higgs field
+aliases:
+- Bk888de
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.157894736842104
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,17 +1,35 @@
+id: INTK-10707
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::cyclical-semantic-field-dynamics::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1810-1811
+heading: Cyclical Semantic Field Dynamics
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Causal History
-- Cyclical Semantic Field Dynamics
-- Echo Operator
-- Field
-- Operator
-- Read More
 excerpt: Cyclical Semantic Field Dynamics is a term that describes the non-linear,
   history-dependent, and perpetually evolving nature of the IGSOA framework. It is
   the result of the continuous feedback loop be...
-heading: Cyclical Semantic Field Dynamics
-id: INTK-10707
-lines: 1810-1811
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::cyclical-semantic-field-dynamics::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- Field
+- Cyclical Semantic Field Dynamics
+- Operator
+- history-dependent
+- non-linear
+- Causal History
+- Echo Operator
+- Read More
+aliases:
+- Bk681cs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 18.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

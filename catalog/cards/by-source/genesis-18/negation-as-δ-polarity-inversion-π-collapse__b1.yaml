@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Negation as δ-Polarity Inversion \+ Π-Collapse)***'
 id: GEN18-5488
-lines: 1476-1478
 location: genesis-18/mbc-4::3-mbc-40-not-operator::negation-as-δ-polarity-inversion-π-collapse::b1
-parent_heading: '**3\. MBC-4.0 NOT Operator**'
 source: genesis-18\MBC-4.md
+lines: 1476-1478
+heading: '***(Negation as δ-Polarity Inversion \+ Π-Collapse)***'
+parent_heading: '**3\. MBC-4.0 NOT Operator**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: 'Metadata includes: * context state * history of inputs (for drift & adaptation)'
-heading: ​
 id: GEN20-7163
-lines: 6545-6582
 location: genesis-20/mbc-40-documentaitio-1::::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6545-6582
+heading: ​
+block_type: paragraph
+excerpt: 'Metadata includes: * context state * history of inputs (for drift & adaptation)'
+concepts:
+- Π
+- χ
+- context-aware
+- long-term
+aliases:
+- Bk010mi
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.153846153846154
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

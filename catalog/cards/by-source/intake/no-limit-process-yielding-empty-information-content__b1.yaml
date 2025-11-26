@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: These are now *illegal moves* in the system. ---
-heading: '**❌ No limit process yielding empty information content**'
 id: INTK-9751
-lines: 165-169
 location: intake/meta-genesis-core-papers-foundations::what-the-not-axiom-forbids::no-limit-process-yielding-empty-information-content::b1
-parent_heading: '**What the NOT Axiom Forbids**'
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 165-169
+heading: '**❌ No limit process yielding empty information content**'
+parent_heading: '**What the NOT Axiom Forbids**'
+block_type: paragraph
+excerpt: These are now *illegal moves* in the system. ---
+aliases:
+- Bk748ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

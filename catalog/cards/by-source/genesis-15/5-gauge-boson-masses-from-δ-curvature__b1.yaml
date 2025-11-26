@@ -1,14 +1,35 @@
-block_type: paragraph
-concepts:
-- Standard Model
-- Π
-- Φ
-- δ
-- λ
-excerpt: 'Standard Model: mW=gv2,mZ=g2+g′2 v2m\_W \= \\frac{gv}{2}, \\quad m\_Z \=
-  \\frac{\\sqrt{g^2 \+ g''^2} \\, v}{2}mW​=2gv​,mZ​=2g2+g′2​v​ IGSOA:'
-heading: '**⟡ 5\. Gauge Boson Masses from δ-Curvature**'
 id: GEN15-3120
-lines: 600-618
 location: genesis-15/the-mass-curvature-projection-theorem::5-gauge-boson-masses-from-δ-curvature::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 600-618
+heading: '**⟡ 5\. Gauge Boson Masses from δ-Curvature**'
+block_type: paragraph
+excerpt: 'Standard Model: mW=gv2,mZ=g2+g′2 v2m\_W \= \\frac{gv}{2}, \\quad m\_Z \=
+  \\frac{\\sqrt{g^2 \+ g''^2} \\, v}{2}mW​=2gv​,mZ​=2g2+g′2​v​ IGSOA:'
+concepts:
+- λ
+- Φ
+- IGSOA
+- Π
+- δ
+- δ-curvature
+- δ-symmetry
+- Φ-modes
+- Standard Model
+- ΦW
+- ΦZ
+aliases:
+- Bk420sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.482758620689655
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

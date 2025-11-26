@@ -1,14 +1,35 @@
+id: GEN10-755
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-δ-curvature-derivation::32-step-2-adjacency-defects-produce-curvature::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 80-87
+heading: '**3.2 Step 2: Adjacency defects produce curvature**'
+parent_heading: '**3\. The δ-Curvature Derivation**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Ψ
-- δ
 excerpt: 'IGSOA identifies curvature not as a geometric add-on but as **the second
   iterate of deviation**: K:=δA=δ(δΨ).\\mathcal{K} := δ \\mathcal{A} \= δ (δΨ).K:=δA=δ(δΨ).
   Since δΨ ≠ 0, then δ²Ψ cannot vanish ...'
-heading: '**3.2 Step 2: Adjacency defects produce curvature**'
-id: GEN10-755
-lines: 80-87
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-δ-curvature-derivation::32-step-2-adjacency-defects-produce-curvature::b1
-parent_heading: '**3\. The δ-Curvature Derivation**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- δ
+- Meta-Genesis
+- Ψ
+- IGSOA
+- the second iterate of deviation
+- non-flat
+- ≠
+- add-on
+- δA
+- δ²
+aliases:
+- Bk249ii
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.607843137254903
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

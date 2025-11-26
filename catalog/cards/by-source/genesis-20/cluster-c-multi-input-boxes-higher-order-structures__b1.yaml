@@ -1,10 +1,30 @@
+id: GEN20-7016
+location: genesis-20/mbc-40-documentaitio-1::conclusion::133-the-core-clusters-of-advanced-topics::cluster-c-multi-input-boxes-higher-order-structures::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4461-4476
+heading: Cluster C — Multi-Input Boxes & Higher-Order Structures
+parent_heading: 13.3 The Core Clusters of Advanced Topics
 block_type: paragraph
-concepts: []
 excerpt: 'The basic calculus covers one-to-one or one-to-many box interactions. Advanced
   topics explore: * multi-causal reasoning'
-heading: Cluster C — Multi-Input Boxes & Higher-Order Structures
-id: GEN20-7016
-lines: 4461-4476
-location: genesis-20/mbc-40-documentaitio-1::conclusion::133-the-core-clusters-of-advanced-topics::cluster-c-multi-input-boxes-higher-order-structures::b1
-parent_heading: 13.3 The Core Clusters of Advanced Topics
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- multi-context
+- higher-order
+- multi-causal
+- one-to-many
+- one-to-one
+aliases:
+- Bk038tb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.363636363636363
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

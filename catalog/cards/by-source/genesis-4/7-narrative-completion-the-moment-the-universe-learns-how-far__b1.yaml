@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- distance
-- δ
-excerpt: 'Once the relational fabric bends, the cosmos faces an entirely new question:
-  Not *what came next*,'
-heading: '**7\. Narrative Completion — The moment the universe learns how far**'
 id: GEN4-7913
-lines: 1824-1869
 location: genesis-4/the-first-adjacency::7-narrative-completion-the-moment-the-universe-learns-how-far::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 1824-1869
+heading: '**7\. Narrative Completion — The moment the universe learns how far**'
+block_type: paragraph
+excerpt: 'Once the relational fabric bends, the cosmos faces an entirely new question:
+  Not *what came next*,'
+concepts:
+- δ
+- δ-variation
+- δ-steps
+aliases:
+- Bk214ot
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.2058823529411766
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

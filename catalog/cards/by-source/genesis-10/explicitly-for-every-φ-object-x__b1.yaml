@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Second Law
-- η
-excerpt: 'ηX:X→D(X)η\_X : X \\to D(X)ηX​:X→D(X) such that: * η is natural:'
-heading: '**Explicitly, for every Φ-object X:**'
 id: GEN10-831
-lines: 1360-1374
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-the-fundamental-natural-transformation::explicitly-for-every-φ-object-x::b1
-parent_heading: '**4\. The Fundamental Natural Transformation**'
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1360-1374
+heading: '**Explicitly, for every Φ-object X:**'
+parent_heading: '**4\. The Fundamental Natural Transformation**'
+block_type: paragraph
+excerpt: 'ηX:X→D(X)η\_X : X \\to D(X)ηX​:X→D(X) such that: * η is natural:'
+concepts:
+- η
+- →
+- monoidal-order
+- is the Second Law
+- Second Law
+aliases:
+- Bk112st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.462686567164178
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

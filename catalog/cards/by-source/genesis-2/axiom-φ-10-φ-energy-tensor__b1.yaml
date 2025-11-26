@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: TΦ:A⊗A→R.T\_\\Phi:A\\otimes A\\to\\mathbb{R}.TΦ​:A⊗A→R. ---
-heading: '**Axiom (Φ-10) — Φ-Energy Tensor**'
 id: GEN2-6428
-lines: 1520-1524
 location: genesis-2/axioms-of-geometry-topos-compatible::section-ii-φ-layer-action-flow-meta-math::axiom-φ-10-φ-energy-tensor::b1
-parent_heading: '**Section II — Φ-Layer (Action-Flow / Meta-Math)**'
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1520-1524
+heading: '**Axiom (Φ-10) — Φ-Energy Tensor**'
+parent_heading: '**Section II — Φ-Layer (Action-Flow / Meta-Math)**'
+block_type: paragraph
+excerpt: TΦ:A⊗A→R.T\_\\Phi:A\\otimes A\\to\\mathbb{R}.TΦ​:A⊗A→R. ---
+concepts:
+- ⊗
+- Φ
+- →
+aliases:
+- Bk406po
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

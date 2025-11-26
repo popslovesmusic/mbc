@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
 id: GEN17-4856
-lines: 10400-10402
 location: genesis-17/box-calculus::derivation-continuous-mgde-discrete-mbc-step-rule::b1
 source: genesis-17\box_calculus.md
+lines: 10400-10402
+heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

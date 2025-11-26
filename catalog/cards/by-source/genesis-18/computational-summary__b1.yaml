@@ -1,11 +1,25 @@
+id: GEN18-5766
+location: genesis-18/sealed-axiom-box::synthesis-statement::computational-summary::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1620-1624
+heading: '**Computational Summary**'
+parent_heading: '**SYNTHESIS STATEMENT**'
 block_type: paragraph
-concepts: []
 excerpt: The entire agent system is a single coherent graph; all workflows preserve
   causality, semantics, and identity.\\boxed{ \\text{The entire agent system is a
   single coherent graph; all workflows preserve...
-heading: '**Computational Summary**'
-id: GEN18-5766
-lines: 1620-1624
-location: genesis-18/sealed-axiom-box::synthesis-statement::computational-summary::b1
-parent_heading: '**SYNTHESIS STATEMENT**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+aliases:
+- Bk606te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

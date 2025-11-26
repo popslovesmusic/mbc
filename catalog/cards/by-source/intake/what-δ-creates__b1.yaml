@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Once δ exists:'
-heading: '**What δ Creates**'
 id: INTK-9817
-lines: 818-820
 location: intake/meta-genesis-core-papers-foundations::what-δ-creates::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 818-820
+heading: '**What δ Creates**'
+block_type: paragraph
+excerpt: 'Once δ exists:'
+concepts:
+- δ
+aliases:
+- Bk772oe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

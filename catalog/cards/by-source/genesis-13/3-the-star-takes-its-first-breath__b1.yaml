@@ -1,14 +1,32 @@
+id: GEN13-2265
+location: genesis-13/the-weight-of-light::the-weight-of-light::3-the-star-takes-its-first-breath::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 36-49
+heading: '**3\. The Star Takes its First Breath**'
+parent_heading: '***The Weight of Light***'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Hydrogen fuses into helium not because it wants to, but because δ will not
   permit stillness. As the cloud compresses, δ-curvature deepens; Φ translates that
   curvature into acceleration; Π crystallizes...
-heading: '**3\. The Star Takes its First Breath**'
-id: GEN13-2265
-lines: 36-49
-location: genesis-13/the-weight-of-light::the-weight-of-light::3-the-star-takes-its-first-breath::b1
-parent_heading: '***The Weight of Light***'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- Π
+- Φ
+- self-sustaining
+- δ-curvature
+- δ-Φ-Π
+aliases:
+- Bk968hf
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.217391304347826
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

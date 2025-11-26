@@ -1,12 +1,31 @@
+id: INTK-9834
+location: intake/meta-genesis-core-papers-foundations::3-formal-proof::step-4-if-ψ₀-cannot-persist-something-must-follow::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1007-1019
+heading: '**Step 4 — If Ψ₀ cannot persist, something must follow**'
+parent_heading: '**3\. Formal Proof**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'Because Ψ₀ is atemporal, there is no “before” or “after,” but ontologically:
   ¬(Ψ0 is persistable)⇒∃ successor state.\\neg(\\Psi\_0 \\text{ is persistable}) \\Rightarrow
   \\exists \\text{ successor stat...'
-heading: '**Step 4 — If Ψ₀ cannot persist, something must follow**'
-id: INTK-9834
-lines: 1007-1019
-location: intake/meta-genesis-core-papers-foundations::3-formal-proof::step-4-if-ψ₀-cannot-persist-something-must-follow::b1
-parent_heading: '**3\. Formal Proof**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- ∃
+- ¬
+- ≠
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk459ba
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

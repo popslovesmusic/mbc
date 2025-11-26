@@ -1,16 +1,32 @@
+id: GEN3-7583
+location: genesis-3/the-tri-unity-theorem::iii-δφ-unity-axioms::axiom-u5-δφ-curvature-preservation::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1350-1356
+heading: '**Axiom U5 — δ–Φ Curvature Preservation**'
+parent_heading: '**III. δ–Φ Unity Axioms**'
 block_type: paragraph
-concepts:
-- Field
-- Field Equation
-- Meta-Einstein
-- Φ
-- δ
 excerpt: Φ(Rδ)=RΦ(δ).\\Phi(R\_\\delta) \= R\_{\\Phi(\\delta)}.Φ(Rδ​)=RΦ(δ)​. This
   allows the **Meta-Einstein equation** and **δ–Φ Field Equation** to be defined.
   ---
-heading: '**Axiom U5 — δ–Φ Curvature Preservation**'
-id: GEN3-7583
-lines: 1350-1356
-location: genesis-3/the-tri-unity-theorem::iii-δφ-unity-axioms::axiom-u5-δφ-curvature-preservation::b1
-parent_heading: '**III. δ–Φ Unity Axioms**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Meta-Einstein
+- δ
+- Φ
+- Meta-Einstein equation
+- Field
+- Field Equation
+aliases:
+- Bk238pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

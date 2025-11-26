@@ -1,15 +1,33 @@
+id: GEN11-1316
+location: genesis-11/the-adjacency-wave-equation::1-foundation-deviational-geometry-and-the-δ-adjacency-wave::11-the-δ-adjacency-wave-equation-sealed::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 998-1009
+heading: '**1.1 The δ-Adjacency Wave Equation (sealed)**'
+parent_heading: '**1\. Foundation: Deviational Geometry and the δ-Adjacency Wave**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
-- δ-harmonics
-- τ
 excerpt: Wδ(Ψ)=(∂τ2−Δa+δ†δ)Ψ=0.\\boxed{ \\mathcal{W}\_\\delta(\\Psi) \= (\\partial\_\\tau^2
   \- \\Delta\_a \+ \\delta^\\dagger\\delta)\\Psi \= 0\. }Wδ​(Ψ)=(∂τ2​−Δa​+δ†δ)Ψ=0.​
   This is the first dynamical operato...
-heading: '**1.1 The δ-Adjacency Wave Equation (sealed)**'
-id: GEN11-1316
-lines: 998-1009
-location: genesis-11/the-adjacency-wave-equation::1-foundation-deviational-geometry-and-the-δ-adjacency-wave::11-the-δ-adjacency-wave-equation-sealed::b1
-parent_heading: '**1\. Foundation: Deviational Geometry and the δ-Adjacency Wave**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ
+- IGSOA
+- Ψ
+- ∂
+- τ
+- Δ
+- δ-harmonics
+aliases:
+- Bk663bm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.475409836065573
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

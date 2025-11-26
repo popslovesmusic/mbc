@@ -1,15 +1,33 @@
+id: GEN15-3091
+location: genesis-15/the-mass-curvature-projection-theorem::proof-operator-theoretic::3-π-interprets-projected-curvature-as-inertial-mass::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 81-98
+heading: '**3\. Π interprets projected curvature as inertial mass**'
+parent_heading: '**Proof (operator-theoretic)**'
 block_type: paragraph
-concepts:
-- Box
-- Π
-- Φ
-- δ
-- λ
 excerpt: 'Π is the functor that converts internal spectra into metric quantities (observable
   physics). For each mode: Mn=Π(λn)M\_n \= \\Pi(\\lambda\_n)Mn​=Π(λn​)'
-heading: '**3\. Π interprets projected curvature as inertial mass**'
-id: GEN15-3091
-lines: 81-98
-location: genesis-15/the-mass-curvature-projection-theorem::proof-operator-theoretic::3-π-interprets-projected-curvature-as-inertial-mass::b1
-parent_heading: '**Proof (operator-theoretic)**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Π
+- Φ
+- IGSOA
+- ψ
+- δ
+- Box
+- Φn
+- λ
+- mass-squared
+aliases:
+- Bk351tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.89010989010989
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

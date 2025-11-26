@@ -1,10 +1,32 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'You are exactly right: 1. **Deviation begins** (Genesis-time starts) 2.
-  **Smoothing forces rapid expansion**'
-heading: '**🔥 4\. Expansion → Heating → Physical Emergence**'
 id: SPEC-11008
-lines: 627-646
 location: special/specil::4-expansion-heating-physical-emergence::b1
 source: special\specil.md
+lines: 627-646
+heading: '**🔥 4\. Expansion → Heating → Physical Emergence**'
+block_type: paragraph
+excerpt: 'You are exactly right: 1. **Deviation begins** (Genesis-time starts) 2.
+  **Smoothing forces rapid expansion**'
+concepts:
+- Deviation
+- IGSOA
+- →
+- Smoothing forces rapid expansion
+- δ
+- Genesis-time
+- condenses into energy
+- Deviation begins
+aliases:
+- Bk766ya
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.09433962264151
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

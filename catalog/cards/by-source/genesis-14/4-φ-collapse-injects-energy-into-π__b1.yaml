@@ -1,15 +1,38 @@
+id: GEN14-2705
+location: genesis-14/inflation-structure-formation::proof::4-φ-collapse-injects-energy-into-π::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 847-864
+heading: '**4\. Φ Collapse Injects Energy Into Π**'
+parent_heading: '**Proof**'
 block_type: paragraph
+excerpt: 'Φ collapse is a discontinuous event in Π-projected geometry. Let δ\_pre
+  be the pre-collapse deviation spectrum and δ\_post the manifold value. Define the
+  Φ-collapse excess:'
 concepts:
 - Π
 - Φ
 - δ
+- Δ
+- Φ-collapse
 - ρ
-excerpt: 'Φ collapse is a discontinuous event in Π-projected geometry. Let δ\_pre
-  be the pre-collapse deviation spectrum and δ\_post the manifold value. Define the
-  Φ-collapse excess:'
-heading: '**4\. Φ Collapse Injects Energy Into Π**'
-id: GEN14-2705
-lines: 847-864
-location: genesis-14/inflation-structure-formation::proof::4-φ-collapse-injects-energy-into-π::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+- pre-collapse
+- Π-projected
+- Π-energy
+- Π receives real energy
+- δpost
+- δpre
+aliases:
+- Bk080cd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.244897959183673
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

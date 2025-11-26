@@ -1,14 +1,35 @@
+id: GEN5-7933
+location: genesis-5/formal-proof-of-the-adjoint-triple::0-preliminaries-and-axiom-assumptions::axiom-a-existence-of-categories::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 12-20
+heading: '**Axiom A (Existence of Categories).**'
+parent_heading: '**0\. Preliminaries and Axiom Assumptions**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
-- σ
 excerpt: 'MG, σTop, and MM are well-defined categories. * **Objects of MG**: Potential
   configurations Ψ\\PsiΨ closed under δ-generation. * **Objects of MM**: Algebraic
   structures (X,Op)(X, Op)(X,Op) with operat...'
-heading: '**Axiom A (Existence of Categories).**'
-id: GEN5-7933
-lines: 12-20
-location: genesis-5/formal-proof-of-the-adjoint-triple::0-preliminaries-and-axiom-assumptions::axiom-a-existence-of-categories::b1
-parent_heading: '**0\. Preliminaries and Axiom Assumptions**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- σ
+- Ψ
+- →
+- Scale-indexed
+- δ-generation
+- well-defined
+- δ
+- Objects of MG
+- Objects of MM
+aliases:
+- Bk333aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.307692307692307
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

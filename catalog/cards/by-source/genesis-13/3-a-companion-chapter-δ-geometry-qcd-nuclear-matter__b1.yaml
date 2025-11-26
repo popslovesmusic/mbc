@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which direction shall we go?
-heading: '**(3) A companion chapter: “δ-Geometry → QCD → Nuclear Matter”?**'
 id: GEN13-2083
-lines: 1031-1033
 location: genesis-13/meta-math-nuclear-physics::next-step::3-a-companion-chapter-δ-geometry-qcd-nuclear-matter::b1
-parent_heading: '**NEXT STEP**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1031-1033
+heading: '**(3) A companion chapter: “δ-Geometry → QCD → Nuclear Matter”?**'
+parent_heading: '**NEXT STEP**'
+block_type: paragraph
+excerpt: Which direction shall we go?
+aliases:
+- Bk611wd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

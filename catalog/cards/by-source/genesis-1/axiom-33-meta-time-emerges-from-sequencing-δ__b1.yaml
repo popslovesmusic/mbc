@@ -1,11 +1,30 @@
+id: GEN1-535
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::3-adjacency-locality-and-proto-spacetime::axiom-33-meta-time-emerges-from-sequencing-δ::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 420-433
+heading: '**Axiom 3.3 — Meta-Time Emerges from Sequencing δ.**'
+parent_heading: '**3\. Adjacency, Locality, and Proto-Spacetime**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Time is the ordering of deviation applications: t∼δ,t+1∼δ2,…t \\sim \\delta,
   \\quad t+1 \\sim \\delta^2,\\quad \\dotst∼δ,t+1∼δ2,… Time is **not a coordinate**;'
-heading: '**Axiom 3.3 — Meta-Time Emerges from Sequencing δ.**'
-id: GEN1-535
-lines: 420-433
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::3-adjacency-locality-and-proto-spacetime::axiom-33-meta-time-emerges-from-sequencing-δ::b1
-parent_heading: '**3\. Adjacency, Locality, and Proto-Spacetime**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Meta-time
+- index of deviation depth
+- →
+- not a coordinate
+- δn
+aliases:
+- Bk220tt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.16949152542373
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,25 @@
+id: GEN8-8865
+location: genesis-8/meta-time-geometry-and-temporal-projection::1-foundational-axiom::axiom-symmetry-breaking-necessity-not-axiom::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1758-1766
+heading: '**Axiom: Symmetry-Breaking Necessity (NOT Axiom)**'
+parent_heading: '**1\. FOUNDATIONAL AXIOM**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Perfect identity cannot persist. Deviation δ ≠ 0 must occur. This breaks
   isotropy in the abstract state.
-heading: '**Axiom: Symmetry-Breaking Necessity (NOT Axiom)**'
-id: GEN8-8865
-lines: 1758-1766
-location: genesis-8/meta-time-geometry-and-temporal-projection::1-foundational-axiom::axiom-symmetry-breaking-necessity-not-axiom::b1
-parent_heading: '**1\. FOUNDATIONAL AXIOM**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- Deviation
+- ≠
+- δ
+aliases:
+- Bk822pi
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

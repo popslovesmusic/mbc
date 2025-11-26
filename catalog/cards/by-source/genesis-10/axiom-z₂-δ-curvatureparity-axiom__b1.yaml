@@ -1,14 +1,38 @@
+id: GEN10-724
+location: genesis-10/how-stillness-becomes-solid::the-δφπ-z₂-operator-algebraic-invariant::axiom-z₂-δ-curvatureparity-axiom::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 662-684
+heading: '**Axiom Z₂-Δ (Curvature–Parity Axiom)**'
+parent_heading: '**The δ→Φ→Π Z₂ Operator-Algebraic Invariant**'
 block_type: paragraph
-concepts:
-- Σ
-- δ
-- ν
 excerpt: 'Let (A,H,Dδ)(\\mathfrak{A}, \\mathcal{H}, D\_\\delta)(A,H,Dδ​) be a δ-spectral
   triple, where: * A\\mathfrak{A}A is the adjacency C\*-algebra, * H\\mathcal{H}H
   the δ-harmonic Hilbert module,'
-heading: '**Axiom Z₂-Δ (Curvature–Parity Axiom)**'
-id: GEN10-724
-lines: 662-684
-location: genesis-10/how-stillness-becomes-solid::the-δφπ-z₂-operator-algebraic-invariant::axiom-z₂-δ-curvatureparity-axiom::b1
-parent_heading: '**The δ→Φ→Π Z₂ Operator-Algebraic Invariant**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- δ
+- δ-parity invariant
+- χ
+- Σ
+- ∈
+- ν
+- δ-connection
+- δ-curvature
+- δ-harmonic
+- δ-spectral
+- δ-parity
+- δD
+aliases:
+- Bk894lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

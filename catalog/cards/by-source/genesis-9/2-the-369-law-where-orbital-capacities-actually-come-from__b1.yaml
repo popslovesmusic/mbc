@@ -1,15 +1,37 @@
-block_type: table
-concepts:
-- Standard Orbital Equivalent
-- Tri-Unity
-- triples
-- Π
-- Φ
-- δ
-excerpt: 'The δ-operator has a built-in combinatorial symmetry: Degeneracy(n)=3n.\\text{Degeneracy}(n)
-  \= 3n.Degeneracy(n)=3n. This emerges from the 3-sector symmetry of the δ–Φ–Π Tri-Unity:'
-heading: '**2\. The 3–6–9 Law: where orbital capacities actually come from**'
 id: GEN9-9344
-lines: 235-261
 location: genesis-9/is-the-source-of-all-structure::2-the-369-law-where-orbital-capacities-actually-come-from::b1
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 235-261
+heading: '**2\. The 3–6–9 Law: where orbital capacities actually come from**'
+block_type: table
+excerpt: 'The δ-operator has a built-in combinatorial symmetry: Degeneracy(n)=3n.\\text{Degeneracy}(n)
+  \= 3n.Degeneracy(n)=3n. This emerges from the 3-sector symmetry of the δ–Φ–Π Tri-Unity:'
+concepts:
+- IGSOA
+- Tri-Unity
+- Π
+- δ
+- Π-stabilized composites
+- →
+- Π-stabilized
+- Standard Orbital Equivalent
+- Π-projects
+- δ-operator
+- built-in
+- δ-modes
+- Φ
+- triples
+aliases:
+- Bk607to
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.280701754385964
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

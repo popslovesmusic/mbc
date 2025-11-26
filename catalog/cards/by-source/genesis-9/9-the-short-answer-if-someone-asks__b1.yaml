@@ -1,21 +1,41 @@
+id: GEN9-9339
+location: genesis-9/is-the-source-of-all-structure::9-the-short-answer-if-someone-asks::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 175-190
+heading: '**9\. The short answer, if someone asks:**'
 block_type: paragraph
-concepts:
-- Atomic Orbitals
-- Atomic Structure Emergence
-- Axiom
-- Axiom Box
-- Box
-- Meta-Math
-- Periodic Table
-- shadow
-- Π
-- Φ
-- δ
 excerpt: '**Atoms get their properties from the δ-harmonic spectrum, the δ-Hessian
   mass tower, and the Φ/Π projections that turn these into forces and stable shapes.**
   Everything atomic is a **shadow** of deepe...'
-heading: '**9\. The short answer, if someone asks:**'
-id: GEN9-9339
-lines: 175-190
-location: genesis-9/is-the-source-of-all-structure::9-the-short-answer-if-someone-asks::b1
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- δ-geometry
+- Meta-Math
+- δ
+- IGSOA
+- →
+- Axiom
+- δ-harmonic
+- operator-theoretic
+- Box
+- Π
+- Φ
+- Atomic Structure Emergence
+- δ-Harmonic
+- δ-Hessian
+- white paper section
+aliases:
+- Bk891ag
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.230769230769234
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

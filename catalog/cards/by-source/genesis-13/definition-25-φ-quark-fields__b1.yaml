@@ -1,11 +1,26 @@
+id: GEN13-2123
+location: genesis-13/meta-math-nuclear-physics::2-φ-operator-algebra-as-qcd::definition-25-φ-quark-fields::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1532-1540
+heading: '**Definition 2.5 — Φ-Quark Fields**'
+parent_heading: '**2\. Φ-Operator Algebra as QCD**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: A quark is a vector in HΦ=⨁nEn,\\mathcal{H}\_\\Phi \= \\bigoplus\_n E\_n,HΦ​=n⨁​En​,
   carrying SU(3) color representation.
-heading: '**Definition 2.5 — Φ-Quark Fields**'
-id: GEN13-2123
-lines: 1532-1540
-location: genesis-13/meta-math-nuclear-physics::2-φ-operator-algebra-as-qcd::definition-25-φ-quark-fields::b1
-parent_heading: '**2\. Φ-Operator Algebra as QCD**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+aliases:
+- Bk939qv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.166666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

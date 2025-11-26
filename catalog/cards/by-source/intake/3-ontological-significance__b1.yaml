@@ -1,13 +1,28 @@
+id: INTK-10333
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::core-concepts::3-ontological-significance::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 901-902
+heading: 3. Ontological Significance
+parent_heading: Core Concepts
 block_type: paragraph
-concepts:
-- Meta-Arithmetic
-- Ψ
 excerpt: Every number or result in Meta-Arithmetic carries an inherent "ontological
   significance" tied to its role in deviation dynamics. A zero in Meta-Arithmetic
   (Ψ₀) is not an absence of quantity but a forb...
-heading: 3. Ontological Significance
-id: INTK-10333
-lines: 901-902
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::core-concepts::3-ontological-significance::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Arithmetic
+- Ψ
+- Ψ₀
+aliases:
+- Bk397en
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

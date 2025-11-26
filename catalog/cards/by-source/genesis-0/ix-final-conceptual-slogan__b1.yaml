@@ -1,11 +1,30 @@
+id: GEN0-155
+location: genesis-0/feynman-rules-interaction-vertices::ix-final-conceptual-slogan::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 2286-2308
+heading: '**IX. Final conceptual slogan**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: '**The δ-Hessian generates a δ-boson mass tower.** **The adjacency spectrum
   splits this tower into 3–6–9 shells.** **Those shells become the observed families
   of matter.**'
-heading: '**IX. Final conceptual slogan**'
-id: GEN0-155
-lines: 2286-2308
-location: genesis-0/feynman-rules-interaction-vertices::ix-final-conceptual-slogan::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ-geometry
+- δ
+- δ-Hessian
+- the δ-Hessian
+- δ-boson
+aliases:
+- Bk335th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.928571428571429
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

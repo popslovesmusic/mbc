@@ -1,19 +1,38 @@
+id: GEN7-8650
+location: genesis-7/why-curvature-gives-gravity::proof::step-4-δ-energy-tensor-must-balance-curvature::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 437-457
+heading: '**Step 4 — δ-Energy Tensor Must Balance Curvature**'
+parent_heading: '**PROOF**'
 block_type: paragraph
-concepts:
-- Axiom
-- Genesis Closure Axiom
-- Law Stability Axiom
-- Π
-- δ
-- λ
-- μ
-- ν
 excerpt: 'Deviation creates spectral energy: Tμνδ:=∑nλn Πn,μνδT^\\delta\_{\\mu\\nu}
   := \\sum\_n \\lambda\_n \\, \\Pi^\\delta\_{n,\\mu\\nu}Tμνδ​:=n∑​λn​Πn,μνδ​ and Law
   Stability Axiom LS-7 ensures that **all ope...'
-heading: '**Step 4 — δ-Energy Tensor Must Balance Curvature**'
-id: GEN7-8650
-lines: 437-457
-location: genesis-7/why-curvature-gives-gravity::proof::step-4-δ-energy-tensor-must-balance-curvature::b1
-parent_heading: '**PROOF**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- μ
+- ν
+- Deviation
+- Axiom
+- Π
+- ∇
+- κ
+- ∑
+- λ
+- all operators factor through δ
+- δ-coherence
+- Genesis Closure Axiom
+- Law Stability Axiom
+- δT
+aliases:
+- Bk363dc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.814814814814813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

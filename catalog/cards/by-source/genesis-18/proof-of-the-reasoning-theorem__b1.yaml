@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Layer
-- Layer
-excerpt: Proof is structured as a **5-step equivalence chain**, each justified by
-  a previously defined Axiom Layer. ---
-heading: '**PROOF OF THE REASONING THEOREM**'
 id: GEN18-5773
-lines: 1687-1691
 location: genesis-18/sealed-axiom-box::proof-of-the-reasoning-theorem::b1
 source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1687-1691
+heading: '**PROOF OF THE REASONING THEOREM**'
+block_type: paragraph
+excerpt: Proof is structured as a **5-step equivalence chain**, each justified by
+  a previously defined Axiom Layer. ---
+concepts:
+- Axiom
+- Proof
+- Layer
+- Axiom Layer
+aliases:
+- Bk695ps
+tags:
+- structured-as-a-5-step-equivalence-chain-each-justified-by-a-previously-defined-axiom-layer
+- proof
+- definitive
+- low-uncertainty
+is_formal: true
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.52941176470588
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Every major structural event that would happen later— * the formation of
-  filaments, * the carving of cosmic voids,
-heading: '**6\. The CMB Knows the Future**'
 id: GEN12-1961
-lines: 3751-3782
 location: genesis-12/untitled-document::6-the-cmb-knows-the-future::b1
 source: genesis-12\Untitled_document.md
+lines: 3751-3782
+heading: '**6\. The CMB Knows the Future**'
+block_type: paragraph
+excerpt: Every major structural event that would happen later— * the formation of
+  filaments, * the carving of cosmic voids,
+concepts:
+- part-in
+- first structural draft
+- δ
+- all scales
+aliases:
+- Bk433em
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

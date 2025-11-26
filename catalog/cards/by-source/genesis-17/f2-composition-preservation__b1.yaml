@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: 'For any morphisms: `f : Bᵢ → Bⱼ` `g : Bⱼ → Bₖ`'
-heading: '**(F2) Composition Preservation**'
 id: GEN17-4993
-lines: 1613-1631
 location: genesis-17/key-points::iv-functorial-laws::f2-composition-preservation::b1
-parent_heading: '**IV. Functorial Laws**'
 source: genesis-17\Key_Points.md
+lines: 1613-1631
+heading: '**(F2) Composition Preservation**'
+parent_heading: '**IV. Functorial Laws**'
+block_type: paragraph
+excerpt: 'For any morphisms: `f : Bᵢ → Bⱼ` `g : Bⱼ → Bₖ`'
+concepts:
+- The causal structure of a composite dependency equals
+- Π
+- →
+aliases:
+- Bk147fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

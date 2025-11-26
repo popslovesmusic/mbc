@@ -1,12 +1,27 @@
+id: GEN17-5054
+location: genesis-17/mbc-schema-3::3-π-as-a-geometric-functor::32-π-preserves-composition-and-identities::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 634-644
+heading: '**3.2 Π preserves composition and identities**'
+parent_heading: '**3\. Π as a Geometric Functor**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'Π(g∘f)=Π(g)∘Π(f)\\Pi(g \\circ f) \= \\Pi(g) \\circ \\Pi(f)Π(g∘f)=Π(g)∘Π(f)
   Π(idX)=idΠ(X)\\Pi(\\mathrm{id}\_X) \= \\mathrm{id}\_{\\Pi(X)}Π(idX​)=idΠ(X)​ Meaning:
   * Π is a genuine functor'
-heading: '**3.2 Π preserves composition and identities**'
-id: GEN17-5054
-lines: 634-644
-location: genesis-17/mbc-schema-3::3-π-as-a-geometric-functor::32-π-preserves-composition-and-identities::b1
-parent_heading: '**3\. Π as a Geometric Functor**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Π
+aliases:
+- Bk105cc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.8518518518518516
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

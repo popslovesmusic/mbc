@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Σ
-excerpt: 'Deviation is not enough on its own; it must act. Its action is the one single
-  universal operator, 𝓕: F:Σ↦Σ′'
-heading: '⭐ 2\. The Operator: 𝓕 (The Deviation Flow)'
 id: GEN17-4672
-lines: 7937-7947
 location: genesis-17/box-calculus::2-the-operator-𝓕-the-deviation-flow::b1
 source: genesis-17\box_calculus.md
+lines: 7937-7947
+heading: '⭐ 2\. The Operator: 𝓕 (The Deviation Flow)'
+block_type: paragraph
+excerpt: 'Deviation is not enough on its own; it must act. Its action is the one single
+  universal operator, 𝓕: F:Σ↦Σ′'
+concepts:
+- Deviation
+- IGSOA
+- Σ
+aliases:
+- Bk545dn
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.660377358490567
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- superpowers
-excerpt: 'Their power comes from: * reading micro-expressions * predicting choices'
-heading: '**⭐ Why mentalists are a special case**'
 id: SPEC-11347
-lines: 7391-7432
 location: special/specil::why-mentalists-are-a-special-case::b1
 source: special\specil.md
+lines: 7391-7432
+heading: '**⭐ Why mentalists are a special case**'
+block_type: paragraph
+excerpt: 'Their power comes from: * reading micro-expressions * predicting choices'
+concepts:
+- micro-expressions
+- no professional oath
+aliases:
+- Bk180tp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.1746031746031744
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

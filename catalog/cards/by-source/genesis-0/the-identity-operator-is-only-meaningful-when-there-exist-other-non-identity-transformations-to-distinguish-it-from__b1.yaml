@@ -1,13 +1,30 @@
+id: GEN0-286
+location: genesis-0/why-the-first-action-is-necessary::3-even-the-identity-operator-cannot-exist-on-ψ₀::the-identity-operator-is-only-meaningful-when-there-exist-other-non-identity-transformations-to-distinguish-it-from::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 498-514
+heading: '**The identity operator is only meaningful when there exist *other non-identity*
+  transformations to distinguish it from.**'
+parent_heading: '**3\. Even the Identity Operator Cannot Exist on Ψ₀**'
 block_type: paragraph
+excerpt: 'If every transformation sends Ψ₀ to Ψ₀, then: I=O=any map.I \= \\mathcal{O}
+  \= \\text{any map}.I=O=any map. Identity has no meaning without contrast.'
 concepts:
 - Meta-Genesis
 - Ψ
-excerpt: 'If every transformation sends Ψ₀ to Ψ₀, then: I=O=any map.I \= \\mathcal{O}
-  \= \\text{any map}.I=O=any map. Identity has no meaning without contrast.'
-heading: '**The identity operator is only meaningful when there exist *other non-identity*
-  transformations to distinguish it from.**'
-id: GEN0-286
-lines: 498-514
-location: genesis-0/why-the-first-action-is-necessary::3-even-the-identity-operator-cannot-exist-on-ψ₀::the-identity-operator-is-only-meaningful-when-there-exist-other-non-identity-transformations-to-distinguish-it-from::b1
-parent_heading: '**3\. Even the Identity Operator Cannot Exist on Ψ₀**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+- Axiom
+- operator-free
+- Ψ₀
+aliases:
+- Bk089et
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.803921568627452
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

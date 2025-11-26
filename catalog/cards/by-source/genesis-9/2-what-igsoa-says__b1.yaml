@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'IGSOA produces orbitals from a *completely different origin*:'
-heading: '**2\. What IGSOA Says**'
 id: GEN9-9050
-lines: 361-363
 location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-what-igsoa-says::b1
 source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 361-363
+heading: '**2\. What IGSOA Says**'
+block_type: paragraph
+excerpt: 'IGSOA produces orbitals from a *completely different origin*:'
+concepts:
+- IGSOA
+aliases:
+- Bk472ip
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

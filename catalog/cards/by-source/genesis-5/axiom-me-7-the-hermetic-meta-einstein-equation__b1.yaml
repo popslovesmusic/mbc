@@ -1,15 +1,35 @@
+id: GEN5-8117
+location: genesis-5/meta-einstein-axiom-box-language-sealed::meta-einstein-hermetic-axiom-box::axiom-me-7-the-hermetic-meta-einstein-equation::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 442-464
+heading: '**Axiom ME-7 — The Hermetic Meta-Einstein Equation**'
+parent_heading: '**▣ META-EINSTEIN HERMETIC AXIOM BOX**'
 block_type: paragraph
-concepts:
-- Einstein Tensor
-- Meta-Einstein
-- only
-- Φ
-- δ
 excerpt: 'The **Meta-Einstein Tensor** is defined hermetically by: GE  =  RicE−12gE ScalE.G^{\\mathcal{E}}
   \\;=\\; \\mathrm{Ric}^{\\mathcal{E}} \-\\tfrac12 g^{\\mathcal{E}}\\,\\mathrm{Scal}^{\\mathcal{E}}.GE=Ri...'
-heading: '**Axiom ME-7 — The Hermetic Meta-Einstein Equation**'
-id: GEN5-8117
-lines: 442-464
-location: genesis-5/meta-einstein-axiom-box-language-sealed::meta-einstein-hermetic-axiom-box::axiom-me-7-the-hermetic-meta-einstein-equation::b1
-parent_heading: '**▣ META-EINSTEIN HERMETIC AXIOM BOX**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Meta-Einstein
+- κ
+- Axiom
+- Meta-Einstein Tensor
+- δ
+- Φ
+- →
+- Einstein Tensor
+- only
+aliases:
+- Bk593tm
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.574468085106384
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

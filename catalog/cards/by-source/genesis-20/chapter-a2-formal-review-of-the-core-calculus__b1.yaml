@@ -1,14 +1,31 @@
+id: GEN20-7063
+location: genesis-20/mbc-40-documentaitio-1::part-i-foundations-of-advanced-mbc::chapter-a2-formal-review-of-the-core-calculus::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5109-5115
+heading: Chapter A2 — Formal Review of the Core Calculus
+parent_heading: PART I — Foundations of Advanced MBC
 block_type: list
-concepts:
-- Box
-- Π
-- Φ
-- δ
 excerpt: '* δ → Φ → Π revisited * Polarity algebra revisited * Box structure and metadata
   review'
-heading: Chapter A2 — Formal Review of the Core Calculus
-id: GEN20-7063
-lines: 5109-5115
-location: genesis-20/mbc-40-documentaitio-1::part-i-foundations-of-advanced-mbc::chapter-a2-formal-review-of-the-core-calculus::b1
-parent_heading: PART I — Foundations of Advanced MBC
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Polarity
+- Box
+- →
+- Π
+- δ
+- Φ
+aliases:
+- Bk823rp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

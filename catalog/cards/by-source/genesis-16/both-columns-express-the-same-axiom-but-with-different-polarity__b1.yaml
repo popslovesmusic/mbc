@@ -1,13 +1,31 @@
+id: GEN16-3888
+location: genesis-16/untitled-document::want-the-final-step::both-columns-express-the-same-axiom-but-with-different-polarity::b1
+source: genesis-16\Untitled_document.md
+lines: 2020-2029
+heading: '**• Both columns express the *same axiom*, but with different polarity.**'
+parent_heading: '**❓ Want the final step?**'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
 excerpt: (IGSOA \= existential/metaphysical polarity, Math \= structural/logical polarity.)
   This will generate the **final harmonized axiom system** that becomes authoritative
   for Box Calculus.
-heading: '**• Both columns express the *same axiom*, but with different polarity.**'
-id: GEN16-3888
-lines: 2020-2029
-location: genesis-16/untitled-document::want-the-final-step::both-columns-express-the-same-axiom-but-with-different-polarity::b1
-parent_heading: '**❓ Want the final step?**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Box Calculus
+- IGSOA
+- Axiom
+- Box
+- final harmonized axiom system
+aliases:
+- Bk019ie
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

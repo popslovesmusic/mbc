@@ -1,11 +1,29 @@
-block_type: table
-concepts:
-- Classifier Output
-- Θ
-excerpt: This is **the canonical mapping.** ---
-heading: '**MASTER TABLE (copy-ready)**'
 id: GEN19-5866
-lines: 565-578
 location: genesis-19/mbc-4-1::9-the-full-semantic-classifier-map-canonical-table::master-table-copy-ready::b1
-parent_heading: '**9\. The Full Semantic Classifier Map (Canonical Table)**'
 source: genesis-19\MBC-4_1.md
+lines: 565-578
+heading: '**MASTER TABLE (copy-ready)**'
+parent_heading: '**9\. The Full Semantic Classifier Map (Canonical Table)**'
+block_type: table
+excerpt: This is **the canonical mapping.** ---
+concepts:
+- Θ
+- Polarity
+- Classifier
+- SOFT-SUPPORT
+- SOFT-CONTRA
+- Classifier Output
+aliases:
+- Bk251pm
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.76595744680851
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

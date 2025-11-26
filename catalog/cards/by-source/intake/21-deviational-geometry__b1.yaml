@@ -1,11 +1,27 @@
+id: INTK-9597
+location: intake/abstract-editorial-review::section-2-igsoa-paradigm-a-functorial-approach::21-deviational-geometry::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 91-97
+heading: '**2.1 — Deviational Geometry**'
+parent_heading: '**📄 SECTION 2 — IGSOA Paradigm: A Functorial Approach**'
 block_type: paragraph
-concepts: []
 excerpt: 'Good—but you can add a clarifying sentence: The objects in `D` are not metric
   structures; they are adjacency relations capturing symmetry-breaking patterns. This
   helps cement the "pre-geometric" idea.'
-heading: '**2.1 — Deviational Geometry**'
-id: INTK-9597
-lines: 91-97
-location: intake/abstract-editorial-review::section-2-igsoa-paradigm-a-functorial-approach::21-deviational-geometry::b1
-parent_heading: '**📄 SECTION 2 — IGSOA Paradigm: A Functorial Approach**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- symmetry-breaking
+- pre-geometric
+aliases:
+- Bk630gb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.451612903225806
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

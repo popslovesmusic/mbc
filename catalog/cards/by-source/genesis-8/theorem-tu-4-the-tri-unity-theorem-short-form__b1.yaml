@@ -1,16 +1,39 @@
+id: GEN8-8715
+location: genesis-8/corollary-einstein-compatibility-via::theorem-tu-4-the-tri-unity-theorem-short-form::b1
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 223-236
+heading: '**◆ Theorem TU-4 (The Tri-Unity Theorem, Short Form) ◆**'
 block_type: paragraph
-concepts:
-- Classical Geometry
-- Field
-- Theorem
-- Tri-Unity
-- Φ
-- δ
 excerpt: '**Theorem (Tri-Unity).** The composition δ→ Φ Φ(δ)→ π π(Φ(δ))\\delta \\xrightarrow{\\
   \\Phi\\ } \\Phi(\\delta) \\xrightarrow{\\ \\pi\\ } \\pi(\\Phi(\\delta))δ Φ ​Φ(δ)
   π ​π(Φ(δ))'
-heading: '**◆ Theorem TU-4 (The Tri-Unity Theorem, Short Form) ◆**'
-id: GEN8-8715
-lines: 223-236
-location: genesis-8/corollary-einstein-compatibility-via::theorem-tu-4-the-tri-unity-theorem-short-form::b1
-source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+concepts:
+- δ
+- Φ
+- Tri-Unity
+- π
+- Deviation
+- IGSOA
+- →
+- Theorem
+- Field
+- Classical Geometry
+- if and only if
+aliases:
+- Th798tt
+tags:
+- theorem
+- definitive
+- tri-unity
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.068493150684931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

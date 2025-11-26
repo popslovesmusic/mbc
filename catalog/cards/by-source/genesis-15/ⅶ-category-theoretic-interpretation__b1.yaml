@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- λ
-excerpt: 'The adjoint triple: δ⊣Φ⊣Π\\delta \\dashv \\Phi \\dashv \\Piδ⊣Φ⊣Π forces
-  a precise meaning:'
-heading: '**Ⅶ. Category-Theoretic Interpretation**'
 id: GEN15-3164
-lines: 1398-1420
 location: genesis-15/the-mass-curvature-projection-theorem::ⅶ-category-theoretic-interpretation::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1398-1420
+heading: '**Ⅶ. Category-Theoretic Interpretation**'
+block_type: paragraph
+excerpt: 'The adjoint triple: δ⊣Φ⊣Π\\delta \\dashv \\Phi \\dashv \\Piδ⊣Φ⊣Π forces
+  a precise meaning:'
+concepts:
+- δ
+- a categorical curvature-morphism reallocation
+- κ
+- Φ
+- Π
+- curvature-morphism
+- λ
+- Φ-spectrum
+- δ-Higgs
+- not a field decay
+- heats up
+aliases:
+- Bk712ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.799999999999999
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

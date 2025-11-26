@@ -1,11 +1,25 @@
+id: GEN15-3395
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-functors-representing-each-physical-stage::23-l-cmb-struct::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 301-305
+heading: '**2.3 L : CMB → Struct**'
+parent_heading: '**2\. Functors Representing Each Physical Stage**'
 block_type: paragraph
-concepts: []
 excerpt: 'Linear evolution (transfer functions, horizon entry): L(A)=S=linear matter
   structure fieldL(A) \= S \= \\text{linear matter structure field}L(A)=S=linear matter
   structure field'
-heading: '**2.3 L : CMB → Struct**'
-id: GEN15-3395
-lines: 301-305
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-functors-representing-each-physical-stage::23-l-cmb-struct::b1
-parent_heading: '**2\. Functors Representing Each Physical Stage**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+aliases:
+- Bk792le
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

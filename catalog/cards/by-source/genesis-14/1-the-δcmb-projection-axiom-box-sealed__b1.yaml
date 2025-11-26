@@ -1,11 +1,28 @@
+id: GEN14-2786
+location: genesis-14/inflation-structure-formation::1-the-δcmb-projection-axiom-box-sealed::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 2198-2202
+heading: '**1\. The δ–CMB Projection Axiom Box (Sealed)**'
 block_type: paragraph
+excerpt: Below is the fully sealed axiom box you can drop into your Axiom Registry.
+  ---
 concepts:
 - Axiom
 - Axiom Registry
-excerpt: Below is the fully sealed axiom box you can drop into your Axiom Registry.
-  ---
-heading: '**1\. The δ–CMB Projection Axiom Box (Sealed)**'
-id: GEN14-2786
-lines: 2198-2202
-location: genesis-14/inflation-structure-formation::1-the-δcmb-projection-axiom-box-sealed::b1
-source: genesis-14\Inflation__Structure_Formation.md
+aliases:
+- Bk304bt
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,37 @@
+id: GEN4-7910
+location: genesis-4/the-first-adjacency::4-δ-modes-and-the-smooth-metric::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1731-1761
+heading: '**4\. δ-Modes and the Smooth Metric**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Ψ
-- δ
 excerpt: 'Deviation is not a uniform operator. Each application of δ carries a signature:
   δ(k):the k-th mode of deviation\\delta^{(k)}:\\quad \\text{the k-th mode of deviation}δ(k):the
   k-th mode of deviation'
-heading: '**4\. δ-Modes and the Smooth Metric**'
-id: GEN4-7910
-lines: 1731-1761
-location: genesis-4/the-first-adjacency::4-δ-modes-and-the-smooth-metric::b1
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- δ
+- Ψ
+- Meta-Time
+- Deviation
+- δ-mode separation
+- δ-mode
+- k-th
+- π
+- →
+- δ-curvature
+- δ-modes
+- Ψy
+- Ψx
+- Ψi
+- Ψj
+aliases:
+- Bk512dn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.25925925925926
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

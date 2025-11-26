@@ -1,13 +1,32 @@
+id: GEN2-6252
+location: genesis-2/axioms-for-the-category-genesis::11-adjacency-as-functorial::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 466-486
+heading: '**11\. Adjacency as Functorial**'
 block_type: paragraph
-concepts:
-- Axiom
-- Functorial Adjacency
-- geometry
 excerpt: '**Axiom M11 — Functorial Adjacency** Math receives adjacency from Genesis
   via functor FFF: F(AGenesis)=Adjacency structures in Math.F(\\mathcal{A}\_\\text{Genesis})
   \= \\text{Adjacency structures in M...'
-heading: '**11\. Adjacency as Functorial**'
-id: GEN2-6252
-lines: 466-486
-location: genesis-2/axioms-for-the-category-genesis::11-adjacency-as-functorial::b1
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Adjacency
+- Axiom
+- Functorial Adjacency
+- geometry
+aliases:
+- Am929af
+tags:
+- axiom
+- -functorial-adjacency
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.4074074074074066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

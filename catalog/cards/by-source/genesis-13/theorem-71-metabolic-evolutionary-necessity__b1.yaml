@@ -1,13 +1,38 @@
+id: GEN13-2637
+location: genesis-13/what-biology-is-in-meta-genesis::7-the-main-result-metabolism-forces-evolution::theorem-71-metabolic-evolutionary-necessity::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2544-2566
+heading: '**Theorem 7.1 (Metabolic ⇒ Evolutionary Necessity).**'
+parent_heading: '**7\. The Main Result: Metabolism Forces Evolution**'
 block_type: paragraph
+excerpt: 'Assume: 1. a population of Π-domains exists: μ0≠0\\mu\_0 \\neq 0μ0​=0'
 concepts:
-- Π
-- Φ
 - δ
 - μ
-excerpt: 'Assume: 1. a population of Π-domains exists: μ0≠0\\mu\_0 \\neq 0μ0​=0'
-heading: '**Theorem 7.1 (Metabolic ⇒ Evolutionary Necessity).**'
-id: GEN13-2637
-lines: 2544-2566
-location: genesis-13/what-biology-is-in-meta-genesis::7-the-main-result-metabolism-forces-evolution::theorem-71-metabolic-evolutionary-necessity::b1
-parent_heading: '**7\. The Main Result: Metabolism Forces Evolution**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+- Proof
+- Π
+- ≠
+- ∃
+- ≥
+- Π-stabilized
+- Π-selection
+- δ-variation
+- Fisher-type
+- δ-gradient
+- δ-spectral
+- Π-domains
+- monotonically increases
+aliases:
+- Bk436ap
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.949640287769784
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

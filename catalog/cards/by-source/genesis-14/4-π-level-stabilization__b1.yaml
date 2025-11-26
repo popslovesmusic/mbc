@@ -1,11 +1,27 @@
+id: GEN14-3026
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iv-derivation-structure::4-π-level-stabilization::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1548-1550
+heading: '**4\. Π-Level Stabilization**'
+parent_heading: '**IV. DERIVATION STRUCTURE**'
 block_type: paragraph
+excerpt: Π counts and stabilizes the Φ-modes that survive projection.
 concepts:
+- Φ-modes
 - Π
 - Φ
-excerpt: Π counts and stabilizes the Φ-modes that survive projection.
-heading: '**4\. Π-Level Stabilization**'
-id: GEN14-3026
-lines: 1548-1550
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iv-derivation-structure::4-π-level-stabilization::b1
-parent_heading: '**IV. DERIVATION STRUCTURE**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+aliases:
+- Bk665ca
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

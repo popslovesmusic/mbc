@@ -1,15 +1,31 @@
+id: GEN8-8913
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::axioms-t1t6::t5-tri-unity-curvature-identity::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 62-70
+heading: '**T5 – Tri-Unity Curvature Identity**'
+parent_heading: '**AXIOMS (T1–T6)**'
 block_type: paragraph
-concepts:
-- Tri-Unified
-- Π
-- Φ
-- δ
 excerpt: 'Their curvatures form a single isotropic object: R:=Rδ+RΦ+RΠ.\\mathcal{R}
   := \\mathcal{R}\_\\delta \+ \\mathcal{R}\_\\Phi \+ \\mathcal{R}\_\\Pi.R:=Rδ​+RΦ​+RΠ​.
   This is the **Tri-Unified curvature**.'
-heading: '**T5 – Tri-Unity Curvature Identity**'
-id: GEN8-8913
-lines: 62-70
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::axioms-t1t6::t5-tri-unity-curvature-identity::b1
-parent_heading: '**AXIOMS (T1–T6)**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- Tri-Unified curvature
+- Π
+- δ
+- Φ
+- Tri-Unified
+aliases:
+- Bk181tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

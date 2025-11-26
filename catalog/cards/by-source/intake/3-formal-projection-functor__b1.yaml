@@ -1,21 +1,41 @@
-block_type: paragraph
-concepts:
-- Anchored Translation Projection
-- Genesis Category
-- Genesis Manifold
-- Incidence Graph
-- Math Category
-- Meta-Math
-- Mode
-- Morphisms
-- Objects
-- Partial Order
-- Scale-Anchored
-- Ψ
-- δ
-excerpt: '*(SATP as a functor between categories)* Let: * **𝒢** \= Genesis Category'
-heading: '**3\. Formal Projection Functor**'
 id: INTK-9921
-lines: 394-442
 location: intake/meta-genesis-diagrammatic-papers::3-formal-projection-functor::b1
 source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 394-442
+heading: '**3\. Formal Projection Functor**'
+block_type: paragraph
+excerpt: '*(SATP as a functor between categories)* Let: * **𝒢** \= Genesis Category'
+concepts:
+- δ
+- Meta-Math
+- →
+- Ψ
+- Projection
+- Meta-Math is the categorical image of Genesis
+- Mode
+- Scale-Anchored Translation Projection
+- Genesis Manifold
+- Incidence Graph
+- Partial Order
+- ∇
+- Anchored Translation Projection
+- Scale-Anchored
+- Morphisms
+aliases:
+- Bk001a
+tags:
+- A1
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.165048543689322
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1

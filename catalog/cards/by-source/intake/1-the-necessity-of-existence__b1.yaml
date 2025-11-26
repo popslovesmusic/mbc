@@ -1,13 +1,30 @@
+id: INTK-10386
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::not-axiom::implications-of-the-not-axiom::1-the-necessity-of-existence::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1175-1176
+heading: 1. The Necessity of Existence
+parent_heading: Implications of the NOT Axiom
 block_type: paragraph
-concepts:
-- must
-- Ψ
 excerpt: The most profound implication is that the universe *must* exist and *must*
   be dynamic. If `Ψ₀` is forbidden, then reality cannot be `Ψ₀`. Anything that *is*
   must therefore be `¬Ψ₀` (not `Ψ₀`), which b...
-heading: 1. The Necessity of Existence
-id: INTK-10386
-lines: 1175-1176
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::not-axiom::implications-of-the-not-axiom::1-the-necessity-of-existence::b1
-parent_heading: Implications of the NOT Axiom
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Ψ
+- Ψ₀
+- Definition
+- ¬
+aliases:
+- Bk250tm
+tags:
+- qualified
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.779661016949152
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

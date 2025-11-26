@@ -1,14 +1,29 @@
+id: GEN15-3249
+location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::5-halo-mass-evolution::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2521-2523
+heading: '**5\. Halo mass evolution**'
+parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
 block_type: paragraph
+excerpt: M˙halo=F(λ˙n,Φ˙n,δρ˙).\\dot{M}\_{\\mathrm{halo}} \= F(\\dot{\\lambda}\_n,
+  \\dot{\\Phi}\_n, \\dot{\\delta\\rho}).M˙halo​=F(λ˙n​,Φ˙n​,δρ˙​).
 concepts:
-- Φ
 - δ
 - λ
 - ρ
-excerpt: M˙halo=F(λ˙n,Φ˙n,δρ˙).\\dot{M}\_{\\mathrm{halo}} \= F(\\dot{\\lambda}\_n,
-  \\dot{\\Phi}\_n, \\dot{\\delta\\rho}).M˙halo​=F(λ˙n​,Φ˙n​,δρ˙​).
-heading: '**5\. Halo mass evolution**'
-id: GEN15-3249
-lines: 2521-2523
-location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::5-halo-mass-evolution::b1
-parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+- Φ
+aliases:
+- Bk643hd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

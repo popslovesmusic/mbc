@@ -1,11 +1,30 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-excerpt: 'The Π-functor coarse-grains Φ: Π:Φ→macrostates/histories.Π : Φ \\to \\text{macrostates/histories}.Π:Φ→macrostates/histories.
-  Because Φ expands monotonically:'
-heading: '**9\. Step 7 — Π Projects Φ Into Classical Histories**'
 id: GEN10-813
-lines: 1136-1152
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::9-step-7-π-projects-φ-into-classical-histories::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1136-1152
+heading: '**9\. Step 7 — Π Projects Φ Into Classical Histories**'
+block_type: paragraph
+excerpt: 'The Π-functor coarse-grains Φ: Π:Φ→macrostates/histories.Π : Φ \\to \\text{macrostates/histories}.Π:Φ→macrostates/histories.
+  Because Φ expands monotonically:'
+concepts:
+- Φ
+- Π
+- →
+- coarse-grains
+- Π-functor
+- thermodynamic arrow
+aliases:
+- Bk937tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- The Second Law
-- Π
-- Φ
-- δ
-excerpt: 'The Second Law appears because the projection of Φ-expansion into Π gives:
-  * classical irreversibility, * entropy increase,'
-heading: '**8\. The Thermal Arrow as the Projection of Genesis Asymmetry**'
 id: GEN10-854
-lines: 1712-1726
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::8-the-thermal-arrow-as-the-projection-of-genesis-asymmetry::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1712-1726
+heading: '**8\. The Thermal Arrow as the Projection of Genesis Asymmetry**'
+block_type: paragraph
+excerpt: 'The Second Law appears because the projection of Φ-expansion into Π gives:
+  * classical irreversibility, * entropy increase,'
+concepts:
+- Φ-expansion
+- Π
+- δ
+- Φ
+- necessary shadow
+- The Second Law
+aliases:
+- Bk966ts
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

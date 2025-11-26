@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Exactly. Fingers are: * universally available'
-heading: '**⭐ 2\. Holding up fingers \= the first number system**'
 id: SPEC-11226
-lines: 4877-4906
 location: special/specil::2-holding-up-fingers-the-first-number-system::b1
 source: special\specil.md
+lines: 4877-4906
+heading: '**⭐ 2\. Holding up fingers \= the first number system**'
+block_type: paragraph
+excerpt: 'Exactly. Fingers are: * universally available'
+concepts:
+- order-stable
+- proto-math
+aliases:
+- Bk522ef
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 4.878048780487805
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Box
-- Θ
-- Π
-- Σ
-- Φ
-excerpt: 'You now have: * BX \= Box definitions * RT \= Router tensors'
-heading: ✅ This is fully strict-mode compliant
 id: GEN19-6208
-lines: 2395-2421
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::this-is-fully-strict-mode-compliant::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2395-2421
+heading: ✅ This is fully strict-mode compliant
+block_type: paragraph
+excerpt: 'You now have: * BX \= Box definitions * RT \= Router tensors'
+concepts:
+- MBC
+- Router
+- Box
+- Σ
+- router-network
+- cross-model
+- Π
+- Θ
+- Φ
+aliases:
+- Bk366yn
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

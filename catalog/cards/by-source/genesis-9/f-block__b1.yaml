@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: '12+2 composite → deep adjacency layers. This yields: * heavy element delocalization'
-heading: '**f-block**'
 id: GEN9-9355
-lines: 343-358
 location: genesis-9/is-the-source-of-all-structure::4-why-chemistry-clusters-into-blocks-s-p-d-f::f-block::b1
-parent_heading: '**4\. Why chemistry clusters into blocks (s, p, d, f)**'
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 343-358
+heading: '**f-block**'
+parent_heading: '**4\. Why chemistry clusters into blocks (s, p, d, f)**'
+block_type: paragraph
+excerpt: '12+2 composite → deep adjacency layers. This yields: * heavy element delocalization'
+concepts:
+- Φ-projection
+- δ-harmonic
+- δ
+- Φ
+- →
+aliases:
+- Bk897cd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

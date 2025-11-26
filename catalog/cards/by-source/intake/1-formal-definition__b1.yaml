@@ -1,13 +1,35 @@
-block_type: paragraph
-concepts:
-- Structured Transition
-- Zero State
-- Ψ
-- δ
-excerpt: 'Let: * **Ψ₀** \= Zero State (structureless, symmetric, atemporal, operator-free)
-  * **δ₍int₎** \= intrinsic deviation (first difference induced by instability)'
-heading: '**1\. Formal Definition**'
 id: INTK-9841
-lines: 1153-1187
 location: intake/meta-genesis-core-papers-foundations::1-formal-definition::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1153-1187
+heading: '**1\. Formal Definition**'
+block_type: paragraph
+excerpt: 'Let: * **Ψ₀** \= Zero State (structureless, symmetric, atemporal, operator-free)
+  * **δ₍int₎** \= intrinsic deviation (first difference induced by instability)'
+concepts:
+- Ψ
+- δ
+- State
+- operator-free
+- ≠
+- Structured Transition
+- →
+- δint
+- Ψ₁
+- Zero State
+- Ψ₀
+aliases:
+- Bk935lz
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.790697674418606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

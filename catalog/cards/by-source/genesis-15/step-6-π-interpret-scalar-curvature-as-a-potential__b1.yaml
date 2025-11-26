@@ -1,15 +1,32 @@
+id: GEN15-3132
+location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-6-π-interpret-scalar-curvature-as-a-potential::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 820-840
+heading: '**Step 6 — Π-interpret scalar curvature as a potential**'
+parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
 block_type: paragraph
-concepts:
-- Higgs Mexican
-- Π
-- δ
-- λ
-- μ
 excerpt: 'Apply Π to the scalar projected curvature energy: VδH(H):=Π ⁣(λ0(ϕ))V\_{\\delta
   H}(H) := \\Pi\\\!\\left(\\lambda\_0(\\phi)\\right)VδH​(H):=Π(λ0​(ϕ)) So:'
-heading: '**Step 6 — Π-interpret scalar curvature as a potential**'
-id: GEN15-3132
-lines: 820-840
-location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-6-π-interpret-scalar-curvature-as-a-potential::b1
-parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Π
+- λ
+- δ
+- δH
+- μ
+- Mexican-hat
+- Higgs Mexican
+aliases:
+- Bk390at
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.57516339869281
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

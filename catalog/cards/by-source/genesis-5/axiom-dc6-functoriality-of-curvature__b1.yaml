@@ -1,12 +1,30 @@
+id: GEN5-8044
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc6-functoriality-of-curvature::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1584-1599
+heading: '**Axiom DC6 — Functoriality of Curvature.**'
+parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- modification
-- δ
 excerpt: 'The assignments f↦Kff \\mapsto \\mathcal{K}\_ff↦Kf​ assemble into a **modification**
   (a 2-cell between natural transformations), satisfying:'
-heading: '**Axiom DC6 — Functoriality of Curvature.**'
-id: GEN5-8044
-lines: 1584-1599
-location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc6-functoriality-of-curvature::b1
-parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- δ
+- higher-order
+- δf
+- modification
+- δD
+aliases:
+- Bk869ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.172839506172839
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

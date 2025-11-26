@@ -1,20 +1,38 @@
+id: INTK-10411
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::ψ₀-zero-state::relation-to-other-igsoa-concepts::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1304-1310
+heading: Relation to Other IGSOA Concepts
+parent_heading: Ψ₀ (Zero State)
 block_type: list
-concepts:
-- Axiom
-- Meta Binary
-- Meta Binary Encoding
-- Meta-Time
-- Mirror Axioms
-- Thermodynamic-Mirror
-- Ψ
-- δ
-- τ
 excerpt: '*   **IGSOA:** The IGSOA field is a "flawed monistic perfect symmetry" precisely
   because of the NOT Axiom, which injects `δ` into its core. *   **Deviation (δ):**
   The positive complement to `Ψ₀`. `δ` ...'
-heading: Relation to Other IGSOA Concepts
-id: INTK-10411
-lines: 1304-1310
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::ψ₀-zero-state::relation-to-other-igsoa-concepts::b1
-parent_heading: Ψ₀ (Zero State)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Time
+- Ψ
+- IGSOA
+- Deviation
+- Axiom
+- Ψ₀
+- δ
+- Thermodynamic-Mirror
+- Meta Binary
+- τ
+- Meta Binary Encoding
+- Mirror Axioms
+aliases:
+- Bk619it
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.16949152542373
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

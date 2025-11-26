@@ -1,10 +1,27 @@
+id: GEN9-9055
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-the-core-philosophical-difference::quantum-mechanics-viewpoint::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 434-438
+heading: '**Quantum Mechanics viewpoint**'
+parent_heading: '**3\. The Core Philosophical Difference**'
 block_type: paragraph
-concepts: []
 excerpt: Orbitals are **solutions to a differential equation imposed on space**. **Space
   first → physics second.** Geometry determines orbital behavior.
-heading: '**Quantum Mechanics viewpoint**'
-id: GEN9-9055
-lines: 434-438
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-the-core-philosophical-difference::quantum-mechanics-viewpoint::b1
-parent_heading: '**3\. The Core Philosophical Difference**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- solutions to a differential equation imposed on space
+- →
+aliases:
+- Bk308oa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

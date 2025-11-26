@@ -1,18 +1,40 @@
+id: GEN13-2315
+location: genesis-13/the-weight-of-light::8-sealed-csoi-rotation-curve-box::sealed-box-the-csoi-origin-of-flat-rotation-curves::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 804-832
+heading: '**█ SEALED BOX: The CSOI Origin of Flat Rotation Curves █**'
+parent_heading: '**8\. Sealed CSOI → Rotation Curve Box**'
 block_type: paragraph
-concepts:
-- Assume
-- Causal Sphere
-- Given
-- Therefore
-- Π
-- Φ
-- α
-- δ
 excerpt: '**Given** A galaxy with Causal Sphere of Influence radius RCSOI\>RluminousR\_{\\rm
   CSOI} \> R\_{\\rm luminous}RCSOI​\>Rluminous​. **Assume**'
-heading: '**█ SEALED BOX: The CSOI Origin of Flat Rotation Curves █**'
-id: GEN13-2315
-lines: 804-832
-location: genesis-13/the-weight-of-light::8-sealed-csoi-rotation-curve-box::sealed-box-the-csoi-origin-of-flat-rotation-curves::b1
-parent_heading: '**8\. Sealed CSOI → Rotation Curve Box**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- α
+- Φ
+- Π
+- Then Φ-dynamics produce acceleration
+- Π-projection
+- δ
+- Π projection yields the potential
+- ∂
+- δ-curvature
+- Φ-dynamics
+- Geodesic condition gives
+- Causal Sphere
+- Therefore
+- Assume
+- Given
+aliases:
+- Bk504gg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,30 @@
+id: GEN5-8084
+location: genesis-5/meta-einstein-axiom-box-language-sealed::φmeta-einstein-axiom-box-φ-language-sealed::axiom-φ2-φ-curvature-as-realization-defect::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 33-43
+heading: '**Axiom Φ2 (Φ-Curvature as Realization Defect)**'
+parent_heading: '**Φ–Meta-Einstein Axiom Box (Φ-language, sealed)**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'The Φ-curvature is the naturality-defect of Φ-transport: RΦ  ≡  (∇Φ)2.\\mathcal{R}^{\\Phi}\\;\\equiv\\;(\\nabla^{\\Phi})^2
   .RΦ≡(∇Φ)2. Equivalently, Φ-curvature is the obstruction to flat Φ-realization...'
-heading: '**Axiom Φ2 (Φ-Curvature as Realization Defect)**'
-id: GEN5-8084
-lines: 33-43
-location: genesis-5/meta-einstein-axiom-box-language-sealed::φmeta-einstein-axiom-box-φ-language-sealed::axiom-φ2-φ-curvature-as-realization-defect::b1
-parent_heading: '**Φ–Meta-Einstein Axiom Box (Φ-language, sealed)**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Φ
+- Φ-curvature
+- naturality-defect
+- ∇
+- Φ-realization
+- Φ-transport
+aliases:
+- Bk824tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

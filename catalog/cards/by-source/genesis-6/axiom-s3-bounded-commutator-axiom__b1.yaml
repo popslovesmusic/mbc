@@ -1,12 +1,30 @@
+id: GEN6-8262
+location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s3-bounded-commutator-axiom::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 46-55
+heading: '**AXIOM S3 – Bounded Commutator Axiom**'
+parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'For all a ∈ 𝒜δ: \[Dδ,π(a)\]extends to a bounded operator.\[\\mathcal{D}\_{\\delta},
   \\pi(a)\] \\quad \\text{extends to a bounded operator.}\[Dδ​,π(a)\]extends to a
   bounded operator. **Interpretation:*...'
-heading: '**AXIOM S3 – Bounded Commutator Axiom**'
-id: GEN6-8262
-lines: 46-55
-location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s3-bounded-commutator-axiom::b1
-parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- Deviation
+- δ
+- π
+- ∈
+aliases:
+- Bk570fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

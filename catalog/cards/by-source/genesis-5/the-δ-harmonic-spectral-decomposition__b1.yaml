@@ -1,13 +1,40 @@
+id: GEN5-8207
+location: genesis-5/the-ga-8-meta-einstein-theorem::13-final-sealed-form::the-δ-harmonic-spectral-decomposition::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 1111-1134
+heading: '**The δ-Harmonic Spectral Decomposition**'
+parent_heading: '**13\. Final Sealed Form**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
-- λ
 excerpt: 'Let Δδ\\Delta\_\\deltaΔδ​ be the δ-Laplace operator on a δ-geometric manifold.
   Then: 1. Δδ\\Delta\_\\deltaΔδ​ has a real, discrete spectrum'
-heading: '**The δ-Harmonic Spectral Decomposition**'
-id: GEN5-8207
-lines: 1111-1134
-location: genesis-5/the-ga-8-meta-einstein-theorem::13-final-sealed-form::the-δ-harmonic-spectral-decomposition::b1
-parent_heading: '**13\. Final Sealed Form**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- δ
+- λ
+- ψ
+- Δ
+- ∑
+- IGSOA
+- Φ
+- δ-propagators
+- δ-geometric
+- δ-spherical
+- δ-Laplace
+- δ-Green
+- δ-heat
+- δ-mass
+- Φn
+aliases:
+- Bk186ld
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.477732793522267
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

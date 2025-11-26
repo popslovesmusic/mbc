@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- In Meta
-- Meta-Einstein
-- are
-- δ
-excerpt: 'In Meta-Einstein geometry, curvature is not a rank-2 tensor obtained from
-  Christoffels; rather: **Curvature is the second deviation of adjacency.** Formally:'
-heading: '**1\. The 9 δ-Modes \= 9 Curvature Generators**'
 id: GEN6-8353
-lines: 1323-1348
 location: genesis-6/spectral-triple-axiom-box-sealed-version::1-the-9-δ-modes-9-curvature-generators::b1
 source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1323-1348
+heading: '**1\. The 9 δ-Modes \= 9 Curvature Generators**'
+block_type: paragraph
+excerpt: 'In Meta-Einstein geometry, curvature is not a rank-2 tensor obtained from
+  Christoffels; rather: **Curvature is the second deviation of adjacency.** Formally:'
+concepts:
+- δ
+- Meta-Einstein
+- ψ
+- Curvature
+- ∂
+- curvature-active sector
+- curvature-active
+- δ-harmonic
+- δ-matrix
+- In Meta
+aliases:
+- Bk719me
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

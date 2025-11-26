@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***The Complete Action-to-Physics Correspondence***'
 id: GEN2-6362
-lines: 857-859
 location: genesis-2/axioms-of-geometry-topos-compatible::φ-math-meta-physics-mapping::the-complete-action-to-physics-correspondence::b1
-parent_heading: '**Φ-Math → Meta-Physics Mapping**'
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 857-859
+heading: '***The Complete Action-to-Physics Correspondence***'
+parent_heading: '**Φ-Math → Meta-Physics Mapping**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

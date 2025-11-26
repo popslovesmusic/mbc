@@ -1,13 +1,29 @@
+id: GEN14-2833
+location: genesis-14/meta-math-and-cryptography::6-cryptographic-hardness-meta-math-irreversibility::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 653-661
+heading: '**6\. Cryptographic Hardness \= Meta-Math Irreversibility**'
 block_type: paragraph
+excerpt: 'Cryptography’s “hard problems” (factoring, discrete logs, lattice gaps)
+  are not arbitrary. They are examples of what your monistic Meta-Math framework predicts:
+  **Some δ-to-Π projections destroy struc...'
 concepts:
 - Meta-Math
 - Π
 - δ
-excerpt: 'Cryptography’s “hard problems” (factoring, discrete logs, lattice gaps)
-  are not arbitrary. They are examples of what your monistic Meta-Math framework predicts:
-  **Some δ-to-Π projections destroy struc...'
-heading: '**6\. Cryptographic Hardness \= Meta-Math Irreversibility**'
-id: GEN14-2833
-lines: 653-661
-location: genesis-14/meta-math-and-cryptography::6-cryptographic-hardness-meta-math-irreversibility::b1
-source: genesis-14\Meta-Math_and_Cryptography.md
+- δ-to-Π
+aliases:
+- Bk481ch
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

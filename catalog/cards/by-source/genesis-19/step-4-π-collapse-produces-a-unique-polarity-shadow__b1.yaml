@@ -1,11 +1,26 @@
+id: GEN19-5903
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::igsoa-column::step-4-π-collapse-produces-a-unique-polarity-shadow::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 408-412
+heading: '**Step 4 — Π-collapse produces a unique polarity shadow**'
+parent_heading: '**IGSOA Column**'
 block_type: paragraph
+excerpt: 'Π chooses Θ⁺ or Θ⁻ based solely on the sign of the net curvature: Θ(B)=sign⁡(K(B)).\\Theta(B)=\\operatorname{sign}(K(B)).Θ(B)=sign(K(B)).'
 concepts:
 - Θ
 - Π
-excerpt: 'Π chooses Θ⁺ or Θ⁻ based solely on the sign of the net curvature: Θ(B)=sign⁡(K(B)).\\Theta(B)=\\operatorname{sign}(K(B)).Θ(B)=sign(K(B)).'
-heading: '**Step 4 — Π-collapse produces a unique polarity shadow**'
-id: GEN19-5903
-lines: 408-412
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::igsoa-column::step-4-π-collapse-produces-a-unique-polarity-shadow::b1
-parent_heading: '**IGSOA Column**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+aliases:
+- Bk587cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

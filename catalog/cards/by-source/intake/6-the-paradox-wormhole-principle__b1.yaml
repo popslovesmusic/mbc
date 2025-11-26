@@ -1,11 +1,27 @@
+id: INTK-10659
+location: intake/volume-i-core-ontology-and-metagenesis-summary::core-ontological-axioms-and-principles::6-the-paradox-wormhole-principle::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1530-1534
+heading: 6. The Paradox-Wormhole Principle
+parent_heading: Core Ontological Axioms and Principles
 block_type: paragraph
-concepts: []
 excerpt: '**Principle:** A paradox is not a logical error but a **signpost of a realm
   wormhole**—a region where the boundary between distinct ontological or logical realms
   (e.g., Abstract, Meta, Realized) is lo...'
-heading: 6. The Paradox-Wormhole Principle
-id: INTK-10659
-lines: 1530-1534
-location: intake/volume-i-core-ontology-and-metagenesis-summary::core-ontological-axioms-and-principles::6-the-paradox-wormhole-principle::b1
-parent_heading: Core Ontological Axioms and Principles
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- signpost of a realm wormhole
+- meta-frame
+aliases:
+- Bk879pp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.166666666666666
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

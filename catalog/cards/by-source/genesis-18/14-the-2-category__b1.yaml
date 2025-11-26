@@ -1,15 +1,32 @@
+id: GEN18-5220
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::1-the-base-2-category-of-boxes::14-the-2-category::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1044-1058
+heading: '**1.4 The 2-Category**'
+parent_heading: '**1\. The Base 2-Category of Boxes**'
 block_type: table
-concepts:
-- Box
-- The Boxes
-- Π
-- δ
 excerpt: 'Box=(Ob,Hom1,Hom2)\\mathbf{Box} \= (\\mathrm{Ob}, \\mathrm{Hom}\_1, \\mathrm{Hom}\_2)Box=(Ob,Hom1​,Hom2​)
   Coherence (bicategory form): af,g,h:(h∘g)∘f⇒h∘(g∘f)a\_{f,g,h}:(h\\circ g)\\circ
   f \\Rightarrow...'
-heading: '**1.4 The 2-Category**'
-id: GEN18-5220
-lines: 1044-1058
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::1-the-base-2-category-of-boxes::14-the-2-category::b1
-parent_heading: '**1\. The Base 2-Category of Boxes**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- Box
+- IGSOA
+- derived coherence shadows
+- Π
+- δ
+- The Boxes
+aliases:
+- Bk976si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.477611940298507
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

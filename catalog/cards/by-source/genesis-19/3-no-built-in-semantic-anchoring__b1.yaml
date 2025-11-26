@@ -1,8 +1,19 @@
-block_type: paragraph
-concepts: []
-excerpt: 'BP has no native way to preserve: * structure * meaning'
-heading: 3\. No Built-in Semantic Anchoring
 id: GEN19-6074
-lines: 687-699
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::3-no-built-in-semantic-anchoring::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 687-699
+heading: 3\. No Built-in Semantic Anchoring
+block_type: paragraph
+excerpt: 'BP has no native way to preserve: * structure * meaning'
+aliases:
+- Bk287hn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,16 +1,31 @@
-block_type: paragraph
-concepts:
-- Lift Theorem
-- Meta-Math
-- No-Lift
-- Theorem
-- Π
-- Φ
-- δ
-excerpt: 'Cryptography relies on one core principle: **Security \= inability to invert
-  Φ under Π.** In your language:'
-heading: '**2\. Meta-Math Interpretation of Cryptographic Security**'
 id: GEN14-2801
-lines: 35-63
 location: genesis-14/meta-math-and-cryptography::2-meta-math-interpretation-of-cryptographic-security::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 35-63
+heading: '**2\. Meta-Math Interpretation of Cryptographic Security**'
+block_type: paragraph
+excerpt: 'Cryptography relies on one core principle: **Security \= inability to invert
+  Φ under Π.** In your language:'
+concepts:
+- Meta-Math
+- Π
+- There is no natural transformation from Π back to δ
+- Φ
+- Theorem
+- δ
+- Φ has no natural inverse
+- Φ-process
+- No-Lift
+- Lift Theorem
+aliases:
+- Bk350cr
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.235955056179774
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

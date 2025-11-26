@@ -1,18 +1,40 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Π
-- Π-multiplicity
-- Φ
-- Φ-modes
-- δ
-- δ-geometry
-excerpt: '*(Phase structure as emergent δ-adjacency symmetries, defects, and Φ-mode
-  projections)* This version directly connects: * **δ-geometry** → adjacency curvature'
-heading: '**δ-Adjacency Networks as the Ontological Basis of Condensed Matter Phases**'
 id: GEN14-2947
-lines: 439-457
 location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::δ-adjacency-networks-as-the-ontological-basis-of-condensed-matter-phases::b1
 source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 439-457
+heading: '**δ-Adjacency Networks as the Ontological Basis of Condensed Matter Phases**'
+block_type: paragraph
+excerpt: '*(Phase structure as emergent δ-adjacency symmetries, defects, and Φ-mode
+  projections)* This version directly connects: * **δ-geometry** → adjacency curvature'
+concepts:
+- δ-geometry
+- Curvature
+- →
+- Axiom
+- δ
+- δ-adjacency
+- δ-adjacency regimes
+- Box
+- condensed-matter
+- Φ-mode
+- Φ
+- Π-multiplicity
+- Φ-modes
+- Π
+- Curvature defects
+aliases:
+- Bk823ps
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.52941176470588
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

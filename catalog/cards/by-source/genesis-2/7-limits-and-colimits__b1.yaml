@@ -1,9 +1,28 @@
-block_type: paragraph
-concepts:
-- Axiom
-excerpt: '**Axiom M7 — Completeness** Math has all small limits and colimits. Interpretation:'
-heading: '**7\. Limits and Colimits**'
 id: GEN2-6248
-lines: 385-400
 location: genesis-2/axioms-for-the-category-genesis::7-limits-and-colimits::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 385-400
+heading: '**7\. Limits and Colimits**'
+block_type: paragraph
+excerpt: '**Axiom M7 — Completeness** Math has all small limits and colimits. Interpretation:'
+concepts:
+- Axiom
+- fixed-point
+aliases:
+- Am788ac
+tags:
+- axiom
+- -completeness
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

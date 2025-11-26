@@ -1,13 +1,29 @@
+id: GEN17-4859
+location: genesis-17/box-calculus::derivation-continuous-mgde-discrete-mbc-step-rule::dual-column-interpretation::b1
+source: genesis-17\box_calculus.md
+lines: 10470-10479
+heading: Dual-Column Interpretation
+parent_heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
 block_type: table
+excerpt: '---'
 concepts:
+- IGSOA
+- δ
+- Σ
 - Box
 - Math Meaning
-- Σ
-- δ
-excerpt: '---'
-heading: Dual-Column Interpretation
-id: GEN17-4859
-lines: 10470-10479
-location: genesis-17/box-calculus::derivation-continuous-mgde-discrete-mbc-step-rule::dual-column-interpretation::b1
-parent_heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
-source: genesis-17\box_calculus.md
+aliases:
+- Bk518im
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which direction would you like next?
-heading: '**D. A fully formal δ→QED→Atomic Physics chapter to mirror the QCD one**'
 id: GEN13-2169
-lines: 2011-2013
 location: genesis-13/meta-math-nuclear-physics::next-options::d-a-fully-formal-δqedatomic-physics-chapter-to-mirror-the-qcd-one::b1
-parent_heading: '**NEXT OPTIONS**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2011-2013
+heading: '**D. A fully formal δ→QED→Atomic Physics chapter to mirror the QCD one**'
+parent_heading: '**NEXT OPTIONS**'
+block_type: paragraph
+excerpt: Which direction would you like next?
+aliases:
+- Bk932wd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

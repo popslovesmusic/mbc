@@ -1,14 +1,32 @@
+id: GEN9-9123
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::unified-igsoa-backbone::meta-genesis-meta-math-adjoint-triple-δ-geometry-hyperdoctrine::cast-of-categories::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1506-1518
+heading: '**Cast of categories**'
+parent_heading: '**Meta-Genesis / Meta-Math adjoint triple \+ δ-Geometry hyperdoctrine**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Meta-Physics
-- Ψ
-- δ
 excerpt: 'We take three base categories you already use: * **𝒢₀ \= Genesis** (potential
   / pre-action / Ψ₀ domain) * **𝓜 \= Meta-Math** (operator/action domain)'
-heading: '**Cast of categories**'
-id: GEN9-9123
-lines: 1506-1518
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::unified-igsoa-backbone::meta-genesis-meta-math-adjoint-triple-δ-geometry-hyperdoctrine::cast-of-categories::b1
-parent_heading: '**Meta-Genesis / Meta-Math adjoint triple \+ δ-Geometry hyperdoctrine**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Meta-Math
+- δ-geometry
+- Meta-Physics
+- pre-action
+- δ
+- Ψ
+- Ψ₀
+aliases:
+- Bk305tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.27906976744186
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

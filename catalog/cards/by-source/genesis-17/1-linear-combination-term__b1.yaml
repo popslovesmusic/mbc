@@ -1,12 +1,29 @@
+id: GEN17-4210
+location: genesis-17/box-calculus::1-formal-definition-of-the-mixing-law::1-linear-combination-term::b1
+source: genesis-17\box_calculus.md
+lines: 935-939
+heading: (1) Linear Combination Term
+parent_heading: 1\. Formal Definition of the Mixing Law
 block_type: paragraph
-concepts:
-- α
-- β
 excerpt: α,β∈R α,β∈R These are merge-weights derived from the Boxes’ metadata (confidence,
   relevance, harmony).
-heading: (1) Linear Combination Term
-id: GEN17-4210
-lines: 935-939
-location: genesis-17/box-calculus::1-formal-definition-of-the-mixing-law::1-linear-combination-term::b1
-parent_heading: 1\. Formal Definition of the Mixing Law
-source: genesis-17\box_calculus.md
+concepts:
+- α
+- ∈
+- β
+- merge-weights
+aliases:
+- Bk304ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

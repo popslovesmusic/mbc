@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Tell me which one to generate next and I’ll produce the fully formal version.
-heading: '**E. CKM/PMNS mixing from δ-Hessian structure**'
 id: GEN7-8587
-lines: 545-547
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::if-you-want-next::e-ckmpmns-mixing-from-δ-hessian-structure::b1
-parent_heading: '**If you want next:**'
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 545-547
+heading: '**E. CKM/PMNS mixing from δ-Hessian structure**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: Tell me which one to generate next and I’ll produce the fully formal version.
+aliases:
+- Bk477tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

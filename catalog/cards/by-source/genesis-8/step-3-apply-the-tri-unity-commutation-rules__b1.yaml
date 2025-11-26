@@ -1,13 +1,29 @@
+id: GEN8-8964
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::proof-formal-operator-theoretic::step-3-apply-the-tri-unity-commutation-rules::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 894-910
+heading: '**Step 3 — Apply the Tri-Unity commutation rules**'
+parent_heading: '**Proof (Formal, Operator-Theoretic)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'From (3.1): \[δ,Φ\]=Πδ.(6)\[\\delta,\\Phi\] \= \\Pi\\delta. \\tag{6}\[δ,Φ\]=Πδ.(6)
   From (3.2):'
-heading: '**Step 3 — Apply the Tri-Unity commutation rules**'
-id: GEN8-8964
-lines: 894-910
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::proof-formal-operator-theoretic::step-3-apply-the-tri-unity-commutation-rules::b1
-parent_heading: '**Proof (Formal, Operator-Theoretic)**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- Π
+- δ
+- Φ
+- δ-Φ-Π
+aliases:
+- Bk171fd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.153846153846154
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

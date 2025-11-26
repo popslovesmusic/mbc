@@ -1,13 +1,30 @@
+id: GEN12-1534
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::discussion-what-the-cosmic-pipeline-chapter-must-do::5-provide-the-master-diagram-in-their-mind::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 61-77
+heading: '**5\. Provide the master diagram in their mind.**'
+parent_heading: '**Discussion: What the Cosmic Pipeline Chapter Must Do**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'After this chapter, the reader can visualize: * δ as the prime mover * Φ
   as the harmonic spectrum'
-heading: '**5\. Provide the master diagram in their mind.**'
-id: GEN12-1534
-lines: 61-77
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::discussion-what-the-cosmic-pipeline-chapter-must-do::5-provide-the-master-diagram-in-their-mind::b1
-parent_heading: '**Discussion: What the Cosmic Pipeline Chapter Must Do**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- δ
+- δ-modes
+- Π
+- Φ
+aliases:
+- Bk603at
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,30 @@
+id: GEN9-9246
+location: genesis-9/does-meta-genesis-indicate-new-physics::4-why-this-works-meta-genesis-prevents-collapse-meta-math-prevents-explosion::meta-genesis-potential-realm::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 635-640
+heading: '**Meta-Genesis (potential realm):**'
+parent_heading: '**4\. Why This Works: Meta-Genesis Prevents Collapse, Meta-Math Prevents
+  Explosion**'
 block_type: list
+excerpt: '* δ prevents collapse into perfect nothing. * Asymmetry must arise to break
+  Ψ₀. But Meta-Genesis contains infinite potential — it always “desires” symmetry.'
 concepts:
-- But Meta
 - Meta-Genesis
 - Ψ
 - δ
-excerpt: '* δ prevents collapse into perfect nothing. * Asymmetry must arise to break
-  Ψ₀. But Meta-Genesis contains infinite potential — it always “desires” symmetry.'
-heading: '**Meta-Genesis (potential realm):**'
-id: GEN9-9246
-lines: 635-640
-location: genesis-9/does-meta-genesis-indicate-new-physics::4-why-this-works-meta-genesis-prevents-collapse-meta-math-prevents-explosion::meta-genesis-potential-realm::b1
-parent_heading: '**4\. Why This Works: Meta-Genesis Prevents Collapse, Meta-Math Prevents
-  Explosion**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+- But Meta
+- Ψ₀
+aliases:
+- Bk575pc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.727272727272727
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

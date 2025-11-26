@@ -1,19 +1,36 @@
+id: INTK-10058
+location: intake/meta-genesis-outreach-narrative-papers::the-first-movement::6-universal-consequence-the-cosmos-becomes-inevitable::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 658-681
+heading: '**6\. Universal Consequence: The Cosmos Becomes Inevitable**'
+parent_heading: '**THE FIRST MOVEMENT**'
 block_type: paragraph
-concepts:
-- Adjacency
-- Distinguishability
-- First Movement
-- Geometry
-- Laws
-- Matter
-- Meta-Time
-- Spectrum
-- δ
 excerpt: 'Once the First Movement appears, a cascade begins: 1. **Distinguishability**
   — the raw difference 2. **Adjacency** — the ability to relate states'
-heading: '**6\. Universal Consequence: The Cosmos Becomes Inevitable**'
-id: INTK-10058
-lines: 658-681
-location: intake/meta-genesis-outreach-narrative-papers::the-first-movement::6-universal-consequence-the-cosmos-becomes-inevitable::b1
-parent_heading: '**THE FIRST MOVEMENT**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- Meta-Time
+- Adjacency
+- Curvature
+- δ
+- δ-mode
+- Distinguishability
+- Curvature seeds
+- First Movement
+- Spectrum
+- Geometry
+- Matter
+- Laws
+aliases:
+- Bk546ot
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

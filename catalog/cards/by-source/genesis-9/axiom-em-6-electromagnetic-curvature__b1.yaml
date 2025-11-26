@@ -1,14 +1,31 @@
-block_type: paragraph
-concepts:
-- Φ
-- μ
-- ν
-excerpt: 'The electromagnetic field strength is the Abelian curvature: Fμν(EM)=∂μAν(EM)−∂νAμ(EM),F^{(EM)}\_{\\mu\\nu}
-  \=\\partial\_\\mu A^{(EM)}\_\\nu \-\\partial\_\\nu A^{(EM)}\_\\mu,Fμν(EM)​=∂μ​Aν(EM)​−∂ν​Aμ(...'
-heading: '**Axiom EM-6: Electromagnetic Curvature**'
 id: GEN9-9582
-lines: 2496-2504
 location: genesis-9/strong-force::sealed-axiom-box-electromagnetism-emf-emergence-δ-φ-u1::axiom-em-6-electromagnetic-curvature::b1
+source: genesis-9\strong-force.md
+lines: 2496-2504
+heading: '**Axiom EM-6: Electromagnetic Curvature**'
 parent_heading: '**⬛ SEALED AXIOM BOX — Electromagnetism & EMF Emergence (δ → Φ →
   U(1))**'
-source: genesis-9\strong-force.md
+block_type: paragraph
+excerpt: 'The electromagnetic field strength is the Abelian curvature: Fμν(EM)=∂μAν(EM)−∂νAμ(EM),F^{(EM)}\_{\\mu\\nu}
+  \=\\partial\_\\mu A^{(EM)}\_\\nu \-\\partial\_\\nu A^{(EM)}\_\\mu,Fμν(EM)​=∂μ​Aν(EM)​−∂ν​Aμ(...'
+concepts:
+- ν
+- μ
+- ∂
+- non-Abelian
+- Φ
+aliases:
+- Bk519te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.638297872340425
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

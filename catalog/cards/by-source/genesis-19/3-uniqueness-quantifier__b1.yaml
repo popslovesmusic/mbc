@@ -1,12 +1,30 @@
+id: GEN19-5980
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-quantifiers-in-θ-logic::3-uniqueness-quantifier::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1625-1637
+heading: '**3\. Uniqueness Quantifier — ∃\!**'
+parent_heading: '**I. QUANTIFIERS IN Θ-LOGIC**'
 block_type: paragraph
-concepts:
-- Θ
-- σ
 excerpt: Only one positive curvature source allowed. ∃\!  x. P(x)=sign⁡ ⁣((S+=1)−(S+≠1))\\exists\!
   \\;x.\\,P(x) \= \\operatorname{sign}\\\!\\big( (S\_+=1) \- (S\_+\\neq 1\) \\big)∃\!x.P(x)=sign((S+​=1)−(S+​=1)...
-heading: '**3\. Uniqueness Quantifier — ∃\!**'
-id: GEN19-5980
-lines: 1625-1637
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-quantifiers-in-θ-logic::3-uniqueness-quantifier::b1
-parent_heading: '**I. QUANTIFIERS IN Θ-LOGIC**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- ∑
+- ∃
+- σ
+- ≠
+- Θ
+aliases:
+- Bk606oo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.064516129032258
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

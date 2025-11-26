@@ -1,12 +1,31 @@
+id: GEN12-1690
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::67-atomic-and-particle-predictions-δ-φ-π-in-microphysics::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2430-2450
+heading: '**6.7 Atomic and Particle Predictions (δ → Φ → Π in Microphysics)**'
+parent_heading: '**6.1 The Universality Prediction**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Because IGSOA is monistic, the same Φ-ladder governs: * atomic shell degeneracies
   (2, 8, 18, 32…), * mass tower patterns,'
-heading: '**6.7 Atomic and Particle Predictions (δ → Φ → Π in Microphysics)**'
-id: GEN12-1690
-lines: 2430-2450
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::67-atomic-and-particle-predictions-δ-φ-π-in-microphysics::b1
-parent_heading: '**6.1 The Universality Prediction**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- δ-adjacency
+- gauge-mode
+- Φ-ladder
+- δ
+- Φ
+aliases:
+- Bk184bi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.76595744680851
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

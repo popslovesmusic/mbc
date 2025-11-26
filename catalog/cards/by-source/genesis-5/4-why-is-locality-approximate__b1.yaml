@@ -1,11 +1,25 @@
+id: GEN5-7996
+location: genesis-5/formal-proof-of-the-adjoint-triple::5-why-monism-solves-the-oldest-paradoxes-of-physics::4-why-is-locality-approximate::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 867-869
+heading: '**(4) Why is locality approximate?**'
+parent_heading: '**5\. Why Monism Solves the Oldest Paradoxes of Physics**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'IGSOA: adjacency is not fundamental — it is induced by δ-generated operator
   flow.'
-heading: '**(4) Why is locality approximate?**'
-id: GEN5-7996
-lines: 867-869
-location: genesis-5/formal-proof-of-the-adjoint-triple::5-why-monism-solves-the-oldest-paradoxes-of-physics::4-why-is-locality-approximate::b1
-parent_heading: '**5\. Why Monism Solves the Oldest Paradoxes of Physics**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- IGSOA
+- δ-generated
+- δ
+aliases:
+- Bk404ia
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.076923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

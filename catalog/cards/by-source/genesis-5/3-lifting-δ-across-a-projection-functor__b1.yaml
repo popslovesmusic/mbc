@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- σ
-excerpt: 'Let F:C→DF : C \\to DF:C→D be a “projection”/“formation” functor in your
-  pipeline. Examples in IGSOA:'
-heading: '**3\. Lifting δ across a projection functor**'
 id: GEN5-8026
-lines: 1320-1334
 location: genesis-5/formal-proof-of-the-adjoint-triple::3-lifting-δ-across-a-projection-functor::b1
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1320-1334
+heading: '**3\. Lifting δ across a projection functor**'
+block_type: paragraph
+excerpt: 'Let F:C→DF : C \\to DF:C→D be a “projection”/“formation” functor in your
+  pipeline. Examples in IGSOA:'
+concepts:
+- →
+- IGSOA
+- σ
+- Π
+aliases:
+- Bk779lp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.938271604938271
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

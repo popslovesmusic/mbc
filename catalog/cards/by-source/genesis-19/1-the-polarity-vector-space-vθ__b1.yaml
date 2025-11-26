@@ -1,12 +1,29 @@
-block_type: table
-concepts:
-- Standard Math
-- Θ
-- δ
-excerpt: This defines polarity as a **true multilinear space**, not a discrete symbol.
-  ---
-heading: '**1\. The Polarity Vector Space VΘ**'
 id: GEN19-5840
-lines: 273-283
 location: genesis-19/mbc-4-1::1-the-polarity-vector-space-vθ::b1
 source: genesis-19\MBC-4_1.md
+lines: 273-283
+heading: '**1\. The Polarity Vector Space VΘ**'
+block_type: table
+excerpt: This defines polarity as a **true multilinear space**, not a discrete symbol.
+  ---
+concepts:
+- Θ
+- Polarity
+- IGSOA
+- MBC
+- true multilinear space
+- δ
+- pre-δ
+- Standard Math
+aliases:
+- Bk882sm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,11 +1,27 @@
+id: GEN19-5916
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-worked-example-3-node-δ-adjacency-graph::compute-routed-curvature::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 544-574
+heading: '**Compute routed curvature:**'
+parent_heading: '**V. Worked Example — 3-Node δ-Adjacency Graph**'
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'K=w^1(+2)+w^2(−1)+w^3(+0.5).K \= \\hat w\_1(+2) \+ \\hat w\_2(-1) \+ \\hat
   w\_3(+0.5).K=w^1​(+2)+w^2​(−1)+w^3​(+0.5). Numerically: * e≈2.718e\\approx 2.718e≈2.718'
-heading: '**Compute routed curvature:**'
-id: GEN19-5916
-lines: 544-574
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-worked-example-3-node-δ-adjacency-graph::compute-routed-curvature::b1
-parent_heading: '**V. Worked Example — 3-Node δ-Adjacency Graph**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- ≈
+- Θ
+aliases:
+- Bk243hh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.1494252873563218
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

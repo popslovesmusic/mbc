@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- Σ
-excerpt: 'Under 𝓕, no legal derivative step yields a null state: Σt≠0 ∀t. Σ'
-heading: 🔷 AXIOM 8 – No Collapses to Zero
 id: GEN17-4784
-lines: 9396-9406
 location: genesis-17/box-calculus::axiom-8-no-collapses-to-zero::b1
 source: genesis-17\box_calculus.md
+lines: 9396-9406
+heading: 🔷 AXIOM 8 – No Collapses to Zero
+block_type: paragraph
+excerpt: 'Under 𝓕, no legal derivative step yields a null state: Σt≠0 ∀t. Σ'
+concepts:
+- Axiom
+- ∀
+- Σ
+- NOT-axiom
+- ≠
+- Σt
+aliases:
+- Bk916ul
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

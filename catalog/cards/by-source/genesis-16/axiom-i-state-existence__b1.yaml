@@ -1,20 +1,40 @@
+id: GEN16-3973
+location: genesis-16/untitled-document::3-mapping-the-laws-axioms::axiom-i-state-existence::b1
+source: genesis-16\Untitled_document.md
+lines: 2930-2938
+heading: '**Axiom I — State / Existence**'
+parent_heading: '**⭐ 3\. Mapping the Laws (Axioms)**'
 block_type: table
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Every Meta
-- Meta-Math
-- Non-Null
-- Null Object Axiom
-- State Axiom
-- Σ
-- μ
 excerpt: G(State Axiom)=Non-Null Object Axiom\\boxed{G(\\text{State Axiom})=\\text{Non-Null
   Object Axiom}}G(State Axiom)=Non-Null Object Axiom​ ---
-heading: '**Axiom I — State / Existence**'
-id: GEN16-3973
-lines: 2930-2938
-location: genesis-16/untitled-document::3-mapping-the-laws-axioms::axiom-i-state-existence::b1
-parent_heading: '**⭐ 3\. Mapping the Laws (Axioms)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Axiom
+- Meta-Math
+- Box Calculus
+- State
+- Σ
+- Non-Null
+- Null Object Axiom
+- Box
+- ΣB
+- ∀
+- μ
+- ∈
+- State Axiom
+- non-null
+- ≠
+aliases:
+- Bk886bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.18840579710145
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

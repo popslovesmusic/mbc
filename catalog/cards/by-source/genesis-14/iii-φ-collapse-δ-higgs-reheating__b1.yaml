@@ -1,14 +1,36 @@
+id: GEN14-2774
+location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::iii-φ-collapse-δ-higgs-reheating::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1991-2007
+heading: '**(III) Φ-Collapse ⇒ δ-Higgs Reheating**'
+parent_heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- ρ
 excerpt: 'When δ-gradients are erased, Φ becomes idempotent: Φ2=Φ.\\Phi^2 \= \\Phi.Φ2=Φ.
   Φ snaps into the χ-stable manifold'
-heading: '**(III) Φ-Collapse ⇒ δ-Higgs Reheating**'
-id: GEN14-2774
-lines: 1991-2007
-location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::iii-φ-collapse-δ-higgs-reheating::b1
-parent_heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- Φ
+- Π
+- δ-Higgs
+- χ
+- Mδ-Higgs
+- ρ
+- δ-gradients
+- Π-energy
+- δpost
+- δpre
+aliases:
+- Bk475wg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.068493150684931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

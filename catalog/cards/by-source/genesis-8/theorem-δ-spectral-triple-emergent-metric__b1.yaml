@@ -1,14 +1,36 @@
+id: GEN8-8849
+location: genesis-8/meta-time-geometry-and-temporal-projection::theorem-δ-spectral-triple-emergent-metric::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1516-1538
+heading: '**Theorem (δ-Spectral Triple → Emergent Metric)**'
 block_type: paragraph
-concepts:
-- emerges
-- δ
-- μ
-- ν
 excerpt: Given a δ-spectral triple (Aδ,  Hδ,  Dδ)(\\mathcal{A}\_\\delta,\\; \\mathcal{H}\_\\delta,\\;
   D\_\\delta)(Aδ​,Hδ​,Dδ​) whose adjacency spectrum is locally finite, the emergent
   metric tensor gμνg\_{\\mu...
-heading: '**Theorem (δ-Spectral Triple → Emergent Metric)**'
-id: GEN8-8849
-lines: 1516-1538
-location: genesis-8/meta-time-geometry-and-temporal-projection::theorem-δ-spectral-triple-emergent-metric::b1
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- δ
+- μ
+- ν
+- ∑
+- →
+- coarse-grained
+- δ-harmonic
+- δ-spectral
+- δ-Dirac
+- uniquely determined
+- emerges
+- δD
+aliases:
+- Bk278gs
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.779661016949152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

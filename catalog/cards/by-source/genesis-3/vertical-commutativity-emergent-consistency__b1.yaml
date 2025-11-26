@@ -1,13 +1,31 @@
+id: GEN3-7371
+location: genesis-3/the-physics-box-diagram::3-stack-commutativity-conditions::vertical-commutativity-emergent-consistency::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 150-154
+heading: '**Vertical Commutativity (emergent consistency)**'
+parent_heading: '**3\. STACK COMMUTATIVITY CONDITIONS**'
 block_type: paragraph
-concepts:
-- Physical Emergence
-- Φ
-- δ
 excerpt: '`P_Φ ∘ F_δ = Physical Emergence` Every physical law is representable as
   a **Φ-form of a δ-deviation**.'
-heading: '**Vertical Commutativity (emergent consistency)**'
-id: GEN3-7371
-lines: 150-154
-location: genesis-3/the-physics-box-diagram::3-stack-commutativity-conditions::vertical-commutativity-emergent-consistency::b1
-parent_heading: '**3\. STACK COMMUTATIVITY CONDITIONS**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Φ-form of a δ-deviation
+- δ
+- Φ
+- δ-deviation
+- Φ-form
+- Physical Emergence
+aliases:
+- Bk913pe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 35.294117647058826
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

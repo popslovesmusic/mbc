@@ -1,14 +1,35 @@
+id: GEN0-340
+location: genesis-0/why-the-first-action-is-necessary::5-δ-algebra-as-a-graded-fractal-lie-algebra::commutation-rules::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1522-1538
+heading: '**Commutation Rules:**'
+parent_heading: '**5\. δ-Algebra as a Graded Fractal Lie Algebra**'
 block_type: paragraph
-concepts:
-- Affine Lie
-- γ
-- δ
 excerpt: \[δ(m),δ(n)\]=(n−m) γm,n δ(m+n−1).\[\\delta^{(m)}, \\delta^{(n)}\] \= (n-m)
   \\, \\gamma\_{m,n} \\, \\delta^{(m+n-1)}.\[δ(m),δ(n)\]=(n−m)γm,n​δ(m+n−1). \[A,δ(n)\]=n δ(n).\[A,
   \\delta^{(n)}\] \= n\\,\\d...
-heading: '**Commutation Rules:**'
-id: GEN0-340
-lines: 1522-1538
-location: genesis-0/why-the-first-action-is-necessary::5-δ-algebra-as-a-graded-fractal-lie-algebra::commutation-rules::b1
-parent_heading: '**5\. δ-Algebra as a Graded Fractal Lie Algebra**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ
+- hierarchically graded operator algebra
+- γ
+- κ
+- deviation-driven
+- Virasoro-like
+- p-adic
+- n-m
+- fractal growth
+- Affine Lie
+aliases:
+- Bk256dd
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.042253521126761
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

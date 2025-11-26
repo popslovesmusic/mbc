@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Why does the first shell hold **2**? The next **8**? Then **18**, **32**…?
-heading: '**7\. Why Orbitals Have the Capacities They Do**'
 id: GEN9-9084
-lines: 866-886
 location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::7-why-orbitals-have-the-capacities-they-do::b1
-parent_heading: '**“Why Orbitals Exist at All”**'
 source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 866-886
+heading: '**7\. Why Orbitals Have the Capacities They Do**'
+parent_heading: '**“Why Orbitals Exist at All”**'
+block_type: paragraph
+excerpt: Why does the first shell hold **2**? The next **8**? Then **18**, **32**…?
+concepts:
+- IGSOA
+- pre-geometric constraints
+- pre-geometric
+- δ-harmonics
+- δ
+aliases:
+- Bk678wd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.936507936507936
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

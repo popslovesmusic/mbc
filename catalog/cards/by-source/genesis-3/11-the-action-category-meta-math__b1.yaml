@@ -1,10 +1,27 @@
+id: GEN3-7315
+location: genesis-3/metagenesis::1-the-three-categories::11-the-action-category-meta-math::b1
+source: genesis-3\metagenesis.md
+lines: 635-638
+heading: '**1.1 The Action Category (Meta-Math)**'
+parent_heading: '**1\. The Three Categories**'
 block_type: paragraph
-concepts: []
 excerpt: 'Objects: operator-bearing structures AAA. Morphisms: operators O:A→A′\\mathcal{O}:A\\to
   A''O:A→A′.'
-heading: '**1.1 The Action Category (Meta-Math)**'
-id: GEN3-7315
-lines: 635-638
-location: genesis-3/metagenesis::1-the-three-categories::11-the-action-category-meta-math::b1
-parent_heading: '**1\. The Three Categories**'
-source: genesis-3\metagenesis.md
+concepts:
+- operator-bearing
+- →
+aliases:
+- Bk686oo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

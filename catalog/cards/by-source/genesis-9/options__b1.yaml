@@ -1,15 +1,37 @@
+id: GEN9-9423
+location: genesis-9/is-the-source-of-all-structure::would-you-like-the-next-step::options::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 1342-1354
+heading: '**OPTIONS**'
+parent_heading: '**Would you like the next step?**'
 block_type: list
-concepts:
-- Chromatic Mode Law
-- Mode
-- Π
-- δ
 excerpt: 1. **A color version** (Chromatic Mode Law applied to blocks) 2. **A labeled
   version** with n-shells, Π(Δₙ) notation, and degeneracy numbers 3. **A “chemical”
   overlay**, mapping classical elements ont...
-heading: '**OPTIONS**'
-id: GEN9-9423
-lines: 1342-1354
-location: genesis-9/is-the-source-of-all-structure::would-you-like-the-next-step::options::b1
-parent_heading: '**Would you like the next step?**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- Chromatic Mode
+- A full-page poster layout
+- Mode
+- full-page
+- n-shells
+- Π
+- δ
+- Δ
+- A TikZ LaTeX version
+- Chromatic Mode Law
+- A labeled version
+- A color version
+aliases:
+- Bk369cv
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.052631578947366
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

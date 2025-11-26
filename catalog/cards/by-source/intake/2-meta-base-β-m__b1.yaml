@@ -1,13 +1,29 @@
+id: INTK-10332
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::core-concepts::2-meta-base-β-m::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 898-899
+heading: 2. Meta-Base (β_M)
+parent_heading: Core Concepts
 block_type: paragraph
-concepts:
-- Harmonic Symmetry
-- Meta-Arithmetic
 excerpt: The base system for Meta-Arithmetic. It is generally not a fixed integer
   (like base 10 or base 2) but is instead tied to the inherent symmetries of the deviation
   field, particularly the 3-6-9 Harmonic...
-heading: 2. Meta-Base (β_M)
-id: INTK-10332
-lines: 898-899
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::core-concepts::2-meta-base-β-m::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Arithmetic
+- Harmonic Symmetry
+aliases:
+- Bk046tb
+tags:
+- qualified
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.7735849056603774
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

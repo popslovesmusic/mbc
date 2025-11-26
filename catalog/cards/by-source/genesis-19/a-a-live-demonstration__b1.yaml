@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (Paste text and I’ll show the hidden structure.)
-heading: A) A live demonstration
 id: GEN19-6053
-lines: 478-480
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-give-you::a-a-live-demonstration::b1
-parent_heading: 'If you want, I can give you:'
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 478-480
+heading: A) A live demonstration
+parent_heading: 'If you want, I can give you:'
+block_type: paragraph
+excerpt: (Paste text and I’ll show the hidden structure.)
+aliases:
+- Bk932pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

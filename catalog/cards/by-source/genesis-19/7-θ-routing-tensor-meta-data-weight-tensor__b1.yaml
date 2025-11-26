@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: The router weight wΘw\_\\ThetawΘ​ you described must enter tensor algebra.
-heading: '**7\. Θ-Routing Tensor (Meta-Data Weight Tensor)**'
 id: GEN19-5845
-lines: 334-336
 location: genesis-19/mbc-4-1::7-θ-routing-tensor-meta-data-weight-tensor::b1
 source: genesis-19\MBC-4_1.md
+lines: 334-336
+heading: '**7\. Θ-Routing Tensor (Meta-Data Weight Tensor)**'
+block_type: paragraph
+excerpt: The router weight wΘw\_\\ThetawΘ​ you described must enter tensor algebra.
+concepts:
+- Θ
+aliases:
+- Bk056tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,29 @@
+id: GEN1-501
+location: genesis-1/the-foundation-layer::iii-lemma-2::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1313-1329
+heading: '**\*\*III. Lemma 2**'
 block_type: paragraph
-concepts:
-- attempt
-- Ψ
-- Ω
 excerpt: 'If Ψ₀ cannot be an object, its “attempted existence” generates an internal
   contradiction\*\* Inside a topos, the existence of an object corresponds to a global
   element of the subobject classifier Ω: ⊤...'
-heading: '**\*\*III. Lemma 2**'
-id: GEN1-501
-lines: 1313-1329
-location: genesis-1/the-foundation-layer::iii-lemma-2::b1
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- Ψ₀
+- Ω
+- →
+- truth-value
+aliases:
+- Bk631co
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.024096385542169
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

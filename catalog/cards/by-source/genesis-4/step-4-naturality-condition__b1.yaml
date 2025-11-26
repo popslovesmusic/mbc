@@ -1,13 +1,31 @@
+id: GEN4-7771
+location: genesis-4/the-adjoint-triple::3-formal-proof-sketch::step-4-naturality-condition::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 937-947
+heading: '**Step 4 — Naturality condition**'
+parent_heading: '**3\. Formal Proof Sketch**'
 block_type: paragraph
-concepts:
-- Θ
-- η
 excerpt: 'For any MG morphism f:X→Yf: X \\to Yf:X→Y: O(RL(f))∘ΘX=ΘY∘(RL(TMetaf))\\begin{aligned}
   \\mathbb{O}(RL(f)) \\circ \\Theta\_X &= \\Theta\_Y \\circ (RL(\\mathbb{T}\_{\\mathrm{Meta}}f))
   \\end{aligned}O(RL...'
-heading: '**Step 4 — Naturality condition**'
-id: GEN4-7771
-lines: 937-947
-location: genesis-4/the-adjoint-triple::3-formal-proof-sketch::step-4-naturality-condition::b1
-parent_heading: '**3\. Formal Proof Sketch**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Θ
+- →
+- η
+- χ
+- the diagram commutes
+aliases:
+- Bk790fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.756756756756757
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

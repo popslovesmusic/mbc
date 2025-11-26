@@ -1,11 +1,30 @@
-block_type: table
-concepts:
-- Mathematical Polarity
-- Σ
-- ρ
-excerpt: 'Same meaning: Polarity splits meaning; routing must resolve it. ---'
-heading: AXIOM IV — THE POLARITY AXIOM (Bifurcation / Branching)
 id: GEN17-4306
-lines: 2318-2327
 location: genesis-17/box-calculus::axiom-iv-the-polarity-axiom-bifurcation-branching::b1
 source: genesis-17\box_calculus.md
+lines: 2318-2327
+heading: AXIOM IV — THE POLARITY AXIOM (Bifurcation / Branching)
+block_type: table
+excerpt: 'Same meaning: Polarity splits meaning; routing must resolve it. ---'
+concepts:
+- Σ
+- Polarity
+- ρ
+- →
+- IGSOA
+- Router
+- ≈
+- Mathematical Polarity
+aliases:
+- Bk751ip
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.16326530612245
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

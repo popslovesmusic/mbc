@@ -1,13 +1,30 @@
+id: GEN9-9572
+location: genesis-9/strong-force::11-classical-geometry-π-projection-and-maxwell-fields::b1
+source: genesis-9\strong-force.md
+lines: 2379-2391
+heading: '**11\. Classical Geometry (Π-Projection) and Maxwell Fields**'
 block_type: paragraph
-concepts:
-- Π
-- μ
-- ν
 excerpt: 'The Π functor sends U(1) curvatures to classical geometric fields: Π(F(EM))=Fμν(classical).\\Pi(F^{(EM)})
   \= F^{(classical)}\_{\\mu\\nu}.Π(F(EM))=Fμν(classical)​. Thus classical electromagnetism
   is:'
-heading: '**11\. Classical Geometry (Π-Projection) and Maxwell Fields**'
-id: GEN9-9572
-lines: 2379-2391
-location: genesis-9/strong-force::11-classical-geometry-π-projection-and-maxwell-fields::b1
-source: genesis-9\strong-force.md
+concepts:
+- Π
+- ν
+- μ
+- non-linearities
+- →
+- ΠGeom
+aliases:
+- Bk644tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

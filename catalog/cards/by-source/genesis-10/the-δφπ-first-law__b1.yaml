@@ -1,16 +1,38 @@
+id: GEN10-890
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::the-δφπ-first-law::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2366-2375
+heading: '**\*\*The δ–Φ–Π First Law:**'
 block_type: paragraph
-concepts:
-- First Law
-- Invariant Projection
-- Persistent Deviation
-- Π
-- Φ
-- δ
 excerpt: 'Energy as the Invariant Projection of Persistent Deviation\*\* This is the
   canonical form of the First Law in the full IGSOA stack: **δ-layer (asymmetry /
   deviation)** → **Φ-layer (modal distribution)...'
-heading: '**\*\*The δ–Φ–Π First Law:**'
-id: GEN10-890
-lines: 2366-2375
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::the-δφπ-first-law::b1
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Projection
+- Deviation
+- IGSOA
+- →
+- Φ-layer
+- δ-layer
+- Π-layer
+- Π
+- δ
+- Φ
+- Persistent Deviation
+- Invariant Projection
+- First Law
+aliases:
+- Bk013et
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 30.23255813953488
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

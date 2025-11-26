@@ -1,13 +1,37 @@
+id: GEN2-6448
+location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-4-δφ-compatibility-locks-curvature-and-energy::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1725-1752
+heading: '**Step 4 — δ–Φ Compatibility locks curvature and energy**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'From the compatibility condition (U-compat): Φ(δA)=δ(ΦA),(4)\\Phi(\\delta
   A)=\\delta(\\Phi A), \\tag{4}Φ(δA)=δ(ΦA),(4) we have the equality of mixed actions
   on curvature:'
-heading: '**Step 4 — δ–Φ Compatibility locks curvature and energy**'
-id: GEN2-6448
-lines: 1725-1752
-location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-4-δφ-compatibility-locks-curvature-and-energy::b1
-parent_heading: '**Proof**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Φ
+- δ
+- ΦR
+- δR
+- curvature-energy
+- energy-curvature
+- Right-hand
+- Left-hand
+- U-compat
+- δA
+- ΦA
+aliases:
+- Bk920ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.875000000000001
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

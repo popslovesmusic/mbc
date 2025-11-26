@@ -1,12 +1,30 @@
+id: INTK-10076
+location: intake/meta-genesis-physical-interpretation-papers::why-the-universe-cannot-remain-still::3-the-not-axiom-forces-the-first-deviation-δ::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 69-92
+heading: '**3\. The NOT Axiom Forces the First Deviation (δ)**'
+parent_heading: '**Why the Universe Cannot Remain Still**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'The formal version is: ¬∃ O(Ψ0)⇒δΨ0≠0.\\neg\\exists\\,\\mathcal{O}(\\Psi\_0)
   \\quad\\Rightarrow\\quad \\delta\\Psi\_0 \\neq 0.¬∃O(Ψ0​)⇒δΨ0​=0. Meaning:'
-heading: '**3\. The NOT Axiom Forces the First Deviation (δ)**'
-id: INTK-10076
-lines: 69-92
-location: intake/meta-genesis-physical-interpretation-papers::why-the-universe-cannot-remain-still::3-the-not-axiom-forces-the-first-deviation-δ::b1
-parent_heading: '**Why the Universe Cannot Remain Still**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- a deviation must spontaneously occur
+- ∃
+- δ
+- ¬
+- Ψ₀
+- ≠
+- logical consequence
+aliases:
+- Bk146tf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.411764705882353
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

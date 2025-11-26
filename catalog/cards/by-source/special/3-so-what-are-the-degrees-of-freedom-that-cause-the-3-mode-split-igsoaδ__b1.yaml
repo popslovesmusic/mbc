@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts:
-- not
-excerpt: Since time is **not** a degree of freedom and deviation works in **one dimension**,
-  the 3 modes must come from something else.
-heading: '**🎯 3\. So what are the degrees of freedom that cause the 3-mode split (IGS–OA–δ)?**'
 id: SPEC-11041
-lines: 1132-1138
 location: special/specil::3-so-what-are-the-degrees-of-freedom-that-cause-the-3-mode-split-igsoaδ::b1
 source: special\specil.md
+lines: 1132-1138
+heading: '**🎯 3\. So what are the degrees of freedom that cause the 3-mode split (IGS–OA–δ)?**'
+block_type: paragraph
+excerpt: Since time is **not** a degree of freedom and deviation works in **one dimension**,
+  the 3 modes must come from something else.
+concepts:
+- one dimension
+- not
+aliases:
+- Bk838st
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.4074074074074066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

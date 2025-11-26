@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-excerpt: 'To be Cartesian, Box Calculus needs products: B1×B2B\_1 \\times B\_2B1​×B2​'
-heading: '**⭐ 3\. Binary Products**'
 id: GEN16-4064
-lines: 4138-4142
 location: genesis-16/untitled-document::3-binary-products::b1
 source: genesis-16\Untitled_document.md
+lines: 4138-4142
+heading: '**⭐ 3\. Binary Products**'
+block_type: paragraph
+excerpt: 'To be Cartesian, Box Calculus needs products: B1×B2B\_1 \\times B\_2B1​×B2​'
+concepts:
+- Box Calculus
+- Box
+aliases:
+- Bk726cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

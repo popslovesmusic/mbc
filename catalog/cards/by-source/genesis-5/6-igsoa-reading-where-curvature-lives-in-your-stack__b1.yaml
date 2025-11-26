@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Pick your favorite projection FFF. Two especially on-brand ones: ---'
-heading: '**6\. IGSOA reading: where curvature lives in your stack**'
 id: GEN5-8032
-lines: 1412-1416
 location: genesis-5/formal-proof-of-the-adjoint-triple::6-igsoa-reading-where-curvature-lives-in-your-stack::b1
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1412-1416
+heading: '**6\. IGSOA reading: where curvature lives in your stack**'
+block_type: paragraph
+excerpt: 'Pick your favorite projection FFF. Two especially on-brand ones: ---'
+concepts:
+- on-brand
+aliases:
+- Bk686py
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

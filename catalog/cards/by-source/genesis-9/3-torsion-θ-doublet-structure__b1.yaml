@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- paired
-- δ
-- λ
-excerpt: 'Let the torsion operator act on a matter harmonic state: T(δ)ψ=±∣λ∣ψ.T^{(\\delta)}
-  \\psi \= \\pm |\\lambda| \\psi.T(δ)ψ=±∣λ∣ψ. Because torsion is antisymmetric:'
-heading: '**3\. Torsion → θ-Doublet Structure**'
 id: GEN9-9482
-lines: 648-674
 location: genesis-9/strong-force::3-torsion-θ-doublet-structure::b1
 source: genesis-9\strong-force.md
+lines: 648-674
+heading: '**3\. Torsion → θ-Doublet Structure**'
+block_type: paragraph
+excerpt: 'Let the torsion operator act on a matter harmonic state: T(δ)ψ=±∣λ∣ψ.T^{(\\delta)}
+  \\psi \= \\pm |\\lambda| \\psi.T(δ)ψ=±∣λ∣ψ. Because torsion is antisymmetric:'
+concepts:
+- ψ
+- δ
+- IGSOA
+- θ
+- λ
+- ∈
+- χ
+- paired
+aliases:
+- Bk545lt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.16326530612245
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

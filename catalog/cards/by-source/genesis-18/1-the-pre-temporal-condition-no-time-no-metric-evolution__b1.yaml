@@ -1,13 +1,31 @@
-block_type: table
-concepts:
-- Box
-- Standard Physics
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: '**1\. The Pre-Temporal Condition (No Time, No Metric Evolution)**'
 id: GEN18-5161
-lines: 138-156
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::1-the-pre-temporal-condition-no-time-no-metric-evolution::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 138-156
+heading: '**1\. The Pre-Temporal Condition (No Time, No Metric Evolution)**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- →
+- Box
+- box-automorphisms
+- Euclidean-like
+- Pre-geometry
+- δ-Geometry
+- Π
+- δ
+- Φ
+- Standard Physics
+aliases:
+- Bk569sp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.891089108910892
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,32 @@
+id: GEN13-2300
+location: genesis-13/the-weight-of-light::7-sealed-functor-box::sealed-category-theoretic-box::δφπ-galaxy-rotation-functor-theorem::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 557-601
+heading: '**δ→Φ→Π Galaxy Rotation Functor Theorem**'
+parent_heading: '**█ SEALED CATEGORY-THEORETIC BOX █**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Π
-- Φ
-- δ
 excerpt: '**Setup:** Let D,P,G\\mathcal{D}, \\mathcal{P}, \\mathcal{G}D,P,G be the
   deviation, dynamics, and geometry categories. Let'
-heading: '**δ→Φ→Π Galaxy Rotation Functor Theorem**'
-id: GEN13-2300
-lines: 557-601
-location: genesis-13/the-weight-of-light::7-sealed-functor-box::sealed-category-theoretic-box::δφπ-galaxy-rotation-functor-theorem::b1
-parent_heading: '**█ SEALED CATEGORY-THEORETIC BOX █**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- Tri-Unity
+- →
+- Π
+- Φ
+- naturality-defect
+- δ-curvature
+aliases:
+- Bk891sl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.7037037037037033
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

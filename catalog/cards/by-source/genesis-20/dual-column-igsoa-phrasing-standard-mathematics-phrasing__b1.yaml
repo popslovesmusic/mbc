@@ -1,22 +1,42 @@
+id: GEN20-6576
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::box-algebra-axiom-box-sealed::dual-column-igsoa-phrasing-standard-mathematics-phrasing::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 152-174
+heading: Dual-Column (IGSOA phrasing ↔ Standard Mathematics phrasing)
+parent_heading: □ Box Algebra Axiom Box (Sealed)
 block_type: table
-concepts:
-- Axiom
-- Box
-- Box Algebra
-- Each Box
-- Every Box
-- Standard Mathematical Interpretation
-- This Axiom Box
-- Θ
-- Π
-- Σ
-- Φ
-- δ
 excerpt: 'This Axiom Box is sealed: no operator outside these eight may define a Box-algebraic
   transformation in MBC-4.0. ---'
-heading: Dual-Column (IGSOA phrasing ↔ Standard Mathematics phrasing)
-id: GEN20-6576
-lines: 152-174
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::box-algebra-axiom-box-sealed::dual-column-igsoa-phrasing-standard-mathematics-phrasing::b1
-parent_heading: □ Box Algebra Axiom Box (Sealed)
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- Box
+- Axiom
+- Σ
+- δ
+- Φ-projection
+- Π
+- Box Algebra
+- →
+- IGSOA
+- MBC
+- Polarity
+- Θ
+- Φ
+- δ-adjacency
+- Standard Mathematical Interpretation
+aliases:
+- Bk784im
+tags:
+- axiom-box
+- conflicted
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.084468664850137
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

@@ -1,13 +1,30 @@
+id: GEN3-7464
+location: genesis-3/the-physics-box-diagram::2-the-δ-axiom-deviational-necessity::axiom-d2-δ-admissibility::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1401-1407
+heading: '**Axiom D2: δ-Admissibility**'
+parent_heading: '**2\. THE δ AXIOM (Deviational Necessity)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: Any state admitting structure must arise from iterated δ-actions. ∀X≠Ψ0,  X=δ(n)(Ψ0)for
   some  n\>0.\\forall X \\neq Ψ\_0,\\; X \= δ^{(n)}(Ψ\_0) \\quad \\text{for some}
   \\; n\>0.∀X=Ψ0​,X=δ(n)(Ψ0​)for s...
-heading: '**Axiom D2: δ-Admissibility**'
-id: GEN3-7464
-lines: 1401-1407
-location: genesis-3/the-physics-box-diagram::2-the-δ-axiom-deviational-necessity::axiom-d2-δ-admissibility::b1
-parent_heading: '**2\. THE δ AXIOM (Deviational Necessity)**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Ψ
+- δ
+- ∀
+- δ-actions
+- ≠
+aliases:
+- Bk579as
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,13 +1,31 @@
+id: GEN6-8266
+location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s7-δ-first-order-axiom::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 91-102
+heading: '**AXIOM S7 – δ-First-Order Axiom**'
+parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- first-order
-- δ
 excerpt: 'Deviation acts as a genuine differential: \[\[Dδ,π(a)\],Jδπ(b)Jδ−1\]=0\[\[\\mathcal{D}\_{\\delta},
   \\pi(a)\], J\_{\\delta} \\pi(b) J\_{\\delta}^{-1}\] \= 0\[\[Dδ​,π(a)\],Jδ​π(b)Jδ−1​\]=0
   for all a, b ...'
-heading: '**AXIOM S7 – δ-First-Order Axiom**'
-id: GEN6-8266
-lines: 91-102
-location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s7-δ-first-order-axiom::b1
-parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- Deviation
+- π
+- first-order
+- ∈
+aliases:
+- Bk845da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.47457627118644
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

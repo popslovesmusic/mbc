@@ -1,12 +1,28 @@
-block_type: list
-concepts:
-- Π
-- Φ
-- η
-excerpt: '* Unit: * ηΦ(x)=normal-form embedding of Φ(x) * η'
-heading: Step 2 — Apply definitions
 id: GEN17-4457
-lines: 4850-4875
 location: genesis-17/box-calculus::::mathematical-polarity-formal-proof::step-2-apply-definitions::b2
-parent_heading: Mathematical Polarity (Formal Proof)
 source: genesis-17\box_calculus.md
+lines: 4850-4875
+heading: Step 2 — Apply definitions
+parent_heading: Mathematical Polarity (Formal Proof)
+block_type: list
+excerpt: '* Unit: * ηΦ(x)=normal-form embedding of Φ(x) * η'
+concepts:
+- Φ
+- Π
+- η
+- normal-form
+- ε
+aliases:
+- Bk523un
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.578947368421052
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

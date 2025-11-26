@@ -1,19 +1,42 @@
-block_type: paragraph
-concepts:
-- Causal Sphere
-- Einstein Field Equations
-- Field
-- Meta-Einstein
-- Theorem
-- Θ
-- Λ
-- δ
-- μ
-- ν
-excerpt: '**Theorem (CSOI–Meta-Einstein).** Let δ\\deltaδ be the fundamental deviation
-  field, and let C(x)\\mathcal{C}(x)C(x)'
-heading: '**I. Statement of the Meta-Einstein–CSOI Theorem**'
 id: GEN15-3311
-lines: 814-841
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::i-statement-of-the-meta-einsteincsoi-theorem::b1
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 814-841
+heading: '**I. Statement of the Meta-Einstein–CSOI Theorem**'
+block_type: paragraph
+excerpt: '**Theorem (CSOI–Meta-Einstein).** Let δ\\deltaδ be the fundamental deviation
+  field, and let C(x)\\mathcal{C}(x)C(x)'
+concepts:
+- μ
+- ν
+- Meta-Einstein
+- Θ
+- δ
+- all dark-matter effects are absorbed into
+- IGSOA
+- Theorem
+- CSOI curvature-adjacency tensor
+- Meta-Einstein Field Equations
+- Field
+- curvature-adjacency
+- π
+- Λ
+- stress-energy
+aliases:
+- Th665tc
+tags:
+- theorem
+- csoimeta-einstein
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.862068965517242
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

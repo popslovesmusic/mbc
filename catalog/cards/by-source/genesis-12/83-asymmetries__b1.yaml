@@ -1,13 +1,30 @@
+id: GEN12-1809
+location: genesis-12/untitled-document::8-voids-scars-and-asymmetries::83-asymmetries::b1
+source: genesis-12\Untitled_document.md
+lines: 1338-1350
+heading: '**8.3 Asymmetries**'
+parent_heading: '**8\. Voids, Scars, and Asymmetries**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'The **Axis of Evil** and hemispherical asymmetry in the CMB project forward
   into: * matter distribution dips, * large supervoid directional alignments.'
-heading: '**8.3 Asymmetries**'
-id: GEN12-1809
-lines: 1338-1350
-location: genesis-12/untitled-document::8-voids-scars-and-asymmetries::83-asymmetries::b1
-parent_heading: '**8\. Voids, Scars, and Asymmetries**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- low-mode
+- Π
+- Φ
+- Axis of Evil
+aliases:
+- Bk331ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.416666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

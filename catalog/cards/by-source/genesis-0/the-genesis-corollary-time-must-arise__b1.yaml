@@ -1,16 +1,31 @@
+id: GEN0-182
+location: genesis-0/tri-unity-theorem-equivalence-of::the-genesis-corollary-time-must-arise::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 370-376
+heading: '**The Genesis Corollary (Time Must Arise)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Genesis Theorem
-- Meta-Math
-- Theorem
-- Ψ
-- δ
 excerpt: '*A direct logical consequence of the NOT Axiom and the δ-Axiom of Deviation.*
   This is written to *snap cleanly* into your Genesis → Meta-Math → Physics chain,
   sitting right after the Genesis Theorem Ψ...'
-heading: '**The Genesis Corollary (Time Must Arise)**'
-id: GEN0-182
-lines: 370-376
-location: genesis-0/tri-unity-theorem-equivalence-of::the-genesis-corollary-time-must-arise::b1
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Meta-Math
+- Deviation
+- Axiom
+- Ψ
+- →
+- Theorem
+- δ
+- δ-Axiom
+- Genesis Theorem
+aliases:
+- Bk435dl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

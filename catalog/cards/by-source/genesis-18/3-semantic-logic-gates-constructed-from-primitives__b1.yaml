@@ -1,26 +1,42 @@
+id: GEN18-5357
+location: genesis-18/mbc-4::mbc-40-semantic-operator-table::3-semantic-logic-gates-constructed-from-primitives::b1
+source: genesis-18\MBC-4.md
+lines: 49-65
+heading: '**3\. Semantic Logic Gates (constructed from primitives)**'
+parent_heading: '**MBC-4.0 Semantic Operator Table**'
 block_type: table
-concepts:
-- Axiom
-- Box
-- Gate Name
-- IGSOA-native
-- Monistic Consistency Axiom Box
-- Standard Meaning
-- closure
-- Π
-- Π-EQUIV
-- Π-IMPLIES
-- Φ
-- Φ-AND
-- Φ-OR
-- Φ-XOR
-- δ
 excerpt: These are MBC-4.0 analogues of classical logic gates — but **IGSOA-native**.
   **Cross-reference:** All Π-based gates use *closure* rules from the Monistic Consistency
   Axiom Box.
-heading: '**3\. Semantic Logic Gates (constructed from primitives)**'
-id: GEN18-5357
-lines: 49-65
-location: genesis-18/mbc-4::mbc-40-semantic-operator-table::3-semantic-logic-gates-constructed-from-primitives::b1
-parent_heading: '**MBC-4.0 Semantic Operator Table**'
-source: genesis-18\MBC-4.md
+concepts:
+- δ
+- Π
+- Φ
+- IGSOA
+- MBC
+- Axiom
+- Gate
+- Fork
+- Box
+- Φ-Bind
+- δ-Fork
+- Monistic Consistency Axiom Box
+- Cross-reference
+- IGSOA-native
+- Π-Stabilize
+aliases:
+- Bk797ta
+tags:
+- axiom-box
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 38.75
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

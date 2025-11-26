@@ -1,10 +1,26 @@
+id: GEN11-1166
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::ii-large-scale-structure-lss-predictions::3-non-gaussian-structure-growth::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1007-1014
+heading: '**3\. Non-Gaussian structure growth**'
+parent_heading: '**II. Large-Scale Structure (LSS) Predictions**'
 block_type: paragraph
+excerpt: From δ-mode inheritance. **Test:** Bispectrum and trispectrum deviations.
 concepts:
 - δ
-excerpt: From δ-mode inheritance. **Test:** Bispectrum and trispectrum deviations.
-heading: '**3\. Non-Gaussian structure growth**'
-id: GEN11-1166
-lines: 1007-1014
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::ii-large-scale-structure-lss-predictions::3-non-gaussian-structure-growth::b1
-parent_heading: '**II. Large-Scale Structure (LSS) Predictions**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+- δ-mode
+aliases:
+- Bk472fm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,28 @@
+id: GEN15-3129
+location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-3-expand-the-curvature-operator::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 760-779
+heading: '**Step 3 — Expand the curvature operator**'
+parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Compute: Kδ=(δ0+ϵ)†(δ0+ϵ)\\mathcal{K}\_\\delta \= (\\delta\_0+\\epsilon)^\\dagger(\\delta\_0+\\epsilon)Kδ​=(δ0​+ϵ)†(δ0​+ϵ)
   \=δ0†δ0+δ0†ϵ+ϵ†δ0+ϵ†ϵ= \\delta\_0^\\dagger\\delta\_0 \+ \\delta\_0^\\dagger\\...'
-heading: '**Step 3 — Expand the curvature operator**'
-id: GEN15-3129
-lines: 760-779
-location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-3-expand-the-curvature-operator::b1
-parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- self-energy
+- ε
+aliases:
+- Bk010cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.2058823529411766
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,29 @@
+id: INTK-10772
+location: intake/volume-i-core-ontology-and-metagenesis-summary::igsoa-theoretical-framework::mission-statement::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2047-2049
+heading: Mission Statement
+parent_heading: IGSOA Theoretical Framework
 block_type: paragraph
-concepts:
-- Mission Statement
-- Theoretical Framework Project Purpose
 excerpt: '> "Mission Statement: IGSOA Theoretical Framework Project Purpose: To develop
   and present a comprehensive theoretical framework representing one observer''s systematic
   reasoning about the fundamental n...'
-heading: Mission Statement
-id: INTK-10772
-lines: 2047-2049
-location: intake/volume-i-core-ontology-and-metagenesis-summary::igsoa-theoretical-framework::mission-statement::b1
-parent_heading: IGSOA Theoretical Framework
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- Theoretical Framework Project Purpose
+- Mission Statement
+aliases:
+- Bk049ms
+tags:
+- qualified
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 1.2987012987012987
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

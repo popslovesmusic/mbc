@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- interacting
-- six
-- δ
-excerpt: 'When the 3 modes begin *interacting*, you get: * forward cycle: IGS → OA
-  → δ * return cycle: δ → OA → IGS'
-heading: '**⭐ 2\. 6 — The Dual-Cycle Completion**'
 id: SPEC-11066
-lines: 1472-1496
 location: special/specil::2-6-the-dual-cycle-completion::b1
 source: special\specil.md
+lines: 1472-1496
+heading: '**⭐ 2\. 6 — The Dual-Cycle Completion**'
+block_type: paragraph
+excerpt: 'When the 3 modes begin *interacting*, you get: * forward cycle: IGS → OA
+  → δ * return cycle: δ → OA → IGS'
+concepts:
+- →
+- δ
+- deviation cycle
+- six
+aliases:
+- Bk513wt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

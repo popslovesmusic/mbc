@@ -1,14 +1,34 @@
+id: INTK-9990
+location: intake/meta-genesis-mathematical-papers::4-unified-short-proof-for-the-paper::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 703-718
+heading: '**4\. Unified Short Proof (for the paper)**'
 block_type: paragraph
-concepts:
-- Identity Emergence
-- Theorem
-- Ψ
-- δ
 excerpt: Theorem (Identity Emergence).\\textbf{Theorem (Identity Emergence).}Theorem
   (Identity Emergence). 1. Identity requires a distinguishable entity. 2. The zero-state
   Ψ0\\Psi\_0Ψ0​ has no distinctions, th...
-heading: '**4\. Unified Short Proof (for the paper)**'
-id: INTK-9990
-lines: 703-718
-location: intake/meta-genesis-mathematical-papers::4-unified-short-proof-for-the-paper::b1
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+- δ
+- Theorem
+- Deviation
+- Identity Emergence
+- well-defined
+- zero-state
+- ≠
+aliases:
+- Th305ti
+tags:
+- theorem
+- identity-emergencetextbftheorem-identity-emergencetheorem-identity-emergence
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

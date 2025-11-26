@@ -1,15 +1,33 @@
+id: GEN1-593
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-72-meta-time-is-the-colimit-of-δ-iteration::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1060-1069
+heading: '**Theorem 7.2 — Meta-Time is the Colimit of δ-Iteration.**'
 block_type: paragraph
+excerpt: '**Statement.** Define Tmeta=lim→⁡(δn).\\mathcal{T}\_{\\mathrm{meta}} \=
+  \\varinjlim (\\delta^n).Tmeta​=lim​(δn).'
 concepts:
+- δ
+- well-defined
+- →
 - 'Define
 
 
   Tmeta'
+- δn
 - Then Tmeta
-- δ
-excerpt: '**Statement.** Define Tmeta=lim→⁡(δn).\\mathcal{T}\_{\\mathrm{meta}} \=
-  \\varinjlim (\\delta^n).Tmeta​=lim​(δn).'
-heading: '**Theorem 7.2 — Meta-Time is the Colimit of δ-Iteration.**'
-id: GEN1-593
-lines: 1060-1069
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-72-meta-time-is-the-colimit-of-δ-iteration::b1
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+aliases:
+- Bk547sd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.35483870967742
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

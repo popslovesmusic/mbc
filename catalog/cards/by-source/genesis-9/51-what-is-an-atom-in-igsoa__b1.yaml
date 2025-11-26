@@ -1,13 +1,31 @@
+id: GEN9-9169
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-from-π-orbitals-to-atoms::51-what-is-an-atom-in-igsoa::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2192-2198
+heading: '**5.1 What Is an Atom in IGSOA?**'
+parent_heading: '**5\. From Π-Orbitals to Atoms**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'An atom is a **δ-stable configuration**: AZ=⋃n≤NΠnfilled.A\_Z \= \\bigcup\_{n\\le
   N} \\Pi\_n^{\\text{filled}}.AZ​=n≤N⋃​Πnfilled​. Where “filling” means Π-modes reach
   δ-equilibrium, not electron occupa...'
-heading: '**5.1 What Is an Atom in IGSOA?**'
-id: GEN9-9169
-lines: 2192-2198
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-from-π-orbitals-to-atoms::51-what-is-an-atom-in-igsoa::b1
-parent_heading: '**5\. From Π-Orbitals to Atoms**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Π
+- δ-stable configuration
+- δ
+- ≤
+- δ-equilibrium
+- δ-stable
+- Π-modes
+- Πnfilled
+aliases:
+- Bk949as
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

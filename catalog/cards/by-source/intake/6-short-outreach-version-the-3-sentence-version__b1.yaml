@@ -1,15 +1,36 @@
+id: INTK-9858
+location: intake/meta-genesis-core-papers-foundations::6-short-outreach-version-the-3-sentence-version::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1371-1386
+heading: '**6\. Short Outreach Version (The 3-Sentence Version)**'
 block_type: paragraph
-concepts:
-- Math Unified Equation
-- Meta-Math
-- Meta-Standard-Model
-- Ψ
-- δ
 excerpt: '**Before the universe existed, there was a perfectly symmetric, completely
   structureless state.** **But perfect symmetry in a real substrate is unstable—it
   cannot stay as it is.** **The first break in...'
-heading: '**6\. Short Outreach Version (The 3-Sentence Version)**'
-id: INTK-9858
-lines: 1371-1386
-location: intake/meta-genesis-core-papers-foundations::6-short-outreach-version-the-3-sentence-version::b1
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Meta-Math
+- Ψ
+- →
+- Category-theoretic reinterpretation
+- Corollary
+- Meta-Standard-Model
+- Category-theoretic
+- δ
+- Math Unified Equation
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk740bt
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.253012048192772
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,11 +1,27 @@
+id: GEN2-6404
+location: genesis-2/axioms-of-geometry-topos-compatible::unified-δ-φ-foundation-layer-axiom-block::the-deviationaction-substrate-of-igsoa::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1352-1356
+heading: '***The Deviation–Action Substrate of IGSOA***'
+parent_heading: '**Unified δ \+ Φ Foundation Layer Axiom Block**'
 block_type: paragraph
+excerpt: '*(Canonical, Sealed, Merged Axiom Set)* ---'
 concepts:
 - Axiom
 - Merged Axiom Set
-excerpt: '*(Canonical, Sealed, Merged Axiom Set)* ---'
-heading: '***The Deviation–Action Substrate of IGSOA***'
-id: GEN2-6404
-lines: 1352-1356
-location: genesis-2/axioms-of-geometry-topos-compatible::unified-δ-φ-foundation-layer-axiom-block::the-deviationaction-substrate-of-igsoa::b1
-parent_heading: '**Unified δ \+ Φ Foundation Layer Axiom Block**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+aliases:
+- Bk878cs
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

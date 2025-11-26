@@ -1,10 +1,31 @@
-block_type: table
-concepts:
-- Mathematical Meaning
-- Σ
-excerpt: 'Possible definitions:'
-heading: H(Σ)?
 id: GEN17-4228
-lines: 1214-1222
 location: genesis-17/box-calculus::hς::b1
 source: genesis-17\box_calculus.md
+lines: 1214-1222
+heading: H(Σ)?
+block_type: table
+excerpt: 'Possible definitions:'
+concepts:
+- IGSOA
+- Σ
+- ≥
+- →
+- low-dimensional
+- multi-component
+- meaning-vector
+- high-norm
+- Mathematical Meaning
+aliases:
+- Bk899im
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

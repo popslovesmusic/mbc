@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- Cosmology Layer
-- Layer
-- Π
-- Φ
-- δ
-excerpt: '*(IGSOA δ–Φ–Π Cosmology Layer)* ---'
-heading: '**Chapter: δ-Inflation and the Deviational Expansion Framework**'
 id: GEN12-1766
-lines: 726-730
 location: genesis-12/untitled-document::chapter-δ-inflation-and-the-deviational-expansion-framework::b1
 source: genesis-12\Untitled_document.md
+lines: 726-730
+heading: '**Chapter: δ-Inflation and the Deviational Expansion Framework**'
+block_type: paragraph
+excerpt: '*(IGSOA δ–Φ–Π Cosmology Layer)* ---'
+concepts:
+- IGSOA
+- Layer
+- Π
+- δ
+- Φ
+- Cosmology Layer
+aliases:
+- Bk027ic
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 100.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

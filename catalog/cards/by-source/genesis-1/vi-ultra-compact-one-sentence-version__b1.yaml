@@ -1,16 +1,41 @@
+id: GEN1-431
+location: genesis-1/the-foundation-layer::the-foundation-layer::vi-ultra-compact-one-sentence-version::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 133-153
+heading: '**VI. Ultra-compact one-sentence version**'
+parent_heading: '**THE FOUNDATION LAYER**'
 block_type: paragraph
-concepts:
-- Layer
-- Meta-Einstein
-- The Foundation Layer
-- Ψ
-- δ
 excerpt: 'For paper headers, abstracts, or figure captions: **The Foundation Layer
   asserts that the structureless zero-state Ψ₀ cannot exist (NOT), requiring the unique
   deviation δ, whose action δΨ₀ generates t...'
-heading: '**VI. Ultra-compact one-sentence version**'
-id: GEN1-431
-lines: 133-153
-location: genesis-1/the-foundation-layer::the-foundation-layer::vi-ultra-compact-one-sentence-version::b1
-parent_heading: '**THE FOUNDATION LAYER**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Meta-Einstein
+- Foundation Layer
+- category-theoretic formulation
+- δ
+- Theorem
+- Meta-Einstein linkage
+- Layer
+- Proof
+- category-theoretic
+- Ψ
+- δ-curvature
+- narrative outreach version
+- zero-state
+- The Foundation Layer
+- Ψ₀
+aliases:
+- Bk737fp
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.072289156626507
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,18 +1,35 @@
+id: GEN18-5320
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::0-status-of-this-axiom::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2410-2420
+heading: '**0\. Status of This Axiom**'
 block_type: list
-concepts:
-- Box
-- Final
-- Global Constraint
-- Sealed
-- Supreme
-- Π
-- Φ
-- δ
 excerpt: '* **Supreme**: nothing overrides it * **Sealed**: cannot be modified, weakened,
   or appended inside the box * **Final**: closes the entire IGSOA → δ → Φ → Π → Box
   → CSOI hierarchy'
-heading: '**0\. Status of This Axiom**'
-id: GEN18-5320
-lines: 2410-2420
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::0-status-of-this-axiom::b1
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- →
+- IGSOA
+- MBC
+- Box
+- Π
+- δ
+- Φ
+- Global Constraint
+- Supreme
+- Sealed
+- Final
+aliases:
+- Bk519sn
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.500000000000004
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

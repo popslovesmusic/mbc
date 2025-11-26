@@ -1,10 +1,33 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Start with δ as a nonlinear generator: * δ¹ \= adjacency * δ² \= curvature
-  (non-commutativity of δ-moves)'
-heading: '**I. Δ-Curvature: The Second Deviation Layer**'
 id: GEN0-206
-lines: 756-768
 location: genesis-0/tri-unity-theorem-equivalence-of::i-δ-curvature-the-second-deviation-layer::b1
 source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 756-768
+heading: '**I. Δ-Curvature: The Second Deviation Layer**'
+block_type: paragraph
+excerpt: 'Start with δ as a nonlinear generator: * δ¹ \= adjacency * δ² \= curvature
+  (non-commutativity of δ-moves)'
+concepts:
+- δ
+- non-commutativity
+- δ-propagation
+- δ-curvatures
+- δ-moves
+- δj
+- δi
+- δ¹
+- δ²
+aliases:
+- Bk121sw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,23 @@
+id: GEN3-7375
+location: genesis-3/the-physics-box-diagram::4-plain-language-outreach-version::the-δφphysics-stack-in-plain-english::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 182-187
+heading: '**The δ–Φ–Physics Stack in Plain English**'
+parent_heading: '**4\. PLAIN LANGUAGE OUTREACH VERSION**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: '**δ (deviation)** is the first thing that can ever “happen.” It is the universe’s
   first ability to *not be perfectly still.* From δ you get:'
-heading: '**The δ–Φ–Physics Stack in Plain English**'
-id: GEN3-7375
-lines: 182-187
-location: genesis-3/the-physics-box-diagram::4-plain-language-outreach-version::the-δφphysics-stack-in-plain-english::b1
-parent_heading: '**4\. PLAIN LANGUAGE OUTREACH VERSION**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- δ
+aliases:
+- Bk190dt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.8461538461538463
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

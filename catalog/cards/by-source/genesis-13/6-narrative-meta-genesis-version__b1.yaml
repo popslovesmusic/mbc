@@ -1,13 +1,30 @@
+id: GEN13-2505
+location: genesis-13/what-biology-is-in-meta-genesis::6-narrative-meta-genesis-version::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 722-738
+heading: '**6\. Narrative Meta-Genesis Version**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Deviation cracked the stillness of chemistry once more. Protons gathered
   on one side of a membrane, a quiet slope of tension—δ seeking release. Φ answered
   with a machine: a molecular turbine capable o...'
-heading: '**6\. Narrative Meta-Genesis Version**'
-id: GEN13-2505
-lines: 722-738
-location: genesis-13/what-biology-is-in-meta-genesis::6-narrative-meta-genesis-version::b1
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Deviation
+- Π
+- δ
+- Φ
+- Π-shell
+- Φ-dance
+aliases:
+- Bk099dc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.769230769230769
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

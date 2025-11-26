@@ -1,12 +1,28 @@
+id: GEN14-2831
+location: genesis-14/meta-math-and-cryptography::5-π-projection-as-the-source-of-irreversibility::property-π-loss::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 633-635
+heading: '**Property (Π-Loss):**'
+parent_heading: '**5\. Π: Projection as the Source of Irreversibility**'
 block_type: paragraph
+excerpt: Π intentionally **forgets** δ-dependent information.
 concepts:
-- forgets
+- δ-dependent
 - Π
 - δ
-excerpt: Π intentionally **forgets** δ-dependent information.
-heading: '**Property (Π-Loss):**'
-id: GEN14-2831
-lines: 633-635
-location: genesis-14/meta-math-and-cryptography::5-π-projection-as-the-source-of-irreversibility::property-π-loss::b1
-parent_heading: '**5\. Π: Projection as the Source of Irreversibility**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+- forgets
+aliases:
+- Bk794if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

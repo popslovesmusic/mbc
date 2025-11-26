@@ -1,13 +1,31 @@
-block_type: table
-concepts:
-- Axiom
-- Genesis Contrast
-- Math Requirement
-- Ψ
-- δ
-excerpt: '---'
-heading: '**Summary Table**'
 id: GEN2-6255
-lines: 535-553
 location: genesis-2/axioms-for-the-category-genesis::summary-table::b2
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 535-553
+heading: '**Summary Table**'
+block_type: table
+excerpt: '---'
+concepts:
+- Curvature
+- Deviation
+- Axiom
+- Deviation-closure
+- δ-curvature
+- Proto-time
+- δ
+- Ψ
+- Math Requirement
+- Genesis Contrast
+- Ψ₀
+aliases:
+- Bk282am
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.414634146341465
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

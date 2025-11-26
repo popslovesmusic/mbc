@@ -1,12 +1,28 @@
+id: GEN12-1931
+location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-evolution-theorem::1-determinism::b1
+source: genesis-12\Untitled_document.md
+lines: 3115-3123
+heading: '**1\. Determinism.**'
+parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Evolution Theorem ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: Since Φ₂ and Π are functorial, the trajectory Gi(t)=Π(Φ2(Bi(t)))\\mathcal{G}\_i(t)=\\Pi(\\Phi\_2(B\_i(t)))Gi​(t)=Π(Φ2​(Bi​(t)))
   is uniquely determined for all ttt where Φ₂ is defined.
-heading: '**1\. Determinism.**'
-id: GEN12-1931
-lines: 3115-3123
-location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-evolution-theorem::1-determinism::b1
-parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Evolution Theorem ⟡**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- Π
+- Φ₂
+aliases:
+- Bk724sa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

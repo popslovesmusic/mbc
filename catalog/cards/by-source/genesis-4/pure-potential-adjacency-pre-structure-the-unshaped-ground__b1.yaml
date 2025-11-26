@@ -1,14 +1,30 @@
+id: GEN4-7749
+location: genesis-4/the-adjoint-triple::1-meta-genesis-being-without-form::pure-potential-adjacency-pre-structure-the-unshaped-ground::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 551-572
+heading: '***Pure potential, adjacency, pre-structure, the unshaped ground.***'
+parent_heading: '**✦ 1\. Meta-Genesis — Being Without Form**'
 block_type: paragraph
+excerpt: 'Meta-Genesis represents: * The universe **before** it becomes structured
+  * Pure **potentiality** without metric or algebra'
 concepts:
 - Meta-Genesis
 - Meta-Time
+- ground state that is not yet differentiated
 - before
 - potentiality
-excerpt: 'Meta-Genesis represents: * The universe **before** it becomes structured
-  * Pure **potentiality** without metric or algebra'
-heading: '***Pure potential, adjacency, pre-structure, the unshaped ground.***'
-id: GEN4-7749
-lines: 551-572
-location: genesis-4/the-adjoint-triple::1-meta-genesis-being-without-form::pure-potential-adjacency-pre-structure-the-unshaped-ground::b1
-parent_heading: '**✦ 1\. Meta-Genesis — Being Without Form**'
-source: genesis-4\The_Adjoint_Triple.md
+aliases:
+- Bk791mg
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.246376811594203
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

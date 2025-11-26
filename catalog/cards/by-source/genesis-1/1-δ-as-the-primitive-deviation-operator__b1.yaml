@@ -1,17 +1,33 @@
+id: GEN1-445
+location: genesis-1/the-foundation-layer::i-operator-definition::1-δ-as-the-primitive-deviation-operator::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 373-389
+heading: '**1\. δ as the Primitive Deviation Operator**'
+parent_heading: '**I. Operator Definition**'
 block_type: paragraph
-concepts:
-- Foundation Layer
-- Layer
-- non-invertible
-- order-generating
-- structure-generating
-- Ψ
-- δ
 excerpt: 'δ is the unique operator compatible with Ψ₀ (from the Foundation Layer).
   δ:Ψn↦Ψn+1\\delta:\\Psi\_n \\mapsto \\Psi\_{n+1}δ:Ψn​↦Ψn+1​ Properties:'
-heading: '**1\. δ as the Primitive Deviation Operator**'
-id: GEN1-445
-lines: 373-389
-location: genesis-1/the-foundation-layer::i-operator-definition::1-δ-as-the-primitive-deviation-operator::b1
-parent_heading: '**I. Operator Definition**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Foundation Layer
+- δ
+- Ψ
+- structure-generating
+- Layer
+- Ψn
+- order-generating
+- non-invertible
+- meta-time
+- irreducibly asymmetric
+- Ψ₀
+aliases:
+- Bk169tu
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

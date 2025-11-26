@@ -1,15 +1,30 @@
+id: GEN3-7307
+location: genesis-3/metagenesis::hermetic-consequences::consequence-h3-ensures-functorial-compatibility::b1
+source: genesis-3\metagenesis.md
+lines: 526-532
+heading: '**Consequence H3: Ensures Functorial Compatibility**'
+parent_heading: '**Hermetic Consequences**'
 block_type: paragraph
-concepts:
-- Action Functor
-- The Genesis
-- Zero-State
-- only
 excerpt: 'The Genesis–Action Functor: F:Genesis→ActionF:\\mathbf{Genesis}\\to\\mathbf{Action}F:Genesis→Action
   can exist **only** if the NOT axioms hermetically seal the Zero-State from any operator
   influence.'
-heading: '**Consequence H3: Ensures Functorial Compatibility**'
-id: GEN3-7307
-lines: 526-532
-location: genesis-3/metagenesis::hermetic-consequences::consequence-h3-ensures-functorial-compatibility::b1
-parent_heading: '**Hermetic Consequences**'
-source: genesis-3\metagenesis.md
+concepts:
+- Functor
+- State
+- →
+- Zero-State
+- Action Functor
+- The Genesis
+- only
+aliases:
+- Bk067tg
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.58064516129032
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

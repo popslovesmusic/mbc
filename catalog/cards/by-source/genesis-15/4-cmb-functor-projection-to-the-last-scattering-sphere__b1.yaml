@@ -1,13 +1,30 @@
+id: GEN15-3198
+location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-the-functor-stack-δ-φ-π-cmb-lss-galaxies::4-cmb-functor-projection-to-the-last-scattering-sphere::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1881-1895
+heading: '**4\. CMB Functor: projection to the last-scattering sphere**'
+parent_heading: '**Ⅱ. The Functor Stack: δ → Φ → Π → CMB → LSS → Galaxies**'
 block_type: paragraph
+excerpt: 'Define: CMB=ΠLSS∘Φ.\\mathcal{CMB} \= \\Pi\_{\\mathrm{LSS}} \\circ \\Phi.CMB=ΠLSS​∘Φ.
+  Meaning:'
 concepts:
 - Π
 - Φ
+- ΠLSS
 - λ
-excerpt: 'Define: CMB=ΠLSS∘Φ.\\mathcal{CMB} \= \\Pi\_{\\mathrm{LSS}} \\circ \\Phi.CMB=ΠLSS​∘Φ.
-  Meaning:'
-heading: '**4\. CMB Functor: projection to the last-scattering sphere**'
-id: GEN15-3198
-lines: 1881-1895
-location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-the-functor-stack-δ-φ-π-cmb-lss-galaxies::4-cmb-functor-projection-to-the-last-scattering-sphere::b1
-parent_heading: '**Ⅱ. The Functor Stack: δ → Φ → Π → CMB → LSS → Galaxies**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+- Φ-modes
+aliases:
+- Bk020dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

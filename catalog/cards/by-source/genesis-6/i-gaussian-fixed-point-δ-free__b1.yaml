@@ -1,13 +1,30 @@
+id: GEN6-8331
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::3-fixed-points::i-gaussian-fixed-point-δ-free::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 950-957
+heading: '**(i) Gaussian fixed point (δ-free)**'
+parent_heading: '**3\) Fixed Points**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: λ∗(G)=0,m∗2=0.\\lambda\_\*^{(G)} \= 0, \\qquad m\_\*^2 \= 0.λ∗(G)​=0,m∗2​=0.
   Stable for p\>4p\>4p\>4 (εδ \< 0). This is your “high-dimension adjacency smoothing”
   regime.
-heading: '**(i) Gaussian fixed point (δ-free)**'
-id: GEN6-8331
-lines: 950-957
-location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::3-fixed-points::i-gaussian-fixed-point-δ-free::b1
-parent_heading: '**3\) Fixed Points**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- λ
+- high-dimension
+- ε
+- δ
+aliases:
+- Bk765lq
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,28 @@
+id: GEN8-8962
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::proof-formal-operator-theoretic::step-1-expand-full-curvature-by-tri-unity-identity::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 866-870
+heading: '**Step 1 — Expand Full Curvature by Tri-Unity Identity**'
+parent_heading: '**Proof (Formal, Operator-Theoretic)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: R=Rδ+RΦ+RΠ.(1)\\mathcal{R} \= \\mathcal{R}\_\\delta+\\mathcal{R}\_\\Phi+\\mathcal{R}\_\\Pi.
   \\tag{1}R=Rδ​+RΦ​+RΠ​.(1) ---
-heading: '**Step 1 — Expand Full Curvature by Tri-Unity Identity**'
-id: GEN8-8962
-lines: 866-870
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::proof-formal-operator-theoretic::step-1-expand-full-curvature-by-tri-unity-identity::b1
-parent_heading: '**Proof (Formal, Operator-Theoretic)**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- Π
+- δ
+- Φ
+aliases:
+- Bk054mm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

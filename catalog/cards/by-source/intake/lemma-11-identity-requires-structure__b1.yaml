@@ -1,11 +1,28 @@
+id: INTK-10086
+location: intake/meta-genesis-physical-interpretation-papers::1-impossibility-of-identity-in-the-zero-state::lemma-11-identity-requires-structure::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 233-249
+heading: '**Lemma 1.1 (Identity Requires Structure).**'
+parent_heading: '**1\. Impossibility of Identity in the Zero State**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'For a state Ψ to satisfy temporal identity: Ψ(t)=Ψ(t+Δt),\\Psi(t) \= \\Psi(t+\\Delta
   t),Ψ(t)=Ψ(t+Δt), Ψ must possess at least one structure sufficient to enforce equality.'
-heading: '**Lemma 1.1 (Identity Requires Structure).**'
-id: INTK-10086
-lines: 233-249
-location: intake/meta-genesis-physical-interpretation-papers::1-impossibility-of-identity-in-the-zero-state::lemma-11-identity-requires-structure::b1
-parent_heading: '**1\. Impossibility of Identity in the Zero State**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- Proof
+- Δ
+- Ψ₀
+aliases:
+- Bk855fs
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.405405405405405
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

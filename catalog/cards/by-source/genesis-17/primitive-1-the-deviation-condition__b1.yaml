@@ -1,10 +1,30 @@
-block_type: paragraph
-concepts:
-- Σ
-excerpt: Σ∈V,Σ≠0 Σ∈V,Σ \=0
-heading: 'Primitive 1: The Deviation Condition'
 id: GEN17-4733
-lines: 8559-8565
 location: genesis-17/box-calculus::i-ontological-foundations-minimal-ontology::primitive-1-the-deviation-condition::b1
-parent_heading: 🔷 I. Ontological Foundations (Minimal Ontology)
 source: genesis-17\box_calculus.md
+lines: 8559-8565
+heading: 'Primitive 1: The Deviation Condition'
+parent_heading: 🔷 I. Ontological Foundations (Minimal Ontology)
+block_type: paragraph
+excerpt: Σ∈V,Σ≠0 Σ∈V,Σ \=0
+concepts:
+- IGSOA
+- Σ
+- Axiom
+- ∈
+- non-zero
+- ≠
+aliases:
+- Bk401as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 26.08695652173913
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

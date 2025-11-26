@@ -1,12 +1,32 @@
+id: GEN20-7064
+location: genesis-20/mbc-40-documentaitio-1::part-i-foundations-of-advanced-mbc::chapter-a3-formal-stability-and-coherence-conditions::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5117-5125
+heading: Chapter A3 — Formal “Stability” and “Coherence” Conditions
+parent_heading: PART I — Foundations of Advanced MBC
 block_type: list
-concepts:
-- Π
-- Φ
 excerpt: '* Φ-stability rules * Π-evaluability constraints * Loop-stability (semantic
   feedback conditions)'
-heading: Chapter A3 — Formal “Stability” and “Coherence” Conditions
-id: GEN20-7064
-lines: 5117-5125
-location: genesis-20/mbc-40-documentaitio-1::part-i-foundations-of-advanced-mbc::chapter-a3-formal-stability-and-coherence-conditions::b1
-parent_heading: PART I — Foundations of Advanced MBC
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Loop-stability
+- Π-evaluability
+- multi-input
+- Φ-stability
+- Π
+- Φ
+aliases:
+- Bk237sr
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

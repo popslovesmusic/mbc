@@ -1,15 +1,31 @@
+id: GEN18-5205
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::e-meta-operators-high-level-computation-semantics::e3-fork::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 871-880
+heading: '**E3 — fork**'
+parent_heading: '**E. META-OPERATORS (High-Level Computation & Semantics)**'
 block_type: table
+excerpt: '---'
 concepts:
 - Box
-- Class
 - Definition
 - Field
+- →
 - Signature
+- Class
 - Use
-excerpt: '---'
-heading: '**E3 — fork**'
-id: GEN18-5205
-lines: 871-880
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::e-meta-operators-high-level-computation-semantics::e3-fork::b1
-parent_heading: '**E. META-OPERATORS (High-Level Computation & Semantics)**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+aliases:
+- Bk421fv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.434782608695656
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

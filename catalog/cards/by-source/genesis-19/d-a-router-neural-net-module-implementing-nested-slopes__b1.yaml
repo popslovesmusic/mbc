@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which one should I do?
-heading: D) A router neural net module implementing nested slopes
 id: GEN19-6125
-lines: 1252-1254
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-generate-next::d-a-router-neural-net-module-implementing-nested-slopes::b1
-parent_heading: 'If you want, I can generate next:'
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1252-1254
+heading: D) A router neural net module implementing nested slopes
+parent_heading: 'If you want, I can generate next:'
+block_type: paragraph
+excerpt: Which one should I do?
+aliases:
+- Bk906wo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

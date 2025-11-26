@@ -1,14 +1,35 @@
+id: GEN10-712
+location: genesis-10/how-stillness-becomes-solid::2-φ-dynamics-stability-and-protected-harmonic-pairs::22-symmetry-protection::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 511-521
+heading: '**2.2 Symmetry Protection**'
+parent_heading: '**2\. Φ-Dynamics: Stability and Protected Harmonic Pairs**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
-- ν
 excerpt: 'δ-parity forces Φ to preserve degeneracy: * if νδ=0\\nu\_\\delta \= 0νδ​=0:
   harmonics can split (no protection). * if νδ=1\\nu\_\\delta \= 1νδ​=1: harmonic
   pairs cannot be separated without closing th...'
-heading: '**2.2 Symmetry Protection**'
-id: GEN10-712
-lines: 511-521
-location: genesis-10/how-stillness-becomes-solid::2-φ-dynamics-stability-and-protected-harmonic-pairs::22-symmetry-protection::b1
-parent_heading: '**2\. Φ-Dynamics: Stability and Protected Harmonic Pairs**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- δ
+- ν
+- δ-curvature parity
+- Φ
+- Genesis-level
+- time-reversal
+- δ-curvature
+- δ-parity
+- δ-gap
+- Kramers degeneracy
+aliases:
+- Bk658pf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.94915254237288
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

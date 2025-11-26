@@ -1,12 +1,29 @@
+id: GEN15-3226
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version::3-collapse-criterion-pressschechter-or-igsoa-generalized::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2211-2217
+heading: '**3\. Collapse criterion (Press–Schechter or IGSOA-generalized)**'
+parent_heading: '**Ⅲ. Operator-Theoretic Version**'
 block_type: paragraph
-concepts:
-- δ
-- σ
 excerpt: 'σ2(M)=∫P(k)W2(kR)dk.\\sigma^2(M)=\\int P(k)W^2(kR)dk.σ2(M)=∫P(k)W2(kR)dk.
   Collapse if: σ(M)\>δc.\\sigma(M)\>\\delta\_c.σ(M)\>δc​.'
-heading: '**3\. Collapse criterion (Press–Schechter or IGSOA-generalized)**'
-id: GEN15-3226
-lines: 2211-2217
-location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version::3-collapse-criterion-pressschechter-or-igsoa-generalized::b1
-parent_heading: '**Ⅲ. Operator-Theoretic Version**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- σ
+- ∫
+- δ
+- δc
+aliases:
+- Bk845si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

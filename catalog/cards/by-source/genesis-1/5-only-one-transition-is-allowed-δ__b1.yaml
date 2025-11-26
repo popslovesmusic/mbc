@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Creates
-- Ψ
-- δ
-excerpt: 'Because Ψ₀ has: * no internal structure * no operators'
-heading: '**5\. Only One Transition Is Allowed: δ**'
 id: GEN1-473
-lines: 853-881
 location: genesis-1/the-foundation-layer::5-only-one-transition-is-allowed-δ::b1
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 853-881
+heading: '**5\. Only One Transition Is Allowed: δ**'
+block_type: paragraph
+excerpt: 'Because Ψ₀ has: * no internal structure * no operators'
+concepts:
+- Ψ
+- Does not rely on pre-existing structure
+- δ
+- minimal consistent alternative
+- Breaks the forbidden condition
+- pre-existing
+- Ψ₀
+- Creates
+aliases:
+- Bk789bh
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.793103448275861
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

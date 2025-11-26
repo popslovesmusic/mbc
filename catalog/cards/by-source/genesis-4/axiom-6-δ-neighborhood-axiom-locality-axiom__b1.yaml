@@ -1,12 +1,32 @@
+id: GEN4-7861
+location: genesis-4/the-first-adjacency::axiom-6-δ-neighborhood-axiom-locality-axiom::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 862-878
+heading: '**Axiom 6 — δ-Neighborhood Axiom (Locality Axiom)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'For each state Ψn\\Psi\_nΨn​, define the δ-neighborhood: Nδ(Ψn)={Ψm:Ψm is
   adjacent to Ψn via a δ-path}.N\_\\delta(\\Psi\_n) \= \\{\\Psi\_m : \\Psi\_m \\text{
   is adjacent to } \\Psi\_n \\text{ via a δ-...'
-heading: '**Axiom 6 — δ-Neighborhood Axiom (Locality Axiom)**'
-id: GEN4-7861
-lines: 862-878
-location: genesis-4/the-first-adjacency::axiom-6-δ-neighborhood-axiom-locality-axiom::b1
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Ψ
+- δ
+- Ψn
+- δ-path
+- Ψm
+- δ-neighborhood
+- ≠
+aliases:
+- Bk250fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.833333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

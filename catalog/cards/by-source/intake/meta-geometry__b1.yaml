@@ -1,15 +1,30 @@
+id: INTK-10326
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::relationship-to-other-branches-of-meta-math::meta-geometry::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 853-854
+heading: Meta-Geometry
+parent_heading: Relationship to Other Branches of Meta-Math
 block_type: paragraph
+excerpt: Provides the geometric context (PPG, Meta-Metric, Meta-Connection) which
+  Meta-Algebra operates on. The algebraic structure of Meta-Geometry is a central
+  part of Meta-Algebra.
 concepts:
 - Meta-Algebra
 - Meta-Connection
 - Meta-Geometry
 - Meta-Metric
-excerpt: Provides the geometric context (PPG, Meta-Metric, Meta-Connection) which
-  Meta-Algebra operates on. The algebraic structure of Meta-Geometry is a central
-  part of Meta-Algebra.
-heading: Meta-Geometry
-id: INTK-10326
-lines: 853-854
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::relationship-to-other-branches-of-meta-math::meta-geometry::b1
-parent_heading: Relationship to Other Branches of Meta-Math
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+aliases:
+- Bk671pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.814814814814813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

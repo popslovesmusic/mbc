@@ -1,14 +1,32 @@
+id: GEN13-2266
+location: genesis-13/the-weight-of-light::the-weight-of-light::4-the-slow-path-toward-collapse::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 51-63
+heading: '**4\. The Slow Path Toward Collapse**'
+parent_heading: '***The Weight of Light***'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: But not all stars survive their brilliance. Some grow massive—too massive—and
   the same δ-curvature that once built them now sharpens into fragility. The core
   becomes iron, the element that cannot give...
-heading: '**4\. The Slow Path Toward Collapse**'
-id: GEN13-2266
-lines: 51-63
-location: genesis-13/the-weight-of-light::the-weight-of-light::4-the-slow-path-toward-collapse::b1
-parent_heading: '***The Weight of Light***'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- δ-curvature
+- Φ
+- Φ-tension
+- Π-order
+- Π
+aliases:
+- Bk138bn
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.317073170731707
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

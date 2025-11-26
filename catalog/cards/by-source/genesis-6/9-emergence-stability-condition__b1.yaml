@@ -1,14 +1,26 @@
+id: GEN6-8422
+location: genesis-6/the-harmonic-spectral-triple::iii-structural-consistency-conditions::9-emergence-stability-condition::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 936-956
+heading: '**9\. Emergence Stability Condition**'
+parent_heading: '**III. Structural Consistency Conditions**'
 block_type: paragraph
-concepts:
-- Stability Theorem
-- Theorem
-- δ
 excerpt: 'The spectral triple on the Math side must be stable: (Dδ+i)−1 compact,Spec(Dδ)
   discrete and unbounded.(D\_\\delta+i)^{-1}\\text{ compact},\\quad \\text{Spec}(D\_\\delta)\\text{
   discrete and unbounded....'
-heading: '**9\. Emergence Stability Condition**'
-id: GEN6-8422
-lines: 936-956
-location: genesis-6/the-harmonic-spectral-triple::iii-structural-consistency-conditions::9-emergence-stability-condition::b1
-parent_heading: '**III. Structural Consistency Conditions**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- δ
+- Theorem
+- Stability Theorem
+aliases:
+- Bk378ts
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.9702970297029703
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

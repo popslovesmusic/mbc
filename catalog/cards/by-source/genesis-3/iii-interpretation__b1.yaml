@@ -1,13 +1,38 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- Meta-Math
-- Φ
-- δ
-excerpt: 'This lemma confirms: * **δ-geometry can be embedded into Meta-Math without
-  loss** (adjacency, curvature, and operators remain intact)'
-heading: '**III. Interpretation**'
 id: GEN3-7556
-lines: 1000-1025
 location: genesis-3/the-tri-unity-theorem::iii-interpretation::b1
 source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1000-1025
+heading: '**III. Interpretation**'
+block_type: paragraph
+excerpt: 'This lemma confirms: * **δ-geometry can be embedded into Meta-Math without
+  loss** (adjacency, curvature, and operators remain intact)'
+concepts:
+- Meta-Math
+- Meta-Einstein
+- δ-generated curvature is a special case of Meta-Math curvature
+- δ-geometry
+- δ-geometry can be embedded into Meta-Math without loss
+- δ
+- IGSOA
+- Meta-Math morphisms respect δ-dynamics
+- Lemma
+- Φ
+- well-defined
+- δ-evolution
+- δ-generated
+- δ-dynamics
+- π
+aliases:
+- Bk258tl
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.463917525773196
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

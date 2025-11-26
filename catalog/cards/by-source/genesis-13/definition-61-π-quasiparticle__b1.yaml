@@ -1,12 +1,28 @@
+id: GEN13-2201
+location: genesis-13/meta-math-nuclear-physics::6-φ-π-quasiparticles::definition-61-π-quasiparticle::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2308-2312
+heading: '**Definition 6.1 — Π-Quasiparticle**'
+parent_heading: '**6\. Φ → Π Quasiparticles**'
 block_type: paragraph
+excerpt: ϵ(k)=Π(Φn),n label band.\\epsilon(k) \= \\Pi(\\Phi\_n), \\quad n \\text{
+  label band}.ϵ(k)=Π(Φn​),n label band. ---
 concepts:
 - Π
 - Φ
-excerpt: ϵ(k)=Π(Φn),n label band.\\epsilon(k) \= \\Pi(\\Phi\_n), \\quad n \\text{
-  label band}.ϵ(k)=Π(Φn​),n label band. ---
-heading: '**Definition 6.1 — Π-Quasiparticle**'
-id: GEN13-2201
-lines: 2308-2312
-location: genesis-13/meta-math-nuclear-physics::6-φ-π-quasiparticles::definition-61-π-quasiparticle::b1
-parent_heading: '**6\. Φ → Π Quasiparticles**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+- Φn
+aliases:
+- Bk777lb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

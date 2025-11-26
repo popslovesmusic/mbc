@@ -1,12 +1,26 @@
+id: GEN5-7985
+location: genesis-5/formal-proof-of-the-adjoint-triple::2-the-three-expressions-of-a-single-reality::expression-2-action-meta-math::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 738-752
+heading: '**Expression 2 — Action (Meta-Math)**'
+parent_heading: '**2\. The Three Expressions of a Single Reality**'
 block_type: paragraph
+excerpt: Deviation activates potential. Potential becomes action. Action becomes operators.
 concepts:
 - Meta-Math
-- The Meta
+- Deviation
+- potential endowed with the ability to act upon itself
 - δ
-excerpt: Deviation activates potential. Potential becomes action. Action becomes operators.
-heading: '**Expression 2 — Action (Meta-Math)**'
-id: GEN5-7985
-lines: 738-752
-location: genesis-5/formal-proof-of-the-adjoint-triple::2-the-three-expressions-of-a-single-reality::expression-2-action-meta-math::b1
-parent_heading: '**2\. The Three Expressions of a Single Reality**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+- The Meta
+aliases:
+- Bk725da
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.433962264150944
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

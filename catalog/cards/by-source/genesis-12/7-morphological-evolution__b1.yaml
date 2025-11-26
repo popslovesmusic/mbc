@@ -1,14 +1,29 @@
+id: GEN12-1900
+location: genesis-12/untitled-document::part-vi-evolution-as-δ-mode-drift::7-morphological-evolution::b1
+source: genesis-12\Untitled_document.md
+lines: 2677-2687
+heading: '**7\. (Morphological Evolution)**'
+parent_heading: '**Part VI — Evolution as δ-Mode Drift**'
 block_type: paragraph
-concepts:
-- GF-9
-- Φ
-- δ
 excerpt: 'By **GF-9**, galaxy evolution satisfies: ddtdom(δ∣Bi)=mode-drift(Φ2).\\frac{d}{dt}\\text{dom}(\\delta|\_{B\_i})
   \= \\text{mode-drift}(\\Phi\_2).dtd​dom(δ∣Bi​​)=mode-drift(Φ2​). Thus all morphological
   ...'
-heading: '**7\. (Morphological Evolution)**'
-id: GEN12-1900
-lines: 2677-2687
-location: genesis-12/untitled-document::part-vi-evolution-as-δ-mode-drift::7-morphological-evolution::b1
-parent_heading: '**Part VI — Evolution as δ-Mode Drift**'
-source: genesis-12\Untitled_document.md
+concepts:
+- mode-drift
+- δ
+- Φ
+- δ-mode
+- GF-9
+- Φ₂
+aliases:
+- Bk275ge
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

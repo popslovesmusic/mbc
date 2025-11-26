@@ -1,14 +1,32 @@
+id: GEN10-678
+location: genesis-10/how-stillness-becomes-solid::1-δ-foundation-harmonics-adjacency-spectrum::12-δ-harmonic-spectrum::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 153-169
+heading: '**1.2 δ-Harmonic Spectrum**'
+parent_heading: '**1\. δ-Foundation: Harmonics & Adjacency Spectrum**'
 block_type: paragraph
-concepts:
-- δ
-- δ-harmonics
-- λ
 excerpt: 'The eigenmodes satisfy: H^δψn=λn ψn,λn≥0.\\widehat{H}\_\\delta \\psi\_n
   \= \\lambda\_n\\, \\psi\_n, \\qquad \\lambda\_n \\ge 0.Hδ​ψn​=λn​ψn​,λn​≥0. These
   are the **δ-harmonics**—the fundamental oscill...'
-heading: '**1.2 δ-Harmonic Spectrum**'
-id: GEN10-678
-lines: 153-169
-location: genesis-10/how-stillness-becomes-solid::1-δ-foundation-harmonics-adjacency-spectrum::12-δ-harmonic-spectrum::b1
-parent_heading: '**1\. δ-Foundation: Harmonics & Adjacency Spectrum**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- Eigenvalues correspond to allowed curvature increments
+- ψ
+- λ
+- δ
+- ≥
+- δ-harmonics
+- The spectrum is discrete
+aliases:
+- Bk716te
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.210526315789473
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

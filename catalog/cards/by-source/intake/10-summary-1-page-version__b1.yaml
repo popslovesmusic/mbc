@@ -1,11 +1,37 @@
-block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- δ
-excerpt: '**Meta-Einstein Equation** arises because: 1. δ induces metric → gδg\_\\deltagδ​'
-heading: '**10\. Summary (1-page version)**'
 id: INTK-9674
-lines: 404-436
 location: intake/axioms-geometry::10-summary-1-page-version::b1
 source: intake\Axioms-geometry.md
+lines: 404-436
+heading: '**10\. Summary (1-page version)**'
+block_type: paragraph
+excerpt: '**Meta-Einstein Equation** arises because: 1. δ induces metric → gδg\_\\deltagδ​'
+concepts:
+- δ
+- →
+- Meta-Einstein
+- Meta-Einstein Equation
+- δ-curvature
+- ∇
+- π
+- divergence-free
+- plain-English
+- journal-ready
+- higher-order
+- δ-Einstein
+- δ-Bianchi
+- δ-scalar
+- δ-stress
+aliases:
+- Bk940me
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.327731092436977
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

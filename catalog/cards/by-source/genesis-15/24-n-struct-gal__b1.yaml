@@ -1,10 +1,24 @@
+id: GEN15-3396
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-functors-representing-each-physical-stage::24-n-struct-gal::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 307-313
+heading: '**2.4 N : Struct → Gal**'
+parent_heading: '**2\. Functors Representing Each Physical Stage**'
 block_type: paragraph
-concepts: []
 excerpt: 'Nonlinear collapse and baryon capture: N(S)=G=galaxy distributionN(S) \=
   G \= \\text{galaxy distribution}N(S)=G=galaxy distribution ---'
-heading: '**2.4 N : Struct → Gal**'
-id: GEN15-3396
-lines: 307-313
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-functors-representing-each-physical-stage::24-n-struct-gal::b1
-parent_heading: '**2\. Functors Representing Each Physical Stage**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+aliases:
+- Bk791nc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,17 +1,40 @@
+id: SPEC-10991
+location: special/specil::final-answer-your-question::not-is-fundamental::b1
+source: special\specil.md
+lines: 338-364
+heading: '**✔ NOT is fundamental.**'
+parent_heading: '**🧨 Final Answer (Your Question):**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Genesis Chain
-- because
-- prior
-- δ
 excerpt: It is *prior* to IGSOA. IGSOA is the monistic engine that exists *because*
   NOT forbids perfect stillness. Deviation (δ) is the first outcome of IGSOA’s action.
-heading: '**✔ NOT is fundamental.**'
-id: SPEC-10991
-lines: 338-364
-location: special/specil::final-answer-your-question::not-is-fundamental::b1
-parent_heading: '**🧨 Final Answer (Your Question):**'
-source: special\specil.md
+concepts:
+- IGSOA
+- Deviation
+- A category-theoretic formulation
+- Axiom
+- A white-paper chapter section
+- Theorem
+- Chain
+- category-theoretic
+- Box
+- δ
+- →
+- white-paper
+- Genesis Chain
+- Axiom Box
+aliases:
+- Bk327pi
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.144927536231885
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

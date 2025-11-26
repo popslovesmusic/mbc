@@ -1,12 +1,30 @@
+id: GEN12-1704
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p5-large-scale-structure-predictions::p51-void-scars::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2599-2605
+heading: '**P5.1 Void Scars**'
+parent_heading: '**Axiom P5 (Large-Scale Structure Predictions).**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Π-projection of δ-adjacency defects produces: * ultra-large voids, * elongated
   void “scars.”'
-heading: '**P5.1 Void Scars**'
-id: GEN12-1704
-lines: 2599-2605
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p5-large-scale-structure-predictions::p51-void-scars::b1
-parent_heading: '**Axiom P5 (Large-Scale Structure Predictions).**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π-projection
+- δ-adjacency
+- ultra-large
+- Π
+- δ
+aliases:
+- Bk780pa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 38.46153846153847
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

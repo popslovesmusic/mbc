@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Because MBC stores meaning structurally, not numerically. ---
-heading: ✓ Guaranteed semantic consistency
 id: GEN19-6100
-lines: 912-915
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::3-what-you-gain-massive-advantages::guaranteed-semantic-consistency::b1
-parent_heading: \#3 — What You Gain (Massive Advantages)
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 912-915
+heading: ✓ Guaranteed semantic consistency
+parent_heading: \#3 — What You Gain (Massive Advantages)
+block_type: paragraph
+excerpt: Because MBC stores meaning structurally, not numerically. ---
+concepts:
+- MBC
+aliases:
+- Bk111bm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

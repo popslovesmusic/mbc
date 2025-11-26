@@ -1,18 +1,35 @@
+id: INTK-10751
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::probability-slope-p::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1962-1963
+heading: Probability Slope (P)
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Field
-- Field State
-- Probability Slope
-- Read More
-- The Probability Slope
-- Ψ
-- δ
 excerpt: The Probability Slope (P) is a vector that determines the likelihood of an
   event being actualized. It is calculated from the Field State (Ψ) and the Deviation
   (δ). The component of P with the smallest...
-heading: Probability Slope (P)
-id: INTK-10751
-lines: 1962-1963
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::probability-slope-p::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Deviation
+- State
+- Field
+- Probability Slope
+- The Probability Slope
+- δ
+- Ψ
+- Field State
+- Read More
+aliases:
+- Bk403tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.307692307692307
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

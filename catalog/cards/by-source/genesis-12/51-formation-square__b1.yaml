@@ -1,14 +1,33 @@
+id: GEN12-1999
+location: genesis-12/untitled-document::5-commutative-diagrams::51-formation-square::b1
+source: genesis-12\Untitled_document.md
+lines: 4397-4403
+heading: '**5.1 Formation Square**'
+parent_heading: '**5\. Commutative Diagrams**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Gen→δDev↓↓Φ1Str→Φ2Ker↓↓ΠGal→EGalt\\begin{array}{ccc} \\mathsf{Gen} & \\xrightarrow{\\delta}
   & \\mathsf{Dev} \\\\ \\downarrow & & \\downarrow\\Phi\_1 \\\\ \\mathsf{Str} & \\xrightarrow{\\Phi\_2}
   & \\ma...
-heading: '**5.1 Formation Square**'
-id: GEN12-1999
-lines: 4397-4403
-location: genesis-12/untitled-document::5-commutative-diagrams::51-formation-square::b1
-parent_heading: '**5\. Commutative Diagrams**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- →
+- Π
+- δ
+- ΠGal
+- ΠGalt
+- δDev
+aliases:
+- Bk563ge
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

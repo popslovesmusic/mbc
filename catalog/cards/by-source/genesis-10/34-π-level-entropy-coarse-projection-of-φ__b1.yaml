@@ -1,14 +1,33 @@
+id: GEN10-770
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-actual-derivation-genesis-physics::34-π-level-entropy-coarse-projection-of-φ::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 354-369
+heading: '**3.4 Π-Level Entropy \= Coarse Projection of Φ**'
+parent_heading: '**3\. The Actual Derivation: Genesis → Physics**'
 block_type: paragraph
-concepts:
-- Second Law
-- Π
-- Φ
 excerpt: 'Π (your classical orbit layer) projects modal multiplicity into classical
   macro-histories: Π:Φ→Histories.Π: Φ \\to \\text{Histories}.Π:Φ→Histories. Since
   Φ-space never shrinks,'
-heading: '**3.4 Π-Level Entropy \= Coarse Projection of Φ**'
-id: GEN10-770
-lines: 354-369
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-actual-derivation-genesis-physics::34-π-level-entropy-coarse-projection-of-φ::b1
-parent_heading: '**3\. The Actual Derivation: Genesis → Physics**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Φ
+- Π
+- ≥
+- →
+- macro-histories
+- structure of being itself
+- Φ-space
+- Second Law
+aliases:
+- Bk710yc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

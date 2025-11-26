@@ -1,12 +1,24 @@
+id: GEN7-8638
+location: genesis-7/why-curvature-gives-gravity::law-stability-theorem::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 278-287
+heading: '**◼ LAW STABILITY THEOREM**'
 block_type: paragraph
-concepts:
-- Stable Laws
-- δ
 excerpt: '**The laws of physics are stable because deviation (δ) evolves coherently,
   continuously, spectrally, and within the Genesis closure, and because all operators
   factor through δ.** If deviation cannot f...'
-heading: '**◼ LAW STABILITY THEOREM**'
-id: GEN7-8638
-lines: 278-287
-location: genesis-7/why-curvature-gives-gravity::law-stability-theorem::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Stable Laws
+aliases:
+- Bk718tl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.389830508474576
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

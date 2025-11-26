@@ -1,8 +1,19 @@
-block_type: paragraph
-concepts: []
-excerpt: (NOR, NAND, XNOR built from NOT \+ primitives) ---
-heading: '**II. Derived Operators**'
 id: GEN19-5961
-lines: 1130-1134
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-derived-operators::b1
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1130-1134
+heading: '**II. Derived Operators**'
+block_type: paragraph
+excerpt: (NOR, NAND, XNOR built from NOT \+ primitives) ---
+aliases:
+- Bk343nn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

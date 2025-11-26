@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: 'Π(D) outputs: * label: “cat” * confidence: 0.63 / (0.63+0.41) ≈ 0.60'
-heading: Step 5 — Π-evaluation
 id: GEN20-6948
-lines: 3758-3767
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::123-example-3-classification-with-statistical-updating::step-5-π-evaluation::b1
-parent_heading: 12.3 Example 3 — Classification With Statistical Updating
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3758-3767
+heading: Step 5 — Π-evaluation
+parent_heading: 12.3 Example 3 — Classification With Statistical Updating
+block_type: paragraph
+excerpt: 'Π(D) outputs: * label: “cat” * confidence: 0.63 / (0.63+0.41) ≈ 0.60'
+concepts:
+- cat-like
+- Π
+- ≈
+aliases:
+- Bk515ol
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

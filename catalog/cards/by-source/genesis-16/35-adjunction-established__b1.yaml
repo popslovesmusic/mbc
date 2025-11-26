@@ -1,12 +1,27 @@
+id: GEN16-4023
+location: genesis-16/untitled-document::3-second-adjoint-pair-φπphi-dashv-piφπ::35-adjunction-established::b1
+source: genesis-16\Untitled_document.md
+lines: 3648-3655
+heading: '**⭐ 3.5 ADJUNCTION ESTABLISHED**'
+parent_heading: '**⭐ 3\. SECOND ADJOINT PAIR: Φ⊣Π\\Phi \\dashv \\PiΦ⊣Π**'
 block_type: paragraph
+excerpt: Φ⊣Π\\boxed{\\Phi \\dashv \\Pi}Φ⊣Π​ Φ is the *free semantic transformation*.
+  Π is the *terminal evaluator*.
 concepts:
 - Π
 - Φ
-excerpt: Φ⊣Π\\boxed{\\Phi \\dashv \\Pi}Φ⊣Π​ Φ is the *free semantic transformation*.
-  Π is the *terminal evaluator*.
-heading: '**⭐ 3.5 ADJUNCTION ESTABLISHED**'
-id: GEN16-4023
-lines: 3648-3655
-location: genesis-16/untitled-document::3-second-adjoint-pair-φπphi-dashv-piφπ::35-adjunction-established::b1
-parent_heading: '**⭐ 3\. SECOND ADJOINT PAIR: Φ⊣Π\\Phi \\dashv \\PiΦ⊣Π**'
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk224bp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

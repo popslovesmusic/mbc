@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- η
-excerpt: 'For an adjunction F⊣GF \\dashv GF⊣G: * Unit: η:1⇒GF\\eta : 1 \\Rightarrow
-  GFη:1⇒GF * Counit: ϵ:FG⇒1\\epsilon : FG \\Rightarrow 1ϵ:FG⇒1'
-heading: '**⭐ 0\. WHAT THE TRIANGULAR IDENTITIES ARE**'
 id: GEN16-4030
-lines: 3732-3753
 location: genesis-16/untitled-document::0-what-the-triangular-identities-are::b1
 source: genesis-16\Untitled_document.md
+lines: 3732-3753
+heading: '**⭐ 0\. WHAT THE TRIANGULAR IDENTITIES ARE**'
+block_type: paragraph
+excerpt: 'For an adjunction F⊣GF \\dashv GF⊣G: * Unit: η:1⇒GF\\eta : 1 \\Rightarrow
+  GFη:1⇒GF * Counit: ϵ:FG⇒1\\epsilon : FG \\Rightarrow 1ϵ:FG⇒1'
+concepts:
+- η
+- Φ
+- Π
+- both adjoint pairs
+aliases:
+- Bk422fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.063291139240507
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,24 +1,41 @@
+id: GEN12-1927
+location: genesis-12/untitled-document::conclusion-galaxy-evolution-theorem::b1
+source: genesis-12\Untitled_document.md
+lines: 3049-3085
+heading: '**Conclusion: Galaxy Evolution Theorem**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Galaxy Evolution
-- Galaxy Evolution Axiom Box
-- Galaxy Evolution Theorem Box
-- Galaxy Formation
-- Galaxy Morphology Mode
-- Mode
-- Mode-Transition
-- Theorem
-- Transition Table
-- Π
-- Φ
-- δ
 excerpt: 'Combining all results above: Gi(t2)=Π ⁣(Φ2(δ∣Bi(t2)))    ⟸    δ-mode drift
   under Φ2.\\boxed{ \\mathcal{G}\_i(t\_2) \= \\Pi\\\!\\left( \\Phi\_2\\big(\\delta|\_{B\_i}(t\_2)\\big)
   \\right) \\;\\;\\Longle...'
-heading: '**Conclusion: Galaxy Evolution Theorem**'
-id: GEN12-1927
-lines: 3049-3085
-location: genesis-12/untitled-document::conclusion-galaxy-evolution-theorem::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- δ-geometry
+- Φ
+- A Galaxy Morphology Mode-Transition Table
+- Theorem
+- Axiom
+- Box
+- Π
+- δ-mode
+- →
+- Galaxy Evolution
+- Mode
+- Mode-Transition
+- rotation-curve
+- Galaxy Evolution Theorem Box
+aliases:
+- Bk776ca
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.66265060240964
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

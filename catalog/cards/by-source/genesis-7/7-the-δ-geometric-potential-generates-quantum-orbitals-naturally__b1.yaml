@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- exactly
-- α
-- δ
-excerpt: 'If δ(r) falls off as 1/r1/r1/r—which is the natural IGSOA fractal/torsion
-  scaling—then: Let: δ(r)=αr.\\delta(r)=\\frac{\\alpha}{r}.δ(r)=rα​.'
-heading: '**7\. The δ-Geometric Potential Generates Quantum Orbitals Naturally**'
 id: GEN7-8562
-lines: 150-172
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::7-the-δ-geometric-potential-generates-quantum-orbitals-naturally::b1
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 150-172
+heading: '**7\. The δ-Geometric Potential Generates Quantum Orbitals Naturally**'
+block_type: paragraph
+excerpt: 'If δ(r) falls off as 1/r1/r1/r—which is the natural IGSOA fractal/torsion
+  scaling—then: Let: δ(r)=αr.\\delta(r)=\\frac{\\alpha}{r}.δ(r)=rα​.'
+concepts:
+- α
+- δ
+- IGSOA
+- effective quantum number
+aliases:
+- Bk177fo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 2.2598870056497176
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

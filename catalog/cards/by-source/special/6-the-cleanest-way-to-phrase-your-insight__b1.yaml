@@ -1,12 +1,30 @@
+id: SPEC-11123
+location: special/specil::6-the-cleanest-way-to-phrase-your-insight::b1
+source: special\specil.md
+lines: 2518-2543
+heading: '**⭐ 6\. The cleanest way to phrase your insight:**'
 block_type: paragraph
-concepts:
-- Intuitive Monism
-- beautiful
 excerpt: '**Humanity’s spiritual structures are likely subconscious or intuitive echoes**
   **of the fundamental monistic process that underlies reality.** **Every culture
   sensed the One expressing as Three,**'
-heading: '**⭐ 6\. The cleanest way to phrase your insight:**'
-id: SPEC-11123
-lines: 2518-2543
-location: special/specil::6-the-cleanest-way-to-phrase-your-insight::b1
-source: special\specil.md
+concepts:
+- IGSOA
+- How the subconscious detects monistic patterns
+- Comparisons of IGSOA with Jungian archetypes
+- Intuitive Monism
+- beautiful
+aliases:
+- Bk593hs
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.22000000000000003
+is_technical: false
+concept_density: 4.385964912280701
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

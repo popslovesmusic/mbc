@@ -1,12 +1,31 @@
+id: GEN6-8219
+location: genesis-6/harmonics-atomic-orbitals::6-full-orbital-shapes-directly-visualizable::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 183-193
+heading: '**6\. Full Orbital Shapes (Directly Visualizable)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Combine radial and angular parts: Ψnℓm(δ)(r,θ,ϕ)=Rnℓ(δ)(r) Yℓm(δ)(θ,ϕ)(12)\\Psi\_{n\\ell
   m}^{(\\delta)}(r,\\theta,\\phi) \= R\_{n\\ell}^{(\\delta)}(r)\\,Y\_{\\ell m}^{(\\delta)}(\\theta,\\phi)
   \\tag{1...'
-heading: '**6\. Full Orbital Shapes (Directly Visualizable)**'
-id: GEN6-8219
-lines: 183-193
-location: genesis-6/harmonics-atomic-orbitals::6-full-orbital-shapes-directly-visualizable::b1
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- δ
+- θ
+- Ψ
+- Ψn
+- δ-dependence
+- actual orbital surfaces
+aliases:
+- Bk826cr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

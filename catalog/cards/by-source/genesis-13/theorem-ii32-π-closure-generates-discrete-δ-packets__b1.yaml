@@ -1,14 +1,40 @@
+id: GEN13-2557
+location: genesis-13/what-biology-is-in-meta-genesis::section-ii3-π-conformational-projectors-f₁-catalytic-closure::theorem-ii32-π-closure-generates-discrete-δ-packets::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1376-1400
+heading: '**Theorem II.3.2 (Π-Closure Generates Discrete δ-Packets).**'
+parent_heading: '**SECTION II.3 — Π-Conformational Projectors (F₁ Catalytic Closure)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- Φ-driven
-- δ
 excerpt: 'Let ψ∈H\\psi \\in \\mathcal{H}ψ∈H satisfy: PΠLRψ=0.P\_\\Pi \\mathcal{L}\_R
   \\psi \= 0.PΠ​LR​ψ=0. Then:'
-heading: '**Theorem II.3.2 (Π-Closure Generates Discrete δ-Packets).**'
-id: GEN13-2557
-lines: 1376-1400
-location: genesis-13/what-biology-is-in-meta-genesis::section-ii3-π-conformational-projectors-f₁-catalytic-closure::theorem-ii32-π-closure-generates-discrete-δ-packets::b1
-parent_heading: '**SECTION II.3 — Π-Conformational Projectors (F₁ Catalytic Closure)**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- ψ
+- Π
+- Proof
+- δ
+- δ-packet
+- ∈
+- Φ
+- ultra-formal
+- δ-spectral
+- Φ-induced
+- Φ-driven
+- Π-stable
+- ATP is discrete
+- ΠLR
+aliases:
+- Bk061lp
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.470588235294116
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,28 @@
+id: GEN17-4839
+location: genesis-17/box-calculus::3-structural-form-of-the-mgde::b1
+source: genesis-17\box_calculus.md
+lines: 10157-10185
+heading: 🔷 3\. Structural Form of the MGDE
 block_type: paragraph
+excerpt: Because F=Dδ F=D
 concepts:
 - Σ
 - δ
-excerpt: Because F=Dδ F=D
-heading: 🔷 3\. Structural Form of the MGDE
-id: GEN17-4839
-lines: 10157-10185
-location: genesis-17/box-calculus::3-structural-form-of-the-mgde::b1
-source: genesis-17\box_calculus.md
+- deviation-driven
+- curvature-driven
+- Σdt
+aliases:
+- Bk102bd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.578947368421052
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

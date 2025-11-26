@@ -1,19 +1,41 @@
+id: GEN1-373
+location: genesis-1/the-first-geometry::ii-formal-version-the-axiom-theorem-pipeline::theorem-3-metric-riemannian-geometry::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 204-218
+heading: '**Theorem 3 (Metric → Riemannian Geometry).**'
+parent_heading: '**II. Formal Version (The Axiom → Theorem Pipeline)**'
 block_type: paragraph
-concepts:
-- Levi-Civita
-- Scale-Topos
-- Topos Stack
-- δ
-- μ
-- ν
-- ρ
-- σ
 excerpt: 'If the δ-metric is locally smooth and satisfies a scale-compatibility condition
   with the Scale-Topos Stack, then there exists: * a metric tensor gμνg\_{\\mu\\nu}gμν​,
   * a Levi-Civita-like δ-connection...'
-heading: '**Theorem 3 (Metric → Riemannian Geometry).**'
-id: GEN1-373
-lines: 204-218
-location: genesis-1/the-first-geometry::ii-formal-version-the-axiom-theorem-pipeline::theorem-3-metric-riemannian-geometry::b1
-parent_heading: '**II. Formal Version (The Axiom → Theorem Pipeline)**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- δ
+- μ
+- ν
+- scale-compatibility
+- Levi-Civita-like
+- σ
+- ρ
+- δ-connection
+- Scale-Topos
+- δ-adjacency
+- δ-curvature
+- large-scale
+- δ-metric
+- →
+- Topos Stack
+aliases:
+- Bk306tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

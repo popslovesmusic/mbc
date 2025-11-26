@@ -1,15 +1,33 @@
+id: GEN13-2477
+location: genesis-13/what-biology-is-in-meta-genesis::c-metabolism-as-δ-flux-geometry::1-core-principle::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 224-245
+heading: '**1\. Core Principle**'
+parent_heading: '**(C) Metabolism as δ-Flux Geometry**'
 block_type: paragraph
-concepts:
-- closure
-- non-equilibrium
-- Π
-- Φ
-- δ
 excerpt: 'Metabolism in your framework is simply: **δ-asymmetry trapped inside a Π-boundary
   and expressed through Φ-flow.** It is not chemistry “plus” something.'
-heading: '**1\. Core Principle**'
-id: GEN13-2477
-lines: 224-245
-location: genesis-13/what-biology-is-in-meta-genesis::c-metabolism-as-δ-flux-geometry::1-core-principle::b1
-parent_heading: '**(C) Metabolism as δ-Flux Geometry**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- δ
+- Φ
+- non-equilibrium
+- Π-stabilized
+- δ-gradients
+- δ-asymmetry
+- Π-boundary
+- Φ-flow
+- Φ-flux
+- δ-Φ-Π
+aliases:
+- Bk604my
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.176470588235293
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

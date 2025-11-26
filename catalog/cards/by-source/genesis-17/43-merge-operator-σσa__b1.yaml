@@ -1,12 +1,28 @@
+id: GEN17-5009
+location: genesis-17/mbc-schema-3::4-derived-operators::43-merge-operator-σσa::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 78-84
+heading: '**4.3 Merge Operator (ΣΣ)a**'
+parent_heading: '**4\. Derived Operators**'
 block_type: list
-concepts:
-- Aggregates Box
-- Box
 excerpt: '* Aggregates Box-links * Acts like network superposition * Creates multipath
   structures'
-heading: '**4.3 Merge Operator (ΣΣ)a**'
-id: GEN17-5009
-lines: 78-84
-location: genesis-17/mbc-schema-3::4-derived-operators::43-merge-operator-σσa::b1
-parent_heading: '**4\. Derived Operators**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Box
+- Box-links
+- Aggregates Box
+aliases:
+- Bk641ab
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

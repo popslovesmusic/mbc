@@ -1,16 +1,31 @@
+id: GEN20-6770
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::39-why-these-operators-are-enough::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1404-1426
+heading: 3.9 Why These Operators Are Enough
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
+excerpt: 'With δ, E, A, Φ, and Π you can: * build semantic logic * form truth tables'
 concepts:
-- Derived Operators
-- Their Algebra
+- Σ
 - Θ
 - Π
-- Σ
-- Φ
 - δ
-excerpt: 'With δ, E, A, Φ, and Π you can: * build semantic logic * form truth tables'
-heading: 3.9 Why These Operators Are Enough
-id: GEN20-6770
-lines: 1404-1426
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::39-why-these-operators-are-enough::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+- Φ
+- Derived Operators
+- Their Algebra
+aliases:
+- Bk786wa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.526881720430108
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

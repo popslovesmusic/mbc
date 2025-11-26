@@ -1,13 +1,34 @@
+id: INTK-9652
+location: intake/axioms-geometry::axiom-4-adjacency-from-deviational-distance::b1
+source: intake\Axioms-geometry.md
+lines: 70-92
+heading: '**Axiom 4 — Adjacency from Deviational Distance**'
 block_type: paragraph
-concepts:
-- Adjacency
-- Deviational Norm
-- δ
 excerpt: 'Define the **Deviational Norm**: ∥A∥δ=⟨A,A⟩δ.\\|A\\|\_\\delta \= \\sqrt{\\langle
   A, A\\rangle\_\\delta}.∥A∥δ​=⟨A,A⟩δ​​. Then **Adjacency** is primitive and given
   by:'
-heading: '**Axiom 4 — Adjacency from Deviational Distance**'
-id: INTK-9652
-lines: 70-92
-location: intake/axioms-geometry::axiom-4-adjacency-from-deviational-distance::b1
-source: intake\Axioms-geometry.md
+concepts:
+- δ
+- Adjacency
+- Deviation
+- →
+- graph-metric precursor
+- graph-metric
+- Deviational Norm
+- δB
+- δA
+aliases:
+- Bk664dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.39240506329114
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

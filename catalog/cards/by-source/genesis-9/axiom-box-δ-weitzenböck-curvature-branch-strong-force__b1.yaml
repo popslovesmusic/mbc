@@ -1,15 +1,40 @@
+id: GEN9-9500
+location: genesis-9/strong-force::8-axiom-box-δ-weitzenböck-su3-curvature::axiom-box-δ-weitzenböck-curvature-branch-strong-force::b1
+source: genesis-9\strong-force.md
+lines: 1010-1031
+heading: '**Axiom Box: δ-Weitzenböck Curvature Branch (Strong Force)**'
+parent_heading: '**8\. Axiom Box (δ-Weitzenböck → SU(3) Curvature)**'
 block_type: list
-concepts:
-- Γ
-- δ
-- λ
-- μ
-- ν
 excerpt: '1. Decompose δ-connection: ∇(δ)=Γ(δ)+K(δ).\\nabla^{(\\delta)} \= \\Gamma^{(\\delta)}
   \+ K^{(\\delta)}.∇(δ)=Γ(δ)+K(δ). 2. Impose torsion-free condition:'
-heading: '**Axiom Box: δ-Weitzenböck Curvature Branch (Strong Force)**'
-id: GEN9-9500
-lines: 1010-1031
-location: genesis-9/strong-force::8-axiom-box-δ-weitzenböck-su3-curvature::axiom-box-δ-weitzenböck-curvature-branch-strong-force::b1
-parent_heading: '**8\. Axiom Box (δ-Weitzenböck → SU(3) Curvature)**'
-source: genesis-9\strong-force.md
+concepts:
+- δ
+- χ
+- λ
+- δ-curvature
+- ∧
+- μ
+- ∈
+- ∇
+- ν
+- Γ
+- strong-force
+- δ-connection
+- torsion-free
+- trace-free
+- non-zero
+aliases:
+- Bk454dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.75609756097561
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

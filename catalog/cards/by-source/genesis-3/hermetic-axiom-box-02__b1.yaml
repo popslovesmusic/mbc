@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Set
-- δ
-excerpt: THE DEVIATIONAL AXIOMS (δ-Axiom Set)\*\* ---
-heading: '**\*\*⟡ HERMETIC AXIOM BOX 02 ⟡**'
 id: GEN3-7341
-lines: 998-1002
 location: genesis-3/metagenesis::hermetic-axiom-box-02::b1
 source: genesis-3\metagenesis.md
+lines: 998-1002
+heading: '**\*\*⟡ HERMETIC AXIOM BOX 02 ⟡**'
+block_type: paragraph
+excerpt: THE DEVIATIONAL AXIOMS (δ-Axiom Set)\*\* ---
+concepts:
+- Axiom
+- δ-Axiom
+- δ
+- Axiom Set
+aliases:
+- Bk280td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

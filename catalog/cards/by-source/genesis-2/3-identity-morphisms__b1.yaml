@@ -1,12 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Identity Everywhere
-- identity-complete
-excerpt: '**Axiom M3 — Identity Everywhere** Every object XXX has an identity morphism:
-  idX:X→X.\\mathrm{id}\_X : X \\to X.idX​:X→X.'
-heading: '**3\. Identity Morphisms**'
 id: GEN2-6244
-lines: 299-310
 location: genesis-2/axioms-for-the-category-genesis::3-identity-morphisms::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 299-310
+heading: '**3\. Identity Morphisms**'
+block_type: paragraph
+excerpt: '**Axiom M3 — Identity Everywhere** Every object XXX has an identity morphism:
+  idX:X→X.\\mathrm{id}\_X : X \\to X.idX​:X→X.'
+concepts:
+- →
+- Axiom
+- identity-complete
+- identity-emergent
+- identity-bearing
+- Identity Everywhere
+aliases:
+- Am416ai
+tags:
+- -identity-everywhere
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

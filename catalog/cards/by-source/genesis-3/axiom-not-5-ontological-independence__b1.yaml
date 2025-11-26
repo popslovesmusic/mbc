@@ -1,14 +1,31 @@
+id: GEN3-7304
+location: genesis-3/metagenesis::the-not-axiom::axiom-not-5-ontological-independence::b1
+source: genesis-3\metagenesis.md
+lines: 498-509
+heading: '**Axiom NOT-5 (Ontological Independence)**'
+parent_heading: '**THE NOT AXIOM**'
 block_type: paragraph
-concepts:
-- The Zero
-- Zero-State
-- independently
-- Ψ
 excerpt: 'The Zero-State Ψ₀ exists **independently** of the operator algebra. There
   is no operator that references, constructs, or encodes Ψ₀. Formally:'
-heading: '**Axiom NOT-5 (Ontological Independence)**'
-id: GEN3-7304
-lines: 498-509
-location: genesis-3/metagenesis::the-not-axiom::axiom-not-5-ontological-independence::b1
-parent_heading: '**THE NOT AXIOM**'
-source: genesis-3\metagenesis.md
+concepts:
+- Ψ
+- ∉
+- ∈
+- State
+- ∀
+- Zero-State
+- Ψ₀
+- independently
+- The Zero
+aliases:
+- Bk060tz
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.39240506329114
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

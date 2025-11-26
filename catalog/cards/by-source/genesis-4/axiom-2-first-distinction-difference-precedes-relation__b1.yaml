@@ -1,13 +1,25 @@
+id: GEN4-7857
+location: genesis-4/the-first-adjacency::axiom-2-first-distinction-difference-precedes-relation::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 798-806
+heading: '**Axiom 2 — First Distinction (Difference Precedes Relation)**'
 block_type: paragraph
-concepts:
-- primitive
-- Ψ
-- δ
 excerpt: 'The application of δ\\deltaδ to Ψ0\\Psi\_0Ψ0​ creates a new state Ψ1\\Psi\_1Ψ1​
   such that: Ψ1≠Ψ0.\\Psi\_1 \\neq \\Psi\_0.Ψ1​=Ψ0​. This inequality is *primitive*
   and not derived from any metric or geom...'
-heading: '**Axiom 2 — First Distinction (Difference Precedes Relation)**'
-id: GEN4-7857
-lines: 798-806
-location: genesis-4/the-first-adjacency::axiom-2-first-distinction-difference-precedes-relation::b1
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Ψ
+- δ
+- ≠
+aliases:
+- Bk785ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

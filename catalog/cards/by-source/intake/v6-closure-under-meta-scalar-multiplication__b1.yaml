@@ -1,12 +1,28 @@
+id: INTK-10357
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v6-closure-under-meta-scalar-multiplication::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1016-1017
+heading: 'V.6 Closure under Meta-Scalar Multiplication:'
+parent_heading: Properties and Axioms (Generalized)
 block_type: paragraph
+excerpt: If `λ` is a Meta-Scalar and `V ∈ S_Ψ`, then `λ ⊙ V ∈ S_Ψ`.
 concepts:
-- Meta-Scalar
 - Ψ
 - λ
-excerpt: If `λ` is a Meta-Scalar and `V ∈ S_Ψ`, then `λ ⊙ V ∈ S_Ψ`.
-heading: 'V.6 Closure under Meta-Scalar Multiplication:'
-id: INTK-10357
-lines: 1016-1017
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v6-closure-under-meta-scalar-multiplication::b1
-parent_heading: Properties and Axioms (Generalized)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+- ∈
+- Meta-Scalar
+aliases:
+- Bk897ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

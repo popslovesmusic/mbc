@@ -1,15 +1,31 @@
+id: GEN17-5084
+location: genesis-17/mbc-schema-3::4-functorial-structure-in-mbc-40::core-functors::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1086-1088
+heading: '**Core Functors**'
+parent_heading: '**4\. Functorial Structure in MBC-4.0**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ω
-- δ
 excerpt: 'δ:I→D\\delta : \\mathcal{I} \\to \\mathcal{D}δ:I→D Φ:D→D\\Phi : \\mathcal{D}
   \\to \\mathcal{D}Φ:D→D Π:D→B\\Pi : \\mathcal{D} \\to \\mathcal{B}Π:D→B Ω:B→MB\\Omega
   : \\mathcal{B} \\to \\mathcal{MB}Ω:B→M...'
-heading: '**Core Functors**'
-id: GEN17-5084
-lines: 1086-1088
-location: genesis-17/mbc-schema-3::4-functorial-structure-in-mbc-40::core-functors::b1
-parent_heading: '**4\. Functorial Structure in MBC-4.0**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- →
+- Ω
+- Π
+- δ
+- Φ
+aliases:
+- Bk798dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.416666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,39 @@
+id: GEN9-9140
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::δ-harmonic-shell-n-1::π-orbitals-1s::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1752-1762
+heading: '**Π-orbitals: 1s**'
+parent_heading: '**δ-Harmonic Shell n \= 1**'
 block_type: table
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '**IGSOA Commentary:** This shell expresses the **fundamental δ-stability**:
   once Π₁ is filled, no Φ-asymmetry or chromatic shift is possible. He is the first
   “δ-complete” configuration. ---'
-heading: '**Π-orbitals: 1s**'
-id: GEN9-9140
-lines: 1752-1762
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::δ-harmonic-shell-n-1::π-orbitals-1s::b1
-parent_heading: '**δ-Harmonic Shell n \= 1**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- IGSOA
+- fundamental δ-stability
+- δ-Commentary
+- δ-curvature
+- Φ-asymmetry
+- δ-stability
+- δ-complete
+- δ-monopole
+- δ-shell
+- Π
+- χ
+- Φ
+- Π₁
+aliases:
+- Bk565ec
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.875
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,32 @@
+id: GEN14-2780
+location: genesis-14/inflation-structure-formation::cascade-summary::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 2089-2097
+heading: '**Cascade Summary**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'All eight results compose to yield the **full, necessary, unavoidable cosmic
   evolution**: δ-instability  ⟹  Φ-freeze  ⟹  δ-Higgs reheating  ⟹  κ-variance (∣hn∣2)\\boxed{
   \\delta\\text{-instability} \\...'
-heading: '**Cascade Summary**'
-id: GEN14-2780
-lines: 2089-2097
-location: genesis-14/inflation-structure-formation::cascade-summary::b1
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- κ
+- δ-instability
+- Φ-freeze
+- δ-Higgs
+- Φ
+- ∇
+aliases:
+- Bk977ae
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.833333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

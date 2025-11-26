@@ -1,12 +1,32 @@
+id: GEN18-5772
+location: genesis-18/sealed-axiom-box::statement-of-the-theorem::standard-logic-mathematics-form-right-column::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1673-1685
+heading: '**Standard Logic / Mathematics Form (Right Column)**'
+parent_heading: '**STATEMENT OF THE THEOREM**'
 block_type: paragraph
-concepts:
-- proofs
 excerpt: 'If all coherence, functoriality, and evaluation axioms hold, then: Logical
   entailment is exactly morphism existence in the base category.\\boxed{ \\textbf{Logical
   entailment is exactly morphism existe...'
-heading: '**Standard Logic / Mathematics Form (Right Column)**'
-id: GEN18-5772
-lines: 1673-1685
-location: genesis-18/sealed-axiom-box::statement-of-the-theorem::standard-logic-mathematics-form-right-column::b1
-parent_heading: '**STATEMENT OF THE THEOREM**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- base-level morphisms
+- ∃
+- →
+- base-level
+- proofs
+aliases:
+- Bk632ac
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.944444444444445
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

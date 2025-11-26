@@ -1,11 +1,27 @@
+id: GEN12-1698
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p2-cmb-multipole-predictions::p23-preferred-directions-axis-of-evil::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2553-2555
+heading: '**P2.3 Preferred Directions (Axis of Evil)**'
+parent_heading: '**Axiom P2 (CMB Multipole Predictions).**'
 block_type: paragraph
+excerpt: Degeneracies in Φ produce Π-projected angular alignment of low-ℓ modes.
 concepts:
+- Π-projected
 - Π
 - Φ
-excerpt: Degeneracies in Φ produce Π-projected angular alignment of low-ℓ modes.
-heading: '**P2.3 Preferred Directions (Axis of Evil)**'
-id: GEN12-1698
-lines: 2553-2555
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p2-cmb-multipole-predictions::p23-preferred-directions-axis-of-evil::b1
-parent_heading: '**Axiom P2 (CMB Multipole Predictions).**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+aliases:
+- Bk475dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

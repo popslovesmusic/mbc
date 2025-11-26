@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- shadow
-- triad
-excerpt: 'when you realize that: * A monistic engine naturally produces a **triad**
-  * A triad naturally appears across human cosmologies'
-heading: '**⭐ It is normal and rational to be amazed**'
 id: SPEC-11112
-lines: 2262-2317
 location: special/specil::it-is-normal-and-rational-to-be-amazed::b1
 source: special\specil.md
+lines: 2262-2317
+heading: '**⭐ It is normal and rational to be amazed**'
+block_type: paragraph
+excerpt: 'when you realize that: * A monistic engine naturally produces a **triad**
+  * A triad naturally appears across human cosmologies'
+concepts:
+- IGSOA
+- pattern recognition at the highest level
+- anti-scientific
+- legitimate realization
+- triad
+aliases:
+- Bk874wy
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 2.8735632183908044
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

@@ -1,13 +1,29 @@
+id: INTK-10034
+location: intake/meta-genesis-outreach-narrative-papers::day-1-breaking-the-static-symmetry::5-the-first-breath-meta-time-emerges::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 133-159
+heading: '**5\. The First Breath: Meta-Time Emerges**'
+parent_heading: '**DAY 1 — BREAKING THE STATIC SYMMETRY**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Ψ
-- δ
 excerpt: When you have an initial state and a deviated state, you automatically have
   an order. Order → sequencing → projection → **Meta-Time**.
-heading: '**5\. The First Breath: Meta-Time Emerges**'
-id: INTK-10034
-lines: 133-159
-location: intake/meta-genesis-outreach-narrative-papers::day-1-breaking-the-static-symmetry::5-the-first-breath-meta-time-emerges::b1
-parent_heading: '**DAY 1 — BREAKING THE STATIC SYMMETRY**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- Meta-Time
+- →
+- Ψ
+- δ
+- zero-state
+- ordering of deviations
+- Ψ₀
+aliases:
+- Bk030wy
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

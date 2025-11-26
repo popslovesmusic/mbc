@@ -1,14 +1,31 @@
+id: GEN16-4107
+location: genesis-16/untitled-document::1-defining-full-box-expansion::formally::b1
+source: genesis-16\Untitled_document.md
+lines: 4706-4716
+heading: '**Formally:**'
+parent_heading: '**⭐ 1\. DEFINING FULL BOX EXPANSION**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Σ
 excerpt: 'A Box graph G\\mathcal{G}G is fully expanded iff: ¬∃ E such that E(Σ) is
   admissible under Axiom III\\neg\\exists\\ E\\text{ such that } E(\\Sigma) \\text{
   is admissible under Axiom III}¬∃ E such that ...'
-heading: '**Formally:**'
-id: GEN16-4107
-lines: 4706-4716
-location: genesis-16/untitled-document::1-defining-full-box-expansion::formally::b1
-parent_heading: '**⭐ 1\. DEFINING FULL BOX EXPANSION**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Axiom
+- Box
+- ∃
+- Σ
+- ¬
+- maximal structural expression
+aliases:
+- Bk133bg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

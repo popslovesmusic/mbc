@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Variation is not arbitrary; it is δ-induced deformation of agent structure.
-heading: '**4\. Variation as δ-Perturbation Functor**'
 id: GEN13-2628
-lines: 2446-2448
 location: genesis-13/what-biology-is-in-meta-genesis::4-variation-as-δ-perturbation-functor::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2446-2448
+heading: '**4\. Variation as δ-Perturbation Functor**'
+block_type: paragraph
+excerpt: Variation is not arbitrary; it is δ-induced deformation of agent structure.
+concepts:
+- δ-induced
+- δ
+aliases:
+- Bk725vn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

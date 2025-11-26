@@ -1,12 +1,29 @@
+id: GEN20-6863
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::88-semantic-collapse-free-reasoning::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2714-2734
+heading: 8.8 Semantic Collapse-Free Reasoning
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'Unlike quantum measurement or classical logic collapse, MBC does not “collapse”
   meaning. Instead: * Φ stabilizes structure'
-heading: 8.8 Semantic Collapse-Free Reasoning
-id: GEN20-6863
-lines: 2714-2734
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::88-semantic-collapse-free-reasoning::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- polarity-weighted
+- non-destructive
+- Π
+- Φ
+aliases:
+- Bk250uq
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.771929824561402
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,13 +1,34 @@
-block_type: paragraph
-concepts:
-- Deviational Curvature
-- Deviational Geometry
-- Einstein Dynamics
-- Meta-Einstein
-excerpt: 'If you want, I can now produce: 📘 **(A) Full theorem–lemma–proof version**
-  of this chapter 📗 **(B) A diagram-only version**'
-heading: '**Chapter Complete.**'
 id: GEN1-553
-lines: 667-677
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-complete::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 667-677
+heading: '**Chapter Complete.**'
+block_type: paragraph
+excerpt: 'If you want, I can now produce: 📘 **(A) Full theorem–lemma–proof version**
+  of this chapter 📗 **(B) A diagram-only version**'
+concepts:
+- Meta-Einstein
+- Deviational Geometry
+- Deviation
+- Curvature
+- Theorem
+- Lemma
+- Proof
+- diagram-only
+- Deviational Curvature
+- Einstein Dynamics
+aliases:
+- Bk339yw
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 19.230769230769234
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,30 @@
+id: GEN15-3313
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::ii-construction-of-the-csoi-tensor-θμνtheta-munuθμν::from-δ-geometry-to-curvature::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 851-861
+heading: '**From δ-geometry to curvature**'
+parent_heading: '**II. Construction of the CSOI Tensor Θμν\\Theta\_{\\mu\\nu}Θμν​**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The effective δ-Ricci scalar is: Rδ=R+Δadj\[δ\]R\_\\delta \= R \+ \\Delta\_{\\mathrm{adj}}\[\\delta\]Rδ​=R+Δadj​\[δ\]
   where RRR is the classical Ricci scalar, and'
-heading: '**From δ-geometry to curvature**'
-id: GEN15-3313
-lines: 851-861
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::ii-construction-of-the-csoi-tensor-θμνtheta-munuθμν::from-δ-geometry-to-curvature::b1
-parent_heading: '**II. Construction of the CSOI Tensor Θμν\\Theta\_{\\mu\\nu}Θμν​**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- δ
+- Δ
+- ∫
+- δ-Ricci
+- x-y
+aliases:
+- Bk674te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.462686567164178
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

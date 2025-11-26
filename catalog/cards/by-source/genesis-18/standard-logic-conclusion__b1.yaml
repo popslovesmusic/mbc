@@ -1,10 +1,29 @@
+id: GEN18-5785
+location: genesis-18/sealed-axiom-box::conclusion-of-proof::standard-logic-conclusion::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1807-1817
+heading: '**Standard Logic Conclusion**'
+parent_heading: '**CONCLUSION OF PROOF**'
 block_type: paragraph
-concepts: []
 excerpt: 'P⊢Q  ⟺  ∃f:P→Q.\\boxed{ P \\vdash Q \\iff \\exists f: P \\to Q. }P⊢Q⟺∃f:P→Q.​
   That is: **All proofs are arrows.**'
-heading: '**Standard Logic Conclusion**'
-id: GEN18-5785
-lines: 1807-1817
-location: genesis-18/sealed-axiom-box::conclusion-of-proof::standard-logic-conclusion::b1
-parent_heading: '**CONCLUSION OF PROOF**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- category-theoretic
+- ∃
+- →
+aliases:
+- Bk285bv
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,27 @@
+id: GEN19-5985
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-modal-operators-in-θ-logic::1-necessity::igsoa::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1673-1679
+heading: '**IGSOA**'
+parent_heading: '**1\. Necessity (□)**'
 block_type: paragraph
-concepts:
-- Θ
-- σ
 excerpt: All accessible semantic locations must affirm Θ⁺. σ□P=sign⁡ ⁣(min⁡wi\>0σP(i))σ\_{□P}
   \= \\operatorname{sign}\\\!\\left(\\min\_{w\_i \> 0}\\sigma\_{P(i)}\\right)σ□P​=sign(wi​\>0min​σP(i)​)
   Weighted adj...
-heading: '**IGSOA**'
-id: GEN19-5985
-lines: 1673-1679
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-modal-operators-in-θ-logic::1-necessity::igsoa::b1
-parent_heading: '**1\. Necessity (□)**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- σ
+- Θ
+aliases:
+- Bk065aa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.651162790697675
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

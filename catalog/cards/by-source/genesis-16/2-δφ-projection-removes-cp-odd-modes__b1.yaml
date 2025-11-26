@@ -1,14 +1,30 @@
+id: GEN16-3696
+location: genesis-16/quantum-measurement-in-igsoa-vs::cross-referenced-igsoa-explanation::2-δφ-projection-removes-cp-odd-modes::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 334-336
+heading: '**2\. δ→Φ Projection Removes CP-Odd Modes**'
+parent_heading: '**Cross-Referenced IGSOA Explanation**'
 block_type: paragraph
-concepts:
-- tries
-- Φ
-- δ
 excerpt: Even if a microscopic δ-mode *tries* to introduce CP-asymmetry, the Φ-locking
   condition eliminates these modes because a CP-odd Φ-structure cannot maintain adjacency
   coherence.
-heading: '**2\. δ→Φ Projection Removes CP-Odd Modes**'
-id: GEN16-3696
-lines: 334-336
-location: genesis-16/quantum-measurement-in-igsoa-vs::cross-referenced-igsoa-explanation::2-δφ-projection-removes-cp-odd-modes::b1
-parent_heading: '**Cross-Referenced IGSOA Explanation**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- Φ
+- CP-asymmetry
+- Φ-structure
+- Φ-locking
+- δ-mode
+- CP-odd
+- δ
+aliases:
+- Bk081em
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

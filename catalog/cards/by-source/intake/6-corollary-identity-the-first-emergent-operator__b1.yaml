@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Ψ
-- δ
-excerpt: 'The identity operator itself: 1(X)=X\\mathbf{1}(X)=X1(X)=X is not defined
-  on Ψ0\\Psi\_0Ψ0​.'
-heading: '**6\. Corollary: Identity \= The First Emergent Operator**'
 id: INTK-9992
-lines: 737-755
 location: intake/meta-genesis-mathematical-papers::6-corollary-identity-the-first-emergent-operator::b1
 source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 737-755
+heading: '**6\. Corollary: Identity \= The First Emergent Operator**'
+block_type: paragraph
+excerpt: 'The identity operator itself: 1(X)=X\\mathbf{1}(X)=X1(X)=X is not defined
+  on Ψ0\\Psi\_0Ψ0​.'
+concepts:
+- δ
+- Ψ
+- δ-harmonics
+aliases:
+- Bk636ti
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.10958904109589
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

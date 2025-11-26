@@ -1,13 +1,31 @@
+id: GEN7-8614
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::δ-weitzenböck-δ-higgs-potential-axiom-box-sealed-version::corollary-mass-generation::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 950-970
+heading: '**COROLLARY (Mass Generation).**'
+parent_heading: '**▮ δ-Weitzenböck → δ-Higgs Potential Axiom Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'For any δ-Dirac spinor ψ\\psiψ: mf(δ)=yδΦ0,m\_f^{(\\delta)} \= y\_\\delta
   \\Phi\_0,mf(δ)​=yδ​Φ0​, with yδy\_\\deltayδ​ the geometric Yukawa projection of
   δ-torsion onto spin space.'
-heading: '**COROLLARY (Mass Generation).**'
-id: GEN7-8614
-lines: 950-970
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::δ-weitzenböck-δ-higgs-potential-axiom-box-sealed-version::corollary-mass-generation::b1
-parent_heading: '**▮ δ-Weitzenböck → δ-Higgs Potential Axiom Box (Sealed Version)**'
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- δ
+- geometric consequences of δ-torsion
+- δ-torsion
+- ψ
+- Φ
+- δ-Dirac
+- δ-EFT
+- δy
+aliases:
+- Bk624fa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.545454545454545
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

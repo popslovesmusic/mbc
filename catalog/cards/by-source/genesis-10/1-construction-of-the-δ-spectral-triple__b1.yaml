@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'We define the δ-spectral triple: (A,H,Dδ)(\\mathcal{A}, \\mathcal{H}, D\_\\delta)(A,H,Dδ​)
-  where:'
-heading: '**1\. Construction of the δ-Spectral Triple**'
 id: GEN10-904
-lines: 2658-2664
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::1-construction-of-the-δ-spectral-triple::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2658-2664
+heading: '**1\. Construction of the δ-Spectral Triple**'
+block_type: paragraph
+excerpt: 'We define the δ-spectral triple: (A,H,Dδ)(\\mathcal{A}, \\mathcal{H}, D\_\\delta)(A,H,Dδ​)
+  where:'
+concepts:
+- δ
+- δ-spectral
+aliases:
+- Bk317dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

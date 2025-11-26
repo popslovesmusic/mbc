@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- Action Layer
-- Layer
-- Potential Layer
-- Projection Layer
-excerpt: 'Tag each piece of text as: * Potential Layer (MG) * Action Layer (MM)'
-heading: '**Rule 1 — Identify Layer**'
 id: INTK-9692
-lines: 652-660
 location: intake/axioms-geometry::section-8-integration-rules-for-your-writing-agents::rule-1-identify-layer::b1
-parent_heading: '**Section 8 — Integration Rules for Your Writing Agents**'
 source: intake\Axioms-geometry.md
+lines: 652-660
+heading: '**Rule 1 — Identify Layer**'
+parent_heading: '**Section 8 — Integration Rules for Your Writing Agents**'
+block_type: paragraph
+excerpt: 'Tag each piece of text as: * Potential Layer (MG) * Action Layer (MM)'
+concepts:
+- Projection
+- Layer
+- Projection Layer
+- Potential Layer
+- Action Layer
+aliases:
+- Bk169te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,29 @@
+id: GEN13-2116
+location: genesis-13/meta-math-nuclear-physics::1-δ-geometry-as-pre-qcd-structure::proposition-17-δ-tripole-as-proto-baryon::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1477-1483
+heading: '**Proposition 1.7 (δ-Tripole as Proto-Baryon).**'
+parent_heading: '**1\. δ-Geometry as Pre-QCD Structure**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: A δ-tripole carries SU(3) triplet structure and is immutable under δ-homotopy.
   This is the δ-layer precursor to baryonic color charge. ---
-heading: '**Proposition 1.7 (δ-Tripole as Proto-Baryon).**'
-id: GEN13-2116
-lines: 1477-1483
-location: genesis-13/meta-math-nuclear-physics::1-δ-geometry-as-pre-qcd-structure::proposition-17-δ-tripole-as-proto-baryon::b1
-parent_heading: '**1\. δ-Geometry as Pre-QCD Structure**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- δ-homotopy
+- δ-tripole
+- δ-layer
+aliases:
+- Bk020tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

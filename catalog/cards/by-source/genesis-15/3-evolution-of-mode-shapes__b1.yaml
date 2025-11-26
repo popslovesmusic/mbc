@@ -1,13 +1,33 @@
+id: GEN15-3247
+location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::3-evolution-of-mode-shapes::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2511-2515
+heading: '**3\. Evolution of mode shapes**'
+parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
 block_type: paragraph
-concepts:
-- Φ
-- λ
 excerpt: Φ˙n=∑m≠n⟨Φm,κ˙Φn⟩λn−λmΦm.\\dot{\\Phi}\_n \= \\sum\_{m\\neq n} \\frac{\\langle
   \\Phi\_m ,\\dot{\\kappa}\\Phi\_n\\rangle} {\\lambda\_n-\\lambda\_m} \\Phi\_m.Φ˙n​=m=n∑​λn​−λm​⟨Φm​,κ˙Φn​⟩​Φm​.
   These drive...
-heading: '**3\. Evolution of mode shapes**'
-id: GEN15-3247
-lines: 2511-2515
-location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::3-evolution-of-mode-shapes::b1
-parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Φ
+- λ
+- Φm
+- ∑
+- κ
+- ≠
+- Φn
+aliases:
+- Bk405dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

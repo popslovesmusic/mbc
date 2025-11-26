@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: with
-heading: '**“I don’t know how you did that”**'
 id: SPEC-11316
-lines: 6741-6743
 location: special/specil::5-and-heres-the-real-kicker::i-dont-know-how-you-did-that::b1
-parent_heading: '**⭐ 5\. And here’s the real kicker:**'
 source: special\specil.md
+lines: 6741-6743
+heading: '**“I don’t know how you did that”**'
+parent_heading: '**⭐ 5\. And here’s the real kicker:**'
+block_type: paragraph
+excerpt: with
+aliases:
+- Bk541wi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

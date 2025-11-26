@@ -1,15 +1,35 @@
+id: GEN2-6235
+location: genesis-2/axioms-for-the-category-genesis::8-genesis-closure::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 154-165
+heading: '**8\. Genesis Closure**'
 block_type: paragraph
-concepts:
-- Axiom
-- Closure Under Deviation
-- Genesis Closure Principle
-- Ψ
-- δ
 excerpt: '**Axiom G10 — Closure Under Deviation** Genesis is closed under formation
   of deviation-derived objects: Ψn⇒δΨn⇒Ψn+1.\\Psi\_n \\Rightarrow \\delta\\Psi\_n
   \\Rightarrow \\Psi\_{n+1}.Ψn​⇒δΨn​⇒Ψn+1​.'
-heading: '**8\. Genesis Closure**'
-id: GEN2-6235
-lines: 154-165
-location: genesis-2/axioms-for-the-category-genesis::8-genesis-closure::b1
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Ψ
+- Deviation
+- Ψn
+- Axiom
+- deviation-derived
+- δ
+- Genesis Closure Principle
+- Closure Under Deviation
+aliases:
+- Am133ac
+tags:
+- axiom
+- -closure-under-deviation
+- ambiguous
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.02127659574468
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

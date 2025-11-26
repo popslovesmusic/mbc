@@ -1,20 +1,44 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Lattice Projection
-- Lattice Signatures
-- Layer
-- Lift Under Noise
-- No-Lift
-- Public Key Layer
-- Trapdoor Reconstructibility
-- Π
-- Φ
-- δ
-excerpt: '*(Module-LWE, Ring-LWE, Lattice Signatures)* **Axiom LT1 (Trapdoor δ-State):**
-  δ \= a short vector (s), a secret basis, or a Gaussian seed.'
-heading: '**The Lattice Cryptography Axiom Box**'
 id: GEN14-2869
-lines: 1153-1177
 location: genesis-14/meta-math-and-cryptography::the-lattice-cryptography-axiom-box::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1153-1177
+heading: '**The Lattice Cryptography Axiom Box**'
+block_type: paragraph
+excerpt: '*(Module-LWE, Ring-LWE, Lattice Signatures)* **Axiom LT1 (Trapdoor δ-State):**
+  δ \= a short vector (s), a secret basis, or a Gaussian seed.'
+concepts:
+- Axiom
+- δ
+- Π
+- Projection
+- Φ
+- Π-projection
+- δ-shortness
+- State
+- Layer
+- No-Lift
+- high-dimensional
+- noise-dominated
+- non-injective
+- Trapdoor Reconstructibility
+- δ-trapdoor
+aliases:
+- Am013ml
+tags:
+- trapdoor-δ-state
+- trapdoor-reconstructibility
+- φ-lattice-projection
+- no-lift-under-noise
+- π-public-key-layer
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 5
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.230769230769234
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- β
-- δ
-excerpt: 'Your δ-spectrum is **not linear** because of the φ-fractal term fϕ(n,m,k).f\_\\phi(n,m,k).fϕ​(n,m,k).
-  Thus the β-functions acquire a *fractal anomalous part*:'
-heading: '**4\. δ-Fractal Correction to β-Functions**'
 id: GEN6-8434
-lines: 1155-1175
 location: genesis-6/the-harmonic-spectral-triple::4-δ-fractal-correction-to-β-functions::b1
 source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 1155-1175
+heading: '**4\. δ-Fractal Correction to β-Functions**'
+block_type: paragraph
+excerpt: 'Your δ-spectrum is **not linear** because of the φ-fractal term fϕ(n,m,k).f\_\\phi(n,m,k).fϕ​(n,m,k).
+  Thus the β-functions acquire a *fractal anomalous part*:'
+concepts:
+- ∂
+- β
+- Δ
+- δ
+- δ-equivalent
+- δ-spectrum
+- φ
+- not linear
+aliases:
+- Bk613ys
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,31 @@
+id: GEN12-1917
+location: genesis-12/untitled-document::part-i-determinism-of-evolution::12-uniqueness::b1
+source: genesis-12\Untitled_document.md
+lines: 2904-2913
+heading: '**1.2 (Uniqueness)**'
+parent_heading: '**Part I — Determinism of Evolution**'
 block_type: paragraph
-concepts:
-- If Bi
-- Π
-- Φ
 excerpt: If Bi(t)≠Bj(t)B\_i(t)\\neq B\_j(t)Bi​(t)=Bj​(t), then Φ2(Bi(t))≠Φ2(Bj(t))\\Phi\_2(B\_i(t))\\neq
   \\Phi\_2(B\_j(t))Φ2​(Bi​(t))=Φ2​(Bj​(t)) because Φ₂ preserves adjacency classes.
   Π is injective on Φ₂-st...
-heading: '**1.2 (Uniqueness)**'
-id: GEN12-1917
-lines: 2904-2913
-location: genesis-12/untitled-document::part-i-determinism-of-evolution::12-uniqueness::b1
-parent_heading: '**Part I — Determinism of Evolution**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- ≠
+- Π
+- Φ₂
+- If Bi
+aliases:
+- Bk937nt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.578947368421052
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

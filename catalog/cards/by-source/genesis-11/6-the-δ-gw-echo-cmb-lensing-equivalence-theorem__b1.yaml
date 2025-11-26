@@ -1,14 +1,34 @@
+id: GEN11-1328
+location: genesis-11/the-adjacency-wave-equation::6-the-δ-gw-echo-cmb-lensing-equivalence-theorem::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 1087-1099
+heading: '**6\. The δ → GW Echo → CMB Lensing Equivalence Theorem**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Π
-- Φ
-- δ
 excerpt: LCMB∘(ΠΦδ)  ≡  ΠΦGGWδ.\\boxed{ \\mathcal{L}\_{\\mathrm{CMB}} \\circ (\\Pi\\Phi\\delta)
   \\;\\equiv\\; \\Pi\\Phi\\mathcal{G}\_{\\mathrm{GW}}\\delta. }LCMB​∘(ΠΦδ)≡ΠΦGGW​δ.​
   δ-curvature that supports grav...
-heading: '**6\. The δ → GW Echo → CMB Lensing Equivalence Theorem**'
-id: GEN11-1328
-lines: 1087-1099
-location: genesis-11/the-adjacency-wave-equation::6-the-δ-gw-echo-cmb-lensing-equivalence-theorem::b1
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- Meta-Time
+- δ
+- Π
+- Φ
+- δ-curvature
+- δ-mode
+- →
+- ΦGGW
+- Angular metric
+aliases:
+- Bk583lb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.9811320754717
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

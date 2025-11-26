@@ -1,12 +1,29 @@
+id: GEN3-7519
+location: genesis-3/the-tri-unity-theorem::tri-unity-identity-t5::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 576-584
+heading: '**Tri-Unity Identity (T5)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'The three generators compose into the closed Genesis→Math→Physics cycle:
   π∘Φ∘δ: G→P\\boxed{ \\pi \\circ \\Phi \\circ \\delta:\\ \\mathcal{G} \\to \\mathcal{P}
   }π∘Φ∘δ: G→P​ and this composition is the ...'
-heading: '**Tri-Unity Identity (T5)**'
-id: GEN3-7519
-lines: 576-584
-location: genesis-3/the-tri-unity-theorem::tri-unity-identity-t5::b1
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- →
+- π
+- δ
+- Φ
+aliases:
+- Bk543tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.30232558139535
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

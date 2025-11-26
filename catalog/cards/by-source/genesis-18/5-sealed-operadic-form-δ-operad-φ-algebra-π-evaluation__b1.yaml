@@ -1,15 +1,34 @@
+id: GEN18-5312
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::5-sealed-operadic-form-δ-operad-φ-algebra-π-evaluation::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2316-2328
+heading: '**5\. Sealed Operadic Form (δ-Operad → Φ-Algebra → Π-Evaluation)**'
 block_type: paragraph
-concepts:
-- Box
-- Π
-- Φ
-- δ
-- ρ
 excerpt: Oδ(2)  →ρΦ  BoxΦ  →LanΦEδ=Π  Poset\\boxed{ \\mathcal{O}^{(2)}\_\\delta \\;\\xrightarrow{\\rho\_\\Phi}\\;
   \\mathbf{Box}\_\\Phi \\;\\xrightarrow{\\text{Lan}\_\\Phi E\_\\delta \= \\Pi}\\;
   \\mathbf{Poset}...
-heading: '**5\. Sealed Operadic Form (δ-Operad → Φ-Algebra → Π-Evaluation)**'
-id: GEN18-5312
-lines: 2316-2328
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::5-sealed-operadic-form-δ-operad-φ-algebra-π-evaluation::b1
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- Φ
+- δ
+- IGSOA
+- Box
+- Π
+- ρ
+- →
+- δ-modes
+- ΦE
+aliases:
+- Bk964pb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.516129032258066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: 'XOR detects semantic opposition: Θ1⋅Θ2\<0 Θ'
-heading: B2.6 Semantic XOR (Conflict Gate)
 id: GEN20-7190
-lines: 7013-7051
 location: genesis-20/mbc-40-documentaitio-1::b26-semantic-xor-conflict-gate::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7013-7051
+heading: B2.6 Semantic XOR (Conflict Gate)
+block_type: paragraph
+excerpt: 'XOR detects semantic opposition: Θ1⋅Θ2\<0 Θ'
+concepts:
+- Θ
+- higher-order
+aliases:
+- Bk705xd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.6363636363636362
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

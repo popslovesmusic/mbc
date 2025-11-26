@@ -1,12 +1,28 @@
+id: GEN17-4981
+location: genesis-17/key-points::i-underlying-categories::1-the-category-of-boxes-𝓑::objects-ob𝓑::b1
+source: genesis-17\Key_Points.md
+lines: 1465-1475
+heading: '**Objects (Ob(𝓑)):**'
+parent_heading: '**1\. The Category of Boxes: 𝓑**'
 block_type: paragraph
+excerpt: 'A **Box** is a δ-distinguished region, denoted: `Bᵢ = (δᵢ, Φᵢ)` where:'
 concepts:
+- δ
 - Box
 - Φ
-- δ
-excerpt: 'A **Box** is a δ-distinguished region, denoted: `Bᵢ = (δᵢ, Φᵢ)` where:'
-heading: '**Objects (Ob(𝓑)):**'
-id: GEN17-4981
-lines: 1465-1475
-location: genesis-17/key-points::i-underlying-categories::1-the-category-of-boxes-𝓑::objects-ob𝓑::b1
-parent_heading: '**1\. The Category of Boxes: 𝓑**'
-source: genesis-17\Key_Points.md
+- δ-distinguished
+aliases:
+- Bk655bd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

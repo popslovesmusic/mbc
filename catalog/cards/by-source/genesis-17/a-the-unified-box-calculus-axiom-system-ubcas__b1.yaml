@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (the version you just wrote) and
-heading: (A) The Unified Box Calculus Axiom System (UBCAS)
 id: GEN17-4279
-lines: 2039-2042
 location: genesis-17/box-calculus::next-step-you-choose::a-the-unified-box-calculus-axiom-system-ubcas::b1
-parent_heading: ❓ Next Step (You Choose)
 source: genesis-17\box_calculus.md
+lines: 2039-2042
+heading: (A) The Unified Box Calculus Axiom System (UBCAS)
+parent_heading: ❓ Next Step (You Choose)
+block_type: paragraph
+excerpt: (the version you just wrote) and
+aliases:
+- Bk018tv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

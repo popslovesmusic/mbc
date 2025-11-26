@@ -1,11 +1,26 @@
+id: GEN20-6940
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::122-example-2-semantic-disambiguation::step-3-polarity-influences::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3682-3687
+heading: Step 3 — Polarity influences
+parent_heading: 12.2 Example 2 — Semantic Disambiguation
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'Contextual boxes supply polarity: * Θ\_C1 \= \+0.7 (river context strong)
   * Θ\_C2 \= \+0.2 (financial context weak)'
-heading: Step 3 — Polarity influences
-id: GEN20-6940
-lines: 3682-3687
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::122-example-2-semantic-disambiguation::step-3-polarity-influences::b1
-parent_heading: 12.2 Example 2 — Semantic Disambiguation
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Θ
+aliases:
+- Bk210cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

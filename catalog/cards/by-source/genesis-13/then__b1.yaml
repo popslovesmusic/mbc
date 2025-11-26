@@ -1,15 +1,38 @@
+id: GEN13-2392
+location: genesis-13/the-weight-of-light::the-main-result::kms-states-from-deviation::then::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1812-1827
+heading: '**Then:**'
+parent_heading: '**\*\*KMS States from Deviation**'
 block_type: list
-concepts:
-- Π
-- Φ
-- β
-- δ
-- σ
 excerpt: 1. **Every δ-excitation of curvature magnitude k induces** a unique one-parameter
   automorphism σᵗ whose Π-projection is the modular automorphism of a KMS state at
-heading: '**Then:**'
-id: GEN13-2392
-lines: 1812-1827
-location: genesis-13/the-weight-of-light::the-main-result::kms-states-from-deviation::then::b1
-parent_heading: '**\*\*KMS States from Deviation**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- Every δ-excitation of curvature magnitude k induces
+- β
+- δ-excitation
+- Π
+- Π-projection
+- unique δ-excitation
+- →
+- δ-excitations
+- one-parameter
+- σ
+- Φ
+- ↔
+aliases:
+- Bk062ee
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.684210526315791
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

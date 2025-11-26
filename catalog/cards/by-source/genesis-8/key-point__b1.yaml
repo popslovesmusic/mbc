@@ -1,13 +1,26 @@
+id: GEN8-8871
+location: genesis-8/meta-time-geometry-and-temporal-projection::4-meta-time-and-the-arrow-of-direction::key-point::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1850-1859
+heading: '**Key Point**'
+parent_heading: '**4\. META-TIME AND THE ARROW OF DIRECTION**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Since Meta
 excerpt: '**Causality inherits its arrow from Meta-Time.** Since Meta-Time cannot
   reverse, physical time inherits irreversible direction from its projection: t=πt(T)t
   \= \\pi\_t(\\mathbb{T})t=πt​(T)'
-heading: '**Key Point**'
-id: GEN8-8871
-lines: 1850-1859
-location: genesis-8/meta-time-geometry-and-temporal-projection::4-meta-time-and-the-arrow-of-direction::key-point::b1
-parent_heading: '**4\. META-TIME AND THE ARROW OF DIRECTION**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- Meta-Time
+- π
+- Since Meta
+aliases:
+- Bk933ci
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

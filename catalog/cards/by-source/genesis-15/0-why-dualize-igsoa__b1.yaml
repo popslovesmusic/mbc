@@ -1,19 +1,39 @@
-block_type: paragraph
-concepts:
-- co-acts
-- co-multiplication
-- co-unit
-- coalgebras
-- comonads
-- extractor
-- monad
-- Π
-- Φ
-- δ
-excerpt: 'Your previous chapter showed: * δ is a **monad** generating structure (“universe
-  from deviation”) * galaxies are **Eilenberg–Moore algebras**,'
-heading: '**🔷 0\. Why Dualize IGSOA?**'
 id: GEN15-3486
-lines: 1699-1737
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::0-why-dualize-igsoa::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1699-1737
+heading: '**🔷 0\. Why Dualize IGSOA?**'
+block_type: paragraph
+excerpt: 'Your previous chapter showed: * δ is a **monad** generating structure (“universe
+  from deviation”) * galaxies are **Eilenberg–Moore algebras**,'
+concepts:
+- δ
+- unwrapped δ-information boundary
+- co-Kleisli coinduction
+- monad
+- Tδ-algebra morphism
+- co-multiplication
+- →
+- δ-information
+- Tδ-algebra
+- co-Kleisli
+- co-topoi
+- co-acts
+- co-unit
+- Π
+- ∞
+aliases:
+- Bk121yp
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

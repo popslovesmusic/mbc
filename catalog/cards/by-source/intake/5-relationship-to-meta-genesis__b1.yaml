@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Meta-Genesis
-excerpt: Meta-Genesis begins here.
-heading: '**5\. Relationship to Meta-Genesis**'
 id: INTK-9780
-lines: 383-385
 location: intake/meta-genesis-core-papers-foundations::5-relationship-to-meta-genesis::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 383-385
+heading: '**5\. Relationship to Meta-Genesis**'
+block_type: paragraph
+excerpt: Meta-Genesis begins here.
+concepts:
+- Meta-Genesis
+aliases:
+- Bk787mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

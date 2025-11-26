@@ -1,12 +1,29 @@
+id: GEN13-2638
+location: genesis-13/what-biology-is-in-meta-genesis::8-corollaries-ultra-formal::corollary-81-natural-selection-as-δ-spectral-filtering::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2570-2578
+heading: '**Corollary 8.1 (Natural Selection as δ-Spectral Filtering).**'
+parent_heading: '**8\. Corollaries (Ultra-Formal)**'
 block_type: paragraph
-concepts:
-- μ
 excerpt: 'Selection is equivalent to spectral filtering: μt+Δt∝1{f≥θt}μt\\mu\_{t+\\Delta
   t}\\propto \\mathbf{1}\_{\\{\\mathfrak{f}\\ge \\theta\_t\\}}\\mu\_tμt+Δt​∝1{f≥θt​}​μt​
   for some threshold θt\\theta\_tθt​...'
-heading: '**Corollary 8.1 (Natural Selection as δ-Spectral Filtering).**'
-id: GEN13-2638
-lines: 2570-2578
-location: genesis-13/what-biology-is-in-meta-genesis::8-corollaries-ultra-formal::corollary-81-natural-selection-as-δ-spectral-filtering::b1
-parent_heading: '**8\. Corollaries (Ultra-Formal)**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- θ
+- μ
+- ≥
+- Δ
+aliases:
+- Bk289se
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.256410256410255
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

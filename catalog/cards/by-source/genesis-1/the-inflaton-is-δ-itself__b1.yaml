@@ -1,9 +1,20 @@
-block_type: paragraph
-concepts: []
-excerpt: No new particle or field.
-heading: '**✔ The inflaton is δ itself**'
 id: GEN1-391
-lines: 518-520
 location: genesis-1/the-first-geometry::4-why-your-model-naturally-avoids-the-big-problems-of-inflation::the-inflaton-is-δ-itself::b1
-parent_heading: '**4\. Why Your Model Naturally Avoids the Big Problems of Inflation**'
 source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 518-520
+heading: '**✔ The inflaton is δ itself**'
+parent_heading: '**4\. Why Your Model Naturally Avoids the Big Problems of Inflation**'
+block_type: paragraph
+excerpt: No new particle or field.
+aliases:
+- Bk837np
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

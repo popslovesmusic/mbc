@@ -1,14 +1,33 @@
+id: GEN13-2181
+location: genesis-13/meta-math-nuclear-physics::2-φ-layer-band-theory-and-operator-algebra::definition-21-φ-lift::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2147-2159
+heading: '**Definition 2.1 — Φ-Lift**'
+parent_heading: '**2\. Φ-Layer: Band Theory and Operator Algebra**'
 block_type: paragraph
-concepts:
-- Λ
-- Φ
-- δ
 excerpt: 'Φ(Λδ)=(AΦ,HΦ,DΦ)\\Phi(\\Lambda\_\\delta) \= (\\mathcal{A}\_\\Phi, \\mathcal{H}\_\\Phi,
   D\_\\Phi)Φ(Λδ​)=(AΦ​,HΦ​,DΦ​) with: * AΦ\\mathcal{A}\_\\PhiAΦ​: algebra of lattice
   observables'
-heading: '**Definition 2.1 — Φ-Lift**'
-id: GEN13-2181
-lines: 2147-2159
-location: genesis-13/meta-math-nuclear-physics::2-φ-layer-band-theory-and-operator-algebra::definition-21-φ-lift::b1
-parent_heading: '**2\. Φ-Layer: Band Theory and Operator Algebra**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- δ
+- Λ
+- tight-binding
+- Φ-Dirac
+- δ-mode
+- ΦD
+aliases:
+- Bk480pl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.962962962962962
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

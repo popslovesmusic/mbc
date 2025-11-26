@@ -1,14 +1,33 @@
+id: GEN20-6870
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::92-boxes-as-objects::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2838-2856
+heading: 9.2 Boxes as Objects
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: In category theory, an object is an entity with no internal structure. In
   MBC, a box does have internal structure — δ-content, Φ-formation, metadata — but
   for categorical purposes, we treat the bounda...
-heading: 9.2 Boxes as Objects
-id: GEN20-6870
-lines: 2838-2856
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::92-boxes-as-objects::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- δ-content
+- δ
+- Φ
+- boundary-level
+- box-as-object
+- Φ-formation
+- Π
+aliases:
+- Bk502ct
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

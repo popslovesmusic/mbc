@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Genesis Closure Principle
-- σ
-excerpt: '**How does the full geometry of the universe collapse back into a single
-  potential state?** Answer: Through the Genesis Closure Principle.'
-heading: '**4\. Collapse: Geometry → Potential (Genesis Closure)**'
 id: GEN5-7970
-lines: 529-558
 location: genesis-5/formal-proof-of-the-adjoint-triple::4-collapse-geometry-potential-genesis-closure::b1
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 529-558
+heading: '**4\. Collapse: Geometry → Potential (Genesis Closure)**'
+block_type: paragraph
+excerpt: '**How does the full geometry of the universe collapse back into a single
+  potential state?** Answer: Through the Genesis Closure Principle.'
+concepts:
+- →
+- σ
+- globally coherent state of potential
+- scale-chosen
+- Genesis Closure Principle
+aliases:
+- Bk037hd
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.2
+is_technical: true
+concept_density: 3.787878787878788
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

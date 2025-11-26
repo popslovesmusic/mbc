@@ -1,19 +1,41 @@
+id: GEN9-9390
+location: genesis-9/is-the-source-of-all-structure::proof-formal::3-π-projection-stabilizes-classical-orbitals::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 800-826
+heading: '**3\. Π-projection stabilizes classical orbitals**'
+parent_heading: '**Proof (Formal)**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- 'Time
-
-
-  Thus'
-- adjacency-stable
-- Π
-- Φ
 excerpt: 'Π selects the **adjacency-stable** subset of Φ-modes: Π(ψn)⊆Δn.\\Pi(\\psi\_n)
   \\subseteq \\Delta\_n.Π(ψn​)⊆Δn​. The Π-stable cardinalities for the first shells
   are:'
-heading: '**3\. Π-projection stabilizes classical orbitals**'
-id: GEN9-9390
-lines: 800-826
-location: genesis-9/is-the-source-of-all-structure::proof-formal::3-π-projection-stabilizes-classical-orbitals::b1
-parent_heading: '**Proof (Formal)**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- Meta-Time
+- Π
+- →
+- classical orbital capacities appear automatically
+- ψ
+- adjacency-stable
+- Δ
+- composite-mode
+- Π-stable
+- Φ-modes
+- f-block
+- s-block
+- p-block
+- d-block
+- Φ
+aliases:
+- Bk793st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

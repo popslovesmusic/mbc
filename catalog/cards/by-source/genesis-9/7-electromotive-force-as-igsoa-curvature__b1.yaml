@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-- μ
-- ν
-excerpt: 'Finally, in geometric form: E=∫Fμν(EM)dxμ∧dxν.\\mathcal{E} \= \\int F^{(EM)}\_{\\mu\\nu}
-  dx^\\mu \\wedge dx^\\nu.E=∫Fμν(EM)​dxμ∧dxν. Thus EMF arises when:'
-heading: '**7\. Electromotive Force as IGSOA Curvature**'
 id: GEN9-9554
-lines: 2061-2081
 location: genesis-9/strong-force::7-electromotive-force-as-igsoa-curvature::b1
 source: genesis-9\strong-force.md
+lines: 2061-2081
+heading: '**7\. Electromotive Force as IGSOA Curvature**'
+block_type: paragraph
+excerpt: 'Finally, in geometric form: E=∫Fμν(EM)dxμ∧dxν.\\mathcal{E} \= \\int F^{(EM)}\_{\\mu\\nu}
+  dx^\\mu \\wedge dx^\\nu.E=∫Fμν(EM)​dxμ∧dxν. Thus EMF arises when:'
+concepts:
+- ν
+- μ
+- ∫
+- ∧
+- θ
+- δ
+- Φ
+aliases:
+- Bk083fg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.864406779661017
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,30 @@
+id: GEN17-4171
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::45-φ-transform-and-π-evaluation::b1
+source: genesis-17\box_calculus.md
+lines: 303-310
+heading: 4.5 Φ-Transform and Π-Evaluation
+parent_heading: 4\. Operator-Specific Transition Rules
 block_type: table
+excerpt: '---'
 concepts:
-- Box
-- Π
 - Σ
 - Φ
-excerpt: '---'
-heading: 4.5 Φ-Transform and Π-Evaluation
-id: GEN17-4171
-lines: 303-310
-location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::45-φ-transform-and-π-evaluation::b1
-parent_heading: 4\. Operator-Specific Transition Rules
-source: genesis-17\box_calculus.md
+- Π
+- IGSOA
+- Box
+- θ
+aliases:
+- Bk842is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

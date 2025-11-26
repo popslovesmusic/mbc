@@ -1,13 +1,32 @@
+id: GEN7-8567
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::10-the-final-result-δ-atomic-orbitals::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 208-226
+heading: '**10\. The Final Result: δ-Atomic Orbitals**'
 block_type: paragraph
-concepts:
-- Ψ
-- α
-- δ
 excerpt: Ψnℓm(δ)(r,θ,ϕ)=Rnℓ(r;α) Yℓm(θ,ϕ)(8)\\boxed{ \\Psi\_{n\\ell m}^{(\\delta)}(r,\\theta,\\phi)
   \= R\_{n\\ell}(r;\\alpha)\\, Y\_{\\ell m}(\\theta,\\phi) } \\tag{8}Ψnℓm(δ)​(r,θ,ϕ)=Rnℓ​(r;α)Yℓm​(θ,ϕ)​(8)
   Whe...
-heading: '**10\. The Final Result: δ-Atomic Orbitals**'
-id: GEN7-8567
-lines: 208-226
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::10-the-final-result-δ-atomic-orbitals::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- α
+- δ
+- θ
+- Ψ
+- δ-deformation
+- δ-dependent
+- Ψn
+aliases:
+- Bk026bp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

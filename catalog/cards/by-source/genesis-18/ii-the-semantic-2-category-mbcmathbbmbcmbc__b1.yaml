@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We define:'
-heading: '**II. The Semantic 2-Category MBC\\mathbb{MBC}MBC**'
 id: GEN18-5507
-lines: 1672-1674
 location: genesis-18/mbc-4::ii-the-semantic-2-category-mbcmathbbmbcmbc::b1
 source: genesis-18\MBC-4.md
+lines: 1672-1674
+heading: '**II. The Semantic 2-Category MBC\\mathbb{MBC}MBC**'
+block_type: paragraph
+excerpt: 'We define:'
+aliases:
+- Bk914de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

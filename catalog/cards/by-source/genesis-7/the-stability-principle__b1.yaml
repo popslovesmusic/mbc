@@ -1,14 +1,36 @@
+id: GEN7-8458
+location: genesis-7/the-complete-eft-lagrangian::formal-igsoa-version::the-stability-principle::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 254-278
+heading: '***The Stability Principle***'
+parent_heading: '**FORMAL IGSOA VERSION**'
 block_type: paragraph
-concepts:
-- does
-- operator
-- δ
 excerpt: Deviation (δ) is only self-sustaining when it forms closed, consistent, recurrent
   structures.\\textbf{Deviation (δ) is only self-sustaining when it forms closed,
   consistent, recurrent structures.}Devi...
-heading: '***The Stability Principle***'
-id: GEN7-8458
-lines: 254-278
-location: genesis-7/the-complete-eft-lagrangian::formal-igsoa-version::the-stability-principle::b1
-parent_heading: '**FORMAL IGSOA VERSION**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- Deviation
+- δ
+- →
+- self-sustaining
+- only law-like deviation survives
+- self-consistent
+- close under composition
+- law-like
+- laws of physics
+- does
+- gets laws
+- does not
+- operator
+aliases:
+- Bk743do
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.684210526315791
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

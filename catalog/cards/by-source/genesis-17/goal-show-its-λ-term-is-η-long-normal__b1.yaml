@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: 'Goal: Show its λ-term is η-long normal.'
 id: GEN17-4527
-lines: 6060-6062
 location: genesis-17/box-calculus::4-proof-fully-expanded-box-graph-η-long-normal-form::goal-show-its-λ-term-is-η-long-normal::b1
-parent_heading: '⭐ 4\. PROOF: FULLY EXPANDED BOX GRAPH → η-LONG NORMAL FORM'
 source: genesis-17\box_calculus.md
+lines: 6060-6062
+heading: 'Goal: Show its λ-term is η-long normal.'
+parent_heading: '⭐ 4\. PROOF: FULLY EXPANDED BOX GRAPH → η-LONG NORMAL FORM'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

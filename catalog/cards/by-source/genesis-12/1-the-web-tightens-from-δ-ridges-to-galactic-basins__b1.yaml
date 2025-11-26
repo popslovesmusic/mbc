@@ -1,11 +1,32 @@
+id: GEN12-1831
+location: genesis-12/untitled-document::1-the-web-tightens-from-δ-ridges-to-galactic-basins::b1
+source: genesis-12\Untitled_document.md
+lines: 1731-1749
+heading: '**1\. The Web Tightens: From δ-Ridges to Galactic Basins**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: As the cosmic web matures, the δ-harmonic scaffolding sharpened during structure
   formation begins to generate **curvature basins**—localized minima of adjacency
   distortion. These basins are not gravit...
-heading: '**1\. The Web Tightens: From δ-Ridges to Galactic Basins**'
-id: GEN12-1831
-lines: 1731-1749
-location: genesis-12/untitled-document::1-the-web-tightens-from-δ-ridges-to-galactic-basins::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- proto-galactic wells
+- proto-galactic
+- δ-harmonic
+- δ-filament
+- grid-like
+- three-way
+- δ-basins
+- δ-knot
+- curvature basins
+aliases:
+- Bk016tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: true
+concept_density: 9.00900900900901
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,28 @@
+id: GEN20-6931
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::121-example-1-simple-propositional-reasoning-in-mbc::step-1-δ-content-for-each-box::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3613-3617
+heading: Step 1 — δ-content for each box
+parent_heading: 12.1 Example 1 — Simple Propositional Reasoning in MBC
 block_type: list
-concepts:
-- Box
-- δ
 excerpt: '* Box A receives δ\_A: deviation indicating a detected pattern. * Box B
   receives δ\_B: deviation representing a conditional structure (“if A then X”). *
   Box C has δ\_C initially minimal (awaiting inco...'
-heading: Step 1 — δ-content for each box
-id: GEN20-6931
-lines: 3613-3617
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::121-example-1-simple-propositional-reasoning-in-mbc::step-1-δ-content-for-each-box::b1
-parent_heading: 12.1 Example 1 — Simple Propositional Reasoning in MBC
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Box
+- δ
+aliases:
+- Bk362br
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

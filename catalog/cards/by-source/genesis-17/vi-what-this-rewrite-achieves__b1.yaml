@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'This rewrite:'
-heading: 🔷 VI. What This Rewrite Achieves
 id: GEN17-4752
-lines: 8811-8813
 location: genesis-17/box-calculus::vi-what-this-rewrite-achieves::b1
 source: genesis-17\box_calculus.md
+lines: 8811-8813
+heading: 🔷 VI. What This Rewrite Achieves
+block_type: paragraph
+excerpt: 'This rewrite:'
+aliases:
+- Bk612tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

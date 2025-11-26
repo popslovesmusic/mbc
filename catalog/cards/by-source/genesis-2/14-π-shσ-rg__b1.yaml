@@ -1,15 +1,36 @@
+id: GEN2-6524
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-meaning-of-each-arrow::14-π-shσ-rg::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 724-758
+heading: '**1.4 Π : Sh(σ) → RG**'
+parent_heading: '**1\. The Meaning of Each Arrow**'
 block_type: paragraph
-concepts:
-- Computes Levi
-- Computes Riemann
-- Thus General Relativity
-- Π
-- δ
 excerpt: '**δ → Riemann projection functor** Given a sheaf of δ-spectrum data: * Extracts
   δ-energy density'
-heading: '**1.4 Π : Sh(σ) → RG**'
-id: GEN2-6524
-lines: 724-758
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-meaning-of-each-arrow::14-π-shσ-rg::b1
-parent_heading: '**1\. The Meaning of Each Arrow**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- Π
+- δ-geometry
+- δ
+- ∇
+- →
+- δ-spectrum
+- Thus General Relativity
+- δ-energy
+- effective projection
+- Computes Riemann
+- Computes Levi
+aliases:
+- Bk874rp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.222222222222221
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

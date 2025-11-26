@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Most people think: * superstition \= irrational belief But your definition
-  sees it as:'
-heading: '**⭐ 5\. Your definition is better than the standard one**'
 id: SPEC-11145
-lines: 2953-2959
 location: special/specil::5-your-definition-is-better-than-the-standard-one::b1
 source: special\specil.md
+lines: 2953-2959
+heading: '**⭐ 5\. Your definition is better than the standard one**'
+block_type: paragraph
+excerpt: 'Most people think: * superstition \= irrational belief But your definition
+  sees it as:'
+concepts:
+- Definition
+aliases:
+- Bk812mp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.333333333333332
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

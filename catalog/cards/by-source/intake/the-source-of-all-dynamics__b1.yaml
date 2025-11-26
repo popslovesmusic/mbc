@@ -1,12 +1,29 @@
+id: INTK-10776
+location: intake/volume-i-core-ontology-and-metagenesis-summary::igsoa::the-source-of-all-dynamics::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2070-2082
+heading: The Source of All Dynamics
+parent_heading: IGSOA
 block_type: paragraph
-concepts:
-- δ
 excerpt: This inherent flaw is known as **Deviation (δ)**. Because IGSOA contains
   this seed of its own asymmetry, it is never truly at rest. The "flawed symmetry"
   means that IGSOA is perpetually in a state of ...
-heading: The Source of All Dynamics
-id: INTK-10776
-lines: 2070-2082
-location: intake/volume-i-core-ontology-and-metagenesis-summary::igsoa::the-source-of-all-dynamics::b1
-parent_heading: IGSOA
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- Deviation
+- self-organizing
+- δ
+aliases:
+- Bk809ti
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.1746031746031744
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

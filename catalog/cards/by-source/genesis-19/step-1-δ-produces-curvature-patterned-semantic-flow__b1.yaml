@@ -1,12 +1,29 @@
+id: GEN19-5931
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-a-igsoa-proof-δ-geometry-language::step-1-δ-produces-curvature-patterned-semantic-flow::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 814-820
+heading: '**Step 1\. δ produces curvature-patterned semantic flow**'
+parent_heading: '**III-A. IGSOA Proof (δ-geometry language)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'δ-adjacency induces signed curvature signals: κi=(local curvature orientation)\\kappa\_i
   \= \\text{(local curvature orientation)}κi​=(local curvature orientation) Metadata
   mim\_imi​ assigns semantic r...'
-heading: '**Step 1\. δ produces curvature-patterned semantic flow**'
-id: GEN19-5931
-lines: 814-820
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-a-igsoa-proof-δ-geometry-language::step-1-δ-produces-curvature-patterned-semantic-flow::b1
-parent_heading: '**III-A. IGSOA Proof (δ-geometry language)**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- κ
+- δ-adjacency
+- δ
+aliases:
+- Bk397ai
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

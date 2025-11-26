@@ -1,11 +1,31 @@
-block_type: paragraph
-concepts:
-- adjacency
-- δ
-excerpt: 'δ is not a force carrier or a gauge boson in the usual sense. It is *the
-  infinitesimal generator of all structure*. Mathematically, δ is:'
-heading: '**1\. δ Is Not a Standard Boson**'
 id: GEN0-309
-lines: 1029-1053
 location: genesis-0/why-the-first-action-is-necessary::1-δ-is-not-a-standard-boson::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1029-1053
+heading: '**1\. δ Is Not a Standard Boson**'
+block_type: paragraph
+excerpt: 'δ is not a force carrier or a gauge boson in the usual sense. It is *the
+  infinitesimal generator of all structure*. Mathematically, δ is:'
+concepts:
+- δ
+- →
+- E-operator
+- F-operator
+- H-operator
+- A-operator
+- δ-boson
+- curvature deviation
+- energy scaling
+- adjacency
+aliases:
+- Bk595nf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

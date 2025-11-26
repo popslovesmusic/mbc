@@ -1,15 +1,31 @@
+id: INTK-10249
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::3-meta-fractal-differential-forms-ωk-f::31-fractal-differential-d-f::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 366-372
+heading: '**3.1. Fractal Differential (d_F)**'
+parent_heading: '**3. Meta-Fractal Differential Forms (Ω^k_F)**'
 block_type: paragraph
-concepts:
-- Fractal Differential
-- Meta-Fractal
-- α
-- μ
 excerpt: 'The standard exterior derivative `d` is replaced by the **Meta-Fractal Differential
   (d_F)**. For a scalar function `f` on F: `d_F f(x) = ∂_F f(x) dμ_F(x)` where `∂_F`
   is a generalized fractional/fract...'
-heading: '**3.1. Fractal Differential (d_F)**'
-id: INTK-10249
-lines: 366-372
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::3-meta-fractal-differential-forms-ωk-f::31-fractal-differential-d-f::b1
-parent_heading: '**3. Meta-Fractal Differential Forms (Ω^k_F)**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- ∂
+- Meta-Fractal
+- α
+- μ
+- Fractal Differential
+aliases:
+- Bk412ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

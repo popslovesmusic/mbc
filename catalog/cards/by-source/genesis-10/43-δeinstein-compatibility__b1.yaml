@@ -1,19 +1,35 @@
+id: GEN10-967
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-iv-deriving-gravity-the-meta-einstein-equation::43-δeinstein-compatibility::b1
+source: genesis-10\research_overview.md
+lines: 162-166
+heading: '**4.3 δ–Einstein Compatibility**'
+parent_heading: '**Part IV: Deriving Gravity — The Meta-Einstein Equation**'
 block_type: paragraph
-concepts:
-- Einstein Compatibility Theorem
-- Einstein Equation
-- Einstein Field Equations
-- Field
-- General Relativity
-- Meta-Einstein
-- Meta-Genesis
-- Theorem
 excerpt: The theory proves the **$\\delta$-Einstein Compatibility Theorem**. This
   theorem demonstrates that in the "classical limit"—where the discrete $\\delta$-steps
   become small and numerous—the Meta-Einste...
-heading: '**4.3 δ–Einstein Compatibility**'
-id: GEN10-967
-lines: 162-166
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-iv-deriving-gravity-the-meta-einstein-equation::43-δeinstein-compatibility::b1
-parent_heading: '**Part IV: Deriving Gravity — The Meta-Einstein Equation**'
-source: genesis-10\research_overview.md
+concepts:
+- Meta-Einstein
+- Meta-Genesis
+- Theorem
+- Field
+- quantum-compatible
+- Einstein Compatibility Theorem
+- Einstein Field Equations
+- General Relativity
+- Einstein Equation
+aliases:
+- Bk237tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.846153846153847
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

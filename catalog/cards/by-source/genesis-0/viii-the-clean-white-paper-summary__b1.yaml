@@ -1,13 +1,29 @@
+id: GEN0-154
+location: genesis-0/feynman-rules-interaction-vertices::viii-the-clean-white-paper-summary::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 2280-2284
+heading: '**VIII. The Clean White-Paper Summary**'
 block_type: paragraph
-concepts:
-- γ
-- δ
-- λ
 excerpt: δ-boson mass spectrum  mδ,k2=2λδvδ2 ∣u⋅ek∣2+γ Ξkk\\boxed{ \\text{δ-boson
   mass spectrum}\~\~ m\_{\\delta,k}^2 \= 2\\lambda\_\\delta v\_\\delta^2\\,|u\\cdot
   e\_k|^2 \+ \\gamma\\,\\Xi\_{kk} }δ-boson mass...
-heading: '**VIII. The Clean White-Paper Summary**'
-id: GEN0-154
-lines: 2280-2284
-location: genesis-0/feynman-rules-interaction-vertices::viii-the-clean-white-paper-summary::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- δ-adjacency
+- δ-boson
+- λ
+- γ
+- Ξ
+- δv
+aliases:
+- Bk312bm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.223880597014925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

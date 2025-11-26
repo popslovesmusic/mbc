@@ -1,13 +1,28 @@
-block_type: table
-concepts:
-- Standard Narrative
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: '**Stage 0 — IGSOA: “The Silent Everything”**'
 id: GEN18-5343
-lines: 2641-2648
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-dual-column-explanation-of-each-stage::stage-0-igsoa-the-silent-everything::b1
-parent_heading: '**2\. Dual-Column Explanation of Each Stage**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2641-2648
+heading: '**Stage 0 — IGSOA: “The Silent Everything”**'
+parent_heading: '**2\. Dual-Column Explanation of Each Stage**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- Standard Narrative
+aliases:
+- Bk527sn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.416666666666668
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

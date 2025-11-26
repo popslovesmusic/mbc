@@ -1,15 +1,36 @@
-block_type: paragraph
-concepts:
-- cycles
-- not
-- return
-- Φ
-- δ
-- δ-curvature
-excerpt: 'Adjacency AAA is not merely a connectivity: A:nodes→neighborsA: \\text{nodes}
-  \\to \\text{neighbors}A:nodes→neighbors It carries **δ-curvature**:'
-heading: '**1\. Adjacency Is Not Smooth: It Has δ-Induced Discrete Bends**'
 id: GEN11-1110
-lines: 276-296
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::1-adjacency-is-not-smooth-it-has-δ-induced-discrete-bends::b1
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 276-296
+heading: '**1\. Adjacency Is Not Smooth: It Has δ-Induced Discrete Bends**'
+block_type: paragraph
+excerpt: 'Adjacency AAA is not merely a connectivity: A:nodes→neighborsA: \\text{nodes}
+  \\to \\text{neighbors}A:nodes→neighbors It carries **δ-curvature**:'
+concepts:
+- Adjacency
+- δ
+- δ-curvature
+- →
+- nontrivial adjacency cycles
+- Φ-propagated
+- tree-like
+- not
+- ≠
+- Φ
+- cycles
+- phase defects
+- δA
+aliases:
+- Bk918aa
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.2
+is_technical: true
+concept_density: 17.56756756756757
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,12 +1,26 @@
-block_type: paragraph
-concepts:
-- generated
-- Ψ
-- δ
-excerpt: 'Once δ acts: Adj⁡(Ψ0,Ψ1)=1.\\operatorname{Adj}(\\Psi\_0,\\Psi\_1) \= 1.Adj(Ψ0​,Ψ1​)=1.
-  Before δ, adjacency is undefined.'
-heading: '**5\. Deviation Generates the First Adjacency**'
 id: INTK-10129
-lines: 735-760
 location: intake/meta-genesis-physical-interpretation-papers::5-deviation-generates-the-first-adjacency::b1
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 735-760
+heading: '**5\. Deviation Generates the First Adjacency**'
+block_type: paragraph
+excerpt: 'Once δ acts: Adj⁡(Ψ0,Ψ1)=1.\\operatorname{Adj}(\\Psi\_0,\\Psi\_1) \= 1.Adj(Ψ0​,Ψ1​)=1.
+  Before δ, adjacency is undefined.'
+concepts:
+- Adjacency
+- Ψ
+- δ
+- meta-time
+- generated
+aliases:
+- Bk229oa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.204081632653061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

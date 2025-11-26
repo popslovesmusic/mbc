@@ -1,13 +1,27 @@
+id: GEN9-9210
+location: genesis-9/does-meta-genesis-indicate-new-physics::does-meta-genesis-indicate-new-physics-yes-in-three-independent-ways::3-the-δφπ-tri-unity-implies-additional-fields-δ-bosons::prediction-c::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 86-92
+heading: '**Prediction C:**'
+parent_heading: '**3\. The δ→Φ→Π Tri-Unity Implies Additional Fields (δ-Bosons)**'
 block_type: paragraph
-concepts:
-- The Standard Model
-- δ
 excerpt: The existence of one or more **new bosons** (δ-bosons), with masses linked
   to the 3-6-9 degeneracy structure. This is *explicitly new physics*. The Standard
   Model has no such tower. ---
-heading: '**Prediction C:**'
-id: GEN9-9210
-lines: 86-92
-location: genesis-9/does-meta-genesis-indicate-new-physics::does-meta-genesis-indicate-new-physics-yes-in-three-independent-ways::3-the-δφπ-tri-unity-implies-additional-fields-δ-bosons::prediction-c::b1
-parent_heading: '**3\. The δ→Φ→Π Tri-Unity Implies Additional Fields (δ-Bosons)**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- δ-bosons
+- δ
+- The Standard Model
+- new bosons
+aliases:
+- Bk198te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

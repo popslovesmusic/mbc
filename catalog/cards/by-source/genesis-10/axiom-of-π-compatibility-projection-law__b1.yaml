@@ -1,13 +1,31 @@
+id: GEN10-748
+location: genesis-10/how-stillness-becomes-solid::the-δ-berry-connection-axiom::axiom-of-π-compatibility-projection-law::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 954-966
+heading: '**Axiom of Π-Compatibility (Projection Law)**'
+parent_heading: '**The δ-Berry Connection Axiom**'
 block_type: paragraph
+excerpt: 'Under Π-projection into spatial/momentum representation: Π(Aδ)=AΠ,Π(Fδ)=FΠ,\\Pi(\\mathcal{A}\_\\delta)
+  \= \\mathcal{A}\_\\Pi, \\qquad \\Pi(\\mathcal{F}\_\\delta) \= \\mathcal{F}\_\\Pi,Π(Aδ​)=AΠ​,Π(Fδ​...'
 concepts:
 - Π
 - δ
 - ν
-excerpt: 'Under Π-projection into spatial/momentum representation: Π(Aδ)=AΠ,Π(Fδ)=FΠ,\\Pi(\\mathcal{A}\_\\delta)
-  \= \\mathcal{A}\_\\Pi, \\qquad \\Pi(\\mathcal{F}\_\\delta) \= \\mathcal{F}\_\\Pi,Π(Aδ​)=AΠ​,Π(Fδ​...'
-heading: '**Axiom of Π-Compatibility (Projection Law)**'
-id: GEN10-748
-lines: 954-966
-location: genesis-10/how-stillness-becomes-solid::the-δ-berry-connection-axiom::axiom-of-π-compatibility-projection-law::b1
-parent_heading: '**The δ-Berry Connection Axiom**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+- Π-projection
+- δ-Berry
+aliases:
+- Bk713up
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.8125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,28 @@
+id: GEN6-8226
+location: genesis-6/harmonics-atomic-orbitals::7-what-this-achieves-for-your-framework::4-predicts-new-physics::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 225-233
+heading: '**(4) Predicts new physics**'
+parent_heading: '**7\. What This Achieves for Your Framework**'
 block_type: list
-concepts:
-- δ
 excerpt: '* chiral orbitals in heavy atoms * micro-fractal lobe splitting in high-ℓ
   shells * δ-dependent spectral shifts (testable)'
-heading: '**(4) Predicts new physics**'
-id: GEN6-8226
-lines: 225-233
-location: genesis-6/harmonics-atomic-orbitals::7-what-this-achieves-for-your-framework::4-predicts-new-physics::b1
-parent_heading: '**7\. What This Achieves for Your Framework**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- micro-fractal
+- δ-dependent
+- δ
+aliases:
+- Bk581co
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

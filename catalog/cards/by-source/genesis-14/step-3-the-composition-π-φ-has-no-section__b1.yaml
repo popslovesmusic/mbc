@@ -1,15 +1,33 @@
+id: GEN14-2895
+location: genesis-14/meta-math-and-cryptography::3-main-theorem-the-no-lift-theorem-for-cryptography::31-proof-structure::step-3-the-composition-π-φ-has-no-section::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1524-1547
+heading: '**Step 3 — The composition Π ∘ Φ has no section.**'
+parent_heading: '**3.1 Proof Structure**'
 block_type: paragraph
+excerpt: 'Assume a lift exists: L:P→D,L∘Π∘Φ=idD.L : \\mathcal{P} \\to \\mathcal{D},
+  \\quad L ∘ Π ∘ Φ \= \\mathrm{id}\_{\\mathcal{D}}.L:P→D,L∘Π∘Φ=idD​. Then L must reconstruct
+  all δ from the projected space.'
 concepts:
 - Π
 - Φ
 - Ψ
 - δ
-excerpt: 'Assume a lift exists: L:P→D,L∘Π∘Φ=idD.L : \\mathcal{P} \\to \\mathcal{D},
-  \\quad L ∘ Π ∘ Φ \= \\mathrm{id}\_{\\mathcal{D}}.L:P→D,L∘Π∘Φ=idD​. Then L must reconstruct
-  all δ from the projected space.'
-heading: '**Step 3 — The composition Π ∘ Φ has no section.**'
-id: GEN14-2895
-lines: 1524-1547
-location: genesis-14/meta-math-and-cryptography::3-main-theorem-the-no-lift-theorem-for-cryptography::31-proof-structure::step-3-the-composition-π-φ-has-no-section::b1
-parent_heading: '**3.1 Proof Structure**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+- δ-distinguishability
+- →
+- δ-structure
+- many-to-one
+aliases:
+- Bk412al
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.24742268041237
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-excerpt: IGS is smoothing. OA is action / non-zero state. Duality is misleading.”\*\*
-heading: ⭐ \*\*“IGSOA is monistic.
 id: GEN17-4625
-lines: 7432-7447
 location: genesis-17/box-calculus::igsoa-is-monistic::b1
 source: genesis-17\box_calculus.md
+lines: 7432-7447
+heading: ⭐ \*\*“IGSOA is monistic.
+block_type: paragraph
+excerpt: IGS is smoothing. OA is action / non-zero state. Duality is misleading.”\*\*
+concepts:
+- Box Calculus
+- IGSOA
+- Box
+- non-zero
+aliases:
+- Bk933is
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

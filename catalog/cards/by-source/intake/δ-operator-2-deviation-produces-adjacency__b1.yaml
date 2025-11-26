@@ -1,12 +1,29 @@
+id: INTK-9798
+location: intake/meta-genesis-core-papers-foundations::2-operator-δ-mathematical-action::δ-operator-2-deviation-produces-adjacency::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 554-558
+heading: '**(δ-Operator-2) Deviation Produces Adjacency**'
+parent_heading: '**2\. Operator δ (Mathematical Action)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: A=δ-induced adjacency\\mathcal{A} \= \\delta\\text{-induced adjacency}A=δ-induced
   adjacency Deviation creates distinguishable structure; adjacency is the first structural
   relation.
-heading: '**(δ-Operator-2) Deviation Produces Adjacency**'
-id: INTK-9798
-lines: 554-558
-location: intake/meta-genesis-core-papers-foundations::2-operator-δ-mathematical-action::δ-operator-2-deviation-produces-adjacency::b1
-parent_heading: '**2\. Operator δ (Mathematical Action)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Deviation
+- δ-induced
+- δ
+aliases:
+- Bk331ia
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

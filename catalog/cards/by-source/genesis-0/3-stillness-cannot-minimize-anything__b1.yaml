@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Ψ
-excerpt: 'Suppose we stubbornly tried to write a formal action: S\[Ψ\]S\[\\Psi\]S\[Ψ\]
-  At Ψ₀, the following happens:'
-heading: '**3\. Stillness Cannot Minimize Anything**'
 id: GEN0-271
-lines: 219-225
 location: genesis-0/why-the-first-action-is-necessary::3-stillness-cannot-minimize-anything::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 219-225
+heading: '**3\. Stillness Cannot Minimize Anything**'
+block_type: paragraph
+excerpt: 'Suppose we stubbornly tried to write a formal action: S\[Ψ\]S\[\\Psi\]S\[Ψ\]
+  At Ψ₀, the following happens:'
+concepts:
+- Ψ
+- Ψ₀
+aliases:
+- Bk029ss
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

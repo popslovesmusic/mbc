@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: K(B)=∑iw^iκi.K(B)=\\sum\_i \\hat w\_i\\kappa\_i.K(B)=i∑​w^i​κi​.
-heading: '**Step 3 — Weighted δ-curvatures collapse to a net curvature**'
 id: GEN19-5902
-lines: 404-406
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::igsoa-column::step-3-weighted-δ-curvatures-collapse-to-a-net-curvature::b1
-parent_heading: '**IGSOA Column**'
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 404-406
+heading: '**Step 3 — Weighted δ-curvatures collapse to a net curvature**'
+parent_heading: '**IGSOA Column**'
+block_type: paragraph
+excerpt: K(B)=∑iw^iκi.K(B)=\\sum\_i \\hat w\_i\\kappa\_i.K(B)=i∑​w^i​κi​.
+concepts:
+- ∑
+- κ
+aliases:
+- Bk297sh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

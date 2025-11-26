@@ -1,12 +1,34 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'Galaxy rotation curves arise from: 1. δ-curvature envelope 2. Φ₂-amplified
-  long-range curvature'
-heading: '**8\. Rotation Curves from δ-Hessian and Φ₂**'
 id: GEN12-1872
-lines: 2245-2275
 location: genesis-12/untitled-document::8-rotation-curves-from-δ-hessian-and-φ₂::b1
 source: genesis-12\Untitled_document.md
+lines: 2245-2275
+heading: '**8\. Rotation Curves from δ-Hessian and Φ₂**'
+block_type: paragraph
+excerpt: 'Galaxy rotation curves arise from: 1. δ-curvature envelope 2. Φ₂-amplified
+  long-range curvature'
+concepts:
+- δ
+- Φ
+- Π
+- Galactic-scale
+- δ-curvature
+- Π-projected
+- long-range
+- δ-Hessian
+- Φgrav
+- Φ₂
+aliases:
+- Bk383gr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.70873786407767
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

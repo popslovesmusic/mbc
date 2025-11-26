@@ -1,12 +1,27 @@
+id: INTK-10288
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::physical-implications::memory-and-learning::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 649-650
+heading: Memory and Learning
+parent_heading: Physical Implications
 block_type: paragraph
-concepts:
-- Causal History
 excerpt: The accumulating Causal History provides the basis for an ontological "memory"
   within the universe, which informs future dynamics. This could have profound implications
   for understanding emergent comp...
-heading: Memory and Learning
-id: INTK-10288
-lines: 649-650
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::physical-implications::memory-and-learning::b1
-parent_heading: Physical Implications
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Causal History
+aliases:
+- Bk431ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.225806451612903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

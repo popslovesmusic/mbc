@@ -1,11 +1,28 @@
+id: GEN12-1683
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::64-lensing-predictions::642-lensing-based-preferred-axes::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2363-2373
+heading: '**6.4.2 Lensing-Based Preferred Axes**'
+parent_heading: '**6.4 Lensing Predictions**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'The CMB axis-of-evil must reappear in: * lensing convergence maps, * shear
   two-point correlations.'
-heading: '**6.4.2 Lensing-Based Preferred Axes**'
-id: GEN12-1683
-lines: 2363-2373
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::64-lensing-predictions::642-lensing-based-preferred-axes::b1
-parent_heading: '**6.4 Lensing Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- axis-of-evil
+- two-point
+- Π
+aliases:
+- Bk773tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

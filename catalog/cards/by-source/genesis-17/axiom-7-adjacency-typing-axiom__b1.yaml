@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- τ
-excerpt: Edges must preserve type compatibility. For edge i→j
-heading: ⭐ AXIOM 7 — Adjacency & Typing Axiom
 id: GEN17-4271
-lines: 1917-1937
 location: genesis-17/box-calculus::axiom-7-adjacency-typing-axiom::b1
 source: genesis-17\box_calculus.md
+lines: 1917-1937
+heading: ⭐ AXIOM 7 — Adjacency & Typing Axiom
+block_type: paragraph
+excerpt: Edges must preserve type compatibility. For edge i→j
+concepts:
+- τ
+- →
+- type-theoretic
+aliases:
+- Bk443em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,34 @@
+id: GEN6-8328
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::1-δ-scaling-and-canonical-dimensions::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 898-924
+heading: '**1\) δ-Scaling and Canonical Dimensions**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
-concepts:
-- Λ
-- δ
-- λ
 excerpt: 'The spectral cutoff rescales Dδ→b Dδ,Λ→b Λ,b=eℓ.\\mathcal D\_\\delta \\to
   b\\,\\mathcal D\_\\delta, \\quad \\Lambda \\to b\\,\\Lambda, \\quad b=e^\\ell.Dδ​→bDδ​,Λ→bΛ,b=eℓ.
   From the kinetic term:'
-heading: '**1\) δ-Scaling and Canonical Dimensions**'
-id: GEN6-8328
-lines: 898-924
-location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::1-δ-scaling-and-canonical-dimensions::b1
-parent_heading: '**If you want next:**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- Λ
+- →
+- ε
+- canonical δ-dimension
+- λ
+- δ-criticality
+- δ-dimension
+aliases:
+- Bk786ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.594405594405594
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

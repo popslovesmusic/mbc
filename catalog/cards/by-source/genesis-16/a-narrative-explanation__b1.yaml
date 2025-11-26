@@ -1,10 +1,24 @@
+id: GEN16-3676
+location: genesis-16/quantum-measurement-in-igsoa-vs::in-one-sentence-igsoa-version::a-narrative-explanation::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 59-63
+heading: '**✓ A narrative explanation**'
+parent_heading: '**In one sentence (IGSOA version):**'
 block_type: paragraph
+excerpt: (“What really happens when an electron hits a screen?”) Just say **next**.
 concepts:
 - next
-excerpt: (“What really happens when an electron hits a screen?”) Just say **next**.
-heading: '**✓ A narrative explanation**'
-id: GEN16-3676
-lines: 59-63
-location: genesis-16/quantum-measurement-in-igsoa-vs::in-one-sentence-igsoa-version::a-narrative-explanation::b1
-parent_heading: '**In one sentence (IGSOA version):**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+aliases:
+- Bk291wr
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

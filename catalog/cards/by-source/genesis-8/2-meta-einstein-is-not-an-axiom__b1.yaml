@@ -1,13 +1,29 @@
+id: GEN8-9019
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::implications::2-meta-einstein-is-not-an-axiom::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1452-1456
+heading: '**2 — Meta-Einstein is *not* an axiom**'
+parent_heading: '**Implications**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Φ
-- δ
 excerpt: It is a **mathematical inevitability** from δ and Φ interacting through Tri-Unity.
   ---
-heading: '**2 — Meta-Einstein is *not* an axiom**'
-id: GEN8-9019
-lines: 1452-1456
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::implications::2-meta-einstein-is-not-an-axiom::b1
-parent_heading: '**Implications**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- Tri-Unity
+- mathematical inevitability
+- δ
+- Φ
+aliases:
+- Bk781mi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

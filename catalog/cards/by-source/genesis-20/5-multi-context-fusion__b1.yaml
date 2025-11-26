@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Integrating conflicting sources into a coherent output.
-heading: 5\. Multi-Context Fusion
 id: GEN20-7222
-lines: 7473-7475
 location: genesis-20/mbc-40-documentaitio-1::b37-router-networks-as-semantic-processors::5-multi-context-fusion::b1
-parent_heading: B3.7 Router Networks as Semantic Processors
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7473-7475
+heading: 5\. Multi-Context Fusion
+parent_heading: B3.7 Router Networks as Semantic Processors
+block_type: paragraph
+excerpt: Integrating conflicting sources into a coherent output.
+aliases:
+- Bk692ic
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

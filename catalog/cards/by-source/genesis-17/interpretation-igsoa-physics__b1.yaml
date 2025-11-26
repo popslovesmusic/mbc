@@ -1,14 +1,35 @@
+id: GEN17-4957
+location: genesis-17/key-points::interpretation-igsoa-physics::b1
+source: genesis-17\Key_Points.md
+lines: 1137-1147
+heading: '**Interpretation (IGSOA ↔ Physics).**'
 block_type: list
-concepts:
-- CSOI
-- Π
-- Π-graph
-- Π-links
 excerpt: '* **Π-links** ↔ **causal links** (in causal set theory, GR light-cones).
   * **Π-partial order** ↔ **causal order (≺)**. * **Π-graph** ↔ **causal structure
   of spacetime**.'
-heading: '**Interpretation (IGSOA ↔ Physics).**'
-id: GEN17-4957
-lines: 1137-1147
-location: genesis-17/key-points::interpretation-igsoa-physics::b1
-source: genesis-17\Key_Points.md
+concepts:
+- ↔
+- Π
+- Π-partial order
+- causal structure of spacetime
+- light-cones
+- Π-partial
+- Π-links
+- Π-graph
+- causal links
+- CSOI
+aliases:
+- Bk014lc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

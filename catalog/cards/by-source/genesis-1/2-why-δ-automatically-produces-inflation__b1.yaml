@@ -1,13 +1,28 @@
-block_type: paragraph
-concepts:
-- drive
-- must
-- seen
-- δ
-excerpt: The moment deviation cracks perfect stillness, the universe is suddenly perched
-  on a high, unstable point of the δ-Higgs landscape. No geometry yet. No time yet.
-heading: '**2\. Why δ Automatically Produces Inflation**'
 id: GEN1-388
-lines: 433-464
 location: genesis-1/the-first-geometry::2-why-δ-automatically-produces-inflation::b1
 source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 433-464
+heading: '**2\. Why δ Automatically Produces Inflation**'
+block_type: paragraph
+excerpt: The moment deviation cracks perfect stillness, the universe is suddenly perched
+  on a high, unstable point of the δ-Higgs landscape. No geometry yet. No time yet.
+concepts:
+- δ
+- pre-geometry
+- δ-curvature
+- δ-Higgs
+- cosmological inflation
+aliases:
+- Bk408tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.716981132075472
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

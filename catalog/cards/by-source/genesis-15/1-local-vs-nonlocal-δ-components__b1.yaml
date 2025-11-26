@@ -1,15 +1,38 @@
-block_type: list
-concepts:
-- Centers
-- elongated
-- round
-- δ
-excerpt: '* **Inner region** is dominated by δlocal.\\delta\_{\\rm local}.δlocal​.
-  Local curvature is nearly isotropic.'
-heading: '**1\. Local vs Nonlocal δ components**'
 id: GEN15-3357
-lines: 1593-1611
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-radial-trend-why-centers-are-rounder-and-outer-halos-are-more-elongated::1-local-vs-nonlocal-δ-components::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1593-1611
+heading: '**1\. Local vs Nonlocal δ components**'
 parent_heading: '**V. Radial Trend: Why Centers Are Rounder and Outer Halos Are More
   Elongated**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+block_type: list
+excerpt: '* **Inner region** is dominated by δlocal.\\delta\_{\\rm local}.δlocal​.
+  Local curvature is nearly isotropic.'
+concepts:
+- δ
+- →
+- large-scale
+- δ-tail
+- δlocal
+- δtail
+- Outer region
+- Inner region
+- Outer halos
+- elongated
+- Centers
+- round
+aliases:
+- Bk612ir
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.818181818181817
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

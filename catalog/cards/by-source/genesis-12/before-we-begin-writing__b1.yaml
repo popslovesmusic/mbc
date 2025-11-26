@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We need **one answer from you**:'
-heading: '**🔥 Before We Begin Writing:**'
 id: GEN12-1542
-lines: 226-228
 location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::before-we-begin-writing::b1
 source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 226-228
+heading: '**🔥 Before We Begin Writing:**'
+block_type: paragraph
+excerpt: 'We need **one answer from you**:'
+concepts:
+- one answer from you
+aliases:
+- Bk516no
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

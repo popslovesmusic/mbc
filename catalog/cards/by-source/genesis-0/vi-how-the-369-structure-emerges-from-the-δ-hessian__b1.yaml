@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- γ
-- δ
-- λ
-excerpt: 'Inside each degeneracy block: * Ξ3\\Xi\_3Ξ3​ has eigenvalues in the **3-sector
-  cluster** * Ξ6\\Xi\_6Ξ6​ has eigenvalues in the **6-sector cluster**'
-heading: '**VI. How the 3–6–9 Structure Emerges from the δ-Hessian**'
 id: GEN0-152
-lines: 2222-2246
 location: genesis-0/feynman-rules-interaction-vertices::vi-how-the-369-structure-emerges-from-the-δ-hessian::b1
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 2222-2246
+heading: '**VI. How the 3–6–9 Structure Emerges from the δ-Hessian**'
+block_type: paragraph
+excerpt: 'Inside each degeneracy block: * Ξ3\\Xi\_3Ξ3​ has eigenvalues in the **3-sector
+  cluster** * Ξ6\\Xi\_6Ξ6​ has eigenvalues in the **6-sector cluster**'
+concepts:
+- Ξ
+- δ
+- λ
+- γ
+- direct geometric consequence
+- δ-adjacency
+aliases:
+- Bk977ie
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

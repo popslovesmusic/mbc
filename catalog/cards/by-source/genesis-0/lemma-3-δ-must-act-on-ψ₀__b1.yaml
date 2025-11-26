@@ -1,12 +1,25 @@
+id: GEN0-251
+location: genesis-0/tri-unity-theorem-equivalence-of::2-why-δ-must-exist-the-formal-proof::lemma-3-δ-must-act-on-ψ₀::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1344-1352
+heading: '**Lemma 3 — δ Must Act on Ψ₀**'
+parent_heading: '**2\. Why δ Must Exist — The Formal Proof**'
 block_type: paragraph
+excerpt: 'Since δ is the first allowable transformation, it must have domain Ψ0\\Psi\_0Ψ0​:
+  δ:Ψ0→Ψ1.\\delta:\\Psi\_0\\to \\Psi\_1.δ:Ψ0​→Ψ1​. No other initial domains exist.'
 concepts:
 - Ψ
 - δ
-excerpt: 'Since δ is the first allowable transformation, it must have domain Ψ0\\Psi\_0Ψ0​:
-  δ:Ψ0→Ψ1.\\delta:\\Psi\_0\\to \\Psi\_1.δ:Ψ0​→Ψ1​. No other initial domains exist.'
-heading: '**Lemma 3 — δ Must Act on Ψ₀**'
-id: GEN0-251
-lines: 1344-1352
-location: genesis-0/tri-unity-theorem-equivalence-of::2-why-δ-must-exist-the-formal-proof::lemma-3-δ-must-act-on-ψ₀::b1
-parent_heading: '**2\. Why δ Must Exist — The Formal Proof**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+- →
+aliases:
+- Bk206st
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,9 +1,30 @@
-block_type: paragraph
-concepts:
-- Proto-cuneiform
-excerpt: 'The evolution is: 1. **Clay tokens** (physical counters representing quantities)'
-heading: '**⭐ 2\. The symbols evolved from tokens → impressions → marks → writing**'
 id: SPEC-11186
-lines: 3846-3880
 location: special/specil::2-the-symbols-evolved-from-tokens-impressions-marks-writing::b1
 source: special\specil.md
+lines: 3846-3880
+heading: '**⭐ 2\. The symbols evolved from tokens → impressions → marks → writing**'
+block_type: paragraph
+excerpt: 'The evolution is: 1. **Clay tokens** (physical counters representing quantities)'
+concepts:
+- Proto-cuneiform
+- supply-chain
+- meta-math
+- Full writing systems
+- Impressed symbols
+- Clay tokens
+aliases:
+- Bk904te
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

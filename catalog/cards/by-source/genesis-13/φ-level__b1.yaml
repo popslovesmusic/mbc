@@ -1,11 +1,23 @@
+id: GEN13-2278
+location: genesis-13/the-weight-of-light::4-why-this-works-the-physical-interpretation::φ-level::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 244-246
+heading: '**Φ-level:**'
+parent_heading: '**4\. Why This Works: The Physical Interpretation**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: This curvature tail refuses to dilute; Φ translates this into a persistent
   dynamical acceleration \~1/r.
-heading: '**Φ-level:**'
-id: GEN13-2278
-lines: 244-246
-location: genesis-13/the-weight-of-light::4-why-this-works-the-physical-interpretation::φ-level::b1
-parent_heading: '**4\. Why This Works: The Physical Interpretation**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Φ
+aliases:
+- Bk933tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

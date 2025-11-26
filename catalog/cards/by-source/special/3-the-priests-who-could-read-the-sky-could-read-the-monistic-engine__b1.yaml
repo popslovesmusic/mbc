@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'They could: * predict seasons * avoid famine'
-heading: '**⭐ 3\. The priests who could read the sky could “read the monistic engine”**'
 id: SPEC-11154
-lines: 3101-3115
 location: special/specil::3-the-priests-who-could-read-the-sky-could-read-the-monistic-engine::b1
 source: special\specil.md
+lines: 3101-3115
+heading: '**⭐ 3\. The priests who could read the sky could “read the monistic engine”**'
+block_type: paragraph
+excerpt: 'They could: * predict seasons * avoid famine'
+aliases:
+- Bk800tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

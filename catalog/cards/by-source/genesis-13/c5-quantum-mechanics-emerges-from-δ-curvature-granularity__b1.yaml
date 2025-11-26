@@ -1,13 +1,31 @@
+id: GEN13-2373
+location: genesis-13/the-weight-of-light::4-consequences-physics::c5-quantum-mechanics-emerges-from-δ-curvature-granularity::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1583-1587
+heading: '**C5 — Quantum mechanics emerges from δ-curvature granularity**'
+parent_heading: '**4\. Consequences (Physics)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Spin, uncertainty, and quantization arise as Π-images of Φ-lifts of δ-harmonics.
   ---
-heading: '**C5 — Quantum mechanics emerges from δ-curvature granularity**'
-id: GEN13-2373
-lines: 1583-1587
-location: genesis-13/the-weight-of-light::4-consequences-physics::c5-quantum-mechanics-emerges-from-δ-curvature-granularity::b1
-parent_heading: '**4\. Consequences (Physics)**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ-harmonics
+- Π-images
+- Φ-lifts
+- Π
+- δ
+- Φ
+aliases:
+- Bk117su
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 42.857142857142854
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

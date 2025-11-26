@@ -1,17 +1,36 @@
-block_type: paragraph
-concepts:
-- Cloning Theorem
-- Meta-Math
-- No-Cloning
-- Non-clonability
-- Theorem
-- Π
-- Φ
-- δ
-excerpt: 'Your IGSOA view already treats: * δ \= foundational asymmetry * Φ \= dynamical
-  propagation'
-heading: '**5\. Quantum Cryptography in Meta-Math Terms**'
 id: GEN14-2804
-lines: 127-160
 location: genesis-14/meta-math-and-cryptography::5-quantum-cryptography-in-meta-math-terms::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 127-160
+heading: '**5\. Quantum Cryptography in Meta-Math Terms**'
+block_type: paragraph
+excerpt: 'Your IGSOA view already treats: * δ \= foundational asymmetry * Φ \= dynamical
+  propagation'
+concepts:
+- Π
+- Meta-Math
+- No natural transformation exists to copy δ-states
+- δ
+- IGSOA
+- Φ
+- Theorem
+- Entropy injection via superposition
+- No-Cloning Theorem
+- δ-state
+- Non-clonability
+- No-Cloning
+- δ-states
+- Measurement disturbance
+- Φ cannot commute with Π
+aliases:
+- Bk162yi
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.753086419753085
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

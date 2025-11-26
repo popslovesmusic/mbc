@@ -1,12 +1,30 @@
+id: GEN17-4478
+location: genesis-17/box-calculus::3-binary-products::definition-in-box-calculus::b1
+source: genesis-17\box_calculus.md
+lines: 5142-5188
+heading: 'Definition in Box Calculus:'
+parent_heading: ⭐ 3\. Binary Products
 block_type: paragraph
+excerpt: 'Take the tensor product of semantic states: Σ1×2:=Σ1⊗Σ2 Σ'
 concepts:
-- Γ
 - Σ
 - Ω
-excerpt: 'Take the tensor product of semantic states: Σ1×2:=Σ1⊗Σ2 Σ'
-heading: 'Definition in Box Calculus:'
-id: GEN17-4478
-lines: 5142-5188
-location: genesis-17/box-calculus::3-binary-products::definition-in-box-calculus::b1
-parent_heading: ⭐ 3\. Binary Products
-source: genesis-17\box_calculus.md
+- Γ
+- ⊗
+- Δ
+- ∪
+aliases:
+- Bk254tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

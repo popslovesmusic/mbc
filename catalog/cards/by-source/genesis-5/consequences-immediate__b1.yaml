@@ -1,13 +1,40 @@
+id: GEN5-8091
+location: genesis-5/meta-einstein-axiom-box-language-sealed::consequences-immediate::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 118-133
+heading: '**Consequences (immediate)**'
 block_type: list
-concepts:
-- Tri-Unity
-- Φ
-- δ
 excerpt: 1. **Geometry is action-generated:** curvature is a Φ-artifact, not a background.
   2. **Conservation is automatic:** Φ-Bianchi ⇒ Φ-stress conservation. 3. **Equivalence
   with δ-form:** under your Tri-Un...
-heading: '**Consequences (immediate)**'
-id: GEN5-8091
-lines: 118-133
-location: genesis-5/meta-einstein-axiom-box-language-sealed::consequences-immediate::b1
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Φ
+- Tri-Unity
+- δ
+- Axiom
+- action-generated
+- axiom-for-axiom
+- language-shift
+- side-by-side
+- re-proofing
+- Φ-artifact
+- Φ-Bianchi
+- Φ-stress
+- Φ-stable
+- ↔
+- δ-form
+aliases:
+- Bk558ga
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.50485436893204
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

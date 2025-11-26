@@ -1,12 +1,32 @@
-block_type: table
-concepts:
-- Derived Symbol
-- Σ
-- δ
-excerpt: 'So: E:=Fδ→∞,A:=Fδ→0 E:=F'
-heading: 5.1 E and A are curvature-limits of 𝓕
 id: GEN17-4763
-lines: 8974-8989
 location: genesis-17/box-calculus::monistic-box-calculus-syntax-v10::5-derived-operator-syntax-sugar-not-primitive::51-e-and-a-are-curvature-limits-of-𝓕::b1
-parent_heading: 5\. Derived Operator Syntax (Sugar, Not Primitive)
 source: genesis-17\box_calculus.md
+lines: 8974-8989
+heading: 5.1 E and A are curvature-limits of 𝓕
+parent_heading: 5\. Derived Operator Syntax (Sugar, Not Primitive)
+block_type: table
+excerpt: 'So: E:=Fδ→∞,A:=Fδ→0 E:=F'
+concepts:
+- δ
+- Σ
+- →
+- Definition
+- ∞
+- high-curvature
+- low-curvature
+- Derived Symbol
+aliases:
+- Bk767ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.3265306122449
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

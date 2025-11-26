@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: Curvature naturally induces order.
-heading: '**Φ ⇒ Π**'
 id: GEN17-5068
-lines: 796-798
 location: genesis-17/mbc-schema-3::9-natural-transformation-stack::φ-π::b1
-parent_heading: '**9\. Natural Transformation Stack**'
 source: genesis-17\MBC_Schema_3.md
+lines: 796-798
+heading: '**Φ ⇒ Π**'
+parent_heading: '**9\. Natural Transformation Stack**'
+block_type: paragraph
+excerpt: Curvature naturally induces order.
+concepts:
+- Curvature
+aliases:
+- Bk703cn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

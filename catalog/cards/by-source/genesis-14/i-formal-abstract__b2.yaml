@@ -1,15 +1,40 @@
+id: GEN14-3039
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::i-formal-abstract::b2
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1736-1757
+heading: '**I. Formal Abstract**'
 block_type: paragraph
-concepts:
-- Meta-Fractal
-- Meta-Genesis
-- Π
-- Φ
-- δ
 excerpt: We show that magnetic order—ferromagnetic, antiferromagnetic, ferrimagnetic,
   spin-glass, and topological magnetic phases—arises from **Meta-Fractal symmetry
   breaking** within the δ → Φ → Π hierarchy o...
-heading: '**I. Formal Abstract**'
-id: GEN14-3039
-lines: 1736-1757
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::i-formal-abstract::b2
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- δ
+- Meta-Genesis
+- Deviation
+- Π
+- Φ
+- →
+- δ-harmonic
+- Meta-Fractal symmetry breaking
+- Meta-fractal self-similarity
+- Π-multiplicity stabilization
+- δ-harmonic adjacency fields
+- self-similarity
+- projection-fixed geometry
+- Meta-Fractal asymmetry
+- Meta-Fractal
+aliases:
+- Bk985st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.452380952380953
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

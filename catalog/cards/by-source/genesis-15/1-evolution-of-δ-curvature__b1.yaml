@@ -1,10 +1,26 @@
+id: GEN15-3245
+location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::1-evolution-of-δ-curvature::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2503-2505
+heading: '**1\. Evolution of δ-curvature**'
+parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
 block_type: paragraph
+excerpt: κ˙(t)=δ˙†δ+δ†δ˙.\\dot{\\kappa}(t) \= \\dot{\\delta}^\\dagger\\delta+\\delta^\\dagger\\dot{\\delta}.κ˙(t)=δ˙†δ+δ†δ˙.
 concepts:
 - δ
-excerpt: κ˙(t)=δ˙†δ+δ†δ˙.\\dot{\\kappa}(t) \= \\dot{\\delta}^\\dagger\\delta+\\delta^\\dagger\\dot{\\delta}.κ˙(t)=δ˙†δ+δ†δ˙.
-heading: '**1\. Evolution of δ-curvature**'
-id: GEN15-3245
-lines: 2503-2505
-location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::1-evolution-of-δ-curvature::b1
-parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+- κ
+aliases:
+- Bk177dk
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

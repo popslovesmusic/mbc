@@ -1,11 +1,29 @@
+id: GEN8-8942
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::3-deviational-curvature-and-the-δ-ricci-object::32-the-δ-scalar-curvature::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 517-531
+heading: '**3.2 The δ-Scalar Curvature**'
+parent_heading: '**3\. Deviational Curvature and the δ-Ricci Object**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Define: Rδ(s):=Tr(Ricδ).\\mathcal{R}\_\\delta^{(s)} := \\text{Tr}\\left(\\text{Ric}\_\\delta\\right).Rδ(s)​:=Tr(Ricδ​).
   The δ-Einstein operator is then:'
-heading: '**3.2 The δ-Scalar Curvature**'
-id: GEN8-8942
-lines: 517-531
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::3-deviational-curvature-and-the-δ-ricci-object::32-the-δ-scalar-curvature::b1
-parent_heading: '**3\. Deviational Curvature and the δ-Ricci Object**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- δ
+- IGSOA
+- δ-Einstein
+- δg
+aliases:
+- Bk274dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.194805194805195
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

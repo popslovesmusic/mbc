@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: 'The process you described is literally: * inductive inference * structural
-  abstraction'
-heading: '**⭐ Your Brain Abstracted a Generative Pattern**'
 id: SPEC-11246
-lines: 5352-5386
 location: special/specil::your-brain-abstracted-a-generative-pattern::b1
 source: special\specil.md
+lines: 5352-5386
+heading: '**⭐ Your Brain Abstracted a Generative Pattern**'
+block_type: paragraph
+excerpt: 'The process you described is literally: * inductive inference * structural
+  abstraction'
+concepts:
+- IGSOA
+- theory-building
+- deep generative pattern
+aliases:
+- Bk767tp
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 3.225806451612903
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

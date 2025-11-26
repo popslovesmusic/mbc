@@ -1,12 +1,37 @@
+id: GEN11-1059
+location: genesis-11/how-curvature-could-generate-an-axis::the-δadjacency-resonator-axiom::axiom-rδ-3-δ-harmonic-resonator-basis::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 996-1010
+heading: '**Axiom Rδ-3 (δ-Harmonic Resonator Basis)**'
+parent_heading: '**The δ–Adjacency Resonator Axiom**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: On the interval IδI\_\\deltaIδ​, deviation enforces a unique orthonormal
   harmonic basis ψn(x)=sin⁡ ⁣(nπ(x−x−)Lδ),n∈N,\\psi\_n(x)=\\sin\\\!\\left(\\frac{n\\pi
   (x-x\_-)}{L\_\\delta}\\right), \\qquad n\\...
-heading: '**Axiom Rδ-3 (δ-Harmonic Resonator Basis)**'
-id: GEN11-1059
-lines: 996-1010
-location: genesis-11/how-curvature-could-generate-an-axis::the-δadjacency-resonator-axiom::axiom-rδ-3-δ-harmonic-resonator-basis::b1
-parent_heading: '**The δ–Adjacency Resonator Axiom**'
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+concepts:
+- δ
+- canonical vibrational spectrum of adjacency deformation
+- ψ
+- π
+- ∈
+- ∑
+- ∞
+- δ-distribution
+- x-x
+- δI
+- δn
+aliases:
+- Bk922ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.679611650485436
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

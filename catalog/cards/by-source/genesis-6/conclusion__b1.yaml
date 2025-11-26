@@ -1,17 +1,41 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Einstein Lagrangian
-- Genesis-Action
-- Meta-Einstein
-- Spectral Action
-- Spectral Triple Axiom Box
-- δ
-excerpt: 'All spectral triple conditions are satisfied: * Aδ\\mathcal A\_\\deltaAδ​
-  is a C\*-algebra * π\\piπ is faithful'
-heading: '**Conclusion**'
 id: GEN6-8409
-lines: 692-722
 location: genesis-6/the-harmonic-spectral-triple::conclusion::b1
 source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 692-722
+heading: '**Conclusion**'
+block_type: paragraph
+excerpt: 'All spectral triple conditions are satisfied: * Aδ\\mathcal A\_\\deltaAδ​
+  is a C\*-algebra * π\\piπ is faithful'
+concepts:
+- δ
+- Meta-Einstein
+- Axiom
+- Genesis-Action interpretation
+- Proof
+- operator-theoretic
+- Box
+- π
+- Genesis-Action
+- self-adjoint
+- Spectral Triple Axiom Box
+- δ-Spectral
+- →
+- Einstein Lagrangian
+- Spectral Action
+aliases:
+- Bk625as
+tags:
+- axiom-box
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.223140495867769
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

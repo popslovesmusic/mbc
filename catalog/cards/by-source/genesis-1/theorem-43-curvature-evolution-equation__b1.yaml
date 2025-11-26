@@ -1,12 +1,30 @@
+id: GEN1-616
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::4-dynamical-consequences-of-the-meta-einstein-equation::theorem-43-curvature-evolution-equation::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1296-1307
+heading: '**Theorem 4.3 — Curvature Evolution Equation.**'
+parent_heading: '**4\. Dynamical Consequences of the Meta-Einstein Equation**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The δ-curvature evolves according to: R˙δ=\[δ˙,δ\]+\[δ,δ˙\].\\dot{\\mathcal{R}}\_\\delta
   \= \[\\dot{\\delta},\\delta\] \+ \[\\delta,\\dot{\\delta}\].R˙δ​=\[δ˙,δ\]+\[δ,δ˙\].
   **Proof.**'
-heading: '**Theorem 4.3 — Curvature Evolution Equation.**'
-id: GEN1-616
-lines: 1296-1307
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::4-dynamical-consequences-of-the-meta-einstein-equation::theorem-43-curvature-evolution-equation::b1
-parent_heading: '**4\. Dynamical Consequences of the Meta-Einstein Equation**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Proof
+- δ-curvature
+aliases:
+- Bk210tc
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.317073170731707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

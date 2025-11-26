@@ -1,14 +1,30 @@
+id: GEN20-7039
+location: genesis-20/mbc-40-documentaitio-1::conclusion::148-implementation-quality-principles::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4822-4835
+heading: 14.8 Implementation Quality Principles
+parent_heading: ⭐ Conclusion
 block_type: paragraph
-concepts:
-- Supreme Closure
-- Π
-- Φ
-- δ
 excerpt: 'To remain faithful to MBC: * preserve monism (IGSOA-origin) * never shortcut
   Φ (no direct δ → Π jumps)'
-heading: 14.8 Implementation Quality Principles
-id: GEN20-7039
-lines: 4822-4835
-location: genesis-20/mbc-40-documentaitio-1::conclusion::148-implementation-quality-principles::b1
-parent_heading: ⭐ Conclusion
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- IGSOA
+- IGSOA-origin
+- Π
+- δ
+- Φ
+- →
+- Supreme Closure
+aliases:
+- Bk547rf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.02127659574468
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

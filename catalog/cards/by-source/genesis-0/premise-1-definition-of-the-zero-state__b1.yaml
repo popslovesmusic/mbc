@@ -1,11 +1,27 @@
+id: GEN0-194
+location: genesis-0/tri-unity-theorem-equivalence-of::proof::premise-1-definition-of-the-zero-state::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 551-569
+heading: '**Premise 1 — Definition of the Zero-State**'
+parent_heading: '**Proof**'
 block_type: paragraph
+excerpt: 'The zero-state Ψ0\\Psi\_0Ψ0​ satisfies: 1. No structure 2. No adjacency'
 concepts:
 - Ψ
+- operator-free
+- zero-state
 - δ
-excerpt: 'The zero-state Ψ0\\Psi\_0Ψ0​ satisfies: 1. No structure 2. No adjacency'
-heading: '**Premise 1 — Definition of the Zero-State**'
-id: GEN0-194
-lines: 551-569
-location: genesis-0/tri-unity-theorem-equivalence-of::proof::premise-1-definition-of-the-zero-state::b1
-parent_heading: '**Proof**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+aliases:
+- Bk427tz
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,18 +1,37 @@
+id: GEN13-2536
+location: genesis-13/what-biology-is-in-meta-genesis::5-bioenergetic-fixed-point-theorem-main-result::theorem-51-bioenergetic-fixation-theorem::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1067-1097
+heading: '**Theorem 5.1 (Bioenergetic Fixation Theorem).**'
+parent_heading: '**5\. Bioenergetic Fixed-Point Theorem (Main Result)**'
 block_type: paragraph
-concepts:
-- ATP
-- Discrete Spectrum
-- Fixed Point
-- Π
-- Φ
-- Ω
-- δ
-- σ
 excerpt: 'Let σ∈S\\sigma \\in \\mathcal{S}σ∈S be any seed state. Define: F=Π∘Φ∘δ\\mathcal{F}
   \= \\Pi \\circ \\Phi \\circ \\deltaF=Π∘Φ∘δ'
-heading: '**Theorem 5.1 (Bioenergetic Fixation Theorem).**'
-id: GEN13-2536
-lines: 1067-1097
-location: genesis-13/what-biology-is-in-meta-genesis::5-bioenergetic-fixed-point-theorem-main-result::theorem-51-bioenergetic-fixation-theorem::b1
-parent_heading: '**5\. Bioenergetic Fixed-Point Theorem (Main Result)**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- ∈
+- δ
+- Ω
+- ∃
+- →
+- δ-gradients
+- Π
+- σ
+- Φ
+- Discrete Spectrum
+- Fixed Point
+- ATP
+aliases:
+- Bk156ls
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.391608391608392
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

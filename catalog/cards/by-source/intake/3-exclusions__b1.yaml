@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- forbidden
-excerpt: Exclusions define the **forbidden** sets for operators. These are states
-  or transitions that **no operator is ever allowed** to produce or act on. ---
-heading: '**3\. Exclusions**'
 id: INTK-10198
-lines: 303-308
 location: intake/meta-genesis-meta-math-integration-papers::3-exclusions::b1
 source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 303-308
+heading: '**3\. Exclusions**'
+block_type: paragraph
+excerpt: Exclusions define the **forbidden** sets for operators. These are states
+  or transitions that **no operator is ever allowed** to produce or act on. ---
+concepts:
+- no operator is ever allowed
+- forbidden
+aliases:
+- Bk513ed
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

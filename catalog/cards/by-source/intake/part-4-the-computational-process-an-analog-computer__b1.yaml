@@ -1,18 +1,36 @@
+id: INTK-10664
+location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::part-4-the-computational-process-an-analog-computer::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1576-1585
+heading: 'Part 4: The Computational Process - An Analog Computer'
+parent_heading: Summary of Foundational Concepts
 block_type: paragraph
-concepts:
-- Least Action
-- Natural Filtering
-- Standing Wave
-- Wave Propagation
-- Zero State
-- follows
-- Φ
 excerpt: The framework conceives of the universe not as a system that *follows* laws,
   but as a physical **analog computer** that *is* the computation of reality. *   **Computation
   as Wave Propagation:** The un...
-heading: 'Part 4: The Computational Process - An Analog Computer'
-id: INTK-10664
-lines: 1576-1585
-location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::part-4-the-computational-process-an-analog-computer::b1
-parent_heading: Summary of Foundational Concepts
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- State
+- Principle of Least Action
+- non-zero
+- Φ
+- Natural Filtering
+- Wave Propagation
+- analog computer
+- Standing Wave
+- Least Action
+- Zero State
+aliases:
+- Bk938tf
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.329113924050633
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

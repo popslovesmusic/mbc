@@ -1,10 +1,26 @@
+id: GEN17-4450
+location: genesis-17/box-calculus::::igsoa-polarity::b2
+source: genesis-17\box_calculus.md
+lines: 4715-4720
+heading: IGSOA Polarity
+parent_heading: ​
 block_type: paragraph
-concepts: []
 excerpt: '“Expand → inject identity → collapse must equal Expand.” Meaning: “Expanding
   after inserting the trivial structure is the original Expansion.”'
-heading: IGSOA Polarity
-id: GEN17-4450
-lines: 4715-4720
-location: genesis-17/box-calculus::::igsoa-polarity::b2
-parent_heading: ​
-source: genesis-17\box_calculus.md
+concepts:
+- →
+aliases:
+- Bk012ei
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

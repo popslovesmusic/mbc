@@ -1,12 +1,30 @@
+id: GEN0-196
+location: genesis-0/tri-unity-theorem-equivalence-of::proof::premise-3-the-deviational-axiom::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 585-605
+heading: '**Premise 3 — The Deviational Axiom**'
+parent_heading: '**Proof**'
 block_type: paragraph
+excerpt: 'From δ, we have: Ψ1=δΨ0with Ψ1≠Ψ0.\\Psi\_1 \= \\delta\\Psi\_0\\quad \\text{with
+  }\\Psi\_1\\neq\\Psi\_0.Ψ1​=δΨ0​with Ψ1​=Ψ0​. And δ is:'
 concepts:
 - Ψ
 - δ
-excerpt: 'From δ, we have: Ψ1=δΨ0with Ψ1≠Ψ0.\\Psi\_1 \= \\delta\\Psi\_0\\quad \\text{with
-  }\\Psi\_1\\neq\\Psi\_0.Ψ1​=δΨ0​with Ψ1​=Ψ0​. And δ is:'
-heading: '**Premise 3 — The Deviational Axiom**'
-id: GEN0-196
-lines: 585-605
-location: genesis-0/tri-unity-theorem-equivalence-of::proof::premise-3-the-deviational-axiom::b1
-parent_heading: '**Proof**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+- structure-generating
+- adjacency-extending
+- domain-expanding
+- ∃
+- non-invertible
+- ≠
+aliases:
+- Bk595fh
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.114754098360656
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

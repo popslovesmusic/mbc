@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Plainly put: * If Y can be reached by applying δ some number of times to
-  X, then X can influence Y.'
-heading: '**2\. Causality \= “You can get there from here by applying δ enough times”**'
 id: GEN4-7663
-lines: 913-931
 location: genesis-4/meta-physics-axiom-box::2-causality-you-can-get-there-from-here-by-applying-δ-enough-times::b1
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 913-931
+heading: '**2\. Causality \= “You can get there from here by applying δ enough times”**'
+block_type: paragraph
+excerpt: 'Plainly put: * If Y can be reached by applying δ some number of times to
+  X, then X can influence Y.'
+concepts:
+- δ
+- δn
+aliases:
+- Bk061pp
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.0618556701030926
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

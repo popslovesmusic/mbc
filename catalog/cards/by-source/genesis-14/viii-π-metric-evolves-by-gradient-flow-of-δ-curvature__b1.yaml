@@ -1,14 +1,36 @@
+id: GEN14-2779
+location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::viii-π-metric-evolves-by-gradient-flow-of-δ-curvature::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 2071-2087
+heading: '**(VIII) Π-Metric Evolves by Gradient Flow of δ-Curvature**'
+parent_heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'The geometric metric obeys the Π-stability equation: g˙=−∇κ.\\boxed{\\dot
   g \= \-\\nabla \\kappa}.g˙​=−∇κ​. This is the IGSOA analogue of Einstein evolution
   but derived from:'
-heading: '**(VIII) Π-Metric Evolves by Gradient Flow of δ-Curvature**'
-id: GEN14-2779
-lines: 2071-2087
-location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::viii-π-metric-evolves-by-gradient-flow-of-δ-curvature::b1
-parent_heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- IGSOA
+- Π
+- ∇
+- κ
+- Π-projection
+- δ-curvature
+- Π-stability
+- Φ-smoothing
+- δ
+- Φ
+- no additional axioms
+aliases:
+- Bk681tg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 28.947368421052634
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

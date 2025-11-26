@@ -1,11 +1,27 @@
+id: GEN17-4697
+location: genesis-17/box-calculus::3-combining-b-and-e-gives-the-true-𝓕::34-δ-curvature-is-the-differential-spectrum::b1
+source: genesis-17\box_calculus.md
+lines: 8174-8180
+heading: 3.4 δ-curvature is the differential spectrum
+parent_heading: '⭐ \*\*3. Combining B and E gives the true 𝓕:'
 block_type: paragraph
+excerpt: 'Deviation \= curvature \= spectral shift: δ(Σ)=⟨Σ,FΣ⟩ δ(Σ)=⟨Σ,FΣ⟩'
 concepts:
 - Σ
+- Deviation
 - δ
-excerpt: 'Deviation \= curvature \= spectral shift: δ(Σ)=⟨Σ,FΣ⟩ δ(Σ)=⟨Σ,FΣ⟩'
-heading: 3.4 δ-curvature is the differential spectrum
-id: GEN17-4697
-lines: 8174-8180
-location: genesis-17/box-calculus::3-combining-b-and-e-gives-the-true-𝓕::34-δ-curvature-is-the-differential-spectrum::b1
-parent_heading: '⭐ \*\*3. Combining B and E gives the true 𝓕:'
-source: genesis-17\box_calculus.md
+aliases:
+- Bk117dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

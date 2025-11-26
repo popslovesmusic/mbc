@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Observation, emergence, and cosmic information flow)***'
 id: GEN15-3485
-lines: 1695-1697
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::δ-as-a-comonad-in-an-co-topos::observation-emergence-and-cosmic-information-flow::b1
-parent_heading: '**δ as a Comonad in an ∞-Co-Topos**'
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1695-1697
+heading: '***(Observation, emergence, and cosmic information flow)***'
+parent_heading: '**δ as a Comonad in an ∞-Co-Topos**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

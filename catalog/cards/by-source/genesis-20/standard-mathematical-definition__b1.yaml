@@ -1,12 +1,30 @@
+id: GEN20-6570
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::formal-definition-cross-referenced::standard-mathematical-definition::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 49-92
+heading: Standard Mathematical Definition
+parent_heading: Formal Definition (Cross-Referenced)
 block_type: paragraph
+excerpt: Box Algebra is a many-sorted algebra A={Ai}i∈I A={A
 concepts:
-- Box
 - Box Algebra
 - Box Calculus
-excerpt: Box Algebra is a many-sorted algebra A={Ai}i∈I A={A
-heading: Standard Mathematical Definition
-id: GEN20-6570
-lines: 49-92
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::formal-definition-cross-referenced::standard-mathematical-definition::b1
-parent_heading: Formal Definition (Cross-Referenced)
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+- Box
+- →
+- ∈
+- many-sorted
+aliases:
+- Bk082ba
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

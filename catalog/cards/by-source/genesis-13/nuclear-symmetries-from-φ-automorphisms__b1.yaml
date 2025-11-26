@@ -1,12 +1,36 @@
+id: GEN13-2009
+location: genesis-13/meta-math-nuclear-physics::2-φ-layer-meta-math-operator-algebra::nuclear-symmetries-from-φ-automorphisms::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 86-95
+heading: '**Nuclear Symmetries from Φ-Automorphisms:**'
+parent_heading: '**2\. Φ-Layer (Meta-Math Operator Algebra)**'
 block_type: table
+excerpt: Thus all nuclear symmetries \= **natural symmetries of Φ**.
 concepts:
-- Physical Symmetry
 - Φ
 - δ
-excerpt: Thus all nuclear symmetries \= **natural symmetries of Φ**.
-heading: '**Nuclear Symmetries from Φ-Automorphisms:**'
-id: GEN13-2009
-lines: 86-95
-location: genesis-13/meta-math-nuclear-physics::2-φ-layer-meta-math-operator-algebra::nuclear-symmetries-from-φ-automorphisms::b1
-parent_heading: '**2\. Φ-Layer (Meta-Math Operator Algebra)**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+- Φ-Equivalent
+- δ-curvature
+- δ-harmonic
+- δ-tripled
+- Φ-doublet
+- Φ-tensor
+- natural symmetries of Φ
+- ⊗
+- Physical Symmetry
+- Φ³
+aliases:
+- Bk799ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.641509433962266
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

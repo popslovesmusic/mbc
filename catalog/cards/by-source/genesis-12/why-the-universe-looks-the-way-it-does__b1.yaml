@@ -1,13 +1,29 @@
+id: GEN12-1825
+location: genesis-12/untitled-document::narrative-chapter-how-structure-emerges-from-deviation::why-the-universe-looks-the-way-it-does::b1
+source: genesis-12\Untitled_document.md
+lines: 1613-1649
+heading: '**Why the Universe Looks the Way It Does**'
+parent_heading: '**Narrative Chapter: How Structure Emerges from Deviation**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'In IGSOA, the universe is not shaped by: * random fluctuations, * tuning
   of potentials,'
-heading: '**Why the Universe Looks the Way It Does**'
-id: GEN12-1825
-lines: 1613-1649
-location: genesis-12/untitled-document::narrative-chapter-how-structure-emerges-from-deviation::why-the-universe-looks-the-way-it-does::b1
-parent_heading: '**Narrative Chapter: How Structure Emerges from Deviation**'
-source: genesis-12\Untitled_document.md
+concepts:
+- IGSOA
+- non-zero
+- Π
+- δ
+- Φ
+- memory of asymmetry
+- one thing
+aliases:
+- Bk149it
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.641975308641975
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

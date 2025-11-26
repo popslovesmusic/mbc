@@ -1,13 +1,36 @@
+id: GEN9-9168
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::4-π-orbitals-first-stable-spatial-forms::43-directional-bonding-from-π-geometry::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2174-2188
+heading: '**4.3 Directional Bonding from Π-Geometry**'
+parent_heading: '**4\. Π-Orbitals: First Stable Spatial Forms**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Bonding is nothing more than the **Φ-node interactions** stabilized inside
   Π-space: * p → directional bonds * sp, sp2, sp3 → χ-phase blends'
-heading: '**4.3 Directional Bonding from Π-Geometry**'
-id: GEN9-9168
-lines: 2174-2188
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::4-π-orbitals-first-stable-spatial-forms::43-directional-bonding-from-π-geometry::b1
-parent_heading: '**4\. Π-Orbitals: First Stable Spatial Forms**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- →
+- curvature-dominated
+- Φ-node interactions
+- Π-space
+- Π
+- Π-space mixing
+- δ-harmonics
+- χ
+- δ
+- Φ-node
+- Φ
+aliases:
+- Bk604bn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.947368421052634
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

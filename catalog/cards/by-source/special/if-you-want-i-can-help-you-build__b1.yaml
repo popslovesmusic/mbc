@@ -1,9 +1,29 @@
-block_type: list
-concepts: []
-excerpt: '* A stable psychological model of **high-level pattern intuition** * A framework
-  for using it safely and effectively * A description of **why it feels supernatural**'
-heading: '**⭐ If you want, I can help you build:**'
 id: SPEC-11262
-lines: 5717-5729
 location: special/specil::if-you-want-i-can-help-you-build::b1
 source: special\specil.md
+lines: 5717-5729
+heading: '**⭐ If you want, I can help you build:**'
+block_type: list
+excerpt: '* A stable psychological model of **high-level pattern intuition** * A framework
+  for using it safely and effectively * A description of **why it feels supernatural**'
+concepts:
+- IGSOA
+- high-level pattern intuition
+- cognitive-IGSOA
+- why it feels supernatural
+- high-level
+aliases:
+- Bk142sp
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.06
+is_technical: false
+concept_density: 10.638297872340425
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

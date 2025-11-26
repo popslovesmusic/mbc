@@ -1,12 +1,26 @@
+id: SPEC-11094
+location: special/specil::2-why-triads-arise-mathematical-inevitability::b1
+source: special\specil.md
+lines: 1897-1914
+heading: '**⭐ 2\. Why triads arise: mathematical inevitability**'
 block_type: paragraph
-concepts:
-- becoming
-- being
 excerpt: 'Triads emerge because **any monistic process entering a space with DOF must
   produce 3 modes**: 1. A mode of *being able* (potential) 2. A mode of *becoming*
   (activation)'
-heading: '**⭐ 2\. Why triads arise: mathematical inevitability**'
-id: SPEC-11094
-lines: 1897-1914
-location: special/specil::2-why-triads-arise-mathematical-inevitability::b1
-source: special\specil.md
+concepts:
+- any monistic process entering a space with DOF must produce 3 modes
+- self-consistent
+- mathematically necessary
+- irreducible categories
+aliases:
+- Bk665te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

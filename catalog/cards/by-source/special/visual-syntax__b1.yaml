@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: Speech gave them emotion. Symbols gave them structure. ---
-heading: '**✔ visual syntax**'
 id: SPEC-11225
-lines: 4870-4875
 location: special/specil::1-the-need-to-communicate-abstraction-gave-birth-to-symbolic-language::visual-syntax::b1
+source: special\specil.md
+lines: 4870-4875
+heading: '**✔ visual syntax**'
 parent_heading: '**⭐ 1\. The need to communicate abstraction → gave birth to symbolic
   language**'
-source: special\specil.md
+block_type: paragraph
+excerpt: Speech gave them emotion. Symbols gave them structure. ---
+aliases:
+- Bk842sg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

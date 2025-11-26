@@ -1,21 +1,41 @@
+id: GEN2-6359
+location: genesis-2/axioms-of-geometry-topos-compatible::one-line-summary::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 805-817
+heading: '**One-Line Summary**'
 block_type: paragraph
-concepts:
-- Action-Flow
-- Axiom
-- Axiom Box
-- Box
-- Einstein Axiom Box
-- Foundation Layer Box
-- Layer
-- Meta-Einstein
-- Meta-Genesis
-- Φ
-- δ
 excerpt: '**Φ is the internal Action-Flow that generates all mathematical structure,
   curvature, logic, and computation, and is adjointly compatible with δ-Geometry.**
   --- If you want:'
-heading: '**One-Line Summary**'
-id: GEN2-6359
-lines: 805-817
-location: genesis-2/axioms-of-geometry-topos-compatible::one-line-summary::b1
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Meta-Einstein
+- Meta-Genesis
+- Foundation Layer
+- the Meta-Einstein Axiom Box rewritten in Φ-language
+- Axiom
+- Box
+- δ
+- Φ
+- Layer
+- →
+- the δ-Axiom Box
+- Action-Flow
+- δ-Geometry
+- Φ-language
+- δ-Axiom
+aliases:
+- Bk692ti
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

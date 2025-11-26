@@ -1,14 +1,37 @@
+id: GEN8-8820
+location: genesis-8/meta-time-geometry-and-temporal-projection::3-why-meta-time-does-not-break-monism::correction::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 844-876
+heading: '**Correction:**'
+parent_heading: '**3\. Why Meta-Time Does Not Break Monism**'
 block_type: paragraph
+excerpt: 'Meta-Time is simply the **rule by which the One yields non-identity**. It
+  is the *self-ordering of the One*. In monism, the One can:'
 concepts:
 - Meta-Time
+- rule by which the One yields non-identity
+- ordering of self-differentiation
+- self-differentiation
+- self-order
+- self-differentiate
+- self-ordering
+- non-identity
+- self-project
+- self-relate
+- self-limit
+- not outside reality
 - Thus Meta
 - beings
 - rules
-excerpt: 'Meta-Time is simply the **rule by which the One yields non-identity**. It
-  is the *self-ordering of the One*. In monism, the One can:'
-heading: '**Correction:**'
-id: GEN8-8820
-lines: 844-876
-location: genesis-8/meta-time-geometry-and-temporal-projection::3-why-meta-time-does-not-break-monism::correction::b1
-parent_heading: '**3\. Why Meta-Time Does Not Break Monism**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+aliases:
+- Bk432mt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 15.306122448979592
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

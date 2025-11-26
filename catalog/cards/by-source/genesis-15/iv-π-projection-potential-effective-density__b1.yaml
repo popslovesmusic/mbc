@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- ρ
-excerpt: 'Π maps the potential to an effective “DM density”: ρeff=−14πG∇2Φ.\\rho\_{\\rm
-  eff} \= \-\\frac{1}{4\\pi G}\\nabla^2 \\Phi.ρeff​=−4πG1​∇2Φ. Thus:'
-heading: '**IV. Π-Projection: Potential → Effective Density**'
 id: GEN15-3355
-lines: 1571-1587
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iv-π-projection-potential-effective-density::b1
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1571-1587
+heading: '**IV. Π-Projection: Potential → Effective Density**'
+block_type: paragraph
+excerpt: 'Π maps the potential to an effective “DM density”: ρeff=−14πG∇2Φ.\\rho\_{\\rm
+  eff} \= \-\\frac{1}{4\\pi G}\\nabla^2 \\Phi.ρeff​=−4πG1​∇2Φ. Thus:'
+concepts:
+- ρ
+- IGSOA
+- θ
+- π
+- Π
+- Φ
+- ∇
+- δ
+aliases:
+- Bk140mt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.98876404494382
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

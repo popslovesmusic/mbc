@@ -1,13 +1,33 @@
+id: GEN9-9380
+location: genesis-9/is-the-source-of-all-structure::iii-δ-harmonic-periodic-row-matrix::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 636-654
+heading: '**III. δ-Harmonic → Periodic Row Matrix**'
 block_type: paragraph
-concepts:
-- describes
-- Π
-- δ
 excerpt: 'Each row of the periodic table corresponds to **all Π-stable modes up to
   that n**: `Row 1:   Π(1)                        = 2 elements` `Row 2:   Π(1) + Π(2)                 =
   2 + 6 = 8 elements`'
-heading: '**III. δ-Harmonic → Periodic Row Matrix**'
-id: GEN9-9380
-lines: 636-654
-location: genesis-9/is-the-source-of-all-structure::iii-δ-harmonic-periodic-row-matrix::b1
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- Π
+- IGSOA
+- the cumulative δ-harmonic layers
+- all Π-stable modes up to that n
+- δ-harmonic
+- Π-stable
+- δ
+- derives them
+aliases:
+- Bk766er
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.504065040650407
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

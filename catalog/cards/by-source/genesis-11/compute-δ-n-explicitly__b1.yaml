@@ -1,10 +1,26 @@
+id: GEN11-1017
+location: genesis-11/how-curvature-could-generate-an-axis::5-explicit-echo-sequence-pick-parameters-and-compute::compute-δ-n-explicitly::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 463-477
+heading: '**Compute δ\_n explicitly:**'
+parent_heading: '**⭐ 5\. EXPLICIT ECHO SEQUENCE: pick parameters and compute**'
 block_type: table
+excerpt: 'δn=10−2n−2.5\\delta\_n \= 10^{-2} n^{-2.5}δn​=10−2n−2.5 So: ---'
 concepts:
 - δ
-excerpt: 'δn=10−2n−2.5\\delta\_n \= 10^{-2} n^{-2.5}δn​=10−2n−2.5 So: ---'
-heading: '**Compute δ\_n explicitly:**'
-id: GEN11-1017
-lines: 463-477
-location: genesis-11/how-curvature-could-generate-an-axis::5-explicit-echo-sequence-pick-parameters-and-compute::compute-δ-n-explicitly::b1
-parent_heading: '**⭐ 5\. EXPLICIT ECHO SEQUENCE: pick parameters and compute**'
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+- δn
+aliases:
+- Bk024da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

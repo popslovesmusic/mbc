@@ -1,17 +1,38 @@
+id: GEN11-1246
+location: genesis-11/the-adjacency-wave-equation::the-δφπ-functor-projection-theorem-cmb-version::axiom-f-cmb-functorial-projection-axiom::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 97-129
+heading: '**Axiom F-CMB (Functorial Projection Axiom).**'
+parent_heading: '**The δ→Φ→Π Functor Projection Theorem (CMB Version)**'
 block_type: paragraph
-concepts:
-- Deviational Geometry
-- Genesis Objects
-- Physical Observables
-- Π
-- Φ
-- δ
 excerpt: 'Let the following be IGSOA’s fundamental categories: * **𝒢** — Genesis Objects
   (potential adjacency, no geometry) * **𝒟** — Deviational Geometry (δ-curvature,
   adjacency structures)'
-heading: '**Axiom F-CMB (Functorial Projection Axiom).**'
-id: GEN11-1246
-lines: 97-129
-location: genesis-11/the-adjacency-wave-equation::the-δφπ-functor-projection-theorem-cmb-version::axiom-f-cmb-functorial-projection-axiom::b1
-parent_heading: '**The δ→Φ→Π Functor Projection Theorem (CMB Version)**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ-geometry
+- δ
+- Deviational Geometry
+- Deviation
+- Π
+- Φ
+- Projection
+- IGSOA
+- detector-accessible
+- detector-level
+- Π-Projections
+- Φ-Structures
+- metric-layer
+- NOT-induced
+- δ-curvature
+aliases:
+- Bk106lt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.751677852348994
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,32 @@
+id: GEN8-9018
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::implications::1-δφ-unity-is-the-true-generator-of-gravity::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1436-1450
+heading: '**1 — δ–Φ Unity is the TRUE generator of gravity**'
+parent_heading: '**Implications**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'The relation: \[δ,Φ\]=Πδ\[\\delta,\\Phi\]=\\Pi\\delta\[δ,Φ\]=Πδ is sufficient
   to force:'
-heading: '**1 — δ–Φ Unity is the TRUE generator of gravity**'
-id: GEN8-9018
-lines: 1436-1450
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::implications::1-δφ-unity-is-the-true-generator-of-gravity::b1
-parent_heading: '**Implications**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- δ
+- Π
+- Φ
+- →
+- Π-projection
+- δ-curvature
+- Φ-energy
+aliases:
+- Bk343tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.137931034482758
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

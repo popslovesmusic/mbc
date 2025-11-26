@@ -1,13 +1,29 @@
+id: GEN3-7351
+location: genesis-3/metagenesis::deviational-axioms::axiom-δ-7-non-operatorial-nature::b1
+source: genesis-3\metagenesis.md
+lines: 1138-1149
+heading: '**Axiom δ-7 (Non-Operatorial Nature)**'
+parent_heading: '**DEVIATIONAL AXIOMS**'
 block_type: paragraph
-concepts:
-- after
-- not
-- δ
 excerpt: 'δ is **not** an operator. Formally: δ∉HomAction\\delta \\notin \\mathrm{Hom}\_{\\mathbf{Action}}δ∈/HomAction​
   δ∉End(A)\\delta\\notin\\mathrm{End}(A)δ∈/End(A)'
-heading: '**Axiom δ-7 (Non-Operatorial Nature)**'
-id: GEN3-7351
-lines: 1138-1149
-location: genesis-3/metagenesis::deviational-axioms::axiom-δ-7-non-operatorial-nature::b1
-parent_heading: '**DEVIATIONAL AXIOMS**'
-source: genesis-3\metagenesis.md
+concepts:
+- δ
+- not
+- operator-bearing
+- ∉
+- ∈
+- pre-structural
+- δ-generated
+aliases:
+- Bk263no
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.068965517241379
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

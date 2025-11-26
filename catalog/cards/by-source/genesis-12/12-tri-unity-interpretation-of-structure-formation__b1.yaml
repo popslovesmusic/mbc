@@ -1,14 +1,28 @@
-block_type: table
-concepts:
-- Layer
-- Structure Formation
-- Π
-- Φ
-- δ
-excerpt: 'Under δ–Φ–Π: Thus the cosmic web is **deviation projected through dynamics**,
-  not fluctuation-noise. ---'
-heading: '**12\. Tri-Unity Interpretation of Structure Formation**'
 id: GEN12-1813
-lines: 1415-1427
 location: genesis-12/untitled-document::12-tri-unity-interpretation-of-structure-formation::b1
 source: genesis-12\Untitled_document.md
+lines: 1415-1427
+heading: '**12\. Tri-Unity Interpretation of Structure Formation**'
+block_type: table
+excerpt: 'Under δ–Φ–Π: Thus the cosmic web is **deviation projected through dynamics**,
+  not fluctuation-noise. ---'
+concepts:
+- deviation projected through dynamics
+- Layer
+- fluctuation-noise
+- Π
+- δ
+- Φ
+- Structure Formation
+aliases:
+- Bk030ul
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.27906976744186
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

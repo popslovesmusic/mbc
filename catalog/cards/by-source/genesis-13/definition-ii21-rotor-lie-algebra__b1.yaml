@@ -1,14 +1,40 @@
+id: GEN13-2553
+location: genesis-13/what-biology-is-in-meta-genesis::section-ii2-φ-rotor-harmonic-algebra-f₀f₁-formalization::definition-ii21-rotor-lie-algebra::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1296-1321
+heading: '**Definition II.2.1 (Rotor Lie Algebra).**'
+parent_heading: '**SECTION II.2 — Φ-Rotor Harmonic Algebra (F₀–F₁ Formalization)**'
 block_type: paragraph
-concepts:
-- Mode
-- drives
-- Φ
-- δ
 excerpt: 'Let: gR=Lie(GR)\\mathfrak{g}\_R \= \\mathrm{Lie}(\\mathcal{G}\_R)gR​=Lie(GR​)
   and define the generator:'
-heading: '**Definition II.2.1 (Rotor Lie Algebra).**'
-id: GEN13-2553
-lines: 1296-1321
-location: genesis-13/what-biology-is-in-meta-genesis::section-ii2-φ-rotor-harmonic-algebra-f₀f₁-formalization::definition-ii21-rotor-lie-algebra::b1
-parent_heading: '**SECTION II.2 — Φ-Rotor Harmonic Algebra (F₀–F₁ Formalization)**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- θ
+- IGSOA
+- ψ
+- →
+- Mode
+- ⊂
+- π
+- Φ
+- δ-asymmetry
+- δ-coupling
+- δ-Dirac
+- Φ-space
+- ≠
+- δD
+aliases:
+- Bk245ll
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.135135135135135
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,21 @@
-block_type: paragraph
-concepts: []
-excerpt: 'They use: * attention limits * working memory gaps'
-heading: '**⭐ 4\. Illusionists rely on the same cognitive blind spots**'
 id: SPEC-11329
-lines: 6992-7022
 location: special/specil::4-illusionists-rely-on-the-same-cognitive-blind-spots::b1
 source: special\specil.md
+lines: 6992-7022
+heading: '**⭐ 4\. Illusionists rely on the same cognitive blind spots**'
+block_type: paragraph
+excerpt: 'They use: * attention limits * working memory gaps'
+aliases:
+- Bk596tu
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

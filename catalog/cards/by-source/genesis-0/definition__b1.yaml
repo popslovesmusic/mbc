@@ -1,12 +1,30 @@
+id: GEN0-354
+location: genesis-0/why-the-first-action-is-necessary::4-spectral-weights-and-fractal-renormalization::definition::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1747-1759
+heading: '**Definition.**'
+parent_heading: '**4\. Spectral Weights and Fractal Renormalization**'
 block_type: paragraph
+excerpt: 'Zk:=Z1 k−γexp⁡(−σk)Z\_k := Z\_1\\, k^{-\\gamma} \\exp(-\\sigma\\sqrt{k})Zk​:=Z1​k−γexp(−σk​)
+  with: * γ\>0\\gamma \> 0γ\>0 \= fractal suppression exponent,'
 concepts:
 - γ
 - σ
-excerpt: 'Zk:=Z1 k−γexp⁡(−σk)Z\_k := Z\_1\\, k^{-\\gamma} \\exp(-\\sigma\\sqrt{k})Zk​:=Z1​k−γexp(−σk​)
-  with: * γ\>0\\gamma \> 0γ\>0 \= fractal suppression exponent,'
-heading: '**Definition.**'
-id: GEN0-354
-lines: 1747-1759
-location: genesis-0/why-the-first-action-is-necessary::4-spectral-weights-and-fractal-renormalization::definition::b1
-parent_heading: '**4\. Spectral Weights and Fractal Renormalization**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+- ≥
+- exponentially suppressed
+- high-k
+aliases:
+- Bk927ge
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.869565217391305
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

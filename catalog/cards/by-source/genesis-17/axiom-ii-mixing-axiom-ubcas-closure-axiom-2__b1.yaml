@@ -1,18 +1,38 @@
+id: GEN17-4285
+location: genesis-17/box-calculus::2-axiom-set-structure::axiom-ii-mixing-axiom-ubcas-closure-axiom-2::b1
+source: genesis-17\box_calculus.md
+lines: 2098-2108
+heading: Axiom II (Mixing Axiom) — UBCAS ↔ Closure Axiom 2
+parent_heading: 2\. Axiom Set Structure
 block_type: table
-concepts:
-- Axiom
-- Box
-- Closure Axiom Box
-- Where Closure Box
-- Σ
-- α
-- β
-- δ
 excerpt: 'Where UBCAS is stronger: You explicitly classify δ-curvature as “IGSOA tension/synthesis.”
   Where Closure Box is stronger:'
-heading: Axiom II (Mixing Axiom) — UBCAS ↔ Closure Axiom 2
-id: GEN17-4285
-lines: 2098-2108
-location: genesis-17/box-calculus::2-axiom-set-structure::axiom-ii-mixing-axiom-ubcas-closure-axiom-2::b1
-parent_heading: 2\. Axiom Set Structure
-source: genesis-17\box_calculus.md
+concepts:
+- Σ
+- IGSOA
+- Axiom
+- Box
+- δ
+- β
+- α
+- Non-commutative
+- order-sensitive
+- δ-curvature
+- Closure Axiom Box
+- Where Closure Box
+aliases:
+- Bk943uc
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.052631578947366
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

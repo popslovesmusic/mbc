@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- α
-excerpt: Π(Φ(f))∘αX=αY∘Φ(f)\\Pi(\\Phi(f)) \\circ \\alpha\_X \= \\alpha\_Y \\circ \\Phi(f)Π(Φ(f))∘αX​=αY​∘Φ(f)
-heading: '**Φ → Π naturality**'
 id: GEN9-9102
-lines: 1142-1144
 location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::7-naturality-conditions-tri-unity-enforcement::φ-π-naturality::b1
-parent_heading: '**7\. Naturality Conditions (Tri-Unity Enforcement)**'
 source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1142-1144
+heading: '**Φ → Π naturality**'
+parent_heading: '**7\. Naturality Conditions (Tri-Unity Enforcement)**'
+block_type: paragraph
+excerpt: Π(Φ(f))∘αX=αY∘Φ(f)\\Pi(\\Phi(f)) \\circ \\alpha\_X \= \\alpha\_Y \\circ \\Phi(f)Π(Φ(f))∘αX​=αY​∘Φ(f)
+concepts:
+- α
+- Φ
+- Π
+aliases:
+- Bk402pc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

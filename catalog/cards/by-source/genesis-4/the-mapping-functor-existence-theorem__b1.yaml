@@ -1,19 +1,42 @@
+id: GEN4-7604
+location: genesis-4/meta-physics-axiom-box::the-mapping-functor-existence-theorem::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 216-237
+heading: '**The Mapping Functor Existence Theorem**'
 block_type: paragraph
-concepts:
-- Adjacency Preservation
-- Deviation Compatibility
-- Let Genesis
-- Math Axioms
-- Meta-Math
-- Structure Emergence
-- Theorem
-- Ψ
-- δ
 excerpt: '**Theorem.** Let Genesis\\mathbf{Genesis}Genesis be the category generated
   by iterative deviations Ψ0, δΨ0, δ2Ψ0, …\\Psi\_0,\\ \\delta\\Psi\_0,\\ \\delta^2\\Psi\_0,\\
   \\dotsΨ0​, δΨ0​, δ2Ψ0​, …'
-heading: '**The Mapping Functor Existence Theorem**'
-id: GEN4-7604
-lines: 216-237
-location: genesis-4/meta-physics-axiom-box::the-mapping-functor-existence-theorem::b1
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- δ
+- Ψ
+- Meta-Math
+- Adjacency
+- Deviation
+- →
+- Theorem
+- non-trivial
+- δ-adjacency
+- Deviation Compatibility
+- Adjacency Preservation
+- Structure Emergence
+- δmath
+- δX
+- Let Genesis
+aliases:
+- Th729tl
+tags:
+- theorem
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.256410256410255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

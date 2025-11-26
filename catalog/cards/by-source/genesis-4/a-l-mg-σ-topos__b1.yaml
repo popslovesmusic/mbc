@@ -1,14 +1,33 @@
+id: GEN4-7722
+location: genesis-4/the-adjoint-triple::2-the-functors-of-the-adjoint-triple::a-l-mg-σ-topos::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 105-126
+heading: '**(A) L : MG → σ-Topos**'
+parent_heading: '**2\. The Functors of the Adjoint Triple**'
 block_type: paragraph
-concepts:
-- Geometry Left Adjoint
-- The Structuring Functor
-- δ
-- σ
 excerpt: 'Genesis-to-Geometry Left Adjoint “The Structuring Functor” Takes a pure
   Genesis adjacency state and produces its **σ-sheaf envelope**, i.e.:'
-heading: '**(A) L : MG → σ-Topos**'
-id: GEN4-7722
-lines: 105-126
-location: genesis-4/the-adjoint-triple::2-the-functors-of-the-adjoint-triple::a-l-mg-σ-topos::b1
-parent_heading: '**2\. The Functors of the Adjoint Triple**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- δ-geometry
+- σ
+- Functor
+- Genesis-to-Geometry
+- The Structuring Functor
+- δ
+- Geometry Left Adjoint
+- →
+aliases:
+- Bk577gg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.114754098360656
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

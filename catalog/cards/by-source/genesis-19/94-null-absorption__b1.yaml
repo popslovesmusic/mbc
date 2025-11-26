@@ -1,11 +1,23 @@
+id: GEN19-5850
+location: genesis-19/mbc-4-1::8-the-δφπ-tensor-pipeline::94-null-absorption::b1
+source: genesis-19\MBC-4_1.md
+lines: 374-380
+heading: '**9.4 Null Absorption**'
+parent_heading: '**8\. The δ→Φ→Π Tensor Pipeline**'
 block_type: paragraph
-concepts:
-- Θ
 excerpt: e⊥⋆ΘT=e⊥e\_\\perp \\star\_\\Theta T \= e\_\\perpe⊥​⋆Θ​T=e⊥​ Undefined remains
   undefined — no projection possible. ---
-heading: '**9.4 Null Absorption**'
-id: GEN19-5850
-lines: 374-380
-location: genesis-19/mbc-4-1::8-the-δφπ-tensor-pipeline::94-null-absorption::b1
-parent_heading: '**8\. The δ→Φ→Π Tensor Pipeline**'
-source: genesis-19\MBC-4_1.md
+concepts:
+- Θ
+aliases:
+- Bk139ps
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

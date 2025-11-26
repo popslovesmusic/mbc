@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Operator-Theoretic Reconstruction in IGSOA)***'
 id: GEN9-9400
-lines: 935-937
 location: genesis-9/is-the-source-of-all-structure::formal-derivation::from-δ-harmonics-to-atomic-orbitals::operator-theoretic-reconstruction-in-igsoa::b1
-parent_heading: '**From δ-Harmonics to Atomic Orbitals**'
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 935-937
+heading: '***(Operator-Theoretic Reconstruction in IGSOA)***'
+parent_heading: '**From δ-Harmonics to Atomic Orbitals**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

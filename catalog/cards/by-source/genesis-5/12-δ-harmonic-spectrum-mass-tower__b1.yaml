@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-- λ
-excerpt: 'Mass operator: M2=Δδ.M^2 \= \\Delta\_\\delta.M2=Δδ​. Thus δ-mass spectrum:'
-heading: '**12\. δ-Harmonic Spectrum → Mass Tower**'
 id: GEN5-8206
-lines: 1083-1107
 location: genesis-5/the-ga-8-meta-einstein-theorem::12-δ-harmonic-spectrum-mass-tower::b1
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 1083-1107
+heading: '**12\. δ-Harmonic Spectrum → Mass Tower**'
+block_type: paragraph
+excerpt: 'Mass operator: M2=Δδ.M^2 \= \\Delta\_\\delta.M2=Δδ​. Thus δ-mass spectrum:'
+concepts:
+- λ
+- δ
+- Δ
+- δ-boson
+- δ-mass
+aliases:
+- Bk433mo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.620689655172415
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

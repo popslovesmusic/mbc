@@ -1,13 +1,27 @@
+id: INTK-10020
+location: intake/meta-genesis-mathematical-papers::2-minimal-structure-proof-algebraic::theorem-algebraic-genesis-closure::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1162-1170
+heading: '**Theorem (Algebraic Genesis Closure).**'
+parent_heading: '**2\. Minimal-Structure Proof (Algebraic)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'δnΨ0 forces δn+1Ψ0.\\boxed{ \\delta^{n}\\Psi\_0\\ \\text{forces}\\ \\delta^{n+1}\\Psi\_0.
   }δnΨ0​ forces δn+1Ψ0​.​ Thus the genesis sequence is infinitely extendible and cannot
   terminate: Ψ0→δΨ0→δ2Ψ0→⋯...'
-heading: '**Theorem (Algebraic Genesis Closure).**'
-id: INTK-10020
-lines: 1162-1170
-location: intake/meta-genesis-mathematical-papers::2-minimal-structure-proof-algebraic::theorem-algebraic-genesis-closure::b1
-parent_heading: '**2\. Minimal-Structure Proof (Algebraic)**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+- δ
+- →
+- δn
+aliases:
+- Bk494fb
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

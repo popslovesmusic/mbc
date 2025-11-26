@@ -1,13 +1,31 @@
+id: GEN12-1922
+location: genesis-12/untitled-document::part-iv-star-formation-and-quenching::41-curvature-gradient-criterion::b1
+source: genesis-12\Untitled_document.md
+lines: 2985-2993
+heading: '**4.1 (Curvature-Gradient Criterion)**'
+parent_heading: '**Part IV — Star-Formation and Quenching**'
 block_type: paragraph
-concepts:
-- δ
-- ρ
 excerpt: 'Star formation occurs at curvature maxima: ρ˙⋆(t)∝∇2Cδ(t).\\dot{\\rho}\_\\star(t)
   \\propto \\nabla^2 C\_\\delta(t).ρ˙​⋆​(t)∝∇2Cδ​(t). Changes in the δ-gradient structure
   directly modulate star-formati...'
-heading: '**4.1 (Curvature-Gradient Criterion)**'
-id: GEN12-1922
-lines: 2985-2993
-location: genesis-12/untitled-document::part-iv-star-formation-and-quenching::41-curvature-gradient-criterion::b1
-parent_heading: '**Part IV — Star-Formation and Quenching**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- ρ
+- ∇
+- star-formation
+- δ-gradient
+aliases:
+- Bk959sf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.513513513513514
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

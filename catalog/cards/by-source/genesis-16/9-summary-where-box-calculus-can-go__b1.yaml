@@ -1,12 +1,31 @@
-block_type: table
-concepts:
-- Future Direction
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: '**⭐ 9\. Summary: Where Box Calculus Can Go**'
 id: GEN16-3935
-lines: 2458-2470
 location: genesis-16/untitled-document::9-summary-where-box-calculus-can-go::b1
 source: genesis-16\Untitled_document.md
+lines: 2458-2470
+heading: '**⭐ 9\. Summary: Where Box Calculus Can Go**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- Self-referential
+- →
+- Meta-expansion
+- Π
+- δ
+- Φ
+- Future Direction
+aliases:
+- Bk112fd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

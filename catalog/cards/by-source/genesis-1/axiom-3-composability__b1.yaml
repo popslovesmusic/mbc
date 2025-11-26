@@ -1,12 +1,31 @@
+id: GEN1-369
+location: genesis-1/the-first-geometry::ii-formal-version-the-axiom-theorem-pipeline::axiom-3-composability::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 132-150
+heading: '**Axiom 3 (Composability).**'
+parent_heading: '**II. Formal Version (The Axiom → Theorem Pipeline)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'For any sequence of adjacent states A=S0∼δS1∼δ⋯∼δSn=B,A \= S\_0 \\sim\_\\delta
   S\_1 \\sim\_\\delta \\cdots \\sim\_\\delta S\_n \= B,A=S0​∼δ​S1​∼δ​⋯∼δ​Sn​=B, define
   the **path cost**:'
-heading: '**Axiom 3 (Composability).**'
-id: GEN1-369
-lines: 132-150
-location: genesis-1/the-first-geometry::ii-formal-version-the-axiom-theorem-pipeline::axiom-3-composability::b1
-parent_heading: '**II. Formal Version (The Axiom → Theorem Pipeline)**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- δ
+- ∑
+- →
+- δS
+- path cost
+- δSn
+aliases:
+- Bk170fa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.217391304347826
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

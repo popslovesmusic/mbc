@@ -1,15 +1,32 @@
+id: GEN0-294
+location: genesis-0/why-the-first-action-is-necessary::how-meta-time-emerges-from-the-first-distinction::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 706-715
+heading: '**“How Meta-Time Emerges From the First Distinction”**'
 block_type: paragraph
-concepts:
-- Cannot Host Operators
-- First Action Is Necessary
-- Why Stillness Has No Action Principle
-- Ψ
-- δ
 excerpt: 'written in the same style and conceptual continuity as the Day-1 foundational
   stack. This section naturally follows: **Why Ψ₀ Cannot Host Operators → Why Stillness
   Has No Action Principle → Why the Fi...'
-heading: '**“How Meta-Time Emerges From the First Distinction”**'
-id: GEN0-294
-lines: 706-715
-location: genesis-0/why-the-first-action-is-necessary::how-meta-time-emerges-from-the-first-distinction::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ-geometry
+- Theorem
+- Why Stillness Has No Action Principle
+- category-theoretic
+- →
+- First Action Is Necessary
+- δ
+- Cannot Host Operators
+- Ψ
+- Ψ₀
+aliases:
+- Bk522wt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.51851851851852
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

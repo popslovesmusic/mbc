@@ -1,13 +1,30 @@
+id: GEN1-578
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-32-the-meta-einstein-equation::step-3-insert-into-the-action::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 915-930
+heading: '**Step 3 — Insert into the action.**'
+parent_heading: '**Theorem 3.2 — The Meta-Einstein Equation.**'
 block_type: paragraph
-concepts:
-- α
-- δ
 excerpt: δSδ=∫(X†δ+δ†X−α(\[X,δ\]+\[δ,X\])).\\delta S\_\\delta \= \\int (X^\\dagger\\delta
   \+ \\delta^\\dagger X \- \\alpha(\[X,\\delta\]+\[\\delta,X\])).δSδ​=∫(X†δ+δ†X−α(\[X,δ\]+\[δ,X\])).
   Using cyclicity of t...
-heading: '**Step 3 — Insert into the action.**'
-id: GEN1-578
-lines: 915-930
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-32-the-meta-einstein-equation::step-3-insert-into-the-action::b1
-parent_heading: '**Theorem 3.2 — The Meta-Einstein Equation.**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- α
+- δS
+- ∫
+aliases:
+- Bk369dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.389830508474576
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

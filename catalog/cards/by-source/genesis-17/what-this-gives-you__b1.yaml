@@ -1,13 +1,29 @@
+id: GEN17-4771
+location: genesis-17/box-calculus::what-this-gives-you::b1
+source: genesis-17\box_calculus.md
+lines: 9212-9219
+heading: ✅ What This Gives You
 block_type: list
-concepts:
-- Box
-- Old Box Calculus
-- δ
 excerpt: '* One operator language (monistic, minimal). * Two shadows/layers appear
   automatically as δ-regimes. * Old Box Calculus notation still works, but now as
   derived sugar, not ontology.'
-heading: ✅ What This Gives You
-id: GEN17-4771
-lines: 9212-9219
-location: genesis-17/box-calculus::what-this-gives-you::b1
-source: genesis-17\box_calculus.md
+concepts:
+- Box Calculus
+- Box
+- δ-regimes
+- δ
+- Old Box Calculus
+aliases:
+- Bk563oo
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.627906976744185
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

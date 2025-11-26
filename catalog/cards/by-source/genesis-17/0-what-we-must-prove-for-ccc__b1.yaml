@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Cartesian Closed
-excerpt: 'A category C C is Cartesian Closed iff:'
-heading: ⭐ 0\. What We Must Prove for CCC
 id: GEN17-4472
-lines: 5054-5077
 location: genesis-17/box-calculus::0-what-we-must-prove-for-ccc::b1
 source: genesis-17\box_calculus.md
+lines: 5054-5077
+heading: ⭐ 0\. What We Must Prove for CCC
+block_type: paragraph
+excerpt: 'A category C C is Cartesian Closed iff:'
+concepts:
+- Box Calculus
+- Box
+- Cartesian Closed
+aliases:
+- Bk434cc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.6585365853658534
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

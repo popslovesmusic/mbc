@@ -1,13 +1,32 @@
+id: GEN18-5784
+location: genesis-18/sealed-axiom-box::conclusion-of-proof::igsoa-conclusion::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1797-1805
+heading: '**IGSOA Conclusion**'
+parent_heading: '**CONCLUSION OF PROOF**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'P⊢Q   ⟺   P⇝δQ.\\boxed{ P \\vdash Q \\ \\iff\\ P \\rightsquigarrow\_\\delta
   Q. }P⊢Q ⟺ P⇝δ​Q.​ That is: **All reasoning is δ-adjacency.**'
-heading: '**IGSOA Conclusion**'
-id: GEN18-5784
-lines: 1797-1805
-location: genesis-18/sealed-axiom-box::conclusion-of-proof::igsoa-conclusion::b1
-parent_heading: '**CONCLUSION OF PROOF**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- δ
+- projection-invariant
+- deviation-geometry
+- δ-adjacency
+- Π
+- Φ
+- δQ
+aliases:
+- Bk475bv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,25 @@
+id: GEN19-5990
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-modal-operators-in-θ-logic::4-temporal-modalities::always-g::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1713-1715
+heading: '**Always (G)**'
+parent_heading: '**4\. Temporal Modalities**'
 block_type: paragraph
+excerpt: σGP=sign⁡(min⁡tσP(t))σ\_{G P} \= \\operatorname{sign}(\\min\_t \\sigma\_{P(t)})σGP​=sign(tmin​σP(t)​)
 concepts:
 - σ
-excerpt: σGP=sign⁡(min⁡tσP(t))σ\_{G P} \= \\operatorname{sign}(\\min\_t \\sigma\_{P(t)})σGP​=sign(tmin​σP(t)​)
-heading: '**Always (G)**'
-id: GEN19-5990
-lines: 1713-1715
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-modal-operators-in-θ-logic::4-temporal-modalities::always-g::b1
-parent_heading: '**4\. Temporal Modalities**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+aliases:
+- Bk351sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

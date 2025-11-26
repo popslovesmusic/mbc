@@ -1,14 +1,33 @@
+id: GEN14-3067
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-the-fundamental-functor-sequence::functor-1-fractalization-of-δ-adjacency::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 2100-2112
+heading: '**Functor 1: Fractalization of δ-Adjacency**'
+parent_heading: '**II. The Fundamental Functor Sequence**'
 block_type: paragraph
-concepts:
-- not
-- scale-compatibility
-- δ
 excerpt: 'F1:Adjδ→FractδF\_1 : \\mathbf{Adj}\_\\delta \\to \\mathbf{Fract}\_\\deltaF1​:Adjδ​→Fractδ​
   Maps adjacency networks to fractal curvature modes: F1(Aδ)=δfractF\_1(\\mathcal{A}\_\\delta)
   \= \\delta\_{\\t...'
-heading: '**Functor 1: Fractalization of δ-Adjacency**'
-id: GEN14-3067
-lines: 2100-2112
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-the-fundamental-functor-sequence::functor-1-fractalization-of-δ-adjacency::b1
-parent_heading: '**II. The Fundamental Functor Sequence**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- δ
+- scale-compatibility
+- →
+- self-similar
+- κ
+- δfract
+- δfractF
+- δF
+aliases:
+- Bk946ma
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.559322033898304
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

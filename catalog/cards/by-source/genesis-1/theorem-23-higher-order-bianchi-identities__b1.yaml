@@ -1,11 +1,30 @@
+id: GEN1-610
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::2-properties-of-δ-curvature::theorem-23-higher-order-bianchi-identities::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1231-1242
+heading: '**Theorem 2.3 — Higher-Order Bianchi Identities.**'
+parent_heading: '**2\. Properties of δ-Curvature**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'For all n≥1n\\ge 1n≥1: \[δ, Rδ(n)\]=0.\[\\delta,\\,\\mathcal{R}\_{\\delta}^{(n)}\]
   \= 0.\[δ,Rδ(n)​\]=0. **Proof.**'
-heading: '**Theorem 2.3 — Higher-Order Bianchi Identities.**'
-id: GEN1-610
-lines: 1231-1242
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::2-properties-of-δ-curvature::theorem-23-higher-order-bianchi-identities::b1
-parent_heading: '**2\. Properties of δ-Curvature**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Proof
+- Definition
+- ≥
+aliases:
+- Bk962fa
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

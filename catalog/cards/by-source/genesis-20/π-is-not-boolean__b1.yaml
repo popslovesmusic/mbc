@@ -1,11 +1,25 @@
+id: GEN20-6818
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::64-stage-3-π-evaluation-realization::π-is-not-boolean::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2100-2112
+heading: Π is not Boolean
+parent_heading: '6.4 Stage 3 — Π: Evaluation / Realization'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'It is not a binary evaluation engine. It is a geometric-semantic resolution
   function, sensitive to: * polarity'
-heading: Π is not Boolean
-id: GEN20-6818
-lines: 2100-2112
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::64-stage-3-π-evaluation-realization::π-is-not-boolean::b1
-parent_heading: '6.4 Stage 3 — Π: Evaluation / Realization'
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Π-evaluation
+- geometric-semantic
+- Π
+aliases:
+- Bk579nb
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

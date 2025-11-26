@@ -1,13 +1,30 @@
+id: GEN7-8505
+location: genesis-7/the-complete-eft-lagrangian::axiom-5-meta-time-order-preservation::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 956-965
+heading: '**Axiom 5 — Meta-Time Order Preservation**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Π
-- δ
 excerpt: 'Deviational evolution under Meta-Time Π\\PiΠ must preserve composition:
   Π(δ∘δ)=Π(δ)∘Π(δ).\\Pi(\\delta\\circ\\delta) \= \\Pi(\\delta)\\circ\\Pi(\\delta).Π(δ∘δ)=Π(δ)∘Π(δ).
   **Interpretation:**'
-heading: '**Axiom 5 — Meta-Time Order Preservation**'
-id: GEN7-8505
-lines: 956-965
-location: genesis-7/the-complete-eft-lagrangian::axiom-5-meta-time-order-preservation::b1
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- δ
+- Π
+- Meta-Time
+- Deviation
+- δ-patterns
+aliases:
+- Bk646de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

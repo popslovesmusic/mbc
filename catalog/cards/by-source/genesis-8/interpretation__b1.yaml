@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- Tri-Unity
-- Φ
-- δ
-excerpt: '**The ME-δΦ Law is forced**, not assumed: * δ-curvature must generate an
-  Einstein-like structure. * Φ must contribute a trace-energy term.'
-heading: '**Interpretation**'
 id: GEN8-8969
-lines: 981-996
 location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::interpretation::b1
 source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 981-996
+heading: '**Interpretation**'
+block_type: paragraph
+excerpt: '**The ME-δΦ Law is forced**, not assumed: * δ-curvature must generate an
+  Einstein-like structure. * Φ must contribute a trace-energy term.'
+concepts:
+- Tri-Unity
+- δ
+- Φ
+- The ME-δΦ Law is forced
+- Einstein-like
+- trace-energy
+- δ-curvature
+- ME-δΦ
+aliases:
+- Bk331tl
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.114754098360656
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

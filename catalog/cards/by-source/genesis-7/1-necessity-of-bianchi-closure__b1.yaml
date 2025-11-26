@@ -1,14 +1,32 @@
+id: GEN7-8494
+location: genesis-7/the-complete-eft-lagrangian::part-iii-deviational-geometry-proof::1-necessity-of-bianchi-closure::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 782-798
+heading: '**1\. Necessity of Bianchi closure.**'
+parent_heading: '**Part III: Deviational Geometry Proof**'
 block_type: paragraph
-concepts:
-- α
-- δ
-- μ
-- ν
 excerpt: 'If: ∇\[αRμν\](δ)≠0,\\nabla\_{\[\\alpha}\\mathcal{R}\_{\\mu\\nu\]}(\\delta)\\neq
   0,∇\[α​Rμν\]​(δ)=0, then:'
-heading: '**1\. Necessity of Bianchi closure.**'
-id: GEN7-8494
-lines: 782-798
-location: genesis-7/the-complete-eft-lagrangian::part-iii-deviational-geometry-proof::1-necessity-of-bianchi-closure::b1
-parent_heading: '**Part III: Deviational Geometry Proof**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- δ
+- ν
+- α
+- μ
+- ∇
+- non-integrable
+- ≠
+aliases:
+- Bk936na
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.217391304347828
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

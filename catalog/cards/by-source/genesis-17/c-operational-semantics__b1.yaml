@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: The “small-step” and “big-step” semantics for 𝓕-only computation.
-heading: 'C. Operational Semantics:'
 id: GEN17-4796
-lines: 9513-9515
 location: genesis-17/box-calculus::next-step-options::c-operational-semantics::b1
-parent_heading: ⭐ NEXT STEP OPTIONS
 source: genesis-17\box_calculus.md
+lines: 9513-9515
+heading: 'C. Operational Semantics:'
+parent_heading: ⭐ NEXT STEP OPTIONS
+block_type: paragraph
+excerpt: The “small-step” and “big-step” semantics for 𝓕-only computation.
+concepts:
+- small-step
+- big-step
+aliases:
+- Bk120ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

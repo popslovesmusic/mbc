@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Paper Version
-- White-Paper
-excerpt: '*(Formal IGSOA White-Paper Version)*'
-heading: '**3\. Φ → Π (Projection to Geometry)**'
 id: GEN12-1599
-lines: 1008-1010
 location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::b1
 source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1008-1010
+heading: '**3\. Φ → Π (Projection to Geometry)**'
+block_type: paragraph
+excerpt: '*(Formal IGSOA White-Paper Version)*'
+concepts:
+- IGSOA
+- White-Paper
+- Paper Version
+aliases:
+- Bk619fi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 60.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

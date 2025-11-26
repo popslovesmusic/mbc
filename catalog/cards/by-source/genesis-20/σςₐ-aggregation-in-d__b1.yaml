@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Θ
-- Π
-- Φ
-excerpt: 'Φ(D) stabilizes: Θ\_D \= \+ (B dominates) Π(D) outputs:'
-heading: ΣΣₐ aggregation in D
 id: GEN20-6955
-lines: 3823-3831
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::125-example-5-multi-causal-reasoning::σςₐ-aggregation-in-d::b1
-parent_heading: 12.5 Example 5 — Multi-Causal Reasoning
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3823-3831
+heading: ΣΣₐ aggregation in D
+parent_heading: 12.5 Example 5 — Multi-Causal Reasoning
+block_type: paragraph
+excerpt: 'Φ(D) stabilizes: Θ\_D \= \+ (B dominates) Π(D) outputs:'
+concepts:
+- real-world
+- Π
+- Θ
+- Φ
+aliases:
+- Bk249sd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

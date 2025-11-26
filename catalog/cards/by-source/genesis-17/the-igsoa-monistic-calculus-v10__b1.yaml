@@ -1,11 +1,26 @@
+id: GEN17-4727
+location: genesis-17/box-calculus::now-the-real-question::the-igsoa-monistic-calculus-v10::b1
+source: genesis-17\box_calculus.md
+lines: 8524-8528
+heading: The IGSOA Monistic Calculus v1.0
+parent_heading: '⭐ Now the real question:'
 block_type: paragraph
-concepts: []
 excerpt: (One operator → multiple shadows → all derived operators) Or if you want,
   we can choose a different stepping stone before the rewrite. How do you want to
   proceed?
-heading: The IGSOA Monistic Calculus v1.0
-id: GEN17-4727
-lines: 8524-8528
-location: genesis-17/box-calculus::now-the-real-question::the-igsoa-monistic-calculus-v10::b1
-parent_heading: '⭐ Now the real question:'
-source: genesis-17\box_calculus.md
+concepts:
+- →
+aliases:
+- Bk849oo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.06
+is_technical: true
+concept_density: 3.7037037037037033
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,15 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Genesis Manifold
-- Meta-Math
-- Static Symmetry
-- Ψ
-- δ
-excerpt: '`Ψ₀ → (NOT Axiom) → δ → δΨ₀ → A + T_meta → Genesis Manifold → Meta-Math
-  → SATP → Physics` --- If you want, I can now:'
-heading: '**3\. Ultra-Compressed One-Line Version**'
 id: INTK-9910
-lines: 152-166
 location: intake/meta-genesis-diagrammatic-papers::3-ultra-compressed-one-line-version::b1
 source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 152-166
+heading: '**3\. Ultra-Compressed One-Line Version**'
+block_type: paragraph
+excerpt: '`Ψ₀ → (NOT Axiom) → δ → δΨ₀ → A + T_meta → Genesis Manifold → Meta-Math
+  → SATP → Physics` --- If you want, I can now:'
+concepts:
+- →
+- Meta-Math
+- Axiom
+- high-resolution PNG schematic
+- δ
+- Ψ
+- high-resolution
+- LaTeX tikz diagram
+- Mermaid flowchart
+- Genesis Manifold
+- Static Symmetry
+- Ψ₀
+aliases:
+- Bk636na
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.35483870967742
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

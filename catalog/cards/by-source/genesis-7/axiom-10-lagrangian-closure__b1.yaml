@@ -1,17 +1,32 @@
+id: GEN7-8477
+location: genesis-7/the-complete-eft-lagrangian::the-δ-eft-axiom-box-sealed::axiom-10-lagrangian-closure::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 554-568
+heading: '**Axiom 10 — Lagrangian Closure**'
+parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- forced
-- Φ
-- δ
-- μ
-- ν
 excerpt: 'The δ-EFT Lagrangian is the minimal scalar density constructed from: {δ,  Aμν,  Mμν,  gμν,  Φ,  ψi}\\{\\delta,\\;
   \\mathcal{A}\_{\\mu\\nu},\\; \\mathcal{M}\_{\\mu\\nu},\\; g\_{\\mu\\nu},\\; \\Phi,\\;
   ...'
-heading: '**Axiom 10 — Lagrangian Closure**'
-id: GEN7-8477
-lines: 554-568
-location: genesis-7/the-complete-eft-lagrangian::the-δ-eft-axiom-box-sealed::axiom-10-lagrangian-closure::b1
-parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- δ
+- Meta-Time
+- μ
+- ν
+- δ-EFT
+- ψ
+- Lδ-EFT
+- Φ
+- forced
+aliases:
+- Bk406te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

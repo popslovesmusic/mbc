@@ -1,11 +1,27 @@
+id: INTK-10195
+location: intake/meta-genesis-meta-math-integration-papers::2-codomains::21-deviational-codomain-bound::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 261-279
+heading: '**2.1 Deviational Codomain Bound**'
+parent_heading: '**2\. Codomains**'
 block_type: paragraph
+excerpt: 'If O:Ψ↦Ψ′,\\mathcal{O} : \\Psi \\mapsto \\Psi'',O:Ψ↦Ψ′, then'
 concepts:
 - Ψ
 - δ
-excerpt: 'If O:Ψ↦Ψ′,\\mathcal{O} : \\Psi \\mapsto \\Psi'',O:Ψ↦Ψ′, then'
-heading: '**2.1 Deviational Codomain Bound**'
-id: INTK-10195
-lines: 261-279
-location: intake/meta-genesis-meta-math-integration-papers::2-codomains::21-deviational-codomain-bound::b1
-parent_heading: '**2\. Codomains**'
-source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+- Δ
+- ≥
+- ≤
+- deviation bounds
+aliases:
+- Bk667mp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

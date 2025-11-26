@@ -1,11 +1,29 @@
+id: GEN5-7940
+location: genesis-5/formal-proof-of-the-adjoint-triple::2-proof-that-lul-dashv-ulu::definition-of-u::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 83-91
+heading: '**Definition of U.**'
+parent_heading: '**2\. Proof that L⊣UL \\dashv UL⊣U**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: For an object Y∈MMY\\in MMY∈MM, UY=UnderlyingSheaf(Y)UY \= \\text{UnderlyingSheaf}(Y)UY=UnderlyingSheaf(Y)
   \= forget all δ-actions, retain only scale-adjacency sheaf properties.
-heading: '**Definition of U.**'
-id: GEN5-7940
-lines: 83-91
-location: genesis-5/formal-proof-of-the-adjoint-triple::2-proof-that-lul-dashv-ulu::definition-of-u::b1
-parent_heading: '**2\. Proof that L⊣UL \\dashv UL⊣U**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- ∈
+- scale-adjacency
+- δ-actions
+- δ
+aliases:
+- Bk135fo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

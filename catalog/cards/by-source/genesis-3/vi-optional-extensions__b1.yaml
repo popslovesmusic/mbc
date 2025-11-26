@@ -1,19 +1,37 @@
+id: GEN3-7565
+location: genesis-3/the-tri-unity-theorem::vi-optional-extensions::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1152-1164
+heading: '**VI. Optional Extensions**'
 block_type: paragraph
-concepts:
-- Contradiction Theorem
-- Geometry Compatibility Diagram
-- Meta-Genesis
-- Meta-Math
-- No-Contradiction
-- The Meta
-- Theorem
-- Φ
-- δ
 excerpt: 'I can now generate: * **The Meta-Math / δ-Geometry Compatibility Diagram**
   (string & topos diagrams) * **The full Appendix proving the lemma in multi-step
   detail**'
-heading: '**VI. Optional Extensions**'
-id: GEN3-7565
-lines: 1152-1164
-location: genesis-3/the-tri-unity-theorem::vi-optional-extensions::b1
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Meta-Math
+- Meta-Genesis
+- The full Appendix proving the lemma in multi-step detail
+- Theorem
+- δ
+- Corollary
+- Lemma
+- δ-Geometry
+- No-Contradiction
+- Geometry Compatibility Diagram
+- Φ-compatibility
+- multi-step
+- Φ
+- Contradiction Theorem
+- →
+aliases:
+- Bk606cn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 32.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

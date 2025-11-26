@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Math
-- Meta-Time
-- Physics
-excerpt: 'You asked for: **“A Meta-Time interpretation within monism.”** This means
-  we must show:'
-heading: '**0\. Purpose**'
 id: GEN8-8815
-lines: 754-780
 location: genesis-8/meta-time-geometry-and-temporal-projection::0-purpose::b2
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 754-780
+heading: '**0\. Purpose**'
+block_type: paragraph
+excerpt: 'You asked for: **“A Meta-Time interpretation within monism.”** This means
+  we must show:'
+concepts:
+- Meta-Time
+- Meta-Genesis
+- Meta-Math
+- a single monistic principle
+- Physics
+aliases:
+- Bk229ya
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

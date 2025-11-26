@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Three meta-structural constraints force stability:'
-heading: '**3\. Why Patterns Must Stabilize (Meta-Reason)**'
 id: GEN4-7922
-lines: 2016-2018
 location: genesis-4/the-first-adjacency::3-why-patterns-must-stabilize-meta-reason::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 2016-2018
+heading: '**3\. Why Patterns Must Stabilize (Meta-Reason)**'
+block_type: paragraph
+excerpt: 'Three meta-structural constraints force stability:'
+concepts:
+- meta-structural
+aliases:
+- Bk914tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

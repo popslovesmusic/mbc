@@ -1,15 +1,37 @@
+id: GEN10-707
+location: genesis-10/how-stillness-becomes-solid::1-δ-geometry-curvature-parity-on-adjacency-space::12-δ-curvature::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 453-461
+heading: '**1.2 δ-Curvature**'
+parent_heading: '**1\. δ-Geometry: Curvature Parity on Adjacency Space**'
 block_type: paragraph
-concepts:
-- cycles
-- Γ
-- Σ
-- δ
 excerpt: 'Curvature is: Fδ=∇δ2=dΓδ+Γδ∧Γδ.F\_\\delta \= \\nabla\_\\delta^2 \= d\\Gamma\_\\delta
   \+ \\Gamma\_\\delta \\wedge \\Gamma\_\\delta.Fδ​=∇δ2​=dΓδ​+Γδ​∧Γδ​. Since adjacency
   space is discrete, FδF\_\\delta...'
-heading: '**1.2 δ-Curvature**'
-id: GEN10-707
-lines: 453-461
-location: genesis-10/how-stillness-becomes-solid::1-δ-geometry-curvature-parity-on-adjacency-space::12-δ-curvature::b1
-parent_heading: '**1\. δ-Geometry: Curvature Parity on Adjacency Space**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- δ
+- Γ
+- Curvature
+- Σ
+- ∫
+- ∧
+- ∇
+- ∂
+- cycles
+- ΣF
+- δF
+aliases:
+- Bk039cd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.1875
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

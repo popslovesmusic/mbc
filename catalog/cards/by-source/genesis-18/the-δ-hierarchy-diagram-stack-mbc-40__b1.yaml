@@ -1,10 +1,28 @@
+id: GEN18-5689
+location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-produce::the-δ-hierarchy-diagram-stack-mbc-40::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 947-949
+heading: '**🔵 The δ-Hierarchy Diagram Stack (MBC-4.0)**'
+parent_heading: '**If you want, I can now produce:**'
 block_type: paragraph
+excerpt: (full visual δ → δ² → δ³ → collapse)
 concepts:
 - δ
-excerpt: (full visual δ → δ² → δ³ → collapse)
-heading: '**🔵 The δ-Hierarchy Diagram Stack (MBC-4.0)**'
-id: GEN18-5689
-lines: 947-949
-location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-produce::the-δ-hierarchy-diagram-stack-mbc-40::b1
-parent_heading: '**If you want, I can now produce:**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+- →
+- δ²
+- δ³
+aliases:
+- Bk544fv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

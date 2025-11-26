@@ -1,10 +1,25 @@
+id: GEN19-5989
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-modal-operators-in-θ-logic::4-temporal-modalities::next::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1709-1711
+heading: '**Next**'
+parent_heading: '**4\. Temporal Modalities**'
 block_type: paragraph
+excerpt: σXP(t)=σP(t+1)σ\_{X P(t)} \= \\sigma\_{P(t+1)}σXP(t)​=σP(t+1)​
 concepts:
 - σ
-excerpt: σXP(t)=σP(t+1)σ\_{X P(t)} \= \\sigma\_{P(t+1)}σXP(t)​=σP(t+1)​
-heading: '**Next**'
-id: GEN19-5989
-lines: 1709-1711
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-modal-operators-in-θ-logic::4-temporal-modalities::next::b1
-parent_heading: '**4\. Temporal Modalities**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+aliases:
+- Bk490si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

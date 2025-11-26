@@ -1,11 +1,27 @@
-block_type: table
-concepts:
-- Mathematical Polarity
-- Π
-- Σ
-excerpt: 'Same meaning: Evaluation must occur; Π is the semantic endpoint. ---'
-heading: AXIOM VII — THE REALIZATION AXIOM (Evaluation / Collapse)
 id: GEN17-4309
-lines: 2352-2361
 location: genesis-17/box-calculus::axiom-vii-the-realization-axiom-evaluation-collapse::b1
 source: genesis-17\box_calculus.md
+lines: 2352-2361
+heading: AXIOM VII — THE REALIZATION AXIOM (Evaluation / Collapse)
+block_type: table
+excerpt: 'Same meaning: Evaluation must occur; Π is the semantic endpoint. ---'
+concepts:
+- Π
+- Polarity
+- IGSOA
+- Σ
+- Π-normal
+- Mathematical Polarity
+- Σfinal
+aliases:
+- Bk942ip
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.536585365853659
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,27 @@
+id: GEN7-8580
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::6-δ-higgs-vacuum-expectation-value::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 473-495
+heading: '**6\. δ-Higgs Vacuum Expectation Value**'
 block_type: paragraph
+excerpt: 'From: V(Φ)=λδ4Φ4−μδ22Φ2,V(\\Phi) \= \\frac{\\lambda\_\\delta}{4}\\Phi^4
+  \- \\frac{\\mu\_\\delta^2}{2}\\Phi^2,V(Φ)=4λδ​​Φ4−2μδ2​​Φ2, the VEV is:'
 concepts:
 - Φ
 - δ
 - λ
 - μ
-excerpt: 'From: V(Φ)=λδ4Φ4−μδ22Φ2,V(\\Phi) \= \\frac{\\lambda\_\\delta}{4}\\Phi^4
-  \- \\frac{\\mu\_\\delta^2}{2}\\Phi^2,V(Φ)=4λδ​​Φ4−2μδ2​​Φ2, the VEV is:'
-heading: '**6\. δ-Higgs Vacuum Expectation Value**'
-id: GEN7-8580
-lines: 473-495
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::6-δ-higgs-vacuum-expectation-value::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+- δ-geometric
+- ratio of torsion invariants
+aliases:
+- Bk989fp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.172413793103448
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

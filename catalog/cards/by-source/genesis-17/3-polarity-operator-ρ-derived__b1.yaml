@@ -1,12 +1,29 @@
+id: GEN17-4746
+location: genesis-17/box-calculus::iv-all-box-operators-become-derived-operators::3-polarity-operator-ρ-derived::b1
+source: genesis-17\box_calculus.md
+lines: 8691-8728
+heading: 3\. Polarity Operator ρ (Derived)
+parent_heading: 🔷 IV. ALL Box Operators Become Derived Operators
 block_type: paragraph
+excerpt: 'Polarity \= spectral split of a Hermitian operator. If: F=∑iλiPi'
 concepts:
 - Σ
+- Polarity
+- ∑
 - λ
 - ρ
-excerpt: 'Polarity \= spectral split of a Hermitian operator. If: F=∑iλiPi'
-heading: 3\. Polarity Operator ρ (Derived)
-id: GEN17-4746
-lines: 8691-8728
-location: genesis-17/box-calculus::iv-all-box-operators-become-derived-operators::3-polarity-operator-ρ-derived::b1
-parent_heading: 🔷 IV. ALL Box Operators Become Derived Operators
-source: genesis-17\box_calculus.md
+aliases:
+- Bk260ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

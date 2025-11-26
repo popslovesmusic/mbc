@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- three
-excerpt: 'In 3D, adjacency has **three** independent freedoms: * x * y'
-heading: '**🌌 3\. In 3D: IGSOA \+ δ \= 9 modes**'
 id: SPEC-11084
-lines: 1737-1751
 location: special/specil::3-in-3d-igsoa-δ-9-modes::b1
 source: special\specil.md
+lines: 1737-1751
+heading: '**🌌 3\. In 3D: IGSOA \+ δ \= 9 modes**'
+block_type: paragraph
+excerpt: 'In 3D, adjacency has **three** independent freedoms: * x * y'
+concepts:
+- three
+- three axes
+aliases:
+- Bk512ah
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

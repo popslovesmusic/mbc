@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- δ
-excerpt: 'Do you want me to begin the rewrite → rewriting Box Calculus using only
-  𝓕, δ, and structural projection? If yes, I will generate:'
-heading: '⭐ Now the real question:'
 id: GEN17-4726
-lines: 8518-8522
 location: genesis-17/box-calculus::now-the-real-question::b1
 source: genesis-17\box_calculus.md
+lines: 8518-8522
+heading: '⭐ Now the real question:'
+block_type: paragraph
+excerpt: 'Do you want me to begin the rewrite → rewriting Box Calculus using only
+  𝓕, δ, and structural projection? If yes, I will generate:'
+concepts:
+- Box Calculus
+- Box
+- δ
+- →
+aliases:
+- Bk314yw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

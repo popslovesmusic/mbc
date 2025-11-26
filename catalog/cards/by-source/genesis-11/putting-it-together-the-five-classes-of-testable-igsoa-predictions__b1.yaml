@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: Below are the **five strongest categories of observational tests**. ---
-heading: '**PUTTING IT TOGETHER: THE FIVE CLASSES OF TESTABLE IGSOA PREDICTIONS**'
 id: GEN11-1158
-lines: 922-926
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::putting-it-together-the-five-classes-of-testable-igsoa-predictions::b1
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 922-926
+heading: '**PUTTING IT TOGETHER: THE FIVE CLASSES OF TESTABLE IGSOA PREDICTIONS**'
+block_type: paragraph
+excerpt: Below are the **five strongest categories of observational tests**. ---
+concepts:
+- five strongest categories of observational tests
+aliases:
+- Bk340ba
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

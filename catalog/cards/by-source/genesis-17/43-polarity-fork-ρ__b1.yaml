@@ -1,12 +1,31 @@
+id: GEN17-4169
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::43-polarity-fork-ρ::b1
+source: genesis-17\box_calculus.md
+lines: 281-293
+heading: 4.3 Polarity Fork ρ
+parent_heading: 4\. Operator-Specific Transition Rules
 block_type: table
+excerpt: 'If your state space expects a single Σ output, define a boxed pair state:
+  Spair:=S×S S'
 concepts:
 - Σ
 - ρ
-excerpt: 'If your state space expects a single Σ output, define a boxed pair state:
-  Spair:=S×S S'
-heading: 4.3 Polarity Fork ρ
-id: GEN17-4169
-lines: 281-293
-location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::43-polarity-fork-ρ::b1
-parent_heading: 4\. Operator-Specific Transition Rules
-source: genesis-17\box_calculus.md
+- Polarity
+- IGSOA
+- κ
+- Coproduct-like
+aliases:
+- Bk128is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

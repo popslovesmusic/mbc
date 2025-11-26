@@ -1,11 +1,29 @@
+id: GEN14-2950
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-paper-outline::1-introduction::b2
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 511-519
+heading: '**1\. Introduction**'
+parent_heading: '**III. Full Paper Outline**'
 block_type: list
-concepts:
-- δ
 excerpt: '* Why δ-adjacency is the fundamental structure. * Why phases ≠ microstates;
   they are adjacency symmetries. * Classical → quantum → topological phases unified.'
-heading: '**1\. Introduction**'
-id: GEN14-2950
-lines: 511-519
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-paper-outline::1-introduction::b2
-parent_heading: '**III. Full Paper Outline**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- →
+- δ-adjacency
+- ≠
+- δ
+aliases:
+- Bk266wa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.052631578947366
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

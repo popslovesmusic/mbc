@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- The First Law
-- habits
-- δ
-excerpt: In the dawn of existence, there were no equations, no constants, no particles,
-heading: '**7\. Narrative Completion — The first laws were not commandments**'
 id: GEN4-7929
-lines: 2105-2132
 location: genesis-4/the-first-adjacency::7-narrative-completion-the-first-laws-were-not-commandments::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 2105-2132
+heading: '**7\. Narrative Completion — The first laws were not commandments**'
+block_type: paragraph
+excerpt: In the dawn of existence, there were no equations, no constants, no particles,
+concepts:
+- δ
+- can keep happening
+- The First Law
+- habits
+aliases:
+- Bk689td
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.669724770642202
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

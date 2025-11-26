@@ -1,16 +1,38 @@
+id: GEN19-5892
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::8-full-θ-router-in-one-line::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 299-315
+heading: '**8\. Full Θ-Router in One Line**'
+parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
 block_type: paragraph
-concepts:
-- Gate Synthesis Table
-- Tensor Form
-- Θ
-- α
-- δ
 excerpt: 'Putting it all together: Θ(B)=sign⁡ ⁣(∑i∈N(B)exp⁡(α⋅mi)∑j∈N(B)exp⁡(α⋅mj)  κi)\\boxed{
   \\Theta(B)=\\operatorname{sign}\\\!\\left( \\sum\_{i\\in N(B)} \\frac{\\exp(\\alpha\\cdot
   m\_i)} {\\sum\_{j\\in N(...'
-heading: '**8\. Full Θ-Router in One Line**'
-id: GEN19-5892
-lines: 299-315
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::8-full-θ-router-in-one-line::b1
-parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Θ
+- α
+- ∈
+- κ
+- ∑
+- Gate
+- δ-adjacency
+- δ
+- Gate Synthesis Table
+- Worked example
+- Tensor Form
+aliases:
+- Bk726pa
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.59375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

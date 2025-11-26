@@ -1,18 +1,36 @@
+id: INTK-10654
+location: intake/volume-i-core-ontology-and-metagenesis-summary::core-ontological-axioms-and-principles::1-the-principle-of-flawed-symmetry-the-igsoa-deviation-identity::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1489-1500
+heading: 1. The Principle of Flawed Symmetry (The IGSOA-Deviation Identity)
+parent_heading: Core Ontological Axioms and Principles
 block_type: paragraph
-concepts:
-- Axiom
-- Field
-- Formal Identity
-- IGSOA
-- Monistic Realized Field
-- Ontological Activity
-- δ
 excerpt: '**Axiom:** All things that exist are expressions of a single, monistic field:
   **IGSOA**. This field is a **flawed monistic perfect symmetry**. The flaw is not
   an external disturbance but an inherent, ...'
-heading: 1. The Principle of Flawed Symmetry (The IGSOA-Deviation Identity)
-id: INTK-10654
-lines: 1489-1500
-location: intake/volume-i-core-ontology-and-metagenesis-summary::core-ontological-axioms-and-principles::1-the-principle-of-flawed-symmetry-the-igsoa-deviation-identity::b1
-parent_heading: Core Ontological Axioms and Principles
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- Deviation
+- δ
+- Axiom
+- self-differentiating
+- Field
+- flawed monistic perfect symmetry
+- Ontological Activity
+- self-modulating
+- Monistic Realized Field
+- Formal Identity
+aliases:
+- Bk087aa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.38255033557047
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,25 @@
-block_type: table
-concepts:
-- Algebra Rule
-- Operator
-- Θ
-- σ
-excerpt: '---'
-heading: '**V. Θ-Algebra Summary of Operators**'
 id: GEN19-5967
-lines: 1223-1236
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-θ-algebra-summary-of-operators::b1
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1223-1236
+heading: '**V. Θ-Algebra Summary of Operators**'
+block_type: table
+excerpt: '---'
+concepts:
+- σ
+- Operator
+- layer-composed
+- Θ
+- Algebra Rule
+aliases:
+- Bk311oa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.1020408163265305
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

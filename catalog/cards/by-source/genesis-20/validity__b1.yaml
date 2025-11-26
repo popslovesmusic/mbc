@@ -1,10 +1,25 @@
+id: GEN20-6636
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::ii-primitive-inference-rules-in-mbc-40::3-δ-stability-rule::validity::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 885-889
+heading: Validity
+parent_heading: 3\. δ-Stability Rule
 block_type: paragraph
+excerpt: 'A rule R is valid iff: Π(R(B))=Π(B) Π(R(B))=Π(B)'
 concepts:
 - Π
-excerpt: 'A rule R is valid iff: Π(R(B))=Π(B) Π(R(B))=Π(B)'
-heading: Validity
-id: GEN20-6636
-lines: 885-889
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::ii-primitive-inference-rules-in-mbc-40::3-δ-stability-rule::validity::b1
-parent_heading: 3\. δ-Stability Rule
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+aliases:
+- Bk299rv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

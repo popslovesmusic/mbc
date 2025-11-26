@@ -1,15 +1,36 @@
+id: GEN17-4147
+location: genesis-17/box-calculus::box-calculus-technical-introduction-dual-column-cross-referenced::1-overview-purpose::b1
+source: genesis-17\box_calculus.md
+lines: 8-16
+heading: 1\. Overview & Purpose
+parent_heading: BOX CALCULUS — TECHNICAL INTRODUCTION (DUAL-COLUMN, CROSS-REFERENCED)
 block_type: table
+excerpt: '---'
 concepts:
-- Box
 - Box Calculus
+- IGSOA
+- Box
+- Axiom
+- semantic-geometric
+- meta-layer
 - Standard Interpretation
 - Π
-- Φ
 - δ
-excerpt: '---'
-heading: 1\. Overview & Purpose
-id: GEN17-4147
-lines: 8-16
-location: genesis-17/box-calculus::box-calculus-technical-introduction-dual-column-cross-referenced::1-overview-purpose::b1
-parent_heading: BOX CALCULUS — TECHNICAL INTRODUCTION (DUAL-COLUMN, CROSS-REFERENCED)
-source: genesis-17\box_calculus.md
+- Φ
+aliases:
+- Bk704ib
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

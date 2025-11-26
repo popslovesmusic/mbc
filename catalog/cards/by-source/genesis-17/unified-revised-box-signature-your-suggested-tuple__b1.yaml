@@ -1,15 +1,35 @@
-block_type: table
-concepts:
-- Box
-- Box Calculus
-- Standard Formalism
-- Γ
-- Σ
-- Ω
-- τ
-excerpt: '---'
-heading: Unified Revised Box Signature (Your Suggested Tuple)
 id: GEN17-4183
-lines: 445-455
 location: genesis-17/box-calculus::unified-revised-box-signature-your-suggested-tuple::b1
 source: genesis-17\box_calculus.md
+lines: 445-455
+heading: Unified Revised Box Signature (Your Suggested Tuple)
+block_type: table
+excerpt: '---'
+concepts:
+- Box Calculus
+- IGSOA
+- Box
+- Ω
+- Σ
+- Δ
+- Γ
+- State
+- τ
+- Standard Formalism
+- Σi
+- Ωi
+aliases:
+- Bk817ib
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

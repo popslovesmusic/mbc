@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Time: **6.12 ms** Amplitude: 0.00177'
-heading: '**Echo 2 (n=2):**'
 id: GEN11-1027
-lines: 566-569
 location: genesis-11/how-curvature-could-generate-an-axis::9-full-echo-train-at-the-detector::echo-2-n2::b1
-parent_heading: '**⭐ 9\. FULL ECHO TRAIN AT THE DETECTOR**'
 source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 566-569
+heading: '**Echo 2 (n=2):**'
+parent_heading: '**⭐ 9\. FULL ECHO TRAIN AT THE DETECTOR**'
+block_type: paragraph
+excerpt: 'Time: **6.12 ms** Amplitude: 0.00177'
+aliases:
+- Bk245ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

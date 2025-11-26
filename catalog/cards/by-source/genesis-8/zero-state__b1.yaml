@@ -1,11 +1,28 @@
+id: GEN8-8995
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::mg1-the-first-movement-axiom::zero-state::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1187-1189
+heading: '**Zero-State**'
+parent_heading: '**⟦ MG–1 : THE FIRST MOVEMENT AXIOM ⟧**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: Ψ0:=operator-free, atemporal, adjacency-free state\\Psi\_0 := \\text{operator-free,
   atemporal, adjacency-free state}Ψ0​:=operator-free, atemporal, adjacency-free state
-heading: '**Zero-State**'
-id: GEN8-8995
-lines: 1187-1189
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::mg1-the-first-movement-axiom::zero-state::b1
-parent_heading: '**⟦ MG–1 : THE FIRST MOVEMENT AXIOM ⟧**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- adjacency-free
+- operator-free
+- Ψ
+aliases:
+- Bk881of
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

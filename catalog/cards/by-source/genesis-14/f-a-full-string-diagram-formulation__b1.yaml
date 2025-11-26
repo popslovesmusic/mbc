@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: (diagrammatic δ → Φ → Π → ✖ for attempted lifts)
-heading: '**F. A full string-diagram formulation**'
 id: GEN14-2904
-lines: 1616-1618
 location: genesis-14/meta-math-and-cryptography::if-you-want-next::f-a-full-string-diagram-formulation::b1
-parent_heading: '**If you want next:**'
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1616-1618
+heading: '**F. A full string-diagram formulation**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: (diagrammatic δ → Φ → Π → ✖ for attempted lifts)
+concepts:
+- →
+- Π
+- δ
+- Φ
+aliases:
+- Bk615df
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 57.14285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

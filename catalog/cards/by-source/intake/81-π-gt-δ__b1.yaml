@@ -1,11 +1,26 @@
+id: INTK-9636
+location: intake/abstract-editorial-review::section-8-numerical-derivation-of-λ::81-π-gt-δ::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 471-475
+heading: '**8.1 — \<Π\_g(T\_δ)\>**'
+parent_heading: '**📄 Section 8 — Numerical Derivation of Λ**'
 block_type: paragraph
-concepts:
-- Λ
 excerpt: 'Great, but add: This establishes Λ as an emergent expectation value rather
   than a fundamental parameter.'
-heading: '**8.1 — \<Π\_g(T\_δ)\>**'
-id: INTK-9636
-lines: 471-475
-location: intake/abstract-editorial-review::section-8-numerical-derivation-of-λ::81-π-gt-δ::b1
-parent_heading: '**📄 Section 8 — Numerical Derivation of Λ**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- Λ
+aliases:
+- Bk086gb
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

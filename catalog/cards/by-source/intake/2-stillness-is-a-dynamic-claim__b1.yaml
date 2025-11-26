@@ -1,12 +1,30 @@
+id: INTK-10043
+location: intake/meta-genesis-outreach-narrative-papers::why-perfect-stillness-cannot-exist::2-stillness-is-a-dynamic-claim::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 282-322
+heading: '**2\. Stillness Is a Dynamic Claim**'
+parent_heading: '**Why Perfect Stillness Cannot Exist**'
 block_type: paragraph
-concepts:
-- does
-- Ψ
 excerpt: 'To say something is “perfectly still” is to say: “Its value does not change
   over time.” But the moment you invoke “does not change,”'
-heading: '**2\. Stillness Is a Dynamic Claim**'
-id: INTK-10043
-lines: 282-322
-location: intake/meta-genesis-outreach-narrative-papers::why-perfect-stillness-cannot-exist::2-stillness-is-a-dynamic-claim::b1
-parent_heading: '**Why Perfect Stillness Cannot Exist**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- ∂
+- Ψ
+- an operator that enforces
+- zero-state
+- Δ
+- cannot be defined
+aliases:
+- Bk079ss
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.411764705882353
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

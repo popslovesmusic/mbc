@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Necessary Deviation
-- Zero State
-- Ψ
-excerpt: 'From the Zero State ontology: R(Ψ0)=∞R(\\Psi\_0) \= \\inftyR(Ψ0​)=∞ and
-  maximal symmetry:'
-heading: '**0\. Precondition: Instability of Ψ₀**'
 id: INTK-9792
-lines: 490-504
 location: intake/meta-genesis-core-papers-foundations::0-precondition-instability-of-ψ₀::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 490-504
+heading: '**0\. Precondition: Instability of Ψ₀**'
+block_type: paragraph
+excerpt: 'From the Zero State ontology: R(Ψ0)=∞R(\\Psi\_0) \= \\inftyR(Ψ0​)=∞ and
+  maximal symmetry:'
+concepts:
+- cannot remain perfectly symmetric and non-empty
+- Ψ
+- Deviation
+- State
+- ∞
+- non-empty
+- Necessary Deviation
+- Zero State
+- Ψ₀
+aliases:
+- Bk252ft
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

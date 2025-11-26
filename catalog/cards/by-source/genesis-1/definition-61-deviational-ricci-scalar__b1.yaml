@@ -1,11 +1,27 @@
+id: GEN1-623
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::6-higher-deviational-curvature-invariants::definition-61-deviational-ricci-scalar::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1372-1378
+heading: '**Definition 6.1 — Deviational Ricci Scalar.**'
+parent_heading: '**6\. Higher Deviational Curvature Invariants**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Define: Rδsc:=Tr(\[δ,δ\]).\\mathcal{R}\_\\delta^{\\mathrm{sc}} := \\mathrm{Tr}(\[\\delta,\\delta\]).Rδsc​:=Tr(\[δ,δ\]).
   ---'
-heading: '**Definition 6.1 — Deviational Ricci Scalar.**'
-id: GEN1-623
-lines: 1372-1378
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::6-higher-deviational-curvature-invariants::definition-61-deviational-ricci-scalar::b1
-parent_heading: '**6\. Higher Deviational Curvature Invariants**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- δsc
+aliases:
+- Bk525dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

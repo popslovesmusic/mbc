@@ -1,14 +1,26 @@
+id: GEN14-2857
+location: genesis-14/meta-math-and-cryptography::6-quantum-key-distribution-bb84-e91-stack::interpretation::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 970-982
+heading: '**Interpretation**'
+parent_heading: '**6\. QUANTUM KEY DISTRIBUTION (BB84 / E91) STACK**'
 block_type: list
-concepts:
-- until
-- Π
-- Φ
-- δ
 excerpt: '* δ \= superposition structure (cannot be cloned) * Φ \= unitary evolution
   (reversible *until* Π) * Π \= measurement (fundamental projection; destroys δ)'
-heading: '**Interpretation**'
-id: GEN14-2857
-lines: 970-982
-location: genesis-14/meta-math-and-cryptography::6-quantum-key-distribution-bb84-e91-stack::interpretation::b1
-parent_heading: '**6\. QUANTUM KEY DISTRIBUTION (BB84 / E91) STACK**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Π
+- δ
+- Φ
+- →
+aliases:
+- Bk525ss
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,27 @@
+id: GEN14-3076
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::v-limits-and-colimits::in-spinφmathbfspin-phispinφ::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 2207-2211
+heading: '**In SpinΦ\\mathbf{Spin}\_\\PhiSpinΦ​**'
+parent_heading: '**V. Limits and Colimits**'
 block_type: list
+excerpt: '* **Colimits** \= superposition of modes. * **Limits** \= coherent alignment
+  (precisely magnetic order precursors).'
 concepts:
 - Colimits
 - Limits
-excerpt: '* **Colimits** \= superposition of modes. * **Limits** \= coherent alignment
-  (precisely magnetic order precursors).'
-heading: '**In SpinΦ\\mathbf{Spin}\_\\PhiSpinΦ​**'
-id: GEN14-3076
-lines: 2207-2211
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::v-limits-and-colimits::in-spinφmathbfspin-phispinφ::b1
-parent_heading: '**V. Limits and Colimits**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+aliases:
+- Bk230cs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

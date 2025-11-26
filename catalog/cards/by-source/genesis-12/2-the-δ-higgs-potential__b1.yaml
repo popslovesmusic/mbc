@@ -1,8 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'IGSOA posits that mass emerges from a curvature-driven potential:'
-heading: '**2\. The δ-Higgs Potential**'
 id: GEN12-1747
-lines: 406-408
 location: genesis-12/untitled-document::2-the-δ-higgs-potential::b1
 source: genesis-12\Untitled_document.md
+lines: 406-408
+heading: '**2\. The δ-Higgs Potential**'
+block_type: paragraph
+excerpt: 'IGSOA posits that mass emerges from a curvature-driven potential:'
+concepts:
+- IGSOA
+- curvature-driven
+aliases:
+- Bk809ip
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

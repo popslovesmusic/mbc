@@ -1,18 +1,37 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Differential Linear Logic
-- In Box Calculus
-- In Differential Linear Logic
-- Mixing Axiom
-- Σ
-- δ
-excerpt: 'A deep result: In Differential Linear Logic (DLL): * the derivative of \!
-  is a codereliction'
-heading: '**⭐ 6\. Differential Linear Logic Connection**'
 id: GEN16-4140
-lines: 5136-5159
 location: genesis-16/untitled-document::6-differential-linear-logic-connection::b1
 source: genesis-16\Untitled_document.md
+lines: 5136-5159
+heading: '**⭐ 6\. Differential Linear Logic Connection**'
+block_type: paragraph
+excerpt: 'A deep result: In Differential Linear Logic (DLL): * the derivative of \!
+  is a codereliction'
+concepts:
+- Box Calculus
+- Box
+- Differential Linear Logic
+- Σ
+- Axiom
+- δ
+- resource-curvature
+- In Differential Linear Logic
+- δ-curvature
+- literally the differential
+- non-linear
+- In Box Calculus
+- Mixing Axiom
+aliases:
+- Bk971dr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.606741573033707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
+id: GEN3-7335
+location: genesis-3/metagenesis::9-the-deviational-curvature-functor-and-meta-einstein-equation::canonical-variational-principle-in-δ-geometry::4-variation-of-the-matter-part::b1
+source: genesis-3\metagenesis.md
+lines: 926-936
+heading: '**4\. Variation of the Matter Part**'
+parent_heading: '**Canonical Variational Principle in δ-Geometry**'
 block_type: paragraph
+excerpt: 'Define δ-stress-energy by the usual metric variation: Tδ μν=−2∣gδ∣δSmattδgδμν\\boxed{
+  T\_{\\delta\\,\\mu\\nu} \= \-\\frac{2}{\\sqrt{|g\_\\delta|}} \\frac{\\delta S\_{\\text{matt}}}{\\delta
+  g\_\\delta^...'
 concepts:
 - δ
 - μ
 - ν
-excerpt: 'Define δ-stress-energy by the usual metric variation: Tδ μν=−2∣gδ∣δSmattδgδμν\\boxed{
-  T\_{\\delta\\,\\mu\\nu} \= \-\\frac{2}{\\sqrt{|g\_\\delta|}} \\frac{\\delta S\_{\\text{matt}}}{\\delta
-  g\_\\delta^...'
-heading: '**4\. Variation of the Matter Part**'
-id: GEN3-7335
-lines: 926-936
-location: genesis-3/metagenesis::9-the-deviational-curvature-functor-and-meta-einstein-equation::canonical-variational-principle-in-δ-geometry::4-variation-of-the-matter-part::b1
-parent_heading: '**Canonical Variational Principle in δ-Geometry**'
-source: genesis-3\metagenesis.md
+- δSmatt
+- δg
+- ∫
+- δ-stress-energy
+aliases:
+- Bk316ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.13953488372093
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

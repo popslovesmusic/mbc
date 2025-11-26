@@ -1,12 +1,31 @@
+id: GEN3-7403
+location: genesis-3/the-physics-box-diagram::2-curvature-in-δ-geometry-and-φ-geometry::axiom-21-δ-curvature::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 581-589
+heading: '**Axiom 2.1 (δ-Curvature)**'
+parent_heading: '**2\. Curvature in δ-Geometry and Φ-Geometry**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The δ-layer admits a curvature operator: Rδ=\[∇δ,∇δ\],\\mathcal{R}\_\\delta
   \= \[\\nabla\_\\delta, \\nabla\_\\delta\],Rδ​=\[∇δ​,∇δ​\], encoding the energetic
   content of deviation: failures of flatness...'
-heading: '**Axiom 2.1 (δ-Curvature)**'
-id: GEN3-7403
-lines: 581-589
-location: genesis-3/the-physics-box-diagram::2-curvature-in-δ-geometry-and-φ-geometry::axiom-21-δ-curvature::b1
-parent_heading: '**2\. Curvature in δ-Geometry and Φ-Geometry**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- δ
+- ∇
+- deviation-generated
+- δ-adjacency
+- δ-layer
+aliases:
+- Bk348tl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.82051282051282
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

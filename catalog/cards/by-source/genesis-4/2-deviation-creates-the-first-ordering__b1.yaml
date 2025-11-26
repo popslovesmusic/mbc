@@ -1,13 +1,28 @@
+id: GEN4-7697
+location: genesis-4/meta-physics-axiom-box::i-genesis-layer-causality-begins-as-deviation-reachability::2-deviation-creates-the-first-ordering::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1381-1389
+heading: '**2\. Deviation creates the first ordering.**'
+parent_heading: '**I. GENESIS LAYER — Causality Begins as Deviation Reachability**'
 block_type: paragraph
-concepts:
-- reachability
-- δ
 excerpt: 'If one state can be reached from another by δ-steps: X⪯GenesisY  ⟺  Y=δn(X),X
   \\preceq\_{\\text{Genesis}} Y \\iff Y \= \\delta^n(X),X⪯Genesis​Y⟺Y=δn(X), then
   **X is before Y** in the most primitive se...'
-heading: '**2\. Deviation creates the first ordering.**'
-id: GEN4-7697
-lines: 1381-1389
-location: genesis-4/meta-physics-axiom-box::i-genesis-layer-causality-begins-as-deviation-reachability::2-deviation-creates-the-first-ordering::b1
-parent_heading: '**I. GENESIS LAYER — Causality Begins as Deviation Reachability**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- δ
+- δ-steps
+- X is before Y
+- δn
+- reachability
+aliases:
+- Bk375os
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.615384615384617
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

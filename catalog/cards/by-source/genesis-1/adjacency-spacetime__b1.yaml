@@ -1,10 +1,30 @@
-block_type: list
-concepts:
-- δ
-excerpt: '* A3.1 Adjacency from δ * A3.2 Dimension \= rank(δ) * A3.3 Time from δ-sequencing'
-heading: '**Adjacency → Spacetime**'
 id: GEN1-548
-lines: 629-635
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::8-summary-of-the-axioms::adjacency-spacetime::b1
-parent_heading: '**8\. Summary of the Axioms**'
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 629-635
+heading: '**Adjacency → Spacetime**'
+parent_heading: '**8\. Summary of the Axioms**'
+block_type: list
+excerpt: '* A3.1 Adjacency from δ * A3.2 Dimension \= rank(δ) * A3.3 Time from δ-sequencing'
+concepts:
+- Adjacency
+- δ
+- δ-sequencing
+aliases:
+- Bk003a
+tags:
+- A3
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A3

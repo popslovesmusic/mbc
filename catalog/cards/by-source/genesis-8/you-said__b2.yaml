@@ -1,13 +1,33 @@
+id: GEN8-9006
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::seal::you-said::b2
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1260-1262
+heading: '**You said:**'
+parent_heading: '**SEAL**'
 block_type: paragraph
+excerpt: 'Theorem: δ–Φ Unity ⇒ Meta-Einstein (formal proof)'
 concepts:
 - Meta-Einstein
 - Theorem
-- Φ
+- Proof
 - δ
-excerpt: 'Theorem: δ–Φ Unity ⇒ Meta-Einstein (formal proof)'
-heading: '**You said:**'
-id: GEN8-9006
-lines: 1260-1262
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::seal::you-said::b2
-parent_heading: '**SEAL**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+- Φ
+aliases:
+- Th996tu
+tags:
+- proof
+- low-uncertainty
+- theorem
+- δφ-unity-meta-einstein-formal-proof
+- definitive
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 62.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

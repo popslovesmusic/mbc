@@ -1,11 +1,26 @@
+id: GEN17-4798
+location: genesis-17/box-calculus::next-step-options::e-the-meta-genesis-differential-equation::b1
+source: genesis-17\box_calculus.md
+lines: 9521-9528
+heading: 'E. The Meta-Genesis Differential Equation:'
+parent_heading: ⭐ NEXT STEP OPTIONS
 block_type: paragraph
+excerpt: dΣdt=F(Σ;δ) dt dΣ
 concepts:
 - Σ
 - δ
-excerpt: dΣdt=F(Σ;δ) dt dΣ
-heading: 'E. The Meta-Genesis Differential Equation:'
-id: GEN17-4798
-lines: 9521-9528
-location: genesis-17/box-calculus::next-step-options::e-the-meta-genesis-differential-equation::b1
-parent_heading: ⭐ NEXT STEP OPTIONS
-source: genesis-17\box_calculus.md
+- Σdt
+aliases:
+- Bk110wo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

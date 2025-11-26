@@ -1,11 +1,23 @@
+id: GEN16-4085
+location: genesis-16/untitled-document::2-explicit-translation-λ-box::21-variables::b1
+source: genesis-16\Untitled_document.md
+lines: 4429-4441
+heading: '**2.1 Variables**'
+parent_heading: '**⭐ 2\. Explicit Translation λ → Box**'
 block_type: paragraph
+excerpt: 'T(x)=Bx\\mathcal{T}(x) \= B\_xT(x)=Bx​ where: * Σ(x) is the semantic placeholder'
 concepts:
 - Γ
 - Σ
-excerpt: 'T(x)=Bx\\mathcal{T}(x) \= B\_xT(x)=Bx​ where: * Σ(x) is the semantic placeholder'
-heading: '**2.1 Variables**'
-id: GEN16-4085
-lines: 4429-4441
-location: genesis-16/untitled-document::2-explicit-translation-λ-box::21-variables::b1
-parent_heading: '**⭐ 2\. Explicit Translation λ → Box**'
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk365mw
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

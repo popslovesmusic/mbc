@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: From a low-ℓ δ-mode asymmetry preserved under Φ.
-heading: '**7.1 Axis of Evil**'
 id: GEN12-1783
-lines: 983-985
 location: genesis-12/untitled-document::7-large-scale-anomalies-predicted-by-δ::71-axis-of-evil::b1
-parent_heading: '**7\. Large-Scale Anomalies (Predicted by δ)**'
 source: genesis-12\Untitled_document.md
+lines: 983-985
+heading: '**7.1 Axis of Evil**'
+parent_heading: '**7\. Large-Scale Anomalies (Predicted by δ)**'
+block_type: paragraph
+excerpt: From a low-ℓ δ-mode asymmetry preserved under Φ.
+concepts:
+- δ
+- Φ
+- δ-mode
+aliases:
+- Bk905fl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,29 @@
+id: GEN12-1718
+location: genesis-12/untitled-document::1-preliminaries-categories-and-functors::11-categories::category-π-observable-projections::b1
+source: genesis-12\Untitled_document.md
+lines: 51-57
+heading: '**Category Π (Observable Projections)**'
+parent_heading: '**1.1 Categories**'
 block_type: list
-concepts:
-- Π
 excerpt: '* **Objects:** Π-fields, spherical harmonic spectra, detector-level anisotropy
   maps. * **Morphisms:** observational projections, lensing operators, detector transformations.
   ---'
-heading: '**Category Π (Observable Projections)**'
-id: GEN12-1718
-lines: 51-57
-location: genesis-12/untitled-document::1-preliminaries-categories-and-functors::11-categories::category-π-observable-projections::b1
-parent_heading: '**1.1 Categories**'
-source: genesis-12\Untitled_document.md
+concepts:
+- detector-level
+- Π-fields
+- Π
+aliases:
+- Bk060of
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

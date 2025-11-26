@@ -1,11 +1,24 @@
+id: GEN20-6782
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::45-the-aggregate-operator-σςₐ::two-modes::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1575-1582
+heading: Two Modes
+parent_heading: 4.5 The Aggregate Operator (ΣΣₐ)
 block_type: paragraph
-concepts:
-- Σ
 excerpt: 'The operator comes in two main modes: 1. ΣΣₐ⁺ — constructive merging 2.
   ΣΣₐ⁻ — destructive merging (cancelling, subtractive, conflict-resolving)'
-heading: Two Modes
-id: GEN20-6782
-lines: 1575-1582
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::45-the-aggregate-operator-σςₐ::two-modes::b1
-parent_heading: 4.5 The Aggregate Operator (ΣΣₐ)
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Σ
+- conflict-resolving
+aliases:
+- Bk897to
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

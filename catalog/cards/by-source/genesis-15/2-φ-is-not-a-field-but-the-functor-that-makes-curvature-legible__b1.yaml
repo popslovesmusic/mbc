@@ -1,10 +1,25 @@
+id: GEN15-3109
+location: genesis-15/the-mass-curvature-projection-theorem::igsoa-monistic-interpretation::2-φ-is-not-a-field-but-the-functor-that-makes-curvature-legible::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 383-385
+heading: '**2 — Φ is not “a field” but the functor that makes curvature legible**'
+parent_heading: '**IGSOA Monistic Interpretation**'
 block_type: paragraph
+excerpt: Modes exist because Φ decomposes curvature.
 concepts:
 - Φ
-excerpt: Modes exist because Φ decomposes curvature.
-heading: '**2 — Φ is not “a field” but the functor that makes curvature legible**'
-id: GEN15-3109
-lines: 383-385
-location: genesis-15/the-mass-curvature-projection-theorem::igsoa-monistic-interpretation::2-φ-is-not-a-field-but-the-functor-that-makes-curvature-legible::b1
-parent_heading: '**IGSOA Monistic Interpretation**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+aliases:
+- Bk211me
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

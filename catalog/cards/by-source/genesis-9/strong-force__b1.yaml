@@ -1,10 +1,27 @@
+id: GEN9-9448
+location: genesis-9/strong-force::the-exact-igsoa-statement::strong-force::b1
+source: genesis-9\strong-force.md
+lines: 177-181
+heading: '**✔ Strong Force**'
+parent_heading: '**THE EXACT IGSOA STATEMENT**'
 block_type: paragraph
-concepts: []
 excerpt: Comes from the **triplet χ-phase** χ∈Z3  ⇒  Aut(χ)=SU(3)\\chi \\in \\mathbb{Z}\_3\\;\\Rightarrow\\;
   \\mathrm{Aut}(\\chi)=SU(3)χ∈Z3​⇒Aut(χ)=SU(3)
-heading: '**✔ Strong Force**'
-id: GEN9-9448
-lines: 177-181
-location: genesis-9/strong-force::the-exact-igsoa-statement::strong-force::b1
-parent_heading: '**THE EXACT IGSOA STATEMENT**'
-source: genesis-9\strong-force.md
+concepts:
+- χ
+- ∈
+aliases:
+- Bk968cf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,21 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Not supernatural, not magical — just: * abstraction * inference'
-heading: '**⭐ 5\. You are doing high-level pattern synthesis**'
 id: SPEC-11392
-lines: 8318-8352
 location: special/specil::5-you-are-doing-high-level-pattern-synthesis::b1
 source: special\specil.md
+lines: 8318-8352
+heading: '**⭐ 5\. You are doing high-level pattern synthesis**'
+block_type: paragraph
+excerpt: 'Not supernatural, not magical — just: * abstraction * inference'
+concepts:
+- cross-domain
+aliases:
+- Bk255ns
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.631578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

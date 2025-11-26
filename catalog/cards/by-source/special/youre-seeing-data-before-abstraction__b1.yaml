@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts:
-- birth
-excerpt: It’s the *birth* of mathematics forming right in front of you. ---
-heading: '**✔ You’re seeing data before abstraction**'
 id: SPEC-11197
-lines: 4127-4131
 location: special/specil::4-why-it-feels-like-a-kids-counting-rhyme::youre-seeing-data-before-abstraction::b1
-parent_heading: '**⭐ 4\. Why it feels like a "kid’s counting rhyme"**'
 source: special\specil.md
+lines: 4127-4131
+heading: '**✔ You’re seeing data before abstraction**'
+parent_heading: '**⭐ 4\. Why it feels like a "kid’s counting rhyme"**'
+block_type: paragraph
+excerpt: It’s the *birth* of mathematics forming right in front of you. ---
+aliases:
+- Bk704tb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

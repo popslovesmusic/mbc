@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- two
-excerpt: 'In 2D, adjacency has **two** independent freedoms: * X-like adjacency *
-  Y-like adjacency'
-heading: '**🌀 2\. In 2D: IGSOA \+ δ \= 6 modes**'
 id: SPEC-11082
-lines: 1695-1713
 location: special/specil::2-in-2d-igsoa-δ-6-modes::b1
 source: special\specil.md
+lines: 1695-1713
+heading: '**🌀 2\. In 2D: IGSOA \+ δ \= 6 modes**'
+block_type: paragraph
+excerpt: 'In 2D, adjacency has **two** independent freedoms: * X-like adjacency *
+  Y-like adjacency'
+concepts:
+- Y-like
+- X-like
+- two
+- two axes
+aliases:
+- Bk791ah
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

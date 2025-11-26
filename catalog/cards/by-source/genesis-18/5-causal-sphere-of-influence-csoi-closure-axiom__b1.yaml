@@ -1,12 +1,32 @@
+id: GEN18-5604
+location: genesis-18/sealed-axiom-box::the-monistic-consistency-axiom-box-supreme-closure::right-column-standard-physics-math-correspondence::5-causal-sphere-of-influence-csoi-closure-axiom::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 93-111
+heading: '**5\. Causal Sphere of Influence (CSOI) Closure Axiom**'
+parent_heading: '**Right Column — Standard Physics / Math Correspondence**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: '**IGSOA:** Causal structure is defined by **adjacency in δ**, not by spacetime.
   Cause(A,B)  ⟺  A⇝δB\\text{Cause}(A,B) \\iff A \\rightsquigarrow\_\\delta BCause(A,B)⟺A⇝δ​B'
-heading: '**5\. Causal Sphere of Influence (CSOI) Closure Axiom**'
-id: GEN18-5604
-lines: 93-111
-location: genesis-18/sealed-axiom-box::the-monistic-consistency-axiom-box-supreme-closure::right-column-standard-physics-math-correspondence::5-causal-sphere-of-influence-csoi-closure-axiom::b1
-parent_heading: '**Right Column — Standard Physics / Math Correspondence**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- IGSOA
+- δ
+- self-consistency
+- coarse-graining
+- Π-geometry
+- light-cone
+- Π
+- →
+- adjacency in δ
+- δB
+aliases:
+- Bk640ic
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

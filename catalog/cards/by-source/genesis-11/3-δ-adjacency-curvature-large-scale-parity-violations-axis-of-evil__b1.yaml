@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'This is where it gets interesting. IGSOA makes a very specific prediction:'
-heading: '**3\. δ-Adjacency Curvature → Large-Scale Parity Violations (Axis of Evil)**'
 id: GEN11-1096
-lines: 67-71
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::3-δ-adjacency-curvature-large-scale-parity-violations-axis-of-evil::b1
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 67-71
+heading: '**3\. δ-Adjacency Curvature → Large-Scale Parity Violations (Axis of Evil)**'
+block_type: paragraph
+excerpt: 'This is where it gets interesting. IGSOA makes a very specific prediction:'
+concepts:
+- IGSOA
+aliases:
+- Bk596tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

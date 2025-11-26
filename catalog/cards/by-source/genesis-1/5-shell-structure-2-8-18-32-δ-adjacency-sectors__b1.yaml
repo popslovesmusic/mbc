@@ -1,12 +1,31 @@
+id: GEN1-419
+location: genesis-1/the-first-geometry::the-δ-higgs-mass-tower-and-degeneracy-structure::5-shell-structure-2-8-18-32-δ-adjacency-sectors::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 918-933
+heading: '**5\. Shell Structure: 2, 8, 18, 32 (δ-Adjacency Sectors)**'
+parent_heading: '**The δ-Higgs Mass Tower and Degeneracy Structure**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Let the δ-Higgs vacuum manifold support a radial fractal stratification:
   S1,S2,S3,…\\mathcal{S}\_1, \\mathcal{S}\_2, \\mathcal{S}\_3, \\ldotsS1​,S2​,S3​,…
   where:'
-heading: '**5\. Shell Structure: 2, 8, 18, 32 (δ-Adjacency Sectors)**'
-id: GEN1-419
-lines: 918-933
-location: genesis-1/the-first-geometry::the-δ-higgs-mass-tower-and-degeneracy-structure::5-shell-structure-2-8-18-32-δ-adjacency-sectors::b1
-parent_heading: '**The δ-Higgs Mass Tower and Degeneracy Structure**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- δ
+- δ-Higgs
+- ∈
+- second-order
+- δ-curvature
+aliases:
+- Bk098lt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.273504273504273
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

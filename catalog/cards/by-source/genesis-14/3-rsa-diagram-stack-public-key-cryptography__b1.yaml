@@ -1,16 +1,33 @@
-block_type: paragraph
-concepts:
-- Ciphertext Layer
-- Layer
-- One-Way
-- Public Key
-- Way Algebraic Transformation
-- Π
-- Φ
-- δ
-excerpt: '`δ-secret primes (p, q)` `│` `▼`'
-heading: '**3\. RSA DIAGRAM STACK (Public-Key Cryptography)**'
 id: GEN14-2850
-lines: 858-873
 location: genesis-14/meta-math-and-cryptography::3-rsa-diagram-stack-public-key-cryptography::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 858-873
+heading: '**3\. RSA DIAGRAM STACK (Public-Key Cryptography)**'
+block_type: paragraph
+excerpt: '`δ-secret primes (p, q)` `│` `▼`'
+concepts:
+- Layer
+- Way Algebraic Transformation
+- δ-secret
+- One-Way
+- Π
+- δ
+- φ
+- Φ
+- Public Key
+- Ciphertext Layer
+aliases:
+- Bk744sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

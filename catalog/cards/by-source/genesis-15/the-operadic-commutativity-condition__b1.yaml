@@ -1,12 +1,30 @@
+id: GEN15-3427
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::6-the-cosmic-pipeline-as-an-operad-algebra-morphism::the-operadic-commutativity-condition::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 723-731
+heading: '**The Operadic Commutativity Condition**'
+parent_heading: '**6\. The Cosmic Pipeline as an Operad-Algebra Morphism**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'For each δ-operation δk\\delta\_kδk​: E(δk⋅(T1,…,Tn))=δk⋅(E(T1),…,E(Tn))E\\big(
   \\delta\_k \\cdot (T\_1,\\ldots,T\_n) \\big) \= \\delta\_k \\cdot \\big( E(T\_1),\\ldots,E(T\_n)
   \\big)E(δk​⋅(T1​,…,Tn​)...'
-heading: '**The Operadic Commutativity Condition**'
-id: GEN15-3427
-lines: 723-731
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::6-the-cosmic-pipeline-as-an-operad-algebra-morphism::the-operadic-commutativity-condition::b1
-parent_heading: '**6\. The Cosmic Pipeline as an Operad-Algebra Morphism**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- δk
+- Definition
+- δ-operation
+aliases:
+- Bk330fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

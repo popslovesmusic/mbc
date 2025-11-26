@@ -1,14 +1,30 @@
+id: GEN18-5172
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::7-no-singularity-finite-δ-peaksets-only::standard-physics::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 328-332
+heading: '**Standard Physics**'
+parent_heading: '**7\. No Singularity (Finite δ-Peaksets Only)**'
 block_type: paragraph
+excerpt: 'Quantum gravity replaces singularity with finite core: Rμνρσ\<∞.R\_{\\mu\\nu\\rho\\sigma}
+  \< \\infty.Rμνρσ​\<∞.'
 concepts:
 - μ
 - ν
+- ∞
 - ρ
 - σ
-excerpt: 'Quantum gravity replaces singularity with finite core: Rμνρσ\<∞.R\_{\\mu\\nu\\rho\\sigma}
-  \< \\infty.Rμνρσ​\<∞.'
-heading: '**Standard Physics**'
-id: GEN18-5172
-lines: 328-332
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::7-no-singularity-finite-δ-peaksets-only::standard-physics::b1
-parent_heading: '**7\. No Singularity (Finite δ-Peaksets Only)**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+aliases:
+- Bk615qg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,44 @@
+id: GEN13-2483
+location: genesis-13/what-biology-is-in-meta-genesis::3-sealed-axiom-box::the-meta-genesis-metabolic-axiom-δφπ-bioflux-axiom::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 323-349
+heading: '**⟡ The Meta-Genesis Metabolic Axiom (δ–Φ–Π BioFlux Axiom) ⟡**'
+parent_heading: '**3\. ⟡ Sealed Axiom Box ⟡**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Π
-- Φ
-- δ
 excerpt: '**Axiom (BioFlux):** A metabolic structure is any Π-closed domain in which:
   1. **δ-gradients persist across the boundary**'
-heading: '**⟡ The Meta-Genesis Metabolic Axiom (δ–Φ–Π BioFlux Axiom) ⟡**'
-id: GEN13-2483
-lines: 323-349
-location: genesis-13/what-biology-is-in-meta-genesis::3-sealed-axiom-box::the-meta-genesis-metabolic-axiom-δφπ-bioflux-axiom::b1
-parent_heading: '**3\. ⟡ Sealed Axiom Box ⟡**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- δ
+- Φ-dynamics convert δ into structured flows
+- Axiom
+- δ-gradients persist across the boundary
+- Φ
+- Φ-dynamics
+- Π-boundary
+- Box
+- self-reinforcing
+- →
+- δ-gradients
+- non-zero
+- Π-closed
+- δ-flux
+aliases:
+- Am655ab
+tags:
+- bioflux
+- low-uncertainty
+- axiom-box
+- axiom
+- definitive
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.78021978021978
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

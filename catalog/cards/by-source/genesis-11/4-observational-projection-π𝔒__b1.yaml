@@ -1,11 +1,28 @@
+id: GEN11-1278
+location: genesis-11/the-adjacency-wave-equation::axiomatic-content-sealed::4-observational-projection-π𝔒::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 550-558
+heading: '**4\. Observational Projection (Π→𝔒)**'
+parent_heading: '**Axiomatic Content (Sealed)**'
 block_type: paragraph
-concepts: []
 excerpt: 'The detector-level CMB sky is defined as: O(T)=CMB(G)∈P.\\mathfrak{O}(T)=\\mathrm{CMB}(G)
   \\in \\mathcal{P}.O(T)=CMB(G)∈P. 𝔒 projects curvature fields to **observable temperature/polarization
   maps**.'
-heading: '**4\. Observational Projection (Π→𝔒)**'
-id: GEN11-1278
-lines: 550-558
-location: genesis-11/the-adjacency-wave-equation::axiomatic-content-sealed::4-observational-projection-π𝔒::b1
-parent_heading: '**Axiomatic Content (Sealed)**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- ∈
+- detector-level
+aliases:
+- Bk505td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

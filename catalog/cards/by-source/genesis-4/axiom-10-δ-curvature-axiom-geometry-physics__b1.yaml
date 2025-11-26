@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- δ
-excerpt: 'The curvature derived from the δ-metric is: Rδ=Curv(g),R\_\\delta \= \\text{Curv}(g),Rδ​=Curv(g),
-  and the variational law satisfies the **Meta-Einstein Equation**:'
-heading: '**Axiom 10 — δ-Curvature Axiom (Geometry ⇒ Physics)**'
 id: GEN4-7865
-lines: 924-944
 location: genesis-4/the-first-adjacency::axiom-10-δ-curvature-axiom-geometry-physics::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 924-944
+heading: '**Axiom 10 — δ-Curvature Axiom (Geometry ⇒ Physics)**'
+block_type: paragraph
+excerpt: 'The curvature derived from the δ-metric is: Rδ=Curv(g),R\_\\delta \= \\text{Curv}(g),Rδ​=Curv(g),
+  and the variational law satisfies the **Meta-Einstein Equation**:'
+concepts:
+- Meta-Einstein
+- δ
+- Meta-Einstein Equation
+- δ-adjacency
+- δ-metric
+- Einstein Equation
+- δR
+aliases:
+- Bk713tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.217391304347828
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

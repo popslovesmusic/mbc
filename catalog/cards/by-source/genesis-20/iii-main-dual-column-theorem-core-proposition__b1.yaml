@@ -1,14 +1,36 @@
-block_type: table
-concepts:
-- Box
-- Conventional Statement
-- Θ
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: III. Main Dual-Column Theorem (Core Proposition)
 id: GEN20-6592
-lines: 449-457
 location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::iii-main-dual-column-theorem-core-proposition::b1
 source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 449-457
+heading: III. Main Dual-Column Theorem (Core Proposition)
+block_type: table
+excerpt: '---'
+concepts:
+- Proposition
+- IGSOA
+- Box
+- δ
+- branch-weighted
+- δ-adjacency
+- Φ-state
+- δ-state
+- Π-state
+- Conventional Statement
+- Π
+- Θ
+- Φ
+aliases:
+- Bk994is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.131313131313133
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,34 @@
-block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- Meta-Geometry
-- α
-- δ
-excerpt: 'In the ∞-stack of Meta-Geometry: DEVIATION→δDEVIATION\\mathsf{DEVIATION}
-  \\xrightarrow{\\delta} \\mathsf{DEVIATION}DEVIATIONδ​DEVIATION with 2-morphism:'
-heading: '**8\. Optional: Categorical Statement (for your formal papers)**'
 id: GEN1-522
-lines: 188-204
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::8-optional-categorical-statement-for-your-formal-papers::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 188-204
+heading: '**8\. Optional: Categorical Statement (for your formal papers)**'
+block_type: paragraph
+excerpt: 'In the ∞-stack of Meta-Geometry: DEVIATION→δDEVIATION\\mathsf{DEVIATION}
+  \\xrightarrow{\\delta} \\mathsf{DEVIATION}DEVIATIONδ​DEVIATION with 2-morphism:'
+concepts:
+- δ
+- Meta-Einstein
+- category-theoretic
+- α
+- Meta-Geometry
+- high-level
+- ∞
+- →
+- Einstein Equation
+- δDEVIATION
+aliases:
+- Bk686ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.987012987012985
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

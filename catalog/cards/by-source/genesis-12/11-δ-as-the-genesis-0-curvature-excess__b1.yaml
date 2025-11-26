@@ -1,14 +1,29 @@
+id: GEN12-1768
+location: genesis-12/untitled-document::1-preliminaries::11-δ-as-the-genesis-0-curvature-excess::b1
+source: genesis-12\Untitled_document.md
+lines: 758-778
+heading: '**1.1 δ as the Genesis-0 Curvature Excess**'
+parent_heading: '**1\. Preliminaries**'
 block_type: paragraph
-concepts:
-- At Genesis
-- Axiom
-- Φ
-- δ
 excerpt: 'At Genesis-0, the NOT Axiom forces: δ≠0.\\delta \\neq 0.δ=0. This minimal
   nonzero deviation is the seed of:'
-heading: '**1.1 δ as the Genesis-0 Curvature Excess**'
-id: GEN12-1768
-lines: 758-778
-location: genesis-12/untitled-document::1-preliminaries::11-δ-as-the-genesis-0-curvature-excess::b1
-parent_heading: '**1\. Preliminaries**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Axiom
+- δ
+- Φ-dynamics
+- ≠
+- Φ
+- curvature reaction
+- At Genesis
+aliases:
+- Bk579gt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

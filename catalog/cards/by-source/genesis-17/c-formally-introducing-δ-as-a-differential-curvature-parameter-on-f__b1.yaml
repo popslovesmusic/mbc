@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: (full differential-category structure)
-heading: C. Formally introducing δ as a differential curvature parameter on F?
 id: GEN17-4621
-lines: 7415-7417
 location: genesis-17/box-calculus::now-i-ask-you::c-formally-introducing-δ-as-a-differential-curvature-parameter-on-f::b1
-parent_heading: '⭐ Now I ask you:'
 source: genesis-17\box_calculus.md
+lines: 7415-7417
+heading: C. Formally introducing δ as a differential curvature parameter on F?
+parent_heading: '⭐ Now I ask you:'
+block_type: paragraph
+excerpt: (full differential-category structure)
+concepts:
+- differential-category
+aliases:
+- Bk102fd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

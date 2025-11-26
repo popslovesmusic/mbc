@@ -1,11 +1,27 @@
+id: INTK-9777
+location: intake/meta-genesis-core-papers-foundations::4-why-ψ₀-must-break-the-first-movement::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 353-369
+heading: '**4\. Why Ψ₀ Must Break (The First Movement)**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'The deviation instability principle states: Perfect symmetry in a non-empty
   substrate is dynamically unstable.\\text{Perfect symmetry in a non-empty substrate
   is dynamically unstable.}Perfect symmetry...'
-heading: '**4\. Why Ψ₀ Must Break (The First Movement)**'
-id: INTK-9777
-lines: 353-369
-location: intake/meta-genesis-core-papers-foundations::4-why-ψ₀-must-break-the-first-movement::b1
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- non-empty
+- Ψ
+- Ψ₀
+aliases:
+- Bk867td
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.454545454545454
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

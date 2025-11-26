@@ -1,12 +1,29 @@
+id: GEN5-8178
+location: genesis-5/the-ga-8-meta-einstein-theorem::8-final-statement::δ-enhances-this-into-full-δ-geometry::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 648-658
+heading: '**δ enhances this into full δ-geometry.**'
+parent_heading: '**8\. Final Statement**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Deviation supplies the weight assignment and curvature, turning the combinatorial
   metric into a geometric one. Thus: Adjacency  ⟹  d  ⟹  gδ\\boxed{\\text{Adjacency}
   \\;\\Longrightarrow\\; d \\;\\Longr...'
-heading: '**δ enhances this into full δ-geometry.**'
-id: GEN5-8178
-lines: 648-658
-location: genesis-5/the-ga-8-meta-einstein-theorem::8-final-statement::δ-enhances-this-into-full-δ-geometry::b1
-parent_heading: '**8\. Final Statement**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- Adjacency
+- Deviation
+- δ
+aliases:
+- Bk238ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

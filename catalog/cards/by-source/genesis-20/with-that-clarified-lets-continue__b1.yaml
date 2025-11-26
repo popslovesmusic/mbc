@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- "Beyond Classical Logic  \nClassical"
-- Semantic Gates
-- Φ
-excerpt: 'Proceeding exactly as requested: --- @@@ Chapter B2 — Semantic Gates: Beyond
-  Classical Logic'
-heading: ⭐ With that clarified — Let’s Continue
 id: GEN20-7181
-lines: 6845-6863
 location: genesis-20/mbc-40-documentaitio-1::with-that-clarified-lets-continue::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6845-6863
+heading: ⭐ With that clarified — Let’s Continue
+block_type: paragraph
+excerpt: 'Proceeding exactly as requested: --- @@@ Chapter B2 — Semantic Gates: Beyond
+  Classical Logic'
+concepts:
+- MBC
+- "Beyond Classical Logic  \nClassical"
+- context-sensitive
+- decision-making
+- multi-input
+- Φ-stability
+- Φ
+- Semantic Gates
+aliases:
+- Bk722pe
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.88888888888889
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

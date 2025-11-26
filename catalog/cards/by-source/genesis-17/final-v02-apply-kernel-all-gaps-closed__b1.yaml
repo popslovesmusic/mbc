@@ -1,13 +1,35 @@
-block_type: paragraph
-concepts:
-- Σ
-- Ω
-- η
-- τ
-excerpt: Apply(Op,Σ,Adj,Ω)={Opθ(Adj,Ω)(Σ,Adj,Ω)TypeOK∧AdjOK∧NOTOK∧FuelOK⊥otherwise
-  Apply(Op,Σ,Adj,Ω)={ Op
-heading: Final v0.2 “Apply” Kernel (All Gaps Closed)
 id: GEN17-4184
-lines: 457-493
 location: genesis-17/box-calculus::final-v02-apply-kernel-all-gaps-closed::b1
 source: genesis-17\box_calculus.md
+lines: 457-493
+heading: Final v0.2 “Apply” Kernel (All Gaps Closed)
+block_type: paragraph
+excerpt: Apply(Op,Σ,Adj,Ω)={Opθ(Adj,Ω)(Σ,Adj,Ω)TypeOK∧AdjOK∧NOTOK∧FuelOK⊥otherwise
+  Apply(Op,Σ,Adj,Ω)={ Op
+concepts:
+- ∧
+- Σ
+- Ω
+- τ
+- η
+- ∀
+- Δ
+- ∈
+- θ
+- ∃
+- E-class
+aliases:
+- Bk828aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.799999999999999
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

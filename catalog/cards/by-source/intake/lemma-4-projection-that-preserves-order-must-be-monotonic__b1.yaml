@@ -1,11 +1,30 @@
+id: INTK-10004
+location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-4-projection-that-preserves-order-must-be-monotonic::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 958-966
+heading: '**Lemma 4 — Projection that preserves order must be monotonic.**'
+parent_heading: '**4\. Full Formal Proof**'
 block_type: paragraph
-concepts: []
 excerpt: 'A projection πT\\pi\_TπT​ that preserves adjacency must satisfy: X⪯Y⇒πT(X)≤πT(Y).X\\preceq
   Y \\Rightarrow \\pi\_T(X)\\le \\pi\_T(Y).X⪯Y⇒πT​(X)≤πT​(Y). This is the definition
   of a **poset morphism**.'
-heading: '**Lemma 4 — Projection that preserves order must be monotonic.**'
-id: INTK-10004
-lines: 958-966
-location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-4-projection-that-preserves-order-must-be-monotonic::b1
-parent_heading: '**4\. Full Formal Proof**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- π
+- Definition
+- ≤
+- poset morphism
+aliases:
+- Bk114pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.75609756097561
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,32 @@
+id: GEN0-174
+location: genesis-0/tri-unity-theorem-equivalence-of::proof::step-1-δ-forces-adjacency::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 231-252
+heading: '**Step 1 — δ forces Adjacency**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Adjacency
-- Ψ
-- δ
 excerpt: 'In the zero-state Ψ0\\Psi\_0Ψ0​, there is no adjacency structure. Applying
   δ produces a *distinguishable perturbation*: δΨ0=Ψ1.\\delta \\Psi\_0 \= \\Psi\_1
   .δΨ0​=Ψ1​.'
-heading: '**Step 1 — δ forces Adjacency**'
-id: GEN0-174
-lines: 231-252
-location: genesis-0/tri-unity-theorem-equivalence-of::proof::step-1-δ-forces-adjacency::b1
-parent_heading: '**Proof**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- δ
+- Adjacency
+- ∃
+- ↔
+- non-identity
+- zero-state
+- creates adjacency
+- δkx
+aliases:
+- Bk464tz
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,15 +1,37 @@
-block_type: table
-concepts:
-- Geometry Narrative
-- Standard Physics Narrative
-- creates
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: '**4\. Why Expansion Was Violent**'
 id: GEN18-5150
-lines: 35-42
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::chapter-how-expansion-happened-before-time-existed::4-why-expansion-was-violent::b1
-parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 35-42
+heading: '**4\. Why Expansion Was Violent**'
+parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- δ
+- explodes into Φ-mode expansion
+- Φ
+- →
+- Inflaton-like
+- imaginary kinetic potential
+- Standard Physics Narrative
+- δ-Geometry
+- genesis of curvature flow
+- Π
+- Φ-mode
+- Geometry Narrative
+aliases:
+- Bk122sp
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.280254777070063
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

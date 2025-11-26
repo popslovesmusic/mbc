@@ -1,10 +1,25 @@
+id: GEN20-7113
+location: genesis-20/mbc-40-documentaitio-1::a23-formal-definition-of-a-connector-core-morphism::polarity-transform::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5712-5730
+heading: Polarity Transform
+parent_heading: A2.3 Formal Definition of a Connector (Core Morphism)
 block_type: paragraph
+excerpt: 'The connector transforms polarity as: Θout=Rf(Θin,Mf) Θ'
 concepts:
 - Θ
-excerpt: 'The connector transforms polarity as: Θout=Rf(Θin,Mf) Θ'
-heading: Polarity Transform
-id: GEN20-7113
-lines: 5712-5730
-location: genesis-20/mbc-40-documentaitio-1::a23-formal-definition-of-a-connector-core-morphism::polarity-transform::b1
-parent_heading: A2.3 Formal Definition of a Connector (Core Morphism)
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk652tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.8461538461538463
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

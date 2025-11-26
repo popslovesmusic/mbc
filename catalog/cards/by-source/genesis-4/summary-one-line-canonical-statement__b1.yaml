@@ -1,17 +1,37 @@
+id: GEN4-7866
+location: genesis-4/the-first-adjacency::summary-one-line-canonical-statement::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 946-960
+heading: '**Summary (One-Line Canonical Statement)**'
 block_type: paragraph
-concepts:
-- Adjacency Operator Algebra
-- Adjacency Projection Diagram Stack
-- First Connection Built
-- Foundation Layer Seal
-- Layer
-- Operator
-- δ
 excerpt: '**Adjacency is the unique, inevitable relational structure induced by deviation,
   and its closure under δ generates the full geometric and physical content of the
   universe.** --- If you want next, I ca...'
-heading: '**Summary (One-Line Canonical Statement)**'
-id: GEN4-7866
-lines: 946-960
-location: genesis-4/the-first-adjacency::summary-one-line-canonical-statement::b1
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Adjacency
+- δ
+- Foundation Layer
+- Projection
+- The δ-Adjacency Operator Algebra
+- δ-Adjacency
+- Operator
+- Layer
+- Adjacency Projection Diagram Stack
+- plain-English
+- Adjacency Operator Algebra
+- First Connection Built
+- δ-Higgs
+- Foundation Layer Seal
+- →
+aliases:
+- Bk620at
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.480519480519483
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

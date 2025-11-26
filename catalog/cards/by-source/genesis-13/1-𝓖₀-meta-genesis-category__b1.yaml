@@ -1,14 +1,30 @@
+id: GEN13-2400
+location: genesis-13/the-weight-of-light::0-architecture::1-𝓖₀-meta-genesis-category::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1948-1952
+heading: '**1\. 𝓖₀ — Meta-Genesis Category**'
+parent_heading: '**0\. Architecture**'
 block_type: paragraph
-concepts:
-- Genesis Actions
-- Meta-Time
-- Ψ
-- δ
 excerpt: 'Objects: primal asymmetries, Genesis states Ψ0,Ψ1Ψ\_0, Ψ\_1Ψ0​,Ψ1​ Morphisms:
   Meta-Time transitions, “Genesis Actions” Structure: deviation primacy (δ-seed)'
-heading: '**1\. 𝓖₀ — Meta-Genesis Category**'
-id: GEN13-2400
-lines: 1948-1952
-location: genesis-13/the-weight-of-light::0-architecture::1-𝓖₀-meta-genesis-category::b1
-parent_heading: '**0\. Architecture**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Meta-Time
+- Ψ
+- δ-seed
+- δ
+- Genesis Actions
+aliases:
+- Bk412op
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.727272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

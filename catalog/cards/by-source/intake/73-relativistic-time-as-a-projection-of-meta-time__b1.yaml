@@ -1,17 +1,32 @@
+id: INTK-10851
+location: intake/volume-i-core-ontology-and-metagenesis-summary::73-relativistic-time-as-a-projection-of-meta-time::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3184-3220
+heading: '**7.3 Relativistic Time as a Projection of Meta-Time**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Relativistic Time
-- Π
-- Ψ
-- μ
-- ν
-- τ
 excerpt: 'Relativistic time arises when deviation modes “condense” into a **metric
   structure** on a 4-dimensional manifold. The key result is: Relativistic Time=Projection
   of Meta-Time along causal deformation ...'
-heading: '**7.3 Relativistic Time as a Projection of Meta-Time**'
-id: INTK-10851
-lines: 3184-3220
-location: intake/volume-i-core-ontology-and-metagenesis-summary::73-relativistic-time-as-a-projection-of-meta-time::b1
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- μ
+- ν
+- Π
+- τ
+- Meta-Time
+- Projection
+- Relativistic Time
+- deviation-curvature
+- Ψ
+- metric structure
+aliases:
+- Bk263rt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.504504504504505
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

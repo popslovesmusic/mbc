@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '`Premises/relations` `↓` `Semantic unification / typing`'
-heading: '**Standard logic-side (formal reasoning)**'
 id: GEN18-5371
-lines: 198-208
 location: genesis-18/mbc-4::0-overview-diagram::standard-logic-side-formal-reasoning::b1
-parent_heading: '**0\. Overview Diagram**'
 source: genesis-18\MBC-4.md
+lines: 198-208
+heading: '**Standard logic-side (formal reasoning)**'
+parent_heading: '**0\. Overview Diagram**'
+block_type: paragraph
+excerpt: '`Premises/relations` `↓` `Semantic unification / typing`'
+aliases:
+- Bk022pr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

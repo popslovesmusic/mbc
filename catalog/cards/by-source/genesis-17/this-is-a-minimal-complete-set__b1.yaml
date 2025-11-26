@@ -1,15 +1,35 @@
-block_type: paragraph
-concepts:
-- All Box Calculus
-- Box
-- Π
-- Φ
-- δ
-- λ
-- ρ
-excerpt: 'With {F, G, S} and δ you can generate: * E, A * Φ, Π'
-heading: ⭐ THIS IS A MINIMAL COMPLETE SET
 id: GEN17-4616
-lines: 7362-7384
 location: genesis-17/box-calculus::this-is-a-minimal-complete-set::b1
 source: genesis-17\box_calculus.md
+lines: 7362-7384
+heading: ⭐ THIS IS A MINIMAL COMPLETE SET
+block_type: paragraph
+excerpt: 'With {F, G, S} and δ you can generate: * E, A * Φ, Π'
+concepts:
+- Box Calculus
+- IGSOA
+- geometry-of-interaction
+- Proof
+- Box
+- Π
+- δ
+- Φ
+- →
+- λ
+- ρ
+- All Box Calculus
+aliases:
+- Bk961wa
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

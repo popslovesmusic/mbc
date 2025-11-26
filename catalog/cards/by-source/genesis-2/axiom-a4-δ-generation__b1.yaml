@@ -1,15 +1,37 @@
+id: GEN2-6541
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a2-deviational-structure::axiom-a4-δ-generation::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 974-996
+heading: '**Axiom A4 (δ-Generation).**'
+parent_heading: '**A.2 Deviational Structure**'
 block_type: paragraph
-concepts:
-- Non-invertibility
-- exactly
-- Φ
-- δ
-- σ
 excerpt: 'For all objects X∈MGX \\in MGX∈MG, there exists a morphism: δX:X→δX(A.2.1)\\delta\_X
   : X \\to \\delta X \\tag{A.2.1}δX​:X→δX(A.2.1) which satisfies:'
-heading: '**Axiom A4 (δ-Generation).**'
-id: GEN2-6541
-lines: 974-996
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a2-deviational-structure::axiom-a4-δ-generation::b1
-parent_heading: '**A.2 Deviational Structure**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- δ
+- Φ
+- δX
+- σ
+- Left-exactness under Φ
+- Lemma
+- Non-invertibility
+- ∈
+- →
+- Left-exactness
+- Naturality in X
+- exactly
+aliases:
+- Bk586fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

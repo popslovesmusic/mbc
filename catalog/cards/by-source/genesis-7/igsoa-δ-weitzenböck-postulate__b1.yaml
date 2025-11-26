@@ -1,18 +1,38 @@
+id: GEN7-8555
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::1-the-starting-point-δ-weitzenböck-geometry::igsoa-δ-weitzenböck-postulate::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 18-31
+heading: '**IGSOA δ-Weitzenböck Postulate**'
+parent_heading: '**1\. The Starting Point: δ-Weitzenböck Geometry**'
 block_type: paragraph
-concepts:
-- Deviation
-- Meta-Genesis
-- Γ
-- δ
-- μ
-- ν
-- ρ
 excerpt: 'The basic geometric defect is **Deviation** δ\\deltaδ, encoded as torsion:
   Tρμν  =  δρμν.T^\\rho{}\_{\\mu\\nu} \\;=\\; \\delta^\\rho{}\_{\\mu\\nu}.Tρμν​=δρμν​.
   And the connection is **purely torsional...'
-heading: '**IGSOA δ-Weitzenböck Postulate**'
-id: GEN7-8555
-lines: 18-31
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::1-the-starting-point-δ-weitzenböck-geometry::igsoa-δ-weitzenböck-postulate::b1
-parent_heading: '**1\. The Starting Point: δ-Weitzenböck Geometry**'
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- μ
+- ν
+- ρ
+- δ
+- Meta-Genesis
+- Deviation
+- purely torsional but δ-generated
+- δ produces geometry before curvature exists
+- Γ
+- ∂
+- curvature-free
+- structure-rich
+- δ-generated
+aliases:
+- Bk951tb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.66265060240964
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

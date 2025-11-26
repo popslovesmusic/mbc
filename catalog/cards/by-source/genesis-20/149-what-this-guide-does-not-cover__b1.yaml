@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: 'These belong in the advanced volume: * advanced routers * semantic gates'
-heading: 14.9 What This Guide Does Not Cover
 id: GEN20-7040
-lines: 4837-4851
 location: genesis-20/mbc-40-documentaitio-1::conclusion::149-what-this-guide-does-not-cover::b1
-parent_heading: ⭐ Conclusion
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4837-4851
+heading: 14.9 What This Guide Does Not Cover
+parent_heading: ⭐ Conclusion
+block_type: paragraph
+excerpt: 'These belong in the advanced volume: * advanced routers * semantic gates'
+concepts:
+- implementation-focused
+- higher-category
+- multi-input
+aliases:
+- Bk165tb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

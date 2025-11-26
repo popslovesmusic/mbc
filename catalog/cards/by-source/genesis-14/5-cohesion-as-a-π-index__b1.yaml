@@ -1,13 +1,29 @@
+id: GEN14-3028
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iv-derivation-structure::5-cohesion-as-a-π-index::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1570-1590
+heading: '**5\. Cohesion as a Π-Index**'
+parent_heading: '**IV. DERIVATION STRUCTURE**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'The cohesion of a condensed matter system is: Cohesion=Π(Φ(Aδ))\\text{Cohesion}
   \= \\Pi\\big(\\Phi(\\mathcal{A}\_\\delta)\\big)Cohesion=Π(Φ(Aδ​)) This Π-index measures:'
-heading: '**5\. Cohesion as a Π-Index**'
-id: GEN14-3028
-lines: 1570-1590
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iv-derivation-structure::5-cohesion-as-a-π-index::b1
-parent_heading: '**IV. DERIVATION STRUCTURE**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Π
+- δ
+- Φ
+- Π-index
+aliases:
+- Bk907tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

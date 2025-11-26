@@ -1,15 +1,39 @@
-block_type: paragraph
-concepts:
-- Box
-- Diagram Stack Box
-- Galaxy Evolution Phase Diagram
-- Π
-- Φ
-- δ
-excerpt: 'This is the distilled “IGSOA signature line” for this chain: δ→  Φ1  Bi→  Φ2  Ki→  Π  Gi→  ∂t  Gi(t).\\boxed{
-  \\delta \\xrightarrow{\\;\\Phi\_1\\;} B\_i \\xrightarrow{\\;\\Phi\_2\\;} K\_i \\xrightarro...'
-heading: '**5\. Ultra-Compact One-Line Version**'
 id: GEN12-1945
-lines: 3372-3390
 location: genesis-12/untitled-document::5-ultra-compact-one-line-version::b1
 source: genesis-12\Untitled_document.md
+lines: 3372-3390
+heading: '**5\. Ultra-Compact One-Line Version**'
+block_type: paragraph
+excerpt: 'This is the distilled “IGSOA signature line” for this chain: δ→  Φ1  Bi→  Φ2  Ki→  Π  Gi→  ∂t  Gi(t).\\boxed{
+  \\delta \\xrightarrow{\\;\\Phi\_1\\;} B\_i \\xrightarrow{\\;\\Phi\_2\\;} K\_i \\xrightarro...'
+concepts:
+- δ
+- IGSOA
+- Φ
+- A full visual-style diagram set in TikZ
+- →
+- Π
+- Box
+- ∂
+- ↔
+- Galaxy Evolution Phase Diagram
+- visual-style
+- color-coded
+- Diagram Stack Box
+- δ₉
+- δ₃
+aliases:
+- Bk514tt
+tags:
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.414414414414415
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

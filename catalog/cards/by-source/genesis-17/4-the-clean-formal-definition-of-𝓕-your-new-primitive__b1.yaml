@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Putting B \+ E together gives:'
-heading: ⭐ 4\. The clean formal definition of 𝓕 (your new primitive)
 id: GEN17-4698
-lines: 8182-8184
 location: genesis-17/box-calculus::4-the-clean-formal-definition-of-𝓕-your-new-primitive::b1
 source: genesis-17\box_calculus.md
+lines: 8182-8184
+heading: ⭐ 4\. The clean formal definition of 𝓕 (your new primitive)
+block_type: paragraph
+excerpt: 'Putting B \+ E together gives:'
+aliases:
+- Bk304pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'I can generate:'
-heading: '**Would you like the next step?**'
 id: GEN9-9422
-lines: 1338-1340
 location: genesis-9/is-the-source-of-all-structure::would-you-like-the-next-step::b1
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 1338-1340
+heading: '**Would you like the next step?**'
+block_type: paragraph
+excerpt: 'I can generate:'
+aliases:
+- Bk197cg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,32 @@
+id: GEN1-531
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::2-deviational-structure::axiom-22-non-integrability-of-δ::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 348-364
+heading: '**Axiom 2.2 — Non-Integrability of δ.**'
+parent_heading: '**2\. Deviational Structure**'
 block_type: paragraph
-concepts:
-- non-trivially
-- Ψ
-- δ
 excerpt: 'Deviation composes **non-trivially**: \[δ,δ\]≠0.\[\\delta,\\delta\] \\neq
   0.\[δ,δ\]=0. This non-zero commutator is the primitive form of curvature.'
-heading: '**Axiom 2.2 — Non-Integrability of δ.**'
-id: GEN1-531
-lines: 348-364
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::2-deviational-structure::axiom-22-non-integrability-of-δ::b1
-parent_heading: '**2\. Deviational Structure**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Deviation
+- non-trivially
+- non-zero
+- ≠
+- Ψ
+- Ψ₀
+aliases:
+- Bk986dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.475409836065573
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

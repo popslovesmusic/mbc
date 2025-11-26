@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Ciphertext Projection
-- Keyed Round Transform
-- Π
-- Φ
-- δ
-excerpt: '`δ-key (128/192/256-bit entropy)` `│` `▼`'
-heading: '**2\. BLOCK CIPHER DIAGRAM STACK (AES)**'
 id: GEN14-2848
-lines: 828-844
 location: genesis-14/meta-math-and-cryptography::2-block-cipher-diagram-stack-aes::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 828-844
+heading: '**2\. BLOCK CIPHER DIAGRAM STACK (AES)**'
+block_type: paragraph
+excerpt: '`δ-key (128/192/256-bit entropy)` `│` `▼`'
+concepts:
+- Projection
+- δ
+- Transform
+- δ-key
+- round-key
+- Keyed Round Transform
+- Ciphertext Projection
+- Π
+- Φ
+aliases:
+- Bk893kb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.324324324324326
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

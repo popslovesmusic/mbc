@@ -1,11 +1,27 @@
+id: INTK-9687
+location: intake/axioms-geometry::section-6-consistency-checks-self-consistency-tests::test-4-projection-invariance-test::b1
+source: intake\Axioms-geometry.md
+lines: 605-615
+heading: '**Test 4 – Projection Invariance Test**'
+parent_heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Physical laws (GR, QM, δ-EFT) under projection must preserve: * ordering
   * covariance'
-heading: '**Test 4 – Projection Invariance Test**'
-id: INTK-9687
-lines: 605-615
-location: intake/axioms-geometry::section-6-consistency-checks-self-consistency-tests::test-4-projection-invariance-test::b1
-parent_heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
-source: intake\Axioms-geometry.md
+concepts:
+- δ
+- δ-EFT
+aliases:
+- Bk857pl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

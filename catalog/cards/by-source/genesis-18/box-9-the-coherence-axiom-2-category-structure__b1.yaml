@@ -1,12 +1,30 @@
-block_type: table
-concepts:
-- Box
-- Sealed Consequence
-- δ
-excerpt: '*(Sealed)* Box=(Ob,Hom1,Hom2)\\mathbf{Box} \= (\\mathrm{Ob},\\mathrm{Hom}\_1,\\mathrm{Hom}\_2)Box=(Ob,Hom1​,Hom2​)
-  **Sealed Consequence:**'
-heading: '**BOX 9 — The Coherence Axiom (2-Category Structure)**'
 id: GEN18-5243
-lines: 1437-1454
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::box-9-the-coherence-axiom-2-category-structure::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1437-1454
+heading: '**BOX 9 — The Coherence Axiom (2-Category Structure)**'
+block_type: table
+excerpt: '*(Sealed)* Box=(Ob,Hom1,Hom2)\\mathbf{Box} \= (\\mathrm{Ob},\\mathrm{Hom}\_1,\\mathrm{Hom}\_2)Box=(Ob,Hom1​,Hom2​)
+  **Sealed Consequence:**'
+concepts:
+- MBC
+- Box
+- IGSOA
+- δ
+- Sealed Consequence
+aliases:
+- Bk972ss
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.434782608695652
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

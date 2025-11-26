@@ -1,9 +1,20 @@
-block_type: paragraph
-concepts: []
-excerpt: '*(symbolic diagrams only; no prose)*'
-heading: '**B. A 1-page diagrammatic version**'
 id: GEN14-2878
-lines: 1320-1322
 location: genesis-14/meta-math-and-cryptography::if-you-want-i-can-now-generate::b-a-1-page-diagrammatic-version::b1
-parent_heading: '**If you want, I can now generate:**'
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1320-1322
+heading: '**B. A 1-page diagrammatic version**'
+parent_heading: '**If you want, I can now generate:**'
+block_type: paragraph
+excerpt: '*(symbolic diagrams only; no prose)*'
+aliases:
+- Bk239sd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

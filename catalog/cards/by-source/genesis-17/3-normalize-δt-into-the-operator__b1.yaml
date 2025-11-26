@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Σ
-- δ
-excerpt: Box Calculus enforces a single operator F F.
-heading: 🔷 3\. Normalize Δt into the Operator
 id: GEN17-4860
-lines: 10481-10510
 location: genesis-17/box-calculus::derivation-continuous-mgde-discrete-mbc-step-rule::3-normalize-δt-into-the-operator::b1
-parent_heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
 source: genesis-17\box_calculus.md
+lines: 10481-10510
+heading: 🔷 3\. Normalize Δt into the Operator
+parent_heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
+block_type: paragraph
+excerpt: Box Calculus enforces a single operator F F.
+concepts:
+- Box Calculus
+- δ
+- Σ
+- Box
+- Δ
+- δn
+- →
+- Σn
+aliases:
+- Bk487bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.545454545454545
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

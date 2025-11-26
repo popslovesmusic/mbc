@@ -1,9 +1,29 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-excerpt: 'Physical time relies on: * metric * curvature'
-heading: '**4\. Why Meta-Time is Not Physical Time**'
 id: INTK-9892
-lines: 1759-1791
 location: intake/meta-genesis-core-papers-foundations::4-why-meta-time-is-not-physical-time::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1759-1791
+heading: '**4\. Why Meta-Time is Not Physical Time**'
+block_type: paragraph
+excerpt: 'Physical time relies on: * metric * curvature'
+concepts:
+- Meta-Time
+- non-relativistic
+- energy-momentum
+- non-geometric
+- non-metric
+- non-local
+aliases:
+- Bk810pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

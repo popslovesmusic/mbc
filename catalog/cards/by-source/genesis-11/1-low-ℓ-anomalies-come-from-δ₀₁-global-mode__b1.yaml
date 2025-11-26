@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Prediction: * quadrupole/octopole alignment * large-scale parity violation'
-heading: '**1\. Low-ℓ anomalies come from δ₀₁ global mode**'
 id: GEN11-1160
-lines: 932-949
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::i-cmb-scale-predictions::1-low-ℓ-anomalies-come-from-δ₀₁-global-mode::b1
-parent_heading: '**I. CMB-Scale Predictions**'
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 932-949
+heading: '**1\. Low-ℓ anomalies come from δ₀₁ global mode**'
+parent_heading: '**I. CMB-Scale Predictions**'
+block_type: paragraph
+excerpt: 'Prediction: * quadrupole/octopole alignment * large-scale parity violation'
+concepts:
+- large-scale
+- Cross-correlate
+- structural fossils
+aliases:
+- Bk381pq
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

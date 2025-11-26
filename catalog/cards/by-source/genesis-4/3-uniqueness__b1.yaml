@@ -1,10 +1,21 @@
+id: GEN4-7615
+location: genesis-4/meta-physics-axiom-box::conclusion::3-uniqueness::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 368-373
+heading: '**3\. Uniqueness**'
+parent_heading: '**Conclusion**'
 block_type: paragraph
-concepts: []
 excerpt: Because a free monogenic category has no degrees of freedom, any two candidates
   for F are naturally isomorphic. ---
-heading: '**3\. Uniqueness**'
-id: GEN4-7615
-lines: 368-373
-location: genesis-4/meta-physics-axiom-box::conclusion::3-uniqueness::b1
-parent_heading: '**Conclusion**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+aliases:
+- Bk046bf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

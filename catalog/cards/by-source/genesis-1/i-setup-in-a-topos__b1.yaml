@@ -1,13 +1,30 @@
+id: GEN1-499
+location: genesis-1/the-foundation-layer::i-setup-in-a-topos::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1259-1285
+heading: '**I. Setup in a Topos**'
 block_type: paragraph
-concepts:
-- Axiom
-- not
-- Ψ
 excerpt: Let **𝓣** be a topos representing the universe of possible states. Objects
   of 𝓣 represent “structured states” or “configurations.” Morphisms in 𝓣 represent
   admissible operations.
-heading: '**I. Setup in a Topos**'
-id: GEN1-499
-lines: 1259-1285
-location: genesis-1/the-foundation-layer::i-setup-in-a-topos::b1
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- Axiom
+- Ψ₀
+- no admissible endomorphisms
+- zero-state
+- ∈
+- no internal structure
+- not
+aliases:
+- Bk444lt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.51063829787234
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

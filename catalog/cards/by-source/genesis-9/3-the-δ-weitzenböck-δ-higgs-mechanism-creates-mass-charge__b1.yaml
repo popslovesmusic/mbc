@@ -1,11 +1,31 @@
-block_type: paragraph
-concepts:
-- Γ
-- δ
-excerpt: 'The Weitzenböck sector contributes torsion-like deviations: T=δΓ−ΓΓT \=
-  \\delta \\Gamma \- \\Gamma \\GammaT=δΓ−ΓΓ Feeding into the δ-Higgs potential:'
-heading: '**3\. The δ-Weitzenböck → δ-Higgs mechanism creates mass \+ charge**'
 id: GEN9-9332
-lines: 46-69
 location: genesis-9/is-the-source-of-all-structure::3-the-δ-weitzenböck-δ-higgs-mechanism-creates-mass-charge::b1
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 46-69
+heading: '**3\. The δ-Weitzenböck → δ-Higgs mechanism creates mass \+ charge**'
+block_type: paragraph
+excerpt: 'The Weitzenböck sector contributes torsion-like deviations: T=δΓ−ΓΓT \=
+  \\delta \\Gamma \- \\Gamma \\GammaT=δΓ−ΓΓ Feeding into the δ-Higgs potential:'
+concepts:
+- δ
+- Γ
+- δ-boson mass tower
+- torsion-like
+- δ-Hessian
+- δ-boson
+- δ-Higgs
+aliases:
+- Bk305ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.974358974358974
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

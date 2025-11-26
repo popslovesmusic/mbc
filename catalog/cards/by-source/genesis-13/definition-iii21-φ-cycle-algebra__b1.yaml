@@ -1,12 +1,35 @@
+id: GEN13-2569
+location: genesis-13/what-biology-is-in-meta-genesis::section-iii2-c-algebra-of-φ-mode-cycles::definition-iii21-φ-cycle-algebra::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1543-1568
+heading: '**Definition III.2.1 (Φ-Cycle Algebra).**'
+parent_heading: '**SECTION III.2 — C\*-Algebra of Φ-Mode Cycles**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'The **Φ-cycle algebra** CΦ\\mathcal{C}\_\\PhiCΦ​ is: CΦ:=C∗(UR)⊂B(H)\\mathcal{C}\_\\Phi
   := C^\*(U\_R) \\subset \\mathcal{B}(\\mathcal{H})CΦ​:=C∗(UR​)⊂B(H) where:'
-heading: '**Definition III.2.1 (Φ-Cycle Algebra).**'
-id: GEN13-2569
-lines: 1543-1568
-location: genesis-13/what-biology-is-in-meta-genesis::section-iii2-c-algebra-of-φ-mode-cycles::definition-iii21-φ-cycle-algebra::b1
-parent_heading: '**SECTION III.2 — C\*-Algebra of Φ-Mode Cycles**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Φ
+- ∈
+- θ
+- ⊂
+- Φ-cycle algebra
+- δ-gradient
+- Φ-harmonic
+- Φ-cycle
+- δ
+- workhorse structure
+aliases:
+- Bk928tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.462686567164178
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

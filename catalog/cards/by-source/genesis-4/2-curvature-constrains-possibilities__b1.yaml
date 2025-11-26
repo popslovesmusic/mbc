@@ -1,10 +1,23 @@
+id: GEN4-7924
+location: genesis-4/the-first-adjacency::3-why-patterns-must-stabilize-meta-reason::2-curvature-constrains-possibilities::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 2026-2029
+heading: '**(2) Curvature constrains possibilities**'
+parent_heading: '**3\. Why Patterns Must Stabilize (Meta-Reason)**'
 block_type: paragraph
-concepts: []
 excerpt: Once adjacency bends, only certain relational motifs can fit the curvature.
   These motifs survive; incompatible ones do not.
-heading: '**(2) Curvature constrains possibilities**'
-id: GEN4-7924
-lines: 2026-2029
-location: genesis-4/the-first-adjacency::3-why-patterns-must-stabilize-meta-reason::2-curvature-constrains-possibilities::b1
-parent_heading: '**3\. Why Patterns Must Stabilize (Meta-Reason)**'
-source: genesis-4\The_First_Adjacency.md
+aliases:
+- Bk648oa
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

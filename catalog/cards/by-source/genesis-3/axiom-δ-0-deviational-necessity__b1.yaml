@@ -1,17 +1,34 @@
+id: GEN3-7344
+location: genesis-3/metagenesis::deviational-axioms::axiom-δ-0-deviational-necessity::b1
+source: genesis-3\metagenesis.md
+lines: 1031-1044
+heading: '**Axiom δ-0 (Deviational Necessity)**'
+parent_heading: '**DEVIATIONAL AXIOMS**'
 block_type: paragraph
-concepts:
-- Axiom
-- Deviational Principle
-- The Zero
-- Zero-State
-- Ψ
-- δ
 excerpt: 'Perfect stillness cannot exist. The Zero-State Ψ₀ is unstable under the
   Deviational Principle: Ψ0→  δ  δΨ0\\boxed{ \\Psi\_0 \\xrightarrow{\\;\\delta\\;}
   \\delta\\Psi\_0 }Ψ0​δ​δΨ0​​'
-heading: '**Axiom δ-0 (Deviational Necessity)**'
-id: GEN3-7344
-lines: 1031-1044
-location: genesis-3/metagenesis::deviational-axioms::axiom-δ-0-deviational-necessity::b1
-parent_heading: '**DEVIATIONAL AXIOMS**'
-source: genesis-3\metagenesis.md
+concepts:
+- Ψ
+- Deviation
+- δ
+- Axiom
+- State
+- Zero-State
+- Deviational Principle
+- →
+- axiomatic emergence
+- The Zero
+- Ψ₀
+aliases:
+- Bk322ps
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 19.298245614035086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

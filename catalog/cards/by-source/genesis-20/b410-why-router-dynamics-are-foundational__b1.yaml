@@ -1,11 +1,25 @@
-block_type: paragraph
-concepts:
-- Metadata Evolution
-- Statistical Updating
-excerpt: 'Router dynamics are essential because they determine: * how meaning flows
-  * how networks stabilize'
-heading: B4.10 Why Router Dynamics Are Foundational
 id: GEN20-7251
-lines: 7905-7923
 location: genesis-20/mbc-40-documentaitio-1::b410-why-router-dynamics-are-foundational::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7905-7923
+heading: B4.10 Why Router Dynamics Are Foundational
+block_type: paragraph
+excerpt: 'Router dynamics are essential because they determine: * how meaning flows
+  * how networks stabilize'
+concepts:
+- Router
+- multi-input
+- Statistical Updating
+- Metadata Evolution
+aliases:
+- Bk980rd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

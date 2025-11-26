@@ -1,15 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Causal Monism Theorem
-- Foundation Layer Seal
-- Layer
-- Meta-Causal
-- Theorem
-excerpt: ✔ A **diagrammatic version** (Mermaid / TikZ) ✔ A **2-page polished white-paper
-  insertion** ✔ A **plain-English outreach version**
-heading: '**✦ If you want, I can now produce:**'
 id: GEN4-7790
-lines: 1218-1226
 location: genesis-4/the-adjoint-triple::if-you-want-i-can-now-produce::b1
 source: genesis-4\The_Adjoint_Triple.md
+lines: 1218-1226
+heading: '**✦ If you want, I can now produce:**'
+block_type: paragraph
+excerpt: ✔ A **diagrammatic version** (Mermaid / TikZ) ✔ A **2-page polished white-paper
+  insertion** ✔ A **plain-English outreach version**
+concepts:
+- Foundation Layer
+- Theorem
+- plain-English outreach version
+- Axiom
+- Meta-Causal Monism Theorem
+- Layer
+- plain-English
+- white-paper
+- Meta-Causal
+- Causal Monism Theorem
+- Foundation Layer Seal
+- diagrammatic version
+aliases:
+- Bk676dv
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 29.268292682926827
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

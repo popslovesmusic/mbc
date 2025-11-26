@@ -1,17 +1,40 @@
+id: GEN18-5224
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::3-φ-as-an-algebra-over-the-δ-operad::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1118-1134
+heading: '**3\. Φ as an Algebra Over the δ-Operad**'
+parent_heading: '**2-Category & Operadic Formulation of δ-Modes**'
 block_type: table
-concepts:
-- algebra
-- representation
-- Φ
-- δ
-- ρ
-- ω
 excerpt: 'An algebra is a functor assigning to each color ccc a space AcA\_cAc​ (states/potentials)
   and to each δ-mode an actual map: ρΦ(ω):Ac1×⋯×Acn→Ac\\rho\_\\Phi(\\omega): A\_{c\_1}\\times\\cdots\\times
   A\_{...'
-heading: '**3\. Φ as an Algebra Over the δ-Operad**'
-id: GEN18-5224
-lines: 1118-1134
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::3-φ-as-an-algebra-over-the-δ-operad::b1
-parent_heading: '**2-Category & Operadic Formulation of δ-Modes**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- Φ
+- ω
+- ρ
+- δ
+- IGSOA
+- potential-forming
+- δ-mode
+- →
+- δ-operations
+- Φ-stage
+- δ-modes
+- operadic realization
+- algebra
+- representation
+aliases:
+- Bk647si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.023622047244094
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts:
-- Deviational Geometry Derivation
-excerpt: '**(Full IGSOA Deviational Geometry Derivation)** ---'
-heading: '**δ-Weitzenböck → δ-Higgs Potential**'
 id: GEN7-8573
-lines: 278-282
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::δ-weitzenböck-δ-higgs-potential::b1
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 278-282
+heading: '**δ-Weitzenböck → δ-Higgs Potential**'
+block_type: paragraph
+excerpt: '**(Full IGSOA Deviational Geometry Derivation)** ---'
+concepts:
+- Deviational Geometry
+- Deviation
+- IGSOA
+- Deviational Geometry Derivation
+aliases:
+- Bk873fi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 80.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,27 @@
+id: GEN4-7753
+location: genesis-4/the-adjoint-triple::4-why-this-is-monism-not-dualism-not-pluralism::pluralism-would-require-multiple-independent-categories-of-reality::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 651-664
+heading: '**Pluralism would require multiple independent categories of reality.**'
+parent_heading: '**✦ 4\. Why This Is Monism (Not Dualism, Not Pluralism)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'IGSOA shows that: * MG, MM, and Physics are related by **adjoint functors**,
   * connected via natural transformations,'
-heading: '**Pluralism would require multiple independent categories of reality.**'
-id: GEN4-7753
-lines: 651-664
-location: genesis-4/the-adjoint-triple::4-why-this-is-monism-not-dualism-not-pluralism::pluralism-would-require-multiple-independent-categories-of-reality::b1
-parent_heading: '**✦ 4\. Why This Is Monism (Not Dualism, Not Pluralism)**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- IGSOA
+- three modalities of one process
+- they are not independent
+- δ
+- adjoint functors
+aliases:
+- Bk650is
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

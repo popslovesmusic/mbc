@@ -1,12 +1,29 @@
+id: GEN16-3717
+location: genesis-16/quantum-measurement-in-igsoa-vs::one-sentence-summary::a-sealed-axiom-box::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 559-561
+heading: '**✓ A sealed Axiom Box:**'
+parent_heading: '**One-Sentence Summary**'
 block_type: paragraph
+excerpt: '**“The δ-QCD CP-Neutrality Axiom.”**'
 concepts:
 - Axiom
-- Neutrality Axiom
+- CP-Neutrality
 - δ
-excerpt: '**“The δ-QCD CP-Neutrality Axiom.”**'
-heading: '**✓ A sealed Axiom Box:**'
-id: GEN16-3717
-lines: 559-561
-location: genesis-16/quantum-measurement-in-igsoa-vs::one-sentence-summary::a-sealed-axiom-box::b1
-parent_heading: '**One-Sentence Summary**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+- δ-QCD
+- Neutrality Axiom
+aliases:
+- Bk843tq
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 83.33333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

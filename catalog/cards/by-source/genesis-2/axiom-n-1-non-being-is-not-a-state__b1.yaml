@@ -1,13 +1,30 @@
+id: GEN2-6455
+location: genesis-2/axioms-of-geometry-topos-compatible::i-the-not-axiom-existence-exclusion-principle::axiom-n-1-non-being-is-not-a-state::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1844-1851
+heading: '**Axiom (N-1) — Non-Being Is Not a State**'
+parent_heading: '**I. The NOT Axiom (Existence-Exclusion Principle)**'
 block_type: paragraph
-concepts:
-- Zero-State
-- Ψ
 excerpt: There exists no object representing “Nothing.” Only the **Zero-State** Ψ₀
   exists, and Ψ₀ carries **no morphisms** except the identity, which is not structural.
   End⁡(Ψ0)={id⁡},id⁡Ψ0 is not an operator....
-heading: '**Axiom (N-1) — Non-Being Is Not a State**'
-id: GEN2-6455
-lines: 1844-1851
-location: genesis-2/axioms-of-geometry-topos-compatible::i-the-not-axiom-existence-exclusion-principle::axiom-n-1-non-being-is-not-a-state::b1
-parent_heading: '**I. The NOT Axiom (Existence-Exclusion Principle)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Ψ
+- State
+- Zero-State
+- no morphisms
+- Ψ₀
+aliases:
+- Bk368te
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.620689655172415
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

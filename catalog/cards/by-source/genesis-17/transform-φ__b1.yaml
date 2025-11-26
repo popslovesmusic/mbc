@@ -1,10 +1,25 @@
+id: GEN17-4787
+location: genesis-17/box-calculus::axiom-9-all-other-operators-are-derived-operators::transform-φ::b1
+source: genesis-17\box_calculus.md
+lines: 9424-9427
+heading: 'Transform (Φ):'
+parent_heading: 🔷 AXIOM 9 – All Other Operators Are Derived Operators
 block_type: paragraph
+excerpt: Φ:=f(F) via functional calculus Φ:=f(F) via functional calculus
 concepts:
 - Φ
-excerpt: Φ:=f(F) via functional calculus Φ:=f(F) via functional calculus
-heading: 'Transform (Φ):'
-id: GEN17-4787
-lines: 9424-9427
-location: genesis-17/box-calculus::axiom-9-all-other-operators-are-derived-operators::transform-φ::b1
-parent_heading: 🔷 AXIOM 9 – All Other Operators Are Derived Operators
-source: genesis-17\box_calculus.md
+aliases:
+- Bk365vf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,32 @@
+id: GEN9-9418
+location: genesis-9/is-the-source-of-all-structure::interpretation-of-the-igsoa-grid::1-it-is-block-complete::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 1297-1305
+heading: '**1\. It is block-complete.**'
+parent_heading: '**INTERPRETATION OF THE IGSOA GRID**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Unlike the classical periodic table, which stops at f-block, this includes:
   * g-block (Π(Δ₅), 18 modes) * h-block (Π(Δ₆), 22 modes)'
-heading: '**1\. It is block-complete.**'
-id: GEN9-9418
-lines: 1297-1305
-location: genesis-9/is-the-source-of-all-structure::interpretation-of-the-igsoa-grid::1-it-is-block-complete::b1
-parent_heading: '**INTERPRETATION OF THE IGSOA GRID**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- Π
+- Δ
+- δ-harmonic
+- h-block
+- f-block
+- g-block
+- δ
+aliases:
+- Bk167ut
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.58064516129032
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

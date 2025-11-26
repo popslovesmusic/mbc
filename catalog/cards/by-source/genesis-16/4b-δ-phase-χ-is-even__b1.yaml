@@ -1,13 +1,30 @@
+id: GEN16-3712
+location: genesis-16/quantum-measurement-in-igsoa-vs::proof-igsoa-side::4-the-cp-odd-contraction-is-geometrically-forbidden::4b-δ-phase-χ-is-even::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 507-513
+heading: '**4b. δ-Phase χ is Even**'
+parent_heading: '**4\. The CP-Odd Contraction is Geometrically Forbidden**'
 block_type: paragraph
-concepts:
-- zero
-- δ
 excerpt: CP-odd dependence requires a negative parity under inversion of χ; but δ-harmonics
   enforce χ↦χunder CP.\\chi \\mapsto \\chi \\quad \\text{under CP}.χ↦χunder CP. Thus
   any contraction producing a CP-odd...
-heading: '**4b. δ-Phase χ is Even**'
-id: GEN16-3712
-lines: 507-513
-location: genesis-16/quantum-measurement-in-igsoa-vs::proof-igsoa-side::4-the-cp-odd-contraction-is-geometrically-forbidden::4b-δ-phase-χ-is-even::b1
-parent_heading: '**4\. The CP-Odd Contraction is Geometrically Forbidden**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- χ
+- CP-odd
+- δ-harmonics
+- δ
+- zero
+aliases:
+- Bk672od
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.82051282051282
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

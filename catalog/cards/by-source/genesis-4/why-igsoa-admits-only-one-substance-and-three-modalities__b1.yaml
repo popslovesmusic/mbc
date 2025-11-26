@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We begin with the primitive ontological postulate of the IGSOA system:'
-heading: '***(Why IGSOA admits only One Substance and Three Modalities)***'
 id: GEN4-7793
-lines: 1244-1246
 location: genesis-4/the-adjoint-triple::a-δ-centered-metaphysical-proof-of-monism::why-igsoa-admits-only-one-substance-and-three-modalities::b1
-parent_heading: '**✦ A δ-Centered Metaphysical Proof of Monism**'
 source: genesis-4\The_Adjoint_Triple.md
+lines: 1244-1246
+heading: '***(Why IGSOA admits only One Substance and Three Modalities)***'
+parent_heading: '**✦ A δ-Centered Metaphysical Proof of Monism**'
+block_type: paragraph
+excerpt: 'We begin with the primitive ontological postulate of the IGSOA system:'
+concepts:
+- IGSOA
+aliases:
+- Bk067bw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

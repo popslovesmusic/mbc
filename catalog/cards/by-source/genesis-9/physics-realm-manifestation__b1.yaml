@@ -1,13 +1,29 @@
+id: GEN9-9269
+location: genesis-9/does-meta-genesis-indicate-new-physics::interpretation-across-the-realms::physics-realm-manifestation::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 989-997
+heading: '**Physics Realm (Manifestation)**'
+parent_heading: '**Interpretation Across the Realms**'
 block_type: list
-concepts:
-- Φ
-- δ
 excerpt: '* δ \= uncertainty, fluctuation, curvature, symmetry-breaking * Φ \= smoothing,
   Ricci flow, decoherence, renormalization * Cycle \= dynamics, fields, spacetime,
   matter'
-heading: '**Physics Realm (Manifestation)**'
-id: GEN9-9269
-lines: 989-997
-location: genesis-9/does-meta-genesis-indicate-new-physics::interpretation-across-the-realms::physics-realm-manifestation::b1
-parent_heading: '**Interpretation Across the Realms**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- symmetry-breaking
+- δ
+- Φ
+aliases:
+- Bk841uf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,26 @@
+id: GEN4-7629
+location: genesis-4/meta-physics-axiom-box::iii-genesis-axioms-emergence-of-structure-from-deviation::axiom-g3-operator-domain-emergence::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 491-495
+heading: '**Axiom G.3 — Operator Domain Emergence**'
+parent_heading: '**III. GENESIS AXIOMS (Emergence of Structure from Deviation)**'
 block_type: paragraph
-concepts:
-- Γ
 excerpt: 'Operators become definable only on Γ1\\Gamma\_1Γ1​: Dom(O)=Γ1.\\mathrm{Dom}(\\mathcal{O})
   \= \\Gamma\_1.Dom(O)=Γ1​.'
-heading: '**Axiom G.3 — Operator Domain Emergence**'
-id: GEN4-7629
-lines: 491-495
-location: genesis-4/meta-physics-axiom-box::iii-genesis-axioms-emergence-of-structure-from-deviation::axiom-g3-operator-domain-emergence::b1
-parent_heading: '**III. GENESIS AXIOMS (Emergence of Structure from Deviation)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Γ
+aliases:
+- Bk505ob
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

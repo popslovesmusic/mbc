@@ -1,12 +1,33 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: '**Given:** Any domain with: * persistent δ-gradients'
-heading: '**Theorem: δ-Flux Closure ⇒ Autocatalytic Metabolism**'
 id: GEN13-2484
-lines: 353-386
 location: genesis-13/what-biology-is-in-meta-genesis::4-the-meta-metabolic-theorem::theorem-δ-flux-closure-autocatalytic-metabolism::b1
-parent_heading: '**4\. The Meta-Metabolic Theorem**'
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 353-386
+heading: '**Theorem: δ-Flux Closure ⇒ Autocatalytic Metabolism**'
+parent_heading: '**4\. The Meta-Metabolic Theorem**'
+block_type: paragraph
+excerpt: '**Given:** Any domain with: * persistent δ-gradients'
+concepts:
+- Φ
+- Π
+- δ
+- self-maintaining
+- δ-Φ
+- Φ-interaction
+- Π-boundaries
+- δ-gradients
+- Π-closure
+- δ-Φ-Π
+aliases:
+- Bk402ga
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.513513513513514
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

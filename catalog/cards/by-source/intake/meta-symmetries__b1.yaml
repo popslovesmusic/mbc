@@ -1,11 +1,26 @@
+id: INTK-10321
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::meta-symmetries::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 833-835
+heading: Meta-Symmetries
+parent_heading: Meta-Algebra
 block_type: paragraph
-concepts:
-- Meta-Algebra
 excerpt: 'Meta-Algebra provides the formal tools to describe intrinsic symmetries
   of the deviation field:'
-heading: Meta-Symmetries
-id: INTK-10321
-lines: 833-835
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::meta-symmetries::b1
-parent_heading: Meta-Algebra
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Algebra
+aliases:
+- Bk988ma
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

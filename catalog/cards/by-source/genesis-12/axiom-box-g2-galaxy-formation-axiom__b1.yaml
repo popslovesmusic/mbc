@@ -1,13 +1,30 @@
+id: GEN12-1858
+location: genesis-12/untitled-document::2-axiom-boxes-used::axiom-box-g2-galaxy-formation-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 2096-2100
+heading: '**Axiom Box G2 — Galaxy Formation Axiom**'
+parent_heading: '**2\. Axiom Boxes Used**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Galaxies arise from Π acting on Φ₂-evolved δ-curvature nodes: G=Π(Φ2(Φ1(δ))).\\mathcal{G}
   \= \\Pi(\\Phi\_2(\\Phi\_1(\\delta))).G=Π(Φ2​(Φ1​(δ))).'
-heading: '**Axiom Box G2 — Galaxy Formation Axiom**'
-id: GEN12-1858
-lines: 2096-2100
-location: genesis-12/untitled-document::2-axiom-boxes-used::axiom-box-g2-galaxy-formation-axiom::b1
-parent_heading: '**2\. Axiom Boxes Used**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- Π
+- δ
+- δ-curvature
+- Φ₂
+aliases:
+- Bk530ga
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.24137931034483
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

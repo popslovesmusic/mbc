@@ -1,13 +1,28 @@
+id: GEN16-4041
+location: genesis-16/untitled-document::2-triangle-identities-for-φπphi-dashv-piφπ::b1
+source: genesis-16\Untitled_document.md
+lines: 3893-3899
+heading: '**⭐ 2\. TRIANGLE IDENTITIES FOR Φ⊣Π\\Phi \\dashv \\PiΦ⊣Π**'
 block_type: paragraph
+excerpt: 'Now we prove: Πϵ∘ηΦ=1Φ\\boxed{ \\Pi \\epsilon \\circ \\eta\_\\Phi \= 1\_\\Phi
+  }Πϵ∘ηΦ​=1Φ​​ ϵΠ∘Φη=1Π\\boxed{ \\epsilon\_\\Pi \\circ \\Phi \\eta \= 1\_\\Pi }ϵΠ​∘Φη=1Π​​
+  ---'
 concepts:
 - Π
 - Φ
 - η
-excerpt: 'Now we prove: Πϵ∘ηΦ=1Φ\\boxed{ \\Pi \\epsilon \\circ \\eta\_\\Phi \= 1\_\\Phi
-  }Πϵ∘ηΦ​=1Φ​​ ϵΠ∘Φη=1Π\\boxed{ \\epsilon\_\\Pi \\circ \\Phi \\eta \= 1\_\\Pi }ϵΠ​∘Φη=1Π​​
-  ---'
-heading: '**⭐ 2\. TRIANGLE IDENTITIES FOR Φ⊣Π\\Phi \\dashv \\PiΦ⊣Π**'
-id: GEN16-4041
-lines: 3893-3899
-location: genesis-16/untitled-document::2-triangle-identities-for-φπphi-dashv-piφπ::b1
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk683np
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

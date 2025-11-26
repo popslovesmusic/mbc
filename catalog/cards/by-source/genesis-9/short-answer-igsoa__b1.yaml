@@ -1,12 +1,30 @@
+id: GEN9-9546
+location: genesis-9/strong-force::short-answer-igsoa::b1
+source: genesis-9\strong-force.md
+lines: 1887-1900
+heading: '**Short Answer (IGSOA)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: '**Electromotive force arises from the U(1) residual phase symmetry that
   survives after δ-torsion collapses the SU(2) θ-doublet.** It is not an independent
   force. It is the **leftover symmetry** from t...'
-heading: '**Short Answer (IGSOA)**'
-id: GEN9-9546
-lines: 1887-1900
-location: genesis-9/strong-force::short-answer-igsoa::b1
-source: genesis-9\strong-force.md
+concepts:
+- δ
+- θ
+- Φ
+- δ-harmonic
+- δ-torsion
+- →
+- electromotive force
+- leftover symmetry
+aliases:
+- Bk593ef
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.195402298850574
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

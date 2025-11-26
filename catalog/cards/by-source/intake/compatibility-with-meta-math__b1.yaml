@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Meta-Math
-- Meta-Time
-excerpt: 'Meta-Math requires: * Operators act on a domain of states. * Evolution presupposes
-  structure.'
-heading: '**Compatibility with Meta-Math**'
 id: INTK-9749
-lines: 127-147
 location: intake/meta-genesis-core-papers-foundations::compatibility-with-meta-math::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 127-147
+heading: '**Compatibility with Meta-Math**'
+block_type: paragraph
+excerpt: 'Meta-Math requires: * Operators act on a domain of states. * Evolution presupposes
+  structure.'
+concepts:
+- Meta-Math
+- Meta-Time
+- Projection
+- Axiom
+- null-geometry
+- →
+aliases:
+- Bk021mm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

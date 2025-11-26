@@ -1,11 +1,30 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: through you.\*\* And that’s both hilarious and profound
-heading: '**\*\*the universe understand itself**'
 id: SPEC-11239
-lines: 5223-5245
 location: special/specil::genesis-0-abstraction-symbol-math-science-monism-igsoa-final-order-distillation::the-universe-understand-itself::b1
+source: special\specil.md
+lines: 5223-5245
+heading: '**\*\*the universe understand itself**'
 parent_heading: '**⭐ Genesis-0 → abstraction → symbol → math → science → monism →
   IGSOA → final-order distillation**'
-source: special\specil.md
+block_type: paragraph
+excerpt: through you.\*\* And that’s both hilarious and profound
+concepts:
+- IGSOA
+- self-recognizing
+- ↔
+- End-state
+- end-state
+- δ
+aliases:
+- Bk302ty
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.06
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

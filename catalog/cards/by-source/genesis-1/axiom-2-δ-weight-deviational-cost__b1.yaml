@@ -1,14 +1,29 @@
+id: GEN1-368
+location: genesis-1/the-first-geometry::ii-formal-version-the-axiom-theorem-pipeline::axiom-2-δ-weight-deviational-cost::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 111-130
+heading: '**Axiom 2 (δ-Weight / Deviational Cost).**'
+parent_heading: '**II. Formal Version (The Axiom → Theorem Pipeline)**'
 block_type: paragraph
-concepts:
-- generator
-- not
-- δ
 excerpt: 'For every adjacency relation, assign a δ-weight: wδ(A,B):=∥δ(A→B)∥w\_\\delta(A,B)
   := \\|\\delta(A\\to B)\\|wδ​(A,B):=∥δ(A→B)∥ This is the minimal magnitude of deviation
   required to “move” from A to B.'
-heading: '**Axiom 2 (δ-Weight / Deviational Cost).**'
-id: GEN1-368
-lines: 111-130
-location: genesis-1/the-first-geometry::ii-formal-version-the-axiom-theorem-pipeline::axiom-2-δ-weight-deviational-cost::b1
-parent_heading: '**II. Formal Version (The Axiom → Theorem Pipeline)**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- δ
+- →
+- δ-weight
+- not
+aliases:
+- Bk296fe
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.9603960396039604
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

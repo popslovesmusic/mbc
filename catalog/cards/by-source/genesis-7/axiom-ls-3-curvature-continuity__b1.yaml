@@ -1,12 +1,27 @@
+id: GEN7-8633
+location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::axiom-ls-3-curvature-continuity::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 211-225
+heading: '**Axiom LS-3 (Curvature Continuity)**'
+parent_heading: '**◼ LAW STABILITY AXIOM BOX**'
 block_type: paragraph
-concepts:
-- Γ
-- δ
 excerpt: 'Given the connection induced by δ: Γijδ=f(A,ΔA),\\Gamma^\\delta\_{ij} \=
   f(\\mathcal{A},\\Delta\\mathcal{A}),Γijδ​=f(A,ΔA), the induced δ-curvature satisfies:'
-heading: '**Axiom LS-3 (Curvature Continuity)**'
-id: GEN7-8633
-lines: 211-225
-location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::axiom-ls-3-curvature-continuity::b1
-parent_heading: '**◼ LAW STABILITY AXIOM BOX**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Γ
+- Δ
+- laws cannot change arbitrarily
+- δ-curvature
+aliases:
+- Bk683gt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

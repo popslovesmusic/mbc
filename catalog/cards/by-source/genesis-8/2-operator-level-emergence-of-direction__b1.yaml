@@ -1,12 +1,23 @@
+id: GEN8-8866
+location: genesis-8/meta-time-geometry-and-temporal-projection::2-operator-level-emergence-of-direction::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1768-1775
+heading: '**2\. OPERATOR-LEVEL EMERGENCE OF DIRECTION**'
 block_type: paragraph
-concepts:
-- slightest
-- δ
 excerpt: 'δ generates adjacency: A(δ)={(i,j)∣δ couples DOFs i,j}A(\\delta) \= \\{(i,j)\\mid
   \\delta \\text{ couples DOFs }i,j\\}A(δ)={(i,j)∣δ couples DOFs i,j} This adjacency
   graph is almost never perfectly sym...'
-heading: '**2\. OPERATOR-LEVEL EMERGENCE OF DIRECTION**'
-id: GEN8-8866
-lines: 1768-1775
-location: genesis-8/meta-time-geometry-and-temporal-projection::2-operator-level-emergence-of-direction::b1
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- δ
+aliases:
+- Bk354ga
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.1739130434782608
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,11 +1,27 @@
+id: INTK-10416
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::core-concepts::2-meta-time-τ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1342-1343
+heading: 2. Meta-Time (τ)
+parent_heading: Core Concepts
 block_type: paragraph
-concepts:
-- Meta-Fields
 excerpt: The continuous, monotonic ordering parameter for the evolution of Meta-Fields.
   It is the independent variable for the fundamental Meta-PDE.
-heading: 2. Meta-Time (τ)
-id: INTK-10416
-lines: 1342-1343
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::core-concepts::2-meta-time-τ::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Fields
+- Meta-PDE
+aliases:
+- Bk538tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

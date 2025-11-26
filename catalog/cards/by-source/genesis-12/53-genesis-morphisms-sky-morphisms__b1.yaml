@@ -1,15 +1,35 @@
+id: GEN12-1654
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::53-genesis-morphisms-sky-morphisms::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1892-1918
+heading: '**5.3 Genesis Morphisms → Sky Morphisms**'
+parent_heading: '**5\. Functoriality**'
 block_type: paragraph
-concepts:
-- Axiom
-- Π
-- Ψ
-- δ
 excerpt: 'A foundational result of IGSOA is: Morphisms in Genesis project functorially
   into morphisms of the sky.\\text{Morphisms in Genesis project functorially into
   morphisms of the sky.}Morphisms in Genesis ...'
-heading: '**5.3 Genesis Morphisms → Sky Morphisms**'
-id: GEN12-1654
-lines: 1892-1918
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::53-genesis-morphisms-sky-morphisms::b1
-parent_heading: '**5\. Functoriality**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- Ψ
+- Axiom
+- Π
+- Δ
+- →
+- Genesis-level
+- δ-curvature
+- δ
+- Ψi
+- Ψj
+- Ψjf
+aliases:
+- Bk310fr
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

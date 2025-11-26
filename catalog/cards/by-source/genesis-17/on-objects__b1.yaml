@@ -1,14 +1,30 @@
+id: GEN17-4405
+location: genesis-17/box-calculus::gbcmm::on-objects::b1
+source: genesis-17\box_calculus.md
+lines: 3484-3501
+heading: On Objects
+parent_heading: G:BC→MM
 block_type: paragraph
+excerpt: Given a Box object B=⟨Σ,Γ,Δ,Ω⟩ B=⟨Σ,Γ,Δ,Ω⟩,
 concepts:
-- Box
 - Γ
 - Σ
-- Ω
+- Box
 - μ
-excerpt: Given a Box object B=⟨Σ,Γ,Δ,Ω⟩ B=⟨Σ,Γ,Δ,Ω⟩,
-heading: On Objects
-id: GEN17-4405
-lines: 3484-3501
-location: genesis-17/box-calculus::gbcmm::on-objects::b1
-parent_heading: G:BC→MM
-source: genesis-17\box_calculus.md
+- Ω
+- Δ
+aliases:
+- Bk915gb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

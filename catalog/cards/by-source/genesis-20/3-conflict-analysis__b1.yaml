@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Isolating polarity incompatibilities.
-heading: 3\. Conflict Analysis
 id: GEN20-7220
-lines: 7465-7467
 location: genesis-20/mbc-40-documentaitio-1::b37-router-networks-as-semantic-processors::3-conflict-analysis::b1
-parent_heading: B3.7 Router Networks as Semantic Processors
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7465-7467
+heading: 3\. Conflict Analysis
+parent_heading: B3.7 Router Networks as Semantic Processors
+block_type: paragraph
+excerpt: Isolating polarity incompatibilities.
+aliases:
+- Bk402ip
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

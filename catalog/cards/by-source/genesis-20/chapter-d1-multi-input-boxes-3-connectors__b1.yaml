@@ -1,12 +1,31 @@
+id: GEN20-7073
+location: genesis-20/mbc-40-documentaitio-1::part-iv-multi-input-boxes-higher-order-structures::chapter-d1-multi-input-boxes-3-connectors::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5197-5202
+heading: Chapter D1 — Multi-Input Boxes (3+ connectors)
+parent_heading: PART IV — Multi-Input Boxes & Higher-Order Structures
 block_type: list
-concepts:
-- Φ
-- δ
 excerpt: '* multi-causal δ integration * Φ-formation in N-input structures * connector-weight
   interaction'
-heading: Chapter D1 — Multi-Input Boxes (3+ connectors)
-id: GEN20-7073
-lines: 5197-5202
-location: genesis-20/mbc-40-documentaitio-1::part-iv-multi-input-boxes-higher-order-structures::chapter-d1-multi-input-boxes-3-connectors::b1
-parent_heading: PART IV — Multi-Input Boxes & Higher-Order Structures
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- connector-weight
+- multi-causal
+- Φ-formation
+- N-input
+- δ
+- Φ
+aliases:
+- Bk354mc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 35.294117647058826
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

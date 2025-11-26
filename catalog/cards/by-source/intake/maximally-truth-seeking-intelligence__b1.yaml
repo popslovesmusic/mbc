@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- Read More
-excerpt: 'Definition (Source: 03_Defining_Reality_and_AI_in_Physics.txt) [[Read More](concepts/Encyclopedia\Maximally_Truth-Seeking_Intelligence.md)]'
-heading: Maximally Truth-Seeking Intelligence
 id: INTK-10730
-lines: 1893-1894
 location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::maximally-truth-seeking-intelligence::b1
-parent_heading: Glossary
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1893-1894
+heading: Maximally Truth-Seeking Intelligence
+parent_heading: Glossary
+block_type: paragraph
+excerpt: 'Definition (Source: 03_Defining_Reality_and_AI_in_Physics.txt) [[Read More](concepts/Encyclopedia\Maximally_Truth-Seeking_Intelligence.md)]'
+concepts:
+- Definition
+- Read More
+aliases:
+- Df952ds
+tags:
+- source-03_defining_reality_and_ai_in_physicstxt-read-moreconceptsencyclopediamaximally_truth-seeking_intelligencemd
+- definition
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: definition
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

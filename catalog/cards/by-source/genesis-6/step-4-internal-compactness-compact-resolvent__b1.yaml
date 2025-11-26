@@ -1,10 +1,24 @@
+id: GEN6-8300
+location: genesis-6/spectral-triple-axiom-box-sealed-version::theorem-toposoperator-equivalence::proof-categorical-internal-external::step-4-internal-compactness-compact-resolvent::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 541-546
+heading: '**Step 4: Internal compactness → compact resolvent**'
+parent_heading: '**Proof (Categorical, internal → external)**'
 block_type: paragraph
-concepts: []
 excerpt: Internal compact endomorphisms pull back to compact operators (this is standard
   for Hilbert objects in a Grothendieck topos). So T6 gives compact resolvent. ---
-heading: '**Step 4: Internal compactness → compact resolvent**'
-id: GEN6-8300
-lines: 541-546
-location: genesis-6/spectral-triple-axiom-box-sealed-version::theorem-toposoperator-equivalence::proof-categorical-internal-external::step-4-internal-compactness-compact-resolvent::b1
-parent_heading: '**Proof (Categorical, internal → external)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+aliases:
+- Bk472ic
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
+id: GEN16-4002
+location: genesis-16/untitled-document::if-you-want-next::4-the-meta-fractal-functor::b1
+source: genesis-16\Untitled_document.md
+lines: 3352-3356
+heading: '**4\. The Meta-Fractal Functor:**'
+parent_heading: '**⭐ If you want next:**'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Meta-Math
-- δ
 excerpt: A functor from δ-Geometry → Box Calculus → Meta-Math. Just tell me which
   proof you want next.
-heading: '**4\. The Meta-Fractal Functor:**'
-id: GEN16-4002
-lines: 3352-3356
-location: genesis-16/untitled-document::if-you-want-next::4-the-meta-fractal-functor::b1
-parent_heading: '**⭐ If you want next:**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Meta-Math
+- Box Calculus
+- Proof
+- Box
+- →
+- δ-Geometry
+- δ
+aliases:
+- Bk526ff
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 41.17647058823529
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

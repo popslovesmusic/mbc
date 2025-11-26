@@ -1,14 +1,31 @@
+id: GEN14-2794
+location: genesis-14/inflation-structure-formation::3-low-ℓ-alignment-theorem-axis-of-evil::theorem-c₂-δ-degeneracy-defect-low-ℓ-alignments::proof-sketch::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 2296-2308
+heading: '**Proof (sketch)**'
+parent_heading: '**Theorem C₂ (δ-Degeneracy Defect ⇒ Low-ℓ Alignments)**'
 block_type: list
-concepts:
-- Π
-- Φ
-- γ
-- δ
 excerpt: '* δ-degeneracy classes determine **multipole independence** * small adjacency
   defects break symmetry * Φ preserves block structure'
-heading: '**Proof (sketch)**'
-id: GEN14-2794
-lines: 2296-2308
-location: genesis-14/inflation-structure-formation::3-low-ℓ-alignment-theorem-axis-of-evil::theorem-c₂-δ-degeneracy-defect-low-ℓ-alignments::proof-sketch::b1
-parent_heading: '**Theorem C₂ (δ-Degeneracy Defect ⇒ Low-ℓ Alignments)**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- direct δ-imprints
+- γ
+- δ
+- δ-degeneracy
+- δ-imprints
+- late-time
+- multipole independence
+- Π
+- Φ
+aliases:
+- Bk950dc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

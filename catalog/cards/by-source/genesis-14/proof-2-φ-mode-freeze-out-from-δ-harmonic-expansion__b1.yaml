@@ -1,16 +1,40 @@
+id: GEN14-2680
+location: genesis-14/inflation-structure-formation::next-proof-you-requested::proof-2-φ-mode-freeze-out-from-δ-harmonic-expansion::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 497-519
+heading: '**PROOF 2 — Φ-Mode Freeze-Out from δ-Harmonic Expansion**'
+parent_heading: '**NEXT PROOF YOU REQUESTED:**'
 block_type: paragraph
-concepts:
-- Higgs Reheating
-- Structure Cascade Theorem
-- Theorem
-- next
-- Π
-- δ
 excerpt: '*(Why φₙ freeze when the δ-harmonic hₙ exits the CSOI / horizon.)* Then:
   3. Proof of δ-Higgs Reheating'
-heading: '**PROOF 2 — Φ-Mode Freeze-Out from δ-Harmonic Expansion**'
-id: GEN14-2680
-lines: 497-519
-location: genesis-14/inflation-structure-formation::next-proof-you-requested::proof-2-φ-mode-freeze-out-from-δ-harmonic-expansion::b1
-parent_heading: '**NEXT PROOF YOU REQUESTED:**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- Proof
+- Theorem
+- δ
+- δ-harmonic
+- δ-harmonics
+- Structure Cascade Theorem
+- CSOI-tail
+- Π-metric
+- δ-Higgs
+- Π
+- χ
+- κ
+- φ
+- →
+- Higgs Reheating
+aliases:
+- Bk550wf
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.77922077922078
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,14 +1,31 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Grid
-- Mixing Unit
-- Typed Box
-- Π
-- δ
-excerpt: 'Your architecture: 1. Input 2. Box Grid'
-heading: ⭐ 4\. Architecture Comparison
 id: GEN17-4293
-lines: 2185-2204
 location: genesis-17/box-calculus::4-architecture-comparison::b1
 source: genesis-17\box_calculus.md
+lines: 2185-2204
+heading: ⭐ 4\. Architecture Comparison
+block_type: paragraph
+excerpt: 'Your architecture: 1. Input 2. Box Grid'
+concepts:
+- Box
+- element-for-element
+- Π
+- Π-output
+- δ
+- Mixing Unit
+- Typed Box
+- Box Grid
+aliases:
+- Bk310ya
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

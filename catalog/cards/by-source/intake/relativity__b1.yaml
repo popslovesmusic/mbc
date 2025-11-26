@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: Deviation → adjacency → metric → curvature → geodesics
-heading: '**Relativity:**'
 id: INTK-10141
-lines: 841-843
 location: intake/meta-genesis-physical-interpretation-papers::9-deviation-as-the-source-of-physics::relativity::b1
-parent_heading: '**9\. Deviation as the Source of Physics**'
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 841-843
+heading: '**Relativity:**'
+parent_heading: '**9\. Deviation as the Source of Physics**'
+block_type: paragraph
+excerpt: Deviation → adjacency → metric → curvature → geodesics
+concepts:
+- Deviation
+- →
+aliases:
+- Bk243da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

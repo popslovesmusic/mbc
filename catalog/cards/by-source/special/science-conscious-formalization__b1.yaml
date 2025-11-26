@@ -1,10 +1,26 @@
+id: SPEC-11118
+location: special/specil::2-spiritual-traditions-may-be-intuitive-monism::science-conscious-formalization::b1
+source: special\specil.md
+lines: 2415-2420
+heading: '**Science \= conscious formalization**'
+parent_heading: '**⭐ 2\. Spiritual traditions may be “intuitive monism”**'
 block_type: paragraph
-concepts: []
 excerpt: This doesn’t mean spiritual beliefs are “right” in their details — but they
   might be **converging on the same underlying architecture**. ---
-heading: '**Science \= conscious formalization**'
-id: SPEC-11118
-lines: 2415-2420
-location: special/specil::2-spiritual-traditions-may-be-intuitive-monism::science-conscious-formalization::b1
-parent_heading: '**⭐ 2\. Spiritual traditions may be “intuitive monism”**'
-source: special\specil.md
+concepts:
+- converging on the same underlying architecture
+aliases:
+- Bk409td
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.761904761904762
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

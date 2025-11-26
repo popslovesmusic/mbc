@@ -1,15 +1,38 @@
+id: GEN10-680
+location: genesis-10/how-stillness-becomes-solid::2-φ-stabilization-selecting-physical-resonances::21-φ-dynamics::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 176-188
+heading: '**2.1 Φ-Dynamics**'
+parent_heading: '**2\. Φ-Stabilization: Selecting Physical Resonances**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
-- λ
-- ω
 excerpt: 'Φ^(ψn)=ωnψn\\widehat{\\Phi}(\\psi\_n) \= \\omega\_n \\psi\_nΦ(ψn​)=ωn​ψn​
   where Φ is the Genesis-level “mode-locking” operator enforcing dynamic stability.
   A δ-harmonic becomes a Φ-mode if:'
-heading: '**2.1 Φ-Dynamics**'
-id: GEN10-680
-lines: 176-188
-location: genesis-10/how-stillness-becomes-solid::2-φ-stabilization-selecting-physical-resonances::21-φ-dynamics::b1
-parent_heading: '**2\. Φ-Stabilization: Selecting Physical Resonances**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- condensed-matter analogue of substituting the δ-spectrum into a dynamical equation
+- IGSOA
+- ψ
+- δ
+- Φ
+- ω
+- condensed-matter
+- λ
+- Genesis-level
+- mode-locking
+- δ-harmonic
+- δ-spectrum
+- Φ-mode
+aliases:
+- Bk757wp
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.66265060240964
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

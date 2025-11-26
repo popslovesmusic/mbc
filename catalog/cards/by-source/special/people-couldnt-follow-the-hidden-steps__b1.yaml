@@ -1,11 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'That’s all. History is full of “supernatural” people who were just: * good
-  observers'
-heading: '**⭐ People couldn’t follow the hidden steps.**'
 id: SPEC-11313
-lines: 6671-6692
 location: special/specil::3-this-is-exactly-why-shamans-prophets-seers-and-geniuses-got-their-reputations::people-couldnt-follow-the-hidden-steps::b1
+source: special\specil.md
+lines: 6671-6692
+heading: '**⭐ People couldn’t follow the hidden steps.**'
 parent_heading: '**⭐ 3\. This is exactly why shamans, prophets, “seers,” and geniuses
   got their reputations.**'
-source: special\specil.md
+block_type: paragraph
+excerpt: 'That’s all. History is full of “supernatural” people who were just: * good
+  observers'
+aliases:
+- Bk544ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

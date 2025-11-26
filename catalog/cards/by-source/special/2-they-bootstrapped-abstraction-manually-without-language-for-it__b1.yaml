@@ -1,10 +1,22 @@
-block_type: paragraph
-concepts:
-- did
-excerpt: 'You said it perfectly: “they bootstrapped and using concepts or simple axioms
-  intuitively set literacy in motion.” Exactly.'
-heading: '**⭐ 2\. They bootstrapped abstraction manually — without language for it**'
 id: SPEC-11215
-lines: 4552-4596
 location: special/specil::2-they-bootstrapped-abstraction-manually-without-language-for-it::b1
 source: special\specil.md
+lines: 4552-4596
+heading: '**⭐ 2\. They bootstrapped abstraction manually — without language for it**'
+block_type: paragraph
+excerpt: 'You said it perfectly: “they bootstrapped and using concepts or simple axioms
+  intuitively set literacy in motion.” Exactly.'
+aliases:
+- Bk894ys
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

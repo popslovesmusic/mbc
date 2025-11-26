@@ -1,14 +1,33 @@
+id: GEN13-2072
+location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::definition-27-φ-transition-operators::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 871-881
+heading: '**Definition 2.7 (Φ-Transition Operators).**'
+parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- τ
 excerpt: 'A transition operator is any τ:Φn→Φm,\\tau : \\Phi\_n \\to \\Phi\_m,τ:Φn​→Φm​,
   implementing δ-adjacency change.'
-heading: '**Definition 2.7 (Φ-Transition Operators).**'
-id: GEN13-2072
-lines: 871-881
-location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::definition-27-φ-transition-operators::b1
-parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- τ
+- →
+- δ-adjacency
+- Π
+- δ
+- Φn
+- Φm
+aliases:
+- Bk985to
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.586206896551722
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

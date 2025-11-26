@@ -1,10 +1,29 @@
+id: GEN4-7776
+location: genesis-4/the-adjoint-triple::5-plain-language-version-for-outreach::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 982-995
+heading: '**5\. Plain-Language Version (for outreach)**'
 block_type: paragraph
-concepts: []
 excerpt: '**If you let the universe “change” at the deepest possible level (pure potential),**
   **and then let that potential crystallize into geometry → and then into operators,**
   **you get the same universe**'
-heading: '**5\. Plain-Language Version (for outreach)**'
-id: GEN4-7776
-lines: 982-995
-location: genesis-4/the-adjoint-triple::5-plain-language-version-for-outreach::b1
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Deviation
+- Theorem
+- you get the same universe
+- →
+aliases:
+- Bk638yl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.797101449275362
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,33 @@
+id: INTK-10344
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::motivation::beyond-linear-vector-spaces::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 966-974
+heading: Beyond Linear Vector Spaces
+parent_heading: Motivation
 block_type: paragraph
-concepts:
-- Meta-Math
-- Meta-Metric
-- Meta-Scalars
-- Meta-Vector
-- Vector Space
 excerpt: 'Traditional vector spaces are built on assumptions of linearity, real/complex
   scalar fields, and Euclidean or pseudo-Euclidean metrics. These are insufficient
   for Meta-Math because: - The underlying "...'
-heading: Beyond Linear Vector Spaces
-id: INTK-10344
-lines: 966-974
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::motivation::beyond-linear-vector-spaces::b1
-parent_heading: Motivation
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- pseudo-Euclidean
+- scale-dependent
+- Meta-Scalars
+- Meta-Vector
+- Meta-Metric
+- non-linear
+- Vector Space
+aliases:
+- Bk318tv
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.75609756097561
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

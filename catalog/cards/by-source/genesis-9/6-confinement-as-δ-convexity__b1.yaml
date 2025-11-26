@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- convex
-- δ
-- λ
-excerpt: 'In the curvature branch, the potential energy of a χ-triplet mode is: Vχ∼∣λ1−λ2∣2+∣λ2−λ3∣2+∣λ3−λ1∣2.V\_{\\chi}
-  \\sim |\\lambda\_1-\\lambda\_2|^2 \+ |\\lambda\_2-\\lambda\_3|^2 \+ |\\lambda\_3-\\lambda...'
-heading: '**6\. Confinement as δ-Convexity**'
 id: GEN9-9498
-lines: 968-992
 location: genesis-9/strong-force::6-confinement-as-δ-convexity::b1
 source: genesis-9\strong-force.md
+lines: 968-992
+heading: '**6\. Confinement as δ-Convexity**'
+block_type: paragraph
+excerpt: 'In the curvature branch, the potential energy of a χ-triplet mode is: Vχ∼∣λ1−λ2∣2+∣λ2−λ3∣2+∣λ3−λ1∣2.V\_{\\chi}
+  \\sim |\\lambda\_1-\\lambda\_2|^2 \+ |\\lambda\_2-\\lambda\_3|^2 \+ |\\lambda\_3-\\lambda...'
+concepts:
+- λ
+- χ
+- δ-curvature
+- Axiom
+- trace-free
+- δ
+- color confinement
+- always frustrated
+- convex
+aliases:
+- Bk569tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.7669172932330826
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

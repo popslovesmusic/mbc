@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Just tell me which.
-heading: '**✔ Or we can compute explicit echo sequences from δ-harmonics**'
 id: GEN11-1118
-lines: 448-450
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::7-if-you-want-next::or-we-can-compute-explicit-echo-sequences-from-δ-harmonics::b1
-parent_heading: '**7\. If you want next:**'
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 448-450
+heading: '**✔ Or we can compute explicit echo sequences from δ-harmonics**'
+parent_heading: '**7\. If you want next:**'
+block_type: paragraph
+excerpt: Just tell me which.
+aliases:
+- Bk867jt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

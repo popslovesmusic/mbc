@@ -1,22 +1,41 @@
+id: GEN10-844
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-sealed-genesis-axiom-box::axiom-box-deviation-geometry-thermal-arrow::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1515-1540
+heading: '**Axiom Box: Deviation Geometry → Thermal Arrow**'
+parent_heading: '**2\. Sealed Genesis Axiom Box**'
 block_type: list
-concepts:
-- Adjacency Axiom
-- Axiom
-- Curvature Axiom
-- Deviation Axiom
-- Entropy Identification
-- Multiplicity Expansion Law
-- Non-Invariance
-- Non-Invertibility
-- Thermal Arrow
-- Φ
-- Ψ
-- δ
 excerpt: 1. **NOT Axiom (Ψ₀ Non-Invariance):** ∄ idΨ0.\\nexists\\, id\_{Ψ₀}.∄idΨ0​​.
   2. **Deviation Axiom:**
-heading: '**Axiom Box: Deviation Geometry → Thermal Arrow**'
-id: GEN10-844
-lines: 1515-1540
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-sealed-genesis-axiom-box::axiom-box-deviation-geometry-thermal-arrow::b1
-parent_heading: '**2\. Sealed Genesis Axiom Box**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Ψ
+- δ
+- Φ
+- Axiom
+- Adjacency
+- Curvature
+- Deviation
+- ≥
+- Ψ₀
+- Δ
+- Non-Invertibility
+- →
+- Non-Invariance
+- Φ-Multiplicity
+- Multiplicity Expansion Law
+aliases:
+- Bk001a
+tags:
+- A1
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.935064935064934
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A1

@@ -1,17 +1,40 @@
+id: GEN9-9495
+location: genesis-9/strong-force::3-why-curvature-generates-a-3-phase-χ-sector::b1
+source: genesis-9\strong-force.md
+lines: 893-915
+heading: '**3\. Why Curvature Generates a 3-Phase (χ) Sector**'
 block_type: paragraph
-concepts:
-- symmetric
-- triplets
-- Φ
-- δ
-- λ
-- μ
-- ν
 excerpt: 'For torsion-free δ-geometry, the δ-curvature tensor is **symmetric**: Rμν(δ)=Rνμ(δ).R^{(\\delta)}\_{\\mu\\nu}
   \= R^{(\\delta)}\_{\\nu\\mu}.Rμν(δ)​=Rνμ(δ)​. Symmetric operators on finite-dimensional
   sp...'
-heading: '**3\. Why Curvature Generates a 3-Phase (χ) Sector**'
-id: GEN9-9495
-lines: 893-915
-location: genesis-9/strong-force::3-why-curvature-generates-a-3-phase-χ-sector::b1
-source: genesis-9\strong-force.md
+concepts:
+- λ
+- δ
+- δ-geometry
+- μ
+- ν
+- δ-curvature
+- finite-dimensional
+- χ
+- Φ
+- torsion-free
+- δ-convexity
+- trace-free
+- →
+- color sector
+- symmetric
+aliases:
+- Bk665ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

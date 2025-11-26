@@ -1,12 +1,27 @@
+id: GEN13-2144
+location: genesis-13/meta-math-nuclear-physics::meta-math-qcd-nuclear-matter-nuclear-physics::igsoa-tri-unity-integration-chapter::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1761-1765
+heading: '**IGSOA Tri-Unity Integration Chapter**'
+parent_heading: '**META-MATH → QCD → NUCLEAR MATTER → NUCLEAR PHYSICS**'
 block_type: paragraph
+excerpt: '*(Formal Physics White-Paper Style)* ---'
 concepts:
+- White-Paper
 - Formal Physics White
 - Paper Style
-- White-Paper
-excerpt: '*(Formal Physics White-Paper Style)* ---'
-heading: '**IGSOA Tri-Unity Integration Chapter**'
-id: GEN13-2144
-lines: 1761-1765
-location: genesis-13/meta-math-nuclear-physics::meta-math-qcd-nuclear-matter-nuclear-physics::igsoa-tri-unity-integration-chapter::b1
-parent_heading: '**META-MATH → QCD → NUCLEAR MATTER → NUCLEAR PHYSICS**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+aliases:
+- Bk322fp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 60.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

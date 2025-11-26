@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- α
-- δ
-excerpt: 'The evolution: δ⟶Φ(δ)⟶Π(Φ(δ))⟶Structure⟶Galaxy\\delta \\longrightarrow \\Phi(\\delta)\\longrightarrow
-  \\Pi(\\Phi(\\delta))\\longrightarrow \\text{Structure}\\longrightarrow \\text{Galaxy}δ⟶Φ(δ)⟶Π(Φ(δ)...'
-heading: '**🔷 6\. Cosmic Evolution as ∞-Topos Dynamics**'
 id: GEN15-3459
-lines: 1278-1294
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::6-cosmic-evolution-as-topos-dynamics::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1278-1294
+heading: '**🔷 6\. Cosmic Evolution as ∞-Topos Dynamics**'
+block_type: paragraph
+excerpt: 'The evolution: δ⟶Φ(δ)⟶Π(Φ(δ))⟶Structure⟶Galaxy\\delta \\longrightarrow \\Phi(\\delta)\\longrightarrow
+  \\Pi(\\Phi(\\delta))\\longrightarrow \\text{Structure}\\longrightarrow \\text{Galaxy}δ⟶Φ(δ)⟶Π(Φ(δ)...'
+concepts:
+- δ
+- →
+- Φ
+- terminal δ-sheaf
+- Π
+- α
+- δ-sheaf
+aliases:
+- Bk832te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.1946902654867255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

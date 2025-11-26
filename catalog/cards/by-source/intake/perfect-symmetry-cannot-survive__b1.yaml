@@ -1,12 +1,30 @@
+id: INTK-9815
+location: intake/meta-genesis-core-papers-foundations::δ-why-the-first-action-exists::perfect-symmetry-cannot-survive::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 758-786
+heading: '**Perfect Symmetry Cannot Survive**'
+parent_heading: '**δ: Why the First Action Exists**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'A perfect symmetry is like a pencil balanced on its tip: mathematically
   possible, physically impossible. Ψ₀ is the same:'
-heading: '**Perfect Symmetry Cannot Survive**'
-id: INTK-9815
-lines: 758-786
-location: intake/meta-genesis-core-papers-foundations::δ-why-the-first-action-exists::perfect-symmetry-cannot-survive::b1
-parent_heading: '**δ: Why the First Action Exists**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- ∞
+- non-empty
+- δ
+- Ψ₀
+aliases:
+- Bk233ps
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.166666666666666
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

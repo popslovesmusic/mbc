@@ -1,15 +1,32 @@
+id: GEN7-8456
+location: genesis-7/the-complete-eft-lagrangian::why-the-universe-acquires-stable-laws::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 233-240
+heading: '**WHY THE UNIVERSE ACQUIRES STABLE LAWS**'
 block_type: paragraph
-concepts:
-- Axiom
-- Plain-English
-- Zero State
-- Ψ
-- δ
 excerpt: '*(Plain-English narrative for Day 1 outreach)* If the universe began as
   a perfect stillness—Ψ₀, the Zero State—then nothing could move, bend, combine, or
   change. But perfect stillness cannot exist. It...'
-heading: '**WHY THE UNIVERSE ACQUIRES STABLE LAWS**'
-id: GEN7-8456
-lines: 233-240
-location: genesis-7/the-complete-eft-lagrangian::why-the-universe-acquires-stable-laws::b1
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- Axiom
+- State
+- Plain-English
+- Ψ
+- δ
+- Zero State
+- Ψ₀
+aliases:
+- Bk399pe
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.606060606060606
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

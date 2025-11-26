@@ -1,13 +1,33 @@
+id: GEN20-7098
+location: genesis-20/mbc-40-documentaitio-1::short-answer-to-your-question::a12-conceptual-expansion-from-simple-units-to-semantic-engines::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5412-5438
+heading: 'A1.2 Conceptual Expansion: From Simple Units to Semantic Engines'
+parent_heading: ⭐ Short Answer to Your Question
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Basic MBC treats: * boxes as containers of structured meaning * connectors
   as influences'
-heading: 'A1.2 Conceptual Expansion: From Simple Units to Semantic Engines'
-id: GEN20-7098
-lines: 5412-5438
-location: genesis-20/mbc-40-documentaitio-1::short-answer-to-your-question::a12-conceptual-expansion-from-simple-units-to-semantic-engines::b1
-parent_heading: ⭐ Short Answer to Your Question
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- multi-dimensional
+- →
+- multi-causal
+- multi-input
+- Π
+- δ
+- Φ
+aliases:
+- Bk165bm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.24742268041237
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

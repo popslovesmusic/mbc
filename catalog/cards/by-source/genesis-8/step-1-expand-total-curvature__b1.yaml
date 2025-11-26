@@ -1,15 +1,31 @@
+id: GEN8-9011
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::proof::step-1-expand-total-curvature::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1312-1322
+heading: '**Step 1 — Expand total curvature**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- By Tri
-- Tri-Unity
-- Π
-- Φ
-- δ
 excerpt: 'By Tri-Unity identity, R=Rδ+RΦ+RΠ.(1)\\mathcal{R} \= \\mathcal{R}\_\\delta
   \+ \\mathcal{R}\_\\Phi \+ \\mathcal{R}\_\\Pi. \\tag{1}R=Rδ​+RΦ​+RΠ​.(1) With:'
-heading: '**Step 1 — Expand total curvature**'
-id: GEN8-9011
-lines: 1312-1322
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::proof::step-1-expand-total-curvature::b1
-parent_heading: '**Proof**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- Φ
+- Π
+- δ
+- Tri-Unity
+- Πd
+- By Tri
+aliases:
+- Bk488tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

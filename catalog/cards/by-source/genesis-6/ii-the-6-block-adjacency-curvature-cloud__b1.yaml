@@ -1,11 +1,29 @@
+id: GEN6-8356
+location: genesis-6/spectral-triple-axiom-box-sealed-version::2-the-369-block-structure-curvature-layering::ii-the-6-block-adjacency-curvature-cloud::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1376-1392
+heading: '**(ii) The 6-Block (Adjacency Curvature Cloud)**'
+parent_heading: '**2\. The 3–6–9 Block Structure \= Curvature Layering**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
 excerpt: 'The block D6×6D\_{6\\times6}D6×6​ corresponds to the **secondary curvature
   modes**, responsible for: * extended geometric structure * anisotropic adjacency'
-heading: '**(ii) The 6-Block (Adjacency Curvature Cloud)**'
-id: GEN6-8356
-lines: 1376-1392
-location: genesis-6/spectral-triple-axiom-box-sealed-version::2-the-369-block-structure-curvature-layering::ii-the-6-block-adjacency-curvature-cloud::b1
-parent_heading: '**2\. The 3–6–9 Block Structure \= Curvature Layering**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- Meta-Einstein
+- Meta-Einstein deviates from classical Einstein
+- higher-order
+- secondary curvature modes
+aliases:
+- Bk867tb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

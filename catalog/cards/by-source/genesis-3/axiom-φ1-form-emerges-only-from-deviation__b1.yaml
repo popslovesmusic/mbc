@@ -1,11 +1,28 @@
+id: GEN3-7465
+location: genesis-3/the-physics-box-diagram::3-the-φ-axiom-form-generation::axiom-φ1-form-emerges-only-from-deviation::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1411-1431
+heading: '**Axiom Φ1: Form Emerges Only from Deviation**'
+parent_heading: '**3\. THE Φ AXIOM (Form Generation)**'
 block_type: paragraph
+excerpt: 'There exists a structural operator ΦΦΦ such that: * adjacency * order'
 concepts:
 - Φ
 - δ
-excerpt: 'There exists a structural operator ΦΦΦ such that: * adjacency * order'
-heading: '**Axiom Φ1: Form Emerges Only from Deviation**'
-id: GEN3-7465
-lines: 1411-1431
-location: genesis-3/the-physics-box-diagram::3-the-φ-axiom-form-generation::axiom-φ1-form-emerges-only-from-deviation::b1
-parent_heading: '**3\. THE Φ AXIOM (Form Generation)**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+- proto-metric
+- only when δ has acted
+aliases:
+- Bk776te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

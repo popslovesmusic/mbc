@@ -1,16 +1,35 @@
+id: GEN12-1644
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-π-observables::corollary-empirical-unity::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1766-1780
+heading: '**Corollary (Empirical Unity).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Π → Observables ⟡**'
 block_type: paragraph
-concepts:
-- Box
-- Cosmic Pipeline
-- Sealed Box
-- Π
-- δ
 excerpt: 'The sky is a single object: a Π-projected spectral imprint of δ. All observed
   phenomena are **different aspects of the same ladder**, viewed through different
   Π channels (spatial, temporal, angular). ...'
-heading: '**Corollary (Empirical Unity).**'
-id: GEN12-1644
-lines: 1766-1780
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-π-observables::corollary-empirical-unity::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Π → Observables ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- different aspects of the same ladder
+- Box
+- Π
+- Π-projected
+- cross-scale
+- δ
+- End of Sealed Box
+- Cosmic Pipeline
+- Sealed Box
+aliases:
+- Bk250ts
+tags:
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.754098360655737
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

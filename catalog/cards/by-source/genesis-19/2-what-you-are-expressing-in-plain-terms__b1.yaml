@@ -1,8 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'You’re describing: * You start with atomic semantic units: concepts \+ relationships'
-heading: 2\. What You Are Expressing (In Plain Terms)
 id: GEN19-6060
-lines: 520-534
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::2-what-you-are-expressing-in-plain-terms::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 520-534
+heading: 2\. What You Are Expressing (In Plain Terms)
+block_type: paragraph
+excerpt: 'You’re describing: * You start with atomic semantic units: concepts \+ relationships'
+concepts:
+- MBC
+- →
+aliases:
+- Bk020yd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.076923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

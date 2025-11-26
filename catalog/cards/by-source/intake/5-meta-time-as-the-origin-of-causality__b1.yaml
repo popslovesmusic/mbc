@@ -1,10 +1,25 @@
+id: INTK-9893
+location: intake/meta-genesis-core-papers-foundations::5-meta-time-as-the-origin-of-causality::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1793-1795
+heading: '**5\. Meta-Time as the Origin of Causality**'
 block_type: paragraph
+excerpt: 'Once Meta-Time exists, it provides:'
 concepts:
 - Meta-Time
 - Once Meta
-excerpt: 'Once Meta-Time exists, it provides:'
-heading: '**5\. Meta-Time as the Origin of Causality**'
-id: INTK-9893
-lines: 1793-1795
-location: intake/meta-genesis-core-papers-foundations::5-meta-time-as-the-origin-of-causality::b1
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+aliases:
+- Bk218om
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

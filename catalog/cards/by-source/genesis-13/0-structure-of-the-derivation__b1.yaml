@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Tri-Unity
-- Π
-- Φ
-- δ
-excerpt: 'We follow the IGSOA Tri-Unity: δ  →  Φ  →  Π,\\delta \\;\\to\\; \\Phi \\;\\to\\;
-  \\Pi,δ→Φ→Π, interpreted in condensed-matter context as:'
-heading: '**0\. Structure of the Derivation**'
 id: GEN13-2174
-lines: 2071-2085
 location: genesis-13/meta-math-nuclear-physics::0-structure-of-the-derivation::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2071-2085
+heading: '**0\. Structure of the Derivation**'
+block_type: paragraph
+excerpt: 'We follow the IGSOA Tri-Unity: δ  →  Φ  →  Π,\\delta \\;\\to\\; \\Phi \\;\\to\\;
+  \\Pi,δ→Φ→Π, interpreted in condensed-matter context as:'
+concepts:
+- →
+- Tri-Unity
+- IGSOA
+- Π
+- δ
+- Φ
+- condensed-matter
+aliases:
+- Bk835ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

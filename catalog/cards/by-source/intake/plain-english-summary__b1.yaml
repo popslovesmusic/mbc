@@ -1,12 +1,28 @@
-block_type: list
-concepts:
-- The Zero State
-- necessary
-- δ
-excerpt: '* The Zero State cannot remain perfectly still. * Because it cannot be empty,
-  it cannot maintain infinite symmetry. * That makes deviation **necessary**.'
-heading: '**Plain English Summary**'
 id: INTK-9809
-lines: 671-690
 location: intake/meta-genesis-core-papers-foundations::plain-english-summary::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 671-690
+heading: '**Plain English Summary**'
+block_type: list
+excerpt: '* The Zero State cannot remain perfectly still. * Because it cannot be empty,
+  it cannot maintain infinite symmetry. * That makes deviation **necessary**.'
+concepts:
+- Deviation
+- State
+- δ
+- The Zero State
+- necessary
+aliases:
+- Bk013tz
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.8125
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

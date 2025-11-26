@@ -1,13 +1,35 @@
+id: GEN7-8469
+location: genesis-7/the-complete-eft-lagrangian::the-δ-eft-axiom-box-sealed::axiom-2-deviational-propagation::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 426-447
+heading: '**Axiom 2 — Deviational Propagation**'
+parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
 block_type: paragraph
-concepts:
-- Adjacency Graph
-- δ
 excerpt: 'Deviation propagates through the emergence of adjacency: δ↦A:Adjacency Graph.\\delta
   \\mapsto \\mathcal{A}: \\text{Adjacency Graph}.δ↦A:Adjacency Graph. Adjacency is
   the unique carrier of δ-informatio...'
-heading: '**Axiom 2 — Deviational Propagation**'
-id: GEN7-8469
-lines: 426-447
-location: genesis-7/the-complete-eft-lagrangian::the-δ-eft-axiom-box-sealed::axiom-2-deviational-propagation::b1
-parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- Adjacency
+- δ
+- δ-geometry
+- Deviation
+- Adjacency Graph
+- adjacency-structured
+- δ-information
+- δ-boson
+- δ-EFT
+aliases:
+- Bk926dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.363636363636363
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

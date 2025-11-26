@@ -1,11 +1,34 @@
-block_type: paragraph
-concepts:
-- Ψ
-- δ
-excerpt: 'The core IGSOA axiom is: **Deviation is the first structure.** The first
-  action δ on the zero-state:'
-heading: '**1\. Deviation (δ) Generates All Three**'
 id: GEN8-8752
-lines: 777-808
 location: genesis-8/corollary-einstein-compatibility-via::1-deviation-δ-generates-all-three::b1
 source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 777-808
+heading: '**1\. Deviation (δ) Generates All Three**'
+block_type: paragraph
+excerpt: 'The core IGSOA axiom is: **Deviation is the first structure.** The first
+  action δ on the zero-state:'
+concepts:
+- δ
+- Deviation
+- IGSOA
+- Ψ
+- Axiom
+- δ-harmonic spectrum
+- color-like
+- zero-state
+- δ-harmonic
+- meta-time
+- →
+aliases:
+- Bk221tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.222222222222221
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

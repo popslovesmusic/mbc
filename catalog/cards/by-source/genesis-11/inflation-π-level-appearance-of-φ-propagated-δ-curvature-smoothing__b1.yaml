@@ -1,12 +1,28 @@
+id: GEN11-1146
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::5-summary-baseline-igsoa-principle::inflation-π-level-appearance-of-φ-propagated-δ-curvature-smoothing::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 785-794
+heading: '**Inflation \= Π-level appearance of Φ-propagated δ-curvature smoothing.**'
+parent_heading: '**5\. Summary (baseline IGSOA principle)**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'Or equivalently: **Inflation is the emergent spacetime interpretation of
   the Genesis-level relaxation of deviation geometry.** It is not a “thing that happened
   to the universe,”'
-heading: '**Inflation \= Π-level appearance of Φ-propagated δ-curvature smoothing.**'
-id: GEN11-1146
-lines: 785-794
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::5-summary-baseline-igsoa-principle::inflation-π-level-appearance-of-φ-propagated-δ-curvature-smoothing::b1
-parent_heading: '**5\. Summary (baseline IGSOA principle)**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- projection of Genesis dynamics into geometry
+- Genesis-level
+- Π
+aliases:
+- Bk760ei
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

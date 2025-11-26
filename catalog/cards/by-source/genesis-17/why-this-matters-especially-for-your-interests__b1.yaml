@@ -1,11 +1,28 @@
+id: GEN17-4868
+location: genesis-17/key-points::why-this-matters-especially-for-your-interests::b1
+source: genesis-17\Key_Points.md
+lines: 14-22
+heading: '**Why this matters (especially for your interests)**'
 block_type: list
-concepts:
-- Causal Sphere
 excerpt: '* Since you’re developing deep theoretical frameworks (for example your
   “Causal Sphere of Influence” conception), this article touches on exactly the sort
   of foundational physics re-thinking you seem ...'
-heading: '**Why this matters (especially for your interests)**'
-id: GEN17-4868
-lines: 14-22
-location: genesis-17/key-points::why-this-matters-especially-for-your-interests::b1
-source: genesis-17\Key_Points.md
+concepts:
+- meta-physical
+- re-thinking
+- Causal Sphere
+aliases:
+- Bk258sy
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.586206896551724
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

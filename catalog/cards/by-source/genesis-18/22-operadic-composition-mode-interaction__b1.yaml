@@ -1,12 +1,31 @@
+id: GEN18-5222
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::2-δ-modes-as-an-operad::22-operadic-composition-mode-interaction::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1084-1106
+heading: '**2.2 Operadic Composition \= Mode Interaction**'
+parent_heading: '**2\. δ-Modes as an Operad**'
 block_type: table
-concepts:
-- δ
-- ω
 excerpt: Given ω∈Oδ(c1,…,cn;c),ωi∈Oδ(di1,…,diki;ci)\\omega\\in\\mathcal{O}\_\\delta(c\_1,\\dots,c\_n;c),
   \\quad \\omega\_i\\in\\mathcal{O}\_\\delta(d\_{i1},\\dots,d\_{ik\_i};c\_i)ω∈Oδ​(c1​,…,cn​;c),ωi​∈Oδ​(di1...
-heading: '**2.2 Operadic Composition \= Mode Interaction**'
-id: GEN18-5222
-lines: 1084-1106
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::2-δ-modes-as-an-operad::22-operadic-composition-mode-interaction::b1
-parent_heading: '**2\. δ-Modes as an Operad**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- ω
+- δ
+- ∈
+- IGSOA
+- δ-modes
+- δ-patterns
+aliases:
+- Bk524si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.870967741935484
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

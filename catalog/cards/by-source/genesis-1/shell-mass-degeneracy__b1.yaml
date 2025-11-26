@@ -1,12 +1,27 @@
+id: GEN1-420
+location: genesis-1/the-first-geometry::the-δ-higgs-mass-tower-and-degeneracy-structure::5-shell-structure-2-8-18-32-δ-adjacency-sectors::shell-mass-degeneracy::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 935-943
+heading: '**Shell Mass Degeneracy**'
+parent_heading: '**5\. Shell Structure: 2, 8, 18, 32 (δ-Adjacency Sectors)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'deg⁡(mn2)=∣Sn∣.\\deg( m\_n^2 ) \= |\\mathcal{S}\_n|.deg(mn2​)=∣Sn​∣. The
   mass tower therefore has the structural form: Tδ={m12⏟×2,m22⏟×8,m32⏟×18,m42⏟×32,…}.\\mathcal{T}\_\\delta
   \= \\{ \\underbrace{m\...'
-heading: '**Shell Mass Degeneracy**'
-id: GEN1-420
-lines: 935-943
-location: genesis-1/the-first-geometry::the-δ-higgs-mass-tower-and-degeneracy-structure::5-shell-structure-2-8-18-32-δ-adjacency-sectors::shell-mass-degeneracy::b1
-parent_heading: '**5\. Shell Structure: 2, 8, 18, 32 (δ-Adjacency Sectors)**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- δ
+aliases:
+- Bk310dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.4705882352941175
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,26 @@
+id: GEN9-9315
+location: genesis-9/does-meta-genesis-indicate-new-physics::5-why-asymmetry-cannot-exist-alone::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1601-1629
+heading: '**5\. Why Asymmetry Cannot Exist Alone**'
 block_type: paragraph
-concepts:
-- Axiom
-- Integration Axiom
-- co-arising
-- Φ
 excerpt: 'Suppose asymmetry existed in isolation. Maximal deviation \= unbounded chaos,
   no stable structure, no persistence. This is ruled out by the **Integration Axiom
   (Φ)**:'
-heading: '**5\. Why Asymmetry Cannot Exist Alone**'
-id: GEN9-9315
-lines: 1601-1629
-location: genesis-9/does-meta-genesis-indicate-new-physics::5-why-asymmetry-cannot-exist-alone::b1
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- Axiom
+- co-arising
+- Φ
+- Integration Axiom
+aliases:
+- Bk299sa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.47945205479452
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

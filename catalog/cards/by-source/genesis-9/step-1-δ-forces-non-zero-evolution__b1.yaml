@@ -1,13 +1,28 @@
+id: GEN9-9263
+location: genesis-9/does-meta-genesis-indicate-new-physics::proof-sketch-category-theoretic::step-1-δ-forces-non-zero-evolution::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 910-916
+heading: '**Step 1 — δ forces non-zero evolution**'
+parent_heading: '**Proof Sketch (Category-Theoretic)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: Since δ(Ψ₀) ≠ Ψ₀ and δ has no left inverse, deviation introduces **irreversible
   motion away from perfect symmetry**. Thus the system cannot remain in or return
   to Ψ₀. ---
-heading: '**Step 1 — δ forces non-zero evolution**'
-id: GEN9-9263
-lines: 910-916
-location: genesis-9/does-meta-genesis-indicate-new-physics::proof-sketch-category-theoretic::step-1-δ-forces-non-zero-evolution::b1
-parent_heading: '**Proof Sketch (Category-Theoretic)**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- irreversible motion away from perfect symmetry
+- Ψ
+- δ
+- Ψ₀
+- ≠
+aliases:
+- Bk532sa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.857142857142858
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

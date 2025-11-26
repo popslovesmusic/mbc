@@ -1,12 +1,32 @@
+id: GEN5-8127
+location: genesis-5/meta-einstein-axiom-box-language-sealed::the-genesisaction-functor-box::ga-3-functorial-emergence-of-φ::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 595-611
+heading: '**GA-3 — Functorial Emergence of Φ**'
+parent_heading: '**▣ THE GENESIS–ACTION FUNCTOR BOX**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Action is the realization of deviation. There exists a natural transformation
   Φ:F⇒IdAct\\Phi: F \\Rightarrow \\mathrm{Id}\_{\\mathbf{Act}}Φ:F⇒IdAct​'
-heading: '**GA-3 — Functorial Emergence of Φ**'
-id: GEN5-8127
-lines: 595-611
-location: genesis-5/meta-einstein-axiom-box-language-sealed::the-genesisaction-functor-box::ga-3-functorial-emergence-of-φ::b1
-parent_heading: '**▣ THE GENESIS–ACTION FUNCTOR BOX**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Φ
+- Genesis-ordering
+- Action-object
+- δ
+- least realization
+- ΦA
+- dual lifts
+aliases:
+- Bk293at
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.144927536231885
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

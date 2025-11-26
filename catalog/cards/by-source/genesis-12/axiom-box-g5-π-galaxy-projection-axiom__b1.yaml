@@ -1,12 +1,28 @@
+id: GEN12-1861
+location: genesis-12/untitled-document::2-axiom-boxes-used::axiom-box-g5-π-galaxy-projection-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 2114-2118
+heading: '**Axiom Box G5 — Π-Galaxy Projection Axiom**'
+parent_heading: '**2\. Axiom Boxes Used**'
 block_type: paragraph
+excerpt: Π projects Φ₂ curvature nodes to observable galactic states once baryonic
+  thresholds are reached. ---
 concepts:
 - Π
 - Φ
-excerpt: Π projects Φ₂ curvature nodes to observable galactic states once baryonic
-  thresholds are reached. ---
-heading: '**Axiom Box G5 — Π-Galaxy Projection Axiom**'
-id: GEN12-1861
-lines: 2114-2118
-location: genesis-12/untitled-document::2-axiom-boxes-used::axiom-box-g5-π-galaxy-projection-axiom::b1
-parent_heading: '**2\. Axiom Boxes Used**'
-source: genesis-12\Untitled_document.md
+- Φ₂
+aliases:
+- Bk792pc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

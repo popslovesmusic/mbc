@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- σ
-excerpt: 'The full diagram is **strictly commutative**: Π∘Υ∘i=Π∘Φ.\\Pi \\circ Υ \\circ
-  i \= \\Pi \\circ \\Phi.Π∘Υ∘i=Π∘Φ. Meaning:'
-heading: '**2\. The Commutative Structure**'
 id: GEN2-6525
-lines: 760-771
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::2-the-commutative-structure::b1
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 760-771
+heading: '**2\. The Commutative Structure**'
+block_type: paragraph
+excerpt: 'The full diagram is **strictly commutative**: Π∘Υ∘i=Π∘Φ.\\Pi \\circ Υ \\circ
+  i \= \\Pi \\circ \\Phi.Π∘Υ∘i=Π∘Φ. Meaning:'
+concepts:
+- →
+- Π
+- Υ
+- Φ
+- σ
+- same classical geometry
+- δ
+- strictly commutative
+aliases:
+- Bk068tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,31 @@
+id: GEN3-7299
+location: genesis-3/metagenesis::the-not-axiom::axiom-not-0-zero-state-prohibition::b1
+source: genesis-3\metagenesis.md
+lines: 419-430
+heading: '**Axiom NOT-0 (Zero-State Prohibition)**'
+parent_heading: '**THE NOT AXIOM**'
 block_type: paragraph
-concepts:
-- Zero-State
-- Ψ
 excerpt: 'Let Ψ₀ denote the Zero-State. No operator **of any kind** may be defined,
   applied, or possess a domain or codomain involving Ψ₀. Formally:'
-heading: '**Axiom NOT-0 (Zero-State Prohibition)**'
-id: GEN3-7299
-lines: 419-430
-location: genesis-3/metagenesis::the-not-axiom::axiom-not-0-zero-state-prohibition::b1
-parent_heading: '**THE NOT AXIOM**'
-source: genesis-3\metagenesis.md
+concepts:
+- Ψ
+- State
+- ≠
+- ∀
+- Zero-State
+- Ψ₀
+- of any kind
+aliases:
+- Bk321ld
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.641975308641975
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

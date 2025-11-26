@@ -1,11 +1,27 @@
+id: GEN12-1703
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p4-lensing-predictions::p42-lensing-axis-reproduction::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2589-2595
+heading: '**P4.2 Lensing Axis Reproduction**'
+parent_heading: '**Axiom P4 (Lensing Predictions).**'
 block_type: paragraph
-concepts:
-- also
 excerpt: 'The CMB axis-of-evil must **also** appear in lensing maps: Axislens=AxisCMB.\\text{Axis}\_{\\text{lens}}
   \= \\text{Axis}\_{\\text{CMB}}.Axislens​=AxisCMB​. ---'
-heading: '**P4.2 Lensing Axis Reproduction**'
-id: GEN12-1703
-lines: 2589-2595
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p4-lensing-predictions::p42-lensing-axis-reproduction::b1
-parent_heading: '**Axiom P4 (Lensing Predictions).**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- axis-of-evil
+- also
+aliases:
+- Bk670tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

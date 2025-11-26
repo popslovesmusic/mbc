@@ -1,13 +1,28 @@
+id: GEN9-9164
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-φ-modes-emergence-of-geometric-form::32-φ-and-tri-unity::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2124-2130
+heading: '**3.2 Φ and Tri-Unity**'
+parent_heading: '**3\. Φ-Modes: Emergence of Geometric Form**'
 block_type: paragraph
-concepts:
-- Φ
-- λ
 excerpt: 'Φ inherits the triadic constraint: λ1+λ2+λ3=0\\lambda\_{1} \+ \\lambda\_{2}
   \+ \\lambda\_{3} \= 0λ1​+λ2​+λ3​=0 which forces spherical-like symmetry and angular
   momentum classes *without assuming space...'
-heading: '**3.2 Φ and Tri-Unity**'
-id: GEN9-9164
-lines: 2124-2130
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-φ-modes-emergence-of-geometric-form::32-φ-and-tri-unity::b1
-parent_heading: '**3\. Φ-Modes: Emergence of Geometric Form**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- λ
+- spherical-like
+- Φ
+aliases:
+- Bk190it
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

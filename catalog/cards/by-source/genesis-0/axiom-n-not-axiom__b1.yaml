@@ -1,12 +1,26 @@
+id: GEN0-248
+location: genesis-0/tri-unity-theorem-equivalence-of::2-why-δ-must-exist-the-formal-proof::axiom-n-not-axiom::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1306-1314
+heading: '**Axiom N — NOT Axiom**'
+parent_heading: '**2\. Why δ Must Exist — The Formal Proof**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'Perfect stillness cannot be sustained: ¬(∀O, OΨ0=Ψ0).\\neg(\\forall\\mathcal{O},\\
   \\mathcal{O}\\Psi\_0=\\Psi\_0).¬(∀O, OΨ0​=Ψ0​). This “breaks the possibility of
   eternal stasis.”'
-heading: '**Axiom N — NOT Axiom**'
-id: GEN0-248
-lines: 1306-1314
-location: genesis-0/tri-unity-theorem-equivalence-of::2-why-δ-must-exist-the-formal-proof::axiom-n-not-axiom::b1
-parent_heading: '**2\. Why δ Must Exist — The Formal Proof**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- ∀
+- ¬
+aliases:
+- Bk034ps
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

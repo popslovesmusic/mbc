@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'this looks like a miracle.”\*\* They design: * angles'
-heading: '**\*\*“From the back of the room,**'
 id: SPEC-11328
-lines: 6965-6990
 location: special/specil::3-the-sweet-spot-magicians-aim-for-is-exactly-what-you-joked-about::from-the-back-of-the-room::b1
+source: special\specil.md
+lines: 6965-6990
+heading: '**\*\*“From the back of the room,**'
 parent_heading: '**⭐ 3\. The “sweet spot” magicians aim for is EXACTLY what you joked
   about**'
-source: special\specil.md
+block_type: paragraph
+excerpt: 'this looks like a miracle.”\*\* They design: * angles'
+concepts:
+- the perfect vantage point illusion
+aliases:
+- Bk899tl
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.0408163265306123
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (string diagrams, adjacency graphs, curvature cubes, commutator tetrahedra)
-heading: '**Appendix B — Full Diagrammatic Calculus**'
 id: INTK-10649
-lines: 1461-1463
 location: intake/volume-i-core-ontology-and-metagenesis-summary::appendix-a-completed::appendix-b-full-diagrammatic-calculus::b1
-parent_heading: '**Appendix A Completed**'
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1461-1463
+heading: '**Appendix B — Full Diagrammatic Calculus**'
+parent_heading: '**Appendix A Completed**'
+block_type: paragraph
+excerpt: (string diagrams, adjacency graphs, curvature cubes, commutator tetrahedra)
+aliases:
+- Bk844sd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

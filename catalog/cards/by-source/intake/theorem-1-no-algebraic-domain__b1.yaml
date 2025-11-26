@@ -1,11 +1,23 @@
+id: INTK-9962
+location: intake/meta-genesis-mathematical-papers::1-algebraic-domain-exclusion::theorem-1-no-algebraic-domain::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 257-260
+heading: '**Theorem 1 (No Algebraic Domain).**'
+parent_heading: '**1\. Algebraic Domain Exclusion**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: '**Claim:** If Ψ0\\Psi\_0Ψ0​ has no algebraic structure, then no operator
   can act on it.'
-heading: '**Theorem 1 (No Algebraic Domain).**'
-id: INTK-9962
-lines: 257-260
-location: intake/meta-genesis-mathematical-papers::1-algebraic-domain-exclusion::theorem-1-no-algebraic-domain::b1
-parent_heading: '**1\. Algebraic Domain Exclusion**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+aliases:
+- Bk757cp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

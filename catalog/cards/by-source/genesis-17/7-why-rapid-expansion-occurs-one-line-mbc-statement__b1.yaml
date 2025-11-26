@@ -1,14 +1,31 @@
+id: GEN17-5105
+location: genesis-17/mbc-schema-3::7-why-rapid-expansion-occurs-one-line-mbc-statement::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1366-1376
+heading: '**7\. Why Rapid Expansion Occurs (One-Line MBC Statement)**'
 block_type: paragraph
-concepts:
-- cleanest
-- Π
-- Φ
-- δ
 excerpt: Rapid expansion occurs because δ generates a Φ-field faster than Π can discretize
   it.\\boxed{ \\text{Rapid expansion occurs because } \\delta \\text{ generates a
   Φ-field faster than Π can discretize i...
-heading: '**7\. Why Rapid Expansion Occurs (One-Line MBC Statement)**'
-id: GEN17-5105
-lines: 1366-1376
-location: genesis-17/mbc-schema-3::7-why-rapid-expansion-occurs-one-line-mbc-statement::b1
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Π
+- Φ
+- Φ-growth
+- Φ-field
+- Π-order
+- δ
+- cleanest
+aliases:
+- Bk256re
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.860759493670885
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

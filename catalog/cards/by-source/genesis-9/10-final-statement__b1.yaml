@@ -1,14 +1,37 @@
-block_type: paragraph
-concepts:
-- Mathematical Appendix
-- Meta-Time
-- Π
-- Φ
-- δ
-excerpt: 'The central message of this chapter is simple: **Symmetry and asymmetry
-  are one thing in two modes.** **They are not separate forces.**'
-heading: '**10\. Final Statement**'
 id: GEN9-9329
-lines: 1742-1791
 location: genesis-9/does-meta-genesis-indicate-new-physics::10-final-statement::b1
 source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1742-1791
+heading: '**10\. Final Statement**'
+block_type: paragraph
+excerpt: 'The central message of this chapter is simple: **Symmetry and asymmetry
+  are one thing in two modes.** **They are not separate forces.**'
+concepts:
+- Φ-projection
+- Meta-Time
+- IGSOA
+- Π-classicality
+- δ-harmonics
+- fixed-point
+- co-arising
+- Π
+- δ
+- Mathematical Appendix
+- Φ
+- executive summary
+- next chapter
+- diagram page
+aliases:
+- Bk207tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.76923076923077
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

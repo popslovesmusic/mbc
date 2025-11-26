@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: 'Semantic ambiguity is preserved, not destroyed. Formal: Θout=Θ1⊕Θ2'
-heading: B2.7 Ambiguity Gate (Structured Ambiguity)
 id: GEN20-7191
-lines: 7053-7074
 location: genesis-20/mbc-40-documentaitio-1::b27-ambiguity-gate-structured-ambiguity::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7053-7074
+heading: B2.7 Ambiguity Gate (Structured Ambiguity)
+block_type: paragraph
+excerpt: 'Semantic ambiguity is preserved, not destroyed. Formal: Θout=Θ1⊕Θ2'
+concepts:
+- Θ
+- ⊕
+- multi-meaning
+aliases:
+- Bk496sa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,29 @@
+id: GEN2-6267
+location: genesis-2/axioms-for-the-category-genesis::step-3-construction-of-the-functor::identity-preservation::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 715-729
+heading: '**Identity Preservation**'
+parent_heading: '**\*\*🔶 Step 3 — Construction of the Functor**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'Genesis lacks identities at Ψ₀; Math has identities at every object. But
   functors **do not require identity existence in the domain** — only that if identities
   exist, they are preserved. Since:'
-heading: '**Identity Preservation**'
-id: GEN2-6267
-lines: 715-729
-location: genesis-2/axioms-for-the-category-genesis::step-3-construction-of-the-functor::identity-preservation::b1
-parent_heading: '**\*\*🔶 Step 3 — Construction of the Functor**'
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- do not require identity existence in the domain
+- Ψ
+- Ψ₀
+aliases:
+- Bk946gl
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.918032786885246
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

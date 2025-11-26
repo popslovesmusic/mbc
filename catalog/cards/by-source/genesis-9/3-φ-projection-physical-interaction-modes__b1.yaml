@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Φ
-- α
-- δ
-- ρ
-excerpt: 'Φ acts as: Φ:Hδ→Hint\\Phi: \\mathcal{H}\_\\delta \\rightarrow \\mathcal{H}\_{\\text{int}}Φ:Hδ​→Hint​
-  mapping δ-geometry into:'
-heading: '**3\. Φ-Projection: Physical Interaction Modes**'
 id: GEN9-9404
-lines: 1013-1037
 location: genesis-9/is-the-source-of-all-structure::3-φ-projection-physical-interaction-modes::b1
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 1013-1037
+heading: '**3\. Φ-Projection: Physical Interaction Modes**'
+block_type: paragraph
+excerpt: 'Φ acts as: Φ:Hδ→Hint\\Phi: \\mathcal{H}\_\\delta \\rightarrow \\mathcal{H}\_{\\text{int}}Φ:Hδ​→Hint​
+  mapping δ-geometry into:'
+concepts:
+- δ-geometry
+- ψ
+- Φ
+- α
+- ρ
+- δ
+- ⊗
+- →
+- proto-orbitals
+aliases:
+- Bk434ah
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.278350515463918
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

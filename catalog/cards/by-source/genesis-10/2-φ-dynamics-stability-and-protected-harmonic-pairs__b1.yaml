@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: Phases protected by a Z₂ index require **pairing structure**—analogous to
-  time-reversal Kramers pairs. Φ-dynamics generates this pairing.
-heading: '**2\. Φ-Dynamics: Stability and Protected Harmonic Pairs**'
 id: GEN10-710
-lines: 489-493
 location: genesis-10/how-stillness-becomes-solid::2-φ-dynamics-stability-and-protected-harmonic-pairs::b1
 source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 489-493
+heading: '**2\. Φ-Dynamics: Stability and Protected Harmonic Pairs**'
+block_type: paragraph
+excerpt: Phases protected by a Z₂ index require **pairing structure**—analogous to
+  time-reversal Kramers pairs. Φ-dynamics generates this pairing.
+concepts:
+- time-reversal
+- Φ-dynamics
+- Φ
+- pairing structure
+aliases:
+- Bk429pp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

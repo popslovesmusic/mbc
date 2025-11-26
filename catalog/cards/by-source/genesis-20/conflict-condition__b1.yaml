@@ -1,10 +1,27 @@
+id: GEN20-7144
+location: genesis-20/mbc-40-documentaitio-1::a34-multi-input-stability::conflict-condition::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6099-6116
+heading: Conflict Condition
+parent_heading: A3.4 Multi-Input Stability
 block_type: paragraph
+excerpt: 'If: ∃i,j such that Φi→B ≁ Φj→B ∃i,j such that Φ'
 concepts:
 - Φ
-excerpt: 'If: ∃i,j such that Φi→B ≁ Φj→B ∃i,j such that Φ'
-heading: Conflict Condition
-id: GEN20-7144
-lines: 6099-6116
-location: genesis-20/mbc-40-documentaitio-1::a34-multi-input-stability::conflict-condition::b1
-parent_heading: A3.4 Multi-Input Stability
-source: genesis-20\MBC_40_Documentaitio-1.md
+- →
+- polarity-weighted
+- ∃
+- Φi
+- Φj
+aliases:
+- Bk382st
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

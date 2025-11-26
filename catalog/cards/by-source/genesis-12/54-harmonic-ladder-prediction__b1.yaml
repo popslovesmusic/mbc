@@ -1,11 +1,29 @@
+id: GEN12-1738
+location: genesis-12/untitled-document::5-consequences-for-cmb-physics::54-harmonic-ladder-prediction::b1
+source: genesis-12\Untitled_document.md
+lines: 260-268
+heading: '**5.4 Harmonic Ladder Prediction**'
+parent_heading: '**5\. Consequences for CMB Physics**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Degenerate δ-mode towers project to **harmonic ladders** in the CMB: * ℓ
   \= 2, 6, 10, 14, … * matching 3-6-9 periodicity you use in δ-harmonic counting.'
-heading: '**5.4 Harmonic Ladder Prediction**'
-id: GEN12-1738
-lines: 260-268
-location: genesis-12/untitled-document::5-consequences-for-cmb-physics::54-harmonic-ladder-prediction::b1
-parent_heading: '**5\. Consequences for CMB Physics**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- δ-harmonic
+- δ-mode
+- harmonic ladders
+aliases:
+- Bk981dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.814814814814813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

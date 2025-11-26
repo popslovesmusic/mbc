@@ -1,11 +1,26 @@
+id: GEN20-7115
+location: genesis-20/mbc-40-documentaitio-1::a24-causal-order-formal-structure::loop-condition::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5766-5772
+heading: Loop Condition
+parent_heading: A2.4 Causal Order (Formal Structure)
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'A loop is permitted only if: Φ stabilizes all participating boxes Φ stabilizes
   all participating boxes'
-heading: Loop Condition
-id: GEN20-7115
-lines: 5766-5772
-location: genesis-20/mbc-40-documentaitio-1::a24-causal-order-formal-structure::loop-condition::b1
-parent_heading: A2.4 Causal Order (Formal Structure)
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Φ
+aliases:
+- Bk109lp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

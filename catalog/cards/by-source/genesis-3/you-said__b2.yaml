@@ -1,14 +1,30 @@
+id: GEN3-7397
+location: genesis-3/the-physics-box-diagram::if-you-want-next::you-said::b2
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 479-481
+heading: '**You said:**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
+excerpt: The δ–Φ–Physics Axiom Box document
 concepts:
 - Axiom
 - Box
-- Physics Axiom Box
-- Φ
 - δ
-excerpt: The δ–Φ–Physics Axiom Box document
-heading: '**You said:**'
-id: GEN3-7397
-lines: 479-481
-location: genesis-3/the-physics-box-diagram::if-you-want-next::you-said::b2
-parent_heading: '**If you want next:**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+- Φ
+- Physics Axiom Box
+aliases:
+- Bk443tp
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 71.42857142857143
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

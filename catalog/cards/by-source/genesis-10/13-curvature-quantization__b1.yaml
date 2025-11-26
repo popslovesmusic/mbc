@@ -1,13 +1,32 @@
+id: GEN10-708
+location: genesis-10/how-stillness-becomes-solid::1-δ-geometry-curvature-parity-on-adjacency-space::13-curvature-quantization::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 463-469
+heading: '**1.3 Curvature Quantization**'
+parent_heading: '**1\. δ-Geometry: Curvature Parity on Adjacency Space**'
 block_type: paragraph
-concepts:
-- Σ
-- δ
 excerpt: 'In IGSOA, adjacency curvature is quantized: ∫ΣFδ=m⋅δ0,\\int\_{\\Sigma} F\_\\delta
   \= m \\cdot \\delta\_0 ,∫Σ​Fδ​=m⋅δ0​, with m∈Zm \\in \\mathbb{Z}m∈Z and δ0\\delta\_0δ0​
   the minimal curvature quantum.'
-heading: '**1.3 Curvature Quantization**'
-id: GEN10-708
-lines: 463-469
-location: genesis-10/how-stillness-becomes-solid::1-δ-geometry-curvature-parity-on-adjacency-space::13-curvature-quantization::b1
-parent_heading: '**1\. δ-Geometry: Curvature Parity on Adjacency Space**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- δ
+- IGSOA
+- ∫
+- Σ
+- ∈
+- ΣF
+aliases:
+- Bk144ia
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

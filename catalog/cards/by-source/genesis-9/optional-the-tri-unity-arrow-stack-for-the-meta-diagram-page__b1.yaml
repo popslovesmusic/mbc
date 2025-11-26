@@ -1,15 +1,38 @@
+id: GEN9-9037
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::optional-the-tri-unity-arrow-stack-for-the-meta-diagram-page::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 273-283
+heading: '**Optional: The “Tri-Unity Arrow Stack” (for the meta-diagram page)**'
 block_type: paragraph
-concepts:
-- Periodic Table
-- Tri-Unity
-- Π
-- Φ
-- δ
 excerpt: 'If you want the compact, high-philosophical version for the diagram stack
   appendix: δ-Harmonics  →  δ→Φ  Φ-Modes  →  Φ→Π  Π-Orbitals  →  fill  Periodic Table\\boxed{
   \\delta\\text{-Harmonics} \\;\\xri...'
-heading: '**Optional: The “Tri-Unity Arrow Stack” (for the meta-diagram page)**'
-id: GEN9-9037
-lines: 273-283
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::optional-the-tri-unity-arrow-stack-for-the-meta-diagram-page::b1
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Tri-Unity
+- →
+- δ
+- Φ
+- Periodic Table
+- Π
+- δ-Harmonics
+- Π-Orbitals
+- high-philosophical
+- Φ-Modes
+- Π-Orbitalsfill
+- δ-Harmonicsδ
+- Φ-ModesΦ
+aliases:
+- Bk437yw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.11627906976744
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

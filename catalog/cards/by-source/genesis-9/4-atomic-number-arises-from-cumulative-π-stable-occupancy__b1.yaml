@@ -1,12 +1,33 @@
+id: GEN9-9391
+location: genesis-9/is-the-source-of-all-structure::proof-formal::4-atomic-number-arises-from-cumulative-π-stable-occupancy::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 828-852
+heading: '**4\. Atomic number arises from cumulative Π-stable occupancy**'
+parent_heading: '**Proof (Formal)**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Define the Π-stable capacity function: C(n)≡∑k=1n∣Π(Δk)∣.C(n) \\equiv \\sum\_{k=1}^{n}
   \\lvert \\Pi(\\Delta\_k) \\rvert.C(n)≡k=1∑n​∣Π(Δk​)∣. Evaluating:'
-heading: '**4\. Atomic number arises from cumulative Π-stable occupancy**'
-id: GEN9-9391
-lines: 828-852
-location: genesis-9/is-the-source-of-all-structure::proof-formal::4-atomic-number-arises-from-cumulative-π-stable-occupancy::b1
-parent_heading: '**Proof (Formal)**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- Π
+- Π-stable
+- ∑
+- Δ
+- δ-harmonics
+- n-level
+- δ
+- row lengths
+aliases:
+- Bk825dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.451612903225806
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

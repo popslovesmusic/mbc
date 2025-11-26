@@ -1,14 +1,30 @@
+id: GEN16-3996
+location: genesis-16/untitled-document::5-construct-the-natural-isomorphisms::51-the-natural-iso-ηmgfmeta-m-to-gfmηmgfm::b1
+source: genesis-16\Untitled_document.md
+lines: 3219-3249
+heading: '**5.1 The Natural Iso η:M→G(F(M))\\eta: M \\to G(F(M))η:M→G(F(M))**'
+parent_heading: '**⭐ 5\. Construct the Natural Isomorphisms**'
 block_type: paragraph
-concepts:
-- Box
-- Meta-Math
-- η
-- μ
 excerpt: 'Take any Meta-Math object MMM: * F(M)F(M)F(M) makes it a Box BMB\_MBM​ *
   G(F(M))G(F(M))G(F(M)) returns to Meta-Math object MMM'
-heading: '**5.1 The Natural Iso η:M→G(F(M))\\eta: M \\to G(F(M))η:M→G(F(M))**'
-id: GEN16-3996
-lines: 3219-3249
-location: genesis-16/untitled-document::5-construct-the-natural-isomorphisms::51-the-natural-iso-ηmgfmeta-m-to-gfmηmgfm::b1
-parent_heading: '**⭐ 5\. Construct the Natural Isomorphisms**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Meta-Math
+- η
+- Box
+- μ
+- →
+aliases:
+- Bk953ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.05050505050505
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

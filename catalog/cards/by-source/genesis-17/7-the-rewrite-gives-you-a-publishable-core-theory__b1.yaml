@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'After the rewrite, IGSOA will have: * 1 operator * 1 curvature parameter'
-heading: ⭐ 7\. The Rewrite Gives You a Publishable Core Theory
 id: GEN17-4724
-lines: 8473-8496
 location: genesis-17/box-calculus::7-the-rewrite-gives-you-a-publishable-core-theory::b1
 source: genesis-17\box_calculus.md
+lines: 8473-8496
+heading: ⭐ 7\. The Rewrite Gives You a Publishable Core Theory
+block_type: paragraph
+excerpt: 'After the rewrite, IGSOA will have: * 1 operator * 1 curvature parameter'
+concepts:
+- IGSOA
+- category-theory
+aliases:
+- Bk711at
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 2.5974025974025974
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

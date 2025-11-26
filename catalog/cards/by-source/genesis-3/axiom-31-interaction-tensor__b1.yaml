@@ -1,13 +1,32 @@
+id: GEN3-7406
+location: genesis-3/the-physics-box-diagram::3-source-tensor-the-δφ-stressdeviation-field::axiom-31-interaction-tensor::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 615-631
+heading: '**Axiom 3.1 (Interaction Tensor)**'
+parent_heading: '**3\. Source Tensor: The δ/Φ Stress–Deviation Field**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Deviation and form induce a unified symmetric tensor: TδΦ:=δ(Φ)+Φ(δ).T\_{\\delta\\Phi}
   := \\delta(\\Phi) \+ \\Phi(\\delta).TδΦ​:=δ(Φ)+Φ(δ). This is the **δ/Φ source tensor**
   encoding:'
-heading: '**Axiom 3.1 (Interaction Tensor)**'
-id: GEN3-7406
-lines: 615-631
-location: genesis-3/the-physics-box-diagram::3-source-tensor-the-δφ-stressdeviation-field::axiom-31-interaction-tensor::b1
-parent_heading: '**3\. Source Tensor: The δ/Φ Stress–Deviation Field**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- δ
+- Φ
+- Deviation
+- stress-energy
+- δ-component
+- Φ-component
+aliases:
+- Bk352da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

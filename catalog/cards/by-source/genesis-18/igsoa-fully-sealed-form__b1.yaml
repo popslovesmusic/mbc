@@ -1,15 +1,33 @@
+id: GEN18-5474
+location: genesis-18/mbc-4::x-the-full-formal-theorem-hermetic-box-form::igsoa-fully-sealed-form::b1
+source: genesis-18\MBC-4.md
+lines: 1321-1327
+heading: '**IGSOA (fully sealed form)**'
+parent_heading: '**X. The Full Formal Theorem (Hermetic Box Form)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ω
-- δ
 excerpt: ∀X,  S(X)=Ω(Π(Φ(δ(X))))  ∧  S(S(X))=S(X)  ∧  δ≤Φ≤Π≤Ω\\boxed{ \\forall X,\\;
   \\mathcal{S}(X)= \\Omega\\big(\\Pi(\\Phi(\\delta(X)))\\big) \\;\\land\\; \\mathcal{S}(\\mathcal{S}(X))=\\mathcal{S}(X)
   \\;\\...
-heading: '**IGSOA (fully sealed form)**'
-id: GEN18-5474
-lines: 1321-1327
-location: genesis-18/mbc-4::x-the-full-formal-theorem-hermetic-box-form::igsoa-fully-sealed-form::b1
-parent_heading: '**X. The Full Formal Theorem (Hermetic Box Form)**'
-source: genesis-18\MBC-4.md
+concepts:
+- ≤
+- ∧
+- Ω
+- Π
+- δ
+- Φ
+- ∀
+aliases:
+- Bk344bf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.210526315789473
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

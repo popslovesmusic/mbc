@@ -1,14 +1,38 @@
+id: GEN10-920
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::10-if-you-want-next-versions-i-can-produce::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2862-2874
+heading: '**10\. If you want next versions, I can produce:**'
 block_type: list
-concepts:
-- Spectral Action
-- Π
-- Φ
-- δ
 excerpt: '* A **C\*-algebraic Gelfand–Naimark reconstruction** * A **Connes-style
   distance formula** for δ-geometry * A **δ-Spectral Action** (analog of Connes–Chamseddine
   action)'
-heading: '**10\. If you want next versions, I can produce:**'
-id: GEN10-920
-lines: 2862-2874
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::10-if-you-want-next-versions-i-can-produce::b1
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- δ-geometry
+- Connes-style distance formula
+- δ
+- full 15-page journal paper
+- →
+- δ-Spectral Action
+- Connes-style
+- δ-spectral
+- δ-Spectral
+- Π
+- Φ
+- Spectral Action
+- diagram stack
+aliases:
+- Bk534ag
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.23255813953488
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,32 @@
+id: GEN18-5376
+location: genesis-18/mbc-4::3-the-π-layer-reasoning-as-evaluation-resolution::igsoa-view::b1
+source: genesis-18\MBC-4.md
+lines: 294-322
+heading: '**IGSOA view**'
+parent_heading: '**3\. The Π-Layer (Reasoning as Evaluation & Resolution)**'
 block_type: paragraph
+excerpt: '`Φ-object` `│` `▼`'
 concepts:
 - Π
-- Φ
+- Π-stabilize
+- Π-resolve
 - Φ-object
-excerpt: '`Φ-object` `│` `▼`'
-heading: '**IGSOA view**'
-id: GEN18-5376
-lines: 294-322
-location: genesis-18/mbc-4::3-the-π-layer-reasoning-as-evaluation-resolution::igsoa-view::b1
-parent_heading: '**3\. The Π-Layer (Reasoning as Evaluation & Resolution)**'
-source: genesis-18\MBC-4.md
+- Φ
+- Π-gate
+- Π-collapse
+- Π-GATE
+aliases:
+- Bk534og
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.51282051282051
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

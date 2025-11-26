@@ -1,13 +1,30 @@
+id: GEN14-2900
+location: genesis-14/meta-math-and-cryptography::4-consequences-for-each-cryptographic-branch::lattice-cryptography::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1582-1584
+heading: '**Lattice cryptography:**'
+parent_heading: '**4\. Consequences for Each Cryptographic Branch**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Φ maps δ-short vectors to noisy high-dimensional projections; Π erases basis
   structure.
-heading: '**Lattice cryptography:**'
-id: GEN14-2900
-lines: 1582-1584
-location: genesis-14/meta-math-and-cryptography::4-consequences-for-each-cryptographic-branch::lattice-cryptography::b1
-parent_heading: '**4\. Consequences for Each Cryptographic Branch**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- high-dimensional
+- δ-short
+- Π
+- δ
+- Φ
+aliases:
+- Bk496ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 35.714285714285715
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

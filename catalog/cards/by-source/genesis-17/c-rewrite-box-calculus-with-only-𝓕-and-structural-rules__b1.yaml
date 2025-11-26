@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (all operators become derived)
-heading: C. Rewrite Box Calculus with ONLY 𝓕 and structural rules
 id: GEN17-4708
-lines: 8252-8254
 location: genesis-17/box-calculus::6-what-we-should-do-next::c-rewrite-box-calculus-with-only-𝓕-and-structural-rules::b1
-parent_heading: ⭐ 6\. What we should do next
 source: genesis-17\box_calculus.md
+lines: 8252-8254
+heading: C. Rewrite Box Calculus with ONLY 𝓕 and structural rules
+parent_heading: ⭐ 6\. What we should do next
+block_type: paragraph
+excerpt: (all operators become derived)
+aliases:
+- Bk828ao
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

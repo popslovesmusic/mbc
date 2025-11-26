@@ -1,13 +1,29 @@
+id: GEN19-5860
+location: genesis-19/mbc-4-1::3-polarity-vectors-semantic-weight-maps::classification-formula::4-π-evaluation-collapse::b1
+source: genesis-19\MBC-4_1.md
+lines: 495-501
+heading: '**4\. Π-Evaluation (collapse)**'
+parent_heading: '**Classification Formula**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Class=Π(Φ(δ(v)))\\text{Class} \= \\Pi(\\Phi(\\delta(v)))Class=Π(Φ(δ(v)))
   This returns a **single semantic label** to the agent. ---
-heading: '**4\. Π-Evaluation (collapse)**'
-id: GEN19-5860
-lines: 495-501
-location: genesis-19/mbc-4-1::3-polarity-vectors-semantic-weight-maps::classification-formula::4-π-evaluation-collapse::b1
-parent_heading: '**Classification Formula**'
-source: genesis-19\MBC-4_1.md
+concepts:
+- Π
+- δ
+- Φ
+- single semantic label
+aliases:
+- Bk658ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

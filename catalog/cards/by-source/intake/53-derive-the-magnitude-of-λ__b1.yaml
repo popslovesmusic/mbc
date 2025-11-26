@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Λ
-- Π
-- Ω
-- δ
-excerpt: 'This is the endgame. You want: Λ\_obs ≈ 10⁻⁵² m⁻²'
-heading: '**5.3 Derive the magnitude of Λ**'
 id: INTK-9726
-lines: 192-215
 location: intake/core-insight-is-a-projection-artifact::5-places-to-strengthen-and-i-can-help-you-write-it::53-derive-the-magnitude-of-λ::b1
-parent_heading: '**5\. Places to Strengthen (and I can help you write it):**'
 source: intake\Core_Insight___is_a_Projection_Artifact.md
+lines: 192-215
+heading: '**5.3 Derive the magnitude of Λ**'
+parent_heading: '**5\. Places to Strengthen (and I can help you write it):**'
+block_type: paragraph
+excerpt: 'This is the endgame. You want: Λ\_obs ≈ 10⁻⁵² m⁻²'
+concepts:
+- IGSOA
+- δ
+- Λ
+- ≈
+- δ-mode
+- Ω
+- Π
+- Π₉
+aliases:
+- Bk164tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

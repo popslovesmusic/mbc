@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'I can generate:'
-heading: '**If you want next:**'
 id: GEN0-051
-lines: 671-673
 location: genesis-0/feynman-rules-interaction-vertices::if-you-want-next::b1
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 671-673
+heading: '**If you want next:**'
+block_type: paragraph
+excerpt: 'I can generate:'
+aliases:
+- Bk197cg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

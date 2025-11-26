@@ -1,14 +1,32 @@
-block_type: paragraph
-concepts:
-- Metric
-- Spacetime
-- δ
-excerpt: 'We proceed in three stages: 1. **Δ-curvature** (pure δ-algebra obstruction)
-  2. **Metric** (an induced bilinear form from δ-curvature invariants)'
+id: GEN0-205
+location: genesis-0/tri-unity-theorem-equivalence-of::the-full-δ-curvature-metric-spacetime-extension::how-δ-alone-forces-geometric-structure-metric-structure-and-spacetime-structure::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 742-754
 heading: '***How δ alone forces geometric structure, metric structure, and spacetime
   structure.***'
-id: GEN0-205
-lines: 742-754
-location: genesis-0/tri-unity-theorem-equivalence-of::the-full-δ-curvature-metric-spacetime-extension::how-δ-alone-forces-geometric-structure-metric-structure-and-spacetime-structure::b1
 parent_heading: '**The Full Δ-Curvature → Metric → Spacetime Extension**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+block_type: paragraph
+excerpt: 'We proceed in three stages: 1. **Δ-curvature** (pure δ-algebra obstruction)
+  2. **Metric** (an induced bilinear form from δ-curvature invariants)'
+concepts:
+- δ
+- δ-curvature
+- δ-algebra
+- Δ
+- Spacetime
+- Metric
+aliases:
+- Bk084pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.634146341463413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

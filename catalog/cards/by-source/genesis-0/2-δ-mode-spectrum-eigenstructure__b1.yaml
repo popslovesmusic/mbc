@@ -1,14 +1,29 @@
-block_type: paragraph
-concepts:
-- not
-- α
-- β
-- δ
-- λ
-excerpt: 'Define δ acting on a mode eigenstate: δ ∣k⟩=λk+1∣k+1⟩\\delta \\, |k\\rangle
-  \= \\lambda\_{k+1} |k+1\\rangleδ∣k⟩=λk+1​∣k+1⟩ Then, by induction:'
-heading: '**2\. δ-Mode Spectrum (Eigenstructure)**'
 id: GEN0-326
-lines: 1388-1411
 location: genesis-0/why-the-first-action-is-necessary::2-δ-mode-spectrum-eigenstructure::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1388-1411
+heading: '**2\. δ-Mode Spectrum (Eigenstructure)**'
+block_type: paragraph
+excerpt: 'Define δ acting on a mode eigenstate: δ ∣k⟩=λk+1∣k+1⟩\\delta \\, |k\\rangle
+  \= \\lambda\_{k+1} |k+1\\rangleδ∣k⟩=λk+1​∣k+1⟩ Then, by induction:'
+concepts:
+- δ
+- IGSOA
+- λ
+- ∏
+- β
+- α
+- ladder spectrum
+- not
+aliases:
+- Bk497da
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.015037593984962
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

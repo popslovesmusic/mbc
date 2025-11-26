@@ -1,14 +1,32 @@
+id: GEN20-6648
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::commutative-diagrams::1-naturality-of-federated-π-links::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 1058-1080
+heading: 1\. Naturality of Federated Π-Links
+parent_heading: Commutative Diagrams
 block_type: table
+excerpt: 'For nodes i→j i→j:'
 concepts:
+- Π
+- →
 - 'Truth
 
 
   The'
-- Π
-excerpt: 'For nodes i→j i→j:'
-heading: 1\. Naturality of Federated Π-Links
-id: GEN20-6648
-lines: 1058-1080
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::commutative-diagrams::1-naturality-of-federated-π-links::b1
-parent_heading: Commutative Diagrams
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+- Πj
+- Πi
+aliases:
+- Bk753fn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.129032258064516
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

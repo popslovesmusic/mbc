@@ -1,13 +1,29 @@
+id: GEN5-8124
+location: genesis-5/meta-einstein-axiom-box-language-sealed::the-genesisaction-functor-box::ga-0-hermetic-origin::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 541-559
+heading: '**GA-0 — Hermetic Origin**'
+parent_heading: '**▣ THE GENESIS–ACTION FUNCTOR BOX**'
 block_type: paragraph
-concepts:
-- Action Functor
-- Action-states
-- Genesis-states
 excerpt: There exists a category Gen\\mathbf{Gen}Gen of **Genesis-states** (atemporal,
   pre-geometric, operator-free), and a category
-heading: '**GA-0 — Hermetic Origin**'
-id: GEN5-8124
-lines: 541-559
-location: genesis-5/meta-einstein-axiom-box-language-sealed::the-genesisaction-functor-box::ga-0-hermetic-origin::b1
-parent_heading: '**▣ THE GENESIS–ACTION FUNCTOR BOX**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Functor
+- operator-bearing
+- Genesis-states
+- pre-geometric
+- operator-free
+- Action-states
+- Action Functor
+aliases:
+- Bk019te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.864406779661017
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

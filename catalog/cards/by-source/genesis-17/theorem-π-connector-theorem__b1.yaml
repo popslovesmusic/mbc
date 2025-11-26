@@ -1,17 +1,35 @@
+id: GEN17-4956
+location: genesis-17/key-points::theorem-π-connector-theorem::b1
+source: genesis-17\Key_Points.md
+lines: 1107-1135
+heading: '**Theorem (Π-Connector Theorem).**'
 block_type: paragraph
-concepts:
-- Box
-- Causal Sphere
-- IGSOA
-- iff
-- Π
-- Φ
-- δ
 excerpt: 'Let **IGSOA** be a monistic, timeless process whose observable structure
   arises through three projections: * **δ**: deviation operator producing distinguishable
   Boxes, * **Φ**: curvature operator assi...'
-heading: '**Theorem (Π-Connector Theorem).**'
-id: GEN17-4956
-lines: 1107-1135
-location: genesis-17/key-points::theorem-π-connector-theorem::b1
-source: genesis-17\Key_Points.md
+concepts:
+- Box
+- Π
+- IGSOA
+- δ
+- Φ
+- δ-structure
+- Φ-structure
+- Π-links
+- Π-graph
+- Causal Sphere
+aliases:
+- Bk640li
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.7114093959731544
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

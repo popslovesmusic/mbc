@@ -1,15 +1,37 @@
+id: GEN7-8648
+location: genesis-7/why-curvature-gives-gravity::proof::step-2-δ-curvature-satisfies-a-bianchi-type-identity::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 403-417
+heading: '**Step 2 — δ-curvature satisfies a Bianchi-type identity**'
+parent_heading: '**PROOF**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- δ
-- μ
-- ν
 excerpt: 'Because δ-adjacency is globally coherent (LS-2): ∇\[aδRbc\]deδ=0.\\nabla^\\delta\_{\[a}
   R^\\delta\_{bc\]de} \= 0.∇\[aδ​Rbc\]deδ​=0. This produces an *adjacency-conserved
   tensor*:'
-heading: '**Step 2 — δ-curvature satisfies a Bianchi-type identity**'
-id: GEN7-8648
-lines: 403-417
-location: genesis-7/why-curvature-gives-gravity::proof::step-2-δ-curvature-satisfies-a-bianchi-type-identity::b1
-parent_heading: '**PROOF**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Meta-Einstein
+- μ
+- ∇
+- ν
+- adjacency-conserved
+- δ-adjacency
+- left-hand
+- δ-analog
+- is uniquely fixed
+- δRbc
+aliases:
+- Bk725ba
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.941176470588237
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

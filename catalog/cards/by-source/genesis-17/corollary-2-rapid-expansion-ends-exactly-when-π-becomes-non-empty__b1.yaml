@@ -1,12 +1,29 @@
+id: GEN17-5121
+location: genesis-17/mbc-schema-3::corollary-2-rapid-expansion-ends-exactly-when-π-becomes-non-empty::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1582-1588
+heading: '**Corollary 2: Rapid expansion ends exactly when Π becomes non-empty.**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: Π(Φ)≠∅    ⟺    end of rapid expansion.\\Pi(\\Phi) \\neq \\varnothing \\;
   \\iff \\; \\text{end of rapid expansion}.Π(Φ)=∅⟺end of rapid expansion. This gives
   a **precise mathematical end condition** for...
-heading: '**Corollary 2: Rapid expansion ends exactly when Π becomes non-empty.**'
-id: GEN17-5121
-lines: 1582-1588
-location: genesis-17/mbc-schema-3::corollary-2-rapid-expansion-ends-exactly-when-π-becomes-non-empty::b1
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- precise mathematical end condition
+- Π
+- Φ
+- ≠
+aliases:
+- Bk857er
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

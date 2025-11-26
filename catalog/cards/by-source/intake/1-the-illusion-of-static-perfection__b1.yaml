@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- non-being
-- Ψ
-excerpt: 'We imagine that the universe might have begun in a pristine equilibrium:
-  * no motion * no gradients'
-heading: '**1\. The Illusion of Static Perfection**'
 id: INTK-10152
-lines: 940-965
 location: intake/meta-genesis-physical-interpretation-papers::1-the-illusion-of-static-perfection::b1
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 940-965
+heading: '**1\. The Illusion of Static Perfection**'
+block_type: paragraph
+excerpt: 'We imagine that the universe might have begun in a pristine equilibrium:
+  * no motion * no gradients'
+concepts:
+- non-being
+- rules that preserve it
+- Ψ
+- Ψ₀
+aliases:
+- Bk484it
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

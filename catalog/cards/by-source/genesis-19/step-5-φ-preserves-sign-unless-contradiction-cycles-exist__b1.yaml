@@ -1,13 +1,31 @@
+id: GEN19-5941
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-b-standard-logic-proof::step-5-φ-preserves-sign-unless-contradiction-cycles-exist::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 901-907
+heading: '**Step 5\. Φ preserves sign unless contradiction cycles exist**'
+parent_heading: '**III-B. Standard Logic Proof**'
 block_type: paragraph
-concepts:
-- Θ
-- Π
 excerpt: 'Because A has **non-negative off-diagonal entries** and respects the Θ-algebra:
   sign⁡(wTAx)=sign⁡((ATw)Tx)\\operatorname{sign}(w^T A x) \= \\operatorname{sign}((A^Tw)^T
   x)sign(wTAx)=sign((ATw)Tx) so Π...'
-heading: '**Step 5\. Φ preserves sign unless contradiction cycles exist**'
-id: GEN19-5941
-lines: 901-907
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-b-standard-logic-proof::step-5-φ-preserves-sign-unless-contradiction-cycles-exist::b1
-parent_heading: '**III-B. Standard Logic Proof**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- non-negative off-diagonal entries
+- off-diagonal
+- non-negative
+- Π
+- Θ
+aliases:
+- Bk034bh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

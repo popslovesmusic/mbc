@@ -1,11 +1,26 @@
+id: GEN16-4093
+location: genesis-16/untitled-document::3-explicit-translation-box-λ::34-eval-morphism-application::b1
+source: genesis-16\Untitled_document.md
+lines: 4534-4540
+heading: '**3.4 eval morphism → application**'
+parent_heading: '**⭐ 3\. Explicit Translation Box → λ**'
 block_type: paragraph
-concepts:
-- Λ
 excerpt: 'If B \= eval(F, X): Λ(B)=Λ(F) Λ(X)\\Lambda(B) \= \\Lambda(F)\\, \\Lambda(X)Λ(B)=Λ(F)Λ(X)
   ---'
-heading: '**3.4 eval morphism → application**'
-id: GEN16-4093
-lines: 4534-4540
-location: genesis-16/untitled-document::3-explicit-translation-box-λ::34-eval-morphism-application::b1
-parent_heading: '**⭐ 3\. Explicit Translation Box → λ**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Λ
+aliases:
+- Bk081el
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.3478260869565215
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

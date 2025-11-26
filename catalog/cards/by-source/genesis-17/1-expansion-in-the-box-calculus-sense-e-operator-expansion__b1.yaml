@@ -1,17 +1,35 @@
+id: GEN17-4561
+location: genesis-17/box-calculus::1-expansion-in-the-box-calculus-sense-e-operator-expansion::b1
+source: genesis-17\box_calculus.md
+lines: 6500-6513
+heading: ⭐ 1\. Expansion in the Box Calculus sense (E-operator expansion)
 block_type: paragraph
+excerpt: 'This is the “semantic unfolding” rule: E(Σ)  pulls out all hidden internal
+  structure E(Σ)pulls out all hidden internal structure'
 concepts:
+- Box Calculus
 - Box
+- Σ
+- E-expansion
+- λ
+- η
+- ↔
 - 'Box Calculus
 
 
   So'
-- Σ
-- η
-- λ
-excerpt: 'This is the “semantic unfolding” rule: E(Σ)  pulls out all hidden internal
-  structure E(Σ)pulls out all hidden internal structure'
-heading: ⭐ 1\. Expansion in the Box Calculus sense (E-operator expansion)
-id: GEN17-4561
-lines: 6500-6513
-location: genesis-17/box-calculus::1-expansion-in-the-box-calculus-sense-e-operator-expansion::b1
-source: genesis-17\box_calculus.md
+aliases:
+- Bk634tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.686274509803921
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,17 +1,39 @@
-block_type: paragraph
-concepts:
-- Adjacency
-- First Deviation
-- Metric
-- Zero State
-- Ψ
-- Ω
-- δ
-- ω
-excerpt: 'Take a state: ω:A→C.\\omega : \\mathcal{A} \\to \\mathbb{C}.ω:A→C. GNS yields
-  a Hilbert space representation:'
-heading: '**3\. States and GNS Construction (Genesis → Geometry)**'
 id: GEN5-8185
-lines: 740-764
 location: genesis-5/the-ga-8-meta-einstein-theorem::3-states-and-gns-construction-genesis-geometry::b1
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 740-764
+heading: '**3\. States and GNS Construction (Genesis → Geometry)**'
+block_type: paragraph
+excerpt: 'Take a state: ω:A→C.\\omega : \\mathcal{A} \\to \\mathbb{C}.ω:A→C. GNS yields
+  a Hilbert space representation:'
+concepts:
+- ω
+- →
+- Adjacency
+- Deviation
+- non-trivial
+- State
+- non-trivial state
+- Ω
+- π
+- Ψ
+- emergent geometric arena
+- δ
+- First Deviation
+- Ψ₀
+- Zero State
+aliases:
+- Bk663ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

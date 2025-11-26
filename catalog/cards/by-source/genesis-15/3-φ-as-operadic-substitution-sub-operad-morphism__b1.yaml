@@ -1,11 +1,33 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: 'Inflation stretches δ-modes. Mathematically: Φ:Oδ→Oδ\\Phi : \\mathcal{O}\_\\delta
-  \\to \\mathcal{O}\_\\deltaΦ:Oδ​→Oδ​'
-heading: '**3\. Φ as Operadic Substitution (Sub-Operad Morphism)**'
 id: GEN15-3422
-lines: 644-663
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::3-φ-as-operadic-substitution-sub-operad-morphism::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 644-663
+heading: '**3\. Φ as Operadic Substitution (Sub-Operad Morphism)**'
+block_type: paragraph
+excerpt: 'Inflation stretches δ-modes. Mathematically: Φ:Oδ→Oδ\\Phi : \\mathcal{O}\_\\delta
+  \\to \\mathcal{O}\_\\deltaΦ:Oδ​→Oδ​'
+concepts:
+- δ
+- Φ
+- δk
+- δ-mode
+- →
+- scale-separated
+- δ-operations
+- δ-modes
+- substitution system
+aliases:
+- Bk749is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.254237288135593
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

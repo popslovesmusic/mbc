@@ -1,13 +1,29 @@
+id: GEN3-7409
+location: genesis-3/the-physics-box-diagram::5-projection-into-physics::axiom-51-φ-projection-of-curvature::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 667-673
+heading: '**Axiom 5.1 (Φ-Projection of Curvature)**'
+parent_heading: '**5\. Projection into Physics**'
 block_type: paragraph
+excerpt: 'The Φ-projection functor produces the classical Einstein tensor: PΦ(RΦ)=Gμν.P\_\\Phi(\\mathcal{R}\_\\Phi)
+  \= G\_{\\mu\\nu}.PΦ​(RΦ​)=Gμν​. ---'
 concepts:
+- Φ-projection
 - Φ
 - μ
 - ν
-excerpt: 'The Φ-projection functor produces the classical Einstein tensor: PΦ(RΦ)=Gμν.P\_\\Phi(\\mathcal{R}\_\\Phi)
-  \= G\_{\\mu\\nu}.PΦ​(RΦ​)=Gμν​. ---'
-heading: '**Axiom 5.1 (Φ-Projection of Curvature)**'
-id: GEN3-7409
-lines: 667-673
-location: genesis-3/the-physics-box-diagram::5-projection-into-physics::axiom-51-φ-projection-of-curvature::b1
-parent_heading: '**5\. Projection into Physics**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+aliases:
+- Bk586tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

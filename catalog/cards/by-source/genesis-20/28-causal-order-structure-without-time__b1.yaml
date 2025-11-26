@@ -1,11 +1,28 @@
+id: GEN20-6702
+location: genesis-20/mbc-40-documentaitio-1::28-causal-order-structure-without-time::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 646-667
+heading: '2.8 Causal Order: Structure Without Time'
 block_type: paragraph
-concepts:
-- Causal Order
 excerpt: 'Because MBC arises from a monistic, pre-temporal foundation, it cannot rely
   on physical time as a structuring tool. Instead, it uses Causal Order. Causal Order
   is the principle that: Some boxes depend...'
-heading: '2.8 Causal Order: Structure Without Time'
-id: GEN20-6702
-lines: 646-667
-location: genesis-20/mbc-40-documentaitio-1::28-causal-order-structure-without-time::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- Causal Order
+- pre-temporal
+aliases:
+- Bk536bm
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.2556390977443606
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

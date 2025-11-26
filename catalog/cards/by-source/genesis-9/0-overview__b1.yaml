@@ -1,14 +1,37 @@
+id: GEN9-9479
+location: genesis-9/strong-force::0-overview::b1
+source: genesis-9\strong-force.md
+lines: 566-583
+heading: '**0\. Overview**'
 block_type: paragraph
-concepts:
-- Adjacency Curvature Axiom
-- Axiom
-- torsion
-- δ
 excerpt: The strong force arises from a **χ-triplet degeneracy** in the δ-harmonic
   spectrum. The weak force, by contrast, arises from a **θ-doublet degeneracy** generated
   by the *torsion* part of the δ-Weitzen...
-heading: '**0\. Overview**'
-id: GEN9-9479
-lines: 566-583
-location: genesis-9/strong-force::0-overview::b1
-source: genesis-9\strong-force.md
+concepts:
+- Split the δ-connection into curvature and torsion
+- δ
+- Adjacency
+- Curvature
+- IGSOA
+- Axiom
+- Show that torsion produces a doublet sector
+- Start with the δ-connection
+- θ
+- δ-connection
+- Split
+- δ-Adjacency
+- Adjacency Curvature Axiom
+- δ-harmonic
+- requires no new axiom
+aliases:
+- Bk147ts
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.238095238095239
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

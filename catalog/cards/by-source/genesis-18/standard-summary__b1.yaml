@@ -1,11 +1,25 @@
+id: GEN18-5727
+location: genesis-18/sealed-axiom-box::synthesis-statement::standard-summary::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1250-1254
+heading: '**Standard Summary**'
+parent_heading: '**SYNTHESIS STATEMENT**'
 block_type: paragraph
-concepts: []
 excerpt: Logic is a single monoidal category with functorial lifts and evaluation
   morphisms.\\boxed{ \\text{Logic is a single monoidal category with functorial lifts
   and evaluation morphisms.} }Logic is a sing...
-heading: '**Standard Summary**'
-id: GEN18-5727
-lines: 1250-1254
-location: genesis-18/sealed-axiom-box::synthesis-statement::standard-summary::b1
-parent_heading: '**SYNTHESIS STATEMENT**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+aliases:
+- Bk855ls
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

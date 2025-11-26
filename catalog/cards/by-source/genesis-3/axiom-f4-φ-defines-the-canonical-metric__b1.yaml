@@ -1,12 +1,29 @@
+id: GEN3-7577
+location: genesis-3/the-tri-unity-theorem::ii-φaxioms-form-pattern-principle::axiom-f4-φ-defines-the-canonical-metric::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1276-1288
+heading: '**Axiom F4 — Φ Defines the Canonical Metric**'
+parent_heading: '**II. Φ–Axioms: Form / Pattern Principle**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Φ assigns inner-product structure to δ-generated subspaces, enabling: *
   distances * angles'
-heading: '**Axiom F4 — Φ Defines the Canonical Metric**'
-id: GEN3-7577
-lines: 1276-1288
-location: genesis-3/the-tri-unity-theorem::ii-φaxioms-form-pattern-principle::axiom-f4-φ-defines-the-canonical-metric::b1
-parent_heading: '**II. Φ–Axioms: Form / Pattern Principle**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- inner-product
+- δ-generated
+- δ
+- Φ
+aliases:
+- Bk774ai
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,31 @@
+id: GEN9-9581
+location: genesis-9/strong-force::sealed-axiom-box-electromagnetism-emf-emergence-δ-φ-u1::axiom-em-5-electromagnetic-potential::b1
+source: genesis-9\strong-force.md
+lines: 2486-2494
+heading: '**Axiom EM-5: Electromagnetic Potential**'
+parent_heading: '**⬛ SEALED AXIOM BOX — Electromagnetism & EMF Emergence (δ → Φ →
+  U(1))**'
 block_type: paragraph
-concepts:
-- Φ
-- μ
 excerpt: 'The electromagnetic gauge potential is the Φ-image of the SU(2) weak connection:
   Aμ(EM)=Φ ⁣(Aμ(w)).A^{(EM)}\_\\mu \= \\Phi\\\!\\left(A^{(w)}\_\\mu\\right).Aμ(EM)​=Φ(Aμ(w)​).
   It acts as the U(1) connec...'
-heading: '**Axiom EM-5: Electromagnetic Potential**'
-id: GEN9-9581
-lines: 2486-2494
-location: genesis-9/strong-force::sealed-axiom-box-electromagnetism-emf-emergence-δ-φ-u1::axiom-em-5-electromagnetic-potential::b1
-parent_heading: '**⬛ SEALED AXIOM BOX — Electromagnetism & EMF Emergence (δ → Φ →
-  U(1))**'
-source: genesis-9\strong-force.md
+concepts:
+- μ
+- Φ
+- Φ-image
+- θ
+aliases:
+- Bk380te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

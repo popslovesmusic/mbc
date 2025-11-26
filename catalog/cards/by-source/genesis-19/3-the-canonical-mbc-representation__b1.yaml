@@ -1,18 +1,39 @@
+id: GEN19-6061
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::3-the-canonical-mbc-representation::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 536-556
+heading: 3\. The Canonical MBC Representation
 block_type: paragraph
+excerpt: 'Here is how the pipeline looks properly in MBC notation: 1\. δ-layer (decomposition)
+  Text → {Concept Boxes} \+ {Relation Routers}'
 concepts:
-- Causal Links
-- Concept Boxes
-- Implication Paths
-- Relation Routers
-- Θ
+- Polarity
+- MBC
+- →
 - Π
 - Σ
 - Φ
+- router-level
+- Φ-adjacency
+- Meta-data
+- meta-data
+- δ-layer
+- Π-layer
+- Φ-layer
+- Θ
 - δ
-excerpt: 'Here is how the pipeline looks properly in MBC notation: 1\. δ-layer (decomposition)
-  Text → {Concept Boxes} \+ {Relation Routers}'
-heading: 3\. The Canonical MBC Representation
-id: GEN19-6061
-lines: 536-556
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::3-the-canonical-mbc-representation::b1
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+aliases:
+- Bk322hh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 29.411764705882355
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

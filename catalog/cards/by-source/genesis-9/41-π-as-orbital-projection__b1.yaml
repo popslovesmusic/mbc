@@ -1,12 +1,29 @@
+id: GEN9-9166
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::4-π-orbitals-first-stable-spatial-forms::41-π-as-orbital-projection::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2148-2154
+heading: '**4.1 Π as Orbital Projection**'
+parent_heading: '**4\. Π-Orbitals: First Stable Spatial Forms**'
 block_type: paragraph
+excerpt: 'Π is the functor: Π:MΦ⟶O\\Pi:\\mathcal{M}\_\\Phi \\longrightarrow \\mathcal{O}Π:MΦ​⟶O
+  mapping Φ-modes to **orbital manifolds**.'
 concepts:
 - Π
 - Φ
-excerpt: 'Π is the functor: Π:MΦ⟶O\\Pi:\\mathcal{M}\_\\Phi \\longrightarrow \\mathcal{O}Π:MΦ​⟶O
-  mapping Φ-modes to **orbital manifolds**.'
-heading: '**4.1 Π as Orbital Projection**'
-id: GEN9-9166
-lines: 2148-2154
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::4-π-orbitals-first-stable-spatial-forms::41-π-as-orbital-projection::b1
-parent_heading: '**4\. Π-Orbitals: First Stable Spatial Forms**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+- Φ-modes
+- orbital manifolds
+aliases:
+- Bk264tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

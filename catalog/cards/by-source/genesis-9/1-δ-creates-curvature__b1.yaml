@@ -1,10 +1,27 @@
+id: GEN9-9450
+location: genesis-9/strong-force::how-igsoa-reads-this-one-axiom-two-forces::1-δ-creates-curvature::b1
+source: genesis-9\strong-force.md
+lines: 197-199
+heading: '**1\. δ creates curvature.**'
+parent_heading: '**How IGSOA reads this: One Axiom → Two Forces**'
 block_type: paragraph
+excerpt: ∇δAdj\\nabla\_{\\delta}\\mathrm{Adj}∇δ​Adj
 concepts:
 - δ
-excerpt: ∇δAdj\\nabla\_{\\delta}\\mathrm{Adj}∇δ​Adj
-heading: '**1\. δ creates curvature.**'
-id: GEN9-9450
-lines: 197-199
-location: genesis-9/strong-force::how-igsoa-reads-this-one-axiom-two-forces::1-δ-creates-curvature::b1
-parent_heading: '**How IGSOA reads this: One Axiom → Two Forces**'
-source: genesis-9\strong-force.md
+- ∇
+- δAdj
+aliases:
+- Bk098nd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 37.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,37 @@
+id: GEN7-8669
+location: genesis-7/why-curvature-gives-gravity::v-meta-einstein-compatibility-axioms::axiom-dc-12-compatibility-with-δ-energy::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 675-687
+heading: '**Axiom DC-12 — Compatibility with δ-Energy**'
+parent_heading: '**V. META-EINSTEIN COMPATIBILITY AXIOMS**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- Π
-- δ
-- λ
-- μ
-- ν
 excerpt: 'All admissible stress-energy tensors must arise from δ-spectral data: Tμνδ:=∑nλnΠn,μν.T^\\delta\_{\\mu\\nu}
   := \\sum\_n \\lambda\_n \\Pi\_{n,\\mu\\nu}.Tμνδ​:=n∑​λn​Πn,μν​. This guarantees:'
-heading: '**Axiom DC-12 — Compatibility with δ-Energy**'
-id: GEN7-8669
-lines: 675-687
-location: genesis-7/why-curvature-gives-gravity::v-meta-einstein-compatibility-axioms::axiom-dc-12-compatibility-with-δ-energy::b1
-parent_heading: '**V. META-EINSTEIN COMPATIBILITY AXIOMS**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- μ
+- Meta-Einstein
+- δ
+- ν
+- Π
+- ∇
+- ∑
+- λ
+- stress-energy
+- right-hand
+- δ-spectral
+- Πn
+aliases:
+- Bk807aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

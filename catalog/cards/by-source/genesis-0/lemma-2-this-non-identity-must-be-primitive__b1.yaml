@@ -1,14 +1,30 @@
+id: GEN0-250
+location: genesis-0/tri-unity-theorem-equivalence-of::2-why-δ-must-exist-the-formal-proof::lemma-2-this-non-identity-must-be-primitive::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1326-1342
+heading: '**Lemma 2 — This Non-Identity Must Be Primitive**'
+parent_heading: '**2\. Why δ Must Exist — The Formal Proof**'
 block_type: paragraph
-concepts:
-- Axiom
-- within
-- Ψ
-- δ
 excerpt: 'Since: * no operators exist **within** Ψ₀ (Axiom Z), * and any complex operator
   requires pre-existing structure,'
-heading: '**Lemma 2 — This Non-Identity Must Be Primitive**'
-id: GEN0-250
-lines: 1326-1342
-location: genesis-0/tri-unity-theorem-equivalence-of::2-why-δ-must-exist-the-formal-proof::lemma-2-this-non-identity-must-be-primitive::b1
-parent_heading: '**2\. Why δ Must Exist — The Formal Proof**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- structure-creating
+- Axiom
+- pre-existing
+- non-identity
+- Ψ
+- δ
+- within
+- Ψ₀
+aliases:
+- Bk876so
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

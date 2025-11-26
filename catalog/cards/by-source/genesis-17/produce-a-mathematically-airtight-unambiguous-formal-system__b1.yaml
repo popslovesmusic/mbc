@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: This is the moment IGSOA becomes a true monistic calculus. Here is the rewrite,
-  presented with full rigor and clarity. ---
-heading: ⭐ Produce a mathematically airtight, unambiguous formal system.
 id: GEN17-4730
-lines: 8543-8547
 location: genesis-17/box-calculus::produce-a-mathematically-airtight-unambiguous-formal-system::b1
 source: genesis-17\box_calculus.md
+lines: 8543-8547
+heading: ⭐ Produce a mathematically airtight, unambiguous formal system.
+block_type: paragraph
+excerpt: This is the moment IGSOA becomes a true monistic calculus. Here is the rewrite,
+  presented with full rigor and clarity. ---
+concepts:
+- IGSOA
+aliases:
+- Bk392tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

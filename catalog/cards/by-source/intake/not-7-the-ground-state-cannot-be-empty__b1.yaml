@@ -1,12 +1,29 @@
+id: INTK-9746
+location: intake/meta-genesis-core-papers-foundations::the-not-axiom-fully-formal::not-7-the-ground-state-cannot-be-empty::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 77-85
+heading: '**(NOT-7) The Ground State Cannot be Empty.**'
+parent_heading: '**THE NOT AXIOM (Fully Formal)**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Ψ
 excerpt: 'Meta-Genesis ground potential must satisfy: Ψ0≠∅\\Psi\_{0} \\neq \\varnothingΨ0​=∅
   Even the most minimal pre-instantiation has nonzero informational content.'
-heading: '**(NOT-7) The Ground State Cannot be Empty.**'
-id: INTK-9746
-lines: 77-85
-location: intake/meta-genesis-core-papers-foundations::the-not-axiom-fully-formal::not-7-the-ground-state-cannot-be-empty::b1
-parent_heading: '**THE NOT AXIOM (Fully Formal)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Meta-Genesis
+- pre-instantiation
+- Ψ
+- ≠
+aliases:
+- Bk957mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

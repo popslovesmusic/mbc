@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'The primitive is not a thing or a state. It is an ontological act: Deviation≠0'
-heading: '⭐ 1\. The Primitive: Deviation'
 id: GEN17-4671
-lines: 7917-7935
 location: genesis-17/box-calculus::1-the-primitive-deviation::b1
 source: genesis-17\box_calculus.md
+lines: 7917-7935
+heading: '⭐ 1\. The Primitive: Deviation'
+block_type: paragraph
+excerpt: 'The primitive is not a thing or a state. It is an ontological act: Deviation≠0'
+concepts:
+- Deviation
+- IGSOA
+- Axiom
+- ≠
+aliases:
+- Bk755tp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 6.779661016949152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

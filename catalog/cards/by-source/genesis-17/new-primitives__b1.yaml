@@ -1,10 +1,28 @@
-block_type: list
-concepts:
-- Ω
-excerpt: '* Δ (meta-deviation) * Ω (meta-projection)'
-heading: '**New Primitives**'
 id: GEN17-5089
-lines: 1165-1169
 location: genesis-17/mbc-schema-3::7-summary-of-what-mbc-40-adds::new-primitives::b1
-parent_heading: '**7\. Summary of What MBC-4.0 Adds**'
 source: genesis-17\MBC_Schema_3.md
+lines: 1165-1169
+heading: '**New Primitives**'
+parent_heading: '**7\. Summary of What MBC-4.0 Adds**'
+block_type: list
+excerpt: '* Δ (meta-deviation) * Ω (meta-projection)'
+concepts:
+- meta-projection
+- meta-deviation
+- Ω
+- Δ
+aliases:
+- Bk241md
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

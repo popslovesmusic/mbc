@@ -1,16 +1,36 @@
-block_type: paragraph
-concepts:
-- Meta-Math
-- Meta-Time
-- Meta-Unification
-- adjacency
-- curvature
-- modes
-- δ
-excerpt: 'In the δ-Meta-Math framework, physics does not begin with spacetime, fields,
-  or particles. It begins with: (S,δ,C,A,T)(\\mathcal{S},\\delta,\\mathcal{C},\\mathcal{A},\\mathcal{T})(S,δ,C,A,T)'
-heading: '**1\. Introduction**'
 id: INTK-10601
-lines: 818-843
 location: intake/volume-i-core-ontology-and-metagenesis-summary::1-introduction::b1
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 818-843
+heading: '**1\. Introduction**'
+block_type: paragraph
+excerpt: 'In the δ-Meta-Math framework, physics does not begin with spacetime, fields,
+  or particles. It begins with: (S,δ,C,A,T)(\\mathcal{S},\\delta,\\mathcal{C},\\mathcal{A},\\mathcal{T})(S,δ,C,A,T)'
+concepts:
+- Meta-Time
+- Meta-Math
+- δ
+- Adjacency
+- Curvature
+- category-theoretic
+- universe-of-modes
+- higher-derivation
+- Meta-Unification
+- higher-algebraic
+- higher-linear
+- δ-Meta-Math
+- scale-stack
+- scale-flow
+- δ-stack
+aliases:
+- Bk502tm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.17910447761194
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

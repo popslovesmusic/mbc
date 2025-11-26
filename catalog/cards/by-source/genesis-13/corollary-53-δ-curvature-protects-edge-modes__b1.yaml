@@ -1,13 +1,30 @@
+id: GEN13-2199
+location: genesis-13/meta-math-nuclear-physics::5-φ-π-topological-phases::corollary-53-δ-curvature-protects-edge-modes::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2294-2302
+heading: '**Corollary 5.3 — δ-Curvature Protects Edge Modes**'
+parent_heading: '**5\. Φ → Π Topological Phases**'
 block_type: paragraph
-concepts:
-- Π
-- Ω
-- δ
 excerpt: If δ-curvature is nontrivial, Ωδ≠0,\\Omega\_\\delta \\neq 0,Ωδ​=0, then Π
   guarantees robust edge states.
-heading: '**Corollary 5.3 — δ-Curvature Protects Edge Modes**'
-id: GEN13-2199
-lines: 2294-2302
-location: genesis-13/meta-math-nuclear-physics::5-φ-π-topological-phases::corollary-53-δ-curvature-protects-edge-modes::b1
-parent_heading: '**5\. Φ → Π Topological Phases**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- Ω
+- δ-curvature
+- ≠
+- Π
+aliases:
+- Bk038cn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

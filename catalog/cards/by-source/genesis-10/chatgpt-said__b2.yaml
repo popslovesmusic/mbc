@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Below is your **formal, sealed, monistic white-paper chapter**:'
-heading: '**ChatGPT said:**'
 id: GEN10-776
-lines: 463-465
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::6-final-sealed-statement::you-said::chatgpt-said::b2
-parent_heading: '**You said:**'
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 463-465
+heading: '**ChatGPT said:**'
+parent_heading: '**You said:**'
+block_type: paragraph
+excerpt: 'Below is your **formal, sealed, monistic white-paper chapter**:'
+concepts:
+- white-paper
+aliases:
+- Bk205by
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

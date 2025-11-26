@@ -1,12 +1,30 @@
+id: GEN14-2788
+location: genesis-14/inflation-structure-formation::1-the-δcmb-projection-axiom-box-sealed::sealed-axiom-box-the-δcmb-projection-axiom::interpretation-internal::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 2223-2226
+heading: '**Interpretation (internal)**'
+parent_heading: '**📦 Sealed Axiom Box: “The δ→CMB Projection Axiom”**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: The CMB temperature/polarization maps are **Π-images of frozen δ-harmonics**
   restricted to the photon decoupling hypersurface.
-heading: '**Interpretation (internal)**'
-id: GEN14-2788
-lines: 2223-2226
-location: genesis-14/inflation-structure-formation::1-the-δcmb-projection-axiom-box-sealed::sealed-axiom-box-the-δcmb-projection-axiom::interpretation-internal::b1
-parent_heading: '**📦 Sealed Axiom Box: “The δ→CMB Projection Axiom”**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- Π-images of frozen δ-harmonics
+- δ-harmonics
+- Π-images
+- Π
+- δ
+aliases:
+- Bk589tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.77777777777778
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

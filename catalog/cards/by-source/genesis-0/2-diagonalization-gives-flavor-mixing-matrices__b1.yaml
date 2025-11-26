@@ -1,10 +1,26 @@
+id: GEN0-130
+location: genesis-0/feynman-rules-interaction-vertices::2-diagonalization-gives-flavor-mixing-matrices::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1925-1931
+heading: '**2\. Diagonalization gives flavor mixing matrices**'
 block_type: paragraph
-concepts: []
 excerpt: 'For each fermion type: UL(f)†MfUR(f)=diag(mf1,mf2,mf3).U\_L^{(f)\\dagger}
   M\_f U\_R^{(f)} \= \\text{diag}(m\_{f1}, m\_{f2}, m\_{f3}).UL(f)†​Mf​UR(f)​=diag(mf1​,mf2​,mf3​).
   Left-unitary matrices determ...'
-heading: '**2\. Diagonalization gives flavor mixing matrices**'
-id: GEN0-130
-lines: 1925-1931
-location: genesis-0/feynman-rules-interaction-vertices::2-diagonalization-gives-flavor-mixing-matrices::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- Left-unitary
+aliases:
+- Bk570fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.083333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

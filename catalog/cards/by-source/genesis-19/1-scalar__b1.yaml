@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'A scalar in MBC is: * a single semantic strength * a raw probability value'
-heading: 1\. Scalar
 id: GEN19-6160
-lines: 1596-1606
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::the-true-mbc-hierarchy-of-structure::1-scalar::b1
-parent_heading: 🔥 THE TRUE MBC HIERARCHY OF STRUCTURE
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1596-1606
+heading: 1\. Scalar
+parent_heading: 🔥 THE TRUE MBC HIERARCHY OF STRUCTURE
+block_type: paragraph
+excerpt: 'A scalar in MBC is: * a single semantic strength * a raw probability value'
+concepts:
+- MBC
+- proto-meaning
+- δ-deviation
+- δ
+aliases:
+- Bk756sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

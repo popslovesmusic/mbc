@@ -1,15 +1,32 @@
+id: INTK-10775
+location: intake/volume-i-core-ontology-and-metagenesis-summary::igsoa::core-nature-flawed-monistic-symmetry::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2062-2068
+heading: 'Core Nature: Flawed Monistic Symmetry'
+parent_heading: IGSOA
 block_type: paragraph
-concepts:
-- Monistic
-- Perfect Symmetry
-- Zero State
-- Ψ
 excerpt: 'The defining characteristic of IGSOA is that it is a "flawed monistic perfect
   symmetry." *   **Monistic**: IGSOA is the single, underlying reality. Everything
   in the universe is a manifestation or mod...'
-heading: 'Core Nature: Flawed Monistic Symmetry'
-id: INTK-10775
-lines: 2062-2068
-location: intake/volume-i-core-ontology-and-metagenesis-summary::igsoa::core-nature-flawed-monistic-symmetry::b1
-parent_heading: IGSOA
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- State
+- Ψ
+- Perfect Symmetry
+- Zero State
+- Monistic
+- Ψ₀
+aliases:
+- Bk560td
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.954545454545454
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

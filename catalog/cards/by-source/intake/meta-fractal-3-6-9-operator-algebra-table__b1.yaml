@@ -1,13 +1,28 @@
+id: INTK-10485
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::connection-to-deviation-calculus-and-operators::meta-fractal-3-6-9-operator-algebra-table::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1768-1769
+heading: Meta-Fractal 3-6-9 Operator Algebra Table
+parent_heading: Connection to Deviation Calculus and Operators
 block_type: paragraph
-concepts:
-- Meta-Fractal
-- Meta-Time
 excerpt: The full table of commutators between A/H/E/F, Meta-Time, and Scale operators
   explicitly incorporates the $J_3, J_6, J_9$ relationships, demonstrating how these
   core symmetries manifest in the Meta-Fr...
-heading: Meta-Fractal 3-6-9 Operator Algebra Table
-id: INTK-10485
-lines: 1768-1769
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::connection-to-deviation-calculus-and-operators::meta-fractal-3-6-9-operator-algebra-table::b1
-parent_heading: Connection to Deviation Calculus and Operators
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Time
+- Meta-Fractal
+aliases:
+- Bk893tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.0606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

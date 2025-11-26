@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Causal Sphere
-excerpt: Your **Causal Sphere of Influence (CSOI)** fits intrinsically here.
-heading: '**Ⅴ. The CSOI Interpretation: CMB Tail → Galaxy Formation**'
 id: GEN15-3206
-lines: 2005-2007
 location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-the-csoi-interpretation-cmb-tail-galaxy-formation::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2005-2007
+heading: '**Ⅴ. The CSOI Interpretation: CMB Tail → Galaxy Formation**'
+block_type: paragraph
+excerpt: Your **Causal Sphere of Influence (CSOI)** fits intrinsically here.
+concepts:
+- Causal Sphere
+aliases:
+- Bk289yc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

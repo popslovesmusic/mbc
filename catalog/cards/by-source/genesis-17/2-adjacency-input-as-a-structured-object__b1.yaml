@@ -1,13 +1,32 @@
+id: GEN17-4164
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::2-adjacency-input-as-a-structured-object::b1
+source: genesis-17\box_calculus.md
+lines: 197-203
+heading: 2\. Adjacency Input as a Structured Object
+parent_heading: Formal Transition Function for Box Calculus
 block_type: table
+excerpt: '---'
 concepts:
 - Box
 - Box Calculus
-- Standard Formalism
+- Adjacency
+- IGSOA
 - Σ
-excerpt: '---'
-heading: 2\. Adjacency Input as a Structured Object
-id: GEN17-4164
-lines: 197-203
-location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::2-adjacency-input-as-a-structured-object::b1
-parent_heading: Formal Transition Function for Box Calculus
-source: genesis-17\box_calculus.md
+- ∈
+- ∂
+- Standard Formalism
+aliases:
+- Bk183ib
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.126582278481013
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

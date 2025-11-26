@@ -1,22 +1,41 @@
+id: GEN3-7361
+location: genesis-3/metagenesis::outreachnarrative-version-drop-in-paragraph::b1
+source: genesis-3\metagenesis.md
+lines: 1247-1269
+heading: '**Outreach/Narrative Version (Drop-In Paragraph)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Einstein Axiom Box
-- Foundation Layer
-- Geometry Operator Box
-- Layer
-- Meta-Einstein
-- Operator
-- The Deviational Curvature Functor Box
-- The Meta
-- Zero-State
-- δ
 excerpt: Before anything could bend, move, or interact, something had to disturb the
   perfect stillness of the Zero-State. That disturbance is δ—the first difference,
   the first break in symmetry. Every step of ...
-heading: '**Outreach/Narrative Version (Drop-In Paragraph)**'
-id: GEN3-7361
-lines: 1247-1269
-location: genesis-3/metagenesis::outreachnarrative-version-drop-in-paragraph::b1
-source: genesis-3\metagenesis.md
+concepts:
+- Meta-Einstein
+- Foundation Layer
+- Curvature
+- Deviation
+- Box
+- δ
+- Axiom
+- The δ-Geometry Operator Box
+- The Meta-Einstein Axiom Box
+- Operator
+- The Deviational Curvature Functor Box
+- Functor
+- State
+- Layer
+- LaTeX version for your repository
+aliases:
+- Bk170ba
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.260162601626014
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

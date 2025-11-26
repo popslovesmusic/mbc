@@ -1,11 +1,27 @@
+id: INTK-10817
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::light-cone-as-projection::paradox-resolution::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2560-2566
+heading: Paradox Resolution
+parent_heading: Light Cone as Projection
 block_type: paragraph
-concepts:
-- Meta-Time
 excerpt: 'Resolves classical paradoxes by assigning to higher-order Meta-Time accessibility
   rather than spacetime trajectories: - Retrocausality - Nonlocal correlations'
-heading: Paradox Resolution
-id: INTK-10817
-lines: 2560-2566
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::light-cone-as-projection::paradox-resolution::b1
-parent_heading: Light Cone as Projection
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- higher-order
+aliases:
+- Bk829rc
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

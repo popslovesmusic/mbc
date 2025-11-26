@@ -1,11 +1,28 @@
+id: GEN13-2130
+location: genesis-13/meta-math-nuclear-physics::3-π-projection-to-qcd-observables::definition-33-meson-state::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1605-1611
+heading: '**Definition 3.3 — Meson State**'
+parent_heading: '**3\. Π-Projection to QCD Observables**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: Π(q⊗qˉ)∈1\\Pi(q\\otimes \\bar{q})\\in \\mathbf{1}Π(q⊗qˉ​)∈1 (color singlet).
   ---
-heading: '**Definition 3.3 — Meson State**'
-id: GEN13-2130
-lines: 1605-1611
-location: genesis-13/meta-math-nuclear-physics::3-π-projection-to-qcd-observables::definition-33-meson-state::b1
-parent_heading: '**3\. Π-Projection to QCD Observables**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Π
+- ⊗
+- ∈
+aliases:
+- Bk749ob
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- δ
-- μ
-- ν
-excerpt: 'Once we have: * δ * adjacency'
-heading: '**5\. GEOMETRIC EMERGENCE OF DIRECTION**'
 id: GEN8-8872
-lines: 1861-1893
 location: genesis-8/meta-time-geometry-and-temporal-projection::5-geometric-emergence-of-direction::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1861-1893
+heading: '**5\. GEOMETRIC EMERGENCE OF DIRECTION**'
+block_type: paragraph
+excerpt: 'Once we have: * δ * adjacency'
+concepts:
+- μ
+- ∂
+- ν
+- δ
+- directly from
+aliases:
+- Bk214oh
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.617977528089887
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

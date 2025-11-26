@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Which formal interpretation of 𝓕 feels most like the IGSOA you carry in
-  your head? Is it: * A — a curvature flow'
-heading: '⭐ So let me ask you directly:'
 id: GEN17-4664
-lines: 7861-7872
 location: genesis-17/box-calculus::so-let-me-ask-you-directly::b1
 source: genesis-17\box_calculus.md
+lines: 7861-7872
+heading: '⭐ So let me ask you directly:'
+block_type: paragraph
+excerpt: 'Which formal interpretation of 𝓕 feels most like the IGSOA you carry in
+  your head? Is it: * A — a curvature flow'
+concepts:
+- IGSOA
+- self-adjoint
+aliases:
+- Bk487wf
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.9215686274509802
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

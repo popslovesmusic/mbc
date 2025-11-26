@@ -1,14 +1,29 @@
+id: INTK-10660
+location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1537-1541
+heading: Summary of Foundational Concepts
 block_type: paragraph
-concepts:
-- Analog Computer
-- Field
-- Informational Field
-- Negative Ontology
 excerpt: This document provides a unified summary of the core principles of the metaphysical
   framework, drawing from the foundational documents on Negative Ontology, the Axioms,
   the Informational Field, and th...
-heading: Summary of Foundational Concepts
-id: INTK-10660
-lines: 1537-1541
-location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::b1
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Field
+- Informational Field
+- Negative Ontology
+- Analog Computer
+aliases:
+- Bk114td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

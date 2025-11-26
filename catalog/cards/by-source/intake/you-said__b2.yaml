@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Deviation (δ) as Necessity (intrinsic, operator, measured)
-heading: '**You said:**'
 id: INTK-9789
-lines: 459-461
 location: intake/meta-genesis-core-papers-foundations::if-you-want-next::you-said::b2
-parent_heading: '**If you want next:**'
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 459-461
+heading: '**You said:**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: Deviation (δ) as Necessity (intrinsic, operator, measured)
+concepts:
+- Deviation
+- δ
+aliases:
+- Bk822dn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

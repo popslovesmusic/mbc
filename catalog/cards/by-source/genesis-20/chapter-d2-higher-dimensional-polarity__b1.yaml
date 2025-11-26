@@ -1,10 +1,27 @@
+id: GEN20-7074
+location: genesis-20/mbc-40-documentaitio-1::part-iv-multi-input-boxes-higher-order-structures::chapter-d2-higher-dimensional-polarity::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5204-5208
+heading: Chapter D2 — Higher-Dimensional Polarity
+parent_heading: PART IV — Multi-Input Boxes & Higher-Order Structures
 block_type: list
-concepts: []
 excerpt: '* polarity tensors * multi-axis semantic influence * higher-rank polarity
   structures'
-heading: Chapter D2 — Higher-Dimensional Polarity
-id: GEN20-7074
-lines: 5204-5208
-location: genesis-20/mbc-40-documentaitio-1::part-iv-multi-input-boxes-higher-order-structures::chapter-d2-higher-dimensional-polarity::b1
-parent_heading: PART IV — Multi-Input Boxes & Higher-Order Structures
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- higher-rank
+- multi-axis
+aliases:
+- Bk624pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

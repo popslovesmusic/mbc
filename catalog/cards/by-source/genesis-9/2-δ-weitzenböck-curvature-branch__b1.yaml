@@ -1,14 +1,32 @@
-block_type: paragraph
-concepts:
-- not
-- Γ
-- δ
-- μ
-- ν
-excerpt: 'With torsion suppressed: K(δ)=0,⇒∇(δ)=Γ(δ).K^{(\\delta)} \= 0, \\quad\\Rightarrow\\quad
-  \\nabla^{(\\delta)} \= \\Gamma^{(\\delta)}.K(δ)=0,⇒∇(δ)=Γ(δ). Thus:'
-heading: '**2\. δ-Weitzenböck “Curvature Branch”**'
 id: GEN9-9494
-lines: 871-891
 location: genesis-9/strong-force::2-δ-weitzenböck-curvature-branch::b1
 source: genesis-9\strong-force.md
+lines: 871-891
+heading: '**2\. δ-Weitzenböck “Curvature Branch”**'
+block_type: paragraph
+excerpt: 'With torsion suppressed: K(δ)=0,⇒∇(δ)=Γ(δ).K^{(\\delta)} \= 0, \\quad\\Rightarrow\\quad
+  \\nabla^{(\\delta)} \= \\Gamma^{(\\delta)}.K(δ)=0,⇒∇(δ)=Γ(δ). Thus:'
+concepts:
+- δ
+- ∇
+- μ
+- δ-geometry
+- ν
+- Γ
+- δ-harmonic
+- characteristic eigenmodes
+- ≠
+- deviational curvature
+- independent phases
+aliases:
+- Bk485wt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.02919708029197
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

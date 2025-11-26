@@ -1,12 +1,29 @@
+id: INTK-10231
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::3-structure-of-the-9x9-matrix-m-ij::31-block-structure-and-symmetries::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 220-236
+heading: '**3.1. Block Structure and Symmetries**'
+parent_heading: '**3. Structure of the 9x9 Matrix (M_IJ)**'
 block_type: table
-concepts:
-- Diagonal Blocks
-- Off-Diagonal
 excerpt: 'The matrix can be decomposed into 3x3 blocks, reflecting the triad structure:
   ``` M ='
-heading: '**3.1. Block Structure and Symmetries**'
-id: INTK-10231
-lines: 220-236
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::3-structure-of-the-9x9-matrix-m-ij::31-block-structure-and-symmetries::b1
-parent_heading: '**3. Structure of the 9x9 Matrix (M_IJ)**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- cross-interactions
+- self-interactions
+- Off-Diagonal
+- Diagonal Blocks
+aliases:
+- Bk955tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

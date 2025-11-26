@@ -1,12 +1,28 @@
+id: INTK-10403
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::δ-deviation::implications-and-role-in-igsoa::7-cosmological-evolution::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1249-1250
+heading: 7. Cosmological Evolution
+parent_heading: Implications and Role in IGSOA
 block_type: paragraph
-concepts:
-- δ
 excerpt: Cosmological expansion, inflation, and the formation of large-scale structures
   are all described by the large-scale dynamics and phase transitions of `δ` in the
   early universe.
-heading: 7. Cosmological Evolution
-id: INTK-10403
-lines: 1249-1250
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::δ-deviation::implications-and-role-in-igsoa::7-cosmological-evolution::b1
-parent_heading: Implications and Role in IGSOA
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- large-scale
+- δ
+aliases:
+- Bk471ce
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.4074074074074066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

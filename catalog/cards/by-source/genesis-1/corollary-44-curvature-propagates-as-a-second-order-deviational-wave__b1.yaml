@@ -1,13 +1,32 @@
+id: GEN1-617
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::4-dynamical-consequences-of-the-meta-einstein-equation::corollary-44-curvature-propagates-as-a-second-order-deviational-wave::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1309-1326
+heading: '**Corollary 4.4 — Curvature Propagates as a Second-Order Deviational Wave.**'
+parent_heading: '**4\. Dynamical Consequences of the Meta-Einstein Equation**'
 block_type: paragraph
-concepts:
-- Box
-- δ
 excerpt: 'Substituting the definition of δ˙\\dot\\deltaδ˙: R˙δ=\[δ†δ−δδ†, δ\].\\dot{\\mathcal{R}}\_\\delta
   \= \[\\delta^\\dagger\\delta-\\delta\\delta^\\dagger,\\,\\delta\].R˙δ​=\[δ†δ−δδ†,δ\].
   Second differenti...'
-heading: '**Corollary 4.4 — Curvature Propagates as a Second-Order Deviational Wave.**'
-id: GEN1-617
-lines: 1309-1326
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::4-dynamical-consequences-of-the-meta-einstein-equation::corollary-44-curvature-propagates-as-a-second-order-deviational-wave::b1
-parent_heading: '**4\. Dynamical Consequences of the Meta-Einstein Equation**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Box
+- Definition
+- δ-curvature
+- wave-like
+- δR
+aliases:
+- Bk321st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

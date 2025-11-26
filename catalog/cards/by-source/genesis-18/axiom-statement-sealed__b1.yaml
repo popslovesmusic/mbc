@@ -1,12 +1,36 @@
+id: GEN18-5284
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::sealed-axiom-box-the-δ-genesis-axiom::axiom-statement-sealed::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1997-2010
+heading: '**Axiom Statement (Sealed)**'
+parent_heading: '**📦 SEALED AXIOM BOX — “The δ-Genesis Axiom”**'
 block_type: table
-concepts:
-- Standard Mathematical Language
-- δ
 excerpt: ∂I∂δ∣δ=0≠0.\\frac{\\partial \\mathfrak{I}}{\\partial \\delta} \\bigg|\_{\\delta=0}
   \\neq 0.∂δ∂I​​δ=0​=0. ---
-heading: '**Axiom Statement (Sealed)**'
-id: GEN18-5284
-lines: 1997-2010
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::sealed-axiom-box-the-δ-genesis-axiom::axiom-statement-sealed::b1
-parent_heading: '**📦 SEALED AXIOM BOX — “The δ-Genesis Axiom”**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- δ
+- IGSOA
+- MBC
+- ∂
+- not by time-evolution
+- ≠
+- Standard Mathematical Language
+- time-evolution
+- no stable solution exists
+- IGS-state
+- structurally unstable
+- ontologically prior
+aliases:
+- Bk761sm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.053691275167784
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

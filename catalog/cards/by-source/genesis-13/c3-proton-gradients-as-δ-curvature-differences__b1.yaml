@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: (“the mitochondrial membrane as δ-curvature interface”)
-heading: '**(C3) Proton gradients as δ-curvature differences**'
 id: GEN13-2490
-lines: 458-460
 location: genesis-13/what-biology-is-in-meta-genesis::7-next-directions-pick-one::c3-proton-gradients-as-δ-curvature-differences::b1
-parent_heading: '**7\. Next Directions (pick one):**'
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 458-460
+heading: '**(C3) Proton gradients as δ-curvature differences**'
+parent_heading: '**7\. Next Directions (pick one):**'
+block_type: paragraph
+excerpt: (“the mitochondrial membrane as δ-curvature interface”)
+concepts:
+- δ-curvature
+- δ
+aliases:
+- Bk741tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

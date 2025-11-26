@@ -1,19 +1,40 @@
+id: GEN12-1894
+location: genesis-12/untitled-document::part-i-existence-and-uniqueness::1-existence::b1
+source: genesis-12\Untitled_document.md
+lines: 2574-2587
+heading: '**1\. (Existence)**'
+parent_heading: '**Part I — Existence and Uniqueness**'
 block_type: paragraph
-concepts:
-- Axiom
-- By Axiom
-- GF-1
-- GF-2
-- GF-5
-- Π
-- Φ
-- δ
 excerpt: By Axiom **GF-1** and **GF-2**, the inflationary and post-inflationary Φ-evolution
   generate a non-empty set of δ-curvature basins Bδ={Bi},\\mathcal{B}\_\\delta \=
   \\{ B\_i \\},Bδ​={Bi​}, each of which...
-heading: '**1\. (Existence)**'
-id: GEN12-1894
-lines: 2574-2587
-location: genesis-12/untitled-document::part-i-existence-and-uniqueness::1-existence::b1
-parent_heading: '**Part I — Existence and Uniqueness**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- Axiom
+- δ
+- post-inflationary
+- galaxies necessarily exist
+- Φ-evolution
+- δ-curvature
+- non-empty
+- Π
+- GF-5
+- GF-1
+- GF-2
+- By Axiom
+- Φ₂
+aliases:
+- Bk073aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

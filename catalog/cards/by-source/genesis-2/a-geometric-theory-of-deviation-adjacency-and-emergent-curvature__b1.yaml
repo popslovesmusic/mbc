@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***A geometric theory of deviation, adjacency, and emergent curvature***'
 id: GEN2-6294
-lines: 4-6
 location: genesis-2/axioms-of-geometry-topos-compatible::axioms-of-δ-geometry-topos-compatible::a-geometric-theory-of-deviation-adjacency-and-emergent-curvature::b1
-parent_heading: '**Axioms of δ-Geometry (Topos-Compatible)**'
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 4-6
+heading: '***A geometric theory of deviation, adjacency, and emergent curvature***'
+parent_heading: '**Axioms of δ-Geometry (Topos-Compatible)**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

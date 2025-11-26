@@ -1,10 +1,27 @@
+id: GEN20-6950
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::124-example-4-contradiction-handling-supreme-closure::step-1-δ-content::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3776-3779
+heading: Step 1 — δ-content
+parent_heading: 12.4 Example 4 — Contradiction Handling (Supreme Closure)
 block_type: list
+excerpt: '* δ\_A introduces “on-state” * δ\_B introduces “off-state”'
 concepts:
 - δ
-excerpt: '* δ\_A introduces “on-state” * δ\_B introduces “off-state”'
-heading: Step 1 — δ-content
-id: GEN20-6950
-lines: 3776-3779
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::124-example-4-contradiction-handling-supreme-closure::step-1-δ-content::b1
-parent_heading: 12.4 Example 4 — Contradiction Handling (Supreme Closure)
-source: genesis-20\MBC_40_Documentaitio-1.md
+- off-state
+- on-state
+aliases:
+- Bk421is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

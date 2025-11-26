@@ -1,12 +1,29 @@
+id: GEN0-119
+location: genesis-0/feynman-rules-interaction-vertices::iv-physical-interpretation::1-one-radial-δ-higgs-mode::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1750-1762
+heading: '**1\. One “radial” δ-Higgs mode**'
+parent_heading: '**IV. Physical interpretation**'
 block_type: paragraph
+excerpt: 'The mode aligned with u(m)u^{(m)}u(m): δ^∥=u(m)δ^(m)\\hat\\delta\_\\parallel
+  \= u^{(m)} \\hat\\delta^{(m)}δ^∥​=u(m)δ^(m) has mass:'
 concepts:
 - δ
 - λ
-excerpt: 'The mode aligned with u(m)u^{(m)}u(m): δ^∥=u(m)δ^(m)\\hat\\delta\_\\parallel
-  \= u^{(m)} \\hat\\delta^{(m)}δ^∥​=u(m)δ^(m) has mass:'
-heading: '**1\. One “radial” δ-Higgs mode**'
-id: GEN0-119
-lines: 1750-1762
-location: genesis-0/feynman-rules-interaction-vertices::iv-physical-interpretation::1-one-radial-δ-higgs-mode::b1
-parent_heading: '**IV. Physical interpretation**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+- mode-coupled
+- δ-Higgs
+- δv
+aliases:
+- Bk179tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.462686567164178
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

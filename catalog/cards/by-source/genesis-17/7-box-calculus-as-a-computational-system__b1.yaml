@@ -1,12 +1,32 @@
-block_type: table
-concepts:
-- Box
-- Box Calculus
-- Standard Mapping
-excerpt: '---'
-heading: 7\. Box Calculus as a Computational System
 id: GEN17-4156
-lines: 116-125
 location: genesis-17/box-calculus::box-calculus-technical-introduction-dual-column-cross-referenced::7-box-calculus-as-a-computational-system::b1
-parent_heading: BOX CALCULUS — TECHNICAL INTRODUCTION (DUAL-COLUMN, CROSS-REFERENCED)
 source: genesis-17\box_calculus.md
+lines: 116-125
+heading: 7\. Box Calculus as a Computational System
+parent_heading: BOX CALCULUS — TECHNICAL INTRODUCTION (DUAL-COLUMN, CROSS-REFERENCED)
+block_type: table
+excerpt: '---'
+concepts:
+- Box Calculus
+- IGSOA
+- Box
+- Turing-complete
+- Attention-based
+- Neural-like
+- Meta-data
+- Standard Mapping
+aliases:
+- Bk181ic
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 17.02127659574468
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

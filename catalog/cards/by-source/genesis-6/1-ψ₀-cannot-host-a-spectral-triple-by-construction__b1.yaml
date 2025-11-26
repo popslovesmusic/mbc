@@ -1,16 +1,39 @@
-block_type: paragraph
-concepts:
-- -algebra
-- Meta-Genesis
-- atemporal
-- operator-free
-- structureless
-- Ψ
-- δ
-excerpt: 'Meta-Genesis says Ψ₀ is: * **structureless** * **atemporal**'
-heading: '**1\. Ψ₀ cannot host a spectral triple (by construction)**'
 id: GEN6-8382
-lines: 250-289
 location: genesis-6/the-harmonic-spectral-triple::8-final-box-ready-to-insert-into-white-papers::1-ψ₀-cannot-host-a-spectral-triple-by-construction::b1
-parent_heading: '**8\. Final Box (ready to insert into white papers)**'
 source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 250-289
+heading: '**1\. Ψ₀ cannot host a spectral triple (by construction)**'
+parent_heading: '**8\. Final Box (ready to insert into white papers)**'
+block_type: paragraph
+excerpt: 'Meta-Genesis says Ψ₀ is: * **structureless** * **atemporal**'
+concepts:
+- δ
+- Ψ
+- Meta-Genesis
+- Ψ₀
+- →
+- unbounded Dirac-type operator
+- deviation-generated
+- π
+- operator-free
+- Hilbert space representation
+- Dirac-type
+- no internal distinctions
+- non-zero
+- structureless
+- atemporal
+aliases:
+- Bk395mg
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

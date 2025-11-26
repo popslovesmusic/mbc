@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: We construct the IGSOA causal architecture categorically. ---
-heading: '**Π as a Functor Assigning a Partial Order to Box-Objects**'
 id: GEN17-4980
-lines: 1455-1459
 location: genesis-17/key-points::full-category-theoretic-formulation::π-as-a-functor-assigning-a-partial-order-to-box-objects::b1
-parent_heading: '**🌑 FULL CATEGORY-THEORETIC FORMULATION**'
 source: genesis-17\Key_Points.md
+lines: 1455-1459
+heading: '**Π as a Functor Assigning a Partial Order to Box-Objects**'
+parent_heading: '**🌑 FULL CATEGORY-THEORETIC FORMULATION**'
+block_type: paragraph
+excerpt: We construct the IGSOA causal architecture categorically. ---
+concepts:
+- IGSOA
+aliases:
+- Bk032ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

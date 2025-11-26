@@ -1,20 +1,40 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Conclusion
-- Deviational Expansion
-- From Axiom
-- From Lemma
-- Lemma
-- Meta-Time
-- The Universe
-- Zero-State
-- Ψ
-- δ
-excerpt: '**Step 1 — Deviation must occur** From Axiom G1, Ψ0\\Psi\_0Ψ0​ cannot remain
-  invariant. Thus by Lemma 1:'
-heading: '**Proof of the Genesis Theorem**'
 id: GEN0-235
-lines: 1105-1163
 location: genesis-0/tri-unity-theorem-equivalence-of::proof-of-the-genesis-theorem::b1
 source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1105-1163
+heading: '**Proof of the Genesis Theorem**'
+block_type: paragraph
+excerpt: '**Step 1 — Deviation must occur** From Axiom G1, Ψ0\\Psi\_0Ψ0​ cannot remain
+  invariant. Thus by Lemma 1:'
+concepts:
+- Ψ
+- δ
+- Deviation
+- Meta-Time
+- Lemma
+- Axiom
+- State
+- Definition
+- Zero-State
+- Deviational Expansion
+- ∃
+- ∞
+- →
+- one-directional
+- From Lemma
+aliases:
+- Df404sd
+tags:
+- universe
+- definition
+is_formal: true
+statement_type: definition
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.755760368663594
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

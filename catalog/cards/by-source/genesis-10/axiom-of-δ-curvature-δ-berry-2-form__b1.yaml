@@ -1,12 +1,27 @@
+id: GEN10-745
+location: genesis-10/how-stillness-becomes-solid::the-δ-berry-connection-axiom::axiom-of-δ-curvature-δ-berry-2-form::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 920-932
+heading: '**Axiom of δ-Curvature (δ-Berry 2-Form)**'
+parent_heading: '**The δ-Berry Connection Axiom**'
 block_type: paragraph
-concepts:
-- identical
-- δ
 excerpt: 'Define the δ-Berry curvature: Fδ:=dAδ\\boxed{ \\mathcal{F}\_\\delta := d\\mathcal{A}\_\\delta
   }Fδ​:=dAδ​​ which coincides with the δ-curvature of the deviational connection:'
-heading: '**Axiom of δ-Curvature (δ-Berry 2-Form)**'
-id: GEN10-745
-lines: 920-932
-location: genesis-10/how-stillness-becomes-solid::the-δ-berry-connection-axiom::axiom-of-δ-curvature-δ-berry-2-form::b1
-parent_heading: '**The δ-Berry Connection Axiom**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- δ
+- δ-curvature
+- δ-Berry
+aliases:
+- Bk268dt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.838709677419355
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

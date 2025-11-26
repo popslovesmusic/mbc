@@ -1,10 +1,28 @@
-block_type: table
-concepts:
-- τ
-excerpt: This is base Curry–Howard. So M:τ
-heading: 5.4 Programs ↔ Proofs
 id: GEN17-4585
-lines: 6942-6960
 location: genesis-17/box-calculus::curryhoward-for-box-calculus::5-proof-of-the-correspondence::54-programs-proofs::b1
-parent_heading: 5\. Proof of the Correspondence
 source: genesis-17\box_calculus.md
+lines: 6942-6960
+heading: 5.4 Programs ↔ Proofs
+parent_heading: 5\. Proof of the Correspondence
+block_type: table
+excerpt: This is base Curry–Howard. So M:τ
+concepts:
+- IGSOA
+- τ
+- Proof
+aliases:
+- Bk308if
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

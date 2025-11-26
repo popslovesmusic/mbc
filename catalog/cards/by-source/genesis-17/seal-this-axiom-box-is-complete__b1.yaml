@@ -1,11 +1,25 @@
-block_type: paragraph
-concepts:
-- Σ
-- δ
-excerpt: 'No further axioms are required. No additional primitives permitted. All
-  IGSOA reasoning is governed by:'
-heading: '⭐ SEAL: This Axiom Box is Complete'
 id: GEN17-4792
-lines: 9489-9499
 location: genesis-17/box-calculus::seal-this-axiom-box-is-complete::b1
 source: genesis-17\box_calculus.md
+lines: 9489-9499
+heading: '⭐ SEAL: This Axiom Box is Complete'
+block_type: paragraph
+excerpt: 'No further axioms are required. No additional primitives permitted. All
+  IGSOA reasoning is governed by:'
+concepts:
+- IGSOA
+- δ
+- Σ
+- ≠
+aliases:
+- Bk945fa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,27 @@
+id: INTK-10297
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::properties::2-context-dependence::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 720-721
+heading: 2. Context-Dependence
+parent_heading: Properties
 block_type: paragraph
+excerpt: The outcome depends on the intrinsic Meta-Geometric properties (G_AB, Γ_ABC)
+  of the region where the operation is performed.
 concepts:
 - Meta-Geometric
 - Γ
-excerpt: The outcome depends on the intrinsic Meta-Geometric properties (G_AB, Γ_ABC)
-  of the region where the operation is performed.
-heading: 2. Context-Dependence
-id: INTK-10297
-lines: 720-721
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::properties::2-context-dependence::b1
-parent_heading: Properties
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+aliases:
+- Bk424to
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

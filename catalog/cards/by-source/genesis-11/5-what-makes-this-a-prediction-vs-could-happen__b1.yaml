@@ -1,10 +1,27 @@
+id: GEN11-1126
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::7-if-you-want-next::5-what-makes-this-a-prediction-vs-could-happen::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 523-525
+heading: '**5\. What makes this a *prediction* vs “could happen”**'
+parent_heading: '**7\. If you want next:**'
 block_type: paragraph
-concepts: []
 excerpt: 'IGSOA doesn’t just allow void scars, it motivates **specific qualitative
   signatures**:'
-heading: '**5\. What makes this a *prediction* vs “could happen”**'
-id: GEN11-1126
-lines: 523-525
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::7-if-you-want-next::5-what-makes-this-a-prediction-vs-could-happen::b1
-parent_heading: '**7\. If you want next:**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- IGSOA
+- specific qualitative signatures
+aliases:
+- Bk294id
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,28 @@
+id: GEN15-3195
+location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-the-functor-stack-δ-φ-π-cmb-lss-galaxies::1-δ-genesis-curvature-functor::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1857-1861
+heading: '**1\. δ: Genesis-curvature functor**'
+parent_heading: '**Ⅱ. The Functor Stack: δ → Φ → Π → CMB → LSS → Galaxies**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Deviation curvatures define: κ=δ†δ:IdG⇒Cδ.\\kappa \= \\delta^\\dagger \\delta
   : \\mathrm{Id}\_{\\mathcal{G}} \\Rightarrow \\mathcal{C}\_\\delta.κ=δ†δ:IdG​⇒Cδ​.'
-heading: '**1\. δ: Genesis-curvature functor**'
-id: GEN15-3195
-lines: 1857-1861
-location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-the-functor-stack-δ-φ-π-cmb-lss-galaxies::1-δ-genesis-curvature-functor::b1
-parent_heading: '**Ⅱ. The Functor Stack: δ → Φ → Π → CMB → LSS → Galaxies**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- Deviation
+- κ
+aliases:
+- Bk069dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,21 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'To avoid category errors, δ must not be confused with:'
-heading: '**2\. What Deviation Is Not**'
 id: INTK-10120
-lines: 647-649
 location: intake/meta-genesis-physical-interpretation-papers::2-what-deviation-is-not::b1
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 647-649
+heading: '**2\. What Deviation Is Not**'
+block_type: paragraph
+excerpt: 'To avoid category errors, δ must not be confused with:'
+concepts:
+- δ
+aliases:
+- Bk149ac
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

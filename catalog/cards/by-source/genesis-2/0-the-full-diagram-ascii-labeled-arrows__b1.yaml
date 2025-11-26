@@ -1,23 +1,38 @@
-block_type: paragraph
-concepts:
-- Layer
-- Math Layer
-- Meta-Genesis
-- Meta-Math
-- Riemann Geometry
-- Scale-Sheaf
-- Scale-Topos
-- Sheaf Topos Sh
-- Topos  Sh
-- Π
-- Φ
-- Ψ
-- α
-- δ
-- η
-excerpt: '`Meta-Math Layer` `(Scale-Sheaf Topos Sh(σ))` `|`'
-heading: '**0\. The Full Diagram (ASCII \+ labeled arrows)**'
 id: GEN2-6519
-lines: 604-644
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::0-the-full-diagram-ascii-labeled-arrows::b1
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 604-644
+heading: '**0\. The Full Diagram (ASCII \+ labeled arrows)**'
+block_type: paragraph
+excerpt: '`Meta-Math Layer` `(Scale-Sheaf Topos Sh(σ))` `|`'
+concepts:
+- δ
+- Meta-Genesis
+- δ-geometry
+- Meta-Math
+- σ
+- Layer
+- Π
+- Υ
+- Ψ
+- δ-sheafification
+- double-triangle
+- δ-connections
+- Scale-Topos
+- Scale-Sheaf
+- δ-curvature
+aliases:
+- Bk051mm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.88505747126437
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

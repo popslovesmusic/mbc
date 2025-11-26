@@ -1,10 +1,29 @@
+id: INTK-9693
+location: intake/axioms-geometry::section-8-integration-rules-for-your-writing-agents::rule-2-enforce-mappings::b1
+source: intake\Axioms-geometry.md
+lines: 662-670
+heading: '**Rule 2 — Enforce Mappings**'
+parent_heading: '**Section 8 — Integration Rules for Your Writing Agents**'
 block_type: paragraph
-concepts: []
 excerpt: 'For every statement: * If it is about **first existence**, → MG * If about
   **operators or curvature**, → MM'
-heading: '**Rule 2 — Enforce Mappings**'
-id: INTK-9693
-lines: 662-670
-location: intake/axioms-geometry::section-8-integration-rules-for-your-writing-agents::rule-2-enforce-mappings::b1
-parent_heading: '**Section 8 — Integration Rules for Your Writing Agents**'
-source: intake\Axioms-geometry.md
+concepts:
+- Projection
+- →
+- operators or curvature
+- observable physics
+- first existence
+aliases:
+- Bk562fe
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.809523809523807
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

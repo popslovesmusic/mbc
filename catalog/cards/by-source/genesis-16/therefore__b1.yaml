@@ -1,12 +1,27 @@
+id: GEN16-4113
+location: genesis-16/untitled-document::3-proof-η-long-normal-form-fully-expanded-box-graph::33-e-expansion-corresponds-to-η-expansion::therefore::b1
+source: genesis-16\Untitled_document.md
+lines: 4791-4795
+heading: '**Therefore:**'
+parent_heading: '**3.3 E-expansion corresponds to η-expansion**'
 block_type: paragraph
+excerpt: T(Mη-long)=T(M)\_Full-Expand\\mathcal{T}(M\_{\\eta\\text{-long}})=\\mathcal{T}(M)\\\_{\\text{Full-Expand}}T(Mη-long​)=T(M)\_Full-Expand
+  ---
 concepts:
 - Full-Expand
 - η
-excerpt: T(Mη-long)=T(M)\_Full-Expand\\mathcal{T}(M\_{\\eta\\text{-long}})=\\mathcal{T}(M)\\\_{\\text{Full-Expand}}T(Mη-long​)=T(M)\_Full-Expand
-  ---
-heading: '**Therefore:**'
-id: GEN16-4113
-lines: 4791-4795
-location: genesis-16/untitled-document::3-proof-η-long-normal-form-fully-expanded-box-graph::33-e-expansion-corresponds-to-η-expansion::therefore::b1
-parent_heading: '**3.3 E-expansion corresponds to η-expansion**'
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk073le
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

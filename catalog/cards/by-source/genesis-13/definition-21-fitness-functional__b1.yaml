@@ -1,12 +1,31 @@
+id: GEN13-2624
+location: genesis-13/what-biology-is-in-meta-genesis::2-fitness-as-a-δ-work-functional::definition-21-fitness-functional::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2412-2420
+heading: '**Definition 2.1 (Fitness Functional).**'
+parent_heading: '**2\. Fitness as a δ-Work Functional**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Define fitness: f(X)=sup⁡Spec⁡(Wδ,X)∈R≥0.\\mathfrak{f}(X)=\\sup\\operatorname{Spec}(W\_{\\delta,X})\\in\\mathbb{R}\_{\\ge
   0}.f(X)=supSpec(Wδ,X​)∈R≥0​. Interpretation: maximal Π-stable δ-work extractio...'
-heading: '**Definition 2.1 (Fitness Functional).**'
-id: GEN13-2624
-lines: 2412-2420
-location: genesis-13/what-biology-is-in-meta-genesis::2-fitness-as-a-δ-work-functional::definition-21-fitness-functional::b1
-parent_heading: '**2\. Fitness as a δ-Work Functional**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- ≥
+- ∈
+- Π-stable
+- δ-work
+- Π
+aliases:
+- Bk755df
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.634146341463413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,26 @@
+id: INTK-9769
+location: intake/meta-genesis-core-papers-foundations::2-ontological-status::ψ₀-is-not-an-event::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 314-316
+heading: '**Ψ₀ is not an event.**'
+parent_heading: '**2\. Ontological Status**'
 block_type: paragraph
+excerpt: Events require time, which Ψ₀ lacks.
 concepts:
 - Ψ
-excerpt: Events require time, which Ψ₀ lacks.
-heading: '**Ψ₀ is not an event.**'
-id: INTK-9769
-lines: 314-316
-location: intake/meta-genesis-core-papers-foundations::2-ontological-status::ψ₀-is-not-an-event::b1
-parent_heading: '**2\. Ontological Status**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+- Ψ₀
+aliases:
+- Bk203er
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

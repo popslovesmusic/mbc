@@ -1,13 +1,33 @@
+id: GEN12-1771
+location: genesis-12/untitled-document::2-axiom-boxes-for-δ-inflation::axiom-box-a1-δinflation-projection-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 818-827
+heading: '**Axiom Box A1 — δ–Inflation Projection Axiom**'
+parent_heading: '**2\. Axiom Boxes for δ-Inflation**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '**Inflation is the Π-projection of the Φ-evolution of δ-curvature.** Formally:
   I=Π(Φ(δ)).I \= \\Pi\\big(\\Phi(\\delta)\\big).I=Π(Φ(δ)).'
-heading: '**Axiom Box A1 — δ–Inflation Projection Axiom**'
-id: GEN12-1771
-lines: 818-827
-location: genesis-12/untitled-document::2-axiom-boxes-for-δ-inflation::axiom-box-a1-δinflation-projection-axiom::b1
-parent_heading: '**2\. Axiom Boxes for δ-Inflation**'
-source: genesis-12\Untitled_document.md
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- Axiom
+- Π-projection
+- Φ-evolution
+- δ-curvature
+aliases:
+- Bk761it
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

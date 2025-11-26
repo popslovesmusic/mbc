@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Galaxy types are not determined by environment or random processes. They
-  are determined by **which δ-harmonic mode dominates the local curvature spectrum**.
-heading: '**4\. The δ-Harmonic Origin of Galaxy Morphology**'
 id: GEN12-1837
-lines: 1794-1797
 location: genesis-12/untitled-document::4-the-δ-harmonic-origin-of-galaxy-morphology::b1
 source: genesis-12\Untitled_document.md
+lines: 1794-1797
+heading: '**4\. The δ-Harmonic Origin of Galaxy Morphology**'
+block_type: paragraph
+excerpt: Galaxy types are not determined by environment or random processes. They
+  are determined by **which δ-harmonic mode dominates the local curvature spectrum**.
+concepts:
+- which δ-harmonic mode dominates the local curvature spectrum
+- δ-harmonic
+- δ
+aliases:
+- Bk242gt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,28 @@
+id: GEN0-183
+location: genesis-0/tri-unity-theorem-equivalence-of::genesis-corollary::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 378-391
+heading: '**Genesis Corollary**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Ψ
-- δ
 excerpt: '**If deviation exists, time is inevitable.** Formally: δΨ0≠0    ⟹    ∃ T  (Meta-Time),and
   T cannot be trivial.\\boxed{ \\delta\\Psi\_0 \\neq 0 \\;\\;\\Longrightarrow\\;\\;
   \\exists\\,\\mathcal{T}\\;\\...'
-heading: '**Genesis Corollary**'
-id: GEN0-183
-lines: 378-391
-location: genesis-0/tri-unity-theorem-equivalence-of::genesis-corollary::b1
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Meta-Time
+- ∃
+- Ψ
+- δ
+- zero-state
+- ≠
+aliases:
+- Bk028de
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

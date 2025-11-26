@@ -1,12 +1,27 @@
+id: GEN17-4909
+location: genesis-17/key-points::7-would-you-like-me-to-turn-this-into::operator-form::b1
+source: genesis-17\Key_Points.md
+lines: 535-541
+heading: '**✓ operator form**'
+parent_heading: '**⭐ 7\. Would you like me to turn this into:**'
 block_type: paragraph
+excerpt: δ \= curvature seed Φ \= metric defect Π \= propagation operator (functorial)
 concepts:
 - Π
-- Φ
 - δ
-excerpt: δ \= curvature seed Φ \= metric defect Π \= propagation operator (functorial)
-heading: '**✓ operator form**'
-id: GEN17-4909
-lines: 535-541
-location: genesis-17/key-points::7-would-you-like-me-to-turn-this-into::operator-form::b1
-parent_heading: '**⭐ 7\. Would you like me to turn this into:**'
-source: genesis-17\Key_Points.md
+- Φ
+aliases:
+- Bk395cs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

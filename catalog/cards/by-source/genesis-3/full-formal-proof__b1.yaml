@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Final Synthesis
-excerpt: The proof proceeds through five Lemmas and one Final Synthesis. This is the
-  complete version—nothing is assumed, no steps are skipped. ---
-heading: '**FULL FORMAL PROOF**'
 id: GEN3-7444
-lines: 1072-1077
 location: genesis-3/the-physics-box-diagram::full-formal-proof::b1
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1072-1077
+heading: '**FULL FORMAL PROOF**'
+block_type: paragraph
+excerpt: The proof proceeds through five Lemmas and one Final Synthesis. This is the
+  complete version—nothing is assumed, no steps are skipped. ---
+concepts:
+- Proof
+- Final Synthesis
+aliases:
+- Bk009tp
+tags:
+- proof
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

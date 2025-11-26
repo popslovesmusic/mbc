@@ -1,10 +1,32 @@
+id: GEN17-5081
+location: genesis-17/mbc-schema-3::2-new-derived-meta-operators::22-stabilizer-operator-s::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1018-1042
+heading: '**2.2 Stabilizer Operator (S)**'
+parent_heading: '**2\. NEW DERIVED META-OPERATORS**'
 block_type: paragraph
-concepts: []
 excerpt: 'The operator that evaluates which structures survive meta-deviation: S:B→BS:
   \\mathcal{B} \\to \\mathcal{B}S:B→B S filters Boxes by stability under Δ.'
-heading: '**2.2 Stabilizer Operator (S)**'
-id: GEN17-5081
-lines: 1018-1042
-location: genesis-17/mbc-schema-3::2-new-derived-meta-operators::22-stabilizer-operator-s::b1
-parent_heading: '**2\. NEW DERIVED META-OPERATORS**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- semi-stable Boxes oscillate
+- Δ
+- →
+- meta-deviation
+- semi-stable
+- unstable Boxes fragment
+- stable Boxes persist
+aliases:
+- Bk260to
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

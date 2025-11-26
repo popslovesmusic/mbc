@@ -1,10 +1,24 @@
+id: INTK-10960
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::recommended-action-plan::phase-4-complete-advanced-topics::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 606-616
+heading: '**Phase 4: Complete Advanced Topics**'
+parent_heading: RECOMMENDED ACTION PLAN
 block_type: paragraph
-concepts: []
 excerpt: '**Target:** Volume V Parts 18-19, Volume IV expansions **Method:** New specialized
   content **Time:** 6-8 weeks'
-heading: '**Phase 4: Complete Advanced Topics**'
-id: INTK-10960
-lines: 606-616
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::recommended-action-plan::phase-4-complete-advanced-topics::b1
-parent_heading: RECOMMENDED ACTION PLAN
-source: intake\Volume_Structure_Gap_Analysis.md
+aliases:
+- Bk167tv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

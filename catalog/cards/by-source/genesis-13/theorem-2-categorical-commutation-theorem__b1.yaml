@@ -1,16 +1,32 @@
+id: GEN13-2438
+location: genesis-13/the-weight-of-light::9-final-statement::theorem-2-categorical-commutation-theorem::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 2399-2413
+heading: '**THEOREM (2-Categorical Commutation Theorem)**'
+parent_heading: '**\*\*9. Final Statement**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- unique
-- Π
-- Φ
-- δ
 excerpt: 'In the monoidal bicategory U\\mathbf{U}U, let: * G0,M,P\\mathcal{G}\_0,
   \\mathcal{M}, \\mathcal{P}G0​,M,P be 0-cells * FGM:G0→MF\_{GM}: \\mathcal{G}\_0\\to\\mathcal{M}FGM​:G0​→M,
   FMP:M→PF\_{MP}:\\math...'
-heading: '**THEOREM (2-Categorical Commutation Theorem)**'
-id: GEN13-2438
-lines: 2399-2413
-location: genesis-13/the-weight-of-light::9-final-statement::theorem-2-categorical-commutation-theorem::b1
-parent_heading: '**\*\*9. Final Statement**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Tri-Unity
+- →
+- Π
+- δ
+- Φ
+- δF
+aliases:
+- Bk799tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.660377358490567
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Premises
-excerpt: '`Premises` `→ Semantic cohesion` `→ Inference`'
-heading: '**Standard logic view**'
 id: GEN18-5379
-lines: 361-372
 location: genesis-18/mbc-4::4-final-collapse-π-collapse-reasoning-output::standard-logic-view::b1
-parent_heading: '**4\. Final Collapse (Π-collapse) \= Reasoning Output**'
 source: genesis-18\MBC-4.md
+lines: 361-372
+heading: '**Standard logic view**'
+parent_heading: '**4\. Final Collapse (Π-collapse) \= Reasoning Output**'
+block_type: paragraph
+excerpt: '`Premises` `→ Semantic cohesion` `→ Inference`'
+concepts:
+- →
+- Theorem
+- Premises
+aliases:
+- Bk303ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

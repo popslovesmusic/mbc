@@ -1,12 +1,28 @@
+id: GEN18-5294
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::sealed-axiom-box-the-δ-genesis-axiom::canonical-sealed-rule::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2099-2103
+heading: '**Canonical Sealed Rule**'
+parent_heading: '**📦 SEALED AXIOM BOX — “The δ-Genesis Axiom”**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: δ is the first act of differentiation of IGSOA.\\boxed{ \\delta \\text{ is
   the first act of differentiation of IGSOA.} }δ is the first act of differentiation
   of IGSOA.​ δ arises without time, without ...
-heading: '**Canonical Sealed Rule**'
-id: GEN18-5294
-lines: 2099-2103
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::sealed-axiom-box-the-δ-genesis-axiom::canonical-sealed-rule::b1
-parent_heading: '**📦 SEALED AXIOM BOX — “The δ-Genesis Axiom”**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- IGSOA
+- δ
+- ≠
+aliases:
+- Bk660tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.1914893617021276
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

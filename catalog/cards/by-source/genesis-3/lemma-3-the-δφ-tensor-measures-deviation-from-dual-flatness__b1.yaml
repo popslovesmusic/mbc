@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- only
-- Φ
-- δ
-excerpt: '**Statement.** The bilinear interaction tensor TδΦ=δ(Φ)+Φ(δ)T\_{\\delta\\Phi}
-  \= \\delta(\\Phi)+\\Phi(\\delta)TδΦ​=δ(Φ)+Φ(δ)'
-heading: '**Lemma 3\. The δ/Φ Tensor Measures Deviation from Dual Flatness**'
 id: GEN3-7447
-lines: 1135-1165
 location: genesis-3/the-physics-box-diagram::lemma-3-the-δφ-tensor-measures-deviation-from-dual-flatness::b1
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1135-1165
+heading: '**Lemma 3\. The δ/Φ Tensor Measures Deviation from Dual Flatness**'
+block_type: paragraph
+excerpt: '**Statement.** The bilinear interaction tensor TδΦ=δ(Φ)+Φ(δ)T\_{\\delta\\Phi}
+  \= \\delta(\\Phi)+\\Phi(\\delta)TδΦ​=δ(Φ)+Φ(δ)'
+concepts:
+- δ
+- Φ
+- Proof
+- Φ-flatness
+- only
+- ΦT
+aliases:
+- Bk583st
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.137931034482759
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

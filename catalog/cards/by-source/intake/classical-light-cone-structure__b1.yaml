@@ -1,13 +1,28 @@
+id: INTK-10801
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::motivation::classical-light-cone-structure::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2415-2422
+heading: Classical Light Cone Structure
+parent_heading: Motivation
 block_type: paragraph
-concepts:
-- metric-bound
-- μ
-- ν
 excerpt: 'In relativity, light cone encodes all possible causal relations permitted
   by speed of light in fixed spacetime geometry: ``` g_μν dx^μ dx^ν = 0'
-heading: Classical Light Cone Structure
-id: INTK-10801
-lines: 2415-2422
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::motivation::classical-light-cone-structure::b1
-parent_heading: Motivation
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- ν
+- μ
+- metric-bound
+aliases:
+- Bk949rl
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

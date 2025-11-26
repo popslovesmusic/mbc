@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- co-limits
-- co-sheaves
-- co-structure
-- co-topos
-excerpt: 'Let: X\\mathcal{X}X be the ∞-topos of cosmological fields'
-heading: '**🔷 1\. Move From Topos to Co-Topos**'
 id: GEN15-3487
-lines: 1739-1766
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-move-from-topos-to-co-topos::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1739-1766
+heading: '**🔷 1\. Move From Topos to Co-Topos**'
+block_type: paragraph
+excerpt: 'Let: X\\mathcal{X}X be the ∞-topos of cosmological fields'
+concepts:
+- ∞
+- co-sheaves of cosmic information
+- co-Kleisli coalgebraic dynamics
+- co-sheaves
+- co-topos
+- co-structure
+- co-Kleisli
+- co-limits
+- coherent unfoldings
+aliases:
+- Bk903lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.857142857142856
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

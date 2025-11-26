@@ -1,14 +1,35 @@
+id: GEN3-7366
+location: genesis-3/the-physics-box-diagram::2-formal-functors-and-arrows::primary-vertical-functors::2-p-φ-𝓜-𝓟::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 93-120
+heading: '**2\. P\_Φ : 𝓜 → 𝓟**'
+parent_heading: '**Primary (Vertical) Functors**'
 block_type: paragraph
+excerpt: 'The **Φ-Projection Functor** Takes: * form-operators'
 concepts:
 - Meta-Time
+- Projection
+- Functor
+- Φ-Projection Functor
+- δ
+- Φ
+- form-operators
+- Φ-Projection
+- δ-Einstein
 - Projection Functor
 - Standard Model
-- Φ
-- δ
-excerpt: 'The **Φ-Projection Functor** Takes: * form-operators'
-heading: '**2\. P\_Φ : 𝓜 → 𝓟**'
-id: GEN3-7366
-lines: 93-120
-location: genesis-3/the-physics-box-diagram::2-formal-functors-and-arrows::primary-vertical-functors::2-p-φ-𝓜-𝓟::b1
-parent_heading: '**Primary (Vertical) Functors**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+aliases:
+- Bk035tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 32.35294117647059
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

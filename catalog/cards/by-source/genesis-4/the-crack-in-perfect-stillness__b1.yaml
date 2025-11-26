@@ -1,11 +1,25 @@
+id: GEN4-7829
+location: genesis-4/the-first-adjacency::narrative-interlude-day-1::the-crack-in-perfect-stillness::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 245-249
+heading: '**The Crack in Perfect Stillness**'
+parent_heading: '**Narrative Interlude — Day 1**'
 block_type: paragraph
-concepts: []
 excerpt: '*Director’s cut: slow, atmospheric, mythic, cinematic. This is the emotional
   center of Day 1 — the moment the universe stops pretending it can stay asleep.*
   ---'
-heading: '**The Crack in Perfect Stillness**'
-id: GEN4-7829
-lines: 245-249
-location: genesis-4/the-first-adjacency::narrative-interlude-day-1::the-crack-in-perfect-stillness::b1
-parent_heading: '**Narrative Interlude — Day 1**'
-source: genesis-4\The_First_Adjacency.md
+aliases:
+- Bk817dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

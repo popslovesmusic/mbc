@@ -1,13 +1,26 @@
-block_type: paragraph
-concepts:
-- not
-- Π
-- Φ
-- δ
-excerpt: 'It does **not** depend on: * charge, * potential,'
-heading: '**4\. This diagram is universal.**'
 id: GEN9-9421
-lines: 1322-1336
 location: genesis-9/is-the-source-of-all-structure::interpretation-of-the-igsoa-grid::4-this-diagram-is-universal::b1
-parent_heading: '**INTERPRETATION OF THE IGSOA GRID**'
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 1322-1336
+heading: '**4\. This diagram is universal.**'
+parent_heading: '**INTERPRETATION OF THE IGSOA GRID**'
+block_type: paragraph
+excerpt: 'It does **not** depend on: * charge, * potential,'
+concepts:
+- →
+- Π
+- δ
+- Φ
+- not
+aliases:
+- Bk823dn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.31578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

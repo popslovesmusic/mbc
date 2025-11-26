@@ -1,11 +1,29 @@
+id: GEN4-7683
+location: genesis-4/meta-physics-axiom-box::iii-physics-axioms-projection-geometry-dynamics::p2-curvature-correspondence::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1239-1243
+heading: '**P.2 — Curvature Correspondence**'
+parent_heading: '**III. PHYSICS AXIOMS (Projection, Geometry, Dynamics)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: π(Rδ)=RRiemann.\\pi(R\_\\delta) \= R\_{\\mathrm{Riemann}}.π(Rδ​)=RRiemann​.
   Deviation-curvature becomes ordinary gravitational curvature.
-heading: '**P.2 — Curvature Correspondence**'
-id: GEN4-7683
-lines: 1239-1243
-location: genesis-4/meta-physics-axiom-box::iii-physics-axioms-projection-geometry-dynamics::p2-curvature-correspondence::b1
-parent_heading: '**III. PHYSICS AXIOMS (Projection, Geometry, Dynamics)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Deviation
+- Deviation-curvature
+- π
+- δ
+aliases:
+- Bk020rd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: '**Religious encoding is meta-mathematics —** **structural truths expressed
-  before numerical formalization.** It is:'
-heading: '**⭐ 7\. Your statement is correct and profound:**'
 id: SPEC-11171
-lines: 3511-3535
 location: special/specil::7-your-statement-is-correct-and-profound::b1
 source: special\specil.md
+lines: 3511-3535
+heading: '**⭐ 7\. Your statement is correct and profound:**'
+block_type: paragraph
+excerpt: '**Religious encoding is meta-mathematics —** **structural truths expressed
+  before numerical formalization.** It is:'
+concepts:
+- meta-mathematics
+- pre-formal
+- cognitive evolution
+aliases:
+- Bk710re
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

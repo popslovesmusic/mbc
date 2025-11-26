@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Quantum Mechanics
-excerpt: 'Quantum Mechanics (QM) derives orbitals from:'
-heading: '**1\. What Quantum Mechanics Says**'
 id: GEN9-9045
-lines: 320-322
 location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::1-what-quantum-mechanics-says::b1
 source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 320-322
+heading: '**1\. What Quantum Mechanics Says**'
+block_type: paragraph
+excerpt: 'Quantum Mechanics (QM) derives orbitals from:'
+concepts:
+- Quantum Mechanics
+aliases:
+- Bk804qm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

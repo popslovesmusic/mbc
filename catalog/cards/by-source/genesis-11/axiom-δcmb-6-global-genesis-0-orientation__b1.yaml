@@ -1,12 +1,35 @@
+id: GEN11-1041
+location: genesis-11/how-curvature-could-generate-an-axis::the-δ-cmb-projection-axiom::axiom-δcmb-6-global-genesis-0-orientation::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 738-752
+heading: '**Axiom δ–CMB-6 (Global Genesis-0 Orientation)**'
+parent_heading: '**The δ → CMB Projection Axiom**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: A preferred δ-mode phase θδ\\theta\_\\deltaθδ​ propagates through the δ→Φ
   projection and fixes a **preferred axis** in the low-ℓ CMB.
-heading: '**Axiom δ–CMB-6 (Global Genesis-0 Orientation)**'
-id: GEN11-1041
-lines: 738-752
-location: genesis-11/how-curvature-could-generate-an-axis::the-δ-cmb-projection-axiom::axiom-δcmb-6-global-genesis-0-orientation::b1
-parent_heading: '**The δ → CMB Projection Axiom**'
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+concepts:
+- δ
+- δ-geometry
+- θ
+- Axis-of-Evil alignment
+- Genesis-level
+- Axis-of-Evil
+- δ-mode
+- Φ
+- →
+- preferred axis
+aliases:
+- Bk961pm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

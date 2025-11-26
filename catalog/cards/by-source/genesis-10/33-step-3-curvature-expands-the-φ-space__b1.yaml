@@ -1,15 +1,34 @@
-block_type: paragraph
-concepts:
-- difference
-- mode-multiplicity
-- Π
-- Φ
-- Ψ
-- δ
-excerpt: 'In your formalism: * δ controls *difference* * Φ controls *mode-multiplicity*'
-heading: '**3.3 Step 3: Curvature expands the Φ-space**'
 id: GEN10-756
-lines: 89-107
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-δ-curvature-derivation::33-step-3-curvature-expands-the-φ-space::b1
-parent_heading: '**3\. The δ-Curvature Derivation**'
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 89-107
+heading: '**3.3 Step 3: Curvature expands the Φ-space**'
+parent_heading: '**3\. The δ-Curvature Derivation**'
+block_type: paragraph
+excerpt: 'In your formalism: * δ controls *difference* * Φ controls *mode-multiplicity*'
+concepts:
+- Φ
+- Curvature
+- Ψ
+- mode-multiplicity
+- ≥
+- Φ-trace law
+- Φ-trace
+- Π
+- δ
+- Φ-mode
+- Ψt
+aliases:
+- Bk839yf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.068493150684931
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

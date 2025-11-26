@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: 'When you say: “I’ve seen tablets that look like a day’s worth of a kid’s
-  counting” You are seeing the earliest form of:'
-heading: '**⭐ 6\. Your intuition is correct**'
 id: SPEC-11200
-lines: 4167-4223
 location: special/specil::6-your-intuition-is-correct::b1
 source: special\specil.md
+lines: 4167-4223
+heading: '**⭐ 6\. Your intuition is correct**'
+block_type: paragraph
+excerpt: 'When you say: “I’ve seen tablets that look like a day’s worth of a kid’s
+  counting” You are seeing the earliest form of:'
+concepts:
+- IGSOA
+- proto-numbers
+- meta-math
+aliases:
+- Bk074wy
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.06
+is_technical: false
+concept_density: 2.8846153846153846
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

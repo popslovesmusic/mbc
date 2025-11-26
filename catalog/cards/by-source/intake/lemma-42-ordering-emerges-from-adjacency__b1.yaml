@@ -1,12 +1,27 @@
+id: INTK-10095
+location: intake/meta-genesis-physical-interpretation-papers::4-emergence-of-adjacency-and-meta-time::lemma-42-ordering-emerges-from-adjacency::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 340-346
+heading: '**Lemma 4.2 (Ordering Emerges From Adjacency).**'
+parent_heading: '**4\. Emergence of Adjacency and Meta-Time**'
 block_type: paragraph
-concepts:
-- Once Adj
-- Ψ
 excerpt: 'Once Adj is defined, a partial order can be constructed: Ψ0≺Ψ1.\\Psi\_0
   \\prec \\Psi\_1.Ψ0​≺Ψ1​. ---'
-heading: '**Lemma 4.2 (Ordering Emerges From Adjacency).**'
-id: INTK-10095
-lines: 340-346
-location: intake/meta-genesis-physical-interpretation-papers::4-emergence-of-adjacency-and-meta-time::lemma-42-ordering-emerges-from-adjacency::b1
-parent_heading: '**4\. Emergence of Adjacency and Meta-Time**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- Once Adj
+aliases:
+- Bk530oa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

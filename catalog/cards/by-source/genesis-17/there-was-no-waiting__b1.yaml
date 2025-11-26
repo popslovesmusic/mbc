@@ -1,13 +1,29 @@
+id: GEN17-4876
+location: genesis-17/key-points::why-this-resolves-your-paradox::there-was-no-waiting::b1
+source: genesis-17\Key_Points.md
+lines: 98-103
+heading: '**• There *was* no waiting.**'
+parent_heading: '**⭐ Why this resolves your paradox**'
 block_type: paragraph
-concepts:
-- contrast
-- difference
 excerpt: In a perfectly symmetric IGS state, there is **no preferred direction**,
   no gradient, no curvature → **no expansion pressure**. A perfectly symmetric, perfectly
   smooth field is *dynamically inert*. No...
-heading: '**• There *was* no waiting.**'
-id: GEN17-4876
-lines: 98-103
-location: genesis-17/key-points::why-this-resolves-your-paradox::there-was-no-waiting::b1
-parent_heading: '**⭐ Why this resolves your paradox**'
-source: genesis-17\Key_Points.md
+concepts:
+- no preferred direction
+- no expansion pressure
+- →
+- directional gradient
+- difference
+- contrast
+aliases:
+- Bk709ps
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.216216216216218
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: This is a testable departure from standard inflation. ---
-heading: '**5\. IGSOA predicts spectral *coherence*, not pure stochasticity.**'
 id: GEN11-1221
-lines: 1560-1564
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::immediate-consequences::5-igsoa-predicts-spectral-coherence-not-pure-stochasticity::b1
-parent_heading: '**IMMEDIATE CONSEQUENCES**'
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1560-1564
+heading: '**5\. IGSOA predicts spectral *coherence*, not pure stochasticity.**'
+parent_heading: '**IMMEDIATE CONSEQUENCES**'
+block_type: paragraph
+excerpt: This is a testable departure from standard inflation. ---
+aliases:
+- Bk411tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

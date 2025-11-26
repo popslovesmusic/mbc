@@ -1,17 +1,32 @@
+id: INTK-10150
+location: intake/meta-genesis-physical-interpretation-papers::the-symmetry-breaking-narrative::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 911-918
+heading: '**The Symmetry-Breaking Narrative**'
 block_type: paragraph
-concepts:
-- Axiom
-- First Distinction Must Occur
-- How Stillness Fails
-- How Structure Emerges
-- Meta-Genesis
-- Meta-Math
-- δ
 excerpt: '*(How Stillness Fails, How Structure Emerges, and Why the First Distinction
   Must Occur)* This is written to seamlessly join your Meta-Genesis \+ Meta-Math white-paper
   stack. It is cinematic, rigorous,...'
-heading: '**The Symmetry-Breaking Narrative**'
-id: INTK-10150
-lines: 911-918
-location: intake/meta-genesis-physical-interpretation-papers::the-symmetry-breaking-narrative::b1
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Meta-Genesis
+- Meta-Math
+- Axiom
+- First Distinction Must Occur
+- white-paper
+- δ-ontology
+- δ
+- How Structure Emerges
+- →
+- How Stillness Fails
+aliases:
+- Bk975hs
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

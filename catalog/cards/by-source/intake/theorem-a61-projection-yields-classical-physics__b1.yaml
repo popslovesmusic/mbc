@@ -1,13 +1,30 @@
+id: INTK-10644
+location: intake/volume-i-core-ontology-and-metagenesis-summary::a6-projection-theorem::theorem-a61-projection-yields-classical-physics::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1391-1402
+heading: '**Theorem A.6.1 (Projection Yields Classical Physics).**'
+parent_heading: '**A.6 Projection Theorem**'
 block_type: paragraph
+excerpt: Let Π:S→Sphys\\Pi:\\mathcal{S} \\to \\mathcal{S}\_{\\rm phys}Π:S→Sphys​ be
+  the physical projection functor.
 concepts:
 - Π
 - μ
 - ν
-excerpt: Let Π:S→Sphys\\Pi:\\mathcal{S} \\to \\mathcal{S}\_{\\rm phys}Π:S→Sphys​ be
-  the physical projection functor.
-heading: '**Theorem A.6.1 (Projection Yields Classical Physics).**'
-id: INTK-10644
-lines: 1391-1402
-location: intake/volume-i-core-ontology-and-metagenesis-summary::a6-projection-theorem::theorem-a61-projection-yields-classical-physics::b1
-parent_heading: '**A.6 Projection Theorem**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+- ∂
+- →
+aliases:
+- Bk099ls
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.620689655172415
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

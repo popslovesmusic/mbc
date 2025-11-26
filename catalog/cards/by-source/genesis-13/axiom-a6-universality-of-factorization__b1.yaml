@@ -1,14 +1,29 @@
+id: GEN13-2361
+location: genesis-13/the-weight-of-light::1-the-axioms::axiom-a6-universality-of-factorization::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1445-1451
+heading: '**Axiom A6 — Universality of Factorization**'
+parent_heading: '**1\. The Axioms**'
 block_type: paragraph
+excerpt: Any lawful physical transformation must factor uniquely through the Tri-Unity
+  chain. F=Π∘Φ∘δ.F \= \\Pi \\circ \\Phi \\circ \\delta.F=Π∘Φ∘δ. ---
 concepts:
 - Tri-Unity
 - Π
-- Φ
 - δ
-excerpt: Any lawful physical transformation must factor uniquely through the Tri-Unity
-  chain. F=Π∘Φ∘δ.F \= \\Pi \\circ \\Phi \\circ \\delta.F=Π∘Φ∘δ. ---
-heading: '**Axiom A6 — Universality of Factorization**'
-id: GEN13-2361
-lines: 1445-1451
-location: genesis-13/the-weight-of-light::1-the-axioms::axiom-a6-universality-of-factorization::b1
-parent_heading: '**1\. The Axioms**'
-source: genesis-13\The_Weight_of_Light.md
+- Φ
+aliases:
+- Bk211al
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

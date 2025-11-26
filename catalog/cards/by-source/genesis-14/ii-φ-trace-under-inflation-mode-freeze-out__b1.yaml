@@ -1,14 +1,35 @@
+id: GEN14-2773
+location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::ii-φ-trace-under-inflation-mode-freeze-out::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1980-1989
+heading: '**(II) Φ-Trace Under Inflation ⇒ Mode Freeze-Out**'
+parent_heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Under Π-exponential expansion, each δ-harmonic obeys: Φ(hn)(t)⟶ϕn(∗).\\Phi(h\_n)(t)
   \\longrightarrow \\phi^{(\*)}\_n.Φ(hn​)(t)⟶ϕn(∗)​. All non-zero adjacency-wavenumber
   modes decay; the spectrum freez...'
-heading: '**(II) Φ-Trace Under Inflation ⇒ Mode Freeze-Out**'
-id: GEN14-2773
-lines: 1980-1989
-location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::ii-φ-trace-under-inflation-mode-freeze-out::b1
-parent_heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- IGSOA
+- Φ
+- adjacency-wavenumber
+- Π-exponential
+- Φ-spectrum
+- δ-harmonic
+- non-zero
+- Π
+- δ
+aliases:
+- Bk289ue
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

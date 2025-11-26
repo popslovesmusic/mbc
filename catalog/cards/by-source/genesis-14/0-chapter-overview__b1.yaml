@@ -1,22 +1,37 @@
+id: GEN14-2643
+location: genesis-14/inflation-structure-formation::0-chapter-overview::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 10-29
+heading: '**0\. Chapter Overview**'
 block_type: paragraph
-concepts:
-- Perturbation Growth
-- Structure Cascade Theorem
-- Structure Formation
-- The Inflation
-- Theorem
-- Π
-- Π-Projection
-- Φ
-- Φ-Dynamics
-- δ
-- δ-Geometry
-- δ-cascade
 excerpt: 'This chapter reconstructs the standard cosmology pipeline **Inflation →
   Reheating → Perturbation Growth → Structure Formation** entirely inside your IGSOA
   tri-unity:'
-heading: '**0\. Chapter Overview**'
-id: GEN14-2643
-lines: 10-29
-location: genesis-14/inflation-structure-formation::0-chapter-overview::b1
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- Projection
+- IGSOA
+- δ
+- Theorem
+- →
+- Π
+- Φ
+- Genesis-scale
+- Π-Projection
+- mode-locking
+- large-scale
+- δ-harmonic
+- Structure Cascade Theorem
+- mass-shell
+- δ-Geometry
+aliases:
+- Bk782tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.52252252252252
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

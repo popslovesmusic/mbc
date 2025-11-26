@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'These 6 modes form: * extended flavor structure * δ-geometry corrections'
-heading: '**D: The Next 6 (Extended Sector)**'
 id: GEN6-8346
-lines: 1222-1238
 location: genesis-6/spectral-triple-axiom-box-sealed-version::4-physical-meaning-of-the-blocks::d-the-next-6-extended-sector::b1
-parent_heading: '**4\. Physical Meaning of the Blocks**'
 source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1222-1238
+heading: '**D: The Next 6 (Extended Sector)**'
+parent_heading: '**4\. Physical Meaning of the Blocks**'
+block_type: paragraph
+excerpt: 'These 6 modes form: * extended flavor structure * δ-geometry corrections'
+concepts:
+- δ-geometry
+- curvature-induced
+- PMNS-like
+- CKM-like
+- δ
+aliases:
+- Bk728tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.857142857142858
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

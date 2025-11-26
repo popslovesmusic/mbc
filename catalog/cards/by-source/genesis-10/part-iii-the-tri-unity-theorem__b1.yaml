@@ -1,15 +1,31 @@
+id: GEN10-961
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-iii-the-tri-unity-theorem::b1
+source: genesis-10\research_overview.md
+lines: 113-115
+heading: '**Part III: The Tri-Unity Theorem**'
+parent_heading: '**Meta-Genesis: A Master Summary of the Unified Field Theory**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Theorem
-- Tri-Unity
-- Unity Theorem
 excerpt: A central pillar of the Meta-Genesis framework is the **Tri-Unity Theorem**,
   which unifies the ontological, dynamical, and observational aspects of the universe.
   It solves the problem of dualism by as...
-heading: '**Part III: The Tri-Unity Theorem**'
-id: GEN10-961
-lines: 113-115
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-iii-the-tri-unity-theorem::b1
-parent_heading: '**Meta-Genesis: A Master Summary of the Unified Field Theory**'
-source: genesis-10\research_overview.md
+concepts:
+- Meta-Genesis
+- Tri-Unity
+- Theorem
+- Tri-Unity Theorem
+- Unity Theorem
+aliases:
+- Bk544cp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.82051282051282
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

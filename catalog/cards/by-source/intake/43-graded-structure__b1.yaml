@@ -1,12 +1,29 @@
+id: INTK-9950
+location: intake/meta-genesis-mathematical-papers::4-algebraic-structure::43-graded-structure::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 102-118
+heading: '**4.3 Graded Structure**'
+parent_heading: '**4\. Algebraic Structure**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Define the grade: deg⁡(δnΨ0)=n.\\deg(\\delta^n\\Psi\_0)=n.deg(δnΨ0​)=n.
   Then'
-heading: '**4.3 Graded Structure**'
-id: INTK-9950
-lines: 102-118
-location: intake/meta-genesis-mathematical-papers::4-algebraic-structure::43-graded-structure::b1
-parent_heading: '**4\. Algebraic Structure**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- δ
+- Ψ
+- δn
+- ≥
+aliases:
+- Bk314dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

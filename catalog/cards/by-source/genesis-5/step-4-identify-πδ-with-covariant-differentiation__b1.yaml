@@ -1,16 +1,35 @@
+id: GEN5-8077
+location: genesis-5/formal-proof-of-the-adjoint-triple::proof::step-4-identify-πδ-with-covariant-differentiation::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 2099-2113
+heading: '**Step 4 — Identify Π(δ) with covariant differentiation.**'
+parent_heading: '**Proof.**'
 block_type: paragraph
+excerpt: 'Under Riemann projection: * Πδ\\Pi\\deltaΠδ becomes the **first covariant
+  derivative** (connection 1-form ∇\\nabla∇). * δGeoΠ\\delta\_{Geo}\\PiδGeo​Π becomes
+  the **second covariant derivative** (commu...'
 concepts:
-- Under Riemann
+- ∇
 - Π
 - δ
 - μ
 - ν
-excerpt: 'Under Riemann projection: * Πδ\\Pi\\deltaΠδ becomes the **first covariant
-  derivative** (connection 1-form ∇\\nabla∇). * δGeoΠ\\delta\_{Geo}\\PiδGeo​Π becomes
-  the **second covariant derivative** (commu...'
-heading: '**Step 4 — Identify Π(δ) with covariant differentiation.**'
-id: GEN5-8077
-lines: 2099-2113
-location: genesis-5/formal-proof-of-the-adjoint-triple::proof::step-4-identify-πδ-with-covariant-differentiation::b1
-parent_heading: '**Proof.**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+- second covariant derivative
+- first covariant derivative
+- δGeo
+- Under Riemann
+aliases:
+- Bk073ur
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

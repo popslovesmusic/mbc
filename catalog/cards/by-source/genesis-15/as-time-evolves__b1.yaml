@@ -1,10 +1,28 @@
+id: GEN15-3253
+location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-csoi-tail-interpretation::as-time-evolves::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2542-2578
+heading: '**As time evolves:**'
+parent_heading: '**Ⅴ. CSOI-tail Interpretation**'
 block_type: list
-concepts: []
 excerpt: '* CSOI-lobes expand * their intersections drift, merge, or dissolve * this
   drives:'
-heading: '**As time evolves:**'
-id: GEN15-3253
-lines: 2542-2578
-location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-csoi-tail-interpretation::as-time-evolves::b1
-parent_heading: '**Ⅴ. CSOI-tail Interpretation**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- CSOI-geometric evolution
+- CSOI-geometric
+- CSOI-lobes
+aliases:
+- Bk817cl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.79746835443038
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

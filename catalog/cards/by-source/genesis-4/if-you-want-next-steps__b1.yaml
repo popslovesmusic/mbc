@@ -1,21 +1,40 @@
-block_type: paragraph
-concepts:
-- Chromatic Mode Law
-- Field
-- Field Equation
-- How Color
-- Meta-Einstein
-- Mode
-- Physics Diagram Stack
-- Theorem
-- Tri-Unity
-- Unity Theorem
-- Φ
-- δ
-excerpt: 'I can now generate: 📘 **The δ–Φ–Physics Diagram Stack** (box diagram \+
-  functors \+ arrows) 📘 **The full “Tri-Unity Theorem” with proof (δ–Φ–π)**'
-heading: '**If you want next steps:**'
 id: GEN4-7691
-lines: 1337-1347
 location: genesis-4/meta-physics-axiom-box::if-you-want-next-steps::b1
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1337-1347
+heading: '**If you want next steps:**'
+block_type: paragraph
+excerpt: 'I can now generate: 📘 **The δ–Φ–Physics Diagram Stack** (box diagram \+
+  functors \+ arrows) 📘 **The full “Tri-Unity Theorem” with proof (δ–Φ–π)**'
+concepts:
+- Meta-Einstein
+- Tri-Unity
+- Chromatic Mode
+- Curvature
+- Theorem
+- δ
+- Φ
+- Proof
+- Field
+- Mode
+- The LaTeX version for your papers
+- Physics Diagram Stack
+- π
+- δ-Φ
+- Chromatic Mode Law
+aliases:
+- Bk675cn
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 29.03225806451613
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

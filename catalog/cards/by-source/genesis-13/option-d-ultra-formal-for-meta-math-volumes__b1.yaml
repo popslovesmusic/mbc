@@ -1,12 +1,27 @@
-block_type: list
-concepts:
-- Π
-- Φ
-- δ
-excerpt: '* δ-Spectral triples * Φ-mode algebra * Π-fixed-point theorems'
-heading: '**Option D — “Ultra-Formal” (for Meta-Math volumes)**'
 id: GEN13-2520
-lines: 831-845
 location: genesis-13/what-biology-is-in-meta-genesis::choose-the-format::option-d-ultra-formal-for-meta-math-volumes::b1
-parent_heading: '**Choose the Format**'
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 831-845
+heading: '**Option D — “Ultra-Formal” (for Meta-Math volumes)**'
+parent_heading: '**Choose the Format**'
+block_type: list
+excerpt: '* δ-Spectral triples * Φ-mode algebra * Π-fixed-point theorems'
+concepts:
+- Π-fixed-point
+- δ-Spectral
+- Φ-mode
+- Π
+- δ
+- Φ
+aliases:
+- Bk197st
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

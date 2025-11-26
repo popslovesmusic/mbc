@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We define three fundamental IGSOA categories:'
-heading: '**1\. Categories and Structures**'
 id: GEN10-820
-lines: 1233-1235
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::1-categories-and-structures::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1233-1235
+heading: '**1\. Categories and Structures**'
+block_type: paragraph
+excerpt: 'We define three fundamental IGSOA categories:'
+concepts:
+- IGSOA
+aliases:
+- Bk078dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

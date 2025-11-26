@@ -1,12 +1,32 @@
+id: GEN5-8143
+location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::iv-formal-proof::step-4-metric-compatibility-forces-the-einstein-combination::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 180-199
+heading: '**Step 4\. Metric compatibility forces the Einstein combination**'
+parent_heading: '**IV. FORMAL PROOF**'
 block_type: paragraph
-concepts:
-- Θ
-- δ
 excerpt: 'δ-geometry carries a metric object ggg. A natural curvature must satisfy:
   * metric-compatibility: ∇δg=0\\nabla\_\\delta g \= 0∇δ​g=0'
-heading: '**Step 4\. Metric compatibility forces the Einstein combination**'
-id: GEN5-8143
-lines: 180-199
-location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::iv-formal-proof::step-4-metric-compatibility-forces-the-einstein-combination::b1
-parent_heading: '**IV. FORMAL PROOF**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- δ
+- δ-geometry
+- ∇
+- metric-compatibility
+- Θ
+- divergence-free
+- δg
+aliases:
+- Bk865gc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.862745098039216
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

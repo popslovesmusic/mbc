@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- lobes
-- petals
-- δ
-excerpt: 'When you zoom into the valley floor, the manifold is not smooth. It has
-  **branching arms**, **lobes**, or **petals** — the δ-shells. Each corresponds to:'
-heading: '**4\. The Branching Structure (Flavor, Generations, 3–6–9)**'
 id: GEN1-407
-lines: 730-753
 location: genesis-1/the-first-geometry::4-the-branching-structure-flavor-generations-369::b1
 source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 730-753
+heading: '**4\. The Branching Structure (Flavor, Generations, 3–6–9)**'
+block_type: paragraph
+excerpt: 'When you zoom into the valley floor, the manifold is not smooth. It has
+  **branching arms**, **lobes**, or **petals** — the δ-shells. Each corresponds to:'
+concepts:
+- δ
+- δ-Higgs
+- symmetry-breaking
+- δ-shells
+- δ-mass
+- are not added later
+- branching arms
+- petals
+- lobes
+aliases:
+- Bk738wy
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,37 @@
-block_type: paragraph
-concepts:
-- Harmonic Ladder
-- Π
-- Φ
-- δ
-excerpt: 'Right now you have many sealed boxes: * δ-Adjacency * δ-Curvature'
-heading: '**2\. Fuse all sealed Axiom Boxes into a single narrative:**'
 id: GEN12-1531
-lines: 14-44
 location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::discussion-what-the-cosmic-pipeline-chapter-must-do::2-fuse-all-sealed-axiom-boxes-into-a-single-narrative::b1
-parent_heading: '**Discussion: What the Cosmic Pipeline Chapter Must Do**'
 source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 14-44
+heading: '**2\. Fuse all sealed Axiom Boxes into a single narrative:**'
+parent_heading: '**Discussion: What the Cosmic Pipeline Chapter Must Do**'
+block_type: paragraph
+excerpt: 'Right now you have many sealed boxes: * δ-Adjacency * δ-Curvature'
+concepts:
+- δ
+- Projection
+- Adjacency
+- Curvature
+- →
+- Φ
+- δ-Adjacency
+- δ-Inflation
+- δ-Curvature
+- δ-Harmonic
+- δ-Higgs
+- Π
+- Harmonic Ladder
+- one pipeline
+aliases:
+- Bk829rn
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.818181818181817
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

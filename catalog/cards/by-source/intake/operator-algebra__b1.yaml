@@ -1,11 +1,26 @@
+id: INTK-10317
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::operator-algebra::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 815-817
+heading: Operator Algebra
+parent_heading: Meta-Algebra
 block_type: paragraph
-concepts:
-- Meta-Algebra
 excerpt: 'Meta-Algebra rigorously defines the algebraic relations between the fundamental
   operators acting on the deviation field:'
-heading: Operator Algebra
-id: INTK-10317
-lines: 815-817
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::operator-algebra::b1
-parent_heading: Meta-Algebra
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Algebra
+aliases:
+- Bk543ma
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

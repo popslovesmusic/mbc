@@ -1,13 +1,31 @@
+id: GEN12-1797
+location: genesis-12/untitled-document::2-axiom-boxes-for-structure-formation::axiom-box-s1-δ-structure-projection-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 1187-1193
+heading: '**Axiom Box S1 — δ-Structure Projection Axiom**'
+parent_heading: '**2\. Axiom Boxes for Structure Formation**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '**Cosmic structure is the Π-projection of Φ-evolved δ-curvature modes.**
   S=Π(Φ(δ)).\\mathcal{S} \= \\Pi(\\Phi(\\delta)).S=Π(Φ(δ)). ---'
-heading: '**Axiom Box S1 — δ-Structure Projection Axiom**'
-id: GEN12-1797
-lines: 1187-1193
-location: genesis-12/untitled-document::2-axiom-boxes-for-structure-formation::axiom-box-s1-δ-structure-projection-axiom::b1
-parent_heading: '**2\. Axiom Boxes for Structure Formation**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Π
+- δ
+- Φ
+- Π-projection
+- δ-curvature
+- Φ-evolved
+aliases:
+- Bk449cs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

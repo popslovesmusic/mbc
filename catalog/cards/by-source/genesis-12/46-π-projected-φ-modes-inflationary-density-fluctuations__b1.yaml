@@ -1,14 +1,30 @@
+id: GEN12-1630
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::4-π-observables::46-π-projected-φ-modes-inflationary-density-fluctuations::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1577-1600
+heading: '**4.6 Π-Projected Φ-Modes → Inflationary Density Fluctuations**'
+parent_heading: '**4\. Π → Observables**'
 block_type: paragraph
-concepts:
-- before
-- Π
-- Φ
-- ζ
 excerpt: 'Inflation does not create Φ-modes—it magnifies them. The primordial power
   spectrum arises as: Pζ(k)=∣Π(ϕk)∣2.P\_{\\zeta}(k) \= |\\Pi(\\phi\_k)|^2.Pζ​(k)=∣Π(ϕk​)∣2.'
-heading: '**4.6 Π-Projected Φ-Modes → Inflationary Density Fluctuations**'
-id: GEN12-1630
-lines: 1577-1600
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::4-π-observables::46-π-projected-φ-modes-inflationary-density-fluctuations::b1
-parent_heading: '**4\. Π → Observables**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Φ
+- Π
+- Φ-modes
+- Π-projected
+- non-Gaussianities
+- ζ
+- Φ-patterns
+- Φ-ladder
+aliases:
+- Bk136id
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.63855421686747
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,18 +1,33 @@
+id: INTK-10291
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::motivation::beyond-simple-scaling::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 666-677
+heading: Beyond Simple Scaling
+parent_heading: Motivation
 block_type: paragraph
-concepts:
-- Meta-Geometric
-- Meta-Math
-- Meta-Scalar
-- Scalar Multiplication
-- Ψ
-- λ
-- σ
 excerpt: 'Classical scalar multiplication (λΨ) assumes a simple, uniform scaling of
   a vector or field, suitable for: - Changing the magnitude of a force without changing
   its direction. - Uniformly increasing or...'
-heading: Beyond Simple Scaling
-id: INTK-10291
-lines: 666-677
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::motivation::beyond-simple-scaling::b1
-parent_heading: Motivation
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- scale-dependent
+- Meta-Geometric
+- Meta-Scalar
+- Scalar Multiplication
+- σ
+- λ
+- Ψ
+aliases:
+- Bk966cs
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

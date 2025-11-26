@@ -1,12 +1,27 @@
+id: GEN13-2226
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-physical-anyons-and-topological-quantum-gates::definition-32-π-braiding::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2577-2583
+heading: '**Definition 3.2 — Π-Braiding**'
+parent_heading: '**3\. Π-Layer: Physical Anyons and Topological Quantum Gates**'
 block_type: paragraph
+excerpt: Π(RΦ(a,b))\\Pi(R\_\\Phi(a,b))Π(RΦ​(a,b)) represents a measurable exchange
+  of anyons. ---
 concepts:
 - Π
 - Φ
-excerpt: Π(RΦ(a,b))\\Pi(R\_\\Phi(a,b))Π(RΦ​(a,b)) represents a measurable exchange
-  of anyons. ---
-heading: '**Definition 3.2 — Π-Braiding**'
-id: GEN13-2226
-lines: 2577-2583
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-physical-anyons-and-topological-quantum-gates::definition-32-π-braiding::b1
-parent_heading: '**3\. Π-Layer: Physical Anyons and Topological Quantum Gates**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+aliases:
+- Bk773pr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

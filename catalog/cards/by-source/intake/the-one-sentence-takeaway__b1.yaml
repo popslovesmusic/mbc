@@ -1,14 +1,35 @@
+id: INTK-9916
+location: intake/meta-genesis-diagrammatic-papers::3-ultra-compressed-one-line-version::3-mermaid-adjacency-graph-ready-to-paste::the-one-sentence-takeaway::b1
+source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 321-331
+heading: '**The one sentence takeaway**'
+parent_heading: '**3\. Mermaid adjacency graph (ready to paste)**'
 block_type: paragraph
-concepts:
-- Genesis Closure Principle
-- Ψ
-- δ
 excerpt: '**Adjacency is born at δΨ₀; the first “universe” is the smallest graph where
   δ-moves generate neighbors, and meta-time is just an ordering of paths through that
   graph.** If you want, next I can: * lab...'
-heading: '**The one sentence takeaway**'
-id: INTK-9916
-lines: 321-331
-location: intake/meta-genesis-diagrammatic-papers::3-ultra-compressed-one-line-version::3-mermaid-adjacency-graph-ready-to-paste::the-one-sentence-takeaway::b1
-parent_heading: '**3\. Mermaid adjacency graph (ready to paste)**'
-source: intake\Meta-Genesis_Diagrammatic_Papers.md
+concepts:
+- Adjacency
+- δ
+- Genesis Closure Principle
+- meta-time
+- PNG-style
+- δ-moves
+- δ-mode
+- Ψ
+- Ψ₀
+aliases:
+- Bk733ab
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.0625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

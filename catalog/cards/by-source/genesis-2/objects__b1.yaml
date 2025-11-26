@@ -1,11 +1,31 @@
+id: GEN2-6264
+location: genesis-2/axioms-for-the-category-genesis::step-3-construction-of-the-functor::objects::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 686-695
+heading: '**Objects**'
+parent_heading: '**\*\*🔶 Step 3 — Construction of the Functor**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: F(Ψ0)=IF(\\Psi\_0) \= I F(Ψ0​)=I the monoidal unit object of Math (*The identity-free
   proto-object maps to the identity-rich monoidal unit*).
-heading: '**Objects**'
-id: GEN2-6264
-lines: 686-695
-location: genesis-2/axioms-for-the-category-genesis::step-3-construction-of-the-functor::objects::b1
-parent_heading: '**\*\*🔶 Step 3 — Construction of the Functor**'
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Ψ
+- ∈
+- identity-rich
+- identity-free
+- proto-object
+- Ψn
+aliases:
+- Bk759pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

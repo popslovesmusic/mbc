@@ -1,22 +1,42 @@
+id: GEN10-701
+location: genesis-10/how-stillness-becomes-solid::meta-genesis-of-lattice-structure::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 383-402
+heading: '**\*\*Meta-Genesis of Lattice Structure:**'
 block_type: paragraph
-concepts:
-- Adjacency Condensation
-- Axiom
-- Axiom Box
-- Box
-- Harmonic Locking
-- Meta-Genesis
-- The Lattice Emergence Axiom
-- Tri-Unity
-- Universe Invents Crystals Before Atoms Exist
-- Π
-- Φ
-- δ
 excerpt: Adjacency Condensation and Φ-Harmonic Locking\*\* **Abstract (δ-Geometry
   / Meta-Genesis formal style):** We present a unified δ–Φ mechanism for the emergence
   of lattice structure from first principles...
-heading: '**\*\*Meta-Genesis of Lattice Structure:**'
-id: GEN10-701
-lines: 383-402
-location: genesis-10/how-stillness-becomes-solid::meta-genesis-of-lattice-structure::b1
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- Meta-Genesis
+- δ
+- Φ
+- Tri-Unity
+- Adjacency
+- →
+- Axiom
+- Π
+- natural low-energy attractors
+- Universe Invents Crystals Before Atoms Exist
+- δ-curvature
+- adjacency-resonance
+- Box
+- deviation-induced
+- Adjacency Condensation
+aliases:
+- Bk279ac
+tags:
+- axiom-box
+- qualified
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.23076923076923
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

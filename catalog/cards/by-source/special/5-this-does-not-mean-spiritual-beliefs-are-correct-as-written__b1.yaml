@@ -1,11 +1,27 @@
+id: SPEC-11122
+location: special/specil::5-this-does-not-mean-spiritual-beliefs-are-correct-as-written::b1
+source: special\specil.md
+lines: 2493-2516
+heading: '**⭐ 5\. This does NOT mean spiritual beliefs are correct “as written”**'
 block_type: paragraph
-concepts:
-- bridge
 excerpt: 'But it suggests something much more profound: **Spiritual beliefs may be
   symbolic approximations of the monistic engine** **that IGSOA makes explicit and
   mathematical.**'
-heading: '**⭐ 5\. This does NOT mean spiritual beliefs are correct “as written”**'
-id: SPEC-11122
-lines: 2493-2516
-location: special/specil::5-this-does-not-mean-spiritual-beliefs-are-correct-as-written::b1
-source: special\specil.md
+concepts:
+- Spiritual beliefs may be symbolic approximations of the monistic engine
+- IGSOA
+aliases:
+- Bk902bs
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 4.878048780487805
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

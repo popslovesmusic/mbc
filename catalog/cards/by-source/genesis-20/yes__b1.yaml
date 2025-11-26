@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: every advanced topic warrants its own chapter in a later booklet.
-heading: ✔️ YES —
 id: GEN20-6999
-lines: 4292-4294
 location: genesis-20/mbc-40-documentaitio-1::conclusion::yes::b1
-parent_heading: ⭐ Conclusion
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4292-4294
+heading: ✔️ YES —
+parent_heading: ⭐ Conclusion
+block_type: paragraph
+excerpt: every advanced topic warrants its own chapter in a later booklet.
+aliases:
+- Bk106ea
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

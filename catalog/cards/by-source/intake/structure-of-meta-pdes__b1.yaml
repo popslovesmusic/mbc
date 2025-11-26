@@ -1,17 +1,37 @@
+id: INTK-10432
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::structure-of-meta-pdes::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1426-1436
+heading: Structure of Meta-PDEs
+parent_heading: Meta-Differential Equations (Meta-PDEs)
 block_type: paragraph
+excerpt: 'A Meta-PDE generally takes the form: `∂_τ Ψ = D[Ψ]` Where:'
 concepts:
-- Deviation Operator
+- Meta-Time
+- Ψ
+- Deviation
+- τ
+- Operator
+- Meta-Deviation Operator
+- Meta-Time derivative
 - Field
+- ∂
 - Meta-Deviation
 - Meta-Field
-- Meta-Time
-- Operator
-- Ψ
-- τ
-excerpt: 'A Meta-PDE generally takes the form: `∂_τ Ψ = D[Ψ]` Where:'
-heading: Structure of Meta-PDEs
-id: INTK-10432
-lines: 1426-1436
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::structure-of-meta-pdes::b1
-parent_heading: Meta-Differential Equations (Meta-PDEs)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+- Meta-PDE
+- Deviation Operator
+aliases:
+- Bk851mp
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

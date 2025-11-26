@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: A fully formal theorem \+ proof version
-heading: '**You said:**'
 id: GEN1-554
-lines: 679-681
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-complete::you-said::b1
-parent_heading: '**Chapter Complete.**'
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 679-681
+heading: '**You said:**'
+parent_heading: '**Chapter Complete.**'
+block_type: paragraph
+excerpt: A fully formal theorem \+ proof version
+concepts:
+- Theorem
+- Proof
+aliases:
+- Bk676ff
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

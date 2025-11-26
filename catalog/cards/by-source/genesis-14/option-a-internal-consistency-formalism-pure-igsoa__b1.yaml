@@ -1,18 +1,40 @@
+id: GEN14-2669
+location: genesis-14/inflation-structure-formation::option-a-internal-consistency-formalism-pure-igsoa::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 299-339
+heading: '**Option A — Internal-Consistency Formalism (Pure IGSOA)**'
 block_type: paragraph
-concepts:
-- Arising Axiom
-- Asymmetry Co
-- Axiom
-- Co-Arising
-- Λ
-- Π
-- Φ
-- δ
 excerpt: 'This writes the proofs **entirely inside your own ontology**: * δ is a deviation
   operator on adjacency objects. * Φ is the smoothing/locking functor (trace, χ-phase,
   mass-shell stabilizer).'
-heading: '**Option A — Internal-Consistency Formalism (Pure IGSOA)**'
-id: GEN14-2669
-lines: 299-339
-location: genesis-14/inflation-structure-formation::option-a-internal-consistency-formalism-pure-igsoa::b1
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- completely self-contained IGSOA cosmology
+- IGSOA
+- Π
+- Axiom
+- Φ
+- entirely inside your own ontology
+- category-theoretic
+- spectral-triple
+- self-contained
+- δ-adjacency
+- δ-curvature
+- δ-harmonic
+- mass-shell
+- Co-Arising
+aliases:
+- Bk288tw
+tags:
+- proof
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.65811965811966
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

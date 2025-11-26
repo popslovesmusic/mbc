@@ -1,12 +1,30 @@
+id: GEN13-2498
+location: genesis-13/what-biology-is-in-meta-genesis::2-the-δ-φ-π-atp-pipeline::stage-1-δ-the-proton-gradient-as-biological-deviation::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 542-560
+heading: '**Stage 1 – δ: The Proton Gradient as Biological Deviation**'
+parent_heading: '**2\. The δ → Φ → Π → ATP Pipeline**'
 block_type: paragraph
-concepts:
-- δ
-- δ-gradient
 excerpt: 'The mitochondrial proton gradient (or bacterial membrane gradient) is a
   **δ-gradient**: * ΔpH * Δelectric potential'
-heading: '**Stage 1 – δ: The Proton Gradient as Biological Deviation**'
-id: GEN13-2498
-lines: 542-560
-location: genesis-13/what-biology-is-in-meta-genesis::2-the-δ-φ-π-atp-pipeline::stage-1-δ-the-proton-gradient-as-biological-deviation::b1
-parent_heading: '**2\. The δ → Φ → Π → ATP Pipeline**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Δ
+- non-zero deviation
+- δ
+- δ-gradient
+- non-zero
+aliases:
+- Bk617tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.204081632653061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

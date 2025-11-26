@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- Meta-Math
-excerpt: 'Because: 1. They operate at different structural levels. 2. Math does not
-  demand any forbidden Genesis structures.'
-heading: '**🔶 Step 6 — Therefore, Genesis \+ Meta-Math cannot conflict**'
 id: GEN2-6274
-lines: 837-857
 location: genesis-2/axioms-for-the-category-genesis::step-6-therefore-genesis-meta-math-cannot-conflict::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 837-857
+heading: '**🔶 Step 6 — Therefore, Genesis \+ Meta-Math cannot conflict**'
+block_type: paragraph
+excerpt: 'Because: 1. They operate at different structural levels. 2. Math does not
+  demand any forbidden Genesis structures.'
+concepts:
+- Meta-Math
+- IGSOA
+- Genesis-like
+- two-tier
+aliases:
+- Bk621bt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.040404040404041
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

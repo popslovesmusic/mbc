@@ -1,10 +1,27 @@
+id: GEN13-2086
+location: genesis-13/meta-math-nuclear-physics::sealed-axiom-boxes::meta-math-nuclear-physics::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1056-1060
+heading: '***(Meta-Math → Nuclear Physics)***'
+parent_heading: '**SEALED AXIOM BOXES**'
 block_type: paragraph
-concepts: []
 excerpt: 'All boxes follow your hermetic IGSOA formatting: minimal, symbolic, sealed,
   strictly formal. ---'
-heading: '***(Meta-Math → Nuclear Physics)***'
-id: GEN13-2086
-lines: 1056-1060
-location: genesis-13/meta-math-nuclear-physics::sealed-axiom-boxes::meta-math-nuclear-physics::b1
-parent_heading: '**SEALED AXIOM BOXES**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- IGSOA
+aliases:
+- Bk861ab
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

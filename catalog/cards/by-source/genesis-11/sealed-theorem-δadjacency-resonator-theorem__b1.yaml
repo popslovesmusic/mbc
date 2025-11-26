@@ -1,11 +1,28 @@
+id: GEN11-1064
+location: genesis-11/how-curvature-could-generate-an-axis::sealed-theorem-δadjacency-resonator-theorem::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 1090-1098
+heading: '**📜 Sealed Theorem (δ–Adjacency Resonator Theorem)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: '**Whenever deviation acts on adjacency, a δ–adjacency resonator necessarily
   forms. Its δ-harmonic basis defines a resonant cavity whose geometric projection
   determines the timing, spacing, and amplitu...'
-heading: '**📜 Sealed Theorem (δ–Adjacency Resonator Theorem)**'
-id: GEN11-1064
-lines: 1090-1098
-location: genesis-11/how-curvature-could-generate-an-axis::sealed-theorem-δadjacency-resonator-theorem::b1
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+concepts:
+- IGSOA
+- δ
+- δ-harmonic
+aliases:
+- Bk141wd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.084745762711865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

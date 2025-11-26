@@ -1,9 +1,20 @@
-block_type: paragraph
-concepts: []
-excerpt: not a container for deviation.\*\* Let’s break down your insight cleanly
-  into the exact logical chain. ---
-heading: '**⭐ \*\*Time is a modal consequence of deviation,**'
 id: SPEC-11049
-lines: 1232-1238
 location: special/specil::time-is-a-modal-consequence-of-deviation::b1
 source: special\specil.md
+lines: 1232-1238
+heading: '**⭐ \*\*Time is a modal consequence of deviation,**'
+block_type: paragraph
+excerpt: not a container for deviation.\*\* Let’s break down your insight cleanly
+  into the exact logical chain. ---
+aliases:
+- Bk645nc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

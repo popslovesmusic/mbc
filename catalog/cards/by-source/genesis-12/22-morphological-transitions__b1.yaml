@@ -1,11 +1,33 @@
+id: GEN12-1919
+location: genesis-12/untitled-document::part-ii-δ-mode-drift-as-the-driver-of-evolution::22-morphological-transitions::b1
+source: genesis-12\Untitled_document.md
+lines: 2934-2954
+heading: '**2.2 (Morphological Transitions)**'
+parent_heading: '**Part II — δ-Mode Drift as the Driver of Evolution**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Morphology is determined by the dominant mode: * elliptical ↔ δ₃-dominant
   * spiral ↔ δ₆-dominant'
-heading: '**2.2 (Morphological Transitions)**'
-id: GEN12-1919
-lines: 2934-2954
-location: genesis-12/untitled-document::part-ii-δ-mode-drift-as-the-driver-of-evolution::22-morphological-transitions::b1
-parent_heading: '**Part II — δ-Mode Drift as the Driver of Evolution**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- ↔
+- mode-regime
+- mixed-mode
+- ≠
+- δ₉
+- δ₆
+- δ₃
+aliases:
+- Bk402md
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

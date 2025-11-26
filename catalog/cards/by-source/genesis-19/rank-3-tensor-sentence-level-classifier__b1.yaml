@@ -1,11 +1,26 @@
+id: GEN19-5864
+location: genesis-19/mbc-4-1::7-compound-polarity-multi-label-classification::rank-3-tensor-sentence-level-classifier::b1
+source: genesis-19\MBC-4_1.md
+lines: 532-544
+heading: '**Rank-3 tensor → sentence-level classifier**'
+parent_heading: '**7\. Compound Polarity → Multi-Label Classification**'
 block_type: list
-concepts:
-- Θ
 excerpt: '* Θ+Θ+Θ0 → supported but incomplete * Θ+Θ−Θ+ → mixed reasoning path * Θ−Θ−Θ+
   → contradictory thrust with minor rescue'
-heading: '**Rank-3 tensor → sentence-level classifier**'
-id: GEN19-5864
-lines: 532-544
-location: genesis-19/mbc-4-1::7-compound-polarity-multi-label-classification::rank-3-tensor-sentence-level-classifier::b1
-parent_heading: '**7\. Compound Polarity → Multi-Label Classification**'
-source: genesis-19\MBC-4_1.md
+concepts:
+- Θ
+- →
+aliases:
+- Bk172sb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.451612903225806
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

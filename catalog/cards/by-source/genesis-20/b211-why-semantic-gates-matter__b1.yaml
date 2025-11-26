@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Compositional Routing
-- Router Networks
-excerpt: 'Semantic gates: * replace classical truth tables * enable dynamic meaning
-  flow'
-heading: B2.11 Why Semantic Gates Matter
 id: GEN20-7195
-lines: 7129-7149
 location: genesis-20/mbc-40-documentaitio-1::b211-why-semantic-gates-matter::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7129-7149
+heading: B2.11 Why Semantic Gates Matter
+block_type: paragraph
+excerpt: 'Semantic gates: * replace classical truth tables * enable dynamic meaning
+  flow'
+concepts:
+- MBC
+- Router
+- Compositional Routing
+- Router Networks
+aliases:
+- Bk489sg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

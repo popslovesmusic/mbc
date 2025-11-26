@@ -1,12 +1,30 @@
+id: GEN13-2177
+location: genesis-13/meta-math-nuclear-physics::1-δ-layer-lattice-geometry-and-emergent-order::definition-12-δ-harmonic-modes-on-a-lattice::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2109-2115
+heading: '**Definition 1.2 — δ-Harmonic Modes on a Lattice**'
+parent_heading: '**1\. δ-Layer: Lattice Geometry and Emergent Order**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: δψk=λkψk.\\delta \\psi\_k \= \\lambda\_k \\psi\_k.δψk​=λk​ψk​. These modes
   constitute the **pre-band spectrum** of the system. ---
-heading: '**Definition 1.2 — δ-Harmonic Modes on a Lattice**'
-id: GEN13-2177
-lines: 2109-2115
-location: genesis-13/meta-math-nuclear-physics::1-δ-layer-lattice-geometry-and-emergent-order::definition-12-δ-harmonic-modes-on-a-lattice::b1
-parent_heading: '**1\. δ-Layer: Lattice Geometry and Emergent Order**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- ψ
+- pre-band spectrum
+- λ
+- δ
+- pre-band
+aliases:
+- Bk293dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.727272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

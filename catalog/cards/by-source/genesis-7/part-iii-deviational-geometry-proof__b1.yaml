@@ -1,14 +1,32 @@
-block_type: paragraph
-concepts:
-- Γ
-- α
-- δ
-- μ
-- ν
-excerpt: 'Define δ-curvature: Rμν(δ)=∇μ∇νδ−Γμνα∂αδ.\\mathcal{R}\_{\\mu\\nu}(\\delta)
-  \= \\nabla\_\\mu\\nabla\_\\nu \\delta \- \\Gamma^\\alpha\_{\\mu\\nu}\\partial\_\\alpha\\delta.Rμν​(δ)=∇μ​∇ν​δ−Γμνα​∂α​δ.'
-heading: '**Part III: Deviational Geometry Proof**'
 id: GEN7-8493
-lines: 776-780
 location: genesis-7/the-complete-eft-lagrangian::part-iii-deviational-geometry-proof::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 776-780
+heading: '**Part III: Deviational Geometry Proof**'
+block_type: paragraph
+excerpt: 'Define δ-curvature: Rμν(δ)=∇μ∇νδ−Γμνα∂αδ.\\mathcal{R}\_{\\mu\\nu}(\\delta)
+  \= \\nabla\_\\mu\\nabla\_\\nu \\delta \- \\Gamma^\\alpha\_{\\mu\\nu}\\partial\_\\alpha\\delta.Rμν​(δ)=∇μ​∇ν​δ−Γμνα​∂α​δ.'
+concepts:
+- δ
+- ν
+- μ
+- ∇
+- α
+- Γ
+- ∂
+- δ-curvature
+aliases:
+- Bk499dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.51282051282051
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

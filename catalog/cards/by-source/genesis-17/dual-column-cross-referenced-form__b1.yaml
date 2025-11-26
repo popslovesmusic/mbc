@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: (Physics ↔ IGSOA/MBC) ---
-heading: '**Dual-Column Cross-Referenced Form**'
 id: GEN17-5098
-lines: 1227-1231
 location: genesis-17/mbc-schema-3::the-rapid-expansion-explained-through-box-calculus::dual-column-cross-referenced-form::b1
-parent_heading: '**THE RAPID EXPANSION EXPLAINED THROUGH BOX CALCULUS**'
 source: genesis-17\MBC_Schema_3.md
+lines: 1227-1231
+heading: '**Dual-Column Cross-Referenced Form**'
+parent_heading: '**THE RAPID EXPANSION EXPLAINED THROUGH BOX CALCULUS**'
+block_type: paragraph
+excerpt: (Physics ↔ IGSOA/MBC) ---
+concepts:
+- IGSOA
+- MBC
+- ↔
+aliases:
+- Bk454pi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 100.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

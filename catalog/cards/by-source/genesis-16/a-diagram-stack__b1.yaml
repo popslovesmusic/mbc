@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: δ-curvature → Φ-mode SU(3) → Π-observables.
-heading: '**✓ A diagram stack:**'
 id: GEN16-3718
-lines: 563-565
 location: genesis-16/quantum-measurement-in-igsoa-vs::one-sentence-summary::a-diagram-stack::b1
-parent_heading: '**One-Sentence Summary**'
 source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 563-565
+heading: '**✓ A diagram stack:**'
+parent_heading: '**One-Sentence Summary**'
+block_type: paragraph
+excerpt: δ-curvature → Φ-mode SU(3) → Π-observables.
+concepts:
+- →
+- Π-observables
+- δ-curvature
+- Φ-mode
+- Π
+- δ
+- Φ
+aliases:
+- Bk315cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 87.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

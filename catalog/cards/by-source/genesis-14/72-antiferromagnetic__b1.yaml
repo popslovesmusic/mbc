@@ -1,13 +1,31 @@
+id: GEN14-3048
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-chapter-outline::7-types-of-magnetic-phases-in-δ-geometry::72-antiferromagnetic::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1870-1876
+heading: '**7.2 Antiferromagnetic**'
+parent_heading: '**7\. Types of Magnetic Phases in δ-Geometry**'
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '* δ-curvature alternates sign * Φ-mode anti-locking * Π degeneracy equal
   in positive/negative curvature'
-heading: '**7.2 Antiferromagnetic**'
-id: GEN14-3048
-lines: 1870-1876
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-chapter-outline::7-types-of-magnetic-phases-in-δ-geometry::72-antiferromagnetic::b1
-parent_heading: '**7\. Types of Magnetic Phases in δ-Geometry**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- anti-locking
+- δ-curvature
+- Φ-mode
+- Π
+- δ
+- Φ
+aliases:
+- Bk629ca
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

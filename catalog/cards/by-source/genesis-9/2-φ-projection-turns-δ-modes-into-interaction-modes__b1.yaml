@@ -1,12 +1,30 @@
+id: GEN9-9389
+location: genesis-9/is-the-source-of-all-structure::proof-formal::2-φ-projection-turns-δ-modes-into-interaction-modes::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 782-798
+heading: '**2\. Φ-projection turns δ-modes into interaction modes**'
+parent_heading: '**Proof (Formal)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'The Φ-mapping extracts the action/propagation slice: Φ(δR)=physical couplings\\Phi(\\delta
   R) \= \\text{physical couplings}Φ(δR)=physical couplings which assigns to each δ-harmonic:'
-heading: '**2\. Φ-projection turns δ-modes into interaction modes**'
-id: GEN9-9389
-lines: 782-798
-location: genesis-9/is-the-source-of-all-structure::proof-formal::2-φ-projection-turns-δ-modes-into-interaction-modes::b1
-parent_heading: '**Proof (Formal)**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- δ
+- Φ
+- creates the conditions for atomic binding
+- δ-harmonic
+- Φ-mapping
+- δR
+aliases:
+- Bk852tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

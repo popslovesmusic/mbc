@@ -1,11 +1,29 @@
-block_type: table
-concepts:
-- Mathematical Polarity
-- Σ
-- η
-excerpt: '**Same meaning:** *Meaning can shrink or shift, but never vanish.* ---'
-heading: '**AXIOM VI — THE DEVIATION AXIOM (Non-Collapse / Ontological Non-Nullity)**'
 id: GEN16-3895
-lines: 2098-2108
 location: genesis-16/untitled-document::axiom-vi-the-deviation-axiom-non-collapse-ontological-non-nullity::b1
 source: genesis-16\Untitled_document.md
+lines: 2098-2108
+heading: '**AXIOM VI — THE DEVIATION AXIOM (Non-Collapse / Ontological Non-Nullity)**'
+block_type: table
+excerpt: '**Same meaning:** *Meaning can shrink or shift, but never vanish.* ---'
+concepts:
+- Polarity
+- IGSOA
+- Σ
+- η
+- non-zero
+- ≠
+- Mathematical Polarity
+aliases:
+- Bk453ip
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

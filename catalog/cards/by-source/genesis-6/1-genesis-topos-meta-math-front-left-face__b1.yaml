@@ -1,13 +1,30 @@
+id: GEN6-8313
+location: genesis-6/spectral-triple-axiom-box-sealed-version::3-the-full-cubes-commutativity-conditions::1-genesis-topos-meta-math-front-left-face::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 759-765
+heading: '**(1) Genesis → Topos → Meta-Math (front-left face)**'
+parent_heading: '**3\. The Full Cube’s Commutativity Conditions**'
 block_type: paragraph
+excerpt: FM∘Fσ=Fσ∘FMF\_M \\circ F\_\\sigma \= F\_\\sigma \\circ F\_MFM​∘Fσ​=Fσ​∘FM​
+  This is your **Meta-Genesis ↔ Meta-Math compatibility lemma**. ---
 concepts:
 - Meta-Genesis
 - Meta-Math
 - σ
-excerpt: FM∘Fσ=Fσ∘FMF\_M \\circ F\_\\sigma \= F\_\\sigma \\circ F\_MFM​∘Fσ​=Fσ​∘FM​
-  This is your **Meta-Genesis ↔ Meta-Math compatibility lemma**. ---
-heading: '**(1) Genesis → Topos → Meta-Math (front-left face)**'
-id: GEN6-8313
-lines: 759-765
-location: genesis-6/spectral-triple-axiom-box-sealed-version::3-the-full-cubes-commutativity-conditions::1-genesis-topos-meta-math-front-left-face::b1
-parent_heading: '**3\. The Full Cube’s Commutativity Conditions**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+- Lemma
+- ↔
+aliases:
+- Bk484fc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 18.51851851851852
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,31 @@
+id: GEN13-2321
+location: genesis-13/the-weight-of-light::0-setup-the-three-categories::1-𝒟-deviation-adjacency-category::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 877-882
+heading: '**1\. 𝒟 — *Deviation / Adjacency Category***'
+parent_heading: '**0\. Setup: the Three Categories**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Objects: adjacency fields AAA, with δ-structure. Morphisms: adjacency-preserving
   maps f:A→A′f: A\\to A''f:A→A′ satisfying: ∂δ′∘f=f∗(∂δ).\\partial\\delta'' \\circ
   f \= f^\*(\\partial\\delta).∂δ′∘f=f∗(∂δ)...'
-heading: '**1\. 𝒟 — *Deviation / Adjacency Category***'
-id: GEN13-2321
-lines: 877-882
-location: genesis-13/the-weight-of-light::0-setup-the-three-categories::1-𝒟-deviation-adjacency-category::b1
-parent_heading: '**0\. Setup: the Three Categories**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- ∂
+- adjacency-preserving
+- →
+- δ-structure
+aliases:
+- Bk144oa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.513513513513514
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

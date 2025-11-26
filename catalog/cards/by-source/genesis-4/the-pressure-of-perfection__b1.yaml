@@ -1,14 +1,28 @@
+id: GEN4-7831
+location: genesis-4/the-first-adjacency::the-crack-in-perfect-stillness::the-pressure-of-perfection::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 290-327
+heading: '**The Pressure of Perfection**'
+parent_heading: '**The Crack in Perfect Stillness**'
 block_type: paragraph
-concepts:
-- Axiom
-- failure
-- wavers
-- Ψ
 excerpt: If anything could feel here, it would feel the pressure of its own flawlessness—
   a silent tension straining against itself.
-heading: '**The Pressure of Perfection**'
-id: GEN4-7831
-lines: 290-327
-location: genesis-4/the-first-adjacency::the-crack-in-perfect-stillness::the-pressure-of-perfection::b1
-parent_heading: '**The Crack in Perfect Stillness**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Axiom
+- Ψ
+- failure
+- Ψ₀
+aliases:
+- Bk767ac
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.508771929824561
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

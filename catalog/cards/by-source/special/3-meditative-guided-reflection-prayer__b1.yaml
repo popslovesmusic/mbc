@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: Together, these form a **pattern-detection and pattern-stabilization engine**.
-  Let’s break this down with absolute clarity. ---
-heading: '**⭐ 3\. Meditative guided reflection (prayer)**'
 id: SPEC-11175
-lines: 3576-3582
 location: special/specil::3-meditative-guided-reflection-prayer::b1
 source: special\specil.md
+lines: 3576-3582
+heading: '**⭐ 3\. Meditative guided reflection (prayer)**'
+block_type: paragraph
+excerpt: Together, these form a **pattern-detection and pattern-stabilization engine**.
+  Let’s break this down with absolute clarity. ---
+concepts:
+- pattern-detection and pattern-stabilization engine
+- pattern-stabilization
+- pattern-detection
+aliases:
+- Bk175tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

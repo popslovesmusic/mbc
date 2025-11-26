@@ -1,22 +1,36 @@
-block_type: table
-concepts:
-- Axiom
-- Genesis Manifold
-- Genesis Object
-- Genesis Stress Pattern
-- Meta-Math
-- Meta-Ricci
-- Mode
-- Resulting Mathematical Structure
-- Scale Layers
-- generator
-- projection
-- Ψ
-- δ
-excerpt: This table is the **most precise mapping** of your entire apparatus so far.
-  Everything in Meta-Math is the **projection** (SATP) of Genesis primitives. ---
-heading: '**2\. Detailed Mapping Table: Genesis → Meta-Math**'
 id: INTK-9920
-lines: 372-392
 location: intake/meta-genesis-diagrammatic-papers::2-detailed-mapping-table-genesis-meta-math::b1
 source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 372-392
+heading: '**2\. Detailed Mapping Table: Genesis → Meta-Math**'
+block_type: table
+excerpt: This table is the **most precise mapping** of your entire apparatus so far.
+  Everything in Meta-Math is the **projection** (SATP) of Genesis primitives. ---
+concepts:
+- δ
+- Projection
+- Meta-Math
+- Deviation
+- Adjacency
+- Curvature
+- Ψ
+- Axiom
+- →
+- Mode
+- Resulting Mathematical Structure
+- Ψ₀
+- Proto-manifold
+- Pre-geometry
+- Scale-stack
+aliases:
+- Bk224go
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

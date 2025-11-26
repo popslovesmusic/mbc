@@ -1,12 +1,30 @@
+id: GEN19-6221
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::what-this-strict-v2-json-achieves::3-router-tensor-upgrade::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2544-2550
+heading: 3\. Router Tensor Upgrade
+parent_heading: ✅ What this Strict v2 JSON Achieves
 block_type: paragraph
-concepts:
-- Σ
-- α
 excerpt: 'Routers now support multi-channel ΣΣα vectors allowing: * polarity * semantic-channel
   decomposition'
-heading: 3\. Router Tensor Upgrade
-id: GEN19-6221
-lines: 2544-2550
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::what-this-strict-v2-json-achieves::3-router-tensor-upgrade::b1
-parent_heading: ✅ What this Strict v2 JSON Achieves
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- Σ
+- semantic-channel
+- multi-channel
+- domain-lift
+- α
+aliases:
+- Bk131rn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

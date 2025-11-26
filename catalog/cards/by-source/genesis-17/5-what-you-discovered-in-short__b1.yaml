@@ -1,11 +1,24 @@
+id: GEN17-4617
+location: genesis-17/box-calculus::5-what-you-discovered-in-short::b1
+source: genesis-17\box_calculus.md
+lines: 7386-7401
+heading: ⭐ 5\. WHAT YOU DISCOVERED, IN SHORT
 block_type: paragraph
-concepts:
-- δ
 excerpt: You found the unifying generator of the IGSOA calculus. You identified that
   E and A are not primitive — they are modes. You recognized that δ is not an operator
   — it is the energy differential that dr...
-heading: ⭐ 5\. WHAT YOU DISCOVERED, IN SHORT
-id: GEN17-4617
-lines: 7386-7401
-location: genesis-17/box-calculus::5-what-you-discovered-in-short::b1
-source: genesis-17\box_calculus.md
+concepts:
+- IGSOA
+- δ
+aliases:
+- Bk527yf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 2.5316455696202533
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,29 @@
+id: GEN12-1998
+location: genesis-12/untitled-document::4-natural-transformations-in-galaxy-formation::44-galaxy-evolution-natural-transformation::b1
+source: genesis-12\Untitled_document.md
+lines: 4381-4393
+heading: '**4.4 Galaxy Evolution Natural Transformation**'
+parent_heading: '**4\. Natural Transformations in Galaxy Formation**'
 block_type: paragraph
-concepts:
-- Galaxy Evolution Theorem
-- Theorem
-- η
 excerpt: 'Time evolution is a natural transformation: ηt:IdGal⇒E.\\eta\_{t} : \\mathsf{Id}\_{\\mathsf{Gal}}
   \\Rightarrow \\mathsf{E}.ηt​:IdGal​⇒E. With components:'
-heading: '**4.4 Galaxy Evolution Natural Transformation**'
-id: GEN12-1998
-lines: 4381-4393
-location: genesis-12/untitled-document::4-natural-transformations-in-galaxy-formation::44-galaxy-evolution-natural-transformation::b1
-parent_heading: '**4\. Natural Transformations in Galaxy Formation**'
-source: genesis-12\Untitled_document.md
+concepts:
+- η
+- Theorem
+- →
+- Galaxy Evolution Theorem
+aliases:
+- Bk545te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.779661016949152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,30 @@
+id: GEN17-4961
+location: genesis-17/key-points::proof-sketch-monistic-structural-proof::3-π-records-dependency-between-boxes::b1
+source: genesis-17\Key_Points.md
+lines: 1174-1194
+heading: '**3\. Π records dependency between Boxes.**'
+parent_heading: '**Proof Sketch (Monistic Structural Proof).**'
 block_type: paragraph
-concepts:
-- iff
-- Π
-- Φ
-- δ
 excerpt: 'Consider two Boxes **Bᵢ** and **Bⱼ**. We say **Bᵢ causes Bⱼ** (in the IGSOA
   structural sense) **iff**: * the presence or magnitude of Φ(Bⱼ) requires δ(Bᵢ),'
-heading: '**3\. Π records dependency between Boxes.**'
-id: GEN17-4961
-lines: 1174-1194
-location: genesis-17/key-points::proof-sketch-monistic-structural-proof::3-π-records-dependency-between-boxes::b1
-parent_heading: '**Proof Sketch (Monistic Structural Proof).**'
-source: genesis-17\Key_Points.md
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- iff
+aliases:
+- Bk854ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: true
+concept_density: 7.936507936507936
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

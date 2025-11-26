@@ -1,9 +1,26 @@
-block_type: list
-concepts: []
-excerpt: '* Classifiers * Decision trees * Inference chains'
-heading: ✔ 3\. Create Arbitrarily Complex Logical Circuits
 id: GEN19-6011
-lines: 29-38
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::i-computation-logic::3-create-arbitrarily-complex-logical-circuits::b1
-parent_heading: I. COMPUTATION & LOGIC
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 29-38
+heading: ✔ 3\. Create Arbitrarily Complex Logical Circuits
+parent_heading: I. COMPUTATION & LOGIC
+block_type: list
+excerpt: '* Classifiers * Decision trees * Inference chains'
+concepts:
+- Proof
+- SAT-like
+aliases:
+- Bk235cd
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

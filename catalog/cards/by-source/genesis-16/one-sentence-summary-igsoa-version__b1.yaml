@@ -1,11 +1,28 @@
+id: GEN16-3698
+location: genesis-16/quantum-measurement-in-igsoa-vs::one-sentence-summary-igsoa-version::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 346-350
+heading: '**One-Sentence Summary (IGSOA Version)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: '**The strong force preserves CP because δ-adjacency curvature cannot support
   a CP-odd term; the geometry forbids it, so θ ≈ 0 emerges automatically, not by fine-tuning.**
   ---'
-heading: '**One-Sentence Summary (IGSOA Version)**'
-id: GEN16-3698
-lines: 346-350
-location: genesis-16/quantum-measurement-in-igsoa-vs::one-sentence-summary-igsoa-version::b1
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- δ-adjacency
+- fine-tuning
+- ≈
+- θ
+- CP-odd
+- δ
+aliases:
+- Bk482ts
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

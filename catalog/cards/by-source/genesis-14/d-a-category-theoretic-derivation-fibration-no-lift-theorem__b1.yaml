@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which should I generate?
-heading: '**D. A category-theoretic derivation (fibration, no-lift theorem)**'
 id: GEN14-2872
-lines: 1221-1223
 location: genesis-14/meta-math-and-cryptography::if-youd-like-next::d-a-category-theoretic-derivation-fibration-no-lift-theorem::b1
-parent_heading: '**If you''d like next:**'
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1221-1223
+heading: '**D. A category-theoretic derivation (fibration, no-lift theorem)**'
+parent_heading: '**If you''d like next:**'
+block_type: paragraph
+excerpt: Which should I generate?
+aliases:
+- Bk755ws
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

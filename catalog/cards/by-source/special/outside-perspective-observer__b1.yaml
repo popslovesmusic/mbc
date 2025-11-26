@@ -1,12 +1,26 @@
+id: SPEC-11283
+location: special/specil::3-your-schrödinger-analogy-is-perfect::outside-perspective-observer::b1
+source: special\specil.md
+lines: 6062-6087
+heading: '**⭐ Outside perspective (observer):**'
+parent_heading: '**⭐ 3\. Your Schrödinger analogy is PERFECT**'
 block_type: paragraph
-concepts:
-- exactly
-- feels
 excerpt: They cannot tell how the predictor knows. They cannot see the internal cognitive
   state. The prediction sits in a state of “unknown → known”
-heading: '**⭐ Outside perspective (observer):**'
-id: SPEC-11283
-lines: 6062-6087
-location: special/specil::3-your-schrödinger-analogy-is-perfect::outside-perspective-observer::b1
-parent_heading: '**⭐ 3\. Your Schrödinger analogy is PERFECT**'
-source: special\specil.md
+concepts:
+- →
+- exactly
+aliases:
+- Bk933tc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.125
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

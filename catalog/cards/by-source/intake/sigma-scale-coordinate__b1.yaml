@@ -1,16 +1,32 @@
+id: INTK-10760
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::sigma-scale-coordinate::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1999-2002
+heading: sigma (Scale Coordinate)
+parent_heading: Glossary
 block_type: table
+excerpt: ''
 concepts:
+- Definition
 - Cross-References
-- Formal Definition
+- σ
+- Scale Coordinate
 - Meta-Coupl
+- Formal Definition
 - Ontological Role
 - Read More
-- Scale Coordinate
-- σ
-excerpt: ''
-heading: sigma (Scale Coordinate)
-id: INTK-10760
-lines: 1999-2002
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::sigma-scale-coordinate::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+aliases:
+- Bk954tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.052631578947366
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

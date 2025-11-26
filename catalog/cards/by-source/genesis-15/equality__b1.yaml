@@ -1,11 +1,27 @@
+id: GEN15-3407
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-proof-of-naturality::now-show-equality::equality::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 468-476
+heading: '**Equality**'
+parent_heading: '**Now Show Equality**'
 block_type: paragraph
-concepts:
-- η
 excerpt: 'Left side \= Right side: F(f)∘ηΔ=ηΔ′∘fF(f)\\circ \\eta\_\\Delta \= \\eta\_{\\Delta''}
   \\circ fF(f)∘ηΔ​=ηΔ′​∘f Thus the square commutes for all fff.'
-heading: '**Equality**'
-id: GEN15-3407
-lines: 468-476
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-proof-of-naturality::now-show-equality::equality::b1
-parent_heading: '**Now Show Equality**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- η
+- Δ
+aliases:
+- Bk443ls
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

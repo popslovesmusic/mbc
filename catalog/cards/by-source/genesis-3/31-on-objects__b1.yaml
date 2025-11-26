@@ -1,14 +1,38 @@
+id: GEN3-7319
+location: genesis-3/metagenesis::3-construction-of-the-functor::31-on-objects::b1
+source: genesis-3\metagenesis.md
+lines: 686-715
+heading: '**3.1 On Objects**'
+parent_heading: '**3\. Construction of the Functor**'
 block_type: paragraph
-concepts:
-- An Action
-- Meta-Einstein
-- The Deviational Curvature Functor
-- δ
 excerpt: 'An Action object AAA contains: * adjacency structure * operator algebra
   (emergent from F)'
-heading: '**3.1 On Objects**'
-id: GEN3-7319
-lines: 686-715
-location: genesis-3/metagenesis::3-construction-of-the-functor::31-on-objects::b1
-parent_heading: '**3\. Construction of the Functor**'
-source: genesis-3\metagenesis.md
+concepts:
+- δ
+- Meta-Einstein
+- Curvature
+- Deviation
+- ∇
+- δ-curvature
+- Functor
+- The Deviational Curvature Functor
+- δ-connection
+- δ-Ricci
+- An Action
+- δG
+- δR
+aliases:
+- Bk761ao
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.843537414965986
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,29 @@
+id: INTK-10318
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::operator-algebra::1-ahef-operators::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 819-823
+heading: 1. A/H/E/F Operators
+parent_heading: Operator Algebra
 block_type: list
-concepts: []
 excerpt: '- **Â (Ascension):** Scale-raising. - **Ĥ (Holding):** Scale-preserving.
   - **Ê (Exchange):** Non-local redistribution.'
-heading: 1. A/H/E/F Operators
-id: INTK-10318
-lines: 819-823
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::operator-algebra::1-ahef-operators::b1
-parent_heading: Operator Algebra
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Scale-preserving
+- Scale-lowering
+- Scale-raising
+- Non-local
+aliases:
+- Bk573as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 23.52941176470588
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

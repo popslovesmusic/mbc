@@ -1,11 +1,35 @@
-block_type: paragraph
-concepts:
-- Causal Sphere
-- δ
-excerpt: 'You defined the **Causal Sphere of Influence** as: * Not a light cone *
-  Not a spacetime object'
-heading: '**1\. What CSOI Is at the δ-Level**'
 id: GEN13-2305
-lines: 652-680
 location: genesis-13/the-weight-of-light::1-what-csoi-is-at-the-δ-level::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 652-680
+heading: '**1\. What CSOI Is at the δ-Level**'
+block_type: paragraph
+excerpt: 'You defined the **Causal Sphere of Influence** as: * Not a light cone *
+  Not a spacetime object'
+concepts:
+- δ
+- total domain of adjacency-accessibility
+- ∂
+- adjacency-accessibility
+- →
+- Causal Sphere of Influence
+- pre-metric
+- δ-domain
+- ≠
+- δ-mode
+- Causal Sphere
+aliases:
+- Bk506yd
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.270676691729323
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

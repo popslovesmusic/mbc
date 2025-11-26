@@ -1,16 +1,30 @@
+id: GEN17-4364
+location: genesis-17/box-calculus::3-meta-math-axioms-box-calculus-axioms::axiom-6-no-collapse-to-nothingness::b1
+source: genesis-17\box_calculus.md
+lines: 2893-2903
+heading: 'AXIOM 6: No Collapse to Nothingness'
+parent_heading: ⭐ 3\. META-MATH AXIOMS → BOX CALCULUS AXIOMS
 block_type: paragraph
+excerpt: 'Meta-Math: The Not-Axiom enforces a non-zero state. Box Calculus:'
 concepts:
+- Meta-Math
+- Box Calculus
 - Axiom
 - Box
-- Box Calculus
-- Meta-Math
-- Not-Axiom
-- The Not
 - Σ
-excerpt: 'Meta-Math: The Not-Axiom enforces a non-zero state. Box Calculus:'
-heading: 'AXIOM 6: No Collapse to Nothingness'
-id: GEN17-4364
-lines: 2893-2903
-location: genesis-17/box-calculus::3-meta-math-axioms-box-calculus-axioms::axiom-6-no-collapse-to-nothingness::b1
-parent_heading: ⭐ 3\. META-MATH AXIOMS → BOX CALCULUS AXIOMS
-source: genesis-17\box_calculus.md
+- Not-Axiom
+- non-zero
+- ≠
+- The Not
+aliases:
+- Bk728mm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 47.368421052631575
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

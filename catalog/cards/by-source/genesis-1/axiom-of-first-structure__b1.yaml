@@ -1,14 +1,39 @@
+id: GEN1-438
+location: genesis-1/the-foundation-layer::iii-the-genesis-axiom::axiom-of-first-structure::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 241-261
+heading: '***(Axiom of First Structure)***'
+parent_heading: '**III. THE GENESIS AXIOM**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Ψ
-- δ
 excerpt: The application of δ to Ψ₀ yields the first state capable of hosting distinctions,
   relations, and operators. Ψ1=δΨ0\\Psi\_1 \= \\delta \\Psi\_0Ψ1​=δΨ0​ **Properties
   of Ψ₁:**
-heading: '***(Axiom of First Structure)***'
-id: GEN1-438
-lines: 241-261
-location: genesis-1/the-foundation-layer::iii-the-genesis-axiom::axiom-of-first-structure::b1
-parent_heading: '**III. THE GENESIS AXIOM**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- Meta-Time
+- Meta-Time appears as the δ-generated ordering
+- Adjacency
+- Curvature
+- δ
+- Operators gain admissible domains
+- ∃
+- ∞
+- Curvature becomes definable
+- δ-generated
+- Adjacency emerges
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk265ta
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.864406779661017
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

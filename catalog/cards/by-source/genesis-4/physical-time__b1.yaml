@@ -1,14 +1,32 @@
+id: GEN4-7884
+location: genesis-4/the-first-adjacency::7-meta-time-vs-physical-time-formal-box::physical-time::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1248-1272
+heading: '**Physical Time**'
+parent_heading: '**7\. Meta-Time vs Physical Time (Formal Box)**'
 block_type: list
+excerpt: '* Geometric * Continuous (in emergent low-energy limit) * Metric'
 concepts:
 - Meta-Time
-- Projection Law
-- after
-- δ
+- Projection
+- π
 - τ
-excerpt: '* Geometric * Continuous (in emergent low-energy limit) * Metric'
-heading: '**Physical Time**'
-id: GEN4-7884
-lines: 1248-1272
-location: genesis-4/the-first-adjacency::7-meta-time-vs-physical-time-formal-box::physical-time::b1
-parent_heading: '**7\. Meta-Time vs Physical Time (Formal Box)**'
-source: genesis-4\The_First_Adjacency.md
+- low-energy
+- δ
+- →
+- Projection Law
+aliases:
+- Bk453gc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

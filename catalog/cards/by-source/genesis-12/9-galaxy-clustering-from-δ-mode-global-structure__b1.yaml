@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- δ-imposed
-excerpt: 'Galaxy clustering inherits structure from δ: * δ₃ → cluster cores * δ₆ →
-  filament chains'
-heading: '**9\. Galaxy Clustering from δ-Mode Global Structure**'
 id: GEN12-1873
-lines: 2277-2293
 location: genesis-12/untitled-document::9-galaxy-clustering-from-δ-mode-global-structure::b1
 source: genesis-12\Untitled_document.md
+lines: 2277-2293
+heading: '**9\. Galaxy Clustering from δ-Mode Global Structure**'
+block_type: paragraph
+excerpt: 'Galaxy clustering inherits structure from δ: * δ₃ → cluster cores * δ₆ →
+  filament chains'
+concepts:
+- δ
+- Π
+- Φ
+- →
+- δ6-ridges
+- δ-imposed
+- δ3-nodes
+- δ9-cells
+- δ₉
+- δ₃
+- δ₆
+aliases:
+- Bk030gc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.253012048192772
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

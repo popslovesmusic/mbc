@@ -1,12 +1,27 @@
+id: GEN14-3072
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-the-adjoint-structure::adjunction-2-φ-compression-π-stabilization::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 2165-2181
+heading: '**Adjunction 2: Φ-Compression ↔ Π-Stabilization**'
+parent_heading: '**III. The Adjoint Structure**'
 block_type: paragraph
+excerpt: 'F2⊣F3.F\_2 \\dashv F\_3.F2​⊣F3​. Meaning: HomMagΠ(F3(Y), Z)  ≅  HomSpinΦ(Y, F2(Z)).\\text{Hom}\_{\\mathbf{Mag}\_\\Pi}(F\_3(Y),\\,
+  Z) \\;\\cong\\; \\text{Hom}\_{\\mathbf{Spin}\_\\Phi}(Y,\\, F\_2(Z)).Ho...'
 concepts:
 - Π
 - Φ
-excerpt: 'F2⊣F3.F\_2 \\dashv F\_3.F2​⊣F3​. Meaning: HomMagΠ(F3(Y), Z)  ≅  HomSpinΦ(Y, F2(Z)).\\text{Hom}\_{\\mathbf{Mag}\_\\Pi}(F\_3(Y),\\,
-  Z) \\;\\cong\\; \\text{Hom}\_{\\mathbf{Spin}\_\\Phi}(Y,\\, F\_2(Z)).Ho...'
-heading: '**Adjunction 2: Φ-Compression ↔ Π-Stabilization**'
-id: GEN14-3072
-lines: 2165-2181
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-the-adjoint-structure::adjunction-2-φ-compression-π-stabilization::b1
-parent_heading: '**III. The Adjoint Structure**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+- magnetic order
+aliases:
+- Bk487dm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.285714285714286
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

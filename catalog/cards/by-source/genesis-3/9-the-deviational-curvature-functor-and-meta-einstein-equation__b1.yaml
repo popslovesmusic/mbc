@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Operator
-- Operator Energy
-- Ψ
-- δ
-excerpt: 'The key identity of the IGSOA framework: δR=T\\delta R \= TδR=T arises as:'
-heading: '**9\. The Deviational Curvature Functor and Meta-Einstein Equation**'
 id: GEN3-7329
-lines: 838-850
 location: genesis-3/metagenesis::9-the-deviational-curvature-functor-and-meta-einstein-equation::b1
 source: genesis-3\metagenesis.md
+lines: 838-850
+heading: '**9\. The Deviational Curvature Functor and Meta-Einstein Equation**'
+block_type: paragraph
+excerpt: 'The key identity of the IGSOA framework: δR=T\\delta R \= TδR=T arises as:'
+concepts:
+- δ
+- Operator
+- IGSOA
+- Operator Energy
+- Ψ
+- stress-energy
+- δR
+aliases:
+- Bk160tk
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.893617021276595
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

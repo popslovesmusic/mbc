@@ -1,19 +1,35 @@
+id: GEN9-9085
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::8-the-final-answer-why-orbitals-exist-at-all::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 888-935
+heading: '**8\. The Final Answer: Why Orbitals Exist at All**'
+parent_heading: '**“Why Orbitals Exist at All”**'
 block_type: paragraph
-concepts:
-- Axiom
-- Orbital Emergence Axiom
-- Orbital Geometry
-- The First Story Geometry Ever Told
-- Why Orbitals Exist
-- are
-- Π
-- Φ
-- δ
 excerpt: Because the universe cannot remain in perfect stillness. Because deviation
   (δ) must exist. And because δ cannot exist without **harmonic structure**.
-heading: '**8\. The Final Answer: Why Orbitals Exist at All**'
-id: GEN9-9085
-lines: 888-935
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::8-the-final-answer-why-orbitals-exist-at-all::b1
-parent_heading: '**“Why Orbitals Exist at All”**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- The First Story Geometry Ever Told
+- Axiom
+- Π
+- Φ
+- Orbital Geometry
+- harmonic structure
+- A formal appendix version
+- A minimal poetic version
+- Orbital Emergence Axiom
+- Why Orbitals Exist
+aliases:
+- Bk733bt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.445544554455446
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

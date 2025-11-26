@@ -1,16 +1,31 @@
+id: GEN7-8492
+location: genesis-7/the-complete-eft-lagrangian::part-ii-meta-time-ordering-proof::2-sufficiency::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 764-774
+heading: '**2\. Sufficiency.**'
+parent_heading: '**Part II: Meta-Time Ordering Proof**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Thus Meta
-- Π
-- Φ
-- δ
 excerpt: 'If Π preserves composition: Π(δ∘δ)=Π(δ)∘Π(δ),\\Pi(\\delta\\circ\\delta)
   \= \\Pi(\\delta)\\circ\\Pi(\\delta),Π(δ∘δ)=Π(δ)∘Π(δ), then δ evolves coherently
   across “time,” ensuring that the action of δ at ...'
-heading: '**2\. Sufficiency.**'
-id: GEN7-8492
-lines: 764-774
-location: genesis-7/the-complete-eft-lagrangian::part-ii-meta-time-ordering-proof::2-sufficiency::b1
-parent_heading: '**Part II: Meta-Time Ordering Proof**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- δ
+- Π
+- Meta-Time
+- Φ
+- Thus Meta
+aliases:
+- Bk215pc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.064516129032258
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

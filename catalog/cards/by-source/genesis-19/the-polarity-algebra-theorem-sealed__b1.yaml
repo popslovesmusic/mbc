@@ -1,12 +1,30 @@
+id: GEN19-5895
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::the-polarity-algebra-theorem-sealed::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 342-346
+heading: '**THE POLARITY ALGEBRA THEOREM (sealed)**'
 block_type: paragraph
+excerpt: '**Complete Determinacy of Polarity Under δ-Metadata Routing** ---'
 concepts:
+- Complete Determinacy of Polarity Under δ-Metadata Routing
+- Polarity
+- δ-Metadata
+- δ
 - Complete Determinacy
 - Metadata Routing
 - Polarity Under
-- δ
-excerpt: '**Complete Determinacy of Polarity Under δ-Metadata Routing** ---'
-heading: '**THE POLARITY ALGEBRA THEOREM (sealed)**'
-id: GEN19-5895
-lines: 342-346
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::the-polarity-algebra-theorem-sealed::b1
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+aliases:
+- Bk106cd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 87.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

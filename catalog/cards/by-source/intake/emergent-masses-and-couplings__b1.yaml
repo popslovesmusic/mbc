@@ -1,13 +1,28 @@
+id: INTK-10303
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::physical-implications::emergent-masses-and-couplings::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 743-744
+heading: Emergent Masses and Couplings
+parent_heading: Physical Implications
 block_type: paragraph
-concepts:
-- Meta-Scalar
-- Scalar Multiplications
 excerpt: The effective masses of particles and the strengths of fundamental forces
   are not fixed but are emergent properties arising from scale-dependent Meta-Scalar
   Multiplications in the PPG.
-heading: Emergent Masses and Couplings
-id: INTK-10303
-lines: 743-744
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::physical-implications::emergent-masses-and-couplings::b1
-parent_heading: Physical Implications
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- scale-dependent
+- Meta-Scalar
+- Scalar Multiplications
+aliases:
+- Bk505te
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.714285714285714
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

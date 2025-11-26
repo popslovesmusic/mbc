@@ -1,11 +1,28 @@
+id: GEN20-6987
+location: genesis-20/mbc-40-documentaitio-1::answer-to-your-question-concise::2-a-later-standalone-booklet::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4108-4118
+heading: (2) A later standalone booklet
+parent_heading: ⭐ ANSWER TO YOUR QUESTION (CONCISE)
 block_type: paragraph
-concepts: []
 excerpt: 'that expands each advanced topic into its own full chapter or multi-chapter
   section. This matches how sophisticated theoretical frameworks are typically documented:
   * primary book → introduces the cor...'
-heading: (2) A later standalone booklet
-id: GEN20-6987
-lines: 4108-4118
-location: genesis-20/mbc-40-documentaitio-1::answer-to-your-question-concise::2-a-later-standalone-booklet::b1
-parent_heading: ⭐ ANSWER TO YOUR QUESTION (CONCISE)
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- →
+- multi-chapter
+aliases:
+- Bk787te
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.4482758620689653
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

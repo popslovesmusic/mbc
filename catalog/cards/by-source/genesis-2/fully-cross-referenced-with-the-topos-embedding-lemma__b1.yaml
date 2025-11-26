@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***Fully cross-referenced with the Topos Embedding Lemma***'
 id: GEN2-6536
-lines: 879-881
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::appendix-a-the-axioms-of-meta-genesis-revised::fully-cross-referenced-with-the-topos-embedding-lemma::b1
-parent_heading: '**Appendix A: The Axioms of Meta-Genesis (Revised)**'
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 879-881
+heading: '***Fully cross-referenced with the Topos Embedding Lemma***'
+parent_heading: '**Appendix A: The Axioms of Meta-Genesis (Revised)**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

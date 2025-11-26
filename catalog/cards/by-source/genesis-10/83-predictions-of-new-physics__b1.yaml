@@ -1,20 +1,35 @@
+id: GEN10-984
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-viii-meta-time-cosmology-and-new-physics::83-predictions-of-new-physics::b1
+source: genesis-10\research_overview.md
+lines: 283-291
+heading: '**8.3 Predictions of New Physics**'
+parent_heading: '**Part VIII: Meta-Time, Cosmology, and New Physics**'
 block_type: paragraph
-concepts:
-- Anthropic Laws
-- Meta-Einstein
-- Meta-Genesis
-- Modified Gravity
-- Non-Anthropic
-- Proton Stability
-- Standard Model
-- The Meta
-- only
 excerpt: 'Meta-Genesis makes several bold predictions that distinguish it from the
   Standard Model \[genesis-9\]: 1. **Modified Gravity at Extremes:** The Meta-Einstein
   equation contains $\\delta$-correction ter...'
-heading: '**8.3 Predictions of New Physics**'
-id: GEN10-984
-lines: 283-291
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-viii-meta-time-cosmology-and-new-physics::83-predictions-of-new-physics::b1
-parent_heading: '**Part VIII: Meta-Time, Cosmology, and New Physics**'
-source: genesis-10\research_overview.md
+concepts:
+- Meta-Einstein
+- Meta-Genesis
+- Non-Anthropic
+- next-gen
+- Modified Gravity
+- Proton Stability
+- Anthropic Laws
+- Standard Model
+- The Meta
+aliases:
+- Bk449mg
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

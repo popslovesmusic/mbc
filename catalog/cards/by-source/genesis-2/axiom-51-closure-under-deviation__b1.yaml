@@ -1,11 +1,31 @@
+id: GEN2-6309
+location: genesis-2/axioms-of-geometry-topos-compatible::5-genesis-compatibility-meta-genesis-δ-geometry::axiom-51-closure-under-deviation::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 202-214
+heading: '**Axiom 5.1 — Closure Under Deviation**'
+parent_heading: '**5\. Genesis Compatibility (Meta-Genesis → δ-Geometry)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: If AAA is a δ-object, then the pair (A,δA)(A, \\delta\_A)(A,δA​) is closed
   under the adjoint functor
-heading: '**Axiom 5.1 — Closure Under Deviation**'
-id: GEN2-6309
-lines: 202-214
-location: genesis-2/axioms-of-geometry-topos-compatible::5-genesis-compatibility-meta-genesis-δ-geometry::axiom-51-closure-under-deviation::b1
-parent_heading: '**5\. Genesis Compatibility (Meta-Genesis → δ-Geometry)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- δ
+- δ-Geom
+- δ-Geometry
+- δ-object
+- →
+- δA
+aliases:
+- Bk069ao
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.76595744680851
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

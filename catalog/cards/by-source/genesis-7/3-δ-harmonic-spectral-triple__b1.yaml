@@ -1,10 +1,32 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Your IGSOA spectral triple: (A,H,Dδ)(\\mathcal{A}, \\mathcal{H}, D\_\\delta)(A,H,Dδ​)
-  has the Dirac-style operator:'
-heading: '**3\. δ-Harmonic Spectral Triple**'
 id: GEN7-8558
-lines: 65-93
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::3-δ-harmonic-spectral-triple::b1
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 65-93
+heading: '**3\. δ-Harmonic Spectral Triple**'
+block_type: paragraph
+excerpt: 'Your IGSOA spectral triple: (A,H,Dδ)(\\mathcal{A}, \\mathcal{H}, D\_\\delta)(A,H,Dδ​)
+  has the Dirac-style operator:'
+concepts:
+- δ
+- IGSOA
+- δ-deformed effective radial equation
+- δ-deformed
+- Δ
+- →
+- Dirac-style
+- δ-shift
+aliases:
+- Bk931yi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.18848167539267
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

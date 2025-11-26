@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Boson Mass
-- Mode
-- Spin Spectrum Grid
-- Π
-- Φ
-- δ
-excerpt: '*(The δ-Harmonic → Φ-Mode → Π-Boson Mass/Spin Spectrum Grid)*'
-heading: '**THE FULL 9×9 δ-BOSON SPECTRUM TABLE**'
 id: GEN13-2344
-lines: 1188-1190
 location: genesis-13/the-weight-of-light::the-full-99-δ-boson-spectrum-table::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 1188-1190
+heading: '**THE FULL 9×9 δ-BOSON SPECTRUM TABLE**'
+block_type: paragraph
+excerpt: '*(The δ-Harmonic → Φ-Mode → Π-Boson Mass/Spin Spectrum Grid)*'
+concepts:
+- Mode
+- →
+- δ-Harmonic
+- Π-Boson
+- Π
+- δ
+- Φ-Mode
+- Φ
+- Spin Spectrum Grid
+- Boson Mass
+aliases:
+- Bk827th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 90.9090909090909
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

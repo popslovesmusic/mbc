@@ -1,25 +1,37 @@
+id: INTK-10909
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::cross-references::b2
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 4091-4110
+heading: Cross-References
+parent_heading: Meta-Time Cone
 block_type: list
-concepts:
-- Actualization Primitive
-- Axiom
-- Causal History Operator
-- Dependent-Mode
-- Echo Operator
-- Force Operator
-- Fractal Geometry
-- Harmonic Symmetry Group
-- Infinitely Generalized Symmetry
-- Meta-Deviation
-- Meta-Fractal
-- Meta-Geometry
-- Meta-Time
-- Mode
-- Mode Dynamics
 excerpt: '- [δ (Deviation)](δ (Deviation).md) - [τ (Meta-Time)](τ (Meta-Time).md)
   - [Meta-Time Unified Theory](Meta-Time Unified Theory.md)'
-heading: Cross-References
-id: INTK-10909
-lines: 4091-4110
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::cross-references::b2
-parent_heading: Meta-Time Cone
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- Deviation
+- Operator
+- IGSOA
+- Axiom
+- State
+- Mode
+- Dependent-Mode
+- Meta-Deviation
+- Peakset Probability Geometry
+- Meta-Geometry
+- Meta-Fractal
+- Mono-Force
+- Causal History Operator
+- Actualization Primitive
+aliases:
+- Bk191dd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.714285714285715
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

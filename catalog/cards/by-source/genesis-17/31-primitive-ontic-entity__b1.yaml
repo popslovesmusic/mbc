@@ -1,10 +1,22 @@
+id: GEN17-5004
+location: genesis-17/mbc-schema-3::3-primitive-set-the-only-true-primitives::31-primitive-ontic-entity::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 32-34
+heading: '**3.1 Primitive Ontic Entity**'
+parent_heading: '**3\. Primitive Set (The Only True Primitives)**'
 block_type: list
+excerpt: '* **IGSOA** (the monistic whole; no parts)'
 concepts:
 - IGSOA
-excerpt: '* **IGSOA** (the monistic whole; no parts)'
-heading: '**3.1 Primitive Ontic Entity**'
-id: GEN17-5004
-lines: 32-34
-location: genesis-17/mbc-schema-3::3-primitive-set-the-only-true-primitives::31-primitive-ontic-entity::b1
-parent_heading: '**3\. Primitive Set (The Only True Primitives)**'
-source: genesis-17\MBC_Schema_3.md
+aliases:
+- Bk814it
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

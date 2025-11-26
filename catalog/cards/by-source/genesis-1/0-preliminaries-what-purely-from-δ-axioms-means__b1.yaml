@@ -1,13 +1,36 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Levi-Civita
-- Ψ
-- δ
-excerpt: 'We assume the δ-framework you and I have been building: * **δ is the primitive
-  deviation operator**: δ:H→H\\delta : \\mathcal{H} \\to \\mathcal{H}δ:H→H'
-heading: '**0\. Preliminaries: What “Purely from δ-Axioms” Means**'
 id: GEN1-510
-lines: 8-33
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::0-preliminaries-what-purely-from-δ-axioms-means::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 8-33
+heading: '**0\. Preliminaries: What “Purely from δ-Axioms” Means**'
+block_type: paragraph
+excerpt: 'We assume the δ-framework you and I have been building: * **δ is the primitive
+  deviation operator**: δ:H→H\\delta : \\mathcal{H} \\to \\mathcal{H}δ:H→H'
+concepts:
+- δ
+- Adjacency
+- Curvature
+- Energy is mode-amplitude of δ-configuration
+- Curvature is deviation-of-deviation
+- Axiom
+- Ψ
+- deviation-of-deviation
+- δ is the primitive deviation operator
+- ∩
+- →
+- δ-configuration
+- mode-amplitude
+- no Levi-Civita
+- Levi-Civita
+aliases:
+- Bk325at
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.725490196078432
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

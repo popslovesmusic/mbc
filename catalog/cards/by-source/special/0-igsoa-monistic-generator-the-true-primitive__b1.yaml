@@ -1,10 +1,23 @@
-block_type: list
-concepts:
-- NOT
-excerpt: '* Not an operator. * Not geometry. * Not deviation.'
-heading: '**0\. IGSOA (Monistic Generator) — the true primitive**'
 id: SPEC-10965
-lines: 21-31
 location: special/specil::correct-ontological-ordering-your-framework::0-igsoa-monistic-generator-the-true-primitive::b1
-parent_heading: '**✅ Correct Ontological Ordering (Your Framework)**'
 source: special\specil.md
+lines: 21-31
+heading: '**0\. IGSOA (Monistic Generator) — the true primitive**'
+parent_heading: '**✅ Correct Ontological Ordering (Your Framework)**'
+block_type: list
+excerpt: '* Not an operator. * Not geometry. * Not deviation.'
+concepts:
+- Axiom
+- →
+aliases:
+- Bk054no
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

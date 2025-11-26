@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Deviation is: * present in Genesis (non-zero enforcement) * present in Math
-  (probability slope, NOT axiom enforcer)'
-heading: '**🧩 1\. Deviation exists in every realm simultaneously**'
 id: SPEC-11050
-lines: 1240-1250
 location: special/specil::1-deviation-exists-in-every-realm-simultaneously::b1
 source: special\specil.md
+lines: 1240-1250
+heading: '**🧩 1\. Deviation exists in every realm simultaneously**'
+block_type: paragraph
+excerpt: 'Deviation is: * present in Genesis (non-zero enforcement) * present in Math
+  (probability slope, NOT axiom enforcer)'
+concepts:
+- Deviation
+- Axiom
+- non-zero
+aliases:
+- Bk844dp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

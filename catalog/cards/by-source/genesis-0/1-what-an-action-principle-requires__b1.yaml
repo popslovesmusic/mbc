@@ -1,12 +1,29 @@
+id: GEN0-269
+location: genesis-0/why-the-first-action-is-necessary::1-what-an-action-principle-requires::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 163-187
+heading: '**1\. What an Action Principle Requires**'
 block_type: paragraph
-concepts:
-- can
-- δ
 excerpt: 'Every action principle in physics — classical, quantum, relativistic, or
   meta-geometric — needs three things: 1. **A configuration space:** something that
   *can* change. 2. **A Lagrangian:** something ...'
-heading: '**1\. What an Action Principle Requires**'
-id: GEN0-269
-lines: 163-187
-location: genesis-0/why-the-first-action-is-necessary::1-what-an-action-principle-requires::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- ∫
+- δ
+- ∂
+- meta-geometric
+- δS
+aliases:
+- Bk292ea
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.4945054945054945
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

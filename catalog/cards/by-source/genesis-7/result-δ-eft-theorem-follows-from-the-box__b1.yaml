@@ -1,12 +1,35 @@
-block_type: paragraph
-concepts:
-- From Axioms
-- Meta-Time
-- δ
-excerpt: '**From Axioms 1–10 it follows uniquely that:** Lδ-EFT=Lδ-kin+Lδ-geom+LAdj+LMeta-Time+Lδ-Higgs+LYukawa+Lmix+Lint.\\mathcal{L}\_{\\delta\\text{-EFT}}
-  \= \\mathcal{L}\_{\\delta\\text{-kin}} \+ \\mathcal{...'
-heading: '**🔻 RESULT: δ-EFT THEOREM (Follows from the Box)**'
 id: GEN7-8478
-lines: 570-580
 location: genesis-7/the-complete-eft-lagrangian::result-δ-eft-theorem-follows-from-the-box::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 570-580
+heading: '**🔻 RESULT: δ-EFT THEOREM (Follows from the Box)**'
+block_type: paragraph
+excerpt: '**From Axioms 1–10 it follows uniquely that:** Lδ-EFT=Lδ-kin+Lδ-geom+LAdj+LMeta-Time+Lδ-Higgs+LYukawa+Lmix+Lint.\\mathcal{L}\_{\\delta\\text{-EFT}}
+  \= \\mathcal{L}\_{\\delta\\text{-kin}} \+ \\mathcal{...'
+concepts:
+- δ
+- Meta-Time
+- IGSOA
+- δ-EFT
+- LMeta-Time
+- Lδ-Higgs
+- Lδ-geom
+- first-principles
+- Lδ-kin
+- Lδ-EFT
+- δ-closure
+- From Axioms
+aliases:
+- Bk209fa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

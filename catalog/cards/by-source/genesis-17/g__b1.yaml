@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Σ
-- Φ
-excerpt: 'Compute: gˇ^(Σ1)=Π(gˇ(ΦΣ1))=Π(ι(g(Σ1)))=g(Σ1) g'
-heading: \=g
 id: GEN17-4435
-lines: 4371-4407
 location: genesis-17/box-calculus::φπ::34-show-they-are-inverse::g::b1
-parent_heading: 3.4 Show they are inverse
 source: genesis-17\box_calculus.md
+lines: 4371-4407
+heading: \=g
+parent_heading: 3.4 Show they are inverse
+block_type: paragraph
+excerpt: 'Compute: gˇ^(Σ1)=Π(gˇ(ΦΣ1))=Π(ι(g(Σ1)))=g(Σ1) g'
+concepts:
+- Σ
+- Π
+- ι
+- Φ
+- Π-forms
+aliases:
+- Bk127cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.363636363636363
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

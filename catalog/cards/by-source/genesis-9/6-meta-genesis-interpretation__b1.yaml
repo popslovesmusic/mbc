@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- In Meta
-- Meta-Genesis
-- interactions
-excerpt: 'In Meta-Genesis: * Potential forms degeneracy. * Degeneracy creates adjacency
-  asymmetry.'
-heading: '**6\. Meta-Genesis Interpretation**'
 id: GEN9-9472
-lines: 471-485
 location: genesis-9/strong-force::6-meta-genesis-interpretation::b1
 source: genesis-9\strong-force.md
+lines: 471-485
+heading: '**6\. Meta-Genesis Interpretation**'
+block_type: paragraph
+excerpt: 'In Meta-Genesis: * Potential forms degeneracy. * Degeneracy creates adjacency
+  asymmetry.'
+concepts:
+- Meta-Genesis
+- interactions
+- In Meta
+aliases:
+- Bk198mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

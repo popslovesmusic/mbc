@@ -1,13 +1,29 @@
+id: GEN1-637
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-complete::you-said::b3
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1522-1524
+heading: '**You said:**'
+parent_heading: '**Chapter Complete.**'
 block_type: paragraph
+excerpt: The Meta-Genesis → Meta-Math Adjoint Pair
 concepts:
-- Math Adjoint Pair
 - Meta-Genesis
 - Meta-Math
+- →
+- Math Adjoint Pair
 - The Meta
-excerpt: The Meta-Genesis → Meta-Math Adjoint Pair
-heading: '**You said:**'
-id: GEN1-637
-lines: 1522-1524
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-complete::you-said::b3
-parent_heading: '**Chapter Complete.**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+aliases:
+- Bk134tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 71.42857142857143
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

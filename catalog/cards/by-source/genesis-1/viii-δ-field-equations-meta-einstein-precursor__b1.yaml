@@ -1,17 +1,35 @@
-block_type: paragraph
-concepts:
-- Box
-- Einstein Equation
-- Geometry Operator Box
-- Meta-Einstein
-- Operator
-- δ
-- μ
-- ν
-excerpt: 'The δ-Geometry Operator Box yields the canonical field equation: δRδ=Tδ\\delta
-  R\_\\delta \= T\_\\deltaδRδ​=Tδ​ Which under projection becomes:'
-heading: '**VIII. δ-Field Equations (Meta-Einstein Precursor)**'
 id: GEN1-452
-lines: 491-503
 location: genesis-1/the-foundation-layer::viii-δ-field-equations-meta-einstein-precursor::b1
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 491-503
+heading: '**VIII. δ-Field Equations (Meta-Einstein Precursor)**'
+block_type: paragraph
+excerpt: 'The δ-Geometry Operator Box yields the canonical field equation: δRδ=Tδ\\delta
+  R\_\\delta \= T\_\\deltaδRδ​=Tδ​ Which under projection becomes:'
+concepts:
+- δ
+- Meta-Einstein
+- μ
+- ν
+- Operator
+- Meta-Einstein Equation
+- Box
+- δ-Geometry
+- Geometry Operator Box
+- Einstein Equation
+- δR
+aliases:
+- Bk980tg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 26.190476190476193
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,24 @@
+id: GEN0-195
+location: genesis-0/tri-unity-theorem-equivalence-of::proof::premise-2-the-not-axiom::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 571-583
+heading: '**Premise 2 — The NOT Axiom**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Axiom
-- Ψ
 excerpt: 'The NOT Axiom states: Perfect stillness cannot be sustained.\\text{Perfect
   stillness cannot be sustained.}Perfect stillness cannot be sustained. This means:'
-heading: '**Premise 2 — The NOT Axiom**'
-id: GEN0-195
-lines: 571-583
-location: genesis-0/tri-unity-theorem-equivalence-of::proof::premise-2-the-not-axiom::b1
-parent_heading: '**Proof**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- Axiom
+aliases:
+- Bk854tn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.8461538461538463
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

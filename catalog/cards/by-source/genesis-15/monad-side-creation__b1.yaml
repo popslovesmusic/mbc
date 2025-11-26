@@ -1,11 +1,27 @@
+id: GEN15-3496
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-duality-with-the-monad-formulation::monad-side-creation::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1931-1933
+heading: '**Monad side (creation)**'
+parent_heading: '**🔷 7\. Duality with the Monad Formulation**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: TδX=Universe generated from δ acting on XT\_{\\delta} X \= \\text{Universe
   generated from δ acting on X}Tδ​X=Universe generated from δ acting on X
-heading: '**Monad side (creation)**'
-id: GEN15-3496
-lines: 1931-1933
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-duality-with-the-monad-formulation::monad-side-creation::b1
-parent_heading: '**🔷 7\. Duality with the Monad Formulation**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- δX
+aliases:
+- Bk088ug
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

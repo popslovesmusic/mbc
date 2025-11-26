@@ -1,15 +1,31 @@
+id: INTK-10949
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::logical-structure-analysis::content-misplacement::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 409-422
+heading: '**Content Misplacement**'
+parent_heading: LOGICAL STRUCTURE ANALYSIS
 block_type: paragraph
-concepts:
-- Current Location
-- Meta-Standard-Model
-- Reorganize Volume
-- Standard Model
 excerpt: '**Issue:** Volume III Part 12 contains Standard Model content that belongs
   in Volume IV **Current Location (Volume III Part 12):** - Flavor_Sector_Axioms.md
   → Should be in Volume IV Part 12'
-heading: '**Content Misplacement**'
-id: INTK-10949
-lines: 409-422
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::logical-structure-analysis::content-misplacement::b1
-parent_heading: LOGICAL STRUCTURE ANALYSIS
-source: intake\Volume_Structure_Gap_Analysis.md
+concepts:
+- →
+- Meta-Standard-Model
+- Standard Model
+- Reorganize Volume
+- Current Location
+aliases:
+- Bk128iv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.681818181818182
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

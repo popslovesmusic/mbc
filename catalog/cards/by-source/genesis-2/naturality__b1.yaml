@@ -1,13 +1,32 @@
+id: GEN2-6526
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::2-the-commutative-structure::naturality::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 773-789
+heading: '**Naturality:**'
+parent_heading: '**2\. The Commutative Structure**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'For any morphism f: X→Y in MG: Π(Φ(f))=Φ(f)RG\\Pi(\\Phi(f)) \= \\Phi(f)\_{RG}Π(Φ(f))=Φ(f)RG​
   where the right-hand side is the induced Riemannian map.'
-heading: '**Naturality:**'
-id: GEN2-6526
-lines: 773-789
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::2-the-commutative-structure::naturality::b1
-parent_heading: '**2\. The Commutative Structure**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- Φ
+- Π
+- scale-sheaf
+- δ-structure
+- right-hand
+- δ
+- →
+aliases:
+- Bk161fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.068965517241379
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

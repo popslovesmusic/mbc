@@ -1,11 +1,28 @@
+id: GEN19-5982
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-quantifiers-in-θ-logic::4-threshold-quantifier-k-of-n::standard::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1647-1655
+heading: '**Standard**'
+parent_heading: '**4\. Threshold Quantifier — “K of N”**'
 block_type: paragraph
-concepts:
-- σ
 excerpt: 'S+=∑x1+σ2S\_+ \= \\sum\_x \\frac{1+\\sigma}{2}S+​=x∑​21+σ​ Router: sign⁡(S+−K+0.5)\\operatorname{sign}(S\_+
   \- K \+ 0.5)sign(S+​−K+0.5)'
-heading: '**Standard**'
-id: GEN19-5982
-lines: 1647-1655
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-quantifiers-in-θ-logic::4-threshold-quantifier-k-of-n::standard::b1
-parent_heading: '**4\. Threshold Quantifier — “K of N”**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Router
+- ∑
+- σ
+aliases:
+- Bk283sf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

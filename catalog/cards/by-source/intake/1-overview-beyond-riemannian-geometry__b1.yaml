@@ -1,24 +1,39 @@
+id: INTK-10243
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::1-overview-beyond-riemannian-geometry::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 331-342
+heading: '**1. Overview: Beyond Riemannian Geometry**'
 block_type: paragraph
-concepts:
-- Commutative Geometry
-- Covariant Derivatives
-- Einstein Equation
-- Fractal Renormalization
-- Fractional Derivatives
-- Gauge Curvature
-- Gauge Meta
-- Higher-Gauge
-- Meta-Einstein
-- Meta-Fractal
-- Meta-Geometric
-- Non-Commutative
-- Scale-Covariant
-- δ
 excerpt: Traditional physics relies on Riemannian geometry and standard differential
   calculus defined on smooth manifolds. However, the Meta-Geometric substrate is inherently
   fractal, scale-layered, and subjec...
-heading: '**1. Overview: Beyond Riemannian Geometry**'
-id: INTK-10243
-lines: 331-342
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::1-overview-beyond-riemannian-geometry::b1
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Einstein
+- Curvature
+- Higher-Gauge
+- non-commutativity
+- δ
+- Non-Commutative
+- Scale-Covariant
+- deviation-flux
+- Meta-Geometric
+- scale-layered
+- Meta-Fractal
+- quantum-like
+- δ-operators
+- Fractal Renormalization
+- Fractional Derivatives
+aliases:
+- Bk406tp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.01801801801802
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

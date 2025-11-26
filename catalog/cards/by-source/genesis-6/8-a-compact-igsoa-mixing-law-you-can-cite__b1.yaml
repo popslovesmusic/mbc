@@ -1,16 +1,38 @@
+id: GEN6-8256
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::8-a-compact-igsoa-mixing-law-you-can-cite::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 670-684
+heading: '**8\) A compact IGSOA “mixing law” you can cite**'
+parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ω
-- α
-- δ
 excerpt: 'Put everything above into one box: Vmix=\[diag basis of ΔΩ,δ\]  →  Π+K^δ+Φ^  \[diag
   basis of Mf\](IGSOA-Mix)\\boxed{ V\_{\\text{mix}} \= \\Big\[ \\text{diag basis of
   }\\Delta\_{\\Omega,\\delta} \\Big\...'
-heading: '**8\) A compact IGSOA “mixing law” you can cite**'
-id: GEN6-8256
-lines: 670-684
-location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::8-a-compact-igsoa-mixing-law-you-can-cite::b1
-parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- IGSOA
+- α
+- IGSOA-Mix
+- δ
+- θ
+- IGSOA-Mix2
+- Ω
+- Π
+- ∈
+- Δ
+- Φ
+- →
+aliases:
+- Bk288pe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.0588235294117645
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

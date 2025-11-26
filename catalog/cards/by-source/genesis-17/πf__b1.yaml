@@ -1,14 +1,32 @@
+id: GEN17-4998
+location: genesis-17/key-points::v-igsoa-physics-correspondence::πf::b1
+source: genesis-17\Key_Points.md
+lines: 1651-1657
+heading: '**Π(f)**'
+parent_heading: '**V. IGSOA → Physics Correspondence**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: \= functorial push-forward of causal structure under influence links Thus
   Π exactly reproduces the **light-cone partial order** of spacetime, but internally,
   in your δ-Φ-Π structural language. ---
-heading: '**Π(f)**'
-id: GEN17-4998
-lines: 1651-1657
-location: genesis-17/key-points::v-igsoa-physics-correspondence::πf::b1
-parent_heading: '**V. IGSOA → Physics Correspondence**'
-source: genesis-17\Key_Points.md
+concepts:
+- light-cone partial order
+- Π
+- push-forward
+- light-cone
+- δ
+- Φ
+- δ-Φ-Π
+aliases:
+- Bk776fp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.137931034482758
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,18 +1,41 @@
+id: GEN6-8440
+location: genesis-6/the-harmonic-spectral-triple::if-you-want-i-can-also-produce::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 1267-1277
+heading: '**If you want, I can also produce:**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Fixed Points
-- Mode
-- Mode Renormalization Group Flow Diagram
-- Wilson-Fisher
-- δ
 excerpt: ✅ **The δ-Boson RG Fixed Points** (like Wilson-Fisher but in δ-geometry)
   ✅ **The δ-Mode Renormalization Group Flow Diagram** (with sketches of attractors)
   ✅ **The δ-RG → CKM/PMNS mixing evolution**
-heading: '**If you want, I can also produce:**'
-id: GEN6-8440
-lines: 1267-1277
-location: genesis-6/the-harmonic-spectral-triple::if-you-want-i-can-also-produce::b1
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- δ-geometry
+- δ
+- The δ-Mode Renormalization Group Flow Diagram
+- The δ-RG improved δ-Harmonic spectrum
+- Axiom
+- The δ-Boson RG Fixed Points
+- Mode Renormalization Group Flow Diagram
+- Mode
+- Box
+- δ-RG
+- Wilson-Fisher
+- δ-Harmonic
+- δ-Boson
+- δ-Mode
+- →
+aliases:
+- Bk480tb
+tags:
+- axiom-box
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.03225806451613
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

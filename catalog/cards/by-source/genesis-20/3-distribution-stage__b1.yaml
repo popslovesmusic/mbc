@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: ψj=DR(Θgated) ψ j
-heading: 3\. Distribution Stage
 id: GEN20-7161
-lines: 6486-6506
 location: genesis-20/mbc-40-documentaitio-1::b13-the-router-processing-stages::3-distribution-stage::b1
-parent_heading: B1.3 The Router Processing Stages
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6486-6506
+heading: 3\. Distribution Stage
+parent_heading: B1.3 The Router Processing Stages
+block_type: paragraph
+excerpt: ψj=DR(Θgated) ψ j
+concepts:
+- ψ
+- Θ
+aliases:
+- Bk504gd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

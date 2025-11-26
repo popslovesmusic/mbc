@@ -1,21 +1,39 @@
-block_type: list
-concepts:
-- Combine Proofs
-- Flat Rotation Curves
-- Full Inflation
-- Harmonic Degeneracy
-- Meta-Einstein
-- Metric Stability Equation
-- Phase Locking
-- Structure Cascade Theorem
-- Theorem
-- Π
-- Φ
-- δ
-excerpt: 5. **Filaments/Sheets/Nodes from δ-Harmonic Degeneracy** (How the cosmic
-  web is forced by the δ-spectrum.) 6. **CSOI Tail ⇒ Flat Rotation Curves**
-heading: '**Next proofs available immediately:**'
 id: GEN14-2719
-lines: 1098-1115
 location: genesis-14/inflation-structure-formation::next-proofs-available-immediately::b1
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 1098-1115
+heading: '**Next proofs available immediately:**'
+block_type: list
+excerpt: 5. **Filaments/Sheets/Nodes from δ-Harmonic Degeneracy** (How the cosmic
+  web is forced by the δ-spectrum.) 6. **CSOI Tail ⇒ Flat Rotation Curves**
+concepts:
+- Meta-Einstein
+- IGSOA
+- Theorem
+- Π-Metric Stability Equation
+- δ
+- Π
+- Π-evolution
+- Structure Cascade Theorem
+- δ-spectrum
+- δ-Harmonic
+- Metric Stability Equation
+- MOND-like
+- Π-Metric
+- χ
+- Φ
+aliases:
+- Bk061fs
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.25581395348837
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

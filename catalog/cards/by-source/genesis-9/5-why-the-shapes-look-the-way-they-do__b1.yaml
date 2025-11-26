@@ -1,13 +1,35 @@
+id: GEN9-9082
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::5-why-the-shapes-look-the-way-they-do::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 825-850
+heading: '**5\. Why the Shapes Look the Way They Do**'
+parent_heading: '**“Why Orbitals Exist at All”**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Φ
-- δ
 excerpt: 'The familiar shapes from quantum mechanics: * **s** (perfectly symmetric)
   * **p** (two-lobed)'
-heading: '**5\. Why the Shapes Look the Way They Do**'
-id: GEN9-9082
-lines: 825-850
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::5-why-the-shapes-look-the-way-they-do::b1
-parent_heading: '**“Why Orbitals Exist at All”**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Tri-Unity
+- Curvature
+- IGSOA
+- Tri-Unity harmonic balance
+- δ
+- Chromatic phase differences
+- clover-like
+- four-lobed
+- two-lobed
+- Nodal splitting inside Φ
+- Φ
+aliases:
+- Bk725tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.864864864864865
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

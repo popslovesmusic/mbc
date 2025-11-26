@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Ω
-- δ
-excerpt: δΩ,m=3 or m=9 harmonics → micro-lobes, “rippled shells”
-heading: '**6.2 fractal sub-nodes inside lobes**'
 id: GEN6-8221
-lines: 199-202
 location: genesis-6/harmonics-atomic-orbitals::6-full-orbital-shapes-directly-visualizable::62-fractal-sub-nodes-inside-lobes::b1
-parent_heading: '**6\. Full Orbital Shapes (Directly Visualizable)**'
 source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 199-202
+heading: '**6.2 fractal sub-nodes inside lobes**'
+parent_heading: '**6\. Full Orbital Shapes (Directly Visualizable)**'
+block_type: paragraph
+excerpt: δΩ,m=3 or m=9 harmonics → micro-lobes, “rippled shells”
+concepts:
+- micro-lobes
+- δ
+- Ω
+- →
+aliases:
+- Bk875hm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 36.36363636363637
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

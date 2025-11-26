@@ -1,11 +1,26 @@
+id: INTK-10072
+location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::7-closing-line::how-deviation-writes-the-first-law::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 933-937
+heading: '**➤ *How Deviation Writes the First Law***'
+parent_heading: '**7\. Closing Line**'
 block_type: paragraph
-concepts:
-- next
 excerpt: Just say **next** or name a title. ChatGPT can make mistakes. Check important
   info.
-heading: '**➤ *How Deviation Writes the First Law***'
-id: INTK-10072
-lines: 933-937
-location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::7-closing-line::how-deviation-writes-the-first-law::b1
-parent_heading: '**7\. Closing Line**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- next
+aliases:
+- Bk331js
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

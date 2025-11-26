@@ -1,10 +1,26 @@
+id: GEN13-2229
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-physical-anyons-and-topological-quantum-gates::proposition-35-π-logical-qubits::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2609-2615
+heading: '**Proposition 3.5 — Π-Logical Qubits**'
+parent_heading: '**3\. Π-Layer: Physical Anyons and Topological Quantum Gates**'
 block_type: paragraph
-concepts: []
 excerpt: 'Anyons a,ba,ba,b define a topological qubit in the fusion space: Hqubit=Hom(1,a⊗b).\\mathcal{H}\_{\\text{qubit}}
   \= \\mathrm{Hom}(1,a\\otimes b).Hqubit​=Hom(1,a⊗b). ---'
-heading: '**Proposition 3.5 — Π-Logical Qubits**'
-id: GEN13-2229
-lines: 2609-2615
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-physical-anyons-and-topological-quantum-gates::proposition-35-π-logical-qubits::b1
-parent_heading: '**3\. Π-Layer: Physical Anyons and Topological Quantum Gates**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- ⊗
+aliases:
+- Bk766ad
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.941176470588235
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

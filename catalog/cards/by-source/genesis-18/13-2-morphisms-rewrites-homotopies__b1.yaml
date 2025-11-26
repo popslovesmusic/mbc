@@ -1,17 +1,37 @@
+id: GEN18-5219
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::1-the-base-2-category-of-boxes::13-2-morphisms-rewrites-homotopies::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1026-1042
+heading: '**1.3 2-Morphisms (Rewrites / Homotopies)**'
+parent_heading: '**1\. The Base 2-Category of Boxes**'
 block_type: table
-concepts:
-- Box
-- Box-rewrites
-- Φ
-- α
-- β
-- γ
-- δ
 excerpt: 'α:f⇒g(f,g:X→Y)\\alpha: f \\Rightarrow g \\quad (f,g: X\\to Y)α:f⇒g(f,g:X→Y)
   Vertical composition: β⋅α:f⇒h\\beta\\cdot \\alpha : f \\Rightarrow hβ⋅α:f⇒h'
-heading: '**1.3 2-Morphisms (Rewrites / Homotopies)**'
-id: GEN18-5219
-lines: 1026-1042
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::1-the-base-2-category-of-boxes::13-2-morphisms-rewrites-homotopies::b1
-parent_heading: '**1\. The Base 2-Category of Boxes**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- α
+- IGSOA
+- Proof
+- Box
+- γ
+- β
+- →
+- Box-rewrites
+- proof-terms
+- δ
+- Φ
+aliases:
+- Bk502si
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.087912087912088
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

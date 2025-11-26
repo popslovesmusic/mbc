@@ -1,14 +1,25 @@
+id: GEN10-934
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-the-first-law-in-δφπ-geometry::42-φ-redistributes-but-cannot-alter-δs-magnitude::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 3023-3027
+heading: '**4.2 Φ redistributes but cannot alter δ’s magnitude**'
+parent_heading: '**4\. The First Law in δ–Φ–Π Geometry**'
 block_type: paragraph
-concepts:
-- amount
-- distribution
-- Φ
-- δ
 excerpt: Eδ=∑iEδ,i(Φ).E\_\\delta \= \\sum\_i E\_{\\delta,i}^{(Φ)}.Eδ​=i∑​Eδ,i(Φ)​.
   Φ changes the *distribution*, not the *amount*.
-heading: '**4.2 Φ redistributes but cannot alter δ’s magnitude**'
-id: GEN10-934
-lines: 3023-3027
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-the-first-law-in-δφπ-geometry::42-φ-redistributes-but-cannot-alter-δs-magnitude::b1
-parent_heading: '**4\. The First Law in δ–Φ–Π Geometry**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- δ
+- Φ
+- ∑
+aliases:
+- Bk831ds
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

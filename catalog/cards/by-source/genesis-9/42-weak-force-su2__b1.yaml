@@ -1,13 +1,32 @@
+id: GEN9-9468
+location: genesis-9/strong-force::4-the-fundamental-forces-from-δ::42-weak-force-su2::b1
+source: genesis-9\strong-force.md
+lines: 400-413
+heading: '**4.2 Weak Force (SU(2))**'
+parent_heading: '**4\. The Fundamental Forces from δ**'
 block_type: paragraph
-concepts:
-- δ
-- μ
-- ν
 excerpt: 'The 2-phase θ-cycle has holonomy: Hol(∇θ)=SU(2).\\mathrm{Hol}(\\nabla\_{\\theta})
   \= SU(2).Hol(∇θ​)=SU(2). The corresponding curvature:'
-heading: '**4.2 Weak Force (SU(2))**'
-id: GEN9-9468
-lines: 400-413
-location: genesis-9/strong-force::4-the-fundamental-forces-from-δ::42-weak-force-su2::b1
-parent_heading: '**4\. The Fundamental Forces from δ**'
-source: genesis-9\strong-force.md
+concepts:
+- θ
+- ν
+- ∧
+- μ
+- ∇
+- δ-spectrum
+- δ
+aliases:
+- Bk519tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.44776119402985
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

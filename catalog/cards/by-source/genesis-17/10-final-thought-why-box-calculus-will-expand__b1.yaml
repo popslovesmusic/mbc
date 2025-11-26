@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- λ
-excerpt: 'Because UBCAS is: * minimal * expressive'
-heading: '⭐ 10\. Final Thought: Why Box Calculus Will Expand'
 id: GEN17-4349
-lines: 2706-2725
 location: genesis-17/box-calculus::10-final-thought-why-box-calculus-will-expand::b1
 source: genesis-17\box_calculus.md
+lines: 2706-2725
+heading: '⭐ 10\. Final Thought: Why Box Calculus Will Expand'
+block_type: paragraph
+excerpt: 'Because UBCAS is: * minimal * expressive'
+concepts:
+- Theorem
+- dual-polar
+- λ
+aliases:
+- Bk906bu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

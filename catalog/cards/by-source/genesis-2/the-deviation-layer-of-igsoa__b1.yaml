@@ -1,11 +1,27 @@
+id: GEN2-6386
+location: genesis-2/axioms-of-geometry-topos-compatible::δaxiom-box::the-deviation-layer-of-igsoa::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1172-1176
+heading: '***The Deviation Layer of IGSOA***'
+parent_heading: '**δ–Axiom Box**'
 block_type: paragraph
+excerpt: '*(Canonical, Sealed Axiom Set)* ---'
 concepts:
 - Axiom
 - Sealed Axiom Set
-excerpt: '*(Canonical, Sealed Axiom Set)* ---'
-heading: '***The Deviation Layer of IGSOA***'
-id: GEN2-6386
-lines: 1172-1176
-location: genesis-2/axioms-of-geometry-topos-compatible::δaxiom-box::the-deviation-layer-of-igsoa::b1
-parent_heading: '**δ–Axiom Box**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+aliases:
+- Bk921cs
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

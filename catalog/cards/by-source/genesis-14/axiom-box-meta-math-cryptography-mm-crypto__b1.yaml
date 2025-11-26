@@ -1,18 +1,46 @@
+id: GEN14-2837
+location: genesis-14/meta-math-and-cryptography::8-sealed-axiom-box::axiom-box-meta-math-cryptography-mm-crypto::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 713-730
+heading: '**Axiom Box: Meta-Math Cryptography (MM-Crypto)**'
+parent_heading: '**8\. Sealed Axiom Box**'
 block_type: paragraph
-concepts:
-- Axiom
-- Deviation Requirement
-- Monistic Consistency
-- No-Lift
-- Projection Irreversibility
-- Π
-- Φ
-- δ
 excerpt: '**Axiom 1 (Deviation Requirement):** Every cryptographic system begins with
   a δ-source that creates ontic asymmetry (entropy). **Axiom 2 (Unidirectional Φ-Morphisms):**'
-heading: '**Axiom Box: Meta-Math Cryptography (MM-Crypto)**'
-id: GEN14-2837
-lines: 713-730
-location: genesis-14/meta-math-and-cryptography::8-sealed-axiom-box::axiom-box-meta-math-cryptography-mm-crypto::b1
-parent_heading: '**8\. Sealed Axiom Box**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Axiom
+- δ
+- Projection
+- Deviation
+- Π
+- Φ
+- →
+- Π-projections
+- δ-divergence
+- Φ-morphisms
+- Φ-Morphisms
+- Projection Irreversibility
+- δ-dependent
+- δ-source
+- No-Lift
+aliases:
+- Am380ad
+tags:
+- monistic-consistency
+- axiom
+- security-no-lift
+- conflicted
+- deviation-requirement
+- projection-irreversibility
+- unidirectional-φ-morphisms
+is_formal: true
+statement_type: axiom
+axiom_count: 5
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

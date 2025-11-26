@@ -1,16 +1,32 @@
+id: INTK-10242
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::section-x-the-meta-fractal-differential-algebra::unifying-scale-covariance-higher-gauge-theory-and-deviation-calculus::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 325-329
+heading: '***Unifying Scale-Covariance, Higher-Gauge Theory, and Deviation Calculus***'
+parent_heading: SECTION X - THE META-FRACTAL DIFFERENTIAL ALGEBRA
 block_type: paragraph
-concepts:
-- Fractal Differential Algebra
-- Meta-Fractal
-- Meta-Geometric
-- Meta-Math
-- Peakset Probability Geometry
 excerpt: This document formalizes the **Meta-Fractal Differential Algebra (MFDA)**,
   a critical mathematical framework for the IGSOA / Meta-Math theory. MFDA provides
   the rigorous tools to describe differential...
-heading: '***Unifying Scale-Covariance, Higher-Gauge Theory, and Deviation Calculus***'
-id: INTK-10242
-lines: 325-329
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::section-x-the-meta-fractal-differential-algebra::unifying-scale-covariance-higher-gauge-theory-and-deviation-calculus::b1
-parent_heading: SECTION X - THE META-FRACTAL DIFFERENTIAL ALGEBRA
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- IGSOA
+- scale-covariant
+- Meta-Geometric
+- Fractal Differential Algebra
+- Peakset Probability Geometry
+- Meta-Fractal
+aliases:
+- Bk495td
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.962962962962962
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

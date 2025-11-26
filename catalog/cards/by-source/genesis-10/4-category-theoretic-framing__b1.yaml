@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- The First Law
-- Φ
-- Ψ
-- δ
-excerpt: 'Define categories: * **𝒟** \= deviation states * **𝓜** \= modal (Φ) states'
-heading: '**4\. Category-Theoretic Framing**'
 id: GEN10-897
-lines: 2535-2573
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-category-theoretic-framing::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2535-2573
+heading: '**4\. Category-Theoretic Framing**'
+block_type: paragraph
+excerpt: 'Define categories: * **𝒟** \= deviation states * **𝓜** \= modal (Φ) states'
+concepts:
+- Ψ
+- →
+- δ
+- ≥
+- δ-evolution
+- time-step
+- Φ
+- The First Law
+- ΨF
+aliases:
+- Bk160dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.590062111801243
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

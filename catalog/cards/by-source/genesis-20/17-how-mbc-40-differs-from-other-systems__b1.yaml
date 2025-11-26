@@ -1,10 +1,25 @@
+id: GEN20-6691
+location: genesis-20/mbc-40-documentaitio-1::17-how-mbc-40-differs-from-other-systems::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 465-477
+heading: 1.7 How MBC-4.0 Differs From Other Systems
 block_type: paragraph
-concepts: []
 excerpt: 'Although MBC-4.0 shares surface similarities with logic systems, operator
   algebras, and categorical frameworks, it differs in several key ways: * It is monistic,
   not dualistic. * It treats nuance and ...'
-heading: 1.7 How MBC-4.0 Differs From Other Systems
-id: GEN20-6691
-lines: 465-477
-location: genesis-20/mbc-40-documentaitio-1::17-how-mbc-40-differs-from-other-systems::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+aliases:
+- Bk167am
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 1.1235955056179776
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

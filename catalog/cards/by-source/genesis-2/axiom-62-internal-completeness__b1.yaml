@@ -1,12 +1,25 @@
+id: GEN2-6312
+location: genesis-2/axioms-of-geometry-topos-compatible::6-topos-theoretic-validity-conditions::axiom-62-internal-completeness::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 254-259
+heading: '**Axiom 6.2 — Internal Completeness**'
+parent_heading: '**6\. Topos-Theoretic Validity Conditions**'
 block_type: paragraph
-concepts:
-- internally
-- δ
 excerpt: All objects and morphisms (δ, ∇ᵟ, Rᵟ, Tᵟ, adjacency) exist **internally**.
   No external set theory is used. ---
-heading: '**Axiom 6.2 — Internal Completeness**'
-id: GEN2-6312
-lines: 254-259
-location: genesis-2/axioms-of-geometry-topos-compatible::6-topos-theoretic-validity-conditions::axiom-62-internal-completeness::b1
-parent_heading: '**6\. Topos-Theoretic Validity Conditions**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- δ
+- ∇
+- internally
+aliases:
+- Bk959ao
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

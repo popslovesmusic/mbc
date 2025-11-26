@@ -1,11 +1,28 @@
+id: GEN3-7278
+location: genesis-3/metagenesis::4-structural-properties-of-f::43-preservation-of-composition::b1
+source: genesis-3\metagenesis.md
+lines: 145-151
+heading: '**4.3 Preservation of Composition**'
+parent_heading: '**4\. Structural Properties of F**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Already shown via: F(δa∘δb)=F(δa+b).F(\\delta^a\\circ\\delta^b)=F(\\delta^{a+b}).F(δa∘δb)=F(δa+b).
   ---'
-heading: '**4.3 Preservation of Composition**'
-id: GEN3-7278
-lines: 145-151
-location: genesis-3/metagenesis::4-structural-properties-of-f::43-preservation-of-composition::b1
-parent_heading: '**4\. Structural Properties of F**'
-source: genesis-3\metagenesis.md
+concepts:
+- δ
+- δa
+- δb
+aliases:
+- Bk302as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

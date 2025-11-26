@@ -1,14 +1,35 @@
+id: GEN6-8377
+location: genesis-6/the-harmonic-spectral-triple::7-meta-einstein-compatibility::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 163-185
+heading: '**7\. Meta-Einstein Compatibility**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- Λ
-- Φ
-- δ
 excerpt: 'The curvature operator Φ satisfies: \[Dδ,δ\]=Φ\[D\_\\delta, \\delta\] \=
   \\Phi\[Dδ​,δ\]=Φ ⇒Rδ=Spec(Φ)\\Rightarrow \\quad R\_\\delta \= \\mathrm{Spec}(\\Phi)⇒Rδ​=Spec(Φ)
   and your **Meta-Einstein equati...'
-heading: '**7\. Meta-Einstein Compatibility**'
-id: GEN6-8377
-lines: 163-185
-location: genesis-6/the-harmonic-spectral-triple::7-meta-einstein-compatibility::b1
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- δ
+- Meta-Einstein
+- δ-geometry
+- Φ
+- Theorem
+- Meta-Einstein equation
+- Λ
+- stress-energy
+- →
+- δR
+aliases:
+- Bk083tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.47457627118644
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

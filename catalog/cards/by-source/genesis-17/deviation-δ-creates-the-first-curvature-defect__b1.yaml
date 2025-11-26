@@ -1,11 +1,28 @@
+id: GEN17-4881
+location: genesis-17/key-points::another-way-to-say-it-igsoa-terms::deviation-δ-creates-the-first-curvature-defect::b1
+source: genesis-17\Key_Points.md
+lines: 139-151
+heading: '**• Deviation (δ) creates the first curvature defect.**'
+parent_heading: '**⭐ Another way to say it (IGSOA terms)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'This defect: * compresses the kinetic potential, * raises local δ-energy
   density,'
-heading: '**• Deviation (δ) creates the first curvature defect.**'
-id: GEN17-4881
-lines: 139-151
-location: genesis-17/key-points::another-way-to-say-it-igsoa-terms::deviation-δ-creates-the-first-curvature-defect::b1
-parent_heading: '**⭐ Another way to say it (IGSOA terms)**'
-source: genesis-17\Key_Points.md
+concepts:
+- OA-driven
+- δ-energy
+- δ
+aliases:
+- Bk570td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

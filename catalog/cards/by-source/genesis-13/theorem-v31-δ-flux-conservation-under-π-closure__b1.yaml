@@ -1,14 +1,38 @@
+id: GEN13-2608
+location: genesis-13/what-biology-is-in-meta-genesis::section-v3-δ-flux-conservation-law::theorem-v31-δ-flux-conservation-under-π-closure::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2154-2172
+heading: '**Theorem V.3.1 (δ-Flux Conservation under Π-Closure).**'
+parent_heading: '**SECTION V.3 — δ-Flux Conservation Law**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- ω
 excerpt: 'For any Π-stable δ-packet AAA: Jδ=ωA+Φdiss,J\_\\delta \= \\omega\_A \+ \\Phi\_{\\text{diss}},Jδ​=ωA​+Φdiss​,
   where:'
-heading: '**Theorem V.3.1 (δ-Flux Conservation under Π-Closure).**'
-id: GEN13-2608
-lines: 2154-2172
-location: genesis-13/what-biology-is-in-meta-genesis::section-v3-δ-flux-conservation-law::theorem-v31-δ-flux-conservation-under-π-closure::b1
-parent_heading: '**SECTION V.3 — δ-Flux Conservation Law**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π-closed δ-packets conserve δ-flux modulo quantized work extraction
+- Φ
+- δ
+- Φdiss
+- ω
+- δ-packet
+- Π
+- ∈
+- ≥
+- δ-packets
+- Π-closed
+- Π-stable
+- δ-flux
+aliases:
+- Bk570fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.883116883116884
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

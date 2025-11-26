@@ -1,11 +1,27 @@
+id: GEN20-7236
+location: genesis-20/mbc-40-documentaitio-1::b43-router-dynamics-modes::4-oscillatory-mode::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7692-7706
+heading: 4\. Oscillatory Mode
+parent_heading: B4.3 Router Dynamics Modes
 block_type: paragraph
+excerpt: 'Repeating polarity patterns occur: Θ(t+2)=Θ(t) Θ'
 concepts:
 - Θ
+- Φ-rules
 - Φ
-excerpt: 'Repeating polarity patterns occur: Θ(t+2)=Θ(t) Θ'
-heading: 4\. Oscillatory Mode
-id: GEN20-7236
-lines: 7692-7706
-location: genesis-20/mbc-40-documentaitio-1::b43-router-dynamics-modes::4-oscillatory-mode::b1
-parent_heading: B4.3 Router Dynamics Modes
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk153rp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

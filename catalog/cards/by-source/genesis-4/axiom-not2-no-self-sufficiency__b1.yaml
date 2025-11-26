@@ -1,11 +1,26 @@
+id: GEN4-7622
+location: genesis-4/meta-physics-axiom-box::i-not-axiom-non-identity-of-the-zero-state::axiom-not2-no-self-sufficiency::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 441-445
+heading: '**Axiom NOT.2 — No Self-Sufficiency**'
+parent_heading: '**I. NOT AXIOM (Non-Identity of the Zero-State)**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: End(Ψ0)={idΨ0}\\mathrm{End}(\\Psi\_0)=\\{\\mathrm{id}\_{\\Psi\_0}\\}End(Ψ0​)={idΨ0​​}
   and this identity is insufficient to stabilize Ψ0\\Psi\_0Ψ0​.
-heading: '**Axiom NOT.2 — No Self-Sufficiency**'
-id: GEN4-7622
-lines: 441-445
-location: genesis-4/meta-physics-axiom-box::i-not-axiom-non-identity-of-the-zero-state::axiom-not2-no-self-sufficiency::b1
-parent_heading: '**I. NOT AXIOM (Non-Identity of the Zero-State)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Ψ
+aliases:
+- Bk238em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Two parallel columns: **Left:** full mathematics. **Right:** intuitive translation.'
-heading: '**B — Dual Chapter: Technical \+ Plain English**'
 id: INTK-10581
-lines: 589-598
 location: intake/volume-i-core-ontology-and-metagenesis-summary::which-expansion-mode-do-you-want::b-dual-chapter-technical-plain-english::b1
-parent_heading: '**Which expansion mode do you want?**'
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 589-598
+heading: '**B — Dual Chapter: Technical \+ Plain English**'
+parent_heading: '**Which expansion mode do you want?**'
+block_type: paragraph
+excerpt: 'Two parallel columns: **Left:** full mathematics. **Right:** intuitive translation.'
+aliases:
+- Bk607tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

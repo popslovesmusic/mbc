@@ -1,13 +1,30 @@
+id: INTK-10529
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::motivation::beyond-fixed-smooth-manifolds::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 2014-2022
+heading: Beyond Fixed, Smooth Manifolds
+parent_heading: Motivation
 block_type: paragraph
-concepts:
-- Meta-Geometry
-- Meta-Math
 excerpt: 'Classical physics relies on the assumption of a smooth, fixed spacetime
   manifold. However, in Meta-Math: - **Spacetime is emergent:** It is a derived concept,
   not the fundamental stage. - **Reality is...'
-heading: Beyond Fixed, Smooth Manifolds
-id: INTK-10529
-lines: 2014-2022
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::motivation::beyond-fixed-smooth-manifolds::b1
-parent_heading: Motivation
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- self-similarity
+- self-generated
+- Meta-Geometry
+- multi-scale
+aliases:
+- Bk563cp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.376344086021505
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

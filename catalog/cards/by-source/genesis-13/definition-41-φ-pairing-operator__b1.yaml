@@ -1,11 +1,27 @@
+id: GEN13-2193
+location: genesis-13/meta-math-nuclear-physics::4-φ-π-superconductivity-and-δ-origin-of-pairing::definition-41-φ-pairing-operator::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2250-2254
+heading: '**Definition 4.1 — Φ-Pairing Operator**'
+parent_heading: '**4\. Φ → Π Superconductivity and δ-Origin of Pairing**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: ΔΦ=⟨c↑c↓⟩Φ.\\Delta\_\\Phi \= \\langle c\_\\uparrow c\_\\downarrow \\rangle\_\\Phi.ΔΦ​=⟨c↑​c↓​⟩Φ​.
   ---
-heading: '**Definition 4.1 — Φ-Pairing Operator**'
-id: GEN13-2193
-lines: 2250-2254
-location: genesis-13/meta-math-nuclear-physics::4-φ-π-superconductivity-and-δ-origin-of-pairing::definition-41-φ-pairing-operator::b1
-parent_heading: '**4\. Φ → Π Superconductivity and δ-Origin of Pairing**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- Δ
+aliases:
+- Bk143dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

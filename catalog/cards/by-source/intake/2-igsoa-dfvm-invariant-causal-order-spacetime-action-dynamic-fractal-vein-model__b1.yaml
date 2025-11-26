@@ -1,27 +1,41 @@
+id: INTK-10669
+location: intake/volume-i-core-ontology-and-metagenesis-summary::framework-status-and-roadmap::core-frameworks-overview::2-igsoa-dfvm-invariant-causal-order-spacetime-action-dynamic-fractal-vein-model::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1626-1633
+heading: 2. IGSOA-DFVM (Invariant Causal-Order Spacetime Action - Dynamic Fractal
+  Vein Model)
+parent_heading: Core Frameworks Overview
 block_type: list
-concepts:
-- Anchored Translation Protocol
-- Cognition Equation
-- Core Thesis
-- Dynamic Fractal Vein Model
-- Informational Ground State
-- Informational-Scalar
-- Key Components
-- Modified Einstein
-- Ontological Asymmetry
-- Quantum Memory Mechanics
-- Scale-Anchored
-- Structural-Energetic
-- Temporal-Spatial
-- Triadic Invariance
-- σ
 excerpt: '*   **Core Thesis:** Reality emerges from an **Informational Ground State
   of Ontological Asymmetry (IGSOA)** governed by invariant causal order. This unfolds
   into a **Dynamic Fractal Vein Model (DFVM)...'
-heading: 2. IGSOA-DFVM (Invariant Causal-Order Spacetime Action - Dynamic Fractal
-  Vein Model)
-id: INTK-10669
-lines: 1626-1633
-location: intake/volume-i-core-ontology-and-metagenesis-summary::framework-status-and-roadmap::core-frameworks-overview::2-igsoa-dfvm-invariant-causal-order-spacetime-action-dynamic-fractal-vein-model::b1
-parent_heading: Core Frameworks Overview
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- State
+- Informational-Scalar
+- Structural-Energetic
+- Temporal-Spatial
+- energy-momentum
+- Anchored Translation Protocol
+- Scale-Anchored
+- Informational Ground State
+- Dynamic Fractal Vein Model
+- Quantum Memory Mechanics
+- σ
+- Ontological Asymmetry
+- Triadic Invariance
+- Cognition Equation
+aliases:
+- Bk296ct
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,11 +1,26 @@
+id: GEN7-8532
+location: genesis-7/the-complete-eft-lagrangian::3-functoriality-conditions::identity-preservation::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1341-1345
+heading: '**Identity Preservation**'
+parent_heading: '**3\. Functoriality Conditions**'
 block_type: paragraph
-concepts:
-- Meta-Math
 excerpt: F(idX)=idF(X).F(\\mathrm{id}\_X)=\\mathrm{id}\_{F(X)}.F(idX​)=idF(X)​. Genesis
   identity corresponds to the identity operator in Meta-Math.
-heading: '**Identity Preservation**'
-id: GEN7-8532
-lines: 1341-1345
-location: genesis-7/the-complete-eft-lagrangian::3-functoriality-conditions::identity-preservation::b1
-parent_heading: '**3\. Functoriality Conditions**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- Meta-Math
+aliases:
+- Bk106ii
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.7037037037037033
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

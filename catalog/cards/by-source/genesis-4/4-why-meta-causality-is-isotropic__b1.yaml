@@ -1,12 +1,27 @@
+id: GEN4-7665
+location: genesis-4/meta-physics-axiom-box::4-why-meta-causality-is-isotropic::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 953-974
+heading: '**4\. Why Meta-Causality is isotropic**'
 block_type: paragraph
-concepts:
-- Causal Sphere
-- δ
 excerpt: 'In spacetime physics, light cones point “outwards” the same way in every
   direction because the speed of light is the same in every direction. In your framework:
   * δ acts **the same** on every “scale l...'
-heading: '**4\. Why Meta-Causality is isotropic**'
-id: GEN4-7665
-lines: 953-974
-location: genesis-4/meta-physics-axiom-box::4-why-meta-causality-is-isotropic::b1
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- δ
+- the same
+- geometric shadow
+- Causal Sphere
+- a sphere
+aliases:
+- Bk411sp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.9504950495049505
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

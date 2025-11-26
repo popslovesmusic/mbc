@@ -1,11 +1,25 @@
+id: INTK-10524
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::physical-implications::3-emergent-coupling-constants::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1990-1991
+heading: 3. Emergent Coupling Constants
+parent_heading: Physical Implications
 block_type: paragraph
-concepts: []
 excerpt: The eigenvalues and representations of $\mathcal{G}_{369}$ can determine
   the values of fundamental coupling constants, reflecting the resonant strengths
   of deviation interactions.
-heading: 3. Emergent Coupling Constants
-id: INTK-10524
-lines: 1990-1991
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::physical-implications::3-emergent-coupling-constants::b2
-parent_heading: Physical Implications
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+aliases:
+- Bk198te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

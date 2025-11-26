@@ -1,10 +1,24 @@
+id: GEN11-1339
+location: genesis-11/the-adjacency-wave-equation::if-you-want-next::e-a-formal-cmb-naturality-axiom-box::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 1197-1201
+heading: '**(e) A *formal “CMB Naturality Axiom Box”***'
+parent_heading: '**If you want next:**'
 block_type: paragraph
-concepts: []
 excerpt: Just tell me which direction you want to expand. ChatGPT can make mistakes.
   Check important i
-heading: '**(e) A *formal “CMB Naturality Axiom Box”***'
-id: GEN11-1339
-lines: 1197-1201
-location: genesis-11/the-adjacency-wave-equation::if-you-want-next::e-a-formal-cmb-naturality-axiom-box::b1
-parent_heading: '**If you want next:**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+aliases:
+- Bk300jt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,24 @@
+id: INTK-9592
+location: intake/abstract-editorial-review::section-1-introduction-the-crisis-as-a-category-error::11-igsoa-interpretation::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 43-50
+heading: '**1.1 — IGSOA interpretation**'
+parent_heading: '**📄 SECTION 1 — Introduction: The Crisis as a Category Error**'
 block_type: list
-concepts:
-- Φ
 excerpt: '* Add a brief phrase specifying the type of “Φ-domain structure.” Something
   like: “…a Φ-domain structure (an adjacency potential, not a geometric tensor).”'
-heading: '**1.1 — IGSOA interpretation**'
-id: INTK-9592
-lines: 43-50
-location: intake/abstract-editorial-review::section-1-introduction-the-crisis-as-a-category-error::11-igsoa-interpretation::b1
-parent_heading: '**📄 SECTION 1 — Introduction: The Crisis as a Category Error**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- Φ-domain
+- Φ
+aliases:
+- Bk928ab
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

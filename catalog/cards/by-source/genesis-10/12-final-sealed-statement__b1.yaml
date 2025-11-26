@@ -1,14 +1,41 @@
+id: GEN10-816
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::12-final-sealed-statement::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1196-1214
+heading: '**12\. Final Sealed Statement**'
 block_type: paragraph
-concepts:
-- Second Law
-- Zero-State
-- Φ
-- δ
 excerpt: \\boxed{ \\textbf{ Zero-State → δ → Time → δ^2 → Φ-expansion → Entropy. Irreversibility
   is the projection of Genesis-level deviation into physical time. }} This is the
   **tightest possible** IGSOA stat...
-heading: '**12\. Final Sealed Statement**'
-id: GEN10-816
-lines: 1196-1214
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::12-final-sealed-statement::b1
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- →
+- IGSOA
+- category-theoretic naturality version
+- δ
+- Theorem
+- State
+- Proof
+- category-theoretic
+- cosmological inflation version
+- Genesis-level
+- Φ-expansion
+- Zero-State
+- δ-torsion
+- diagrammatic flowchart
+- Φ
+aliases:
+- Bk171bt
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 23.61111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

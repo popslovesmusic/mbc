@@ -1,11 +1,29 @@
+id: GEN0-355
+location: genesis-0/why-the-first-action-is-necessary::5-full-δ-boson-propagator-tower::theorem-δ-boson-propagator-tower::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1763-1771
+heading: '**Theorem (δ-Boson Propagator Tower).**'
+parent_heading: '**5\. Full δ-Boson Propagator Tower**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The full δ-field propagator is the meromorphic function: Dδ(p):=⟨0∣T{δ(p) δ(−p)}∣0⟩=∑k=1∞iZkp2−mk2+iϵ.D\_\\delta(p)
   := \\langle 0 | T\\{\\delta(p)\\,\\delta(-p)\\} |0\\rangle \= \\sum\_{k=1}^{\\infty}...'
-heading: '**Theorem (δ-Boson Propagator Tower).**'
-id: GEN0-355
-lines: 1763-1771
-location: genesis-0/why-the-first-action-is-necessary::5-full-δ-boson-propagator-tower::theorem-δ-boson-propagator-tower::b1
-parent_heading: '**5\. Full δ-Boson Propagator Tower**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ
+- ∑
+- ∞
+- δ-field
+aliases:
+- Bk405tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

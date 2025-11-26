@@ -1,11 +1,27 @@
+id: INTK-10124
+location: intake/meta-genesis-physical-interpretation-papers::2-what-deviation-is-not::24-not-a-cause::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 666-669
+heading: '**2.4 Not a cause**'
+parent_heading: '**2\. What Deviation Is Not**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Cause-effect relations require adjacency and ordering. δ creates adjacency
   and ordering.
-heading: '**2.4 Not a cause**'
-id: INTK-10124
-lines: 666-669
-location: intake/meta-genesis-physical-interpretation-papers::2-what-deviation-is-not::24-not-a-cause::b1
-parent_heading: '**2\. What Deviation Is Not**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Cause-effect
+- δ
+aliases:
+- Bk202ce
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

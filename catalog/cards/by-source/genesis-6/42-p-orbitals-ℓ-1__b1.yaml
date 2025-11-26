@@ -1,15 +1,41 @@
+id: GEN6-8215
+location: genesis-6/harmonics-atomic-orbitals::4-explicit-δ-harmonic-shapes-the-orbitals::42-p-orbitals-ℓ-1::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 98-119
+heading: '**4.2 p-Orbitals (ℓ \= 1\)**'
+parent_heading: '**4\. Explicit δ-Harmonic Shapes (the orbitals)**'
 block_type: paragraph
-concepts:
-- Shapes
-- Ω
-- δ
-- λ
 excerpt: 'Angular equation: ΔΩ,δY1m(δ)=−λ1(δ)Y1m(δ)\\Delta\_{\\Omega,\\delta} Y\_{1m}^{(\\delta)}
   \= \-\\lambda\_1^{(\\delta)} Y\_{1m}^{(\\delta)}ΔΩ,δ​Y1m(δ)​=−λ1(δ)​Y1m(δ)​ Explicit
   solutions:'
-heading: '**4.2 p-Orbitals (ℓ \= 1\)**'
-id: GEN6-8215
-lines: 98-119
-location: genesis-6/harmonics-atomic-orbitals::4-explicit-δ-harmonic-shapes-the-orbitals::42-p-orbitals-ℓ-1::b1
-parent_heading: '**4\. Explicit δ-Harmonic Shapes (the orbitals)**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- δ
+- Ω
+- IGSOA
+- θ
+- p-orbital chirality
+- curvature-induced
+- Δ
+- λ
+- δ-dependent
+- p-orbital
+- two-lobe
+- ≠
+- →
+- Shapes
+- δY
+aliases:
+- Bk519ae
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.450381679389313
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

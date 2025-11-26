@@ -1,23 +1,39 @@
-block_type: table
-concepts:
-- All Meta
-- Box
-- Box Calculus Equivalent
-- Edges  Bi
-- Math Concept
-- Meta-Math
-- Operator
-- Operator  Op
-- Semantic Vector
-- Π
-- Σ
-- Φ
-- Ω
-- ρ
-excerpt: 'This tells us: A Meta-Math structure is a graph of Boxes whose Σ encodes
-  the mathematical content. ---'
-heading: ⭐ 1\. META-MATH ONTOLOGY → BOX OBJECTS
 id: GEN17-4356
-lines: 2774-2787
 location: genesis-17/box-calculus::1-meta-math-ontology-box-objects::b1
 source: genesis-17\box_calculus.md
+lines: 2774-2787
+heading: ⭐ 1\. META-MATH ONTOLOGY → BOX OBJECTS
+block_type: table
+excerpt: 'This tells us: A Meta-Math structure is a graph of Boxes whose Σ encodes
+  the mathematical content. ---'
+concepts:
+- Box
+- Meta-Math
+- Box Calculus
+- Σ
+- Operator
+- Π
+- ∈
+- Φ
+- ρ
+- →
+- Higher-order
+- Meta-level
+- Box Calculus Equivalent
+- Ω
+- Semantic Vector
+aliases:
+- Bk720mm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.964285714285715
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

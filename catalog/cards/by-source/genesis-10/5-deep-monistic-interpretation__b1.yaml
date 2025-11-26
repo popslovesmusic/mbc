@@ -1,15 +1,30 @@
-block_type: paragraph
-concepts:
-- conflict
-- history
-- reconciliation
-- Π
-- Φ
-- δ
-excerpt: 'In your monistic language: * Symmetry \= the tendency of being to smooth
-  and unify. * Asymmetry \= the necessity of difference and actuality.'
-heading: '**5\. Deep Monistic Interpretation**'
 id: GEN10-773
-lines: 401-423
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::5-deep-monistic-interpretation::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 401-423
+heading: '**5\. Deep Monistic Interpretation**'
+block_type: paragraph
+excerpt: 'In your monistic language: * Symmetry \= the tendency of being to smooth
+  and unify. * Asymmetry \= the necessity of difference and actuality.'
+concepts:
+- Π
+- δ
+- Φ
+- →
+- Genesis-level
+- smoothing footprint
+aliases:
+- Bk893ym
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

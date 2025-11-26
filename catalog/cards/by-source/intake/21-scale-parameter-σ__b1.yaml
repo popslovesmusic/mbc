@@ -1,12 +1,27 @@
+id: INTK-10245
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-meta-fractal-base-space-f::21-scale-parameter-σ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 348-350
+heading: '**2.1. Scale Parameter (σ)**'
+parent_heading: '**2. The Meta-Fractal Base Space (F)**'
 block_type: paragraph
-concepts:
-- σ
 excerpt: Every point in F is associated with a **scale parameter (σ)**, which measures
   its granularity. This allows F to represent a continuous hierarchy of nested fractal
   structures.
-heading: '**2.1. Scale Parameter (σ)**'
-id: INTK-10245
-lines: 348-350
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-meta-fractal-base-space-f::21-scale-parameter-σ::b1
-parent_heading: '**2. The Meta-Fractal Base Space (F)**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- σ
+aliases:
+- Bk870ep
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.7037037037037033
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

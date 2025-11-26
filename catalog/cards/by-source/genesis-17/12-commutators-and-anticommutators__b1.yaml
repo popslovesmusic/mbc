@@ -1,14 +1,29 @@
+id: GEN17-4318
+location: genesis-17/box-calculus::1-expansion-direction-i-algebraic-generalization::12-commutators-and-anticommutators::b1
+source: genesis-17\box_calculus.md
+lines: 2449-2453
+heading: 1.2. Commutators and Anticommutators
+parent_heading: '1\. Expansion Direction I: Algebraic Generalization'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Φ
-- ρ
 excerpt: \[A,E\],\[A,Φ\],{ρ,R} \[A,E\],\[A,Φ\],{ρ,R} This gives Box Calculus a full
   operator algebra like quantum mechanics or Lie algebras.
-heading: 1.2. Commutators and Anticommutators
-id: GEN17-4318
-lines: 2449-2453
-location: genesis-17/box-calculus::1-expansion-direction-i-algebraic-generalization::12-commutators-and-anticommutators::b1
-parent_heading: '1\. Expansion Direction I: Algebraic Generalization'
-source: genesis-17\box_calculus.md
+concepts:
+- Box Calculus
+- Box
+- Φ
+- ρ
+aliases:
+- Bk004tg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

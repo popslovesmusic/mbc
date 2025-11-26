@@ -1,12 +1,33 @@
+id: GEN16-3769
+location: genesis-16/untitled-document::box-calculus-v02-closing-the-three-gaps::c-the-tick-global-transition-semantics::synchronous-vs-asynchronous::b1
+source: genesis-16\Untitled_document.md
+lines: 403-417
+heading: '**Synchronous vs Asynchronous**'
+parent_heading: '**C) The Tick / Global Transition Semantics**'
 block_type: table
-concepts:
-- Gauss-Seidel
-- Σ
 excerpt: 'Formally: * **Sync:** ∀i: Σi(t+1)=Apply(…Σ(t)…)\\forall i:\\ \\Sigma\_i(t+1)=\\mathrm{Apply}(\\ldots\\Sigma(t)\\ldots)∀i:
   Σi​(t+1)=Apply(…Σ(t)…)'
-heading: '**Synchronous vs Asynchronous**'
-id: GEN16-3769
-lines: 403-417
-location: genesis-16/untitled-document::box-calculus-v02-closing-the-three-gaps::c-the-tick-global-transition-semantics::synchronous-vs-asynchronous::b1
-parent_heading: '**C) The Tick / Global Transition Semantics**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- IGSOA
+- Σi
+- ∈
+- ∀
+- Event-driven
+- Gauss-Seidel
+- ∉
+aliases:
+- Bk261is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.4074074074074066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: (agent architecture using δ-adjacency reasoning)
-heading: '**🔵 The MBC-4.0 Universal Deduction Engine**'
 id: GEN18-5788
-lines: 1831-1833
 location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-produce-one-of-the-following-extensions::the-mbc-40-universal-deduction-engine::b1
-parent_heading: '**If you want, I can now produce one of the following extensions:**'
 source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1831-1833
+heading: '**🔵 The MBC-4.0 Universal Deduction Engine**'
+parent_heading: '**If you want, I can now produce one of the following extensions:**'
+block_type: paragraph
+excerpt: (agent architecture using δ-adjacency reasoning)
+concepts:
+- δ-adjacency
+- δ
+aliases:
+- Bk262aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

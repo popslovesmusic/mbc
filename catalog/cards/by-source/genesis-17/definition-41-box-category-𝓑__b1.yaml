@@ -1,13 +1,31 @@
+id: GEN17-5055
+location: genesis-17/mbc-schema-3::4-the-box-category-𝓑::definition-41-box-category-𝓑::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 648-654
+heading: '**Definition 4.1 (Box Category 𝓑)**'
+parent_heading: '**4\. The Box Category (𝓑)**'
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '* **Objects:** Boxes \= Π(Φ(δ(IGSOA))) * **Morphisms:** Π-adjacencies (causal
   links, spatial relations) Composition is induced by chaining Π-connectors.'
-heading: '**Definition 4.1 (Box Category 𝓑)**'
-id: GEN17-5055
-lines: 648-654
-location: genesis-17/mbc-schema-3::4-the-box-category-𝓑::definition-41-box-category-𝓑::b1
-parent_heading: '**4\. The Box Category (𝓑)**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- IGSOA
+- Π
+- Π-adjacencies
+- Π-connectors
+- δ
+- Φ
+aliases:
+- Bk681ob
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

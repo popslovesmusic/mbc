@@ -1,11 +1,27 @@
+id: GEN3-7305
+location: genesis-3/metagenesis::hermetic-consequences::consequence-h1-operators-cannot-define-genesis::b1
+source: genesis-3\metagenesis.md
+lines: 513-516
+heading: '**Consequence H1: Operators Cannot Define Genesis**'
+parent_heading: '**Hermetic Consequences**'
 block_type: paragraph
-concepts:
-- Meta-Math
 excerpt: Genesis is deviation-generated and operator-free. NOT-axioms enforce that
   Genesis is **not a subtheory of Meta-Math**.
-heading: '**Consequence H1: Operators Cannot Define Genesis**'
-id: GEN3-7305
-lines: 513-516
-location: genesis-3/metagenesis::hermetic-consequences::consequence-h1-operators-cannot-define-genesis::b1
-parent_heading: '**Hermetic Consequences**'
-source: genesis-3\metagenesis.md
+concepts:
+- Meta-Math
+- not a subtheory of Meta-Math
+- deviation-generated
+- operator-free
+- NOT-axioms
+aliases:
+- Bk287gd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 26.31578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

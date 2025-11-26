@@ -1,10 +1,27 @@
+id: GEN18-5323
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-formal-sealed-equations::22-operators-must-be-igsoa-compatible::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2442-2448
+heading: '**2.2 Operators Must Be IGSOA-Compatible**'
+parent_heading: '**2\. Formal Sealed Equations**'
 block_type: paragraph
-concepts: []
 excerpt: 'For every operator OOO: O=φ(IGSOA)O \= \\varphi(\\text{IGSOA})O=φ(IGSOA)
   for some derived projection φ\\varphiφ.'
-heading: '**2.2 Operators Must Be IGSOA-Compatible**'
-id: GEN18-5323
-lines: 2442-2448
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-formal-sealed-equations::22-operators-must-be-igsoa-compatible::b1
-parent_heading: '**2\. Formal Sealed Equations**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- IGSOA
+- φ
+aliases:
+- Bk931fe
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

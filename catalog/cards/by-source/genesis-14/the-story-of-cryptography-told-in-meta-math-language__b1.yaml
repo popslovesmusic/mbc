@@ -1,13 +1,25 @@
+id: GEN14-2810
+location: genesis-14/meta-math-and-cryptography::how-deviation-becomes-secrecy::the-story-of-cryptography-told-in-meta-math-language::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 266-282
+heading: '***The Story of Cryptography Told in Meta-Math Language***'
+parent_heading: '**How Deviation Becomes Secrecy**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- difference
 excerpt: Before a message becomes secret, something subtle must happen. Not a lock.
   Not a cipher. Not a wall of prime numbers. Something more primitive — something
   older than mathematics itself.
-heading: '***The Story of Cryptography Told in Meta-Math Language***'
-id: GEN14-2810
-lines: 266-282
-location: genesis-14/meta-math-and-cryptography::how-deviation-becomes-secrecy::the-story-of-cryptography-told-in-meta-math-language::b1
-parent_heading: '**How Deviation Becomes Secrecy**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Meta-Math
+- difference
+aliases:
+- Bk616bm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.7777777777777777
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

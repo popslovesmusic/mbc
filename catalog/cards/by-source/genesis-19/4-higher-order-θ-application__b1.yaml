@@ -1,13 +1,29 @@
+id: GEN19-5996
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-higher-order-dependent-operators::4-higher-order-θ-application::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1759-1767
+heading: '**4\. Higher-Order Θ-Application**'
+parent_heading: '**III. HIGHER-ORDER / DEPENDENT OPERATORS**'
 block_type: paragraph
-concepts:
-- Θ
-- σ
 excerpt: Θ(F a)=sign⁡ ⁣(∑iwF,i⋅σai+bF)Θ(F\\,a) \= \\operatorname{sign}\\\!\\Big( \\sum\_i
   w\_{F,i}\\cdot \\sigma\_{a\_i} \+ b\_F \\Big)Θ(Fa)=sign(i∑​wF,i​⋅σai​​+bF​) Where
   function F is a Θ-router encoded as m...
-heading: '**4\. Higher-Order Θ-Application**'
-id: GEN19-5996
-lines: 1759-1767
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-higher-order-dependent-operators::4-higher-order-θ-application::b1
-parent_heading: '**III. HIGHER-ORDER / DEPENDENT OPERATORS**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Θ
+- ∑
+- σ
+aliases:
+- Bk922si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

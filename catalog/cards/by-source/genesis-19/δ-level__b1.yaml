@@ -1,10 +1,24 @@
+id: GEN19-6001
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-igsoa-interpretation-of-higher-order-operators::δ-level::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1801-1803
+heading: '**δ-level:**'
+parent_heading: '**V. IGSOA Interpretation of Higher-Order Operators**'
 block_type: paragraph
-concepts: []
 excerpt: Adjacencies and metadata define the domain over which quantifiers and modalities
   range.
-heading: '**δ-level:**'
-id: GEN19-6001
-lines: 1801-1803
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-igsoa-interpretation-of-higher-order-operators::δ-level::b1
-parent_heading: '**V. IGSOA Interpretation of Higher-Order Operators**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+aliases:
+- Bk531aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

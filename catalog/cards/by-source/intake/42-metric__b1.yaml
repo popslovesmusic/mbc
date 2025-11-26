@@ -1,12 +1,27 @@
+id: INTK-9873
+location: intake/meta-genesis-core-papers-foundations::4-why-adjacency-is-foundational::42-metric::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1514-1522
+heading: '**4.2 Metric**'
+parent_heading: '**4\. Why Adjacency Is Foundational**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Deviation differences between adjacent elements define distances: d(a,b)=∥δ(a)−δ(b)∥.d(a,b)
   \= \\|\\delta(a)-\\delta(b)\\|.d(a,b)=∥δ(a)−δ(b)∥. Without adjacency, metric has
   no domain.'
-heading: '**4.2 Metric**'
-id: INTK-9873
-lines: 1514-1522
-location: intake/meta-genesis-core-papers-foundations::4-why-adjacency-is-foundational::42-metric::b1
-parent_heading: '**4\. Why Adjacency Is Foundational**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Deviation
+- δ
+aliases:
+- Bk201dd
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

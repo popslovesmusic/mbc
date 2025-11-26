@@ -1,20 +1,42 @@
+id: GEN10-698
+location: genesis-10/how-stillness-becomes-solid::δ-curvature-invariants-and-the-formation-of-topological-insulators::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 352-371
+heading: '**δ-Curvature Invariants and the Formation of Topological Insulators**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Meta-Genesis
-- Topological Insulator Axiom
-- Tri-Unity
-- Π
-- Π-projections
-- Φ
-- δ
 excerpt: '**Abstract (IGSOA / Meta-Genesis formal style):** We show that topological
   insulators arise naturally within the δ-Geometry framework as phases selected by
   *curvature invariants* of the deviational co...'
-heading: '**δ-Curvature Invariants and the Formation of Topological Insulators**'
-id: GEN10-698
-lines: 352-371
-location: genesis-10/how-stillness-becomes-solid::δ-curvature-invariants-and-the-formation-of-topological-insulators::b1
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- δ
+- necessary curvature-protected phases of the δ-Geometry spectrum
+- Meta-Genesis
+- Tri-Unity
+- Π
+- →
+- IGSOA
+- Axiom
+- Φ
+- δ-curvature
+- δ-Geometry
+- Theorem
+- Proof
+- curvature-protected
+- symmetry-protected
+aliases:
+- Bk114ai
+tags:
+- axiom-box
+- proof
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.875536480686694
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

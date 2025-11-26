@@ -1,10 +1,28 @@
+id: GEN19-6219
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::what-this-strict-v2-json-achieves::1-domain-tensor-index-dti::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2532-2534
+heading: 1\. Domain-Tensor Index (DTI)
+parent_heading: ✅ What this Strict v2 JSON Achieves
 block_type: paragraph
-concepts: []
 excerpt: You can now treat domains as multi-channel semantic indices, just like you
   wanted for higher-level IGSOA operators.
-heading: 1\. Domain-Tensor Index (DTI)
-id: GEN19-6219
-lines: 2532-2534
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::what-this-strict-v2-json-achieves::1-domain-tensor-index-dti::b1
-parent_heading: ✅ What this Strict v2 JSON Achieves
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- IGSOA
+- multi-channel
+- higher-level
+aliases:
+- Bk639yc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

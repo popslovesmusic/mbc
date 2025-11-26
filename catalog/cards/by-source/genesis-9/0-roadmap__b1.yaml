@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Meta-Math
-- Π
-- Φ
-- δ
-excerpt: 'We will prove: 1. δ-curvature produces a **3-fold spectral fiber decomposition**.
-  2. This defines a **χ-fibration** πχ:X→{1,2,3}\\pi\_\\chi : X \\to \\{1,2,3\\}πχ​:X→{1,2,3}.'
-heading: '**0\. Roadmap**'
 id: GEN9-9520
-lines: 1347-1369
 location: genesis-9/strong-force::0-roadmap::b1
 source: genesis-9\strong-force.md
+lines: 1347-1369
+heading: '**0\. Roadmap**'
+block_type: paragraph
+excerpt: 'We will prove: 1. δ-curvature produces a **3-fold spectral fiber decomposition**.
+  2. This defines a **χ-fibration** πχ:X→{1,2,3}\\pi\_\\chi : X \\to \\{1,2,3\\}πχ​:X→{1,2,3}.'
+concepts:
+- χ
+- Meta-Math
+- physical strong-force gauge fields
+- Axiom
+- π
+- δ
+- →
+- strong-force
+- δ-curvature
+- δ-objects
+- Π
+- Φ
+aliases:
+- Bk970wp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.650485436893204
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

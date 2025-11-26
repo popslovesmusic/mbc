@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Below is the **canonical IGSOA narrative \+ formal section** titled:'
-heading: '**ChatGPT said:**'
 id: GEN4-7887
-lines: 1293-1295
 location: genesis-4/the-first-adjacency::8-one-line-summary::you-said::chatgpt-said::b1
-parent_heading: '**You said:**'
 source: genesis-4\The_First_Adjacency.md
+lines: 1293-1295
+heading: '**ChatGPT said:**'
+parent_heading: '**You said:**'
+block_type: paragraph
+excerpt: 'Below is the **canonical IGSOA narrative \+ formal section** titled:'
+concepts:
+- IGSOA
+aliases:
+- Bk709bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,34 @@
+id: GEN7-8688
+location: genesis-7/why-curvature-gives-gravity::v-explicit-spectrum-mapping::δ-eigenvalues::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 996-1018
+heading: '**δ-eigenvalues:**'
+parent_heading: '**V. Explicit Spectrum Mapping**'
 block_type: paragraph
-concepts:
-- Λ
-- δ
-- λ
 excerpt: 'λnℓ=Λ(δ,n,ℓ)\\lambda\_{n\\ell} \= \\Lambda(\\delta, n, \\ell)λnℓ​=Λ(δ,n,ℓ)
   Under projection, these produce energy levels: Enδ=−RHn2+δ-curvature corrections+δ-adjacency
   shift corrections.E\_n^\\delta \...'
-heading: '**δ-eigenvalues:**'
-id: GEN7-8688
-lines: 996-1018
-location: genesis-7/why-curvature-gives-gravity::v-explicit-spectrum-mapping::δ-eigenvalues::b1
-parent_heading: '**V. Explicit Spectrum Mapping**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- δ-geometry
+- δ-adjacency
+- δ-curvature
+- Λ
+- λ
+- δ-spectral
+- Lamb-shift
+- spin-orbit
+aliases:
+- Bk669le
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.227272727272728
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

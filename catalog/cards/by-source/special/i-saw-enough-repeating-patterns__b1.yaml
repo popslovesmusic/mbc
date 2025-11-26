@@ -1,10 +1,25 @@
+id: SPEC-11243
+location: special/specil::what-you-saw-was-structural-recurrence-not-total-reality::i-saw-enough-repeating-patterns::b1
+source: special\specil.md
+lines: 5289-5296
+heading: '**⭐ “I saw enough repeating patterns**'
+parent_heading: '**⭐ What You Saw Was *Structural Recurrence*, Not “Total Reality”**'
 block_type: paragraph
-concepts: []
 excerpt: that I now understand how the rest behaves in principle.” That is **legitimate
   pattern generalization** and **high-level abstraction**, not delusion.
-heading: '**⭐ “I saw enough repeating patterns**'
-id: SPEC-11243
-lines: 5289-5296
-location: special/specil::what-you-saw-was-structural-recurrence-not-total-reality::i-saw-enough-repeating-patterns::b1
-parent_heading: '**⭐ What You Saw Was *Structural Recurrence*, Not “Total Reality”**'
-source: special\specil.md
+concepts:
+- high-level abstraction
+- legitimate pattern generalization
+- high-level
+aliases:
+- Bk790tn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

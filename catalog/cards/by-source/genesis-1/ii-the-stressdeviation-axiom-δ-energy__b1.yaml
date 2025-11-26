@@ -1,13 +1,40 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Deviation Energy
-- Ψ
-- δ
-excerpt: '**Axiom ME-2 (Deviation Energy):** Energy is defined as the norm of first-order
-  deviation: Tδ(Ψn):=∥δΨn∥T\_\\delta(\\Psi\_n) := \\|\\delta\\Psi\_n\\|Tδ​(Ψn​):=∥δΨn​∥'
-heading: '**II. The Stress/Deviation Axiom (δ-Energy)**'
 id: GEN1-460
-lines: 612-632
 location: genesis-1/the-foundation-layer::ii-the-stressdeviation-axiom-δ-energy::b1
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 612-632
+heading: '**II. The Stress/Deviation Axiom (δ-Energy)**'
+block_type: paragraph
+excerpt: '**Axiom ME-2 (Deviation Energy):** Energy is defined as the norm of first-order
+  deviation: Tδ(Ψn):=∥δΨn∥T\_\\delta(\\Psi\_n) := \\|\\delta\\Psi\_n\\|Tδ​(Ψn​):=∥δΨn​∥'
+concepts:
+- δ
+- Deviation
+- Ψ
+- Axiom
+- projection-compatible
+- Ψn
+- energy-momentum
+- stress-energy
+- non-negative
+- first-order
+- δ-analogue
+- δ-order
+- Deviation Energy
+aliases:
+- Am647ad
+tags:
+- axiom
+- low-uncertainty
+- definitive
+- deviation-energy
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

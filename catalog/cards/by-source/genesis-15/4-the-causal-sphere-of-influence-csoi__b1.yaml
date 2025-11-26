@@ -1,13 +1,32 @@
+id: GEN15-3182
+location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-from-perturbations-to-galaxies::4-the-causal-sphere-of-influence-csoi::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1694-1703
+heading: '**4\. The Causal Sphere of Influence (CSOI)**'
+parent_heading: '**Ⅴ. From Perturbations to Galaxies**'
 block_type: paragraph
-concepts:
-- CSOI-lobes
-- δ
 excerpt: 'Your CSOI concept fits naturally: δ-Harmonic modes determine the radius
   of the **causal fractal influence**. Structure grows as **CSOI-lobes** expand and
   intersect.'
-heading: '**4\. The Causal Sphere of Influence (CSOI)**'
-id: GEN15-3182
-lines: 1694-1703
-location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-from-perturbations-to-galaxies::4-the-causal-sphere-of-influence-csoi::b1
-parent_heading: '**Ⅴ. From Perturbations to Galaxies**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- IGSOA
+- large-scale
+- δ-Harmonic
+- CSOI-lobes
+- causal fractal influence
+- δ
+aliases:
+- Bk040yc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

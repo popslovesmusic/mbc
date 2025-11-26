@@ -1,11 +1,23 @@
+id: INTK-10742
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::negative-ontology-and-cosmic-necessity::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1931-1932
+heading: Negative Ontology and Cosmic Necessity
+parent_heading: Glossary
 block_type: paragraph
+excerpt: 'A Metaphysical Foundation (Source: conversation_chunk.txt) [[Read More](concepts/Encyclopedia\Negative_Ontology_and_Cosmic_Necessity.md)]'
 concepts:
 - Metaphysical Foundation
 - Read More
-excerpt: 'A Metaphysical Foundation (Source: conversation_chunk.txt) [[Read More](concepts/Encyclopedia\Negative_Ontology_and_Cosmic_Necessity.md)]'
-heading: Negative Ontology and Cosmic Necessity
-id: INTK-10742
-lines: 1931-1932
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::negative-ontology-and-cosmic-necessity::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+aliases:
+- Bk730mf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

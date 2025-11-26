@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: '**Statement.** The effective dimension of a region U⊂HU\\subset \\mathcal{H}U⊂H
-  is given by dim⁡eff(U)=rank(δ∣U).\\dim\_{\\mathrm{eff}}(U)=\\mathrm{rank}(\\delta|\_U).dimeff​(U)=rank(δ∣U​).'
-heading: '**Theorem 6.2 — Dimensionality Equals Rank(δ).**'
 id: GEN1-588
-lines: 1016-1023
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-62-dimensionality-equals-rankδ::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1016-1023
+heading: '**Theorem 6.2 — Dimensionality Equals Rank(δ).**'
+block_type: paragraph
+excerpt: '**Statement.** The effective dimension of a region U⊂HU\\subset \\mathcal{H}U⊂H
+  is given by dim⁡eff(U)=rank(δ∣U).\\dim\_{\\mathrm{eff}}(U)=\\mathrm{rank}(\\delta|\_U).dimeff​(U)=rank(δ∣U​).'
+concepts:
+- ⊂
+- δ
+aliases:
+- Bk753st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.405405405405405
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

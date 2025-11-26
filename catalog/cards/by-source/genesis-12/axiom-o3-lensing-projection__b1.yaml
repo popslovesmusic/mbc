@@ -1,13 +1,32 @@
+id: GEN12-1638
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-π-observables::axiom-o3-lensing-projection::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1696-1706
+heading: '**Axiom O3 (Lensing Projection).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Π → Observables ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'The CMB lensing potential is the Π-projection of curvature gradients: ϕlens(n^)=Π(∇R)(n^),\\phi\_{\\text{lens}}(\\hat{n})
   \= \\Pi(\\nabla R)(\\hat{n}),ϕlens​(n^)=Π(∇R)(n^), where RRR is the δ-projecte...'
-heading: '**Axiom O3 (Lensing Projection).**'
-id: GEN12-1638
-lines: 1696-1706
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-π-observables::axiom-o3-lensing-projection::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Π → Observables ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- ∇
+- Π-projection
+- δ-projected
+- δ
+- Φ
+- derivative shadow
+aliases:
+- Bk856tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.583333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

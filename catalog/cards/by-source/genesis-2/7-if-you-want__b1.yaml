@@ -1,15 +1,40 @@
-block_type: paragraph
-concepts:
-- Corollary
-- Meta-Genesis
-- Meta-Math
-- Φ
-- δ
-- σ
-excerpt: 'I can now produce: ✅ The **Corollary**: δ-Einstein compatibility via Φ ✅
-  The **topos-theoretic diagram** of the embedding'
-heading: '**7\. If you want:**'
 id: GEN2-6495
-lines: 283-293
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::7-if-you-want::b1
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 283-293
+heading: '**7\. If you want:**'
+block_type: paragraph
+excerpt: 'I can now produce: ✅ The **Corollary**: δ-Einstein compatibility via Φ ✅
+  The **topos-theoretic diagram** of the embedding'
+concepts:
+- Meta-Genesis
+- Meta-Math
+- Corollary
+- full Meta-Genesis axiom appendix
+- proof-checker checklist
+- topos-theoretic diagram
+- Lemma
+- Proof
+- Axiom
+- topos-theoretic
+- proof-checker
+- δ-Einstein
+- δ
+- σ
+- Φ
+aliases:
+- Bk442cn
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 29.09090909090909
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

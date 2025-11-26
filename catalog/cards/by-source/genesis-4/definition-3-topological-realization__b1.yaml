@@ -1,13 +1,32 @@
+id: GEN4-7842
+location: genesis-4/the-first-adjacency::2-definitions::definition-3-topological-realization::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 542-548
+heading: '**Definition 3 — Topological Realization**'
+parent_heading: '**2\. Definitions**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'A topology T\\mathcal{T}T is **induced by adjacency** if: U⊆A is open   ⟺  ∀Ψn∈U,
   Nδ(Ψn)⊆U.U \\subseteq \\mathcal{A} \\text{ is open } \\iff \\forall \\Psi\_n \\in
   U,\\ N\_\\delta(\\Psi\_n) \\subseteq...'
-heading: '**Definition 3 — Topological Realization**'
-id: GEN4-7842
-lines: 542-548
-location: genesis-4/the-first-adjacency::2-definitions::definition-3-topological-realization::b1
-parent_heading: '**2\. Definitions**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Ψ
+- Ψn
+- ∀
+- δ
+- ∈
+- induced by adjacency
+aliases:
+- Bk298tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

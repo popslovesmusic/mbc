@@ -1,12 +1,31 @@
+id: GEN5-8082
+location: genesis-5/meta-einstein-axiom-box-language-sealed::φmeta-einstein-axiom-box-φ-language-sealed::axiom-φ0-action-primacy::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 9-18
+heading: '**Axiom Φ0 (Action Primacy)**'
+parent_heading: '**Φ–Meta-Einstein Axiom Box (Φ-language, sealed)**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: There exists a distinguished endofunctor / operator Φ:  G→G\\Phi:\\;\\mathcal{G}\\to\\mathcal{G}Φ:G→G
   on the Genesis/Geometry carrier category G\\mathcal GG such that **all realized
   geometric structur...
-heading: '**Axiom Φ0 (Action Primacy)**'
-id: GEN5-8082
-lines: 9-18
-location: genesis-5/meta-einstein-axiom-box-language-sealed::φmeta-einstein-axiom-box-φ-language-sealed::axiom-φ0-action-primacy::b1
-parent_heading: '**Φ–Meta-Einstein Axiom Box (Φ-language, sealed)**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- all realized geometric structure is Φ-generated
+- Φ
+- →
+- Φ-generated
+- Φ-fixed
+- Φ-image
+aliases:
+- Bk022te
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.244897959183673
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,13 +1,33 @@
+id: GEN12-1923
+location: genesis-12/untitled-document::part-iv-star-formation-and-quenching::42-quenching::b1
+source: genesis-12\Untitled_document.md
+lines: 2995-3005
+heading: '**4.2 (Quenching)**'
+parent_heading: '**Part IV — Star-Formation and Quenching**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'When δ-mode drift moves a galaxy into a regime where: ∇2Cδ→0⇒Π→low-luminosity
   state,\\nabla^2 C\_\\delta \\to 0 \\quad\\Rightarrow\\quad \\Pi \\to \\text{low-luminosity
   state},∇2Cδ​→0⇒Π→low-luminosity...'
-heading: '**4.2 (Quenching)**'
-id: GEN12-1923
-lines: 2995-3005
-location: genesis-12/untitled-document::part-iv-star-formation-and-quenching::42-quenching::b1
-parent_heading: '**Part IV — Star-Formation and Quenching**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- →
+- low-luminosity
+- Π
+- ∇
+- δ-gradient
+- δ-mode
+aliases:
+- Bk841wm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

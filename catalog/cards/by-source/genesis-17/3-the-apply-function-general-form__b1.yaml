@@ -1,15 +1,36 @@
+id: GEN17-4165
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::3-the-apply-function-general-form::b1
+source: genesis-17\box_calculus.md
+lines: 205-252
+heading: 3\. The Apply Function (General Form)
+parent_heading: Formal Transition Function for Box Calculus
 block_type: table
-concepts:
-- Box
-- Box Calculus
-- Standard Formalism
-- Θ
-- Σ
 excerpt: 'Context extractor θ (shared across all ops): θ:A→Θ,θ(Adj)=(ΣˉN,wˉN,mˉN,κ)
   θ:A→Θ,θ(Adj)=('
-heading: 3\. The Apply Function (General Form)
-id: GEN17-4165
-lines: 205-252
-location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::3-the-apply-function-general-form::b1
-parent_heading: Formal Transition Function for Box Calculus
-source: genesis-17\box_calculus.md
+concepts:
+- Σ
+- θ
+- Box Calculus
+- IGSOA
+- κ
+- adjacency-conditioned
+- Box
+- context-extractor
+- Θ
+- →
+- Standard Formalism
+aliases:
+- Bk041ib
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.59375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

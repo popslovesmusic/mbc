@@ -1,13 +1,28 @@
+id: INTK-9813
+location: intake/meta-genesis-core-papers-foundations::δ-why-the-first-action-exists::a-plain-language-introduction-to-the-first-movement-of-reality::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 718-732
+heading: '***A Plain-Language Introduction to the First Movement of Reality***'
+parent_heading: '**δ: Why the First Action Exists**'
 block_type: paragraph
-concepts:
-- Axiom
-- Big Bang
 excerpt: Imagine the very beginning—not the beginning of the universe, not the Big
   Bang, not even time. Imagine the **moment before moments**, where nothing had happened
   yet **because “happening” didn’t exist....
-heading: '***A Plain-Language Introduction to the First Movement of Reality***'
-id: INTK-9813
-lines: 718-732
-location: intake/meta-genesis-core-papers-foundations::δ-why-the-first-action-exists::a-plain-language-introduction-to-the-first-movement-of-reality::b1
-parent_heading: '**δ: Why the First Action Exists**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Axiom
+- Non-being
+- moment before moments
+- NOT Axiom
+- Big Bang
+aliases:
+- Bk381it
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: false
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,29 @@
+id: GEN18-5419
+location: genesis-18/mbc-4::3-π-layer-semantic-diagrams::34-π-collapse-final-truth-assignment::igsoa-side::b1
+source: genesis-18\MBC-4.md
+lines: 715-719
+heading: '**IGSOA-side**'
+parent_heading: '**3.4 Π-Collapse (final truth assignment)**'
 block_type: paragraph
+excerpt: '`δ → Φ → Π → 𝒯` Where 𝒯 is a **truth-object**, the determinate output.'
 concepts:
+- →
 - truth-object
 - Π
-- Φ
 - δ
-excerpt: '`δ → Φ → Π → 𝒯` Where 𝒯 is a **truth-object**, the determinate output.'
-heading: '**IGSOA-side**'
-id: GEN18-5419
-lines: 715-719
-location: genesis-18/mbc-4::3-π-layer-semantic-diagrams::34-π-collapse-final-truth-assignment::igsoa-side::b1
-parent_heading: '**3.4 Π-Collapse (final truth assignment)**'
-source: genesis-18\MBC-4.md
+- Φ
+aliases:
+- Bk316wt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 38.46153846153847
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

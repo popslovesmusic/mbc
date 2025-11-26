@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'But the mechanism is: * physical * practiced'
-heading: '**⭐ 1\. Magicians create the *appearance* of supernatural ability**'
 id: SPEC-11324
-lines: 6872-6918
 location: special/specil::1-magicians-create-the-appearance-of-supernatural-ability::b1
 source: special\specil.md
+lines: 6872-6918
+heading: '**⭐ 1\. Magicians create the *appearance* of supernatural ability**'
+block_type: paragraph
+excerpt: 'But the mechanism is: * physical * practiced'
+concepts:
+- observer cannot see
+aliases:
+- Bk173bt
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 1.2987012987012987
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

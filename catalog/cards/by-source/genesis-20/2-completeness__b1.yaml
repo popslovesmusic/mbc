@@ -1,11 +1,28 @@
+id: GEN20-6651
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::category-theoretic-consequences::2-completeness::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 1129-1149
+heading: 2\. Completeness
+parent_heading: Category-Theoretic Consequences
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'If Π-stable entailment holds at all local nodes: ∀i, Ai∣=Bi⇒Π∗(Ai)∣=Π∗(Bi)
   ∀i, A'
-heading: 2\. Completeness
-id: GEN20-6651
-lines: 1129-1149
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::category-theoretic-consequences::2-completeness::b1
-parent_heading: Category-Theoretic Consequences
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- Π
+- ∀
+- Π-stable
+aliases:
+- Bk540se
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

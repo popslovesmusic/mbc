@@ -1,13 +1,30 @@
-block_type: paragraph
-concepts:
-- Box
-- In Box Calculus
-- Σ
-- δ
-excerpt: 'x:\!A⊢B x:\!A⊢B In Box Calculus:'
-heading: ⭐ 4.2 Weakening
 id: GEN17-4546
-lines: 6308-6317
 location: genesis-17/box-calculus::4-δ-curvature-as-the-modality::42-weakening::b1
-parent_heading: ⭐ 4\. δ-curvature AS THE \!-MODALITY
 source: genesis-17\box_calculus.md
+lines: 6308-6317
+heading: ⭐ 4.2 Weakening
+parent_heading: ⭐ 4\. δ-curvature AS THE \!-MODALITY
+block_type: paragraph
+excerpt: 'x:\!A⊢B x:\!A⊢B In Box Calculus:'
+concepts:
+- Box Calculus
+- Σ
+- Box
+- δ
+- →
+- In Box Calculus
+aliases:
+- Bk625bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

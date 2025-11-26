@@ -1,12 +1,30 @@
+id: INTK-10171
+location: intake/meta-genesis-meta-math-integration-papers::2-deviational-boundary-conditions::21-deviational-gradient-requirement::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 51-53
+heading: '**2.1 Deviational Gradient Requirement**'
+parent_heading: '**2\. Deviational Boundary Conditions**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: ∇δΨ≠0⟹OΨ well-defined.\\nabla\_\\delta \\Psi \\neq 0 \\quad \\Longrightarrow
   \\quad \\mathcal{O}\\Psi\\ \\text{well-defined}.∇δ​Ψ=0⟹OΨ well-defined.
-heading: '**2.1 Deviational Gradient Requirement**'
-id: INTK-10171
-lines: 51-53
-location: intake/meta-genesis-meta-math-integration-papers::2-deviational-boundary-conditions::21-deviational-gradient-requirement::b1
-parent_heading: '**2\. Deviational Boundary Conditions**'
-source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+concepts:
+- Ψ
+- well-defined
+- δ
+- ∇
+- ≠
+aliases:
+- Bk806wd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.230769230769234
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

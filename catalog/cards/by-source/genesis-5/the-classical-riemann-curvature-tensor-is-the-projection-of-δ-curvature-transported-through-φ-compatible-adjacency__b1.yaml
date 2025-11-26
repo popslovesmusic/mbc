@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
+id: GEN5-8071
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-δ-riemann-projection-theorem-sealed-version::the-classical-riemann-curvature-tensor-is-the-projection-of-δ-curvature-transported-through-φ-compatible-adjacency::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 2003-2005
 heading: '***The classical Riemann curvature tensor is the projection of δ-curvature
   transported through Φ-compatible adjacency.***'
-id: GEN5-8071
-lines: 2003-2005
-location: genesis-5/formal-proof-of-the-adjoint-triple::the-δ-riemann-projection-theorem-sealed-version::the-classical-riemann-curvature-tensor-is-the-projection-of-δ-curvature-transported-through-φ-compatible-adjacency::b1
 parent_heading: '**▢ The δ → Riemann Projection Theorem (Sealed Version)**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

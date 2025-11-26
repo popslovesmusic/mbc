@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-- λ
-excerpt: 'The curvature operator is: KW=Dδ2.\\mathcal{K}\_W \= D\_\\delta^2.KW​=Dδ2​.
-  Under δ-evolution, the spectrum evolves as:'
-heading: '**3\. δ²-Curvature Forces Spectral Multiplicity Growth**'
 id: GEN10-911
-lines: 2720-2741
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-δ²-curvature-forces-spectral-multiplicity-growth::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2720-2741
+heading: '**3\. δ²-Curvature Forces Spectral Multiplicity Growth**'
+block_type: paragraph
+excerpt: 'The curvature operator is: KW=Dδ2.\\mathcal{K}\_W \= D\_\\delta^2.KW​=Dδ2​.
+  Under δ-evolution, the spectrum evolves as:'
+concepts:
+- ψ
+- λ
+- κ
+- δ
+- Δ
+- ≥
+- δ-evolution
+aliases:
+- Bk402tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

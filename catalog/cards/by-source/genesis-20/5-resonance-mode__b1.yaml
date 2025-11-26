@@ -1,10 +1,26 @@
+id: GEN20-7237
+location: genesis-20/mbc-40-documentaitio-1::b43-router-dynamics-modes::5-resonance-mode::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7708-7720
+heading: 5\. Resonance Mode
+parent_heading: B4.3 Router Dynamics Modes
 block_type: paragraph
+excerpt: 'A semantic attractor forms: Θ(t)→Θres∗ Θ'
 concepts:
 - Θ
-excerpt: 'A semantic attractor forms: Θ(t)→Θres∗ Θ'
-heading: 5\. Resonance Mode
-id: GEN20-7237
-lines: 7708-7720
-location: genesis-20/mbc-40-documentaitio-1::b43-router-dynamics-modes::5-resonance-mode::b1
-parent_heading: B4.3 Router Dynamics Modes
-source: genesis-20\MBC_40_Documentaitio-1.md
+- →
+aliases:
+- Bk225sa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.451612903225806
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

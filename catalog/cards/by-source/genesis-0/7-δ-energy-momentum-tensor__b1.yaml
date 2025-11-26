@@ -1,11 +1,30 @@
+id: GEN0-046
+location: genesis-0/feynman-rules-interaction-vertices::7-δ-energy-momentum-tensor::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 593-605
+heading: '**7\. δ-Energy-Momentum Tensor**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Variation of the δ-Lagrangian: Sδ=∫d4x∣g∣ \[12 gab∇a(δ)δ∇b(δ)δ−V(δ)+…\]S\_\\delta
   \= \\int d^4x\\sqrt{|g|}\\, \\left\[ \\frac12\\,g^{ab}\\nabla^{(\\delta)}\_a\\delta\\nabla^{(\\delta)}\_b\\delta
   \- V(...'
-heading: '**7\. δ-Energy-Momentum Tensor**'
-id: GEN0-046
-lines: 593-605
-location: genesis-0/feynman-rules-interaction-vertices::7-δ-energy-momentum-tensor::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- ∇
+- ∫
+- δ-Lagrangian
+- fundamental energy budget
+aliases:
+- Bk654vt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.132231404958678
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

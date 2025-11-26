@@ -1,11 +1,26 @@
+id: GEN19-5915
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-worked-example-3-node-δ-adjacency-graph::metadata-weights::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 524-542
+heading: '**Metadata → weights:**'
+parent_heading: '**V. Worked Example — 3-Node δ-Adjacency Graph**'
 block_type: paragraph
-concepts:
-- α
 excerpt: 'Assume: * m1=(1)m\_1=(1)m1​=(1), m2=(0)m\_2=(0)m2​=(0), m3=(2)m\_3=(2)m3​=(2)
   * α=(1)\\alpha \= (1)α=(1)'
-heading: '**Metadata → weights:**'
-id: GEN19-5915
-lines: 524-542
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-worked-example-3-node-δ-adjacency-graph::metadata-weights::b1
-parent_heading: '**V. Worked Example — 3-Node δ-Adjacency Graph**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- α
+aliases:
+- Bk353aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.0309278350515463
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which direction do you want?
-heading: '✔ The reverse mapping: Box Calculus → Meta-Math'
 id: GEN17-4376
-lines: 3028-3030
 location: genesis-17/box-calculus::if-you-want-next::the-reverse-mapping-box-calculus-meta-math::b1
-parent_heading: 'If you want next:'
 source: genesis-17\box_calculus.md
+lines: 3028-3030
+heading: '✔ The reverse mapping: Box Calculus → Meta-Math'
+parent_heading: 'If you want next:'
+block_type: paragraph
+excerpt: Which direction do you want?
+aliases:
+- Bk210wd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

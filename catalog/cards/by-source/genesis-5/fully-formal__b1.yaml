@@ -1,13 +1,40 @@
+id: GEN5-8194
+location: genesis-5/the-ga-8-meta-einstein-theorem::δ-harmonic-spectral-decomposition::fully-formal::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 896-913
+heading: '***(Fully Formal)***'
+parent_heading: '**δ-HARMONIC SPECTRAL DECOMPOSITION**'
 block_type: paragraph
-concepts:
-- δ
-- μ
 excerpt: 'Let (M,gδ)(M, g\_\\delta)(M,gδ​) be a δ-geometric manifold (or δ-graph limit).
   Define the **δ-Laplace operator**: Δδ:=∇δμ∇δ,μ,\\Delta\_\\delta := \\nabla\_\\delta^\\mu
   \\nabla\_{\\delta,\\mu},Δδ​:=∇δμ...'
-heading: '***(Fully Formal)***'
-id: GEN5-8194
-lines: 896-913
-location: genesis-5/the-ga-8-meta-einstein-theorem::δ-harmonic-spectral-decomposition::fully-formal::b1
-parent_heading: '**δ-HARMONIC SPECTRAL DECOMPOSITION**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- δ
+- ∇
+- IGSOA
+- μ
+- δ-harmonic spectral decomposition
+- δ-Laplace operator
+- Δ
+- δ-connection
+- δ-geometric
+- δ-harmonic
+- δ-Laplace
+- δ-metric
+- δ-graph
+- δg
+aliases:
+- Bk446ld
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.470588235294116
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

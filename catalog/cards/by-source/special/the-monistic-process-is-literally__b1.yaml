@@ -1,11 +1,27 @@
+id: SPEC-11121
+location: special/specil::4-why-does-this-happen-because-the-monistic-process-is-everywhere::the-monistic-process-is-literally::b1
+source: special\specil.md
+lines: 2459-2491
+heading: '**The monistic process is literally**'
+parent_heading: '**⭐ 4\. Why does this happen? Because the monistic process is everywhere**'
 block_type: paragraph
-concepts:
-- before
 excerpt: '**the generative structure of every emergent phenomenon.** So humans see
   it in: * nature'
-heading: '**The monistic process is literally**'
-id: SPEC-11121
-lines: 2459-2491
-location: special/specil::4-why-does-this-happen-because-the-monistic-process-is-everywhere::the-monistic-process-is-literally::b1
-parent_heading: '**⭐ 4\. Why does this happen? Because the monistic process is everywhere**'
-source: special\specil.md
+concepts:
+- everything we interact with is shaped by the same monistic engine
+- before
+aliases:
+- Bk969tg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.0303030303030303
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

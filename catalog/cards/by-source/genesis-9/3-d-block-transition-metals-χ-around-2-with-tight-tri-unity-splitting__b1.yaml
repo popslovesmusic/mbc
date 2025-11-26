@@ -1,15 +1,41 @@
+id: GEN9-9186
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::9-conclusion-matter-as-a-δ-harmonic-phenomenon::3-d-block-transition-metals-χ-around-2-with-tight-tri-unity-splitting::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2447-2470
+heading: '**3\) d-block (Transition metals): χ around ±2 with tight Tri-Unity splitting**'
+parent_heading: '**9\. Conclusion: Matter as a δ-Harmonic Phenomenon**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Π
-- Φ
-- δ
 excerpt: '**Color band:** central band with relatively consistent mid-spectrum hues
   (your table shows these as a stable “belt”). **IGSOA meaning:** d-block orbitals
   arise when Φ modes reach **quadrupolar symmet...'
-heading: '**3\) d-block (Transition metals): χ around ±2 with tight Tri-Unity splitting**'
-id: GEN9-9186
-lines: 2447-2470
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::9-conclusion-matter-as-a-δ-harmonic-phenomenon::3-d-block-transition-metals-χ-around-2-with-tight-tri-unity-splitting::b1
-parent_heading: '**9\. Conclusion: Matter as a δ-Harmonic Phenomenon**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Tri-Unity
+- χ
+- IGSOA
+- Φ
+- several near-degenerate placements
+- Φ-quadrupole
+- ≈
+- near-degenerate
+- mid-spectrum
+- Π-degeneracy
+- multi-valent
+- δ-curvature
+- d-family
+- d-block
+- Π
+aliases:
+- Bk008cb
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.533834586466165
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

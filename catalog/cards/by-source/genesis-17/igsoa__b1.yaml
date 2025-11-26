@@ -1,14 +1,30 @@
+id: GEN17-4950
+location: genesis-17/key-points::algorithmic-correspondence::igsoa::b1
+source: genesis-17\Key_Points.md
+lines: 1049-1057
+heading: '**IGSOA:**'
+parent_heading: '**🌗 Algorithmic Correspondence**'
 block_type: list
+excerpt: 1. δ identifies distinguishable Boxes 2. Φ assigns curvature shape to each
+  Box 3. Π links Boxes with dependency relations
 concepts:
 - Box
 - Π
-- Φ
+- Π-links
 - δ
-excerpt: 1. δ identifies distinguishable Boxes 2. Φ assigns curvature shape to each
-  Box 3. Π links Boxes with dependency relations
-heading: '**IGSOA:**'
-id: GEN17-4950
-lines: 1049-1057
-location: genesis-17/key-points::algorithmic-correspondence::igsoa::b1
-parent_heading: '**🌗 Algorithmic Correspondence**'
-source: genesis-17\Key_Points.md
+- Φ
+aliases:
+- Bk976id
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.51851851851852
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

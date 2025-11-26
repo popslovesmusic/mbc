@@ -1,10 +1,26 @@
+id: GEN5-8173
+location: genesis-5/the-ga-8-meta-einstein-theorem::5-verification-of-metric-axioms::iii-symmetry::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 565-571
+heading: '**(iii) Symmetry**'
+parent_heading: '**5\. Verification of Metric Axioms**'
 block_type: paragraph
-concepts: []
 excerpt: 'If adjacency is symmetric (IGSOA default), every path (x0,…,xn)(x\_0,\\dots,x\_n)(x0​,…,xn​)
   has reverse path (xn,…,x0)(x\_n,\\dots,x\_0)(xn​,…,x0​). Thus:'
-heading: '**(iii) Symmetry**'
-id: GEN5-8173
-lines: 565-571
-location: genesis-5/the-ga-8-meta-einstein-theorem::5-verification-of-metric-axioms::iii-symmetry::b1
-parent_heading: '**5\. Verification of Metric Axioms**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- IGSOA
+aliases:
+- Bk257as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.083333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

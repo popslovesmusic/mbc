@@ -1,15 +1,32 @@
+id: GEN9-9051
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-what-igsoa-says::igsoa1-the-δ-harmonic-spectrum::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 365-371
+heading: '**(IGSOA1) The δ-Harmonic Spectrum**'
+parent_heading: '**2\. What IGSOA Says**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- δ
-- δ-operator
-- λ
 excerpt: 'Orbitals come from the triadic eigenstructure of the **δ-operator**, not
   from a potential: δψn,k=λn,kψn,k,k=1,2,3.\\delta\\psi\_{n,k} \= \\lambda\_{n,k}\\psi\_{n,k},
   \\qquad k=1,2,3.δψn,k​=λn,k​ψn,k​,...'
-heading: '**(IGSOA1) The δ-Harmonic Spectrum**'
-id: GEN9-9051
-lines: 365-371
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-what-igsoa-says::igsoa1-the-δ-harmonic-spectrum::b1
-parent_heading: '**2\. What IGSOA Says**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Tri-Unity
+- ψ
+- δ
+- Tri-Unity structure
+- λ
+- δ-operator
+- k-modes
+aliases:
+- Bk474oc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.45945945945946
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Meta-Math
-- mathematical
-- pre-mathematical
-- Ψ
-excerpt: 'Meta-Math cannot operate on Ψ₀. It begins on Ψ₁. Thus:'
-heading: '**6\. Relationship to Meta-Math**'
 id: INTK-9785
-lines: 405-418
 location: intake/meta-genesis-core-papers-foundations::6-relationship-to-meta-math::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 405-418
+heading: '**6\. Relationship to Meta-Math**'
+block_type: paragraph
+excerpt: 'Meta-Math cannot operate on Ψ₀. It begins on Ψ₁. Thus:'
+concepts:
+- Meta-Math
+- Ψ
+- pre-mathematical
+- post-emergent
+- mathematical
+- Ψ₀
+- Ψ₁
+aliases:
+- Bk670mm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.58064516129032
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: Φ-energy becomes physical energy.
-heading: '**3\. Matter / Energy Mapping**'
 id: GEN2-6373
-lines: 981-983
 location: genesis-2/axioms-of-geometry-topos-compatible::3-matter-energy-mapping::b1
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 981-983
+heading: '**3\. Matter / Energy Mapping**'
+block_type: paragraph
+excerpt: Φ-energy becomes physical energy.
+concepts:
+- Φ-energy
+- Φ
+aliases:
+- Bk136eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

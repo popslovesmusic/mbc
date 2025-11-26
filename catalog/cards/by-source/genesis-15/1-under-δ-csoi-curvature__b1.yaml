@@ -1,15 +1,35 @@
+id: GEN15-3295
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-explicit-equivalence-lens-equation::1-under-δ-csoi-curvature::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 566-582
+heading: '**1\. Under δ-CSOI curvature**'
+parent_heading: '**III. Explicit Equivalence: Lens Equation**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- α
-- δ
 excerpt: 'Because CSOI introduces a nonlocal adjacency domain: δCSOI(r)≈Ar+εadj.\\delta\_{\\mathrm{CSOI}}(r)
   \\approx \\frac{A}{r} \+ \\varepsilon\_{\\text{adj}}.δCSOI​(r)≈rA​+εadj​. Φ integrates
   this into:'
-heading: '**1\. Under δ-CSOI curvature**'
-id: GEN15-3295
-lines: 566-582
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-explicit-equivalence-lens-equation::1-under-δ-csoi-curvature::b1
-parent_heading: '**III. Explicit Equivalence: Lens Equation**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- Φ
+- ΦCSOI
+- ≈
+- ε
+- δ
+- ∇
+- α
+- Π
+- δCSOI
+aliases:
+- Bk412bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

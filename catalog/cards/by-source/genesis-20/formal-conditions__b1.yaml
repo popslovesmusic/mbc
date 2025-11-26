@@ -1,13 +1,32 @@
+id: GEN20-7111
+location: genesis-20/mbc-40-documentaitio-1::a22-the-δ-φ-π-pipeline-formal-transformation::formal-conditions::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5655-5672
+heading: Formal Conditions
+parent_heading: A2.2 The δ → Φ → Π Pipeline (Formal Transformation)
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 1. Φ-admissibility condition Φ exists iff δ satisfies boundary constraints
   ∂B Φ exists iff δ satisfies boundary constraints ∂B
-heading: Formal Conditions
-id: GEN20-7111
-lines: 5655-5672
-location: genesis-20/mbc-40-documentaitio-1::a22-the-δ-φ-π-pipeline-formal-transformation::formal-conditions::b1
-parent_heading: A2.2 The δ → Φ → Π Pipeline (Formal Transformation)
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Φ
+- Π
+- δ
+- ∂
+- Φ-state
+- Π-admissibility
+- Φ-admissibility
+aliases:
+- Bk537ac
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.068965517241379
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: please do
-heading: 'You said:'
 id: GEN19-6205
-lines: 2366-2368
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-now-move-to-the-next-level::option-e-lets-feed-the-entire-text-into-a-deeper-semantic-extractor::you-said::b2
-parent_heading: Option E — Let’s feed the entire text into a deeper semantic extractor
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2366-2368
+heading: 'You said:'
+parent_heading: Option E — Let’s feed the entire text into a deeper semantic extractor
+block_type: paragraph
+excerpt: please do
+aliases:
+- Bk314pl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

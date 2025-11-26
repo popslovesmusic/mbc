@@ -1,13 +1,28 @@
+id: INTK-10068
+location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::4-collapse-of-the-unmade-the-birth-of-deviation::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 846-871
+heading: '**4\. Collapse of the Unmade: The Birth of Deviation**'
+parent_heading: '**THE UNMADE UNIVERSE**'
 block_type: paragraph
+excerpt: The Unmade Universe collapses instantly, not in time, but in logical necessity.
 concepts:
-- The Unmade Universe
-- make-able
 - Ψ
 - δ
-excerpt: The Unmade Universe collapses instantly, not in time, but in logical necessity.
-heading: '**4\. Collapse of the Unmade: The Birth of Deviation**'
-id: INTK-10068
-lines: 846-871
-location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::4-collapse-of-the-unmade-the-birth-of-deviation::b1
-parent_heading: '**THE UNMADE UNIVERSE**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+- resolution of the contradiction
+- The Unmade Universe
+- make-able
+aliases:
+- Bk500tu
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

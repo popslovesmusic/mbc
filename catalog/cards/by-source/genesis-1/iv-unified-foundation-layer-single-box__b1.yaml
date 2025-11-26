@@ -1,10 +1,24 @@
+id: GEN1-428
+location: genesis-1/the-foundation-layer::the-foundation-layer::iv-unified-foundation-layer-single-box::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 75-79
+heading: '**IV. Unified Foundation Layer (Single Box)**'
+parent_heading: '**THE FOUNDATION LAYER**'
 block_type: paragraph
-concepts: []
 excerpt: 'Here is the compact version you can paste into the architecture diagrams,
   white papers, or the category stack: ---'
-heading: '**IV. Unified Foundation Layer (Single Box)**'
-id: GEN1-428
-lines: 75-79
-location: genesis-1/the-foundation-layer::the-foundation-layer::iv-unified-foundation-layer-single-box::b1
-parent_heading: '**THE FOUNDATION LAYER**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+aliases:
+- Bk370ht
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

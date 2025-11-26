@@ -1,11 +1,30 @@
+id: GEN0-336
+location: genesis-0/why-the-first-action-is-necessary::4-δ-and-adjacencycurvature-a-h-e-f-operators::fractal-symmetry-f::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1492-1508
+heading: '**Fractal Symmetry F:**'
+parent_heading: '**4\. δ and Adjacency/Curvature (A, H, E, F Operators)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: '\[F,δ\]=sk δ\[F, \\delta\] \= s\_k \\, \\delta\[F,δ\]=sk​δ where sks\_ksk​
   selects the sector (3, 6, 9). This generates the **3–6–9 selection rules**:'
-heading: '**Fractal Symmetry F:**'
-id: GEN0-336
-lines: 1492-1508
-location: genesis-0/why-the-first-action-is-necessary::4-δ-and-adjacencycurvature-a-h-e-f-operators::fractal-symmetry-f::b1
-parent_heading: '**4\. δ and Adjacency/Curvature (A, H, E, F Operators)**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ
+- fundamental resonant operators
+- δ⁹
+- δ⁶
+- δ³
+aliases:
+- Bk843dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.928571428571429
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

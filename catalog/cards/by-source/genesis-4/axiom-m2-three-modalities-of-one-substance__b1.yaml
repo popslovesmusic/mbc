@@ -1,17 +1,37 @@
+id: GEN4-7782
+location: genesis-4/the-adjoint-triple::the-monism-axiom-box-igsoa-foundation-layer::axiom-m2-three-modalities-of-one-substance::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1047-1062
+heading: '**Axiom M2 — Three Modalities of One Substance**'
+parent_heading: '**✦ THE MONISM AXIOM BOX (IGSOA Foundation Layer)**'
 block_type: paragraph
+excerpt: 'Deviation manifests in **three**, and only three, structural modalities:
+  1. **Meta-Genesis**: Pure potential, pre-structural adjacency, non-metric, operator-free.'
 concepts:
 - Meta-Einstein
 - Meta-Genesis
+- δ-geometry
 - Meta-Math
-- Physics
+- Deviation
 - three
+- pre-structural
+- operator-free
+- non-metric
+- not separate ontologies
 - δ
 - σ
-excerpt: 'Deviation manifests in **three**, and only three, structural modalities:
-  1. **Meta-Genesis**: Pure potential, pre-structural adjacency, non-metric, operator-free.'
-heading: '**Axiom M2 — Three Modalities of One Substance**'
-id: GEN4-7782
-lines: 1047-1062
-location: genesis-4/the-adjoint-triple::the-monism-axiom-box-igsoa-foundation-layer::axiom-m2-three-modalities-of-one-substance::b1
-parent_heading: '**✦ THE MONISM AXIOM BOX (IGSOA Foundation Layer)**'
-source: genesis-4\The_Adjoint_Triple.md
+- Physics
+aliases:
+- Bk982dm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.807017543859647
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

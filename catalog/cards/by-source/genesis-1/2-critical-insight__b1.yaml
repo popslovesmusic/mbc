@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Axiom
-- maintain
-- relation
-- Ψ
-excerpt: A state with **no structure at all** cannot **maintain** itself. Why? Because
-  “maintaining itself” is a **relation**, and Ψ₀ has **no relations**.
-heading: '**2\. Critical Insight**'
 id: GEN1-470
-lines: 787-806
 location: genesis-1/the-foundation-layer::2-critical-insight::b1
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 787-806
+heading: '**2\. Critical Insight**'
+block_type: paragraph
+excerpt: A state with **no structure at all** cannot **maintain** itself. Why? Because
+  “maintaining itself” is a **relation**, and Ψ₀ has **no relations**.
+concepts:
+- Ψ
+- Axiom
+- no structure at all
+- relation
+- maintain
+- no relations
+- Ψ₀
+aliases:
+- Bk986sw
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.235294117647058
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

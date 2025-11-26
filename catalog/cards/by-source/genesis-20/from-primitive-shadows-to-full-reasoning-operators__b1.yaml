@@ -1,21 +1,39 @@
-block_type: table
-concepts:
-- Box
-- Derived Logic Gates
-- Entire Box Calculus
-- Operator
-- Router-Ops
-- Standard Form
-- Θ
-- Π
-- Σ
-- Φ
-- α
-- δ
-excerpt: Entire Box Calculus \= closure of these operators under composition. ---
-heading: “From primitive shadows to full reasoning operators”
 id: GEN20-6577
-lines: 178-193
 location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::operator-algebra-map-dual-column::from-primitive-shadows-to-full-reasoning-operators::b1
-parent_heading: Operator Algebra Map (Dual-Column)
 source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 178-193
+heading: “From primitive shadows to full reasoning operators”
+parent_heading: Operator Algebra Map (Dual-Column)
+block_type: table
+excerpt: Entire Box Calculus \= closure of these operators under composition. ---
+concepts:
+- Box Calculus
+- IGSOA
+- MBC
+- Σ
+- Box
+- Operator
+- Router
+- Merge
+- Π
+- Θ
+- δ
+- high-curvature
+- low-curvature
+- δ-activating
+- Router-Ops
+aliases:
+- Bk359im
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.94871794871795
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

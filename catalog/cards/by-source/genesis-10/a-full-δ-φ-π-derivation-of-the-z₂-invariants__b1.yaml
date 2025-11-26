@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- First Principles
-- Meta-Genesis
-- Topological Insulators
-excerpt: '*Topological Insulators from First Principles in Meta-Genesis* ---'
-heading: '**A Full δ → Φ → Π Derivation of the Z₂ Invariants**'
 id: GEN10-704
-lines: 415-419
 location: genesis-10/how-stillness-becomes-solid::a-full-δ-φ-π-derivation-of-the-z₂-invariants::b1
 source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 415-419
+heading: '**A Full δ → Φ → Π Derivation of the Z₂ Invariants**'
+block_type: paragraph
+excerpt: '*Topological Insulators from First Principles in Meta-Genesis* ---'
+concepts:
+- Meta-Genesis
+- Topological Insulators
+- First Principles
+aliases:
+- Bk217ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 37.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

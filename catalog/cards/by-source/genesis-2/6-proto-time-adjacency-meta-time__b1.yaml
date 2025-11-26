@@ -1,14 +1,37 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Temporal Projection
-- Theorem
-- Time Projection Theorem
-- Ψ
-excerpt: '**Axiom G8 — Temporal Projection** Adjacency induces a proto-order: Ψi≺Ψi+1.\\Psi\_i
-  \\prec \\Psi\_{i+1}.Ψi​≺Ψi+1​.'
-heading: '**6\. Proto-Time (Adjacency → Meta-Time)**'
 id: GEN2-6233
-lines: 123-137
 location: genesis-2/axioms-for-the-category-genesis::6-proto-time-adjacency-meta-time::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 123-137
+heading: '**6\. Proto-Time (Adjacency → Meta-Time)**'
+block_type: paragraph
+excerpt: '**Axiom G8 — Temporal Projection** Adjacency induces a proto-order: Ψi≺Ψi+1.\\Psi\_i
+  \\prec \\Psi\_{i+1}.Ψi​≺Ψi+1​.'
+concepts:
+- Projection
+- Adjacency
+- Ψ
+- Theorem
+- Axiom
+- →
+- Ψi
+- proto-order
+- Time Projection Theorem
+- Temporal Projection
+aliases:
+- Am218at
+tags:
+- axiom
+- -temporal-projection
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.867924528301888
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

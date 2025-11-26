@@ -1,14 +1,36 @@
-block_type: table
-concepts:
-- Big Bang
-- Geometry Narrative
-- Standard Physics Narrative
-- Π
-- δ
-excerpt: '---'
-heading: '**8\. Why There Was No Singularity**'
 id: GEN18-5154
-lines: 69-75
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::chapter-how-expansion-happened-before-time-existed::8-why-there-was-no-singularity::b1
-parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 69-75
+heading: '**8\. Why There Was No Singularity**'
+parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- δ
+- Π
+- first δ-peakset
+- Standard Physics Narrative
+- δ-Geometry
+- δ-peakset
+- so-called
+- non-zero
+- δ-node
+- Geometry Narrative
+- Big Bang
+aliases:
+- Bk352sp
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

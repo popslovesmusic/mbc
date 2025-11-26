@@ -1,13 +1,29 @@
+id: GEN8-8903
+location: genesis-8/meta-time-geometry-and-temporal-projection::::axiom-7-369-degeneracy-shells::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2440-2448
+heading: '**Axiom 7 — 3–6–9 Degeneracy Shells**'
+parent_heading: '**────────────────────────────────────────────**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: Because δ-harmonic eigenvalues obey the triadic structure λn2∝n(n+3)(n+6),\\lambda\_n^2
   \\propto n(n+3)(n+6),λn2​∝n(n+3)(n+6), mass levels inherit the characteristic 3–6–9
   degeneracy pattern.
-heading: '**Axiom 7 — 3–6–9 Degeneracy Shells**'
-id: GEN8-8903
-lines: 2440-2448
-location: genesis-8/meta-time-geometry-and-temporal-projection::::axiom-7-369-degeneracy-shells::b1
-parent_heading: '**────────────────────────────────────────────**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- λ
+- δ-harmonic
+- δ
+aliases:
+- Bk099bh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,32 @@
+id: GEN12-1620
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-φ-π-projection-to-geometry::corollary-origin-of-space::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1365-1386
+heading: '**Corollary (Origin of Space).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Φ → Π (Projection to Geometry) ⟡**'
 block_type: paragraph
-concepts:
-- Box
-- Sealed Box
-- Π
-- Φ
-- δ
 excerpt: 'Spatial structure is not fundamental. Space is the Π-image of Φ, which is
   the spectral organization of δ. Formally:'
-heading: '**Corollary (Origin of Space).**'
-id: GEN12-1620
-lines: 1365-1386
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-φ-π-projection-to-geometry::corollary-origin-of-space::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Φ → Π (Projection to Geometry) ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- Φ
+- Box
+- Π-image
+- δ
+- →
+- End of Sealed Box
+- Sealed Box
+aliases:
+- Bk988ss
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.256410256410255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

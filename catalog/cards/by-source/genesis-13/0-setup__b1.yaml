@@ -1,15 +1,39 @@
+id: GEN13-2619
+location: genesis-13/what-biology-is-in-meta-genesis::0-setup::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2346-2356
+heading: '**0\. Setup**'
 block_type: paragraph
-concepts:
-- lift
-- Π
-- Φ
-- Ω
-- δ
 excerpt: 'We reuse the bioenergetic foundation: F=Π∘Φ∘δ:S→P\\mathcal{F}=\\Pi\\circ
   \\Phi\\circ \\delta:\\mathcal{S}\\to\\mathcal{P}F=Π∘Φ∘δ:S→P with Π-fixed δ-packets
   A∈ΩA\\in\\OmegaA∈Ω generating positive work ...'
-heading: '**0\. Setup**'
-id: GEN13-2619
-lines: 2346-2356
-location: genesis-13/what-biology-is-in-meta-genesis::0-setup::b1
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- δ
+- population of Π-domains
+- Π-domain
+- Ω
+- ∈
+- Φ
+- →
+- δ-pressure
+- δ-packets
+- Π-domains
+- Π-fixed
+- lift
+- ΩA
+aliases:
+- Bk695rt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

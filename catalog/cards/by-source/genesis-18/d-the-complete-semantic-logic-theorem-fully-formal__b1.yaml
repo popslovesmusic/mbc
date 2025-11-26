@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which direction do you want to proceed?
-heading: '**D. The complete Semantic Logic Theorem (fully formal)**'
 id: GEN18-5426
-lines: 783-785
 location: genesis-18/mbc-4::if-you-want-next::d-the-complete-semantic-logic-theorem-fully-formal::b1
-parent_heading: '**If you want next:**'
 source: genesis-18\MBC-4.md
+lines: 783-785
+heading: '**D. The complete Semantic Logic Theorem (fully formal)**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: Which direction do you want to proceed?
+aliases:
+- Bk571wd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,13 +1,33 @@
+id: GEN9-9432
+location: genesis-9/is-the-source-of-all-structure::igsoa-axiom-box::orbital-emergence-axiom-δ-φ-π::axiom-oe-6-shell-structure-and-periodicity::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 1434-1446
+heading: '**Axiom OE-6 — Shell Structure and Periodicity.**'
+parent_heading: '**Orbital Emergence Axiom (δ → Φ → Π)**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Atomic shell capacities equal the cumulative Π-stable modes: N(n)=∑k=1n∣Π(Δk)∣.N(n)
   \= \\sum\_{k=1}^n |\\Pi(\\Delta\_k)|.N(n)=k=1∑n​∣Π(Δk​)∣. This yields the periodic-table
   lengths:'
-heading: '**Axiom OE-6 — Shell Structure and Periodicity.**'
-id: GEN9-9432
-lines: 1434-1446
-location: genesis-9/is-the-source-of-all-structure::igsoa-axiom-box::orbital-emergence-axiom-δ-φ-π::axiom-oe-6-shell-structure-and-periodicity::b1
-parent_heading: '**Orbital Emergence Axiom (δ → Φ → Π)**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- Π
+- ∑
+- Δ
+- periodic-table
+- δ-harmonic
+- Π-stable
+- δ
+aliases:
+- Bk999as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

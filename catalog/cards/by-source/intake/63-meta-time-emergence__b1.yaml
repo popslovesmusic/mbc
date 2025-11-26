@@ -1,14 +1,29 @@
+id: INTK-9954
+location: intake/meta-genesis-mathematical-papers::6-physical-interpretation::63-meta-time-emergence::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 148-154
+heading: '**6.3 Meta-Time Emergence**'
+parent_heading: '**6\. Physical Interpretation**'
 block_type: paragraph
+excerpt: 'Iterates define a natural ordering: δ0Ψ0≺δ1Ψ0≺δ2Ψ0≺⋯\\delta^0\\Psi\_0 \\prec
+  \\delta^1\\Psi\_0 \\prec \\delta^2\\Psi\_0 \\prec \\cdotsδ0Ψ0​≺δ1Ψ0​≺δ2Ψ0​≺⋯ This
+  ordering is **Meta-Time**.'
 concepts:
 - Meta-Time
 - Ψ
 - δ
-excerpt: 'Iterates define a natural ordering: δ0Ψ0≺δ1Ψ0≺δ2Ψ0≺⋯\\delta^0\\Psi\_0 \\prec
-  \\delta^1\\Psi\_0 \\prec \\delta^2\\Psi\_0 \\prec \\cdotsδ0Ψ0​≺δ1Ψ0​≺δ2Ψ0​≺⋯ This
-  ordering is **Meta-Time**.'
-heading: '**6.3 Meta-Time Emergence**'
-id: INTK-9954
-lines: 148-154
-location: intake/meta-genesis-mathematical-papers::6-physical-interpretation::63-meta-time-emergence::b1
-parent_heading: '**6\. Physical Interpretation**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+aliases:
+- Bk365id
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

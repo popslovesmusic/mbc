@@ -1,16 +1,36 @@
-block_type: paragraph
-concepts:
-- ordering
-- pathways
-- relations
-- structure
-- Π
-- Φ
-- δ
-excerpt: 'In standard physics, we talk about causal cones. In your system: **Causality
-  \= Π-order \= the dependency relations induced by δ through Φ.**'
-heading: '**⭐ 2\. Causal order is not temporal — it’s Π-ordering**'
 id: GEN17-4900
-lines: 371-407
 location: genesis-17/key-points::2-causal-order-is-not-temporal-its-π-ordering::b1
 source: genesis-17\Key_Points.md
+lines: 371-407
+heading: '**⭐ 2\. Causal order is not temporal — it’s Π-ordering**'
+block_type: paragraph
+excerpt: 'In standard physics, we talk about causal cones. In your system: **Causality
+  \= Π-order \= the dependency relations induced by δ through Φ.**'
+concepts:
+- Π
+- partial order on distinguishability
+- δ
+- Φ
+- already-present
+- dependency relations
+- relations
+- Π-order
+- →
+- structure
+- pathways
+- ordering
+aliases:
+- Bk354sp
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.5
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

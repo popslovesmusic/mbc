@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**CHAPTER COMPLETE.**'
 id: GEN13-2235
-lines: 2675-2677
 location: genesis-13/meta-math-nuclear-physics::chapter-complete::b4
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2675-2677
+heading: '**CHAPTER COMPLETE.**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

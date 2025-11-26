@@ -1,14 +1,35 @@
+id: INTK-10255
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::5-higher-gauge-algebra-of-ahef-operators::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 406-423
+heading: '**5. Higher-Gauge Algebra of A/H/E/F Operators**'
 block_type: paragraph
-concepts:
-- Fractal Differential Algebra
-- Meta-Fractal
-- The Meta
-- The Three Generators
 excerpt: 'The Meta-Fractal Differential Algebra provides the natural setting for the
   A/H/E/F operators: *   **A (Ascension):** Scale-raising operator, analogous to a
   creation operator. *   **H (Holding):** Scal...'
-heading: '**5. Higher-Gauge Algebra of A/H/E/F Operators**'
-id: INTK-10255
-lines: 406-423
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::5-higher-gauge-algebra-of-ahef-operators::b1
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Scale-preserving
+- Lie-like algebra
+- Scale-lowering
+- Fractal Differential Algebra
+- Scale-raising
+- Meta-Fractal
+- Non-local
+- Lie-like
+- The Three Generators
+- The Meta
+aliases:
+- Bk768tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.25925925925926
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

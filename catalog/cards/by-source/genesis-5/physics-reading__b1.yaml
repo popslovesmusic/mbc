@@ -1,17 +1,39 @@
+id: GEN5-8068
+location: genesis-5/formal-proof-of-the-adjoint-triple::physics-reading::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1961-1982
+heading: '**Physics reading**'
 block_type: paragraph
-concepts:
-- Field
-- Levi-Civita
-- Riemann Projection Theorem
-- Theorem
-- Π
-- Φ
-- δ
 excerpt: 'You can drop this straight into the δ-Einstein / δ–Φ unity chapter: * **δ**
   makes curvature by being a naturality defect under projection. * **Φ** harmonizes
   / aligns modes across scales (chromatic fi...'
-heading: '**Physics reading**'
-id: GEN5-8068
-lines: 1961-1982
-location: genesis-5/formal-proof-of-the-adjoint-triple::physics-reading::b1
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- δ
+- Π
+- Φ
+- Projection
+- Theorem
+- Corollary
+- Field
+- δ-connection
+- Riemann Projection Theorem
+- δ-curvature
+- Φ-invariant
+- Levi-Civita
+- δ-Einstein
+- one-liner
+- Π-image
+aliases:
+- Bk946yc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.60215053763441
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

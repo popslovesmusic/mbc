@@ -1,14 +1,39 @@
+id: GEN15-3375
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-φ-π-cmb-projection-observable-lock-in::functorial-step::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 66-81
+heading: '**Functorial Step**'
+parent_heading: '**2\. Φ → Π: CMB Projection (Observable Lock-In)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Φ(δ)→  Π  CMB multipoles aℓm\\Phi(\\delta) \\xrightarrow{\\;\\Pi\\;} \\text{CMB
   multipoles } a\_{\\ell m}Φ(δ)Π​CMB multipoles aℓm​ Every **CMB multipole** is a
   Π-image of a δ-harmonic: aℓm=Π(Φ(δℓm))a\...'
-heading: '**Functorial Step**'
-id: GEN15-3375
-lines: 66-81
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-φ-π-cmb-projection-observable-lock-in::functorial-step::b1
-parent_heading: '**2\. Φ → Π: CMB Projection (Observable Lock-In)**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- Π
+- Φ
+- CMB multipole
+- Π-resolution of δ-structure
+- Π-resolution
+- δ-structure
+- δ-harmonic
+- δ-derived
+- Π-image
+- →
+- power spectrum
+- δk
+aliases:
+- Bk069cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

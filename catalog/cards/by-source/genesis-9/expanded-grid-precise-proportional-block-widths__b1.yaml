@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '`ROW 1 (2 elements)` `┌──s──┐` `│ ██  │`'
-heading: '**(Expanded grid, precise proportional block widths)**'
 id: GEN9-9417
-lines: 1261-1293
 location: genesis-9/is-the-source-of-all-structure::full-width-version::expanded-grid-precise-proportional-block-widths::b1
-parent_heading: '**FULL WIDTH VERSION**'
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 1261-1293
+heading: '**(Expanded grid, precise proportional block widths)**'
+parent_heading: '**FULL WIDTH VERSION**'
+block_type: paragraph
+excerpt: '`ROW 1 (2 elements)` `┌──s──┐` `│ ██  │`'
+aliases:
+- Bk504re
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

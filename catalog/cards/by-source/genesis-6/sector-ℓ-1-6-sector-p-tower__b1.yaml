@@ -1,15 +1,33 @@
+id: GEN6-8237
+location: genesis-6/harmonics-atomic-orbitals::2-δ-boson-spectrum-table-369-shell-tower::table-a-δ-boson-multiplets::sector-ℓ-1-6-sector-p-tower::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 362-370
+heading: '**Sector ℓ \= 1 (6-sector / “p-tower”)**'
+parent_heading: '**Table A — δ-Boson Multiplets**'
 block_type: table
-concepts:
-- Λ
-- Ω
-- α
-- δ
-- μ
 excerpt: '**Interpretation:** **vector triplet δ-bosons** (adjacency-dipole excitations).
   ---'
-heading: '**Sector ℓ \= 1 (6-sector / “p-tower”)**'
-id: GEN6-8237
-lines: 362-370
-location: genesis-6/harmonics-atomic-orbitals::2-δ-boson-spectrum-table-369-shell-tower::table-a-δ-boson-multiplets::sector-ℓ-1-6-sector-p-tower::b1
-parent_heading: '**Table A — δ-Boson Multiplets**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- Λ
+- δ
+- vector triplet δ-bosons
+- adjacency-dipole
+- Ω
+- α
+- μ
+- δ-bosons
+aliases:
+- Bk524sv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

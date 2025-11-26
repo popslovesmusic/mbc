@@ -1,13 +1,29 @@
+id: INTK-10532
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::core-concepts::3-meta-metric-tensor-g-μν::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 2032-2033
+heading: 3. Meta-Metric Tensor (G_μν)
+parent_heading: Core Concepts
 block_type: paragraph
-concepts:
-- μ
-- ν
 excerpt: A functional rank-2 symmetric tensor field defined on the PPG, directly derived
   from the deviation field. It measures the intrinsic local correlations and curvature
   within the PPG. `G_μν` is dynamic a...
-heading: 3. Meta-Metric Tensor (G_μν)
-id: INTK-10532
-lines: 2032-2033
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::core-concepts::3-meta-metric-tensor-g-μν::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- background-independent
+- ν
+- μ
+aliases:
+- Bk546fr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

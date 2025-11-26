@@ -1,14 +1,33 @@
+id: GEN7-8598
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::5-the-δ-dirac-lagrangian-with-spin-higgs::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 711-737
+heading: '**5\. The δ-Dirac Lagrangian (with spin \+ Higgs)**'
 block_type: paragraph
-concepts:
-- Φ
-- γ
-- δ
-- μ
 excerpt: Lδ=ψˉ(iγμ∇μ(δ)−yδΦ)ψ.(7)\\mathcal{L}\_\\delta \= \\bar\\psi\\left( i\\gamma^\\mu\\nabla\_\\mu^{(\\delta)}
   \- y\_\\delta \\Phi \\right)\\psi. \\tag{7}Lδ​=ψˉ​(iγμ∇μ(δ)​−yδ​Φ)ψ.(7) Everything
   is geometri...
-heading: '**5\. The δ-Dirac Lagrangian (with spin \+ Higgs)**'
-id: GEN7-8598
-lines: 711-737
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::5-the-δ-dirac-lagrangian-with-spin-higgs::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- δ
+- Φ
+- μ
+- ψ
+- ∇
+- γ
+- δ-Higgs
+- δy
+aliases:
+- Bk289md
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.106870229007633
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

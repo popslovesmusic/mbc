@@ -1,13 +1,31 @@
+id: GEN10-909
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-the-δ-spectrum-and-genesis-asymmetry::genesis-asymmetry-spectrum-law::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2704-2712
+heading: '**(Genesis Asymmetry Spectrum Law)**'
+parent_heading: '**2\. The δ-Spectrum and Genesis Asymmetry**'
 block_type: paragraph
-concepts:
-- Axiom
-- δ
-- λ
 excerpt: 'There are **no zero modes**: λn≠0,λ\_n \\neq 0,λn​=0, because a zero eigenvalue
   would imply a stable state of no deviation → forbidden by the NOT Axiom.'
-heading: '**(Genesis Asymmetry Spectrum Law)**'
-id: GEN10-909
-lines: 2704-2712
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-the-δ-spectrum-and-genesis-asymmetry::genesis-asymmetry-spectrum-law::b1
-parent_heading: '**2\. The δ-Spectrum and Genesis Asymmetry**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- non-degenerate and strictly excited
+- Axiom
+- λ
+- non-degenerate
+- δ-spectrum
+- ≠
+- δ
+- →
+- no zero modes
+aliases:
+- Bk556ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.951219512195124
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

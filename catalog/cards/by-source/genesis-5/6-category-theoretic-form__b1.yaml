@@ -1,13 +1,36 @@
-block_type: paragraph
-concepts:
-- 1-Lipschitz
-- Metric Functor
-- Theorem
-- functorial
-excerpt: 'Let: * Adj\\mathbf{Adj}Adj be the category of adjacency structures. * Met\\mathbf{Met}Met
-  be the category of metric spaces.'
-heading: '**6\. Category-Theoretic Form**'
 id: GEN5-8175
-lines: 585-616
 location: genesis-5/the-ga-8-meta-einstein-theorem::6-category-theoretic-form::b1
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 585-616
+heading: '**6\. Category-Theoretic Form**'
+block_type: paragraph
+excerpt: 'Let: * Adj\\mathbf{Adj}Adj be the category of adjacency structures. * Met\\mathbf{Met}Met
+  be the category of metric spaces.'
+concepts:
+- →
+- Adjacency
+- Theorem
+- well-defined
+- Functor
+- adjacency-preserving
+- ≤
+- Metric Functor
+- functorial
+aliases:
+- Th839la
+tags:
+- theorem
+- adjacencymetric-functor
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.164383561643835
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

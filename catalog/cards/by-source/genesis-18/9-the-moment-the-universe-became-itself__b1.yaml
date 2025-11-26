@@ -1,14 +1,35 @@
-block_type: table
-concepts:
-- Geometry Narrative
-- Standard Physics Narrative
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: '**9\. The Moment the Universe Became Itself**'
 id: GEN18-5155
-lines: 77-83
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::chapter-how-expansion-happened-before-time-existed::9-the-moment-the-universe-became-itself::b1
-parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 77-83
+heading: '**9\. The Moment the Universe Became Itself**'
+parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- δ
+- stable δ-curvature packets
+- Φ
+- →
+- δ-curvature
+- Standard Physics Narrative
+- δ-Geometry
+- Π
+- Φ-mode
+- Geometry Narrative
+aliases:
+- Bk924sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.417910447761194
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

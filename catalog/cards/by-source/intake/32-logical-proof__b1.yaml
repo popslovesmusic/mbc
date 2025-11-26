@@ -1,13 +1,30 @@
+id: INTK-9988
+location: intake/meta-genesis-mathematical-papers::3-fully-formal-proof::32-logical-proof::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 625-655
+heading: '**3.2 Logical Proof**'
+parent_heading: '**3\. Fully Formal Proof**'
 block_type: paragraph
-concepts:
-- only
-- Ψ
-- δ
 excerpt: 'Identity is the logical axiom: ∀x,  x=x.\\forall x,\\; x \= x.∀x,x=x. But
   logical quantification requires:'
-heading: '**3.2 Logical Proof**'
-id: INTK-9988
-lines: 625-655
-location: intake/meta-genesis-mathematical-papers::3-fully-formal-proof::32-logical-proof::b1
-parent_heading: '**3\. Fully Formal Proof**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+- δ
+- Axiom
+- ∀
+- ≥
+- δn
+aliases:
+- Bk079it
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.084745762711865
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

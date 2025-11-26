@@ -1,13 +1,35 @@
-block_type: paragraph
-concepts:
-- Causal Sphere
-- Meta-Genesis
-- Φ
-- δ
-excerpt: 'Let δ encode adjacency curvature before metric emergence. We define the
-  δ-curvature density: Kδ(r)=∂rδ(r)\\mathcal{K}\_\\delta(r) \= \\partial\_r \\delta(r)Kδ​(r)=∂r​δ(r)'
-heading: '**1\. δ: The Deviational Curvature Field**'
 id: GEN13-2273
-lines: 149-166
 location: genesis-13/the-weight-of-light::1-δ-the-deviational-curvature-field::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 149-166
+heading: '**1\. δ: The Deviational Curvature Field**'
+block_type: paragraph
+excerpt: 'Let δ encode adjacency curvature before metric emergence. We define the
+  δ-curvature density: Kδ(r)=∂rδ(r)\\mathcal{K}\_\\delta(r) \= \\partial\_r \\delta(r)Kδ​(r)=∂r​δ(r)'
+concepts:
+- δ
+- Meta-Genesis
+- Galaxy-scale δ-curvature does not vanish at large radius
+- IGSOA
+- →
+- δ-curvature
+- Φ
+- ∂
+- residual adjacency curvature
+- non-lightlike
+- Φ-incomplete
+- Galaxy-scale
+- ad-hoc
+- Causal Sphere
+aliases:
+- Bk422le
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.687022900763358
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Action Functor
-- Meta-Time
-- The Genesis
-- δ
-excerpt: 'The Genesis–Action Functor (GAF) is: A:G0⟶D\\mathbb{A} : \\mathcal{G}\_0
-  \\longrightarrow \\mathcal{D}A:G0​⟶D mapping:'
-heading: '**2\. Definition of the Genesis–Action Functor**'
 id: GEN13-2447
-lines: 2539-2555
 location: genesis-13/the-weight-of-light::2-definition-of-the-genesisaction-functor::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 2539-2555
+heading: '**2\. Definition of the Genesis–Action Functor**'
+block_type: paragraph
+excerpt: 'The Genesis–Action Functor (GAF) is: A:G0⟶D\\mathbb{A} : \\mathcal{G}\_0
+  \\longrightarrow \\mathcal{D}A:G0​⟶D mapping:'
+concepts:
+- Meta-Time
+- →
+- Functor
+- adjacency-preserving
+- δ
+- δ-curvature
+- δ-objects
+- Action Functor
+- The Genesis
+aliases:
+- Bk564tg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.2
+is_technical: true
+concept_density: 22.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

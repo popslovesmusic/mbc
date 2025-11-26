@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- δ
-- δ-measure
-- μ
-excerpt: The canonical Hilbert space is Hδ  =  L2(Mδ, μδ)  \\boxed{\\;\\mathcal{H}\_\\delta
-  \\;=\\; L^{2}(\\mathcal{M}\_{\\delta},\\,\\mu\_{\\delta})\\;}Hδ​=L2(Mδ​,μδ​)​ where
-heading: '**2\. Hilbert Space Hδ\\mathcal{H}\_\\deltaHδ​**'
 id: GEN6-8368
-lines: 43-53
 location: genesis-6/the-harmonic-spectral-triple::2-hilbert-space-hδmathcalh-deltahδ::b1
 source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 43-53
+heading: '**2\. Hilbert Space Hδ\\mathcal{H}\_\\deltaHδ​**'
+block_type: paragraph
+excerpt: The canonical Hilbert space is Hδ  =  L2(Mδ, μδ)  \\boxed{\\;\\mathcal{H}\_\\delta
+  \\;=\\; L^{2}(\\mathcal{M}\_{\\delta},\\,\\mu\_{\\delta})\\;}Hδ​=L2(Mδ​,μδ​)​ where
+concepts:
+- δ
+- δ-geometry
+- μ
+- Genesis-measure
+- δ-measure
+- δ-action
+- deviation manifold
+aliases:
+- Bk982tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

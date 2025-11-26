@@ -1,16 +1,32 @@
+id: GEN15-3227
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version::4-galaxy-abundance::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2219-2227
+heading: '**4\. Galaxy abundance**'
+parent_heading: '**Ⅲ. Operator-Theoretic Version**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- λ
-- σ
 excerpt: 'dndM=f(σ(M))\\frac{dn}{dM} \= f(\\sigma(M))dMdn​=f(σ(M)) Thus the galaxy
   mass function is explicitly a functional of δ-curvature eigenvalues: dndM=f ⁣\[Π(λℓ∣Φℓ∣2)\].\\frac{dn}{dM}
   \= f\\\!\\left\[\\Pi...'
-heading: '**4\. Galaxy abundance**'
-id: GEN15-3227
-lines: 2219-2227
-location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version::4-galaxy-abundance::b1
-parent_heading: '**Ⅲ. Operator-Theoretic Version**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- λ
+- Π
+- Φ
+- σ
+- δ-curvature
+- δ
+aliases:
+- Bk471df
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

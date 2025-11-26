@@ -1,15 +1,32 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Meta-Math
-- Π
-- Φ
-- δ
-excerpt: Box Calculus is Meta-Math with δ-geometric semantics. Box Calculus is Meta-Math
-  with δ-geometric semantics. ​
-heading: ⭐ 6\. Final Summary (One-Sentence Truth)
 id: GEN17-4395
-lines: 3267-3283
 location: genesis-17/box-calculus::6-final-summary-one-sentence-truth::b1
 source: genesis-17\box_calculus.md
+lines: 3267-3283
+heading: ⭐ 6\. Final Summary (One-Sentence Truth)
+block_type: paragraph
+excerpt: Box Calculus is Meta-Math with δ-geometric semantics. Box Calculus is Meta-Math
+  with δ-geometric semantics. ​
+concepts:
+- Meta-Math
+- Box Calculus
+- Box
+- δ
+- δ-geometric
+- Proof
+- Π
+- Φ
+aliases:
+- Bk410bc
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.38961038961039
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

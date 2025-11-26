@@ -1,11 +1,28 @@
+id: GEN15-3180
+location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-from-perturbations-to-galaxies::2-filament-structure-emerges::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1669-1672
+heading: '**2\. Filament structure emerges**'
+parent_heading: '**Ⅴ. From Perturbations to Galaxies**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Modes with similar δ-curvature origin cluster. Thus the *meta-fractal structure
   of δ* seeds the *cosmic web*.
-heading: '**2\. Filament structure emerges**'
-id: GEN15-3180
-lines: 1669-1672
-location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-from-perturbations-to-galaxies::2-filament-structure-emerges::b1
-parent_heading: '**Ⅴ. From Perturbations to Galaxies**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- meta-fractal
+- δ-curvature
+aliases:
+- Bk330mw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

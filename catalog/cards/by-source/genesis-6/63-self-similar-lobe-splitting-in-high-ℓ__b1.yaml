@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: δ-harmonic recursion → explains heavy-element fine spectral lines. ---
-heading: '**6.3 self-similar lobe splitting in high-ℓ**'
 id: GEN6-8222
-lines: 204-209
 location: genesis-6/harmonics-atomic-orbitals::6-full-orbital-shapes-directly-visualizable::63-self-similar-lobe-splitting-in-high-ℓ::b1
-parent_heading: '**6\. Full Orbital Shapes (Directly Visualizable)**'
 source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 204-209
+heading: '**6.3 self-similar lobe splitting in high-ℓ**'
+parent_heading: '**6\. Full Orbital Shapes (Directly Visualizable)**'
+block_type: paragraph
+excerpt: δ-harmonic recursion → explains heavy-element fine spectral lines. ---
+concepts:
+- heavy-element
+- δ-harmonic
+- δ
+- →
+aliases:
+- Bk267hr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 44.44444444444444
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

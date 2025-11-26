@@ -1,11 +1,27 @@
+id: GEN19-5911
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::standard-column::step-5-therefore-polarity-is-fully-determined::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 482-491
+heading: '**Step 5 — Therefore polarity is fully determined**'
+parent_heading: '**Standard Column**'
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'The function Θ:Rn→{±1},K↦sign⁡(K)\\Theta: \\mathbb{R}^n\\to\\{±1\\},\\qquad
   K\\mapsto \\operatorname{sign}(K)Θ:Rn→{±1},K↦sign(K) is deterministic.'
-heading: '**Step 5 — Therefore polarity is fully determined**'
-id: GEN19-5911
-lines: 482-491
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::standard-column::step-5-therefore-polarity-is-fully-determined::b1
-parent_heading: '**Standard Column**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Θ
+- →
+aliases:
+- Bk214tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

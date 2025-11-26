@@ -1,16 +1,41 @@
+id: GEN14-3005
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::hermetic-sealed-axiom-box::axiom-box-δ-bulkedge-correspondence::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1225-1247
+heading: '**Axiom Box: δ-Bulk–Edge Correspondence**'
+parent_heading: '**Hermetic Sealed Axiom Box**'
 block_type: list
-concepts:
-- Bulk Curvature Plateau
-- Multiplicity Invariants
-- Vacuum Curvature Plateau
-- Π
-- Φ
-- δ
 excerpt: 1. **Bulk Curvature Plateau:** A bulk region is a δ-adjacency network with
   constant κ. 2. **Vacuum Curvature Plateau:**
-heading: '**Axiom Box: δ-Bulk–Edge Correspondence**'
-id: GEN14-3005
-lines: 1225-1247
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::hermetic-sealed-axiom-box::axiom-box-δ-bulkedge-correspondence::b1
-parent_heading: '**Hermetic Sealed Axiom Box**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Curvature
+- Projection
+- κ
+- Φ
+- Π
+- δ
+- Δ
+- ∂
+- Π-Multiplicity
+- Φ-Projection
+- δ-adjacency
+- δ-curvature
+- Φ-spectra
+- Vacuum Curvature Plateau
+- δ-network
+aliases:
+- Bk426bc
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.387755102040817
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

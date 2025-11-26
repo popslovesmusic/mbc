@@ -1,13 +1,31 @@
+id: GEN16-4062
+location: genesis-16/untitled-document::2-the-terminal-object::candidate-for-the-terminal-object::b1
+source: genesis-16\Untitled_document.md
+lines: 4115-4119
+heading: '**Candidate for the terminal object:**'
+parent_heading: '**⭐ 2\. The Terminal Object**'
 block_type: paragraph
+excerpt: 'The **Π-normal Box**, i.e. the Box that contains a fully realized minimal
+  semantic state: 1:=Π(Σmin⁡)1 := \\Pi(\\Sigma\_{\\min})1:=Π(Σmin​)'
 concepts:
 - Box
 - Π
 - Σ
-excerpt: 'The **Π-normal Box**, i.e. the Box that contains a fully realized minimal
-  semantic state: 1:=Π(Σmin⁡)1 := \\Pi(\\Sigma\_{\\min})1:=Π(Σmin​)'
-heading: '**Candidate for the terminal object:**'
-id: GEN16-4062
-lines: 4115-4119
-location: genesis-16/untitled-document::2-the-terminal-object::candidate-for-the-terminal-object::b1
-parent_heading: '**⭐ 2\. The Terminal Object**'
-source: genesis-16\Untitled_document.md
+- Π-normal Box
+- Π-normal
+- Σmin
+aliases:
+- Bk254tn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,19 +1,36 @@
+id: INTK-10715
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::e-echo-operator::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1838-1841
+heading: E (Echo Operator)
+parent_heading: Glossary
 block_type: table
+excerpt: ''
 concepts:
-- Cross-References
-- Echo Interactions
+- Operator
+- Definition
+- Wave-Echo
 - Echo Operator
+- Cross-References
+- δ
+- Ψ
+- →
+- Echo Interactions
 - Formal Definition
 - Ontological Role
-- Operator
 - Read More
-- Wave-Echo
-- Ψ
-- δ
-excerpt: ''
-heading: E (Echo Operator)
-id: INTK-10715
-lines: 1838-1841
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::e-echo-operator::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+aliases:
+- Bk201so
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.906976744186046
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

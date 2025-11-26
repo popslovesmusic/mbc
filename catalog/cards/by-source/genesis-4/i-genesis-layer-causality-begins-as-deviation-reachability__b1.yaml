@@ -1,8 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: '*(The “pre-physics,” pre-math origin of cause-and-effect)*'
-heading: '**I. GENESIS LAYER — Causality Begins as Deviation Reachability**'
 id: GEN4-7695
-lines: 1370-1372
 location: genesis-4/meta-physics-axiom-box::i-genesis-layer-causality-begins-as-deviation-reachability::b1
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1370-1372
+heading: '**I. GENESIS LAYER — Causality Begins as Deviation Reachability**'
+block_type: paragraph
+excerpt: '*(The “pre-physics,” pre-math origin of cause-and-effect)*'
+concepts:
+- cause-and-effect
+- pre-physics
+- pre-math
+aliases:
+- Bk729tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

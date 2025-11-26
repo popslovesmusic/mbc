@@ -1,12 +1,28 @@
+id: GEN19-6119
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-how-mbc-represents-nested-probability-slopes::step-3-σςₐ-gives-aggregated-dependent-slopes::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1148-1155
+heading: ✔ Step 3 — ΣΣₐ gives aggregated dependent slopes
+parent_heading: ⭐ 4\. How MBC Represents Nested Probability Slopes
 block_type: paragraph
-concepts:
-- Σ
-- δ
 excerpt: 'ΣΣₐ is the aggregation operator you identified earlier. It computes: slope\_total
   \= Σ(slope\_i weighted by polarity and δ-deviation)'
-heading: ✔ Step 3 — ΣΣₐ gives aggregated dependent slopes
-id: GEN19-6119
-lines: 1148-1155
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-how-mbc-represents-nested-probability-slopes::step-3-σςₐ-gives-aggregated-dependent-slopes::b1
-parent_heading: ⭐ 4\. How MBC Represents Nested Probability Slopes
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- Σ
+- δ-deviation
+- δ
+aliases:
+- Bk803ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

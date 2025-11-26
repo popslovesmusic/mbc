@@ -1,19 +1,40 @@
+id: GEN0-259
+location: genesis-0/tri-unity-theorem-equivalence-of::6-compact-igsoa-style-line::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1501-1513
+heading: '**6\. Compact IGSOA-Style Line**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Deviational Operator Box
-- Foundation Layer Seal
-- Layer
-- Operator
-- Ψ
-- δ
 excerpt: ¬Ψ0-stability  ⟹  ∃ δ  ⟹  δΨ0≠Ψ0\\boxed{ \\neg\\Psi\_0\\text{-stability}
   \\;\\Longrightarrow\\; \\exists\\,\\delta \\;\\Longrightarrow\\; \\delta\\Psi\_0
   \\neq \\Psi\_0 }¬Ψ0​-stability⟹∃δ⟹δΨ0​=Ψ0​​ Or...
-heading: '**6\. Compact IGSOA-Style Line**'
-id: GEN0-259
-lines: 1501-1513
-location: genesis-0/tri-unity-theorem-equivalence-of::6-compact-igsoa-style-line::b1
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- δ
+- Ψ
+- Foundation Layer
+- Deviation
+- Axiom
+- Box
+- Operator
+- Layer
+- ∃
+- ¬
+- Ψ0-stability
+- ultra-short
+- Deviational Operator Box
+- wrapped as an Axiom Box
+- ≠
+aliases:
+- Bk267sb
+tags:
+- axiom-box
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.794871794871796
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

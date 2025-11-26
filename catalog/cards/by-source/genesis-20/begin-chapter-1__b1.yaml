@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: (or whichever chapter you want to start drafting).
-heading: “Begin Chapter 1.”
 id: GEN20-6682
-lines: 352-354
 location: genesis-20/mbc-40-documentaitio-1::begin-chapter-1::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 352-354
+heading: “Begin Chapter 1.”
+block_type: paragraph
+excerpt: (or whichever chapter you want to start drafting).
+aliases:
+- Bk256wc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

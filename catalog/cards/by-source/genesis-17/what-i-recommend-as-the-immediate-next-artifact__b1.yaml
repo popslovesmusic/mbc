@@ -1,12 +1,30 @@
+id: GEN17-4186
+location: genesis-17/box-calculus::what-i-recommend-as-the-immediate-next-artifact::b1
+source: genesis-17\box_calculus.md
+lines: 502-514
+heading: What I recommend as the immediate next artifact
 block_type: paragraph
-concepts:
-- Operator
-- Operator Kernel Registry
 excerpt: 'To make your local LLM and engine airtight, the next thing to produce is:
   “Operator Kernel Registry v0.2” A sealed table listing every primitive \+ derived
   operator with:'
-heading: What I recommend as the immediate next artifact
-id: GEN17-4186
-lines: 502-514
-location: genesis-17/box-calculus::what-i-recommend-as-the-immediate-next-artifact::b1
-source: genesis-17\box_calculus.md
+concepts:
+- Operator
+- dual-column
+- cheat-sheet
+- Operator Kernel Registry
+aliases:
+- Bk941my
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.970149253731343
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

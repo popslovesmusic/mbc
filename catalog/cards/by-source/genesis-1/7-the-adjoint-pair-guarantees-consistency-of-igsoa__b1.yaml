@@ -1,18 +1,29 @@
+id: GEN1-663
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::7-the-adjoint-pair-guarantees-consistency-of-igsoa::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1951-1975
+heading: '**7\. The Adjoint Pair Guarantees Consistency of IGSOA**'
 block_type: list
+excerpt: '* Genesis cannot generate contradictory action. * Deviational Geometry is
+  the unique bridge. * Meta-Math cannot contradict Genesis structure.'
 concepts:
+- Meta-Math
 - Deviational Geometry
 - Meta-Einstein
 - Meta-Genesis
-- Meta-Math
+- Deviation
+- Projection
+- mathematical backbone
 - Your Meta
-- bridge
-- how
-- projection
-- why
-excerpt: '* Genesis cannot generate contradictory action. * Deviational Geometry is
-  the unique bridge. * Meta-Math cannot contradict Genesis structure.'
-heading: '**7\. The Adjoint Pair Guarantees Consistency of IGSOA**'
-id: GEN1-663
-lines: 1951-1975
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::7-the-adjoint-pair-guarantees-consistency-of-igsoa::b1
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+aliases:
+- Bk587gc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

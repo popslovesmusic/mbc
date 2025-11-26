@@ -1,14 +1,32 @@
+id: GEN17-4218
+location: genesis-17/box-calculus::4-meaning-of-a-in-igsoa-terms-intuition::when-you-merge-two-meanings::b1
+source: genesis-17\box_calculus.md
+lines: 1100-1118
+heading: 'When you merge two meanings:'
+parent_heading: 4\. Meaning of A in IGSOA Terms (Intuition)
 block_type: list
-concepts:
-- α
-- β
-- δ
 excerpt: '* If they align, you get a strengthened combined direction. * If they conflict,
   δ pushes them into a higher-dimensional semantic resolution. * If one dominates,
   α or β shifts the result.'
-heading: 'When you merge two meanings:'
-id: GEN17-4218
-lines: 1100-1118
-location: genesis-17/box-calculus::4-meaning-of-a-in-igsoa-terms-intuition::when-you-merge-two-meanings::b1
-parent_heading: 4\. Meaning of A in IGSOA Terms (Intuition)
-source: genesis-17\box_calculus.md
+concepts:
+- IGSOA
+- higher-dimensional
+- δ
+- δ-curvature
+- β
+- α
+aliases:
+- Bk502ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

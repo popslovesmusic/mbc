@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Condensed matter does not hold together because of forces. It holds together
-  because: * δ creates adjacency'
-heading: '**VII. Narrative (Meta-Genesis Interpretation)**'
 id: GEN14-3032
-lines: 1658-1675
 location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::vii-narrative-meta-genesis-interpretation::b1
 source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1658-1675
+heading: '**VII. Narrative (Meta-Genesis Interpretation)**'
+block_type: paragraph
+excerpt: 'Condensed matter does not hold together because of forces. It holds together
+  because: * δ creates adjacency'
+concepts:
+- difference refuses to dissolve
+- δ
+aliases:
+- Bk857cm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

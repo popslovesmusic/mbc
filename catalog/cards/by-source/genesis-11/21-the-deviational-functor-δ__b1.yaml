@@ -1,11 +1,29 @@
+id: GEN11-1318
+location: genesis-11/the-adjacency-wave-equation::2-the-δφπ-projection-pipeline::21-the-deviational-functor-δ::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 1015-1019
+heading: '**2.1 The Deviational Functor δ**'
+parent_heading: '**2\. The δ→Φ→Π Projection Pipeline**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'δ:G→D.\\delta: \\mathcal{G} \\to \\mathcal{D}.δ:G→D. δ maps **Genesis adjacency**
   to **curved adjacency geometry**.'
-heading: '**2.1 The Deviational Functor δ**'
-id: GEN11-1318
-lines: 1015-1019
-location: genesis-11/the-adjacency-wave-equation::2-the-δφπ-projection-pipeline::21-the-deviational-functor-δ::b1
-parent_heading: '**2\. The δ→Φ→Π Projection Pipeline**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ
+- →
+- curved adjacency geometry
+- Genesis adjacency
+aliases:
+- Bk766dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

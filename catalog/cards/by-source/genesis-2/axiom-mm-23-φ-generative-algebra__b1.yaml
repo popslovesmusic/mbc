@@ -1,12 +1,26 @@
+id: GEN2-6325
+location: genesis-2/axioms-of-geometry-topos-compatible::2-φ-algebra-action-generated-algebra::axiom-mm-23-φ-generative-algebra::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 429-449
+heading: '**Axiom MM-2.3 — Φ-Generative Algebra**'
+parent_heading: '**2\. Φ-Algebra (Action-Generated Algebra)**'
 block_type: paragraph
+excerpt: 'All algebraic operations in a Φ-object must be generable by Φ-actions. Thus:
+  * groups'
 concepts:
 - Φ
 - Φ-generated
-excerpt: 'All algebraic operations in a Φ-object must be generable by Φ-actions. Thus:
-  * groups'
-heading: '**Axiom MM-2.3 — Φ-Generative Algebra**'
-id: GEN2-6325
-lines: 429-449
-location: genesis-2/axioms-of-geometry-topos-compatible::2-φ-algebra-action-generated-algebra::axiom-mm-23-φ-generative-algebra::b1
-parent_heading: '**2\. Φ-Algebra (Action-Generated Algebra)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+- Φ-actions
+- Φ-object
+aliases:
+- Bk014aa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

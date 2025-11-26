@@ -1,16 +1,39 @@
-block_type: table
-concepts:
-- Geometry Narrative
-- Standard Physics Narrative
-- appearance
-- Π
-- Φ
-- Φ-flow
-- δ
-excerpt: '---'
-heading: '**3\. The Collapse of Perfect Symmetry**'
 id: GEN18-5149
-lines: 26-33
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::chapter-how-expansion-happened-before-time-existed::3-the-collapse-of-perfect-symmetry::b1
-parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 26-33
+heading: '**3\. The Collapse of Perfect Symmetry**'
+parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- Π
+- δ
+- defines the very first direction
+- first Π-ordering
+- Φ
+- δ-unbalanced
+- pre-temporal
+- Standard Physics Narrative
+- δ-curvature
+- Π-ordering
+- δ-Geometry
+- Π-chain
+- ≠
+- Φ-flow
+aliases:
+- Bk297sp
+tags:
+- qualified
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,24 @@
-block_type: paragraph
-concepts:
-- remembered
-- δ
-excerpt: Before space existed, there was only relation. Not distance — only connection.
-  Not curvature — only deviation.
-heading: '**6\. Outreach Narrative Version (director mode)**'
 id: GEN8-8858
-lines: 1639-1661
 location: genesis-8/meta-time-geometry-and-temporal-projection::6-outreach-narrative-version-director-mode::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1639-1661
+heading: '**6\. Outreach Narrative Version (director mode)**'
+block_type: paragraph
+excerpt: Before space existed, there was only relation. Not distance — only connection.
+  Not curvature — only deviation.
+concepts:
+- δ
+- δ-harmonics
+- δ-Dirac
+aliases:
+- Bk003bs
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.225352112676056
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

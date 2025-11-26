@@ -1,9 +1,20 @@
-block_type: paragraph
-concepts: []
-excerpt: That’s the risk. Not supernatural danger — **psychological manipulation danger.**
-heading: '**unless they have strong ethics.**'
 id: SPEC-11336
-lines: 7157-7164
 location: special/specil::1-spider-man-syndrome::unless-they-have-strong-ethics::b1
-parent_heading: '**⭐ 1\. “Spider-Man Syndrome” \=**'
 source: special\specil.md
+lines: 7157-7164
+heading: '**unless they have strong ethics.**'
+parent_heading: '**⭐ 1\. “Spider-Man Syndrome” \=**'
+block_type: paragraph
+excerpt: That’s the risk. Not supernatural danger — **psychological manipulation danger.**
+aliases:
+- Bk971tt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

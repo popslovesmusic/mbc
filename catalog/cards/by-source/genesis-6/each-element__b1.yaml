@@ -1,12 +1,35 @@
+id: GEN6-8343
+location: genesis-6/spectral-triple-axiom-box-sealed-version::2-explicit-99-matrix-369-block-structure::each-element::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1172-1182
+heading: '**Each element**'
+parent_heading: '**2\. Explicit 9×9 Matrix (3–6–9 Block Structure)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: κij=⟨ψi, Δδ ψj⟩\\kappa\_{ij} \= \\langle \\psi\_i,\\ \\Delta\_\\delta\\,
   \\psi\_j\\rangleκij​=⟨ψi​, Δδ​ψj​⟩ is an explicitly computable δ-overlap integral.
   The eigenvalues of this matrix are the **δ-b...
-heading: '**Each element**'
-id: GEN6-8343
-lines: 1172-1182
-location: genesis-6/spectral-triple-axiom-box-sealed-version::2-explicit-99-matrix-369-block-structure::each-element::b1
-parent_heading: '**2\. Explicit 9×9 Matrix (3–6–9 Block Structure)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- ψ
+- Δ
+- κ
+- δ-boson spectrum
+- physical flavor eigenstates
+- δ-harmonics
+- δ-overlap
+- δ-boson
+aliases:
+- Bk080kl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.363636363636363
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

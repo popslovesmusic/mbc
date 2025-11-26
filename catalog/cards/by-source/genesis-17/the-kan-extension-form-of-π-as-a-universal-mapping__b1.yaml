@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: Which proof do you want next?
-heading: • The Kan extension form of Π as a universal mapping.
 id: GEN17-4468
-lines: 5031-5033
 location: genesis-17/box-calculus::if-you-want-next::the-kan-extension-form-of-π-as-a-universal-mapping::b1
-parent_heading: '⭐ If you want next:'
 source: genesis-17\box_calculus.md
+lines: 5031-5033
+heading: • The Kan extension form of Π as a universal mapping.
+parent_heading: '⭐ If you want next:'
+block_type: paragraph
+excerpt: Which proof do you want next?
+concepts:
+- Proof
+aliases:
+- Bk499wp
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

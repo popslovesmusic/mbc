@@ -1,26 +1,42 @@
+id: GEN2-6403
+location: genesis-2/axioms-of-geometry-topos-compatible::one-line-summary::you-said::chatgpt-said::b2
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1331-1348
+heading: '**ChatGPT said:**'
+parent_heading: '**You said:**'
 block_type: paragraph
-concepts:
-- Action-Flow
-- Axiom
-- Axiom Box
-- Box
-- Foundation Layer Axiom Block
-- Foundation Layer Block
-- Intrinsic Deviation
-- Layer
-- Meta-Einstein
-- Meta-Physics
-- formal
-- publication-ready
-- sealed
-- Φ
-- δ
 excerpt: Below is the **canonical, merged δ \+ Φ Foundation Layer Axiom Block** —
   the *sealed*, *formal*, *publication-ready* version. It is designed to sit at the
   very front of the IGSOA framework, immediatel...
-heading: '**ChatGPT said:**'
-id: GEN2-6403
-lines: 1331-1348
-location: genesis-2/axioms-of-geometry-topos-compatible::one-line-summary::you-said::chatgpt-said::b2
-parent_heading: '**You said:**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Meta-Einstein
+- Foundation Layer
+- Axiom
+- Deviation
+- IGSOA
+- Layer
+- Box
+- δ
+- Φ
+- publication-ready
+- →
+- Foundation Layer Axiom Block
+- Meta-Physics
+- Action-Flow
+- topos-valid
+aliases:
+- Bk670bt
+tags:
+- axiom-box
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 24.418604651162788
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

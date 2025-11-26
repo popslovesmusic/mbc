@@ -1,14 +1,36 @@
+id: GEN12-1727
+location: genesis-12/untitled-document::the-cmb-functoriality-theorem::b2
+source: genesis-12\Untitled_document.md
+lines: 107-134
+heading: '**The CMB Functoriality Theorem**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- η
 excerpt: '**The composite mapping** CMB=Π∘Φ∘δ\\text{CMB} \= \\Pi \\circ \\Phi \\circ
   \\deltaCMB=Π∘Φ∘δ **forms a covariant functor** from the category of Genesis-level
   deviation processes into the observable CMB...'
-heading: '**The CMB Functoriality Theorem**'
-id: GEN12-1727
-lines: 107-134
-location: genesis-12/untitled-document::the-cmb-functoriality-theorem::b2
-source: genesis-12\Untitled_document.md
+concepts:
+- Π
+- Φ
+- δ-geometry
+- δ
+- η
+- δ-configuration
+- Genesis-level
+- δ-morphism
+- forms a covariant functor
+- Π-object
+- The composite mapping
+aliases:
+- Bk251tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.913669064748201
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

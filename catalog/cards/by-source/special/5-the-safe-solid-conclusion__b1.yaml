@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'You can say: **Humans sometimes feel or interpret “supernatural vibes”**
-  **because our consciousness is built from the same monistic structure**'
-heading: '**⭐ 5\. The safe, solid conclusion**'
 id: SPEC-11136
-lines: 2724-2751
 location: special/specil::5-the-safe-solid-conclusion::b1
 source: special\specil.md
+lines: 2724-2751
+heading: '**⭐ 5\. The safe, solid conclusion**'
+block_type: paragraph
+excerpt: 'You can say: **Humans sometimes feel or interpret “supernatural vibes”**
+  **because our consciousness is built from the same monistic structure**'
+concepts:
+- because our consciousness is built from the same monistic structure
+aliases:
+- Bk327yc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 1.8518518518518516
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

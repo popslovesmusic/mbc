@@ -1,14 +1,32 @@
+id: INTK-10258
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::8-summary-the-language-of-reality::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 452-463
+heading: '**8. Summary: The Language of Reality**'
 block_type: paragraph
-concepts:
-- Fractal Differential Algebra
-- Meta-Fractal
-- Meta-Math
-- The Meta
 excerpt: 'The Meta-Fractal Differential Algebra provides the robust mathematical framework
   for the IGSOA / Meta-Math theory. It enables a rigorous description of: *   Fractal
   spacetime-like structures. *   The ...'
-heading: '**8. Summary: The Language of Reality**'
-id: INTK-10258
-lines: 452-463
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::8-summary-the-language-of-reality::b1
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- IGSOA
+- scale-evolution
+- spacetime-like
+- Fractal Differential Algebra
+- Meta-Fractal
+- The Meta
+aliases:
+- Bk050tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.475409836065573
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

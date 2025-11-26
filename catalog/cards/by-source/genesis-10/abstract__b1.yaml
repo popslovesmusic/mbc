@@ -1,22 +1,38 @@
+id: GEN10-924
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::deviation-geometry-and-the-laws-of-thermodynamics::abstract::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2896-2919
+heading: '**Abstract**'
+parent_heading: '**Deviation Geometry and the Laws of Thermodynamics**'
 block_type: paragraph
-concepts:
-- Energy
-- Entropy
-- Irreversibility
-- Meta-Genesis
-- Temperature
-- The First Law
-- The Second Law
-- The Third Law
-- Φ
-- Ψ
-- δ
 excerpt: 'This chapter reconstructs *all of thermodynamics* from the first principles
   of Meta-Genesis and δ-Geometry. We show: 1. **Energy** \= the persistent magnitude
   of deviation from Ψ₀.'
-heading: '**Abstract**'
-id: GEN10-924
-lines: 2896-2919
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::deviation-geometry-and-the-laws-of-thermodynamics::abstract::b1
-parent_heading: '**Deviation Geometry and the Laws of Thermodynamics**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- δ
+- Meta-Genesis
+- non-invertibility
+- Ψ
+- Φ
+- coarse-graining
+- Genesis-level
+- δ-eigenmodes
+- δ-magnitude
+- δ-Geometry
+- Φ-modes
+- Irreversibility
+- The Second Law
+- The First Law
+- The Third Law
+aliases:
+- Bk832tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.24137931034483
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

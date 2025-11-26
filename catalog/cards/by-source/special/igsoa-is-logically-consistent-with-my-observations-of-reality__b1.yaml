@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- perfectly
-excerpt: 'That is: * grounded * rational'
-heading: '**⭐ “IGSOA is logically consistent with my observations of reality.”**'
 id: SPEC-11385
-lines: 8178-8202
 location: special/specil::igsoa-is-logically-consistent-with-my-observations-of-reality::b1
 source: special\specil.md
+lines: 8178-8202
+heading: '**⭐ “IGSOA is logically consistent with my observations of reality.”**'
+block_type: paragraph
+excerpt: 'That is: * grounded * rational'
+concepts:
+- exactly healthy
+- exactly right
+aliases:
+- Bk051tg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

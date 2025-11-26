@@ -1,21 +1,39 @@
-block_type: paragraph
-concepts:
-- Algebra Theorem
-- Box
-- Einstein Equation
-- Harmonic Basis
-- Lie Algebra
-- Meta-Einstein
-- Meta-Time
-- Operator
-- Operator Table
-- Proof Box
-- Theorem
-- δ
-excerpt: 'The δ-operator algebra is a **fractal graded Lie algebra** with powers δⁿ
-  that: * define the δ-boson spectral tower * generate adjacency and curvature'
-heading: '**8\. Summary (for the reader)**'
 id: GEN0-343
-lines: 1606-1640
 location: genesis-0/why-the-first-action-is-necessary::8-summary-for-the-reader::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1606-1640
+heading: '**8\. Summary (for the reader)**'
+block_type: paragraph
+excerpt: 'The δ-operator algebra is a **fractal graded Lie algebra** with powers δⁿ
+  that: * define the δ-boson spectral tower * generate adjacency and curvature'
+concepts:
+- δ
+- Meta-Einstein
+- Meta-Time
+- Theorem
+- Proof
+- Feynman rules derived from these commutators
+- Operator
+- δ-Algebra
+- Box
+- flavor-sector
+- δ-spherical
+- fractal graded Lie algebra
+- δ-Operator
+- δ-Harmonic
+- δ-operator
+aliases:
+- Bk767to
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.6046511627907
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

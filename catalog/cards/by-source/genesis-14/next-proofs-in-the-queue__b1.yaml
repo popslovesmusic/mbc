@@ -1,21 +1,39 @@
-block_type: list
-concepts:
-- Curvature Perturbation Theorem
-- Flat Rotation Curves
-- Full Inflation
-- Harmonic Degeneracy
-- Higgs Reheating
-- Metric Stability Equation
-- Phase Locking
-- Structure Cascade Theorem
-- Theorem
-- next
-- Π
-- δ
-excerpt: 1. **PROOF 3 — δ-Higgs Reheating** 2. **PROOF 4 — κₙ Variance \= |hₙ|² (Curvature
-  Perturbation Theorem)** 3. **PROOF 5 — Filaments/Sheets/Nodes from δ-Harmonic Degeneracy**
-heading: '**NEXT PROOFS IN THE QUEUE**'
 id: GEN14-2698
-lines: 729-745
 location: genesis-14/inflation-structure-formation::next-proofs-in-the-queue::b1
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 729-745
+heading: '**NEXT PROOFS IN THE QUEUE**'
+block_type: list
+excerpt: 1. **PROOF 3 — δ-Higgs Reheating** 2. **PROOF 4 — κₙ Variance \= |hₙ|² (Curvature
+  Perturbation Theorem)** 3. **PROOF 5 — Filaments/Sheets/Nodes from δ-Harmonic Degeneracy**
+concepts:
+- Curvature
+- Theorem
+- Proof
+- δ
+- Curvature Perturbation Theorem
+- Structure Cascade Theorem
+- δ-Harmonic
+- Metric Stability Equation
+- Π-Metric
+- δ-Higgs
+- Π
+- χ
+- κ
+- Flat Rotation Curves
+- Harmonic Degeneracy
+aliases:
+- Bk336ph
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.6875
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

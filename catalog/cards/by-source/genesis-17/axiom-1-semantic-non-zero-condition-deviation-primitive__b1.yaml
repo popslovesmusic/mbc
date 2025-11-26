@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Σ
-excerpt: Every semantic state possesses non-zero deviation. There exists no null or
-  void state. ∀Σ∈V:Σ≠0.
-heading: 🔷 AXIOM 1 – Semantic Non-Zero Condition (Deviation Primitive)
 id: GEN17-4777
-lines: 9252-9260
 location: genesis-17/box-calculus::axiom-1-semantic-non-zero-condition-deviation-primitive::b1
 source: genesis-17\box_calculus.md
+lines: 9252-9260
+heading: 🔷 AXIOM 1 – Semantic Non-Zero Condition (Deviation Primitive)
+block_type: paragraph
+excerpt: Every semantic state possesses non-zero deviation. There exists no null or
+  void state. ∀Σ∈V:Σ≠0.
+concepts:
+- IGSOA
+- Σ
+- ∀
+- ∈
+- non-zero
+- ≠
+aliases:
+- Bk119es
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

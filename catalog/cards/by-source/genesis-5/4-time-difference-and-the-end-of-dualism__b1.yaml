@@ -1,13 +1,27 @@
+id: GEN5-7991
+location: genesis-5/formal-proof-of-the-adjoint-triple::4-time-difference-and-the-end-of-dualism::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 806-849
+heading: '**4\. Time, Difference, and the End of Dualism**'
 block_type: paragraph
+excerpt: In the IGSOA monism, time is not a background parameter. Time is not an axis.
+  Time is not a flowing medium.
 concepts:
 - Meta-Math
 - Meta-Time
-- creates
-- modes
-excerpt: In the IGSOA monism, time is not a background parameter. Time is not an axis.
-  Time is not a flowing medium.
-heading: '**4\. Time, Difference, and the End of Dualism**'
-id: GEN5-7991
-lines: 806-849
-location: genesis-5/formal-proof-of-the-adjoint-triple::4-time-difference-and-the-end-of-dualism::b1
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+- IGSOA
+- same act of deviation
+aliases:
+- Bk779ti
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.857142857142857
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

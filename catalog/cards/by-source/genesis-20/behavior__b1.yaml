@@ -1,11 +1,24 @@
+id: GEN20-6767
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::37-π-the-evaluation-realization-operator::behavior::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1365-1373
+heading: Behavior
+parent_heading: 3.7 Π — The Evaluation / Realization Operator
 block_type: list
-concepts:
-- Π
 excerpt: '* resolves ambiguity * collapses structure into a usable form * assigns
   or extracts meaning'
-heading: Behavior
-id: GEN20-6767
-lines: 1365-1373
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::37-π-the-evaluation-realization-operator::behavior::b1
-parent_heading: 3.7 Π — The Evaluation / Realization Operator
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- truth-function
+- Π
+aliases:
+- Bk341ra
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,28 @@
+id: GEN6-8252
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::5-what-fixes-the-size-of-mixing::triangle-rule-δ-harmonic::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 603-605
+heading: '**Triangle rule (δ-harmonic)**'
+parent_heading: '**5\) What fixes the *size* of mixing?**'
 block_type: paragraph
+excerpt: ∣ℓα−ℓβ∣≤ℓK≤ℓα+ℓβ.(S2)|\\ell\_\\alpha-\\ell\_\\beta|\\le \\ell\_K \\le \\ell\_\\alpha+\\ell\_\\beta
+  . \\tag{S2}∣ℓα​−ℓβ​∣≤ℓK​≤ℓα​+ℓβ​.(S2)
 concepts:
 - α
 - β
-excerpt: ∣ℓα−ℓβ∣≤ℓK≤ℓα+ℓβ.(S2)|\\ell\_\\alpha-\\ell\_\\beta|\\le \\ell\_K \\le \\ell\_\\alpha+\\ell\_\\beta
-  . \\tag{S2}∣ℓα​−ℓβ​∣≤ℓK​≤ℓα​+ℓβ​.(S2)
-heading: '**Triangle rule (δ-harmonic)**'
-id: GEN6-8252
-lines: 603-605
-location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::5-what-fixes-the-size-of-mixing::triangle-rule-δ-harmonic::b1
-parent_heading: '**5\) What fixes the *size* of mixing?**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+- ≤
+aliases:
+- Bk586ea
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

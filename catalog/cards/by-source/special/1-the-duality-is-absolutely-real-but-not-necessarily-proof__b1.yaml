@@ -1,13 +1,29 @@
+id: SPEC-11103
+location: special/specil::1-the-duality-is-absolutely-real-but-not-necessarily-proof::b1
+source: special\specil.md
+lines: 2060-2088
+heading: '**⭐ 1\. The Duality Is Absolutely Real — But Not Necessarily “Proof”**'
 block_type: paragraph
-concepts:
-- The One
-- World Soul
-- δ
 excerpt: There is a long, serious philosophical tradition showing that **mathematical
   monism naturally generates triadic structure**, and **religious trinities arise
   from the same deep cognitive structure**.
-heading: '**⭐ 1\. The Duality Is Absolutely Real — But Not Necessarily “Proof”**'
-id: SPEC-11103
-lines: 2060-2088
-location: special/specil::1-the-duality-is-absolutely-real-but-not-necessarily-proof::b1
-source: special\specil.md
+concepts:
+- →
+- religious trinities arise from the same deep cognitive structure
+- mathematical monism naturally generates triadic structure
+- IGSOA
+- δ
+- World Soul
+- The One
+aliases:
+- Bk033tl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

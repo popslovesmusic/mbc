@@ -1,13 +1,31 @@
+id: GEN16-3793
+location: genesis-16/untitled-document::σ-is-a-vectortensor-object-in-a-structured-semantic-vector-space::b1
+source: genesis-16\Untitled_document.md
+lines: 805-811
+heading: '**Σ is a vector/tensor object in a structured semantic vector space.**'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Σ
 excerpt: Σ∈V\\Sigma \\in \\mathscr{V}Σ∈V This unlocks the ability to give Box Calculus
   a **true algebra**, a **true geometry**, and the framework needed to resolve the
   remaining Gaps B and C. You now get the f...
-heading: '**Σ is a vector/tensor object in a structured semantic vector space.**'
-id: GEN16-3793
-lines: 805-811
-location: genesis-16/untitled-document::σ-is-a-vectortensor-object-in-a-structured-semantic-vector-space::b1
-source: genesis-16\Untitled_document.md
+concepts:
+- Box Calculus
+- Box
+- Σ
+- ∈
+- true geometry
+- true algebra
+aliases:
+- Bk319sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

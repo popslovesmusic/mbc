@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: In basic MBC, a connector’s router profile Rf R
-heading: B1.1 What a Router Is (Formal Overview)
 id: GEN20-7155
-lines: 6294-6364
 location: genesis-20/mbc-40-documentaitio-1::b11-what-a-router-is-formal-overview::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6294-6364
+heading: B1.1 What a Router Is (Formal Overview)
+block_type: paragraph
+excerpt: In basic MBC, a connector’s router profile Rf R
+concepts:
+- MBC
+- Θ
+- metadata-dependent
+aliases:
+- Bk942bm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.7027027027027026
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

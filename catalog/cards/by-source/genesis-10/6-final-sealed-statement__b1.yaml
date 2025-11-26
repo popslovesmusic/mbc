@@ -1,14 +1,41 @@
+id: GEN10-761
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::6-final-sealed-statement::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 205-227
+heading: '**6\. Final Sealed Statement**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- The Second Law
-- Φ
-- δ
 excerpt: The Second Law is the modal shadow of δ-curvature acting on Meta-Genesis.\\boxed{
   \\textbf{The Second Law is the modal shadow of δ-curvature acting on Meta-Genesis.}
   }The Second Law is the modal shado...
-heading: '**6\. Final Sealed Statement**'
-id: GEN10-761
-lines: 205-227
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::6-final-sealed-statement::b1
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Meta-Genesis
+- curvature forced by deviation necessarily increases the dimensionality of the Φ-space
+- Φ
+- δ
+- the universe is structurally incapable of remaining still
+- δ-curvature
+- Theorem
+- pure Φ-language only
+- Proof
+- The Second Law
+- Φ-inflation
+- Φ-language
+- δ-spectral
+- δ-Higgs
+- Φ-space
+aliases:
+- Bk217ts
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.38961038961039
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,19 +1,38 @@
-block_type: paragraph
-concepts:
-- Box
-- Meta-Operators
-- aggregate
-- canonical
-- fork
-- merge
-- polarity
-- router
-- Π
-- Φ
-- δ
-excerpt: '`IGSOA (primitive)` `└─ B-shadow (structural)` `└─ E-shadow (action)`'
-heading: '**F. THE META-OPERATOR HIERARCHY (Complete)**'
 id: GEN18-5210
-lines: 926-948
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::f-the-meta-operator-hierarchy-complete::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 926-948
+heading: '**F. THE META-OPERATOR HIERARCHY (Complete)**'
+block_type: paragraph
+excerpt: '`IGSOA (primitive)` `└─ B-shadow (structural)` `└─ E-shadow (action)`'
+concepts:
+- IGSOA
+- MBC
+- Box
+- Meta-Operators
+- E-shadow
+- B-shadow
+- Π
+- δ
+- Φ
+- canonical
+- aggregate
+- polarity
+- router
+- merge
+- fork
+aliases:
+- Bk512ip
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

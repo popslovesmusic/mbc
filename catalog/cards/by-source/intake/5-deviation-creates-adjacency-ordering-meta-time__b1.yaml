@@ -1,14 +1,28 @@
+id: INTK-10110
+location: intake/meta-genesis-physical-interpretation-papers::5-deviation-creates-adjacency-ordering-meta-time::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 533-550
+heading: '**5\. Deviation Creates Adjacency → Ordering → Meta-Time**'
 block_type: paragraph
-concepts:
-- adjacency
-- record
-- Ψ
-- δ
 excerpt: 'The moment δ occurs, the structureless state gains a structure: Ψ0↦Ψ1.\\Psi\_0
   \\mapsto \\Psi\_1.Ψ0​↦Ψ1​. This single difference introduces the first **adjacency**
   relation:'
-heading: '**5\. Deviation Creates Adjacency → Ordering → Meta-Time**'
-id: INTK-10110
-lines: 533-550
-location: intake/meta-genesis-physical-interpretation-papers::5-deviation-creates-adjacency-ordering-meta-time::b1
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- Adjacency
+- is meta-time
+- meta-time
+- δ
+- adjacency
+aliases:
+- Bk389tm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.955223880597014
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

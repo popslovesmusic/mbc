@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: No hand-made mechanism.
-heading: '**✔ Meta-Reheating is simply δ releasing its curvature**'
 id: GEN1-394
-lines: 532-534
 location: genesis-1/the-first-geometry::4-why-your-model-naturally-avoids-the-big-problems-of-inflation::meta-reheating-is-simply-δ-releasing-its-curvature::b1
-parent_heading: '**4\. Why Your Model Naturally Avoids the Big Problems of Inflation**'
 source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 532-534
+heading: '**✔ Meta-Reheating is simply δ releasing its curvature**'
+parent_heading: '**4\. Why Your Model Naturally Avoids the Big Problems of Inflation**'
+block_type: paragraph
+excerpt: No hand-made mechanism.
+concepts:
+- hand-made
+aliases:
+- Bk779hm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

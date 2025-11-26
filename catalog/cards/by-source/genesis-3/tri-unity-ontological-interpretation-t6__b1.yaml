@@ -1,15 +1,31 @@
+id: GEN3-7520
+location: genesis-3/the-tri-unity-theorem::tri-unity-ontological-interpretation-t6::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 586-598
+heading: '**Tri-Unity Ontological Interpretation (T6)**'
 block_type: list
+excerpt: 1. δ \= **Action** (the First Movement) 2. Φ \= **Form** (the emergence of
+  structure) 3. π \= **Being** (realization / actuality)
 concepts:
 - Action
 - Being
-- First Movement
 - Form
-- Φ
+- π
 - δ
-excerpt: 1. δ \= **Action** (the First Movement) 2. Φ \= **Form** (the emergence of
-  structure) 3. π \= **Being** (realization / actuality)
-heading: '**Tri-Unity Ontological Interpretation (T6)**'
-id: GEN3-7520
-lines: 586-598
-location: genesis-3/the-tri-unity-theorem::tri-unity-ontological-interpretation-t6::b1
-source: genesis-3\The_Tri-Unity_Theorem.md
+- Φ
+- First Movement
+aliases:
+- Bk796at
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.444444444444446
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

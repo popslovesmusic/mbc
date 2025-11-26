@@ -1,13 +1,32 @@
+id: GEN19-6213
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::this-is-fully-strict-mode-compliant::key-outputs-from-the-deeper-extractor::peaksets-now-explicitly-multi-scale::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2468-2473
+heading: Peaksets (now explicitly multi-scale)
+parent_heading: Key Outputs from the Deeper Extractor
 block_type: list
-concepts:
-- Domain-Lift
-- Meta-Bridge
 excerpt: '1. PS-Kernel: Indefinite ↔ definite/path evaluation (\[M1\]/\[S1\]) 2. PS-Continuity:
   Continuity as shared hypothesis anchor (\[M2\]/\[S2\]) 3. PS-Domain-Lift: Interval
   → curve generalization (\[M6\]/...'
-heading: Peaksets (now explicitly multi-scale)
-id: GEN19-6213
-lines: 2468-2473
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::this-is-fully-strict-mode-compliant::key-outputs-from-the-deeper-extractor::peaksets-now-explicitly-multi-scale::b1
-parent_heading: Key Outputs from the Deeper Extractor
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- ↔
+- PS-Domain-Lift
+- PS-Meta-Bridge
+- PS-Continuity
+- PS-Kernel
+- →
+aliases:
+- Bk961ki
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.216216216216218
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

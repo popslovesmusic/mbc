@@ -1,11 +1,30 @@
+id: GEN17-4178
+location: genesis-17/box-calculus::box-calculus-v02-closing-the-three-gaps::a-type-system-boundary-alphabet::typed-state::b1
+source: genesis-17\box_calculus.md
+lines: 363-367
+heading: Typed State
+parent_heading: A) Type System / Boundary Alphabet
 block_type: table
+excerpt: ''
 concepts:
+- IGSOA
 - Σ
 - τ
-excerpt: ''
-heading: Typed State
-id: GEN17-4178
-lines: 363-367
-location: genesis-17/box-calculus::box-calculus-v02-closing-the-three-gaps::a-type-system-boundary-alphabet::typed-state::b1
-parent_heading: A) Type System / Boundary Alphabet
-source: genesis-17\box_calculus.md
+- ∈
+- State
+- type-indexed
+- Σi
+aliases:
+- Bk525is
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.21212121212121
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

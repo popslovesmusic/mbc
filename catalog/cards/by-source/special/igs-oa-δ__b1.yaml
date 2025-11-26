@@ -1,11 +1,27 @@
+id: SPEC-11093
+location: special/specil::1-the-trinity-as-a-real-structural-pattern::igs-oa-δ::b1
+source: special\specil.md
+lines: 1867-1895
+heading: '**IGS → OA → δ**'
+parent_heading: '**⭐ 1\. The Trinity as a Real Structural Pattern**'
 block_type: paragraph
-concepts:
-- triad
 excerpt: potential → activation → actualization source → process → form mind → action
   → world
-heading: '**IGS → OA → δ**'
-id: SPEC-11093
-lines: 1867-1895
-location: special/specil::1-the-trinity-as-a-real-structural-pattern::igs-oa-δ::b1
-parent_heading: '**⭐ 1\. The Trinity as a Real Structural Pattern**'
-source: special\specil.md
+concepts:
+- →
+- structurally required
+- triad
+aliases:
+- Bk601pa
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.122448979591836
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

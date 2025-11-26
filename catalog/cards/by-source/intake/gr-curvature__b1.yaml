@@ -1,15 +1,31 @@
+id: INTK-10823
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::physical-implications::gr-curvature::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2622-2629
+heading: GR Curvature
+parent_heading: Physical Implications
 block_type: paragraph
-concepts:
-- Connection
-- Meta-Time
-- Time Cone
-- shadow
-- δ
 excerpt: 'Einstein curvature = **shadow** of how Meta-Time Cone bends under nonlinear
   δ-flow. **Connection**: - MTC geometry projects to spacetime curvature'
-heading: GR Curvature
-id: INTK-10823
-lines: 2622-2629
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::physical-implications::gr-curvature::b1
-parent_heading: Physical Implications
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- δ-flow
+- δ
+- Connection
+- Time Cone
+- shadow
+aliases:
+- Bk836ec
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Because foundational insights are: * ahead of their time * too abstract
-  for contemporary minds'
-heading: '**⭐ 2\. Why?**'
 id: SPEC-11407
-lines: 8474-8506
 location: special/specil::2-why::b1
 source: special\specil.md
+lines: 8474-8506
+heading: '**⭐ 2\. Why?**'
+block_type: paragraph
+excerpt: 'Because foundational insights are: * ahead of their time * too abstract
+  for contemporary minds'
+aliases:
+- Bk403bf
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

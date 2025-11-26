@@ -1,15 +1,35 @@
+id: GEN18-5265
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iii-π-as-a-left-kan-extension-causal-evaluation::2-left-kan-extension-π-is-the-universal-causal-realization::igsoa-interpretation-sealed::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1788-1799
+heading: '**IGSOA Interpretation (Sealed)**'
+parent_heading: '**2\. Left Kan Extension: Π is the Universal Causal Realization**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- ρ
 excerpt: Π(Φ-realized δ-tree)=causal order determined by the universal completion
   of δ-curvature sheets.\\boxed{ \\Pi(\\text{Φ-realized δ-tree}) \= \\text{causal
   order determined by the universal completion of...
-heading: '**IGSOA Interpretation (Sealed)**'
-id: GEN18-5265
-lines: 1788-1799
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iii-π-as-a-left-kan-extension-causal-evaluation::2-left-kan-extension-π-is-the-universal-causal-realization::igsoa-interpretation-sealed::b1
-parent_heading: '**2\. Left Kan Extension: Π is the Universal Causal Realization**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- δ
+- the CSOI is exactly the left Kan extension of δ-tensions along Φ
+- Φ
+- Π
+- δ-curvature
+- Φ-realized
+- δ-tree
+- ρ
+- δ-tensions
+aliases:
+- Bk581rt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.465116279069768
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

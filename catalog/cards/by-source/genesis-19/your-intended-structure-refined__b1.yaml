@@ -1,13 +1,29 @@
+id: GEN19-6064
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-why-your-expression-works::your-intended-structure-refined::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 574-612
+heading: 'Your intended structure (refined):'
+parent_heading: 4\. Why Your Expression Works
 block_type: paragraph
-concepts:
-- Θ
-- Π
-- Σ
 excerpt: (concepts \+ relationships) \---\> claims \---\> {contradictions, causal
   references, polarity, tone,
-heading: 'Your intended structure (refined):'
-id: GEN19-6064
-lines: 574-612
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-why-your-expression-works::your-intended-structure-refined::b1
-parent_heading: 4\. Why Your Expression Works
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- MBC
+- meta-data
+- Σ
+- Π
+- Θ
+aliases:
+- Bk676cr
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.807692307692308
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

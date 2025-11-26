@@ -1,17 +1,36 @@
+id: INTK-10450
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::key-operators::3-scale-covariant-derivative-σ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1543-1546
+heading: 3. Scale-Covariant Derivative (∇_σ)
+parent_heading: Key Operators
 block_type: list
-concepts:
-- Fractal Renormalization
-- Meta-Connection
-- Meta-Fields
-- Meta-Fractal
-- Ψ
-- σ
 excerpt: '- **Definition:** Describes how Meta-Fields change as they are "moved" or
   transformed across different scale layers (`σ`) of F. - **Application:** Essential
   for Meta-Fractal Renormalization. It requir...'
-heading: 3. Scale-Covariant Derivative (∇_σ)
-id: INTK-10450
-lines: 1543-1546
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::key-operators::3-scale-covariant-derivative-σ::b1
-parent_heading: Key Operators
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- σ
+- Definition
+- Ψ
+- Meta-Connection
+- Meta-Fractal
+- Meta-Fields
+- Fractal Renormalization
+- ∧
+- ∇
+- ∂
+aliases:
+- Bk457dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

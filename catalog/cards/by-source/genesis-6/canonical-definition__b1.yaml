@@ -1,12 +1,28 @@
+id: GEN6-8432
+location: genesis-6/the-harmonic-spectral-triple::3-β-functions-for-δ-mode-couplings::canonical-definition::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 1123-1127
+heading: '**Canonical definition**'
+parent_heading: '**3\. β-Functions for δ-Mode Couplings**'
 block_type: paragraph
+excerpt: 'For each δ-mode coupling: βnmk(g)=dgnmkdln⁡μ.\\beta\_{nmk}(g)=\\frac{d g\_{nmk}}{d\\ln\\mu}.βnmk​(g)=dlnμdgnmk​​.'
 concepts:
+- μ
 - β
 - δ
-- μ
-excerpt: 'For each δ-mode coupling: βnmk(g)=dgnmkdln⁡μ.\\beta\_{nmk}(g)=\\frac{d g\_{nmk}}{d\\ln\\mu}.βnmk​(g)=dlnμdgnmk​​.'
-heading: '**Canonical definition**'
-id: GEN6-8432
-lines: 1123-1127
-location: genesis-6/the-harmonic-spectral-triple::3-β-functions-for-δ-mode-couplings::canonical-definition::b1
-parent_heading: '**3\. β-Functions for δ-Mode Couplings**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+- δ-mode
+aliases:
+- Bk415fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

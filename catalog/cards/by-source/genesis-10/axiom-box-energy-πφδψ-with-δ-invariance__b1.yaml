@@ -1,21 +1,38 @@
-block_type: list
-concepts:
-- Axiom
-- Deviation Axiom
-- Deviation Norm
-- Distribution Axiom
-- First Law
-- Invariance Axiom
-- Persistence Axiom
-- Projection Axiom
-- Π
-- Φ
-- Ψ
-- δ
-excerpt: 1. **Deviation Axiom:** δΨ≠0.δΨ \\neq 0.δΨ=0. 2. **Persistence Axiom:**
-heading: '**Axiom Box: Energy \= Π(Φ(δΨ)) with δ-Invariance**'
 id: GEN10-892
-lines: 2395-2420
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::1-sealed-axiom-box-δφπ-first-law::axiom-box-energy-πφδψ-with-δ-invariance::b1
-parent_heading: '**1\. Sealed Axiom Box: δ–Φ–Π First Law**'
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2395-2420
+heading: '**Axiom Box: Energy \= Π(Φ(δΨ)) with δ-Invariance**'
+parent_heading: '**1\. Sealed Axiom Box: δ–Φ–Π First Law**'
+block_type: list
+excerpt: 1. **Deviation Axiom:** δΨ≠0.δΨ \\neq 0.δΨ=0. 2. **Persistence Axiom:**
+concepts:
+- δ
+- Ψ
+- Φ
+- Axiom
+- Π
+- Deviation
+- Projection
+- ∑
+- ≠
+- ∀
+- →
+- Φ-Distribution
+- Π-Projection
+- Φ-components
+- Distribution Axiom
+aliases:
+- Bk147da
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.021857923497267
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

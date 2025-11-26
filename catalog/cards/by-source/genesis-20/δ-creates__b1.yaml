@@ -1,10 +1,22 @@
+id: GEN20-6810
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::62-stage-1-δ-deviation::δ-creates::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2016-2027
+heading: 'δ creates:'
+parent_heading: '6.2 Stage 1 — δ: Deviation'
 block_type: list
+excerpt: '* disturbance * contrast * imbalance'
 concepts:
 - δ
-excerpt: '* disturbance * contrast * imbalance'
-heading: 'δ creates:'
-id: GEN20-6810
-lines: 2016-2027
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::62-stage-1-δ-deviation::δ-creates::b1
-parent_heading: '6.2 Stage 1 — δ: Deviation'
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk292dc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.166666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

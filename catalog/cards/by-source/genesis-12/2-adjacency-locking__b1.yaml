@@ -1,11 +1,26 @@
+id: GEN12-1834
+location: genesis-12/untitled-document::2-when-φ-becomes-nonlinear-the-first-galactic-seeds::2-adjacency-locking::b1
+source: genesis-12\Untitled_document.md
+lines: 1761-1763
+heading: '**(2) Adjacency Locking**'
+parent_heading: '**2\. When Φ Becomes Nonlinear: The First Galactic Seeds**'
 block_type: paragraph
-concepts: []
 excerpt: The adjacency pattern around a proto-galactic core becomes stable; matter
   entering the basin cannot rearrange the curvature anymore—the curvature is now leading
   the collapse.
-heading: '**(2) Adjacency Locking**'
-id: GEN12-1834
-lines: 1761-1763
-location: genesis-12/untitled-document::2-when-φ-becomes-nonlinear-the-first-galactic-seeds::2-adjacency-locking::b1
-parent_heading: '**2\. When Φ Becomes Nonlinear: The First Galactic Seeds**'
-source: genesis-12\Untitled_document.md
+concepts:
+- proto-galactic
+aliases:
+- Bk779ta
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.8461538461538463
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

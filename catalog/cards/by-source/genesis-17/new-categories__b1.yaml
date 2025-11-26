@@ -1,9 +1,26 @@
-block_type: list
-concepts: []
-excerpt: '* 𝓜𝓑 (meta-Boxes) * 𝓜𝓒 (meta-causal)'
-heading: '**New Categories**'
 id: GEN17-5091
-lines: 1179-1183
 location: genesis-17/mbc-schema-3::7-summary-of-what-mbc-40-adds::new-categories::b1
-parent_heading: '**7\. Summary of What MBC-4.0 Adds**'
 source: genesis-17\MBC_Schema_3.md
+lines: 1179-1183
+heading: '**New Categories**'
+parent_heading: '**7\. Summary of What MBC-4.0 Adds**'
+block_type: list
+excerpt: '* 𝓜𝓑 (meta-Boxes) * 𝓜𝓒 (meta-causal)'
+concepts:
+- meta-causal
+- meta-Boxes
+aliases:
+- Bk209mb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

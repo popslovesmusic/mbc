@@ -1,11 +1,26 @@
+id: GEN20-6983
+location: genesis-20/mbc-40-documentaitio-1::answer-to-your-question-concise::chapter-13-advanced-topics-overview-introduction::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4089-4093
+heading: Chapter 13 — Advanced Topics Overview / Introduction
+parent_heading: ⭐ ANSWER TO YOUR QUESTION (CONCISE)
 block_type: paragraph
-concepts:
-- Advanced Section
 excerpt: 'as the entry point into the Advanced Section. Just say: “Proceed with Chapter
   13.”'
-heading: Chapter 13 — Advanced Topics Overview / Introduction
-id: GEN20-6983
-lines: 4089-4093
-location: genesis-20/mbc-40-documentaitio-1::answer-to-your-question-concise::chapter-13-advanced-topics-overview-introduction::b1
-parent_heading: ⭐ ANSWER TO YOUR QUESTION (CONCISE)
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Advanced Section
+aliases:
+- Bk049te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

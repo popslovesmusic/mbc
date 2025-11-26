@@ -1,10 +1,31 @@
+id: GEN4-7658
+location: genesis-4/meta-physics-axiom-box::this-completes-the-topos-theoretic-proof::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 861-870
+heading: '**This completes the topos-theoretic proof.**'
 block_type: paragraph
-concepts: []
 excerpt: 'If you want, I can now produce: 📘 **Topos diagrams** (string diagrams, slice
   diagrams, locale diagrams) 📘 **The externalization lemma** showing precisely how
   light cones arise'
-heading: '**This completes the topos-theoretic proof.**'
-id: GEN4-7658
-lines: 861-870
-location: genesis-4/meta-physics-axiom-box::this-completes-the-topos-theoretic-proof::b1
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- A complete appendix version for your formal paper
+- Lemma
+- Proof
+- The externalization lemma
+- Topos diagrams
+aliases:
+- Bk504yw
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.638297872340425
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

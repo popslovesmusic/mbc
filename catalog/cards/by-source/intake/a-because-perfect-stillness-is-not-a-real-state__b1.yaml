@@ -1,11 +1,26 @@
+id: INTK-10036
+location: intake/meta-genesis-outreach-narrative-papers::day-1-breaking-the-static-symmetry::6-why-the-universe-could-not-stay-still::a-because-perfect-stillness-is-not-a-real-state::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 167-195
+heading: '**A: Because perfect stillness is not a real state.**'
+parent_heading: '**6\. Why the Universe Could Not Stay Still**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'It cannot exist. It cannot enforce itself. The zero-state is not a stable
   configuration—it is an *absence of configurations*. More formally:'
-heading: '**A: Because perfect stillness is not a real state.**'
-id: INTK-10036
-lines: 167-195
-location: intake/meta-genesis-outreach-narrative-papers::day-1-breaking-the-static-symmetry::6-why-the-universe-could-not-stay-still::a-because-perfect-stillness-is-not-a-real-state::b1
-parent_heading: '**6\. Why the Universe Could Not Stay Still**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- →
+- Theorem
+- δ
+- zero-state
+aliases:
+- Bk527ce
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.819277108433735
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

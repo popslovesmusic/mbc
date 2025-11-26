@@ -1,12 +1,28 @@
+id: GEN17-4323
+location: genesis-17/box-calculus::2-expansion-direction-ii-category-theoretic-completion::23-2-category-lift::b1
+source: genesis-17\box_calculus.md
+lines: 2502-2507
+heading: 2.3. 2-Category Lift
+parent_heading: '2\. Expansion Direction II: Category-Theoretic Completion'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
 excerpt: 'Boxes as 1-morphisms; operators as 2-morphisms. This yields: Box Calculus
   → A full semantic 2-category.'
-heading: 2.3. 2-Category Lift
-id: GEN17-4323
-lines: 2502-2507
-location: genesis-17/box-calculus::2-expansion-direction-ii-category-theoretic-completion::23-2-category-lift::b1
-parent_heading: '2\. Expansion Direction II: Category-Theoretic Completion'
-source: genesis-17\box_calculus.md
+concepts:
+- Box Calculus
+- Box
+- →
+aliases:
+- Bk394bm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

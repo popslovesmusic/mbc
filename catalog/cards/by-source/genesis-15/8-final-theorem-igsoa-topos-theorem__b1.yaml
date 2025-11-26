@@ -1,14 +1,35 @@
+id: GEN15-3480
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::8-final-theorem-igsoa-topos-theorem::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1649-1655
+heading: '**8\. Final Theorem (IGSOA ∞-Topos Theorem)**'
 block_type: paragraph
-concepts:
-- The Universe
-- Π
-- Φ
-- δ
 excerpt: The Universe is an ∞-topos X.\\textbf{The Universe is an ∞-topos } \\mathcal{X}.The
   Universe is an ∞-topos X. Deviation δ is a geometric morphism δ\\\*:X→X.\\textbf{Deviation
   } \\delta \\textbf{ is a ...
-heading: '**8\. Final Theorem (IGSOA ∞-Topos Theorem)**'
-id: GEN15-3480
-lines: 1649-1655
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::8-final-theorem-igsoa-topos-theorem::b1
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- Projection
+- Deviation
+- IGSOA
+- ∞
+- δ-sheaves
+- The Universe
+- Π
+- Φ
+- →
+aliases:
+- Bk070tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.952380952380952
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

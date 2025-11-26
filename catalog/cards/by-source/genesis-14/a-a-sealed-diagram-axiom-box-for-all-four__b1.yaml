@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (1-page hermetic, symbolic diagrams only)
-heading: '**A. A sealed “Diagram Axiom Box” for all four**'
 id: GEN14-2860
-lines: 1024-1026
 location: genesis-14/meta-math-and-cryptography::if-you-want-i-can-now-give-you::a-a-sealed-diagram-axiom-box-for-all-four::b1
-parent_heading: '**If you want, I can now give you:**'
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1024-1026
+heading: '**A. A sealed “Diagram Axiom Box” for all four**'
+parent_heading: '**If you want, I can now give you:**'
+block_type: paragraph
+excerpt: (1-page hermetic, symbolic diagrams only)
+aliases:
+- Bk232ph
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

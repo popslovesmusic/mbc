@@ -1,11 +1,31 @@
+id: GEN20-7099
+location: genesis-20/mbc-40-documentaitio-1::short-answer-to-your-question::a13-philosophical-motivation-monism-requires-expansion::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5440-5456
+heading: 'A1.3 Philosophical Motivation: Monism Requires Expansion'
+parent_heading: ⭐ Short Answer to Your Question
 block_type: paragraph
-concepts: []
 excerpt: 'The monistic foundation (IGSOA) implies: A single underlying process must
   be capable of producing the full richness of reasoning, meaning, semantics, and
   logic.'
-heading: 'A1.3 Philosophical Motivation: Monism Requires Expansion'
-id: GEN20-7099
-lines: 5440-5456
-location: genesis-20/mbc-40-documentaitio-1::short-answer-to-your-question::a13-philosophical-motivation-monism-requires-expansion::b1
-parent_heading: ⭐ Short Answer to Your Question
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- IGSOA
+- MBC
+- higher-dimensional
+- self-stabilizing
+- multi-causal
+- multi-agent
+aliases:
+- Bk837tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.792207792207792
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

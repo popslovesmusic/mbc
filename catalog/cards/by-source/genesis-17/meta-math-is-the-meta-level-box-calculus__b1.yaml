@@ -1,14 +1,30 @@
+id: GEN17-4369
+location: genesis-17/box-calculus::6-meta-math-as-higher-order-box-calculus::meta-math-is-the-meta-level-box-calculus::b1
+source: genesis-17\box_calculus.md
+lines: 2962-2976
+heading: Meta-Math is the meta-level Box Calculus
+parent_heading: ⭐ 6\. META-MATH AS HIGHER-ORDER BOX CALCULUS
 block_type: paragraph
+excerpt: 'where: * Boxes encode objects * Operators encode morphisms'
 concepts:
-- Box
-- Box Calculus
 - Meta-Math
+- Box Calculus
+- Box
 - Π
 - δ
-excerpt: 'where: * Boxes encode objects * Operators encode morphisms'
-heading: Meta-Math is the meta-level Box Calculus
-id: GEN17-4369
-lines: 2962-2976
-location: genesis-17/box-calculus::6-meta-math-as-higher-order-box-calculus::meta-math-is-the-meta-level-box-calculus::b1
-parent_heading: ⭐ 6\. META-MATH AS HIGHER-ORDER BOX CALCULUS
-source: genesis-17\box_calculus.md
+aliases:
+- Bk674wb
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.204081632653061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

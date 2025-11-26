@@ -1,11 +1,26 @@
+id: GEN4-7739
+location: genesis-4/the-adjoint-triple::part-2-natural-transformations-between-them::1-projection-transformation-meta-time-physical-time::this-is-the-igsoa-statement::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 407-411
+heading: '**This is the IGSOA statement:**'
+parent_heading: '**1\. Projection Transformation (Meta-Time → Physical Time)**'
 block_type: paragraph
-concepts:
-- Meta-Time
 excerpt: '**Physical time is the natural image of Meta-Time under structural realization.**
   ---'
-heading: '**This is the IGSOA statement:**'
-id: GEN4-7739
-lines: 407-411
-location: genesis-4/the-adjoint-triple::part-2-natural-transformations-between-them::1-projection-transformation-meta-time-physical-time::this-is-the-igsoa-statement::b1
-parent_heading: '**1\. Projection Transformation (Meta-Time → Physical Time)**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Meta-Time
+aliases:
+- Bk696pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

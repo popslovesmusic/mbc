@@ -1,10 +1,32 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'A δ-mode at frequency nnn slightly shifts the inner wall: rδ,n=rδ+ϵ δnr\_{\\delta,n}=r\_\\delta
-  \+ \\epsilon \\, \\delta\_nrδ,n​=rδ​+ϵδn​ (Direct from δ-adjacency → radius shift.)'
-heading: '**✅ 4\. δ-Harmonic Induced Shift to Cavity Width**'
 id: GEN11-1015
-lines: 429-447
 location: genesis-11/how-curvature-could-generate-an-axis::4-δ-harmonic-induced-shift-to-cavity-width::b1
 source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 429-447
+heading: '**✅ 4\. δ-Harmonic Induced Shift to Cavity Width**'
+block_type: paragraph
+excerpt: 'A δ-mode at frequency nnn slightly shifts the inner wall: rδ,n=rδ+ϵ δnr\_{\\delta,n}=r\_\\delta
+  \+ \\epsilon \\, \\delta\_nrδ,n​=rδ​+ϵδn​ (Direct from δ-adjacency → radius shift.)'
+concepts:
+- δ
+- Δ
+- δn
+- δ-adjacency
+- δ-spectrum
+- δ-mode
+- →
+- δnr
+aliases:
+- Bk627mf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6190476190476195
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

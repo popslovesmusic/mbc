@@ -1,12 +1,29 @@
+id: GEN13-2382
+location: genesis-13/the-weight-of-light::1-framework-three-levels::i-δ-level-meta-genesis-adjacency-curvature::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1687-1690
+heading: '**(i) δ-Level (Meta-Genesis / Adjacency Curvature)**'
+parent_heading: '**1\. Framework: Three Levels**'
 block_type: paragraph
-concepts:
-- Operator
-- δ
 excerpt: 'Objects: δ-fields, deviation modes, δ-harmonics Operator algebra: δ acting
   as deviation derivation'
-heading: '**(i) δ-Level (Meta-Genesis / Adjacency Curvature)**'
-id: GEN13-2382
-lines: 1687-1690
-location: genesis-13/the-weight-of-light::1-framework-three-levels::i-δ-level-meta-genesis-adjacency-curvature::b1
-parent_heading: '**1\. Framework: Three Levels**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- Operator
+- δ-harmonics
+- δ-fields
+aliases:
+- Bk801of
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,24 @@
+id: GEN18-5174
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::8-summary-equation-expansion-precedes-time::standard-physics-summary::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 354-364
+heading: '**Standard Physics Summary**'
+parent_heading: '**8\. Summary Equation: Expansion Precedes Time**'
 block_type: paragraph
-concepts:
-- defines
 excerpt: Expansion creates gradients  ⇒  gradients create causal structure  ⇒  time
   emerges.\\text{Expansion creates gradients} \\;\\Rightarrow\\; \\text{gradients
   create causal structure} \\;\\Rightarrow\\; \...
-heading: '**Standard Physics Summary**'
-id: GEN18-5174
-lines: 354-364
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::8-summary-equation-expansion-precedes-time::standard-physics-summary::b1
-parent_heading: '**8\. Summary Equation: Expansion Precedes Time**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+aliases:
+- Bk948ec
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

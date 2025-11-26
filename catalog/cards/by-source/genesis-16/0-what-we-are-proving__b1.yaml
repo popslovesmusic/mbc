@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- collects
-- Π
-- Φ
-excerpt: 'To show: 1. **E is left adjoint to A** E⊣AE \\dashv AE⊣A'
-heading: '**⭐ 0\. WHAT WE ARE PROVING**'
 id: GEN16-4006
-lines: 3379-3399
 location: genesis-16/untitled-document::0-what-we-are-proving::b1
 source: genesis-16\Untitled_document.md
+lines: 3379-3399
+heading: '**⭐ 0\. WHAT WE ARE PROVING**'
+block_type: paragraph
+excerpt: 'To show: 1. **E is left adjoint to A** E⊣AE \\dashv AE⊣A'
+concepts:
+- IGSOA
+- Π
+- Φ
+- Φ is left adjoint to Π
+- E is left adjoint to A
+aliases:
+- Bk280sl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.575757575757576
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

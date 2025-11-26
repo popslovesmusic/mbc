@@ -1,13 +1,30 @@
+id: GEN3-7532
+location: genesis-3/the-tri-unity-theorem::iii-why-π-produces-classical-physics::3-π-enforces-adjacency-consistency::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 723-737
+heading: '**3\. π enforces adjacency-consistency**'
+parent_heading: '**III. Why π Produces Classical Physics**'
 block_type: paragraph
-concepts:
-- Axiom
-- From Axiom
-- Φ
 excerpt: 'From Axiom T3.2: π(AdjΦ)=Adjphys.\\pi(\\mathrm{Adj}\_\\Phi) \= \\mathrm{Adj}\_{\\text{phys}}.π(AdjΦ​)=Adjphys​.
   Meaning:'
-heading: '**3\. π enforces adjacency-consistency**'
-id: GEN3-7532
-lines: 723-737
-location: genesis-3/the-tri-unity-theorem::iii-why-π-produces-classical-physics::3-π-enforces-adjacency-consistency::b1
-parent_heading: '**III. Why π Produces Classical Physics**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- π
+- Axiom
+- Φ
+- classical adjacency graph
+- From Axiom
+aliases:
+- Bk392fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.416666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

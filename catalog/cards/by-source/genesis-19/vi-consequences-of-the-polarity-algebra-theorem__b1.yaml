@@ -1,15 +1,34 @@
+id: GEN19-5918
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::vi-consequences-of-the-polarity-algebra-theorem::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 648-667
+heading: '**VI. Consequences of the Polarity Algebra Theorem**'
 block_type: list
-concepts:
-- Classifier Power
-- Semantic Power
-- Θ
-- α
-- δ
 excerpt: 1. **Uniqueness:** Polarity is determined solely by δ-geometry \+ metadata.
   2. **Non-subjectivity:** No nuance, heuristics, or external semantics influence
   Θ. 3. **Closure:** Polarity forms a closed a...
-heading: '**VI. Consequences of the Polarity Algebra Theorem**'
-id: GEN19-5918
-lines: 648-667
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::vi-consequences-of-the-polarity-algebra-theorem::b1
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- δ-geometry
+- Polarity
+- Θ
+- δ
+- Classifier
+- α
+- κ
+- Non-subjectivity
+- δ-curvature
+- δ-cycles
+- Classifier Power
+- Semantic Power
+aliases:
+- Bk253up
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

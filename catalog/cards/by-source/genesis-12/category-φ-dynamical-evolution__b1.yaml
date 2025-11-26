@@ -1,11 +1,29 @@
+id: GEN12-1717
+location: genesis-12/untitled-document::1-preliminaries-categories-and-functors::11-categories::category-φ-dynamical-evolution::b1
+source: genesis-12\Untitled_document.md
+lines: 45-49
+heading: '**Category Φ (Dynamical Evolution)**'
+parent_heading: '**1.1 Categories**'
 block_type: list
-concepts:
-- Φ
 excerpt: '* **Objects:** Φ-fields, transport flows, resonance kernels, mode-evolution
   operators. * **Morphisms:** Φ-compatible evolution maps; causal transfer operators.'
-heading: '**Category Φ (Dynamical Evolution)**'
-id: GEN12-1717
-lines: 45-49
-location: genesis-12/untitled-document::1-preliminaries-categories-and-functors::11-categories::category-φ-dynamical-evolution::b1
-parent_heading: '**1.1 Categories**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- mode-evolution
+- Φ-compatible
+- Φ-fields
+aliases:
+- Bk954of
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Box
-- "Box   \nBi"
-- Σ
-- Ω
-- δ
-excerpt: For a graph G=(B,E) G=(B,E), each Box
-heading: 🔷 4\. Add Structural Projection for Multi-Box Systems
 id: GEN17-4861
-lines: 10512-10581
 location: genesis-17/box-calculus::derivation-continuous-mgde-discrete-mbc-step-rule::4-add-structural-projection-for-multi-box-systems::b1
-parent_heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
 source: genesis-17\box_calculus.md
+lines: 10512-10581
+heading: 🔷 4\. Add Structural Projection for Multi-Box Systems
+parent_heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
+block_type: paragraph
+excerpt: For a graph G=(B,E) G=(B,E), each Box
+concepts:
+- Σ
+- IGSOA
+- →
+- Box
+- δ
+- ∑
+- Σn
+- Ω
+- "Box   \nBi"
+- δn
+aliases:
+- Bk326fg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.235955056179774
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

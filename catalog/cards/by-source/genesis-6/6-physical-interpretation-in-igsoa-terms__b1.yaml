@@ -1,12 +1,39 @@
+id: GEN6-8337
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::6-physical-interpretation-in-igsoa-terms::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1061-1076
+heading: '**6\) Physical Interpretation in IGSOA terms**'
+parent_heading: '**If you want next:**'
 block_type: list
-concepts:
-- δ
 excerpt: '* **Gaussian FP:** deviation modes are free; adjacency is smooth; curvature
   small. Think “pre-structure” or high-dimension adjacency washout. * **δ-WF FP:**
   deviation self-interactions stabilize a **s...'
-heading: '**6\) Physical Interpretation in IGSOA terms**'
-id: GEN6-8337
-lines: 1061-1076
-location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::6-physical-interpretation-in-igsoa-terms::b1
-parent_heading: '**If you want next:**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- scale-invariant adjacency foam
+- scale-invariant
+- Theorem
+- self-interactions
+- high-dimension
+- pre-structure
+- theorem-style
+- non-Gaussian
+- δ-spectral
+- δ-bosons
+- δ-FPs
+- δ-WF
+aliases:
+- Bk153gd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.402061855670103
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

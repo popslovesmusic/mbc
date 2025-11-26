@@ -1,11 +1,27 @@
+id: GEN3-7572
+location: genesis-3/the-tri-unity-theorem::i-δaxioms-deviational-principle::axiom-d3-δ-generates-curvature::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1230-1236
+heading: '**Axiom D3 — δ Generates Curvature**'
+parent_heading: '**I. δ–Axioms: Deviational Principle**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Rδ=\[δ,δ\].R\_\\delta \= \[\\delta,\\delta\].Rδ​=\[δ,δ\]. All geometric structure
   originates from δ-curvature. ---
-heading: '**Axiom D3 — δ Generates Curvature**'
-id: GEN3-7572
-lines: 1230-1236
-location: genesis-3/the-tri-unity-theorem::i-δaxioms-deviational-principle::axiom-d3-δ-generates-curvature::b1
-parent_heading: '**I. δ–Axioms: Deviational Principle**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- δ
+- δ-curvature
+aliases:
+- Bk094dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

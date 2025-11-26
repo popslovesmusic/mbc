@@ -1,13 +1,29 @@
+id: GEN19-6152
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::6-how-mbc-represents-this::π-layer-evaluation-tensor::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1533-1540
+heading: Π-layer → evaluation tensor
+parent_heading: ⭐ 6\. How MBC Represents This
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Collapses multidimensional semantic space into stable implication paths.
   This gives: Tδ → TΦ → TΠ'
-heading: Π-layer → evaluation tensor
-id: GEN19-6152
-lines: 1533-1540
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::6-how-mbc-represents-this::π-layer-evaluation-tensor::b1
-parent_heading: ⭐ 6\. How MBC Represents This
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- →
+- Π
+- δ
+- Φ
+aliases:
+- Bk966cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

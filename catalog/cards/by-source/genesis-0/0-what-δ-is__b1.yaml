@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Meta-Math
-- Meta-Physics
-- δ
-excerpt: 'δ is both: 1. **an infinitesimal deviation operator** (Genesis → Meta-Math),
-  and 2. **a mode generator** (Meta-Math → Meta-Physics).'
-heading: '**0\. What δ *Is***'
 id: GEN0-324
-lines: 1338-1360
 location: genesis-0/why-the-first-action-is-necessary::0-what-δ-is::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1338-1360
+heading: '**0\. What δ *Is***'
+block_type: paragraph
+excerpt: 'δ is both: 1. **an infinitesimal deviation operator** (Genesis → Meta-Math),
+  and 2. **a mode generator** (Meta-Math → Meta-Physics).'
+concepts:
+- Meta-Math
+- an infinitesimal deviation operator
+- δ
+- →
+- Meta-Physics
+- a mode generator
+aliases:
+- Bk523bi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.76595744680851
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

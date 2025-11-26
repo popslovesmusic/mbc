@@ -1,12 +1,26 @@
+id: INTK-9797
+location: intake/meta-genesis-core-papers-foundations::2-operator-δ-mathematical-action::δ-operator-1-non-vanishing-action::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 548-552
+heading: '**(δ-Operator-1) Non-Vanishing Action**'
+parent_heading: '**2\. Operator δ (Mathematical Action)**'
 block_type: paragraph
+excerpt: ∀Ψ≠Ψ0,δ(Ψ)≠Ψ\\forall \\Psi \\neq \\Psi\_0,\\qquad \\delta(\\Psi) \\neq \\Psi∀Ψ=Ψ0​,δ(Ψ)=Ψ
+  Every state undergoes deviation; no state is static.
 concepts:
 - Ψ
 - δ
-excerpt: ∀Ψ≠Ψ0,δ(Ψ)≠Ψ\\forall \\Psi \\neq \\Psi\_0,\\qquad \\delta(\\Psi) \\neq \\Psi∀Ψ=Ψ0​,δ(Ψ)=Ψ
-  Every state undergoes deviation; no state is static.
-heading: '**(δ-Operator-1) Non-Vanishing Action**'
-id: INTK-9797
-lines: 548-552
-location: intake/meta-genesis-core-papers-foundations::2-operator-δ-mathematical-action::δ-operator-1-non-vanishing-action::b1
-parent_heading: '**2\. Operator δ (Mathematical Action)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+- ≠
+- ∀
+aliases:
+- Bk936fp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

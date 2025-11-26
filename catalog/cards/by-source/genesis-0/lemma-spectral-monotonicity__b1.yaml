@@ -1,10 +1,27 @@
+id: GEN0-349
+location: genesis-0/why-the-first-action-is-necessary::1-δ-mode-spectrum-fractal-mass-law::lemma-spectral-monotonicity::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1697-1701
+heading: '**Lemma (Spectral Monotonicity).**'
+parent_heading: '**1\. δ-Mode Spectrum (Fractal Mass Law)**'
 block_type: paragraph
-concepts: []
 excerpt: mk+1\>mk,∀ k≥1.m\_{k+1} \> m\_k,\\qquad \\forall\\, k\\ge 1.mk+1​\>mk​,∀k≥1.
   ---
-heading: '**Lemma (Spectral Monotonicity).**'
-id: GEN0-349
-lines: 1697-1701
-location: genesis-0/why-the-first-action-is-necessary::1-δ-mode-spectrum-fractal-mass-law::lemma-spectral-monotonicity::b1
-parent_heading: '**1\. δ-Mode Spectrum (Fractal Mass Law)**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- ∀
+- ≥
+aliases:
+- Bk346qf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

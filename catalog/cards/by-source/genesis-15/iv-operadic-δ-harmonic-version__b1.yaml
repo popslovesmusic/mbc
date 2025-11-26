@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'View δ as generating an operad of harmonic modes Oδ\\mathcal{O}\_{\\delta}Oδ​:
-  * Lower modes → local curvature * Higher tail modes → adjacency-extended harmonics'
-heading: '**IV. Operadic / δ-Harmonic Version**'
 id: GEN15-3262
-lines: 91-107
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iv-operadic-δ-harmonic-version::b1
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 91-107
+heading: '**IV. Operadic / δ-Harmonic Version**'
+block_type: paragraph
+excerpt: 'View δ as generating an operad of harmonic modes Oδ\\mathcal{O}\_{\\delta}Oδ​:
+  * Lower modes → local curvature * Higher tail modes → adjacency-extended harmonics'
+concepts:
+- Φ
+- all radii participate in the same operadic family
+- δ
+- adjacency-extended
+- ≥
+- →
+- Π
+aliases:
+- Bk535vg
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.777777777777778
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

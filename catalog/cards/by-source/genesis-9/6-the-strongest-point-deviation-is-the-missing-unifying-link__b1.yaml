@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- never
-- δ
-excerpt: Physics unifies EM \+ weak → electroweak. Physics unifies electroweak \+
-  strong → SU(5). Physics unifies SU(5) \+ gravity → ? (unknown).
-heading: '**6\. The Strongest Point: Deviation Is the Missing Unifying Link**'
 id: GEN9-9233
-lines: 454-478
 location: genesis-9/does-meta-genesis-indicate-new-physics::6-the-strongest-point-deviation-is-the-missing-unifying-link::b1
 source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 454-478
+heading: '**6\. The Strongest Point: Deviation Is the Missing Unifying Link**'
+block_type: paragraph
+excerpt: Physics unifies EM \+ weak → electroweak. Physics unifies electroweak \+
+  strong → SU(5). Physics unifies SU(5) \+ gravity → ? (unknown).
+concepts:
+- IGSOA
+- →
+- existence-trigger
+- δ
+- never
+aliases:
+- Bk833pu
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.627906976744185
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

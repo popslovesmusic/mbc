@@ -1,13 +1,35 @@
-block_type: paragraph
-concepts:
-- Zero State
-- Π
-- Φ
-- δ
-excerpt: 'Putting them together: T:=H∘G∘F:𝒢→H.T := H \\circ G \\circ F : 𝒢 \\to ℋ.T:=H∘G∘F:G→H.
-  T maps:'
-heading: '**3\. The Essential Composite Functor**'
 id: GEN10-829
-lines: 1314-1334
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-essential-composite-functor::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1314-1334
+heading: '**3\. The Essential Composite Functor**'
+block_type: paragraph
+excerpt: 'Putting them together: T:=H∘G∘F:𝒢→H.T := H \\circ G \\circ F : 𝒢 \\to ℋ.T:=H∘G∘F:G→H.
+  T maps:'
+concepts:
+- →
+- encodes the entire irreversible chain
+- State
+- δ
+- δ-adjacency
+- Π-histories
+- Φ-expansion
+- Π
+- Φ
+- Zero State
+- δ²
+aliases:
+- Bk762pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.444444444444443
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

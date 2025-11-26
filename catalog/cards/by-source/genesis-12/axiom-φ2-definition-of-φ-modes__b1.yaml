@@ -1,14 +1,32 @@
+id: GEN12-1591
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-δ-φ-harmonicization::axiom-φ2-definition-of-φ-modes::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 910-922
+heading: '**Axiom Φ2 (Definition of Φ-Modes).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — δ → Φ (Harmonicization) ⟡**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
-- λ
 excerpt: 'The harmonic modes of the universe are the eigenvectors of δ’s adjoint algebra:
   Aδϕk=λkϕk,λ1\<λ2\<λ3\<⋯\\mathcal{A}\_\\delta \\phi\_k \= \\lambda\_k \\phi\_k, \\quad
   \\lambda\_1 \< \\lambda\_2 \< \\la...'
-heading: '**Axiom Φ2 (Definition of Φ-Modes).**'
-id: GEN12-1591
-lines: 910-922
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-δ-φ-harmonicization::axiom-φ2-definition-of-φ-modes::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — δ → Φ (Harmonicization) ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- λ
+- δ
+- Φ
+- Φ-harmonic ladder
+- ∞
+- Φ-harmonic
+aliases:
+- Bk596th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.450704225352112
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

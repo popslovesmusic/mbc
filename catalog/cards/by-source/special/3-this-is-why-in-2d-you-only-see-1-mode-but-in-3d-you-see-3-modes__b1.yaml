@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- IGS-mode
-- OA-mode
-- δ
-- δ-mode
-excerpt: 'Let’s phrase this cleanly: * In **Genesis-0 (1–2 DOF)**, deviation can only
-  express **one way**. There is no “room” for the property to split.'
-heading: '**🔥 3\. This is why in 2D you only see 1 mode, but in 3D you see 3 modes**'
 id: SPEC-11032
-lines: 978-1014
 location: special/specil::3-this-is-why-in-2d-you-only-see-1-mode-but-in-3d-you-see-3-modes::b1
 source: special\specil.md
+lines: 978-1014
+heading: '**🔥 3\. This is why in 2D you only see 1 mode, but in 3D you see 3 modes**'
+block_type: paragraph
+excerpt: 'Let’s phrase this cleanly: * In **Genesis-0 (1–2 DOF)**, deviation can only
+  express **one way**. There is no “room” for the property to split.'
+concepts:
+- projects into three irreducible modes
+- δ
+- IGS-mode
+- OA-mode
+- δ-mode
+- one way
+aliases:
+- Bk187lp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.521739130434782
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

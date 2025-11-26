@@ -1,12 +1,38 @@
+id: GEN17-4192
+location: genesis-17/box-calculus::proceeding-operator-kernel-registry-v02-canonical-spec::before-i-generate-it::do-you-want-the-registry-to-be::b-full-spec-recommended::b1
+source: genesis-17\box_calculus.md
+lines: 556-574
+heading: B) Full Spec (Recommended)
+parent_heading: 'Do you want the Registry to be:'
 block_type: paragraph
-concepts:
-- Box
-- Gate Operators
 excerpt: 'The primitives PLUS all the derived operators you’ve already implied in
   IGSOA: * MAKE * Classifier'
-heading: B) Full Spec (Recommended)
-id: GEN17-4192
-lines: 556-574
-location: genesis-17/box-calculus::proceeding-operator-kernel-registry-v02-canonical-spec::before-i-generate-it::do-you-want-the-registry-to-be::b-full-spec-recommended::b1
-parent_heading: 'Do you want the Registry to be:'
-source: genesis-17\box_calculus.md
+concepts:
+- Projection
+- Adjacency
+- IGSOA
+- Classifier
+- Semantic-normalization
+- Adjacency-contraction
+- Chain
+- Gate
+- Box
+- Context-binding
+- Tensor-lift
+- Box-spawn
+- Gate Operators
+aliases:
+- Bk537tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.49019607843137
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,30 @@
+id: GEN12-1910
+location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-formation-theorem::6-evolution::b1
+source: genesis-12\Untitled_document.md
+lines: 2812-2820
+heading: '**6\. Evolution.**'
+parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Formation Theorem ⟡**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Galactic evolution is δ-mode drift under Φ₂: ddtdom(δ∣Bi)=mode-drift(Φ2),\\frac{d}{dt}\\text{dom}(\\delta|\_{B\_i})
   \= \\text{mode-drift}(\\Phi\_2),dtd​dom(δ∣Bi​​)=mode-drift(Φ2​), producing morpholog...'
-heading: '**6\. Evolution.**'
-id: GEN12-1910
-lines: 2812-2820
-location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-formation-theorem::6-evolution::b1
-parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Formation Theorem ⟡**'
-source: genesis-12\Untitled_document.md
+concepts:
+- mode-drift
+- δ
+- Φ
+- δ-mode
+- Φ₂
+aliases:
+- Bk348ge
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

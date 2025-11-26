@@ -1,12 +1,33 @@
+id: GEN5-8116
+location: genesis-5/meta-einstein-axiom-box-language-sealed::meta-einstein-hermetic-axiom-box::axiom-me-6-hermetic-stress-object::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 424-440
+heading: '**Axiom ME-6 — Hermetic Stress Object**'
+parent_heading: '**▣ META-EINSTEIN HERMETIC AXIOM BOX**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'There exists a unique realized stress object TE∈End(G)\\mathcal{T}^{\\mathcal{E}}\\in\\mathrm{End}(\\mathcal
   G)TE∈End(G) such that:'
-heading: '**Axiom ME-6 — Hermetic Stress Object**'
-id: GEN5-8116
-lines: 424-440
-location: genesis-5/meta-einstein-axiom-box-language-sealed::meta-einstein-hermetic-axiom-box::axiom-me-6-hermetic-stress-object::b1
-parent_heading: '**▣ META-EINSTEIN HERMETIC AXIOM BOX**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- ∈
+- ∇
+- E-conserved
+- E-response
+- δ-stress
+- Φ-stress
+- δ
+- Φ
+aliases:
+- Bk918te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

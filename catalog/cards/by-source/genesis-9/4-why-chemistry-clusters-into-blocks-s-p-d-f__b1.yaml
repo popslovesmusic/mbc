@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Because **each block is a δ-mode family** with its own adjacency rules.
-heading: '**4\. Why chemistry clusters into blocks (s, p, d, f)**'
 id: GEN9-9351
-lines: 318-320
 location: genesis-9/is-the-source-of-all-structure::4-why-chemistry-clusters-into-blocks-s-p-d-f::b1
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 318-320
+heading: '**4\. Why chemistry clusters into blocks (s, p, d, f)**'
+block_type: paragraph
+excerpt: Because **each block is a δ-mode family** with its own adjacency rules.
+concepts:
+- each block is a δ-mode family
+- δ
+- δ-mode
+aliases:
+- Bk810be
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.076923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,29 @@
+id: INTK-10316
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::meta-algebraic-operations::3-meta-aggregation-oplus::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 810-813
+heading: 3. Meta-Aggregation ($\oplus$)
+parent_heading: Meta-Algebraic Operations
 block_type: list
-concepts:
-- Causal History
 excerpt: '- Irreversible, non-commutative operation for building Causal History. -
   Accumulates actualized events (`ψ_actual(t)`) into `C(t)`. - `C(t) = C(t-1) ⊕ ψ_actual(t)`'
-heading: 3. Meta-Aggregation ($\oplus$)
-id: INTK-10316
-lines: 810-813
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::meta-algebraic-operations::3-meta-aggregation-oplus::b1
-parent_heading: Meta-Algebraic Operations
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- ψ
+- non-commutative
+- ⊕
+- Causal History
+aliases:
+- Bk708in
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

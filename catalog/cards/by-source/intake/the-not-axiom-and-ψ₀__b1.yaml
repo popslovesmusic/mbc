@@ -1,15 +1,31 @@
+id: INTK-10408
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::ψ₀-zero-state::the-not-axiom-and-ψ₀::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1290-1292
+heading: The NOT Axiom and Ψ₀
+parent_heading: Ψ₀ (Zero State)
 block_type: paragraph
-concepts:
-- Axiom
-- Zero State
-- must
-- Ψ
 excerpt: The **NOT Axiom (¬ ∃ Ψ₀)** is the direct prohibition against the actualization
   of the Zero State. This axiom is the cornerstone of the IGSOA framework, providing
   the fundamental "reason" for existence...
-heading: The NOT Axiom and Ψ₀
-id: INTK-10408
-lines: 1290-1292
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::ψ₀-zero-state::the-not-axiom-and-ψ₀::b1
-parent_heading: Ψ₀ (Zero State)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- IGSOA
+- Axiom
+- Ψ
+- State
+- ¬
+- Ψ₀
+- ∃
+- Zero State
+aliases:
+- Bk857tn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.51282051282051
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

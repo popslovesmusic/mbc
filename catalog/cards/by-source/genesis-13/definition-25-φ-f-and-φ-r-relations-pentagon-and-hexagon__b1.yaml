@@ -1,11 +1,28 @@
+id: GEN13-2222
+location: genesis-13/meta-math-nuclear-physics::2-φ-layer-fusion-rules-and-braid-operators::definition-25-φ-f-and-φ-r-relations-pentagon-and-hexagon::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2543-2557
+heading: '**Definition 2.5 — Φ-F and Φ-R Relations (Pentagon and Hexagon)**'
+parent_heading: '**2\. Φ-Layer: Fusion Rules and Braid Operators**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'The pair (FΦ,RΦ)(F\_\\Phi, R\_\\Phi)(FΦ​,RΦ​) satisfies: * Pentagon identity
   F(F⊗I)F=(I⊗F)F(I⊗F)F(F\\otimes I)F \= (I\\otimes F)F(I\\otimes F)F(F⊗I)F=(I⊗F)F(I⊗F)'
-heading: '**Definition 2.5 — Φ-F and Φ-R Relations (Pentagon and Hexagon)**'
-id: GEN13-2222
-lines: 2543-2557
-location: genesis-13/meta-math-nuclear-physics::2-φ-layer-fusion-rules-and-braid-operators::definition-25-φ-f-and-φ-r-relations-pentagon-and-hexagon::b1
-parent_heading: '**2\. Φ-Layer: Fusion Rules and Braid Operators**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- ⊗
+- Φ
+- modular tensor category
+aliases:
+- Bk469tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

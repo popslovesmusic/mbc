@@ -1,14 +1,32 @@
+id: INTK-10031
+location: intake/meta-genesis-outreach-narrative-papers::day-1-breaking-the-static-symmetry::3-the-first-movement-δ-appears::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 67-97
+heading: '**3\. The First Movement: δ Appears**'
+parent_heading: '**DAY 1 — BREAKING THE STATIC SYMMETRY**'
 block_type: paragraph
-concepts:
-- difference
-- within
-- Ψ
-- δ
 excerpt: 'Into this perfect non-state emerges the smallest definable event: δ\\deltaδ
   Deviation.'
-heading: '**3\. The First Movement: δ Appears**'
-id: INTK-10031
-lines: 67-97
-location: intake/meta-genesis-outreach-narrative-papers::day-1-breaking-the-static-symmetry::3-the-first-movement-δ-appears::b1
-parent_heading: '**DAY 1 — BREAKING THE STATIC SYMMETRY**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- δ
+- Deviation
+- zero-state
+- only consistent resolution
+- non-state
+- Ψ
+- difference
+- Ψ₀
+aliases:
+- Bk463it
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.207207207207207
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

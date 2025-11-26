@@ -1,14 +1,31 @@
+id: GEN17-4512
+location: genesis-17/box-calculus::4-the-heart-of-the-equivalence::42-box-λ-box-gives-the-same-box::for-any-box-b::b1
+source: genesis-17\box_calculus.md
+lines: 5834-5854
+heading: 'For any Box B:'
+parent_heading: 4.2 Box → λ → Box gives the same Box
 block_type: paragraph
+excerpt: Λ(B)=λ-term for Π(ΣB) Λ(B)=λ-term for Π(Σ B
 concepts:
 - Λ
+- λ
 - Π
 - Σ
+- Π-normal
 - β
-- λ
-excerpt: Λ(B)=λ-term for Π(ΣB) Λ(B)=λ-term for Π(Σ B
-heading: 'For any Box B:'
-id: GEN17-4512
-lines: 5834-5854
-location: genesis-17/box-calculus::4-the-heart-of-the-equivalence::42-box-λ-box-gives-the-same-box::for-any-box-b::b1
-parent_heading: 4.2 Box → λ → Box gives the same Box
-source: genesis-17\box_calculus.md
+- ΣB
+aliases:
+- Bk086tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.073170731707318
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

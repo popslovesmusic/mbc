@@ -1,12 +1,28 @@
+id: GEN9-9148
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::deep-igsoa-commentary-why-the-table-has-this-shape::2-orbital-blocks-φ-mode-symmetry-classes::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1917-1929
+heading: '**2\. Orbital blocks \= Φ-mode symmetry classes**'
+parent_heading: '**Deep IGSOA Commentary: Why the Table Has This Shape**'
 block_type: list
-concepts:
-- Φ
-- δ
 excerpt: '* s \= isotropic (χ \= 0\) * p \= dipolar (χ \= ±1) * d \= quadrupolar (χ
   \= 0,±1,±2)'
-heading: '**2\. Orbital blocks \= Φ-mode symmetry classes**'
-id: GEN9-9148
-lines: 1917-1929
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::deep-igsoa-commentary-why-the-table-has-this-shape::2-orbital-blocks-φ-mode-symmetry-classes::b1
-parent_heading: '**Deep IGSOA Commentary: Why the Table Has This Shape**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- χ
+- δ-harmonics
+- δ
+- Φ
+aliases:
+- Bk423id
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

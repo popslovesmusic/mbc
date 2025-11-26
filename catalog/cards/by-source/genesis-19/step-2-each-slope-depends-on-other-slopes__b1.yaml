@@ -1,10 +1,26 @@
+id: GEN19-6118
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-how-mbc-represents-nested-probability-slopes::step-2-each-slope-depends-on-other-slopes::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1133-1146
+heading: ✔ Step 2 — Each slope depends on other slopes
+parent_heading: ⭐ 4\. How MBC Represents Nested Probability Slopes
 block_type: paragraph
-concepts: []
 excerpt: 'MBC routers naturally support dependent slopes because the router network
   is graph-based, not layer-based. Thus: slope(A→B) depends on slope(C→A)'
-heading: ✔ Step 2 — Each slope depends on other slopes
-id: GEN19-6118
-lines: 1133-1146
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-how-mbc-represents-nested-probability-slopes::step-2-each-slope-depends-on-other-slopes::b1
-parent_heading: ⭐ 4\. How MBC Represents Nested Probability Slopes
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- MBC
+- →
+- graph-based
+- layer-based
+aliases:
+- Bk506mr
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.16326530612245
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

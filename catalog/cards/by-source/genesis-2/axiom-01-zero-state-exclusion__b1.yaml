@@ -1,11 +1,27 @@
+id: GEN2-6295
+location: genesis-2/axioms-of-geometry-topos-compatible::0-ontological-preliminaries-meta-genesis-layer::axiom-01-zero-state-exclusion::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 10-24
+heading: '**Axiom 0.1 — Zero-State Exclusion**'
+parent_heading: '**0\. Ontological Preliminaries (Meta-Genesis layer)**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: There exists a distinguished object **Ψ₀** such that * **no endomorphisms**
   act on Ψ₀ * Ψ₀ carries **no internal structure**, no morphisms, no adjacency
-heading: '**Axiom 0.1 — Zero-State Exclusion**'
-id: GEN2-6295
-lines: 10-24
-location: genesis-2/axioms-of-geometry-topos-compatible::0-ontological-preliminaries-meta-genesis-layer::axiom-01-zero-state-exclusion::b1
-parent_heading: '**0\. Ontological Preliminaries (Meta-Genesis layer)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Ψ
+- Ψ₀
+- no internal structure
+- no endomorphisms
+- terminal object
+aliases:
+- Bk346te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

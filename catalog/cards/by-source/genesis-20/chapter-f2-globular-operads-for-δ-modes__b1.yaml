@@ -1,10 +1,26 @@
-block_type: list
-concepts:
-- δ
-excerpt: '* multi-input δ operations * operadic composition * higher operadic coherence'
-heading: Chapter F2 — Globular Operads for δ-Modes
 id: GEN20-7082
-lines: 5263-5267
 location: genesis-20/mbc-40-documentaitio-1::part-vi-operadic-higher-categorical-mbc::chapter-f2-globular-operads-for-δ-modes::b1
-parent_heading: PART VI — Operadic & Higher-Categorical MBC
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5263-5267
+heading: Chapter F2 — Globular Operads for δ-Modes
+parent_heading: PART VI — Operadic & Higher-Categorical MBC
+block_type: list
+excerpt: '* multi-input δ operations * operadic composition * higher operadic coherence'
+concepts:
+- multi-input
+- δ
+aliases:
+- Bk651mi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

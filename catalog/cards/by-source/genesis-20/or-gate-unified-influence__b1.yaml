@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Any strong positive signal propagates.
-heading: OR Gate (Unified influence)
 id: GEN20-7166
-lines: 6609-6611
 location: genesis-20/mbc-40-documentaitio-1::::or-gate-unified-influence::b1
-parent_heading: ​
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6609-6611
+heading: OR Gate (Unified influence)
+parent_heading: ​
+block_type: paragraph
+excerpt: Any strong positive signal propagates.
+aliases:
+- Bk912as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

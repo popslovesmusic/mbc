@@ -1,18 +1,39 @@
+id: GEN4-7796
+location: genesis-4/the-adjoint-triple::2-deviation-generates-only-modal-differences-not-substances::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1305-1328
+heading: '**2\. Deviation Generates Only Modal Differences, Not Substances**'
 block_type: paragraph
+excerpt: 'Because δ is the only substance, differences must arise from: δ-configurations\\delta\\text{-configurations}δ-configurations
+  not from ontologically distinct substances.'
 concepts:
 - Meta-Genesis
 - Meta-Math
+- δ
+- δ-configurations
+- three stable δ-configurations
+- →
+- σ
 - 'Physics
 
 
   These'
+- not substances
+- Pure potential
+- Pure action
+- Pure form
 - modes
-- δ
-- σ
-excerpt: 'Because δ is the only substance, differences must arise from: δ-configurations\\delta\\text{-configurations}δ-configurations
-  not from ontologically distinct substances.'
-heading: '**2\. Deviation Generates Only Modal Differences, Not Substances**'
-id: GEN4-7796
-lines: 1305-1328
-location: genesis-4/the-adjoint-triple::2-deviation-generates-only-modal-differences-not-substances::b1
-source: genesis-4\The_Adjoint_Triple.md
+aliases:
+- Bk633bt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.56756756756757
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

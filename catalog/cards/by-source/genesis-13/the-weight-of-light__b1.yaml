@@ -1,17 +1,32 @@
+id: GEN13-2262
+location: genesis-13/the-weight-of-light::the-weight-of-light::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 2-9
+heading: '***The Weight of Light***'
 block_type: paragraph
-concepts:
-- Black Hole Birth
-- Meta-Genesis
-- Narrative Chapter
-- Star Formation
-- asymmetry
-- promise
-- δ
 excerpt: '*(A Narrative Chapter on Star Formation and Black Hole Birth in IGSOA /
   Meta-Genesis)* There is a place in the universe where darkness bends long before
   it wins. A place where the stillness of interst...'
-heading: '***The Weight of Light***'
-id: GEN13-2262
-lines: 2-9
-location: genesis-13/the-weight-of-light::the-weight-of-light::b1
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Meta-Genesis
+- IGSOA
+- δ
+- Narrative Chapter
+- Black Hole Birth
+- Star Formation
+- asymmetry
+- promise
+aliases:
+- Bk300nc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

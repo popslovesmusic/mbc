@@ -1,14 +1,35 @@
+id: GEN12-1737
+location: genesis-12/untitled-document::5-consequences-for-cmb-physics::53-void-scar-and-axis-of-evil-signatures::b1
+source: genesis-12\Untitled_document.md
+lines: 236-258
+heading: '**5.3 Void-Scar and Axis-of-Evil Signatures**'
+parent_heading: '**5\. Consequences for CMB Physics**'
 block_type: paragraph
-concepts:
-- void-scars
-- Π
-- Φ
-- δ
 excerpt: 'Functoriality implies: * large-scale δ-curvature asymmetry → * stable Φ-mode
   →'
-heading: '**5.3 Void-Scar and Axis-of-Evil Signatures**'
-id: GEN12-1737
-lines: 236-258
-location: genesis-12/untitled-document::5-consequences-for-cmb-physics::53-void-scar-and-axis-of-evil-signatures::b1
-parent_heading: '**5\. Consequences for CMB Physics**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ-curvature
+- δ
+- →
+- Π-anisotropy
+- large-scale
+- void-scars
+- structural fixed points
+- Π
+- Φ-mode
+- Φ
+aliases:
+- Bk380fi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.411764705882355
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

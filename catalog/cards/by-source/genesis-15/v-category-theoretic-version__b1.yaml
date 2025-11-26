@@ -1,20 +1,42 @@
+id: GEN15-3339
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-category-theoretic-version::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1304-1342
+heading: '**V. Category-Theoretic Version**'
 block_type: paragraph
+excerpt: 'Define categories: * Dev\\mathsf{Dev}Dev: δ-curvature fields * Dyn\\mathsf{Dyn}Dyn:
+  potentials'
 concepts:
+- →
+- Π
+- δ
+- Λ
+- Φ
+- Strong-Lensing Equivalence
+- Πnull
+- ρ
+- Strong-Lensing
+- null-geodesic
+- δ-curvature
+- δ-field
+- Lensing Equivalence
+- δCSOI
 - 'Lensing
 
 
   Then'
-- Lensing Equivalence
-- Strong-Lensing
-- Λ
-- Π
-- Φ
-- δ
-- ρ
-excerpt: 'Define categories: * Dev\\mathsf{Dev}Dev: δ-curvature fields * Dyn\\mathsf{Dyn}Dyn:
-  potentials'
-heading: '**V. Category-Theoretic Version**'
-id: GEN15-3339
-lines: 1304-1342
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-category-theoretic-version::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+aliases:
+- Bk179dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.457516339869281
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,25 @@
+id: GEN0-256
+location: genesis-0/tri-unity-theorem-equivalence-of::4-physical-interpretation::why-does-the-universe-begin::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1436-1450
+heading: '**Why does the universe begin?**'
+parent_heading: '**4\. Physical Interpretation**'
 block_type: paragraph
-concepts:
-- with
-- δ
 excerpt: 'Because a perfectly still universe cannot *be still*. It has nothing to
   hold still **with**. Perfect stillness is like:'
-heading: '**Why does the universe begin?**'
-id: GEN0-256
-lines: 1436-1450
-location: genesis-0/tri-unity-theorem-equivalence-of::4-physical-interpretation::why-does-the-universe-begin::b1
-parent_heading: '**4\. Physical Interpretation**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- knife-edge
+- δ
+- with
+aliases:
+- Bk675bp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.660377358490567
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

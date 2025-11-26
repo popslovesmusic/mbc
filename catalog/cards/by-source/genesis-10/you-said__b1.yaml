@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: or a complete thermodynamics chapter in your IGSOA style
-heading: '**You said:**'
 id: GEN10-921
-lines: 2876-2878
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::10-if-you-want-next-versions-i-can-produce::you-said::b1
-parent_heading: '**10\. If you want next versions, I can produce:**'
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2876-2878
+heading: '**You said:**'
+parent_heading: '**10\. If you want next versions, I can produce:**'
+block_type: paragraph
+excerpt: or a complete thermodynamics chapter in your IGSOA style
+concepts:
+- IGSOA
+aliases:
+- Bk373ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

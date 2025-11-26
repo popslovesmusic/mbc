@@ -1,12 +1,40 @@
+id: GEN0-071
+location: genesis-0/feynman-rules-interaction-vertices::v-why-the-ratios-arent-exact-integers-in-physics::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1066-1092
+heading: '**V. Why the ratios aren’t exact integers in physics**'
 block_type: paragraph
-concepts:
-- δ
-- σ
 excerpt: 'Adjacency modifies the pure shell structure: mF∝∑m∈shell(n)fmEF(m).m\_F
   \\propto \\sum\_{m\\in \\text{shell}(n)} f\_m\\mathcal{E}\_F^{(m)}.mF​∝m∈shell(n)∑​fm​EF(m)​.
   So deviations from 2, 8, 18, 32 ar...'
-heading: '**V. Why the ratios aren’t exact integers in physics**'
-id: GEN0-071
-lines: 1066-1092
-location: genesis-0/feynman-rules-interaction-vertices::v-why-the-ratios-arent-exact-integers-in-physics::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- Adjacency
+- IGSOA
+- topology-induced mode suppression
+- δ-Higgs mixing between shells
+- →
+- δ-curvature corrections
+- δ
+- ∈
+- ∑
+- distorted by adjacency geometry
+- topology-induced
+- observed hierarchical masses
+- δ-curvature
+- flavor adjacency overlap
+- δ-Higgs
+aliases:
+- Bk919am
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.582417582417584
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

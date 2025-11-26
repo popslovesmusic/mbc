@@ -1,12 +1,29 @@
+id: GEN1-611
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::3-the-δ-action-principle-and-field-equations::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1244-1250
+heading: '**3\. The δ-Action Principle and Field Equations**'
 block_type: paragraph
-concepts:
-- α
-- δ
 excerpt: 'We restate the δ-action: Sδ\[δ\]=∫(δ†δ−α\[δ,δ\]).S\_\\delta\[\\delta\] \=
   \\int (\\delta^\\dagger\\delta \- \\alpha\[\\delta,\\delta\]).Sδ​\[δ\]=∫(δ†δ−α\[δ,δ\]).
   ---'
-heading: '**3\. The δ-Action Principle and Field Equations**'
-id: GEN1-611
-lines: 1244-1250
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::3-the-δ-action-principle-and-field-equations::b1
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- α
+- ∫
+- δ-action
+aliases:
+- Bk772rt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

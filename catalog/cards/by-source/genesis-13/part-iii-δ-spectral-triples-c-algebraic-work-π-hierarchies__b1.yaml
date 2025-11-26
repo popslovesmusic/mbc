@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Operator
-- Work Operator
-- Π
-- Φ
-- δ
-excerpt: 'This will include: * Full δ-spectral triple (A,H,Dδ)(\\mathcal{A}, \\mathcal{H},
-  D\_\\delta)(A,H,Dδ​) for bioenergetics * C\*-algebraic representation of Φ-cycles'
-heading: '**PART III — δ-Spectral Triples, C\*-Algebraic Work, Π-Hierarchies**'
 id: GEN13-2561
-lines: 1430-1448
 location: genesis-13/what-biology-is-in-meta-genesis::part-iii-δ-spectral-triples-c-algebraic-work-π-hierarchies::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1430-1448
+heading: '**PART III — δ-Spectral Triples, C\*-Algebraic Work, Π-Hierarchies**'
+block_type: paragraph
+excerpt: 'This will include: * Full δ-spectral triple (A,H,Dδ)(\\mathcal{A}, \\mathcal{H},
+  D\_\\delta)(A,H,Dδ​) for bioenergetics * C\*-algebraic representation of Φ-cycles'
+concepts:
+- δ
+- Operator
+- δ-spectral
+- Π-stable
+- Φ-cycles
+- δ-Flux
+- Π
+- Φ
+- Work Operator
+- Part III
+aliases:
+- Bk044tw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.151515151515152
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

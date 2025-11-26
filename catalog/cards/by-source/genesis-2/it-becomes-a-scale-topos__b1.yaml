@@ -1,11 +1,25 @@
+id: GEN2-6562
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a-narrative-intuitive-physics-explanation::6-the-scale-topos-the-universe-learns-to-organize-itself::it-becomes-a-scale-topos::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 1355-1378
+heading: '**It becomes a Scale-Topos.**'
+parent_heading: '**6\. The Scale-Topos — The Universe Learns to Organize Itself**'
 block_type: paragraph
+excerpt: 'Meaning: * differences become layered * scales become ordered'
 concepts:
 - Scale-Topos
 - The Scale
-excerpt: 'Meaning: * differences become layered * scales become ordered'
-heading: '**It becomes a Scale-Topos.**'
-id: GEN2-6562
-lines: 1355-1378
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a-narrative-intuitive-physics-explanation::6-the-scale-topos-the-universe-learns-to-organize-itself::it-becomes-a-scale-topos::b1
-parent_heading: '**6\. The Scale-Topos — The Universe Learns to Organize Itself**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+aliases:
+- Bk183md
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 3.1746031746031744
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

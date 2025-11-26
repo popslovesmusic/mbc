@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: Just say **which version** you want.
-heading: '**✔ *A diagram stack showing inflation emerging from adjacency smoothing***'
 id: GEN11-1148
-lines: 808-810
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::6-if-you-want-formal-deliverables::a-diagram-stack-showing-inflation-emerging-from-adjacency-smoothing::b1
-parent_heading: '**6\. If you want formal deliverables:**'
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 808-810
+heading: '**✔ *A diagram stack showing inflation emerging from adjacency smoothing***'
+parent_heading: '**6\. If you want formal deliverables:**'
+block_type: paragraph
+excerpt: Just say **which version** you want.
+concepts:
+- which version
+aliases:
+- Bk009js
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

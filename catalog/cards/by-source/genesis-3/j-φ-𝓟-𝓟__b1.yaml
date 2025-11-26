@@ -1,10 +1,26 @@
+id: GEN3-7369
+location: genesis-3/the-physics-box-diagram::2-formal-functors-and-arrows::adjunction-reconstruction-functors::j-φ-𝓟-𝓟::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 138-142
+heading: '**J\_Φ : 𝓟 → 𝓟**'
+parent_heading: '**Adjunction / Reconstruction Functors**'
 block_type: paragraph
-concepts: []
 excerpt: Self-action functor encoding physical evolution (Hamiltonian or Lagrangian
   flow). ---
-heading: '**J\_Φ : 𝓟 → 𝓟**'
-id: GEN3-7369
-lines: 138-142
-location: genesis-3/the-physics-box-diagram::2-formal-functors-and-arrows::adjunction-reconstruction-functors::j-φ-𝓟-𝓟::b1
-parent_heading: '**Adjunction / Reconstruction Functors**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Self-action
+aliases:
+- Bk057sa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

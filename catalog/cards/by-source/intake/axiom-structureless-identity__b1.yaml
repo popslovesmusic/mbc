@@ -1,12 +1,24 @@
+id: INTK-9961
+location: intake/meta-genesis-mathematical-papers::1-algebraic-domain-exclusion::axiom-structureless-identity::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 248-255
+heading: '**Axiom: Structureless Identity**'
+parent_heading: '**1\. Algebraic Domain Exclusion**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: Ψ0≡∅struct.\\Psi\_0 \\equiv \\emptyset\_{\\text{struct}}.Ψ0​≡∅struct​. **Meaning:**
   Ψ0\\Psi\_0Ψ0​ carries no internal degrees of freedom, labels, coordinates, or algebraic
   features.
-heading: '**Axiom: Structureless Identity**'
-id: INTK-9961
-lines: 248-255
-location: intake/meta-genesis-mathematical-papers::1-algebraic-domain-exclusion::axiom-structureless-identity::b1
-parent_heading: '**1\. Algebraic Domain Exclusion**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+aliases:
+- Bk810sp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.8461538461538463
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

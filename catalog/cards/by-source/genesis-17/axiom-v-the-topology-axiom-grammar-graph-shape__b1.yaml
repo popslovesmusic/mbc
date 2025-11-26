@@ -1,12 +1,32 @@
-block_type: table
-concepts:
-- Mathematical Polarity
-- Π
-- Φ
-- ρ
-excerpt: 'Same meaning: The graph must obey the legal operator sequencing rules. ---'
-heading: AXIOM V — THE TOPOLOGY AXIOM (Grammar / Graph Shape)
 id: GEN17-4307
-lines: 2329-2339
 location: genesis-17/box-calculus::axiom-v-the-topology-axiom-grammar-graph-shape::b1
 source: genesis-17\box_calculus.md
+lines: 2329-2339
+heading: AXIOM V — THE TOPOLOGY AXIOM (Grammar / Graph Shape)
+block_type: table
+excerpt: 'Same meaning: The graph must obey the legal operator sequencing rules. ---'
+concepts:
+- Polarity
+- Π
+- IGSOA
+- ∧
+- ρ
+- →
+- Φ
+- well-formedness
+- Mathematical Polarity
+aliases:
+- Bk353ip
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.91089108910891
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

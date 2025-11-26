@@ -1,13 +1,30 @@
+id: GEN19-5940
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-b-standard-logic-proof::step-4-logical-inference-is-sign-preserving-linear-transformation::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 889-899
+heading: '**Step 4\. Logical inference is sign-preserving linear transformation**'
+parent_heading: '**III-B. Standard Logic Proof**'
 block_type: paragraph
-concepts:
-- Gate Synthesis Table
-- Modus Ponens
-- Θ
 excerpt: 'Modus Ponens: (A⇒B)∧A⊢B(A \\Rightarrow B)\\land A \\vdash B(A⇒B)∧A⊢B corresponds
   to'
-heading: '**Step 4\. Logical inference is sign-preserving linear transformation**'
-id: GEN19-5940
-lines: 889-899
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-b-standard-logic-proof::step-4-logical-inference-is-sign-preserving-linear-transformation::b1
-parent_heading: '**III-B. Standard Logic Proof**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Gate
+- ∧
+- Θ
+- Gate Synthesis Table
+- Modus Ponens
+aliases:
+- Bk862mp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.329113924050633
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

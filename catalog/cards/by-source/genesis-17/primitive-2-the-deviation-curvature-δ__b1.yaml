@@ -1,10 +1,27 @@
+id: GEN17-4734
+location: genesis-17/box-calculus::i-ontological-foundations-minimal-ontology::primitive-2-the-deviation-curvature-δ::b1
+source: genesis-17\box_calculus.md
+lines: 8567-8573
+heading: 'Primitive 2: The Deviation Curvature δ'
+parent_heading: 🔷 I. Ontological Foundations (Minimal Ontology)
 block_type: paragraph
+excerpt: δ:V→R≥0 δ:V→R ≥0
 concepts:
 - δ
-excerpt: δ:V→R≥0 δ:V→R ≥0
-heading: 'Primitive 2: The Deviation Curvature δ'
-id: GEN17-4734
-lines: 8567-8573
-location: genesis-17/box-calculus::i-ontological-foundations-minimal-ontology::primitive-2-the-deviation-curvature-δ::b1
-parent_heading: 🔷 I. Ontological Foundations (Minimal Ontology)
-source: genesis-17\box_calculus.md
+- ≥
+- →
+aliases:
+- Bk246mt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,18 +1,37 @@
+id: INTK-10854
+location: intake/volume-i-core-ontology-and-metagenesis-summary::76-why-gr-fits-naturally-into-meta-time::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3279-3306
+heading: '**7.6 Why GR Fits Naturally into Meta-Time**'
 block_type: paragraph
-concepts:
-- Deviation-Curvature
-- Field
-- General Relativity
-- Meta-Time
-- The Einstein Field Equation
-- δ
-- μ
-- ν
 excerpt: 'The Einstein Field Equation is recovered in your Deviation-Curvature framework
   by: Rμν−12gμνR=8πG Tμν,\\mathcal{R}\_{\\mu\\nu} \- \\frac{1}{2} g\_{\\mu\\nu} \\mathcal{R}
   \= 8\\pi G\\, T\_{\\mu\\nu},Rμ...'
-heading: '**7.6 Why GR Fits Naturally into Meta-Time**'
-id: INTK-10854
-lines: 3279-3306
-location: intake/volume-i-core-ontology-and-metagenesis-summary::76-why-gr-fits-naturally-into-meta-time::b1
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- μ
+- ν
+- Meta-Time
+- projection metric of Meta-Time onto causal configurations
+- Curvature
+- Deviation
+- Field
+- Deviation-Curvature
+- π
+- second-order
+- The Einstein Field Equation
+- second deviation derivative
+- how the projection deforms
+- first-order
+- δ-dynamics
+aliases:
+- Bk116te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.399999999999999
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

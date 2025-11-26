@@ -1,13 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- α
-- δ
-excerpt: '`LEVEL 1 (δ)` `δ-adjacency curvature with CSOI tail: δ_tail ~ 1/r` `↓ Φ
-  (dynamical lift)`'
-heading: '**II. The δ → Φ → Π pathway for strong lensing**'
 id: GEN15-3333
-lines: 1172-1192
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::ii-the-δ-φ-π-pathway-for-strong-lensing::b1
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1172-1192
+heading: '**II. The δ → Φ → Π pathway for strong lensing**'
+block_type: paragraph
+excerpt: '`LEVEL 1 (δ)` `δ-adjacency curvature with CSOI tail: δ_tail ~ 1/r` `↓ Φ
+  (dynamical lift)`'
+concepts:
+- δ
+- Φ
+- Π
+- null-geodesic
+- δ-adjacency
+- α
+- Π-null
+aliases:
+- Bk020la
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,37 @@
+id: INTK-9718
+location: intake/core-insight-is-a-projection-artifact::core-insight-λ-is-a-projection-artifact::b1
+source: intake\Core_Insight___is_a_Projection_Artifact.md
+lines: 2-29
+heading: '**Core Insight: Λ is a Projection Artifact**'
 block_type: paragraph
-concepts:
-- Λ
-- Π
-- Φ
 excerpt: 'Your central claim is sharp: The cosmological constant is not a physical
   energy density; it is the *residual projection* of deviation-stress after a functor
   (Π₉) suppresses uniform potentials.'
-heading: '**Core Insight: Λ is a Projection Artifact**'
-id: INTK-9718
-lines: 2-29
-location: intake/core-insight-is-a-projection-artifact::core-insight-λ-is-a-projection-artifact::b1
-source: intake\Core_Insight___is_a_Projection_Artifact.md
+concepts:
+- IGSOA
+- →
+- Π
+- deviation-stress
+- pre-geometric
+- zero-point
+- Φ-domain
+- Π-domain
+- Λ
+- Φ
+- clean reframing
+- mixing domains
+- Π₉
+aliases:
+- Bk983yc
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.380952380952381
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

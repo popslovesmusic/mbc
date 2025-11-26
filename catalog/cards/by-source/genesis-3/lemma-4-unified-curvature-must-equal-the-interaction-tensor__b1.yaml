@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- Lemma
-- Φ
-- δ
-excerpt: '**Statement.** Consistency of the dual connections forces Rδ=RΦ=TδΦ.\\mathcal{R}\_\\delta
-  \= \\mathcal{R}\_\\Phi \= T\_{\\delta\\Phi}.Rδ​=RΦ​=TδΦ​.'
-heading: '**Lemma 4\. Unified Curvature Must Equal the Interaction Tensor**'
 id: GEN3-7448
-lines: 1167-1200
 location: genesis-3/the-physics-box-diagram::lemma-4-unified-curvature-must-equal-the-interaction-tensor::b1
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1167-1200
+heading: '**Lemma 4\. Unified Curvature Must Equal the Interaction Tensor**'
+block_type: paragraph
+excerpt: '**Statement.** Consistency of the dual connections forces Rδ=RΦ=TδΦ.\\mathcal{R}\_\\delta
+  \= \\mathcal{R}\_\\Phi \= T\_{\\delta\\Phi}.Rδ​=RΦ​=TδΦ​.'
+concepts:
+- δ
+- Φ
+- ∇
+- Curvature
+- Lemma
+- Proof
+- ΦT
+aliases:
+- Bk359sc
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.147058823529411
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

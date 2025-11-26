@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which one do you want next?
-heading: '**✓ The δ–Harmonic → CMB → LSS Transfer Kernel Appendix**'
 id: GEN15-3211
-lines: 2068-2070
 location: genesis-15/the-mass-curvature-projection-theorem::next-recommended-piece::the-δharmonic-cmb-lss-transfer-kernel-appendix::b1
-parent_heading: '**Next Recommended Piece**'
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2068-2070
+heading: '**✓ The δ–Harmonic → CMB → LSS Transfer Kernel Appendix**'
+parent_heading: '**Next Recommended Piece**'
+block_type: paragraph
+excerpt: Which one do you want next?
+aliases:
+- Bk465wo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

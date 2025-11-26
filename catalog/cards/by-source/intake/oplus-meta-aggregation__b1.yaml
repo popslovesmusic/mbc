@@ -1,13 +1,31 @@
-block_type: table
-concepts:
-- Cross-References
-- Meta-Aggregation
-- Read More
-- Temporal Irreversibility
-excerpt: ''
-heading: oplus (Meta-Aggregation)
 id: INTK-10748
-lines: 1951-1954
 location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::oplus-meta-aggregation::b1
-parent_heading: Glossary
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1951-1954
+heading: oplus (Meta-Aggregation)
+parent_heading: Glossary
+block_type: table
+excerpt: ''
+concepts:
+- Definition
+- Meta-Aggregation
+- ⊕
+- Cross-References
+- non-commutative
+- Temporal Irreversibility
+- Read More
+aliases:
+- Bk920so
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 22.58064516129032
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

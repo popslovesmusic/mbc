@@ -1,12 +1,29 @@
+id: GEN10-946
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::11-the-δφπ-laws-of-thermodynamics-unified::zeroth-law-φ-equilibrium::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 3189-3193
+heading: '**Zeroth Law (Φ-Equilibrium)**'
+parent_heading: '**11\. The δ–Φ–Π Laws of Thermodynamics (Unified)**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: Two systems in mutual Π-communication equilibrate when their δ-spectral densities
   match. ---
-heading: '**Zeroth Law (Φ-Equilibrium)**'
-id: GEN10-946
-lines: 3189-3193
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::11-the-δφπ-laws-of-thermodynamics-unified::zeroth-law-φ-equilibrium::b1
-parent_heading: '**11\. The δ–Φ–Π Laws of Thermodynamics (Unified)**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Π-communication
+- δ-spectral
+- Π
+- δ
+aliases:
+- Bk556ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

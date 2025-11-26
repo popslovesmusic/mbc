@@ -1,13 +1,28 @@
-block_type: paragraph
-concepts:
-- The Zero
-- Zero-State
-- inside
-- Ψ
-excerpt: 'The Zero-State is not a point *inside* a larger space. It **is** the space—collapsed
-  to triviality. If the entire Hilbert space collapses to one element, then:'
-heading: '**2\. Ψ₀ Has No Domain of Action**'
 id: GEN0-283
-lines: 454-467
 location: genesis-0/why-the-first-action-is-necessary::2-ψ₀-has-no-domain-of-action::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 454-467
+heading: '**2\. Ψ₀ Has No Domain of Action**'
+block_type: paragraph
+excerpt: 'The Zero-State is not a point *inside* a larger space. It **is** the space—collapsed
+  to triviality. If the entire Hilbert space collapses to one element, then:'
+concepts:
+- Ψ
+- State
+- →
+- Zero-State
+- The Zero
+aliases:
+- Bk600tz
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.47457627118644
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

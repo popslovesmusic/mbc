@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Acyclic
-- Box
-- Transitive
-- Π
-- Φ
-excerpt: 'Mapping: * Box → spacetime region * Φ(B) → local curvature/metric'
-heading: '**5\. Π-graph is isomorphic to physical causal structure.**'
 id: GEN17-4963
-lines: 1211-1233
 location: genesis-17/key-points::proof-sketch-monistic-structural-proof::5-π-graph-is-isomorphic-to-physical-causal-structure::b1
-parent_heading: '**Proof Sketch (Monistic Structural Proof).**'
 source: genesis-17\Key_Points.md
+lines: 1211-1233
+heading: '**5\. Π-graph is isomorphic to physical causal structure.**'
+parent_heading: '**Proof Sketch (Monistic Structural Proof).**'
+block_type: paragraph
+excerpt: 'Mapping: * Box → spacetime region * Φ(B) → local curvature/metric'
+concepts:
+- →
+- Box
+- Π
+- Π-graph
+- Φ
+- Locally finite
+- Partial order
+- Transitive
+- Acyclic
+aliases:
+- Bk271mb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.930232558139537
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

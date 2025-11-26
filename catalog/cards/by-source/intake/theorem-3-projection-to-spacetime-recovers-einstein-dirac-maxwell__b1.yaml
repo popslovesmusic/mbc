@@ -1,16 +1,37 @@
+id: INTK-10570
+location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::theorem-3-projection-to-spacetime-recovers-einstein-dirac-maxwell::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 473-493
+heading: '**Theorem 3 — Projection to Spacetime Recovers Einstein, Dirac, Maxwell.**'
+parent_heading: '**2\. Rigorous Theorem-Based Formulation**'
 block_type: paragraph
+excerpt: 'Let P:Hδ→HphysP: \\mathcal{H}\_\\delta \\to \\mathcal{H}\_{\\text{phys}}P:Hδ​→Hphys​
+  be projection to classical spacetime.'
 concepts:
 - Meta-Time
-- Standard Model
-- Yang-Mills
+- time-noncommutativity
 - δ
 - μ
 - ν
-excerpt: 'Let P:Hδ→HphysP: \\mathcal{H}\_\\delta \\to \\mathcal{H}\_{\\text{phys}}P:Hδ​→Hphys​
-  be projection to classical spacetime.'
-heading: '**Theorem 3 — Projection to Spacetime Recovers Einstein, Dirac, Maxwell.**'
-id: INTK-10570
-lines: 473-493
-location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::theorem-3-projection-to-spacetime-recovers-einstein-dirac-maxwell::b1
-parent_heading: '**2\. Rigorous Theorem-Based Formulation**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+- →
+- Yang-Mills
+- follow from the algebra
+- Quantum mechanics
+- Einstein equation
+- Dirac equation
+- Standard Model
+aliases:
+- Bk810lh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.631578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

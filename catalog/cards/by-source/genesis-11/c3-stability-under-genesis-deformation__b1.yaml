@@ -1,13 +1,30 @@
+id: GEN11-1308
+location: genesis-11/the-adjacency-wave-equation::corollaries-sealed::c3-stability-under-genesis-deformation::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 899-912
+heading: '**C3. Stability Under Genesis Deformation**'
+parent_heading: '**Corollaries (Sealed)**'
 block_type: paragraph
-concepts:
-- Functorial Stability Law
-- δ
 excerpt: 'Small perturbations at the Genesis level G↦G+ϵHG\\mapsto G+\\epsilon HG↦G+ϵH
   produce: δG↦δG+ϵ δH\\delta G \\mapsto \\delta G \+ \\epsilon\\,\\delta HδG↦δG+ϵδH
   which propagate functorially to controlle...'
-heading: '**C3. Stability Under Genesis Deformation**'
-id: GEN11-1308
-lines: 899-912
-location: genesis-11/the-adjacency-wave-equation::corollaries-sealed::c3-stability-under-genesis-deformation::b1
-parent_heading: '**Corollaries (Sealed)**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ
+- δG
+- δH
+- Functorial Stability Law
+aliases:
+- Bk038sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.819277108433735
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

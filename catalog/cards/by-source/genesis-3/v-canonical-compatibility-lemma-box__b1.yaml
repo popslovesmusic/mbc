@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Here is the formal drop-in version you can insert in any axiom chapter:
-  ---'
-heading: '**V. Canonical “Compatibility Lemma Box”**'
 id: GEN3-7563
-lines: 1109-1113
 location: genesis-3/the-tri-unity-theorem::v-canonical-compatibility-lemma-box::b1
 source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1109-1113
+heading: '**V. Canonical “Compatibility Lemma Box”**'
+block_type: paragraph
+excerpt: 'Here is the formal drop-in version you can insert in any axiom chapter:
+  ---'
+concepts:
+- Axiom
+- drop-in
+aliases:
+- Bk604ht
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

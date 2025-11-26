@@ -1,11 +1,26 @@
+id: INTK-9784
+location: intake/meta-genesis-core-papers-foundations::5-relationship-to-meta-genesis::mg-3-meta-time-emergence::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 399-403
+heading: '**MG-3 (Meta-Time Emergence)**'
+parent_heading: '**5\. Relationship to Meta-Genesis**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: δ⇒T⇒projection into sequences\\delta \\Rightarrow T \\Rightarrow \\text{projection
   into sequences}δ⇒T⇒projection into sequences ---
-heading: '**MG-3 (Meta-Time Emergence)**'
-id: INTK-9784
-lines: 399-403
-location: intake/meta-genesis-core-papers-foundations::5-relationship-to-meta-genesis::mg-3-meta-time-emergence::b1
-parent_heading: '**5\. Relationship to Meta-Genesis**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- δ
+aliases:
+- Bk084pi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

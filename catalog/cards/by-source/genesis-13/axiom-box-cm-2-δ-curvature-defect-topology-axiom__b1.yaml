@@ -1,14 +1,34 @@
-block_type: paragraph
-concepts:
-- Axiom
-- End Seal
-- Λ
-- Ω
-- δ
-excerpt: '**SEAL:** CM-2 **Axiom.** Let'
-heading: '**AXIOM BOX CM-2: δ-Curvature → Defect Topology Axiom**'
 id: GEN13-2242
-lines: 2736-2757
 location: genesis-13/meta-math-nuclear-physics::sealed-axiom-box-set-condensed-matter-physics::axiom-box-cm-2-δ-curvature-defect-topology-axiom::b1
-parent_heading: '**SEALED AXIOM BOX SET — CONDENSED MATTER PHYSICS**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2736-2757
+heading: '**AXIOM BOX CM-2: δ-Curvature → Defect Topology Axiom**'
+parent_heading: '**SEALED AXIOM BOX SET — CONDENSED MATTER PHYSICS**'
+block_type: paragraph
+excerpt: '**SEAL:** CM-2 **Axiom.** Let'
+concepts:
+- δ
+- Ω
+- δ-curvature
+- Axiom
+- Λ
+- π
+- Non-zero
+- End Seal
+aliases:
+- Am854sa
+tags:
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

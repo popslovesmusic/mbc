@@ -1,11 +1,31 @@
-block_type: table
-concepts:
-- Mathematical Interpretation
-- Σ
-- δ
-excerpt: '---'
-heading: 0\. Ontological Primitives
 id: GEN17-4264
-lines: 1742-1751
 location: genesis-17/box-calculus::0-ontological-primitives::b1
 source: genesis-17\box_calculus.md
+lines: 1742-1751
+heading: 0\. Ontological Primitives
+block_type: table
+excerpt: '---'
+concepts:
+- Adjacency
+- IGSOA
+- Σ
+- →
+- ∈
+- Mathematical Interpretation
+- δ-semantic
+- δ
+aliases:
+- Bk233ii
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.95890410958904
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

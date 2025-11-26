@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Genesis-Level
-- Level Origin
-excerpt: '*(IGSOA Genesis-Level Origin of CMB Anisotropies)* ---'
-heading: '**The δ → CMB Projection Axiom**'
 id: GEN11-1035
-lines: 642-646
 location: genesis-11/how-curvature-could-generate-an-axis::the-δ-cmb-projection-axiom::b1
 source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 642-646
+heading: '**The δ → CMB Projection Axiom**'
+block_type: paragraph
+excerpt: '*(IGSOA Genesis-Level Origin of CMB Anisotropies)* ---'
+concepts:
+- IGSOA
+- Genesis-Level
+- Level Origin
+aliases:
+- Bk111ig
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 42.857142857142854
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,30 @@
+id: GEN5-7934
+location: genesis-5/formal-proof-of-the-adjoint-triple::0-preliminaries-and-axiom-assumptions::axiom-b-meta-genesis-closure::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 22-28
+heading: '**Axiom B (Meta-Genesis Closure).**'
+parent_heading: '**0\. Preliminaries and Axiom Assumptions**'
 block_type: paragraph
-concepts:
-- Genesis Closure Principle
-- σ
 excerpt: 'There exists a functor R:σTop→MGR : \\sigma Top \\to MGR:σTop→MG that collapses
   a scale-tower sheaf to a **global potential** by the Genesis Closure Principle.'
-heading: '**Axiom B (Meta-Genesis Closure).**'
-id: GEN5-7934
-lines: 22-28
-location: genesis-5/formal-proof-of-the-adjoint-triple::0-preliminaries-and-axiom-assumptions::axiom-b-meta-genesis-closure::b1
-parent_heading: '**0\. Preliminaries and Axiom Assumptions**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- →
+- σ
+- scale-tower
+- Genesis Closure Principle
+- global potential
+aliases:
+- Bk000te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.857142857142858
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

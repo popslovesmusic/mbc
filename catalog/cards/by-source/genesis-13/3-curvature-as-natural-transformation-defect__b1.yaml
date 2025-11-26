@@ -1,12 +1,41 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-- η
-excerpt: 'The IGSOA core principle holds: **Curvature is the failure of naturality
-  between δ and Φ.** Formally, define a natural transformation candidate:'
-heading: '**3\. Curvature as Natural-Transformation Defect**'
 id: GEN13-2294
-lines: 432-456
 location: genesis-13/the-weight-of-light::3-curvature-as-natural-transformation-defect::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 432-456
+heading: '**3\. Curvature as Natural-Transformation Defect**'
+block_type: paragraph
+excerpt: 'The IGSOA core principle holds: **Curvature is the failure of naturality
+  between δ and Φ.** Formally, define a natural transformation candidate:'
+concepts:
+- δ
+- Φ
+- η
+- Curvature
+- Deviation
+- IGSOA
+- →
+- stable non-zero defect
+- galaxy-scale
+- δ-curvature
+- non-zero
+- δ-origin
+aliases:
+- Bk001a
+tags:
+- A2
+- A1
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.122448979591836
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1
+- A2

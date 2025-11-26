@@ -1,12 +1,28 @@
+id: INTK-10958
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::recommended-action-plan::phase-2-content-reorganization::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 584-593
+heading: '**Phase 2: Content Reorganization**'
+parent_heading: RECOMMENDED ACTION PLAN
 block_type: paragraph
-concepts:
-- Meta-Standard
-- Standard Model
 excerpt: '**Target:** Volume III Part 12 → Volume IV Parts 12-15 **Method:** Move
   and reorganize existing content **Time:** 1 week'
-heading: '**Phase 2: Content Reorganization**'
-id: INTK-10958
-lines: 584-593
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::recommended-action-plan::phase-2-content-reorganization::b1
-parent_heading: RECOMMENDED ACTION PLAN
-source: intake\Volume_Structure_Gap_Analysis.md
+concepts:
+- Meta-Standard
+- →
+- Standard Model
+aliases:
+- Bk547tv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.382978723404255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

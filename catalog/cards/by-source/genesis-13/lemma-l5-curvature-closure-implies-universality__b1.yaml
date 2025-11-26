@@ -1,13 +1,31 @@
+id: GEN13-2366
+location: genesis-13/the-weight-of-light::2-lemmas::lemma-l5-curvature-closure-implies-universality::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1493-1501
+heading: '**Lemma L5 — Curvature Closure Implies Universality**'
+parent_heading: '**2\. Lemmas**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'The curvature closure (A5) implies that any functor consistent with δ and
   Π must factor through Φ. Thus: Φ is universal.\\Phi \\text{ is universal.}Φ is universal.'
-heading: '**Lemma L5 — Curvature Closure Implies Universality**'
-id: GEN13-2366
-lines: 1493-1501
-location: genesis-13/the-weight-of-light::2-lemmas::lemma-l5-curvature-closure-implies-universality::b1
-parent_heading: '**2\. Lemmas**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Φ
+- Π
+- δ
+aliases:
+- Bk005a
+tags:
+- A5
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A5

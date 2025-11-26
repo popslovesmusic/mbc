@@ -1,14 +1,34 @@
+id: GEN15-3126
+location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-0-minimal-definitions::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 712-729
+heading: '**Step 0 — Minimal definitions**'
+parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
-- λ
 excerpt: '1. **Deviation operator** δ:G→G\\delta: \\mathcal{G}\\to\\mathcal{G}δ:G→G
   2. **Deviation curvature (positive operator)**'
-heading: '**Step 0 — Minimal definitions**'
-id: GEN15-3126
-lines: 712-729
-location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-0-minimal-definitions::b1
-parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Φ
+- δ
+- Π
+- Deviation
+- Φn
+- Φ spectral projection into physical mode space
+- Π interpretation into observables
+- ∑
+- λ
+- →
+- Deviation operator
+- not primitive
+aliases:
+- Bk193do
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

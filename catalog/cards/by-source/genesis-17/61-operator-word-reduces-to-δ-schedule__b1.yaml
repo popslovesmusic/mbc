@@ -1,10 +1,23 @@
+id: GEN17-4767
+location: genesis-17/box-calculus::monistic-box-calculus-syntax-v10::6-monistic-box-language-programs-proofs::61-operator-word-reduces-to-δ-schedule::b1
+source: genesis-17\box_calculus.md
+lines: 9089-9120
+heading: 6.1 Operator word reduces to δ-schedule
+parent_heading: 6\. Monistic Box Language (Programs / Proofs)
 block_type: paragraph
+excerpt: 'Old syntax: w=Op1Op2⋯Opn w=Op'
 concepts:
 - δ
-excerpt: 'Old syntax: w=Op1Op2⋯Opn w=Op'
-heading: 6.1 Operator word reduces to δ-schedule
-id: GEN17-4767
-lines: 9089-9120
-location: genesis-17/box-calculus::monistic-box-calculus-syntax-v10::6-monistic-box-language-programs-proofs::61-operator-word-reduces-to-δ-schedule::b1
-parent_heading: 6\. Monistic Box Language (Programs / Proofs)
-source: genesis-17\box_calculus.md
+- δn
+aliases:
+- Bk631os
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.444444444444445
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

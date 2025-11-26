@@ -1,14 +1,33 @@
+id: GEN6-8217
+location: genesis-6/harmonics-atomic-orbitals::4-explicit-δ-harmonic-shapes-the-orbitals::44-f-orbitals-ℓ-3::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 141-159
+heading: '**4.4 f-Orbitals (ℓ \= 3\)**'
+parent_heading: '**4\. Explicit δ-Harmonic Shapes (the orbitals)**'
 block_type: paragraph
-concepts:
-- Shapes
-- Ω
-- δ
 excerpt: 'There are seven of them; representative forms: Y30(δ)∝δΩ−1/2(5cos⁡3θ−3cos⁡θ)Y\_{30}^{(\\delta)}
   \\propto \\delta\_\\Omega^{-1/2}(5\\cos^3\\theta \- 3\\cos\\theta)Y30(δ)​∝δΩ−1/2​(5cos3θ−3cosθ)
   Y3±1(δ)∝...'
-heading: '**4.4 f-Orbitals (ℓ \= 3\)**'
-id: GEN6-8217
-lines: 141-159
-location: genesis-6/harmonics-atomic-orbitals::4-explicit-δ-harmonic-shapes-the-orbitals::44-f-orbitals-ℓ-3::b1
-parent_heading: '**4\. Explicit δ-Harmonic Shapes (the orbitals)**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- δ
+- θ
+- Ω
+- self-similar
+- gear-like
+- non-zero
+- Shapes
+aliases:
+- Bk048ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,33 @@
+id: GEN1-545
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::7-stability-and-consistency-conditions::axiom-73-compatibility-with-meta-genesis::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 595-611
+heading: '**Axiom 7.3 — Compatibility with Meta-Genesis.**'
+parent_heading: '**7\. Stability and Consistency Conditions**'
 block_type: paragraph
-concepts:
-- Deviational Geometry
-- Meta-Math
-- action
-- potential
-- transition
 excerpt: 'Deviation must be compatible with the Genesis category: F:Genesis→Meta-MathF:
   \\text{Genesis} \\to \\text{Meta-Math}F:Genesis→Meta-Math where:'
-heading: '**Axiom 7.3 — Compatibility with Meta-Genesis.**'
-id: GEN1-545
-lines: 595-611
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::7-stability-and-consistency-conditions::axiom-73-compatibility-with-meta-genesis::b1
-parent_heading: '**7\. Stability and Consistency Conditions**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- Meta-Math
+- Deviational Geometry
+- Deviation
+- →
+- Meta-MathF
+- transition
+- potential
+- action
+aliases:
+- Bk057dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

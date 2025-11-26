@@ -1,10 +1,27 @@
+id: GEN5-8027
+location: genesis-5/formal-proof-of-the-adjoint-triple::3-lifting-δ-across-a-projection-functor::definition-31-deviation-on-the-target::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1336-1342
+heading: '**Definition 3.1 (Deviation on the target)**'
+parent_heading: '**3\. Lifting δ across a projection functor**'
 block_type: paragraph
+excerpt: 'Assume an endofunctor δD:D→D.\\delta\_D : D \\to D.δD​:D→D. ---'
 concepts:
 - δ
-excerpt: 'Assume an endofunctor δD:D→D.\\delta\_D : D \\to D.δD​:D→D. ---'
-heading: '**Definition 3.1 (Deviation on the target)**'
-id: GEN5-8027
-lines: 1336-1342
-location: genesis-5/formal-proof-of-the-adjoint-triple::3-lifting-δ-across-a-projection-functor::definition-31-deviation-on-the-target::b1
-parent_heading: '**3\. Lifting δ across a projection functor**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+- →
+- δD
+aliases:
+- Bk614ae
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

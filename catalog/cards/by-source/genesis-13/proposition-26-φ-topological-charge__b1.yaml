@@ -1,11 +1,30 @@
+id: GEN13-2223
+location: genesis-13/meta-math-nuclear-physics::2-φ-layer-fusion-rules-and-braid-operators::proposition-26-φ-topological-charge::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2559-2563
+heading: '**Proposition 2.6 — Φ-Topological Charge**'
+parent_heading: '**2\. Φ-Layer: Fusion Rules and Braid Operators**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: Each anyon a∈CΦa\\in\\mathcal{C}\_\\Phia∈CΦ​ has a quantum dimension dad\_ada​,
   spin θa\\theta\_aθa​, and S-matrix entries from Φ. ---
-heading: '**Proposition 2.6 — Φ-Topological Charge**'
-id: GEN13-2223
-lines: 2559-2563
-location: genesis-13/meta-math-nuclear-physics::2-φ-layer-fusion-rules-and-braid-operators::proposition-26-φ-topological-charge::b1
-parent_heading: '**2\. Φ-Layer: Fusion Rules and Braid Operators**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- θ
+- ∈
+- S-matrix
+- Φa
+aliases:
+- Bk975ea
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.230769230769234
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

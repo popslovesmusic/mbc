@@ -1,14 +1,33 @@
+id: INTK-9955
+location: intake/meta-genesis-mathematical-papers::6-physical-interpretation::64-the-full-universe::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 156-164
+heading: '**6.4 The Full Universe**'
+parent_heading: '**6\. Physical Interpretation**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Time Projection Functor
-- δ
 excerpt: 'All geometry, dynamics, and fields are projections of higher deviation modes:
   Universe=π(Hδ),\\text{Universe} \= \\pi\\left(\\mathcal{H}\_\\delta\\right),Universe=π(Hδ​),
   where π\\piπ is your **Meta-T...'
-heading: '**6.4 The Full Universe**'
-id: INTK-9955
-lines: 156-164
-location: intake/meta-genesis-mathematical-papers::6-physical-interpretation::64-the-full-universe::b1
-parent_heading: '**6\. Physical Interpretation**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Meta-Time
+- Projection
+- π
+- Meta-Time Projection Functor
+- Functor
+- δ
+- Time Projection Functor
+aliases:
+- Bk171ag
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

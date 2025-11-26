@@ -1,13 +1,28 @@
+id: GEN3-7412
+location: genesis-3/the-physics-box-diagram::6-the-δφphysics-closure-principle::axiom-61-uniqueness-of-emergence::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 705-713
+heading: '**Axiom 6.1 (Uniqueness of Emergence)**'
+parent_heading: '**6\. The δ–Φ–Physics Closure Principle**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'The δ–Φ–Physics stack admits **exactly one** curvature fixed point: Rδ=RΦ=TδΦ.\\mathcal{R}\_\\delta
   \= \\mathcal{R}\_\\Phi \= T\_{\\delta\\Phi}.Rδ​=RΦ​=TδΦ​. No alternate curvature
   law is compatible w...'
-heading: '**Axiom 6.1 (Uniqueness of Emergence)**'
-id: GEN3-7412
-lines: 705-713
-location: genesis-3/the-physics-box-diagram::6-the-δφphysics-closure-principle::axiom-61-uniqueness-of-emergence::b1
-parent_heading: '**6\. The δ–Φ–Physics Closure Principle**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- δ-geometry
+- δ
+- Φ
+- Φ-geometry
+- exactly one
+aliases:
+- Bk149tp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.904761904761903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

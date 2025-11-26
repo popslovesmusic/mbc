@@ -1,10 +1,22 @@
-block_type: paragraph
-concepts:
-- wait
-excerpt: 'You asked: “Why would it *wait* if nothing prevented expansion and there
-  was no barrier to overcome?” Because:'
-heading: '**⭐ Why this resolves your paradox**'
 id: GEN17-4875
-lines: 90-96
 location: genesis-17/key-points::why-this-resolves-your-paradox::b1
 source: genesis-17\Key_Points.md
+lines: 90-96
+heading: '**⭐ Why this resolves your paradox**'
+block_type: paragraph
+excerpt: 'You asked: “Why would it *wait* if nothing prevented expansion and there
+  was no barrier to overcome?” Because:'
+aliases:
+- Bk830ya
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

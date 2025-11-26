@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: We now give an **algebra over this operad**, capturing the physical pipeline.
-heading: '**2\. The CMB Algebra A₍CMB₎ as an 𝒪δ-Algebra**'
 id: GEN15-3419
-lines: 610-612
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-the-cmb-algebra-acmb-as-an-𝒪δ-algebra::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 610-612
+heading: '**2\. The CMB Algebra A₍CMB₎ as an 𝒪δ-Algebra**'
+block_type: paragraph
+excerpt: We now give an **algebra over this operad**, capturing the physical pipeline.
+concepts:
+- algebra over this operad
+aliases:
+- Bk941ng
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,22 +1,36 @@
+id: INTK-9682
+location: intake/axioms-geometry::section-5-the-core-compatibility-conditions-master-constraints::b1
+source: intake\Axioms-geometry.md
+lines: 535-587
+heading: '**Section 5 — The Core Compatibility Conditions (Master Constraints)**'
 block_type: paragraph
+excerpt: '**C1 — Shared Genesis of δ** δMG=δMM\\delta\_{\\text{MG}} \= \\delta\_{\\text{MM}}δMG​=δMM​
+  The same operator must play two roles:'
 concepts:
-- Curvature Equivalence
-- Genesis Closure
+- δ
 - Meta-Genesis
 - Meta-Math
 - Meta-Time
-- Operator
-- Operator Closure
-- Shared Adjacency Structure
-- Shared Genesis
-- Time Equivalence
-- Ψ
-- δ
+- Adjacency
+- Curvature
 - τ
-excerpt: '**C1 — Shared Genesis of δ** δMG=δMM\\delta\_{\\text{MG}} \= \\delta\_{\\text{MM}}δMG​=δMM​
-  The same operator must play two roles:'
-heading: '**Section 5 — The Core Compatibility Conditions (Master Constraints)**'
-id: INTK-9682
-lines: 535-587
-location: intake/axioms-geometry::section-5-the-core-compatibility-conditions-master-constraints::b1
-source: intake\Axioms-geometry.md
+- operator-that-cannot-act
+- Operator
+- Ψ
+- Shared Adjacency Structure
+- able-to-act
+- δ-algebra
+- Curvature Equivalence
+- δ-flow
+aliases:
+- Bk628sg
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

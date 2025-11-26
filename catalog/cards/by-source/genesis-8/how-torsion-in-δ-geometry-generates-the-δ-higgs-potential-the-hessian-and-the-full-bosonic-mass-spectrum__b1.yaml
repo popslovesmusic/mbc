@@ -1,15 +1,39 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- δ
-excerpt: 'This version is suitable for your main δ-Geometry volume, the δ-Weitzenböck
-  appendix, and the δ-Boson sector of the δ-EFT Lagrangian. It includes: * Axioms'
+id: GEN8-8880
+location: genesis-8/meta-time-geometry-and-temporal-projection::δ-weitzenböck-δ-boson-mass-tower-derivation::how-torsion-in-δ-geometry-generates-the-δ-higgs-potential-the-hessian-and-the-full-bosonic-mass-spectrum::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2057-2080
 heading: '***How torsion in δ-geometry generates the δ-Higgs potential, the Hessian,
   and the full bosonic mass spectrum***'
-id: GEN8-8880
-lines: 2057-2080
-location: genesis-8/meta-time-geometry-and-temporal-projection::δ-weitzenböck-δ-boson-mass-tower-derivation::how-torsion-in-δ-geometry-generates-the-δ-higgs-potential-the-hessian-and-the-full-bosonic-mass-spectrum::b1
 parent_heading: '**δ-Weitzenböck → δ-Boson Mass Tower Derivation**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+block_type: paragraph
+excerpt: 'This version is suitable for your main δ-Geometry volume, the δ-Weitzenböck
+  appendix, and the δ-Boson sector of the δ-EFT Lagrangian. It includes: * Axioms'
+concepts:
+- δ
+- Axiom
+- Theorem
+- Proof
+- Box
+- δ-EFT
+- δ-Geometry
+- δ-Higgs
+- δ-Boson
+- Axiom Box
+aliases:
+- Bk176tv
+tags:
+- proof
+- low-uncertainty
+- axiom-box
+- sealed
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

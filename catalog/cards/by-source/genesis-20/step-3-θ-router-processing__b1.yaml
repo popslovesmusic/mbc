@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: 'Router receives: * Θ\_cat \= \+0.63 * Θ\_dog \= \+0.41'
-heading: Step 3 — Θ-router processing
 id: GEN20-6946
-lines: 3741-3749
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::123-example-3-classification-with-statistical-updating::step-3-θ-router-processing::b1
-parent_heading: 12.3 Example 3 — Classification With Statistical Updating
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3741-3749
+heading: Step 3 — Θ-router processing
+parent_heading: 12.3 Example 3 — Classification With Statistical Updating
+block_type: paragraph
+excerpt: 'Router receives: * Θ\_cat \= \+0.63 * Θ\_dog \= \+0.41'
+concepts:
+- Router
+- Θ
+aliases:
+- Bk885rr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

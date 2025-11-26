@@ -1,13 +1,33 @@
+id: GEN6-8295
+location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-categorical-topos-reformulation::t9-internal-orientability-poincaré-duality::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 477-490
+heading: '**T9 — Internal Orientability \+ Poincaré Duality**'
+parent_heading: '**δ–Spectral Triple Axiom Box (Categorical / Topos Reformulation)**'
 block_type: paragraph
-concepts:
-- Γ
-- δ
-- ρ
 excerpt: 'There exists: 1. an internal Hochschild ppp-cycle cδc\_\\deltacδ​ for Aδ\\mathbf{A}\_\\deltaAδ​
   such that ρ(cδ)=Γδ\\rho(c\_\\delta)=\\Gamma\_\\deltaρ(cδ​)=Γδ​'
-heading: '**T9 — Internal Orientability \+ Poincaré Duality**'
-id: GEN6-8295
-lines: 477-490
-location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-categorical-topos-reformulation::t9-internal-orientability-poincaré-duality::b1
-parent_heading: '**δ–Spectral Triple Axiom Box (Categorical / Topos Reformulation)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- Γ
+- ρ
+- K-homology
+- ppp-cycle
+- K-theory
+- δ-space
+- δc
+aliases:
+- Bk098te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.95890410958904
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

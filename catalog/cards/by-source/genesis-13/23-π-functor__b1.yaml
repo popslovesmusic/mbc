@@ -1,12 +1,32 @@
+id: GEN13-2293
+location: genesis-13/the-weight-of-light::2-functors-δ-φ-π::23-π-functor::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 415-430
+heading: '**2.3. Π-Functor**'
+parent_heading: '**2\. Functors δ, Φ, Π**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'Input: a Φ-dynamical triple Output: a metric geometry. Π(X,aΦ,FΦ)=(M,g)\\Pi(X,
   a\_\\Phi, \\mathcal{F}\_\\Phi) \= (M,g)Π(X,aΦ​,FΦ​)=(M,g)'
-heading: '**2.3. Π-Functor**'
-id: GEN13-2293
-lines: 415-430
-location: genesis-13/the-weight-of-light::2-functors-δ-φ-π::23-π-functor::b1
-parent_heading: '**2\. Functors δ, Φ, Π**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Φ
+- Π
+- metric-producing
+- ∇
+- Π-projection
+- non-faithful
+- Φ-dynamical
+- Φ-dynamics
+aliases:
+- Bk676id
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.594202898550725
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

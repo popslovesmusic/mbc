@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-excerpt: '(Box Calculus → Axioms 8, 9, 10…) Examples:'
-heading: '6\. Expansion Direction VI: Higher Axiomatics'
 id: GEN17-4336
-lines: 2622-2625
 location: genesis-17/box-calculus::6-expansion-direction-vi-higher-axiomatics::b1
 source: genesis-17\box_calculus.md
+lines: 2622-2625
+heading: '6\. Expansion Direction VI: Higher Axiomatics'
+block_type: paragraph
+excerpt: '(Box Calculus → Axioms 8, 9, 10…) Examples:'
+concepts:
+- Box Calculus
+- Box
+- →
+aliases:
+- Bk325bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 42.857142857142854
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

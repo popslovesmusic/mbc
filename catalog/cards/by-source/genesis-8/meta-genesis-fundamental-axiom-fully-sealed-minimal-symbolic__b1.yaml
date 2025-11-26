@@ -1,15 +1,35 @@
+id: GEN8-8994
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::the-first-movement-axiom-mg1::meta-genesis-fundamental-axiom-fully-sealed-minimal-symbolic::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1178-1183
+heading: '***(Meta-Genesis Fundamental Axiom • Fully Sealed • Minimal • Symbolic)***'
+parent_heading: '**⟦ THE FIRST MOVEMENT AXIOM (MG–1) ⟧**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Math
-- Zero-State
-- Ψ
 excerpt: This axiom defines the **exact moment** when the Zero-State Ψ₀ fails, and
   deviation enters being. It is the *first dynamical statement* in all of IGSOA —
   the beginning of Meta-Genesis, Meta-Math, and ...
-heading: '***(Meta-Genesis Fundamental Axiom • Fully Sealed • Minimal • Symbolic)***'
-id: GEN8-8994
-lines: 1178-1183
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::the-first-movement-axiom-mg1::meta-genesis-fundamental-axiom-fully-sealed-minimal-symbolic::b1
-parent_heading: '**⟦ THE FIRST MOVEMENT AXIOM (MG–1) ⟧**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- Meta-Genesis
+- Meta-Math
+- IGSOA
+- State
+- Axiom
+- Zero-State
+- Ψ
+- exact moment
+- Ψ₀
+aliases:
+- Bk913ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

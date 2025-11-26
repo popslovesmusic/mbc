@@ -1,12 +1,28 @@
+id: GEN14-2935
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-paper-outline::7-deriving-the-standard-ensembles::71-microcanonical-ensemble-δ-fixed::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 347-349
+heading: '**7.1 Microcanonical Ensemble (δ fixed)**'
+parent_heading: '**7\. Deriving the Standard Ensembles**'
 block_type: paragraph
-concepts:
-- Ω
-- δ
 excerpt: P(δ-class fixed)=Ω(E)\\mathcal{P}(\\delta \\text{-class fixed}) \= \\Omega(E)P(δ-class
   fixed)=Ω(E)
-heading: '**7.1 Microcanonical Ensemble (δ fixed)**'
-id: GEN14-2935
-lines: 347-349
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-paper-outline::7-deriving-the-standard-ensembles::71-microcanonical-ensemble-δ-fixed::b1
-parent_heading: '**7\. Deriving the Standard Ensembles**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- δ-class
+- δ
+- Ω
+aliases:
+- Bk889cf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

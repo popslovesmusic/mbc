@@ -1,15 +1,35 @@
+id: GEN13-2172
+location: genesis-13/meta-math-nuclear-physics::δ-geometry-φ-operator-algebra-π-condensed-matter-physics::the-igsoa-derivation-of-all-condensed-matter-phenomena::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2026-2063
+heading: '***(The IGSOA Derivation of All Condensed-Matter Phenomena)***'
+parent_heading: '**“δ-Geometry → Φ-Operator Algebra → Π-Condensed Matter Physics”**'
 block_type: paragraph
-concepts:
-- Condensed Matter Physics
-- Formal Physics White Paper
-- Π
-- Φ
-- δ
 excerpt: 'Written in the same **Formal Physics White Paper** style as your QCD chapter:
   – rigorous – C\*-algebraic'
-heading: '***(The IGSOA Derivation of All Condensed-Matter Phenomena)***'
-id: GEN13-2172
-lines: 2026-2063
-location: genesis-13/meta-math-nuclear-physics::δ-geometry-φ-operator-algebra-π-condensed-matter-physics::the-igsoa-derivation-of-all-condensed-matter-phenomena::b1
-parent_heading: '**“δ-Geometry → Φ-Operator Algebra → Π-Condensed Matter Physics”**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- Condensed Matter Physics
+- Φ
+- category-theoretic
+- operator-theoretic
+- Π
+- δ-adjacency
+- Formal Physics White Paper
+- δ-curvature
+- δ-harmonics
+- Φ-mode
+aliases:
+- Bk800wt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.891089108910892
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,24 +1,39 @@
+id: GEN8-8751
+location: genesis-8/corollary-einstein-compatibility-via::how-color-curvature-and-causality-unify::b2
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 750-775
+heading: '**◆ How Color, Curvature, and Causality Unify**'
 block_type: paragraph
-concepts:
-- Causality
-- Chromatic Modes
-- Classical Geometry
-- Color
-- Curvature
-- Meta-Time
-- Tri-Unity
-- causality
-- color
-- curvature
-- projections
-- Π
-- Φ
-- δ
 excerpt: '*(δ-Geometry → Chromatic Modes → Meta-Time)* In IGSOA, three phenomena that
   appear unrelated in traditional physics— **color**, **curvature**, and **causality**—are
   revealed to be three faces of a sin...'
-heading: '**◆ How Color, Curvature, and Causality Unify**'
-id: GEN8-8751
-lines: 750-775
-location: genesis-8/corollary-einstein-compatibility-via::how-color-curvature-and-causality-unify::b2
-source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+concepts:
+- Curvature
+- Tri-Unity
+- Meta-Time
+- Causality
+- IGSOA
+- Color
+- Chromatic Mode
+- δ
+- →
+- Classical Geometry
+- Π
+- Φ
+- δ-Geometry
+- Chromatic Modes
+- causality
+aliases:
+- Bk354gc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.805555555555555
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

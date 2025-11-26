@@ -1,12 +1,28 @@
+id: INTK-9606
+location: intake/abstract-editorial-review::section-3-dual-nature-of-energy-in-φ-structures::31-e-vac-as-a-φ-domain-potential::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 179-185
+heading: '**3.1 — E\_vac as a Φ-domain potential**'
+parent_heading: '**📄 Section 3 — Dual Nature of Energy in Φ-Structures**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Add one clarifying sentence: Although `E_vac` is often treated as a physical
   density in GR, within the Φ-domain it has no metric interpretation and therefore
   cannot couple to curvature directly. This ...'
-heading: '**3.1 — E\_vac as a Φ-domain potential**'
-id: INTK-9606
-lines: 179-185
-location: intake/abstract-editorial-review::section-3-dual-nature-of-energy-in-φ-structures::31-e-vac-as-a-φ-domain-potential::b1
-parent_heading: '**📄 Section 3 — Dual Nature of Energy in Φ-Structures**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- Φ-domain
+- Φ
+aliases:
+- Bk964ao
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

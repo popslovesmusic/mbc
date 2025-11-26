@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Σ
-- η
-excerpt: '**No semantic state may collapse to the null.** ∥Σ∥≠0\\boxed{ \\|\\Sigma\\|
-  \\neq 0 }∥Σ∥=0​ OR, with entropy:'
-heading: '**⭐ AXIOM 9 — The NOT-Axiom (Non-Collapse Axiom)**'
 id: GEN16-3860
-lines: 1642-1654
 location: genesis-16/untitled-document::axiom-9-the-not-axiom-non-collapse-axiom::b1
 source: genesis-16\Untitled_document.md
+lines: 1642-1654
+heading: '**⭐ AXIOM 9 — The NOT-Axiom (Non-Collapse Axiom)**'
+block_type: paragraph
+excerpt: '**No semantic state may collapse to the null.** ∥Σ∥≠0\\boxed{ \\|\\Sigma\\|
+  \\neq 0 }∥Σ∥=0​ OR, with entropy:'
+concepts:
+- IGSOA
+- Σ
+- η
+- non-zero
+- ≠
+aliases:
+- Bk608ss
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.627906976744185
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

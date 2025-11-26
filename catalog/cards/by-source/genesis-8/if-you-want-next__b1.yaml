@@ -1,17 +1,38 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Compatibility Axiom
-- Tri-Unity
-- next
-- Φ
-- δ
-excerpt: 'I can produce any of the following next: ✔ **The sealed Axiom Box: “δ–Φ
-  Compatibility Axiom.”** ✔ **A full-page diagram of the δ → Φ → Einstein mapping.**'
-heading: '**If you want next:**'
 id: GEN8-8707
-lines: 116-125
 location: genesis-8/corollary-einstein-compatibility-via::if-you-want-next::b1
 source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 116-125
+heading: '**If you want next:**'
+block_type: paragraph
+excerpt: 'I can produce any of the following next: ✔ **The sealed Axiom Box: “δ–Φ
+  Compatibility Axiom.”** ✔ **A full-page diagram of the δ → Φ → Einstein mapping.**'
+concepts:
+- Tri-Unity
+- Axiom
+- δ
+- Φ
+- →
+- Theorem
+- Box
+- π
+- full-page
+- Compatibility Axiom
+- next
+- Axiom Box
+aliases:
+- Bk605cp
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 22.641509433962266
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

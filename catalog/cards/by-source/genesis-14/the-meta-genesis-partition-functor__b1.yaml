@@ -1,15 +1,34 @@
+id: GEN14-2925
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::the-meta-genesis-partition-functor::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 194-201
+heading: '**\*\*The Meta-Genesis Partition Functor:**'
 block_type: paragraph
-concepts:
-- Emergent Thermodynamic Ensembles
-- Modular Theory
-- Π
-- Φ
-- δ
 excerpt: δ-Geometry, Modular Theory, and Emergent Thermodynamic Ensembles\*\* *(Ensembles
   as natural images of δ-adjacency structures)* This is fully aligned with your δ
   → Φ → Π adjoint triple, your monism, an...
-heading: '**\*\*The Meta-Genesis Partition Functor:**'
-id: GEN14-2925
-lines: 194-201
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::the-meta-genesis-partition-functor::b1
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- IGSOA
+- δ
+- Emergent Thermodynamic Ensembles
+- →
+- δ-adjacency
+- δ-Geometry
+- Π
+- Φ
+- Modular Theory
+aliases:
+- Bk692gm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 26.47058823529412
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

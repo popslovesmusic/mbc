@@ -1,11 +1,27 @@
+id: GEN16-4102
+location: genesis-16/untitled-document::if-you-want-next::you-said::b2
+source: genesis-16\Untitled_document.md
+lines: 4649-4651
+heading: '**You said:**'
+parent_heading: '**⭐ If you want next:**'
 block_type: paragraph
+excerpt: η-long normal forms ↔ fully expanded Box graphs
 concepts:
 - Box
 - η
-excerpt: η-long normal forms ↔ fully expanded Box graphs
-heading: '**You said:**'
-id: GEN16-4102
-lines: 4649-4651
-location: genesis-16/untitled-document::if-you-want-next::you-said::b2
-parent_heading: '**⭐ If you want next:**'
-source: genesis-16\Untitled_document.md
+- ↔
+aliases:
+- Bk118ln
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 37.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

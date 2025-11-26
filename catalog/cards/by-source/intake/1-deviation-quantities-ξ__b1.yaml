@@ -1,14 +1,28 @@
+id: INTK-10331
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::core-concepts::1-deviation-quantities-ξ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 895-896
+heading: 1. Deviation-Quantities (ξ)
+parent_heading: Core Concepts
 block_type: paragraph
-concepts:
-- Meta-Time
-- σ
-- τ
 excerpt: Generalized numerical values representing measures of deviation intensity,
   peakset amplitude, scale (σ), or Meta-Time (τ) intervals. These are not simple real
   numbers but "ontological numbers" whose i...
-heading: 1. Deviation-Quantities (ξ)
-id: INTK-10331
-lines: 895-896
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::core-concepts::1-deviation-quantities-ξ::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Time
+- τ
+- σ
+aliases:
+- Bk213gn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

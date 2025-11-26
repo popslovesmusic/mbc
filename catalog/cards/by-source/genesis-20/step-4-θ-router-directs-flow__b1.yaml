@@ -1,11 +1,27 @@
+id: GEN20-6934
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::121-example-1-simple-propositional-reasoning-in-mbc::step-4-θ-router-directs-flow::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3635-3641
+heading: Step 4 — Θ-router directs flow
+parent_heading: 12.1 Example 1 — Simple Propositional Reasoning in MBC
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'The Θ-router inside B performs: 1. Incoming Θ\_A aligns with B’s “condition”
   channel. 2. Polarity flows from condition to consequence with transformer weightings.'
-heading: Step 4 — Θ-router directs flow
-id: GEN20-6934
-lines: 3635-3641
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::121-example-1-simple-propositional-reasoning-in-mbc::step-4-θ-router-directs-flow::b1
-parent_heading: 12.1 Example 1 — Simple Propositional Reasoning in MBC
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Polarity
+- Θ
+aliases:
+- Bk165tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

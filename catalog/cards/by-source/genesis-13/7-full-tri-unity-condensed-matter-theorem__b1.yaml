@@ -1,14 +1,30 @@
+id: GEN13-2203
+location: genesis-13/meta-math-nuclear-physics::7-full-tri-unity-condensed-matter-theorem::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2324-2338
+heading: '**7\. Full Tri-Unity Condensed Matter Theorem**'
 block_type: paragraph
-concepts:
-- Condensed Matter Physics
-- Π
-- Φ
-- δ
 excerpt: 'Condensed Matter Physics=Π ⁣(Φ ⁣(δ))\\boxed{ \\textbf{Condensed Matter Physics}
   \= \\Pi\\\!\\left( \\Phi\\\!\\left( \\delta \\right) \\right) }Condensed Matter
   Physics=Π(Φ(δ))​ but decomposed: * **δ**...'
-heading: '**7\. Full Tri-Unity Condensed Matter Theorem**'
-id: GEN13-2203
-lines: 2324-2338
-location: genesis-13/meta-math-nuclear-physics::7-full-tri-unity-condensed-matter-theorem::b1
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ-geometry
+- δ
+- Condensed Matter Physics
+- Π
+- Φ
+- condensed-matter
+aliases:
+- Bk236cm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

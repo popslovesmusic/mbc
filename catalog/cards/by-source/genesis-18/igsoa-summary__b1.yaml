@@ -1,14 +1,32 @@
+id: GEN18-5726
+location: genesis-18/sealed-axiom-box::synthesis-statement::igsoa-summary::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1246-1248
+heading: '**IGSOA Summary**'
+parent_heading: '**SYNTHESIS STATEMENT**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Inference \= δ-adjacency, Reasoning \= Φ-functoriality, Truth \= Π-evaluation.\\boxed{
   \\text{Inference \= δ-adjacency, Reasoning \= Φ-functoriality, Truth \= Π-evaluation.}
   }Inference \= δ-adjacency,...
-heading: '**IGSOA Summary**'
-id: GEN18-5726
-lines: 1246-1248
-location: genesis-18/sealed-axiom-box::synthesis-statement::igsoa-summary::b1
-parent_heading: '**SYNTHESIS STATEMENT**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- Π-evaluation
+- Φ-functoriality
+- δ-adjacency
+- Π
+- δ
+- Φ
+aliases:
+- Bk354ia
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.689655172413794
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

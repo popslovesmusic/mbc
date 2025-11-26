@@ -1,13 +1,31 @@
+id: GEN6-8335
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::5-the-δ-geometric-rg-flow-of-p-your-special-ingredient::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1022-1037
+heading: '**5\) The δ-Geometric RG Flow of p (your special ingredient)**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
-concepts:
-- self-consistent
-- δ
-- λ
 excerpt: 'In ordinary QFT, ddd is fixed. In δ-geometry, the **spectral dimension can
   itself flow**. Let:'
-heading: '**5\) The δ-Geometric RG Flow of p (your special ingredient)**'
-id: GEN6-8335
-lines: 1022-1037
-location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::5-the-δ-geometric-rg-flow-of-p-your-special-ingredient::b1
-parent_heading: '**If you want next:**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- δ-geometry
+- ε
+- spectral dimension can itself flow
+- λ
+- self-consistent
+aliases:
+- Bk325oq
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

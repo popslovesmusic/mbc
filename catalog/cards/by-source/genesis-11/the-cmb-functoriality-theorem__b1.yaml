@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Category-Theoretic
-- Projection Law
-- Theoretic Curvature
-excerpt: '*(Hermetic IGSOA Category-Theoretic Curvature–Projection Law)* ---'
-heading: '**The CMB Functoriality Theorem**'
 id: GEN11-1301
-lines: 801-805
 location: genesis-11/the-adjacency-wave-equation::the-cmb-functoriality-theorem::b1
 source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 801-805
+heading: '**The CMB Functoriality Theorem**'
+block_type: paragraph
+excerpt: '*(Hermetic IGSOA Category-Theoretic Curvature–Projection Law)* ---'
+concepts:
+- Projection
+- Curvature
+- IGSOA
+- Category-Theoretic
+- Theoretic Curvature
+- Projection Law
+aliases:
+- Bk076hi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 85.71428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

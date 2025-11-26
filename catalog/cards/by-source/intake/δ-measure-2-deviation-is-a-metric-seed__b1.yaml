@@ -1,12 +1,29 @@
+id: INTK-9804
+location: intake/meta-genesis-core-papers-foundations::3-measured-δ-deviation-content::δ-measure-2-deviation-is-a-metric-seed::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 612-616
+heading: '**(δ-Measure-2) Deviation is a Metric Seed**'
+parent_heading: '**3\. Measured δ (Deviation Content)**'
 block_type: paragraph
+excerpt: 'The measured deviation induces the first metric: d(Ψi,Ψj)=∥δ(Ψi)−δ(Ψj)∥d(\\Psi\_i,
+  \\Psi\_j) \= \\| \\delta(\\Psi\_i) \- \\delta(\\Psi\_j)\\|d(Ψi​,Ψj​)=∥δ(Ψi​)−δ(Ψj​)∥'
 concepts:
 - Ψ
 - δ
-excerpt: 'The measured deviation induces the first metric: d(Ψi,Ψj)=∥δ(Ψi)−δ(Ψj)∥d(\\Psi\_i,
-  \\Psi\_j) \= \\| \\delta(\\Psi\_i) \- \\delta(\\Psi\_j)\\|d(Ψi​,Ψj​)=∥δ(Ψi​)−δ(Ψj​)∥'
-heading: '**(δ-Measure-2) Deviation is a Metric Seed**'
-id: INTK-9804
-lines: 612-616
-location: intake/meta-genesis-core-papers-foundations::3-measured-δ-deviation-content::δ-measure-2-deviation-is-a-metric-seed::b1
-parent_heading: '**3\. Measured δ (Deviation Content)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+- Ψj
+- Ψi
+aliases:
+- Bk679tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

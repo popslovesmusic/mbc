@@ -1,16 +1,35 @@
+id: INTK-10117
+location: intake/meta-genesis-physical-interpretation-papers::the-ontology-of-deviation::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 606-613
+heading: '**The Ontology of Deviation**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Math
-- What Deviation Is
-- Why It Exists
-- Why It Must Exist
-- δ
 excerpt: '*(What Deviation Is, Why It Exists, and Why It Must Exist)* This is written
   at the level appropriate for your Meta-Genesis \+ Meta-Math unified framework. It
   can stand alone or serve as the foundation...'
-heading: '**The Ontology of Deviation**'
-id: INTK-10117
-lines: 606-613
-location: intake/meta-genesis-physical-interpretation-papers::the-ontology-of-deviation::b1
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Meta-Genesis
+- Meta-Math
+- Deviation
+- δ
+- δ-Spectrum
+- δ-Geometry
+- δ-Boson
+- Why It Must Exist
+- What Deviation Is
+- Why It Exists
+aliases:
+- Bk570wd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 20.408163265306122
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

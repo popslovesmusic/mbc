@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Each router performs a semantic update step: ψj(t+1)=FR({χi(t)},MR(t),GR)
-  ψ'
-heading: B4.2 Router Update Equation (Core Dynamic Rule)
 id: GEN20-7230
-lines: 7585-7617
 location: genesis-20/mbc-40-documentaitio-1::b42-router-update-equation-core-dynamic-rule::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7585-7617
+heading: B4.2 Router Update Equation (Core Dynamic Rule)
+block_type: paragraph
+excerpt: 'Each router performs a semantic update step: ψj(t+1)=FR({χi(t)},MR(t),GR)
+  ψ'
+concepts:
+- metadata-conditioned
+- ψ
+- χ
+aliases:
+- Bk882er
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

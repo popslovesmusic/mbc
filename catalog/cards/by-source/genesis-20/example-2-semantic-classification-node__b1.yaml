@@ -1,19 +1,38 @@
+id: GEN20-7037
+location: genesis-20/mbc-40-documentaitio-1::conclusion::147-implementation-examples::example-2-semantic-classification-node::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4803-4810
+heading: Example 2 — Semantic Classification Node
+parent_heading: 14.7 Implementation Examples
 block_type: paragraph
+excerpt: 'Box Input → {Box Cat, Box Dog} → Box Decision Polarity-weighted choice:
+  * Router selects dominant polarity'
 concepts:
 - Box
-- Box Cat
+- Polarity
+- Router
+- Polarity-weighted
+- →
 - 'Box Decision
 
 
   Polarity'
-- Box Dog
-- Box Input
 - Π
-excerpt: 'Box Input → {Box Cat, Box Dog} → Box Decision Polarity-weighted choice:
-  * Router selects dominant polarity'
-heading: Example 2 — Semantic Classification Node
-id: GEN20-7037
-lines: 4803-4810
-location: genesis-20/mbc-40-documentaitio-1::conclusion::147-implementation-examples::example-2-semantic-classification-node::b1
-parent_heading: 14.7 Implementation Examples
-source: genesis-20\MBC_40_Documentaitio-1.md
+- Box Input
+- Box Dog
+- Box Cat
+aliases:
+- Bk992bi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 47.61904761904761
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

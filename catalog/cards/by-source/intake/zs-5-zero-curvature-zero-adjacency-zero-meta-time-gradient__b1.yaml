@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Meta-Curvature
-- Meta-Time
-- Ψ
-excerpt: 'Let: * **ℛ** be the Meta-Curvature operator * **𝒜** be the Adjacency operator'
-heading: '**(ZS-5) Zero Curvature, Zero Adjacency, Zero Meta-Time Gradient**'
 id: INTK-9766
-lines: 282-296
 location: intake/meta-genesis-core-papers-foundations::1-formal-definition::definition-ψ₀-zero-state-ontological-substrate::zs-5-zero-curvature-zero-adjacency-zero-meta-time-gradient::b1
-parent_heading: '**Definition (Ψ₀): Zero State Ontological Substrate**'
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 282-296
+heading: '**(ZS-5) Zero Curvature, Zero Adjacency, Zero Meta-Time Gradient**'
+parent_heading: '**Definition (Ψ₀): Zero State Ontological Substrate**'
+block_type: paragraph
+excerpt: 'Let: * **ℛ** be the Meta-Curvature operator * **𝒜** be the Adjacency operator'
+concepts:
+- Ψ
+- Meta-Time
+- Curvature
+- Adjacency
+- Meta-Curvature
+- Τ
+- Ψ₀
+aliases:
+- Bk238lt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.20754716981132
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

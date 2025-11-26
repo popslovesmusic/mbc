@@ -1,12 +1,29 @@
+id: GEN5-8100
+location: genesis-5/meta-einstein-axiom-box-language-sealed::lemma-2-unity-of-curvatures-δ-curvature-φ-curvature-under-isomorphism::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 215-219
+heading: '**Lemma 2 — Unity of Curvatures (δ-curvature \= Φ-curvature under isomorphism)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Under the same assumptions, RΦ=(∇Φ)2=Υ (∇δ)2 Υ−1=Υ Rδ Υ−1.\\mathcal{R}^\\Phi
   \= (\\nabla^\\Phi)^2 \= \\Upsilon\\, (\\nabla^\\delta)^2 \\,\\Upsilon^{-1} \= \\Upsilon
   \\,\\mathcal{R}^\\delta\\,\\Upsilon...
-heading: '**Lemma 2 — Unity of Curvatures (δ-curvature \= Φ-curvature under isomorphism)**'
-id: GEN5-8100
-lines: 215-219
-location: genesis-5/meta-einstein-axiom-box-language-sealed::lemma-2-unity-of-curvatures-δ-curvature-φ-curvature-under-isomorphism::b1
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Υ
+- ∇
+- δ
+- Φ
+aliases:
+- Bk840ut
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.30232558139535
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

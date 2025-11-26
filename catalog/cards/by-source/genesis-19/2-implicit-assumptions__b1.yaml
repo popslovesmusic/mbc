@@ -1,10 +1,22 @@
+id: GEN19-6045
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::hidden-patterns-mbc-can-reveal-from-text::2-implicit-assumptions::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 400-403
+heading: 2\. Implicit Assumptions
+parent_heading: Hidden Patterns MBC Can Reveal From Text
 block_type: paragraph
+excerpt: Box–router structure exposes assumptions never stated aloud. ---
 concepts:
 - Box
-excerpt: Box–router structure exposes assumptions never stated aloud. ---
-heading: 2\. Implicit Assumptions
-id: GEN19-6045
-lines: 400-403
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::hidden-patterns-mbc-can-reveal-from-text::2-implicit-assumptions::b1
-parent_heading: Hidden Patterns MBC Can Reveal From Text
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+aliases:
+- Bk076br
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

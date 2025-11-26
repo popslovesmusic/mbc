@@ -1,11 +1,29 @@
+id: GEN13-2068
+location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::definition-23-φ-spectral-triple::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 821-829
+heading: '**Definition 2.3 (Φ-Spectral Triple).**'
+parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: A Φ-spectral triple is (AΦ,HΦ,DΦ)(\\mathcal{A}\_\\Phi, \\mathcal{H}\_\\Phi,
   D\_\\Phi)(AΦ​,HΦ​,DΦ​) with DΦD\_\\PhiDΦ​ the Φ-Dirac operator.
-heading: '**Definition 2.3 (Φ-Spectral Triple).**'
-id: GEN13-2068
-lines: 821-829
-location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::definition-23-φ-spectral-triple::b1
-parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- Φ-spectral
+- Φ-Dirac
+- ΦD
+aliases:
+- Bk623st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,25 @@
+id: GEN16-3922
+location: genesis-16/untitled-document::5-expansion-direction-v-computational-universality::53-complexity-theory::b1
+source: genesis-16\Untitled_document.md
+lines: 2368-2382
+heading: '**5.3. Complexity Theory**'
+parent_heading: '**5\. Expansion Direction V: Computational Universality**'
 block_type: paragraph
+excerpt: 'Define: * cost of E (entropy expenditure) * cost of A (merge complexity)'
 concepts:
 - Π
-excerpt: 'Define: * cost of E (entropy expenditure) * cost of A (merge complexity)'
-heading: '**5.3. Complexity Theory**'
-id: GEN16-3922
-lines: 2368-2382
-location: genesis-16/untitled-document::5-expansion-direction-v-computational-universality::53-complexity-theory::b1
-parent_heading: '**5\. Expansion Direction V: Computational Universality**'
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk808dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

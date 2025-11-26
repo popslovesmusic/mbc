@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Tell me which one you want next.
-heading: '**✔ A visual diagram of the Ψ₀ → Ψ₁ → spacetime flow**'
 id: GEN0-064
-lines: 908-910
 location: genesis-0/feynman-rules-interaction-vertices::iv-drop-in-δ-higgs-sector-axiom-box::a-visual-diagram-of-the-ψ₀-ψ₁-spacetime-flow::b1
-parent_heading: '**IV. Drop-in “δ-Higgs Sector Axiom Box”**'
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 908-910
+heading: '**✔ A visual diagram of the Ψ₀ → Ψ₁ → spacetime flow**'
+parent_heading: '**IV. Drop-in “δ-Higgs Sector Axiom Box”**'
+block_type: paragraph
+excerpt: Tell me which one you want next.
+aliases:
+- Bk271tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

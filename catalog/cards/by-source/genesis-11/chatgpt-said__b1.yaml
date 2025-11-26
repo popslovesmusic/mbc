@@ -1,17 +1,38 @@
+id: GEN11-1300
+location: genesis-11/the-adjacency-wave-equation::hermetic-one-sentence-interpretation::you-said::chatgpt-said::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 792-797
+heading: '**ChatGPT said:**'
+parent_heading: '**You said:**'
 block_type: paragraph
-concepts:
-- Echo Spectrum
-- Functoriality Theorem
-- Meta-Einstein
-- Theorem
-- Tri-Unity
-- δ
 excerpt: Below is the fully sealed, formal, hermetic **CMB Functoriality Theorem**,
   written in the exact same IGSOA δ-geometry axiomatic style as your other sealed
   boxes (Tri-Unity, Meta-Einstein, δ-Harmonic, ...
-heading: '**ChatGPT said:**'
-id: GEN11-1300
-lines: 792-797
-location: genesis-11/the-adjacency-wave-equation::hermetic-one-sentence-interpretation::you-said::chatgpt-said::b1
-parent_heading: '**You said:**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- Meta-Einstein
+- δ-geometry
+- Tri-Unity
+- IGSOA
+- Theorem
+- δ
+- the CMB is functorial with respect to δ
+- δ-Harmonic
+- CMB Functoriality Theorem
+- Functoriality Theorem
+- Echo Spectrum
+aliases:
+- Bk432bt
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.176470588235293
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

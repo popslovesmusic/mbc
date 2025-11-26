@@ -1,17 +1,37 @@
+id: GEN12-1570
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-genesis-deviation-δ::corollary-origin-of-structure::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 613-632
+heading: '**Corollary (Origin of Structure).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Genesis → Deviation (δ) ⟡**'
 block_type: paragraph
-concepts:
-- Box
-- Cosmic Pipeline
-- Sealed Box
-- Write Section
-- Φ
-- δ
 excerpt: 'The chain: NOT  ⇒  δ  ⇒  δ-curvature  ⇒  adjacency  ⇒  geometry\\text{NOT}
   \\;\\Rightarrow\\; \\delta \\;\\Rightarrow\\; \\delta\\text{-curvature} \\;\\Rightarrow\\;
   \\text{adjacency} \\;\\Rightarrow\...'
-heading: '**Corollary (Origin of Structure).**'
-id: GEN12-1570
-lines: 613-632
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-genesis-deviation-δ::corollary-origin-of-structure::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Genesis → Deviation (δ) ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- δ
+- Deviation
+- IGSOA
+- δ-curvature
+- Box
+- →
+- white-paper
+- Φ
+- End of Sealed Box
+- Cosmic Pipeline
+- Write Section
+- Sealed Box
+aliases:
+- Bk153tc
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

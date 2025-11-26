@@ -1,13 +1,30 @@
+id: GEN7-8611
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::δ-weitzenböck-δ-higgs-potential-axiom-box-sealed-version::axiom-δ-scalar-sector-action::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 910-922
+heading: '**AXIOM (δ-Scalar Sector Action).**'
+parent_heading: '**▮ δ-Weitzenböck → δ-Higgs Potential Axiom Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'The scalar action of any δ-compatible EFT must be constructed from torsion
   invariants: SΦ=∫d4x −g (a Tδ+b Tδ2+c),S\_\\Phi \= \\int d^4x\\,\\sqrt{-g}\\, \\big(
   a\\,T\_\\delta \+ b\\,T\_\\delta^2 \+ c \...'
-heading: '**AXIOM (δ-Scalar Sector Action).**'
-id: GEN7-8611
-lines: 910-922
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::δ-weitzenböck-δ-higgs-potential-axiom-box-sealed-version::axiom-δ-scalar-sector-action::b1
-parent_heading: '**▮ δ-Weitzenböck → δ-Higgs Potential Axiom Box (Sealed Version)**'
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- Φ
+- δ
+- ∫
+- δ-compatible
+aliases:
+- Bk983ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.8095238095238098
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,26 @@
+id: GEN13-2308
+location: genesis-13/the-weight-of-light::3-csoi-stability-δ-tail-persistence::deviation-cannot-vanish-unless-symmetry-fully-restores::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 707-722
+heading: '**Deviation cannot vanish unless symmetry fully restores.**'
+parent_heading: '**3\. CSOI Stability \= δ-Tail Persistence**'
 block_type: paragraph
-concepts:
-- not
-- δ
 excerpt: 'When galaxy formation ends, symmetry is *not* restored. So deviation cannot
   dissipate. Thus the CSOI remains and its δ-curvature becomes:'
-heading: '**Deviation cannot vanish unless symmetry fully restores.**'
-id: GEN13-2308
-lines: 707-722
-location: genesis-13/the-weight-of-light::3-csoi-stability-δ-tail-persistence::deviation-cannot-vanish-unless-symmetry-fully-restores::b1
-parent_heading: '**3\. CSOI Stability \= δ-Tail Persistence**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- is the δ-curvature defect
+- δ-curvature
+- ∂
+aliases:
+- Bk321wg
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.47945205479452
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

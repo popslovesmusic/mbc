@@ -1,12 +1,31 @@
+id: GEN15-3492
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::4-the-cmb-as-a-gδ-coalgebra::cmb-coalgebra-structure::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1853-1871
+heading: '**CMB Coalgebra Structure**'
+parent_heading: '**🔷 4\. The CMB as a Gδ-Coalgebra**'
 block_type: paragraph
-concepts:
-- γ
-- δ
 excerpt: 'Define: γCMB:ACMB→Gδ(ACMB)\\gamma\_{\\mathrm{CMB}} : A\_{\\mathrm{CMB}}
   \\to G\_\\delta(A\_{\\mathrm{CMB}})γCMB​:ACMB​→Gδ​(ACMB​) This means:'
-heading: '**CMB Coalgebra Structure**'
-id: GEN15-3492
-lines: 1853-1871
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::4-the-cmb-as-a-gδ-coalgebra::cmb-coalgebra-structure::b1
-parent_heading: '**🔷 4\. The CMB as a Gδ-Coalgebra**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- first cosmic boundary where δ becomes observable
+- γ
+- →
+- δ-information
+- larger-scale
+aliases:
+- Bk706da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'It only requires a router network to organize them. In fact:'
-heading: MBC does not require a large model to “learn” concepts
 id: GEN19-6106
-lines: 979-982
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::6-why-this-works-without-llms::mbc-does-not-require-a-large-model-to-learn-concepts::b1
-parent_heading: \#6 — Why This Works Without LLMs
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 979-982
+heading: MBC does not require a large model to “learn” concepts
+parent_heading: \#6 — Why This Works Without LLMs
+block_type: paragraph
+excerpt: 'It only requires a router network to organize them. In fact:'
+aliases:
+- Bk683or
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

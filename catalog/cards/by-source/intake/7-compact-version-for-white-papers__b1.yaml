@@ -1,12 +1,29 @@
+id: INTK-10009
+location: intake/meta-genesis-mathematical-papers::7-compact-version-for-white-papers::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1018-1030
+heading: '**7\. Compact Version (for white papers)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'δ2Ψ0 induces a partial order ⪯.\\delta^2\\Psi\_0 \\text{ induces a partial
   order } \\preceq.δ2Ψ0​ induces a partial order ⪯. πT: (δ2Ψ0,⪯) → (T,≤)\\pi\_T:\\
   (\\delta^2\\Psi\_0,\\preceq)\\ \\to\\ (\\mat...'
-heading: '**7\. Compact Version (for white papers)**'
-id: INTK-10009
-lines: 1018-1030
-location: intake/meta-genesis-mathematical-papers::7-compact-version-for-white-papers::b1
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+- δ
+- π
+- the canonical projection of adjacency
+- →
+- order-preserving
+- ≤
+aliases:
+- Bk119ip
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

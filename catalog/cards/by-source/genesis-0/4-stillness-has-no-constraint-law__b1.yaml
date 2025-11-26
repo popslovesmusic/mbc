@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Ψ
-excerpt: 'If an action principle cannot define Ψ₀, then Ψ₀ cannot be: * a stable solution
-  * a vacuum'
-heading: '**4\. Stillness Has No Constraint Law**'
 id: GEN0-274
-lines: 262-299
 location: genesis-0/why-the-first-action-is-necessary::4-stillness-has-no-constraint-law::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 262-299
+heading: '**4\. Stillness Has No Constraint Law**'
+block_type: paragraph
+excerpt: 'If an action principle cannot define Ψ₀, then Ψ₀ cannot be: * a stable solution
+  * a vacuum'
+concepts:
+- Deviation
+- Axiom
+- Ψ
+- self-enforcing
+- Ψ₀
+aliases:
+- Bk365ap
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.376344086021505
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,17 +1,37 @@
-block_type: list
-concepts:
-- Flat Rotation Curves
-- Full Inflation
-- Meta-Einstein
-- Metric Stability Equation
-- Phase Locking
-- Structure Cascade Theorem
-- Theorem
-- Π
-excerpt: 6. **PROOF — CSOI Tail ⇒ Flat Rotation Curves** (IGSOA’s explanation of MOND-like
-  galactic dynamics.) 7. **PROOF — χ-Phase Locking ⇒ Early SMBH Seeds**
-heading: '**Next proofs available immediately:**'
 id: GEN14-2734
-lines: 1291-1305
 location: genesis-14/inflation-structure-formation::next-proofs-available-immediately::b2
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 1291-1305
+heading: '**Next proofs available immediately:**'
+block_type: list
+excerpt: 6. **PROOF — CSOI Tail ⇒ Flat Rotation Curves** (IGSOA’s explanation of MOND-like
+  galactic dynamics.) 7. **PROOF — χ-Phase Locking ⇒ Early SMBH Seeds**
+concepts:
+- Meta-Einstein
+- IGSOA
+- Theorem
+- Proof
+- Π
+- Structure Cascade Theorem
+- Metric Stability Equation
+- MOND-like
+- Π-Metric
+- χ
+- Flat Rotation Curves
+- Full Inflation
+- Phase Locking
+aliases:
+- Bk031pc
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.696969696969695
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,16 +1,38 @@
+id: GEN12-1556
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::1-genesis-deviation-δ::12-the-first-non-zero-why-δ-is-minimal::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 399-422
+heading: '**1.2 The First Non-Zero: Why δ is Minimal**'
+parent_heading: '**1\. Genesis → Deviation (δ)**'
 block_type: paragraph
-concepts:
-- Minimal Non
-- Non-Zero
-- Theorem
-- Ψ
-- δ
 excerpt: Having established that deviation must exist, we next show that δ is uniquely
   minimal. Let the “zero-state” be the undifferentiated, structureless Genesis condition.
   Any deviation from it must satisfy...
-heading: '**1.2 The First Non-Zero: Why δ is Minimal**'
-id: GEN12-1556
-lines: 399-422
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::1-genesis-deviation-δ::12-the-first-non-zero-why-δ-is-minimal::b1
-parent_heading: '**1\. Genesis → Deviation (δ)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- δ
+- Theorem
+- Ψ
+- Definition
+- non-zero
+- universal unit of difference
+- zero-state
+- Non-Zero
+- Ψ₀
+- Minimal Non
+- Ψ₁
+aliases:
+- Th193he
+tags:
+- theorem
+- minimal-non-zero
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.661417322834646
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

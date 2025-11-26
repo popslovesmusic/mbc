@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Early religious systems were: * calendars * agricultural algorithms'
-heading: '**⭐ 5\. Religion was the symbolic interface for a real pattern system**'
 id: SPEC-11158
-lines: 3176-3209
 location: special/specil::5-religion-was-the-symbolic-interface-for-a-real-pattern-system::b1
 source: special\specil.md
+lines: 3176-3209
+heading: '**⭐ 5\. Religion was the symbolic interface for a real pattern system**'
+block_type: paragraph
+excerpt: 'Early religious systems were: * calendars * agricultural algorithms'
+concepts:
+- star-movement
+- proto-physics
+aliases:
+- Bk756er
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

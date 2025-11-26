@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: If Υ:δ⇒Φ\\Upsilon:\\delta\\Rightarrow\\PhiΥ:δ⇒Φ is a natural isomorphism,
-  then ∇Φ=Υ∘∇δ∘Υ−1.\\nabla^\\Phi \= \\Upsilon \\circ \\nabla^\\delta \\circ \\Upsilon^{-1}.∇Φ=Υ∘∇δ∘Υ−1.
-heading: '**Lemma 1 — Unity of Connections**'
 id: GEN5-8098
-lines: 195-199
 location: genesis-5/meta-einstein-axiom-box-language-sealed::lemma-1-unity-of-connections::b1
 source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 195-199
+heading: '**Lemma 1 — Unity of Connections**'
+block_type: paragraph
+excerpt: If Υ:δ⇒Φ\\Upsilon:\\delta\\Rightarrow\\PhiΥ:δ⇒Φ is a natural isomorphism,
+  then ∇Φ=Υ∘∇δ∘Υ−1.\\nabla^\\Phi \= \\Upsilon \\circ \\nabla^\\delta \\circ \\Upsilon^{-1}.∇Φ=Υ∘∇δ∘Υ−1.
+concepts:
+- Υ
+- ∇
+- δ
+- Φ
+aliases:
+- Bk339ud
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

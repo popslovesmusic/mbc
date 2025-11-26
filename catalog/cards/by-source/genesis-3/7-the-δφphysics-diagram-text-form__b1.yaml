@@ -1,14 +1,37 @@
-block_type: paragraph
-concepts:
-- Deviation Functor
-- Layer
-- Meta-Time
-- Φ
-- δ
-excerpt: '`┌────────────────────────────────────────┐` `│               δ-Layer                  │`
-  `│      (Deviation, Intensity, Δ)         │`'
-heading: '**7\. The δ–Φ–Physics Diagram (Text Form)**'
 id: GEN3-7415
-lines: 737-761
 location: genesis-3/the-physics-box-diagram::7-the-δφphysics-diagram-text-form::b1
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 737-761
+heading: '**7\. The δ–Φ–Physics Diagram (Text Form)**'
+block_type: paragraph
+excerpt: '`┌────────────────────────────────────────┐` `│               δ-Layer                  │`
+  `│      (Deviation, Intensity, Δ)         │`'
+concepts:
+- Meta-Time
+- Deviation
+- δ
+- Φ
+- Projection
+- Adjacency
+- Curvature
+- Layer
+- Functor
+- δ-Layer
+- Φ-Layer
+- Δ
+- Deviation Functor
+aliases:
+- Bk272ld
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

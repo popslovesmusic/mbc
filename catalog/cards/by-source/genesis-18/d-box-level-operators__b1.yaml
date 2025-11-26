@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Box
-- δ
-excerpt: '*(Only exist after δ ≠ 0\. All operate on instantiated Box-objects.)* ---'
-heading: '**D. BOX-LEVEL OPERATORS**'
 id: GEN18-5199
-lines: 808-812
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::d-box-level-operators::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 808-812
+heading: '**D. BOX-LEVEL OPERATORS**'
+block_type: paragraph
+excerpt: '*(Only exist after δ ≠ 0\. All operate on instantiated Box-objects.)* ---'
+concepts:
+- Box
+- Box-objects
+- ≠
+- δ
+aliases:
+- Bk529oe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 36.36363636363637
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

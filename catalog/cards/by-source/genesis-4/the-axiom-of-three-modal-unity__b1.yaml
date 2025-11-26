@@ -1,15 +1,31 @@
+id: GEN4-7805
+location: genesis-4/the-adjoint-triple::the-δφ-tri-unity-transition-box::the-axiom-of-three-modal-unity::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1496-1504
+heading: '***(The Axiom of Three-Modal Unity)***'
+parent_heading: '**✦ THE δ–Φ → TRI-UNITY TRANSITION BOX**'
 block_type: paragraph
-concepts:
-- Deviation
-- Form
-- Propagation
-- Φ
-- δ
 excerpt: Let δ denote **Deviation** (the necessity of change), let Φ denote **Form**
   (the structuring field), let π denote **Propagation** (physical realization).
-heading: '***(The Axiom of Three-Modal Unity)***'
-id: GEN4-7805
-lines: 1496-1504
-location: genesis-4/the-adjoint-triple::the-δφ-tri-unity-transition-box::the-axiom-of-three-modal-unity::b1
-parent_heading: '**✦ THE δ–Φ → TRI-UNITY TRANSITION BOX**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Deviation
+- π
+- δ
+- Φ
+- Propagation
+- Form
+aliases:
+- Bk216ld
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

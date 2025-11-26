@@ -1,17 +1,37 @@
-block_type: list
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Einstein Axiom Block
-- Meta-Einstein
-- Theorem
-- Theorem Stack
-- bending
-excerpt: '* The **first deviation** creates structure. * The **second deviation**
-  creates bending. * The **bending** creates a way to measure distance.'
-heading: '**Interpretation Layer (Outreach)**'
 id: GEN0-217
-lines: 929-947
 location: genesis-0/tri-unity-theorem-equivalence-of::interpretation-layer-outreach::b2
 source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 929-947
+heading: '**Interpretation Layer (Outreach)**'
+block_type: list
+excerpt: '* The **first deviation** creates structure. * The **second deviation**
+  creates bending. * The **bending** creates a way to measure distance.'
+concepts:
+- Meta-Einstein
+- Axiom
+- Theorem
+- Meta-Einstein Axiom Block
+- Box
+- Einstein Axiom Block
+- fabric of spacetime
+- bending
+- second deviation
+- first deviation
+- Theorem Stack
+- Axiom Box
+aliases:
+- Bk203tf
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.584415584415584
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

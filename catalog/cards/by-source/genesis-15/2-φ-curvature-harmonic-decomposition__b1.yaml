@@ -1,12 +1,29 @@
+id: GEN15-3196
+location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-the-functor-stack-δ-φ-π-cmb-lss-galaxies::2-φ-curvature-harmonic-decomposition::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1863-1873
+heading: '**2\. Φ: curvature → harmonic decomposition**'
+parent_heading: '**Ⅱ. The Functor Stack: δ → Φ → Π → CMB → LSS → Galaxies**'
 block_type: paragraph
+excerpt: 'Φ(κ)=⨁ℓλℓIdΦℓ\\Phi(\\kappa)=\\bigoplus\_\\ell \\lambda\_\\ell \\mathrm{Id}\_{\\Phi\_\\ell}Φ(κ)=ℓ⨁​λℓ​IdΦℓ​​
+  This ladder becomes: * ℓ \= 0 : monopole (global energy)'
 concepts:
 - Φ
 - λ
-excerpt: 'Φ(κ)=⨁ℓλℓIdΦℓ\\Phi(\\kappa)=\\bigoplus\_\\ell \\lambda\_\\ell \\mathrm{Id}\_{\\Phi\_\\ell}Φ(κ)=ℓ⨁​λℓ​IdΦℓ​​
-  This ladder becomes: * ℓ \= 0 : monopole (global energy)'
-heading: '**2\. Φ: curvature → harmonic decomposition**'
-id: GEN15-3196
-lines: 1863-1873
-location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-the-functor-stack-δ-φ-π-cmb-lss-galaxies::2-φ-curvature-harmonic-decomposition::b1
-parent_heading: '**Ⅱ. The Functor Stack: δ → Φ → Π → CMB → LSS → Galaxies**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+- κ
+- ≥
+aliases:
+- Bk545pk
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

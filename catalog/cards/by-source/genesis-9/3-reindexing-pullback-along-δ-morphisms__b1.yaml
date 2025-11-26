@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Given f:X→Yf : X \\to Yf:X→Y, the induced reindexing is: P(f)=f\\\*:P(Y)→P(X)\\mathbb{P}(f)
-  \= f^\\\* : \\mathbb{P}(Y) \\to \\mathbb{P}(X)P(f)=f\\\*:P(Y)→P(X) defined by substitution:'
-heading: '**3\. Reindexing: Pullback Along δ-Morphisms**'
 id: GEN9-9112
-lines: 1297-1316
 location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-reindexing-pullback-along-δ-morphisms::b1
 source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1297-1316
+heading: '**3\. Reindexing: Pullback Along δ-Morphisms**'
+block_type: paragraph
+excerpt: 'Given f:X→Yf : X \\to Yf:X→Y, the induced reindexing is: P(f)=f\\\*:P(Y)→P(X)\\mathbb{P}(f)
+  \= f^\\\* : \\mathbb{P}(Y) \\to \\mathbb{P}(X)P(f)=f\\\*:P(Y)→P(X) defined by substitution:'
+concepts:
+- →
+- a contravariant fibration of δ-logic over δ-states
+- δ
+- δ-states
+- δ-logic
+aliases:
+- Bk820gt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.05050505050505
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

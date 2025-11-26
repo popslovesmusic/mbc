@@ -1,19 +1,35 @@
+id: GEN17-4392
+location: genesis-17/box-calculus::3-mapping-the-laws-axioms::axiom-vii-realization-π-terminality::b1
+source: genesis-17\box_calculus.md
+lines: 3209-3218
+heading: Axiom VII — Realization / Π-Terminality
+parent_heading: ⭐ 3\. Mapping the Laws (Axioms)
 block_type: table
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Form Axiom
-- Meta-Math
-- Normal-Form
-- Realization Axiom
-- Terminal Normal
-- Π
 excerpt: G(Realization Axiom)=Terminal Normal-Form Axiom G(Realization Axiom)=Terminal
   Normal-Form Axiom ​
-heading: Axiom VII — Realization / Π-Terminality
-id: GEN17-4392
-lines: 3209-3218
-location: genesis-17/box-calculus::3-mapping-the-laws-axioms::axiom-vii-realization-π-terminality::b1
-parent_heading: ⭐ 3\. Mapping the Laws (Axioms)
-source: genesis-17\box_calculus.md
+concepts:
+- Axiom
+- Meta-Math
+- Box Calculus
+- Normal-Form
+- Box
+- Realization Axiom
+- Terminal Normal
+- Π-normal
+- Π
+- Form Axiom
+aliases:
+- Bk119bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.77777777777778
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

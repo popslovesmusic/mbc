@@ -1,12 +1,29 @@
+id: GEN19-6017
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::iii-semantics-language::9-natural-language-inference-igsoa-style::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 86-93
+heading: ✔ 9\. Natural Language Inference (IGSOA-style)
+parent_heading: III. SEMANTICS & LANGUAGE
 block_type: list
-concepts:
-- Π
-- δ
 excerpt: '* Model semantic entailment * Model contradiction * Perform summarization
   as Π-collapse'
-heading: ✔ 9\. Natural Language Inference (IGSOA-style)
-id: GEN19-6017
-lines: 86-93
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::iii-semantics-language::9-natural-language-inference-igsoa-style::b1
-parent_heading: III. SEMANTICS & LANGUAGE
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- δ-adjacency
+- Π-collapse
+- Π
+- δ
+aliases:
+- Bk892ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

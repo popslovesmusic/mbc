@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Meta-math is: * pre-mathematical * abstract'
-heading: '**⭐ 2\. Meta-math \= structure that is “felt” or “intuited” before it is
-  formalized**'
 id: SPEC-11165
-lines: 3343-3364
 location: special/specil::2-meta-math-structure-that-is-felt-or-intuited-before-it-is-formalized::b1
 source: special\specil.md
+lines: 3343-3364
+heading: '**⭐ 2\. Meta-math \= structure that is “felt” or “intuited” before it is
+  formalized**'
+block_type: paragraph
+excerpt: 'Meta-math is: * pre-mathematical * abstract'
+concepts:
+- pre-mathematical
+- pattern-based
+- Meta-math
+aliases:
+- Bk199mm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

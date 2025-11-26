@@ -1,11 +1,27 @@
+id: GEN20-6945
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::123-example-3-classification-with-statistical-updating::step-2-connector-metadata-evolves-statistically::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3727-3739
+heading: Step 2 — Connector metadata evolves statistically
+parent_heading: 12.3 Example 3 — Classification With Statistical Updating
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'Over time, through exposure: * Connector S→C\_cat gets weight w\_cat \=
   0.63 * Connector S→C\_dog gets weight w\_dog \= 0.41'
-heading: Step 2 — Connector metadata evolves statistically
-id: GEN20-6945
-lines: 3727-3739
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::123-example-3-classification-with-statistical-updating::step-2-connector-metadata-evolves-statistically::b1
-parent_heading: 12.3 Example 3 — Classification With Statistical Updating
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- →
+- Π
+aliases:
+- Bk371ot
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.128205128205128
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

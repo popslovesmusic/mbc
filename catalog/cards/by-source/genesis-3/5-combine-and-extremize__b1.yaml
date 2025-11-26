@@ -1,15 +1,37 @@
+id: GEN3-7336
+location: genesis-3/metagenesis::9-the-deviational-curvature-functor-and-meta-einstein-equation::canonical-variational-principle-in-δ-geometry::5-combine-and-extremize::b1
+source: genesis-3\metagenesis.md
+lines: 938-954
+heading: '**5\. Combine and Extremize**'
+parent_heading: '**Canonical Variational Principle in δ-Geometry**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- δ
-- μ
-- ν
 excerpt: Now δS=∫A\[12κδGMeta μν−12Tδ μν\]δgδμν∣gδ∣ dμδ=0.\\delta S \= \\int\_A \\left\[
   \\frac{1}{2\\kappa\_\\delta}G\_{\\text{Meta}\\,\\mu\\nu} \-\\frac12 T\_{\\delta\\,\\mu\\nu}
   \\right\] \\delta g\_\\delta...
-heading: '**5\. Combine and Extremize**'
-id: GEN3-7336
-lines: 938-954
-location: genesis-3/metagenesis::9-the-deviational-curvature-functor-and-meta-einstein-equation::canonical-variational-principle-in-δ-geometry::5-combine-and-extremize::b1
-parent_heading: '**Canonical Variational Principle in δ-Geometry**'
-source: genesis-3\metagenesis.md
+concepts:
+- δ
+- μ
+- ν
+- Meta-Einstein
+- κ
+- δg
+- ∫
+- operator-level
+- δ-admissible
+- δGMeta
+- δS
+aliases:
+- Bk621nd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.02919708029197
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

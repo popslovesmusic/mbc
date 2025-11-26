@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: '**Definition of 𝒟δ**: You defined it canonically as: Dδ:=∂δ(Adjacency)\\mathcal{D}\_{\\delta}
-  := \\partial\_{\\delta}(\\text{Adjacency})Dδ​:=∂δ​(Adjacency)'
-heading: '**(2) δ-Dirac Operator Satisfies S2**'
 id: GEN6-8272
-lines: 171-180
 location: genesis-6/spectral-triple-axiom-box-sealed-version::2-δ-dirac-operator-satisfies-s2::b1
 source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 171-180
+heading: '**(2) δ-Dirac Operator Satisfies S2**'
+block_type: paragraph
+excerpt: '**Definition of 𝒟δ**: You defined it canonically as: Dδ:=∂δ(Adjacency)\\mathcal{D}\_{\\delta}
+  := \\partial\_{\\delta}(\\text{Adjacency})Dδ​:=∂δ​(Adjacency)'
+concepts:
+- Adjacency
+- δ
+- Definition
+- ∂
+- δ-generated
+aliases:
+- Bk060dy
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

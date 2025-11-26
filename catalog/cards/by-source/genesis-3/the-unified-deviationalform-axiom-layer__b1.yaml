@@ -1,25 +1,40 @@
+id: GEN3-7568
+location: genesis-3/the-tri-unity-theorem::combined-δ-φ-foundation-layer-box::the-unified-deviationalform-axiom-layer::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1176-1198
+heading: '***(The Unified Deviational–Form Axiom Layer)***'
+parent_heading: '**▣ Combined δ \+ Φ Foundation Layer Box**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Curvature Generator
-- Einstein Axiom Box
-- Foundation Layer
-- Geometry Compatibility Lemma
-- Layer
-- Lemma
-- Meta-Einstein
-- Meta-Math
-- Mode
-- Mode Generator
-- The Tri
-- Tri-Unity
 excerpt: 'This is the **merged** foundational block that sits **between**: * **The
   NOT Axiom Box**, and * **The Tri-Unity Axiom Box**,'
-heading: '***(The Unified Deviational–Form Axiom Layer)***'
-id: GEN3-7568
-lines: 1176-1198
-location: genesis-3/the-tri-unity-theorem::combined-δ-φ-foundation-layer-box::the-unified-deviationalform-axiom-layer::b1
-parent_heading: '**▣ Combined δ \+ Φ Foundation Layer Box**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Meta-Einstein
+- Meta-Math
+- Tri-Unity
+- Foundation Layer
+- Axiom
+- Curvature
+- Deviation
+- IGSOA
+- Box
+- Lemma
+- δ
+- The Tri-Unity Axiom Box
+- Meta-Einstein Axiom Box
+- Layer
+- Mode
+aliases:
+- Bk270tt
+tags:
+- axiom-box
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 34.090909090909086
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Box
-- In Box Calculus
-- Σ
-- δ
-excerpt: 'A⊢\!A A⊢\!A In Box Calculus:'
-heading: ⭐ 4.4 Promotion
 id: GEN17-4548
-lines: 6335-6351
 location: genesis-17/box-calculus::4-δ-curvature-as-the-modality::44-promotion::b1
-parent_heading: ⭐ 4\. δ-curvature AS THE \!-MODALITY
 source: genesis-17\box_calculus.md
+lines: 6335-6351
+heading: ⭐ 4.4 Promotion
+parent_heading: ⭐ 4\. δ-curvature AS THE \!-MODALITY
+block_type: paragraph
+excerpt: 'A⊢\!A A⊢\!A In Box Calculus:'
+concepts:
+- Box Calculus
+- Σ
+- δ-curvature
+- Box
+- δ
+- Δ
+- In Box Calculus
+aliases:
+- Bk953bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

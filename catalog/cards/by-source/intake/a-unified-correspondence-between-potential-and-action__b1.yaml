@@ -1,17 +1,31 @@
+id: INTK-9677
+location: intake/axioms-geometry::meta-genesis-meta-math-compatibility-mapping::a-unified-correspondence-between-potential-and-action::b1
+source: intake\Axioms-geometry.md
+lines: 453-460
+heading: '***A Unified Correspondence Between Potential and Action***'
+parent_heading: '**Meta-Genesis ↔ Meta-Math Compatibility Mapping**'
 block_type: paragraph
-concepts:
-- Action Layer
-- Layer
-- Meta-Genesis
-- Meta-Math
-- Potential Layer
-- exactly
 excerpt: Meta-Genesis \= the **Potential Layer** Meta-Math \= the **Action Layer**
   Your system has always had these two halves. The mapping below shows *exactly* how
   they bind together.
-heading: '***A Unified Correspondence Between Potential and Action***'
-id: INTK-9677
-lines: 453-460
-location: intake/axioms-geometry::meta-genesis-meta-math-compatibility-mapping::a-unified-correspondence-between-potential-and-action::b1
-parent_heading: '**Meta-Genesis ↔ Meta-Math Compatibility Mapping**'
-source: intake\Axioms-geometry.md
+concepts:
+- Meta-Genesis
+- Meta-Math
+- Layer
+- Potential Layer
+- Action Layer
+aliases:
+- Bk994mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 18.51851851851852
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

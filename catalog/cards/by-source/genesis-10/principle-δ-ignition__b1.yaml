@@ -1,13 +1,30 @@
+id: GEN10-865
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-the-δ-ignition-principle::principle-δ-ignition::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1909-1931
+heading: '**Principle (δ-Ignition):**'
+parent_heading: '**4\. The δ-Ignition Principle**'
 block_type: paragraph
+excerpt: 'Deviation from Ψ₀ produces: * adjacency, * torsion,'
 concepts:
-- single
-- Φ
+- Deviation
+- Φ-multiplicity
+- structural excitation
 - Ψ
 - δ
-excerpt: 'Deviation from Ψ₀ produces: * adjacency, * torsion,'
-heading: '**Principle (δ-Ignition):**'
-id: GEN10-865
-lines: 1909-1931
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-the-δ-ignition-principle::principle-δ-ignition::b1
-parent_heading: '**4\. The δ-Ignition Principle**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+- Φ
+- Ψ₀
+aliases:
+- Bk728df
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.909090909090908
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

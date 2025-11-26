@@ -1,13 +1,34 @@
+id: GEN0-162
+location: genesis-0/tri-unity-theorem-equivalence-of::proof-equivalence::step-2-2-3-φ-generator-uniquely-induces-πs-image::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 88-99
+heading: '**Step 2\. (2 ⇒ 3): Φ-generator uniquely induces Π’s image**'
+parent_heading: '**Proof (equivalence)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'Assume (2): Φ-structure alone determines physics under projection. By A3,
   Π is **faithful on Φ-content** (no collapse of observables). Thus the physical theory
   is isomorphic to the image of Φ under Π:'
-heading: '**Step 2\. (2 ⇒ 3): Φ-generator uniquely induces Π’s image**'
-id: GEN0-162
-lines: 88-99
-location: genesis-0/tri-unity-theorem-equivalence-of::proof-equivalence::step-2-2-3-φ-generator-uniquely-induces-πs-image::b1
-parent_heading: '**Proof (equivalence)**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Π
+- Φ
+- faithful on Φ-content
+- Π-generator
+- Φ-structure
+- Φ-generator
+- Φ-content
+aliases:
+- Bk003a
+tags:
+- A3
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.44776119402985
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A3

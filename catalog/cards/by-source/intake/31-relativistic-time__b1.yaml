@@ -1,16 +1,33 @@
+id: INTK-10551
+location: intake/volume-i-core-ontology-and-metagenesis-summary::3-temporal-projection-how-physical-time-appears::31-relativistic-time::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 83-103
+heading: '**3.1 Relativistic Time**'
+parent_heading: '**3. Temporal Projection: How Physical Time Appears**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Γ
-- δ
-- μ
-- ν
-- ρ
 excerpt: 'Under projection to the spacetime manifold: T⟶trelΤ \longrightarrow t\_{\text{rel}}
   T⟶trel​ such that:'
-heading: '**3.1 Relativistic Time**'
-id: INTK-10551
-lines: 83-103
-location: intake/volume-i-core-ontology-and-metagenesis-summary::3-temporal-projection-how-physical-time-appears::31-relativistic-time::b1
-parent_heading: '**3. Temporal Projection: How Physical Time Appears**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- ν
+- δ
+- μ
+- Γ
+- ρ
+- Τ
+- →
+aliases:
+- Bk323up
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.814814814814813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

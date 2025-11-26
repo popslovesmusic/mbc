@@ -1,13 +1,26 @@
+id: GEN8-8998
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::mg1-the-first-movement-axiom::axiom-mg1::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1199-1201
+heading: '**Axiom MG–1**'
+parent_heading: '**⟦ MG–1 : THE FIRST MOVEMENT AXIOM ⟧**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: δΨ0 arises necessarily and uniquely from ¬Fix(Ψ0)\\boxed{ \\delta\\Psi\_0
   \\text{ arises necessarily and uniquely from } \\neg\\text{Fix}(\\Psi\_0) }δΨ0​
   arises necessarily and uniquely from ¬Fix(Ψ0​)...
-heading: '**Axiom MG–1**'
-id: GEN8-8998
-lines: 1199-1201
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::mg1-the-first-movement-axiom::axiom-mg1::b1
-parent_heading: '**⟦ MG–1 : THE FIRST MOVEMENT AXIOM ⟧**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- Ψ
+- δ
+- ¬
+aliases:
+- Bk347an
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

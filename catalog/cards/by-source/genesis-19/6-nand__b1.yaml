@@ -1,11 +1,29 @@
+id: GEN19-5962
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-derived-operators::6-nand::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1136-1148
+heading: '**6\. NAND**'
+parent_heading: '**II. Derived Operators**'
 block_type: table
-concepts:
-- σ
 excerpt: \=sign⁡(−(σA+σB−1.5))= \\operatorname{sign}(-(\\sigma\_A+\\sigma\_B-1.5))=sign(−(σA​+σB​−1.5))
   **Router parameters:** w1=w2=−1,  b=+1.5w\_1=w\_2=-1,\\; b=+1.5w1​=w2​=−1,b=+1.5
-heading: '**6\. NAND**'
-id: GEN19-5962
-lines: 1136-1148
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-derived-operators::6-nand::b1
-parent_heading: '**II. Derived Operators**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- IGSOA
+- σ
+- Router
+- ∧
+- ¬
+aliases:
+- Bk355is
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.064516129032258
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

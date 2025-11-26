@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Box
-- Lemma
-- Ψ
-excerpt: '**Claim:** Ψ₀ fails Definition 3\. **Proof:**'
-heading: '**Lemma 2 (Ψ₀ Cannot Persist).**'
 id: GEN1-487
-lines: 1049-1067
 location: genesis-1/the-foundation-layer::ii-lemmas-leading-to-the-theorem::lemma-2-ψ₀-cannot-persist::b1
-parent_heading: '**II. Lemmas Leading to the Theorem**'
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1049-1067
+heading: '**Lemma 2 (Ψ₀ Cannot Persist).**'
+parent_heading: '**II. Lemmas Leading to the Theorem**'
+block_type: paragraph
+excerpt: '**Claim:** Ψ₀ fails Definition 3\. **Proof:**'
+concepts:
+- Ψ
+- Definition
+- Lemma
+- Proof
+- Box
+- Ψ₀
+aliases:
+- Bk169cf
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

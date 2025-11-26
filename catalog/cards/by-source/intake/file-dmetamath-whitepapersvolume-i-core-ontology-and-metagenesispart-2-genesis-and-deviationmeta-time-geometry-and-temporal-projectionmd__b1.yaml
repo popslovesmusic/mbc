@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Below is the **canonical white-paper chapter** for your next section:'
-heading: 'File: D:\MetaMath_WhitePapers\Volume_I_Core_Ontology_and_MetaGenesis\Part_2_Genesis_and_Deviation\Meta-Time_Geometry_and_Temporal_Projection.md'
 id: INTK-10546
-lines: 4-5
 location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-volume-i-core-ontology-and-metagenesis::file-dmetamath-whitepapersvolume-i-core-ontology-and-metagenesispart-2-genesis-and-deviationmeta-time-geometry-and-temporal-projectionmd::b1
-parent_heading: 'Summary of Volume I: Core Ontology and MetaGenesis'
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 4-5
+heading: 'File: D:\MetaMath_WhitePapers\Volume_I_Core_Ontology_and_MetaGenesis\Part_2_Genesis_and_Deviation\Meta-Time_Geometry_and_Temporal_Projection.md'
+parent_heading: 'Summary of Volume I: Core Ontology and MetaGenesis'
+block_type: paragraph
+excerpt: 'Below is the **canonical white-paper chapter** for your next section:'
+concepts:
+- canonical white-paper chapter
+- white-paper
+aliases:
+- Bk091bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

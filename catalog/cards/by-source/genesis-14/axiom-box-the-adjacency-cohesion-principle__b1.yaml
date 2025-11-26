@@ -1,19 +1,41 @@
+id: GEN14-3020
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-hermetic-sealed-axiom-box::axiom-box-the-adjacency-cohesion-principle::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1453-1473
+heading: '**Axiom Box: The Adjacency → Cohesion Principle**'
+parent_heading: '**II. HERMETIC SEALED AXIOM BOX**'
 block_type: list
-concepts:
-- Adjacency Curvature
-- Cohesion Identity
-- Curvature Plateaus
-- Mode
-- Mode Coherence
-- iff
-- Π
-- Φ
-- δ
 excerpt: 1. **Adjacency Curvature (δ):** δ induces curvature κ\\kappaκ across a network
   of degrees of freedom. 2. **Curvature Plateaus:**
-heading: '**Axiom Box: The Adjacency → Cohesion Principle**'
-id: GEN14-3020
-lines: 1453-1473
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-hermetic-sealed-axiom-box::axiom-box-the-adjacency-cohesion-principle::b1
-parent_heading: '**II. HERMETIC SEALED AXIOM BOX**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- δ
+- Curvature
+- Π
+- Φ
+- Adjacency
+- κ
+- Mode
+- δ-adjacency
+- Π-Stability
+- δ-harmonic
+- ≠
+- Φ-Mode
+- Adjacency Curvature
+- Curvature Plateaus
+- Cohesion Identity
+aliases:
+- Bk891ac
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.49484536082474
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

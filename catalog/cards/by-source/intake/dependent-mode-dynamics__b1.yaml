@@ -1,17 +1,34 @@
+id: INTK-10365
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::connection-to-operators-and-meta-geometry::dependent-mode-dynamics::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1044-1045
+heading: Dependent-Mode Dynamics
+parent_heading: Connection to Operators and Meta-Geometry
 block_type: paragraph
-concepts:
-- Deviation Field
-- Field
-- Meta-Deviation
-- Meta-Vector
-- Vector Space
-- Ψ
 excerpt: The evolution of the Meta-Deviation Field (Ψ) is described as a trajectory
   within `S_Ψ`, governed by the Meta-PDE, which fundamentally uses the operations
   and structures defined by the Meta-Vector Spa...
-heading: Dependent-Mode Dynamics
-id: INTK-10365
-lines: 1044-1045
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::connection-to-operators-and-meta-geometry::dependent-mode-dynamics::b1
-parent_heading: Connection to Operators and Meta-Geometry
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Deviation
+- Field
+- Ψ
+- Meta-Deviation
+- Meta-Vector
+- Meta-PDE
+- Deviation Field
+- Vector Space
+aliases:
+- Bk280te
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.242424242424242
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

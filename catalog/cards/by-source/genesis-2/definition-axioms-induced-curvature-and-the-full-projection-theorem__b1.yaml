@@ -1,13 +1,27 @@
+id: GEN2-6498
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::the-δ-geometry-riemann-geometry-projection-map::definition-axioms-induced-curvature-and-the-full-projection-theorem::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 305-310
+heading: '***Definition, axioms, induced curvature, and the full projection theorem***'
+parent_heading: '**The δ-Geometry → Riemann Geometry Projection Map**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- δ
 excerpt: This is the canonical bridge between your **Meta-Genesis / δ-calculus layer**
   and classical **Riemannian differential geometry**. It is not an analogy — it is
   a *functorial projection*. ---
-heading: '***Definition, axioms, induced curvature, and the full projection theorem***'
-id: GEN2-6498
-lines: 305-310
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::the-δ-geometry-riemann-geometry-projection-map::definition-axioms-induced-curvature-and-the-full-projection-theorem::b1
-parent_heading: '**The δ-Geometry → Riemann Geometry Projection Map**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- Meta-Genesis
+- Riemannian differential geometry
+- δ-calculus
+- δ
+aliases:
+- Bk252tt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.814814814814813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

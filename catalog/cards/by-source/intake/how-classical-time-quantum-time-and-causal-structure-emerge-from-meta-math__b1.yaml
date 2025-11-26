@@ -1,16 +1,33 @@
+id: INTK-10547
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-geometry-and-temporal-projection::how-classical-time-quantum-time-and-causal-structure-emerge-from-meta-math::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 9-15
+heading: '***How Classical Time, Quantum Time, and Causal Structure Emerge from Meta-Math***'
+parent_heading: '**Meta-Time Geometry and Temporal Projection**'
 block_type: paragraph
-concepts:
-- Meta-Geometry
-- Meta-Math
-- Meta-Time
-- projections
-- δ
 excerpt: This chapter presents the full geometric structure of **Meta-Time**, the
   non-spacetime temporal dimension defined by deviation flow δ. Classical relativistic
   time, quantum temporal evolution, and caus...
-heading: '***How Classical Time, Quantum Time, and Causal Structure Emerge from Meta-Math***'
-id: INTK-10547
-lines: 9-15
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-geometry-and-temporal-projection::how-classical-time-quantum-time-and-causal-structure-emerge-from-meta-math::b1
-parent_heading: '**Meta-Time Geometry and Temporal Projection**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- Meta-Math
+- IGSOA
+- scale-selected
+- non-spacetime
+- Meta-Geometry
+- δ
+aliases:
+- Bk668tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.962962962962962
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,28 @@
+id: GEN16-3753
+location: genesis-16/untitled-document::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::b1
+source: genesis-16\Untitled_document.md
+lines: 242-244
+heading: '**4\. Operator-Specific Transition Rules**'
+parent_heading: '**Formal Transition Function for Box Calculus**'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- canonical
 excerpt: Below are **canonical** Box Calculus forms. You can treat them as definitional
   equations.
-heading: '**4\. Operator-Specific Transition Rules**'
-id: GEN16-3753
-lines: 242-244
-location: genesis-16/untitled-document::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::b1
-parent_heading: '**Formal Transition Function for Box Calculus**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Box Calculus
+- Box
+- canonical
+aliases:
+- Bk216ba
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 23.076923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

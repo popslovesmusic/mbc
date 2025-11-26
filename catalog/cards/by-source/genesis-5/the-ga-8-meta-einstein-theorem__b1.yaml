@@ -1,16 +1,43 @@
+id: GEN5-8145
+location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::v-main-theorem-sealed-form::the-ga-8-meta-einstein-theorem::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 225-265
+heading: '**THE GA-8 → META-EINSTEIN THEOREM**'
+parent_heading: '**V. MAIN THEOREM (SEALED FORM)**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- The Adjacency
-- The Curvature
-- The Genesis
-- Φ
-- δ
 excerpt: '**Assume:** 1. The Genesis category G\\mathcal{G}G with deviation morphisms.
   2. The Adjacency category A\\mathcal{A}A.'
-heading: '**THE GA-8 → META-EINSTEIN THEOREM**'
-id: GEN5-8145
-lines: 225-265
-location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::v-main-theorem-sealed-form::the-ga-8-meta-einstein-theorem::b1
-parent_heading: '**V. MAIN THEOREM (SEALED FORM)**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- Meta-Einstein
+- δ
+- which is exactly the Meta-Einstein curvature operator
+- Φ
+- Adjacency
+- Curvature
+- There exists a unique natural transformation
+- →
+- δ-Geometry
+- δ-coherent
+- Φ-mode
+- The Curvature
+- The Adjacency
+- The Genesis
+- ΦT
+aliases:
+- Bk008ga
+tags:
+- GA-8
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.670520231213873
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- GA-8

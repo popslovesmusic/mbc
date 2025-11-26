@@ -1,11 +1,26 @@
+id: INTK-9846
+location: intake/meta-genesis-core-papers-foundations::2-necessary-conditions-axioms-feeding-the-transition::c4-instability-of-perfect-symmetry::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1205-1217
+heading: '**(C4) Instability of Perfect Symmetry**'
+parent_heading: '**2\. Necessary Conditions (Axioms Feeding the Transition)**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'R(Ψ0)=∞.R(\\Psi\_0)=\\infty.R(Ψ0​)=∞. From these, the following is enforced:
   Ψ0 cannot persist.\\Psi\_0 \\text{ cannot persist}.Ψ0​ cannot persist.'
-heading: '**(C4) Instability of Perfect Symmetry**'
-id: INTK-9846
-lines: 1205-1217
-location: intake/meta-genesis-core-papers-foundations::2-necessary-conditions-axioms-feeding-the-transition::c4-instability-of-perfect-symmetry::b1
-parent_heading: '**2\. Necessary Conditions (Axioms Feeding the Transition)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- ∃
+- ∞
+- ≠
+aliases:
+- Bk589pi
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,16 +1,36 @@
+id: GEN11-1132
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::7-if-you-want-next::7-where-igsoa-could-be-falsified-important::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 569-584
+heading: '**7\. Where IGSOA could be falsified (important)**'
+parent_heading: '**7\. If you want next:**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Genesis Negative
-- Scar Axiom
-- δ
 excerpt: 'If observations show: * **no excess tail of giant voids**, * **no correlation
   with low-ℓ CMB anomalies**,'
-heading: '**7\. Where IGSOA could be falsified (important)**'
-id: GEN11-1132
-lines: 569-584
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::7-if-you-want-next::7-where-igsoa-could-be-falsified-important::b1
-parent_heading: '**7\. If you want next:**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- void interiors look statistically ordinary for their size
+- Axiom
+- observation-translation
+- Box
+- no excess tail of giant voids
+- risk-bearing
+- Negative-δ
+- →
+- δ
+- Genesis Negative
+- Scar Axiom
+- Axiom Box
+aliases:
+- Bk275os
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

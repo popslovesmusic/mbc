@@ -1,13 +1,41 @@
+id: GEN9-9403
+location: genesis-9/is-the-source-of-all-structure::2-decomposition-into-tri-unity-sectors::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 983-1011
+heading: '**2\. Decomposition into Tri-Unity Sectors**'
 block_type: table
-concepts:
-- Classical Shadow
-- α
-- δ
 excerpt: 'We write δ in block form: δ=(δA000δH000δE),\\delta \= \\begin{pmatrix} \\delta\_A
   & 0 & 0 \\\\ 0 & \\delta\_H & 0 \\\\ 0 & 0 & \\delta\_E \\end{pmatrix},δ=​δA​00​0δH​0​00δE​​​,
   so each harmonic mode d...'
-heading: '**2\. Decomposition into Tri-Unity Sectors**'
-id: GEN9-9403
-lines: 983-1011
-location: genesis-9/is-the-source-of-all-structure::2-decomposition-into-tri-unity-sectors::b1
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- δ
+- ψ
+- α
+- ⊕
+- E-sector
+- δ-sector
+- A-sector
+- H-sector
+- →
+- Classical Shadow
+- δA
+- δE
+- δH
+aliases:
+- Bk000a
+tags:
+- definitive
+- A000
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.569105691056912
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A000

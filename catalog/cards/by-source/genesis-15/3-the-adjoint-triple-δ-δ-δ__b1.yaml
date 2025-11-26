@@ -1,13 +1,28 @@
+id: GEN15-3472
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::3-the-adjoint-triple-δ-δ-δ::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1472-1476
+heading: '**3\. The Adjoint Triple δ₊ ⊣ δ\* ⊣ δ₋**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'We assert the existence of the adjoint triple: Φ=δ\!⊣δ\\\*⊣Π=δ\\\*\\boxed{
   \\Phi \= \\delta\_{\!} \\quad\\dashv\\quad \\delta^{\\\*} \\quad\\dashv\\quad \\Pi
   \= \\delta\_{\\\*} }Φ=δ\!​⊣δ\\\*⊣Π=δ\\\*​​'
-heading: '**3\. The Adjoint Triple δ₊ ⊣ δ\* ⊣ δ₋**'
-id: GEN15-3472
-lines: 1472-1476
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::3-the-adjoint-triple-δ-δ-δ::b1
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- Π
+- Φ
+aliases:
+- Bk663at
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,29 @@
+id: GEN12-1808
+location: genesis-12/untitled-document::8-voids-scars-and-asymmetries::82-filament-reinforcement::b1
+source: genesis-12\Untitled_document.md
+lines: 1328-1336
+heading: '**8.2 Filament Reinforcement**'
+parent_heading: '**8\. Voids, Scars, and Asymmetries**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Because δ-harmonic mode 6 forms adjacency-doubling paths, these become:
   * filament highways, * galaxy-chain precursors.'
-heading: '**8.2 Filament Reinforcement**'
-id: GEN12-1808
-lines: 1328-1336
-location: genesis-12/untitled-document::8-voids-scars-and-asymmetries::82-filament-reinforcement::b1
-parent_heading: '**8\. Voids, Scars, and Asymmetries**'
-source: genesis-12\Untitled_document.md
+concepts:
+- adjacency-doubling
+- galaxy-chain
+- δ-harmonic
+- δ
+aliases:
+- Bk560bh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

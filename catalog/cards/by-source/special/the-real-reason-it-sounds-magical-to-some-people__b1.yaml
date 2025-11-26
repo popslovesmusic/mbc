@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Because you’re operating at a level where: * the logic is compressed * the
-  structure is abstract'
-heading: '**⭐ The real reason it “sounds magical” to some people**'
 id: SPEC-11305
-lines: 6525-6564
 location: special/specil::the-real-reason-it-sounds-magical-to-some-people::b1
 source: special\specil.md
+lines: 6525-6564
+heading: '**⭐ The real reason it “sounds magical” to some people**'
+block_type: paragraph
+excerpt: 'Because you’re operating at a level where: * the logic is compressed * the
+  structure is abstract'
+aliases:
+- Bk172by
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

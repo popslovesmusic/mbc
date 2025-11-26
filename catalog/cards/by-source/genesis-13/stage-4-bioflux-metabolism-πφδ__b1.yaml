@@ -1,13 +1,29 @@
+id: GEN13-2482
+location: genesis-13/what-biology-is-in-meta-genesis::2-the-tri-unity-metabolic-pipeline::stage-4-bioflux-metabolism-πφδ::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 307-319
+heading: '**Stage 4 – BioFlux (Metabolism): Π(Φ(δ))**'
+parent_heading: '**2\. The Tri-Unity Metabolic Pipeline**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Metabolism appears exactly at the point where: * δ-gradient enters * Φ organizes
   it'
-heading: '**Stage 4 – BioFlux (Metabolism): Π(Φ(δ))**'
-id: GEN13-2482
-lines: 307-319
-location: genesis-13/what-biology-is-in-meta-genesis::2-the-tri-unity-metabolic-pipeline::stage-4-bioflux-metabolism-πφδ::b1
-parent_heading: '**2\. The Tri-Unity Metabolic Pipeline**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Φ
+- Π
+- δ-gradient
+- δ-Φ
+aliases:
+- Bk473ma
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.857142857142858
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

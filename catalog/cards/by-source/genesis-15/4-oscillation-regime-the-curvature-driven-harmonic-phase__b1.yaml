@@ -1,13 +1,30 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- μ
-excerpt: 'Once H passes the potential minimum: H(t)=v+χ(t)H(t) \= v \+ \\chi(t)H(t)=v+χ(t)
-  and χ\\chiχ is small.'
-heading: '**4\. Oscillation Regime: The Curvature-Driven Harmonic Phase**'
 id: GEN15-3142
-lines: 1006-1034
 location: genesis-15/the-mass-curvature-projection-theorem::4-oscillation-regime-the-curvature-driven-harmonic-phase::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1006-1034
+heading: '**4\. Oscillation Regime: The Curvature-Driven Harmonic Phase**'
+block_type: paragraph
+excerpt: 'Once H passes the potential minimum: H(t)=v+χ(t)H(t) \= v \+ \\chi(t)H(t)=v+χ(t)
+  and χ\\chiχ is small.'
+concepts:
+- χ
+- δ
+- curvature-dependent
+- δ-Higgs
+- Π
+- Φ
+- μ
+aliases:
+- Bk001op
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.242424242424243
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

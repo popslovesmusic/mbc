@@ -1,13 +1,40 @@
+id: GEN16-3723
+location: genesis-16/quantum-measurement-in-igsoa-vs::narrative-summary-one-paragraph::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 657-663
+heading: '**Narrative Summary (One Paragraph)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: In the IGSOA view, QCD inherits its behavior from a deeper adjacency geometry,
   δ, whose internal symmetry forbids CP-odd twisting. The universe’s strong interaction
   looks unnaturally symmetric only be...
-heading: '**Narrative Summary (One Paragraph)**'
-id: GEN16-3723
-lines: 657-663
-location: genesis-16/quantum-measurement-in-igsoa-vs::narrative-summary-one-paragraph::b1
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- Π-evaluation
+- IGSOA
+- δ
+- CP-odd
+- Φ
+- →
+- CP-violating
+- Φ-coherence
+- fine-tuned
+- δ-parity
+- δ-fabric
+- Φ-level
+- δ-level
+- Π
+- θ
+aliases:
+- Bk135ti
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.82051282051282
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

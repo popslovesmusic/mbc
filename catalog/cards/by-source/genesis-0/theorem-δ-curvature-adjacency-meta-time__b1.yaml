@@ -1,14 +1,36 @@
+id: GEN0-173
+location: genesis-0/tri-unity-theorem-equivalence-of::theorem-δ-curvature-adjacency-meta-time::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 213-227
+heading: '**Theorem (δ ⇒ Curvature, Adjacency, Meta-Time).**'
 block_type: paragraph
-concepts:
-- Adjacency
-- Curvature
-- Meta-Time
-- δ
 excerpt: 'From δ alone, the following three structures arise uniquely and necessarily:
   1. **Adjacency** A\\mathcal{A}A is forced as the *domain-expansion relation* of
   δ. 2. **Curvature** R\\mathcal{R}R is force...'
-heading: '**Theorem (δ ⇒ Curvature, Adjacency, Meta-Time).**'
-id: GEN0-173
-lines: 213-227
-location: genesis-0/tri-unity-theorem-equivalence-of::theorem-δ-curvature-adjacency-meta-time::b1
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- δ
+- Meta-Time
+- Adjacency
+- Curvature
+- canonical triple of δ-consequences
+- Axiom
+- ∃
+- domain-expansion
+- δ-consequences
+- partial-order
+- δ-generated
+- δnx
+- δj
+- δi
+aliases:
+- Bk244fa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.864406779661017
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

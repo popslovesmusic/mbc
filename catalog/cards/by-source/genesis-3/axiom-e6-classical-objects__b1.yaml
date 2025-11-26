@@ -1,12 +1,29 @@
+id: GEN3-7549
+location: genesis-3/the-tri-unity-theorem::emergence-of-classical-physics-π-box::axiom-e6-classical-objects::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 885-891
+heading: '**Axiom E6 — Classical Objects**'
+parent_heading: '**▣ Emergence of Classical Physics (π-Box)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: π(Φ(δX))=Xn∗\\pi(\\Phi(\\delta X)) \= X\_{n^\*}π(Φ(δX))=Xn∗​ selects the
   stable, decohered branch. ---
-heading: '**Axiom E6 — Classical Objects**'
-id: GEN3-7549
-lines: 885-891
-location: genesis-3/the-tri-unity-theorem::emergence-of-classical-physics-π-box::axiom-e6-classical-objects::b1
-parent_heading: '**▣ Emergence of Classical Physics (π-Box)**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- π
+- δ
+- Φ
+- δX
+aliases:
+- Bk390pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

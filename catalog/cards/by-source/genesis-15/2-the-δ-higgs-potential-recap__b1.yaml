@@ -1,13 +1,31 @@
+id: GEN15-3140
+location: genesis-15/the-mass-curvature-projection-theorem::2-the-δ-higgs-potential-recap::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 961-977
+heading: '**2\. The δ-Higgs Potential (recap)**'
 block_type: paragraph
-concepts:
-- δ
-- λ
-- μ
 excerpt: 'From the earlier derivation: V(H)=−μ2H2+λH4.V(H) \= \-\\mu^2 H^2 \+ \\lambda
   H^4.V(H)=−μ2H2+λH4. During inflation H≈0H\\approx 0H≈0, but immediately after δ-curvature
   redshifts, the negative-mass term...'
-heading: '**2\. The δ-Higgs Potential (recap)**'
-id: GEN15-3140
-lines: 961-977
-location: genesis-15/the-mass-curvature-projection-theorem::2-the-δ-higgs-potential-recap::b1
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- λ
+- μ
+- ≈
+- negative-mass
+- δ-curvature
+- δ
+aliases:
+- Bk974ft
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.792207792207792
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

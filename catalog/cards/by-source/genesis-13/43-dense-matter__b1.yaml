@@ -1,12 +1,31 @@
+id: GEN13-2156
+location: genesis-13/meta-math-nuclear-physics::4-π-layer-ii-formation-of-nuclear-matter::43-dense-matter::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1893-1905
+heading: '**4.3 Dense Matter**'
+parent_heading: '**4\. Π-Layer II: Formation of Nuclear Matter**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'As density rises: * Φ-transition operators dominate * δ-defect coherence
   partially melts'
-heading: '**4.3 Dense Matter**'
-id: GEN13-2156
-lines: 1893-1905
-location: genesis-13/meta-math-nuclear-physics::4-π-layer-ii-formation-of-nuclear-matter::43-dense-matter::b1
-parent_heading: '**4\. Π-Layer II: Formation of Nuclear Matter**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ-geometry
+- δ
+- →
+- Φ-transition
+- δ-defect
+- Φ
+aliases:
+- Bk110dr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.35483870967742
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

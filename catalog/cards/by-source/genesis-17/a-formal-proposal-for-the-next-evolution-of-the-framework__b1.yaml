@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**A Formal Proposal for the Next Evolution of the Framework**'
 id: GEN17-5074
-lines: 864-866
 location: genesis-17/mbc-schema-3::mbc-40-meta-operator-extended-monistic-box-calculus::a-formal-proposal-for-the-next-evolution-of-the-framework::b1
-parent_heading: '**MBC-4.0: Meta-Operator Extended Monistic Box Calculus**'
 source: genesis-17\MBC_Schema_3.md
+lines: 864-866
+heading: '**A Formal Proposal for the Next Evolution of the Framework**'
+parent_heading: '**MBC-4.0: Meta-Operator Extended Monistic Box Calculus**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

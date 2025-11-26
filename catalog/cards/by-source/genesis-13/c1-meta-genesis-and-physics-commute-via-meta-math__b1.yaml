@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: Physical law is the Π-image of the Φ-lift of δ-excitation.
-heading: '**C1 — Meta-Genesis and Physics commute via Meta-Math**'
 id: GEN13-2415
-lines: 2105-2107
 location: genesis-13/the-weight-of-light::4-consequences::c1-meta-genesis-and-physics-commute-via-meta-math::b1
-parent_heading: '**4\. Consequences**'
 source: genesis-13\The_Weight_of_Light.md
+lines: 2105-2107
+heading: '**C1 — Meta-Genesis and Physics commute via Meta-Math**'
+parent_heading: '**4\. Consequences**'
+block_type: paragraph
+excerpt: Physical law is the Π-image of the Φ-lift of δ-excitation.
+concepts:
+- δ-excitation
+- Π-image
+- Φ-lift
+- Π
+- δ
+- Φ
+aliases:
+- Bk424pl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 46.15384615384615
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,32 @@
+id: INTK-10338
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::meta-arithmetic-operations::4-meta-division-oslash::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 926-930
+heading: 4. Meta-Division ($\oslash$)
+parent_heading: Meta-Arithmetic Operations
 block_type: list
-concepts:
-- Meta-Multiplication
-- ξ
 excerpt: '- **Purpose:** Inverse of Meta-Multiplication; represents the "un-scaling"
   or de-coupling of deviation-quantities. - **Behavior:** Also complex and context-dependent.
   - **Example:** Normalizing a devi...'
-heading: 4. Meta-Division ($\oslash$)
-id: INTK-10338
-lines: 926-930
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::meta-arithmetic-operations::4-meta-division-oslash::b1
-parent_heading: Meta-Arithmetic Operations
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- ξ
+- deviation-quantities
+- Meta-Multiplication
+- context-dependent
+- de-coupling
+- un-scaling
+aliases:
+- Bk899pi
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

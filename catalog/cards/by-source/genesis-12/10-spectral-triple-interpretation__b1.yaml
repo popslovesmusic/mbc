@@ -1,12 +1,38 @@
+id: GEN12-1761
+location: genesis-12/untitled-document::10-spectral-triple-interpretation::b1
+source: genesis-12\Untitled_document.md
+lines: 628-644
+heading: '**10\. Spectral Triple Interpretation**'
 block_type: paragraph
-concepts:
-- Adjacency Space
-- δ
 excerpt: 'Define: A=C∞(Adjacency Space),H=L2(δ-fields),D=Mδ.A \= C^\\infty(\\text{Adjacency
   Space}), \\quad H \= L^2(\\text{δ-fields}), \\quad D \= M\_\\delta.A=C∞(Adjacency
   Space),H=L2(δ-fields),D=Mδ​. Then (A...'
-heading: '**10\. Spectral Triple Interpretation**'
-id: GEN12-1761
-lines: 628-644
-location: genesis-12/untitled-document::10-spectral-triple-interpretation::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- Adjacency
+- Curvature
+- IGSOA
+- Pushed-forward
+- δ-curvature
+- δ-fields
+- Adjacency Space
+- δ-spectral triple
+- ∞
+- δ-spectral
+- →
+- spectral invariants
+aliases:
+- Bk751da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.942528735632186
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

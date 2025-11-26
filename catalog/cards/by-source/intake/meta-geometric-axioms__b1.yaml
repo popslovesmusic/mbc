@@ -1,18 +1,35 @@
+id: INTK-10536
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::meta-geometric-axioms::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 2044-2046
+heading: Meta-Geometric Axioms
+parent_heading: Meta-Geometry
 block_type: paragraph
-concepts:
-- Einstein Geometry
-- Meta-Connection
-- Meta-Curvature
-- Meta-Einstein
-- Meta-Geometry
-- Meta-Metric
-- δ
 excerpt: The principles governing Meta-Geometry are formalized by the **Axioms for
   Meta-Einstein Geometry**, which establish how `δ` generates the Meta-Metric, Meta-Connection,
   and Meta-Curvature, and how thes...
-heading: Meta-Geometric Axioms
-id: INTK-10536
-lines: 2044-2046
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::meta-geometric-axioms::b1
-parent_heading: Meta-Geometry
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Einstein
+- Curvature
+- Axioms for Meta-Einstein Geometry
+- Meta-Connection
+- Meta-Curvature
+- Meta-Geometry
+- Meta-Metric
+- δ
+- Einstein Geometry
+aliases:
+- Bk953tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.47058823529412
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

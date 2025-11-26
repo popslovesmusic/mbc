@@ -1,15 +1,36 @@
+id: GEN9-9585
+location: genesis-9/strong-force::conclusion-sealed::b1
+source: genesis-9\strong-force.md
+lines: 2528-2535
+heading: '**Conclusion (Sealed)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- This Axiom Box
-- Φ
-- δ
 excerpt: '**Electromagnetism arises inevitably as the U(1) residual automorphism of
   the δ-torsion θ-doublet under Φ.** **Electromotive force is the curvature of this
   U(1) connection integrated along a path.** T...'
-heading: '**Conclusion (Sealed)**'
-id: GEN9-9585
-lines: 2528-2535
-location: genesis-9/strong-force::conclusion-sealed::b1
-source: genesis-9\strong-force.md
+concepts:
+- IGSOA
+- Axiom
+- Box
+- δ
+- δ-torsion
+- θ
+- δ-Weak
+- Φ
+- →
+- This Axiom Box
+aliases:
+- Bk397ea
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.25581395348837
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

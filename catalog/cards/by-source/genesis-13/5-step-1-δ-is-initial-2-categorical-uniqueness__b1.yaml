@@ -1,14 +1,33 @@
+id: GEN13-2433
+location: genesis-13/the-weight-of-light::5-step-1-δ-is-initial-2-categorical-uniqueness::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 2316-2332
+heading: '**5\. Step 1 — δ is initial (2-categorical uniqueness)**'
 block_type: paragraph
-concepts:
-- Because Genesis
-- Ψ
-- α
-- δ
 excerpt: 'Any 1-morphism FGM:G0→MF\_{GM}: \\mathcal{G}\_0 \\to \\mathcal{M}FGM​:G0​→M
   is isomorphic via a **unique 2-cell** to δ: FGM⇒  α  δ.F\_{GM} \\xRightarrow{\\;\\alpha\\;}
   \\delta.FGM​α​δ. Because Genesis...'
-heading: '**5\. Step 1 — δ is initial (2-categorical uniqueness)**'
-id: GEN13-2433
-lines: 2316-2332
-location: genesis-13/the-weight-of-light::5-step-1-δ-is-initial-2-categorical-uniqueness::b1
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- α
+- →
+- initial 0-cell
+- unique 2-cell
+- Ψ
+- Because Genesis
+- Ψ₀
+aliases:
+- Bk782am
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

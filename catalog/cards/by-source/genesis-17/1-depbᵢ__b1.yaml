@@ -1,12 +1,30 @@
+id: GEN17-4988
+location: genesis-17/key-points::iii-a-π-on-objects::1-depbᵢ::b1
+source: genesis-17\Key_Points.md
+lines: 1556-1560
+heading: '**1\. Dep(Bᵢ)**'
+parent_heading: '**III-A. Π on Objects**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: The set of all Boxes **Bⱼ** whose Φ-structure depends (directly or transitively)
   on δᵢ. `Dep(Bᵢ) = { Bⱼ ∈ Ob(𝓑) | Hom𝓑(Bᵢ, Bⱼ) ≠ ∅, including composites }`
-heading: '**1\. Dep(Bᵢ)**'
-id: GEN17-4988
-lines: 1556-1560
-location: genesis-17/key-points::iii-a-π-on-objects::1-depbᵢ::b1
-parent_heading: '**III-A. Π on Objects**'
-source: genesis-17\Key_Points.md
+concepts:
+- Φ-structure
+- ≠
+- δ
+- Φ
+- ∈
+aliases:
+- Bk038ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

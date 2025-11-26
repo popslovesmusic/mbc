@@ -1,11 +1,29 @@
+id: GEN4-7682
+location: genesis-4/meta-physics-axiom-box::iii-physics-axioms-projection-geometry-dynamics::p1-riemann-projection-from-meta-physics::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1231-1237
+heading: '**P.1 — Riemann Projection from Meta-Physics**'
+parent_heading: '**III. PHYSICS AXIOMS (Projection, Geometry, Dynamics)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'There is a projection functor: π:MetaPhys→Physics\\pi: \\mathbf{MetaPhys}\\to\\mathbf{Physics}π:MetaPhys→Physics
   assigning each δ-generated state a physical spacetime realization.'
-heading: '**P.1 — Riemann Projection from Meta-Physics**'
-id: GEN4-7682
-lines: 1231-1237
-location: genesis-4/meta-physics-axiom-box::iii-physics-axioms-projection-geometry-dynamics::p1-riemann-projection-from-meta-physics::b1
-parent_heading: '**III. PHYSICS AXIOMS (Projection, Geometry, Dynamics)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- π
+- →
+- δ-generated
+- δ
+aliases:
+- Bk277tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

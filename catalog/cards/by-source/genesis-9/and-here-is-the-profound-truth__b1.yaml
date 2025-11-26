@@ -1,13 +1,28 @@
+id: GEN9-9081
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::4-π-the-first-forms-of-matter::and-here-is-the-profound-truth::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 813-823
+heading: '**And here is the profound truth:**'
+parent_heading: '**4\. Π: The First Forms of Matter**'
 block_type: paragraph
-concepts:
-- not
-- δ
 excerpt: '**Orbitals do not exist because electrons demand them.** **Electrons exist
   because orbitals already do.** The shapes—s, p, d, f—are **not** consequences of
   particles.'
-heading: '**And here is the profound truth:**'
-id: GEN9-9081
-lines: 813-823
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::4-π-the-first-forms-of-matter::and-here-is-the-profound-truth::b1
-parent_heading: '**4\. Π: The First Forms of Matter**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ-patterns
+- not
+- δ
+aliases:
+- Bk889on
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.8181818181818175
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

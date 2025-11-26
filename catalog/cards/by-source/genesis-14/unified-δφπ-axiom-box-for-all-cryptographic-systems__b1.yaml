@@ -1,11 +1,31 @@
+id: GEN14-2875
+location: genesis-14/meta-math-and-cryptography::the-meta-math-cryptography-foundation-layer::unified-δφπ-axiom-box-for-all-cryptographic-systems::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1237-1242
+heading: '***(Unified δ–Φ–Π Axiom Box for All Cryptographic Systems)***'
+parent_heading: '**The Meta-Math Cryptography Foundation Layer**'
 block_type: paragraph
-concepts: []
 excerpt: This is the **master box** from which all other cryptographic branches—hashing,
   block ciphers, RSA/ECC, lattice crypto, and post-quantum security—inherit. It is
   written in your canonical hermetic, min...
-heading: '***(Unified δ–Φ–Π Axiom Box for All Cryptographic Systems)***'
-id: GEN14-2875
-lines: 1237-1242
-location: genesis-14/meta-math-and-cryptography::the-meta-math-cryptography-foundation-layer::unified-δφπ-axiom-box-for-all-cryptographic-systems::b1
-parent_heading: '**The Meta-Math Cryptography Foundation Layer**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- IGSOA
+- Axiom
+- post-quantum
+- IGSOA-axiom
+- master box
+aliases:
+- Bk884tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 14.705882352941178
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

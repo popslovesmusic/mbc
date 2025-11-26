@@ -1,13 +1,28 @@
+id: GEN13-2636
+location: genesis-13/what-biology-is-in-meta-genesis::6-evolutionary-functor-bioenergetics-population-trajectories::theorem-62-functoriality-of-evolution::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2534-2540
+heading: '**Theorem 6.2 (Functoriality of Evolution).**'
+parent_heading: '**6\. Evolutionary Functor: Bioenergetics → Population Trajectories**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Evol(1X)=1Evol(X),Evol(g∘f)=Evol(g)∘Evol(f).\\mathcal{E}vol(\\mathbb{1}\_X)=\\mathbb{1}\_{\\mathcal{E}vol(X)},
   \\quad \\mathcal{E}vol(g\\circ f)=\\mathcal{E}vol(g)\\circ \\mathcal{E}vol(f).Evol(1X​)=1...
-heading: '**Theorem 6.2 (Functoriality of Evolution).**'
-id: GEN13-2636
-lines: 2534-2540
-location: genesis-13/what-biology-is-in-meta-genesis::6-evolutionary-functor-bioenergetics-population-trajectories::theorem-62-functoriality-of-evolution::b1
-parent_heading: '**6\. Evolutionary Functor: Bioenergetics → Population Trajectories**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- δ
+- Φ
+aliases:
+- Bk418ee
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.838709677419355
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

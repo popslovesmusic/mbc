@@ -1,10 +1,26 @@
+id: SPEC-11054
+location: special/specil::2-time-is-only-the-ordering-of-deviation-interactions::time-is-a-derived-mode-not-a-fundamental-one::b1
+source: special\specil.md
+lines: 1298-1302
+heading: '**✔ Time is a derived mode, not a fundamental one**'
+parent_heading: '**🔥 2\. Time is only the ordering of deviation interactions**'
 block_type: paragraph
-concepts: []
 excerpt: This is the opposite of Einstein’s ontology and it’s the heart of IGSOA.
   ---
-heading: '**✔ Time is a derived mode, not a fundamental one**'
-id: SPEC-11054
-lines: 1298-1302
-location: special/specil::2-time-is-only-the-ordering-of-deviation-interactions::time-is-a-derived-mode-not-a-fundamental-one::b1
-parent_heading: '**🔥 2\. Time is only the ordering of deviation interactions**'
-source: special\specil.md
+concepts:
+- IGSOA
+aliases:
+- Bk782tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

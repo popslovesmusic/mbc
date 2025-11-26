@@ -1,13 +1,32 @@
+id: GEN2-6253
+location: genesis-2/axioms-for-the-category-genesis::12-time-as-internal-endomorphism::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 488-510
+heading: '**12\. Time as Internal Endomorphism**'
 block_type: paragraph
+excerpt: '**Axiom M12 — Time Operator** There exists a natural transformation: τ:I⇒I\\tau
+  : I \\Rightarrow Iτ:I⇒I'
 concepts:
 - Axiom
 - Operator
-- Time Operator
+- endomorphism of the monoidal unit
 - τ
-excerpt: '**Axiom M12 — Time Operator** There exists a natural transformation: τ:I⇒I\\tau
-  : I \\Rightarrow Iτ:I⇒I'
-heading: '**12\. Time as Internal Endomorphism**'
-id: GEN2-6253
-lines: 488-510
-location: genesis-2/axioms-for-the-category-genesis::12-time-as-internal-endomorphism::b1
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+- meta-time
+- Math-side
+- Time Operator
+aliases:
+- Am972at
+tags:
+- -time-operator
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.666666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

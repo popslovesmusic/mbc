@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- Meta-Spin
-- automatically
-- Φ
-- δ
-excerpt: 'A Φ-fixed point Φ(P)=P\\Phi(P)=PΦ(P)=P maps to a conserved physical quantity:'
-heading: '**4.3 Φ-Invariants → Physical Conserved Quantities**'
 id: GEN2-6380
-lines: 1071-1099
 location: genesis-2/axioms-of-geometry-topos-compatible::4-action-level-mapping::43-φ-invariants-physical-conserved-quantities::b1
-parent_heading: '**4\. Action-Level Mapping**'
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1071-1099
+heading: '**4.3 Φ-Invariants → Physical Conserved Quantities**'
+parent_heading: '**4\. Action-Level Mapping**'
+block_type: paragraph
+excerpt: 'A Φ-fixed point Φ(P)=P\\Phi(P)=PΦ(P)=P maps to a conserved physical quantity:'
+concepts:
+- Φ
+- Meta-Spin
+- Φ-fixed
+- δ-mode
+- δ
+aliases:
+- Bk607fp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.25925925925926
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

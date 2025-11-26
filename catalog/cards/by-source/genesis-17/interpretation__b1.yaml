@@ -1,13 +1,29 @@
+id: GEN17-5064
+location: genesis-17/mbc-schema-3::7-the-full-adjoint-triple::interpretation::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 758-774
+heading: '**Interpretation**'
+parent_heading: '**7\. The Full Adjoint Triple**'
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '* δ generates possibilities * Φ refines them into continuous curvature *
   Π projects them into discrete causal structure'
-heading: '**Interpretation**'
-id: GEN17-5064
-lines: 758-774
-location: genesis-17/mbc-schema-3::7-the-full-adjoint-triple::interpretation::b1
-parent_heading: '**7\. The Full Adjoint Triple**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- →
+- Π
+- δ
+- Φ
+aliases:
+- Bk086gp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.793103448275861
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

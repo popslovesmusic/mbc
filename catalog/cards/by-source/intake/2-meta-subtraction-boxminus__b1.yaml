@@ -1,13 +1,29 @@
+id: INTK-10336
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::meta-arithmetic-operations::2-meta-subtraction-boxminus::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 914-918
+heading: 2. Meta-Subtraction ($\boxminus$)
+parent_heading: Meta-Arithmetic Operations
 block_type: list
-concepts:
-- Meta-Addition
-- ξ
 excerpt: '- **Purpose:** Inverse of Meta-Addition; represents the differentiation
   or separation of deviation modes. - **Behavior:** May not always be uniquely defined
   or simple due to non-linearity and irrevers...'
-heading: 2. Meta-Subtraction ($\boxminus$)
-id: INTK-10336
-lines: 914-918
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::meta-arithmetic-operations::2-meta-subtraction-boxminus::b1
-parent_heading: Meta-Arithmetic Operations
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- ξ
+- Meta-Addition
+- non-linearity
+aliases:
+- Bk440pi
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,12 +1,29 @@
+id: SPEC-11335
+location: special/specil::1-spider-man-syndrome::great-power-no-responsibility-danger::b1
+source: special\specil.md
+lines: 7122-7151
+heading: '**Great power \+ no responsibility → danger**'
+parent_heading: '**⭐ 1\. “Spider-Man Syndrome” \=**'
 block_type: paragraph
-concepts:
-- Spider-Man
-- looks
 excerpt: 'If you meant it jokingly, then yes: there *is* a funny truth to it. Mentalists
   often develop:'
-heading: '**Great power \+ no responsibility → danger**'
-id: SPEC-11335
-lines: 7122-7151
-location: special/specil::1-spider-man-syndrome::great-power-no-responsibility-danger::b1
-parent_heading: '**⭐ 1\. “Spider-Man Syndrome” \=**'
-source: special\specil.md
+concepts:
+- mind-reading
+- cold-reading
+- Spider-Man
+- micro-clue
+aliases:
+- Bk525ym
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.970149253731343
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

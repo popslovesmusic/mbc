@@ -1,12 +1,31 @@
+id: GEN0-223
+location: genesis-0/tri-unity-theorem-equivalence-of::1-axioms-of-the-genesis-layer::axiom-g2-deviational-axiom-δ-exists::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1004-1022
+heading: '**Axiom G2 — Deviational Axiom (δ Exists)**'
+parent_heading: '**1\. Axioms of the Genesis Layer**'
 block_type: paragraph
+excerpt: 'There exists a deviation operator: δ:Ψ0→Ψ1,\\delta: \\Psi\_0 \\rightarrow
+  \\Psi\_1,δ:Ψ0​→Ψ1​, satisfying:'
 concepts:
 - Ψ
 - δ
-excerpt: 'There exists a deviation operator: δ:Ψ0→Ψ1,\\delta: \\Psi\_0 \\rightarrow
-  \\Psi\_1,δ:Ψ0​→Ψ1​, satisfying:'
-heading: '**Axiom G2 — Deviational Axiom (δ Exists)**'
-id: GEN0-223
-lines: 1004-1022
-location: genesis-0/tri-unity-theorem-equivalence-of::1-axioms-of-the-genesis-layer::axiom-g2-deviational-axiom-δ-exists::b1
-parent_heading: '**1\. Axioms of the Genesis Layer**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+- Adjacency
+- Structure-generating
+- Adjacency-creating
+- Non-invertibility
+- →
+- Non-identity
+- ≠
+aliases:
+- Bk804te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

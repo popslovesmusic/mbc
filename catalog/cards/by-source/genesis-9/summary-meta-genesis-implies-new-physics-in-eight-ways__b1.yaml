@@ -1,20 +1,39 @@
-block_type: table
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Empirical Signatures
-- Genesis Predicts New Physics
-- Meta-Einstein
-- Meta-Genesis
-- Meta-Time
-- What It Implies
-- Why New Physics Is Necessary
-- δ
-excerpt: '**Yes.** Meta-Genesis is deeply predictive: If any one of these is true,
-  IGSOA predicts new physics.'
-heading: '**Summary: Meta-Genesis Implies New Physics in Eight Ways**'
 id: GEN9-9221
-lines: 223-254
 location: genesis-9/does-meta-genesis-indicate-new-physics::summary-meta-genesis-implies-new-physics-in-eight-ways::b1
 source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 223-254
+heading: '**Summary: Meta-Genesis Implies New Physics in Eight Ways**'
+block_type: table
+excerpt: '**Yes.** Meta-Genesis is deeply predictive: If any one of these is true,
+  IGSOA predicts new physics.'
+concepts:
+- Meta-Genesis
+- Meta-Einstein
+- Meta-Time
+- IGSOA
+- Deviation
+- A table linking each prediction to observational tests
+- Axiom
+- δ
+- Box
+- Genesis Predicts New Physics
+- Why New Physics Is Necessary
+- Pre-geometry
+- δ-generator
+- white-paper
+- δ-harmonic
+aliases:
+- Bk529ym
+tags:
+- axiom-box
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.267175572519085
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'To prove CCC: Hom(B1×B2,B3)  ≅  Hom(B1,B3B2)Hom(B\_1 \\times B\_2, B\_3)
-  \\;\\cong\\; Hom(B\_1, B\_3^{B\_2})Hom(B1​×B2​,B3​)≅Hom(B1​,B3B2​​)'
-heading: '**⭐ 6\. Currying Isomorphism**'
 id: GEN16-4072
-lines: 4243-4247
 location: genesis-16/untitled-document::6-currying-isomorphism::b1
 source: genesis-16\Untitled_document.md
+lines: 4243-4247
+heading: '**⭐ 6\. Currying Isomorphism**'
+block_type: paragraph
+excerpt: 'To prove CCC: Hom(B1×B2,B3)  ≅  Hom(B1,B3B2)Hom(B\_1 \\times B\_2, B\_3)
+  \\;\\cong\\; Hom(B\_1, B\_3^{B\_2})Hom(B1​×B2​,B3​)≅Hom(B1​,B3B2​​)'
+aliases:
+- Bk620pc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

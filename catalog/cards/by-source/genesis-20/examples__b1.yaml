@@ -1,10 +1,28 @@
+id: GEN20-6785
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::46-semantic-modifiers-amplify-suppress-invert::examples::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1600-1617
+heading: Examples
+parent_heading: 4.6 Semantic Modifiers (Amplify, Suppress, Invert)
 block_type: list
-concepts: []
 excerpt: '* Amplify: strengthens a signal * Suppress: weakens or dampens a signal
   * Invert: flips polarity or meaning'
-heading: Examples
-id: GEN20-6785
-lines: 1600-1617
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::46-semantic-modifiers-amplify-suppress-invert::examples::b1
-parent_heading: 4.6 Semantic Modifiers (Amplify, Suppress, Invert)
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- A-dominant
+- E-dominant
+aliases:
+- Bk220as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.225352112676056
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,30 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: 'Take: X\\mathcal{X}X to be the ∞-topos of **cosmological field configurations**,
-  including:'
-heading: '**🔷 1\. The Universe as an ∞-Topos**'
 id: GEN15-3453
-lines: 1135-1169
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-the-universe-as-an-topos::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1135-1169
+heading: '**🔷 1\. The Universe as an ∞-Topos**'
+block_type: paragraph
+excerpt: 'Take: X\\mathcal{X}X to be the ∞-topos of **cosmological field configurations**,
+  including:'
+concepts:
+- ∞
+- cosmological field configurations
+- δ-adjacency
+- Φ-inflation
+- δ
+- Φ
+aliases:
+- Bk334tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

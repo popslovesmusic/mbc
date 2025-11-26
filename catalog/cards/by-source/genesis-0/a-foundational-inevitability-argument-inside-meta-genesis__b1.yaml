@@ -1,18 +1,37 @@
+id: GEN0-244
+location: genesis-0/tri-unity-theorem-equivalence-of::why-deviation-δ-must-exist::a-foundational-inevitability-argument-inside-meta-genesis::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1255-1267
+heading: '***A foundational inevitability argument inside Meta-Genesis***'
+parent_heading: '**Why Deviation (δ) Must Exist**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Deviational Axiom
-- Deviational Geometry
-- Foundation Layer Seal
-- Genesis Axiom Box
-- Layer
 excerpt: This is written to sit directly before (or as the introduction to) the Deviational
   Axiom in your **Foundation Layer Seal**, **Genesis Axiom Box**, or **Deviational
   Geometry** chapter. I present it in ...
-heading: '***A foundational inevitability argument inside Meta-Genesis***'
-id: GEN0-244
-lines: 1255-1267
-location: genesis-0/tri-unity-theorem-equivalence-of::why-deviation-δ-must-exist::a-foundational-inevitability-argument-inside-meta-genesis::b1
-parent_heading: '**Why Deviation (δ) Must Exist**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Deviational Geometry
+- Deviation
+- Foundation Layer
+- Axiom
+- Layer
+- Proof
+- Box
+- Foundation Layer Seal
+- Genesis Axiom Box
+- Deviational Axiom
+aliases:
+- Bk211tw
+tags:
+- axiom-box
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 22.727272727272727
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

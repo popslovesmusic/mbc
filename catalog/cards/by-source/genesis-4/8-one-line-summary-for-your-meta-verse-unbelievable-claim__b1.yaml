@@ -1,18 +1,38 @@
-block_type: paragraph
-concepts:
-- Adjacency Axiom Box
-- Axiom
-- Box
-- Geometry Projection Theorem
-- Meta-Time
-- The Adjacency
-- The Meta
-- Theorem
-- δ
-excerpt: '**Space is not fundamental; it is what difference looks like when it stabilizes.**
-  --- If you want, I can now create:'
-heading: '**8\. One-Line Summary for Your Meta-Verse “Unbelievable Claim”**'
 id: GEN4-7827
-lines: 221-235
 location: genesis-4/the-first-adjacency::8-one-line-summary-for-your-meta-verse-unbelievable-claim::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 221-235
+heading: '**8\. One-Line Summary for Your Meta-Verse “Unbelievable Claim”**'
+block_type: paragraph
+excerpt: '**Space is not fundamental; it is what difference looks like when it stabilizes.**
+  --- If you want, I can now create:'
+concepts:
+- Meta-Time
+- Adjacency
+- Projection
+- Theorem
+- Axiom
+- Lemma
+- Box
+- →
+- Geometry Projection Theorem
+- δ-Adjacency
+- δ
+- Adjacency Axiom Box
+- The Adjacency
+- The Meta
+aliases:
+- Bk617sn
+tags:
+- axiom-box
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.875
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

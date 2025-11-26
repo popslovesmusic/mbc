@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- entirely
-excerpt: 'You know how we described that people see: `Given X → (???) → Result Y`
-  while the actual internal process is:'
-heading: '**⭐ 5\. Magicians are experts at engineering “cognitive compression”**'
 id: SPEC-11330
-lines: 7024-7054
 location: special/specil::5-magicians-are-experts-at-engineering-cognitive-compression::b1
 source: special\specil.md
+lines: 7024-7054
+heading: '**⭐ 5\. Magicians are experts at engineering “cognitive compression”**'
+block_type: paragraph
+excerpt: 'You know how we described that people see: `Given X → (???) → Result Y`
+  while the actual internal process is:'
+concepts:
+- →
+- Designing the invisible steps so well
+- the illusion of impossibility
+- the moment of astonishment
+- the miracle window
+- the gap
+aliases:
+- Bk275yk
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

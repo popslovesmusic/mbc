@@ -1,11 +1,28 @@
+id: GEN13-2627
+location: genesis-13/what-biology-is-in-meta-genesis::3-population-as-a-measure-on-𝔅::definition-31-population-state::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2438-2444
+heading: '**Definition 3.1 (Population State).**'
+parent_heading: '**3\. Population as a Measure on 𝔅**'
 block_type: paragraph
-concepts:
-- μ
 excerpt: 'A population state is: μt:Ob(B)→\[0,1\],∑Xμt(X)=1.\\mu\_t:\\mathrm{Ob}(\\mathfrak{B})\\to
   \[0,1\], \\quad \\sum\_X \\mu\_t(X)=1.μt​:Ob(B)→\[0,1\],X∑​μt​(X)=1. ---'
-heading: '**Definition 3.1 (Population State).**'
-id: GEN13-2627
-lines: 2438-2444
-location: genesis-13/what-biology-is-in-meta-genesis::3-population-as-a-measure-on-𝔅::definition-31-population-state::b1
-parent_heading: '**3\. Population as a Measure on 𝔅**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- μ
+- ∑
+- →
+aliases:
+- Bk304ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,37 @@
-block_type: paragraph
-concepts:
-- Box
-- Box-Net
-- IGSOA
-- Meta-Box
-- Π
-- Φ
-- Ω
-- δ
-excerpt: '`IGSOA` `│` `▼`'
-heading: '**6\. The Full MBC-4.0 Process Stack**'
 id: GEN17-5088
-lines: 1120-1161
 location: genesis-17/mbc-schema-3::6-the-full-mbc-40-process-stack::b1
 source: genesis-17\MBC_Schema_3.md
+lines: 1120-1161
+heading: '**6\. The Full MBC-4.0 Process Stack**'
+block_type: paragraph
+excerpt: '`IGSOA` `│` `▼`'
+concepts:
+- IGSOA
+- MBC
+- Box
+- Ω
+- →
+- meta-deviation
+- meta-evolution
+- Meta-MBC
+- Meta-Box
+- Box-Net
+- Π
+- δ
+- Δ
+- Φ
+aliases:
+- Bk422ib
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 43.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

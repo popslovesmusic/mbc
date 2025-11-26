@@ -1,15 +1,32 @@
+id: GEN12-1991
+location: genesis-12/untitled-document::2-functors-of-the-galaxy-pipeline::23-nonlinear-collapse-functor-φ₂::b1
+source: genesis-12\Untitled_document.md
+lines: 4289-4307
+heading: '**2.3 Nonlinear Collapse Functor Φ₂**'
+parent_heading: '**2\. Functors of the Galaxy Pipeline**'
 block_type: paragraph
+excerpt: 'Φ2:Str→Ker\\Phi\_2 : \\mathsf{Str} \\to \\mathsf{Ker}Φ2​:Str→Ker Nonlinear
+  functor encoding: * adjacency locking,'
 concepts:
+- Φ
+- →
+- chromatic-phase
 - 'Ker
 
 
   Nonlinear'
-- Φ
-excerpt: 'Φ2:Str→Ker\\Phi\_2 : \\mathsf{Str} \\to \\mathsf{Ker}Φ2​:Str→Ker Nonlinear
-  functor encoding: * adjacency locking,'
-heading: '**2.3 Nonlinear Collapse Functor Φ₂**'
-id: GEN12-1991
-lines: 4289-4307
-location: genesis-12/untitled-document::2-functors-of-the-galaxy-pipeline::23-nonlinear-collapse-functor-φ₂::b1
-parent_heading: '**2\. Functors of the Galaxy Pipeline**'
-source: genesis-12\Untitled_document.md
+aliases:
+- Bk664sk
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.017543859649122
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

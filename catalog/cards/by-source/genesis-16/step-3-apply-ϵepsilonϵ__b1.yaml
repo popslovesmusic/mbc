@@ -1,11 +1,27 @@
+id: GEN16-4035
+location: genesis-16/untitled-document::11-first-triangle-identity-aϵηa1aaepsilon-circ-eta-a-1-aaϵηa1a::mathematical-polarity-formal-proof::step-3-apply-ϵepsilonϵ::b1
+source: genesis-16\Untitled_document.md
+lines: 3820-3832
+heading: '**Step 3 — Apply ϵ\\epsilonϵ**'
+parent_heading: '**Mathematical Polarity (Formal Proof)**'
 block_type: paragraph
-concepts:
-- η
 excerpt: 'A(x,e)→ϵxA(x,e) \\xrightarrow{\\epsilon} xA(x,e)ϵ​x So: Aϵ(ηA(x))=A(x)A\\epsilon(\\eta\_A(x))
   \= A(x)Aϵ(ηA​(x))=A(x)'
-heading: '**Step 3 — Apply ϵ\\epsilonϵ**'
-id: GEN16-4035
-lines: 3820-3832
-location: genesis-16/untitled-document::11-first-triangle-identity-aϵηa1aaepsilon-circ-eta-a-1-aaϵηa1a::mathematical-polarity-formal-proof::step-3-apply-ϵepsilonϵ::b1
-parent_heading: '**Mathematical Polarity (Formal Proof)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- η
+- →
+aliases:
+- Bk408xe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.128205128205128
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

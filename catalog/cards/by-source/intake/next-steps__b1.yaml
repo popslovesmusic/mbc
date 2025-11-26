@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Meta-Standard-Model
-- δ
-excerpt: 'I can now produce: ✅ **Appendix A:** full formal proofs ✅ **Appendix B:**
-  diagrams (string diagrams, adjacency graphs, commutator cubes)'
-heading: '**NEXT STEPS**'
 id: INTK-10627
-lines: 1134-1150
 location: intake/volume-i-core-ontology-and-metagenesis-summary::next-steps::b1
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1134-1150
+heading: '**NEXT STEPS**'
+block_type: paragraph
+excerpt: 'I can now produce: ✅ **Appendix A:** full formal proofs ✅ **Appendix B:**
+  diagrams (string diagrams, adjacency graphs, commutator cubes)'
+concepts:
+- Meta-Standard-Model
+- δ-Boson
+- δ
+- →
+aliases:
+- Bk323cn
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.22000000000000003
+is_technical: true
+concept_density: 6.0606060606060606
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

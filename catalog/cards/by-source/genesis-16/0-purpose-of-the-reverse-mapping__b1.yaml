@@ -1,14 +1,31 @@
-block_type: table
-concepts:
-- Box
-- Box Calculus
-- Box Calculus View
-- Math View
-- Meta-Math
-excerpt: 'So we define: G: BoxCalc ⟶ MetaMath\\boxed{ G:\\ \\mathbf{BoxCalc}\\ \\longrightarrow\\
-  \\mathbf{MetaMath} }G: BoxCalc ⟶ MetaMath​ a structure-preserving map.'
-heading: '**🔷 0\. Purpose of the Reverse Mapping**'
 id: GEN16-3967
-lines: 2852-2865
 location: genesis-16/untitled-document::0-purpose-of-the-reverse-mapping::b1
 source: genesis-16\Untitled_document.md
+lines: 2852-2865
+heading: '**🔷 0\. Purpose of the Reverse Mapping**'
+block_type: table
+excerpt: 'So we define: G: BoxCalc ⟶ MetaMath\\boxed{ G:\\ \\mathbf{BoxCalc}\\ \\longrightarrow\\
+  \\mathbf{MetaMath} }G: BoxCalc ⟶ MetaMath​ a structure-preserving map.'
+concepts:
+- Meta-Math
+- Box
+- Box Calculus
+- IGSOA
+- structure-preserving
+- Meta-Math instance
+- Box Calculus View
+- Math View
+aliases:
+- Bk036ib
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.411764705882353
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

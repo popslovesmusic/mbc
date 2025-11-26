@@ -1,11 +1,27 @@
+id: GEN4-7674
+location: genesis-4/meta-physics-axiom-box::i-δaxioms-deviation-generator-of-structure-and-dynamics::δ3-δ-generates-adjacency::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1127-1131
+heading: '**δ.3 — δ Generates Adjacency**'
+parent_heading: '**I. δ–AXIOMS (Deviation \= Generator of Structure and Dynamics)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: X→δ(X)X \\to \\delta(X)X→δ(X) is the primitive adjacency, the precursor to
   morphisms, locality, and causality.
-heading: '**δ.3 — δ Generates Adjacency**'
-id: GEN4-7674
-lines: 1127-1131
-location: genesis-4/meta-physics-axiom-box::i-δaxioms-deviation-generator-of-structure-and-dynamics::δ3-δ-generates-adjacency::b1
-parent_heading: '**I. δ–AXIOMS (Deviation \= Generator of Structure and Dynamics)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- δ
+- →
+aliases:
+- Bk128dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

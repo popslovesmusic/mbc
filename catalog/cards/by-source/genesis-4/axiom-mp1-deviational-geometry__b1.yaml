@@ -1,10 +1,28 @@
+id: GEN4-7635
+location: genesis-4/meta-physics-axiom-box::v-meta-physics-axioms-curvature-causality-projection::axiom-mp1-deviational-geometry::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 539-551
+heading: '**Axiom MP.1 — Deviational Geometry**'
+parent_heading: '**V. META-PHYSICS AXIOMS (Curvature, Causality, Projection)**'
 block_type: paragraph
+excerpt: There exists a δ-connection ∇δ\\nabla\_\\delta∇δ​ whose curvature
 concepts:
 - δ
-excerpt: There exists a δ-connection ∇δ\\nabla\_\\delta∇δ​ whose curvature
-heading: '**Axiom MP.1 — Deviational Geometry**'
-id: GEN4-7635
-lines: 539-551
-location: genesis-4/meta-physics-axiom-box::v-meta-physics-axioms-curvature-causality-projection::axiom-mp1-deviational-geometry::b1
-parent_heading: '**V. META-PHYSICS AXIOMS (Curvature, Causality, Projection)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+- ∇
+- π
+- δ-connection
+aliases:
+- Bk121te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.51063829787234
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,37 @@
-block_type: table
-concepts:
-- Tri-Unity
-- Ω
-- γ
-- δ
-- ω
-excerpt: '---'
-heading: '**ROW DESCRIPTIONS (H₁–H₉ δ-harmonic shells)**'
 id: GEN13-2348
-lines: 1285-1299
 location: genesis-13/the-weight-of-light::row-descriptions-h₁h₉-δ-harmonic-shells::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 1285-1299
+heading: '**ROW DESCRIPTIONS (H₁–H₉ δ-harmonic shells)**'
+block_type: table
+excerpt: '---'
+concepts:
+- Tri-Unity
+- δ
+- adjacency-wave
+- torsion-shear
+- Higgs-like
+- Ω
+- γ
+- Ξ
+- χ
+- ω
+- δ-W
+- δ-Z
+- δ₁
+- δ₄
+aliases:
+- Bk715sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.137931034482758
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

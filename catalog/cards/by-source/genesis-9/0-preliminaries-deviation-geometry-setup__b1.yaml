@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'Let: * A\\mathcal{A}A \= adjacency space emerging from Genesis, * Hδ\\mathcal{H}\_\\deltaHδ​
-  \= deviation-generated Hilbert subspace,'
-heading: '**0\. Preliminaries: Deviation Geometry Setup**'
 id: GEN9-9401
-lines: 939-961
 location: genesis-9/is-the-source-of-all-structure::0-preliminaries-deviation-geometry-setup::b1
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 939-961
+heading: '**0\. Preliminaries: Deviation Geometry Setup**'
+block_type: paragraph
+excerpt: 'Let: * A\\mathcal{A}A \= adjacency space emerging from Genesis, * Hδ\\mathcal{H}\_\\deltaHδ​
+  \= deviation-generated Hilbert subspace,'
+concepts:
+- δ
+- ψ
+- Π
+- Φ
+- deviation-generated
+- →
+- δ-harmonic
+aliases:
+- Bk805lm
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.730769230769231
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

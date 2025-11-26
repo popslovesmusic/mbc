@@ -1,13 +1,36 @@
+id: GEN7-8696
+location: genesis-7/why-curvature-gives-gravity::iii-term-i-the-bochner-laplacian-part::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 1118-1134
+heading: '**◼ III. Term (I): The Bochner (Laplacian) Part**'
 block_type: paragraph
-concepts:
-- Bochner Laplacian
-- Ω
-- δ
 excerpt: '(I)=gij∇iδ∇jδ.(I) \= g^{ij}\\nabla^\\delta\_i\\nabla^\\delta\_j.(I)=gij∇iδ​∇jδ​.
   By definition, this is the **Bochner Laplacian**: ∇δ∗∇δ=gij(∇iδ∇jδ−∇∇iejδ),\\nabla\_\\delta^\\ast
   \\nabla\_\\delta \= g...'
-heading: '**◼ III. Term (I): The Bochner (Laplacian) Part**'
-id: GEN7-8696
-lines: 1118-1134
-location: genesis-7/why-curvature-gives-gravity::iii-term-i-the-bochner-laplacian-part::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- ∇
+- Definition
+- Ω
+- δ-Laplacian part
+- δ-potential
+- δ-adjacency
+- lower-order
+- δ-Laplacian
+- δ-dependent
+- Bochner Laplacian
+- Ωi
+aliases:
+- Bk513gn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.230769230769232
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

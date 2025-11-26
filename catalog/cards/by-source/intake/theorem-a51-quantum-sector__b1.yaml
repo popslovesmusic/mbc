@@ -1,10 +1,26 @@
+id: INTK-10638
+location: intake/volume-i-core-ontology-and-metagenesis-summary::a5-the-three-commutators-generate-three-physical-sectors::theorem-a51-quantum-sector::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1312-1318
+heading: '**Theorem A.5.1 (Quantum Sector).**'
+parent_heading: '**A.5 The Three Commutators Generate Three Physical Sectors**'
 block_type: paragraph
-concepts: []
 excerpt: \[A,T\]≠0\[\\mathcal{A}, \\mathcal{T}\] \\neq 0\[A,T\]=0 implies the existence
   of nontrivial superposition and entanglement states. ---
-heading: '**Theorem A.5.1 (Quantum Sector).**'
-id: INTK-10638
-lines: 1312-1318
-location: intake/volume-i-core-ontology-and-metagenesis-summary::a5-the-three-commutators-generate-three-physical-sectors::theorem-a51-quantum-sector::b1
-parent_heading: '**A.5 The Three Commutators Generate Three Physical Sectors**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- ≠
+aliases:
+- Bk614mm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

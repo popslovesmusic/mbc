@@ -1,12 +1,29 @@
+id: GEN1-563
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-axiomatic-foundation::axiom-6-projection-functor::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 757-767
+heading: '**Axiom 6 (Projection Functor).**'
+parent_heading: '**1\. Axiomatic Foundation**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: There exists a functor Π:MetaGeom→GR\\Pi:\\mathbf{MetaGeom} \\to \\mathbf{GR}Π:MetaGeom→GR
   such that
-heading: '**Axiom 6 (Projection Functor).**'
-id: GEN1-563
-lines: 757-767
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-axiomatic-foundation::axiom-6-projection-functor::b1
-parent_heading: '**1\. Axiomatic Foundation**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Π
+- ∇
+- →
+aliases:
+- Bk745te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

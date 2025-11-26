@@ -1,12 +1,27 @@
+id: GEN1-377
+location: genesis-1/the-first-geometry::what-deviation-really-is::a-plain-english-outreach-explanation::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 248-259
+heading: '***(A Plain-English Outreach Explanation)***'
+parent_heading: '**WHAT DEVIATION REALLY IS**'
 block_type: paragraph
-concepts:
-- did
 excerpt: 'If you want to understand everything that follows — adjacency, geometry,
   time, gravity, particles, and the entire unfolding of the universe — you have to
   understand one simple idea: **Deviation.** Dev...'
-heading: '***(A Plain-English Outreach Explanation)***'
-id: GEN1-377
-lines: 248-259
-location: genesis-1/the-first-geometry::what-deviation-really-is::a-plain-english-outreach-explanation::b1
-parent_heading: '**WHAT DEVIATION REALLY IS**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- Deviation
+aliases:
+- Bk080yw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 1.9607843137254901
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

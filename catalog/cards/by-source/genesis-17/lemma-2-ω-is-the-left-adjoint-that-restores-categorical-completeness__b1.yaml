@@ -1,18 +1,39 @@
+id: GEN17-5137
+location: genesis-17/mbc-schema-3::proof-dual-column-formal-proof::lemma-2-ω-is-the-left-adjoint-that-restores-categorical-completeness::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 2052-2060
+heading: '**Lemma 2 — Ω is the left adjoint that restores categorical completeness.**'
+parent_heading: '**PROOF (Dual-Column Formal Proof)**'
 block_type: table
-concepts:
-- Box
-- Genesis Layer
-- Layer
-- Lemma
-- Meta-Box
-- Meta-Genesis
-- Ω
 excerpt: \\Omega(\\Delta(X)) \\in \\mathcal{MB}. \\\] | Ω is defined to make the diagram
   commute, so this is guaranteed. \--- \#\# \*\*Lemma 3 — Reflection R determines
   viability.\*\* | Physics | MBC | |------...
-heading: '**Lemma 2 — Ω is the left adjoint that restores categorical completeness.**'
-id: GEN17-5137
-lines: 2052-2060
-location: genesis-17/mbc-schema-3::proof-dual-column-formal-proof::lemma-2-ω-is-the-left-adjoint-that-restores-categorical-completeness::b1
-parent_heading: '**PROOF (Dual-Column Formal Proof)**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Meta-Genesis
+- MBC
+- Lemma
+- self-consistent
+- Layer
+- Box
+- Ω
+- Self-consistency
+- fixed-point
+- Meta-Box
+- Δ
+- →
+- Genesis Layer
+aliases:
+- Bk181pm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.131313131313133
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,22 @@
-block_type: list
-concepts: []
-excerpt: '* Technical and rigorous enough for: * physicists * mathematicians'
-heading: 2\. Writing Style
 id: GEN20-6678
-lines: 309-321
 location: genesis-20/mbc-40-documentaitio-1::mbc-40-documentation-writing-protocol::2-writing-style::b1
-parent_heading: MBC-4.0 Documentation Writing Protocol
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 309-321
+heading: 2\. Writing Style
+parent_heading: MBC-4.0 Documentation Writing Protocol
+block_type: list
+excerpt: '* Technical and rigorous enough for: * physicists * mathematicians'
+aliases:
+- Bk482ta
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

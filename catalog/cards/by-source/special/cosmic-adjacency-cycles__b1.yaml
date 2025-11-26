@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'They didn’t understand: * gravity * cosmology'
-heading: '**cosmic adjacency cycles.**'
 id: SPEC-11157
-lines: 3148-3174
 location: special/specil::4-religion-and-monism-share-the-same-root-pattern-recognition::cosmic-adjacency-cycles::b1
-parent_heading: '**⭐ 4\. Religion and monism share the same root: pattern recognition**'
 source: special\specil.md
+lines: 3148-3174
+heading: '**cosmic adjacency cycles.**'
+parent_heading: '**⭐ 4\. Religion and monism share the same root: pattern recognition**'
+block_type: paragraph
+excerpt: 'They didn’t understand: * gravity * cosmology'
+concepts:
+- IGSOA
+aliases:
+- Bk061td
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.5
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

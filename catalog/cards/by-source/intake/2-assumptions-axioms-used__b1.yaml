@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We use your three foundational axioms:'
-heading: '**2\. Assumptions (Axioms Used)**'
 id: INTK-9827
-lines: 927-929
 location: intake/meta-genesis-core-papers-foundations::2-assumptions-axioms-used::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 927-929
+heading: '**2\. Assumptions (Axioms Used)**'
+block_type: paragraph
+excerpt: 'We use your three foundational axioms:'
+aliases:
+- Bk822uy
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,25 @@
+id: GEN12-1706
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p5-large-scale-structure-predictions::p53-galaxy-bias-formula::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2613-2617
+heading: '**P5.3 Galaxy Bias Formula**'
+parent_heading: '**Axiom P5 (Large-Scale Structure Predictions).**'
 block_type: paragraph
+excerpt: b(k)=f(λk).b(k) \= f(\\lambda\_k).b(k)=f(λk​). ---
 concepts:
 - λ
-excerpt: b(k)=f(λk).b(k) \= f(\\lambda\_k).b(k)=f(λk​). ---
-heading: '**P5.3 Galaxy Bias Formula**'
-id: GEN12-1706
-lines: 2613-2617
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p5-large-scale-structure-predictions::p53-galaxy-bias-formula::b1
-parent_heading: '**Axiom P5 (Large-Scale Structure Predictions).**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+aliases:
+- Bk664la
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

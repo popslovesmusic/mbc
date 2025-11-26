@@ -1,10 +1,27 @@
+id: GEN20-6649
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::commutative-diagrams::2-global-limit-cone::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 1082-1103
+heading: 2\. Global Limit Cone
+parent_heading: Commutative Diagrams
 block_type: paragraph
+excerpt: 'Π\* is the apex of a limit cone: Π\* / | \\'
 concepts:
 - Π
-excerpt: 'Π\* is the apex of a limit cone: Π\* / | \\'
-heading: 2\. Global Limit Cone
-id: GEN20-6649
-lines: 1082-1103
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::commutative-diagrams::2-global-limit-cone::b1
-parent_heading: Commutative Diagrams
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+- ∀
+- Πi
+aliases:
+- Bk802ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

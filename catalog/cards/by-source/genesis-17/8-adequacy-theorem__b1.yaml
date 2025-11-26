@@ -1,13 +1,30 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Π
-- Σ
-excerpt: 'The operational semantics matches the intended meaning of Box Calculus:
-  ⟨G,Σ⟩⇓Σf⟺Σf=Π(Σf) ⟨G,Σ⟩⇓Σ'
-heading: 🔷 8\. Adequacy Theorem
 id: GEN17-4826
-lines: 9995-10011
 location: genesis-17/box-calculus::8-adequacy-theorem::b1
 source: genesis-17\box_calculus.md
+lines: 9995-10011
+heading: 🔷 8\. Adequacy Theorem
+block_type: paragraph
+excerpt: 'The operational semantics matches the intended meaning of Box Calculus:
+  ⟨G,Σ⟩⇓Σf⟺Σf=Π(Σf) ⟨G,Σ⟩⇓Σ'
+concepts:
+- Σ
+- Box Calculus
+- Π
+- Box
+- Π-shadow
+- Σf
+aliases:
+- Bk295to
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

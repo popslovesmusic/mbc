@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: Explainable by χ-phase locking creating deep curvature basins early. ---
-heading: '**6.4 Early supermassive black holes**'
 id: GEN14-2662
-lines: 217-221
 location: genesis-14/inflation-structure-formation::6-predictions-unique-to-igsoa::64-early-supermassive-black-holes::b1
-parent_heading: '**6\. Predictions Unique to IGSOA**'
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 217-221
+heading: '**6.4 Early supermassive black holes**'
+parent_heading: '**6\. Predictions Unique to IGSOA**'
+block_type: paragraph
+excerpt: Explainable by χ-phase locking creating deep curvature basins early. ---
+concepts:
+- χ
+aliases:
+- Bk720ep
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

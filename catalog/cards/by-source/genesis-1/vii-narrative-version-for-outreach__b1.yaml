@@ -1,15 +1,38 @@
+id: GEN1-465
+location: genesis-1/the-foundation-layer::vii-narrative-version-for-outreach::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 727-746
+heading: '**VII. Narrative Version (For Outreach)**'
 block_type: paragraph
-concepts:
-- Einstein Field Equations Chapter
-- Field
-- Meta-Einstein
-- The Meta
-- δ
 excerpt: '*Curvature is the deviation of a deviation.* *Energy is the deviation itself.*
   *And the universe evolves because the rate at which its bending changes (δRδ) must
   always equal the intensity of its chan...'
-heading: '**VII. Narrative Version (For Outreach)**'
-id: GEN1-465
-lines: 727-746
-location: genesis-1/the-foundation-layer::vii-narrative-version-for-outreach::b1
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Meta-Einstein
+- Curvature
+- The Meta-Einstein Field Equations Chapter
+- δ
+- Proof
+- Field
+- category-theoretic
+- Einstein Field Equations Chapter
+- δ-tensor
+- →
+- The Meta
+- δR
+aliases:
+- Bk026ct
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.186813186813188
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

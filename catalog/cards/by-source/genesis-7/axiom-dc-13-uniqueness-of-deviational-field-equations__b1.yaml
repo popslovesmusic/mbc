@@ -1,15 +1,33 @@
+id: GEN7-8670
+location: genesis-7/why-curvature-gives-gravity::vi-uniqueness-axiom::axiom-dc-13-uniqueness-of-deviational-field-equations::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 691-701
+heading: '**Axiom DC-13 — Uniqueness of Deviational Field Equations**'
+parent_heading: '**VI. UNIQUENESS AXIOM**'
 block_type: paragraph
-concepts:
-- unique
-- δ
-- μ
-- ν
 excerpt: No other second-order, divergence-free tensor can be constructed solely from
   δ-curvature that is compatible with the δ-geometry axioms, coherence, and functoriality.
   Therefore the only consistent fiel...
-heading: '**Axiom DC-13 — Uniqueness of Deviational Field Equations**'
-id: GEN7-8670
-lines: 691-701
-location: genesis-7/why-curvature-gives-gravity::vi-uniqueness-axiom::axiom-dc-13-uniqueness-of-deviational-field-equations::b1
-parent_heading: '**VI. UNIQUENESS AXIOM**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- δ-geometry
+- IGSOA
+- μ
+- ν
+- κ
+- divergence-free
+- second-order
+- δ-curvature
+- unique
+aliases:
+- Bk632os
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.94915254237288
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

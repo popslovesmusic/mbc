@@ -1,13 +1,31 @@
+id: GEN19-5995
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-higher-order-dependent-operators::3-lambda-abstraction-λxpx::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1747-1757
+heading: '**3\. Lambda Abstraction — λx.P(x)**'
+parent_heading: '**III. HIGHER-ORDER / DEPENDENT OPERATORS**'
 block_type: paragraph
-concepts:
-- Θ
-- λ
 excerpt: '(semantic function building) Polarity of λ-term is the polarity-preservation
   property: Θ(λx.P(x))=+1    iff    ∀x, Θ(P(x))=+1.Θ(\\lambda x.P(x)) \= \+1\\;\\;
   \\text{iff}\\;\\; \\forall x,\\, Θ(P(x))=+...'
-heading: '**3\. Lambda Abstraction — λx.P(x)**'
-id: GEN19-5995
-lines: 1747-1757
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-higher-order-dependent-operators::3-lambda-abstraction-λxpx::b1
-parent_heading: '**III. HIGHER-ORDER / DEPENDENT OPERATORS**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Θ
+- Polarity
+- λ
+- polarity-preservation
+- ∀
+aliases:
+- Bk019sf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.620689655172415
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

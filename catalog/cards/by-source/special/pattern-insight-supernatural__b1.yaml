@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts:
-- not
-excerpt: 'Pattern insight is: * cognitive * logical'
-heading: '**⭐ Pattern Insight ≠ Supernatural**'
 id: SPEC-11255
-lines: 5530-5564
 location: special/specil::pattern-insight-supernatural::b1
 source: special\specil.md
+lines: 5530-5564
+heading: '**⭐ Pattern Insight ≠ Supernatural**'
+block_type: paragraph
+excerpt: 'Pattern insight is: * cognitive * logical'
+concepts:
+- non-causal
+- not
+aliases:
+- Bk159pi
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 3.9215686274509802
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,16 +1,29 @@
-block_type: paragraph
-concepts:
-- Θ
-- Π
-- Σ
-- Φ
-- δ
-excerpt: Because the MBC operator set (δ, Φ, Π, Θ, ΣΣₐ) is already inherently topological,
-  not statistical. ---
-heading: Yes — and it will actually work better for MBC than an LLM would.
 id: GEN19-6091
-lines: 846-849
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::yes-you-can-build-a-router-neural-network-that-implements-mbc-without-an-llm::yes-and-it-will-actually-work-better-for-mbc-than-an-llm-would::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 846-849
+heading: Yes — and it will actually work better for MBC than an LLM would.
 parent_heading: ✅ YES — You Can Build a “Router Neural Network” That Implements MBC
   Without an LLM
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+block_type: paragraph
+excerpt: Because the MBC operator set (δ, Φ, Π, Θ, ΣΣₐ) is already inherently topological,
+  not statistical. ---
+concepts:
+- MBC
+- Σ
+- Θ
+- Π
+- δ
+- Φ
+aliases:
+- Bk120bt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 37.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

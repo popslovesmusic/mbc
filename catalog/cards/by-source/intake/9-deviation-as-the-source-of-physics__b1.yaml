@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Every branch of physics derives from δ:'
-heading: '**9\. Deviation as the Source of Physics**'
 id: INTK-10139
-lines: 833-835
 location: intake/meta-genesis-physical-interpretation-papers::9-deviation-as-the-source-of-physics::b1
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 833-835
+heading: '**9\. Deviation as the Source of Physics**'
+block_type: paragraph
+excerpt: 'Every branch of physics derives from δ:'
+concepts:
+- δ
+aliases:
+- Bk541eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

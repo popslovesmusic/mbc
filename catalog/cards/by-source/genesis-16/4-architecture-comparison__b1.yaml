@@ -1,14 +1,31 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Grid
-- Mixing Unit
-- Typed Box
-- Π
-- δ
-excerpt: 'Your architecture: 1. Input 2. Box Grid'
-heading: '**⭐ 4\. Architecture Comparison**'
 id: GEN16-3880
-lines: 1907-1935
 location: genesis-16/untitled-document::4-architecture-comparison::b1
 source: genesis-16\Untitled_document.md
+lines: 1907-1935
+heading: '**⭐ 4\. Architecture Comparison**'
+block_type: paragraph
+excerpt: 'Your architecture: 1. Input 2. Box Grid'
+concepts:
+- Box
+- element-for-element
+- Π
+- Π-output
+- δ
+- Mixing Unit
+- Typed Box
+- Box Grid
+aliases:
+- Bk392ya
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

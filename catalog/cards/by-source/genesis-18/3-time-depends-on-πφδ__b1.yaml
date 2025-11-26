@@ -1,15 +1,30 @@
+id: GEN18-5291
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::sealed-axiom-box-the-δ-genesis-axiom::sealed-consequences::3-time-depends-on-πφδ::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2083-2087
+heading: '**3\. Time depends on Π(Φ(δ))**'
+parent_heading: '**Sealed Consequences**'
 block_type: paragraph
-concepts:
-- tertiary
-- Π
-- Φ
-- δ
-- τ
 excerpt: τ=Π(Φ(δ)).\\tau \= \\Pi(\\Phi(\\delta)).τ=Π(Φ(δ)). Time is a **tertiary**
   consequence of δ.
-heading: '**3\. Time depends on Π(Φ(δ))**'
-id: GEN18-5291
-lines: 2083-2087
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::sealed-axiom-box-the-δ-genesis-axiom::sealed-consequences::3-time-depends-on-πφδ::b1
-parent_heading: '**Sealed Consequences**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- δ
+- τ
+- Π
+- Φ
+- tertiary
+aliases:
+- Bk261tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.31578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

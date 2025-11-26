@@ -1,17 +1,37 @@
+id: GEN4-7606
+location: genesis-4/meta-physics-axiom-box::step-1-the-category-genesis-is-free-on-δ::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 245-268
+heading: '**Step 1 — The Category Genesis Is Free on δ**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Genesis Axiom Box
-- Thus Genesis
-- Universal Property
-- Ψ
-- δ
 excerpt: 'By construction of the Genesis Axiom Box: * Objects of Genesis\\mathbf{Genesis}Genesis
   are: Obj(Genesis)={δnΨ0∣n∈N}\\mathrm{Obj}(\\mathbf{Genesis}) \= \\{ \\delta^n\\Psi\_0
   \\mid n \\in \\mathbb{N} \\...'
-heading: '**Step 1 — The Category Genesis Is Free on δ**'
-id: GEN4-7606
-lines: 245-268
-location: genesis-4/meta-physics-axiom-box::step-1-the-category-genesis-is-free-on-δ::b1
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- δ
+- Ψ
+- →
+- δn
+- ∈
+- Axiom
+- free category on a single generator δ
+- Box
+- Universal Property
+- Genesis Axiom Box
+- Thus Genesis
+aliases:
+- Bk284ct
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.832298136645963
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

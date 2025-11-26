@@ -1,11 +1,27 @@
+id: GEN13-2020
+location: genesis-13/meta-math-nuclear-physics::5-next-directions-choose-one::a-full-formal-chapter::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 248-250
+heading: '**(A) Full formal chapter**'
+parent_heading: '**5\. Next Directions (Choose One)**'
 block_type: paragraph
+excerpt: '*“Meta-Math → Nuclear Physics” (20–30 pages)*'
 concepts:
 - Meta-Math
+- →
 - Nuclear Physics
-excerpt: '*“Meta-Math → Nuclear Physics” (20–30 pages)*'
-heading: '**(A) Full formal chapter**'
-id: GEN13-2020
-lines: 248-250
-location: genesis-13/meta-math-nuclear-physics::5-next-directions-choose-one::a-full-formal-chapter::b1
-parent_heading: '**5\. Next Directions (Choose One)**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+aliases:
+- Bk992mm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 42.857142857142854
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

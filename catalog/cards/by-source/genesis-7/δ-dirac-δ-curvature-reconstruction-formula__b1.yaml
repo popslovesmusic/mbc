@@ -1,15 +1,35 @@
+id: GEN7-8674
+location: genesis-7/why-curvature-gives-gravity::δ-dirac-δ-curvature-reconstruction-formula::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 726-734
+heading: '**◼ δ-Dirac → δ-Curvature Reconstruction Formula**'
 block_type: paragraph
-concepts:
-- Axiom
-- Einstein Axiom
-- Meta-Einstein
-- Spectral Triple
-- δ
 excerpt: '*(How the δ-Dirac operator generates the full δ-curvature tensor)* This
   is the *spectral origin of δ-geometry*: **δ-curvature is reconstructed entirely
   from how deviation perturbs the δ-Dirac operator...'
-heading: '**◼ δ-Dirac → δ-Curvature Reconstruction Formula**'
-id: GEN7-8674
-lines: 726-734
-location: genesis-7/why-curvature-gives-gravity::δ-dirac-δ-curvature-reconstruction-formula::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Meta-Einstein
+- δ-geometry
+- Axiom
+- δ-curvature
+- δ-Dirac
+- δ-Spectral
+- δ-EFT
+- Spectral Triple
+- Einstein Axiom
+aliases:
+- Bk886ht
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 20.408163265306122
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

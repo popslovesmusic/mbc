@@ -1,10 +1,31 @@
-block_type: paragraph
-concepts:
-- Π
-- δ
-excerpt: 'Given a δ-map: f:X→Y,f: X\\to Y,f:X→Y, which satisfies:'
-heading: '**6\. Functoriality**'
 id: GEN2-6509
-lines: 485-509
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::6-functoriality::b1
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 485-509
+heading: '**6\. Functoriality**'
+block_type: paragraph
+excerpt: 'Given a δ-map: f:X→Y,f: X\\to Y,f:X→Y, which satisfies:'
+concepts:
+- δ
+- metric-preserving functor
+- metric-preserving
+- Π
+- →
+- δ-map
+- δnY
+- δnX
+aliases:
+- Bk224gm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.594202898550725
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

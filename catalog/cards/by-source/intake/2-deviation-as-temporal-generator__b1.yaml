@@ -1,12 +1,25 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- defined
-- δ
-excerpt: 'Meta-Time is *defined* by the deviation operator: ddT=δ.\boxed{\frac{d}{dΤ}
-  \= \delta.}dTd​=δ. This is the core identity:'
-heading: '**2. Deviation as Temporal Generator**'
 id: INTK-10549
-lines: 48-71
 location: intake/volume-i-core-ontology-and-metagenesis-summary::2-deviation-as-temporal-generator::b1
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 48-71
+heading: '**2. Deviation as Temporal Generator**'
+block_type: paragraph
+excerpt: 'Meta-Time is *defined* by the deviation operator: ddT=δ.\boxed{\frac{d}{dΤ}
+  \= \delta.}dTd​=δ. This is the core identity:'
+concepts:
+- Meta-Time
+- δ
+- →
+- Τ
+aliases:
+- Bk568mt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.0606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,15 +1,36 @@
-block_type: paragraph
-concepts:
-- projections
-- Π
-- Φ
-- δ
-excerpt: 'IGSOA is not a metric-first theory. So testability must come from **projections**:
-  Observable=Π(Φ(δ-structure))\\textbf{Observable} \= \\Pi(\\Phi(\\delta\\text{-structure}))Observable=Π(Φ(δ-structure)...'
+id: GEN11-1151
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::the-igsoa-testability-program::a-general-blueprint-for-extracting-falsifiable-observables-from-δφπ-dynamics::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 826-843
 heading: '***A general blueprint for extracting falsifiable observables from δ–Φ–Π
   dynamics***'
-id: GEN11-1151
-lines: 826-843
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::the-igsoa-testability-program::a-general-blueprint-for-extracting-falsifiable-observables-from-δφπ-dynamics::b1
 parent_heading: '**THE IGSOA TESTABILITY PROGRAM**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+block_type: paragraph
+excerpt: 'IGSOA is not a metric-first theory. So testability must come from **projections**:
+  Observable=Π(Φ(δ-structure))\\textbf{Observable} \= \\Pi(\\Phi(\\delta\\text{-structure}))Observable=Π(Φ(δ-structure)...'
+concepts:
+- IGSOA
+- a δ-mode or δ-curvature configuration
+- δ
+- Π
+- Φ
+- δ-structure
+- realization into geometry via Π
+- phase-locking
+- metric-first
+- δ-curvature
+- every IGSOA prediction
+- δ-mode
+- projections
+aliases:
+- Bk094in
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.696969696969695
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,10 +1,22 @@
+id: GEN3-7417
+location: genesis-3/the-physics-box-diagram::8-outreach-summary-plain-language::δ-is-the-first-spark::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 767-770
+heading: '**δ is the first spark.**'
+parent_heading: '**8\. Outreach Summary (Plain Language)**'
 block_type: paragraph
+excerpt: It is the universe’s ability to *not be perfectly still.* δ is difference.
 concepts:
 - δ
-excerpt: It is the universe’s ability to *not be perfectly still.* δ is difference.
-heading: '**δ is the first spark.**'
-id: GEN3-7417
-lines: 767-770
-location: genesis-3/the-physics-box-diagram::8-outreach-summary-plain-language::δ-is-the-first-spark::b1
-parent_heading: '**8\. Outreach Summary (Plain Language)**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+aliases:
+- Bk823tu
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,32 @@
+id: GEN2-6335
+location: genesis-2/axioms-of-geometry-topos-compatible::6-adjoint-structure-with-δ-geometry::axiom-mm-61-adjointness::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 549-561
+heading: '**Axiom MM-6.1 — Adjointness**'
+parent_heading: '**6\. Adjoint Structure With δ-Geometry**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Φ
-- δ
 excerpt: 'There exists an adjoint pair Φ:δ-Geom⇆Meta-Math:U.\\Phi : \\delta\\text{-Geom}
   \\leftrightarrows \\text{Meta-Math} : U.Φ:δ-Geom⇆Meta-Math:U. * Φ: **promotes geometry
   into active mathematics**'
-heading: '**Axiom MM-6.1 — Adjointness**'
-id: GEN2-6335
-lines: 549-561
-location: genesis-2/axioms-of-geometry-topos-compatible::6-adjoint-structure-with-δ-geometry::axiom-mm-61-adjointness::b1
-parent_heading: '**6\. Adjoint Structure With δ-Geometry**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Meta-Math
+- forgets action and returns to pure geometry
+- Φ
+- promotes geometry into active mathematics
+- δ-Geom
+- δ
+aliases:
+- Bk140te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

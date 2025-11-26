@@ -1,14 +1,30 @@
+id: GEN2-6370
+location: genesis-2/axioms-of-geometry-topos-compatible::2-geometric-dynamic-mapping::21-φ-connection-physical-connection::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 943-949
+heading: '**2.1 Φ-Connection → Physical Connection**'
+parent_heading: '**2\. Geometric / Dynamic Mapping**'
 block_type: paragraph
-concepts:
-- Meta-Dirac
-- Meta-Einstein
-- Φ
 excerpt: P(∇Φ)=∇Meta\\mathcal{P}(\\nabla^\\Phi) \= \\nabla\_{\\text{Meta}}P(∇Φ)=∇Meta​
   This is the connection used in your **Meta-Einstein** and **Meta-Dirac** equations.
   ---
-heading: '**2.1 Φ-Connection → Physical Connection**'
-id: GEN2-6370
-lines: 943-949
-location: genesis-2/axioms-of-geometry-topos-compatible::2-geometric-dynamic-mapping::21-φ-connection-physical-connection::b1
-parent_heading: '**2\. Geometric / Dynamic Mapping**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Meta-Einstein
+- ∇
+- Φ
+- Meta-Dirac
+aliases:
+- Bk265mm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.814814814814813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

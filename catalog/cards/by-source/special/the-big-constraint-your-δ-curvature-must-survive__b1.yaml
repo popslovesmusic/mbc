@@ -1,14 +1,37 @@
+id: SPEC-11426
+location: special/specil::5-if-youd-like-we-can-now-explore::the-big-constraint-your-δ-curvature-must-survive::b1
+source: special\specil.md
+lines: 8884-8896
+heading: '**The big constraint your δ-curvature must survive**'
+parent_heading: '**⭐ 5\. If you''d like, we can now explore:**'
 block_type: paragraph
-concepts:
-- Coincidence
-- looks
-- δ
 excerpt: 'Here’s the hard part: **the AoE axis is suspiciously close to the ecliptic
   / solar-system frame**, which raises the possibility of residual foregrounds or
   systematics. Some analyses find the anomaly w...'
-heading: '**The big constraint your δ-curvature must survive**'
-id: SPEC-11426
-lines: 8884-8896
-location: special/specil::5-if-youd-like-we-can-now-explore::the-big-constraint-your-δ-curvature-must-survive::b1
-parent_heading: '**⭐ 5\. If you''d like, we can now explore:**'
-source: special\specil.md
+concepts:
+- Local-structure coupling
+- δ-curvature
+- foreground-cleaning
+- δ
+- Local-structure
+- local-universe
+- mask-dependent
+- solar-aligned
+- solar-system
+- late-time
+- Coincidence
+aliases:
+- Bk023ht
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.051282051282051
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

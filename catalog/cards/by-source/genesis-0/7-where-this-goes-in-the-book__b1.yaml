@@ -1,18 +1,39 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- Meta-Fractal
-- Meta-Standard-Model
-- Meta-Strings
-- Theorem
-- Tri-Unity
-- Unity Theorem
-- Φ
-- δ
-excerpt: 'This vertex rule sheet directly plugs into: 1. **δ-Boson EFT chapter** 2.
-  **Meta-Fractal CKM/PMNS derivation chapter**'
-heading: '**7\. Where This Goes in the Book**'
 id: GEN0-018
-lines: 205-221
 location: genesis-0/feynman-rules-interaction-vertices::7-where-this-goes-in-the-book::b1
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 205-221
+heading: '**7\. Where This Goes in the Book**'
+block_type: paragraph
+excerpt: 'This vertex rule sheet directly plugs into: 1. **δ-Boson EFT chapter** 2.
+  **Meta-Fractal CKM/PMNS derivation chapter**'
+concepts:
+- Meta-Einstein
+- Tri-Unity
+- Theorem
+- Meta-Einstein curvature chapter
+- Meta-Standard-Model chapter
+- δ
+- δ-Boson EFT chapter
+- Meta-Standard-Model
+- Meta-Fractal
+- Meta-Strings
+- δ-Strings
+- δ-Boson
+- π
+- Φ
+- Unity Theorem
+aliases:
+- Bk092tv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 34.883720930232556
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

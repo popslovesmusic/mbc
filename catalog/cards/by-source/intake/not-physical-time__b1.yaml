@@ -1,11 +1,24 @@
+id: INTK-10804
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::definition-of-meta-time-τ::not-physical-time::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2446-2448
+heading: Not Physical Time
+parent_heading: Definition of Meta-Time (τ)
 block_type: paragraph
-concepts:
-- Meta-Time
 excerpt: Meta-Time is **not physical time** (t) and not coordinate within emergent
   spacetime.
-heading: Not Physical Time
-id: INTK-10804
-lines: 2446-2448
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::definition-of-meta-time-τ::not-physical-time::b1
-parent_heading: Definition of Meta-Time (τ)
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- not physical time
+aliases:
+- Bk221mt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

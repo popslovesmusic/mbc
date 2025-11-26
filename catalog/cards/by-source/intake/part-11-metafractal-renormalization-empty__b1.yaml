@@ -1,20 +1,34 @@
+id: INTK-10936
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-iii-metaphysics-fields-particles-renormalization-partially-complete::part-11-metafractal-renormalization-empty::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 191-214
+heading: '**Part 11: MetaFractal Renormalization** ⚠️ **EMPTY**'
+parent_heading: '**Volume III: MetaPhysics, Fields, Particles, Renormalization** ⚠️
+  Partially Complete'
 block_type: paragraph
+excerpt: '**Status:** Directory exists, no content **Impact:** MEDIUM - MFR paper
+  in Part 10 needs expansion **Note:** Meta-Fractal_Renormalization.md exists in Part
+  10 but needs dedicated treatment'
 concepts:
-- Anomalous Dimensions
-- Beta Functions
-- Fixed Points
 - Meta-Framework
 - Missing Encyclopedia Definitions
 - Renormalization Group Flow
 - Scale Invariance Breaking
+- Anomalous Dimensions
+- Beta Functions
 - Should Contain
-excerpt: '**Status:** Directory exists, no content **Impact:** MEDIUM - MFR paper
-  in Part 10 needs expansion **Note:** Meta-Fractal_Renormalization.md exists in Part
-  10 but needs dedicated treatment'
-heading: '**Part 11: MetaFractal Renormalization** ⚠️ **EMPTY**'
-id: INTK-10936
-lines: 191-214
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-iii-metaphysics-fields-particles-renormalization-partially-complete::part-11-metafractal-renormalization-empty::b1
-parent_heading: '**Volume III: MetaPhysics, Fields, Particles, Renormalization** ⚠️
-  Partially Complete'
-source: intake\Volume_Structure_Gap_Analysis.md
+- Fixed Points
+aliases:
+- Bk037sd
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.30232558139535
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

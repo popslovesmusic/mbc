@@ -1,12 +1,30 @@
+id: GEN3-7404
+location: genesis-3/the-physics-box-diagram::2-curvature-in-δ-geometry-and-φ-geometry::axiom-22-φ-curvature::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 591-599
+heading: '**Axiom 2.2 (Φ-Curvature)**'
+parent_heading: '**2\. Curvature in δ-Geometry and Φ-Geometry**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'The Φ-layer admits a curvature operator: RΦ=\[∇Φ,∇Φ\],\\mathcal{R}\_\\Phi
   \= \[\\nabla\_\\Phi, \\nabla\_\\Phi\],RΦ​=\[∇Φ​,∇Φ​\], encoding geometric content:
   adjacency coherence, proto-metric formation...'
-heading: '**Axiom 2.2 (Φ-Curvature)**'
-id: GEN3-7404
-lines: 591-599
-location: genesis-3/the-physics-box-diagram::2-curvature-in-δ-geometry-and-φ-geometry::axiom-22-φ-curvature::b1
-parent_heading: '**2\. Curvature in δ-Geometry and Φ-Geometry**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Φ
+- ∇
+- proto-metric
+- Φ-layer
+aliases:
+- Bk621tl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

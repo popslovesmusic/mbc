@@ -1,11 +1,28 @@
+id: GEN3-7559
+location: genesis-3/the-tri-unity-theorem::iv-formal-proof-sketch::step-3-curvature-compatibility::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1063-1075
+heading: '**Step 3: Curvature compatibility**'
+parent_heading: '**IV. Formal Proof Sketch**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'δ-curvature is the commutator: Rδ=\[δ,δ\].R\_\\delta \= \[\\delta,\\delta\].Rδ​=\[δ,δ\].
   Apply functoriality:'
-heading: '**Step 3: Curvature compatibility**'
-id: GEN3-7559
-lines: 1063-1075
-location: genesis-3/the-tri-unity-theorem::iv-formal-proof-sketch::step-3-curvature-compatibility::b1
-parent_heading: '**IV. Formal Proof Sketch**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- δ
+- ι
+- δ-curvature
+aliases:
+- Bk491ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

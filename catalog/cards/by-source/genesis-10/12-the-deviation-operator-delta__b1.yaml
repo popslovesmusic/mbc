@@ -1,17 +1,32 @@
+id: GEN10-950
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-i-the-ontological-foundations::12-the-deviation-operator-delta::b1
+source: genesis-10\research_overview.md
+lines: 34-43
+heading: '**1.2 The Deviation Operator ($\\delta$)**'
+parent_heading: '**Part I: The Ontological Foundations**'
 block_type: equation
-concepts:
-- Deviation Operator
-- First Action
-- Meta-Genesis
-- Operator
-- Ψ
-- δ
 excerpt: The collapse of $\\Psi\_0$ is formalized by the **Deviation Operator ($\\delta$)**.
   This operator represents the fundamental act of distinction. It transforms the state
   of stillness into a state of de...
-heading: '**1.2 The Deviation Operator ($\\delta$)**'
-id: GEN10-950
-lines: 34-43
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-i-the-ontological-foundations::12-the-deviation-operator-delta::b1
-parent_heading: '**Part I: The Ontological Foundations**'
-source: genesis-10\research_overview.md
+concepts:
+- Meta-Genesis
+- Deviation
+- Operator
+- →
+- δ
+- Ψ
+- Deviation Operator
+- First Action
+- Ψ₀
+aliases:
+- Bk592tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

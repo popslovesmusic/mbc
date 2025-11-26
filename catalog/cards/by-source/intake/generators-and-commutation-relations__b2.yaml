@@ -1,10 +1,25 @@
+id: INTK-10516
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::formal-definition::generators-and-commutation-relations::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1949-1957
+heading: Generators and Commutation Relations
+parent_heading: Formal Definition
 block_type: paragraph
-concepts: []
 excerpt: 'The core of $\mathcal{G}_{369}$ is defined by its cyclic commutation relations:
   ``` [J_3, J_6] = i J_9'
-heading: Generators and Commutation Relations
-id: INTK-10516
-lines: 1949-1957
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::formal-definition::generators-and-commutation-relations::b2
-parent_heading: Formal Definition
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- deviation-phase
+aliases:
+- Bk320tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 1.8181818181818181
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

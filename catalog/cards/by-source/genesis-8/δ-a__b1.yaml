@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Produces adjacency graphs with fractal edge patterns.
-heading: '**δ → A**'
 id: GEN8-8804
-lines: 566-568
 location: genesis-8/meta-time-geometry-and-temporal-projection::5-spectral-consequences::δ-a::b1
-parent_heading: '**5\. SPECTRAL CONSEQUENCES**'
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 566-568
+heading: '**δ → A**'
+parent_heading: '**5\. SPECTRAL CONSEQUENCES**'
+block_type: paragraph
+excerpt: Produces adjacency graphs with fractal edge patterns.
+aliases:
+- Bk642pa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

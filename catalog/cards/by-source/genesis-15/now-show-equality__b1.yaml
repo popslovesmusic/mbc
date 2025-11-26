@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Expand the two sides.
-heading: '**Now Show Equality**'
 id: GEN15-3404
-lines: 426-428
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-proof-of-naturality::now-show-equality::b1
-parent_heading: '**7\. Proof of Naturality**'
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 426-428
+heading: '**Now Show Equality**'
+parent_heading: '**7\. Proof of Naturality**'
+block_type: paragraph
+excerpt: Expand the two sides.
+aliases:
+- Bk255et
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

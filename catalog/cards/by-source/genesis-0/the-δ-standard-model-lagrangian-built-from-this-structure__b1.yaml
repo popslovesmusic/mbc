@@ -1,10 +1,23 @@
+id: GEN0-156
+location: genesis-0/feynman-rules-interaction-vertices::if-you-want-next::the-δ-standard-model-lagrangian-built-from-this-structure::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 2320-2325
+heading: '**✔ The δ-standard-model Lagrangian built from this structure**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
-concepts: []
 excerpt: Which one should we generate next? Is this conversation helpful so far? ChatGPT
   can make mistakes. Check important info.
-heading: '**✔ The δ-standard-model Lagrangian built from this structure**'
-id: GEN0-156
-lines: 2320-2325
-location: genesis-0/feynman-rules-interaction-vertices::if-you-want-next::the-δ-standard-model-lagrangian-built-from-this-structure::b1
-parent_heading: '**If you want next:**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+aliases:
+- Bk577wo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

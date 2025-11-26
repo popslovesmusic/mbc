@@ -1,11 +1,31 @@
+id: INTK-10557
+location: intake/volume-i-core-ontology-and-metagenesis-summary::7-retrocausality-and-bidirectional-meta-time::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 200-227
+heading: '**7. Retrocausality and Bidirectional Meta-Time**'
 block_type: paragraph
+excerpt: 'Meta-Time is **not time-oriented.** Physical arrows arise only after projection.
+  δ generates a group action:'
 concepts:
 - Meta-Time
 - δ
-excerpt: 'Meta-Time is **not time-oriented.** Physical arrows arise only after projection.
-  δ generates a group action:'
-heading: '**7. Retrocausality and Bidirectional Meta-Time**'
-id: INTK-10557
-lines: 200-227
-location: intake/volume-i-core-ontology-and-metagenesis-summary::7-retrocausality-and-bidirectional-meta-time::b1
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+- Τ
+- time-oriented
+- time-symmetry
+- retrocausal solutions exist
+- δe
+aliases:
+- Bk558mt
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.29032258064516
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

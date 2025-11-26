@@ -1,12 +1,28 @@
+id: GEN13-2410
+location: genesis-13/the-weight-of-light::2-lemmas::lemma-l2-φ-is-the-unique-dynamical-extension::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 2031-2038
+heading: '**Lemma L2 — Φ is the Unique Dynamical Extension**'
+parent_heading: '**2\. Lemmas**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Given δ : G0→M \\mathcal{G}\_0 \\to \\mathcal{M}G0​→M, the universal extension
   of δ to Physics goes through Φ: Φ=Lanδ(idM).\\Phi \= \\mathsf{Lan}\_\\delta(\\mathrm{id}\_{\\mathcal{M}}).Φ=Lanδ​(idM​).'
-heading: '**Lemma L2 — Φ is the Unique Dynamical Extension**'
-id: GEN13-2410
-lines: 2031-2038
-location: genesis-13/the-weight-of-light::2-lemmas::lemma-l2-φ-is-the-unique-dynamical-extension::b1
-parent_heading: '**2\. Lemmas**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- Φ
+- →
+aliases:
+- Bk411gm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

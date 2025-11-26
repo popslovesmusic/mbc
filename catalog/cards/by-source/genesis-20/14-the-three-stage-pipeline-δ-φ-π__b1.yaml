@@ -1,15 +1,35 @@
+id: GEN20-6688
+location: genesis-20/mbc-40-documentaitio-1::14-the-three-stage-pipeline-δ-φ-π::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 411-431
+heading: '1.4 The Three-Stage Pipeline: δ → Φ → Π'
 block_type: paragraph
-concepts:
-- "Cohesion  \n   The"
-- "Evaluation  \n   The"
-- Π
-- Φ
-- δ
 excerpt: 'One of the most important ideas in MBC-4.0 is the three-stage progression
   that every box and every reasoning chain follows: 1. δ — Deviation A perturbation
   breaks the perfect symmetry. Something “begi...'
-heading: '1.4 The Three-Stage Pipeline: δ → Φ → Π'
-id: GEN20-6688
-lines: 411-431
-location: genesis-20/mbc-40-documentaitio-1::14-the-three-stage-pipeline-δ-φ-π::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- →
+- Π
+- δ
+- Φ
+- Deviation
+- MBC
+- category-theoretic
+- three-stage
+- "Evaluation  \n   The"
+- "Cohesion  \n   The"
+aliases:
+- Bk715ot
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.620689655172415
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

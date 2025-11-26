@@ -1,10 +1,23 @@
+id: GEN8-8817
+location: genesis-8/meta-time-geometry-and-temporal-projection::2-meta-time-in-a-monistic-ontology::21-what-meta-time-is::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 800-814
+heading: '**2.1 What Meta-Time Is**'
+parent_heading: '**2\. Meta-Time in a Monistic Ontology**'
 block_type: paragraph
+excerpt: 'Meta-Time is: * not a substance * not a dimension'
 concepts:
 - Meta-Time
-excerpt: 'Meta-Time is: * not a substance * not a dimension'
-heading: '**2.1 What Meta-Time Is**'
-id: GEN8-8817
-lines: 800-814
-location: genesis-8/meta-time-geometry-and-temporal-projection::2-meta-time-in-a-monistic-ontology::21-what-meta-time-is::b1
-parent_heading: '**2\. Meta-Time in a Monistic Ontology**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+- ordering principle
+aliases:
+- Bk517mt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,25 @@
+id: GEN12-1618
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-φ-π-projection-to-geometry::axiom-π6-uniqueness-of-projection::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1331-1351
+heading: '**Axiom Π6 (Uniqueness of Projection).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Φ → Π (Projection to Geometry) ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'No alternate functor Π′\\Pi''Π′ from Φ to 𝔾𝑒𝑜𝑚 exists that preserves: *
   spectral ordering, * adjacency,'
-heading: '**Axiom Π6 (Uniqueness of Projection).**'
-id: GEN12-1618
-lines: 1331-1351
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-φ-π-projection-to-geometry::axiom-π6-uniqueness-of-projection::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Φ → Π (Projection to Geometry) ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- δ
+- Φ
+aliases:
+- Bk180af
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.317073170731707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'It captures: * reasoning * semantics'
-heading: It’s expressive
 id: GEN20-6825
-lines: 2187-2195
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::610-why-δ-φ-π-works-so-well::its-expressive::b1
-parent_heading: 6.10 Why δ → Φ → Π Works So Well
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2187-2195
+heading: It’s expressive
+parent_heading: 6.10 Why δ → Φ → Π Works So Well
+block_type: paragraph
+excerpt: 'It captures: * reasoning * semantics'
+aliases:
+- Bk380cr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

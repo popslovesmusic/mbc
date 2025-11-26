@@ -1,12 +1,27 @@
+id: INTK-10526
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::physical-implications::5-chromatic-cognition::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1996-1997
+heading: 5. Chromatic Cognition
+parent_heading: Physical Implications
 block_type: paragraph
-concepts:
-- Chromatic Cognition Framework
 excerpt: In the **Chromatic Cognition Framework**, the $\mathcal{G}_{369}$ underlies
   the 12-mode universal resonance lattice, mapping phonemes, pitch, and color to fundamental
   deviation harmonies.
-heading: 5. Chromatic Cognition
-id: INTK-10526
-lines: 1996-1997
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::physical-implications::5-chromatic-cognition::b2
-parent_heading: Physical Implications
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Chromatic Cognition Framework
+aliases:
+- Bk591tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.8461538461538463
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

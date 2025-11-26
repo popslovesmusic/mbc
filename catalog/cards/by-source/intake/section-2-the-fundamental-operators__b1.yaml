@@ -1,19 +1,39 @@
+id: INTK-9679
+location: intake/axioms-geometry::section-2-the-fundamental-operators::b1
+source: intake\Axioms-geometry.md
+lines: 477-489
+heading: '**Section 2 — The Fundamental Operators**'
 block_type: table
+excerpt: '**Result:** All “operators” in Meta-Math correspond to “breakings of potential
+  symmetry” in Meta-Genesis. ---'
 concepts:
-- Adjacency
-- Compatibility Condition
-- Curvature
-- Genesis Interpretation
-- Math Interpretation
 - Meta-Genesis
 - Meta-Math
 - Meta-Time
-- Operator
+- Adjacency
+- Curvature
 - δ
-excerpt: '**Result:** All “operators” in Meta-Math correspond to “breakings of potential
-  symmetry” in Meta-Genesis. ---'
-heading: '**Section 2 — The Fundamental Operators**'
-id: INTK-9679
-lines: 477-489
-location: intake/axioms-geometry::section-2-the-fundamental-operators::b1
-source: intake\Axioms-geometry.md
+- Deviation
+- Operator
+- second-order
+- Riemann-like
+- δ-iterations
+- δ-curvature
+- Compatibility Condition
+- Genesis Interpretation
+- δ-flow
+aliases:
+- Bk259og
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.74074074074074
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

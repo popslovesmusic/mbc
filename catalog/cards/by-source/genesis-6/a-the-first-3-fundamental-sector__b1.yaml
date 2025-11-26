@@ -1,10 +1,30 @@
+id: GEN6-8345
+location: genesis-6/spectral-triple-axiom-box-sealed-version::4-physical-meaning-of-the-blocks::a-the-first-3-fundamental-sector::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1204-1220
+heading: '**A: The First 3 (Fundamental Sector)**'
+parent_heading: '**4\. Physical Meaning of the Blocks**'
 block_type: paragraph
+excerpt: 'These are your: * δ-Higgs * δ-scalar (inflaton-like)'
 concepts:
 - δ
-excerpt: 'These are your: * δ-Higgs * δ-scalar (inflaton-like)'
-heading: '**A: The First 3 (Fundamental Sector)**'
-id: GEN6-8345
-lines: 1204-1220
-location: genesis-6/spectral-triple-axiom-box-sealed-version::4-physical-meaning-of-the-blocks::a-the-first-3-fundamental-sector::b1
-parent_heading: '**4\. Physical Meaning of the Blocks**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+- δ-Higgs
+- →
+- inflaton-like
+- δ-adjacency
+- δ-scalar
+aliases:
+- Bk655ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.35483870967742
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

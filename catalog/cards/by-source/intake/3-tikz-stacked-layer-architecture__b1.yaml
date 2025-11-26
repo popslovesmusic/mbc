@@ -1,21 +1,37 @@
+id: INTK-9702
+location: intake/axioms-geometry::tikz-latex-paper-ready-geometry-stack::3-tikz-stacked-layer-architecture::b1
+source: intake\Axioms-geometry.md
+lines: 815-864
+heading: '**3\) TikZ: Stacked-Layer Architecture**'
+parent_heading: '**TikZ (LaTeX) — Paper-Ready Geometry Stack**'
 block_type: paragraph
+excerpt: '`\begin{tikzpicture}[` `box/.style={draw, rounded corners, thick, align=center,
+  minimum width=11cm, minimum height=1.2cm},` `arrow/.style={->, thick}`'
 concepts:
-- Axiom
-- Classical Physics
-- Deviation Necessity
-- Deviation Operator
-- Deviational Geometry
-- Einstein Dynamics
+- Deviation
 - Meta-Einstein
 - Meta-Genesis
 - Meta-Math
+- Deviational Geometry
+- Projection
+- Adjacency
+- Curvature
+- Axiom
 - Operator
+- State
+- operator-free
+- torsion-free
 - Zero-State
-excerpt: '`\begin{tikzpicture}[` `box/.style={draw, rounded corners, thick, align=center,
-  minimum width=11cm, minimum height=1.2cm},` `arrow/.style={->, thick}`'
-heading: '**3\) TikZ: Stacked-Layer Architecture**'
-id: INTK-9702
-lines: 815-864
-location: intake/axioms-geometry::tikz-latex-paper-ready-geometry-stack::3-tikz-stacked-layer-architecture::b1
-parent_heading: '**TikZ (LaTeX) — Paper-Ready Geometry Stack**'
-source: intake\Axioms-geometry.md
+- Meta-SM
+aliases:
+- Bk542bt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.225108225108226
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

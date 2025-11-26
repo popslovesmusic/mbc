@@ -1,12 +1,30 @@
+id: GEN1-511
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-δ-axiom-set-minimal-form::axiom-δ1-deviation-existence::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 37-41
+heading: '**Axiom δ1 (Deviation Existence).**'
+parent_heading: '**1\. δ-Axiom Set (Minimal Form)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Deviation exists and is the first permissible operator: ∃ δ : H∖{Ψ0}→H.\\exists\\,\\delta
   \\ : \\ \\mathcal{H}\\setminus\\{\\Psi\_0\\} \\to \\mathcal{H}.∃δ : H∖{Ψ0​}→H.'
-heading: '**Axiom δ1 (Deviation Existence).**'
-id: GEN1-511
-lines: 37-41
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-δ-axiom-set-minimal-form::axiom-δ1-deviation-existence::b1
-parent_heading: '**1\. δ-Axiom Set (Minimal Form)**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- Deviation
+- ∃
+- Ψ
+- δ
+- →
+aliases:
+- Bk341de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.230769230769234
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

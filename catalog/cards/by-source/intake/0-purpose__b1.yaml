@@ -1,13 +1,33 @@
+id: INTK-9760
+location: intake/meta-genesis-core-papers-foundations::the-zero-state-ψ₀-ontology::0-purpose::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 227-244
+heading: '**0\. Purpose**'
+parent_heading: '**The Zero State (Ψ₀) Ontology**'
 block_type: paragraph
-concepts:
-- Axiom
-- The Zero State
-- Ψ
 excerpt: 'The Zero State **Ψ₀** is not “nothing.” It is the **minimal possible informational
   substrate** allowed by the NOT Axiom, existing: * without time,'
-heading: '**0\. Purpose**'
-id: INTK-9760
-lines: 227-244
-location: intake/meta-genesis-core-papers-foundations::the-zero-state-ψ₀-ontology::0-purpose::b1
-parent_heading: '**The Zero State (Ψ₀) Ontology**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- IGSOA
+- unique allowable pre-condition
+- Axiom
+- minimal possible informational substrate
+- State
+- pre-condition
+- Ψ
+- The Zero State
+- Ψ₀
+aliases:
+- Bk040tz
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.307692307692307
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

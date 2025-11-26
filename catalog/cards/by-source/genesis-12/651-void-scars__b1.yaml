@@ -1,13 +1,27 @@
+id: GEN12-1684
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::65-large-scale-structure-lss-predictions::651-void-scars::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2377-2380
+heading: '**6.5.1 Void Scars**'
+parent_heading: '**6.5 Large-Scale Structure (LSS) Predictions**'
 block_type: paragraph
-concepts:
-- not
-- Φ
-- δ
 excerpt: IGSOA predicts long, thin, anomalously deep voids produced by early δ-adjacency
   defects. These are *not* random cosmic variance—they are Φ-projection artifacts.
-heading: '**6.5.1 Void Scars**'
-id: GEN12-1684
-lines: 2377-2380
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::65-large-scale-structure-lss-predictions::651-void-scars::b1
-parent_heading: '**6.5 Large-Scale Structure (LSS) Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Φ-projection
+- IGSOA
+- δ-adjacency
+- δ
+- Φ
+aliases:
+- Bk266ip
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.833333333333336
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

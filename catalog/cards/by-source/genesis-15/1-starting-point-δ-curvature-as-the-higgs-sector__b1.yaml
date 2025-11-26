@@ -1,13 +1,33 @@
+id: GEN15-3139
+location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-reheating-derivation-step-by-step::1-starting-point-δ-curvature-as-the-higgs-sector::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 943-959
+heading: '**1\. Starting Point: δ-curvature as the Higgs sector**'
+parent_heading: '**⟡ δ-Higgs Reheating Derivation (Step-by-Step) ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'We begin with the scalar curvature mode: H(t)≡Π(Φ0(δ(t))).H(t) \\equiv \\Pi(\\Phi\_0(\\delta(t))).H(t)≡Π(Φ0​(δ(t))).
   This is the IGSOA Higgs analog:'
-heading: '**1\. Starting Point: δ-curvature as the Higgs sector**'
-id: GEN15-3139
-lines: 943-959
-location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-reheating-derivation-step-by-step::1-starting-point-δ-curvature-as-the-higgs-sector::b1
-parent_heading: '**⟡ δ-Higgs Reheating Derivation (Step-by-Step) ⟡**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- IGSOA
+- Φ
+- Π
+- δ-inflationary
+- δ-curvature
+- Φ-modes
+- δ-Higgs
+aliases:
+- Bk980bw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.080808080808081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

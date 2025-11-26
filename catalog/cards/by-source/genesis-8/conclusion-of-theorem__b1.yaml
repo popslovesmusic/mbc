@@ -1,27 +1,40 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Chromatic Mode Law
-- Deviational Geometry
-- 'Foundation Layer Seal
-
-
-  Just'
-- Guaranteed
-- Layer
-- Meta-Einstein
-- Mode
-- The Meta
-- Tri-Unity
-- Unity Algebra
-- Φ
-- δ
-excerpt: 'The Meta-Einstein \+ Chromatic Mode Law (ME-δΦ) becomes: * **A derived physical
-  law** * **Not an axiom**'
-heading: '**Conclusion of Theorem**'
 id: GEN8-8975
-lines: 1045-1074
 location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::conclusion-of-theorem::b1
 source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1045-1074
+heading: '**Conclusion of Theorem**'
+block_type: paragraph
+excerpt: 'The Meta-Einstein \+ Chromatic Mode Law (ME-δΦ) becomes: * **A derived physical
+  law** * **Not an axiom**'
+concepts:
+- Meta-Einstein
+- Tri-Unity
+- Deviational Geometry
+- Foundation Layer
+- Chromatic Mode
+- Deviation
+- δ
+- Φ
+- Axiom
+- The minimal closure of Deviational Geometry
+- Theorem
+- Layer
+- Proof
+- Mode
+- Box
+aliases:
+- Bk794tm
+tags:
+- axiom-box
+- proof
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.773195876288657
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

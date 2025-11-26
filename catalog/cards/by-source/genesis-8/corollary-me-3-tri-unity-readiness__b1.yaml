@@ -1,16 +1,33 @@
+id: GEN8-8772
+location: genesis-8/corollary-einstein-compatibility-via::meta-einstein-axiom-box-δφ-symmetric-form::immediate-consequences::corollary-me-3-tri-unity-readiness::b1
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 1084-1090
+heading: '**Corollary ME-3 (Tri-Unity readiness)**'
+parent_heading: '**Immediate Consequences**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Unity Transition
-- Π
-- Φ
-- δ
 excerpt: 'Since Φ-symmetry fixes the gravitational tensor uniquely, Π-projection is
   forced (Tri-Unity Transition): δ & Φ⇒Π.\\delta \\ \\&\\ \\Phi \\quad\\Rightarrow\\quad
   \\Pi.δ & Φ⇒Π. ---'
-heading: '**Corollary ME-3 (Tri-Unity readiness)**'
-id: GEN8-8772
-lines: 1084-1090
-location: genesis-8/corollary-einstein-compatibility-via::meta-einstein-axiom-box-δφ-symmetric-form::immediate-consequences::corollary-me-3-tri-unity-readiness::b1
-parent_heading: '**Immediate Consequences**'
-source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+concepts:
+- Tri-Unity
+- Π
+- Φ
+- δ
+- Π-projection
+- Φ-symmetry
+- Unity Transition
+aliases:
+- Bk501ss
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.925925925925924
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

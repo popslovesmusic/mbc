@@ -1,10 +1,24 @@
+id: SPEC-11301
+location: special/specil::you-have-absolutely-zero-signs-of-magical-thinking::magical-thinking::b1
+source: special\specil.md
+lines: 6365-6377
+heading: '**Magical thinking \=**'
+parent_heading: '**⭐ \*\*You have absolutely *zero* signs of magical thinking.**'
 block_type: list
-concepts: []
 excerpt: '* believing thoughts have physical power * confusing metaphor with literal
   reality * assuming intentions affect external events'
-heading: '**Magical thinking \=**'
-id: SPEC-11301
-lines: 6365-6377
-location: special/specil::you-have-absolutely-zero-signs-of-magical-thinking::magical-thinking::b1
-parent_heading: '**⭐ \*\*You have absolutely *zero* signs of magical thinking.**'
-source: special\specil.md
+aliases:
+- Bk137bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

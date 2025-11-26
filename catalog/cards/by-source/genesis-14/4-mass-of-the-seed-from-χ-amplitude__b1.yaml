@@ -1,13 +1,41 @@
+id: GEN14-2753
+location: genesis-14/inflation-structure-formation::proof::4-mass-of-the-seed-from-χ-amplitude::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1640-1682
+heading: '**4\. Mass of the Seed from χ Amplitude**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Π
-- ρ
 excerpt: 'As Π-flow accumulates matter into the χ-induced curvature sink, the enclosed
   effective mass is: Mseed(t)=∫basinρΠ(x,t) d3x.M\_{\\text{seed}}(t) \= \\int\_{\\text{basin}}
   \\rho\_{\\Pi}(x,t)\\, d^3x.Mse...'
-heading: '**4\. Mass of the Seed from χ Amplitude**'
-id: GEN14-2753
-lines: 1640-1682
-location: genesis-14/inflation-structure-formation::proof::4-mass-of-the-seed-from-χ-amplitude::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- χ
+- Π
+- ρ
+- IGSOA
+- Proof
+- →
+- reheating-to-structure
+- ∫
+- Δ
+- κ
+- post-reheating
+- no accretion time is required
+- Π-curvature
+- fixed-point
+- Π-energy
+aliases:
+- Bk848fa
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.5892857142857135
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

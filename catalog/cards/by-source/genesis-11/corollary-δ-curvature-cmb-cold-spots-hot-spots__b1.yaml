@@ -1,15 +1,37 @@
+id: GEN11-1250
+location: genesis-11/the-adjacency-wave-equation::the-δφπ-functor-projection-theorem-cmb-version::corollary-δ-curvature-cmb-cold-spots-hot-spots::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 179-193
+heading: '**Corollary: δ-Curvature → CMB Cold Spots / Hot Spots**'
+parent_heading: '**The δ→Φ→Π Functor Projection Theorem (CMB Version)**'
 block_type: paragraph
-concepts:
-- functorially
-- Π
-- Φ
-- δ
 excerpt: 'Because Φ extracts δ-harmonic modes, and Π translates them to curvature
   patterns: * **large-scale δ-adjacency defects** ↦ cold spot * **δ-curvature resonance
   bands** ↦ acoustic peaks'
-heading: '**Corollary: δ-Curvature → CMB Cold Spots / Hot Spots**'
-id: GEN11-1250
-lines: 179-193
-location: genesis-11/the-adjacency-wave-equation::the-δφπ-functor-projection-theorem-cmb-version::corollary-δ-curvature-cmb-cold-spots-hot-spots::b1
-parent_heading: '**The δ→Φ→Π Functor Projection Theorem (CMB Version)**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ
+- large-scale δ-adjacency defects
+- δ-curvature resonance bands
+- δ-mode anisotropy
+- δ-echo residuals
+- δ-adjacency
+- δ-curvature
+- large-scale
+- δ-harmonic
+- Π
+- δ-echo
+- δ-mode
+- Φ
+- functorially
+aliases:
+- Bk125be
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.923076923076923
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

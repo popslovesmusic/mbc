@@ -1,11 +1,28 @@
+id: GEN17-4964
+location: genesis-17/key-points::conclusion::b1
+source: genesis-17\Key_Points.md
+lines: 1235-1243
+heading: '**Conclusion**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: '**Π is the unique dependency-connector that stores all causal relationships
   between Boxes, and this stored structure is mathematically equivalent to spacetime
   causality in physics.** QED. ---'
-heading: '**Conclusion**'
-id: GEN17-4964
-lines: 1235-1243
-location: genesis-17/key-points::conclusion::b1
-source: genesis-17\Key_Points.md
+concepts:
+- QED
+- dependency-connector
+- Π
+aliases:
+- Bk442tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

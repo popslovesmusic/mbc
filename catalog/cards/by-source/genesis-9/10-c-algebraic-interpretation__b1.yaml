@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Φ
-- α
-- δ
-- μ
-excerpt: 'From the δ-harmonic C\*-algebra: Hδ=H+⊕H−,\\mathcal{H}\_\\delta \= \\mathcal{H}\_+
-  \\oplus \\mathcal{H}\_-,Hδ​=H+​⊕H−​, with SU(2) acting as fiber-preserving unitaries.'
-heading: '**10\. C\*-Algebraic Interpretation**'
 id: GEN9-9571
-lines: 2358-2377
 location: genesis-9/strong-force::10-c-algebraic-interpretation::b1
 source: genesis-9\strong-force.md
+lines: 2358-2377
+heading: '**10\. C\*-Algebraic Interpretation**'
+block_type: paragraph
+excerpt: 'From the δ-harmonic C\*-algebra: Hδ=H+⊕H−,\\mathcal{H}\_\\delta \= \\mathcal{H}\_+
+  \\oplus \\mathcal{H}\_-,Hδ​=H+​⊕H−​, with SU(2) acting as fiber-preserving unitaries.'
+concepts:
+- δ
+- μ
+- Φ
+- ∇
+- θ
+- ⊕
+- fiber-preserving
+- α
+- δ-harmonic
+aliases:
+- Bk010ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.227272727272728
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

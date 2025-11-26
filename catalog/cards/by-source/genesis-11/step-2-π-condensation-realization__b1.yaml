@@ -1,13 +1,31 @@
+id: GEN11-1138
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::2-the-δ-φ-π-interaction-sequence-formal::step-2-π-condensation-realization::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 650-669
+heading: '**Step 2 – Π: Condensation & Realization**'
+parent_heading: '**2\. The δ → Φ → Π Interaction Sequence (formal)**'
 block_type: paragraph
+excerpt: 'As Π selects a stable, realized spacetime phase, all the Φ-smoothed adjacency
+  becomes: * isotropic * homogeneous'
 concepts:
 - Π
 - Φ
 - δ
-excerpt: 'As Π selects a stable, realized spacetime phase, all the Φ-smoothed adjacency
-  becomes: * isotropic * homogeneous'
-heading: '**Step 2 – Π: Condensation & Realization**'
-id: GEN11-1138
-lines: 650-669
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::2-the-δ-φ-π-interaction-sequence-formal::step-2-π-condensation-realization::b1
-parent_heading: '**2\. The δ → Φ → Π Interaction Sequence (formal)**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+- horizon-scale
+- Π-language
+- Φ-smoothed
+aliases:
+- Bk868ss
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.955223880597014
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

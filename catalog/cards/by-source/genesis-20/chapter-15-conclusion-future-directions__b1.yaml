@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: (unless you want to insert an additional chapter before closing).
-heading: Chapter 15 — Conclusion & Future Directions
 id: GEN20-7042
-lines: 4877-4879
 location: genesis-20/mbc-40-documentaitio-1::conclusion::1410-summary-of-chapter-14::chapter-15-conclusion-future-directions::b1
-parent_heading: 14.10 Summary of Chapter 14
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4877-4879
+heading: Chapter 15 — Conclusion & Future Directions
+parent_heading: 14.10 Summary of Chapter 14
+block_type: paragraph
+excerpt: (unless you want to insert an additional chapter before closing).
+aliases:
+- Bk745uy
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

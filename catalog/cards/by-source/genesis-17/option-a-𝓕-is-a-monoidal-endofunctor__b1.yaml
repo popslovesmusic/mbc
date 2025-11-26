@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: F:BC→BC F:BC→BC
-heading: Option A — 𝓕 is a monoidal endofunctor
 id: GEN17-4640
-lines: 7614-7617
 location: genesis-17/box-calculus::6-now-the-real-question-what-do-you-want-𝓕-to-be::option-a-𝓕-is-a-monoidal-endofunctor::b1
-parent_heading: '⭐ 6\. Now the real question: What do you want 𝓕 to be?'
 source: genesis-17\box_calculus.md
+lines: 7614-7617
+heading: Option A — 𝓕 is a monoidal endofunctor
+parent_heading: '⭐ 6\. Now the real question: What do you want 𝓕 to be?'
+block_type: paragraph
+excerpt: F:BC→BC F:BC→BC
+concepts:
+- →
+aliases:
+- Bk57472
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

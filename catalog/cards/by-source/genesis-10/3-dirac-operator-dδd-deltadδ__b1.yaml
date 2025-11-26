@@ -1,13 +1,31 @@
+id: GEN10-907
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::1-construction-of-the-δ-spectral-triple::3-dirac-operator-dδd-deltadδ::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2678-2694
+heading: '**3\. Dirac operator DδD\_\\deltaDδ​**'
+parent_heading: '**1\. Construction of the δ-Spectral Triple**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Define the δ-Dirac operator by its action on adjacency modes: DδΨ:=δΨ,D\_\\delta
   Ψ := δΨ,Dδ​Ψ:=δΨ, Dδ2Ψ:=δ2Ψ=KWΨ.D\_\\delta^2 Ψ := δ^2Ψ \= \\mathcal{K}\_W Ψ.Dδ2​Ψ:=δ2Ψ=KW​Ψ.
   This unifies:'
-heading: '**3\. Dirac operator DδD\_\\deltaDδ​**'
-id: GEN10-907
-lines: 2678-2694
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::1-construction-of-the-δ-spectral-triple::3-dirac-operator-dδd-deltadδ::b1
-parent_heading: '**1\. Construction of the δ-Spectral Triple**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Ψ
+- δ
+- δ-Dirac
+- δD
+- δ²
+aliases:
+- Bk966dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.462686567164178
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

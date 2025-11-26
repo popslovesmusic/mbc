@@ -1,12 +1,32 @@
+id: GEN6-8408
+location: genesis-6/the-harmonic-spectral-triple::5-compact-resolvent-of-dδd-deltadδ::53-the-resolvent-is-compact::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 668-690
+heading: '**5.3 The resolvent is compact**'
+parent_heading: '**5\. Compact resolvent of DδD\_\\deltaDδ​**'
 block_type: paragraph
+excerpt: 'The resolvent acts as: (Dδ+i)−1ψnmk=1Λnmk+iψnmk.(D\_\\delta+i)^{-1}\\psi\_{nmk}
+  \= \\frac{1}{\\Lambda\_{nmk}+i}\\psi\_{nmk}.(Dδ​+i)−1ψnmk​=Λnmk​+i1​ψnmk​. Since:'
 concepts:
 - Λ
 - δ
-excerpt: 'The resolvent acts as: (Dδ+i)−1ψnmk=1Λnmk+iψnmk.(D\_\\delta+i)^{-1}\\psi\_{nmk}
-  \= \\frac{1}{\\Lambda\_{nmk}+i}\\psi\_{nmk}.(Dδ​+i)−1ψnmk​=Λnmk​+i1​ψnmk​. Since:'
-heading: '**5.3 The resolvent is compact**'
-id: GEN6-8408
-lines: 668-690
-location: genesis-6/the-harmonic-spectral-triple::5-compact-resolvent-of-dδd-deltadδ::53-the-resolvent-is-compact::b1
-parent_heading: '**5\. Compact resolvent of DδD\_\\deltaDδ​**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+- ψ
+- ∑
+- →
+- finite-rank
+- norm-limit
+aliases:
+- Bk709tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.982905982905983
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

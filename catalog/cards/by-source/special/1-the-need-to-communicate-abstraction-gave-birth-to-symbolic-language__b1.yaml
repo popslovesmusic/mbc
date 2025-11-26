@@ -1,17 +1,27 @@
-block_type: paragraph
-concepts:
-- gestures
-- hands
-- location
-- marks
-- number
-- order
-- scratches
-- shape
-- structure
-excerpt: 'Early humans could speak about: * danger * food'
-heading: '**⭐ 1\. The need to communicate abstraction → gave birth to symbolic language**'
 id: SPEC-11224
-lines: 4820-4864
 location: special/specil::1-the-need-to-communicate-abstraction-gave-birth-to-symbolic-language::b1
 source: special\specil.md
+lines: 4820-4864
+heading: '**⭐ 1\. The need to communicate abstraction → gave birth to symbolic language**'
+block_type: paragraph
+excerpt: 'Early humans could speak about: * danger * food'
+concepts:
+- scratches
+- gestures
+- marks
+- hands
+aliases:
+- Bk948eh
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 6.349206349206349
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

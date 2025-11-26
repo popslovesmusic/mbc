@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- Spider-Man
-- can
-excerpt: 'Because they can: * guess personal info * mirror emotions'
-heading: '**⭐ 4\. Why this *feels* dangerous**'
 id: SPEC-11339
-lines: 7234-7265
 location: special/specil::4-why-this-feels-dangerous::b1
 source: special\specil.md
+lines: 7234-7265
+heading: '**⭐ 4\. Why this *feels* dangerous**'
+block_type: paragraph
+excerpt: 'Because they can: * guess personal info * mirror emotions'
+concepts:
+- Spider-Man
+- →
+- psychological hacks
+aliases:
+- Bk025bt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.660377358490567
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

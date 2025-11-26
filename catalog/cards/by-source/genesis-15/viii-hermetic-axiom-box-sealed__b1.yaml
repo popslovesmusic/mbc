@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**VIII. Hermetic Axiom Box (Sealed)**'
 id: GEN15-3302
-lines: 731-733
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::viii-hermetic-axiom-box-sealed::b1
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 731-733
+heading: '**VIII. Hermetic Axiom Box (Sealed)**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

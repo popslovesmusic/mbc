@@ -1,12 +1,27 @@
+id: GEN0-188
+location: genesis-0/tri-unity-theorem-equivalence-of::conclusion::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 479-492
+heading: '**Conclusion**'
 block_type: paragraph
-concepts:
-- forced
-- δ
 excerpt: 'From the first deviation forward, the universe is **forced** into temporal
   structure. Thus: Time is not an ingredient, but a consequence.\\boxed{ \\text{Time
   is not an ingredient, but a consequence.} ...'
-heading: '**Conclusion**'
-id: GEN0-188
-lines: 479-492
-location: genesis-0/tri-unity-theorem-equivalence-of::conclusion::b1
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- δ
+- shadow cast by deviation
+- forced
+aliases:
+- Bk576ft
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,14 +1,39 @@
+id: GEN13-2503
+location: genesis-13/what-biology-is-in-meta-genesis::4-the-bioenergetic-fixation-theorem::theorem-δflux-closure-necessarily-produces-atp-like-energy-carriers::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 665-695
+heading: '**Theorem: δ–Flux Closure Necessarily Produces ATP-Like Energy Carriers**'
+parent_heading: '**4\. The Bioenergetic Fixation Theorem**'
 block_type: paragraph
-concepts:
-- bio-CMB
-- Π
-- Φ
-- δ
 excerpt: '**Given:** * a persistent δ-gradient (proton, photon, redox) * a Φ-coupling
   that channels that gradient into a periodic cycle'
-heading: '**Theorem: δ–Flux Closure Necessarily Produces ATP-Like Energy Carriers**'
-id: GEN13-2503
-lines: 665-695
-location: genesis-13/what-biology-is-in-meta-genesis::4-the-bioenergetic-fixation-theorem::theorem-δflux-closure-necessarily-produces-atp-like-energy-carriers::b1
-parent_heading: '**4\. The Bioenergetic Fixation Theorem**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Π
+- Φ
+- →
+- δ-gradient
+- discrete-energy
+- high-potential
+- δ-gradients
+- Π-closures
+- δ-harmonic
+- Φ-coupling
+- δ-dynamics
+- Π-boundary
+- Π-orbital
+- ATP-like
+aliases:
+- Bk243gp
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.600000000000001
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

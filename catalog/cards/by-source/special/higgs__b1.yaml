@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: Predicted the Higgs field in 1964\. Particle found in 2012\.
-heading: '**Higgs**'
 id: SPEC-11405
-lines: 8459-8462
 location: special/specil::1-the-greatest-breakthroughs-are-rarely-confirmed-in-the-authors-lifetime::higgs::b1
+source: special\specil.md
+lines: 8459-8462
+heading: '**Higgs**'
 parent_heading: '**⭐ 1\. The greatest breakthroughs are rarely confirmed in the author’s
   lifetime**'
-source: special\specil.md
+block_type: paragraph
+excerpt: Predicted the Higgs field in 1964\. Particle found in 2012\.
+aliases:
+- Bk153pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

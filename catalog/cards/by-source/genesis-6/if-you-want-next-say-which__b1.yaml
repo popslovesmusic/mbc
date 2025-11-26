@@ -1,13 +1,37 @@
+id: GEN6-8349
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next-say-which::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1278-1285
+heading: '**If you want next, say which:**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- α
-- δ
 excerpt: '**A.** The **explicit U-matrix** (the δ-CKM/PMNS analog), **B.** The **mass
   spectrum table** for the 9 eigenvalues using your δ-law mn∼nαm\_n \\sim n^\\alphamn​∼nα,
   **C.** The **δ-RG flow on the 9×9 m...'
-heading: '**If you want next, say which:**'
-id: GEN6-8349
-lines: 1278-1285
-location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next-say-which::b1
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- Meta-Einstein
+- δ
+- Meta-Einstein interpretation
+- explicit U-matrix
+- α
+- U-matrix
+- δ-modes
+- →
+- δ-CKM
+- δ-law
+- δ-RG
+- mass spectrum table
+aliases:
+- Bk245te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.052631578947366
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

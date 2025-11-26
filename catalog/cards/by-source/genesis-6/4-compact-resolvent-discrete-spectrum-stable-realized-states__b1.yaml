@@ -1,18 +1,37 @@
+id: GEN6-8385
+location: genesis-6/the-harmonic-spectral-triple::8-final-box-ready-to-insert-into-white-papers::4-compact-resolvent-discrete-spectrum-stable-realized-states::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 356-386
+heading: '**4\. Compact resolvent \= discrete spectrum \= stable realized states**'
+parent_heading: '**8\. Final Box (ready to insert into white papers)**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- The Dirac
-- countable
-- discrete
-- ordered
-- start
-- Ψ
-- δ
 excerpt: 'The Dirac operator requirement: (Dδ+i)−1 compact(D\_\\delta \+ i)^{-1}\\
   \\text{compact}(Dδ​+i)−1 compact is not a technical footnote.'
-heading: '**4\. Compact resolvent \= discrete spectrum \= stable realized states**'
-id: GEN6-8385
-lines: 356-386
-location: genesis-6/the-harmonic-spectral-triple::8-final-box-ready-to-insert-into-white-papers::4-compact-resolvent-discrete-spectrum-stable-realized-states::b1
-parent_heading: '**8\. Final Box (ready to insert into white papers)**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- Meta-Genesis
+- Ψ
+- with finite-multiplicity eigenspaces
+- Theorem
+- finite-multiplicity
+- un-differentiate
+- δ
+- countable
+- discrete
+- locks it in
+- The Dirac
+- ordered
+- Ψ₁
+aliases:
+- Bk606td
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.304347826086957
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

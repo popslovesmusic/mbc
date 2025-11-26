@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- σ
-excerpt: 'Domain and codomain: **σ-Topos (structured geometry)** Nature: **Projection
-  of adjacency into metric form.** Interpretation:'
+id: GEN4-7735
+location: genesis-4/the-adjoint-triple::part-1-the-two-time-functors::2-physical-time-functor::tphysσ-toposσ-toposmathbbt-textphys-sigmatext-topos-rightarrow-sigmatext-topostphysσ-toposσ-topos::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 338-361
 heading: '**TPhys:σ-Topos→σ-Topos\\mathbb{T}\_{\\text{Phys}} : \\sigma\\text{-Topos}
   \\rightarrow \\sigma\\text{-Topos}TPhys​:σ-Topos→σ-Topos**'
-id: GEN4-7735
-lines: 338-361
-location: genesis-4/the-adjoint-triple::part-1-the-two-time-functors::2-physical-time-functor::tphysσ-toposσ-toposmathbbt-textphys-sigmatext-topos-rightarrow-sigmatext-topostphysσ-toposσ-topos::b1
 parent_heading: '**2\. Physical-Time Functor**'
-source: genesis-4\The_Adjoint_Triple.md
+block_type: paragraph
+excerpt: 'Domain and codomain: **σ-Topos (structured geometry)** Nature: **Projection
+  of adjacency into metric form.** Interpretation:'
+concepts:
+- what happens when Meta-Time is pushed through the structuring functor
+- Meta-Time
+- Projection
+- σ
+- →
+- light-cone
+aliases:
+- Bk847da
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.8
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

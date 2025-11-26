@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-- ρ
-excerpt: Φ is a post-stabilization operator only. Φ:V→Vbut only after stabilization
-  Φ:V→Vbut only after stabilization
-heading: ⭐ AXIOM 5 — Transform (Φ) Axiom
 id: GEN17-4269
-lines: 1879-1893
 location: genesis-17/box-calculus::axiom-5-transform-φ-axiom::b1
 source: genesis-17\box_calculus.md
+lines: 1879-1893
+heading: ⭐ AXIOM 5 — Transform (Φ) Axiom
+block_type: paragraph
+excerpt: Φ is a post-stabilization operator only. Φ:V→Vbut only after stabilization
+  Φ:V→Vbut only after stabilization
+concepts:
+- Φ
+- →
+- post-stabilization
+- ρ
+- field-level
+- δ-dynamic
+- δ
+aliases:
+- Bk378ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

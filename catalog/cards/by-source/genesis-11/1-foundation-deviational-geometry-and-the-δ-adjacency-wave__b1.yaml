@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Adjacency in IGSOA is the primitive relational object from which geometry
-  is projected. Deviation δ breaks perfect adjacency symmetry and introduces curvature.
-heading: '**1\. Foundation: Deviational Geometry and the δ-Adjacency Wave**'
 id: GEN11-1315
-lines: 993-996
 location: genesis-11/the-adjacency-wave-equation::1-foundation-deviational-geometry-and-the-δ-adjacency-wave::b1
 source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 993-996
+heading: '**1\. Foundation: Deviational Geometry and the δ-Adjacency Wave**'
+block_type: paragraph
+excerpt: Adjacency in IGSOA is the primitive relational object from which geometry
+  is projected. Deviation δ breaks perfect adjacency symmetry and introduces curvature.
+concepts:
+- Adjacency
+- Deviation
+- IGSOA
+- δ
+aliases:
+- Bk128ai
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

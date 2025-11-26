@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Box
-- Π
-excerpt: Π↛E Π →E
-heading: 5.2 No Π→E reopening (resolution is terminal)
 id: GEN17-4254
-lines: 1626-1633
 location: genesis-17/box-calculus::graph-grammar-for-box-calculus-topology-legal-wiring::5-forbidden-local-patterns-rejection-rules::52-no-πe-reopening-resolution-is-terminal::b1
-parent_heading: 5\. Forbidden Local Patterns (Rejection Rules)
 source: genesis-17\box_calculus.md
+lines: 1626-1633
+heading: 5.2 No Π→E reopening (resolution is terminal)
+parent_heading: 5\. Forbidden Local Patterns (Rejection Rules)
+block_type: paragraph
+excerpt: Π↛E Π →E
+concepts:
+- Π
+- Box
+- →
+aliases:
+- Bk832of
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

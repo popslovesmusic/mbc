@@ -1,20 +1,41 @@
+id: INTK-10911
+location: intake/volume-i-core-ontology-and-metagenesis-summary::7-meta-time-vs-relativistic-time::71-overview-two-different-kinds-of-time::b2
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 4125-4141
+heading: '**7.1 Overview: Two Different Kinds of “Time”**'
+parent_heading: '**7\. Meta-Time vs Relativistic Time**'
 block_type: table
-concepts:
-- Mathematical Object
-- Meta-Geometry
-- Meta-Level
-- Meta-Math
-- Meta-Time
-- Physical Level
-- Relativistic Time
-- δ
-- τ
 excerpt: In the IGSOA framework, **time is not a primitive dimension**. Instead, it
   is a **projection variable** arising from the dynamics of deviation (δ) within the
   Meta-Geometry. This gives rise to two fund...
-heading: '**7.1 Overview: Two Different Kinds of “Time”**'
-id: INTK-10911
-lines: 4125-4141
-location: intake/volume-i-core-ontology-and-metagenesis-summary::7-meta-time-vs-relativistic-time::71-overview-two-different-kinds-of-time::b2
-parent_heading: '**7\. Meta-Time vs Relativistic Time**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- Meta-Math
+- IGSOA
+- δ
+- time is not a primitive dimension
+- τ
+- Meta-Geometry
+- pre-physical
+- Meta-Level
+- δ-updates
+- δ-Flow
+- projection variable
+- Mathematical Object
+- Relativistic Time
+- Physical Level
+aliases:
+- Bk350ti
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.811023622047244
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

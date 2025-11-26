@@ -1,11 +1,32 @@
+id: GEN15-3390
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-categorical-setup::11-the-base-category-𝒞-δadj::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 256-267
+heading: '**1.1 The Base Category 𝒞 \= δAdj**'
+parent_heading: '**1\. Categorical Setup**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Objects: δ-adjacency configurations Δ\\DeltaΔ (δ-modes, harmonic data, curvature
   seeds). Morphisms: refinement maps f:Δ→Δ′f: \\Delta \\to \\Delta''f:Δ→Δ′'
-heading: '**1.1 The Base Category 𝒞 \= δAdj**'
-id: GEN15-3390
-lines: 256-267
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-categorical-setup::11-the-base-category-𝒞-δadj::b1
-parent_heading: '**1\. Categorical Setup**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- Δ
+- δ
+- →
+- Genesis-level
+- δ-adjacency
+- mode-mixing
+- δ-modes
+aliases:
+- Bk322oa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.27906976744186
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

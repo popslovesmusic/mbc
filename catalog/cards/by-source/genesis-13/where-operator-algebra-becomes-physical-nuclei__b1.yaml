@@ -1,11 +1,27 @@
+id: GEN13-2012
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-physics-projection::where-operator-algebra-becomes-physical-nuclei::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 137-141
+heading: '***Where operator algebra becomes physical nuclei***'
+parent_heading: '**3\. Π-Layer (Physics Projection)**'
 block_type: paragraph
+excerpt: Π takes Φ-structures and renders them as physical nuclear phenomena. ---
 concepts:
+- Φ-structures
 - Π
 - Φ
-excerpt: Π takes Φ-structures and renders them as physical nuclear phenomena. ---
-heading: '***Where operator algebra becomes physical nuclei***'
-id: GEN13-2012
-lines: 137-141
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-physics-projection::where-operator-algebra-becomes-physical-nuclei::b1
-parent_heading: '**3\. Π-Layer (Physics Projection)**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+aliases:
+- Bk358ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

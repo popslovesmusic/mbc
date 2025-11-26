@@ -1,13 +1,38 @@
+id: GEN15-3436
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-from-operad-to-monad-in-categories::theorem-1-lurie-higher-algebra::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 853-881
+heading: '**Theorem 1 (Lurie, Higher Algebra).**'
+parent_heading: '**🔷 1\. From Operad to Monad (in ∞-categories)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Every ∞-operad 𝒪 whose algebras live in 𝒞 induces a monad T on 𝒞 via: T(X)=U(F(X))T(X)
   \= U(F(X))T(X)=U(F(X)) where:'
-heading: '**Theorem 1 (Lurie, Higher Algebra).**'
-id: GEN15-3436
-lines: 853-881
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-from-operad-to-monad-in-categories::theorem-1-lurie-higher-algebra::b1
-parent_heading: '**🔷 1\. From Operad to Monad (in ∞-categories)**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- δ-harmonic substitution
+- δ-operadic compositions
+- →
+- δ-mode trees
+- inflationary enlargement Φ
+- δ-harmonic
+- δ-operadic
+- Π
+- Φ
+- δ-mode
+- ∞
+- projection Π
+aliases:
+- Bk342eo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.829787234042554
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

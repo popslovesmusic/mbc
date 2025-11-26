@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Each semantic state determines a curvature: δ:V→R≥0 δ:V→R'
-heading: 🔷 AXIOM 3 – Curvature / Deviation Scalar
 id: GEN17-4779
-lines: 9292-9308
 location: genesis-17/box-calculus::axiom-3-curvature-deviation-scalar::b1
 source: genesis-17\box_calculus.md
+lines: 9292-9308
+heading: 🔷 AXIOM 3 – Curvature / Deviation Scalar
+block_type: paragraph
+excerpt: 'Each semantic state determines a curvature: δ:V→R≥0 δ:V→R'
+concepts:
+- δ
+- ≥
+- →
+aliases:
+- Bk609es
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

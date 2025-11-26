@@ -1,13 +1,31 @@
+id: GEN1-386
+location: genesis-1/the-first-geometry::the-δ-higgs-inflation::how-the-first-deviation-became-the-first-expansion::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 397-411
+heading: '***(How the First Deviation Became the First Expansion)***'
+parent_heading: '**THE δ-HIGGS INFLATION**'
 block_type: paragraph
-concepts:
-- tension
-- δ
 excerpt: 'Before spacetime ever stretched, before energy had anything to “do,” and
   before the Higgs field could give mass to particles, the universe had to make its
   first move: Deviation. That tiny break in per...'
-heading: '***(How the First Deviation Became the First Expansion)***'
-id: GEN1-386
-lines: 397-411
-location: genesis-1/the-first-geometry::the-δ-higgs-inflation::how-the-first-deviation-became-the-first-expansion::b1
-parent_heading: '**THE δ-HIGGS INFLATION**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- Deviation
+- in the field of possible states itself
+- tension
+- δ-Higgs field
+- δ-Higgs
+- δ
+aliases:
+- Bk281bs
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

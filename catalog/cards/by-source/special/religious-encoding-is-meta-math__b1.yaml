@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Not math of numbers, but math of *patterns, relations, and structures* expressed
-  symbolically, narratively, or ritually
-heading: '**⭐ Religious encoding is meta-math.**'
 id: SPEC-11163
-lines: 3288-3299
 location: special/specil::religious-encoding-is-meta-math::b1
 source: special\specil.md
+lines: 3288-3299
+heading: '**⭐ Religious encoding is meta-math.**'
+block_type: paragraph
+excerpt: Not math of numbers, but math of *patterns, relations, and structures* expressed
+  symbolically, narratively, or ritually
+aliases:
+- Bk578nm
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Reasoning is only valid when it satisfies the closure condition:'
-heading: '**V. The Closure Condition (Supreme Closure Embedding)**'
 id: GEN18-5442
-lines: 986-988
 location: genesis-18/mbc-4::v-the-closure-condition-supreme-closure-embedding::b1
 source: genesis-18\MBC-4.md
+lines: 986-988
+heading: '**V. The Closure Condition (Supreme Closure Embedding)**'
+block_type: paragraph
+excerpt: 'Reasoning is only valid when it satisfies the closure condition:'
+aliases:
+- Bk320ro
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

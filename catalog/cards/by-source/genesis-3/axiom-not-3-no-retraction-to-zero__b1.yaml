@@ -1,14 +1,31 @@
+id: GEN3-7302
+location: genesis-3/metagenesis::the-not-axiom::axiom-not-3-no-retraction-to-zero::b1
+source: genesis-3\metagenesis.md
+lines: 462-478
+heading: '**Axiom NOT-3 (No Retraction to Zero)**'
+parent_heading: '**THE NOT AXIOM**'
 block_type: paragraph
-concepts:
-- The Zero
-- Zero-State
-- Ψ
 excerpt: 'No operator may reduce any structure back to Ψ₀: ∀O,O(G)=Ψ0is forbidden.\\forall
   \\mathcal{O},\\quad \\mathcal{O}(G) \= \\Psi\_0\\quad\\text{is forbidden}.∀O,O(G)=Ψ0​is
   forbidden. The Zero-State is **...'
-heading: '**Axiom NOT-3 (No Retraction to Zero)**'
-id: GEN3-7302
-lines: 462-478
-location: genesis-3/metagenesis::the-not-axiom::axiom-not-3-no-retraction-to-zero::b1
-parent_heading: '**THE NOT AXIOM**'
-source: genesis-3\metagenesis.md
+concepts:
+- State
+- Ψ
+- Zero-State
+- ∀
+- retro-causality
+- not reachable
+- The Zero
+- Ψ₀
+aliases:
+- Bk982om
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.698412698412698
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

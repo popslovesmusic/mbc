@@ -1,11 +1,26 @@
+id: GEN17-4992
+location: genesis-17/key-points::iv-functorial-laws::f1-identity-preservation::b1
+source: genesis-17\Key_Points.md
+lines: 1603-1611
+heading: '**(F1) Identity Preservation**'
+parent_heading: '**IV. Functorial Laws**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'For all Boxes B: `Π(id_B) = id_{Π(B)}` Identity dependencies map to identity
   in the partial order.'
-heading: '**(F1) Identity Preservation**'
-id: GEN17-4992
-lines: 1603-1611
-location: genesis-17/key-points::iv-functorial-laws::f1-identity-preservation::b1
-parent_heading: '**IV. Functorial Laws**'
-source: genesis-17\Key_Points.md
+concepts:
+- Π
+aliases:
+- Bk085fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,31 @@
+id: GEN13-2543
+location: genesis-13/what-biology-is-in-meta-genesis::8-the-chapter-continues::part-v::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1190-1198
+heading: '**PART V**'
+parent_heading: '**8\. The Chapter Continues…**'
 block_type: list
-concepts:
-- Bioenergetic Foundation Layer
-- Layer
-- Π
-- Φ
-- δ
 excerpt: '* Full formal summary * The δ–Φ–Π Bioenergetic Foundation Layer * Appendix:
   alternative topos and operator approaches'
-heading: '**PART V**'
-id: GEN13-2543
-lines: 1190-1198
-location: genesis-13/what-biology-is-in-meta-genesis::8-the-chapter-continues::part-v::b1
-parent_heading: '**8\. The Chapter Continues…**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Foundation Layer
+- Layer
+- Bioenergetic Foundation Layer
+- Π
+- δ
+- Φ
+aliases:
+- Bk422ff
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 37.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

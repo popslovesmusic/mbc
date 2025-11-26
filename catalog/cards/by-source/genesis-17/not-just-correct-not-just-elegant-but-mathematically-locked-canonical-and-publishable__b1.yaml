@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We need to improve four areas: ---'
+id: GEN17-4591
+location: genesis-17/box-calculus::how-to-make-box-calculus-curryhoward-great::not-just-correct-not-just-elegant-but-mathematically-locked-canonical-and-publishable::b1
+source: genesis-17\box_calculus.md
+lines: 7043-7046
 heading: (Not just correct; not just elegant; but mathematically locked, canonical,
   and publishable.)
-id: GEN17-4591
-lines: 7043-7046
-location: genesis-17/box-calculus::how-to-make-box-calculus-curryhoward-great::not-just-correct-not-just-elegant-but-mathematically-locked-canonical-and-publishable::b1
 parent_heading: ⭐ HOW TO MAKE BOX CALCULUS \+ CURRY–HOWARD GREAT
-source: genesis-17\box_calculus.md
+block_type: paragraph
+excerpt: 'We need to improve four areas: ---'
+aliases:
+- Bk428ni
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,18 +1,39 @@
+id: GEN9-9470
+location: genesis-9/strong-force::4-the-fundamental-forces-from-δ::44-gravity-meta-einstein-curvature::b1
+source: genesis-9\strong-force.md
+lines: 429-451
+heading: '**4.4 Gravity (Meta-Einstein Curvature)**'
+parent_heading: '**4\. The Fundamental Forces from δ**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- The Meta
-- Tri-Unity
-- Π
-- Φ
-- δ
-- μ
-- ν
 excerpt: 'Gravity emerges not from a phase-cycle but from **δ-curvature itself**.
   The Meta-Einstein field equation: Gμν(δ)=Tμν(Φ)G\_{\\mu\\nu}(\\delta) \= T\_{\\mu\\nu}(\\Phi)Gμν​(δ)=Tμν​(Φ)'
-heading: '**4.4 Gravity (Meta-Einstein Curvature)**'
-id: GEN9-9470
-lines: 429-451
-location: genesis-9/strong-force::4-the-fundamental-forces-from-δ::44-gravity-meta-einstein-curvature::b1
-parent_heading: '**4\. The Fundamental Forces from δ**'
-source: genesis-9\strong-force.md
+concepts:
+- δ
+- Meta-Einstein
+- Tri-Unity
+- Φ
+- Π
+- μ
+- ν
+- δ-curvature itself
+- →
+- energy-momentum
+- mode-content
+- δ-curvature
+- phase-cycle
+- the geometric shadow
+- The Meta
+aliases:
+- Bk817ge
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.29268292682927
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

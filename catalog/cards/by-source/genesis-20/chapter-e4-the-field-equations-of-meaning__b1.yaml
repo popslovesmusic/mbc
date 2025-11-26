@@ -1,13 +1,29 @@
+id: GEN20-7080
+location: genesis-20/mbc-40-documentaitio-1::part-v-tensor-semantic-field-theory::chapter-e4-the-field-equations-of-meaning::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5246-5253
+heading: Chapter E4 — The Field Equations of Meaning
+parent_heading: PART V — Tensor & Semantic Field Theory
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '* δ → Φ → Π field equations * continuity conditions * field propagation
   constraints'
-heading: Chapter E4 — The Field Equations of Meaning
-id: GEN20-7080
-lines: 5246-5253
-location: genesis-20/mbc-40-documentaitio-1::part-v-tensor-semantic-field-theory::chapter-e4-the-field-equations-of-meaning::b1
-parent_heading: PART V — Tensor & Semantic Field Theory
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- →
+- Π
+- δ
+- Φ
+aliases:
+- Bk036fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

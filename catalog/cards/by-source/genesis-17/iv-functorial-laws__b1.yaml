@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: 'Π is a **lawful functor** iff:'
-heading: '**IV. Functorial Laws**'
 id: GEN17-4991
-lines: 1599-1601
 location: genesis-17/key-points::iv-functorial-laws::b1
 source: genesis-17\Key_Points.md
+lines: 1599-1601
+heading: '**IV. Functorial Laws**'
+block_type: paragraph
+excerpt: 'Π is a **lawful functor** iff:'
+concepts:
+- Π
+- lawful functor
+aliases:
+- Bk192lf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

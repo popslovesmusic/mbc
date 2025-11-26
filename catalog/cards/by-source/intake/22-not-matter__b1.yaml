@@ -1,11 +1,26 @@
+id: INTK-10122
+location: intake/meta-genesis-physical-interpretation-papers::2-what-deviation-is-not::22-not-matter::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 656-659
+heading: '**2.2 Not matter**'
+parent_heading: '**2\. What Deviation Is Not**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Matter presupposes excitations in a field. δ *is* the condition that allows
   fields to exist.
-heading: '**2.2 Not matter**'
-id: INTK-10122
-lines: 656-659
-location: intake/meta-genesis-physical-interpretation-papers::2-what-deviation-is-not::22-not-matter::b1
-parent_heading: '**2\. What Deviation Is Not**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- δ
+aliases:
+- Bk151mp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

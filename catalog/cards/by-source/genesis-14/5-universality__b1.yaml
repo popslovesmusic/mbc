@@ -1,14 +1,36 @@
+id: GEN14-2732
+location: genesis-14/inflation-structure-formation::proof::5-universality::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1267-1282
+heading: '**5\. Universality**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- scale-independent
-- Π
-- Φ
-- δ
 excerpt: 'The form of the cosmic web: * node → filament → sheet → void is **scale-independent**
   in IGSOA because:'
-heading: '**5\. Universality**'
-id: GEN14-2732
-lines: 1267-1282
-location: genesis-14/inflation-structure-formation::proof::5-universality::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- IGSOA
+- scale-independent
+- →
+- scale-independently
+- Π-projection
+- δ-harmonics
+- Φ-freezing
+- Π
+- δ
+- Φ
+- fractal hierarchy
+aliases:
+- Bk923tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

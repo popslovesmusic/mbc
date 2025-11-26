@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'δ occupies a unique and necessary ontological role:'
-heading: '**8\. The Ontological Status of δ**'
 id: INTK-10133
-lines: 805-807
 location: intake/meta-genesis-physical-interpretation-papers::8-the-ontological-status-of-δ::b1
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 805-807
+heading: '**8\. The Ontological Status of δ**'
+block_type: paragraph
+excerpt: 'δ occupies a unique and necessary ontological role:'
+concepts:
+- δ
+aliases:
+- Bk935ou
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

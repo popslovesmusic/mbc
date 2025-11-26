@@ -1,10 +1,28 @@
+id: GEN20-7054
+location: genesis-20/mbc-40-documentaitio-1::conclusion::154-the-vision-for-mbc-moving-forward::short-term-goals::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5012-5021
+heading: Short-Term Goals
+parent_heading: 15.4 The Vision for MBC Moving Forward
 block_type: list
-concepts: []
 excerpt: '* formalize advanced router logic * build polarity-based semantic networks
   * integrate adaptive statistical learning'
-heading: Short-Term Goals
-id: GEN20-7054
-lines: 5012-5021
-location: genesis-20/mbc-40-documentaitio-1::conclusion::154-the-vision-for-mbc-moving-forward::short-term-goals::b1
-parent_heading: 15.4 The Vision for MBC Moving Forward
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- polarity-based
+- multi-input
+aliases:
+- Bk091fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,28 @@
+id: GEN4-7856
+location: genesis-4/the-first-adjacency::axiom-1-deviational-activation-not-δ-axiom::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 784-796
+heading: '**Axiom 1 — Deviational Activation (NOT → δ Axiom)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Ψ
-- δ
 excerpt: 'Deviation is necessarily activated on Ψ0\\Psi\_0Ψ0​: δΨ0=Ψ1,\\delta \\Psi\_0
   \= \\Psi\_1,δΨ0​=Ψ1​, and this activation is **logically unavoidable** by the NOT
   Axiom:'
-heading: '**Axiom 1 — Deviational Activation (NOT → δ Axiom)**'
-id: GEN4-7856
-lines: 784-796
-location: genesis-4/the-first-adjacency::axiom-1-deviational-activation-not-δ-axiom::b1
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Ψ
+- Deviation
+- δ
+- Axiom
+- first definable operation
+- logically unavoidable
+aliases:
+- Bk584dn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

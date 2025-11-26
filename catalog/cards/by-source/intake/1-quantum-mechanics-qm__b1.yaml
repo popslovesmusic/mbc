@@ -1,12 +1,31 @@
+id: INTK-10436
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::emergence-of-physics-from-mm-ufe::1-quantum-mechanics-qm::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1468-1470
+heading: 1. Quantum Mechanics (QM)
+parent_heading: Emergence of Physics from MM-UFE
 block_type: list
-concepts:
-- Ψ
 excerpt: '- **Emergence:** When the MM-UFE is linearized, projected onto a complex-phase
   sector, and restricted to the low-deviation limit, it reduces to the Schrödinger
   or Dirac equation. - **Key aspects:** Th...'
-heading: 1. Quantum Mechanics (QM)
-id: INTK-10436
-lines: 1468-1470
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::emergence-of-physics-from-mm-ufe::1-quantum-mechanics-qm::b1
-parent_heading: Emergence of Physics from MM-UFE
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- complex-phase
+- low-deviation
+- wave-like
+- MM-UFE
+- Ψ
+aliases:
+- Bk585ew
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.904761904761903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

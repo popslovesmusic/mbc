@@ -1,13 +1,35 @@
+id: GEN10-754
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-δ-curvature-derivation::31-step-1-meta-genesis-forces-deviation::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 66-78
+heading: '**3.1 Step 1: Meta-Genesis forces deviation**'
+parent_heading: '**3\. The δ-Curvature Derivation**'
 block_type: paragraph
-concepts:
-- Axiom
-- Ψ
-- δ
 excerpt: 'From the NOT Axiom: **Ψ₀ is forbidden from remaining still.** Thus the first
   action is: Ψ0→δΨ1.Ψ₀ \\xrightarrow{δ} Ψ₁.Ψ0​δ​Ψ1​.'
-heading: '**3.1 Step 1: Meta-Genesis forces deviation**'
-id: GEN10-754
-lines: 66-78
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-δ-curvature-derivation::31-step-1-meta-genesis-forces-deviation::b1
-parent_heading: '**3\. The δ-Curvature Derivation**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Ψ
+- δ
+- non-vanishing adjacency defect
+- Axiom
+- ≠
+- non-vanishing
+- Ψ₀
+- →
+- Ψ₁
+aliases:
+- Bk001a
+tags:
+- A1
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A1

@@ -1,10 +1,26 @@
+id: GEN2-6423
+location: genesis-2/axioms-of-geometry-topos-compatible::section-ii-φ-layer-action-flow-meta-math::axiom-φ-5-φ-modality::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1486-1492
+heading: '**Axiom (Φ-5) — Φ-Modality**'
+parent_heading: '**Section II — Φ-Layer (Action-Flow / Meta-Math)**'
 block_type: paragraph
+excerpt: Φ(P)=P\\Phi(P)=PΦ(P)=P defines Φ-invariant (necessary) propositions. ---
 concepts:
 - Φ
-excerpt: Φ(P)=P\\Phi(P)=PΦ(P)=P defines Φ-invariant (necessary) propositions. ---
-heading: '**Axiom (Φ-5) — Φ-Modality**'
-id: GEN2-6423
-lines: 1486-1492
-location: genesis-2/axioms-of-geometry-topos-compatible::section-ii-φ-layer-action-flow-meta-math::axiom-φ-5-φ-modality::b1
-parent_heading: '**Section II — Φ-Layer (Action-Flow / Meta-Math)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+- Φ-invariant
+aliases:
+- Bk527pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

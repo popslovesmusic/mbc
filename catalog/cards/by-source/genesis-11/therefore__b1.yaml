@@ -1,12 +1,32 @@
+id: GEN11-1305
+location: genesis-11/the-adjacency-wave-equation::proof-hermetic-sealed::therefore::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 859-867
+heading: '**Therefore:**'
+parent_heading: '**Proof (Hermetic, Sealed)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: CMB:G⟶P is a functor.\\boxed{ \\mathcal{CMB}:\\mathcal{G}\\longrightarrow\\mathcal{P}
   \\ \\text{is a functor.} }CMB:G⟶P is a functor.​ The **CMB sky is the functorial
   shadow of Genesis-level deviation...
-heading: '**Therefore:**'
-id: GEN11-1305
-lines: 859-867
-location: genesis-11/the-adjacency-wave-equation::proof-hermetic-sealed::therefore::b1
-parent_heading: '**Proof (Hermetic, Sealed)**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ-geometry
+- CMB sky is the functorial shadow of Genesis-level deviation
+- cosmology is a functorial projection of δ-geometry
+- Genesis-level
+- δ
+aliases:
+- Bk643cf
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'To show ⪯\\preceq⪯ is an internal preorder, we show:'
-heading: '**Step 3 — Internal transitivity (formal δ-time)**'
 id: GEN4-7650
-lines: 718-720
 location: genesis-4/meta-physics-axiom-box::step-3-internal-transitivity-formal-δ-time::b1
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 718-720
+heading: '**Step 3 — Internal transitivity (formal δ-time)**'
+block_type: paragraph
+excerpt: 'To show ⪯\\preceq⪯ is an internal preorder, we show:'
+aliases:
+- Bk853sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

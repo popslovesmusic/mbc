@@ -1,15 +1,37 @@
-block_type: paragraph
-concepts:
-- Harmonic Orientation
-- Meta-Time
-- Theorem
-- Time Arrow
-- Π
-- δ
-excerpt: '**Theorem:** Given a Meta-Time-ordered δ-geometry, directionality (spatial,
-  dynamical, causal) emerges uniquely and inevitably from the triple:'
-heading: '**The Emergence of Directionality Theorem**'
 id: GEN8-8876
-lines: 1974-2006
 location: genesis-8/meta-time-geometry-and-temporal-projection::the-emergence-of-directionality-theorem::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1974-2006
+heading: '**The Emergence of Directionality Theorem**'
+block_type: paragraph
+excerpt: '**Theorem:** Given a Meta-Time-ordered δ-geometry, directionality (spatial,
+  dynamical, causal) emerges uniquely and inevitably from the triple:'
+concepts:
+- δ
+- Meta-Time
+- δ-geometry
+- Theorem
+- Harmonic Orientation
+- Meta-Time-ordered
+- Time Arrow
+- Π-projection
+- zero-state
+- δ-spectral
+- Π
+aliases:
+- Th260tg
+tags:
+- theorem
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.746478873239436
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

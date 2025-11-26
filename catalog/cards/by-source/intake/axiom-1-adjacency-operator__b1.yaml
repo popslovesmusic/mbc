@@ -1,11 +1,33 @@
+id: INTK-10565
+location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::axiom-1-adjacency-operator::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 371-385
+heading: '**Axiom 1 (Adjacency Operator).**'
+parent_heading: '**2\. Rigorous Theorem-Based Formulation**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'There exists a symmetric (or hermitian) operator A:Hδ→Hδ\\mathcal{A} : \\mathcal{H}\_\\delta
   \\to \\mathcal{H}\_\\deltaA:Hδ​→Hδ​ defined by'
-heading: '**Axiom 1 (Adjacency Operator).**'
-id: INTK-10565
-lines: 371-385
-location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::axiom-1-adjacency-operator::b1
-parent_heading: '**2\. Rigorous Theorem-Based Formulation**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- δ
+- ∑
+- →
+- δ-fractal
+- ≠
+- interaction channels
+- δj
+- δi
+aliases:
+- Bk357te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.2
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

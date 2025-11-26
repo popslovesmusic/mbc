@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: We now state the central theorem. ---
-heading: '**3\. The Adjoint Pair**'
 id: GEN1-647
-lines: 1728-1732
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::3-the-adjoint-pair::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1728-1732
+heading: '**3\. The Adjoint Pair**'
+block_type: paragraph
+excerpt: We now state the central theorem. ---
+concepts:
+- Theorem
+aliases:
+- Bk269ns
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

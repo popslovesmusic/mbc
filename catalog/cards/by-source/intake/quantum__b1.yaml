@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: Deviation → distinction → superposition (distinguishability of states)
-heading: '**Quantum:**'
 id: INTK-10140
-lines: 837-839
 location: intake/meta-genesis-physical-interpretation-papers::9-deviation-as-the-source-of-physics::quantum::b1
-parent_heading: '**9\. Deviation as the Source of Physics**'
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 837-839
+heading: '**Quantum:**'
+parent_heading: '**9\. Deviation as the Source of Physics**'
+block_type: paragraph
+excerpt: Deviation → distinction → superposition (distinguishability of states)
+concepts:
+- Deviation
+- →
+aliases:
+- Bk071dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

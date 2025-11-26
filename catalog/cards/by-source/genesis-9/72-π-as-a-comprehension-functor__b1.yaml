@@ -1,14 +1,32 @@
+id: GEN9-9117
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::7-φ-and-π-as-hyperdoctrine-morphisms::72-π-as-a-comprehension-functor::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1406-1426
+heading: '**7.2. Π as a comprehension functor**'
+parent_heading: '**7\. Φ and Π as Hyperdoctrine Morphisms**'
 block_type: paragraph
-concepts:
-- comprehension
-- Π
-- Φ
-- δ
 excerpt: 'Π corresponds to a **comprehension**: Π:G⟶O\\Pi : \\mathcal{G} \\longrightarrow
   \\mathcal{O}Π:G⟶O is mirrored by:'
-heading: '**7.2. Π as a comprehension functor**'
-id: GEN9-9117
-lines: 1406-1426
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::7-φ-and-π-as-hyperdoctrine-morphisms::72-π-as-a-comprehension-functor::b1
-parent_heading: '**7\. Φ and Π as Hyperdoctrine Morphisms**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Π
+- Φ
+- →
+- δ-harmonics
+- logical manifestation
+- δ
+- comprehension
+aliases:
+- Bk642cc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

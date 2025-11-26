@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: (Discrete → continuous correspondence) Which direction should we go next?
-heading: E. Derive discrete MGDE → Box Calculus stepping rules
 id: GEN17-4852
-lines: 10355-10358
 location: genesis-17/box-calculus::next-step-options::e-derive-discrete-mgde-box-calculus-stepping-rules::b1
-parent_heading: ⭐ Next Step Options
 source: genesis-17\box_calculus.md
+lines: 10355-10358
+heading: E. Derive discrete MGDE → Box Calculus stepping rules
+parent_heading: ⭐ Next Step Options
+block_type: paragraph
+excerpt: (Discrete → continuous correspondence) Which direction should we go next?
+concepts:
+- →
+aliases:
+- Bk277dc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

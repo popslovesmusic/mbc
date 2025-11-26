@@ -1,17 +1,37 @@
+id: GEN16-4124
+location: genesis-16/untitled-document::::b4
+source: genesis-16\Untitled_document.md
+lines: 4903-4915
+heading: '**⭐**'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Linear Logic
-- non-idempotent
-- resource-sensitive
-- δ
-- λ
 excerpt: Box Calculus supports a Linear Logic interpretation\\boxed{\\text{Box Calculus
   supports a Linear Logic interpretation}}Box Calculus supports a Linear Logic interpretation​
   with δ-curvature  ≡  \!-moda...
-heading: '**⭐**'
-id: GEN16-4124
-lines: 4903-4915
-location: genesis-16/untitled-document::::b4
-source: genesis-16\Untitled_document.md
+concepts:
+- Box Calculus
+- Box
+- δ-curvature
+- Proof
+- resource-sensitive
+- Linear Logic
+- δ
+- non-idempotent
+- differential linear logic
+- λ
+- sequent calculi
+- proof nets
+aliases:
+- Bk792bc
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

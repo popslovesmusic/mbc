@@ -1,10 +1,25 @@
+id: GEN15-3150
+location: genesis-15/the-mass-curvature-projection-theorem::8-δ-higgs-reheating-ends-when::3-the-φ-mode-spectrum-is-populated::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1127-1129
+heading: '**(3) The Φ-mode spectrum is populated:**'
+parent_heading: '**8\. δ-Higgs Reheating Ends When**'
 block_type: paragraph
+excerpt: nk∼e2μktn\_k \\sim e^{2\\mu\_k t}nk​∼e2μk​t
 concepts:
 - μ
-excerpt: nk∼e2μktn\_k \\sim e^{2\\mu\_k t}nk​∼e2μk​t
-heading: '**(3) The Φ-mode spectrum is populated:**'
-id: GEN15-3150
-lines: 1127-1129
-location: genesis-15/the-mass-curvature-projection-theorem::8-δ-higgs-reheating-ends-when::3-the-φ-mode-spectrum-is-populated::b1
-parent_heading: '**8\. δ-Higgs Reheating Ends When**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+aliases:
+- Bk296si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

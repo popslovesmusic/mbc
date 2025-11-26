@@ -1,13 +1,31 @@
+id: GEN6-8383
+location: genesis-6/the-harmonic-spectral-triple::8-final-box-ready-to-insert-into-white-papers::2-if-aδmathcal-a-deltaaδ-exists-δ-already-happened::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 291-311
+heading: '**2\. If Aδ\\mathcal A\_\\deltaAδ​ exists, δ already happened**'
+parent_heading: '**8\. Final Box (ready to insert into white papers)**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Ψ
-- δ
 excerpt: 'Recall the algebra: Aδ=C∗(δ,δ†,Fnmk,π)\\mathcal A\_\\delta \= C^\*(\\delta,\\delta^\\dagger,
   F\_{nmk}, \\pi)Aδ​=C∗(δ,δ†,Fnmk​,π) Meta-Genesis translation:'
-heading: '**2\. If Aδ\\mathcal A\_\\deltaAδ​ exists, δ already happened**'
-id: GEN6-8383
-lines: 291-311
-location: genesis-6/the-harmonic-spectral-triple::8-final-box-ready-to-insert-into-white-papers::2-if-aδmathcal-a-deltaaδ-exists-δ-already-happened::b1
-parent_heading: '**8\. Final Box (ready to insert into white papers)**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- δ
+- Ψ
+- Meta-Genesis
+- π
+- →
+- operator-free
+- ≠
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk246rt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

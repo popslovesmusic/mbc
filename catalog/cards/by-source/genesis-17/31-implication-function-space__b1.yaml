@@ -1,14 +1,36 @@
-block_type: table
-concepts:
-- Box
-- Γ
-- λ
-- σ
-- τ
-excerpt: Bτ→σ  :=  BσBτ B τ→σ
-heading: 3.1 Implication / Function Space
 id: GEN17-4576
-lines: 6687-6721
 location: genesis-17/box-calculus::curryhoward-for-box-calculus::3-structural-rules-as-box-operators::31-implication-function-space::b1
-parent_heading: 3\. Structural Rules as Box Operators
 source: genesis-17\box_calculus.md
+lines: 6687-6721
+heading: 3.1 Implication / Function Space
+parent_heading: 3\. Structural Rules as Box Operators
+block_type: table
+excerpt: Bτ→σ  :=  BσBτ B τ→σ
+concepts:
+- τ
+- σ
+- Γ
+- IGSOA
+- Box
+- →
+- λ
+- Proof
+- ∪
+- function-Box
+- ↔
+aliases:
+- Bk245if
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.924050632911392
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,17 +1,37 @@
+id: GEN15-3152
+location: genesis-15/the-mass-curvature-projection-theorem::9-sealed-δ-higgs-reheating-box-drop-in::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1139-1164
+heading: '**9\. Sealed δ-Higgs Reheating Box (drop-in)**'
 block_type: paragraph
-concepts:
-- Higgs Reheating Theorem
-- Theorem
-- Π
-- Φ
-- δ
-- λ
-- μ
 excerpt: '**⟡ δ-Higgs Reheating Theorem (Sealed) ⟡** Let H(t)=Π(Φ0(δ(t)))H(t)=\\Pi(\\Phi\_0(\\delta(t)))H(t)=Π(Φ0​(δ(t)))
   be the scalar curvature projection. During inflation exit, δ-curvature reduces,
   and the ...'
-heading: '**9\. Sealed δ-Higgs Reheating Box (drop-in)**'
-id: GEN15-3152
-lines: 1139-1164
-location: genesis-15/the-mass-curvature-projection-theorem::9-sealed-δ-higgs-reheating-box-drop-in::b1
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- μ
+- Φ
+- λ
+- Π
+- Theorem
+- δ-Higgs
+- δ-curvature
+- radiation-dominated
+- Φ-modes
+- time-dependent
+- Higgs Reheating Theorem
+aliases:
+- Bk695hr
+tags:
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.911330049261084
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

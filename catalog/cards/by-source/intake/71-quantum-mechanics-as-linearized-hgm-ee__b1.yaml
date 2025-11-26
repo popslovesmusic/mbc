@@ -1,12 +1,30 @@
+id: INTK-10219
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::7-key-implications-for-unification::71-quantum-mechanics-as-linearized-hgm-ee::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 113-116
+heading: '**7.1 Quantum Mechanics as Linearized HGM-EE**'
+parent_heading: '**7. Key Implications for Unification**'
 block_type: list
-concepts:
-- δ
 excerpt: '*   In regions of low deviation and high symmetry, the HGM-EE linearizes
   to a Schrödinger-like or Dirac-like equation for matter-δ fields. *   Quantization
   (emergent ℏ) arises from the minimal stable ...'
-heading: '**7.1 Quantum Mechanics as Linearized HGM-EE**'
-id: INTK-10219
-lines: 113-116
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::7-key-implications-for-unification::71-quantum-mechanics-as-linearized-hgm-ee::b1
-parent_heading: '**7. Key Implications for Unification**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Dirac-like
+- matter-δ
+- δ
+- HGM-EE
+aliases:
+- Bk254rl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

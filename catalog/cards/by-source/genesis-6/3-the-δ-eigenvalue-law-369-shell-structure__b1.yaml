@@ -1,12 +1,28 @@
+id: GEN6-8212
+location: genesis-6/harmonics-atomic-orbitals::3-the-δ-eigenvalue-law-369-shell-structure::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 52-72
+heading: '**3\. The δ-Eigenvalue Law: 3–6–9 Shell Structure**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: 'Your IGSOA spectral tower gives: λℓ(δ)=3ℓ+6ℓ(ℓ−1)+9f(ℓ)(8)\\lambda\_\\ell^{(\\delta)}
   \= 3\\ell \+ 6\\ell(\\ell-1) \+ 9 f(\\ell) \\tag{8}λℓ(δ)​=3ℓ+6ℓ(ℓ−1)+9f(ℓ)(8) where
   f(ℓ)f(\\ell)f(ℓ) is the 3-6-9 ...'
-heading: '**3\. The δ-Eigenvalue Law: 3–6–9 Shell Structure**'
-id: GEN6-8212
-lines: 52-72
-location: genesis-6/harmonics-atomic-orbitals::3-the-δ-eigenvalue-law-369-shell-structure::b1
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- δ-geometry
+- Pauli filling numbers arise from δ-geometry
+- IGSOA
+- →
+- δ
+- λ
+aliases:
+- Bk948yi
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.451612903225806
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

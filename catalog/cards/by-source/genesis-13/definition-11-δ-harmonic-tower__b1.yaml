@@ -1,12 +1,30 @@
+id: GEN13-2060
+location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-nuclear-pre-geometry::definition-11-δ-harmonic-tower::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 720-729
+heading: '**Definition 1.1 (δ-Harmonic Tower).**'
+parent_heading: '**1\. The δ-Layer: Nuclear Pre-Geometry**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: A δ-harmonic is an eigenmode δψn=λnψn,\\delta \\psi\_n \= \\lambda\_n \\psi\_n,δψn​=λn​ψn​,
   with n∈Nn \\in \\mathbb{N}n∈N.
-heading: '**Definition 1.1 (δ-Harmonic Tower).**'
-id: GEN13-2060
-lines: 720-729
-location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-nuclear-pre-geometry::definition-11-δ-harmonic-tower::b1
-parent_heading: '**1\. The δ-Layer: Nuclear Pre-Geometry**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- ψ
+- λ
+- δ
+- ∈
+- δ-harmonic
+aliases:
+- Bk661he
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.638297872340425
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'You wrote: “δ (Deviation): The geometric aspect. It represents the ‘shape’
-  or ‘territory’ of reality.” The corrected form is:'
-heading: '**🔧 Repaired Version of Your Line**'
 id: SPEC-10972
-lines: 133-139
 location: special/specil::repaired-version-of-your-line::b1
 source: special\specil.md
+lines: 133-139
+heading: '**🔧 Repaired Version of Your Line**'
+block_type: paragraph
+excerpt: 'You wrote: “δ (Deviation): The geometric aspect. It represents the ‘shape’
+  or ‘territory’ of reality.” The corrected form is:'
+concepts:
+- Deviation
+- δ
+aliases:
+- Bk782yw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

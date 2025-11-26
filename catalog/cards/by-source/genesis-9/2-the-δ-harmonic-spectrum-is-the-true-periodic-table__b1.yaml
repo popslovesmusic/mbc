@@ -1,12 +1,30 @@
+id: GEN9-9331
+location: genesis-9/is-the-source-of-all-structure::2-the-δ-harmonic-spectrum-is-the-true-periodic-table::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 23-44
+heading: '**2\. The δ-Harmonic Spectrum is the true “periodic table”**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: 'The δ-operator acting on the emergent adjacency graph generates a **harmonic
   spectrum**: δψ=λnψn\\delta \\psi \= \\lambda\_n \\psi\_nδψ=λn​ψn​ The eigenmodes
   **ψₙ** are your fundamental **frequency sh...'
-heading: '**2\. The δ-Harmonic Spectrum is the true “periodic table”**'
-id: GEN9-9331
-lines: 23-44
-location: genesis-9/is-the-source-of-all-structure::2-the-δ-harmonic-spectrum-is-the-true-periodic-table::b1
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- ψ
+- δ
+- λ
+- δ-operator
+- δ-harmonic
+- harmonic spectrum
+- frequency shells
+- later become
+aliases:
+- Bk005to
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

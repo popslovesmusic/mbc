@@ -1,12 +1,27 @@
+id: GEN20-6795
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::52-internal-process-δ-content::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1745-1765
+heading: 5.2 Internal Process (δ-content)
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Every box has a source deviation—its δ-content. This is the “seed” that
   causes the box to exist. Examples of δ-content:'
-heading: 5.2 Internal Process (δ-content)
-id: GEN20-6795
-lines: 1745-1765
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::52-internal-process-δ-content::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- δ-content
+- δ
+- Φ
+aliases:
+- Bk796eb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.061224489795918
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

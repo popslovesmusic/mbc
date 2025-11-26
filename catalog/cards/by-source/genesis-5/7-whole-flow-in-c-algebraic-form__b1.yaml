@@ -1,13 +1,35 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- Ψ
-- δ
-- ω
-excerpt: 'Genesis: Ψ0 has no statesDeviation: δΨ0⇒ω1Adjacency: pxpy≠0Metric: d(x,y)=sup⁡a:∥\[Dδ,a\]∥≤1∣ωx(a)−ωy(a)∣Geometry:
-  gδ from DδCurvature: Rδ from spectral asymptotics of DδDynamics: δS=0⇒Meta-Einstein\\...'
-heading: '**7\. Whole Flow in C\*-Algebraic Form**'
 id: GEN5-8189
-lines: 833-839
 location: genesis-5/the-ga-8-meta-einstein-theorem::7-whole-flow-in-c-algebraic-form::b1
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 833-839
+heading: '**7\. Whole Flow in C\*-Algebraic Form**'
+block_type: paragraph
+excerpt: 'Genesis: Ψ0 has no statesDeviation: δΨ0⇒ω1Adjacency: pxpy≠0Metric: d(x,y)=sup⁡a:∥\[Dδ,a\]∥≤1∣ωx(a)−ωy(a)∣Geometry:
+  gδ from DδCurvature: Rδ from spectral asymptotics of DδDynamics: δS=0⇒Meta-Einstein\\...'
+concepts:
+- δ
+- Meta-Einstein
+- Adjacency
+- Curvature
+- Deviation
+- ω
+- IGSOA
+- Ψ
+- noncommutative spectral geometry
+- ≤
+- ≠
+- δS
+- δCurvature
+- δDynamics
+aliases:
+- Bk955gh
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.536585365853659
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

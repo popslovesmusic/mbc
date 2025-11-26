@@ -1,12 +1,27 @@
+id: GEN20-7031
+location: genesis-20/mbc-40-documentaitio-1::conclusion::143-implementation-of-δ-φ-π::step-2-φ-formation::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4689-4707
+heading: Step 2 — Φ (Formation)
+parent_heading: 14.3 Implementation of δ → Φ → Π
 block_type: paragraph
+excerpt: 'Φ stabilizes δ into a coherent pattern. Implementation tasks: * merge δ\_content
+  with metadata'
 concepts:
 - Φ
 - δ
-excerpt: 'Φ stabilizes δ into a coherent pattern. Implementation tasks: * merge δ\_content
-  with metadata'
-heading: Step 2 — Φ (Formation)
-id: GEN20-7031
-lines: 4689-4707
-location: genesis-20/mbc-40-documentaitio-1::conclusion::143-implementation-of-δ-φ-π::step-2-φ-formation::b1
-parent_heading: 14.3 Implementation of δ → Φ → Π
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk937si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.081632653061225
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- δ-curvature
-- ρ
-excerpt: 'Represent δ, Φ, Π as 1-morphisms; CMB and LSS as 2-morphisms. `δ-curvature`
-  `κ : Id ⇒ δ†δ`'
-heading: '**Ⅳ. A 2-Categorical String Diagram**'
 id: GEN15-3205
-lines: 1971-2003
 location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-a-2-categorical-string-diagram::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1971-2003
+heading: '**Ⅳ. A 2-Categorical String Diagram**'
+block_type: paragraph
+excerpt: 'Represent δ, Φ, Π as 1-morphisms; CMB and LSS as 2-morphisms. `δ-curvature`
+  `κ : Id ⇒ δ†δ`'
+concepts:
+- δ
+- Π
+- Φ
+- δ-curvature
+- Φ-harmonics
+- δ-ladder
+- full cosmic computation
+- κ
+- ρ
+aliases:
+- Bk764rm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.857142857142856
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

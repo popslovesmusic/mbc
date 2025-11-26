@@ -1,12 +1,31 @@
+id: GEN4-7681
+location: genesis-4/meta-physics-axiom-box::ii-φaxioms-the-chromaticformphase-field::φ5-φ-is-the-information-metric::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1213-1227
+heading: '**Φ.5 — Φ is the Information Metric**'
+parent_heading: '**II. Φ–AXIOMS (The Chromatic/Form/Phase Field)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'There exists a metric dΦ(X,Y)d\_\\Phi(X,Y)dΦ​(X,Y) corresponding to chromatic
   distance (perceptual or ΔE-stable) that is:'
-heading: '**Φ.5 — Φ is the Information Metric**'
-id: GEN4-7681
-lines: 1213-1227
-location: genesis-4/meta-physics-axiom-box::ii-φaxioms-the-chromaticformphase-field::φ5-φ-is-the-information-metric::b1
-parent_heading: '**II. Φ–AXIOMS (The Chromatic/Form/Phase Field)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- representation-invariant
+- Φ
+- scale-invariant
+- δ-compatible
+- δ
+- Δ
+aliases:
+- Bk174te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.35483870967742
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

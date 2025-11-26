@@ -1,11 +1,27 @@
+id: INTK-9903
+location: intake/meta-genesis-diagrammatic-papers::2-expanded-causal-flowchart-with-meanings::2-not-axiom-ψ₀::b1
+source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 72-78
+heading: '**2\. NOT Axiom (¬Ψ₀)**'
+parent_heading: '**2\. Expanded Causal Flowchart (with meanings)**'
 block_type: list
-concepts:
-- Ψ
 excerpt: '* Perfect stillness is **logically impossible**. * The universe cannot “remain
   still” because **Ψ₀ cannot host itself** without contradiction. ⬇️'
-heading: '**2\. NOT Axiom (¬Ψ₀)**'
-id: INTK-9903
-lines: 72-78
-location: intake/meta-genesis-diagrammatic-papers::2-expanded-causal-flowchart-with-meanings::2-not-axiom-ψ₀::b1
-parent_heading: '**2\. Expanded Causal Flowchart (with meanings)**'
-source: intake\Meta-Genesis_Diagrammatic_Papers.md
+concepts:
+- Ψ
+- logically impossible
+- Ψ₀
+aliases:
+- Bk275ps
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

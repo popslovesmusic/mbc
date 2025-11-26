@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- Π
-- δ
-excerpt: 'Let Wδ,XW\_{\\delta,X}Wδ,X​ be the work operator: Wδ,X=PΠ,XLR,XDδ,XPΠ,X.W\_{\\delta,X}=P\_{\\Pi,X}\\mathcal{L}\_{R,X}D\_{\\delta,X}P\_{\\Pi,X}.Wδ,X​=PΠ,X​LR,X​Dδ,X​PΠ,X​.'
-heading: '**2\. Fitness as a δ-Work Functional**'
 id: GEN13-2623
-lines: 2406-2410
 location: genesis-13/what-biology-is-in-meta-genesis::2-fitness-as-a-δ-work-functional::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2406-2410
+heading: '**2\. Fitness as a δ-Work Functional**'
+block_type: paragraph
+excerpt: 'Let Wδ,XW\_{\\delta,X}Wδ,X​ be the work operator: Wδ,X=PΠ,XLR,XDδ,XPΠ,X.W\_{\\delta,X}=P\_{\\Pi,X}\\mathcal{L}\_{R,X}D\_{\\delta,X}P\_{\\Pi,X}.Wδ,X​=PΠ,X​LR,X​Dδ,X​PΠ,X​.'
+concepts:
+- δ
+- Π
+aliases:
+- Bk175ld
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

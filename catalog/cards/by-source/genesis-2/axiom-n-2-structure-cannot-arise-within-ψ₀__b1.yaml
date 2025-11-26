@@ -1,11 +1,24 @@
+id: GEN2-6456
+location: genesis-2/axioms-of-geometry-topos-compatible::i-the-not-axiom-existence-exclusion-principle::axiom-n-2-structure-cannot-arise-within-ψ₀::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1853-1858
+heading: '**Axiom (N-2) — Structure Cannot Arise Within Ψ₀**'
+parent_heading: '**I. The NOT Axiom (Existence-Exclusion Principle)**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: Ψ₀ admits no operators, no adjacency, no internal geometry. Thus **structure
   cannot originate inside Ψ₀**. ---
-heading: '**Axiom (N-2) — Structure Cannot Arise Within Ψ₀**'
-id: GEN2-6456
-lines: 1853-1858
-location: genesis-2/axioms-of-geometry-topos-compatible::i-the-not-axiom-existence-exclusion-principle::axiom-n-2-structure-cannot-arise-within-ψ₀::b1
-parent_heading: '**I. The NOT Axiom (Existence-Exclusion Principle)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Ψ
+- Ψ₀
+aliases:
+- Bk976ao
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

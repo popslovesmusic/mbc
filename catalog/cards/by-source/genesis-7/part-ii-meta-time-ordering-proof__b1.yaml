@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Π
-- δ
-excerpt: 'Deviation evolves: δ↦δ′,\\delta \\mapsto \\delta'',δ↦δ′, where:'
-heading: '**Part II: Meta-Time Ordering Proof**'
 id: GEN7-8490
-lines: 736-744
 location: genesis-7/the-complete-eft-lagrangian::part-ii-meta-time-ordering-proof::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 736-744
+heading: '**Part II: Meta-Time Ordering Proof**'
+block_type: paragraph
+excerpt: 'Deviation evolves: δ↦δ′,\\delta \\mapsto \\delta'',δ↦δ′, where:'
+concepts:
+- δ
+- Deviation
+- Π
+aliases:
+- Bk230de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

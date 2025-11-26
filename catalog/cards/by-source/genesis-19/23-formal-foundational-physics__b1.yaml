@@ -1,16 +1,37 @@
-block_type: list
-concepts:
-- Axiom
-- Box
-- Causal Sphere
-- Genesis Axiom Box
-- Origin Axiom
-- Tri-Unity
-- δ
-excerpt: '* δ-Genesis Axiom Box * IGSOA Origin Axiom * Tri-Unity mapping'
-heading: ✔ 23\. Formal Foundational Physics
 id: GEN19-6031
-lines: 216-224
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::viii-cosmology-genesis-physics-meta-theory::23-formal-foundational-physics::b1
-parent_heading: VIII. COSMOLOGY, GENESIS, PHYSICS META-THEORY
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 216-224
+heading: ✔ 23\. Formal Foundational Physics
+parent_heading: VIII. COSMOLOGY, GENESIS, PHYSICS META-THEORY
+block_type: list
+excerpt: '* δ-Genesis Axiom Box * IGSOA Origin Axiom * Tri-Unity mapping'
+concepts:
+- Tri-Unity
+- Curvature
+- IGSOA
+- Axiom
+- Theorem
+- Box
+- →
+- δ-Genesis
+- δ
+- Genesis Axiom Box
+- Causal Sphere
+- Origin Axiom
+aliases:
+- Bk537ga
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 57.14285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,26 @@
+id: GEN16-4015
+location: genesis-16/untitled-document::2-first-adjoint-pair-eae-dashv-aea::25-adjunction-established::b1
+source: genesis-16\Untitled_document.md
+lines: 3521-3531
+heading: '**⭐ 2.5 ADJUNCTION ESTABLISHED**'
+parent_heading: '**⭐ 2\. FIRST ADJOINT PAIR: E⊣AE \\dashv AE⊣A**'
 block_type: paragraph
-concepts: []
 excerpt: E⊣A\\boxed{E \\dashv A}E⊣A​ **E is the free expansion operator.** **A is
   the cofree collapse/synthesis operator.**
-heading: '**⭐ 2.5 ADJUNCTION ESTABLISHED**'
-id: GEN16-4015
-lines: 3521-3531
-location: genesis-16/untitled-document::2-first-adjoint-pair-eae-dashv-aea::25-adjunction-established::b1
-parent_heading: '**⭐ 2\. FIRST ADJOINT PAIR: E⊣AE \\dashv AE⊣A**'
-source: genesis-16\Untitled_document.md
+concepts:
+- IGSOA
+aliases:
+- Bk526bd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.0303030303030303
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

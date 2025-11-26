@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Adjacency is not merely a relation. It is the **seed of all geometry**.
-  Once adjacency exists, three things become possible:'
-heading: '**4\. Why Adjacency Is Foundational**'
 id: INTK-9871
-lines: 1495-1502
 location: intake/meta-genesis-core-papers-foundations::4-why-adjacency-is-foundational::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1495-1502
+heading: '**4\. Why Adjacency Is Foundational**'
+block_type: paragraph
+excerpt: 'Adjacency is not merely a relation. It is the **seed of all geometry**.
+  Once adjacency exists, three things become possible:'
+concepts:
+- Adjacency
+- seed of all geometry
+aliases:
+- Bk795an
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

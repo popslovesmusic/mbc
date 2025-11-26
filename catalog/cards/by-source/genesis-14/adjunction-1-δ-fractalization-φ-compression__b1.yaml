@@ -1,12 +1,31 @@
+id: GEN14-3071
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-the-adjoint-structure::adjunction-1-δ-fractalization-φ-compression::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 2145-2163
+heading: '**Adjunction 1: δ-Fractalization ↔ Φ-Compression**'
+parent_heading: '**III. The Adjoint Structure**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'F1⊣F2.F\_1 \\dashv F\_2.F1​⊣F2​. Meaning: HomSpinΦ(F2(δfract), X)  ≅  HomFractδ(δfract, F1(X)).\\text{Hom}\_{\\mathbf{Spin}\_\\Phi}(F\_2(\\delta\_{\\text{fract}}),\\,
   X) \\;\\cong\\; \\text{Hom}\_{\\m...'
-heading: '**Adjunction 1: δ-Fractalization ↔ Φ-Compression**'
-id: GEN14-3071
-lines: 2145-2163
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-the-adjoint-structure::adjunction-1-δ-fractalization-φ-compression::b1
-parent_heading: '**III. The Adjoint Structure**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- δ
+- Φ
+- δfract
+- fractality and coherence interact
+- δ-fractalization
+- Φ-compression
+aliases:
+- Bk912dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.228915662650602
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

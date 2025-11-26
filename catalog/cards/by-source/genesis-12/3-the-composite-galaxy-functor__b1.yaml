@@ -1,15 +1,33 @@
+id: GEN12-1994
+location: genesis-12/untitled-document::3-the-composite-galaxy-functor::b1
+source: genesis-12\Untitled_document.md
+lines: 4332-4351
+heading: '**3\. The Composite Galaxy Functor**'
 block_type: paragraph
-concepts:
-- Morphisms
-- Object Level
-- Π
-- Φ
-- δ
 excerpt: 'The entire IGSOA galaxy logic is captured by the composite: G  =  Π∘Φ2∘Φ1∘δ\\mathcal{G}
   \\;=\\; \\Pi \\circ \\Phi\_2 \\circ \\Phi\_1 \\circ \\deltaG=Π∘Φ2​∘Φ1​∘δ with codomain
   Gal\\mathsf{Gal}Gal.'
-heading: '**3\. The Composite Galaxy Functor**'
-id: GEN12-1994
-lines: 4332-4351
-location: genesis-12/untitled-document::3-the-composite-galaxy-functor::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- IGSOA
+- Π
+- δ
+- ∈
+- →
+- Object Level
+- Morphisms
+aliases:
+- Bk961te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.451612903225806
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

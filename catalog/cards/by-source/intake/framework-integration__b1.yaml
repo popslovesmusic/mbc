@@ -1,21 +1,38 @@
+id: INTK-10844
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::framework-integration::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3082-3102
+heading: Framework Integration
+parent_heading: Meta-Time Cone
 block_type: paragraph
-concepts:
-- Axiom
-- IGSOA
-- Maps Meta
-- Meta-Fractal
-- Meta-Time
-- Peakset Probability Geometry
-- Time Metric
-- Ψ
-- δ
-- τ
 excerpt: '**NOT Axiom**: Ensures δ > 0, drives monotonic Meta-Time flow **IGSOA**:
   Provides ground state, perfect symmetry baseline Ψ₀ **Deviation δ**: Fundamental
   field, naturally a fractal 1-form on Meta-Frac...'
-heading: Framework Integration
-id: INTK-10844
-lines: 3082-3102
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::framework-integration::b1
-parent_heading: Meta-Time Cone
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- Deviation
+- Projection
+- IGSOA
+- Axiom
+- δ
+- Meta-Fractal
+- Theorem
+- Meta-Time Metric M
+- spin-statistics
+- scale-dependent
+- Deviation-phase
+- δ-minimization
+- Peakset Probability Geometry
+- Ψ
+aliases:
+- Bk103na
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

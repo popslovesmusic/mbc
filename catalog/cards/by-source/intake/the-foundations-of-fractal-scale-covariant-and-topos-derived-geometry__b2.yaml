@@ -1,17 +1,35 @@
+id: INTK-10493
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::higher-stack-meta-geometry::the-foundations-of-fractal-scale-covariant-and-topos-derived-geometry::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1799-1803
+heading: '**The Foundations of Fractal, Scale-Covariant, and ∞-Topos Derived Geometry**'
+parent_heading: Higher-Stack Meta-Geometry
 block_type: paragraph
-concepts:
-- Higher-Stack
-- Meta-Geometric
-- Meta-Geometry
-- Meta-Math
-- Peakset Probability Geometry
-- Stack Meta
 excerpt: This document describes **Higher-Stack Meta-Geometry**, the foundational
   geometric framework of the IGSOA / Meta-Math theory. It extends classical geometry
   by introducing concepts from category theory...
-heading: '**The Foundations of Fractal, Scale-Covariant, and ∞-Topos Derived Geometry**'
-id: INTK-10493
-lines: 1799-1803
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::higher-stack-meta-geometry::the-foundations-of-fractal-scale-covariant-and-topos-derived-geometry::b2
-parent_heading: Higher-Stack Meta-Geometry
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- IGSOA
+- Higher-Stack Meta-Geometry
+- Meta-Geometric
+- Peakset Probability Geometry
+- Meta-Geometry
+- Higher-Stack
+- ∞
+- Stack Meta
+aliases:
+- Bk000td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.9811320754717
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

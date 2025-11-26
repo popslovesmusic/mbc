@@ -1,14 +1,32 @@
+id: GEN11-1309
+location: genesis-11/the-adjacency-wave-equation::corollaries-sealed::c4-the-cmb-as-the-π-shadow-of-δ-harmonics::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 914-926
+heading: '**C4. The CMB as the Π-Shadow of δ-Harmonics**'
+parent_heading: '**Corollaries (Sealed)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- λ
 excerpt: 'Since: CMB=O∘Π∘Φ∘δ,\\mathcal{CMB} \= \\mathfrak{O}\\circ\\Pi\\circ\\Phi\\circ\\delta,CMB=O∘Π∘Φ∘δ,
   every observed multipole aℓma\_{\\ell m}aℓm​ satisfies:'
-heading: '**C4. The CMB as the Π-Shadow of δ-Harmonics**'
-id: GEN11-1309
-lines: 914-926
-location: genesis-11/the-adjacency-wave-equation::corollaries-sealed::c4-the-cmb-as-the-π-shadow-of-δ-harmonics::b1
-parent_heading: '**Corollaries (Sealed)**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ
+- CMB spectrum is a functorial invariant of δ-curvature
+- λ
+- Π
+- Φ
+- ∈
+- δ-curvature
+aliases:
+- Bk593sc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.235294117647058
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

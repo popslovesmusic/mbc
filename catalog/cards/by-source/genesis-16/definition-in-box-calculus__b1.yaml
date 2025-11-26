@@ -1,14 +1,33 @@
+id: GEN16-4065
+location: genesis-16/untitled-document::3-binary-products::definition-in-box-calculus::b1
+source: genesis-16\Untitled_document.md
+lines: 4144-4154
+heading: '**Definition in Box Calculus:**'
+parent_heading: '**⭐ 3\. Binary Products**'
 block_type: paragraph
-concepts:
-- Γ
-- Σ
-- Ω
 excerpt: 'Take the **tensor product of semantic states**: Σ1×2:=Σ1⊗Σ2\\Sigma\_{1 \\times
   2} := \\Sigma\_1 \\otimes \\Sigma\_2Σ1×2​:=Σ1​⊗Σ2​ and combine metadata, boundary,
   and operator tables pairwise.'
-heading: '**Definition in Box Calculus:**'
-id: GEN16-4065
-lines: 4144-4154
-location: genesis-16/untitled-document::3-binary-products::definition-in-box-calculus::b1
-parent_heading: '**⭐ 3\. Binary Products**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- Ω
+- Γ
+- ⊗
+- Δ
+- tensor product of semantic states
+- ∪
+aliases:
+- Bk181tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

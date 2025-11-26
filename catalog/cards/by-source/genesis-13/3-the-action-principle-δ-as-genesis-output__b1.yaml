@@ -1,16 +1,31 @@
-block_type: paragraph
-concepts:
-- Action Functor
-- The Genesis
-- uppermost
-- Π
-- Φ
-- Ψ
-- δ
-excerpt: 'The functor produces δ, not geometry, not dynamics, not matter. The Genesis–Action
-  Functor satisfies a universal property: δ=LanΨ1(A)\\delta \= \\mathsf{Lan}\_{\\Psi\_1}(\\mathbb{A})δ=LanΨ1​​(A)'
-heading: '**3\. The Action Principle: δ as Genesis Output**'
 id: GEN13-2450
-lines: 2573-2591
 location: genesis-13/the-weight-of-light::3-the-action-principle-δ-as-genesis-output::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 2573-2591
+heading: '**3\. The Action Principle: δ as Genesis Output**'
+block_type: paragraph
+excerpt: 'The functor produces δ, not geometry, not dynamics, not matter. The Genesis–Action
+  Functor satisfies a universal property: δ=LanΨ1(A)\\delta \= \\mathsf{Lan}\_{\\Psi\_1}(\\mathbb{A})δ=LanΨ1​​(A)'
+concepts:
+- δ
+- Ψ
+- Functor
+- Π
+- Φ
+- →
+- Action Functor
+- The Genesis
+- δ-seed
+- δ-Φ-Π
+aliases:
+- Bk470tf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.70873786407767
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- σ
-excerpt: σ-Topos internal logic is intuitionistic → compatible.
-heading: '**(1) MG uses minimal potentiality logic (no excluded middle).**'
 id: GEN2-6491
-lines: 248-250
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::5-proof::56-no-contradiction::1-mg-uses-minimal-potentiality-logic-no-excluded-middle::b1
-parent_heading: '**5.6 No Contradiction**'
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 248-250
+heading: '**(1) MG uses minimal potentiality logic (no excluded middle).**'
+parent_heading: '**5.6 No Contradiction**'
+block_type: paragraph
+excerpt: σ-Topos internal logic is intuitionistic → compatible.
+concepts:
+- →
+- σ
+aliases:
+- Bk870ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

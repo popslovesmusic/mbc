@@ -1,11 +1,28 @@
+id: GEN0-338
+location: genesis-0/why-the-first-action-is-necessary::5-δ-algebra-as-a-graded-fractal-lie-algebra::operator-set::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1514-1516
+heading: '**Operator Set:**'
+parent_heading: '**5\. δ-Algebra as a Graded Fractal Lie Algebra**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: D={δ(n)}n≥1∪{A,H,E,F}.\\mathfrak{D} \= \\{ \\delta^{(n)} \\}\_{n \\ge 1}
   \\cup \\{A, H, E, F\\}.D={δ(n)}n≥1​∪{A,H,E,F}.
-heading: '**Operator Set:**'
-id: GEN0-338
-lines: 1514-1516
-location: genesis-0/why-the-first-action-is-necessary::5-δ-algebra-as-a-graded-fractal-lie-algebra::operator-set::b1
-parent_heading: '**5\. δ-Algebra as a Graded Fractal Lie Algebra**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- ≥
+- δ
+- ∪
+aliases:
+- Bk309md
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

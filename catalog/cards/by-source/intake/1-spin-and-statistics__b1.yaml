@@ -1,11 +1,32 @@
+id: INTK-10487
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::physical-implications::1-spin-and-statistics::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1775-1776
+heading: 1. Spin and Statistics
+parent_heading: Physical Implications
 block_type: paragraph
-concepts: []
 excerpt: The group's algebra directly leads to the **spin-statistics theorem**. The
   $J_6$ generator (phase-inverting) acting twice (equivalent to a 2π rotation) corresponds
   to the $J_9$ generator (phase-neutra...
-heading: 1. Spin and Statistics
-id: INTK-10487
-lines: 1775-1776
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::harmonic-symmetry-group-3-6-9::physical-implications::1-spin-and-statistics::b1
-parent_heading: Physical Implications
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- spin-statistics
+- spin-statistics theorem
+- Theorem
+- phase-inverting
+- phase-neutral
+- π
+aliases:
+- Bk317tg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

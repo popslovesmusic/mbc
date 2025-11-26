@@ -1,10 +1,28 @@
+id: GEN17-4608
+location: genesis-17/box-calculus::2-this-matches-the-igsoa-duality-exactly::one-object-two-modes::b1
+source: genesis-17\box_calculus.md
+lines: 7271-7289
+heading: \*\*One object, two modes.
+parent_heading: ⭐ 2\. THIS MATCHES THE IGSOA DUALITY EXACTLY
 block_type: paragraph
-concepts: []
 excerpt: 'One operator, two polarities. One dynamic, two phases.\*\* In category-theoretic
   language:'
-heading: \*\*One object, two modes.
-id: GEN17-4608
-lines: 7271-7289
-location: genesis-17/box-calculus::2-this-matches-the-igsoa-duality-exactly::one-object-two-modes::b1
-parent_heading: ⭐ 2\. THIS MATCHES THE IGSOA DUALITY EXACTLY
-source: genesis-17\box_calculus.md
+concepts:
+- IGSOA
+- category-theoretic
+- macro-aggregative
+- micro-expansive
+aliases:
+- Bk623oo
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 6.0606060606060606
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

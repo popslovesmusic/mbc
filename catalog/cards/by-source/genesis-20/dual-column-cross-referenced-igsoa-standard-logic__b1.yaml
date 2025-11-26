@@ -1,19 +1,36 @@
-block_type: table
-concepts:
-- Box
-- Box-Calculus
-- Calculus Phrasing
-- Semantics Phrasing
-- Standard Logic
-- Θ
-- Π
-- Σ
-- Φ
-- δ
-excerpt: '---'
-heading: Dual-Column, Cross-Referenced (IGSOA ↔ Standard Logic)
 id: GEN20-6627
-lines: 788-799
 location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::mbc-40-semantic-inference-rules::dual-column-cross-referenced-igsoa-standard-logic::b1
-parent_heading: MBC-4.0 Semantic Inference Rules
 source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 788-799
+heading: Dual-Column, Cross-Referenced (IGSOA ↔ Standard Logic)
+parent_heading: MBC-4.0 Semantic Inference Rules
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- Box
+- Π
+- δ
+- Σ
+- Θ
+- →
+- Box-Calculus
+- δ-compatible
+- meta-logical
+- δ-geometries
+- Π-stable
+- Φ
+- Semantics Phrasing
+- Calculus Phrasing
+aliases:
+- Bk466ib
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.15929203539823
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

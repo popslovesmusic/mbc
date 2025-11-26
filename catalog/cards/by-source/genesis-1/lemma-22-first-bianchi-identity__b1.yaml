@@ -1,12 +1,29 @@
+id: GEN1-609
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::2-properties-of-δ-curvature::lemma-22-first-bianchi-identity::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1216-1229
+heading: '**Lemma 2.2 — First Bianchi Identity.**'
+parent_heading: '**2\. Properties of δ-Curvature**'
 block_type: paragraph
-concepts:
-- From Jacobi
-- δ
 excerpt: '\[δ, Rδ\]=0.\[\\delta,\\,\\mathcal{R}\_{\\delta}\] \= 0.\[δ,Rδ​\]=0. **Proof.**
   From Jacobi:'
-heading: '**Lemma 2.2 — First Bianchi Identity.**'
-id: GEN1-609
-lines: 1216-1229
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::2-properties-of-δ-curvature::lemma-22-first-bianchi-identity::b1
-parent_heading: '**2\. Properties of δ-Curvature**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Proof
+- From Jacobi
+aliases:
+- Bk779dm
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.122448979591836
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

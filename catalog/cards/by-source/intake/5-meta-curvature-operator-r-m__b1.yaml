@@ -1,14 +1,31 @@
+id: INTK-10424
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::meta-calculus-operations::5-meta-curvature-operator-r-m::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1375-1378
+heading: 5. Meta-Curvature Operator (R_M)
+parent_heading: Meta-Calculus Operations
 block_type: list
-concepts:
-- Covariant Derivatives
-- Meta-Connections
-- Meta-Covariant
 excerpt: '- **Purpose:** To quantify the non-commutativity of Meta-Covariant Derivatives,
   leading to emergent geometric curvature and field strengths. - **Behavior:** Derived
   from commutators of Meta-Connection...'
-heading: 5. Meta-Curvature Operator (R_M)
-id: INTK-10424
-lines: 1375-1378
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::meta-calculus-operations::5-meta-curvature-operator-r-m::b1
-parent_heading: Meta-Calculus Operations
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- non-commutativity
+- ∇
+- Meta-Connections
+- Meta-Covariant
+- Covariant Derivatives
+aliases:
+- Bk082pq
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.705882352941178
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,18 +1,31 @@
+id: GEN4-7835
+location: genesis-4/the-first-adjacency::the-crack-in-perfect-stillness::exit-interlude-return-to-formalism::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 427-455
+heading: '**Exit Interlude → Return to Formalism**'
+parent_heading: '**The Crack in Perfect Stillness**'
 block_type: paragraph
-concepts:
-- Axiom
-- How Difference Becomes Space
-- Meta-Time
-- The First Adjacency
-- The First Place That Ever Existed
-- Why Perfect Stillness Cannot Exist
-- next
-- δ
 excerpt: 'The crack is no metaphor. It is the precise moment where: * the NOT Axiom
   applies,'
-heading: '**Exit Interlude → Return to Formalism**'
-id: GEN4-7835
-lines: 427-455
-location: genesis-4/the-first-adjacency::the-crack-in-perfect-stillness::exit-interlude-return-to-formalism::b1
-parent_heading: '**The Crack in Perfect Stillness**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Meta-Time
+- Adjacency
+- Axiom
+- Why Perfect Stillness Cannot Exist
+- The First Place That Ever Existed
+- δ
+- How Difference Becomes Space
+- The First Adjacency
+- next
+aliases:
+- Bk894tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

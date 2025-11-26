@@ -1,11 +1,32 @@
-block_type: paragraph
-concepts:
-- Einstein Dynamics
-- Meta-Einstein
-excerpt: 'If you want, I can now generate: 📙 **A fully LaTeX-formatted version (journal-ready)**
-  📘 **The formal Meta-Einstein Dynamics chapter**'
-heading: '**Chapter Complete**'
 id: GEN1-598
-lines: 1114-1123
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-complete::b2
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1114-1123
+heading: '**Chapter Complete**'
+block_type: paragraph
+excerpt: 'If you want, I can now generate: 📙 **A fully LaTeX-formatted version (journal-ready)**
+  📘 **The formal Meta-Einstein Dynamics chapter**'
+concepts:
+- Meta-Einstein
+- The physical-intuition translation for general audiences
+- The formal Meta-Einstein Dynamics chapter
+- physical-intuition
+- LaTeX-formatted
+- sheaf-theoretic
+- journal-ready
+- ∞
+- Einstein Dynamics
+aliases:
+- Bk592yw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 21.951219512195124
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

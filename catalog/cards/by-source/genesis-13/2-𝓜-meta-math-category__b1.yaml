@@ -1,11 +1,27 @@
+id: GEN13-2401
+location: genesis-13/the-weight-of-light::0-architecture::2-𝓜-meta-math-category::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1954-1958
+heading: '**2\. 𝓜 — Meta-Math Category**'
+parent_heading: '**0\. Architecture**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Objects: abstract operators, functors, adjoint triples Morphisms: natural
   transformations, coherence maps Structure: Φ-dynamics as operator calculus'
-heading: '**2\. 𝓜 — Meta-Math Category**'
-id: GEN13-2401
-lines: 1954-1958
-location: genesis-13/the-weight-of-light::0-architecture::2-𝓜-meta-math-category::b1
-parent_heading: '**0\. Architecture**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Φ-dynamics
+- Φ
+aliases:
+- Bk856oa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,37 @@
+id: GEN7-8591
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::0-overview-of-the-result::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 582-604
+heading: '**0\. Overview of the Result**'
 block_type: paragraph
-concepts:
-- Higgs Yukawa
-- Φ
-- Ω
-- γ
-- δ
-- μ
 excerpt: 'The δ-Dirac equation in δ-Weitzenböck geometry is: \[iγμ(∂μ+Ωμ(δ))−yδΦ\]ψ=0(0)\\boxed{
   \\left\[ i\\gamma^\\mu \\left(\\partial\_\\mu \+ \\Omega\_\\mu^{(\\delta)}\\right)
   \- y\_\\delta \\Phi \\right\] ...'
-heading: '**0\. Overview of the Result**'
-id: GEN7-8591
-lines: 582-604
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::0-overview-of-the-result::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- δ
+- μ
+- Φ
+- Ω
+- δ-Higgs
+- δ-torsion spin connection
+- δ-Higgs Yukawa mass term
+- δ-Dirac
+- ψ
+- γ
+- Δ
+- ∂
+- geometric Yukawa coupling
+- δ-torsion
+- Higgs Yukawa
+aliases:
+- Bk801td
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.486486486486488
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,33 @@
+id: GEN11-1258
+location: genesis-11/the-adjacency-wave-equation::formal-derivation-hermetic::2-φ-extracts-the-same-spectral-band::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 281-293
+heading: '**2\. Φ extracts the same spectral band**'
+parent_heading: '**Formal Derivation (Hermetic)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
-- λ
 excerpt: 'Φ performs a δ-spectral decomposition: Φ(δ(G))={λk}\\Phi(\\delta(G)) \=
   \\{ \\lambda\_k \\}Φ(δ(G))={λk​} where **the same λₖ that produce echo spacing also
   define curvature-gradient resonances** respo...'
-heading: '**2\. Φ extracts the same spectral band**'
-id: GEN11-1258
-lines: 281-293
-location: genesis-11/the-adjacency-wave-equation::formal-derivation-hermetic::2-φ-extracts-the-same-spectral-band::b1
-parent_heading: '**Formal Derivation (Hermetic)**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ
+- Φ
+- echo-supporting
+- λ
+- curvature-gradient
+- δ-spectral
+- δon
+aliases:
+- Bk430ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.58904109589041
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

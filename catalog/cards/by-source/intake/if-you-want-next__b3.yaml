@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'I can produce any companion piece:'
-heading: '**If you want next:**'
 id: INTK-10165
-lines: 1117-1119
 location: intake/meta-genesis-physical-interpretation-papers::if-you-want-next::b3
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 1117-1119
+heading: '**If you want next:**'
+block_type: paragraph
+excerpt: 'I can produce any companion piece:'
+aliases:
+- Bk855cp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

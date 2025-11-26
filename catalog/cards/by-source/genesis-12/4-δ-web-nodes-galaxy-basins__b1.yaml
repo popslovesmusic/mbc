@@ -1,11 +1,32 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: 'During structure formation: δ→Φ1web modes.\\delta \\xrightarrow{\\Phi\_1}
-  \\text{web modes}.δΦ1​​web modes. The δ-harmonic shells produce:'
-heading: '**4\. δ → Web Nodes → Galaxy Basins**'
 id: GEN12-1864
-lines: 2141-2161
 location: genesis-12/untitled-document::4-δ-web-nodes-galaxy-basins::b1
 source: genesis-12\Untitled_document.md
+lines: 2141-2161
+heading: '**4\. δ → Web Nodes → Galaxy Basins**'
+block_type: paragraph
+excerpt: 'During structure formation: δ→Φ1web modes.\\delta \\xrightarrow{\\Phi\_1}
+  \\text{web modes}.δΦ1​​web modes. The δ-harmonic shells produce:'
+concepts:
+- δ
+- →
+- Φ
+- ∇
+- cluster-scale
+- proto-halo
+- δ-harmonic
+- Φ₂
+aliases:
+- Bk673ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

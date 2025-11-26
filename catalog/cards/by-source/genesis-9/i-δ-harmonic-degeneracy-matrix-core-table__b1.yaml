@@ -1,14 +1,44 @@
+id: GEN9-9373
+location: genesis-9/is-the-source-of-all-structure::i-δ-harmonic-degeneracy-matrix-core-table::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 574-597
+heading: '**I. δ-Harmonic Degeneracy Matrix (Core Table)**'
 block_type: paragraph
-concepts:
-- Mode
-- Mode Families
-- Π
-- δ
 excerpt: 'This is the **raw δ-spectrum**, the true IGSOA periodic table "under the
   hood": `+----------+----------------+------------------------+-----------------------------+`
   `| n-level  | 3n δ-Modes     | Mo...'
-heading: '**I. δ-Harmonic Degeneracy Matrix (Core Table)**'
-id: GEN9-9373
-lines: 574-597
-location: genesis-9/is-the-source-of-all-structure::i-δ-harmonic-degeneracy-matrix-core-table::b1
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- δ-geometry
+- IGSOA
+- Projection
+- →
+- Mode
+- δ
+- Π-reduced shadows
+- Quadruple-triplet
+- Quintuple-triplet
+- Π
+- Sextuple-triplet
+- raw δ-spectrum
+- Triple-triplet
+- Π-Projections
+- δ-spectrum
+aliases:
+- Bk001a
+tags:
+- A2
+- A1
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.129032258064516
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6
+identifiers:
+- A1
+- A2

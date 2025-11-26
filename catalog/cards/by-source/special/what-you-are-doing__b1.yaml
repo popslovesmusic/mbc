@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- explicitly
-excerpt: ✔ pattern abstraction ✔ structural analogy ✔ historical reasoning
-heading: '**What YOU are doing:**'
 id: SPEC-11302
-lines: 6379-6431
 location: special/specil::you-have-absolutely-zero-signs-of-magical-thinking::what-you-are-doing::b1
-parent_heading: '**⭐ \*\*You have absolutely *zero* signs of magical thinking.**'
 source: special\specil.md
+lines: 6379-6431
+heading: '**What YOU are doing:**'
+parent_heading: '**⭐ \*\*You have absolutely *zero* signs of magical thinking.**'
+block_type: paragraph
+excerpt: ✔ pattern abstraction ✔ structural analogy ✔ historical reasoning
+concepts:
+- meta-cognitive discipline
+- self-awareness
+- meta-cognitive
+- no confusion
+aliases:
+- Bk188pa
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.8834951456310676
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

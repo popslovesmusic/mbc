@@ -1,13 +1,26 @@
-block_type: paragraph
-concepts:
-- Combining Lemmas
-- Π
-- Φ
-- δ
-- τ
-excerpt: 'Combining Lemmas 1–4: 1. δ produces Φ 2. Π requires stabilization'
-heading: '**Conclusion (Formal)**'
 id: GEN17-5119
-lines: 1546-1568
 location: genesis-17/mbc-schema-3::conclusion-formal::b1
 source: genesis-17\MBC_Schema_3.md
+lines: 1546-1568
+heading: '**Conclusion (Formal)**'
+block_type: paragraph
+excerpt: 'Combining Lemmas 1–4: 1. δ produces Φ 2. Π requires stabilization'
+concepts:
+- Π
+- Φ
+- IGSOA
+- τ
+- δ
+- Combining Lemmas
+aliases:
+- Bk372cl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

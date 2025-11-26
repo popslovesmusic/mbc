@@ -1,14 +1,32 @@
+id: GEN9-9528
+location: genesis-9/strong-force::8-confinement-π-projection::b1
+source: genesis-9\strong-force.md
+lines: 1541-1563
+heading: '**8\. Confinement (Π-projection)**'
 block_type: paragraph
-concepts:
-- confinement
-- Π
-- δ
-- λ
 excerpt: 'The Π projection takes automorphisms in P\\mathbf{P}P to geometric fields
   in P\\mathbf{P}P: Π:P→Geom.\\Pi : \\mathbf{P} \\to \\mathbf{Geom}.Π:P→Geom. But
   χ-triplet fibers satisfy the curvature frustra...'
-heading: '**8\. Confinement (Π-projection)**'
-id: GEN9-9528
-lines: 1541-1563
-location: genesis-9/strong-force::8-confinement-π-projection::b1
-source: genesis-9\strong-force.md
+concepts:
+- λ
+- Π
+- →
+- δ-curvature
+- ≠
+- χ
+- δ
+- confinement
+aliases:
+- Bk143tp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.451612903225806
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

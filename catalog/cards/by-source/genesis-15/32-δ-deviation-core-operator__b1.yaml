@@ -1,11 +1,27 @@
+id: GEN15-3474
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::3-the-adjoint-triple-δ-δ-δ::32-δ-deviation-core-operator::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1497-1519
+heading: '**3.2 δ\* \= deviation (core operator)**'
+parent_heading: '**3\. The Adjoint Triple δ₊ ⊣ δ\* ⊣ δ₋**'
 block_type: paragraph
+excerpt: 'Deviation δ\* encodes: * adjacency defects, * torsion,'
 concepts:
 - Meta-Genesis
+- Deviation
 - δ
-excerpt: 'Deviation δ\* encodes: * adjacency defects, * torsion,'
-heading: '**3.2 δ\* \= deviation (core operator)**'
-id: GEN15-3474
-lines: 1497-1519
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::3-the-adjoint-triple-δ-δ-δ::32-δ-deviation-core-operator::b1
-parent_heading: '**3\. The Adjoint Triple δ₊ ⊣ δ\* ⊣ δ₋**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+aliases:
+- Bk602de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

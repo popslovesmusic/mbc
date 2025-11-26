@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: Φ becomes a field-flow map in δ-space.
-heading: '**7.2. Φ as Semantic Flow**'
 id: GEN16-3929
-lines: 2422-2424
 location: genesis-16/untitled-document::7-expansion-direction-vii-igsoa-integration::72-φ-as-semantic-flow::b1
-parent_heading: '**⭐ 7\. Expansion Direction VII: IGSOA Integration**'
 source: genesis-16\Untitled_document.md
+lines: 2422-2424
+heading: '**7.2. Φ as Semantic Flow**'
+parent_heading: '**⭐ 7\. Expansion Direction VII: IGSOA Integration**'
+block_type: paragraph
+excerpt: Φ becomes a field-flow map in δ-space.
+concepts:
+- field-flow
+- δ-space
+- δ
+- Φ
+aliases:
+- Bk182bf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 44.44444444444444
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

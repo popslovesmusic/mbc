@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: Which proof should we formalize next?
-heading: • Proof nets ↔ Box operator networks equivalence
 id: GEN17-4558
-lines: 6487-6489
 location: genesis-17/box-calculus::next-options::proof-nets-box-operator-networks-equivalence::b1
-parent_heading: '⭐ Next options:'
 source: genesis-17\box_calculus.md
+lines: 6487-6489
+heading: • Proof nets ↔ Box operator networks equivalence
+parent_heading: '⭐ Next options:'
+block_type: paragraph
+excerpt: Which proof should we formalize next?
+concepts:
+- Proof
+aliases:
+- Bk476wp
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

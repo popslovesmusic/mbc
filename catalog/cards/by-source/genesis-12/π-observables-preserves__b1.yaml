@@ -1,10 +1,26 @@
+id: GEN12-1653
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::52-structure-preservation-across-layers::π-observables-preserves::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1877-1890
+heading: '**Π → Observables preserves:**'
+parent_heading: '**5.2 Structure Preservation Across Layers**'
 block_type: list
+excerpt: '* angular multipoles * lensing derivatives * echo spacings'
 concepts:
 - information-preserving
-excerpt: '* angular multipoles * lensing derivatives * echo spacings'
-heading: '**Π → Observables preserves:**'
-id: GEN12-1653
-lines: 1877-1890
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::52-structure-preservation-across-layers::π-observables-preserves::b1
-parent_heading: '**5.2 Structure Preservation Across Layers**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+- structure-formation
+aliases:
+- Bk747am
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.4074074074074066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,25 +1,49 @@
+id: INTK-9700
+location: intake/axioms-geometry::if-you-want-next::1-mermaid-full-geometry-stack-canonical::b1
+source: intake\Axioms-geometry.md
+lines: 723-792
+heading: '**1\) Mermaid: Full Geometry Stack (canonical)**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
-concepts:
-- Adjacency Graph
-- Axiom
-- Classical Physics
-- Deviation Necessity
-- Deviation Operator
-- Deviational Geometry Layer
-- Deviational Levi
-- Deviational Metric
-- Deviational State Space
-- Einstein Dynamics
-- Einstein Eq
-- Einstein Tensor
-- Genesis Layer
-- Layer
-- Levi-Civita
 excerpt: '`flowchart TD` `%% ===== LAYER 0: META-GENESIS (POTENTIAL) =====` `subgraph
   MG["Meta-Genesis Layer (Potential)"]`'
-heading: '**1\) Mermaid: Full Geometry Stack (canonical)**'
-id: INTK-9700
-lines: 723-792
-location: intake/axioms-geometry::if-you-want-next::1-mermaid-full-geometry-stack-canonical::b1
-parent_heading: '**If you want next:**'
-source: intake\Axioms-geometry.md
+concepts:
+- δ
+- Deviation
+- Meta-Einstein
+- Meta-Time
+- Meta-Genesis
+- Meta-Math
+- Deviational Geometry
+- Projection
+- Adjacency
+- Curvature
+- Layer
+- end
+- ∇
+- State
+- Axiom
+aliases:
+- Bk092fl
+tags:
+- META-TIME
+- META-MATH
+- META-GENESIS
+- META-DYNAMICS
+- META-EINSTEIN
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.408163265306122
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- META-DYNAMICS
+- META-EINSTEIN
+- META-GENESIS
+- META-MATH
+- META-TIME

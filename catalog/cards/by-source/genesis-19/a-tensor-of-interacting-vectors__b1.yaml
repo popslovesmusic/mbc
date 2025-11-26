@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: the only way to represent multidimensional dependent gradients. ---
-heading: a tensor of interacting vectors —
 id: GEN19-6143
-lines: 1435-1438
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::1-scalar-slopes-tensor-slopes::a-tensor-of-interacting-vectors::b1
-parent_heading: ✅ 1\. Scalar Slopes → Tensor Slopes
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1435-1438
+heading: a tensor of interacting vectors —
+parent_heading: ✅ 1\. Scalar Slopes → Tensor Slopes
+block_type: paragraph
+excerpt: the only way to represent multidimensional dependent gradients. ---
+aliases:
+- Bk595to
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

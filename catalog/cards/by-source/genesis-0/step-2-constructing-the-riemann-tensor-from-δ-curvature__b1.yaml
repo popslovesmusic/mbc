@@ -1,16 +1,40 @@
+id: GEN0-084
+location: genesis-0/feynman-rules-interaction-vertices::3-proof-sketch-igsoa-formal::step-2-constructing-the-riemann-tensor-from-δ-curvature::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1246-1262
+heading: '**Step 2\. Constructing the Riemann tensor from δ-curvature**'
+parent_heading: '**3\. Proof Sketch (IGSOA formal)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Geometry Axiom
-- α
-- β
-- δ
 excerpt: 'Define the projected curvature: Rabcd=∑mn(αmβmn) ∇c(δ)δ(m) ∇d(δ)δ(n)−(c↔d).R\_{ab
   c d} \= \\sum\_{mn} \\left( \\alpha\_m \\beta\_{mn} \\right) \\, \\nabla^{(\\delta)}\_c
   \\delta^{(m)} \\, \\nabla^{(\\...'
-heading: '**Step 2\. Constructing the Riemann tensor from δ-curvature**'
-id: GEN0-084
-lines: 1246-1262
-location: genesis-0/feynman-rules-interaction-vertices::3-proof-sketch-igsoa-formal::step-2-constructing-the-riemann-tensor-from-δ-curvature::b1
-parent_heading: '**3\. Proof Sketch (IGSOA formal)**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- ∇
+- Axiom
+- δ-connection
+- π
+- β
+- ∑
+- δ-mode
+- α
+- ↔
+- δ-Geometry
+- δ-modes
+- if and only if
+- Geometry Axiom
+aliases:
+- Bk500dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.475409836065573
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

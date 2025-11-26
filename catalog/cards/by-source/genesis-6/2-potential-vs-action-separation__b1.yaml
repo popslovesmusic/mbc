@@ -1,13 +1,27 @@
+id: GEN6-8414
+location: genesis-6/the-harmonic-spectral-triple::i-ontological-compatibility-conditions::2-potential-vs-action-separation::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 790-805
+heading: '**2\. Potential vs Action Separation**'
+parent_heading: '**I. Ontological Compatibility Conditions**'
 block_type: paragraph
+excerpt: 'Meta-Genesis objects are *potential states* PPP. Meta-Math objects are *actualized
+  states* AAA. Consistency requires:'
 concepts:
 - Meta-Genesis
 - Meta-Math
 - δ
-excerpt: 'Meta-Genesis objects are *potential states* PPP. Meta-Math objects are *actualized
-  states* AAA. Consistency requires:'
-heading: '**2\. Potential vs Action Separation**'
-id: GEN6-8414
-lines: 790-805
-location: genesis-6/the-harmonic-spectral-triple::i-ontological-compatibility-conditions::2-potential-vs-action-separation::b1
-parent_heading: '**I. Ontological Compatibility Conditions**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+aliases:
+- Bk271mg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.172413793103448
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

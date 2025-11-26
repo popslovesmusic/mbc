@@ -1,17 +1,34 @@
+id: GEN16-3977
+location: genesis-16/untitled-document::3-mapping-the-laws-axioms::axiom-v-topology-grammar::b1
+source: genesis-16\Untitled_document.md
+lines: 2970-2978
+heading: '**Axiom V — Topology / Grammar**'
+parent_heading: '**⭐ 3\. Mapping the Laws (Axioms)**'
 block_type: table
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Formed Proof Axiom
-- Meta-Math
-- Topology Axiom
-- Well-Formed
 excerpt: G(Topology Axiom)=Well-Formed Proof Axiom\\boxed{G(\\text{Topology Axiom})=\\text{Well-Formed
   Proof Axiom}}G(Topology Axiom)=Well-Formed Proof Axiom​ ---
-heading: '**Axiom V — Topology / Grammar**'
-id: GEN16-3977
-lines: 2970-2978
-location: genesis-16/untitled-document::3-mapping-the-laws-axioms::axiom-v-topology-grammar::b1
-parent_heading: '**⭐ 3\. Mapping the Laws (Axioms)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Axiom
+- Proof
+- Meta-Math
+- Box Calculus
+- Well-Formed
+- Formed Proof Axiom
+- Topology Axiom
+- Box
+- E-loops
+aliases:
+- Bk542bc
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

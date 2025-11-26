@@ -1,13 +1,29 @@
+id: GEN2-6433
+location: genesis-2/axioms-of-geometry-topos-compatible::section-iii-δφ-structural-unity::unified-axiom-u-1-layer-adjointness::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1554-1560
+heading: '**Unified Axiom (U-1) — Layer Adjointness**'
+parent_heading: '**Section III — δ–Φ Structural Unity**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Φ
-- δ
 excerpt: 'There exists an adjoint pair Φ:δ-Geom    ⇄    Meta-Math:U.\\Phi : \\delta\\text{-Geom}
   \\;\\;\\rightleftarrows\\;\\; \\text{Meta-Math} : U.Φ:δ-Geom⇄Meta-Math:U. ---'
-heading: '**Unified Axiom (U-1) — Layer Adjointness**'
-id: GEN2-6433
-lines: 1554-1560
-location: genesis-2/axioms-of-geometry-topos-compatible::section-iii-δφ-structural-unity::unified-axiom-u-1-layer-adjointness::b1
-parent_heading: '**Section III — δ–Φ Structural Unity**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Meta-Math
+- δ-Geom
+- δ
+- Φ
+aliases:
+- Bk939te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

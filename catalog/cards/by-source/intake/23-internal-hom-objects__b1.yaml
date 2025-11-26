@@ -1,11 +1,27 @@
+id: INTK-10463
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-scale-stack-s-an-topos::23-internal-hom-objects::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1625-1628
+heading: '**2.3. Internal Hom-Objects**'
+parent_heading: '**2. The Scale-Stack (S): An ∞-Topos**'
 block_type: paragraph
-concepts: []
 excerpt: S has rich internal Hom-objects (`Hom_S(X, Y)`) that represent the space
   of all possible transformations or connections between deviation configurations
   `X` and `Y` within the topos. ---
-heading: '**2.3. Internal Hom-Objects**'
-id: INTK-10463
-lines: 1625-1628
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-scale-stack-s-an-topos::23-internal-hom-objects::b1
-parent_heading: '**2. The Scale-Stack (S): An ∞-Topos**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Hom-objects
+aliases:
+- Bk822hr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

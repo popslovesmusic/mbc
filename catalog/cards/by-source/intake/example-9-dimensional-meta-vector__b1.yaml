@@ -1,19 +1,34 @@
+id: INTK-10372
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector::formal-definition::example-9-dimensional-meta-vector::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1094-1101
+heading: 'Example: 9-Dimensional Meta-Vector'
+parent_heading: Formal Definition
 block_type: paragraph
-concepts:
-- Interaction Triad
-- Manifestation Triad
-- Meta-Fractal
-- Meta-Vector
-- Propagation Triad
-- δ
-- ρ
-- σ
-- τ
 excerpt: 'In the 9x9 Meta-Fractal framework, a Meta-Vector might have components corresponding
   to: - Manifestation Triad: `(δ_A, δ_H, δ_F)` - Propagation Triad: `(δ_τ, δ_σ, δ_ρ)`'
-heading: 'Example: 9-Dimensional Meta-Vector'
-id: INTK-10372
-lines: 1094-1101
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector::formal-definition::example-9-dimensional-meta-vector::b1
-parent_heading: Formal Definition
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- δ
+- τ
+- σ
+- ρ
+- Meta-Fractal
+- Meta-Vector
+- Manifestation Triad
+- Interaction Triad
+- Propagation Triad
+aliases:
+- Bk362tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

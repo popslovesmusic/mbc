@@ -1,11 +1,24 @@
-block_type: paragraph
-concepts:
-- Stillness
-- Ψ
-excerpt: For a long moment— a moment that has no length, no before,
-heading: '***A narrative interlude between the Zero-State and the First Adjacency***'
 id: GEN4-7830
-lines: 253-288
 location: genesis-4/the-first-adjacency::the-crack-in-perfect-stillness::a-narrative-interlude-between-the-zero-state-and-the-first-adjacency::b1
-parent_heading: '**The Crack in Perfect Stillness**'
 source: genesis-4\The_First_Adjacency.md
+lines: 253-288
+heading: '***A narrative interlude between the Zero-State and the First Adjacency***'
+parent_heading: '**The Crack in Perfect Stillness**'
+block_type: paragraph
+excerpt: For a long moment— a moment that has no length, no before,
+concepts:
+- Ψ
+- Stillness
+- Ψ₀
+aliases:
+- Bk978fl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 2.7522935779816518
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

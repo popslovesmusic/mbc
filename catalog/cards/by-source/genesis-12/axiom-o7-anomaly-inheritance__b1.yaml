@@ -1,14 +1,26 @@
+id: GEN12-1642
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-π-observables::axiom-o7-anomaly-inheritance::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1746-1754
+heading: '**Axiom O7 (Anomaly Inheritance).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Π → Observables ⟡**'
 block_type: paragraph
-concepts:
-- expected
-- Π
-- Φ
 excerpt: 'Observational anomalies (cold spots, axis alignments, hemispherical asymmetry)
   arise from structural features of Φ: Anomalies=Π(degeneracies and symmetry defects
   in Φ).\\text{Anomalies} \= \\Pi(\\text...'
-heading: '**Axiom O7 (Anomaly Inheritance).**'
-id: GEN12-1642
-lines: 1746-1754
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-π-observables::axiom-o7-anomaly-inheritance::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Π → Observables ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Φ
+- Π
+- expected
+aliases:
+- Bk476oa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.521739130434782
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,9 +1,23 @@
-block_type: list
-concepts: []
-excerpt: '* GR, QM, SM, cosmology, etc. as projections. ---'
-heading: '**LEVEL 3 (Physics)**'
 id: INTK-9756
-lines: 193-197
 location: intake/meta-genesis-core-papers-foundations::placement-in-the-full-axiom-stack::level-3-physics::b1
-parent_heading: '**Placement in the Full Axiom Stack**'
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 193-197
+heading: '**LEVEL 3 (Physics)**'
+parent_heading: '**Placement in the Full Axiom Stack**'
+block_type: list
+excerpt: '* GR, QM, SM, cosmology, etc. as projections. ---'
+aliases:
+- Bk698ce
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

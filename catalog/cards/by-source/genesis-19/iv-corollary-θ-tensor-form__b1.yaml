@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Θ
-- α
-excerpt: 'This is the compact tensor expression you asked for. Define vectors and
-  matrices: * curvature vector:'
-heading: '**IV. Corollary: Θ-Tensor Form**'
 id: GEN19-5912
-lines: 493-514
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::iv-corollary-θ-tensor-form::b1
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 493-514
+heading: '**IV. Corollary: Θ-Tensor Form**'
+block_type: paragraph
+excerpt: 'This is the compact tensor expression you asked for. Define vectors and
+  matrices: * curvature vector:'
+concepts:
+- α
+- κ
+- Θ
+- ∑
+aliases:
+- Bk474tt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.418803418803419
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

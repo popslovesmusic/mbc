@@ -1,11 +1,31 @@
+id: GEN4-7926
+location: genesis-4/the-first-adjacency::the-first-law-stability-of-patterns::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 2045-2060
+heading: '**The First Law — Stability of Patterns**'
 block_type: paragraph
+excerpt: 'Let A\\mathcal{A}A be the δ-adjacency structure. Let P⊆AP \\subseteq \\mathcal{A}P⊆A
+  be any relational pattern. Then:'
 concepts:
 - Meta-Time
 - δ
-excerpt: 'Let A\\mathcal{A}A be the δ-adjacency structure. Let P⊆AP \\subseteq \\mathcal{A}P⊆A
-  be any relational pattern. Then:'
-heading: '**The First Law — Stability of Patterns**'
-id: GEN4-7926
-lines: 2045-2060
-location: genesis-4/the-first-adjacency::the-first-law-stability-of-patterns::b1
-source: genesis-4\The_First_Adjacency.md
+- ∃
+- ≥
+- δ-adjacency
+- δ-stable
+- δk
+aliases:
+- Bk058lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.433734939759036
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

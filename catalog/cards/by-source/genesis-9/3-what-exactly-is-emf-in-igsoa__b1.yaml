@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- not
-- Φ
-- γ
-- μ
-- ν
-excerpt: 'EMF is **not** electricity in general. EMF is a **U(1) covariant potential
-  difference**. Let:'
-heading: '**3\. What Exactly Is EMF in IGSOA?**'
 id: GEN9-9550
-lines: 1963-1991
 location: genesis-9/strong-force::3-what-exactly-is-emf-in-igsoa::b1
 source: genesis-9\strong-force.md
+lines: 1963-1991
+heading: '**3\. What Exactly Is EMF in IGSOA?**'
+block_type: paragraph
+excerpt: 'EMF is **not** electricity in general. EMF is a **U(1) covariant potential
+  difference**. Let:'
+concepts:
+- μ
+- IGSOA
+- ν
+- γ
+- Φ
+- →
+- Axiom
+- Φ-projected
+- θ
+- not
+aliases:
+- Bk014en
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,32 @@
+id: GEN0-072
+location: genesis-0/feynman-rules-interaction-vertices::vi-clean-mass-hierarchy-theorem-drop-into-the-book::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1094-1106
+heading: '**VI. Clean Mass Hierarchy Theorem (drop into the book)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: mF  ∝  dnF fˉnF    with    dn=2(2n+1).\\boxed{ m\_F \\;\\propto\\; d\_{n\_F}\\,
   \\bar f\_{n\_F} \\;\\;\\text{with}\\;\\; d\_n \= 2(2n+1). }mF​∝dnF​​fˉ​nF​​withdn​=2(2n+1).​
   Thus the **δ-shell hierarch...
-heading: '**VI. Clean Mass Hierarchy Theorem (drop into the book)**'
-id: GEN0-072
-lines: 1094-1106
-location: genesis-0/feynman-rules-interaction-vertices::vi-clean-mass-hierarchy-theorem-drop-into-the-book::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ-shell hierarchy
+- ∑
+- Ψ
+- ∈
+- physical flavor hierarchy
+- δ-shell
+- δ
+aliases:
+- Bk870dw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.1946902654867255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,37 @@
+id: GEN6-8338
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::7-what-id-plug-in-next-if-you-want::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1078-1089
+heading: '**7\) What I’d plug in next (if you want)**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
-concepts:
-- α
-- δ
-- λ
-- ν
 excerpt: 'To make this *fully explicit in your spectrum law*, we’d do: 1. **Compute
   ppp** from your δ-harmonic eigenvalue asymptotics λn∼nα\\lambda\_n \\sim n^\\alphaλn​∼nα
   ⇒ p=1/αp \= 1/\\alphap=1/α (up to you...'
-heading: '**7\) What I’d plug in next (if you want)**'
-id: GEN6-8338
-lines: 1078-1089
-location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::7-what-id-plug-in-next-if-you-want::b1
-parent_heading: '**If you want next:**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- λ
+- α
+- δ-eigenvalue
+- closed-form
+- δ-harmonic
+- ν
+- δ-heat
+- Compute ppp
+- δA
+- δa
+aliases:
+- Bk142mt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.576923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

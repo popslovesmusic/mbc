@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'The transition is forced by the following conditions:'
-heading: '**2\. Necessary Conditions (Axioms Feeding the Transition)**'
 id: INTK-9842
-lines: 1189-1191
 location: intake/meta-genesis-core-papers-foundations::2-necessary-conditions-axioms-feeding-the-transition::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1189-1191
+heading: '**2\. Necessary Conditions (Axioms Feeding the Transition)**'
+block_type: paragraph
+excerpt: 'The transition is forced by the following conditions:'
+aliases:
+- Bk223tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

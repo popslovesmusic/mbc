@@ -1,20 +1,38 @@
+id: INTK-10825
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::string-theory-and-spin-networks-connection::strings-as-deviation-filaments::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2652-2670
+heading: Strings as Deviation Filaments
+parent_heading: String Theory and Spin Networks Connection
 block_type: paragraph
-concepts:
-- Calabi-Yau
-- Correspondence
-- Meta-Time
-- Π
-- δ
-- λ
-- μ
-- σ
-- τ
 excerpt: '**String-like objects arise when**: 1. Deviation concentrates along quasi-1D
   chain of peaksets: χ = χ(σ), δ(χ(σ),τ) ≠ 0 2. Dominant dynamics approximated by
   worldsheet action: S_eff[χ(σ,τ)] ≈ ∫dσ dτ L...'
-heading: Strings as Deviation Filaments
-id: INTK-10825
-lines: 2652-2670
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::string-theory-and-spin-networks-connection::strings-as-deviation-filaments::b1
-parent_heading: String Theory and Spin Networks Connection
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- σ
+- τ
+- Meta-Time
+- χ
+- Deviation
+- String-like objects arise when
+- μ
+- Eigen-deviation
+- harmonic-like
+- String-like
+- Calabi-Yau
+- ≠
+- ∫
+- Π
+- ≈
+aliases:
+- Bk582sl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

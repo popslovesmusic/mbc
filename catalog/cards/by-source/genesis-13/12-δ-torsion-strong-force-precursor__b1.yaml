@@ -1,13 +1,32 @@
+id: GEN13-2005
+location: genesis-13/meta-math-nuclear-physics::1-δ-layer-meta-genesis-geometry::12-δ-torsion-strong-force-precursor::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 43-53
+heading: '**1.2 δ-Torsion \= Strong-force precursor**'
+parent_heading: '**1\. δ-Layer (Meta-Genesis Geometry)**'
 block_type: paragraph
-concepts:
-- Strong Force
-- δ
 excerpt: 'The **strong force** in IGSOA is: Strong Force  ≡  curvature of δ-adjacency\\text{Strong
   Force} \\;\\equiv\\; \\text{curvature of δ-adjacency}Strong Force≡curvature of δ-adjacency
   Specifically:'
-heading: '**1.2 δ-Torsion \= Strong-force precursor**'
-id: GEN13-2005
-lines: 43-53
-location: genesis-13/meta-math-nuclear-physics::1-δ-layer-meta-genesis-geometry::12-δ-torsion-strong-force-precursor::b1
-parent_heading: '**1\. δ-Layer (Meta-Genesis Geometry)**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- IGSOA
+- δ-adjacency
+- Strong Force
+- →
+- strong force
+aliases:
+- Bk156ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

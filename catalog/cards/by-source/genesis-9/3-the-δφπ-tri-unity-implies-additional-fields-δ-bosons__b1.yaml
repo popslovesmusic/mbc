@@ -1,15 +1,40 @@
-block_type: paragraph
-concepts:
-- Harmonic Spectrum
-- Π
-- Φ
-- δ
-excerpt: 'From the δ-Hessian and the δ-Harmonic Spectrum: * δ has a **spectral decomposition**
-  with harmonic modes * linearization gives a **tower of excitations**'
-heading: '**3\. The δ→Φ→Π Tri-Unity Implies Additional Fields (δ-Bosons)**'
 id: GEN9-9209
-lines: 66-84
 location: genesis-9/does-meta-genesis-indicate-new-physics::does-meta-genesis-indicate-new-physics-yes-in-three-independent-ways::3-the-δφπ-tri-unity-implies-additional-fields-δ-bosons::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 66-84
+heading: '**3\. The δ→Φ→Π Tri-Unity Implies Additional Fields (δ-Bosons)**'
 parent_heading: '**Does Meta-Genesis Indicate New Physics? — Yes, in Three Independent
   Ways**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+block_type: paragraph
+excerpt: 'From the δ-Hessian and the δ-Harmonic Spectrum: * δ has a **spectral decomposition**
+  with harmonic modes * linearization gives a **tower of excitations**'
+concepts:
+- δ
+- IGSOA
+- δ-boson masses
+- δ-connection
+- coarse-grain
+- higher-mode
+- Higgs-like
+- δ-Harmonic
+- δ-Hessian
+- δ-scalar
+- δ-vector
+- Π-sector
+- spectral decomposition
+- Φ-trace
+- δ-boson
+aliases:
+- Bk126ft
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 32.20338983050847
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

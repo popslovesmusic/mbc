@@ -1,14 +1,38 @@
-block_type: list
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Dimensional Projection Law
-- δ
-excerpt: 1. **A sealed Axiom Box:** “The 3–6–9 Dimensional Projection Law (IGSOA \+
-  δ)” 2. **A diagram:**
-heading: '**📦 If you want, I can now create:**'
 id: SPEC-11089
-lines: 1823-1837
 location: special/specil::if-you-want-i-can-now-create::b1
 source: special\specil.md
+lines: 1823-1837
+heading: '**📦 If you want, I can now create:**'
+block_type: list
+excerpt: 1. **A sealed Axiom Box:** “The 3–6–9 Dimensional Projection Law (IGSOA \+
+  δ)” 2. **A diagram:**
+concepts:
+- A white-paper section explaining dimensional projection of monistic systems
+- Projection
+- IGSOA
+- Axiom
+- →
+- Theorem
+- Proof
+- Box
+- white-paper
+- Dimensional Projection Law
+- δ
+- Axiom Box
+aliases:
+- Bk399sa
+tags:
+- axiom-box
+- proof
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.53191489361702
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

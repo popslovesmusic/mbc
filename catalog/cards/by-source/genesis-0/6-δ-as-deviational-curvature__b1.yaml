@@ -1,12 +1,32 @@
+id: GEN0-314
+location: genesis-0/why-the-first-action-is-necessary::6-δ-as-deviational-curvature::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1173-1191
+heading: '**6\. δ as Deviational Curvature**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- δ
 excerpt: 'The δ-boson couples to curvature via: LδR=gδ δ R+gδ2 δ2R+⋯\\mathcal{L}\_{\\delta
   R} \= g\_{\\delta} \\, \\delta \\, R \+ g\_{\\delta^2} \\, \\delta^2 R \+ \\cdotsLδR​=gδ​δR+gδ2​δ2R+⋯
   This gives:'
-heading: '**6\. δ as Deviational Curvature**'
-id: GEN0-314
-lines: 1173-1191
-location: genesis-0/why-the-first-action-is-necessary::6-δ-as-deviational-curvature::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ
+- Meta-Einstein
+- IGSOA
+- Meta-Einstein corrections
+- curvature-induced
+- dark-gravity
+- δ-boson
+- δR
+aliases:
+- Bk806tb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.666666666666668
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

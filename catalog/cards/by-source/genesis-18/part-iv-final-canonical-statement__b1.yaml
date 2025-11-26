@@ -1,16 +1,40 @@
+id: GEN18-5267
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iv-final-canonical-statement::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1829-1843
+heading: '**PART IV — Final Canonical Statement**'
 block_type: table
-concepts:
-- Box
-- Π
-- Φ
-- δ
-- ρ
-- τ
 excerpt: 'Final core equations: Oδ(2)  →ρΦ  BoxΦ  →Π  Poset\\mathcal{O}^{(2)}\_\\delta
   \\;\\xrightarrow{\\rho\_\\Phi}\\; \\mathbf{Box}\_\\Phi \\;\\xrightarrow{\\Pi}\\;
   \\mathbf{Poset}Oδ(2)​ρΦ​​BoxΦ​Π​Poset Π=La...'
-heading: '**PART IV — Final Canonical Statement**'
-id: GEN18-5267
-lines: 1829-1843
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iv-final-canonical-statement::b1
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- δ
+- Φ
+- Π
+- δ-geometry
+- ρ
+- Box
+- IGSOA
+- MBC
+- →
+- δ-modes
+- τ
+- δ-composites
+- universal causal completion
+- δ-curvature
+- δ-preorders
+aliases:
+- Bk783si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

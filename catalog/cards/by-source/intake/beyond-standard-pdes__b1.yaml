@@ -1,15 +1,33 @@
+id: INTK-10431
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::motivation::beyond-standard-pdes::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1415-1424
+heading: Beyond Standard PDEs
+parent_heading: Motivation
 block_type: paragraph
+excerpt: 'Traditional PDEs are designed for smooth functions on Euclidean or manifold
+  spaces with fixed metrics. These are inadequate for Meta-Math where: - The fundamental
+  field (Ψ) describes deviation on a fr...'
 concepts:
 - Meta-Math
 - Meta-Time
 - Ψ
+- scale-covariant
+- scale-layered
+- non-local
+- Meta-PDEs
 - τ
-excerpt: 'Traditional PDEs are designed for smooth functions on Euclidean or manifold
-  spaces with fixed metrics. These are inadequate for Meta-Math where: - The fundamental
-  field (Ψ) describes deviation on a fr...'
-heading: Beyond Standard PDEs
-id: INTK-10431
-lines: 1415-1424
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::motivation::beyond-standard-pdes::b1
-parent_heading: Motivation
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+aliases:
+- Bk828tp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.75609756097561
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

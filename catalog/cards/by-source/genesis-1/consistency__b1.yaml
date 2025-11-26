@@ -1,12 +1,31 @@
+id: GEN1-552
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::8-summary-of-the-axioms::consistency::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 657-665
+heading: '**Consistency**'
+parent_heading: '**8\. Summary of the Axioms**'
 block_type: list
+excerpt: '* A7.1 Stability * A7.2 Genesis closure * A7.3 Meta-Genesis ↔ Meta-Math
+  compatibility'
 concepts:
 - Meta-Genesis
 - Meta-Math
-excerpt: '* A7.1 Stability * A7.2 Genesis closure * A7.3 Meta-Genesis ↔ Meta-Math
-  compatibility'
-heading: '**Consistency**'
-id: GEN1-552
-lines: 657-665
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::8-summary-of-the-axioms::consistency::b1
-parent_heading: '**8\. Summary of the Axioms**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+- ↔
+aliases:
+- Bk007a
+tags:
+- A7
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A7

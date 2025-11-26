@@ -1,17 +1,37 @@
+id: GEN17-5087
+location: genesis-17/mbc-schema-3::5-new-adjoint-triple-meta-level::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1100-1118
+heading: '**5\. New Adjoint Triple (Meta-Level)**'
 block_type: paragraph
+excerpt: 'At the meta-layer, we obtain a new adjoint triple: Δ  ⊣  R  ⊣  Ω\\boxed{
+  \\Delta \\;\\dashv\\; R \\;\\dashv\\; \\Omega }Δ⊣R⊣Ω​ Meaning:'
 concepts:
+- Ω
+- Δ
+- Π
+- δ
+- Φ
+- meta-structures
+- higher-order
+- meta-Boxes
+- meta-layer
 - 'Boxes
 
 
   This'
-- Π
-- Φ
-- Ω
-- δ
-excerpt: 'At the meta-layer, we obtain a new adjoint triple: Δ  ⊣  R  ⊣  Ω\\boxed{
-  \\Delta \\;\\dashv\\; R \\;\\dashv\\; \\Omega }Δ⊣R⊣Ω​ Meaning:'
-heading: '**5\. New Adjoint Triple (Meta-Level)**'
-id: GEN17-5087
-lines: 1100-1118
-location: genesis-17/mbc-schema-3::5-new-adjoint-triple-meta-level::b1
-source: genesis-17\MBC_Schema_3.md
+aliases:
+- Bk126tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

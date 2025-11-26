@@ -1,14 +1,31 @@
+id: SPEC-10998
+location: special/specil::putting-it-together-the-full-kinetic-triad::b1
+source: special\specil.md
+lines: 476-484
+heading: '**🧠 Putting it together: the full kinetic triad**'
 block_type: paragraph
-concepts:
-- Kinetic Tri
-- Phase Law
-- Tri-Phase
-- δ
 excerpt: 'Your line becomes formally: IGS (potential kinetics)    ⟶    OA (kinetics
   realized)    ⟶    δ (kinetics actualized into asymmetric form)\\text{IGS (potential
   kinetics)} \\;\\;\\longrightarrow\\;\\; \\...'
-heading: '**🧠 Putting it together: the full kinetic triad**'
-id: SPEC-10998
-lines: 476-484
-location: special/specil::putting-it-together-the-full-kinetic-triad::b1
-source: special\specil.md
+concepts:
+- IGSOA
+- IGSOA Kinetic Tri-Phase Law
+- δ
+- Tri-Phase
+- Kinetic Tri
+- Phase Law
+aliases:
+- Bk691yl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.16949152542373
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

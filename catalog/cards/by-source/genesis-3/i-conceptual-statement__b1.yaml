@@ -1,15 +1,36 @@
+id: GEN3-7499
+location: genesis-3/the-tri-unity-theorem::i-conceptual-statement::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 271-279
+heading: '**I. Conceptual Statement**'
 block_type: paragraph
-concepts:
-- Field
-- Field Equation
-- gravity
-- Φ
-- δ
 excerpt: 'The δ–Φ Field Equation states: **Curvature is the self-interaction of deviation
   δ, shaped by the form-operator Φ, projected into realized physics by π.** This one
   equation generates both **gravity** (...'
-heading: '**I. Conceptual Statement**'
-id: GEN3-7499
-lines: 271-279
-location: genesis-3/the-tri-unity-theorem::i-conceptual-statement::b1
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Curvature
+- δ
+- Φ
+- Field
+- self-interaction
+- form-operator
+- δ-curvature
+- Φ-chromatic
+- π
+- Field Equation
+- gravity
+aliases:
+- Bk544tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.581395348837212
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

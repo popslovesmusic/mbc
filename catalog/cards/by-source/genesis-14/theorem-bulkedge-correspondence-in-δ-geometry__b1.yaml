@@ -1,15 +1,40 @@
+id: GEN14-3004
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::the-bulkedge-correspondence-theorem-δ-geometry::theorem-bulkedge-correspondence-in-δ-geometry::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1193-1221
+heading: '**Theorem (Bulk–Edge Correspondence in δ-Geometry)**'
+parent_heading: '**THE BULK–EDGE CORRESPONDENCE THEOREM (δ-Geometry)**'
 block_type: paragraph
-concepts:
-- Edge Modes
-- Π
-- Φ
-- δ
 excerpt: Let Aδ\\mathcal{A}\_\\deltaAδ​ be a δ-adjacency network decomposed into two
   curvature plateaus κbulk=const,κvacuum=const,\\kappa\_{\\text{bulk}} \= \\text{const},
   \\qquad \\kappa\_{\\text{vacuum}} \= ...
-heading: '**Theorem (Bulk–Edge Correspondence in δ-Geometry)**'
-id: GEN14-3004
-lines: 1193-1221
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::the-bulkedge-correspondence-theorem-δ-geometry::theorem-bulkedge-correspondence-in-δ-geometry::b1
-parent_heading: '**THE BULK–EDGE CORRESPONDENCE THEOREM (δ-Geometry)**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Π
+- κ
+- δ
+- Φ-projection
+- the number of Φ-modes localized at the δ-curvature boundary
+- Δ
+- difference of Π-multiplicity indices
+- Φ
+- δ-curvature
+- Π-stable
+- Φ-modes
+- Edge Modes
+- Π-multiplicity
+- δ-adjacency
+- Φ-harmonic
+aliases:
+- Bk907lm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.743169398907105
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

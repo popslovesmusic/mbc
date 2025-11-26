@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- ρ
-- σ
-excerpt: 'Metadata M M is a structured set:'
-heading: C1.1 What Metadata Represents
 id: GEN20-7260
-lines: 8069-8089
 location: genesis-20/mbc-40-documentaitio-1::c11-what-metadata-represents::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 8069-8089
+heading: C1.1 What Metadata Represents
+block_type: paragraph
+excerpt: 'Metadata M M is a structured set:'
+concepts:
+- κ
+- ρ
+- σ
+- real-valued
+aliases:
+- Bk273ms
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.47945205479452
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

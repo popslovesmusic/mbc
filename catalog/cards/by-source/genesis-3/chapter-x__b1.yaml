@@ -1,25 +1,40 @@
+id: GEN3-7312
+location: genesis-3/metagenesis::chapter-x::b1
+source: genesis-3\metagenesis.md
+lines: 586-610
+heading: '**\*\*CHAPTER X**'
 block_type: paragraph
-concepts:
-- Action Functor
-- Curv
-- Deviational Curvature Functor
-- Einstein Equation
-- Einstein Geometry
-- Meta-Einstein
-- Meta-Genesis
-- Meta-Math
-- Structure Produces Curvature
-- The Deviational Curvature Functor
-- The Genesis
-- curvature
-- deviation
-- operators
-- δ
 excerpt: The Deviational Curvature Functor\*\* *How δ-Structure Produces Curvature,
   Dynamics, and the Meta-Einstein Equation* This chapter parallels and extends **The
   Genesis–Action Functor**.
-heading: '**\*\*CHAPTER X**'
-id: GEN3-7312
-lines: 586-610
-location: genesis-3/metagenesis::chapter-x::b1
-source: genesis-3\metagenesis.md
+concepts:
+- Meta-Einstein
+- δ
+- Curvature
+- Meta-Genesis
+- Meta-Math
+- Deviation
+- Curv
+- Functor
+- Deviational Curvature Functor
+- Meta-Einstein Geometry
+- The Deviational Curvature Functor
+- curvature-bearing
+- →
+- Structure Produces Curvature
+- δ-connection
+aliases:
+- Bk724td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 19.166666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

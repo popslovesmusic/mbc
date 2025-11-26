@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which direction should we proceed?
-heading: '**D. The MBC-4.0 Monistic Semantic Category (2-category formalization)**'
 id: GEN18-5476
-lines: 1345-1347
 location: genesis-18/mbc-4::if-you-want-next::d-the-mbc-40-monistic-semantic-category-2-category-formalization::b1
-parent_heading: '**If you want next:**'
 source: genesis-18\MBC-4.md
+lines: 1345-1347
+heading: '**D. The MBC-4.0 Monistic Semantic Category (2-category formalization)**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: Which direction should we proceed?
+aliases:
+- Bk904wd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

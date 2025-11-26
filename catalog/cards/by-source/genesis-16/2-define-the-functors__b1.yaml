@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Meta-Math
-excerpt: 'We define **two functors**: 1. F:MM→BCF:\\mathbf{MM}\\to \\mathbf{BC}F:MM→BC'
-heading: '**2\. Define the Functors**'
 id: GEN16-3988
-lines: 3101-3123
 location: genesis-16/untitled-document::2-define-the-functors::b1
 source: genesis-16\Untitled_document.md
+lines: 3101-3123
+heading: '**2\. Define the Functors**'
+block_type: paragraph
+excerpt: 'We define **two functors**: 1. F:MM→BCF:\\mathbf{MM}\\to \\mathbf{BC}F:MM→BC'
+concepts:
+- Meta-Math
+- Box Calculus
+- →
+- Box
+- two functors
+aliases:
+- Bk871dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

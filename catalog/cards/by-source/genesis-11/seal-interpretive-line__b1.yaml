@@ -1,16 +1,41 @@
+id: GEN11-1222
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::seal-interpretive-line::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1566-1581
+heading: '**SEAL (Interpretive Line)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Inflation Tensor Axiom
-- Π
-- Φ
-- δ
-- η
 excerpt: Inflation’s entire spectral fingerprint is the Φ-smoothed shadow of the δ-harmonic
   tower.\\boxed{ \\text{Inflation’s entire spectral fingerprint is the Φ-smoothed
   shadow of the δ-harmonic tower.} }Inf...
-heading: '**SEAL (Interpretive Line)**'
-id: GEN11-1222
-lines: 1566-1581
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::seal-interpretive-line::b1
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- A diagram stack showing the δ-spectrum flowing into CMB spectra
+- δ
+- IGSOA
+- Φ
+- Φ-smoothed
+- δ-harmonic
+- Axiom
+- →
+- torsion-only
+- δ-spectrum
+- slow-roll
+- B-modes
+- Inflation Tensor Axiom
+- η
+- ε
+aliases:
+- Bk838ie
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.414414414414415
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

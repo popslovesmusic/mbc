@@ -1,12 +1,28 @@
+id: GEN3-7472
+location: genesis-3/the-physics-box-diagram::5-curvature-closure-axioms-δφ-meta-einstein::axiom-c3-source-tensor::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1498-1504
+heading: '**Axiom C3: Source Tensor**'
+parent_heading: '**5\. CURVATURE & CLOSURE AXIOMS (δ–Φ ⇒ Meta-Einstein)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'The only obstruction to simultaneous δ- and Φ-flatness is: TδΦ:=δ(Φ)+Φ(δ).T\_{\\delta\\Phi}
   := \\delta(\\Phi) \+ \\Phi(\\delta).TδΦ​:=δ(Φ)+Φ(δ). ---'
-heading: '**Axiom C3: Source Tensor**'
-id: GEN3-7472
-lines: 1498-1504
-location: genesis-3/the-physics-box-diagram::5-curvature-closure-axioms-δφ-meta-einstein::axiom-c3-source-tensor::b1
-parent_heading: '**5\. CURVATURE & CLOSURE AXIOMS (δ–Φ ⇒ Meta-Einstein)**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- δ
+- Φ
+- Φ-flatness
+aliases:
+- Bk639to
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

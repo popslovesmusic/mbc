@@ -1,13 +1,30 @@
+id: GEN20-7180
+location: genesis-20/mbc-40-documentaitio-1::are-mbc-operations-differential-equations-in-disguise::so-yes::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6839-6843
+heading: 'So yes:'
+parent_heading: ⭐ Are MBC operations differential equations in disguise?
 block_type: paragraph
-concepts:
-- Field
-- Semantic Field Theory
 excerpt: MBC contains a semantic differential-equation system hidden inside the calculus
   itself. We will expose that fully when we reach the Semantic Field Theory chapters
   (Part V). ---
-heading: 'So yes:'
-id: GEN20-7180
-lines: 6839-6843
-location: genesis-20/mbc-40-documentaitio-1::are-mbc-operations-differential-equations-in-disguise::so-yes::b1
-parent_heading: ⭐ Are MBC operations differential equations in disguise?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- differential-equation
+- Field
+- Semantic Field Theory
+aliases:
+- Bk573mc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.814814814814813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,18 +1,40 @@
+id: GEN14-2984
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::the-deviationcurvature-origin-of-crystalline-order::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 931-949
+heading: '**The Deviation–Curvature Origin of Crystalline Order**'
 block_type: paragraph
-concepts:
-- Abstract
-- Axiom
-- Axiom Box
-- Box
-- Meta-Genesis
-- Π
-- Φ
-- δ
 excerpt: '*(How δ-adjacency curvature quantizes into lattice periodicity, band structure,
   and crystalline symmetry)* This paper elevates *crystalline order* from an empirical
   descriptor to a **necessary geometr...'
-heading: '**The Deviation–Curvature Origin of Crystalline Order**'
-id: GEN14-2984
-lines: 931-949
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::the-deviationcurvature-origin-of-crystalline-order::b1
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Meta-Genesis
+- δ
+- Axiom
+- →
+- Box
+- necessary geometric consequence
+- Π
+- Φ
+- δ-adjacency
+- δ-curvature
+- fixed-point
+- full outline
+- Axiom Box
+- Abstract
+aliases:
+- Bk048ha
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.17808219178082
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

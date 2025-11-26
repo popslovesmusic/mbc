@@ -1,14 +1,36 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- adjacency
-- metric
-- δ
-- δ-geometry
-excerpt: 'We reinterpret: * **adjacency** as a **relation in a projection lattice**
-  * **metric** via **Connes’ spectral distance**'
-heading: '**C\*-ALGEBRAIC REFORMULATION OF THE IGSOA GEOMETRY STACK\*\***'
 id: GEN5-8182
-lines: 684-700
 location: genesis-5/the-ga-8-meta-einstein-theorem::c-algebraic-reformulation-of-the-igsoa-geometry-stack::b1
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 684-700
+heading: '**C\*-ALGEBRAIC REFORMULATION OF THE IGSOA GEOMETRY STACK\*\***'
+block_type: paragraph
+excerpt: 'We reinterpret: * **adjacency** as a **relation in a projection lattice**
+  * **metric** via **Connes’ spectral distance**'
+concepts:
+- Meta-Einstein
+- δ-geometry
+- Adjacency
+- a δ-Dirac operator
+- relation in a projection lattice
+- δ
+- →
+- δ-Dirac
+- spectral action
+- adjacency
+- GNS flows
+- metric
+aliases:
+- Bk100ra
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,34 @@
-block_type: table
-concepts:
-- Axiom
-- Box
-- Monistic Box Calculus
-- Old Box Calculus
-- δ
-excerpt: 'This is now a minimal, canonical, monistic grammar. --- If you want to keep
-  going, the next rigorous step is Option C from before:'
-heading: ✅ Summary of the Rebuilt Syntax
 id: GEN17-4809
-lines: 9641-9655
 location: genesis-17/box-calculus::summary-of-the-rebuilt-syntax::b1
 source: genesis-17\box_calculus.md
+lines: 9641-9655
+heading: ✅ Summary of the Rebuilt Syntax
+block_type: table
+excerpt: 'This is now a minimal, canonical, monistic grammar. --- If you want to keep
+  going, the next rigorous step is Option C from before:'
+concepts:
+- Box Calculus
+- Axiom
+- Box
+- one-operator
+- small-step
+- δ-schedule
+- big-step
+- δ
+- Monistic Box Calculus
+- Old Box Calculus
+aliases:
+- Bk306ob
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.416666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

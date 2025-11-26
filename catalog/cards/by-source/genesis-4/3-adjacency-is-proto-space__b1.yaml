@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- Ψ
-excerpt: 'Now the key leap: **Adjacency is the ur-form of geometry.** **Space is what
-  adjacency becomes when it is iterated, stabilized, and made consistent.**'
-heading: '**3\. Adjacency IS Proto-Space**'
 id: GEN4-7822
-lines: 88-114
 location: genesis-4/the-first-adjacency::3-adjacency-is-proto-space::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 88-114
+heading: '**3\. Adjacency IS Proto-Space**'
+block_type: paragraph
+excerpt: 'Now the key leap: **Adjacency is the ur-form of geometry.** **Space is what
+  adjacency becomes when it is iterated, stabilized, and made consistent.**'
+concepts:
+- Adjacency
+- →
+- Ψ
+- Curvature
+- ur-form
+aliases:
+- Bk270nt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.504504504504505
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

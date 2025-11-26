@@ -1,13 +1,29 @@
+id: GEN16-3908
+location: genesis-16/untitled-document::2-expansion-direction-ii-category-theoretic-completion::21-define-functorial-boxes::b1
+source: genesis-16\Untitled_document.md
+lines: 2252-2258
+heading: '**2.1. Define Functorial Boxes**'
+parent_heading: '**2\. Expansion Direction II: Category-Theoretic Completion**'
 block_type: paragraph
-concepts:
-- Box
-- Π
-- Φ
 excerpt: 'A Box becomes a functor: B:Cin→CoutB:\\mathscr{C}\_{in}\\to\\mathscr{C}\_{out}B:Cin​→Cout​
   with E, A, Φ, Π as natural transformations.'
-heading: '**2.1. Define Functorial Boxes**'
-id: GEN16-3908
-lines: 2252-2258
-location: genesis-16/untitled-document::2-expansion-direction-ii-category-theoretic-completion::21-define-functorial-boxes::b1
-parent_heading: '**2\. Expansion Direction II: Category-Theoretic Completion**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Box
+- →
+- Π
+- Φ
+aliases:
+- Bk617bb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

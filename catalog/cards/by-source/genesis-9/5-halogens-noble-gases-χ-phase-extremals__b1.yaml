@@ -1,11 +1,28 @@
+id: GEN9-9151
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::deep-igsoa-commentary-why-the-table-has-this-shape::5-halogens-noble-gases-χ-phase-extremals::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1951-1958
+heading: '**5\. Halogens & Noble gases \= χ-phase extremals**'
+parent_heading: '**Deep IGSOA Commentary: Why the Table Has This Shape**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Halogens \= χ-gradient maxima Noble gases \= χ-equilibria This unifies electronegativity
   and noble gas inertness under δ-symmetry principles.
-heading: '**5\. Halogens & Noble gases \= χ-phase extremals**'
-id: GEN9-9151
-lines: 1951-1958
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::deep-igsoa-commentary-why-the-table-has-this-shape::5-halogens-noble-gases-χ-phase-extremals::b1
-parent_heading: '**Deep IGSOA Commentary: Why the Table Has This Shape**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- χ
+- δ-symmetry
+- δ
+aliases:
+- Bk404hg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

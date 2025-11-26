@@ -1,14 +1,33 @@
+id: GEN12-1907
+location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-formation-theorem::3-halo-envelope::b1
+source: genesis-12\Untitled_document.md
+lines: 2778-2786
+heading: '**3\. Halo Envelope.**'
+parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Formation Theorem ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'The galactic halo is the Π-image of the Φ₂-amplified δ-Hessian mass tower:
   Hi=Π ⁣(Φ2(Mδ)),\\mathcal{H}\_i \= \\Pi\\\!\\big(\\Phi\_2(M\_\\delta)\\big),Hi​=Π(Φ2​(Mδ​)),
   yielding stable rotation curves a...'
-heading: '**3\. Halo Envelope.**'
-id: GEN12-1907
-lines: 2778-2786
-location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-formation-theorem::3-halo-envelope::b1
-parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Formation Theorem ⟡**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Π
+- δ
+- Φ
+- long-range
+- δ-Hessian
+- Π-image
+- Φ₂
+aliases:
+- Bk338tg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.27906976744186
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

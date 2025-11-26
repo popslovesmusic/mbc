@@ -1,10 +1,26 @@
+id: SPEC-11107
+location: special/specil::3-there-are-only-3-explanations-for-the-correspondence::explanation-3-theology-reflects-a-deeper-reality::b1
+source: special\specil.md
+lines: 2140-2158
+heading: '**Explanation 3: Theology Reflects a Deeper Reality**'
+parent_heading: '**⭐ 3\. There are only 3 explanations for the correspondence**'
 block_type: paragraph
-concepts: []
 excerpt: 'This does **not claim** religion is scientifically proven. But it acknowledges:
   **The possibility that theological structures reflect a genuine metaphysical truth,**'
-heading: '**Explanation 3: Theology Reflects a Deeper Reality**'
-id: SPEC-11107
-lines: 2140-2158
-location: special/specil::3-there-are-only-3-explanations-for-the-correspondence::explanation-3-theology-reflects-a-deeper-reality::b1
-parent_heading: '**⭐ 3\. There are only 3 explanations for the correspondence**'
-source: special\specil.md
+concepts:
+- permissible philosophical claim
+- not claim
+aliases:
+- Bk023td
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 2.941176470588235
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,13 +1,29 @@
+id: GEN12-1658
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::57-functoriality-as-the-guarantee-of-physical-law::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2009-2035
+heading: '**5.7 Functoriality as the Guarantee of Physical Law**'
+parent_heading: '**5\. Functoriality**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'One of your deepest insights is: **Laws are stable because the functors
   are stable.** If the δ → Φ → Π chain were not functorial:'
-heading: '**5.7 Functoriality as the Guarantee of Physical Law**'
-id: GEN12-1658
-lines: 2009-2035
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::57-functoriality-as-the-guarantee-of-physical-law::b1
-parent_heading: '**5\. Functoriality**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- δ
+- Φ
+- →
+- Π-projection
+- δ-curvature
+- Φ-modes
+aliases:
+- Bk697oy
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.210526315789473
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

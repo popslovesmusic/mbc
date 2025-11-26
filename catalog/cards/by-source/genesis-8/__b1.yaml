@@ -1,13 +1,38 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- Π
-- Φ
-- δ
-excerpt: '--- If you want: ✔ A **diagram version** (δ → torsion → potential → Hessian
-  → tower)'
-heading: '**────────────────────────────────────────────**'
 id: GEN8-8906
-lines: 2466-2480
 location: genesis-8/meta-time-geometry-and-temporal-projection::::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2466-2480
+heading: '**────────────────────────────────────────────**'
+block_type: paragraph
+excerpt: '--- If you want: ✔ A **diagram version** (δ → torsion → potential → Hessian
+  → tower)'
+concepts:
+- Meta-Time
+- →
+- Φ-sector energy interpretation
+- Π-sector classical projection
+- Meta-Time indexed evolution
+- δ
+- δ-curvature
+- δ-torsion
+- Φ-sector
+- Π-sector
+- Π
+- Φ
+- diagram version
+- metric dual
+aliases:
+- Bk466yw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.000000000000004
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

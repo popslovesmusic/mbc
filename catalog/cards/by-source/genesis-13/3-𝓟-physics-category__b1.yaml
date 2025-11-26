@@ -1,19 +1,38 @@
+id: GEN13-2402
+location: genesis-13/the-weight-of-light::0-architecture::3-𝓟-physics-category::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1960-1984
+heading: '**3\. 𝓟 — Physics Category**'
+parent_heading: '**0\. Architecture**'
 block_type: paragraph
-concepts:
-- Commutation Theorem
-- Meta-Genesis
-- Meta-Math
-- The Tri
-- Theorem
-- Tri-Unity
-- Π
-- Φ
-- δ
 excerpt: 'Objects: geometric/dynamical structures, C\*-algebras Morphisms: physical
   time evolutions, isometries Structure: Π-projection into metric/existence'
-heading: '**3\. 𝓟 — Physics Category**'
-id: GEN13-2402
-lines: 1960-1984
-location: genesis-13/the-weight-of-light::0-architecture::3-𝓟-physics-category::b1
-parent_heading: '**0\. Architecture**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- →
+- Tri-Unity
+- δ
+- Meta-Genesis
+- Meta-Math
+- Π
+- Φ
+- Theorem
+- δ-lift
+- Π-projection
+- right-hand
+- Commutation Theorem
+- The Tri
+aliases:
+- Bk225og
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.428571428571429
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

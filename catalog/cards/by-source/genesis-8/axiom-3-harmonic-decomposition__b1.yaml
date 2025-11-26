@@ -1,12 +1,31 @@
+id: GEN8-8899
+location: genesis-8/meta-time-geometry-and-temporal-projection::::axiom-3-harmonic-decomposition::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2402-2410
+heading: '**Axiom 3 — Harmonic Decomposition**'
+parent_heading: '**────────────────────────────────────────────**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: 'The deviation field decomposes into δ-harmonic eigenmodes: δϕ(x)=∑nanψn(x),Δδψn=λn2ψn,\\delta\\phi(x)
   \= \\sum\_n a\_n \\psi\_n(x), \\qquad \\Delta\_\\delta \\psi\_n=\\lambda\_n^2\\psi\_n,δϕ(x)=n∑​an​...'
-heading: '**Axiom 3 — Harmonic Decomposition**'
-id: GEN8-8899
-lines: 2402-2410
-location: genesis-8/meta-time-geometry-and-temporal-projection::::axiom-3-harmonic-decomposition::b1
-parent_heading: '**────────────────────────────────────────────**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- ψ
+- δ
+- λ
+- δ-harmonic
+- ∑
+- Δ
+aliases:
+- Bk138td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

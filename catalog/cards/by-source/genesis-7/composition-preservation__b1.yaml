@@ -1,11 +1,29 @@
+id: GEN7-8533
+location: genesis-7/the-complete-eft-lagrangian::3-functoriality-conditions::composition-preservation::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1347-1362
+heading: '**Composition Preservation**'
+parent_heading: '**3\. Functoriality Conditions**'
 block_type: paragraph
-concepts:
-- For Genesis
 excerpt: 'For Genesis morphisms: X→fY→gZ,X \\xrightarrow{f} Y \\xrightarrow{g} Z,Xf​Yg​Z,
   the functor satisfies:'
-heading: '**Composition Preservation**'
-id: GEN7-8533
-lines: 1347-1362
-location: genesis-7/the-complete-eft-lagrangian::3-functoriality-conditions::composition-preservation::b1
-parent_heading: '**3\. Functoriality Conditions**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- →
+- operator closure
+- law emergence
+- For Genesis
+aliases:
+- Bk340fg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

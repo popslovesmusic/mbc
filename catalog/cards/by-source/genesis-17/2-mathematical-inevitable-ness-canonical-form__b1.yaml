@@ -1,12 +1,27 @@
+id: GEN17-4715
+location: genesis-17/box-calculus::2-mathematical-inevitable-ness-canonical-form::b1
+source: genesis-17\box_calculus.md
+lines: 8339-8355
+heading: ⭐ 2\. Mathematical Inevitable-ness (Canonical Form)
 block_type: paragraph
+excerpt: 'A theory becomes great when: * nothing can be removed * nothing can be simplified
+  without collapse'
 concepts:
+- Box Calculus
 - Box
 - Rewriting Box Calculus
 - λ
-excerpt: 'A theory becomes great when: * nothing can be removed * nothing can be simplified
-  without collapse'
-heading: ⭐ 2\. Mathematical Inevitable-ness (Canonical Form)
-id: GEN17-4715
-lines: 8339-8355
-location: genesis-17/box-calculus::2-mathematical-inevitable-ness-canonical-form::b1
-source: genesis-17\box_calculus.md
+aliases:
+- Bk681tb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.633802816901409
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

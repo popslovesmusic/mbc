@@ -1,14 +1,31 @@
+id: GEN12-1687
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::66-inflation-predictions::661-running-of-the-spectral-index::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2402-2408
+heading: '**6.6.1 Running of the Spectral Index**'
+parent_heading: '**6.6 Inflation Predictions**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- λ
 excerpt: 'Inflation magnifies Φ-modes, so: ns(k)=1+ddln⁡kln⁡Π(λk)n\_s(k) \= 1 \+ \\frac{d}{d\\ln
   k}\\ln\\Pi(\\lambda\_k)ns​(k)=1+dlnkd​lnΠ(λk​) predicting **a small oscillatory
   modulation** in nₛ(k).'
-heading: '**6.6.1 Running of the Spectral Index**'
-id: GEN12-1687
-lines: 2402-2408
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::66-inflation-predictions::661-running-of-the-spectral-index::b1
-parent_heading: '**6.6 Inflation Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- λ
+- Π
+- a small oscillatory modulation
+- Φ-modes
+- Φ
+aliases:
+- Bk687im
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.82051282051282
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

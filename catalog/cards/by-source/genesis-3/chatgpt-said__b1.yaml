@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: Below is the **official, canonical IGSOA** version of the
-heading: '**ChatGPT said:**'
 id: GEN3-7567
-lines: 1170-1172
 location: genesis-3/the-tri-unity-theorem::vi-optional-extensions::you-said::chatgpt-said::b1
-parent_heading: '**You said:**'
 source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1170-1172
+heading: '**ChatGPT said:**'
+parent_heading: '**You said:**'
+block_type: paragraph
+excerpt: Below is the **official, canonical IGSOA** version of the
+concepts:
+- IGSOA
+aliases:
+- Bk497bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

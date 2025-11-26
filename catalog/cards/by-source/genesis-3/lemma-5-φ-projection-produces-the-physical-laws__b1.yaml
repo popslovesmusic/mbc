@@ -1,16 +1,41 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Physics Axiom Box
-- Φ
-- δ
-- μ
-- ν
-excerpt: '**Statement.** Under the Φ-projection: PΦ(RΦ)=Gμν,PΦ(TδΦ)=8πTμν.P\_\\Phi(\\mathcal{R}\_\\Phi)
-  \= G\_{\\mu\\nu}, \\qquad P\_\\Phi(T\_{\\delta\\Phi}) \= 8\\pi T\_{\\mu\\nu}.PΦ​(RΦ​)=Gμν​,PΦ​(TδΦ​)=8πTμν...'
-heading: '**Lemma 5\. Φ-Projection Produces the Physical Laws**'
 id: GEN3-7449
-lines: 1202-1227
 location: genesis-3/the-physics-box-diagram::lemma-5-φ-projection-produces-the-physical-laws::b1
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1202-1227
+heading: '**Lemma 5\. Φ-Projection Produces the Physical Laws**'
+block_type: paragraph
+excerpt: '**Statement.** Under the Φ-projection: PΦ(RΦ)=Gμν,PΦ(TδΦ)=8πTμν.P\_\\Phi(\\mathcal{R}\_\\Phi)
+  \= G\_{\\mu\\nu}, \\qquad P\_\\Phi(T\_{\\delta\\Phi}) \= 8\\pi T\_{\\mu\\nu}.PΦ​(RΦ​)=Gμν​,PΦ​(TδΦ​)=8πTμν...'
+concepts:
+- Φ
+- μ
+- ν
+- δ
+- Φ-projection
+- π
+- ∇
+- Proof
+- Axiom
+- Box
+- stress-energy
+- Φ-curvature
+- Φ-Physics
+- Φ-source
+- Physics Axiom Box
+aliases:
+- Bk708su
+tags:
+- axiom-box
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.598425196850393
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

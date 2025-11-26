@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Cosmology Framework
-- Π
-- Φ
-- δ
-excerpt: '*(IGSOA δ–Φ–Π Cosmology Framework)* ---'
-heading: '**Formal Chapter: From δ-Structure Formation to Galaxy Formation**'
 id: GEN12-1850
-lines: 2005-2009
 location: genesis-12/untitled-document::formal-chapter-from-δ-structure-formation-to-galaxy-formation::b1
 source: genesis-12\Untitled_document.md
+lines: 2005-2009
+heading: '**Formal Chapter: From δ-Structure Formation to Galaxy Formation**'
+block_type: paragraph
+excerpt: '*(IGSOA δ–Φ–Π Cosmology Framework)* ---'
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- Cosmology Framework
+aliases:
+- Bk847ic
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 83.33333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

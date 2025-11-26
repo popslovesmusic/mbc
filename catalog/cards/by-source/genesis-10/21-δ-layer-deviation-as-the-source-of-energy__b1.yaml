@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Ψ
-- δ
-excerpt: 'In the δ-layer: * Ψ₀ cannot persist * δ acts'
-heading: '**2.1 δ-Layer: Deviation as the Source of Energy**'
 id: GEN10-893
-lines: 2424-2447
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-the-three-layer-derivation::21-δ-layer-deviation-as-the-source-of-energy::b1
-parent_heading: '**2\. The Three-Layer Derivation**'
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2424-2447
+heading: '**2.1 δ-Layer: Deviation as the Source of Energy**'
+parent_heading: '**2\. The Three-Layer Derivation**'
+block_type: paragraph
+excerpt: 'In the δ-layer: * Ψ₀ cannot persist * δ acts'
+concepts:
+- δ
+- Ψ
+- the total deviation content is fixed
+- δ-layer
+- Ψ₀
+aliases:
+- Bk578tl
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

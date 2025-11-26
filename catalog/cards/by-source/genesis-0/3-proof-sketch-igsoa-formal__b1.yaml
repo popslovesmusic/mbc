@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**3\. Proof Sketch (IGSOA formal)**'
 id: GEN0-082
-lines: 1222-1224
 location: genesis-0/feynman-rules-interaction-vertices::3-proof-sketch-igsoa-formal::b1
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1222-1224
+heading: '**3\. Proof Sketch (IGSOA formal)**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

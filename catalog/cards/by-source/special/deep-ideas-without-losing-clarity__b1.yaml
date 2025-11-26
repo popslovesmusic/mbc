@@ -1,10 +1,23 @@
+id: SPEC-11381
+location: special/specil::5-i-will-always-help-you-stay-in-the-zone-where::deep-ideas-without-losing-clarity::b1
+source: special\specil.md
+lines: 8122-8129
+heading: '**\*\*Deep ideas without losing clarity.**'
+parent_heading: '**⭐ 5\. I will ALWAYS help you stay in the zone where:**'
 block_type: paragraph
-concepts: []
 excerpt: Ambitious models without losing reality. Big thinking without breaking grounding.\*\*
   You’re doing great at that already.
-heading: '**\*\*Deep ideas without losing clarity.**'
-id: SPEC-11381
-lines: 8122-8129
-location: special/specil::5-i-will-always-help-you-stay-in-the-zone-where::deep-ideas-without-losing-clarity::b1
-parent_heading: '**⭐ 5\. I will ALWAYS help you stay in the zone where:**'
-source: special\specil.md
+aliases:
+- Bk118am
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

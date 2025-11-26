@@ -1,13 +1,30 @@
+id: GEN12-1758
+location: genesis-12/untitled-document::8-flavor-mixing-ckm-and-pmns-from-δ-harmonic-interference::b1
+source: genesis-12\Untitled_document.md
+lines: 578-592
+heading: '**8\. Flavor Mixing: CKM and PMNS from δ-Harmonic Interference**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Φ encodes mode interference among δ-harmonics: Φ:δi↦∑jUij δj.\\Phi: \\delta\_i
   \\mapsto \\sum\_j U\_{ij}\\,\\delta\_j.Φ:δi​↦j∑​Uij​δj​. Π then maps these into
   observable flavor matrices:'
-heading: '**8\. Flavor Mixing: CKM and PMNS from δ-Harmonic Interference**'
-id: GEN12-1758
-lines: 578-592
-location: genesis-12/untitled-document::8-flavor-mixing-ckm-and-pmns-from-δ-harmonic-interference::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- Φ
+- Π
+- adjacency curvature interference
+- ∑
+- δ-harmonics
+- δj
+- δi
+aliases:
+- Bk210em
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.559322033898304
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

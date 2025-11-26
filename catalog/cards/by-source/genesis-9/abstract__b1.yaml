@@ -1,13 +1,37 @@
+id: GEN9-9560
+location: genesis-9/strong-force::abstract::b1
+source: genesis-9\strong-force.md
+lines: 2142-2161
+heading: '**Abstract**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: In IGSOA, electromagnetism is not a primitive force, nor a separate axiom.
   It is the **U(1) residual phase symmetry** that survives when the δ-torsion–induced
   SU(2) θ-doublet passes through the Φ-proj...
-heading: '**Abstract**'
-id: GEN9-9560
-lines: 2142-2161
-location: genesis-9/strong-force::abstract::b1
-source: genesis-9\strong-force.md
+concepts:
+- Φ-projection
+- →
+- IGSOA
+- phase-preserving natural transformation
+- Φ
+- δ
+- Axiom
+- δ-torsion
+- θ
+- phase-preserving
+- trace-invariance
+- Φ-induced
+- Π
+aliases:
+- Bk979ie
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.711711711711711
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

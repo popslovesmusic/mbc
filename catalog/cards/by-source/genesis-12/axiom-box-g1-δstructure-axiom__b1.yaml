@@ -1,12 +1,28 @@
+id: GEN12-1857
+location: genesis-12/untitled-document::2-axiom-boxes-used::axiom-box-g1-δstructure-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 2092-2094
+heading: '**Axiom Box G1 — δ→Structure Axiom**'
+parent_heading: '**2\. Axiom Boxes Used**'
 block_type: paragraph
+excerpt: Cosmic structure is Π(Φ₁(δ)).
 concepts:
 - Π
-- Φ
 - δ
-excerpt: Cosmic structure is Π(Φ₁(δ)).
-heading: '**Axiom Box G1 — δ→Structure Axiom**'
-id: GEN12-1857
-lines: 2092-2094
-location: genesis-12/untitled-document::2-axiom-boxes-used::axiom-box-g1-δstructure-axiom::b1
-parent_heading: '**2\. Axiom Boxes Used**'
-source: genesis-12\Untitled_document.md
+- Φ
+- Φ₁
+aliases:
+- Bk011cs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

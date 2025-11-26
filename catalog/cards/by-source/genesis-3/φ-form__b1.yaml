@@ -1,11 +1,26 @@
+id: GEN3-7376
+location: genesis-3/the-physics-box-diagram::4-plain-language-outreach-version::φ-form::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 189-203
+heading: '**Φ (form)**'
+parent_heading: '**4\. PLAIN LANGUAGE OUTREACH VERSION**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Form is what deviation looks like once it becomes stable enough to be described:
   * adjacency * ordering'
-heading: '**Φ (form)**'
-id: GEN3-7376
-lines: 189-203
-location: genesis-3/the-physics-box-diagram::4-plain-language-outreach-version::φ-form::b1
-parent_heading: '**4\. PLAIN LANGUAGE OUTREACH VERSION**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- proto-geometry
+- Φ
+aliases:
+- Bk983fw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.405405405405405
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

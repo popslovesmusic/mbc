@@ -1,13 +1,32 @@
+id: GEN20-7032
+location: genesis-20/mbc-40-documentaitio-1::conclusion::143-implementation-of-δ-φ-π::step-3-π-evaluation::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4709-4730
+heading: Step 3 — Π (Evaluation)
+parent_heading: 14.3 Implementation of δ → Φ → Π
 block_type: paragraph
-concepts:
-- Axiom
-- Π
-- Φ
 excerpt: 'Π produces meaning or a structured result. Implementation tasks: * take
   Φ\_state'
-heading: Step 3 — Π (Evaluation)
-id: GEN20-7032
-lines: 4709-4730
-location: genesis-20/mbc-40-documentaitio-1::conclusion::143-implementation-of-δ-φ-π::step-3-π-evaluation::b1
-parent_heading: 14.3 Implementation of δ → Φ → Π
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Π
+- MBC
+- Axiom
+- Φ
+- MBC-native
+- truth-like
+- Π-Axiom
+aliases:
+- Bk782pm
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.76923076923077
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

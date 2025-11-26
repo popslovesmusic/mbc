@@ -1,10 +1,21 @@
+id: GEN2-6270
+location: genesis-2/axioms-for-the-category-genesis::step-4-conflicts-that-cannot-arise::conflict-3-does-maths-existence-of-duals-contradict-genesiss-prohibition::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 759-768
+heading: '**Conflict 3: Does Math’s existence of duals contradict Genesis’s prohibition?**'
+parent_heading: '**🔶 Step 4 — Conflicts That Cannot Arise**'
 block_type: paragraph
-concepts: []
 excerpt: No. Duals in Math apply only to Math objects. Genesis objects do not need
   to admit duals.
-heading: '**Conflict 3: Does Math’s existence of duals contradict Genesis’s prohibition?**'
-id: GEN2-6270
-lines: 759-768
-location: genesis-2/axioms-for-the-category-genesis::step-4-conflicts-that-cannot-arise::conflict-3-does-maths-existence-of-duals-contradict-genesiss-prohibition::b1
-parent_heading: '**🔶 Step 4 — Conflicts That Cannot Arise**'
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+aliases:
+- Bk991dm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

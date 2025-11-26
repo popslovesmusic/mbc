@@ -1,14 +1,33 @@
+id: GEN18-5152
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::chapter-how-expansion-happened-before-time-existed::6-why-the-universe-cooled-immediately::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 53-59
+heading: '**6\. Why the Universe Cooled Immediately**'
+parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
 block_type: table
+excerpt: '---'
 concepts:
-- Geometry Narrative
+- IGSOA
+- δ
+- δ-curvature
 - Standard Physics Narrative
+- δ-Geometry
 - Π
 - Φ
-- δ
-excerpt: '---'
-heading: '**6\. Why the Universe Cooled Immediately**'
-id: GEN18-5152
-lines: 53-59
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::chapter-how-expansion-happened-before-time-existed::6-why-the-universe-cooled-immediately::b1
-parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+- curvature dilution
+- Geometry Narrative
+aliases:
+- Bk362sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.254237288135593
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

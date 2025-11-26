@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'The advanced router operates in three internal stages:'
-heading: B1.3 The Router Processing Stages
 id: GEN20-7158
-lines: 6438-6440
 location: genesis-20/mbc-40-documentaitio-1::b13-the-router-processing-stages::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6438-6440
+heading: B1.3 The Router Processing Stages
+block_type: paragraph
+excerpt: 'The advanced router operates in three internal stages:'
+aliases:
+- Bk562ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

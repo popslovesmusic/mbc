@@ -1,13 +1,29 @@
+id: INTK-10247
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-meta-fractal-base-space-f::23-peakset-probability-geometry-ppg::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 356-360
+heading: '**2.3. Peakset Probability Geometry (PPG)**'
+parent_heading: '**2. The Meta-Fractal Base Space (F)**'
 block_type: paragraph
-concepts:
-- Peakset Probability Geometry
-- δ
 excerpt: F is directly identified with the **Peakset Probability Geometry (PPG)**,
   where each "point" in F corresponds to a local configuration of deviation (δ-peakset).
   ---
-heading: '**2.3. Peakset Probability Geometry (PPG)**'
-id: INTK-10247
-lines: 356-360
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-meta-fractal-base-space-f::23-peakset-probability-geometry-ppg::b1
-parent_heading: '**2. The Meta-Fractal Base Space (F)**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Peakset Probability Geometry
+- δ-peakset
+- δ
+aliases:
+- Bk496di
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

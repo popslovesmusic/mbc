@@ -1,10 +1,25 @@
+id: GEN3-7418
+location: genesis-3/the-physics-box-diagram::8-outreach-summary-plain-language::φ-is-the-first-shape::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 772-775
+heading: '**Φ is the first shape.**'
+parent_heading: '**8\. Outreach Summary (Plain Language)**'
 block_type: paragraph
+excerpt: It turns difference into structure, adjacency, and geometry. Φ is form.
 concepts:
 - Φ
-excerpt: It turns difference into structure, adjacency, and geometry. Φ is form.
-heading: '**Φ is the first shape.**'
-id: GEN3-7418
-lines: 772-775
-location: genesis-3/the-physics-box-diagram::8-outreach-summary-plain-language::φ-is-the-first-shape::b1
-parent_heading: '**8\. Outreach Summary (Plain Language)**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+aliases:
+- Bk182td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

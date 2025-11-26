@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts:
-- Θ
-- Φ
-excerpt: 'A semantic NOT is not simply: Θ↦−Θ Θ↦−Θ'
-heading: B2.5 Semantic NOT (Polarity Inversion)
 id: GEN20-7189
-lines: 6986-7011
 location: genesis-20/mbc-40-documentaitio-1::b25-semantic-not-polarity-inversion::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6986-7011
+heading: B2.5 Semantic NOT (Polarity Inversion)
+block_type: paragraph
+excerpt: 'A semantic NOT is not simply: Θ↦−Θ Θ↦−Θ'
+concepts:
+- Θ
+- counter-context
+- Φ-state
+- Φ
+aliases:
+- Bk624sn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.8431372549019605
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

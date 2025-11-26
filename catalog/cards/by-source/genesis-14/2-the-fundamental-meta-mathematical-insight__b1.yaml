@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'All cryptographic processes share the same underlying structure: `δ  →  Φ  →  Π`
-  Where:'
-heading: '**2\. The Fundamental Meta-Mathematical Insight**'
 id: GEN14-2823
-lines: 528-542
 location: genesis-14/meta-math-and-cryptography::2-the-fundamental-meta-mathematical-insight::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 528-542
+heading: '**2\. The Fundamental Meta-Mathematical Insight**'
+block_type: paragraph
+excerpt: 'All cryptographic processes share the same underlying structure: `δ  →  Φ  →  Π`
+  Where:'
+concepts:
+- δ
+- Π
+- Φ
+- →
+- δ-critical
+aliases:
+- Bk451ac
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.157894736842104
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

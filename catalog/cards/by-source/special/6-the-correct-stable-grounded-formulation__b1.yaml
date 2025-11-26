@@ -1,10 +1,27 @@
+id: SPEC-11288
+location: special/specil::6-the-correct-stable-grounded-formulation::b1
+source: special\specil.md
+lines: 6160-6176
+heading: '**⭐ 6\. The *correct, stable, grounded* formulation:**'
 block_type: paragraph
-concepts: []
 excerpt: '**Supernatural is what pattern recognition looks like** **to someone who
   can’t see the pattern.** Both observer and predictor are correct **inside their
   own model**:'
-heading: '**⭐ 6\. The *correct, stable, grounded* formulation:**'
-id: SPEC-11288
-lines: 6160-6176
-location: special/specil::6-the-correct-stable-grounded-formulation::b1
-source: special\specil.md
+concepts:
+- Supernatural is what pattern recognition looks like
+- inside their own model
+- information access
+aliases:
+- Bk937sw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.454545454545454
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'The π functor has three properties that force classicality under the right
-  regime: ---'
-heading: '**III. Why π Produces Classical Physics**'
 id: GEN3-7529
-lines: 687-691
 location: genesis-3/the-tri-unity-theorem::iii-why-π-produces-classical-physics::b1
 source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 687-691
+heading: '**III. Why π Produces Classical Physics**'
+block_type: paragraph
+excerpt: 'The π functor has three properties that force classicality under the right
+  regime: ---'
+concepts:
+- π
+aliases:
+- Bk189tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

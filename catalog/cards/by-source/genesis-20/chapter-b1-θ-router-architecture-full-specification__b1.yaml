@@ -1,9 +1,26 @@
-block_type: list
-concepts: []
-excerpt: '* Router primitives * Multi-channel inputs * Contextual weighting'
-heading: Chapter B1 — Θ-Router Architecture (Full Specification)
 id: GEN20-7065
-lines: 5129-5135
 location: genesis-20/mbc-40-documentaitio-1::part-ii-advanced-θ-router-systems::chapter-b1-θ-router-architecture-full-specification::b1
-parent_heading: PART II — Advanced Θ-Router Systems
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5129-5135
+heading: Chapter B1 — Θ-Router Architecture (Full Specification)
+parent_heading: PART II — Advanced Θ-Router Systems
+block_type: list
+excerpt: '* Router primitives * Multi-channel inputs * Contextual weighting'
+concepts:
+- Router
+- Multi-channel
+aliases:
+- Bk904rp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

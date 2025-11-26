@@ -1,14 +1,31 @@
+id: GEN4-7766
+location: genesis-4/the-adjoint-triple::2-intuition-behind-the-theorem::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 847-876
+heading: '**2\. Intuition Behind the Theorem**'
 block_type: paragraph
+excerpt: 'Meta-Genesis (MG) describes: * pure potential * adjacency relations'
 concepts:
 - Meta-Genesis
+- δ-geometry
 - Meta-Math
 - Meta-Time
 - Operator
-- first
+- Theorem
 - δ
-excerpt: 'Meta-Genesis (MG) describes: * pure potential * adjacency relations'
-heading: '**2\. Intuition Behind the Theorem**'
-id: GEN4-7766
-lines: 847-876
-location: genesis-4/the-adjoint-triple::2-intuition-behind-the-theorem::b1
-source: genesis-4\The_Adjoint_Triple.md
+- →
+aliases:
+- Bk025mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.876543209876543
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

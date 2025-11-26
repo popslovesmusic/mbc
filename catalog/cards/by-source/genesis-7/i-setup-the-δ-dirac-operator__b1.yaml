@@ -1,12 +1,35 @@
-block_type: paragraph
-concepts:
-- γ
-- δ
-- ω
-excerpt: 'Define the **δ-Dirac operator** (deviation-modified Dirac operator): Dδ:=γi(∂i+ωi+Δωi(δ))\\mathcal{D}\_\\delta
-  := \\gamma^i \\left( \\partial\_i \+ \\omega\_i \+ \\Delta \\omega\_i(\\delta) \\right)Dδ...'
-heading: '**I. Setup: The δ-Dirac Operator**'
 id: GEN7-8675
-lines: 736-752
 location: genesis-7/why-curvature-gives-gravity::i-setup-the-δ-dirac-operator::b1
 source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 736-752
+heading: '**I. Setup: The δ-Dirac Operator**'
+block_type: paragraph
+excerpt: 'Define the **δ-Dirac operator** (deviation-modified Dirac operator): Dδ:=γi(∂i+ωi+Δωi(δ))\\mathcal{D}\_\\delta
+  := \\gamma^i \\left( \\partial\_i \+ \\omega\_i \+ \\Delta \\omega\_i(\\delta) \\right)Dδ...'
+concepts:
+- δ
+- ω
+- Δ
+- γ
+- deviation-modified
+- deviation-induced
+- δ-Dirac operator
+- ∂
+- δ-curvature
+- δ-Clifford
+- δ-Dirac
+aliases:
+- Bk376dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.941176470588237
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,27 @@
+id: GEN17-4841
+location: genesis-17/box-calculus::4-asymptotic-regimes-igsoa-limits::high-curvature-δ::b1
+source: genesis-17\box_calculus.md
+lines: 10202-10212
+heading: ⭐ High Curvature (δ → ∞)
+parent_heading: 🔷 4\. Asymptotic Regimes (IGS/OA Limits)
 block_type: paragraph
+excerpt: 'OA-shadow: dΣdt≈δ(Σ) L(Σ) dt'
 concepts:
 - Σ
+- ≈
 - δ
-excerpt: 'OA-shadow: dΣdt≈δ(Σ) L(Σ) dt'
-heading: ⭐ High Curvature (δ → ∞)
-id: GEN17-4841
-lines: 10202-10212
-location: genesis-17/box-calculus::4-asymptotic-regimes-igsoa-limits::high-curvature-δ::b1
-parent_heading: 🔷 4\. Asymptotic Regimes (IGS/OA Limits)
-source: genesis-17\box_calculus.md
+- →
+- OA-shadow
+- Σdt
+aliases:
+- Bk591sa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

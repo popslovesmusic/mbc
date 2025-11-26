@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: One operator → three projections. ---
-heading: '**Causality \= temporal ordering induced by δ.**'
 id: GEN8-8753
-lines: 814-818
 location: genesis-8/corollary-einstein-compatibility-via::1-deviation-δ-generates-all-three::causality-temporal-ordering-induced-by-δ::b1
-parent_heading: '**1\. Deviation (δ) Generates All Three**'
 source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 814-818
+heading: '**Causality \= temporal ordering induced by δ.**'
+parent_heading: '**1\. Deviation (δ) Generates All Three**'
+block_type: paragraph
+excerpt: One operator → three projections. ---
+concepts:
+- →
+aliases:
+- Bk662oo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

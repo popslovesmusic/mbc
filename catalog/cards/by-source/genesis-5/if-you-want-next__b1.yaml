@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'I can produce any of the following:'
-heading: '**If you want next:**'
 id: GEN5-8147
-lines: 293-295
 location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::if-you-want-next::b1
-parent_heading: '**THE GA-8 → META-EINSTEIN THEOREM**'
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 293-295
+heading: '**If you want next:**'
+parent_heading: '**THE GA-8 → META-EINSTEIN THEOREM**'
+block_type: paragraph
+excerpt: 'I can produce any of the following:'
+aliases:
+- Bk654cp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

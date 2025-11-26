@@ -1,10 +1,28 @@
+id: GEN20-6724
+location: genesis-20/mbc-40-documentaitio-1::1-yes-mbc-40-can-update-itself-using-numerical-or-statistical-data::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 912-928
+heading: '✅ 1\. YES: MBC-4.0 can update itself using numerical or statistical data'
 block_type: paragraph
-concepts: []
 excerpt: 'The key idea: MBC-4.0 is structural in nature, but it supports dynamic statistical
   updates through metadata, polarity-weight adjustments, and connector-weight adaptation.
   In other words:'
-heading: '✅ 1\. YES: MBC-4.0 can update itself using numerical or statistical data'
-id: GEN20-6724
-lines: 912-928
-location: genesis-20/mbc-40-documentaitio-1::1-yes-mbc-40-can-update-itself-using-numerical-or-statistical-data::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- connector-weight
+- polarity-weight
+- real-time
+aliases:
+- Bk858tk
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.970149253731343
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

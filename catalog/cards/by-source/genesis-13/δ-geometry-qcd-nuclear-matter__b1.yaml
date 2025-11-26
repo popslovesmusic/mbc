@@ -1,12 +1,37 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'A rigorous, highly technical white-paper chapter that derives: * QCD color
-  structure from δ-tripoles * confinement from δ-torsion'
-heading: '**“δ-Geometry → QCD → Nuclear Matter”**'
 id: GEN13-2094
-lines: 1217-1231
 location: genesis-13/meta-math-nuclear-physics::δ-geometry-qcd-nuclear-matter::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1217-1231
+heading: '**“δ-Geometry → QCD → Nuclear Matter”**'
+block_type: paragraph
+excerpt: 'A rigorous, highly technical white-paper chapter that derives: * QCD color
+  structure from δ-tripoles * confinement from δ-torsion'
+concepts:
+- δ
+- Φ
+- Π
+- Φ-automorphisms
+- Π-projections
+- Φ-factorized
+- Π-collective
+- white-paper
+- δ-adjacency
+- δ-tripoles
+- δ-torsion
+- Φ-tensor
+- δ-modes
+aliases:
+- Bk967rh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.53061224489796
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'ATP is not “energy.” ATP is a **Π-closed δ-packet**. Formally:'
-heading: '**Stage 4 – The Product: ATP \= Π(Φ(δ))**'
 id: GEN13-2501
-lines: 618-629
 location: genesis-13/what-biology-is-in-meta-genesis::2-the-δ-φ-π-atp-pipeline::stage-4-the-product-atp-πφδ::b1
-parent_heading: '**2\. The δ → Φ → Π → ATP Pipeline**'
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 618-629
+heading: '**Stage 4 – The Product: ATP \= Π(Φ(δ))**'
+parent_heading: '**2\. The δ → Φ → Π → ATP Pipeline**'
+block_type: paragraph
+excerpt: 'ATP is not “energy.” ATP is a **Π-closed δ-packet**. Formally:'
+concepts:
+- δ
+- Π-closed δ-packet
+- Π
+- δ-orbital
+- δ-packet
+- Π-closed
+- Φ
+aliases:
+- Bk114an
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 24.137931034482758
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

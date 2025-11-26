@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-excerpt: Π converts Φ-spectrum and Φ-curvature into experimental condensed-matter
-  phenomena. ---
-heading: '**3\. Π-Layer I: Electronic Material Properties**'
 id: GEN13-2187
-lines: 2208-2212
 location: genesis-13/meta-math-nuclear-physics::3-π-layer-i-electronic-material-properties::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2208-2212
+heading: '**3\. Π-Layer I: Electronic Material Properties**'
+block_type: paragraph
+excerpt: Π converts Φ-spectrum and Φ-curvature into experimental condensed-matter
+  phenomena. ---
+concepts:
+- Φ
+- condensed-matter
+- Φ-curvature
+- Φ-spectrum
+- Π
+aliases:
+- Bk847cs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 41.66666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

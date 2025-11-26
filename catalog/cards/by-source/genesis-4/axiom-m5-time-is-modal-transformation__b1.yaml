@@ -1,16 +1,32 @@
+id: GEN4-7785
+location: genesis-4/the-adjoint-triple::the-monism-axiom-box-igsoa-foundation-layer::axiom-m5-time-is-modal-transformation::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1109-1129
+heading: '**Axiom M5 — Time Is Modal Transformation**'
+parent_heading: '**✦ THE MONISM AXIOM BOX (IGSOA Foundation Layer)**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Operator
-- Operator Evolution
-- Physical Time
-- η
 excerpt: 'The two forms of time are transformations of the same deviational process:
   * **Meta-Time** (TMeta\\mathbb{T}\_{\\text{Meta}}TMeta​) orders changes in pure
   potential. * **Physical Time** (TPhys\\mathbb...'
-heading: '**Axiom M5 — Time Is Modal Transformation**'
-id: GEN4-7785
-lines: 1109-1129
-location: genesis-4/the-adjoint-triple::the-monism-axiom-box-igsoa-foundation-layer::axiom-m5-time-is-modal-transformation::b1
-parent_heading: '**✦ THE MONISM AXIOM BOX (IGSOA Foundation Layer)**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Meta-Time
+- Operator
+- η
+- χ
+- Operator Evolution
+- modes of deviation
+- Physical Time
+aliases:
+- Bk325tt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.5420560747663545
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

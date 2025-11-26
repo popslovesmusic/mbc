@@ -1,14 +1,38 @@
+id: GEN18-5221
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::2-δ-modes-as-an-operad::21-colored-operad-of-deviation::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1062-1082
+heading: '**2.1 Colored Operad of Deviation**'
+parent_heading: '**2\. δ-Modes as an Operad**'
 block_type: table
-concepts:
-- Box
-- δ
-- δ-operad
-- ω
 excerpt: 'Colors: Col(Oδ)={box-types}\\mathrm{Col}(\\mathcal{O}\_\\delta)=\\{\\text{box-types}\\}Col(Oδ​)={box-types}
   Operations:'
-heading: '**2.1 Colored Operad of Deviation**'
-id: GEN18-5221
-lines: 1062-1082
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::2-δ-modes-as-an-operad::21-colored-operad-of-deviation::b1
-parent_heading: '**2\. δ-Modes as an Operad**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- δ
+- IGSOA
+- box-types
+- Box
+- ∈
+- δ-mode
+- ω
+- n-ary δ-mode
+- Box-state
+- δ-operad
+- δ-modes
+- n-ary
+- colored operad
+aliases:
+- Bk347si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.655737704918032
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

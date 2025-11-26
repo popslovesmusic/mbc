@@ -1,12 +1,28 @@
+id: GEN14-2645
+location: genesis-14/inflation-structure-formation::1-the-genesis-level-trigger-the-δ-inflation-mode::12-genesis-instability-condition::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 44-48
+heading: '**1.2 Genesis Instability Condition**'
+parent_heading: '**1\. The Genesis-Level Trigger: The δ-Inflation Mode**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: Show the δ-Weitzenböck curvature term **W(δ) \= δ·∇ − ∇·δ** has a positive
   eigenmode λ₊ driving exponential expansion.
-heading: '**1.2 Genesis Instability Condition**'
-id: GEN14-2645
-lines: 44-48
-location: genesis-14/inflation-structure-formation::1-the-genesis-level-trigger-the-δ-inflation-mode::12-genesis-instability-condition::b1
-parent_heading: '**1\. The Genesis-Level Trigger: The δ-Inflation Mode**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- ∇
+- λ
+aliases:
+- Bk062st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

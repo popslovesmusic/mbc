@@ -1,10 +1,30 @@
+id: GEN20-7055
+location: genesis-20/mbc-40-documentaitio-1::conclusion::154-the-vision-for-mbc-moving-forward::mid-term-goals::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5023-5030
+heading: Mid-Term Goals
+parent_heading: 15.4 The Vision for MBC Moving Forward
 block_type: list
-concepts: []
 excerpt: '* create a working semantic reasoning engine * integrate MBC with LLM-based
   semantic processes * build classification pipelines using MBC-box networks'
-heading: Mid-Term Goals
-id: GEN20-7055
-lines: 5023-5030
-location: genesis-20/mbc-40-documentaitio-1::conclusion::154-the-vision-for-mbc-moving-forward::mid-term-goals::b1
-parent_heading: 15.4 The Vision for MBC Moving Forward
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- multi-agent
+- LLM-based
+- MBC-based
+- MBC-box
+aliases:
+- Bk611cw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.705882352941178
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

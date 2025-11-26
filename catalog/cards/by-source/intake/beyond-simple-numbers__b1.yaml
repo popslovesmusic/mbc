@@ -1,16 +1,33 @@
+id: INTK-10330
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::motivation::beyond-simple-numbers::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 879-891
+heading: Beyond Simple Numbers
+parent_heading: Motivation
 block_type: paragraph
-concepts:
-- In Meta
-- Meta-Arithmetic
-- Meta-Geometric
-- Meta-Math
-- Meta-Time
 excerpt: 'Traditional arithmetic (addition, subtraction, multiplication, division)
   assumes: - Numbers are abstract, context-independent quantities. - Operations are
   linear and commutative.'
-heading: Beyond Simple Numbers
-id: INTK-10330
-lines: 879-891
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::motivation::beyond-simple-numbers::b1
-parent_heading: Motivation
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- Meta-Time
+- context-independent
+- Meta-Arithmetic
+- Meta-Geometric
+- non-linear
+- In Meta
+aliases:
+- Bk535ta
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.58904109589041
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

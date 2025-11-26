@@ -1,13 +1,33 @@
+id: GEN13-2136
+location: genesis-13/meta-math-nuclear-physics::4-φ-π-collective-structures-nuclear-matter::proposition-44-dense-matter-limit::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1662-1672
+heading: '**Proposition 4.4 — Dense Matter Limit.**'
+parent_heading: '**4\. Φ → Π Collective Structures \= Nuclear Matter**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'As baryon density increases: * Φ-transition operators dominate * Π-projected
   state becomes a collective Φ-tensor condensate'
-heading: '**Proposition 4.4 — Dense Matter Limit.**'
-id: GEN13-2136
-lines: 1662-1672
-location: genesis-13/meta-math-nuclear-physics::4-φ-π-collective-structures-nuclear-matter::proposition-44-dense-matter-limit::b1
-parent_heading: '**4\. Φ → Π Collective Structures \= Nuclear Matter**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ-geometry
+- Φ
+- →
+- Φ-transition
+- Π-projected
+- Φ-tensor
+- Π
+- δ
+aliases:
+- Bk673bd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

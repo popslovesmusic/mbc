@@ -1,14 +1,35 @@
+id: GEN12-1904
+location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-formation-theorem::theorem-gf-hermetic-form::b1
+source: genesis-12\Untitled_document.md
+lines: 2741-2752
+heading: '**Theorem GF (Hermetic Form).**'
+parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Formation Theorem ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Let δ be the Genesis deviation field and let Φ₁, Φ₂ be the linear and nonlinear
   dynamical functors of IGSOA, with Π the observational projection. Then: G={Π ⁣(Φ2 ⁣(Φ1(δ))):  Bi∈Bδ}\\boxed{
   \\mathcal{G...'
-heading: '**Theorem GF (Hermetic Form).**'
-id: GEN12-1904
-lines: 2741-2752
-location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-formation-theorem::theorem-gf-hermetic-form::b1
-parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Formation Theorem ⟡**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- Φ
+- IGSOA
+- Π
+- ∈
+- ∇
+- δ-curvature
+- Φ₁
+- Φ₂
+aliases:
+- Bk455lt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

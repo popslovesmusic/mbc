@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Imagine a network where: * new routers instantiate when new δ-patterns appear
-  * new reasoning paths bud off existing routers'
-heading: ⭐ A Self-Evolving Router Network \= The Emergent “Semantic Mind” of MBC
 id: GEN20-7254
-lines: 7938-7960
 location: genesis-20/mbc-40-documentaitio-1::a-self-evolving-router-network-the-emergent-semantic-mind-of-mbc::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7938-7960
+heading: ⭐ A Self-Evolving Router Network \= The Emergent “Semantic Mind” of MBC
+block_type: paragraph
+excerpt: 'Imagine a network where: * new routers instantiate when new δ-patterns appear
+  * new reasoning paths bud off existing routers'
+concepts:
+- δ-patterns
+- low-signal
+- long-term
+- δ
+aliases:
+- Bk632in
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: true
+concept_density: 4.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,31 @@
+id: GEN10-846
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-from-ψ₀-to-δ-geometry::32-δ-is-the-first-non-trivial-act::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1564-1580
+heading: '**3.2 δ is the First Non-Trivial Act**'
+parent_heading: '**3\. From Ψ₀ to δ-Geometry**'
 block_type: paragraph
+excerpt: 'Ψ0→δΨ1.Ψ₀ \\xrightarrow{δ} Ψ₁.Ψ0​δ​Ψ1​. δ yields: * deviation,'
 concepts:
-- difference
 - Ψ
 - δ
-excerpt: 'Ψ0→δΨ1.Ψ₀ \\xrightarrow{δ} Ψ₁.Ψ0​δ​Ψ1​. δ yields: * deviation,'
-heading: '**3.2 δ is the First Non-Trivial Act**'
-id: GEN10-846
-lines: 1564-1580
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-from-ψ₀-to-δ-geometry::32-δ-is-the-first-non-trivial-act::b1
-parent_heading: '**3\. From Ψ₀ to δ-Geometry**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+- proto-motion
+- proto-time
+- →
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk180xy
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.923076923076923
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

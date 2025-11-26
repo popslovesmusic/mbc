@@ -1,12 +1,30 @@
+id: GEN1-421
+location: genesis-1/the-first-geometry::the-δ-higgs-mass-tower-and-degeneracy-structure::6-δ-hessian-factorization::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 945-961
+heading: '**6\. δ-Hessian Factorization**'
+parent_heading: '**The δ-Higgs Mass Tower and Degeneracy Structure**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The δ-Hessian factorizes along the fractal decomposition: Hδ0=H3⊕H6⊕H9,H\_{\\delta\_0}
   \= H\_3 \\oplus H\_6 \\oplus H\_9,Hδ0​​=H3​⊕H6​⊕H9​, and each block further factorizes
   into shell operators:'
-heading: '**6\. δ-Hessian Factorization**'
-id: GEN1-421
-lines: 945-961
-location: genesis-1/the-first-geometry::the-δ-higgs-mass-tower-and-degeneracy-structure::6-δ-hessian-factorization::b1
-parent_heading: '**The δ-Higgs Mass Tower and Degeneracy Structure**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- δ
+- ⊕
+- δ-Hessian
+- δ-Higgs
+aliases:
+- Bk173th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.0534351145038165
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

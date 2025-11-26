@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: 'A router network is stable if: R(Θ)=R(R(Θ)) R(Θ)=R(R(Θ))'
-heading: B3.6 Router Network Stability
 id: GEN20-7216
-lines: 7429-7451
 location: genesis-20/mbc-40-documentaitio-1::b36-router-network-stability::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7429-7451
+heading: B3.6 Router Network Stability
+block_type: paragraph
+excerpt: 'A router network is stable if: R(Θ)=R(R(Θ)) R(Θ)=R(R(Θ))'
+concepts:
+- Θ
+- Router
+aliases:
+- Bk003a
+tags:
+- A3
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.225806451612903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A3

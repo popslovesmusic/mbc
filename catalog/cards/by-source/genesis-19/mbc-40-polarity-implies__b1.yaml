@@ -1,14 +1,31 @@
+id: GEN19-5831
+location: genesis-19/mbc-4-1::4-polarity-implies-θ::mbc-40-polarity-implies::b1
+source: genesis-19\MBC-4_1.md
+lines: 161-180
+heading: '**MBC-4.0 Polarity IMPLIES**'
+parent_heading: '**4\. Polarity IMPLIES (Θ-→)**'
 block_type: table
-concepts:
-- Θ
-- Π
-- Φ
-- δ
 excerpt: 'Interpretation: IMPLIES \= **directed curvature transfer** from A to B.
   Geometry:'
-heading: '**MBC-4.0 Polarity IMPLIES**'
-id: GEN19-5831
-lines: 161-180
-location: genesis-19/mbc-4-1::4-polarity-implies-θ::mbc-40-polarity-implies::b1
-parent_heading: '**4\. Polarity IMPLIES (Θ-→)**'
-source: genesis-19\MBC-4_1.md
+concepts:
+- Θ
+- →
+- directed curvature transfer
+- δ
+- δ-bias
+- Π
+- Φ
+aliases:
+- Bk390pc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.536585365853659
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

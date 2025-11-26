@@ -1,10 +1,27 @@
+id: GEN20-7077
+location: genesis-20/mbc-40-documentaitio-1::part-v-tensor-semantic-field-theory::chapter-e1-semantic-tensor-fields::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5227-5231
+heading: Chapter E1 — Semantic Tensor Fields
+parent_heading: PART V — Tensor & Semantic Field Theory
 block_type: list
-concepts: []
 excerpt: '* Tensor-like structures for influence * Polarity fields * Semantic curvature
   distribution'
-heading: Chapter E1 — Semantic Tensor Fields
-id: GEN20-7077
-lines: 5227-5231
-location: genesis-20/mbc-40-documentaitio-1::part-v-tensor-semantic-field-theory::chapter-e1-semantic-tensor-fields::b1
-parent_heading: PART V — Tensor & Semantic Field Theory
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Polarity
+- Tensor-like
+aliases:
+- Bk266tl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

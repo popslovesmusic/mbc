@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: 'Each incoming connector contributes a channel: Cin={χ1,χ2,…,χn} C'
-heading: B1.2 Multi-Channel Router Model
 id: GEN20-7156
-lines: 6366-6414
 location: genesis-20/mbc-40-documentaitio-1::b12-multi-channel-router-model::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6366-6414
+heading: B1.2 Multi-Channel Router Model
+block_type: paragraph
+excerpt: 'Each incoming connector contributes a channel: Cin={χ1,χ2,…,χn} C'
+concepts:
+- χ
+- ψ
+- Θ
+aliases:
+- Bk790ei
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.084745762711865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

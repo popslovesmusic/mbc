@@ -1,13 +1,30 @@
+id: GEN15-3229
+location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-category-theoretic-formulation::the-pipeline::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2245-2251
+heading: '**The pipeline:**'
+parent_heading: '**Ⅳ. Category-Theoretic Formulation**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'δ:G→G,\\delta: \\mathcal{G}\\to\\mathcal{G},δ:G→G, Φ:G→H,\\Phi: \\mathcal{G}\\to\\mathcal{H},Φ:G→H,
   Π:H→O,\\Pi: \\mathcal{H}\\to\\mathcal{O},Π:H→O, ΠLSS:O→CMB,\\Pi\_{\\mathrm{LSS}}:\\mathcal{O}\\to\\m...'
-heading: '**The pipeline:**'
-id: GEN15-3229
-lines: 2245-2251
-location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-category-theoretic-formulation::the-pipeline::b1
-parent_heading: '**Ⅳ. Category-Theoretic Formulation**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- →
+- Π
+- δ
+- Φ
+- ΠLSS
+aliases:
+- Bk006dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.385964912280701
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

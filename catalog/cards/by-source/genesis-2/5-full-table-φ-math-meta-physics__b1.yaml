@@ -1,12 +1,38 @@
-block_type: table
-concepts:
-- Math Concept
-- Meta-Physics
-- Physics Realization
-- Φ
-excerpt: '---'
-heading: '**5\. Full Table: Φ-Math → Meta-Physics**'
 id: GEN2-6381
-lines: 1101-1117
 location: genesis-2/axioms-of-geometry-topos-compatible::5-full-table-φ-math-meta-physics::b1
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1101-1117
+heading: '**5\. Full Table: Φ-Math → Meta-Physics**'
+block_type: table
+excerpt: '---'
+concepts:
+- Φ
+- stress-energy
+- Φ-commutator
+- Meta-Physics
+- Φ-connection
+- Φ-Lagrangian
+- Φ-curvature
+- Φ-iteration
+- Φ-Bianchi
+- Φ-action
+- Φ-object
+- Φ-energy
+- Φ-fixed
+- Φ-Math
+- Φ-Lie
+aliases:
+- Bk017mc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

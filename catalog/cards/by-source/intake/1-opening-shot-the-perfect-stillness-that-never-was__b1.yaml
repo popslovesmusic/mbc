@@ -1,14 +1,37 @@
+id: INTK-10029
+location: intake/meta-genesis-outreach-narrative-papers::day-1-breaking-the-static-symmetry::1-opening-shot-the-perfect-stillness-that-never-was::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 10-41
+heading: '**1\. Opening Shot: The Perfect Stillness That Never Was**'
+parent_heading: '**DAY 1 — BREAKING THE STATIC SYMMETRY**'
 block_type: paragraph
-concepts:
-- State Is Not
-- The Zero
-- Zero-State
-- Ψ
 excerpt: 'Imagine a universe before universes. Not a void, not a darkness, not a silence—
   but **Ψ₀**, the zero-state:'
-heading: '**1\. Opening Shot: The Perfect Stillness That Never Was**'
-id: INTK-10029
-lines: 10-41
-location: intake/meta-genesis-outreach-narrative-papers::day-1-breaking-the-static-symmetry::1-opening-shot-the-perfect-stillness-that-never-was::b1
-parent_heading: '**DAY 1 — BREAKING THE STATIC SYMMETRY**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- IGSOA
+- State
+- without something to be still
+- zero-state
+- Zero-State
+- Ψ
+- structureless ground
+- metaphysical limit
+- State Is Not
+- static block
+- no variables
+- The Zero
+- Ψ₀
+aliases:
+- Bk059iu
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: true
+concept_density: 13.829787234042554
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-excerpt: 'Box Calculus is now a **terminating generative system** with: * a mixing
-  algebra (Gap A) * a halting expansion operator (Gap B)'
-heading: '**⭐ Gap B is now fully resolved.**'
 id: GEN16-3826
-lines: 1158-1168
 location: genesis-16/untitled-document::gap-b-is-now-fully-resolved::b1
 source: genesis-16\Untitled_document.md
+lines: 1158-1168
+heading: '**⭐ Gap B is now fully resolved.**'
+block_type: paragraph
+excerpt: 'Box Calculus is now a **terminating generative system** with: * a mixing
+  algebra (Gap A) * a halting expansion operator (Gap B)'
+concepts:
+- Box Calculus
+- Box
+- terminating generative system
+aliases:
+- Bk709bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

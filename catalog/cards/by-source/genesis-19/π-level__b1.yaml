@@ -1,11 +1,28 @@
+id: GEN19-6003
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-igsoa-interpretation-of-higher-order-operators::π-level::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1809-1811
+heading: '**Π-level:**'
+parent_heading: '**V. IGSOA Interpretation of Higher-Order Operators**'
 block_type: paragraph
+excerpt: Collapse into unique polarity operator (∀, ∃, □, F, G, Π, Σ, etc.).
 concepts:
 - Π
+- ∀
+- ∃
 - Σ
-excerpt: Collapse into unique polarity operator (∀, ∃, □, F, G, Π, Σ, etc.).
-heading: '**Π-level:**'
-id: GEN19-6003
-lines: 1809-1811
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-igsoa-interpretation-of-higher-order-operators::π-level::b1
-parent_heading: '**V. IGSOA Interpretation of Higher-Order Operators**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+aliases:
+- Bk942ci
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

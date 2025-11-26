@@ -1,11 +1,30 @@
+id: GEN6-8347
+location: genesis-6/spectral-triple-axiom-box-sealed-version::4-physical-meaning-of-the-blocks::b-and-c-mixing-blocks::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1240-1254
+heading: '**B and C: Mixing Blocks**'
+parent_heading: '**4\. Physical Meaning of the Blocks**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'These generate: * δ-flavor mixing * the full 9×9 rotation matrix analog
   of CKM/PMNS'
-heading: '**B and C: Mixing Blocks**'
-id: GEN6-8347
-lines: 1240-1254
-location: genesis-6/spectral-triple-axiom-box-sealed-version::4-physical-meaning-of-the-blocks::b-and-c-mixing-blocks::b1
-parent_heading: '**4\. Physical Meaning of the Blocks**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ-geometry
+- δ
+- split-shell
+- RG-running
+- δ-flavor
+aliases:
+- Bk867tg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.151515151515152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

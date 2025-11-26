@@ -1,13 +1,31 @@
+id: GEN19-5917
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-worked-example-3-node-δ-adjacency-graph::polarity-flips::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 576-646
+heading: '**Polarity Flips?**'
+parent_heading: '**V. Worked Example — 3-Node δ-Adjacency Graph**'
 block_type: paragraph
-concepts:
-- Θ
-- δ
 excerpt: 'If the metadata changed so that w3w\_3w3​ decreased (e.g., metadata says
   “this adjacency is less relevant”), then KKK could become negative. Example flip:
   Decrease m3m\_3m3​ from 2 → −1:'
-heading: '**Polarity Flips?**'
-id: GEN19-5917
-lines: 576-646
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-worked-example-3-node-δ-adjacency-graph::polarity-flips::b1
-parent_heading: '**V. Worked Example — 3-Node δ-Adjacency Graph**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- ≈
+- Polarity
+- Θ
+- →
+- δ-metadata
+- δ
+aliases:
+- Bk889tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.643835616438356
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

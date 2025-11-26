@@ -1,9 +1,20 @@
-block_type: paragraph
-concepts: []
-excerpt: There are no “free” operators.
-heading: '**H2: All operator physics is functorially δ-induced**'
 id: GEN3-7357
-lines: 1227-1229
 location: genesis-3/metagenesis::hermetic-consequences::h2-all-operator-physics-is-functorially-δ-induced::b1
-parent_heading: '**Hermetic Consequences**'
 source: genesis-3\metagenesis.md
+lines: 1227-1229
+heading: '**H2: All operator physics is functorially δ-induced**'
+parent_heading: '**Hermetic Consequences**'
+block_type: paragraph
+excerpt: There are no “free” operators.
+aliases:
+- Bk577ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

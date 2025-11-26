@@ -1,11 +1,31 @@
+id: GEN1-409
+location: genesis-1/the-first-geometry::6-the-one-sentence-summary::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 778-792
+heading: '**6\. The One-Sentence Summary**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: '**The δ-Higgs vacuum manifold is the universe’s first energy landscape:
   an unstable ridge that drives inflation, a stable valley that generates reheating
   and particles, and a fractal substructure that...'
-heading: '**6\. The One-Sentence Summary**'
-id: GEN1-409
-lines: 778-792
-location: genesis-1/the-first-geometry::6-the-one-sentence-summary::b1
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- Definition
+- δ
+- scale-factor
+- δ-Hessian
+- δ-Higgs
+- TikZ version
+aliases:
+- Bk455th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.317073170731707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

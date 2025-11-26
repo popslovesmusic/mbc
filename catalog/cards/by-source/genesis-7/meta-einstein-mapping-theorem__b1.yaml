@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Einstein Equations
-- Meta-Einstein
-- δ
-excerpt: '**(δ-Curvature ⇒ Meta-Einstein Equations)** ---'
-heading: '**◼ META-EINSTEIN MAPPING THEOREM**'
 id: GEN7-8644
-lines: 344-348
 location: genesis-7/why-curvature-gives-gravity::meta-einstein-mapping-theorem::b1
 source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 344-348
+heading: '**◼ META-EINSTEIN MAPPING THEOREM**'
+block_type: paragraph
+excerpt: '**(δ-Curvature ⇒ Meta-Einstein Equations)** ---'
+concepts:
+- Meta-Einstein
+- Curvature
+- δ-Curvature
+- δ
+- Einstein Equations
+aliases:
+- Bk489cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 100.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

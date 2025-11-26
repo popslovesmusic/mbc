@@ -1,21 +1,45 @@
-block_type: paragraph
-concepts:
-- Algebraic Public
-- Axiom
-- Key Systems
-- No Natural Inversion
-- One-Way
-- Public Projection
-- Public-Key
-- Trapdoor Consistency
-- Way Morphism
-- Π
-- Φ
-- δ
-excerpt: '*(Algebraic Public-Key Systems)* **Axiom PK1 (Algebraic δ-Secrets):** RSA:
-  δ \= (p, q).'
-heading: '**The RSA / ECC Axiom Box**'
 id: GEN14-2868
-lines: 1121-1149
 location: genesis-14/meta-math-and-cryptography::the-rsa-ecc-axiom-box::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1121-1149
+heading: '**The RSA / ECC Axiom Box**'
+block_type: paragraph
+excerpt: '*(Algebraic Public-Key Systems)* **Axiom PK1 (Algebraic δ-Secrets):** RSA:
+  δ \= (p, q).'
+concepts:
+- Axiom
+- δ
+- Π
+- Projection
+- Φ
+- Morphism
+- Public-Key
+- Φ-One-Way
+- δ-Secrets
+- Π-Public
+- δ-hidden
+- one-way
+- →
+- Trapdoor Consistency
+- No Natural Inversion
+aliases:
+- Am791ap
+tags:
+- algebraic-δ-secrets
+- trapdoor-consistency
+- π-public-projection
+- conflicted
+- no-natural-inversion
+- φ-one-way-morphism
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 5
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.833333333333332
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

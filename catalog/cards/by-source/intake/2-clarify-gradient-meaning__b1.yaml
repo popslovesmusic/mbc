@@ -1,11 +1,27 @@
+id: INTK-9631
+location: intake/abstract-editorial-review::section-7-vacuum-energy-projection-theorem::2-clarify-gradient-meaning::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 423-431
+heading: '**2\. Clarify “gradient” meaning**'
+parent_heading: '**📄 Section 7 — Vacuum Energy Projection Theorem**'
 block_type: paragraph
-concepts: []
 excerpt: 'Add a sentence inside the proof sketch: In the functorial setting, “gradient”
   means sensitivity to morphism-induced differences, not metric derivatives. This
   solves future confusion.'
-heading: '**2\. Clarify “gradient” meaning**'
-id: INTK-9631
-lines: 423-431
-location: intake/abstract-editorial-review::section-7-vacuum-energy-projection-theorem::2-clarify-gradient-meaning::b1
-parent_heading: '**📄 Section 7 — Vacuum Energy Projection Theorem**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- Proof
+- morphism-induced
+aliases:
+- Bk229as
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

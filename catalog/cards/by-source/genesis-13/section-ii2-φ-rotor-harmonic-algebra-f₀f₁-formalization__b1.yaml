@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: Now we formalize ATP synthase as a **Φ-harmonic transduction system**, purely
-  abstractly. Let RRR denote the Φ-rotor object of Part I. ---
-heading: '**SECTION II.2 — Φ-Rotor Harmonic Algebra (F₀–F₁ Formalization)**'
 id: GEN13-2552
-lines: 1288-1294
 location: genesis-13/what-biology-is-in-meta-genesis::section-ii2-φ-rotor-harmonic-algebra-f₀f₁-formalization::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1288-1294
+heading: '**SECTION II.2 — Φ-Rotor Harmonic Algebra (F₀–F₁ Formalization)**'
+block_type: paragraph
+excerpt: Now we formalize ATP synthase as a **Φ-harmonic transduction system**, purely
+  abstractly. Let RRR denote the Φ-rotor object of Part I. ---
+concepts:
+- Φ-harmonic transduction system
+- Φ
+- Φ-harmonic
+- Φ-rotor
+aliases:
+- Bk939nf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

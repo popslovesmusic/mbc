@@ -1,20 +1,40 @@
+id: INTK-9915
+location: intake/meta-genesis-diagrammatic-papers::3-ultra-compressed-one-line-version::3-mermaid-adjacency-graph-ready-to-paste::b1
+source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 281-319
+heading: '**3\. Mermaid adjacency graph (ready to paste)**'
+parent_heading: '**3\. Ultra-Compressed One-Line Version**'
 block_type: paragraph
+excerpt: '`graph TD` `%% Root / pre-structure` `P0["S₀ = Ψ₀<br/>(Zero State)"]`'
 concepts:
-- Axiom
-- Axiom Boundary
-- Deviation Operator
-- First Adjacency
-- First Meta
-- First Movement
-- Meta-Order
-- Operator
-- Zero State
 - Ψ
 - δ
-excerpt: '`graph TD` `%% Root / pre-structure` `P0["S₀ = Ψ₀<br/>(Zero State)"]`'
-heading: '**3\. Mermaid adjacency graph (ready to paste)**'
-id: INTK-9915
-lines: 281-319
-location: intake/meta-genesis-diagrammatic-papers::3-ultra-compressed-one-line-version::3-mermaid-adjacency-graph-ready-to-paste::b1
-parent_heading: '**3\. Ultra-Compressed One-Line Version**'
-source: intake\Meta-Genesis_Diagrammatic_Papers.md
+- Ψ₀
+- Adjacency
+- Deviation
+- Axiom
+- Operator
+- State
+- pre-structure
+- Meta-Order
+- ¬
+- Deviation Operator
+- First Adjacency
+- First Movement
+- Axiom Boundary
+aliases:
+- Bk001a
+tags:
+- A1
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.43010752688172
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A1

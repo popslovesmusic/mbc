@@ -1,11 +1,28 @@
+id: GEN14-2661
+location: genesis-14/inflation-structure-formation::6-predictions-unique-to-igsoa::63-δ-echo-chain-in-gw-data::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 209-215
+heading: '**6.3 δ-Echo Chain in GW Data**'
+parent_heading: '**6\. Predictions Unique to IGSOA**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The same δ modes that seed structure should produce: * multi-frequency GW
   echoes, * with spacing matching δ-harmonic separations.'
-heading: '**6.3 δ-Echo Chain in GW Data**'
-id: GEN14-2661
-lines: 209-215
-location: genesis-14/inflation-structure-formation::6-predictions-unique-to-igsoa::63-δ-echo-chain-in-gw-data::b1
-parent_heading: '**6\. Predictions Unique to IGSOA**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- multi-frequency
+- δ-harmonic
+aliases:
+- Bk318ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

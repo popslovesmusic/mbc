@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Free Potential
-- Structure Functor
-- Underlying Potential Functor
-excerpt: 'We define two functors: * **Free Potential → Structure Functor**: F:G→MF
-  : \\mathcal{G} \\to \\mathcal{M}F:G→M'
-heading: '**2\. The Functors Between Them**'
 id: GEN1-644
-lines: 1646-1655
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::2-the-functors-between-them::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1646-1655
+heading: '**2\. The Functors Between Them**'
+block_type: paragraph
+excerpt: 'We define two functors: * **Free Potential → Structure Functor**: F:G→MF
+  : \\mathcal{G} \\to \\mathcal{M}F:G→M'
+concepts:
+- →
+- Functor
+- Underlying Potential Functor
+- Structure Functor
+- Free Potential
+aliases:
+- Bk178dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.151515151515152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

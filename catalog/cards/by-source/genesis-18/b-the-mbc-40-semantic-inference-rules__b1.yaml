@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: '(formal calculus: ⊢, ⇒, |= in IGSOA terms)'
-heading: '**B. The MBC-4.0 Semantic Inference Rules**'
 id: GEN18-5364
-lines: 152-154
 location: genesis-18/mbc-4::if-you-want-next::b-the-mbc-40-semantic-inference-rules::b1
-parent_heading: '**If you want next:**'
 source: genesis-18\MBC-4.md
+lines: 152-154
+heading: '**B. The MBC-4.0 Semantic Inference Rules**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: '(formal calculus: ⊢, ⇒, |= in IGSOA terms)'
+concepts:
+- IGSOA
+aliases:
+- Bk722fc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

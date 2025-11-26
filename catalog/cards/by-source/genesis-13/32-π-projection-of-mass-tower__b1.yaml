@@ -1,13 +1,30 @@
+id: GEN13-2153
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-i-hadronization::32-π-projection-of-mass-tower::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1867-1873
+heading: '**3.2 Π-Projection of Mass Tower**'
+parent_heading: '**3\. Π-Layer I: Hadronization**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: mn=Hessδ(Φn).m\_n \= \\sqrt{\\mathrm{Hess}\_\\delta(\\Phi\_n)}.mn​=Hessδ​(Φn​)​.
   Π converts Φ-Hessian eigenvalues into observed hadron masses. ---
-heading: '**3.2 Π-Projection of Mass Tower**'
-id: GEN13-2153
-lines: 1867-1873
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-i-hadronization::32-π-projection-of-mass-tower::b1
-parent_heading: '**3\. Π-Layer I: Hadronization**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- δ
+- Φ-Hessian
+- Π
+- Φn
+aliases:
+- Bk981sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.833333333333336
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

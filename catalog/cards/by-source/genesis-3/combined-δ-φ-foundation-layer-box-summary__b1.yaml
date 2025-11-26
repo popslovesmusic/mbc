@@ -1,22 +1,38 @@
-block_type: list
-concepts:
-- Axiom
-- Box
-- Einstein Axiom Box
-- First Form
-- First Movement
-- Foundation Diagram
-- Foundation Layer
-- Layer
-- Meta-Einstein
-- Tri-Unity
-- Unity Transition Box
-- Φ
-- δ
-excerpt: 1. **δ generates action, adjacency, and curvature.** 2. **Φ generates structure,
-  coherence, and mode-spaces.** 3. **δ and Φ are δ-covariant and mutually required.**
-heading: '**▣ Combined δ \+ Φ Foundation Layer Box (Summary)**'
 id: GEN3-7587
-lines: 1388-1416
 location: genesis-3/the-tri-unity-theorem::combined-δ-φ-foundation-layer-box-summary::b1
 source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1388-1416
+heading: '**▣ Combined δ \+ Φ Foundation Layer Box (Summary)**'
+block_type: list
+excerpt: 1. **δ generates action, adjacency, and curvature.** 2. **Φ generates structure,
+  coherence, and mode-spaces.** 3. **δ and Φ are δ-covariant and mutually required.**
+concepts:
+- δ
+- Φ
+- Foundation Layer
+- Meta-Einstein
+- Tri-Unity
+- Layer
+- Axiom
+- Box
+- First Movement
+- →
+- First Form
+- pre-physical
+- δ-covariant
+- mode-spaces
+- Unity Transition Box
+aliases:
+- Bk032ga
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.408759124087592
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

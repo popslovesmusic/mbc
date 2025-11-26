@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-- Σ
-excerpt: 'Peaksets occur automatically when: the derivative of the slope field → 0
-  AND'
-heading: ⭐ 5\. How MBC Represents Peaksets
 id: GEN19-6121
-lines: 1176-1197
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::5-how-mbc-represents-peaksets::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1176-1197
+heading: ⭐ 5\. How MBC Represents Peaksets
+block_type: paragraph
+excerpt: 'Peaksets occur automatically when: the derivative of the slope field → 0
+  AND'
+concepts:
+- Σ
+- Π
+- →
+aliases:
+- Bk107po
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.615384615384616
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

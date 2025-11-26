@@ -1,11 +1,27 @@
+id: GEN0-213
+location: genesis-0/tri-unity-theorem-equivalence-of::iii-metric-forces-spacetime::step-1-δ-length-functional::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 864-876
+heading: '**Step 1 — Δ-length functional**'
+parent_heading: '**III. Metric Forces Spacetime**'
 block_type: paragraph
+excerpt: 'For any δ-path γ(t),\\gamma(t),γ(t), we define length:'
 concepts:
 - γ
+- ∫
 - δ
-excerpt: 'For any δ-path γ(t),\\gamma(t),γ(t), we define length:'
-heading: '**Step 1 — Δ-length functional**'
-id: GEN0-213
-lines: 864-876
-location: genesis-0/tri-unity-theorem-equivalence-of::iii-metric-forces-spacetime::step-1-δ-length-functional::b1
-parent_heading: '**III. Metric Forces Spacetime**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+- δ-path
+aliases:
+- Bk261fa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

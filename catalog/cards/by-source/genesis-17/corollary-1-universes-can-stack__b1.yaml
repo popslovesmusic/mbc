@@ -1,17 +1,35 @@
+id: GEN17-5141
+location: genesis-17/mbc-schema-3::corollaries::corollary-1-universes-can-stack::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 2121-2129
+heading: '**Corollary 1 — Universes can stack.**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
-concepts:
-- Each Meta
-- Genesis Layer
-- Layer
-- Meta-Genesis
-- Meta-Universe
-- Universe Tower
 excerpt: 'Each Meta-Genesis Layer can generate new layers: MB→ΔMB2→ΔMB3→⋯\\mathcal{MB}
   \\xrightarrow{\\Delta} \\mathcal{MB}\_2 \\xrightarrow{\\Delta} \\mathcal{MB}\_3
   \\to \\cdotsMBΔ​MB2​Δ​MB3​→⋯ A literal **Me...'
-heading: '**Corollary 1 — Universes can stack.**'
-id: GEN17-5141
-lines: 2121-2129
-location: genesis-17/mbc-schema-3::corollaries::corollary-1-universes-can-stack::b1
-parent_heading: '**Corollaries**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Meta-Genesis
+- Δ
+- →
+- Layer
+- Meta-Universe Tower
+- Meta-Universe
+- Universe Tower
+- Genesis Layer
+- Each Meta
+aliases:
+- Bk840em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

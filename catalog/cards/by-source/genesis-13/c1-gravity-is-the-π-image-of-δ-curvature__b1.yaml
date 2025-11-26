@@ -1,16 +1,32 @@
+id: GEN13-2369
+location: genesis-13/the-weight-of-light::4-consequences-physics::c1-gravity-is-the-π-image-of-δ-curvature::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1565-1569
+heading: '**C1 — Gravity is the Π-image of δ-curvature**'
+parent_heading: '**4\. Consequences (Physics)**'
 block_type: paragraph
-concepts:
-- corollary
-- Π
-- Φ
-- δ
-- μ
-- ν
 excerpt: 'Einstein’s equations become a *corollary*: Gμν=Π(Φ(δA)).G\_{\\mu\\nu} \=
   \\Pi(\\Phi(\\delta A)).Gμν​=Π(Φ(δA)).'
-heading: '**C1 — Gravity is the Π-image of δ-curvature**'
-id: GEN13-2369
-lines: 1565-1569
-location: genesis-13/the-weight-of-light::4-consequences-physics::c1-gravity-is-the-π-image-of-δ-curvature::b1
-parent_heading: '**4\. Consequences (Physics)**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Corollary
+- ν
+- Π
+- δ
+- Φ
+- μ
+- δA
+aliases:
+- Bk376ee
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.818181818181817
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

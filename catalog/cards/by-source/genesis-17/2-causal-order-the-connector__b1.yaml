@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: 'Causal order (Π) is:'
-heading: '**⭐ 2\. Causal order \= the connector**'
 id: GEN17-4938
-lines: 872-874
 location: genesis-17/key-points::2-causal-order-the-connector::b1
 source: genesis-17\Key_Points.md
+lines: 872-874
+heading: '**⭐ 2\. Causal order \= the connector**'
+block_type: paragraph
+excerpt: 'Causal order (Π) is:'
+concepts:
+- Π
+aliases:
+- Bk313co
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

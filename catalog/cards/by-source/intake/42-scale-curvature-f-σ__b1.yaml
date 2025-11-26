@@ -1,17 +1,35 @@
+id: INTK-10254
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::4-scale-covariant-derivative-σ::42-scale-curvature-f-σ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 396-404
+heading: '**4.2. Scale-Curvature (F_σ)**'
+parent_heading: '**4. Scale-Covariant Derivative (∇_σ)**'
 block_type: paragraph
-concepts:
-- Gauge Theory
-- Higher-Gauge
-- Meta-Connection
-- Meta-Math
-- Scale-Curvature
-- σ
 excerpt: 'The curvature associated with the Meta-Connection `A_σ` is the **Scale-Curvature
   (F_σ)**: `F_σ = d_F A_σ + A_σ ∧_F A_σ` This `F_σ` is the fundamental field strength
   tensor of the Higher-Gauge Theory i...'
-heading: '**4.2. Scale-Curvature (F_σ)**'
-id: INTK-10254
-lines: 396-404
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::4-scale-covariant-derivative-σ::42-scale-curvature-f-σ::b1
-parent_heading: '**4. Scale-Covariant Derivative (∇_σ)**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- σ
+- Meta-Math
+- Curvature
+- non-integrability
+- Meta-Connection
+- Scale-Curvature
+- Higher-Gauge
+- ∧
+- Gauge Theory
+aliases:
+- Bk890tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

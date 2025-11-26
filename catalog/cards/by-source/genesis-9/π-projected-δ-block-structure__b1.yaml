@@ -1,16 +1,41 @@
+id: GEN9-9416
+location: genesis-9/is-the-source-of-all-structure::igsoa-periodic-table-δ-harmonic-grid::π-projected-δ-block-structure::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 1219-1257
+heading: '**(Π-Projected δ-Block Structure)**'
+parent_heading: '**IGSOA PERIODIC TABLE — δ-HARMONIC GRID**'
 block_type: table
-concepts:
-- Block Grid
-- Stable Orbitals
-- Π
-- Φ
-- δ
 excerpt: '`+-------------------------------------------------------------------------------------------+`
   `|                                     IGSOA PERIODIC TABLE                                  |`
   `|      ...'
-heading: '**(Π-Projected δ-Block Structure)**'
-id: GEN9-9416
-lines: 1219-1257
-location: genesis-9/is-the-source-of-all-structure::igsoa-periodic-table-δ-harmonic-grid::π-projected-δ-block-structure::b1
-parent_heading: '**IGSOA PERIODIC TABLE — δ-HARMONIC GRID**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- IGSOA
+- Π
+- →
+- d-orbitals
+- h-orbitals
+- g-orbitals
+- δ-Harmonic
+- s-orbitals
+- p-orbitals
+- f-orbitals
+- Π-Stable
+- Π-stable
+- δ
+- Φ
+- Stable Orbitals
+aliases:
+- Bk512ip
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.88059701492537
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

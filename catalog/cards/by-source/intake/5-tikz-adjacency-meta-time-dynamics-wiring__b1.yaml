@@ -1,13 +1,88 @@
+id: INTK-9704
+location: intake/axioms-geometry::tikz-latex-paper-ready-geometry-stack::5-tikz-adjacency-meta-time-dynamics-wiring::b1
+source: intake\Axioms-geometry.md
+lines: 889-917
+heading: '**5\) TikZ: Adjacency → Meta-Time → Dynamics Wiring**'
+parent_heading: '**TikZ (LaTeX) — Paper-Ready Geometry Stack**'
 block_type: paragraph
-concepts:
-- Connect Figma
-- Meta-Time
-- Projected Physics
 excerpt: '`\begin{tikzpicture}[` `node distance=2.2cm,` `box/.style={draw, rounded
   corners, thick, align=center, minimum width=3.8cm, minimum height=1.1cm},`'
-heading: '**5\) TikZ: Adjacency → Meta-Time → Dynamics Wiring**'
-id: INTK-9704
-lines: 889-917
-location: intake/axioms-geometry::tikz-latex-paper-ready-geometry-stack::5-tikz-adjacency-meta-time-dynamics-wiring::b1
-parent_heading: '**TikZ (LaTeX) — Paper-Ready Geometry Stack**'
-source: intake\Axioms-geometry.md
+concepts:
+- Meta-Time
+- Adjacency
+- Projected Physics
+- Connect Figma
+aliases:
+- Bk000a
+tags:
+- A6
+- A03
+- low-uncertainty
+- A76
+- A82
+- A2
+- A2961
+- A20
+- A01
+- A57
+- A54
+- A3
+- A9
+- A53
+- A97
+- A1
+- A81
+- A0
+- A72
+- A4
+- A99
+- A5
+- definitive
+- A86
+- A32
+- A11
+- A37
+- A8
+- A7
+- A24
+- A35
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 0.2680965147453083
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A0
+- A01
+- A03
+- A1
+- A11
+- A2
+- A20
+- A24
+- A2961
+- A3
+- A32
+- A35
+- A37
+- A4
+- A5
+- A53
+- A54
+- A57
+- A6
+- A7
+- A72
+- A76
+- A8
+- A81
+- A82
+- A86
+- A9
+- A97
+- A99

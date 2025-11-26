@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Meta-Genesis
-- Zero State
-- limit
-- Ψ
-excerpt: Before anything existed, there was **Ψ₀** — the Zero State. Not a vacuum.
-  Not a quantum foam.
-heading: '**The Symmetry-Breaking Narrative**'
 id: INTK-10151
-lines: 920-938
 location: intake/meta-genesis-physical-interpretation-papers::the-symmetry-breaking-narrative::b2
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 920-938
+heading: '**The Symmetry-Breaking Narrative**'
+block_type: paragraph
+excerpt: Before anything existed, there was **Ψ₀** — the Zero State. Not a vacuum.
+  Not a quantum foam.
+concepts:
+- Meta-Genesis
+- State
+- Ψ
+- pre-space
+- why symmetry must break
+- Ψ₀
+- Zero State
+aliases:
+- Bk333ba
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.932203389830509
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

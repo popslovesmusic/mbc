@@ -1,12 +1,36 @@
+id: GEN5-8186
+location: genesis-5/the-ga-8-meta-einstein-theorem::4-distance-from-adjacency-spectral-distance-formula::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 766-785
+heading: '**4\. Distance from Adjacency: Spectral Distance Formula**'
 block_type: paragraph
-concepts:
-- δ
-- ω
 excerpt: 'Define a Dirac-type operator DDD (to be linked to δ later). The **Connes
   distance** between pure states associated to projections px,pyp\_x, p\_ypx​,py​:
   d(x,y)=sup⁡{∣ωx(a)−ωy(a)∣:a∈A, ∥\[D,a\]∥≤1}.d(...'
-heading: '**4\. Distance from Adjacency: Spectral Distance Formula**'
-id: GEN5-8186
-lines: 766-785
-location: genesis-5/the-ga-8-meta-einstein-theorem::4-distance-from-adjacency-spectral-distance-formula::b1
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- Adjacency
+- ω
+- δ
+- ∈
+- ≤
+- Dirac-type
+- graph-like
+- weighted graph metric
+- Riemannian metric
+- Connes distance
+- graph distance
+aliases:
+- Bk806dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.73015873015873
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

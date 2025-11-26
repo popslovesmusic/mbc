@@ -1,12 +1,30 @@
+id: GEN17-4895
+location: genesis-17/key-points::7-the-corrected-δφπ-dependency-without-time::b1
+source: genesis-17\Key_Points.md
+lines: 312-322
+heading: '**⭐ 7\. The corrected δ–Φ–Π dependency without time**'
 block_type: paragraph
+excerpt: '`IGSOA (monism)` `⟹ δ (distinguishability)` `⟹ Φ (curvature, density, temperature)`'
 concepts:
-- interpretation
+- IGSOA
 - Π
 - Φ
 - δ
-excerpt: '`IGSOA (monism)` `⟹ δ (distinguishability)` `⟹ Φ (curvature, density, temperature)`'
-heading: '**⭐ 7\. The corrected δ–Φ–Π dependency without time**'
-id: GEN17-4895
-lines: 312-322
-location: genesis-17/key-points::7-the-corrected-δφπ-dependency-without-time::b1
-source: genesis-17\Key_Points.md
+- Δ
+- Φ-Π
+- all at once
+aliases:
+- Bk991im
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

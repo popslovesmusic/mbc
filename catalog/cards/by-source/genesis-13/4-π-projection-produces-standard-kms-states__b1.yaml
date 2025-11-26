@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-- Ω
-- ω
-excerpt: 'Define Π acting on states: Ω:=Π∗(ω)\\Omega := \\Pi\_\*(\\omega)Ω:=Π∗​(ω)
-  (i.e. Π applied to its GNS data).'
-heading: '**4\. Π-Projection Produces Standard KMS States**'
 id: GEN13-2387
-lines: 1734-1740
 location: genesis-13/the-weight-of-light::4-π-projection-produces-standard-kms-states::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 1734-1740
+heading: '**4\. Π-Projection Produces Standard KMS States**'
+block_type: paragraph
+excerpt: 'Define Π acting on states: Ω:=Π∗(ω)\\Omega := \\Pi\_\*(\\omega)Ω:=Π∗​(ω)
+  (i.e. Π applied to its GNS data).'
+concepts:
+- Π
+- ω
+- Ω
+aliases:
+- Bk754da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

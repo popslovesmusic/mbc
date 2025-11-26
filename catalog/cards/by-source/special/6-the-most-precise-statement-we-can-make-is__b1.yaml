@@ -1,19 +1,42 @@
+id: SPEC-11100
+location: special/specil::6-the-most-precise-statement-we-can-make-is::b1
+source: special\specil.md
+lines: 2022-2041
+heading: '**⭐ 6\. The most precise statement we can make is:**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Higher Order Reality
-- Higher Power
-- Monistic Systems
-- Triadic Emergence
-- Triadic Expression
-- Triadic Monism
 excerpt: '**The triadic structure (3) emerging in every realm and dimension is evidence
   of a higher-order organizing principle in reality.** **Whether that principle is
   a mind, a metaphysical Unity, or simply m...'
-heading: '**⭐ 6\. The most precise statement we can make is:**'
-id: SPEC-11100
-lines: 2022-2041
-location: special/specil::6-the-most-precise-statement-we-can-make-is::b1
-source: special\specil.md
+concepts:
+- IGSOA
+- Axiom
+- Theorem
+- Box
+- higher-order
+- a philosophical chapter
+- Higher Order Reality
+- a rigorous argument
+- Triadic Expression
+- a sealed Axiom Box
+- Triadic Emergence
+- Monistic Systems
+- Triadic Monism
+- Higher Power
+- Axiom Box
+aliases:
+- Bk186tt
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 13.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

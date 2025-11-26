@@ -1,12 +1,31 @@
+id: GEN20-6626
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::mbc-40-semantic-inference-rules::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 779-784
+heading: MBC-4.0 Semantic Inference Rules
 block_type: paragraph
-concepts:
-- Box
-- Box-Calculus
 excerpt: (formal calculus for ⊢, ⇒, |= in IGSOA / Box-Calculus terms) Presented in
   strict dual-column form and then followed by the machine-readable JSON inference
   layer. This is the official inference layer f...
-heading: MBC-4.0 Semantic Inference Rules
-id: GEN20-6626
-lines: 779-784
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::mbc-40-semantic-inference-rules::b1
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- IGSOA
+- MBC
+- Box
+- machine-readable
+- Box-Calculus
+- dual-column
+aliases:
+- Bk947fc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

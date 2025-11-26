@@ -1,12 +1,29 @@
+id: GEN4-7625
+location: genesis-4/meta-physics-axiom-box::ii-the-δ-axiom-deviation-as-necessary-action::axiom-δ2-minimal-nontriviality::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 465-467
+heading: '**Axiom δ.2 — Minimal Nontriviality**'
+parent_heading: '**II. THE δ-AXIOM (Deviation as Necessary Action)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: δ acts with minimal non-zero deviation measure ∣δX∣\>0.\\delta \\text{ acts
   with minimal non-zero deviation measure } |\\delta X|\>0.δ acts with minimal non-zero
   deviation measure ∣δX∣\>0.
-heading: '**Axiom δ.2 — Minimal Nontriviality**'
-id: GEN4-7625
-lines: 465-467
-location: genesis-4/meta-physics-axiom-box::ii-the-δ-axiom-deviation-as-necessary-action::axiom-δ2-minimal-nontriviality::b1
-parent_heading: '**II. THE δ-AXIOM (Deviation as Necessary Action)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- δ
+- non-zero
+- δX
+aliases:
+- Bk676aw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

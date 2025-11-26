@@ -1,13 +1,28 @@
-block_type: paragraph
-concepts:
-- Box
-- Field
-- The Box Field Theory
-- Σ
-excerpt: 'Define a semantic field: Σ(x,t) Σ(x,t)'
-heading: 3.3. Field Extension
 id: GEN17-4327
-lines: 2535-2543
 location: genesis-17/box-calculus::3-expansion-direction-iii-dynamic-systems-field-theory::33-field-extension::b1
-parent_heading: '3\. Expansion Direction III: Dynamic Systems & Field Theory'
 source: genesis-17\box_calculus.md
+lines: 2535-2543
+heading: 3.3. Field Extension
+parent_heading: '3\. Expansion Direction III: Dynamic Systems & Field Theory'
+block_type: paragraph
+excerpt: 'Define a semantic field: Σ(x,t) Σ(x,t)'
+concepts:
+- Field
+- Box
+- Σ
+- The Box Field Theory
+aliases:
+- Bk846ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

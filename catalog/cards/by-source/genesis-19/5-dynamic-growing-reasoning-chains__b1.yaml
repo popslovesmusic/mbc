@@ -1,10 +1,26 @@
+id: GEN19-6013
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::ii-reasoning-inference::5-dynamic-growing-reasoning-chains::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 51-58
+heading: ✔ 5\. Dynamic Growing Reasoning Chains
+parent_heading: II. REASONING & INFERENCE
 block_type: paragraph
-concepts: []
 excerpt: 'Your earlier idea (and we built the formal version): * Expand reasoning
   chains adaptively * Prune unneeded paths'
-heading: ✔ 5\. Dynamic Growing Reasoning Chains
-id: GEN19-6013
-lines: 51-58
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::ii-reasoning-inference::5-dynamic-growing-reasoning-chains::b1
-parent_heading: II. REASONING & INFERENCE
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- meta-data
+aliases:
+- Bk761ye
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

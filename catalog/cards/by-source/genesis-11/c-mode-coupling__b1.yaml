@@ -1,12 +1,33 @@
+id: GEN11-1156
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::2-propagate-it-with-φ-derivational-engine::c-mode-coupling::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 885-896
+heading: '**(C) Mode-Coupling**'
+parent_heading: '**2\. Propagate It with Φ (Derivational Engine)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: δ-torsion ↔ δ-shear interactions Global δ₀₁ ↔ anisotropy alignment Adjacency
   defects ↔ void scars
-heading: '**(C) Mode-Coupling**'
-id: GEN11-1156
-lines: 885-896
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::2-propagate-it-with-φ-derivational-engine::c-mode-coupling::b1
-parent_heading: '**2\. Propagate It with Φ (Derivational Engine)**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- Adjacency
+- δ
+- ↔
+- Twist-curvature
+- δ-structure
+- δ-torsion
+- δ-shear
+- Φ
+- δ₀₁
+aliases:
+- Bk496ts
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.47058823529412
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

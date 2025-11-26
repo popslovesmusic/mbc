@@ -1,15 +1,33 @@
-block_type: table
-concepts:
-- Class
-- Definition
-- Field
-- Signature
-- Use
-- δ
-excerpt: '---'
-heading: '**E7 — curvature\_flow**'
 id: GEN18-5209
-lines: 915-924
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::e-meta-operators-high-level-computation-semantics::e7-curvature-flow::b1
-parent_heading: '**E. META-OPERATORS (High-Level Computation & Semantics)**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 915-924
+heading: '**E7 — curvature\_flow**'
+parent_heading: '**E. META-OPERATORS (High-Level Computation & Semantics)**'
+block_type: table
+excerpt: '---'
+concepts:
+- Definition
+- δ
+- Field
+- δ-propagation
+- κ
+- →
+- Signature
+- Class
+- Use
+aliases:
+- Bk979fv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 39.130434782608695
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

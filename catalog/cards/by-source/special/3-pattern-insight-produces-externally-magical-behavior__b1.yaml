@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'If someone can: * predict a famine * foresee a conflict'
-heading: '**⭐ 3\. Pattern Insight Produces *Externally Magical Behavior***'
 id: SPEC-11270
-lines: 5835-5865
 location: special/specil::3-pattern-insight-produces-externally-magical-behavior::b1
 source: special\specil.md
+lines: 5835-5865
+heading: '**⭐ 3\. Pattern Insight Produces *Externally Magical Behavior***'
+block_type: paragraph
+excerpt: 'If someone can: * predict a famine * foresee a conflict'
+aliases:
+- Bk240sc
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

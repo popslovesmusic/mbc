@@ -1,15 +1,33 @@
+id: INTK-10414
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::motivation::beyond-newtonianleibnizian-calculus::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1327-1335
+heading: Beyond Newtonian/Leibnizian Calculus
+parent_heading: Motivation
 block_type: paragraph
-concepts:
-- Meta-Calculus
-- Meta-Geometric
-- Meta-Math
-- Meta-Metric
 excerpt: 'Traditional calculus is built on concepts of smooth, continuous functions
   on Euclidean spaces, using fixed coordinate systems. These assumptions break down
   in Meta-Math due to: - The fractal nature of...'
-heading: Beyond Newtonian/Leibnizian Calculus
-id: INTK-10414
-lines: 1327-1335
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::motivation::beyond-newtonianleibnizian-calculus::b1
-parent_heading: Motivation
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- non-local
+- Meta-Geometric
+- scale-layered
+- Meta-Calculus
+- non-locality
+- non-integer
+- Meta-Metric
+aliases:
+- Bk811tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.791208791208792
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,11 +1,27 @@
+id: INTK-10002
+location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-2-every-adjacency-induces-a-pre-order::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 924-940
+heading: '**Lemma 2 — Every adjacency induces a pre-order.**'
+parent_heading: '**4\. Full Formal Proof**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Define: X⪯Y  ⟺  (X=Y) or (X∼Y).X \\preceq Y \\iff (X=Y)\\text{ or }(X\\sim
   Y).X⪯Y⟺(X=Y) or (X∼Y). Reflexive:'
-heading: '**Lemma 2 — Every adjacency induces a pre-order.**'
-id: INTK-10002
-lines: 924-940
-location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-2-every-adjacency-induces-a-pre-order::b1
-parent_heading: '**4\. Full Formal Proof**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- well-defined
+- δ
+- δ²
+aliases:
+- Bk589dp
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.225352112676056
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

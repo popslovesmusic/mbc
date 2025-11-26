@@ -1,14 +1,32 @@
+id: GEN16-3803
+location: genesis-16/untitled-document::3-algebraic-properties-of-the-mixing-law::33-non-commutativity-essential::b1
+source: genesis-16\Untitled_document.md
+lines: 897-902
+heading: '**3.3 Non-Commutativity (Essential\!\!)**'
+parent_heading: '**3\. Algebraic Properties of the Mixing Law**'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Σ
 excerpt: 'Σ1⊕Σ2≠Σ2⊕Σ1\\Sigma\_1\\oplus\\Sigma\_2 \\neq \\Sigma\_2\\oplus\\Sigma\_1Σ1​⊕Σ2​=Σ2​⊕Σ1​
   This is critical: **Order of merging meaning matters** — this is why Box Calculus
   surpasses Boolean logic.'
-heading: '**3.3 Non-Commutativity (Essential\!\!)**'
-id: GEN16-3803
-lines: 897-902
-location: genesis-16/untitled-document::3-algebraic-properties-of-the-mixing-law::33-non-commutativity-essential::b1
-parent_heading: '**3\. Algebraic Properties of the Mixing Law**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- Box Calculus
+- ⊕
+- Box
+- Order of merging meaning matters
+- ≠
+aliases:
+- Bk258so
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

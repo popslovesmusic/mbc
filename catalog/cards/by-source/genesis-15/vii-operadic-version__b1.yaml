@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Λ
-- Π
-- Φ
-- δ
-excerpt: 'CSOI converts δ into an ∞-arity global adjacency operation: Oδ(∞).\\mathcal{O}^{(\\infty)}\_\\delta.Oδ(∞)​.
-  The potential is the Π-evaluation of this operad:'
-heading: '**VII. Operadic Version**'
 id: GEN15-3341
-lines: 1362-1382
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::vii-operadic-version::b1
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1362-1382
+heading: '**VII. Operadic Version**'
+block_type: paragraph
+excerpt: 'CSOI converts δ into an ∞-arity global adjacency operation: Oδ(∞).\\mathcal{O}^{(\\infty)}\_\\delta.Oδ(∞)​.
+  The potential is the Π-evaluation of this operad:'
+concepts:
+- δ
+- ∞
+- Π-evaluation
+- δ-geometry
+- Π
+- Λ
+- Φ
+- Dark-matter
+- mass-based
+aliases:
+- Bk432cc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

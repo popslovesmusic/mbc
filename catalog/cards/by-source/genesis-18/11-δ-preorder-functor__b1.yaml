@@ -1,13 +1,32 @@
+id: GEN18-5263
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iii-π-as-a-left-kan-extension-causal-evaluation::1-kan-extension-setup::11-δ-preorder-functor::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1757-1770
+heading: '**1.1 δ-Preorder Functor**'
+parent_heading: '**1\. Kan Extension Setup**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Define: Eδ:Oδ(2)→PrePosetE\_\\delta : \\mathcal{O}^{(2)}\_\\delta \\to \\mathbf{PrePoset}Eδ​:Oδ(2)​→PrePoset
   assigning each δ-tree T a preorder “causal tension diagram”:'
-heading: '**1.1 δ-Preorder Functor**'
-id: GEN18-5263
-lines: 1757-1770
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iii-π-as-a-left-kan-extension-causal-evaluation::1-kan-extension-setup::11-δ-preorder-functor::b1
-parent_heading: '**1\. Kan Extension Setup**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- δ
+- IGSOA
+- →
+- raw curvature influence
+- Π
+- Φ
+- δ-tree
+aliases:
+- Bk082dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.727272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

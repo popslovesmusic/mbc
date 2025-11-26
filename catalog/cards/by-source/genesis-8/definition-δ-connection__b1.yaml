@@ -1,13 +1,27 @@
+id: GEN8-8883
+location: genesis-8/meta-time-geometry-and-temporal-projection::1-the-δ-weitzenböck-torsion-operator::definition-δ-connection::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2108-2112
+heading: '**Definition (δ-Connection)**'
+parent_heading: '**1\. The δ-Weitzenböck Torsion Operator**'
 block_type: paragraph
-concepts:
-- Γ
-- δ
-- μ
 excerpt: ∇μδ=∂μ+Γμδ\\nabla^\\delta\_\\mu \= \\partial\_\\mu \+ \\Gamma^\\delta\_{\\mu}∇μδ​=∂μ​+Γμδ​
   where Γδ\\Gamma^\\deltaΓδ is built from adjacency deformation, not metric derivatives.
-heading: '**Definition (δ-Connection)**'
-id: GEN8-8883
-lines: 2108-2112
-location: genesis-8/meta-time-geometry-and-temporal-projection::1-the-δ-weitzenböck-torsion-operator::definition-δ-connection::b1
-parent_heading: '**1\. The δ-Weitzenböck Torsion Operator**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- δ
+- μ
+- Γ
+- ∇
+- ∂
+aliases:
+- Bk258nd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.24137931034483
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

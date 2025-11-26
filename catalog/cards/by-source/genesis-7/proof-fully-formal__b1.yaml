@@ -1,8 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: We break the proof into abstract, geometric, and physical parts. ---
-heading: '**🧩 Proof (Fully Formal)**'
 id: GEN7-8485
-lines: 675-679
 location: genesis-7/the-complete-eft-lagrangian::proof-fully-formal::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 675-679
+heading: '**🧩 Proof (Fully Formal)**'
+block_type: paragraph
+excerpt: We break the proof into abstract, geometric, and physical parts. ---
+concepts:
+- Proof
+aliases:
+- Bk368bt
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Axiom
-- End Seal
-- Φ
-excerpt: '**SEAL:** NSE-1 **Axiom.** Assume the Φ-lift satisfies:'
-heading: '**AXIOM BOX 4: Nuclear Symmetry Emergence Axiom**'
 id: GEN13-2090
-lines: 1148-1165
 location: genesis-13/meta-math-nuclear-physics::axiom-box-4-nuclear-symmetry-emergence-axiom::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1148-1165
+heading: '**AXIOM BOX 4: Nuclear Symmetry Emergence Axiom**'
+block_type: paragraph
+excerpt: '**SEAL:** NSE-1 **Axiom.** Assume the Φ-lift satisfies:'
+concepts:
+- Φ
+- Axiom
+- Φ-lift
+- End Seal
+aliases:
+- Am498sn
+tags:
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.819277108433735
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

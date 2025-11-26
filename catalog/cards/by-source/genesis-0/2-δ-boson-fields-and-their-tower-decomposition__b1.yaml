@@ -1,11 +1,30 @@
+id: GEN0-350
+location: genesis-0/why-the-first-action-is-necessary::2-δ-boson-fields-and-their-tower-decomposition::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1703-1709
+heading: '**2\. δ-Boson Fields and Their Tower Decomposition**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Define a single δ-field: δ(x)=∑k=1∞δk(x).\\delta(x) \= \\sum\_{k=1}^{\\infty}
   \\delta\_k(x).δ(x)=k=1∑∞​δk​(x). Each δₖ(x) is a massive scalar bosonic mode in
   the EFT regime.'
-heading: '**2\. δ-Boson Fields and Their Tower Decomposition**'
-id: GEN0-350
-lines: 1703-1709
-location: genesis-0/why-the-first-action-is-necessary::2-δ-boson-fields-and-their-tower-decomposition::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ
+- ∑
+- ∞
+- δ-field
+- δk
+aliases:
+- Bk851ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,24 @@
+id: INTK-9703
+location: intake/axioms-geometry::tikz-latex-paper-ready-geometry-stack::4-tikz-commuting-square-potential-action-gr::b1
+source: intake\Axioms-geometry.md
+lines: 866-887
+heading: '**4\) TikZ: Commuting Square (Potential → Action → GR)**'
+parent_heading: '**TikZ (LaTeX) — Paper-Ready Geometry Stack**'
 block_type: paragraph
-concepts: []
 excerpt: '`\begin{tikzpicture}[>=stealth, node distance=3.0cm]` `\node (Psi0) {$\Psi_0$};`
   `\node[right of=Psi0] (H) {$\mathcal{H}$};`'
-heading: '**4\) TikZ: Commuting Square (Potential → Action → GR)**'
-id: INTK-9703
-lines: 866-887
-location: intake/axioms-geometry::tikz-latex-paper-ready-geometry-stack::4-tikz-commuting-square-potential-action-gr::b1
-parent_heading: '**TikZ (LaTeX) — Paper-Ready Geometry Stack**'
-source: intake\Axioms-geometry.md
+aliases:
+- Bk234bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

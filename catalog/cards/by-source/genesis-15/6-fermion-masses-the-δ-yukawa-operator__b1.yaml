@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- curvature-couplings
-- Π
-- Φ
-- δ
-excerpt: 'Standard: yf ψˉfψf ϕy\_f \\, \\bar{\\psi}\_f \\psi\_f \\, \\phiyf​ψˉ​f​ψf​ϕ
-  IGSOA:'
-heading: '**⟡ 6\. Fermion Masses: The δ-Yukawa Operator**'
 id: GEN15-3121
-lines: 620-639
 location: genesis-15/the-mass-curvature-projection-theorem::6-fermion-masses-the-δ-yukawa-operator::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 620-639
+heading: '**⟡ 6\. Fermion Masses: The δ-Yukawa Operator**'
+block_type: paragraph
+excerpt: 'Standard: yf ψˉfψf ϕy\_f \\, \\bar{\\psi}\_f \\psi\_f \\, \\phiyf​ψˉ​f​ψf​ϕ
+  IGSOA:'
+concepts:
+- ψ
+- δ
+- IGSOA
+- δf
+- Π
+- curvature-couplings
+- δ-Yukawa operator
+- Φ
+- δ-Yukawa
+aliases:
+- Bk179sb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.975609756097562
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

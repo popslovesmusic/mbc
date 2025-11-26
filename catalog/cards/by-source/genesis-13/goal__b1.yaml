@@ -1,11 +1,27 @@
+id: GEN13-2324
+location: genesis-13/the-weight-of-light::1-first-adjoint-pair-δ-φ::goal::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 910-918
+heading: '**Goal:**'
+parent_heading: '**1\. First Adjoint Pair: δ ⊣ Φ**'
 block_type: paragraph
-concepts: []
 excerpt: Show that for any A∈DA\\in \\mathcal{D}A∈D, P∈PP\\in\\mathcal{P}P∈P, \\mathrm{Hom}\_{\\mathcal{P}}(\\delta
   A, P) \\;\\cong\\; \\mathrm{Hom}\_{\\mathcal{D}}(A, \\Phi^\\\!\* P) naturally in
   both argumen...
-heading: '**Goal:**'
-id: GEN13-2324
-lines: 910-918
-location: genesis-13/the-weight-of-light::1-first-adjoint-pair-δ-φ::goal::b1
-parent_heading: '**1\. First Adjoint Pair: δ ⊣ Φ**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- ∈
+aliases:
+- Bk133st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.564102564102564
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

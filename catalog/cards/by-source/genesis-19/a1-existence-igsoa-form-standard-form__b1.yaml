@@ -1,13 +1,35 @@
-block_type: table
-concepts:
-- Box
-- Standard Form
-- Θ
-- σ
-excerpt: '---'
-heading: '**A1. Existence (IGSOA Form → Standard Form)**'
 id: GEN19-5871
-lines: 25-31
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-axiom-set-sealed::a1-existence-igsoa-form-standard-form::b1
-parent_heading: '**II. Axiom Set (sealed)**'
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 25-31
+heading: '**A1. Existence (IGSOA Form → Standard Form)**'
+parent_heading: '**II. Axiom Set (sealed)**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- Box
+- curvature-induced
+- ∈
+- σ
+- Θ
+- polarity-tagged
+- Box-object
+- ∀
+- ∃
+- Standard Form
+aliases:
+- Bk872if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

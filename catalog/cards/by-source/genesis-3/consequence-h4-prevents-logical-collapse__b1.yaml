@@ -1,13 +1,28 @@
+id: GEN3-7308
+location: genesis-3/metagenesis::hermetic-consequences::consequence-h4-prevents-logical-collapse::b1
+source: genesis-3\metagenesis.md
+lines: 534-548
+heading: '**Consequence H4: Prevents Logical Collapse**'
+parent_heading: '**Hermetic Consequences**'
 block_type: paragraph
-concepts:
-- Box
-- Meta-Math
-- The Hermetic Box
 excerpt: 'Without NOT: * curvature could collapse back to zero, * adjacencies could
   annihilate,'
-heading: '**Consequence H4: Prevents Logical Collapse**'
-id: GEN3-7308
-lines: 534-548
-location: genesis-3/metagenesis::hermetic-consequences::consequence-h4-prevents-logical-collapse::b1
-parent_heading: '**Hermetic Consequences**'
-source: genesis-3\metagenesis.md
+concepts:
+- Meta-Math
+- Box
+- The Hermetic Box
+aliases:
+- Bk209wn
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.344827586206897
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

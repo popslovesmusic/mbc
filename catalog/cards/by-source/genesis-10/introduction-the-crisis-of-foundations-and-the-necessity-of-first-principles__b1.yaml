@@ -1,26 +1,42 @@
+id: GEN10-948
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::introduction-the-crisis-of-foundations-and-the-necessity-of-first-principles::b1
+source: genesis-10\research_overview.md
+lines: 6-16
+heading: '**Introduction: The Crisis of Foundations and the Necessity of First Principles**'
+parent_heading: '**Meta-Genesis: A Master Summary of the Unified Field Theory**'
 block_type: paragraph
-concepts:
-- Axiom
-- Deviational Being
-- Einstein Equation
-- First Action
-- General Relativity
-- Meta-Einstein
-- Meta-Genesis
-- Monistic Ontology
-- Standard Model
-- The Meta
-- Theorem
-- Tri-Unity
-- Unity Theorem
-- before
-- how
 excerpt: Contemporary theoretical physics stands at a precipice. While the Standard
   Model of particle physics and General Relativity have achieved unparalleled predictive
   success, they remain fundamentally irr...
-heading: '**Introduction: The Crisis of Foundations and the Necessity of First Principles**'
-id: GEN10-948
-lines: 6-16
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::introduction-the-crisis-of-foundations-and-the-necessity-of-first-principles::b1
-parent_heading: '**Meta-Genesis: A Master Summary of the Unified Field Theory**'
-source: genesis-10\research_overview.md
+concepts:
+- Meta-Genesis
+- Meta-Einstein
+- Tri-Unity
+- Deviation
+- Theorem
+- Axiom
+- Meta-Einstein Equation
+- Tri-Unity Theorem
+- pre-existing
+- meta-theory
+- Standard Model
+- General Relativity
+- Monistic Ontology
+- Einstein Equation
+- Deviational Being
+aliases:
+- Bk475ct
+tags:
+- qualified
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.21978021978022
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

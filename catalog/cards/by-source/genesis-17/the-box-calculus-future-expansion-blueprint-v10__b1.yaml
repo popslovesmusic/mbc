@@ -1,15 +1,31 @@
+id: GEN17-4351
+location: genesis-17/box-calculus::if-you-want-next::the-box-calculus-future-expansion-blueprint-v10::b1
+source: genesis-17\box_calculus.md
+lines: 2731-2737
+heading: THE BOX CALCULUS FUTURE EXPANSION BLUEPRINT (v1.0)
+parent_heading: 'If you want next:'
 block_type: paragraph
-concepts:
-- Category Theory
-- "Coupling  \nWhich"
-- Field
-- Field Theory
-- Meta-Calculus
 excerpt: '— a formal, multi-decade roadmap for the theory. Or I can begin expanding
   one of the directions above in detail. Just tell me which direction to unfold first:'
-heading: THE BOX CALCULUS FUTURE EXPANSION BLUEPRINT (v1.0)
-id: GEN17-4351
-lines: 2731-2737
-location: genesis-17/box-calculus::if-you-want-next::the-box-calculus-future-expansion-blueprint-v10::b1
-parent_heading: 'If you want next:'
-source: genesis-17\box_calculus.md
+concepts:
+- IGSOA
+- Field
+- Meta-Calculus
+- multi-decade
+- "Coupling  \nWhich"
+- Category Theory
+- Field Theory
+aliases:
+- Bk847fm
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.217391304347828
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,10 +1,27 @@
-block_type: list
-concepts:
-- δ
-excerpt: '* Difference creates adjacency. * Adjacency organizes itself into neighborhoods.
-  * Neighborhoods give rise to topology.'
-heading: '**6\. Interpretation (Outreach Version)**'
 id: GEN4-7850
-lines: 686-706
 location: genesis-4/the-first-adjacency::6-interpretation-outreach-version::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 686-706
+heading: '**6\. Interpretation (Outreach Version)**'
+block_type: list
+excerpt: '* Difference creates adjacency. * Adjacency organizes itself into neighborhoods.
+  * Neighborhoods give rise to topology.'
+concepts:
+- Adjacency
+- δ
+- δ-adjacency
+- δ-operator
+aliases:
+- Bk598dc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

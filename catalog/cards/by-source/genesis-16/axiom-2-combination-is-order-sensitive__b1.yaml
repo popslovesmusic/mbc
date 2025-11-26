@@ -1,15 +1,32 @@
+id: GEN16-3947
+location: genesis-16/untitled-document::3-meta-math-axioms-box-calculus-axioms::axiom-2-combination-is-order-sensitive::b1
+source: genesis-16\Untitled_document.md
+lines: 2631-2643
+heading: '**AXIOM 2: Combination Is Order-Sensitive**'
+parent_heading: '**⭐ 3\. META-MATH AXIOMS → BOX CALCULUS AXIOMS**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Meta-Math
-- Σ
 excerpt: '**Meta-Math:** Operations applied in different orders yield different mathematical
   objects. **Box Calculus:**'
-heading: '**AXIOM 2: Combination Is Order-Sensitive**'
-id: GEN16-3947
-lines: 2631-2643
-location: genesis-16/untitled-document::3-meta-math-axioms-box-calculus-axioms::axiom-2-combination-is-order-sensitive::b1
-parent_heading: '**⭐ 3\. META-MATH AXIOMS → BOX CALCULUS AXIOMS**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- Meta-Math
+- Box Calculus
+- Axiom
+- Box
+- Non-commutative
+- ≠
+aliases:
+- Bk017mm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

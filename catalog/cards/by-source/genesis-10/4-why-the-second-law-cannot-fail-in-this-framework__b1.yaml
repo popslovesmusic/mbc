@@ -1,15 +1,37 @@
-block_type: paragraph
-concepts:
-- In Meta
-- Meta-Genesis
-- Second Law
-- only
-- Π
-- Φ
-- δ
-excerpt: 'In statistical physics, entropy growth is: * highly probable * but not guaranteed'
-heading: '**4\. Why the Second Law *Cannot* Fail in This Framework**'
 id: GEN10-771
-lines: 371-395
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-why-the-second-law-cannot-fail-in-this-framework::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 371-395
+heading: '**4\. Why the Second Law *Cannot* Fail in This Framework**'
+block_type: paragraph
+excerpt: 'In statistical physics, entropy growth is: * highly probable * but not guaranteed'
+concepts:
+- Meta-Genesis
+- IGSOA
+- Π-histories only accumulate
+- Φ-space can only increase
+- δ
+- coarse-graining
+- Π-histories
+- Φ-space
+- Π
+- Φ
+- δ is not reversible
+- logical necessity
+- Second Law
+- In Meta
+- δ²
+aliases:
+- Bk332sp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.809523809523807
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

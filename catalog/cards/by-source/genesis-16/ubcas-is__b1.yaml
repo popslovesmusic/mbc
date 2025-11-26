@@ -1,9 +1,23 @@
-block_type: list
-concepts: []
-excerpt: '* cleaner * more narrative * more physically intuitive'
-heading: '**UBCAS is:**'
 id: GEN16-3881
-lines: 1939-1949
 location: genesis-16/untitled-document::5-big-picture-differences::ubcas-is::b1
-parent_heading: '**⭐ 5\. Big Picture Differences**'
 source: genesis-16\Untitled_document.md
+lines: 1939-1949
+heading: '**UBCAS is:**'
+parent_heading: '**⭐ 5\. Big Picture Differences**'
+block_type: list
+excerpt: '* cleaner * more narrative * more physically intuitive'
+aliases:
+- Bk204cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

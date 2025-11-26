@@ -1,11 +1,26 @@
+id: INTK-10047
+location: intake/meta-genesis-outreach-narrative-papers::why-perfect-stillness-cannot-exist::6-perfect-stillness-cannot-exist-because-it-cannot-stay-still::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 435-463
+heading: '**6\. Perfect Stillness Cannot Exist Because It Cannot Stay Still**'
+parent_heading: '**Why Perfect Stillness Cannot Exist**'
 block_type: paragraph
-concepts: []
 excerpt: 'The clean outreach statement: **A universe of perfect stillness is impossible
   because there is nothing in it that can keep it still.** **Without structure, you
   cannot preserve structure.**'
-heading: '**6\. Perfect Stillness Cannot Exist Because It Cannot Stay Still**'
-id: INTK-10047
-lines: 435-463
-location: intake/meta-genesis-outreach-narrative-papers::why-perfect-stillness-cannot-exist::6-perfect-stillness-cannot-exist-because-it-cannot-stay-still::b1
-parent_heading: '**Why Perfect Stillness Cannot Exist**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- non-rules
+aliases:
+- Bk375tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.9345794392523363
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

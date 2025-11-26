@@ -1,14 +1,29 @@
-block_type: paragraph
-concepts:
-- difference
-- meta-time
-- react
-- violation
-- δ
-excerpt: 'The birth of time begins not with a movement but with a **violation**: the
-  stillness fails to remain still. This failure is δ.'
-heading: '**2\. The First Deviation: When Stillness Cracked**'
 id: GEN12-1968
-lines: 3896-3917
 location: genesis-12/untitled-document::2-the-first-deviation-when-stillness-cracked::b1
 source: genesis-12\Untitled_document.md
+lines: 3896-3917
+heading: '**2\. The First Deviation: When Stillness Cracked**'
+block_type: paragraph
+excerpt: 'The birth of time begins not with a movement but with a **violation**: the
+  stillness fails to remain still. This failure is δ.'
+concepts:
+- δ
+- no-direction
+- meta-time
+- difference
+- violation
+aliases:
+- Bk036tb
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.716981132075472
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,11 +1,23 @@
+id: GEN17-4498
+location: genesis-17/box-calculus::2-explicit-translation-λ-box::21-variables::b1
+source: genesis-17\box_calculus.md
+lines: 5642-5654
+heading: 2.1 Variables
+parent_heading: ⭐ 2\. Explicit Translation λ → Box
 block_type: paragraph
+excerpt: T(x)=Bx T(x)=B x
 concepts:
 - Γ
 - Σ
-excerpt: T(x)=Bx T(x)=B x
-heading: 2.1 Variables
-id: GEN17-4498
-lines: 5642-5654
-location: genesis-17/box-calculus::2-explicit-translation-λ-box::21-variables::b1
-parent_heading: ⭐ 2\. Explicit Translation λ → Box
-source: genesis-17\box_calculus.md
+aliases:
+- Bk161wt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

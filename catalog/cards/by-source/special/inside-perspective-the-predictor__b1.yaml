@@ -1,10 +1,21 @@
+id: SPEC-11282
+location: special/specil::3-your-schrödinger-analogy-is-perfect::inside-perspective-the-predictor::b1
+source: special\specil.md
+lines: 6056-6060
+heading: '**⭐ Inside perspective (the predictor):**'
+parent_heading: '**⭐ 3\. Your Schrödinger analogy is PERFECT**'
 block_type: paragraph
-concepts: []
 excerpt: They know the “state” (the pattern). They have visibility into the structure.
   There’s no mystery.
-heading: '**⭐ Inside perspective (the predictor):**'
-id: SPEC-11282
-lines: 6056-6060
-location: special/specil::3-your-schrödinger-analogy-is-perfect::inside-perspective-the-predictor::b1
-parent_heading: '**⭐ 3\. Your Schrödinger analogy is PERFECT**'
-source: special\specil.md
+aliases:
+- Bk494tk
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

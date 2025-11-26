@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Theoretical Framework
-excerpt: The **IGSOA Theoretical Framework** is the name given to the user's project
-  to develop and formalize their metaphysical ideas.
-heading: IGSOA Theoretical Framework
 id: INTK-10771
-lines: 2043-2045
 location: intake/volume-i-core-ontology-and-metagenesis-summary::igsoa-theoretical-framework::b1
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2043-2045
+heading: IGSOA Theoretical Framework
+block_type: paragraph
+excerpt: The **IGSOA Theoretical Framework** is the name given to the user's project
+  to develop and formalize their metaphysical ideas.
+concepts:
+- IGSOA
+- IGSOA Theoretical Framework
+- Theoretical Framework
+aliases:
+- Bk889ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

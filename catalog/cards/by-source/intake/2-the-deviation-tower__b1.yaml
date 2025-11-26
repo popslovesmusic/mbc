@@ -1,14 +1,40 @@
+id: INTK-9946
+location: intake/meta-genesis-mathematical-papers::2-the-deviation-tower::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 40-66
+heading: '**2\. The Deviation Tower**'
 block_type: paragraph
-concepts:
-- First Movement
-- Meta-Fractal
-- Ψ
-- δ
 excerpt: 'Define iterated deviations: δ0X:=X,δ1X:=δX,δn+1X:=δ(δnX).\\delta^0 X :=
   X,\\qquad \\delta^1 X := \\delta X, \\qquad \\delta^{n+1}X := \\delta(\\delta^n
   X).δ0X:=X,δ1X:=δX,δn+1X:=δ(δnX). The collection'
-heading: '**2\. The Deviation Tower**'
-id: INTK-9946
-lines: 40-66
-location: intake/meta-genesis-mathematical-papers::2-the-deviation-tower::b1
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- δ
+- Ψ
+- δn
+- atomic δ-spectrum
+- ≥
+- δ-boson tower
+- second-order
+- Meta-Fractal
+- zero-state
+- δ-spectrum
+- δ-boson
+- n-step
+- First Movement
+- δnX
+- δX
+aliases:
+- Bk877di
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.904761904761903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

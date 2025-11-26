@@ -1,16 +1,40 @@
+id: GEN0-104
+location: genesis-0/feynman-rules-interaction-vertices::v-the-vacuum-ansatz::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1478-1522
+heading: '**V. The Vacuum Ansatz**'
 block_type: paragraph
-concepts:
-- Stability Theorem
-- Theorem
-- Ψ
-- δ
-- λ
-- μ
 excerpt: 'Assume a vacuum solution: δ(m)(x)=vδu(m)with u(m)u(m)=1.\\delta^{(m)}(x)
   \= v\_{\\delta} u^{(m)} \\quad \\text{with } u^{(m)}u^{(m)}=1.δ(m)(x)=vδ​u(m)with
   u(m)u(m)=1. (Vacuum amplitude times direction...'
-heading: '**V. The Vacuum Ansatz**'
-id: GEN0-104
-lines: 1478-1522
-location: genesis-0/feynman-rules-interaction-vertices::v-the-vacuum-ansatz::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- μ
+- λ
+- ∇
+- ∂
+- Theorem
+- Ψ
+- δ-direction
+- δ-Higgs
+- δv
+- δ-boson
+- δu
+- ≠
+- δ-mode
+- →
+aliases:
+- Bk033av
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.164383561643835
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

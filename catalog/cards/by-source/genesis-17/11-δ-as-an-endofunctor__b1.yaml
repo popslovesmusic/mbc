@@ -1,11 +1,29 @@
+id: GEN17-5046
+location: genesis-17/mbc-schema-3::1-deviation-functor-δ::11-δ-as-an-endofunctor::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 526-538
+heading: '**1.1 δ as an Endofunctor**'
+parent_heading: '**1\. Deviation Functor (δ)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Deviation is not merely an operator. It is a *structure-producing functor*:
   δ:I→D\\delta : \\mathcal{I} \\to \\mathcal{D}δ:I→D Where:'
-heading: '**1.1 δ as an Endofunctor**'
-id: GEN17-5046
-lines: 526-538
-location: genesis-17/mbc-schema-3::1-deviation-functor-δ::11-δ-as-an-endofunctor::b1
-parent_heading: '**1\. Deviation Functor (δ)**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Deviation
+- IGSOA
+- δ
+- structure-producing
+- deviation-induced
+- →
+- δ-activated
+aliases:
+- Bk957dn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

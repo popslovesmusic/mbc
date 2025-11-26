@@ -1,10 +1,39 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'We now solve: Hatomδψ=Eψ.H\_{\\text{atom}}^\\delta \\psi \= E\\psi.Hatomδ​ψ=Eψ.
-  Separating δ-geometry variables, the modes decompose as:'
-heading: '**IV. Eigenmodes: δ-Harmonics → Atomic Orbitals**'
 id: GEN7-8687
-lines: 958-992
 location: genesis-7/why-curvature-gives-gravity::iv-eigenmodes-δ-harmonics-atomic-orbitals::b1
 source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 958-992
+heading: '**IV. Eigenmodes: δ-Harmonics → Atomic Orbitals**'
+block_type: paragraph
+excerpt: 'We now solve: Hatomδψ=Eψ.H\_{\\text{atom}}^\\delta \\psi \= E\\psi.Hatomδ​ψ=Eψ.
+  Separating δ-geometry variables, the modes decompose as:'
+concepts:
+- δ
+- δ-geometry
+- ψ
+- θ
+- δ-harmonic
+- δ-harmonics
+- δ-spherical harmonics
+- radial δ-harmonics
+- π
+- weak-deviation
+- δ-potential
+- δ-spherical
+- δR
+- δRn
+- δY
+aliases:
+- Bk189ns
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.246376811594203
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

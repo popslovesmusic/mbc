@@ -1,12 +1,36 @@
+id: GEN11-988
+location: genesis-11/how-curvature-could-generate-an-axis::how-δ-curvature-could-generate-an-axis::2-parity-chirality-bias-from-δ-curvature::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 16-27
+heading: '**2\) Parity / chirality bias from δ-curvature**'
+parent_heading: '**How δ-curvature could generate an “Axis”**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Some AoE-related anomalies are *parity flavored*: even/odd low-ℓ modes behave
   oddly, and some papers show that parity-violating or chiral early-universe physics
   can align ℓ=2 and ℓ=3 while suppressing...'
-heading: '**2\) Parity / chirality bias from δ-curvature**'
-id: GEN11-988
-lines: 16-27
-location: genesis-11/how-curvature-could-generate-an-axis::how-δ-curvature-could-generate-an-axis::2-parity-chirality-bias-from-δ-curvature::b1
-parent_heading: '**How δ-curvature could generate an “Axis”**'
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+concepts:
+- IGSOA
+- parity-violating
+- early-universe
+- super-horizon
+- δ-curvature
+- AoE-related
+- non-zero
+- δ
+- hep-th
+- largest scales
+aliases:
+- Bk930sa
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.75268817204301
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

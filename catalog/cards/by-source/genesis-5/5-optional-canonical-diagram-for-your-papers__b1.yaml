@@ -1,9 +1,26 @@
-block_type: table
-concepts:
-- σ
-excerpt: '`MG  --L-->  MM  --U-->  σTop` `^                         |` `|                         |`'
-heading: '**5\. Optional: Canonical Diagram (for your papers)**'
 id: GEN5-7950
-lines: 222-241
 location: genesis-5/formal-proof-of-the-adjoint-triple::5-optional-canonical-diagram-for-your-papers::b1
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 222-241
+heading: '**5\. Optional: Canonical Diagram (for your papers)**'
+block_type: table
+excerpt: '`MG  --L-->  MM  --U-->  σTop` `^                         |` `|                         |`'
+concepts:
+- deviation-realization
+- genesis-collapse
+- σ
+aliases:
+- Bk410wd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

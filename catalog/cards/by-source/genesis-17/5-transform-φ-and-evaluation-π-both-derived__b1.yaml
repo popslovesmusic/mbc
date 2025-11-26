@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Π
-- Σ
-- Φ
-- λ
-excerpt: 'Since 𝓕 is self-adjoint, define its functional calculus: Φ(Σ)=f(F)(Σ) Φ(Σ)=f(F)(Σ)'
-heading: 5\. Transform Φ and Evaluation Π (Both Derived)
 id: GEN17-4748
-lines: 8755-8773
 location: genesis-17/box-calculus::iv-all-box-operators-become-derived-operators::5-transform-φ-and-evaluation-π-both-derived::b1
-parent_heading: 🔷 IV. ALL Box Operators Become Derived Operators
 source: genesis-17\box_calculus.md
+lines: 8755-8773
+heading: 5\. Transform Φ and Evaluation Π (Both Derived)
+parent_heading: 🔷 IV. ALL Box Operators Become Derived Operators
+block_type: paragraph
+excerpt: 'Since 𝓕 is self-adjoint, define its functional calculus: Φ(Σ)=f(F)(Σ) Φ(Σ)=f(F)(Σ)'
+concepts:
+- Σ
+- Proof
+- Π
+- Φ
+- self-adjoint
+- λ
+aliases:
+- Bk145ss
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

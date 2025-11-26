@@ -1,14 +1,33 @@
+id: GEN11-1277
+location: genesis-11/the-adjacency-wave-equation::axiomatic-content-sealed::3-projection-to-metric-curvature-φπ::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 540-548
+heading: '**3\. Projection to Metric Curvature (Φ→Π)**'
+parent_heading: '**Axiomatic Content (Sealed)**'
 block_type: paragraph
-concepts:
-- Π
-- δ
-- λ
 excerpt: 'Π maps spectral δ-structure into real geometric patterns: Π({λk})=T∈T.\\Pi(\\{\\lambda\_k\\})=T
   \\in \\mathcal{T}.Π({λk​})=T∈T. T is the **curvature-condensate field** whose angular
   pushforward become...'
-heading: '**3\. Projection to Metric Curvature (Φ→Π)**'
-id: GEN11-1277
-lines: 540-548
-location: genesis-11/the-adjacency-wave-equation::axiomatic-content-sealed::3-projection-to-metric-curvature-φπ::b1
-parent_heading: '**Axiomatic Content (Sealed)**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- curvature-condensate field
+- Π
+- curvature-condensate
+- λ
+- ∈
+- δ-structure
+- δ
+aliases:
+- Bk239ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.421052631578945
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

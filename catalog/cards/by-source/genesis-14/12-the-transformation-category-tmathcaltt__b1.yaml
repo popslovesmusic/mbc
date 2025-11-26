@@ -1,13 +1,29 @@
+id: GEN14-2886
+location: genesis-14/meta-math-and-cryptography::1-category-setup::12-the-transformation-category-tmathcaltt::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1391-1410
+heading: '**1.2 The Transformation Category T\\mathcal{T}T**'
+parent_heading: '**1\. Category Setup**'
 block_type: paragraph
-concepts:
-- functor
-- Φ
 excerpt: 'Objects: intermediate cryptographic states (round states, modular residues,
   lattice images). Morphisms: forward transforms (AES rounds, modular exponentiation,
   lattice linear maps). Φ is a **functor**...'
-heading: '**1.2 The Transformation Category T\\mathcal{T}T**'
-id: GEN14-2886
-lines: 1391-1410
-location: genesis-14/meta-math-and-cryptography::1-category-setup::12-the-transformation-category-tmathcaltt::b1
-parent_heading: '**1\. Category Setup**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Φ
+- →
+- functor
+aliases:
+- Bk150oi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.660377358490567
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

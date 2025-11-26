@@ -1,18 +1,36 @@
-block_type: paragraph
-concepts:
-- Asymmetry
-- Curvature
-- Entropy
-- Symmetry
-- Time
-- shadow
-- Π
-- Φ
-- δ
-excerpt: 'In your monistic framework: * **Symmetry** (Φ) smooths. * **Asymmetry**
-  (δ) perturbs.'
-heading: '**11\. Final Monistic Interpretation**'
 id: GEN10-815
-lines: 1172-1194
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::11-final-monistic-interpretation::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1172-1194
+heading: '**11\. Final Monistic Interpretation**'
+block_type: paragraph
+excerpt: 'In your monistic framework: * **Symmetry** (Φ) smooths. * **Asymmetry**
+  (δ) perturbs.'
+concepts:
+- δ
+- Curvature
+- Φ must expand to accommodate δ-torsion
+- non-invertibility
+- Φ
+- Genesis-level
+- δ-torsion
+- Π
+- Entropy
+- δ cannot go back
+- δ has an arrow
+- Time
+- Asymmetry
+- Symmetry
+- shadow
+aliases:
+- Bk306ym
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

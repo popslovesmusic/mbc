@@ -1,10 +1,24 @@
+id: GEN17-4696
+location: genesis-17/box-calculus::3-combining-b-and-e-gives-the-true-𝓕::33-shadows-emerge-from-its-spectrum::b1
+source: genesis-17\box_calculus.md
+lines: 8165-8172
+heading: 3.3 Shadows emerge from its spectrum
+parent_heading: '⭐ \*\*3. Combining B and E gives the true 𝓕:'
 block_type: list
-concepts: []
 excerpt: '* IGS \= low curvature, low-energy modes * OA \= high curvature, high-energy
   modes These are not operators —'
-heading: 3.3 Shadows emerge from its spectrum
-id: GEN17-4696
-lines: 8165-8172
-location: genesis-17/box-calculus::3-combining-b-and-e-gives-the-true-𝓕::33-shadows-emerge-from-its-spectrum::b1
-parent_heading: '⭐ \*\*3. Combining B and E gives the true 𝓕:'
-source: genesis-17\box_calculus.md
+concepts:
+- high-energy
+- low-energy
+aliases:
+- Bk857il
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

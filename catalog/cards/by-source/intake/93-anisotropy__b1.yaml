@@ -1,12 +1,29 @@
+id: INTK-9641
+location: intake/abstract-editorial-review::section-9-observational-predictions::93-anisotropy::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 512-522
+heading: '**9.3 — anisotropy**'
+parent_heading: '**📄 Section 9 — Observational Predictions**'
 block_type: paragraph
-concepts:
-- coherent
-- δ
 excerpt: 'Also excellent. Optional enhancement: IGSOA predicts not random anisotropy
   but *coherent*, scale-linked anisotropy, reflecting the structure of δ-projection.'
-heading: '**9.3 — anisotropy**'
-id: INTK-9641
-lines: 512-522
-location: intake/abstract-editorial-review::section-9-observational-predictions::93-anisotropy::b1
-parent_heading: '**📄 Section 9 — Observational Predictions**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- IGSOA
+- δ-projection
+- scale-linked
+- follow-up
+- δ
+aliases:
+- Bk973ae
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.230769230769234
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

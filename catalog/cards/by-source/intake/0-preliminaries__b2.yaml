@@ -1,13 +1,38 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- Time Projection Functor
-- time
-- Ψ
-- δ
-excerpt: 'You already have: * **Zero-state:** Ψ0\\Psi\_0Ψ0​'
-heading: '**0\. Preliminaries**'
 id: INTK-9997
-lines: 802-822
 location: intake/meta-genesis-mathematical-papers::0-preliminaries::b2
 source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 802-822
+heading: '**0\. Preliminaries**'
+block_type: paragraph
+excerpt: 'You already have: * **Zero-state:** Ψ0\\Psi\_0Ψ0​'
+concepts:
+- δ
+- Ψ
+- Meta-Time
+- Projection
+- Adjacency
+- Deviation
+- adjacency always carries an intrinsic partial order
+- Functor
+- Deviation-generated
+- projection of this partial order
+- π
+- →
+- Zero-state
+- Time Projection Functor
+- δn
+aliases:
+- Bk564ya
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.161616161616163
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

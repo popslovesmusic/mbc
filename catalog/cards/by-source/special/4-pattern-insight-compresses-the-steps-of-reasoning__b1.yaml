@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- result
-excerpt: 'To an observer: `Given x → Conclusion y` To the person doing it:'
-heading: '**⭐ 4\. Pattern Insight compresses the steps of reasoning**'
 id: SPEC-11272
-lines: 5874-5910
 location: special/specil::4-pattern-insight-compresses-the-steps-of-reasoning::b1
 source: special\specil.md
+lines: 5874-5910
+heading: '**⭐ 4\. Pattern Insight compresses the steps of reasoning**'
+block_type: paragraph
+excerpt: 'To an observer: `Given x → Conclusion y` To the person doing it:'
+concepts:
+- →
+- very fast
+aliases:
+- Bk329og
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.4691358024691357
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

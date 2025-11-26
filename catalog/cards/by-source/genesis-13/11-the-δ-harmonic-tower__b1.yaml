@@ -1,13 +1,36 @@
+id: GEN13-2029
+location: genesis-13/meta-math-nuclear-physics::1-δ-layer-the-genesis-precursor-of-nuclear-structure::11-the-δ-harmonic-tower::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 322-342
+heading: '**1.1 The δ-Harmonic Tower**'
+parent_heading: '**1\. δ-Layer: The Genesis Precursor of Nuclear Structure**'
 block_type: paragraph
-concepts:
-- α
-- δ
-- λ
 excerpt: 'Define the δ-spectrum: δψn=λnψn,n∈N\\delta \\psi\_n \= \\lambda\_n \\psi\_n
   \\quad,\\quad n\\in\\mathbb{N}δψn​=λn​ψn​,n∈N Key properties:'
-heading: '**1.1 The δ-Harmonic Tower**'
-id: GEN13-2029
-lines: 322-342
-location: genesis-13/meta-math-nuclear-physics::1-δ-layer-the-genesis-precursor-of-nuclear-structure::11-the-δ-harmonic-tower::b1
-parent_heading: '**1\. δ-Layer: The Genesis Precursor of Nuclear Structure**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- ψ
+- λ
+- Lemma
+- ∈
+- α
+- δ-multiplicity
+- δ-eigenmodes
+- δ-spectrum
+- δ-modes
+- →
+aliases:
+- Bk754dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.666666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

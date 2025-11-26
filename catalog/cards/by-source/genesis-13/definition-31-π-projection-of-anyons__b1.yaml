@@ -1,11 +1,26 @@
+id: GEN13-2225
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-physical-anyons-and-topological-quantum-gates::definition-31-π-projection-of-anyons::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2571-2575
+heading: '**Definition 3.1 — Π-Projection of Anyons**'
+parent_heading: '**3\. Π-Layer: Physical Anyons and Topological Quantum Gates**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: Π(a)=physical anyon excitation.\\Pi(a) \= \\text{physical anyon excitation}.Π(a)=physical
   anyon excitation. ---
-heading: '**Definition 3.1 — Π-Projection of Anyons**'
-id: GEN13-2225
-lines: 2571-2575
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-physical-anyons-and-topological-quantum-gates::definition-31-π-projection-of-anyons::b1
-parent_heading: '**3\. Π-Layer: Physical Anyons and Topological Quantum Gates**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Π
+aliases:
+- Bk620pa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

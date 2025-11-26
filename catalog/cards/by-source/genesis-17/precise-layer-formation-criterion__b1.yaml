@@ -1,16 +1,37 @@
+id: GEN17-5134
+location: genesis-17/mbc-schema-3::precise-layer-formation-criterion::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 2012-2032
+heading: '**PRECISE LAYER FORMATION CRITERION**'
 block_type: paragraph
-concepts:
-- Genesis Layer
-- Layer
-- Meta-Genesis
-- The Meta
-- iff
-- Ω
 excerpt: 'The Meta-Genesis Layer exists **iff**: ∃X∈B∪MB:R(Ω(Δ(X)))=Ω(Δ(X)).\\exists
   X \\in \\mathcal{B} \\cup \\mathcal{MB} : \\quad R(\\Omega(\\Delta(X))) \= \\Omega(\\Delta(X)).∃X∈B∪MB:R(Ω(Δ(X)))=Ω(Δ(X)).
   Th...'
-heading: '**PRECISE LAYER FORMATION CRITERION**'
-id: GEN17-5134
-lines: 2012-2032
-location: genesis-17/mbc-schema-3::precise-layer-formation-criterion::b1
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Meta-Genesis
+- Ω
+- Δ
+- Layer
+- ∈
+- self-consistency
+- ∃
+- ∪
+- the recursion engine
+- Genesis Layer
+- The Meta
+- iff
+aliases:
+- Bk962tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.216216216216218
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,28 @@
+id: GEN16-4048
+location: genesis-16/untitled-document::22-second-triangle-identity-ϵπφη1πepsilon-pi-circ-phi-eta-1-piϵπφη1π::mathematical-polarity-formal-proof::step-2-apply-definitions::b1
+source: genesis-16\Untitled_document.md
+lines: 3981-3994
+heading: '**Step 2 — Apply definitions**'
+parent_heading: '**Mathematical Polarity (Formal Proof)**'
 block_type: list
-concepts:
-- Π
-- Φ
-- η
 excerpt: '* Unit: η(y)=canonical lift of y\\eta(y) \= \\text{canonical lift of } yη(y)=canonical
   lift of y * Φ applied:'
-heading: '**Step 2 — Apply definitions**'
-id: GEN16-4048
-lines: 3981-3994
-location: genesis-16/untitled-document::22-second-triangle-identity-ϵπφη1πepsilon-pi-circ-phi-eta-1-piϵπφη1π::mathematical-polarity-formal-proof::step-2-apply-definitions::b1
-parent_heading: '**Mathematical Polarity (Formal Proof)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Φ
+- η
+- Π
+aliases:
+- Bk822uc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

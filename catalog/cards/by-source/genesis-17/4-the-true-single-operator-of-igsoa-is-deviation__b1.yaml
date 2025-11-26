@@ -1,8 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'You said it: “IGSOA process is deviation or 𝓕 perhaps.” Yes.'
-heading: ⭐ 4\. The true single operator of IGSOA IS Deviation
 id: GEN17-4651
-lines: 7748-7753
 location: genesis-17/box-calculus::4-the-true-single-operator-of-igsoa-is-deviation::b1
 source: genesis-17\box_calculus.md
+lines: 7748-7753
+heading: ⭐ 4\. The true single operator of IGSOA IS Deviation
+block_type: paragraph
+excerpt: 'You said it: “IGSOA process is deviation or 𝓕 perhaps.” Yes.'
+concepts:
+- IGSOA
+aliases:
+- Bk621ys
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

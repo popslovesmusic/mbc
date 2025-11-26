@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- proto-modeling
-excerpt: 'Modern research shows: Humans use superstition to: * fill in gaps in causal
-  understanding'
-heading: '**⭐ 4\. Cognitive science agrees with you**'
 id: SPEC-11144
-lines: 2921-2951
 location: special/specil::4-cognitive-science-agrees-with-you::b1
 source: special\specil.md
+lines: 2921-2951
+heading: '**⭐ 4\. Cognitive science agrees with you**'
+block_type: paragraph
+excerpt: 'Modern research shows: Humans use superstition to: * fill in gaps in causal
+  understanding'
+concepts:
+- proto-modeling
+- folk epistemology
+aliases:
+- Bk518mr
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.508771929824561
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

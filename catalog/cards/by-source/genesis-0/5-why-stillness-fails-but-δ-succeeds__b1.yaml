@@ -1,20 +1,36 @@
+id: GEN0-275
+location: genesis-0/why-the-first-action-is-necessary::5-why-stillness-fails-but-δ-succeeds::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 301-330
+heading: '**5\. Why Stillness Fails, but δ Succeeds**'
 block_type: paragraph
+excerpt: 'Contrast Ψ₀ with δ — the First Action. δ *does* supply: * distinguishable
+  states'
 concepts:
-- First Action
+- δ
 - Meta-Einstein
 - Meta-Time
+- Deviation
+- IGSOA
+- Ψ
+- can
+- First Action
+- δS
+- δR
 - 'Time
 
 
   Thus'
-- can
-- does
-- Ψ
-- δ
-excerpt: 'Contrast Ψ₀ with δ — the First Action. δ *does* supply: * distinguishable
-  states'
-heading: '**5\. Why Stillness Fails, but δ Succeeds**'
-id: GEN0-275
-lines: 301-330
-location: genesis-0/why-the-first-action-is-necessary::5-why-stillness-fails-but-δ-succeeds::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+- Ψ₀
+aliases:
+- Bk684cw
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,19 +1,44 @@
+id: GEN15-3278
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iv-the-category-theoretic-statement::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 333-379
+heading: '**IV. The Category-Theoretic Statement**'
 block_type: paragraph
+excerpt: Let * Devi\\mathsf{Devi}Devi \= category of δ-fields * Dens\\mathsf{Dens}Dens
+  \= category of mass distributions
 concepts:
+- Π
+- Φ
+- →
+- ∈
+- Theorem
+- δ
+- η
+- ∪
+- ρ
+- CSOI-curvature
+- DM-density
+- δ-fields
+- δCSOI
 - 'Obs
 
 
   We'
-- Theorem
-- Π
-- Φ
-- δ
-- η
-- ρ
-excerpt: Let * Devi\\mathsf{Devi}Devi \= category of δ-fields * Dens\\mathsf{Dens}Dens
-  \= category of mass distributions
-heading: '**IV. The Category-Theoretic Statement**'
-id: GEN15-3278
-lines: 333-379
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iv-the-category-theoretic-statement::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+aliases:
+- Th126ld
+tags:
+- theorem
+- functorial-csoidm-equivalence
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.82122905027933
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,21 @@
+id: GEN20-6618
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::key-structural-components::3-π-proof-evaluated-truth-fixed-point::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 717-722
+heading: 3\. Π-Proof (evaluated truth / fixed-point)
+parent_heading: Key Structural Components
 block_type: list
-concepts: []
 excerpt: '* shared, not raw geometry * enables downstream coherence Equivalent to
   “sending gradients or summarized parameters.”'
-heading: 3\. Π-Proof (evaluated truth / fixed-point)
-id: GEN20-6618
-lines: 717-722
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::key-structural-components::3-π-proof-evaluated-truth-fixed-point::b1
-parent_heading: Key Structural Components
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+aliases:
+- Bk906sn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

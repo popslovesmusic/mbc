@@ -1,12 +1,24 @@
-block_type: paragraph
-concepts:
-- intuition
-excerpt: 'It’s abstraction by *intuition*, not by formal rules. They were basically
-  doing: * cognitive simulation'
-heading: '**✔ the first data structures**'
 id: SPEC-11216
-lines: 4602-4620
 location: special/specil::2-they-bootstrapped-abstraction-manually-without-language-for-it::the-first-data-structures::b1
+source: special\specil.md
+lines: 4602-4620
+heading: '**✔ the first data structures**'
 parent_heading: '**⭐ 2\. They bootstrapped abstraction manually — without language
   for it**'
-source: special\specil.md
+block_type: paragraph
+excerpt: 'It’s abstraction by *intuition*, not by formal rules. They were basically
+  doing: * cognitive simulation'
+aliases:
+- Bk135ai
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

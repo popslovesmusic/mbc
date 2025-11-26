@@ -1,13 +1,32 @@
+id: GEN14-2944
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::if-you-want-next::a-diagram-stack-showing::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 425-429
+heading: '**✔ A diagram stack showing**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: δ-adjacency → Φ-trace → modular flow → Π-multiplicity → ensembles Tell me
   which one you want first.
-heading: '**✔ A diagram stack showing**'
-id: GEN14-2944
-lines: 425-429
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::if-you-want-next::a-diagram-stack-showing::b1
-parent_heading: '**If you want next:**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- →
+- Π-multiplicity
+- δ-adjacency
+- Φ-trace
+- Π
+- δ
+- Φ
+aliases:
+- Bk866at
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 43.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

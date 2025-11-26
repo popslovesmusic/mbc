@@ -1,15 +1,35 @@
+id: GEN9-9139
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-δ-periodic-table-of-elements::legend::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1734-1744
+heading: '**Legend**'
+parent_heading: '**THE δ-PERIODIC TABLE OF ELEMENTS**'
 block_type: list
-concepts:
-- Block
-- Capacity
-- Shell
-- Φ
-- δ
 excerpt: '* **Shell** \= δ-harmonic level nnn * **Capacity** \= dn=2n2d\_n \= 2n^2dn​=2n2
   (IGSOA degeneracy law) * **Block** \= Φ-phase class (s/p/d/f ≡ Φ-mode symmetry)'
-heading: '**Legend**'
-id: GEN9-9139
-lines: 1734-1744
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-δ-periodic-table-of-elements::legend::b1
-parent_heading: '**THE δ-PERIODIC TABLE OF ELEMENTS**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- IGSOA
+- Φ
+- δ-harmonic
+- Φ-phase
+- δ
+- Φ-mode
+- Chromatic index
+- Capacity
+- Block
+- Shell
+aliases:
+- Bk454sh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.77777777777778
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

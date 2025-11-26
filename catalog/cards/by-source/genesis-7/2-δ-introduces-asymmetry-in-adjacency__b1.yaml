@@ -1,11 +1,32 @@
-block_type: paragraph
-concepts:
-- Ψ
-- δ
-excerpt: 'A deviation operator acts as: δ:A→A′=A+ΔA\\delta : \\mathcal{A} \\rightarrow
-  \\mathcal{A}'' \= \\mathcal{A} \+ \\Delta\\mathcal{A}δ:A→A′=A+ΔA The mismatch'
-heading: '**2\. δ Introduces Asymmetry in Adjacency**'
 id: GEN7-8620
-lines: 40-68
 location: genesis-7/why-curvature-gives-gravity::2-δ-introduces-asymmetry-in-adjacency::b1
 source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 40-68
+heading: '**2\. δ Introduces Asymmetry in Adjacency**'
+block_type: paragraph
+excerpt: 'A deviation operator acts as: δ:A→A′=A+ΔA\\delta : \\mathcal{A} \\rightarrow
+  \\mathcal{A}'' \= \\mathcal{A} \+ \\Delta\\mathcal{A}δ:A→A′=A+ΔA The mismatch'
+concepts:
+- Curvature
+- δ
+- Δ
+- Axiom
+- →
+- proto-time
+- Ψ
+- δA
+- Ψ₀
+aliases:
+- Bk291do
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.25
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-excerpt: 'Π takes: * box → evaluated-box * connector → meaning-bearing connector'
-heading: Π as a Functor
 id: GEN20-6876
-lines: 2948-2957
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::96-functors-as-semantic-maps::π-as-a-functor::b1
-parent_heading: 9.6 Functors as Semantic Maps
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2948-2957
+heading: Π as a Functor
+parent_heading: 9.6 Functors as Semantic Maps
+block_type: paragraph
+excerpt: 'Π takes: * box → evaluated-box * connector → meaning-bearing connector'
+concepts:
+- MBC
+- Π
+- →
+- meaning-bearing
+- evaluated-box
+- Φ
+aliases:
+- Bk537tb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.076923076923077
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

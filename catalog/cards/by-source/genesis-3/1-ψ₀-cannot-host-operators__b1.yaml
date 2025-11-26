@@ -1,10 +1,23 @@
+id: GEN3-7284
+location: genesis-3/metagenesis::8-physical-interpretation::1-ψ₀-cannot-host-operators::b1
+source: genesis-3\metagenesis.md
+lines: 235-237
+heading: '**(1) Ψ₀ cannot host operators**'
+parent_heading: '**8\. Physical Interpretation**'
 block_type: paragraph
+excerpt: because F(Ψ₀) still has no operational structure.
 concepts:
 - Ψ
-excerpt: because F(Ψ₀) still has no operational structure.
-heading: '**(1) Ψ₀ cannot host operators**'
-id: GEN3-7284
-lines: 235-237
-location: genesis-3/metagenesis::8-physical-interpretation::1-ψ₀-cannot-host-operators::b1
-parent_heading: '**8\. Physical Interpretation**'
-source: genesis-3\metagenesis.md
+- Ψ₀
+aliases:
+- Bk394bs
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

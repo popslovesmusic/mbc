@@ -1,11 +1,25 @@
+id: GEN15-3420
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-the-cmb-algebra-acmb-as-an-𝒪δ-algebra::21-underlying-object::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 614-618
+heading: '**2.1 Underlying object**'
+parent_heading: '**2\. The CMB Algebra A₍CMB₎ as an 𝒪δ-Algebra**'
 block_type: paragraph
-concepts: []
 excerpt: 'Let: ACMB={temperature \+ polarization fields on S2}A\_{\\mathrm{CMB}} \=
   \\{\\text{temperature \+ polarization fields on }S^2 \\}ACMB​={temperature \+ polarization
   fields on S2}'
-heading: '**2.1 Underlying object**'
-id: GEN15-3420
-lines: 614-618
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-the-cmb-algebra-acmb-as-an-𝒪δ-algebra::21-underlying-object::b1
-parent_heading: '**2\. The CMB Algebra A₍CMB₎ as an 𝒪δ-Algebra**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+aliases:
+- Bk498la
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

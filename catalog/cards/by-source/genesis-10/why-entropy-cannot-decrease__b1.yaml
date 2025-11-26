@@ -1,12 +1,28 @@
+id: GEN10-932
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-entropy-modal-multiplicity-of-δ::why-entropy-cannot-decrease::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2998-3009
+heading: '**Why entropy cannot decrease**'
+parent_heading: '**3\. Entropy: Modal Multiplicity of δ**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Because dim⁡Φ\\dim ΦdimΦ increases under δ² curvature, entropy must rise.
   Thus:'
-heading: '**Why entropy cannot decrease**'
-id: GEN10-932
-lines: 2998-3009
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-entropy-modal-multiplicity-of-δ::why-entropy-cannot-decrease::b1
-parent_heading: '**3\. Entropy: Modal Multiplicity of δ**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Φ
+- ≥
+- δ
+- geometric law
+- Φdim
+- δ²
+aliases:
+- Bk452bd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.689655172413794
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

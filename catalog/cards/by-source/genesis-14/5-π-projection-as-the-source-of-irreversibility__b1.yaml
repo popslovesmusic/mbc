@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: 'Π is the “observation” layer of cryptography— the domain where outputs exist
-  and adversaries live. Typical Π-objects:'
-heading: '**5\. Π: Projection as the Source of Irreversibility**'
 id: GEN14-2830
-lines: 614-631
 location: genesis-14/meta-math-and-cryptography::5-π-projection-as-the-source-of-irreversibility::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 614-631
+heading: '**5\. Π: Projection as the Source of Irreversibility**'
+block_type: paragraph
+excerpt: 'Π is the “observation” layer of cryptography— the domain where outputs exist
+  and adversaries live. Typical Π-objects:'
+concepts:
+- Π
+- Π-objects
+aliases:
+- Bk129to
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

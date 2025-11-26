@@ -1,12 +1,28 @@
+id: INTK-10325
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::relationship-to-other-branches-of-meta-math::meta-calculus::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 850-851
+heading: Meta-Calculus
+parent_heading: Relationship to Other Branches of Meta-Math
 block_type: paragraph
-concepts:
-- Meta-Algebraic
-- Uses Meta
 excerpt: Uses Meta-Algebraic structures to define differential operators (e.g., fractal
   derivatives, scale-covariant derivatives).
-heading: Meta-Calculus
-id: INTK-10325
-lines: 850-851
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::relationship-to-other-branches-of-meta-math::meta-calculus::b1
-parent_heading: Relationship to Other Branches of Meta-Math
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- scale-covariant
+- Meta-Algebraic
+- Uses Meta
+aliases:
+- Bk540um
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

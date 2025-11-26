@@ -1,21 +1,40 @@
+id: GEN17-5132
+location: genesis-17/mbc-schema-3::the-meta-genesis-layer-theorem::formal-mathematics-statement::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1959-1998
+heading: '***Formal (Mathematics) Statement***'
+parent_heading: '**THE META-GENESIS LAYER THEOREM**'
 block_type: paragraph
-concepts:
-- Box
-- Genesis Layer
-- IGSOA
-- Layer
-- Meta-Box
-- Meta-Boxes
-- Meta-Genesis
-- Π
-- Φ
-- Ω
-- δ
 excerpt: 'Let: * **IGSOA** be the monistic ground. * **δ**, **Φ**, **Π** be the structural
   operators producing Boxes.'
-heading: '***Formal (Mathematics) Statement***'
-id: GEN17-5132
-lines: 1959-1998
-location: genesis-17/mbc-schema-3::the-meta-genesis-layer-theorem::formal-mathematics-statement::b1
-parent_heading: '**THE META-GENESIS LAYER THEOREM**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Ω
+- Δ
+- Meta-Genesis
+- Box
+- IGSOA
+- MBC
+- Meta-Box
+- higher-order
+- Layer
+- Π
+- self-consistent
+- meta-operators
+- non-trivially
+- Ω-projection
+- Meta-Boxes
+aliases:
+- Bk516li
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

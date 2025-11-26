@@ -1,8 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: We outline the formal categorical proof. ---
-heading: '**3\. Formal Proof Sketch**'
 id: GEN4-7767
-lines: 878-882
 location: genesis-4/the-adjoint-triple::3-formal-proof-sketch::b1
 source: genesis-4\The_Adjoint_Triple.md
+lines: 878-882
+heading: '**3\. Formal Proof Sketch**'
+block_type: paragraph
+excerpt: We outline the formal categorical proof. ---
+concepts:
+- Proof
+aliases:
+- Bk456ot
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

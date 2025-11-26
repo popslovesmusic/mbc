@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which version do you want generated next?
-heading: '**F. A clean “white paper section” version for publishing**'
 id: GEN7-8604
-lines: 829-831
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::if-you-want-next-i-can-produce::f-a-clean-white-paper-section-version-for-publishing::b1
-parent_heading: '**If you want next, I can produce:**'
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 829-831
+heading: '**F. A clean “white paper section” version for publishing**'
+parent_heading: '**If you want next, I can produce:**'
+block_type: paragraph
+excerpt: Which version do you want generated next?
+aliases:
+- Bk946wv
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

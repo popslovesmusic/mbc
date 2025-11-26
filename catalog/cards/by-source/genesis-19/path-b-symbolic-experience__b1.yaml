@@ -1,10 +1,27 @@
+id: GEN19-6184
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-implication-paths-π-geodesics::path-b-symbolic-experience::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2002-2012
+heading: Path B — symbolic → experience
+parent_heading: ✅ 4\. Implication Paths (Π-geodesics)
 block_type: paragraph
-concepts: []
 excerpt: '\[''symbolic'', ''net'', ''tangled'', ''web'', ''human'', ''experience''\]
   (strength ≈ 0.951) This is beautiful:'
-heading: Path B — symbolic → experience
-id: GEN19-6184
-lines: 2002-2012
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-implication-paths-π-geodesics::path-b-symbolic-experience::b1
-parent_heading: ✅ 4\. Implication Paths (Π-geodesics)
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- →
+- ≈
+aliases:
+- Bk397sn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.3478260869565215
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

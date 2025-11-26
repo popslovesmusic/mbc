@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**Proof (Formal, Operator-Theoretic)**'
 id: GEN8-8961
-lines: 862-864
 location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::proof-formal-operator-theoretic::b1
 source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 862-864
+heading: '**Proof (Formal, Operator-Theoretic)**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

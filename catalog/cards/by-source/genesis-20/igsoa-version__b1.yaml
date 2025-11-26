@@ -1,16 +1,42 @@
-block_type: paragraph
-concepts:
-- Box
-- Federated Reasoning
-- Theorem
-- Θ
-- Π
-- Φ
-- δ
-excerpt: 'Theorem (Federated Reasoning): Let {Bi}i∈I'
-heading: IGSOA Version
 id: GEN20-6645
-lines: 947-996
 location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::the-federated-reasoning-theorem-sealed-formal-version::igsoa-version::b1
-parent_heading: THE FEDERATED REASONING THEOREM (Sealed, Formal Version)
 source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 947-996
+heading: IGSOA Version
+parent_heading: THE FEDERATED REASONING THEOREM (Sealed, Formal Version)
+block_type: paragraph
+excerpt: 'Theorem (Federated Reasoning): Let {Bi}i∈I'
+concepts:
+- Π
+- Theorem
+- Box
+- semantic-transport
+- ∀
+- polarity-routing
+- ∈
+- Θ
+- →
+- Box-geometries
+- δ
+- Π-maps
+- Φ
+- Federated Reasoning
+- Πi
+aliases:
+- Th903tf
+tags:
+- theorem
+- federated-reasoning
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

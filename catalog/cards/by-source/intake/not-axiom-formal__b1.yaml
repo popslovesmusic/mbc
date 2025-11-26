@@ -1,13 +1,31 @@
+id: INTK-10127
+location: intake/meta-genesis-physical-interpretation-papers::3-why-deviation-must-exist-the-not-axiom::not-axiom-formal::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 685-706
+heading: '**NOT Axiom (Formal)**'
+parent_heading: '**3\. Why Deviation Must Exist: The NOT Axiom**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'If a state contains no operator capable of stabilizing it, it cannot remain
   invariant. Formally: Dom⁡(O)=∅⇒Ψ↛Ψ.\\operatorname{Dom}(\\mathcal{O}) \= \\varnothing
   \\quad\\Rightarrow\\quad \\Psi \\not\\...'
-heading: '**NOT Axiom (Formal)**'
-id: INTK-10127
-lines: 685-706
-location: intake/meta-genesis-physical-interpretation-papers::3-why-deviation-must-exist-the-not-axiom::not-axiom-formal::b1
-parent_heading: '**3\. Why Deviation Must Exist: The NOT Axiom**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- →
+- Deviation
+- δ
+- ontologically forced
+- Ψ₀
+aliases:
+- Bk987sc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.0588235294117645
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

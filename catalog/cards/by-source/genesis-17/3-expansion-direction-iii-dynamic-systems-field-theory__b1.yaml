@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Semantic Dynamics
-- Σ
-excerpt: '(Box Calculus → Semantic Dynamics) If Σ is a vector in semantic space, then
-  its evolution obeys differential laws:'
-heading: '3\. Expansion Direction III: Dynamic Systems & Field Theory'
 id: GEN17-4324
-lines: 2509-2512
 location: genesis-17/box-calculus::3-expansion-direction-iii-dynamic-systems-field-theory::b1
 source: genesis-17\box_calculus.md
+lines: 2509-2512
+heading: '3\. Expansion Direction III: Dynamic Systems & Field Theory'
+block_type: paragraph
+excerpt: '(Box Calculus → Semantic Dynamics) If Σ is a vector in semantic space, then
+  its evolution obeys differential laws:'
+concepts:
+- Box Calculus
+- Box
+- Σ
+- →
+- Semantic Dynamics
+aliases:
+- Bk888bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.77777777777778
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

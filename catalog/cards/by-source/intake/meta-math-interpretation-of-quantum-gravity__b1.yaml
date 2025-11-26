@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Deviation Dynamics
-- Meta-Geometry
-- Unified View
-excerpt: '*A Unified View of Gravity and Quantization as Deviation Dynamics on Meta-Geometry*'
-heading: '**Meta-Math Interpretation of Quantum Gravity**'
 id: INTK-10785
-lines: 2167-2169
 location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-math-interpretation-of-quantum-gravity::b1
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2167-2169
+heading: '**Meta-Math Interpretation of Quantum Gravity**'
+block_type: paragraph
+excerpt: '*A Unified View of Gravity and Quantization as Deviation Dynamics on Meta-Geometry*'
+concepts:
+- Deviation
+- Meta-Geometry
+- Deviation Dynamics
+- Unified View
+aliases:
+- Bk943uv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 30.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

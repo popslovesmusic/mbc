@@ -1,11 +1,27 @@
+id: INTK-9965
+location: intake/meta-genesis-mathematical-papers::2-functional-analytic-domain-exclusion::lemma-21-no-normable-structure::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 299-323
+heading: '**Lemma 2.1 (No Normable Structure).**'
+parent_heading: '**2\. Functional-Analytic Domain Exclusion**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'If an element xxx is to belong to a Hilbert space, it must support a norm:
   ∥x∥2=⟨x,x⟩.\\|x\\|^2 \= \\langle x, x\\rangle.∥x∥2=⟨x,x⟩. But Ψ0\\Psi\_0Ψ0​ has:'
-heading: '**Lemma 2.1 (No Normable Structure).**'
-id: INTK-9965
-lines: 299-323
-location: intake/meta-genesis-mathematical-papers::2-functional-analytic-domain-exclusion::lemma-21-no-normable-structure::b1
-parent_heading: '**2\. Functional-Analytic Domain Exclusion**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+- ∉
+- ∈
+aliases:
+- Bk207ex
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.10958904109589
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

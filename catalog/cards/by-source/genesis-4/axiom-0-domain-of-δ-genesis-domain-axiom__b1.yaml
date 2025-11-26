@@ -1,13 +1,28 @@
+id: GEN4-7855
+location: genesis-4/the-first-adjacency::axiom-0-domain-of-δ-genesis-domain-axiom::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 768-782
+heading: '**Axiom 0 — Domain of δ (Genesis Domain Axiom)**'
 block_type: paragraph
-concepts:
-- Zero-State
-- Ψ
-- δ
 excerpt: 'There exists a distinguished state Ψ0\\Psi\_0Ψ0​ (the Zero-State) such that:
   1. Ψ0\\Psi\_0Ψ0​ contains no internal relations. 2. No adjacency relation is defined
   on Ψ0\\Psi\_0Ψ0​.'
-heading: '**Axiom 0 — Domain of δ (Genesis Domain Axiom)**'
-id: GEN4-7855
-lines: 768-782
-location: genesis-4/the-first-adjacency::axiom-0-domain-of-δ-genesis-domain-axiom::b1
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Ψ
+- δ
+- State
+- ∀
+- Zero-State
+- ≠
+aliases:
+- Bk903te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

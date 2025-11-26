@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Next, per your instruction, I will now produce the **full formal companion
-  chapter**:'
-heading: '**All sealed Axiom Boxes complete.**'
 id: GEN13-2093
-lines: 1213-1215
 location: genesis-13/meta-math-nuclear-physics::all-sealed-axiom-boxes-complete::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1213-1215
+heading: '**All sealed Axiom Boxes complete.**'
+block_type: paragraph
+excerpt: 'Next, per your instruction, I will now produce the **full formal companion
+  chapter**:'
+concepts:
+- full formal companion chapter
+aliases:
+- Bk331np
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

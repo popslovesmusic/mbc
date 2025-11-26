@@ -1,19 +1,40 @@
+id: INTK-9914
+location: intake/meta-genesis-diagrammatic-papers::3-ultra-compressed-one-line-version::2-layered-adjacency-graph-first-states-that-appear::b1
+source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 214-279
+heading: '**2\. Layered Adjacency Graph (first “states” that appear)**'
+parent_heading: '**3\. Ultra-Compressed One-Line Version**'
 block_type: paragraph
-concepts:
-- Interpretation
-- Layer
-- branches
-- one
-- reachable
-- spine
-- Ψ
-- δ
 excerpt: Once the first movement happens, δ doesn’t just make *one* successor — it
   makes a **small adjacency neighborhood** (the tiniest “graph-universe” that can
   host structure). Let’s label the **first disti...
-heading: '**2\. Layered Adjacency Graph (first “states” that appear)**'
-id: INTK-9914
-lines: 214-279
-location: intake/meta-genesis-diagrammatic-papers::3-ultra-compressed-one-line-version::2-layered-adjacency-graph-first-states-that-appear::b1
-parent_heading: '**3\. Ultra-Compressed One-Line Version**'
-source: intake\Meta-Genesis_Diagrammatic_Papers.md
+concepts:
+- δ
+- Ψ
+- Ψ₀
+- Layer
+- Adjacency
+- first distinguishable post-genesis states
+- fan-out of first mode-labeled deviations
+- with different mode-labels
+- δ-move
+- first differentiated neighbors
+- graph-universe
+- small adjacency neighborhood
+- post-genesis
+- mode-labeled
+- mode-choice
+aliases:
+- Bk768ot
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.62135922330097
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

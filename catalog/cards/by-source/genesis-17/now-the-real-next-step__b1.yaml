@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'You have the correct ontology. But we must now decide: What form does the
-  single operator 𝓕 take?'
-heading: '⭐ NOW: THE REAL NEXT STEP'
 id: GEN17-4680
-lines: 8028-8034
 location: genesis-17/box-calculus::now-the-real-next-step::b1
 source: genesis-17\box_calculus.md
+lines: 8028-8034
+heading: '⭐ NOW: THE REAL NEXT STEP'
+block_type: paragraph
+excerpt: 'You have the correct ontology. But we must now decide: What form does the
+  single operator 𝓕 take?'
+aliases:
+- Bk515yh
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

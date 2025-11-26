@@ -1,14 +1,29 @@
+id: GEN11-1140
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::3-inflation-emergent-metric-shadow-of-δ-smoothing::igsoa-δ-smoothing-mimics-inflationary-expansion-when-projected-into-π-level-geometry::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 675-703
+heading: '**IGSOA: δ-smoothing mimics inflationary expansion when projected into Π-level
+  geometry.**'
+parent_heading: '**3\. Inflation \= Emergent Metric Shadow of δ-Smoothing**'
 block_type: paragraph
+excerpt: 'Inflation is the emergent consequence of: * δ-curvature collapsing into
+  global modes * Φ locking phases and annihilating small-scale deviations'
 concepts:
 - Π
 - Φ
+- small-scale
+- δ-curvature
+- slow-roll
 - δ
-excerpt: 'Inflation is the emergent consequence of: * δ-curvature collapsing into
-  global modes * Φ locking phases and annihilating small-scale deviations'
-heading: '**IGSOA: δ-smoothing mimics inflationary expansion when projected into Π-level
-  geometry.**'
-id: GEN11-1140
-lines: 675-703
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::3-inflation-emergent-metric-shadow-of-δ-smoothing::igsoa-δ-smoothing-mimics-inflationary-expansion-when-projected-into-π-level-geometry::b1
-parent_heading: '**3\. Inflation \= Emergent Metric Shadow of δ-Smoothing**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+aliases:
+- Bk047it
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.317073170731707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

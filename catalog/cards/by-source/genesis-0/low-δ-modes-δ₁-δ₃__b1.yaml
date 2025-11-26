@@ -1,9 +1,26 @@
-block_type: list
-concepts: []
-excerpt: '* govern near-classical physics * generate curvature * mediate adjacency'
-heading: '**Low δ modes (δ₁, δ₃)**'
 id: GEN0-316
-lines: 1229-1237
 location: genesis-0/why-the-first-action-is-necessary::8-physical-interpretation::low-δ-modes-δ₁-δ₃::b1
-parent_heading: '**8\. Physical Interpretation**'
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1229-1237
+heading: '**Low δ modes (δ₁, δ₃)**'
+parent_heading: '**8\. Physical Interpretation**'
+block_type: list
+excerpt: '* govern near-classical physics * generate curvature * mediate adjacency'
+concepts:
+- near-classical
+- low-energy
+aliases:
+- Bk118gn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,18 +1,35 @@
+id: INTK-10512
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::next-steps::b5
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1912-1924
+heading: '**NEXT STEPS**'
 block_type: paragraph
-concepts:
-- Derived Algebraic Geometry
-- Higher-Stack
-- Meta-Geometric
-- Meta-Geometries
-- Meta-Geometry
-- Meta-Metric
-- Scale-Stack
-- Stack Meta
 excerpt: 'I can now: *   **Provide a detailed mathematical definition of the ∞-topos
   ''Scale-Stack'' with explicit axioms.** *   **Show how the Meta-Metric G_AB is derived
   from the internal Hom-objects of the Sca...'
-heading: '**NEXT STEPS**'
-id: INTK-10512
-lines: 1912-1924
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::next-steps::b5
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Definition
+- Scale-Stack
+- ∞
+- Meta-Geometries
+- Meta-Geometric
+- Meta-Geometry
+- Higher-Stack
+- Derived Algebraic Geometry
+- Hom-objects
+- Meta-Metric
+- Stack Meta
+aliases:
+- Bk732cn
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 11.224489795918368
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

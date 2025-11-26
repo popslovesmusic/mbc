@@ -1,12 +1,28 @@
+id: GEN10-957
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-ii-the-mathematical-framework-of-meta-genesis::b1
+source: genesis-10\research_overview.md
+lines: 71-73
+heading: '**Part II: The Mathematical Framework of Meta-Genesis**'
+parent_heading: '**Meta-Genesis: A Master Summary of the Unified Field Theory**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
 excerpt: To formalize these ontological concepts, Meta-Genesis introduces a novel
   mathematical language that bridges category theory, non-commutative geometry, and
   algebraic topology.
-heading: '**Part II: The Mathematical Framework of Meta-Genesis**'
-id: GEN10-957
-lines: 71-73
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-ii-the-mathematical-framework-of-meta-genesis::b1
-parent_heading: '**Meta-Genesis: A Master Summary of the Unified Field Theory**'
-source: genesis-10\research_overview.md
+concepts:
+- Meta-Genesis
+- non-commutative
+aliases:
+- Bk016ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

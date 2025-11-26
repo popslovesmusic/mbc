@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'This is the first point where operadic mathematics naturally appears: Each
-  router is an “operation” with: * multiple inputs'
-heading: B3.9 Router Networks as Operadic Composition
 id: GEN20-7225
-lines: 7494-7508
 location: genesis-20/mbc-40-documentaitio-1::b39-router-networks-as-operadic-composition::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7494-7508
+heading: B3.9 Router Networks as Operadic Composition
+block_type: paragraph
+excerpt: 'This is the first point where operadic mathematics naturally appears: Each
+  router is an “operation” with: * multiple inputs'
+aliases:
+- Bk219tt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

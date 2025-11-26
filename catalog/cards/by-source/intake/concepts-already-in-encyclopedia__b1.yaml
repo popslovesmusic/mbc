@@ -1,25 +1,37 @@
+id: INTK-10951
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::encyclopedia-asset-inventory::concepts-already-in-encyclopedia::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 443-469
+heading: '**Concepts Already in Encyclopedia:**'
+parent_heading: ENCYCLOPEDIA ASSET INVENTORY
 block_type: paragraph
+excerpt: '**Volume I-III Coverage:** - All fundamental concepts (Ψ₀, δ, IGSOA, NOT
+  Axiom, etc.) ✓ - All mathematical structures ✓'
 concepts:
-- Atomic Shells
+- IGSOA
 - Axiom
-- Big Bang
-- Black Holes
-- Category-Theoretic
+- Theorem
 - Field
-- Flavor Sector Axioms
-- Flavor Theorem
-- Fractal Standard Model
-- Hubble Expansion
-- Mass Hierarchy
+- Category-Theoretic
+- Sheaf-Theoretic
 - Meta-Fractal
 - Meta-Gravity
 - Meta-Yukawa
-- Orbital Shapes
-excerpt: '**Volume I-III Coverage:** - All fundamental concepts (Ψ₀, δ, IGSOA, NOT
-  Axiom, etc.) ✓ - All mathematical structures ✓'
-heading: '**Concepts Already in Encyclopedia:**'
-id: INTK-10951
-lines: 443-469
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::encyclopedia-asset-inventory::concepts-already-in-encyclopedia::b1
-parent_heading: ENCYCLOPEDIA ASSET INVENTORY
-source: intake\Volume_Structure_Gap_Analysis.md
+- Fractal Standard Model
+- Ψ
+- δ
+- Flavor Sector Axioms
+- I-III
+- Theoretic Approach
+aliases:
+- Bk414vi
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 37.3134328358209
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

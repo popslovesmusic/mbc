@@ -1,15 +1,33 @@
+id: GEN20-6936
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::121-example-1-simple-propositional-reasoning-in-mbc::step-6-c-receives-final-structure::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3651-3662
+heading: Step 6 — C receives final structure
+parent_heading: 12.1 Example 1 — Simple Propositional Reasoning in MBC
 block_type: paragraph
-concepts:
-- Θ
-- Π
-- Σ
-- Φ
-- δ
 excerpt: 'C receives: * δ\_C updated through incoming influence * Θ\_C derived from
   Θ\_B\_out'
-heading: Step 6 — C receives final structure
-id: GEN20-6936
-lines: 3651-3662
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::121-example-1-simple-propositional-reasoning-in-mbc::step-6-c-receives-final-structure::b1
-parent_heading: 12.1 Example 1 — Simple Propositional Reasoning in MBC
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- Θ
+- fully-structured
+- Σ
+- polarity-driven
+- Π
+- δ
+- Φ
+aliases:
+- Bk412ru
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.686274509803921
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

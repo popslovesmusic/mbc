@@ -1,15 +1,29 @@
+id: GEN20-7027
+location: genesis-20/mbc-40-documentaitio-1::conclusion::142-minimal-data-structures-required::box-object::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4627-4642
+heading: Box Object
+parent_heading: 14.2 Minimal Data Structures Required
 block_type: paragraph
-concepts:
-- Box
-- Θ
-- Π
-- Φ
-- δ
 excerpt: 'A box must store: * δ\_content (raw deviation pattern) * Φ\_state (stabilized
   internal structure)'
-heading: Box Object
-id: GEN20-7027
-lines: 4627-4642
-location: genesis-20/mbc-40-documentaitio-1::conclusion::142-minimal-data-structures-required::box-object::b1
-parent_heading: 14.2 Minimal Data Structures Required
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Box
+- δ
+- Π
+- Θ
+- Φ
+aliases:
+- Bk171bm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.064516129032258
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

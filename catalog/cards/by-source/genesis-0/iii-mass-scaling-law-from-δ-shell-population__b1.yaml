@@ -1,11 +1,33 @@
+id: GEN0-069
+location: genesis-0/feynman-rules-interaction-vertices::iii-mass-scaling-law-from-δ-shell-population::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 994-1034
+heading: '**III. Mass scaling law from δ-shell population**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The dominant δ-Higgs contribution to mass for flavor family FFF is: mF∝∑m∈shell(nF)fm EF(m).m\_F
   \\propto \\sum\_{m\\in \\text{shell}(n\_F)} f\_m\\,\\mathcal{E}\_F^{(m)}.mF​∝m∈shell(nF​)∑​fm​EF(m)​.
   S...'
-heading: '**III. Mass scaling law from δ-shell population**'
-id: GEN0-069
-lines: 994-1034
-location: genesis-0/feynman-rules-interaction-vertices::iii-mass-scaling-law-from-δ-shell-population::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- →
+- leading-order scaling
+- ∈
+- ∑
+- mass-generation
+- leading-order
+- number of contributing modes
+- δ-Higgs
+- δ
+aliases:
+- Bk130td
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,23 +1,42 @@
+id: INTK-10569
+location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::theorem-2-commutation-structure-gives-the-three-sectors-of-physics::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 451-471
+heading: '**Theorem 2 — Commutation Structure Gives the Three Sectors of Physics.**'
+parent_heading: '**2\. Rigorous Theorem-Based Formulation**'
 block_type: table
+excerpt: 'Define commutators: \[A,T\]=Quantum Sector\[\\mathcal{A},\\mathcal{T}\]
+  \= \\text{Quantum Sector}\[A,T\]=Quantum Sector \[C,A\]=Gauge Sector\[\\mathcal{C},\\mathcal{A}\]
+  \= \\text{Gauge Sector}\[C,A\]...'
 concepts:
+- Meta-Time
 - Gauge
-- Gauge Sector
+- ≠
+- →
 - Gravitational Sector
+- Operator
+- Quantum Sector
+- Gauge Sector
+- Einstein-like
 - 'Gravitational Sector
 
 
   Then'
-- Gravity
-- Meta-Time
-- Operator
+- scale-time
 - Operator Equation
-- Quantum Sector
-excerpt: 'Define commutators: \[A,T\]=Quantum Sector\[\\mathcal{A},\\mathcal{T}\]
-  \= \\text{Quantum Sector}\[A,T\]=Quantum Sector \[C,A\]=Gauge Sector\[\\mathcal{C},\\mathcal{A}\]
-  \= \\text{Gauge Sector}\[C,A\]...'
-heading: '**Theorem 2 — Commutation Structure Gives the Three Sectors of Physics.**'
-id: INTK-10569
-lines: 451-471
-location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::theorem-2-commutation-structure-gives-the-three-sectors-of-physics::b1
-parent_heading: '**2\. Rigorous Theorem-Based Formulation**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+- Gravity
+aliases:
+- Bk492dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.420289855072465
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

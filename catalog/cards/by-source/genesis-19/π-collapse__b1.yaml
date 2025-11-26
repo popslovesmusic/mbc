@@ -1,12 +1,25 @@
+id: GEN19-5948
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::vi-worked-example-δφπ-reasoning-step::π-collapse::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 972-978
+heading: '**Π-collapse:**'
+parent_heading: '**VI. Worked Example: δ→Φ→Π Reasoning Step**'
 block_type: paragraph
+excerpt: Θ(B)=sign⁡(K\~Φ)=+1.\\Theta(B)=\\operatorname{sign}(\\tilde K\_\\Phi)=+1.Θ(B)=sign(K\~Φ​)=+1.
+  Thus **B is affirmed**, the semantic equivalent of “B is True.” ---
 concepts:
 - Θ
 - Φ
-excerpt: Θ(B)=sign⁡(K\~Φ)=+1.\\Theta(B)=\\operatorname{sign}(\\tilde K\_\\Phi)=+1.Θ(B)=sign(K\~Φ​)=+1.
-  Thus **B is affirmed**, the semantic equivalent of “B is True.” ---
-heading: '**Π-collapse:**'
-id: GEN19-5948
-lines: 972-978
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::vi-worked-example-δφπ-reasoning-step::π-collapse::b1
-parent_heading: '**VI. Worked Example: δ→Φ→Π Reasoning Step**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+- B is affirmed
+aliases:
+- Bk733st
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

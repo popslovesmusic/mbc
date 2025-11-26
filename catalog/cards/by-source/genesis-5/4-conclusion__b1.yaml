@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- σ
-excerpt: 'We have established both adjunctions: L⊣U,U⊣R.L \\dashv U,\\qquad U \\dashv
-  R.L⊣U,U⊣R. The three functors therefore form an **adjoint triple**:'
-heading: '**4\. Conclusion**'
 id: GEN5-7949
-lines: 194-220
 location: genesis-5/formal-proof-of-the-adjoint-triple::4-conclusion::b1
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 194-220
+heading: '**4\. Conclusion**'
+block_type: paragraph
+excerpt: 'We have established both adjunctions: L⊣U,U⊣R.L \\dashv U,\\qquad U \\dashv
+  R.L⊣U,U⊣R. The three functors therefore form an **adjoint triple**:'
+concepts:
+- σ
+- adjoint triple
+- Middle functor
+- Right adjoint
+- Left adjoint
+aliases:
+- Bk861he
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.8493150684931505
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

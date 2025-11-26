@@ -1,14 +1,38 @@
+id: GEN9-9141
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::δ-harmonic-shell-n-2::π-orbitals-2s-2p::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1770-1786
+heading: '**Π-orbitals: 2s, 2p**'
+parent_heading: '**δ-Harmonic Shell n \= 2**'
 block_type: table
-concepts:
-- Tri-Unity
-- Φ
-- δ
 excerpt: '**IGSOA Commentary:** Carbon’s 4-directional bonds arise from **δ-phase
   equidistribution** across three Φ-submodes—not “four electrons.” Nitrogen and oxygen
   correspond to specific **Tri-Unity imbalanc...'
-heading: '**Π-orbitals: 2s, 2p**'
-id: GEN9-9141
-lines: 1770-1786
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::δ-harmonic-shell-n-2::π-orbitals-2s-2p::b1
-parent_heading: '**δ-Harmonic Shell n \= 2**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- Φ
+- Tri-Unity
+- χ
+- →
+- IGSOA
+- Tri-Unity imbalance patterns
+- δ-phase equidistribution
+- electron-withdrawal
+- δ-phase
+- δ-Commentary
+- Φ-asymmetric
+- Φ-asymmetry
+- Φ-saturated
+- δ-curvature
+aliases:
+- Bk141ec
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.672131147540984
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

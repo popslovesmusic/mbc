@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (diagrams of each operator path)
-heading: '**A. The MBC-4.0 Semantic Logic Diagram Stack**'
 id: GEN18-5363
-lines: 148-150
 location: genesis-18/mbc-4::if-you-want-next::a-the-mbc-40-semantic-logic-diagram-stack::b1
-parent_heading: '**If you want next:**'
 source: genesis-18\MBC-4.md
+lines: 148-150
+heading: '**A. The MBC-4.0 Semantic Logic Diagram Stack**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: (diagrams of each operator path)
+aliases:
+- Bk319de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

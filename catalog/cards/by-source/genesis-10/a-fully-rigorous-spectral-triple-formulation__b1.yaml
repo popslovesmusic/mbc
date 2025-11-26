@@ -1,11 +1,28 @@
+id: GEN10-694
+location: genesis-10/how-stillness-becomes-solid::if-you-want-i-can-also-produce::a-fully-rigorous-spectral-triple-formulation::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 331-333
+heading: '**✔ A fully rigorous spectral-triple formulation**'
+parent_heading: '**If you want, I can also produce:**'
 block_type: paragraph
+excerpt: (C\*-algebra \+ δ-Laplace operator \+ Π-representation)
 concepts:
+- Π-representation
+- δ-Laplace
 - Π
 - δ
-excerpt: (C\*-algebra \+ δ-Laplace operator \+ Π-representation)
-heading: '**✔ A fully rigorous spectral-triple formulation**'
-id: GEN10-694
-lines: 331-333
-location: genesis-10/how-stillness-becomes-solid::if-you-want-i-can-also-produce::a-fully-rigorous-spectral-triple-formulation::b1
-parent_heading: '**If you want, I can also produce:**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+aliases:
+- Bk498al
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 57.14285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

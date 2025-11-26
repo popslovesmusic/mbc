@@ -1,15 +1,35 @@
+id: GEN17-4493
+location: genesis-17/box-calculus::box-calculus-λ-calculus-equivalence::explicit-translation-of-λ-terms-into-box-calculus-and-vice-versa::b1
+source: genesis-17\box_calculus.md
+lines: 5582-5594
+heading: (Explicit translation of λ-terms into Box Calculus and vice-versa)
+parent_heading: ⭐ BOX CALCULUS ↔ λ-CALCULUS EQUIVALENCE
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Meta-Math
-- λ
 excerpt: 'This is the highest-level proof so far: we show that every λ-expression
   is exactly representable as a Box Calculus structure, and that Box Calculus contains
   λ-calculus internally. This proves that Box...'
-heading: (Explicit translation of λ-terms into Box Calculus and vice-versa)
-id: GEN17-4493
-lines: 5582-5594
-location: genesis-17/box-calculus::box-calculus-λ-calculus-equivalence::explicit-translation-of-λ-terms-into-box-calculus-and-vice-versa::b1
-parent_heading: ⭐ BOX CALCULUS ↔ λ-CALCULUS EQUIVALENCE
-source: genesis-17\box_calculus.md
+concepts:
+- Box Calculus
+- Meta-Math
+- IGSOA
+- Box
+- Proof
+- λ
+- polarity-matched
+- highest-level
+aliases:
+- Bk288tt
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.940298507462686
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

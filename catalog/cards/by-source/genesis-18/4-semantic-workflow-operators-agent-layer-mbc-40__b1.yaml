@@ -1,21 +1,40 @@
+id: GEN18-5358
+location: genesis-18/mbc-4::mbc-40-semantic-operator-table::4-semantic-workflow-operators-agent-layer-mbc-40::b1
+source: genesis-18\MBC-4.md
+lines: 67-81
+heading: '**4\. Semantic Workflow Operators (Agent-layer, MBC-4.0)**'
+parent_heading: '**MBC-4.0 Semantic Operator Table**'
 block_type: table
+excerpt: '**Cross-reference:** These directly support your agent workflows and will
+  plug into your RAG/memory system. ---'
 concepts:
-- Operator
-- Γ
-- Θ
-- Λ
+- IGSOA
 - Π
 - Σ
 - Φ
-- Ψ
+- Definition
+- Operator
+- Router
+- Gate
+- Cross-reference
 - Ψ-Synthesize
-- Ω
-- δ
-excerpt: '**Cross-reference:** These directly support your agent workflows and will
-  plug into your RAG/memory system. ---'
-heading: '**4\. Semantic Workflow Operators (Agent-layer, MBC-4.0)**'
-id: GEN18-5358
-lines: 67-81
-location: genesis-18/mbc-4::mbc-40-semantic-operator-table::4-semantic-workflow-operators-agent-layer-mbc-40::b1
-parent_heading: '**MBC-4.0 Semantic Operator Table**'
-source: genesis-18\MBC-4.md
+- Π-Stabilize
+- EA-derived
+- Π-Collapse
+- Φ-Compose
+- Φ-Project
+aliases:
+- Bk792oi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 36.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

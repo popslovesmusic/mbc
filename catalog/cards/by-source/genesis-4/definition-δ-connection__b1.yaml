@@ -1,14 +1,36 @@
+id: GEN4-7895
+location: genesis-4/the-first-adjacency::3-the-δ-connection::definition-δ-connection::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1413-1431
+heading: '**Definition (δ-Connection).**'
+parent_heading: '**3\. The δ-Connection**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Ψ
-- δ
 excerpt: 'Define the δ-connection as the map: ∇δ:Ψn↦Nδ(Ψn+1)\\nabla\_\\delta : \\Psi\_n
   \\mapsto N\_\\delta(\\Psi\_{n+1})∇δ​:Ψn​↦Nδ​(Ψn+1​) which transports the δ-neighborhood
   of each state forward along the Me...'
-heading: '**Definition (δ-Connection).**'
-id: GEN4-7895
-lines: 1413-1431
-location: genesis-4/the-first-adjacency::3-the-δ-connection::definition-δ-connection::b1
-parent_heading: '**3\. The δ-Connection**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Meta-Time
+- δ
+- Ψ
+- Noncommutativity under successive deviations
+- Ψn
+- ∇
+- δ-neighborhood
+- Linearity on adjacency chains
+- Monotonicity under deviation
+- δ-connection
+aliases:
+- Bk154dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.151515151515152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,28 @@
+id: INTK-10268
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::properties::3-context-dependence::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 550-551
+heading: 3. Context-Dependence
+parent_heading: Properties
 block_type: paragraph
-concepts:
-- Meta-Addition
-- Meta-Geometric
 excerpt: The outcome of Meta-Addition depends on the local Meta-Geometric environment
   (e.g., curvature, scale-layer).
-heading: 3. Context-Dependence
-id: INTK-10268
-lines: 550-551
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::properties::3-context-dependence::b1
-parent_heading: Properties
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Geometric
+- Meta-Addition
+- scale-layer
+aliases:
+- Bk840to
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

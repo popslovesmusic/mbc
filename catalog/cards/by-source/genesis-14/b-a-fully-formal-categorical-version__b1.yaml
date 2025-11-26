@@ -1,12 +1,27 @@
+id: GEN14-2861
+location: genesis-14/meta-math-and-cryptography::if-you-want-i-can-now-give-you::b-a-fully-formal-categorical-version::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1028-1030
+heading: '**B. A fully formal categorical version**'
+parent_heading: '**If you want, I can now give you:**'
 block_type: paragraph
+excerpt: (δ, Φ as endofunctors; Π as a fibration projection)
 concepts:
 - Π
-- Φ
 - δ
-excerpt: (δ, Φ as endofunctors; Π as a fibration projection)
-heading: '**B. A fully formal categorical version**'
-id: GEN14-2861
-lines: 1028-1030
-location: genesis-14/meta-math-and-cryptography::if-you-want-i-can-now-give-you::b-a-fully-formal-categorical-version::b1
-parent_heading: '**If you want, I can now give you:**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+- Φ
+aliases:
+- Bk234ef
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

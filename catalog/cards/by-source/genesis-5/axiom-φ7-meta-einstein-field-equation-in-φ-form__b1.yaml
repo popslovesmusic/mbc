@@ -1,12 +1,32 @@
+id: GEN5-8089
+location: genesis-5/meta-einstein-axiom-box-language-sealed::φmeta-einstein-axiom-box-φ-language-sealed::axiom-φ7-meta-einstein-field-equation-in-φ-form::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 89-100
+heading: '**Axiom Φ7 (Meta-Einstein Field Equation in Φ-Form)**'
+parent_heading: '**Φ–Meta-Einstein Axiom Box (Φ-language, sealed)**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Realized geometry is determined by the balance between Φ-curvature and Φ-stress:
   RicΦ−12 gΦ ScalΦ  =  κΦ TΦ\\boxed{\\quad \\mathrm{Ric}^{\\Phi}-\\tfrac12\\,g^{\\Phi}\\,\\mathrm{Scal}^{\\Phi}
   \\;=\\;\\...'
-heading: '**Axiom Φ7 (Meta-Einstein Field Equation in Φ-Form)**'
-id: GEN5-8089
-lines: 89-100
-location: genesis-5/meta-einstein-axiom-box-language-sealed::φmeta-einstein-axiom-box-φ-language-sealed::axiom-φ7-meta-einstein-field-equation-in-φ-form::b1
-parent_heading: '**Φ–Meta-Einstein Axiom Box (Φ-language, sealed)**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Φ
+- κ
+- Φ-curvature
+- Φ-coupling
+- Φ-stress
+- ΦScal
+aliases:
+- Bk618rg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.741573033707865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,37 @@
+id: GEN5-8030
+location: genesis-5/formal-proof-of-the-adjoint-triple::4-curvature-as-naturality-defect::definition-41-curvature-2-cell-naturality-defect::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1365-1390
+heading: '**Definition 4.1 (Curvature 2-cell / naturality defect)**'
+parent_heading: '**4\. Curvature as naturality defect**'
 block_type: paragraph
-concepts:
-- modification
-- δ
-- λ
-- μ
-- ν
 excerpt: For each morphism f:X→Yf:X\\to Yf:X→Y in CCC, define the **curvature component**
   Kf  :=  δD(Ff)∘λX  −  λY∘F(δf).(K)\\mathcal{K}\_f \\;:=\\; \\delta\_D(Ff)\\circ
   \\lambda\_X \\;-\\; \\lambda\_Y\\circ F...
-heading: '**Definition 4.1 (Curvature 2-cell / naturality defect)**'
-id: GEN5-8030
-lines: 1365-1390
-location: genesis-5/formal-proof-of-the-adjoint-triple::4-curvature-as-naturality-defect::definition-41-curvature-2-cell-naturality-defect::b1
-parent_heading: '**4\. Curvature as naturality defect**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- δ
+- δD
+- ∇
+- λ
+- Curvature
+- μ
+- ν
+- →
+- δf
+- curvature component
+- δY
+- modification
+- δX
+- δDF
+aliases:
+- Bk438fe
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.9306930693069315
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

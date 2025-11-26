@@ -1,12 +1,29 @@
+id: GEN1-634
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::9-summary-the-meta-einstein-dynamical-framework::2-the-meta-einstein-equation::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1495-1499
+heading: '**(2) The Meta-Einstein equation**'
+parent_heading: '**9\. Summary: The Meta-Einstein Dynamical Framework**'
 block_type: paragraph
-concepts:
-- α
-- δ
 excerpt: δ†δ=α\[δ,δ\]\\delta^\\dagger\\delta \= \\alpha\[\\delta,\\delta\]δ†δ=α\[δ,δ\]
   equates δ-energy and δ-curvature.
-heading: '**(2) The Meta-Einstein equation**'
-id: GEN1-634
-lines: 1495-1499
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::9-summary-the-meta-einstein-dynamical-framework::2-the-meta-einstein-equation::b1
-parent_heading: '**9\. Summary: The Meta-Einstein Dynamical Framework**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- α
+- δ-curvature
+- δ-energy
+aliases:
+- Bk605dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

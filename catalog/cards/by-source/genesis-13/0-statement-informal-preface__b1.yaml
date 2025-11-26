@@ -1,13 +1,35 @@
-block_type: paragraph
-concepts:
-- Meta-Physics
-- Π
-- Φ
-- δ
-excerpt: 'Let: * δ \= deviation / adjacency curvature functor * Φ \= dynamical translation
-  functor'
-heading: '**0\. Statement (informal preface)**'
 id: GEN13-2355
-lines: 1383-1408
 location: genesis-13/the-weight-of-light::0-statement-informal-preface::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 1383-1408
+heading: '**0\. Statement (informal preface)**'
+block_type: paragraph
+excerpt: 'Let: * δ \= deviation / adjacency curvature functor * Φ \= dynamical translation
+  functor'
+concepts:
+- →
+- All lawful adjacency-curvatures
+- Π
+- δ
+- Φ
+- Theorem
+- adjacency-curvatures
+- Meta-Physics
+- pre-metric
+- All lawful geometries
+- All lawful dynamics
+aliases:
+- Bk631ld
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

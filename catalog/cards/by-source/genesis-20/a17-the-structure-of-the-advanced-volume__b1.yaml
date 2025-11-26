@@ -1,25 +1,41 @@
+id: GEN20-7103
+location: genesis-20/mbc-40-documentaitio-1::short-answer-to-your-question::a17-the-structure-of-the-advanced-volume::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5541-5553
+heading: A1.7 The Structure of the Advanced Volume
+parent_heading: ⭐ Short Answer to Your Question
 block_type: paragraph
+excerpt: 'The Advanced Volume is organized around the five pillars of expanded MBC:
+  1. Advanced Θ-Router Architecture 2. Statistical & Adaptive Semantic Updating'
 concepts:
-- Adaptive Semantic Updating
+- MBC
+- Router
+- Field
 - 'Agent Workflow Architecture
 
 
   These'
-- Categorical Foundations
-- Field
 - Higher-Order
-- Input Boxes
 - Multi-Input
-- Order Structures
-- Router Architecture
+- Adaptive Semantic Updating
+- Categorical Foundations
 - Semantic Field Theory
-- The Advanced Volume
 - Θ
-excerpt: 'The Advanced Volume is organized around the five pillars of expanded MBC:
-  1. Advanced Θ-Router Architecture 2. Statistical & Adaptive Semantic Updating'
-heading: A1.7 The Structure of the Advanced Volume
-id: GEN20-7103
-lines: 5541-5553
-location: genesis-20/mbc-40-documentaitio-1::short-answer-to-your-question::a17-the-structure-of-the-advanced-volume::b1
-parent_heading: ⭐ Short Answer to Your Question
-source: genesis-20\MBC_40_Documentaitio-1.md
+- The Advanced Volume
+- Router Architecture
+- Order Structures
+- Input Boxes
+aliases:
+- Bk506ta
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.450980392156865
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

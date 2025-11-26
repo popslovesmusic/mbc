@@ -1,13 +1,33 @@
+id: GEN13-2114
+location: genesis-13/meta-math-nuclear-physics::1-δ-geometry-as-pre-qcd-structure::theorem-15-δ-torsion-confinement::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1449-1459
+heading: '**Theorem 1.5 (δ-Torsion ⇒ Confinement).**'
+parent_heading: '**1\. δ-Geometry as Pre-QCD Structure**'
 block_type: paragraph
-concepts:
-- γ
-- δ
 excerpt: 'If T≠0T\\neq0T=0, every pair of δ-adjacent vertices supports a minimal δ-flux-tube
   bundle Fxy={γ:x→y  ∣  δ(γ) extremizes T}.\\mathcal{F}\_{xy} \= \\{\\gamma : x\\to
   y \\;|\\; \\delta(\\gamma) \\text{ ...'
-heading: '**Theorem 1.5 (δ-Torsion ⇒ Confinement).**'
-id: GEN13-2114
-lines: 1449-1459
-location: genesis-13/meta-math-nuclear-physics::1-δ-geometry-as-pre-qcd-structure::theorem-15-δ-torsion-confinement::b1
-parent_heading: '**1\. δ-Geometry as Pre-QCD Structure**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ-geometry
+- δ
+- γ
+- →
+- δ-flux-tube
+- δ-adjacent
+- ≠
+aliases:
+- Bk334ep
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

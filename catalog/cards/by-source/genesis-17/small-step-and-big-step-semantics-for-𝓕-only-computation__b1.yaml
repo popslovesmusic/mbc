@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Below is the complete formal presentation. ---
-heading: Small-Step (→) and Big-Step (⇓) Semantics for 𝓕-Only Computation
 id: GEN17-4812
-lines: 9678-9681
 location: genesis-17/box-calculus::operational-semantics-of-the-monistic-box-calculus-mbc::small-step-and-big-step-semantics-for-𝓕-only-computation::b1
-parent_heading: ⭐ OPERATIONAL SEMANTICS OF THE MONISTIC BOX CALCULUS (MBC)
 source: genesis-17\box_calculus.md
+lines: 9678-9681
+heading: Small-Step (→) and Big-Step (⇓) Semantics for 𝓕-Only Computation
+parent_heading: ⭐ OPERATIONAL SEMANTICS OF THE MONISTIC BOX CALCULUS (MBC)
+block_type: paragraph
+excerpt: Below is the complete formal presentation. ---
+aliases:
+- Bk093bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

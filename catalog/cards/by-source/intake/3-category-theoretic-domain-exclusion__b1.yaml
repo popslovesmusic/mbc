@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts:
-- Ψ
-excerpt: This is the strongest and the simplest. You treat Ψ0\\Psi\_0Ψ0​ as the **initial
-  object of no morphisms**. ---
-heading: '**3\. Category-Theoretic Domain Exclusion**'
 id: INTK-9968
-lines: 346-352
 location: intake/meta-genesis-mathematical-papers::3-category-theoretic-domain-exclusion::b1
 source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 346-352
+heading: '**3\. Category-Theoretic Domain Exclusion**'
+block_type: paragraph
+excerpt: This is the strongest and the simplest. You treat Ψ0\\Psi\_0Ψ0​ as the **initial
+  object of no morphisms**. ---
+concepts:
+- Ψ
+- initial object of no morphisms
+aliases:
+- Bk172tt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,15 +1,33 @@
+id: GEN19-5891
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::7-router-update-law-how-α-is-learned-from-δ-history::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 280-297
+heading: '**7\. Router Update Law (how α is learned from δ-history)**'
+parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
 block_type: paragraph
-concepts:
-- Θ
-- Π
-- α
-- η
 excerpt: You said metadata is created upstream and objective. So α should be **structurally
   adapted**, not subjectively tuned. Let y(B)∈{+1,−1}y(B)\\in\\{+1,-1\\}y(B)∈{+1,−1}
   be the Π-validated polarity outcom...
-heading: '**7\. Router Update Law (how α is learned from δ-history)**'
-id: GEN19-5891
-lines: 280-297
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::7-router-update-law-how-α-is-learned-from-δ-history::b1
-parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- α
+- η
+- ∈
+- Θ
+- Π
+- ∑
+- Gradient-style
+- Π-validated
+- Π-outcome
+- structurally adapted
+aliases:
+- Bk133ys
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.547008547008547
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

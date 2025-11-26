@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'If: X⪯GenesisY,X \\preceq\_{\\text{Genesis}} Y,X⪯Genesis​Y, then:'
-heading: '**6\. Genesis reachability becomes a mathematical preorder.**'
 id: GEN4-7702
-lines: 1440-1452
 location: genesis-4/meta-physics-axiom-box::ii-meta-math-layer-causality-becomes-formally-structured::6-genesis-reachability-becomes-a-mathematical-preorder::b1
-parent_heading: '**II. META-MATH LAYER — Causality Becomes Formally Structured**'
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1440-1452
+heading: '**6\. Genesis reachability becomes a mathematical preorder.**'
+parent_heading: '**II. META-MATH LAYER — Causality Becomes Formally Structured**'
+block_type: paragraph
+excerpt: 'If: X⪯GenesisY,X \\preceq\_{\\text{Genesis}} Y,X⪯Genesis​Y, then:'
+concepts:
+- ∃
+- δ
+- →
+- math-level
+- δmathn
+aliases:
+- Bk708gp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.329113924050633
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,33 @@
+id: GEN9-9163
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-φ-modes-emergence-of-geometric-form::31-from-harmonic-algebra-to-geometry::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2108-2122
+heading: '**3.1 From Harmonic Algebra to Geometry**'
+parent_heading: '**3\. Φ-Modes: Emergence of Geometric Form**'
 block_type: paragraph
-concepts:
-- Geometric Mode Space
-- Mode
-- Φ
-- δ
 excerpt: 'Φ is the first geometric functor: Φ:Specδ→Geometric Mode Space.\\Phi:\\mathrm{Spec}\_\\delta
   \\to \\text{Geometric Mode Space}.Φ:Specδ​→Geometric Mode Space. It converts δ-harmonics
   into **nodal surfa...'
-heading: '**3.1 From Harmonic Algebra to Geometry**'
-id: GEN9-9163
-lines: 2108-2122
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-φ-modes-emergence-of-geometric-form::31-from-harmonic-algebra-to-geometry::b1
-parent_heading: '**3\. Φ-Modes: Emergence of Geometric Form**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- →
+- Mode
+- δ
+- Φ
+- Geometric Mode Space
+- δ-harmonics
+- nodal surfaces
+aliases:
+- Bk797tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.893617021276595
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

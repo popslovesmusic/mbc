@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- sealed
-excerpt: These are the **sealed** equivalents.
-heading: '**7\. Hermetic Box Forms**'
 id: GEN18-5498
-lines: 1591-1593
 location: genesis-18/mbc-4::7-hermetic-box-forms::b1
 source: genesis-18\MBC-4.md
+lines: 1591-1593
+heading: '**7\. Hermetic Box Forms**'
+block_type: paragraph
+excerpt: These are the **sealed** equivalents.
+concepts:
+- sealed
+aliases:
+- Bk875ta
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,29 @@
+id: GEN3-7578
+location: genesis-3/the-tri-unity-theorem::iii-δφ-unity-axioms::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1290-1295
+heading: '**III. δ–Φ Unity Axioms**'
 block_type: paragraph
+excerpt: These axioms express the **essential interdependence** of δ and Φ. This is
+  the heart of the Foundation Layer. ---
 concepts:
 - Foundation Layer
 - Layer
-- Φ
+- essential interdependence
 - δ
-excerpt: These axioms express the **essential interdependence** of δ and Φ. This is
-  the heart of the Foundation Layer. ---
-heading: '**III. δ–Φ Unity Axioms**'
-id: GEN3-7578
-lines: 1290-1295
-location: genesis-3/the-tri-unity-theorem::iii-δφ-unity-axioms::b1
-source: genesis-3\The_Tri-Unity_Theorem.md
+- Φ
+aliases:
+- Bk688ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.77777777777778
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,31 @@
+id: GEN16-3790
+location: genesis-16/untitled-document::confirm-one-thing::the-formal-mixing-law-algebra-of-σ::b1
+source: genesis-16\Untitled_document.md
+lines: 772-794
+heading: '**The Formal Mixing Law (Algebra of Σ)**'
+parent_heading: '**❓ Confirm one thing:**'
 block_type: list
-concepts:
-- Axiom
-- Expansion Constraint
-- Graph Grammar
-- Σ
 excerpt: '* Associativity / commutativity constraints * Inner product definition (semantic
   similarity) * Norm definition (semantic magnitude)'
-heading: '**The Formal Mixing Law (Algebra of Σ)**'
-id: GEN16-3790
-lines: 772-794
-location: genesis-16/untitled-document::confirm-one-thing::the-formal-mixing-law-algebra-of-σ::b1
-parent_heading: '**❓ Confirm one thing:**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Polarity
+- Axiom
+- Definition
+- Router
+- direction-of-Σ
+- NOT-Axiom
+- Σ
+- Expansion Constraint
+- Graph Grammar
+aliases:
+- Bk239ac
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

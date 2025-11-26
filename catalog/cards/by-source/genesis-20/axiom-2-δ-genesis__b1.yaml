@@ -1,10 +1,25 @@
+id: GEN20-7120
+location: genesis-20/mbc-40-documentaitio-1::a27-the-axiom-system-formal-summary::axiom-2-δ-genesis::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5838-5840
+heading: Axiom 2 (δ-Genesis)
+parent_heading: A2.7 The Axiom System (Formal Summary)
 block_type: paragraph
+excerpt: All structure arises from δ.
 concepts:
 - δ
-excerpt: All structure arises from δ.
-heading: Axiom 2 (δ-Genesis)
-id: GEN20-7120
-lines: 5838-5840
-location: genesis-20/mbc-40-documentaitio-1::a27-the-axiom-system-formal-summary::axiom-2-δ-genesis::b1
-parent_heading: A2.7 The Axiom System (Formal Summary)
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk829as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

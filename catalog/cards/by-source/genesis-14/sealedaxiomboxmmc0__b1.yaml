@@ -1,26 +1,49 @@
+id: GEN14-2876
+location: genesis-14/meta-math-and-cryptography::meta-math-cryptography-foundation-layer::sealedaxiomboxmmc0::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1246-1302
+heading: '**SEALEDAxiomBox–MMC0**'
+parent_heading: '**⚚ META-MATH CRYPTOGRAPHY FOUNDATION LAYER**'
 block_type: paragraph
-concepts:
-- Axiom
-- Lift Theorem
-- Meta-Math
-- Modal Universality
-- Monistic Compatibility
-- No-Lift
-- Ontic Deviation Requirement
-- Projection Collapse
-- Theorem
-- Trapdoor Consistency
-- Unidirectional Transformation
-- Universal Cryptographic Axioms
-- Π
-- Φ
-- δ
 excerpt: '*(δ–Φ–Π Universal Cryptographic Axioms)* **Axiom MMC-1 (Ontic Deviation
   Requirement — δ):** Every cryptographic system begins with a δ-source: a non-zero
   asymmetry (entropy, key seed, structural uniqu...'
-heading: '**SEALEDAxiomBox–MMC0**'
-id: GEN14-2876
-lines: 1246-1302
-location: genesis-14/meta-math-and-cryptography::meta-math-cryptography-foundation-layer::sealedaxiomboxmmc0::b1
-parent_heading: '**⚚ META-MATH CRYPTOGRAPHY FOUNDATION LAYER**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- δ
+- Φ
+- Π
+- Axiom
+- Meta-Math
+- Projection
+- Deviation
+- →
+- Theorem
+- ∈
+- δ-reconstructible
+- Universal Cryptographic Axioms
+- Unidirectional Transformation
+- lattice-based
+- δ-differences
+aliases:
+- Am895uc
+tags:
+- trapdoor-consistency
+- no-lift-theorem-πδ
+- ontic-deviation-requirement-δ
+- monistic-compatibility
+- conflicted
+- projection-collapse-π
+- modal-universality
+- unidirectional-transformation-φ
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 7
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.561056105610561
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

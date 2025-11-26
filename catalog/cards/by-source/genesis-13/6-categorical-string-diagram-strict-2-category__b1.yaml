@@ -1,14 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- η
-- σ
-excerpt: 'We encode δ–Φ–Π bioenergetics as a strict 2-category **𝒞** with: * 0-cells:
-  states * 1-cells: functors δ, Φ, Π'
-heading: '**6\. Categorical String Diagram (Strict 2-Category)**'
 id: GEN13-2537
-lines: 1099-1120
 location: genesis-13/what-biology-is-in-meta-genesis::6-categorical-string-diagram-strict-2-category::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1099-1120
+heading: '**6\. Categorical String Diagram (Strict 2-Category)**'
+block_type: paragraph
+excerpt: 'We encode δ–Φ–Π bioenergetics as a strict 2-category **𝒞** with: * 0-cells:
+  states * 1-cells: functors δ, Φ, Π'
+concepts:
+- Π
+- δ
+- Φ
+- η
+- σ
+aliases:
+- Bk661eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

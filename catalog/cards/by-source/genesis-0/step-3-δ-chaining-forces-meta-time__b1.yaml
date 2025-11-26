@@ -1,15 +1,32 @@
+id: GEN0-176
+location: genesis-0/tri-unity-theorem-equivalence-of::proof::step-3-δ-chaining-forces-meta-time::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 279-304
+heading: '**Step 3 — δ chaining forces Meta-Time**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Axiom
-- Define Meta
-- Meta-Time
-- Ψ
-- δ
 excerpt: 'Consider the chain: Ψ0,  Ψ1=δΨ0,  Ψ2=δΨ1,  …\\Psi\_0,\\;\\Psi\_1=\\delta\\Psi\_0,\\;\\Psi\_2=\\delta\\Psi\_1,\\;\\dotsΨ0​,Ψ1​=δΨ0​,Ψ2​=δΨ1​,…
   This chain has a **forced ordering**, since δ cannot rever...'
-heading: '**Step 3 — δ chaining forces Meta-Time**'
-id: GEN0-176
-lines: 279-304
-location: genesis-0/tri-unity-theorem-equivalence-of::proof::step-3-δ-chaining-forces-meta-time::b1
-parent_heading: '**Proof**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- δ
+- Meta-Time
+- Axiom
+- causal and temporal ordering
+- δ-generated
+- strict monoidal category
+- δ-arrows
+- forced ordering
+- Define Meta
+aliases:
+- Bk722ct
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: true
+concept_density: 8.849557522123893
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,31 @@
+id: GEN19-5910
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::standard-column::step-4-coherence-constraint::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 473-480
+heading: '**Step 4 — Coherence constraint**'
+parent_heading: '**Standard Column**'
 block_type: paragraph
-concepts:
-- Axiom
-- Θ
 excerpt: 'For a cycle returning to the same semantic element, a contradiction occurs
   when: ∏Θi=−1\\prod \\Theta\_i \= \-1∏Θi​=−1 which is forbidden by Axiom A4.'
-heading: '**Step 4 — Coherence constraint**'
-id: GEN19-5910
-lines: 473-480
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::standard-column::step-4-coherence-constraint::b1
-parent_heading: '**Standard Column**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Axiom
+- ∏
+- Θ
+aliases:
+- Bk004a
+tags:
+- A4
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A4

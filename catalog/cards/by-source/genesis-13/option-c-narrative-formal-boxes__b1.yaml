@@ -1,16 +1,33 @@
+id: GEN13-2519
+location: genesis-13/what-biology-is-in-meta-genesis::choose-the-format::option-c-narrative-formal-boxes::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 821-829
+heading: '**Option C — “Narrative \+ Formal Boxes”**'
+parent_heading: '**Choose the Format**'
 block_type: list
-concepts:
-- Axiom
-- Axiom Boxes
-- Diagram Boxes
-- Meta-Genesis
-- Theorem
-- Theorem Boxes
 excerpt: '* Main body: narrative explanation (Meta-Genesis style) * Interspersed:
   sealed Axiom Boxes, Theorem Boxes, Diagram Boxes * Similar to your cosmology chapters'
-heading: '**Option C — “Narrative \+ Formal Boxes”**'
-id: GEN13-2519
-lines: 821-829
-location: genesis-13/what-biology-is-in-meta-genesis::choose-the-format::option-c-narrative-formal-boxes::b1
-parent_heading: '**Choose the Format**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Meta-Genesis
+- Theorem
+- Axiom
+- Theorem Boxes
+- Diagram Boxes
+- Axiom Boxes
+aliases:
+- Bk883mb
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

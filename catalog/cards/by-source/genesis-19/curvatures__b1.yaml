@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: κ=(+2, −1, +0.5)\\kappa \= (+2,\\,-1,\\,+0.5)κ=(+2,−1,+0.5)
-heading: '**Curvatures:**'
 id: GEN19-5914
-lines: 520-522
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-worked-example-3-node-δ-adjacency-graph::curvatures::b1
-parent_heading: '**V. Worked Example — 3-Node δ-Adjacency Graph**'
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 520-522
+heading: '**Curvatures:**'
+parent_heading: '**V. Worked Example — 3-Node δ-Adjacency Graph**'
+block_type: paragraph
+excerpt: κ=(+2, −1, +0.5)\\kappa \= (+2,\\,-1,\\,+0.5)κ=(+2,−1,+0.5)
+concepts:
+- κ
+aliases:
+- Bk596ka
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

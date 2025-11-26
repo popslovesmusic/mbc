@@ -1,12 +1,31 @@
+id: GEN2-6327
+location: genesis-2/axioms-of-geometry-topos-compatible::3-φ-logic-computation-proof-and-modality::axiom-mm-32-proof-as-φ-flow::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 463-471
+heading: '**Axiom MM-3.2 — Proof as Φ-Flow**'
+parent_heading: '**3\. Φ-Logic (Computation, Proof, and Modality)**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'A proof is a Φ-stable morphism: Proof(P)  ⟺  Φ(P)=P.\\text{Proof}(P) \\iff
   \\Phi(P)=P.Proof(P)⟺Φ(P)=P. You have just redefined mathematics as “fixed points
   of action.”'
-heading: '**Axiom MM-3.2 — Proof as Φ-Flow**'
-id: GEN2-6327
-lines: 463-471
-location: genesis-2/axioms-of-geometry-topos-compatible::3-φ-logic-computation-proof-and-modality::axiom-mm-32-proof-as-φ-flow::b1
-parent_heading: '**3\. Φ-Logic (Computation, Proof, and Modality)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Proof
+- Φ
+- Φ-stable
+aliases:
+- Bk157ps
+tags:
+- proof
+- p-φpptextproofp-iff-phippproofpφpp
+- definitive
+- low-uncertainty
+is_formal: true
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

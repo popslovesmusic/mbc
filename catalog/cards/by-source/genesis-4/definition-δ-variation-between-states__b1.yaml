@@ -1,14 +1,35 @@
+id: GEN4-7908
+location: genesis-4/the-first-adjacency::3-δ-variation-as-a-proto-metric::definition-δ-variation-between-states::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1695-1705
+heading: '**Definition — δ-Variation Between States**'
+parent_heading: '**3\. δ-Variation as a Proto-Metric**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
-- δ-variation
 excerpt: 'Define the **δ-variation** between states Ψi,Ψj\\Psi\_i, \\Psi\_jΨi​,Ψj​
   as: Δδ(Ψi,Ψj)=the minimal number of δ-transformations needed to relate them\\Delta\_\\delta(\\Psi\_i,\\Psi\_j)
   \= \\text{the mi...'
-heading: '**Definition — δ-Variation Between States**'
-id: GEN4-7908
-lines: 1695-1705
-location: genesis-4/the-first-adjacency::3-δ-variation-as-a-proto-metric::definition-δ-variation-between-states::b1
-parent_heading: '**3\. δ-Variation as a Proto-Metric**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Ψ
+- δ
+- δ-transformations
+- Ψi
+- Ψj
+- Δ
+- Definition
+- δ-variation
+- δ-length
+aliases:
+- Bk748dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.278350515463918
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

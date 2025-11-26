@@ -1,9 +1,29 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Below is the **definitive, fully-formal, sealed theorem \+ proof**:'
-heading: '**ChatGPT said:**'
 id: GEN8-9007
-lines: 1264-1266
 location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::seal::you-said::chatgpt-said::b2
-parent_heading: '**You said:**'
 source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1264-1266
+heading: '**ChatGPT said:**'
+parent_heading: '**You said:**'
+block_type: paragraph
+excerpt: 'Below is the **definitive, fully-formal, sealed theorem \+ proof**:'
+concepts:
+- Theorem
+- Proof
+- fully-formal
+aliases:
+- Bk905bt
+tags:
+- proof
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

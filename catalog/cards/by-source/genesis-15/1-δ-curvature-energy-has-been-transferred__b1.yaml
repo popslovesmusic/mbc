@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-- ρ
-excerpt: ρδH(treh)≈ρradiation(treh)\\rho\_{\\delta H}(t\_\\text{reh}) \\approx \\rho\_{\\text{radiation}}(t\_\\text{reh})ρδH​(treh​)≈ρradiation​(treh​)
-heading: '**(1) δ-curvature energy has been transferred:**'
 id: GEN15-3148
-lines: 1119-1121
 location: genesis-15/the-mass-curvature-projection-theorem::8-δ-higgs-reheating-ends-when::1-δ-curvature-energy-has-been-transferred::b1
-parent_heading: '**8\. δ-Higgs Reheating Ends When**'
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1119-1121
+heading: '**(1) δ-curvature energy has been transferred:**'
+parent_heading: '**8\. δ-Higgs Reheating Ends When**'
+block_type: paragraph
+excerpt: ρδH(treh)≈ρradiation(treh)\\rho\_{\\delta H}(t\_\\text{reh}) \\approx \\rho\_{\\text{radiation}}(t\_\\text{reh})ρδH​(treh​)≈ρradiation​(treh​)
+concepts:
+- ρ
+- ≈
+- δ
+- δH
+aliases:
+- Bk007tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

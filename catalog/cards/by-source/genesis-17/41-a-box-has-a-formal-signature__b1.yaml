@@ -1,12 +1,30 @@
-block_type: table
-concepts:
-- Box
-- Standard Meaning
-- Σ
-excerpt: Box \= { Σ, ∂Box, Ops, Meta, Adj } ---
-heading: 4.1 A Box Has a Formal Signature
 id: GEN17-4151
-lines: 56-68
 location: genesis-17/box-calculus::box-calculus-technical-introduction-dual-column-cross-referenced::4-box-syntax-and-semantics::41-a-box-has-a-formal-signature::b1
-parent_heading: 4\. Box Syntax and Semantics
 source: genesis-17\box_calculus.md
+lines: 56-68
+heading: 4.1 A Box Has a Formal Signature
+parent_heading: 4\. Box Syntax and Semantics
+block_type: table
+excerpt: Box \= { Σ, ∂Box, Ops, Meta, Adj } ---
+concepts:
+- Adjacency
+- IGSOA
+- Box
+- Σ
+- ∂
+- Standard Meaning
+aliases:
+- Bk554bb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.76595744680851
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

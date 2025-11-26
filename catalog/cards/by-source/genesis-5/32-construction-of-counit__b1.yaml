@@ -1,11 +1,27 @@
+id: GEN5-7947
+location: genesis-5/formal-proof-of-the-adjoint-triple::3-proof-that-uru-dashv-rur::32-construction-of-counit::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 164-172
+heading: '**3.2 Construction of counit**'
+parent_heading: '**3\. Proof that U⊣RU \\dashv RU⊣R**'
 block_type: paragraph
-concepts:
-- β
 excerpt: 'Define: βZ:U(RZ)→Z\\beta\_Z : U(RZ) \\to ZβZ​:U(RZ)→Z as the natural sheaf
   map induced by restriction from the global section to each scale.'
-heading: '**3.2 Construction of counit**'
-id: GEN5-7947
-lines: 164-172
-location: genesis-5/formal-proof-of-the-adjoint-triple::3-proof-that-uru-dashv-rur::32-construction-of-counit::b1
-parent_heading: '**3\. Proof that U⊣RU \\dashv RU⊣R**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- β
+- →
+aliases:
+- Bk513db
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

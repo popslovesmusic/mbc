@@ -1,14 +1,27 @@
+id: GEN3-7467
+location: genesis-3/the-physics-box-diagram::4-meta-genesis-axioms-ψ₀-δψ₀-φ-structure::axiom-g1-genesis-transition::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1448-1456
+heading: '**Axiom G1: Genesis Transition**'
+parent_heading: '**4\. META-GENESIS AXIOMS (Ψ₀ → δΨ₀ → Φ-structure)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Genesis Event
-- Ψ
-- δ
 excerpt: The transition Ψ0  →  δΨ0Ψ\_0 \\;\\to\\; δΨ\_0Ψ0​→δΨ0​ is the **Genesis Event**,
   the first change allowed by the NOT Axiom.
-heading: '**Axiom G1: Genesis Transition**'
-id: GEN3-7467
-lines: 1448-1456
-location: genesis-3/the-physics-box-diagram::4-meta-genesis-axioms-ψ₀-δψ₀-φ-structure::axiom-g1-genesis-transition::b1
-parent_heading: '**4\. META-GENESIS AXIOMS (Ψ₀ → δΨ₀ → Φ-structure)**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Ψ
+- Axiom
+- δ
+- →
+- Genesis Event
+aliases:
+- Bk856tt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.809523809523807
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

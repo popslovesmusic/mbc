@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: We formalize the entire process as a chain of functors and natural transformations.
-heading: '**Ⅱ. The Functor Stack: δ → Φ → Π → CMB → LSS → Galaxies**'
 id: GEN15-3194
-lines: 1853-1855
 location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-the-functor-stack-δ-φ-π-cmb-lss-galaxies::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1853-1855
+heading: '**Ⅱ. The Functor Stack: δ → Φ → Π → CMB → LSS → Galaxies**'
+block_type: paragraph
+excerpt: We formalize the entire process as a chain of functors and natural transformations.
+aliases:
+- Bk639ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

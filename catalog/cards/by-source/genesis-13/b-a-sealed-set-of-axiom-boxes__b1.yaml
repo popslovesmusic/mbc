@@ -1,20 +1,40 @@
+id: GEN13-2021
+location: genesis-13/meta-math-nuclear-physics::5-next-directions-choose-one::b-a-sealed-set-of-axiom-boxes::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 252-262
+heading: '**(B) A sealed set of Axiom Boxes**'
+parent_heading: '**5\. Next Directions (Choose One)**'
 block_type: list
-concepts:
-- Axiom
-- Mode
-- Nuclear Curvature Axiom
-- Nuclear Mode Axiom
-- Nuclear Projection Axiom
-- Nuclear Shell Axiom
-- Nuclear Symmetry Axiom
-- Π
-- Φ
-- δ
 excerpt: '* δ-Nuclear Curvature Axiom * Φ-Nuclear Mode Axiom * Π-Nuclear Projection
   Axiom'
-heading: '**(B) A sealed set of Axiom Boxes**'
-id: GEN13-2021
-lines: 252-262
-location: genesis-13/meta-math-nuclear-physics::5-next-directions-choose-one::b-a-sealed-set-of-axiom-boxes::b1
-parent_heading: '**5\. Next Directions (Choose One)**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Axiom
+- Projection
+- Curvature
+- Mode
+- Φ-Nuclear
+- Nuclear Projection Axiom
+- δ-Nuclear
+- Π-Nuclear
+- Nuclear Curvature Axiom
+- Nuclear Symmetry Axiom
+- Π
+- δ
+- Φ
+- Nuclear Shell Axiom
+- Nuclear Mode Axiom
+aliases:
+- Bk655nc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 83.33333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

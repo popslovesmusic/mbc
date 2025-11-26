@@ -1,13 +1,31 @@
+id: GEN14-2647
+location: genesis-14/inflation-structure-formation::2-φ-dynamics-during-inflation::21-φ-mode-freezing::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 58-66
+heading: '**2.1 Φ-Mode Freezing**'
+parent_heading: '**2\. Φ-Dynamics During Inflation**'
 block_type: paragraph
-concepts:
-- freeze
-- Φ
-- δ
 excerpt: 'During exponential expansion: * δ-modes stretch beyond causal adjacency
   radius. * Φ-modes (the smoothing/locking modes) **freeze** at fixed values.'
-heading: '**2.1 Φ-Mode Freezing**'
-id: GEN14-2647
-lines: 58-66
-location: genesis-14/inflation-structure-formation::2-φ-dynamics-during-inflation::21-φ-mode-freezing::b1
-parent_heading: '**2\. Φ-Dynamics During Inflation**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- Φ-modes
+- δ-modes
+- δ
+- Φ
+- primordial spectrum
+- freeze
+aliases:
+- Bk815de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

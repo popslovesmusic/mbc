@@ -1,11 +1,30 @@
+id: INTK-10765
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::the-interdimensional-question::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2022-2023
+heading: The Interdimensional Question
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Read More
 excerpt: 'Definition (Source: 02_Grok4_and_the_Interdimensional_Question.txt) [[Read
   More](concepts/Encyclopedia\The_Interdimensional_Question.md)]'
-heading: The Interdimensional Question
-id: INTK-10765
-lines: 2022-2023
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::the-interdimensional-question::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Definition
+- Read More
+aliases:
+- Df588ds
+tags:
+- source-02_grok4_and_the_interdimensional_questiontxt-read-moreconceptsencyclopediathe_interdimensional_questionmd
+- definition
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: definition
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

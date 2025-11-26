@@ -1,12 +1,29 @@
+id: INTK-9891
+location: intake/meta-genesis-core-papers-foundations::3-how-meta-time-forms-mathematically::33-meta-time-on-adjacency-graphs::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1748-1757
+heading: '**3.3 Meta-Time on Adjacency Graphs**'
+parent_heading: '**3\. How Meta-Time Forms Mathematically**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- δ
 excerpt: 'Adjacency defines neighbors; deviation defines directional bias. Meta-Time
   is the induced ordering: T(a→b)∝δ(b)−δ(a).T(a \\to b) \\propto \\delta(b)-\\delta(a).T(a→b)∝δ(b)−δ(a).'
-heading: '**3.3 Meta-Time on Adjacency Graphs**'
-id: INTK-9891
-lines: 1748-1757
-location: intake/meta-genesis-core-papers-foundations::3-how-meta-time-forms-mathematically::33-meta-time-on-adjacency-graphs::b1
-parent_heading: '**3\. How Meta-Time Forms Mathematically**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Meta-Time
+- Adjacency
+- δ
+- →
+aliases:
+- Bk989ad
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

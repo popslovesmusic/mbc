@@ -1,16 +1,37 @@
+id: GEN17-4180
+location: genesis-17/box-calculus::box-calculus-v02-closing-the-three-gaps::b-e-operator-halting-via-saturation-fuel::b1
+source: genesis-17\box_calculus.md
+lines: 378-393
+heading: B) E-Operator Halting via Saturation / Fuel
+parent_heading: Box Calculus v0.2 — Closing the Three Gaps
 block_type: table
-concepts:
-- Box
-- Box Calculus
-- Standard Formalism
-- Σ
-- Ω
-- ρ
 excerpt: 'Interpretation: * Fuel prevents infinite “explain the explanation…” loops.
   * Entropy gain prevents wasting fuel on expansions that are no longer adding structure.'
-heading: B) E-Operator Halting via Saturation / Fuel
-id: GEN17-4180
-lines: 378-393
-location: genesis-17/box-calculus::box-calculus-v02-closing-the-three-gaps::b-e-operator-halting-via-saturation-fuel::b1
-parent_heading: Box Calculus v0.2 — Closing the Three Gaps
-source: genesis-17\box_calculus.md
+concepts:
+- Σ
+- Δ
+- Box Calculus
+- IGSOA
+- Ω
+- Box
+- ∧
+- ≤
+- θ
+- resource-limited
+- ρ
+- Fuel-bounded
+- Standard Formalism
+- Σelse
+- Ωi
+aliases:
+- Bk424ib
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.241758241758241
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

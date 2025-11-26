@@ -1,11 +1,31 @@
+id: GEN5-8041
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc3-induced-deviation-on-the-target::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1538-1548
+heading: '**Axiom DC3 — Induced Deviation on the Target.**'
+parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'There exists an endofunctor δD:D→D\\delta\_{\\mathcal{D}} : \\mathcal{D}
   \\to \\mathcal{D}δD​:D→D representing the **transport of deviation** after projection.'
-heading: '**Axiom DC3 — Induced Deviation on the Target.**'
-id: GEN5-8041
-lines: 1538-1548
-location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc3-induced-deviation-on-the-target::b1
-parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- δ
+- →
+- operator-shadow
+- scale-dilation
+- transport of deviation
+- δD
+aliases:
+- Bk722te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

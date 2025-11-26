@@ -1,13 +1,29 @@
+id: GEN12-1680
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::63-gravitational-wave-echo-predictions::631-echo-band-spacing::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2324-2336
+heading: '**6.3.1 Echo Band Spacing**'
+parent_heading: '**6.3 Gravitational-Wave Echo Predictions**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- λ
 excerpt: 'Echo frequencies satisfy: fk=Πt(λk)f\_k \= \\Pi\_t(\\lambda\_k)fk​=Πt​(λk​)
   Thus:'
-heading: '**6.3.1 Echo Band Spacing**'
-id: GEN12-1680
-lines: 2324-2336
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::63-gravitational-wave-echo-predictions::631-echo-band-spacing::b1
-parent_heading: '**6.3 Gravitational-Wave Echo Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- λ
+- Φ
+- Πt
+aliases:
+- Bk307ef
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

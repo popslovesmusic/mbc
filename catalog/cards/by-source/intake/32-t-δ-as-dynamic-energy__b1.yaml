@@ -1,12 +1,28 @@
+id: INTK-9607
+location: intake/abstract-editorial-review::section-3-dual-nature-of-energy-in-φ-structures::32-t-δ-as-dynamic-energy::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 187-192
+heading: '**3.2 — T\_δ as dynamic energy**'
+parent_heading: '**📄 Section 3 — Dual Nature of Energy in Φ-Structures**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The term “energy inherent in the act of deviation” is great. Enhance it
   slightly: …a non-uniform relational structure encoding the asymmetry introduced
   by δ.'
-heading: '**3.2 — T\_δ as dynamic energy**'
-id: INTK-9607
-lines: 187-192
-location: intake/abstract-editorial-review::section-3-dual-nature-of-energy-in-φ-structures::32-t-δ-as-dynamic-energy::b1
-parent_heading: '**📄 Section 3 — Dual Nature of Energy in Φ-Structures**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- non-uniform
+- δ
+aliases:
+- Bk511tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

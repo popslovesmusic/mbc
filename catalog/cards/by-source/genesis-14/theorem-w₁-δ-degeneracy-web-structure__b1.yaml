@@ -1,20 +1,42 @@
+id: GEN14-2722
+location: genesis-14/inflation-structure-formation::proof-5-igsoa-only-filaments-sheets-and-nodes-from-δ-harmonic-degeneracy::theorem-w₁-δ-degeneracy-web-structure::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1145-1165
+heading: '**Theorem W₁ (δ-Degeneracy → Web Structure)**'
+parent_heading: '**PROOF 5 (IGSOA-ONLY): Filaments, Sheets, and Nodes from δ-Harmonic
+  Degeneracy**'
 block_type: paragraph
-concepts:
-- filaments
-- nodes
-- sheets
-- voids
-- Π
-- Φ
-- δ
-- λ
 excerpt: Let δ act on adjacency objects with harmonic spectrum W(δ)hn,ℓ,m=λnhn,ℓ,m,W(\\delta)
   h\_{n,\\ell,m} \= \\lambda\_n h\_{n,\\ell,m},W(δ)hn,ℓ,m​=λn​hn,ℓ,m​, where (ℓ,m)(\\ell,m)(ℓ,m)
   label the degeneracy...
-heading: '**Theorem W₁ (δ-Degeneracy → Web Structure)**'
-id: GEN14-2722
-lines: 1145-1165
-location: genesis-14/inflation-structure-formation::proof-5-igsoa-only-filaments-sheets-and-nodes-from-δ-harmonic-degeneracy::theorem-w₁-δ-degeneracy-web-structure::b1
-parent_heading: '**PROOF 5 (IGSOA-ONLY): Filaments, Sheets, and Nodes from δ-Harmonic
-  Degeneracy**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- degenerate harmonic representation theory of δ
+- λ
+- entire cosmic web structure
+- Π-projection
+- δ-harmonic
+- Φ-freeze
+- Π
+- Φ
+- n-th
+- multiplicity 2
+- multiplicity 1
+- multiplicity 3
+- filaments
+- sheets
+aliases:
+- Bk129la
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

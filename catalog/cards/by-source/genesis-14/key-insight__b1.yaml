@@ -1,15 +1,33 @@
+id: GEN14-3022
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-why-this-theorem-is-true-igsoa-logic::key-insight::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1480-1498
+heading: '**Key Insight**'
+parent_heading: '**III. WHY THIS THEOREM IS TRUE (IGSOA Logic)**'
 block_type: list
-concepts:
-- coherent
-- Π
-- Φ
-- δ
 excerpt: '* When δ-curvature is *coherent*, Φ can project it into *stable collective
   excitations*. * Π then stabilizes these modes by selecting the most distinguishable,
   highest-multiplicity structures. * This ...'
-heading: '**Key Insight**'
-id: GEN14-3022
-lines: 1480-1498
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-why-this-theorem-is-true-igsoa-logic::key-insight::b1
-parent_heading: '**III. WHY THIS THEOREM IS TRUE (IGSOA Logic)**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- locks adjacency connections into stable structures
+- adjacency curvature resists decoherence
+- highest-multiplicity
+- δ-curvature
+- Π
+- δ
+- Φ
+aliases:
+- Bk821wc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

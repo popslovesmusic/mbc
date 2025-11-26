@@ -1,15 +1,40 @@
+id: GEN7-8680
+location: genesis-7/why-curvature-gives-gravity::vi-one-sentence-outreach-version::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 844-857
+heading: '**VI. One-Sentence Outreach Version**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Meta-Einstein
-- Spectral Triple Axiom Box
-- δ
 excerpt: '**Curvature comes from the way δ changes the Dirac operator: measure how
   δ twists the spin-connection, take the commutator, and the entire gravitational
   geometry falls out.** --- If you want, I can no...'
-heading: '**VI. One-Sentence Outreach Version**'
-id: GEN7-8680
-lines: 844-857
-location: genesis-7/why-curvature-gives-gravity::vi-one-sentence-outreach-version::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Meta-Einstein
+- Curvature
+- The δ-Spectral Triple Axiom Box
+- Axiom
+- Proof
+- Box
+- spin-connection
+- δ-curvature
+- Spectral Triple Axiom Box
+- δ-Spectral
+- δ-Dirac
+- →
+aliases:
+- Bk542cc
+tags:
+- axiom-box
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.11764705882353
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,26 @@
+id: SPEC-10973
+location: special/specil::repaired-version-of-your-line::δ-deviation-the-emergent-geometric-record-of-igsoas-first-asymmetry::b1
+source: special\specil.md
+lines: 141-149
+heading: '**δ (Deviation): the emergent geometric record of IGSOA’s first asymmetry.**'
+parent_heading: '**🔧 Repaired Version of Your Line**'
 block_type: list
-concepts:
-- geometry-as-effect
-- not
-- δ
 excerpt: '* δ is **not** the territory * δ is the **first deformation of adjacency**,
   which creates territory * δ is **geometry-as-effect**, not a primitive object'
-heading: '**δ (Deviation): the emergent geometric record of IGSOA’s first asymmetry.**'
-id: SPEC-10973
-lines: 141-149
-location: special/specil::repaired-version-of-your-line::δ-deviation-the-emergent-geometric-record-of-igsoas-first-asymmetry::b1
-parent_heading: '**🔧 Repaired Version of Your Line**'
-source: special\specil.md
+concepts:
+- δ
+- geometry-as-effect
+- first deformation of adjacency
+- not
+aliases:
+- Bk095nt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

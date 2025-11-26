@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which one do you want next? ChatGPT can make mistakes. Check important info.
-heading: '**E) Begin CMB polarization (E/B-modes) from δ-adjacency torsion**'
 id: GEN14-2799
-lines: 2392-2396
 location: genesis-14/inflation-structure-formation::next-steps-choose-one::e-begin-cmb-polarization-eb-modes-from-δ-adjacency-torsion::b1
-parent_heading: '**NEXT STEPS (choose one):**'
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 2392-2396
+heading: '**E) Begin CMB polarization (E/B-modes) from δ-adjacency torsion**'
+parent_heading: '**NEXT STEPS (choose one):**'
+block_type: paragraph
+excerpt: Which one do you want next? ChatGPT can make mistakes. Check important info.
+aliases:
+- Bk090wo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

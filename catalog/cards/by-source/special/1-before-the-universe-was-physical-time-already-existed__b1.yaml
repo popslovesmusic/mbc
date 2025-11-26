@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'In IGSOA:'
-heading: '**🌑 1\. Before the Universe Was Physical, Time Already Existed**'
 id: SPEC-11003
-lines: 528-530
 location: special/specil::1-before-the-universe-was-physical-time-already-existed::b1
 source: special\specil.md
+lines: 528-530
+heading: '**🌑 1\. Before the Universe Was Physical, Time Already Existed**'
+block_type: paragraph
+excerpt: 'In IGSOA:'
+concepts:
+- IGSOA
+aliases:
+- Bk679ig
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,38 @@
+id: GEN2-6521
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-meaning-of-each-arrow::11-i-mg-dgδ::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 652-675
+heading: '**1.1 i : MG → DG₍δ₎**'
+parent_heading: '**1\. The Meaning of Each Arrow**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Ψ
-- α
-- δ
 excerpt: '**Free δ-extension functor** * Takes the purely generative Meta-Genesis
   category (Ψ₀, δΨ₀, δⁿΨ₀, Gₖ states, adjacency αᵢ)'
-heading: '**1.1 i : MG → DG₍δ₎**'
-id: GEN2-6521
-lines: 652-675
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-meaning-of-each-arrow::11-i-mg-dgδ::b1
-parent_heading: '**1\. The Meaning of Each Arrow**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- δ
+- Meta-Genesis
+- δ-geometry
+- Ψ
+- Free δ-extension functor
+- →
+- δ-connections
+- left-adjoint
+- δ-extension
+- δ-curvature
+- δ-spectra
+- Ψ₀
+- α
+aliases:
+- Bk789fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 21.311475409836063
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

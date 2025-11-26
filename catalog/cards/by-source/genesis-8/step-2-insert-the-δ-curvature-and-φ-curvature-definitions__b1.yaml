@@ -1,13 +1,31 @@
+id: GEN8-8963
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::proof-formal-operator-theoretic::step-2-insert-the-δ-curvature-and-φ-curvature-definitions::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 872-892
+heading: '**Step 2 — Insert the δ-curvature and Φ-curvature definitions**'
+parent_heading: '**Proof (Formal, Operator-Theoretic)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 2a. Rδ=δ†δ.(2)\\mathcal{R}\_\\delta \= \\delta^\\dagger\\delta. \\tag{2}Rδ​=δ†δ.(2)
   2b.
-heading: '**Step 2 — Insert the δ-curvature and Φ-curvature definitions**'
-id: GEN8-8963
-lines: 872-892
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::proof-formal-operator-theoretic::step-2-insert-the-δ-curvature-and-φ-curvature-definitions::b1
-parent_heading: '**Proof (Formal, Operator-Theoretic)**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- Φ
+- Π
+- δ
+- Πd
+- ∇
+- pre-physical
+aliases:
+- Bk073md
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.9405940594059405
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

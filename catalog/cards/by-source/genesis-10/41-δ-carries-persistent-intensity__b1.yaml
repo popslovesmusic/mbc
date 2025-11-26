@@ -1,12 +1,26 @@
+id: GEN10-933
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-the-first-law-in-δφπ-geometry::41-δ-carries-persistent-intensity::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 3013-3021
+heading: '**4.1 δ carries persistent intensity**'
+parent_heading: '**4\. The First Law in δ–Φ–Π Geometry**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Define deviation magnitude: Eδ=∥δΨ∥.E\_\\delta \= \\Vert δΨ \\Vert.Eδ​=∥δΨ∥.
   Because δ cannot be annihilated (no return to Ψ₀):'
-heading: '**4.1 δ carries persistent intensity**'
-id: GEN10-933
-lines: 3013-3021
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-the-first-law-in-δφπ-geometry::41-δ-carries-persistent-intensity::b1
-parent_heading: '**4\. The First Law in δ–Φ–Π Geometry**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- δ
+- Ψ
+- Δ
+- Ψ₀
+aliases:
+- Bk577dd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.75609756097561
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

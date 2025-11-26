@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
+id: GEN19-6008
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::what-you-can-do-with-mbc-complete-capability-map::if-it-can-be-represented-as-a-box-router-polarity-or-semantic-flow-mbc-can-compute-reason-infer-simulate-or-classify-it::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 6-8
 heading: “If it can be represented as a box, router, polarity, or semantic flow, MBC
   can compute, reason, infer, simulate, or classify it.”
-id: GEN19-6008
-lines: 6-8
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::what-you-can-do-with-mbc-complete-capability-map::if-it-can-be-represented-as-a-box-router-polarity-or-semantic-flow-mbc-can-compute-reason-infer-simulate-or-classify-it::b1
 parent_heading: What You Can Do With MBC (Complete Capability Map)
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

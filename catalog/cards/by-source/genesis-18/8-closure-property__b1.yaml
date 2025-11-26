@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- closes
-- inherit
-excerpt: '**This axiom seals the entire MBC-4.0 ontology.** No further axioms may
-  override it. All future structure must *inherit* monistic consistency.'
-heading: '**8\. Closure Property**'
 id: GEN18-5334
-lines: 2535-2546
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::8-closure-property::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2535-2546
+heading: '**8\. Closure Property**'
+block_type: paragraph
+excerpt: '**This axiom seals the entire MBC-4.0 ontology.** No further axioms may
+  override it. All future structure must *inherit* monistic consistency.'
+concepts:
+- IGSOA
+- MBC
+- Theorem
+- Axiom
+- IGSOA-shadow
+- closes
+aliases:
+- Bk030ta
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 13.636363636363635
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

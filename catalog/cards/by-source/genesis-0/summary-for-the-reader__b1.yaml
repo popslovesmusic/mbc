@@ -1,15 +1,34 @@
-block_type: paragraph
-concepts:
-- Action Principle Exclusion Lemma
-- First Action
-- Lemma
-- Meta-Math
-- Ψ
-- δ
-excerpt: '**Stillness has no action principle** because stillness has: * no variables,
-  * no neighbors,'
-heading: '**Summary (for the reader)**'
 id: GEN0-277
-lines: 353-386
 location: genesis-0/why-the-first-action-is-necessary::summary-for-the-reader::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 353-386
+heading: '**Summary (for the reader)**'
+block_type: paragraph
+excerpt: '**Stillness has no action principle** because stillness has: * no variables,
+  * no neighbors,'
+concepts:
+- Meta-Math
+- Lemma
+- category-theoretic
+- Stillness has no action principle
+- Action Principle Exclusion Lemma
+- δ-Geometry
+- δ
+- Ψ
+- First Action
+- Ψ₀
+aliases:
+- Bk677sh
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.615384615384617
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

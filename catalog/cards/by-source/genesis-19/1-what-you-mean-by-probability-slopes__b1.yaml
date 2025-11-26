@@ -1,13 +1,30 @@
+id: GEN19-6113
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::1-what-you-mean-by-probability-slopes::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1037-1055
+heading: ✅ 1\. What You Mean by “Probability Slopes”
 block_type: paragraph
-concepts:
-- Box
-- In Box Calculus
-- δ
 excerpt: 'A probability slope is a directional probability gradient: * not a single
   scalar probability * but a slope of changing probability over a semantic or causal
   pathway.'
-heading: ✅ 1\. What You Mean by “Probability Slopes”
-id: GEN19-6113
-lines: 1037-1055
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::1-what-you-mean-by-probability-slopes::b1
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- Box Calculus
+- Box
+- δ-deviation
+- δ
+- →
+- In Box Calculus
+aliases:
+- Bk883ps
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

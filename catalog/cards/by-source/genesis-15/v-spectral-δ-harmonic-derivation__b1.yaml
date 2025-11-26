@@ -1,14 +1,36 @@
+id: GEN15-3319
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-spectral-δ-harmonic-derivation::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 976-1010
+heading: '**V. Spectral (δ-Harmonic) Derivation**'
 block_type: paragraph
+excerpt: 'In the δ-harmonic basis: δ=∑nanδn.\\delta \= \\sum\_{n} a\_n \\delta\_n.δ=n∑​an​δn​.
+  CSOI adds slow-decaying harmonic weights:'
 concepts:
-- automatically
-- Θ
 - δ
 - μ
 - ν
-excerpt: 'In the δ-harmonic basis: δ=∑nanδn.\\delta \= \\sum\_{n} a\_n \\delta\_n.δ=n∑​an​δn​.
-  CSOI adds slow-decaying harmonic weights:'
-heading: '**V. Spectral (δ-Harmonic) Derivation**'
-id: GEN15-3319
-lines: 976-1010
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-spectral-δ-harmonic-derivation::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+- ∑
+- Θ
+- slow-decaying
+- δ-harmonic
+- DM-like
+- δ-modes
+- high-n
+- automatically
+- δn
+aliases:
+- Bk465th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

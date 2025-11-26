@@ -1,16 +1,32 @@
+id: INTK-10216
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::6-interpretation-of-terms-and-emergent-physics::61-gravity-the-δ-curvature-sector::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 87-92
+heading: '**6.1 Gravity (The δ-Curvature Sector)**'
+parent_heading: '**6. Interpretation of Terms and Emergent Physics**'
 block_type: paragraph
-concepts:
-- Einstein Tensor
-- deviation-curvature
-- δ
-- μ
-- ν
 excerpt: The terms `R_AB(δ) - ½ G_AB(δ) R(δ)` directly generalize the Einstein Tensor.
   *   When projected onto a smooth 4D manifold (i.e., when δ-dynamics stabilize into
   continuous spacetime), `R_AB(δ)` reduce...
-heading: '**6.1 Gravity (The δ-Curvature Sector)**'
-id: INTK-10216
-lines: 87-92
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::6-interpretation-of-terms-and-emergent-physics::61-gravity-the-δ-curvature-sector::b1
-parent_heading: '**6. Interpretation of Terms and Emergent Physics**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- δ
+- deviation-curvature
+- ν
+- μ
+- δ-dynamics
+- Einstein Tensor
+aliases:
+- Bk929tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.16949152542373
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

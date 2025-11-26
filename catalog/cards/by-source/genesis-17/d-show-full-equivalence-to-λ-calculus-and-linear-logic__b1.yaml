@@ -1,10 +1,25 @@
+id: GEN17-4832
+location: genesis-17/box-calculus::next-options::d-show-full-equivalence-to-λ-calculus-and-linear-logic::b1
+source: genesis-17\box_calculus.md
+lines: 10064-10067
+heading: D. Show full equivalence to λ-calculus and linear logic
+parent_heading: '⭐ Next Options:'
 block_type: paragraph
+excerpt: (𝓕’s functional calculus ↔ λ-evaluation) Which direction should we go next?
 concepts:
 - λ
-excerpt: (𝓕’s functional calculus ↔ λ-evaluation) Which direction should we go next?
-heading: D. Show full equivalence to λ-calculus and linear logic
-id: GEN17-4832
-lines: 10064-10067
-location: genesis-17/box-calculus::next-options::d-show-full-equivalence-to-λ-calculus-and-linear-logic::b1
-parent_heading: '⭐ Next Options:'
-source: genesis-17\box_calculus.md
+- ↔
+aliases:
+- Bk162fc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

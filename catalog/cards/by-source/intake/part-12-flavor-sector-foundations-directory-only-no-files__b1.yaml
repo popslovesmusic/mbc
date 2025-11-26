@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Should Contain
-excerpt: '**Should Contain:** - Elementary flavor structure - Generation concept foundations'
-heading: '**Part 12: Flavor Sector Foundations** - Directory only, no files'
 id: INTK-10939
-lines: 244-250
 location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-iv-metastandardmodel-and-flavorphysics-completely-empty::part-12-flavor-sector-foundations-directory-only-no-files::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 244-250
+heading: '**Part 12: Flavor Sector Foundations** - Directory only, no files'
 parent_heading: '**Volume IV: MetaStandardModel and FlavorPhysics** ❌ **COMPLETELY
   EMPTY**'
-source: intake\Volume_Structure_Gap_Analysis.md
+block_type: paragraph
+excerpt: '**Should Contain:** - Elementary flavor structure - Generation concept foundations'
+concepts:
+- Should Contain
+aliases:
+- Bk747sc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,38 @@
+id: GEN13-2535
+location: genesis-13/what-biology-is-in-meta-genesis::4-atp-as-a-π-fixed-φ-state::definition-41-atp-object::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1051-1063
+heading: '**Definition 4.1 (ATP Object).**'
+parent_heading: '**4\. ATP as a Π-Fixed Φ-State**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- σ
 excerpt: 'Define the **ATP object** A∈PA \\in \\mathcal{P}A∈P as: A:=(Π∘Φ∘δ)(σ)A :=
   (\\Pi \\circ \\Phi \\circ \\delta)(\\sigma)A:=(Π∘Φ∘δ)(σ) for any stillness seed
   state σ∈S\\sigma \\in \\mathcal{S}σ∈S.'
-heading: '**Definition 4.1 (ATP Object).**'
-id: GEN13-2535
-lines: 1051-1063
-location: genesis-13/what-biology-is-in-meta-genesis::4-atp-as-a-π-fixed-φ-state::definition-41-atp-object::b1
-parent_heading: '**4\. ATP as a Π-Fixed Φ-State**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- δ
+- ∈
+- σ
+- Φ
+- δ-packet trapped by Π
+- ultra-formal
+- δ-asymmetry
+- δ-packet
+- Π-closed
+- Φ-mode
+- ATP object
+aliases:
+- Bk670dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.36
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

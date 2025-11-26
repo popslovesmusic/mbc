@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Ω
-- δ
-excerpt: δΩ gradients → tilt, twist, chirality
-heading: '**6.1 anisotropic scaling**'
 id: GEN6-8220
-lines: 195-197
 location: genesis-6/harmonics-atomic-orbitals::6-full-orbital-shapes-directly-visualizable::61-anisotropic-scaling::b1
-parent_heading: '**6\. Full Orbital Shapes (Directly Visualizable)**'
 source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 195-197
+heading: '**6.1 anisotropic scaling**'
+parent_heading: '**6\. Full Orbital Shapes (Directly Visualizable)**'
+block_type: paragraph
+excerpt: δΩ gradients → tilt, twist, chirality
+concepts:
+- δ
+- Ω
+- →
+aliases:
+- Bk541gt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 60.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

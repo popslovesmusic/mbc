@@ -1,14 +1,41 @@
+id: GEN9-9185
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::9-conclusion-matter-as-a-δ-harmonic-phenomenon::2-p-block-groups-1318-χ-sweeps-to-negative-extremals::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2418-2445
+heading: '**2\) p-block (Groups 13–18): χ sweeps to negative extremals**'
+parent_heading: '**9\. Conclusion: Matter as a δ-Harmonic Phenomenon**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Φ
-- δ
 excerpt: '**Color band:** the right-side gradient that ramps through warm → magenta/purple
   tones. **IGSOA meaning:** p-block orbitals are **dipolar Φ-modes** (first nodal
   asymmetry).'
-heading: '**2\) p-block (Groups 13–18): χ sweeps to negative extremals**'
-id: GEN9-9185
-lines: 2418-2445
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::9-conclusion-matter-as-a-δ-harmonic-phenomenon::2-p-block-groups-1318-χ-sweeps-to-negative-extremals::b1
-parent_heading: '**9\. Conclusion: Matter as a δ-Harmonic Phenomenon**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- →
+- χ
+- Tri-Unity
+- IGSOA
+- Φ
+- Φ-dipole
+- δ
+- δ-pull
+- ∈
+- dipolar Φ-modes
+- right-side
+- toward negative extrema
+- Φ-modes
+- p-block
+- away from equilibrium
+aliases:
+- Bk366cb
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.146341463414634
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

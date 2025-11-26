@@ -1,10 +1,26 @@
+id: GEN8-8800
+location: genesis-8/meta-time-geometry-and-temporal-projection::3-the-fractal-recursion-law::universal-recursion-law::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 515-517
+heading: '**Universal Recursion Law**'
+parent_heading: '**3\. THE FRACTAL RECURSION LAW**'
 block_type: paragraph
+excerpt: δn+1=T(δn)\\delta\_{n+1} \= \\mathcal{T}(\\delta\_n)δn+1​=T(δn​)
 concepts:
 - δ
-excerpt: δn+1=T(δn)\\delta\_{n+1} \= \\mathcal{T}(\\delta\_n)δn+1​=T(δn​)
-heading: '**Universal Recursion Law**'
-id: GEN8-8800
-lines: 515-517
-location: genesis-8/meta-time-geometry-and-temporal-projection::3-the-fractal-recursion-law::universal-recursion-law::b1
-parent_heading: '**3\. THE FRACTAL RECURSION LAW**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+- δn
+aliases:
+- Bk810dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

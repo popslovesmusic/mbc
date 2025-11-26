@@ -1,15 +1,33 @@
+id: GEN14-2692
+location: genesis-14/inflation-structure-formation::proof-2-igsoa-only-φ-mode-freeze-out-from-δ-harmonic-expansion::proof::1-δ-harmonic-evolution-under-exponential-expansion::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 668-679
+heading: '**1\. δ-Harmonic Evolution Under Exponential Expansion**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Π
-- α
-- δ
-- λ
 excerpt: 'Under δ→Π exponential expansion with a(t)=eαta(t)=e^{\\alpha t}a(t)=eαt
   and α=λ+\\alpha=\\sqrt{\\lambda\_+}α=λ+​​: adjacency lengths scale as ∣A(t)∣=eαt ∣A(0)∣.|A(t)|
   \= e^{\\alpha t}\\, |A(0)|.∣A(t)∣...'
-heading: '**1\. δ-Harmonic Evolution Under Exponential Expansion**'
-id: GEN14-2692
-lines: 668-679
-location: genesis-14/inflation-structure-formation::proof-2-igsoa-only-φ-mode-freeze-out-from-δ-harmonic-expansion::proof::1-δ-harmonic-evolution-under-exponential-expansion::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- α
+- adjacency-wavenumber
+- λ
+- δ
+- δ-harmonic
+- →
+- Π
+aliases:
+- Bk966ue
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.433734939759036
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

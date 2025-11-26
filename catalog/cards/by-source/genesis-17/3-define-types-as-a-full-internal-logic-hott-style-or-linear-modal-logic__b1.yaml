@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts:
-- Box
-excerpt: 'Right now, types correspond to: * semantic kinds * Box boundaries'
-heading: ⭐ 3\. Define Types as a Full Internal Logic (HoTT-style or Linear Modal Logic)
 id: GEN17-4596
-lines: 7111-7126
 location: genesis-17/box-calculus::3-define-types-as-a-full-internal-logic-hott-style-or-linear-modal-logic::b1
 source: genesis-17\box_calculus.md
+lines: 7111-7126
+heading: ⭐ 3\. Define Types as a Full Internal Logic (HoTT-style or Linear Modal Logic)
+block_type: paragraph
+excerpt: 'Right now, types correspond to: * semantic kinds * Box boundaries'
+concepts:
+- Box
+aliases:
+- Bk496rn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.8461538461538463
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

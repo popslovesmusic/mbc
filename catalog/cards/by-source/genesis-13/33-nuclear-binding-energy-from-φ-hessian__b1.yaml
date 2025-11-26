@@ -1,13 +1,29 @@
+id: GEN13-2041
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-the-physical-nuclear-regime::33-nuclear-binding-energy-from-φ-hessian::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 520-540
+heading: '**3.3 Nuclear Binding Energy from Φ-Hessian**'
+parent_heading: '**3\. Π-Layer: The Physical Nuclear Regime**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Define: B(A,Z)=−Π ⁣\[Hessδ(Φ)\]B(A,Z) \= \-\\Pi\\\!\\left\[\\mathrm{Hess}\_\\delta(\\Phi)\\right\]B(A,Z)=−Π\[Hessδ​(Φ)\]
   Recover:'
-heading: '**3.3 Nuclear Binding Energy from Φ-Hessian**'
-id: GEN13-2041
-lines: 520-540
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-the-physical-nuclear-regime::33-nuclear-binding-energy-from-φ-hessian::b1
-parent_heading: '**3\. Π-Layer: The Physical Nuclear Regime**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Π
+- δ
+- Φ
+- drip-line
+aliases:
+- Bk492dl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.256410256410255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

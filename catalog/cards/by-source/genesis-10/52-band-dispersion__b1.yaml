@@ -1,15 +1,32 @@
+id: GEN10-689
+location: genesis-10/how-stillness-becomes-solid::5-band-structure-emerges::52-band-dispersion::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 273-287
+heading: '**5.2 Band Dispersion**'
+parent_heading: '**5\. Band Structure Emerges**'
 block_type: paragraph
-concepts:
-- bands
-- Π
-- Φ
-- δ
-- λ
 excerpt: 'Varying kkk yields continuous curves: En(k)for fixed n.E\_n(k) \\quad\\text{for
   fixed } n.En​(k)for fixed n. These are **bands** in condensed matter terms.'
-heading: '**5.2 Band Dispersion**'
-id: GEN10-689
-lines: 273-287
-location: genesis-10/how-stillness-becomes-solid::5-band-structure-emerges::52-band-dispersion::b1
-parent_heading: '**5\. Band Structure Emerges**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- λ
+- δ-harmonic
+- Π-momentum
+- Π
+- δ
+- Φ
+- bands
+aliases:
+- Bk946vk
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

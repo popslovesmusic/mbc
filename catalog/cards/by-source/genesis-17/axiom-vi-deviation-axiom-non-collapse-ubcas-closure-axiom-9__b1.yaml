@@ -1,15 +1,30 @@
+id: GEN17-4289
+location: genesis-17/box-calculus::2-axiom-set-structure::axiom-vi-deviation-axiom-non-collapse-ubcas-closure-axiom-9::b1
+source: genesis-17\box_calculus.md
+lines: 2146-2152
+heading: Axiom VI (Deviation Axiom / Non-Collapse) — UBCAS ↔ Closure Axiom 9
+parent_heading: 2\. Axiom Set Structure
 block_type: table
+excerpt: '---'
 concepts:
 - Axiom
 - Box
-- Closure Axiom
-- Closure Axiom Box
 - Σ
+- Closure Axiom
+- ≠
 - η
-excerpt: '---'
-heading: Axiom VI (Deviation Axiom / Non-Collapse) — UBCAS ↔ Closure Axiom 9
-id: GEN17-4289
-lines: 2146-2152
-location: genesis-17/box-calculus::2-axiom-set-structure::axiom-vi-deviation-axiom-non-collapse-ubcas-closure-axiom-9::b1
-parent_heading: 2\. Axiom Set Structure
-source: genesis-17\box_calculus.md
+- Closure Axiom Box
+aliases:
+- Bk581uc
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.434782608695656
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

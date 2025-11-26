@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'These six encode: * fine structure of curvature * local adjacency anomalies'
-heading: '**B. 6 Curvature Modes → Local Geometry \+ Flavor-Like Structure**'
 id: GEN6-8360
-lines: 1458-1472
 location: genesis-6/spectral-triple-axiom-box-sealed-version::4-physical-interpretation-clear-precise::b-6-curvature-modes-local-geometry-flavor-like-structure::b1
-parent_heading: '**4\. Physical Interpretation (Clear & Precise)**'
 source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1458-1472
+heading: '**B. 6 Curvature Modes → Local Geometry \+ Flavor-Like Structure**'
+parent_heading: '**4\. Physical Interpretation (Clear & Precise)**'
+block_type: paragraph
+excerpt: 'These six encode: * fine structure of curvature * local adjacency anomalies'
+concepts:
+- explain why geometry supports multiple effective interactions
+- small-scale
+- δ-boson
+- δ
+aliases:
+- Bk424ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

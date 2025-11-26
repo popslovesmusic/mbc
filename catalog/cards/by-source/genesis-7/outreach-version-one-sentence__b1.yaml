@@ -1,17 +1,41 @@
+id: GEN7-8653
+location: genesis-7/why-curvature-gives-gravity::outreach-version-one-sentence::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 488-498
+heading: '**◼ OUTREACH VERSION (one sentence)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Einstein Axiom Box
-- Meta-Einstein
-- Tri-Unity
-- Φ
-- δ
 excerpt: '**Deviation warps adjacency, the warp becomes curvature, curvature must
   balance δ-energy, and that balance is the Meta-Einstein equation.** --- If you''d
   like, I can now generate:'
-heading: '**◼ OUTREACH VERSION (one sentence)**'
-id: GEN7-8653
-lines: 488-498
-location: genesis-7/why-curvature-gives-gravity::outreach-version-one-sentence::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- Meta-Einstein
+- Tri-Unity
+- Deviation
+- δ
+- Axiom
+- Meta-Einstein Axiom Box
+- Theorem
+- Box
+- Tri-Unity version
+- δ-EFT Lagrangian
+- δ-Spectral
+- δ-energy
+- π
+- Φ
+- →
+aliases:
+- Bk590dw
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.310344827586203
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

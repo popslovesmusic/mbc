@@ -1,15 +1,29 @@
+id: GEN15-3373
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-δ-φ-inflation-δ-higgs-projection::formal-projection::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 38-52
+heading: '**Formal Projection**'
+parent_heading: '**1\. δ → Φ: Inflation / δ-Higgs Projection**'
 block_type: paragraph
-concepts:
-- amplifier
-- projector
-- smoother
-- Φ
-- δ
 excerpt: 'δ→  Φ  Φ(δ)\\delta \\xrightarrow{\\;\\Phi\\;} \\Phi(\\delta)δΦ​Φ(δ) where
   Φ acts as: * a *smoother* (Weitzenböck-style transport)'
-heading: '**Formal Projection**'
-id: GEN15-3373
-lines: 38-52
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-δ-φ-inflation-δ-higgs-projection::formal-projection::b1
-parent_heading: '**1\. δ → Φ: Inflation / δ-Higgs Projection**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- Φ
+- δ
+- mode-preserving
+- →
+aliases:
+- Bk475dx
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

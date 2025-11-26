@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Linear Logic
-- δ
-excerpt: 'Linear Logic’s exponential \! has rules: * Dereliction: from \!A, obtain
-  A * Weakening: ignore \!A'
-heading: ⭐ 4\. δ-curvature AS THE \!-MODALITY
 id: GEN17-4544
-lines: 6282-6292
 location: genesis-17/box-calculus::4-δ-curvature-as-the-modality::b1
 source: genesis-17\box_calculus.md
+lines: 6282-6292
+heading: ⭐ 4\. δ-curvature AS THE \!-MODALITY
+block_type: paragraph
+excerpt: 'Linear Logic’s exponential \! has rules: * Dereliction: from \!A, obtain
+  A * Weakening: ignore \!A'
+concepts:
+- δ-curvature
+- δ
+- Linear Logic
+aliases:
+- Bk762ll
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

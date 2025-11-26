@@ -1,13 +1,32 @@
+id: GEN10-914
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-spectral-entropy-as-an-invariant-of-δ-geometry::2-igsoa-entropy-log-multiplicity::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2751-2765
+heading: '**2\. IGSOA entropy (log-multiplicity):**'
+parent_heading: '**4\. Spectral Entropy as an Invariant of δ-Geometry**'
 block_type: paragraph
-concepts:
-- Λ
-- δ
 excerpt: 'S(t)=log⁡Nδ(Λ,t).S(t) \= \\log N\_\\delta(\\Lambda,t).S(t)=logNδ​(Λ,t).
   Because curvature expands the spectrum: Nδ(Λ,t+Δt)≥Nδ(Λ,t),N\_\\delta(\\Lambda,
   t+Δt) \\ge N\_\\delta(\\Lambda, t),Nδ​(Λ,t+Δt)≥N...'
-heading: '**2\. IGSOA entropy (log-multiplicity):**'
-id: GEN10-914
-lines: 2751-2765
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-spectral-entropy-as-an-invariant-of-δ-geometry::2-igsoa-entropy-log-multiplicity::b1
-parent_heading: '**4\. Spectral Entropy as an Invariant of δ-Geometry**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Λ
+- δ
+- Δ
+- ≥
+- Theorem
+- thermal arrow
+aliases:
+- Bk356ll
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

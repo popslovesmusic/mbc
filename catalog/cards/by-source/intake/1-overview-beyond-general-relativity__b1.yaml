@@ -1,19 +1,37 @@
+id: INTK-10210
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::1-overview-beyond-general-relativity::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 13-25
+heading: '**1. Overview: Beyond General Relativity**'
 block_type: paragraph
-concepts:
-- Einstein Equation
-- Gauge Meta
-- General Relativity
-- Higher-Gauge
-- Meta-Einstein
-- Meta-Geometry
-- Meta-Metric
-- The Higher
-- δ
 excerpt: General Relativity (GR) describes gravity as the curvature of spacetime.
   Gauge theories describe fundamental forces (electromagnetic, weak, strong) as symmetries
   of fields. The Higher-Gauge Meta-Einst...
-heading: '**1. Overview: Beyond General Relativity**'
-id: INTK-10210
-lines: 13-25
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::1-overview-beyond-general-relativity::b1
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Einstein
+- deviation-curvature
+- δ
+- HGM-EE
+- stress-energy
+- Meta-Geometry
+- Higher-Gauge
+- Meta-Metric
+- General Relativity
+- Einstein Equation
+- The Higher
+- Gauge Meta
+aliases:
+- Bk147gr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.631578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

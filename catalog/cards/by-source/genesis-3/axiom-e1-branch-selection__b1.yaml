@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: π selects a unique realized branch of each Φ-pattern.
-heading: '**Axiom E1 — Branch Selection**'
 id: GEN3-7544
-lines: 861-863
 location: genesis-3/the-tri-unity-theorem::emergence-of-classical-physics-π-box::axiom-e1-branch-selection::b1
-parent_heading: '**▣ Emergence of Classical Physics (π-Box)**'
 source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 861-863
+heading: '**Axiom E1 — Branch Selection**'
+parent_heading: '**▣ Emergence of Classical Physics (π-Box)**'
+block_type: paragraph
+excerpt: π selects a unique realized branch of each Φ-pattern.
+concepts:
+- Φ-pattern
+- π
+- Φ
+aliases:
+- Bk791su
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

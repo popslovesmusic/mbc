@@ -1,12 +1,31 @@
+id: GEN14-2718
+location: genesis-14/inflation-structure-formation::qed::b4
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1088-1096
+heading: '**Q.E.D.**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Curvature variance in Π is exactly the δ-harmonic amplitude: Var\[κn\]=∣hn∣2.\\mathrm{Var}\[\\kappa\_n\]
   \= |h\_n|^2.Var\[κn​\]=∣hn​∣2. This is the IGSOA analogue of the primordial curvature
   spectrum.'
-heading: '**Q.E.D.**'
-id: GEN14-2718
-lines: 1088-1096
-location: genesis-14/inflation-structure-formation::qed::b4
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- Curvature
+- IGSOA
+- κ
+- δ-harmonic
+- Π
+- δ
+aliases:
+- Bk746cv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

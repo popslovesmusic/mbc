@@ -1,12 +1,27 @@
+id: GEN17-4511
+location: genesis-17/box-calculus::4-the-heart-of-the-equivalence::41-λ-box-λ-gives-the-same-λ-term::for-application::b1
+source: genesis-17\box_calculus.md
+lines: 5821-5830
+heading: 'For application:'
+parent_heading: 4.1 λ → Box → λ gives the same λ-term
 block_type: paragraph
+excerpt: 'Λ(T(MN))=Λ(eval(T(M),T(N)))=Λ(T(M))Λ(T(N))=MN Λ(T(MN))=Λ(eval(T(M),T(N)))=Λ(T(M))Λ(T(N))=MN
+  Thus:'
 concepts:
 - Λ
 - λ
-excerpt: 'Λ(T(MN))=Λ(eval(T(M),T(N)))=Λ(T(M))Λ(T(N))=MN Λ(T(MN))=Λ(eval(T(M),T(N)))=Λ(T(M))Λ(T(N))=MN
-  Thus:'
-heading: 'For application:'
-id: GEN17-4511
-lines: 5821-5830
-location: genesis-17/box-calculus::4-the-heart-of-the-equivalence::41-λ-box-λ-gives-the-same-λ-term::for-application::b1
-parent_heading: 4.1 λ → Box → λ gives the same λ-term
-source: genesis-17\box_calculus.md
+aliases:
+- Bk842ee
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

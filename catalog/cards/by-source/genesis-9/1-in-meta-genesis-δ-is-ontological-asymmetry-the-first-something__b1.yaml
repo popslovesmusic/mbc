@@ -1,14 +1,27 @@
-block_type: paragraph
-concepts:
-- In Genesis
-- meta-ontological
-- necessity
-- Ψ
-- δ
-excerpt: 'In Genesis, δ is the only thing that can act on Ψ₀: * Ψ₀ has no time * Ψ₀
-  has no operators'
-heading: '**1\. In Meta-Genesis: δ is Ontological Asymmetry (The First Something)**'
 id: GEN9-9225
-lines: 288-311
 location: genesis-9/does-meta-genesis-indicate-new-physics::1-in-meta-genesis-δ-is-ontological-asymmetry-the-first-something::b1
 source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 288-311
+heading: '**1\. In Meta-Genesis: δ is Ontological Asymmetry (The First Something)**'
+block_type: paragraph
+excerpt: 'In Genesis, δ is the only thing that can act on Ψ₀: * Ψ₀ has no time * Ψ₀
+  has no operators'
+concepts:
+- Ψ
+- Ψ₀
+- δ
+- meta-ontological
+- birth of asymmetry
+- In Genesis
+aliases:
+- Bk464gt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.4074074074074066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

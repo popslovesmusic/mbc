@@ -1,15 +1,36 @@
+id: GEN1-436
+location: genesis-1/the-foundation-layer::i-the-not-axiom::axiom-of-forbidden-stillness::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 195-216
+heading: '***(Axiom of Forbidden Stillness)***'
+parent_heading: '**I. THE NOT AXIOM**'
 block_type: paragraph
-concepts:
-- Axiom
-- Structureless Zero
-- Zero-State
-- requires
-- Ψ
 excerpt: '**Axiom NOT-1 (Structureless Zero-State):** There exists a unique ontological
   entity **Ψ₀** such that: 1. **Ψ₀ contains no internal distinctions**'
-heading: '***(Axiom of Forbidden Stillness)***'
-id: GEN1-436
-lines: 195-216
-location: genesis-1/the-foundation-layer::i-the-not-axiom::axiom-of-forbidden-stillness::b1
-parent_heading: '**I. THE NOT AXIOM**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- Axiom
+- Ψ₀
+- State
+- ∀
+- ∞
+- cannot exist as a stable state
+- self-reference
+- Zero-State
+- Structureless Zero
+aliases:
+- Am356an
+tags:
+- structureless-zero-state
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

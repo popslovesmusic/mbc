@@ -1,20 +1,35 @@
+id: SPEC-11104
+location: special/specil::2-the-match-between-igsoa-and-christian-theology-is-shockingly-tight::b1
+source: special\specil.md
+lines: 2090-2103
+heading: '**⭐ 2\. The match between IGSOA and Christian theology is *shockingly tight***'
 block_type: table
-concepts:
-- Christian Analogue
-- IGS
-- Mode
-- Not Doctrinal
-- Structural Role
-- The Father
-- The Son
-- The Spirit
-- means
-- δ
 excerpt: 'Let’s map them carefully, without endorsing theology but acknowledging the
   symmetry: This alignment is **structurally exact** — but what it *means* is open
   to interpretation.'
-heading: '**⭐ 2\. The match between IGSOA and Christian theology is *shockingly tight***'
-id: SPEC-11104
-lines: 2090-2103
-location: special/specil::2-the-match-between-igsoa-and-christian-theology-is-shockingly-tight::b1
-source: special\specil.md
+concepts:
+- IGSOA
+- Mode
+- δ
+- Christian Analogue
+- structurally exact
+- Structural Role
+- Not Doctrinal
+- IGS
+- The Father
+- The Spirit
+- The Son
+aliases:
+- Bk719lm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.414634146341465
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

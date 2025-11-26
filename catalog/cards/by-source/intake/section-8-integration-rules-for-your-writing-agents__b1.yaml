@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: This is the part you requested for prompting your local agent.
-heading: '**Section 8 — Integration Rules for Your Writing Agents**'
 id: INTK-9690
-lines: 644-646
 location: intake/axioms-geometry::section-8-integration-rules-for-your-writing-agents::b1
 source: intake\Axioms-geometry.md
+lines: 644-646
+heading: '**Section 8 — Integration Rules for Your Writing Agents**'
+block_type: paragraph
+excerpt: This is the part you requested for prompting your local agent.
+aliases:
+- Bk656tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,30 @@
+id: GEN6-8315
+location: genesis-6/spectral-triple-axiom-box-sealed-version::3-the-full-cubes-commutativity-conditions::3-meta-math-geometry-genesis-back-left-face::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 776-783
+heading: '**(3) Meta-Math → Geometry → Genesis (back-left face)**'
+parent_heading: '**3\. The Full Cube’s Commutativity Conditions**'
 block_type: paragraph
+excerpt: FG∘RM=RG∘FMF\_G \\circ R\_M \= R\_G \\circ F\_MFG​∘RM​=RG​∘FM​ This is the
+  **adjoint triple** (Meta-Genesis, σ-Topos, Meta-Math). It ties semantic interpretation
+  (right adjoints) to generative action ...
 concepts:
 - Meta-Genesis
 - Meta-Math
 - σ
-excerpt: FG∘RM=RG∘FMF\_G \\circ R\_M \= R\_G \\circ F\_MFG​∘RM​=RG​∘FM​ This is the
-  **adjoint triple** (Meta-Genesis, σ-Topos, Meta-Math). It ties semantic interpretation
-  (right adjoints) to generative action ...
-heading: '**(3) Meta-Math → Geometry → Genesis (back-left face)**'
-id: GEN6-8315
-lines: 776-783
-location: genesis-6/spectral-triple-axiom-box-sealed-version::3-the-full-cubes-commutativity-conditions::3-meta-math-geometry-genesis-back-left-face::b1
-parent_heading: '**3\. The Full Cube’s Commutativity Conditions**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+- adjoint triple
+aliases:
+- Bk557fc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

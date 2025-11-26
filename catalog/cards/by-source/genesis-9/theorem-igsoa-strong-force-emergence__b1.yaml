@@ -1,14 +1,38 @@
+id: GEN9-9437
+location: genesis-9/strong-force::the-resulting-strong-force-emergence-theorem::theorem-igsoa-strong-force-emergence::b1
+source: genesis-9\strong-force.md
+lines: 51-76
+heading: '**Theorem (IGSOA Strong Force Emergence).**'
+parent_heading: '**The Resulting “Strong Force Emergence Theorem”**'
 block_type: paragraph
-concepts:
-- δ
-- μ
-- ν
 excerpt: 'If the δ-curvature spectrum contains a **minimal triplet degeneracy class**
   (a “3-shell”), then: Holonomy(δ-connection on χ)  =  SU(3),\\mathrm{Holonomy}(\\delta\\text{-connection
   on }\\chi) \\;=\\; S...'
-heading: '**Theorem (IGSOA Strong Force Emergence).**'
-id: GEN9-9437
-lines: 51-76
-location: genesis-9/strong-force::the-resulting-strong-force-emergence-theorem::theorem-igsoa-strong-force-emergence::b1
-parent_heading: '**The Resulting “Strong Force Emergence Theorem”**'
-source: genesis-9\strong-force.md
+concepts:
+- ν
+- μ
+- the confinement condition arises from δ-convexity of the harmonic well
+- δ
+- χ
+- IGSOA
+- ∂
+- δ-connection
+- δ-convexity
+- minimal triplet degeneracy class
+- strong-force
+- δ-curvature
+- δ-harmonic
+aliases:
+- Bk044tc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

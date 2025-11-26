@@ -1,14 +1,36 @@
+id: GEN17-5065
+location: genesis-17/mbc-schema-3::8-the-master-functor-chain::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 776-786
+heading: '**8\. The Master Functor Chain**'
 block_type: paragraph
-concepts:
-- Box
-- Π
-- Φ
-- δ
 excerpt: IGSOA→δD→ΦD→ΠB→OCIGSOA \\xrightarrow{\\delta} \\mathcal{D} \\xrightarrow{\\Phi}
   \\mathcal{D} \\xrightarrow{\\Pi} \\mathcal{B} \\xrightarrow{O} \\mathcal{C}IGSOAδ​DΦ​DΠ​BO​C
   In simplified physical form...
-heading: '**8\. The Master Functor Chain**'
-id: GEN17-5065
-lines: 776-786
-location: genesis-17/mbc-schema-3::8-the-master-functor-chain::b1
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- IGSOA
+- →
+- Π
+- Box
+- δ
+- Φ
+- ΠB
+- ΠCausal
+- ΠBox
+- ΦD
+- δD
+aliases:
+- Bk635io
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.37037037037037
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

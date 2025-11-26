@@ -1,12 +1,32 @@
+id: GEN10-836
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::7-final-sealed-proof-statement::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1420-1424
+heading: '**7\. Final Sealed Proof Statement**'
 block_type: paragraph
-concepts:
-- The Second Law
-- η
 excerpt: The Second Law follows from functoriality:F:𝒢 ⁣→ ⁣𝒜 introduces curvature;
   G:𝒜 ⁣→ ⁣𝓜 expands modes;H:𝓜 ⁣→ ⁣H proliferates histories.∃η:Id𝓜⇒D with D=G ⁣∘ ⁣F.ηX:X→D(X)
   is order-increasing (dim⁡X≤dim⁡D(X)...
-heading: '**7\. Final Sealed Proof Statement**'
-id: GEN10-836
-lines: 1420-1424
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::7-final-sealed-proof-statement::b1
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- →
+- η
+- ≤
+- order-increasing
+- The Second Law
+- ∃
+- ≥
+aliases:
+- Bk771ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.5897435897435894
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

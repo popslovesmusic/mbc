@@ -1,17 +1,46 @@
+id: GEN6-8254
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::6-why-pmns-is-large-but-ckm-is-small::same-mechanism-different-δ-stiffness::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 631-649
+heading: '***Same mechanism, different δ-stiffness***'
+parent_heading: '**6\) Why PMNS is large but CKM is small**'
 block_type: paragraph
-concepts:
-- Neutrinos
-- Quarks
-- α
-- β
-- δ
-- ν
 excerpt: The mixing angles scale like θαβ(f)∼∣δMαβ(f)∣∣mβ(f)−mα(f)∣.(A1)\\theta\_{\\alpha\\beta}^{(f)}
   \\sim \\frac{|\\delta\\mathcal{M}^{(f)}\_{\\alpha\\beta}|} {|m^{(f)}\_\\beta \-
   m^{(f)}\_\\alpha|}. \\tag{...
-heading: '***Same mechanism, different δ-stiffness***'
-id: GEN6-8254
-lines: 631-649
-location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::6-why-pmns-is-large-but-ckm-is-small::same-mechanism-different-δ-stiffness::b1
-parent_heading: '**6\) Why PMNS is large but CKM is small**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- β
+- α
+- δ
+- →
+- species-dependent
+- ν
+- θ
+- near-degeneracy
+- δ-stiffness
+- δ-Higgs
+- δM
+- small angles
+- large angles
+- Neutrinos
+- Quarks
+aliases:
+- Bk001a
+tags:
+- A2
+- A1
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1
+- A2

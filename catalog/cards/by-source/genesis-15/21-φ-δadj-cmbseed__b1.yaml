@@ -1,13 +1,30 @@
+id: GEN15-3393
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-functors-representing-each-physical-stage::21-φ-δadj-cmbseed::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 289-293
+heading: '**2.1 Φ : δAdj → CMBSeed**'
+parent_heading: '**2\. Functors Representing Each Physical Stage**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'The inflationary δ-Higgs projection that maps adjacency defects to curvature
   seeds: Φ(Δ)=primordial spectrum encoded by Δ\\Phi(\\Delta) \= \\text{primordial\\
   spectrum\\ encoded\\ by\\ } \\DeltaΦ(Δ)=p...'
-heading: '**2.1 Φ : δAdj → CMBSeed**'
-id: GEN15-3393
-lines: 289-293
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-functors-representing-each-physical-stage::21-φ-δadj-cmbseed::b1
-parent_heading: '**2\. Functors Representing Each Physical Stage**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- Δ
+- Φ
+- δ-Higgs
+- δ
+aliases:
+- Bk346ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,29 @@
+id: GEN5-8158
+location: genesis-5/the-ga-8-meta-einstein-theorem::zero-state-universe-minimal-derivation-flow::7-deviational-curvature::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 393-401
+heading: '**7\. Deviational Curvature**'
+parent_heading: '**ZERO STATE → UNIVERSE (MINIMAL DERIVATION FLOW)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Deviation induces second-order structure: g1⇒Rδ(g1).g\_1 \\Rightarrow R\_\\delta(g\_1).g1​⇒Rδ​(g1​).
   This is the δ-curvature tensor.'
-heading: '**7\. Deviational Curvature**'
-id: GEN5-8158
-lines: 393-401
-location: genesis-5/the-ga-8-meta-einstein-theorem::zero-state-universe-minimal-derivation-flow::7-deviational-curvature::b1
-parent_heading: '**ZERO STATE → UNIVERSE (MINIMAL DERIVATION FLOW)**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- Deviation
+- δ
+- second-order
+- δ-curvature
+aliases:
+- Bk567di
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,28 @@
+id: GEN14-2838
+location: genesis-14/meta-math-and-cryptography::9-conclusions-and-implications::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 732-756
+heading: '**9\. Conclusions and Implications**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- deviation
-- δ
 excerpt: 'Viewing cryptography through Meta-Math projection theory yields: * A unification
   of all cryptographic mechanisms * A deeper explanation of why one-way functions
   exist'
-heading: '**9\. Conclusions and Implications**'
-id: GEN14-2838
-lines: 732-756
-location: genesis-14/meta-math-and-cryptography::9-conclusions-and-implications::b1
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Meta-Math
+- one-way
+- δ
+- deviation
+aliases:
+- Bk052vc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.040404040404041
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

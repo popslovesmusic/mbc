@@ -1,12 +1,40 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'This writes each proof in **two parallel columns**: Left column: **IGSOA
-  formal algebra** Right column: “What this corresponds to” in standard cosmology:'
-heading: '**Option B — Hybrid Formalism (IGSOA ↔ Standard Physics Translator)**'
 id: GEN14-2670
-lines: 341-364
 location: genesis-14/inflation-structure-formation::option-b-hybrid-formalism-igsoa-standard-physics-translator::b1
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 341-364
+heading: '**Option B — Hybrid Formalism (IGSOA ↔ Standard Physics Translator)**'
+block_type: paragraph
+excerpt: 'This writes each proof in **two parallel columns**: Left column: **IGSOA
+  formal algebra** Right column: “What this corresponds to” in standard cosmology:'
+concepts:
+- →
+- IGSOA
+- Proof
+- Π
+- δ
+- Φ
+- Π-projection
+- matter-power
+- δ-curvature
+- Π-stability
+- δ-harmonic
+- slow-roll
+- Φ-freeze
+- Φ-trace
+- χ
+aliases:
+- Bk718tw
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.65753424657534
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

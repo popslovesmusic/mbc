@@ -1,12 +1,30 @@
+id: GEN15-3437
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-from-operad-to-monad-in-categories::interpretation::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 883-894
+heading: '**Interpretation:**'
+parent_heading: '**🔷 1\. From Operad to Monad (in ∞-categories)**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- δ
 excerpt: '**The δ-operad encodes how δ generates structures.** **The δ-monad encodes
   how δ governs their evolution.** The move:'
-heading: '**Interpretation:**'
-id: GEN15-3437
-lines: 883-894
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-from-operad-to-monad-in-categories::interpretation::b1
-parent_heading: '**🔷 1\. From Operad to Monad (in ∞-categories)**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ
+- Meta-Math
+- δ-operad
+- δ-monad
+- →
+aliases:
+- Bk040to
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.82051282051282
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

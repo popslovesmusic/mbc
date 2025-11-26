@@ -1,22 +1,38 @@
+id: GEN20-6591
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::the-box-algebra-composition-theorem-sealed::ii-formal-dual-definition-of-composition::standard-mathlogic-version::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 409-447
+heading: Standard Math/Logic Version
+parent_heading: II. Formal Dual Definition of Composition
 block_type: paragraph
+excerpt: Let B B be the Box Algebra.
 concepts:
-- "Aggregation Distributivity  \n   The"
-- Box
 - Box Algebra
-- Evaluation Idempotency
-- "Interpretation Functoriality  \n   Semantic"
-- Polarity Functoriality
-- "Structure Compatibility  \n   Objects"
-- Θ
+- Polarity
 - Π
 - Σ
+- "Interpretation Functoriality  \n   Semantic"
+- Θ
 - Φ
+- "Structure Compatibility  \n   Objects"
+- "Aggregation Distributivity  \n   The"
+- Box
 - δ
+- Evaluation Idempotency
+- Polarity Functoriality
 - λ
-excerpt: Let B B be the Box Algebra.
-heading: Standard Math/Logic Version
-id: GEN20-6591
-lines: 409-447
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::the-box-algebra-composition-theorem-sealed::ii-formal-dual-definition-of-composition::standard-mathlogic-version::b1
-parent_heading: II. Formal Dual Definition of Composition
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+- Σa
+aliases:
+- Bk890lt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

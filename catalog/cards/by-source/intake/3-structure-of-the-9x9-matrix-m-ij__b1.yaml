@@ -1,10 +1,26 @@
-block_type: table
-concepts:
-- Meta-Vector
-excerpt: The 9x9 matrix `M_IJ` acts on a 9-dimensional **Meta-Vector** whose components
-  are the deviation fields in these nine directions. ``` M_IJ =
-heading: '**3. Structure of the 9x9 Matrix (M_IJ)**'
 id: INTK-10230
-lines: 207-218
 location: intake/volume-ii-metacalculus-metageometry-fractals-summary::3-structure-of-the-9x9-matrix-m-ij::b1
 source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 207-218
+heading: '**3. Structure of the 9x9 Matrix (M_IJ)**'
+block_type: table
+excerpt: The 9x9 matrix `M_IJ` acts on a 9-dimensional **Meta-Vector** whose components
+  are the deviation fields in these nine directions. ``` M_IJ =
+concepts:
+- Meta-Vector
+- coupling or transformation
+aliases:
+- Bk424tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.651162790697675
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

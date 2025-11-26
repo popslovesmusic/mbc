@@ -1,11 +1,27 @@
+id: GEN15-3184
+location: genesis-15/the-mass-curvature-projection-theorem::ⅵ-category-theoretic-interpretation::δ::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1711-1715
+heading: '**δ**'
+parent_heading: '**Ⅵ. Category-Theoretic Interpretation**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'creates a curvature natural transformation: κ:Id⇒δ†δ.\\kappa : \\mathrm{Id}
   \\Rightarrow \\delta^\\dagger\\delta.κ:Id⇒δ†δ.'
-heading: '**δ**'
-id: GEN15-3184
-lines: 1711-1715
-location: genesis-15/the-mass-curvature-projection-theorem::ⅵ-category-theoretic-interpretation::δ::b1
-parent_heading: '**Ⅵ. Category-Theoretic Interpretation**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- κ
+aliases:
+- Bk880cc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

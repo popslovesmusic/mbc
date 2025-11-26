@@ -1,13 +1,28 @@
+id: INTK-9812
+location: intake/meta-genesis-core-papers-foundations::if-you-want-next::you-said::chatgpt-said::b3
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 708-714
+heading: '**ChatGPT said:**'
+parent_heading: '**You said:**'
 block_type: paragraph
-concepts:
-- First Action Exists
-- δ
 excerpt: 'Below is the **one-page, intuitive, outreach-style version** of **“δ: Why
   the First Action Exists.”** Movie-director voice, clean metaphors, simple equations,
   and no loss of conceptual depth.'
-heading: '**ChatGPT said:**'
-id: INTK-9812
-lines: 708-714
-location: intake/meta-genesis-core-papers-foundations::if-you-want-next::you-said::chatgpt-said::b3
-parent_heading: '**You said:**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- outreach-style
+- Movie-director
+- one-page
+- δ
+- First Action Exists
+aliases:
+- Bk279bt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.24137931034483
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

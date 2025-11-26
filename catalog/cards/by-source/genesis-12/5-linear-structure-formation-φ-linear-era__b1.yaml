@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'In the linear regime, structure grows as: δm(k,t)=Π(Φ(δk))=δk eG(k)t.\\delta\_m(k,t)
-  \= \\Pi\\big(\\Phi(\\delta\_k)\\big) \= \\delta\_k\\,e^{G(k)t}.δm​(k,t)=Π(Φ(δk​))=δk​eG(k)t.'
-heading: '**5\. Linear Structure Formation (Φ-Linear Era)**'
 id: GEN12-1803
-lines: 1255-1259
 location: genesis-12/untitled-document::5-linear-structure-formation-φ-linear-era::b1
 source: genesis-12\Untitled_document.md
+lines: 1255-1259
+heading: '**5\. Linear Structure Formation (Φ-Linear Era)**'
+block_type: paragraph
+excerpt: 'In the linear regime, structure grows as: δm(k,t)=Π(Φ(δk))=δk eG(k)t.\\delta\_m(k,t)
+  \= \\Pi\\big(\\Phi(\\delta\_k)\\big) \= \\delta\_k\\,e^{G(k)t}.δm​(k,t)=Π(Φ(δk​))=δk​eG(k)t.'
+concepts:
+- δ
+- δk
+- Π
+- Φ
+- δm
+aliases:
+- Bk740tl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.627906976744185
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

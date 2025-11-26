@@ -1,11 +1,26 @@
+id: GEN0-335
+location: genesis-0/why-the-first-action-is-necessary::4-δ-and-adjacencycurvature-a-h-e-f-operators::energy-scaling-e::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1484-1490
+heading: '**Energy Scaling E:**'
+parent_heading: '**4\. δ and Adjacency/Curvature (A, H, E, F Operators)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: \[E,δ\]=δ\[E, \\delta\] \= \\delta\[E,δ\]=δ δ raises the energy scale by
   one level. ---
-heading: '**Energy Scaling E:**'
-id: GEN0-335
-lines: 1484-1490
-location: genesis-0/why-the-first-action-is-necessary::4-δ-and-adjacencycurvature-a-h-e-f-operators::energy-scaling-e::b1
-parent_heading: '**4\. δ and Adjacency/Curvature (A, H, E, F Operators)**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ
+aliases:
+- Bk173dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

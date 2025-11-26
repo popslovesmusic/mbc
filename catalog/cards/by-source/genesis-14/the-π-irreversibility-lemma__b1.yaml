@@ -1,13 +1,29 @@
+id: GEN14-2836
+location: genesis-14/meta-math-and-cryptography::7-quantum-cryptography-π-as-a-destructive-functor::the-π-irreversibility-lemma::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 695-709
+heading: '**The Π-Irreversibility Lemma:**'
+parent_heading: '**7\. Quantum Cryptography: Π as a Destructive Functor**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Π
-- δ
 excerpt: 'No valid lift exists from Π-collapsed states back to δ-superpositions. Which
   is why: * eavesdropping is detectable'
-heading: '**The Π-Irreversibility Lemma:**'
-id: GEN14-2836
-lines: 695-709
-location: genesis-14/meta-math-and-cryptography::7-quantum-cryptography-π-as-a-destructive-functor::the-π-irreversibility-lemma::b1
-parent_heading: '**7\. Quantum Cryptography: Π as a Destructive Functor**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Meta-Math
+- information-theoretic
+- deviation-projection
+- δ-superpositions
+- Π-collapsed
+- Π
+- δ
+aliases:
+- Bk992vl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.27906976744186
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

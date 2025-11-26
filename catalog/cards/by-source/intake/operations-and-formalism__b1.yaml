@@ -1,10 +1,25 @@
+id: INTK-10537
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::operations-and-formalism::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 2048-2050
+heading: Operations and Formalism
+parent_heading: Meta-Geometry
 block_type: paragraph
+excerpt: 'Meta-Geometry uses the mathematical tools of:'
 concepts:
 - Meta-Geometry
-excerpt: 'Meta-Geometry uses the mathematical tools of:'
-heading: Operations and Formalism
-id: INTK-10537
-lines: 2048-2050
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::operations-and-formalism::b1
-parent_heading: Meta-Geometry
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+aliases:
+- Bk497mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

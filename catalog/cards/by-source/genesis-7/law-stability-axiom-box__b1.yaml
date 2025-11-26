@@ -1,18 +1,36 @@
+id: GEN7-8629
+location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 177-184
+heading: '**Law Stability Axiom Box**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom-Box
-- Box
-- Genesis Axiom Boxes
-- Meta-Einstein
-- Meta-Genesis
-- Tri-Unity
-- δ
 excerpt: '*(Companion to δ-Curvature, Meta-Einstein, NOT, and Genesis Axiom Boxes)*
   This is written in the same Axiom-Box style as your other foundational units. This
   is the version you will cite across δ-EFT, ...'
-heading: '**Law Stability Axiom Box**'
-id: GEN7-8629
-lines: 177-184
-location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- Meta-Einstein
+- Meta-Genesis
+- Tri-Unity
+- Curvature
+- Axiom
+- Box
+- δ
+- δ-Curvature
+- δ-Spectral
+- Axiom-Box
+- δ-EFT
+- Genesis Axiom Boxes
+aliases:
+- Bk654cc
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,10 +1,26 @@
+id: GEN17-4448
+location: genesis-17/box-calculus::::mathematical-polarity-formal-proof::ϵ::b1
+source: genesis-17\box_calculus.md
+lines: 4668-4684
+heading: ϵ
+parent_heading: Mathematical Polarity (Formal Proof)
 block_type: paragraph
+excerpt: A(x,e)→ϵx A(x,e) ϵ
 concepts:
 - η
-excerpt: A(x,e)→ϵx A(x,e) ϵ
-heading: ϵ
-id: GEN17-4448
-lines: 4668-4684
-location: genesis-17/box-calculus::::mathematical-polarity-formal-proof::ϵ::b1
-parent_heading: Mathematical Polarity (Formal Proof)
-source: genesis-17\box_calculus.md
+- →
+aliases:
+- Bk113fi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

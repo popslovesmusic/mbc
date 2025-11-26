@@ -1,12 +1,29 @@
+id: GEN4-7626
+location: genesis-4/meta-physics-axiom-box::ii-the-δ-axiom-deviation-as-necessary-action::axiom-δ3-iteration-generates-structure::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 469-475
+heading: '**Axiom δ.3 — Iteration Generates Structure**'
+parent_heading: '**II. THE δ-AXIOM (Deviation as Necessary Action)**'
 block_type: paragraph
+excerpt: δn(Ψ0),n∈N\\delta^n(\\Psi\_0),\\quad n\\in\\mathbb{N}δn(Ψ0​),n∈N produce
+  all structured states. ---
 concepts:
 - Ψ
 - δ
-excerpt: δn(Ψ0),n∈N\\delta^n(\\Psi\_0),\\quad n\\in\\mathbb{N}δn(Ψ0​),n∈N produce
-  all structured states. ---
-heading: '**Axiom δ.3 — Iteration Generates Structure**'
-id: GEN4-7626
-lines: 469-475
-location: genesis-4/meta-physics-axiom-box::ii-the-δ-axiom-deviation-as-necessary-action::axiom-δ3-iteration-generates-structure::b1
-parent_heading: '**II. THE δ-AXIOM (Deviation as Necessary Action)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+- ∈
+- δn
+aliases:
+- Bk219dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
+id: GEN3-7525
+location: genesis-3/the-tri-unity-theorem::i-conceptual-overview::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 634-641
+heading: '**I. Conceptual Overview**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- after
-- Φ
-- δ
 excerpt: 'Classical physics appears only **after** the final stage of Tri-Unity: G  →
   δ   M  → Φ   M(pattern)  → π   Pphys\\boxed{ \\mathcal{G} \\;\\xrightarrow{\\ \\delta\\
   }\\; \\mathcal{M} \\;\\xrightarrow{\...'
-heading: '**I. Conceptual Overview**'
-id: GEN3-7525
-lines: 634-641
-location: genesis-3/the-tri-unity-theorem::i-conceptual-overview::b1
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Tri-Unity
+- π
+- δ
+- Φ
+- →
+- fixed-point regime
+- fixed-point
+- not fundamental
+- after
+aliases:
+- Bk929cp
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.857142857142856
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

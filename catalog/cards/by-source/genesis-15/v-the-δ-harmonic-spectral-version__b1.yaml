@@ -1,12 +1,37 @@
+id: GEN15-3279
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-the-δ-harmonic-spectral-version::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 381-402
+heading: '**V. The δ-Harmonic / Spectral Version**'
 block_type: paragraph
-concepts:
-- δ
-- ρ
 excerpt: 'In IGSOA, δ-curvature decomposes into harmonics: δCSOI=∑n≥0an δn.\\delta\_{\\mathrm{CSOI}}
   \= \\sum\_{n\\ge 0} a\_n\\,\\delta\_n.δCSOI​=n≥0∑​an​δn​. The CSOI tail corresponds
   to a slowly decaying high...'
-heading: '**V. The δ-Harmonic / Spectral Version**'
-id: GEN15-3279
-lines: 381-402
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-the-δ-harmonic-spectral-version::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- δ
+- IGSOA
+- long-wavelength
+- δ-modes
+- ∑
+- ≥
+- ρ
+- ↔
+- δ-curvature
+- δ-harmonic
+- high-n
+- δCSOI
+- δn
+aliases:
+- Bk490ic
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.403508771929824
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Define when E must stop. This is the “entropy floor” / “granularity” constraint.
-heading: '**Gap B: Expansion Constraint (Halting Law for E)**'
 id: GEN16-3808
-lines: 969-972
 location: genesis-16/untitled-document::next-step::gap-b-expansion-constraint-halting-law-for-e::b1
-parent_heading: '**❓ Next Step**'
 source: genesis-16\Untitled_document.md
+lines: 969-972
+heading: '**Gap B: Expansion Constraint (Halting Law for E)**'
+parent_heading: '**❓ Next Step**'
+block_type: paragraph
+excerpt: Define when E must stop. This is the “entropy floor” / “granularity” constraint.
+aliases:
+- Bk609dw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

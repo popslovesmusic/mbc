@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Router networks execute operations such as:'
-heading: B3.7 Router Networks as Semantic Processors
 id: GEN20-7217
-lines: 7453-7455
 location: genesis-20/mbc-40-documentaitio-1::b37-router-networks-as-semantic-processors::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7453-7455
+heading: B3.7 Router Networks as Semantic Processors
+block_type: paragraph
+excerpt: 'Router networks execute operations such as:'
+concepts:
+- Router
+aliases:
+- Bk168rn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

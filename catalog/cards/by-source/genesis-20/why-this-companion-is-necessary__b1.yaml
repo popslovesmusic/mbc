@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Because MBC goes beyond traditional logic, the router system is the bridge
-  between: * classical logic * semantic reasoning'
-heading: 📘 Why This Companion Is Necessary
 id: GEN20-6744
-lines: 1161-1183
 location: genesis-20/mbc-40-documentaitio-1::why-this-companion-is-necessary::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1161-1183
+heading: 📘 Why This Companion Is Necessary
+block_type: paragraph
+excerpt: 'Because MBC goes beyond traditional logic, the router system is the bridge
+  between: * classical logic * semantic reasoning'
+concepts:
+- MBC
+- machine-learning
+- real-world
+aliases:
+- Bk031bm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.79746835443038
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

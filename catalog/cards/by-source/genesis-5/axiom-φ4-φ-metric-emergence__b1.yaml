@@ -1,12 +1,33 @@
+id: GEN5-8086
+location: genesis-5/meta-einstein-axiom-box-language-sealed::φmeta-einstein-axiom-box-φ-language-sealed::axiom-φ4-φ-metric-emergence::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 56-64
+heading: '**Axiom Φ4 (Φ-Metric Emergence)**'
+parent_heading: '**Φ–Meta-Einstein Axiom Box (Φ-language, sealed)**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'A realized metric (or metric-class) gΦg^{\\Phi}gΦ is not primitive but is
   the **unique Φ-stable inner product** induced from Φ-transport: ∇ΦgΦ=0.\\nabla^{\\Phi}
   g^{\\Phi}=0.∇ΦgΦ=0. Thus Φ defines geom...'
-heading: '**Axiom Φ4 (Φ-Metric Emergence)**'
-id: GEN5-8086
-lines: 56-64
-location: genesis-5/meta-einstein-axiom-box-language-sealed::φmeta-einstein-axiom-box-φ-language-sealed::axiom-φ4-φ-metric-emergence::b1
-parent_heading: '**Φ–Meta-Einstein Axiom Box (Φ-language, sealed)**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Φ
+- unique Φ-stable inner product
+- ∇
+- metric-class
+- Φ-transport
+- vice-versa
+- Φ-stable
+- Φg
+aliases:
+- Bk782rm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

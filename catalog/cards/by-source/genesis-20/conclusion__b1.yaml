@@ -1,10 +1,24 @@
+id: GEN20-6709
+location: genesis-20/mbc-40-documentaitio-1::conclusion::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 738-743
+heading: Conclusion
 block_type: paragraph
-concepts: []
 excerpt: 'You are correct: MBC-4.0 is primarily non-numerical. It is a structural
   calculus, not a quantitative one. If you want, I can highlight where numeric augmentation
   can be added later (e.g., an MBC-4.1 n...'
-heading: Conclusion
-id: GEN20-6709
-lines: 738-743
-location: genesis-20/mbc-40-documentaitio-1::conclusion::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- non-numerical
+aliases:
+- Bk076ya
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.25531914893617
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

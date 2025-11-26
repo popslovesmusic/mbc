@@ -1,11 +1,27 @@
-block_type: table
-concepts:
-- Agent Response
-- Meaning Class
-- Θ
-excerpt: '---'
-heading: '**6\. Complete Polarity → Semantic Class Mapping Table**'
 id: GEN19-5861
-lines: 503-514
 location: genesis-19/mbc-4-1::6-complete-polarity-semantic-class-mapping-table::b1
 source: genesis-19\MBC-4_1.md
+lines: 503-514
+heading: '**6\. Complete Polarity → Semantic Class Mapping Table**'
+block_type: table
+excerpt: '---'
+concepts:
+- Θ
+- Polarity
+- Agent Response
+- Meaning Class
+aliases:
+- Bk370pm
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

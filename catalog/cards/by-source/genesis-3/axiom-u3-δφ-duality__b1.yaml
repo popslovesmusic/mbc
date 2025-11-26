@@ -1,13 +1,28 @@
+id: GEN3-7581
+location: genesis-3/the-tri-unity-theorem::iii-δφ-unity-axioms::axiom-u3-δφ-duality::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1315-1332
+heading: '**Axiom U3 — δ–Φ Duality**'
+parent_heading: '**III. δ–Φ Unity Axioms**'
 block_type: paragraph
+excerpt: 'δ generates **action**, Φ generates **form**. Together they define: * geometry'
 concepts:
+- δ
+- Φ
 - action
 - form
-- Φ
-- δ
-excerpt: 'δ generates **action**, Φ generates **form**. Together they define: * geometry'
-heading: '**Axiom U3 — δ–Φ Duality**'
-id: GEN3-7581
-lines: 1315-1332
-location: genesis-3/the-tri-unity-theorem::iii-δφ-unity-axioms::axiom-u3-δφ-duality::b1
-parent_heading: '**III. δ–Φ Unity Axioms**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+aliases:
+- Bk992ga
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

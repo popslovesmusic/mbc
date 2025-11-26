@@ -1,18 +1,37 @@
+id: INTK-10434
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::the-meta-math-unified-field-equation-mm-ufe::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1448-1462
+heading: The Meta-Math Unified Field Equation (MM-UFE)
+parent_heading: Meta-Differential Equations (Meta-PDEs)
 block_type: paragraph
+excerpt: 'The most comprehensive Meta-PDE is the MM-UFE, which governs the entire
+  Meta-Deviation Field Ψ: ```latex \boxed{'
 concepts:
-- Deviation Field
+- Deviation
+- Ψ
 - Field
+- ∇
 - Meta-Deviation
 - Meta-Geometry
 - Meta-Metric
-- Metric Laplacian
+- Meta-PDE
 - Λ
-- Ψ
-excerpt: 'The most comprehensive Meta-PDE is the MM-UFE, which governs the entire
-  Meta-Deviation Field Ψ: ```latex \boxed{'
-heading: The Meta-Math Unified Field Equation (MM-UFE)
-id: INTK-10434
-lines: 1448-1462
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::the-meta-math-unified-field-equation-mm-ufe::b1
-parent_heading: Meta-Differential Equations (Meta-PDEs)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+- MM-UFE
+- Metric Laplacian
+- Deviation Field
+aliases:
+- Bk752tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

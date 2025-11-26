@@ -1,16 +1,37 @@
-block_type: paragraph
-concepts:
-- Box
-- "Box  \n   Every"
-- Exponential Boxes
-- Γ
-- Π
-- β
-- λ
-excerpt: 'We prove a bi-directional translation: 1. λ → Box Every λ-term can be represented
-  as a Box network.'
-heading: ⭐ 0\. OVERVIEW OF THE EQUIVALENCE
 id: GEN17-4494
-lines: 5596-5610
 location: genesis-17/box-calculus::0-overview-of-the-equivalence::b1
 source: genesis-17\box_calculus.md
+lines: 5596-5610
+heading: ⭐ 0\. OVERVIEW OF THE EQUIVALENCE
+block_type: paragraph
+excerpt: 'We prove a bi-directional translation: 1. λ → Box Every λ-term can be represented
+  as a Box network.'
+concepts:
+- Box
+- Π-evaluation
+- λ
+- ↔
+- →
+- bi-directional
+- eval-morphism
+- well-formed
+- Π
+- β
+- Γ
+- Exponential Boxes
+- "Box  \n   Every"
+aliases:
+- Bk976pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 22.033898305084744
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

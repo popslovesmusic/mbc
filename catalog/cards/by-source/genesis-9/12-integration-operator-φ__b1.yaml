@@ -1,14 +1,37 @@
+id: GEN9-9292
+location: genesis-9/does-meta-genesis-indicate-new-physics::1-operator-definitions::12-integration-operator-φ::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1230-1251
+heading: '**1.2 Integration Operator Φ̂**'
+parent_heading: '**1\. Operator Definitions**'
 block_type: paragraph
-concepts:
-- Field
-- Φ
-- λ
 excerpt: 'Φ̂ acts as a stabilizer, smoothing or integrating deviation while preserving
   non-zero structure. Field-theoretically: Φ^:Ξ(x)→Ξ(x)−λ G\[Ξ\]Φ̂ : \\Xi(x) \\rightarrow
   \\Xi(x) \- \\lambda\\,G\[\\Xi\]Φ^:Ξ...'
-heading: '**1.2 Integration Operator Φ̂**'
-id: GEN9-9292
-lines: 1230-1251
-location: genesis-9/does-meta-genesis-indicate-new-physics::1-operator-definitions::12-integration-operator-φ::b1
-parent_heading: '**1\. Operator Definitions**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- Ξ
+- Φ
+- Field
+- Field-theoretically
+- ≠
+- Non-annihilating
+- λ
+- →
+- gradient-like
+- flow-like
+- non-zero
+aliases:
+- Bk450as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.924050632911392
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

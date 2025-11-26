@@ -1,14 +1,30 @@
+id: GEN0-166
+location: genesis-0/tri-unity-theorem-equivalence-of::corollaries-the-useful-spells::corollary-2-generator-identity::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 145-153
+heading: '**Corollary 2 (Generator identity)**'
+parent_heading: '**Corollaries (the useful “spells”)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'The “three generators of physics” statement becomes literal: δ  ≡  Φ  ≡  Πas
   generators, differing only by presentation.\\boxed{ \\delta \\;\\equiv\\; \\Phi
   \\;\\equiv\\; \\Pi \\quad\\text{as generato...'
-heading: '**Corollary 2 (Generator identity)**'
-id: GEN0-166
-lines: 145-153
-location: genesis-0/tri-unity-theorem-equivalence-of::corollaries-the-useful-spells::corollary-2-generator-identity::b1
-parent_heading: '**Corollaries (the useful “spells”)**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Π
+- δ
+- Φ
+- Πas
+aliases:
+- Bk872tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

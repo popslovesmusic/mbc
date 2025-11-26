@@ -1,10 +1,25 @@
+id: GEN20-7015
+location: genesis-20/mbc-40-documentaitio-1::conclusion::133-the-core-clusters-of-advanced-topics::cluster-b-statistical-adaptive-behavior::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4440-4459
+heading: Cluster B — Statistical & Adaptive Behavior
+parent_heading: 13.3 The Core Clusters of Advanced Topics
 block_type: paragraph
-concepts: []
 excerpt: 'MBC is not merely symbolic; it can update dynamically: * connector weights
   * polarity values'
-heading: Cluster B — Statistical & Adaptive Behavior
-id: GEN20-7015
-lines: 4440-4459
-location: genesis-20/mbc-40-documentaitio-1::conclusion::133-the-core-clusters-of-advanced-topics::cluster-b-statistical-adaptive-behavior::b1
-parent_heading: 13.3 The Core Clusters of Advanced Topics
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- symbolic-statistical
+- self-updating
+aliases:
+- Bk974mn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.8181818181818175
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

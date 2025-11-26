@@ -1,14 +1,30 @@
+id: GEN10-978
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-vii-unification-of-forces::72-the-weak-force-su2-via-chirality::b1
+source: genesis-10\research_overview.md
+lines: 241-243
+heading: '**7.2 The Weak Force (SU(2)) via Chirality**'
+parent_heading: '**Part VII: Unification of Forces**'
 block_type: paragraph
-concepts:
-- Chirality
-- The Weak Force
-- Weak Force
 excerpt: The Weak Force arises from the **Chirality** (handedness) of the $\\delta$-operator.
   The deviation operator inherently distinguishes "forward" from "backward" (ordering).
   This creates a chiral asymmet...
-heading: '**7.2 The Weak Force (SU(2)) via Chirality**'
-id: GEN10-978
-lines: 241-243
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-vii-unification-of-forces::72-the-weak-force-su2-via-chirality::b1
-parent_heading: '**Part VII: Unification of Forces**'
-source: genesis-10\research_overview.md
+concepts:
+- left-handed
+- Weak Force
+- The Weak Force
+- Chirality
+aliases:
+- Bk358tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

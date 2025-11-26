@@ -1,11 +1,33 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- δ
-excerpt: 'Objects: curvature structures. These include: * adjacency manifolds A\\mathfrak{A}A'
-heading: '**1.2 The Curvature Category (Curv)**'
 id: GEN3-7316
-lines: 640-655
 location: genesis-3/metagenesis::1-the-three-categories::12-the-curvature-category-curv::b1
-parent_heading: '**1\. The Three Categories**'
 source: genesis-3\metagenesis.md
+lines: 640-655
+heading: '**1.2 The Curvature Category (Curv)**'
+parent_heading: '**1\. The Three Categories**'
+block_type: paragraph
+excerpt: 'Objects: curvature structures. These include: * adjacency manifolds A\\mathfrak{A}A'
+concepts:
+- δ
+- Meta-Einstein
+- δ-connection
+- curvature-preserving
+- ∇
+- δ-connections
+- δ-curvature
+- δ-Ricci
+- δR
+aliases:
+- Bk277oc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

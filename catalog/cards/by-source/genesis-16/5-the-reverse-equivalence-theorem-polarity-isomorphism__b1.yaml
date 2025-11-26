@@ -1,12 +1,31 @@
+id: GEN16-3981
+location: genesis-16/untitled-document::5-the-reverse-equivalence-theorem-polarity-isomorphism::b1
+source: genesis-16\Untitled_document.md
+lines: 3016-3038
+heading: '**⭐ 5\. The Reverse Equivalence Theorem (Polarity Isomorphism)**'
 block_type: paragraph
+excerpt: 'We previously had: F:MetaMath→BoxCalcF:\\mathbf{MetaMath}\\to\\mathbf{BoxCalc}F:MetaMath→BoxCalc
+  Now we have:'
 concepts:
 - Box
 - Meta-Math
+- →
+- equality up to polarity choice
+- δ-curved
 - δ
-excerpt: 'We previously had: F:MetaMath→BoxCalcF:\\mathbf{MetaMath}\\to\\mathbf{BoxCalc}F:MetaMath→BoxCalc
-  Now we have:'
-heading: '**⭐ 5\. The Reverse Equivalence Theorem (Polarity Isomorphism)**'
-id: GEN16-3981
-lines: 3016-3038
-location: genesis-16/untitled-document::5-the-reverse-equivalence-theorem-polarity-isomorphism::b1
-source: genesis-16\Untitled_document.md
+- the same theory
+aliases:
+- Bk971ph
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.291666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

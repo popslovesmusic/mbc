@@ -1,10 +1,24 @@
+id: GEN5-8115
+location: genesis-5/meta-einstein-axiom-box-language-sealed::meta-einstein-hermetic-axiom-box::axiom-me-5-hermetic-bianchi-identity::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 414-422
+heading: '**Axiom ME-5 — Hermetic Bianchi Identity**'
+parent_heading: '**▣ META-EINSTEIN HERMETIC AXIOM BOX**'
 block_type: paragraph
-concepts: []
 excerpt: 'Meta-curvature obeys the intrinsic conservation law: ∇ERE=0.\\nabla^{\\mathcal{E}}\\mathcal{R}^{\\mathcal{E}}=0.∇ERE=0.
   This identity is not derivative; it is a required structural condition of hermet...'
-heading: '**Axiom ME-5 — Hermetic Bianchi Identity**'
-id: GEN5-8115
-lines: 414-422
-location: genesis-5/meta-einstein-axiom-box-language-sealed::meta-einstein-hermetic-axiom-box::axiom-me-5-hermetic-bianchi-identity::b1
-parent_heading: '**▣ META-EINSTEIN HERMETIC AXIOM BOX**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- ∇
+- Meta-curvature
+aliases:
+- Bk006mc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

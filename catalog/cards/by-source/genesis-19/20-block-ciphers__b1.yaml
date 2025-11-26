@@ -1,11 +1,32 @@
-block_type: list
-concepts:
-- Box
-- Π
-excerpt: '* Box permutations * Router-weight substitution layers * Nonlinear Π-evaluations'
-heading: ✔ 20\. Block Ciphers
 id: GEN19-6028
-lines: 192-197
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::vii-cryptography-security::20-block-ciphers::b1
-parent_heading: VII. CRYPTOGRAPHY & SECURITY
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 192-197
+heading: ✔ 20\. Block Ciphers
+parent_heading: VII. CRYPTOGRAPHY & SECURITY
+block_type: list
+excerpt: '* Box permutations * Router-weight substitution layers * Nonlinear Π-evaluations'
+concepts:
+- Π-evaluation
+- Router
+- Category-theoretic
+- Box
+- Π-evaluations
+- Router-weight
+- Π
+aliases:
+- Bk023bp
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 53.84615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

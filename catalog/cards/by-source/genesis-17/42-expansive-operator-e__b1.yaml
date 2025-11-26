@@ -1,10 +1,30 @@
+id: GEN17-4168
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::42-expansive-operator-e::b1
+source: genesis-17\box_calculus.md
+lines: 269-279
+heading: 4.2 Expansive Operator E
+parent_heading: 4\. Operator-Specific Transition Rules
 block_type: table
+excerpt: 'Non-commutative with A: E∘A≠A∘E E∘A'
 concepts:
 - Σ
-excerpt: 'Non-commutative with A: E∘A≠A∘E E∘A'
-heading: 4.2 Expansive Operator E
-id: GEN17-4168
-lines: 269-279
-location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::42-expansive-operator-e::b1
-parent_heading: 4\. Operator-Specific Transition Rules
-source: genesis-17\box_calculus.md
+- IGSOA
+- κ
+- Context-conditioned
+- Non-commutative
+- ≠
+aliases:
+- Bk644is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,33 @@
+id: GEN13-2190
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-i-electronic-material-properties::corollary-33-quantum-hall-conductance::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2230-2236
+heading: '**Corollary 3.3 — Quantum Hall Conductance**'
+parent_heading: '**3\. Π-Layer I: Electronic Material Properties**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- ν
-- σ
 excerpt: σxy=e2h ν.\\sigma\_{xy} \= \\frac{e^2}{h}\\, \\nu.σxy​=he2​ν. Thus QHE is
   Π-image of Φ-topology, which is δ-curvature. ---
-heading: '**Corollary 3.3 — Quantum Hall Conductance**'
-id: GEN13-2190
-lines: 2230-2236
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-i-electronic-material-properties::corollary-33-quantum-hall-conductance::b1
-parent_heading: '**3\. Π-Layer I: Electronic Material Properties**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- ν
+- σ
+- δ-curvature
+- Φ-topology
+- Π-image
+- Π
+- δ
+- Φ
+aliases:
+- Bk253sf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

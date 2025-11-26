@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: '**Mass \= Polynomial(δ-harmonic eigenvalue)** **Potential \= Polynomial(δ-torsion
-  scalar)** **Degeneracies \= Triadic(3–6–9)**'
-heading: '**Summary (for internal cross-referencing)**'
 id: GEN8-8905
-lines: 2459-2464
 location: genesis-8/meta-time-geometry-and-temporal-projection::summary-for-internal-cross-referencing::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2459-2464
+heading: '**Summary (for internal cross-referencing)**'
+block_type: paragraph
+excerpt: '**Mass \= Polynomial(δ-harmonic eigenvalue)** **Potential \= Polynomial(δ-torsion
+  scalar)** **Degeneracies \= Triadic(3–6–9)**'
+concepts:
+- δ
+- →
+- δ-harmonic
+- δ-torsion
+- δ-Higgs
+aliases:
+- Bk735mp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.727272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

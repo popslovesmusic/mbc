@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Persistent Deviation
-- Ψ
-excerpt: Energy as Persistent Deviation from Ψ₀\*\* ---
-heading: '**\*\*A Monistic Derivation of the First Law:**'
 id: GEN10-876
-lines: 2088-2092
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::a-monistic-derivation-of-the-first-law::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2088-2092
+heading: '**\*\*A Monistic Derivation of the First Law:**'
+block_type: paragraph
+excerpt: Energy as Persistent Deviation from Ψ₀\*\* ---
+concepts:
+- Deviation
+- Ψ
+- Persistent Deviation
+- Ψ₀
+aliases:
+- Bk447ep
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

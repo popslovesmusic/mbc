@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Since time is ordering of deviations: * 3 \= earliest ordering (IGS→OA→δ)
-  * 6 \= full cycle ordering (forward \+ return)'
-heading: '**⭐ 4\. 3, 6, 9 as Time**'
 id: SPEC-11070
-lines: 1566-1576
 location: special/specil::4-3-6-9-as-time::b1
 source: special\specil.md
+lines: 1566-1576
+heading: '**⭐ 4\. 3, 6, 9 as Time**'
+block_type: paragraph
+excerpt: 'Since time is ordering of deviations: * 3 \= earliest ordering (IGS→OA→δ)
+  * 6 \= full cycle ordering (forward \+ return)'
+concepts:
+- →
+- cross-realm
+- δ
+aliases:
+- Bk239st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

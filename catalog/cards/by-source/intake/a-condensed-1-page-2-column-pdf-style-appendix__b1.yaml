@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Tell me which direction you want next.
-heading: '**✔ A condensed 1-page 2-column PDF-style appendix**'
 id: INTK-10101
-lines: 415-417
 location: intake/meta-genesis-physical-interpretation-papers::optional-extensions-i-can-produce-next::a-condensed-1-page-2-column-pdf-style-appendix::b1
-parent_heading: '**Optional Extensions I Can Produce Next**'
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 415-417
+heading: '**✔ A condensed 1-page 2-column PDF-style appendix**'
+parent_heading: '**Optional Extensions I Can Produce Next**'
+block_type: paragraph
+excerpt: Tell me which direction you want next.
+aliases:
+- Bk729tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

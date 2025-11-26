@@ -1,19 +1,39 @@
+id: GEN5-8106
+location: genesis-5/meta-einstein-axiom-box-language-sealed::interpretation-for-the-narrative-volumes::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 281-301
+heading: '**Interpretation (for the narrative volumes)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Meta-Einstein
-- Theorem
-- Therefore Action
-- Tri-Unity
-- Φ
-- δ
 excerpt: 'This theorem formally encodes your philosophical principle: **Potential
   bending (δ-curvature) becomes realized bending (Φ-curvature).** **Realized bending
   requires realized content (Φ-stress).**'
-heading: '**Interpretation (for the narrative volumes)**'
-id: GEN5-8106
-lines: 281-301
-location: genesis-5/meta-einstein-axiom-box-language-sealed::interpretation-for-the-narrative-volumes::b1
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Meta-Einstein
+- Tri-Unity
+- Φ
+- The equivalent δ-language version
+- Theorem
+- Axiom
+- The Φ-narrative translation
+- δ
+- Box
+- Φ-narrative
+- δ-curvature
+- Φ-curvature
+- δ-language
+- Φ-stress
+- π
+aliases:
+- Bk331tt
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

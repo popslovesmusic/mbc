@@ -1,9 +1,33 @@
-block_type: paragraph
-concepts: []
-excerpt: '**What looks like childish scratches on clay tablets** **were actually early
-  abstract data structures —** **compressed, symbolic record-keeping systems**'
-heading: '**⭐ 5\. Your line rewritten with precision:**'
 id: SPEC-11189
-lines: 3972-4000
 location: special/specil::5-your-line-rewritten-with-precision::b1
 source: special\specil.md
+lines: 3972-4000
+heading: '**⭐ 5\. Your line rewritten with precision:**'
+block_type: paragraph
+excerpt: '**What looks like childish scratches on clay tablets** **were actually early
+  abstract data structures —** **compressed, symbolic record-keeping systems**'
+concepts:
+- IGSOA
+- What looks like childish scratches on clay tablets
+- pattern-systems
+- record-keeping
+- proto-writing
+- token-based
+- pre-algebra
+- meta-math
+- →
+aliases:
+- Bk118wl
+tags:
+- qualified
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.181818181818182
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,16 +1,34 @@
+id: GEN0-281
+location: genesis-0/why-the-first-action-is-necessary::why-ψ₀-cannot-host-operators::b2
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 406-421
+heading: '**Why Ψ₀ Cannot Host Operators**'
 block_type: paragraph
-concepts:
-- Free Ontology
-- Operator
-- Operator-Free
-- The Operator
-- Zero-State
-- Ψ
 excerpt: '*(The Operator-Free Ontology of the Zero-State)* Ψ₀ — the Zero-State — is
   often imagined as the “before” of everything: no space, no time, no energy, no fields,
   no degrees of freedom.'
-heading: '**Why Ψ₀ Cannot Host Operators**'
-id: GEN0-281
-lines: 406-421
-location: genesis-0/why-the-first-action-is-necessary::why-ψ₀-cannot-host-operators::b2
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- State
+- Operator
+- Zero-State
+- symmetry-breaking
+- Ψ
+- Operator-Free
+- Free Ontology
+- The Operator
+- Ψ₀
+aliases:
+- Bk003to
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.254237288135593
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

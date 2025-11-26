@@ -1,15 +1,38 @@
+id: GEN12-1560
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::1-genesis-deviation-δ::16-summary-of-section-1::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 504-530
+heading: '**1.6 Summary of Section 1**'
+parent_heading: '**1\. Genesis → Deviation (δ)**'
 block_type: list
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Φ
-- δ
 excerpt: '* The NOT Axiom forbids a perfect zero-state. * Deviation δ emerges as the
   minimal identity failure. * δ is the uniquely minimal non-zero object.'
-heading: '**1.6 Summary of Section 1**'
-id: GEN12-1560
-lines: 504-530
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::1-genesis-deviation-δ::16-summary-of-section-1::b1
-parent_heading: '**1\. Genesis → Deviation (δ)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Deviation
+- Axiom
+- Adjacency
+- Curvature
+- Box
+- δ
+- the creator of all structure
+- zero-state
+- non-zero
+- sealed formal Axiom Box
+- Φ
+- →
+- Axiom Box
+aliases:
+- Bk566tn
+tags:
+- axiom-box
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.772727272727273
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

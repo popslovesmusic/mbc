@@ -1,12 +1,32 @@
+id: GEN0-097
+location: genesis-0/feynman-rules-interaction-vertices::ii-the-eulerlagrange-equation::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1422-1430
+heading: '**II. The Euler–Lagrange Equation**'
 block_type: paragraph
-concepts:
-- Higgs Vacuum Equation
-- δ
 excerpt: δLδδ(m)=0⟹∇a(δ)(gab∇b(δ)δ(m))+∂V∂δ(m)=0.\\frac{\\delta \\mathcal{L}}{\\delta
   \\delta^{(m)}} \=0 \\quad\\Longrightarrow\\quad \\nabla^{(\\delta)}\_a \\left( g^{ab}\\nabla^{(\\delta)}\_b\\delta^{(m)}
   \\...
-heading: '**II. The Euler–Lagrange Equation**'
-id: GEN0-097
-lines: 1422-1430
-location: genesis-0/feynman-rules-interaction-vertices::ii-the-eulerlagrange-equation::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- ∂
+- ∇
+- Master δ-Higgs Vacuum Equation
+- δ-Higgs
+- Higgs Vacuum Equation
+- δL
+aliases:
+- Bk216gf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.58904109589041
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

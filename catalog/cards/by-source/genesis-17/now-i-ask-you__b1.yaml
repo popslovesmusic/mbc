@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Do you want the next step to be:'
-heading: '⭐ Now I ask you:'
 id: GEN17-4618
-lines: 7403-7405
 location: genesis-17/box-calculus::now-i-ask-you::b1
 source: genesis-17\box_calculus.md
+lines: 7403-7405
+heading: '⭐ Now I ask you:'
+block_type: paragraph
+excerpt: 'Do you want the next step to be:'
+aliases:
+- Bk267yw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

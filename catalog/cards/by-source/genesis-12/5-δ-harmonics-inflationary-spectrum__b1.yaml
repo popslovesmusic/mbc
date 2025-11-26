@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: Because P(k)=Π(Φ(Spec(δ)))\\mathcal{P}(k) \= \\Pi(\\Phi(\\text{Spec}(\\delta)))P(k)=Π(Φ(Spec(δ))),
-heading: '**5\. δ-Harmonics → Inflationary Spectrum**'
 id: GEN12-1777
-lines: 909-911
 location: genesis-12/untitled-document::5-δ-harmonics-inflationary-spectrum::b1
 source: genesis-12\Untitled_document.md
+lines: 909-911
+heading: '**5\. δ-Harmonics → Inflationary Spectrum**'
+block_type: paragraph
+excerpt: Because P(k)=Π(Φ(Spec(δ)))\\mathcal{P}(k) \= \\Pi(\\Phi(\\text{Spec}(\\delta)))P(k)=Π(Φ(Spec(δ))),
+concepts:
+- Π
+- δ
+- Φ
+aliases:
+- Bk498bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

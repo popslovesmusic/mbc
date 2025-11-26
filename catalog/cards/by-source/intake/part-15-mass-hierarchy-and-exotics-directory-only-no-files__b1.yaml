@@ -1,22 +1,41 @@
-block_type: paragraph
-concepts:
-- Beyond Standard Model
-- Content Reorganization Required
-- Coupling Constants
-- Electroweak Symmetry Breaking
-- Flavor Oscillations
-- Higgs Mechanism
-- Missing Encyclopedia Definitions
-- Move Volume
-- Should Contain
-- Standard Model Gauge Groups
-- δ
-excerpt: '**Should Contain:** - Complete mass hierarchy derivations (all generations)
-  - Neutrino mass mechanisms'
-heading: '**Part 15: Mass_Hierarchy_and_Exotics** - Directory only, no files'
 id: INTK-10942
-lines: 272-299
 location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-iv-metastandardmodel-and-flavorphysics-completely-empty::part-15-mass-hierarchy-and-exotics-directory-only-no-files::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 272-299
+heading: '**Part 15: Mass_Hierarchy_and_Exotics** - Directory only, no files'
 parent_heading: '**Volume IV: MetaStandardModel and FlavorPhysics** ❌ **COMPLETELY
   EMPTY**'
-source: intake\Volume_Structure_Gap_Analysis.md
+block_type: paragraph
+excerpt: '**Should Contain:** - Complete mass hierarchy derivations (all generations)
+  - Neutrino mass mechanisms'
+concepts:
+- δ-boson
+- δ
+- Meta-interpretation
+- Missing Encyclopedia Definitions
+- Content Reorganization Required
+- Meta-derivation
+- Electroweak Symmetry Breaking
+- Meta-framework
+- Standard Model Gauge Groups
+- Beyond Standard Model
+- Flavor Oscillations
+- Coupling Constants
+- Higgs Mechanism
+- Should Contain
+- Move Volume
+aliases:
+- Bk671sc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.129032258064516
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

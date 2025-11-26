@@ -1,13 +1,30 @@
+id: GEN19-5828
+location: genesis-19/mbc-4-1::33-polarity-xor-θ-xor::mbc-40-polarity-xor::b1
+source: genesis-19\MBC-4_1.md
+lines: 127-148
+heading: '**MBC-4.0 Polarity XOR**'
+parent_heading: '**3.3 Polarity XOR (Θ-XOR)**'
 block_type: table
-concepts:
-- Θ
-- Π
-- δ
 excerpt: '**Interpretation:** XOR tests **polarity misalignment**. If aligned → neutral
   (no distinction).'
-heading: '**MBC-4.0 Polarity XOR**'
-id: GEN19-5828
-lines: 127-148
-location: genesis-19/mbc-4-1::33-polarity-xor-θ-xor::mbc-40-polarity-xor::b1
-parent_heading: '**3.3 Polarity XOR (Θ-XOR)**'
-source: genesis-19\MBC-4_1.md
+concepts:
+- Θ
+- symmetry-breaking
+- δ
+- →
+- δ-junction
+- δ-metadata
+- polarity misalignment
+- Π
+aliases:
+- Bk998xi
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

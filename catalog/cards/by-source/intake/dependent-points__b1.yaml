@@ -1,14 +1,29 @@
+id: INTK-10711
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::dependent-points::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1826-1827
+heading: Dependent Points
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Dependent Points
-- Read More
-- Vibrating String Metaphor
 excerpt: Dependent Points are the dynamic, emergent properties of reality in the Vibrating
   String Metaphor. They are the points along the string's path of vibration, which
   are only "real" when the string passe...
-heading: Dependent Points
-id: INTK-10711
-lines: 1826-1827
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::dependent-points::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Dependent Points
+- Vibrating String Metaphor
+- Read More
+aliases:
+- Bk221dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.122448979591836
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

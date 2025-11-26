@@ -1,11 +1,26 @@
+id: GEN11-1169
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::iv-inflation-early-universe-predictions::1-inflation-projection-of-adjacency-smoothing::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1044-1061
+heading: '**1\. Inflation \= projection of adjacency smoothing**'
+parent_heading: '**IV. Inflation / Early-Universe Predictions**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Predicts: * no need for inflaton * tilt ns−1n\_s \- 1ns​−1 is δ-harmonic
   slope'
-heading: '**1\. Inflation \= projection of adjacency smoothing**'
-id: GEN11-1169
-lines: 1044-1061
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::iv-inflation-early-universe-predictions::1-inflation-projection-of-adjacency-smoothing::b1
-parent_heading: '**IV. Inflation / Early-Universe Predictions**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- non-Gaussianity
+- δ-harmonic
+- CMB-S4
+- δ
+aliases:
+- Bk634pn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

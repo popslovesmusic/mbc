@@ -1,19 +1,41 @@
+id: GEN5-8052
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-δφ-tri-unity-transition-box-sealed-version::axiom-tu1-the-dual-generators-δ-and-φ::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1694-1711
+heading: '**Axiom TU1 — The Dual Generators: δ and Φ.**'
+parent_heading: '**▢ The δ–Φ → Tri-Unity Transition Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- Chromatic Field Endofunctor
-- Deviation Endofunctor
-- Field
-- Foundation Layer
-- Layer
-- Φ
-- δ
-- η
 excerpt: 'The IGSOA Foundation Layer contains two primitive functorial generators:
   1. **δ : 𝒞 → 𝒞**, the *Deviation Endofunctor* (first difference, curvature-seed,
   structural tension).'
-heading: '**Axiom TU1 — The Dual Generators: δ and Φ.**'
-id: GEN5-8052
-lines: 1694-1711
-location: genesis-5/formal-proof-of-the-adjoint-triple::the-δφ-tri-unity-transition-box-sealed-version::axiom-tu1-the-dual-generators-δ-and-φ::b1
-parent_heading: '**▢ The δ–Φ → Tri-Unity Transition Box (Sealed Version)**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- δ
+- Φ
+- Foundation Layer
+- Deviation
+- IGSOA
+- η
+- Layer
+- Field
+- adjacency-alignment
+- mode-propagation
+- →
+- curvature-seed
+- Chromatic Field Endofunctor
+- mode-field
+- Deviation Endofunctor
+aliases:
+- Bk489ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.29268292682927
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

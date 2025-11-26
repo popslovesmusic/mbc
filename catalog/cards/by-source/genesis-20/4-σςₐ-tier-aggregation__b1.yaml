@@ -1,12 +1,29 @@
-block_type: table
-concepts:
-- Box
-- Merged Box
-- Σ
-excerpt: Path A \\ ΣΣₐ \--\> \[Merged Box\] Path B /
-heading: 4\. ΣΣₐ-Tier (Aggregation)
 id: GEN20-6582
-lines: 239-249
 location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::diagram-stack-box-algebra-δφπ::right-standard-math-diagram::4-σςₐ-tier-aggregation::b1
-parent_heading: 'Right: Standard Math Diagram'
 source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 239-249
+heading: 4\. ΣΣₐ-Tier (Aggregation)
+parent_heading: 'Right: Standard Math Diagram'
+block_type: table
+excerpt: Path A \\ ΣΣₐ \--\> \[Merged Box\] Path B /
+concepts:
+- IGSOA
+- Merge
+- Box
+- Σ
+- Merged Box
+aliases:
+- Bk299pm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.31578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,31 @@
+id: GEN20-7226
+location: genesis-20/mbc-40-documentaitio-1::b310-why-router-networks-are-foundational::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7510-7532
+heading: B3.10 Why Router Networks Are Foundational
 block_type: paragraph
+excerpt: 'Router networks are essential for: * high-level reasoning * agent control
+  flow'
 concepts:
+- MBC
+- Router
+- multi-agent
+- high-level
 - Real-Time
 - Router Dynamics
 - Time Flow
-excerpt: 'Router networks are essential for: * high-level reasoning * agent control
-  flow'
-heading: B3.10 Why Router Networks Are Foundational
-id: GEN20-7226
-lines: 7510-7532
-location: genesis-20/mbc-40-documentaitio-1::b310-why-router-networks-are-foundational::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk401rn
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.666666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

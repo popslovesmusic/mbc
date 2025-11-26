@@ -1,15 +1,35 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Algebra
-- Box Calculus
-- Semantic Dynamics
-- Π
-- Φ
-- δ
-excerpt: 'Yes. The moment we introduce: * multi-input polarity combination'
-heading: ⭐ Is Box Calculus also Box Algebra?
 id: GEN20-7177
-lines: 6766-6791
 location: genesis-20/mbc-40-documentaitio-1::is-box-calculus-also-box-algebra::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6766-6791
+heading: ⭐ Is Box Calculus also Box Algebra?
+block_type: paragraph
+excerpt: 'Yes. The moment we introduce: * multi-input polarity combination'
+concepts:
+- MBC
+- Box Calculus
+- Box Algebra
+- Box
+- differential-like
+- multi-input
+- tensor-like
+- multi-arity
+- Π
+- δ
+- Φ
+- Semantic Dynamics
+aliases:
+- Bk796yt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.953488372093023
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

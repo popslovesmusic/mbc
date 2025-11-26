@@ -1,11 +1,30 @@
+id: GEN9-9377
+location: genesis-9/is-the-source-of-all-structure::ii-block-structure-derived-from-δ-harmonics::d-block-πn3::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 611-614
+heading: '**d-block \= Π(n=3)**'
+parent_heading: '**II. Block Structure Derived from δ-Harmonics**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'IGSOA fundamental: **9 modes** Π adds **1 composite harmonic** for adjacency-closure
   → **10 classical d-orbitals**'
-heading: '**d-block \= Π(n=3)**'
-id: GEN9-9377
-lines: 611-614
-location: genesis-9/is-the-source-of-all-structure::ii-block-structure-derived-from-δ-harmonics::d-block-πn3::b1
-parent_heading: '**II. Block Structure Derived from δ-Harmonics**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- IGSOA
+- adjacency-closure
+- d-orbitals
+- Π
+- →
+aliases:
+- Bk973if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

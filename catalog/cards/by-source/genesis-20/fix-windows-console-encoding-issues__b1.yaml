@@ -1,17 +1,36 @@
-block_type: paragraph
-concepts:
-- Chapter List
-- Create Directory
-- Create Index
-- Determine Output Directory
-- Determine Output Root
-- Save Chapters
-- Split Markdown
-- Total Chapters
-excerpt: 'if sys.platform == ''win32'': sys.stdout.reconfigure(encoding=''utf-8'')
-  def extract_chapters(md_file_path):'
-heading: Fix Windows console encoding issues
 id: GEN20-7270
-lines: 15-172
 location: genesis-20/universal-splitpy::fix-windows-console-encoding-issues::b1
 source: genesis-20\universal_splitpy.md
+lines: 15-172
+heading: Fix Windows console encoding issues
+block_type: paragraph
+excerpt: 'if sys.platform == ''win32'': sys.stdout.reconfigure(encoding=''utf-8'')
+  def extract_chapters(md_file_path):'
+concepts:
+- name
+- Split
+- double-click
+- Determine Output Directory
+- main
+- Determine Output Root
+- Create Directory
+- Split Markdown
+- Total Chapters
+- Save Chapters
+- Chapter List
+- Create Index
+aliases:
+- Bk394sp
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.013422818791946
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

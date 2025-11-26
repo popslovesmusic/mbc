@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Not supernatural. Just **high-level cognition**. ---
-heading: '**pattern → inference → generalization → conclusion**'
 id: SPEC-11287
-lines: 6153-6158
 location: special/specil::5-why-this-matters-historically::pattern-inference-generalization-conclusion::b1
-parent_heading: '**⭐ 5\. Why this matters historically**'
 source: special\specil.md
+lines: 6153-6158
+heading: '**pattern → inference → generalization → conclusion**'
+parent_heading: '**⭐ 5\. Why this matters historically**'
+block_type: paragraph
+excerpt: Not supernatural. Just **high-level cognition**. ---
+concepts:
+- high-level cognition
+- high-level
+aliases:
+- Bk485ns
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

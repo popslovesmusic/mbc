@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- not
-- stabilizer
-- Φ
-excerpt: 'This master axiom produces: 1. **χ-phase (3-cycle)** → SU(3) strong 2. **θ-phase
-  (2-cycle)** → SU(2) weak'
-heading: '**1\. Start from δ–Adjacency Curvature Axiom**'
 id: GEN9-9548
-lines: 1912-1925
 location: genesis-9/strong-force::1-start-from-δadjacency-curvature-axiom::b1
 source: genesis-9\strong-force.md
+lines: 1912-1925
+heading: '**1\. Start from δ–Adjacency Curvature Axiom**'
+block_type: paragraph
+excerpt: 'This master axiom produces: 1. **χ-phase (3-cycle)** → SU(3) strong 2. **θ-phase
+  (2-cycle)** → SU(2) weak'
+concepts:
+- →
+- Axiom
+- θ
+- χ
+- Φ
+- stabilizer
+- not
+aliases:
+- Bk876tm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

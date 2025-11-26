@@ -1,13 +1,28 @@
-block_type: paragraph
-concepts:
-- By Lemmas
-- Π
-- Φ
-- δ
-excerpt: By Lemmas 1–4, the composite Π∘Φ∘δ satisfies the functor axioms. ---
-heading: '**Theorem Follows**'
 id: GEN12-1733
-lines: 197-201
 location: genesis-12/untitled-document::4-proof-structure::theorem-follows::b1
-parent_heading: '**4\. Proof Structure**'
 source: genesis-12\Untitled_document.md
+lines: 197-201
+heading: '**Theorem Follows**'
+parent_heading: '**4\. Proof Structure**'
+block_type: paragraph
+excerpt: By Lemmas 1–4, the composite Π∘Φ∘δ satisfies the functor axioms. ---
+concepts:
+- Π
+- δ
+- Φ
+- By Lemmas
+aliases:
+- Bk292lt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

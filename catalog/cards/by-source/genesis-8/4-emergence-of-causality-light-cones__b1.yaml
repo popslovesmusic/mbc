@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- But Meta
-- Meta-Time
-- The Meta
-excerpt: 'The Meta-Time → Geometry chain creates causality: 1. Deviation produces
-  adjacency distortion 2. Adjacency distortion produces curvature'
-heading: '**4\. Emergence of Causality & Light Cones**'
 id: GEN8-8783
-lines: 158-187
 location: genesis-8/meta-time-geometry-and-temporal-projection::4-emergence-of-causality-light-cones::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 158-187
+heading: '**4\. Emergence of Causality & Light Cones**'
+block_type: paragraph
+excerpt: 'The Meta-Time → Geometry chain creates causality: 1. Deviation produces
+  adjacency distortion 2. Adjacency distortion produces curvature'
+concepts:
+- Meta-Time
+- Adjacency
+- Curvature
+- Deviation
+- well-ordered
+- Τ
+- →
+- But Meta
+- The Meta
+aliases:
+- Bk395tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.183673469387756
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

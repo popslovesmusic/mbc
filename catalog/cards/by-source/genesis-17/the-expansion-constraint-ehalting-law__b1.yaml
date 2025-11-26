@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Fully Resolved
-excerpt: Gap B — Fully Resolved ---
-heading: ⭐ THE EXPANSION CONSTRAINT (E–Halting Law)
 id: GEN17-4225
-lines: 1162-1165
 location: genesis-17/box-calculus::the-expansion-constraint-ehalting-law::b1
 source: genesis-17\box_calculus.md
+lines: 1162-1165
+heading: ⭐ THE EXPANSION CONSTRAINT (E–Halting Law)
+block_type: paragraph
+excerpt: Gap B — Fully Resolved ---
+concepts:
+- Fully Resolved
+aliases:
+- Bk188gf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

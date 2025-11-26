@@ -1,10 +1,27 @@
+id: GEN14-3073
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iv-the-composite-adjunction::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 2183-2191
+heading: '**IV. The Composite Adjunction**'
 block_type: paragraph
-concepts: []
 excerpt: 'The entire magnetic process forms an adjoint triple: F1⊣F2⊣F3.F\_1 \\dashv
   F\_2 \\dashv F\_3.F1​⊣F2​⊣F3​. This is the IGSOA analog of a **triple adjoint tower**,
   a hallmark of emergent order.'
-heading: '**IV. The Composite Adjunction**'
-id: GEN14-3073
-lines: 2183-2191
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iv-the-composite-adjunction::b1
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- IGSOA
+- triple adjoint tower
+aliases:
+- Bk116te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.405405405405405
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

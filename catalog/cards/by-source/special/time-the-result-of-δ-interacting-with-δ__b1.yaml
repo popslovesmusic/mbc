@@ -1,10 +1,27 @@
+id: SPEC-11053
+location: special/specil::2-time-is-only-the-ordering-of-deviation-interactions::time-the-result-of-δ-interacting-with-δ::b1
+source: special\specil.md
+lines: 1268-1292
+heading: '**Time \= the result of δ interacting with δ.**'
+parent_heading: '**🔥 2\. Time is only the ordering of deviation interactions**'
 block_type: paragraph
+excerpt: 'Time begins the moment: * δ appears * δ propagates'
 concepts:
 - δ
-excerpt: 'Time begins the moment: * δ appears * δ propagates'
-heading: '**Time \= the result of δ interacting with δ.**'
-id: SPEC-11053
-lines: 1268-1292
-location: special/specil::2-time-is-only-the-ordering-of-deviation-interactions::time-the-result-of-δ-interacting-with-δ::b1
-parent_heading: '**🔥 2\. Time is only the ordering of deviation interactions**'
-source: special\specil.md
+- →
+- strict order
+- is time
+aliases:
+- Bk109tb
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

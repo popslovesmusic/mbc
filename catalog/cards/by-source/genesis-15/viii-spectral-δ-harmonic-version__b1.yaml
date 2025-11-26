@@ -1,11 +1,30 @@
-block_type: paragraph
-concepts:
-- Λ
-- δ
-excerpt: 'Let: δ=∑n,manm(r) Ynm(θ,ϕ).\\delta \= \\sum\_{n,m} a\_{nm}(r)\\, Y\_{nm}(\\theta,\\phi).δ=n,m∑​anm​(r)Ynm​(θ,ϕ).
-  The CSOI-tail forces a **slow spectral falloff**:'
-heading: '**VIII. Spectral (δ-Harmonic) Version**'
 id: GEN15-3361
-lines: 1672-1700
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::viii-spectral-δ-harmonic-version::b1
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1672-1700
+heading: '**VIII. Spectral (δ-Harmonic) Version**'
+block_type: paragraph
+excerpt: 'Let: δ=∑n,manm(r) Ynm(θ,ϕ).\\delta \= \\sum\_{n,m} a\_{nm}(r)\\, Y\_{nm}(\\theta,\\phi).δ=n,m∑​anm​(r)Ynm​(θ,ϕ).
+  The CSOI-tail forces a **slow spectral falloff**:'
+concepts:
+- IGSOA
+- ∑
+- θ
+- δ
+- CSOI-tail
+- Λ
+- slow spectral falloff
+aliases:
+- Bk319lm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.000000000000001
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

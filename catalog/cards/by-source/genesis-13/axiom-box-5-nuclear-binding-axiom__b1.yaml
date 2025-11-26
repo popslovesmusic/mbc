@@ -1,13 +1,35 @@
-block_type: paragraph
-concepts:
-- Axiom
-- End Seal
-- Π
-- Φ
-- δ
-excerpt: '**SEAL:** NBA-1 **Axiom.** Binding energy is the Π-projection of the Φ-Hessian:'
-heading: '**AXIOM BOX 5: Nuclear Binding Axiom**'
 id: GEN13-2091
-lines: 1167-1184
 location: genesis-13/meta-math-nuclear-physics::axiom-box-5-nuclear-binding-axiom::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1167-1184
+heading: '**AXIOM BOX 5: Nuclear Binding Axiom**'
+block_type: paragraph
+excerpt: '**SEAL:** NBA-1 **Axiom.** Binding energy is the Π-projection of the Φ-Hessian:'
+concepts:
+- Φ
+- Π
+- Axiom
+- Φ-Hessian
+- δ
+- semi-empirical
+- Π-projection
+- Φ-geometry
+- Π-shadow
+- End Seal
+aliases:
+- Am661sn
+tags:
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,33 @@
+id: GEN7-8684
+location: genesis-7/why-curvature-gives-gravity::i-δ-harmonic-equation::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 899-913
+heading: '**I. δ-Harmonic Equation**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: 'The δ-harmonic eigenmodes satisfy: Δδψnℓm=λnℓψnℓm.\\Delta\_\\delta \\psi\_{n\\ell
   m} \= \\lambda\_{n\\ell} \\psi\_{n\\ell m}.Δδ​ψnℓm​=λnℓ​ψnℓm​. These are the **fundamental
   δ-modes of the adjacency ge...'
-heading: '**I. δ-Harmonic Equation**'
-id: GEN7-8684
-lines: 899-913
-location: genesis-7/why-curvature-gives-gravity::i-δ-harmonic-equation::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Δ
+- fundamental δ-modes of the adjacency geometry
+- ψ
+- δ-harmonic
+- λ
+- δ-harmonics
+- δ-modes
+aliases:
+- Bk970th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.75609756097561
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

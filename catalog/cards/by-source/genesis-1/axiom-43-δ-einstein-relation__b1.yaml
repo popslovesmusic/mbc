@@ -1,14 +1,35 @@
+id: GEN1-538
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::4-curvature-and-the-meta-einstein-structure::axiom-43-δ-einstein-relation::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 467-487
+heading: '**Axiom 4.3 — δ-Einstein Relation.**'
+parent_heading: '**4\. Curvature and the Meta-Einstein Structure**'
 block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- α
-- δ
 excerpt: 'Variation of the δ-action: Sδ=∫(δ†δ−α\[δ,δ\])S\_\\delta \= \\int (\\delta^\\dagger\\delta
   \- \\alpha \[\\delta,\\delta\])Sδ​=∫(δ†δ−α\[δ,δ\]) with respect to δ yields:'
-heading: '**Axiom 4.3 — δ-Einstein Relation.**'
-id: GEN1-538
-lines: 467-487
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::4-curvature-and-the-meta-einstein-structure::axiom-43-δ-einstein-relation::b1
-parent_heading: '**4\. Curvature and the Meta-Einstein Structure**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Meta-Einstein
+- α
+- Meta-Einstein Equation
+- ∫
+- δ-curvature
+- δ-energy
+- δ-action
+- δ-form
+- Einstein Equation
+aliases:
+- Bk042vt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.492753623188406
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

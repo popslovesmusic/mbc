@@ -1,10 +1,24 @@
+id: GEN20-6730
+location: genesis-20/mbc-40-documentaitio-1::3-the-δ-φ-π-pipeline-naturally-supports-adaptive-updates::δ-stage-deviation-detection::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1000-1006
+heading: 'δ-stage: deviation detection'
+parent_heading: ✅ 3\. The δ → Φ → Π pipeline naturally supports adaptive updates
 block_type: paragraph
-concepts: []
 excerpt: 'New data creates a deviation event: * a new measurement * a new statistical
   update'
-heading: 'δ-stage: deviation detection'
-id: GEN20-6730
-lines: 1000-1006
-location: genesis-20/mbc-40-documentaitio-1::3-the-δ-φ-π-pipeline-naturally-supports-adaptive-updates::δ-stage-deviation-detection::b1
-parent_heading: ✅ 3\. The δ → Φ → Π pipeline naturally supports adaptive updates
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk093nd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

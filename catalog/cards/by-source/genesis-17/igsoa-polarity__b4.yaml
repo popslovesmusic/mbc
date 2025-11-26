@@ -1,12 +1,31 @@
+id: GEN17-4459
+location: genesis-17/box-calculus::::igsoa-polarity::b4
+source: genesis-17\box_calculus.md
+lines: 4905-4910
+heading: IGSOA Polarity
+parent_heading: ​
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: '“Φ-Transform then inject into Π-space then evaluate \= Π.” Or: “Transforming
   a realized form and re-realizing yields the same real form.”'
-heading: IGSOA Polarity
-id: GEN17-4459
-lines: 4905-4910
-location: genesis-17/box-calculus::::igsoa-polarity::b4
-parent_heading: ​
-source: genesis-17\box_calculus.md
+concepts:
+- Transform
+- Π
+- re-realizing
+- Φ-Transform
+- Π-space
+- Φ
+aliases:
+- Bk944tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.08695652173913
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

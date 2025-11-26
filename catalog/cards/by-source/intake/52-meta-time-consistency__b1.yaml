@@ -1,14 +1,26 @@
+id: INTK-10181
+location: intake/meta-genesis-meta-math-integration-papers::5-meta-time-boundary-conditions::52-meta-time-consistency::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 130-136
+heading: '**5.2 Meta-Time Consistency**'
+parent_heading: '**5\. Meta-Time Boundary Conditions**'
 block_type: paragraph
-concepts:
-- Because Meta
-- Meta-Time
-- Ψ
 excerpt: T(Ψ0) undefined.\\mathfrak{T}(\\Psi\_0) \\ \\text{undefined}.T(Ψ0​) undefined.
   Because Meta-Time presupposes a nonzero deviation field, it cannot act at Genesis.
   ---
-heading: '**5.2 Meta-Time Consistency**'
-id: INTK-10181
-lines: 130-136
-location: intake/meta-genesis-meta-math-integration-papers::5-meta-time-boundary-conditions::52-meta-time-consistency::b1
-parent_heading: '**5\. Meta-Time Boundary Conditions**'
-source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+concepts:
+- Meta-Time
+- Ψ
+- Because Meta
+aliases:
+- Bk830um
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

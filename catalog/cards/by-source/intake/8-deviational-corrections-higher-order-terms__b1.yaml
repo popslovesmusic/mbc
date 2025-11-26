@@ -1,16 +1,40 @@
+id: INTK-9672
+location: intake/axioms-geometry::8-deviational-corrections-higher-order-terms::b1
+source: intake\Axioms-geometry.md
+lines: 368-390
+heading: '**8\. Deviational Corrections (higher-order terms)**'
 block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- Φ
-- β
-- δ
-- λ
 excerpt: 'Because δ-curvature exists on a **higher layer** than classical curvature,
   the full Meta-Einstein Equation contains additional terms beyond projection. The
   full equation is: GABδ=8πTABδ+CABδG^\\delta\...'
-heading: '**8\. Deviational Corrections (higher-order terms)**'
-id: INTK-9672
-lines: 368-390
-location: intake/axioms-geometry::8-deviational-corrections-higher-order-terms::b1
-source: intake\Axioms-geometry.md
+concepts:
+- δ
+- Meta-Einstein
+- Δ
+- Adjacency
+- ∇
+- Φ
+- higher-order
+- meta-fractal
+- δ-spectrum
+- Meta-fractal renormalization
+- quantum-gravity corrections
+- δ-mode backreaction
+- β
+- π
+- ∑
+aliases:
+- Bk983bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.846153846153847
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

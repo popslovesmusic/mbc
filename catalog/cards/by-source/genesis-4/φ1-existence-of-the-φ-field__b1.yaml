@@ -1,11 +1,29 @@
+id: GEN4-7677
+location: genesis-4/meta-physics-axiom-box::ii-φaxioms-the-chromaticformphase-field::φ1-existence-of-the-φ-field::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1157-1179
+heading: '**Φ.1 — Existence of the Φ-Field**'
+parent_heading: '**II. Φ–AXIOMS (The Chromatic/Form/Phase Field)**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: There exists a form-field Φ:MetaPhys→Rep\\Phi:\\mathbf{MetaPhys}\\to\\mathbf{Rep}Φ:MetaPhys→Rep
   assigning to every deviation-generated object a **chromatic–phase–form** representation.
-heading: '**Φ.1 — Existence of the Φ-Field**'
-id: GEN4-7677
-lines: 1157-1179
-location: genesis-4/meta-physics-axiom-box::ii-φaxioms-the-chromaticformphase-field::φ1-existence-of-the-φ-field::b1
-parent_heading: '**II. Φ–AXIOMS (The Chromatic/Form/Phase Field)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Φ
+- deviation-generated
+- →
+- form-field
+aliases:
+- Bk199te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.16326530612245
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

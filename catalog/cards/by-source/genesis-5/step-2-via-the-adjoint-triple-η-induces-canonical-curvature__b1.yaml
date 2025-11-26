@@ -1,13 +1,33 @@
+id: GEN5-8141
+location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::iv-formal-proof::step-2-via-the-adjoint-triple-η-induces-canonical-curvature::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 124-151
+heading: '**Step 2\. Via the adjoint triple, η induces canonical curvature**'
+parent_heading: '**IV. FORMAL PROOF**'
 block_type: paragraph
-concepts:
-- Lemma
-- Θ
-- η
 excerpt: 'Since F⊣GF \\dashv GF⊣G, we have unit η:IdG⇒GF,\\eta : \\mathrm{Id}\_{\\mathcal{G}}
   \\Rightarrow GF,η:IdG​⇒GF, and since G⊣HG \\dashv HG⊣H, we have unit'
-heading: '**Step 2\. Via the adjoint triple, η induces canonical curvature**'
-id: GEN5-8141
-lines: 124-151
-location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::iv-formal-proof::step-2-via-the-adjoint-triple-η-induces-canonical-curvature::b1
-parent_heading: '**IV. FORMAL PROOF**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- η
+- Θ
+- Lemma
+- →
+aliases:
+- Lm008ga
+tags:
+- lemma
+- GA-8
+- conflicted
+is_formal: true
+statement_type: lemma
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.225806451612903
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6
+identifiers:
+- GA-8

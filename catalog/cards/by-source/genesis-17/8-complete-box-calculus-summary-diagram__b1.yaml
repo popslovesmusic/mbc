@@ -1,13 +1,28 @@
+id: GEN17-5106
+location: genesis-17/mbc-schema-3::8-complete-box-calculus-summary-diagram::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1378-1402
+heading: '**8\. Complete Box Calculus Summary Diagram**'
 block_type: paragraph
+excerpt: '`IGSOA (smooth)` `│` `▼`'
 concepts:
-- Causal Order
-- Rapid Expansion
+- →
+- IGSOA
 - Π
 - Φ
 - δ
-excerpt: '`IGSOA (smooth)` `│` `▼`'
-heading: '**8\. Complete Box Calculus Summary Diagram**'
-id: GEN17-5106
-lines: 1378-1402
-location: genesis-17/mbc-schema-3::8-complete-box-calculus-summary-diagram::b1
-source: genesis-17\MBC_Schema_3.md
+- Π-lag
+- Rapid Expansion
+- Causal Order
+aliases:
+- Bk766is
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

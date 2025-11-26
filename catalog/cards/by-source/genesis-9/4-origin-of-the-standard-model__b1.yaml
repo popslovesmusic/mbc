@@ -1,12 +1,29 @@
+id: GEN9-9327
+location: genesis-9/does-meta-genesis-indicate-new-physics::9-why-this-matters-for-physics::4-origin-of-the-standard-model::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1728-1732
+heading: '**(4) Origin of the Standard Model**'
+parent_heading: '**9\. Why This Matters for Physics**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Particle masses \= δ-induced Gauge symmetries \= Φ-enforced Harmonics \=
   δ–Φ spectrum
-heading: '**(4) Origin of the Standard Model**'
-id: GEN9-9327
-lines: 1728-1732
-location: genesis-9/does-meta-genesis-indicate-new-physics::9-why-this-matters-for-physics::4-origin-of-the-standard-model::b1
-parent_heading: '**9\. Why This Matters for Physics**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- δ
+- Φ
+- Φ-enforced
+- δ-induced
+aliases:
+- Bk572pm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,27 @@
+id: GEN10-886
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::9-final-sealed-statement::b2
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2336-2342
+heading: '**9\. Final Sealed Statement**'
 block_type: paragraph
-concepts:
-- The First Law
-- Ψ
-- δ
 excerpt: Energy \= persistent deviation from Ψ₀. The First Law arises because δ cannot
   annihilate, and its norm is invariant under the evolution of being. \\boxed{ \\textbf{
   Energy \= persistent deviation from...
-heading: '**9\. Final Sealed Statement**'
-id: GEN10-886
-lines: 2336-2342
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::9-final-sealed-statement::b2
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Ψ
+- δ
+- monistic conservation of asymmetry
+- The First Law
+- Ψ₀
+aliases:
+- Bk566ep
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.329113924050633
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

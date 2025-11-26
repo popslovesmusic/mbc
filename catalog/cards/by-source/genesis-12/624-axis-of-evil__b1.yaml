@@ -1,12 +1,29 @@
+id: GEN12-1679
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::62-specific-cmb-predictions::624-axis-of-evil::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2309-2320
+heading: '**6.2.4 Axis of Evil**'
+parent_heading: '**6.2 Specific CMB Predictions**'
 block_type: paragraph
-concepts:
-- Mode
-- Π
 excerpt: 'Mode degeneracy predicts a **preferred direction**. Π enforces this as:
   * dipole asymmetry,'
-heading: '**6.2.4 Axis of Evil**'
-id: GEN12-1679
-lines: 2309-2320
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::62-specific-cmb-predictions::624-axis-of-evil::b1
-parent_heading: '**6.2 Specific CMB Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- Mode
+- Π
+- preferred direction
+aliases:
+- Bk007md
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.793103448275861
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

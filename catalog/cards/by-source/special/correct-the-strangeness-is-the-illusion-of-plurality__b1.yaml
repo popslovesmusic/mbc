@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'But in fact: * δ, OA, and IGS * are not “properties”'
-heading: '**✔ Correct — the strangeness is the illusion of plurality.**'
 id: SPEC-11021
-lines: 829-855
 location: special/specil::4-your-exact-sentence-refined::correct-the-strangeness-is-the-illusion-of-plurality::b1
-parent_heading: '**🧩 4\. Your exact sentence, refined**'
 source: special\specil.md
+lines: 829-855
+heading: '**✔ Correct — the strangeness is the illusion of plurality.**'
+parent_heading: '**🧩 4\. Your exact sentence, refined**'
+block_type: paragraph
+excerpt: 'But in fact: * δ, OA, and IGS * are not “properties”'
+concepts:
+- one thing in three states of expression
+- kinetic modes of one monistic property
+- δ
+- one substance
+aliases:
+- Bk680bf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.779661016949152
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

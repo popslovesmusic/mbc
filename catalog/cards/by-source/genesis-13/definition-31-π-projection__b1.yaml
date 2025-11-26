@@ -1,12 +1,28 @@
+id: GEN13-2188
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-i-electronic-material-properties::definition-31-π-projection::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2214-2220
+heading: '**Definition 3.1 — Π-Projection**'
+parent_heading: '**3\. Π-Layer I: Electronic Material Properties**'
 block_type: paragraph
+excerpt: 'Π:OΦ→PΠ\\Pi: \\mathcal{O}\_\\Phi \\to \\mathcal{P}\_\\PiΠ:OΦ​→PΠ​ maps operator
+  algebra to measurable observables. ---'
 concepts:
 - Π
 - Φ
-excerpt: 'Π:OΦ→PΠ\\Pi: \\mathcal{O}\_\\Phi \\to \\mathcal{P}\_\\PiΠ:OΦ​→PΠ​ maps operator
-  algebra to measurable observables. ---'
-heading: '**Definition 3.1 — Π-Projection**'
-id: GEN13-2188
-lines: 2214-2220
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-i-electronic-material-properties::definition-31-π-projection::b1
-parent_heading: '**3\. Π-Layer I: Electronic Material Properties**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+- →
+aliases:
+- Bk592mp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

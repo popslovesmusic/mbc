@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- Capsule Nets
-excerpt: 'Routers can dynamically switch modes based on: * context boxes * metadata'
-heading: B4.7 Real-Time Context Switching
 id: GEN20-7246
-lines: 7811-7836
 location: genesis-20/mbc-40-documentaitio-1::b47-real-time-context-switching::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7811-7836
+heading: B4.7 Real-Time Context Switching
+block_type: paragraph
+excerpt: 'Routers can dynamically switch modes based on: * context boxes * metadata'
+concepts:
+- context-specific
+- system-level
+- rule-based
+- Capsule Nets
+aliases:
+- Bk358rc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.16326530612245
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

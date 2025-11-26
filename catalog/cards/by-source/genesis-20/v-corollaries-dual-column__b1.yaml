@@ -1,17 +1,38 @@
-block_type: table
-concepts:
-- Box
-- Corollary
-- Identity Box
-- Polarity Linearity
-- Standard Math
-- Θ
-- Π
-- Σ
-- δ
-excerpt: '---'
-heading: V. Corollaries (Dual-Column)
 id: GEN20-6595
-lines: 482-495
 location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::v-corollaries-dual-column::b1
 source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 482-495
+heading: V. Corollaries (Dual-Column)
+block_type: table
+excerpt: '---'
+concepts:
+- Corollary
+- Polarity
+- IGSOA
+- MBC
+- Box
+- Router
+- Π
+- δ
+- Σ
+- Θ
+- Π-Completeness
+- branch-weight
+- δ-adjacency
+- well-typed
+- Π-fixed
+aliases:
+- Bk361im
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.9811320754717
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

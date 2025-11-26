@@ -1,14 +1,30 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Foundation Layer Axiom Block
-- Layer
-- Φ
-- δ
-excerpt: The unified δ \+ Φ Foundation Layer Axiom Block (merged)
-heading: '**You said:**'
 id: GEN2-6402
-lines: 1327-1329
 location: genesis-2/axioms-of-geometry-topos-compatible::one-line-summary::you-said::b2
-parent_heading: '**One-Line Summary**'
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1327-1329
+heading: '**You said:**'
+parent_heading: '**One-Line Summary**'
+block_type: paragraph
+excerpt: The unified δ \+ Φ Foundation Layer Axiom Block (merged)
+concepts:
+- Foundation Layer
+- Axiom
+- Layer
+- Foundation Layer Axiom Block
+- δ
+- Φ
+aliases:
+- Bk752tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- undetermined
-- Ψ
-- δ
-excerpt: 'Ψ₀ has no features, so every possible configuration is equally “allowed.”
-  This means its space of possible “next states” has infinite measure: R(Ψ0)=∞.R(\\Psi\_0)=\\infty.R(Ψ0​)=∞.'
-heading: '**3\. Infinite Degeneracy Forces Motion**'
 id: INTK-10108
-lines: 502-514
 location: intake/meta-genesis-physical-interpretation-papers::3-infinite-degeneracy-forces-motion::b1
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 502-514
+heading: '**3\. Infinite Degeneracy Forces Motion**'
+block_type: paragraph
+excerpt: 'Ψ₀ has no features, so every possible configuration is equally “allowed.”
+  This means its space of possible “next states” has infinite measure: R(Ψ0)=∞.R(\\Psi\_0)=\\infty.R(Ψ0​)=∞.'
+concepts:
+- Ψ
+- ∞
+- undetermined
+- δ
+- first deviation δ
+- Ψ₀
+aliases:
+- Bk300hf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

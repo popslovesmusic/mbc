@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Exclusive-Or as δ-FORK \+ Π-RESOLVE)***'
 id: GEN18-5491
-lines: 1506-1508
 location: genesis-18/mbc-4::4-mbc-40-xor-operator::exclusive-or-as-δ-fork-π-resolve::b1
-parent_heading: '**4\. MBC-4.0 XOR Operator**'
 source: genesis-18\MBC-4.md
+lines: 1506-1508
+heading: '***(Exclusive-Or as δ-FORK \+ Π-RESOLVE)***'
+parent_heading: '**4\. MBC-4.0 XOR Operator**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

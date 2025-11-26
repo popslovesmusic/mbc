@@ -1,12 +1,28 @@
+id: INTK-10008
+location: intake/meta-genesis-mathematical-papers::6-the-igsoameta-math-minimal-summary::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1012-1016
+heading: '**6\. The IGSOA/Meta-Math Minimal Summary**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: Ψ0⟶δΨ0 (identity)⟶δ2Ψ0 (adjacency)⟶πTT (time)\\Psi\_0 \\longrightarrow \\delta\\Psi\_0
   \\ (\\text{identity}) \\longrightarrow \\delta^2\\Psi\_0 \\ (\\text{adjacency})
   \\overset{\\pi\_T}{\\longrightarr...
-heading: '**6\. The IGSOA/Meta-Math Minimal Summary**'
-id: INTK-10008
-lines: 1012-1016
-location: intake/meta-genesis-mathematical-papers::6-the-igsoameta-math-minimal-summary::b1
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+- δ
+- π
+aliases:
+- Bk927ia
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.918032786885246
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

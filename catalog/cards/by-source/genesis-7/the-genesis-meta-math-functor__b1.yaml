@@ -1,11 +1,35 @@
-block_type: paragraph
-concepts:
-- Math Functor
-- Meta-Math
-- δ
-excerpt: '*(Sealed IGSOA Definition)* Let: * G\\mathcal{G}G \= **Genesis category**'
-heading: '**🔷 THE GENESIS → META-MATH FUNCTOR**'
 id: GEN7-8529
-lines: 1264-1288
 location: genesis-7/the-complete-eft-lagrangian::the-genesis-meta-math-functor::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1264-1288
+heading: '**🔷 THE GENESIS → META-MATH FUNCTOR**'
+block_type: paragraph
+excerpt: '*(Sealed IGSOA Definition)* Let: * G\\mathcal{G}G \= **Genesis category**'
+concepts:
+- Meta-Math
+- IGSOA
+- Definition
+- →
+- Functor
+- Meta-Math category
+- δ-transformations
+- δ
+- δ-seeds
+- Genesis category
+- Math Functor
+aliases:
+- Bk474si
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.176470588235293
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

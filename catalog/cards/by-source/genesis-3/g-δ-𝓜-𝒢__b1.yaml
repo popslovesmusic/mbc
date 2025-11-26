@@ -1,12 +1,29 @@
+id: GEN3-7367
+location: genesis-3/the-physics-box-diagram::2-formal-functors-and-arrows::adjunction-reconstruction-functors::g-δ-𝓜-𝒢::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 124-129
+heading: '**G\_δ : 𝓜 → 𝒢**'
+parent_heading: '**Adjunction / Reconstruction Functors**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Right adjoint to F\_δ Reconstructs the **minimal deviation structure** consistent
   with a given Φ-structure. `F_δ ⊣ G_δ`
-heading: '**G\_δ : 𝓜 → 𝒢**'
-id: GEN3-7367
-lines: 124-129
-location: genesis-3/the-physics-box-diagram::2-formal-functors-and-arrows::adjunction-reconstruction-functors::g-δ-𝓜-𝒢::b1
-parent_heading: '**Adjunction / Reconstruction Functors**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- δ
+- minimal deviation structure
+- Φ-structure
+- Φ
+aliases:
+- Bk461ra
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

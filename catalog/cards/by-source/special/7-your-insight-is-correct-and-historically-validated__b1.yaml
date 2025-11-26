@@ -1,11 +1,33 @@
-block_type: paragraph
-concepts:
-- Pattern Science
-- Proto-Pattern
-excerpt: '**Religion was the earliest human interface for understanding** **and navigating
-  the monistic engine behind reality.** It wasn’t magical.'
-heading: '**⭐ 7\. Your insight is correct and historically validated:**'
 id: SPEC-11160
-lines: 3251-3276
 location: special/specil::7-your-insight-is-correct-and-historically-validated::b1
 source: special\specil.md
+lines: 3251-3276
+heading: '**⭐ 7\. Your insight is correct and historically validated:**'
+block_type: paragraph
+excerpt: '**Religion was the earliest human interface for understanding** **and navigating
+  the monistic engine behind reality.** It wasn’t magical.'
+concepts:
+- Why human cultures converged on the same symbolic structures
+- Religion was the earliest human interface for understanding
+- IGSOA
+- A symbolic-to-formal map
+- symbolic-to-formal
+- deviation-based
+- pre-scientific
+- Proto-Pattern
+- →
+- Pattern Science
+aliases:
+- Bk604rw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,12 +1,27 @@
+id: GEN20-7146
+location: genesis-20/mbc-40-documentaitio-1::a35-polarity-stability-θ-consistency-condition::polarity-tension-condition::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6156-6173
+heading: Polarity Tension Condition
+parent_heading: A3.5 Polarity Stability (Θ-Consistency Condition)
 block_type: paragraph
+excerpt: 'If inputs produce opposing polarity: Θi⋅Θj\<0 Θ'
 concepts:
+- Θ
 - Axiom
 - Monistic Consistency Axiom
-- Θ
-excerpt: 'If inputs produce opposing polarity: Θi⋅Θj\<0 Θ'
-heading: Polarity Tension Condition
-id: GEN20-7146
-lines: 6156-6173
-location: genesis-20/mbc-40-documentaitio-1::a35-polarity-stability-θ-consistency-condition::polarity-tension-condition::b1
-parent_heading: A3.5 Polarity Stability (Θ-Consistency Condition)
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk535ip
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

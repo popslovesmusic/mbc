@@ -1,10 +1,29 @@
+id: GEN5-8184
+location: genesis-5/the-ga-8-meta-einstein-theorem::2-adjacency-as-projections::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 718-738
+heading: '**2\. Adjacency as Projections**'
 block_type: paragraph
-concepts: []
 excerpt: 'Adjacency is reinterpreted as a relation between projections: px,py∈A,px2=px=px\\\*,p\_x,
   p\_y \\in \\mathcal{A}, \\quad p\_x^2=p\_x=p\_x^\\\*, px​,py​∈A,px2​=px​=px\\\*​,
   with:'
-heading: '**2\. Adjacency as Projections**'
-id: GEN5-8184
-lines: 718-738
-location: genesis-5/the-ga-8-meta-einstein-theorem::2-adjacency-as-projections::b1
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- Adjacency
+- ∈
+- non-zero
+- ≠
+aliases:
+- Bk254ar
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.2105263157894735
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

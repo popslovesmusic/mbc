@@ -1,13 +1,32 @@
+id: GEN5-8016
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-no-lift-theorem-formal::proof-by-contradiction::step-3-track-what-ul-does-to-symmetries::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1156-1167
+heading: '**Step 3: Track what UL does to symmetries**'
+parent_heading: '**Proof (by contradiction)**'
 block_type: paragraph
-concepts:
-- δ
-- σ
 excerpt: 'Because LLL is **free generation**, Lσ:LX→LXL\\sigma: LX \\to LXLσ:LX→LX
   permutes the free δ-generators. Applying UUU, the map ULσ:ULX→ULXUL\\sigma : ULX
   \\to ULXULσ:ULX→ULX'
-heading: '**Step 3: Track what UL does to symmetries**'
-id: GEN5-8016
-lines: 1156-1167
-location: genesis-5/formal-proof-of-the-adjoint-triple::the-no-lift-theorem-formal::proof-by-contradiction::step-3-track-what-ul-does-to-symmetries::b1
-parent_heading: '**Proof (by contradiction)**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- σ
+- →
+- δ-generators
+- δ
+- induced permutation
+- free generation
+aliases:
+- Bk628bl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

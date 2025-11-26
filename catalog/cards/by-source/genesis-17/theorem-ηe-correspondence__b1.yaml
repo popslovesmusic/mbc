@@ -1,14 +1,30 @@
-block_type: paragraph
-concepts:
-- Box
-- Full-Expand
-- Λ
-- η
-- λ
-excerpt: 'For every λ-term M M:'
-heading: Theorem (η–E Correspondence)
 id: GEN17-4521
-lines: 5954-5979
 location: genesis-17/box-calculus::2-the-core-statement-of-equivalence::theorem-ηe-correspondence::b1
-parent_heading: ⭐ 2\. THE CORE STATEMENT OF EQUIVALENCE
 source: genesis-17\box_calculus.md
+lines: 5954-5979
+heading: Theorem (η–E Correspondence)
+parent_heading: ⭐ 2\. THE CORE STATEMENT OF EQUIVALENCE
+block_type: paragraph
+excerpt: 'For every λ-term M M:'
+concepts:
+- Λ
+- Full-Expand
+- η
+- Box
+- BFull-Expand
+- λ
+aliases:
+- Bk657fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,31 @@
-block_type: paragraph
-concepts:
-- Π
-- δ
-excerpt: 'The **Aufbau sequence** becomes: Z=∑k=1n∣O(k)∣.Z \= \\sum\_{k=1}^{n} |\\mathcal{O}(k)|.Z=k=1∑n​∣O(k)∣.
-  This yields the classical periodic table row lengths:'
-heading: '**7\. Emergence of Periodicity**'
 id: GEN9-9411
-lines: 1147-1159
 location: genesis-9/is-the-source-of-all-structure::7-emergence-of-periodicity::b1
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 1147-1159
+heading: '**7\. Emergence of Periodicity**'
+block_type: paragraph
+excerpt: 'The **Aufbau sequence** becomes: Z=∑k=1n∣O(k)∣.Z \= \\sum\_{k=1}^{n} |\\mathcal{O}(k)|.Z=k=1∑n​∣O(k)∣.
+  This yields the classical periodic table row lengths:'
+concepts:
+- the cumulative Π-stable δ-harmonic capacities
+- ∑
+- δ-harmonic
+- Π-stable
+- Π
+- δ
+- Aufbau sequence
+aliases:
+- Bk627ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.20754716981132
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,26 @@
+id: GEN18-5818
+location: genesis-18/sealed-axiom-box::if-you-want-next-i-can-provide::the-mbc-40-semantic-logic-box-sealed::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 2075-2081
+heading: '**🔵 The MBC-4.0 Semantic Logic Box (sealed)**'
+parent_heading: '**If you want next, I can provide:**'
 block_type: paragraph
-concepts: []
 excerpt: (one-page axiomatic definition of the whole semantic layer) Which one should
   I generate next? ChatGPT can make mistakes. Check important info.
-heading: '**🔵 The MBC-4.0 Semantic Logic Box (sealed)**'
-id: GEN18-5818
-lines: 2075-2081
-location: genesis-18/sealed-axiom-box::if-you-want-next-i-can-provide::the-mbc-40-semantic-logic-box-sealed::b1
-parent_heading: '**If you want next, I can provide:**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- Definition
+- one-page
+aliases:
+- Bk425op
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

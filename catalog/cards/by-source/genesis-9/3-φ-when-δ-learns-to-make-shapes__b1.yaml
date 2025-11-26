@@ -1,15 +1,30 @@
+id: GEN9-9079
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::3-φ-when-δ-learns-to-make-shapes::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 772-800
+heading: '**3\. Φ: When δ Learns to Make Shapes**'
+parent_heading: '**“Why Orbitals Exist at All”**'
 block_type: paragraph
-concepts:
-- pre-geometry
-- Φ
-- δ
-- δ-harmonics
 excerpt: 'Once δ exists, it “wants” to propagate— not in space, but in the only domain
   available: **its own harmonic rhythm**. These rhythms form clusters—triplets—each
   with its own tension and balance.'
-heading: '**3\. Φ: When δ Learns to Make Shapes**'
-id: GEN9-9079
-lines: 772-800
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::3-φ-when-δ-learns-to-make-shapes::b1
-parent_heading: '**“Why Orbitals Exist at All”**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- δ-harmonics
+- Φ
+- pre-geometry
+- its own harmonic rhythm
+aliases:
+- Bk869oe
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.854368932038835
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

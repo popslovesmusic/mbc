@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: The set of boxes forms a directed graph G G.
-heading: A2.4 Causal Order (Formal Structure)
 id: GEN20-7114
-lines: 5732-5764
 location: genesis-20/mbc-40-documentaitio-1::a24-causal-order-formal-structure::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5732-5764
+heading: A2.4 Causal Order (Formal Structure)
+block_type: paragraph
+excerpt: The set of boxes forms a directed graph G G.
+concepts:
+- →
+- Anti-symmetric
+- Φ-stabilized
+- Φ
+aliases:
+- Bk102ts
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

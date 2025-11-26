@@ -1,13 +1,30 @@
+id: GEN20-6924
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::1110-the-canonical-diagram-stack-axiom::statement::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3547-3549
+heading: Statement
+parent_heading: 11.10 The Canonical Diagram Stack Axiom
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Every valid MBC system must admit a δ → Φ → Π diagrammatic decomposition
   across all levels of structure.
-heading: Statement
-id: GEN20-6924
-lines: 3547-3549
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::1110-the-canonical-diagram-stack-axiom::statement::b1
-parent_heading: 11.10 The Canonical Diagram Stack Axiom
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- →
+- Π
+- δ
+- Φ
+aliases:
+- Bk379ev
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.411764705882355
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

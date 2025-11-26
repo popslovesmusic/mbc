@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- Fully Formal
-excerpt: '*(A Fully Formal IGSOA Derivation)* ---'
-heading: '**The Second Law from δ-Weitzenböck Curvature**'
 id: GEN10-790
-lines: 719-723
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::the-second-law-from-δ-weitzenböck-curvature::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 719-723
+heading: '**The Second Law from δ-Weitzenböck Curvature**'
+block_type: paragraph
+excerpt: '*(A Fully Formal IGSOA Derivation)* ---'
+concepts:
+- IGSOA
+- Fully Formal
+aliases:
+- Bk749ff
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

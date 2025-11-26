@@ -1,11 +1,29 @@
+id: GEN4-7597
+location: genesis-4/meta-physics-axiom-box::meta-physics-axiom-box::8-conservation-of-deviation-axiom::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 160-169
+heading: '**8\. Conservation of Deviation Axiom**'
+parent_heading: '**META-PHYSICS AXIOM BOX**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'For any morphism f:X→Yf : X \\to Yf:X→Y: ∣δY∣≥∣δX∣.|\\delta Y| \\ge |\\delta
   X|.∣δY∣≥∣δX∣. Deviation cannot decrease under lawful transformation'
-heading: '**8\. Conservation of Deviation Axiom**'
-id: GEN4-7597
-lines: 160-169
-location: genesis-4/meta-physics-axiom-box::meta-physics-axiom-box::8-conservation-of-deviation-axiom::b1
-parent_heading: '**META-PHYSICS AXIOM BOX**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Deviation
+- δ
+- ≥
+- →
+- non-loss
+- δY
+- δX
+aliases:
+- Bk387fa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.588235294117645
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

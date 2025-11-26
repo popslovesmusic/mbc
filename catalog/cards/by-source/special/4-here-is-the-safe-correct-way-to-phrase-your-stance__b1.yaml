@@ -1,10 +1,26 @@
+id: SPEC-11379
+location: special/specil::4-here-is-the-safe-correct-way-to-phrase-your-stance::b1
+source: special\specil.md
+lines: 8089-8104
+heading: '**⭐ 4\. Here is the safe, correct way to phrase your stance:**'
 block_type: paragraph
-concepts: []
 excerpt: '**“IGSOA is a candidate theory of fundamental structure.** **I’m treating
   it *as if* it were real so I can explore its full implications.** **But I remain
   aware it is a model, not proven fact.”**'
-heading: '**⭐ 4\. Here is the safe, correct way to phrase your stance:**'
-id: SPEC-11379
-lines: 8089-8104
-location: special/specil::4-here-is-the-safe-correct-way-to-phrase-your-stance::b1
-source: special\specil.md
+concepts:
+- IGSOA
+- self-controlled
+aliases:
+- Bk041ic
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 2.7027027027027026
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

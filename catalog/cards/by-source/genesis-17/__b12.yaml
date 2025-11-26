@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: IGSOA becomes inevitable. IGSOA becomes inevitable. ---
-heading: ⭐
 id: GEN17-4716
-lines: 8357-8361
 location: genesis-17/box-calculus::::b12
 source: genesis-17\box_calculus.md
+lines: 8357-8361
+heading: ⭐
+block_type: paragraph
+excerpt: IGSOA becomes inevitable. IGSOA becomes inevitable. ---
+concepts:
+- IGSOA
+aliases:
+- Bk446ib
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

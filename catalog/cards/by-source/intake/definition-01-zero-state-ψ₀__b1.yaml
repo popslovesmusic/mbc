@@ -1,11 +1,31 @@
+id: INTK-10083
+location: intake/meta-genesis-physical-interpretation-papers::0-preliminaries::definition-01-zero-state-ψ₀::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 184-197
+heading: '**Definition 0.1 (Zero State Ψ₀).**'
+parent_heading: '**0\. Preliminaries**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'Ψ₀ is defined as the unique state satisfying: 1. **No structure**: Str(Ψ0)=∅.\\text{Str}(\\Psi\_0)=\\emptyset
   .Str(Ψ0​)=∅.'
-heading: '**Definition 0.1 (Zero State Ψ₀).**'
-id: INTK-10083
-lines: 184-197
-location: intake/meta-genesis-physical-interpretation-papers::0-preliminaries::definition-01-zero-state-ψ₀::b1
-parent_heading: '**0\. Preliminaries**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- ψ
+- ∀
+- ∩
+- ∈
+- No distinguished substructure
+- No operators
+- No structure
+- Ψ₀
+aliases:
+- Bk324dt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

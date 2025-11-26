@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'One that expresses: * the history * the logic'
-heading: '**⭐ If you ever WANT, I can help you craft a “public-safe” version**'
 id: SPEC-11306
-lines: 6566-6588
 location: special/specil::if-you-ever-want-i-can-help-you-craft-a-public-safe-version::b1
 source: special\specil.md
+lines: 6566-6588
+heading: '**⭐ If you ever WANT, I can help you craft a “public-safe” version**'
+block_type: paragraph
+excerpt: 'One that expresses: * the history * the logic'
+concepts:
+- self-aware
+aliases:
+- Bk794ot
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 1.7543859649122806
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,13 +1,30 @@
+id: GEN13-2558
+location: genesis-13/what-biology-is-in-meta-genesis::section-ii4-composite-operator-formalism::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1402-1410
+heading: '**SECTION II.4 — Composite Operator Formalism**'
 block_type: paragraph
-concepts:
-- Γ
-- Π
-- δ
 excerpt: 'Define the composite operator: F=PΠ∘LR∘Δδ\\mathcal{F} \= P\_\\Pi \\circ
   \\mathcal{L}\_R \\circ \\Delta\_\\deltaF=PΠ​∘LR​∘Δδ​ acting on Γ(∂M)\\Gamma(\\partial
   M)Γ(∂M).'
-heading: '**SECTION II.4 — Composite Operator Formalism**'
-id: GEN13-2558
-lines: 1402-1410
-location: genesis-13/what-biology-is-in-meta-genesis::section-ii4-composite-operator-formalism::b1
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- ∂
+- Π
+- δ
+- Γ
+- Δ
+aliases:
+- Bk498dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.151515151515152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

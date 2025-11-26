@@ -1,10 +1,30 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'The δ-harmonics create a *second potential barrier* at radius: rδ=2M−Lδr\_\\delta
-  \= 2M \- L\_\\deltarδ​=2M−Lδ​ The cavity width in tortoise coordinates is:'
-heading: '**✅ 3\. Effective Cavity Width and Echo Delay**'
 id: GEN11-1014
-lines: 406-427
 location: genesis-11/how-curvature-could-generate-an-axis::3-effective-cavity-width-and-echo-delay::b1
 source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 406-427
+heading: '**✅ 3\. Effective Cavity Width and Echo Delay**'
+block_type: paragraph
+excerpt: 'The δ-harmonics create a *second potential barrier* at radius: rδ=2M−Lδr\_\\delta
+  \= 2M \- L\_\\deltarδ​=2M−Lδ​ The cavity width in tortoise coordinates is:'
+concepts:
+- δ
+- Δ
+- δ-harmonic
+- δ harmonic cavity deformation
+- δ-harmonics
+- δr
+aliases:
+- Bk031th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.411764705882353
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

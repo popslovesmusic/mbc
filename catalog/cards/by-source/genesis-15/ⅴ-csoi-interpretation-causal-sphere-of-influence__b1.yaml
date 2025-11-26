@@ -1,11 +1,31 @@
-block_type: paragraph
-concepts:
-- Causal Sphere
-- δ
-excerpt: 'Your **Causal Sphere of Influence (CSOI)** gives a geometric picture: *
-  δ-curvature defines harmonic lobes * CSOI-lobes propagate until recombination'
-heading: '**Ⅴ. CSOI Interpretation (Causal Sphere of Influence)**'
 id: GEN15-3231
-lines: 2271-2289
 location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-csoi-interpretation-causal-sphere-of-influence::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2271-2289
+heading: '**Ⅴ. CSOI Interpretation (Causal Sphere of Influence)**'
+block_type: paragraph
+excerpt: 'Your **Causal Sphere of Influence (CSOI)** gives a geometric picture: *
+  δ-curvature defines harmonic lobes * CSOI-lobes propagate until recombination'
+concepts:
+- CSOI-interference
+- CSOI-lobes
+- cross-sections
+- intersections of CSOI sheets
+- δ-curvature
+- δ
+- Causal Sphere
+aliases:
+- Bk465yc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.45945945945946
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

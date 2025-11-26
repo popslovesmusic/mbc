@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Adaptive metadata must converge: lim⁡t→∞M(t)=M∗ t→∞'
-heading: Convergence Condition
 id: GEN20-7148
-lines: 6186-6197
 location: genesis-20/mbc-40-documentaitio-1::a36-metadata-coherence-adaptive-stability::convergence-condition::b1
-parent_heading: A3.6 Metadata Coherence (Adaptive Stability)
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6186-6197
+heading: Convergence Condition
+parent_heading: A3.6 Metadata Coherence (Adaptive Stability)
+block_type: paragraph
+excerpt: 'Adaptive metadata must converge: lim⁡t→∞M(t)=M∗ t→∞'
+concepts:
+- →
+- ∞
+aliases:
+- Bk806am
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

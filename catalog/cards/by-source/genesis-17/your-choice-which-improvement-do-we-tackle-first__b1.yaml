@@ -1,20 +1,39 @@
-block_type: list
-concepts:
-- Box
-- Box Calculus
-- Curved Type Theory
-- Nets Formalization
-- Operator
-- Operator Minimization
-- Proof-Nets
-- Π
-- Φ
-- δ
-- ρ
-excerpt: 1. Operator Minimization (derive E, A, Φ, Π, ρ from 2 primitives) 2. Differential
-  δ-Structure
-heading: '⭐ Your choice: Which improvement do we tackle first?'
 id: GEN17-4601
-lines: 7189-7200
 location: genesis-17/box-calculus::your-choice-which-improvement-do-we-tackle-first::b1
 source: genesis-17\box_calculus.md
+lines: 7189-7200
+heading: '⭐ Your choice: Which improvement do we tackle first?'
+block_type: list
+excerpt: 1. Operator Minimization (derive E, A, Φ, Π, ρ from 2 primitives) 2. Differential
+  δ-Structure
+concepts:
+- Box Calculus
+- Proof
+- Box
+- Operator
+- δ
+- Girard-style
+- δ-Structure
+- Proof-Nets
+- Π
+- Operator Minimization
+- Φ
+- ρ
+- →
+- Curved Type Theory
+- Nets Formalization
+aliases:
+- Bk270om
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

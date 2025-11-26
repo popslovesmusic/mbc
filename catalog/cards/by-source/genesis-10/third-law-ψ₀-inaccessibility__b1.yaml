@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: S(T→0)↛0.S(T\\to 0\) \\nrightarrow 0.S(T→0)↛0.
-heading: '**Third Law (Ψ₀ Inaccessibility)**'
 id: GEN10-945
-lines: 3185-3187
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::11-the-δφπ-laws-of-thermodynamics-unified::third-law-ψ₀-inaccessibility::b1
-parent_heading: '**11\. The δ–Φ–Π Laws of Thermodynamics (Unified)**'
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 3185-3187
+heading: '**Third Law (Ψ₀ Inaccessibility)**'
+parent_heading: '**11\. The δ–Φ–Π Laws of Thermodynamics (Unified)**'
+block_type: paragraph
+excerpt: S(T→0)↛0.S(T\\to 0\) \\nrightarrow 0.S(T→0)↛0.
+concepts:
+- →
+aliases:
+- Bk153nr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

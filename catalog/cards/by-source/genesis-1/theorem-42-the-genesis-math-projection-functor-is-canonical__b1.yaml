@@ -1,12 +1,27 @@
+id: GEN1-655
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::4-consequences-of-the-adjoint-pair::theorem-42-the-genesis-math-projection-functor-is-canonical::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1838-1858
+heading: '**Theorem 4.2 — The Genesis → Math Projection Functor is Canonical.**'
+parent_heading: '**4\. Consequences of the Adjoint Pair**'
 block_type: paragraph
-concepts:
-- Deviational Geometry
-- Π
 excerpt: 'The functor: Π:M→GR\\Pi: \\mathcal{M} \\to \\mathbf{GR}Π:M→GR factors through
   the adjunction:'
-heading: '**Theorem 4.2 — The Genesis → Math Projection Functor is Canonical.**'
-id: GEN1-655
-lines: 1838-1858
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::4-consequences-of-the-adjoint-pair::theorem-42-the-genesis-math-projection-functor-is-canonical::b1
-parent_heading: '**4\. Consequences of the Adjoint Pair**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- Deviational Geometry
+- →
+- Deviation
+- Π
+- ΠGR
+aliases:
+- Bk403tf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.204081632653061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

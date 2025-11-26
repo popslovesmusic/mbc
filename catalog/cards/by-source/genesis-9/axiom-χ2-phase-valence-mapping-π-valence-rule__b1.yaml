@@ -1,11 +1,36 @@
+id: GEN9-9199
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-χ-valence-electronegativity-law::axiom-χ2-phase-valence-mapping-π-valence-rule::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2603-2623
+heading: '**Axiom χ2 — Phase → Valence Mapping (Π-Valence Rule)**'
+parent_heading: '**The χ ↔ Valence ↔ Electronegativity Law**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The **valence behavior** of an element is determined by the **phase deviation
   magnitude**: V  =  f(∣χ∣)V \\;=\\; f(|\\chi|)V=f(∣χ∣) with the canonical ordering:'
-heading: '**Axiom χ2 — Phase → Valence Mapping (Π-Valence Rule)**'
-id: GEN9-9199
-lines: 2603-2623
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-χ-valence-electronegativity-law::axiom-χ2-phase-valence-mapping-π-valence-rule::b1
-parent_heading: '**The χ ↔ Valence ↔ Electronegativity Law**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- χ
+- →
+- ≈
+- strong directional valence
+- phase deviation magnitude
+- mild directional valence
+- noble-gas
+- δ-stable
+- maximum valence impact
+- δ
+- valence behavior
+aliases:
+- Bk687tv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.827956989247312
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

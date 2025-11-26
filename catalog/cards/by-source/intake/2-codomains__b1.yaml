@@ -1,11 +1,26 @@
+id: INTK-10194
+location: intake/meta-genesis-meta-math-integration-papers::2-codomains::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 251-259
+heading: '**2\. Codomains**'
 block_type: paragraph
-concepts:
-- codomain
 excerpt: 'The **codomain** of an operator is the set of all *possible outputs* it
   is allowed to produce: Cod(O)⊆H.\\mathrm{Cod}(\\mathcal{O}) \\subseteq \\mathcal{H}.Cod(O)⊆H.
   In IGSOA, codomains must respect:'
-heading: '**2\. Codomains**'
-id: INTK-10194
-lines: 251-259
-location: intake/meta-genesis-meta-math-integration-papers::2-codomains::b1
-source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+concepts:
+- IGSOA
+- codomain
+aliases:
+- Bk137tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.714285714285714
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

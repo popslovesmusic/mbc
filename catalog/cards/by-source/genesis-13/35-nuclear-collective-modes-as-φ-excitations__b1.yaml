@@ -1,10 +1,29 @@
+id: GEN13-2043
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-the-physical-nuclear-regime::35-nuclear-collective-modes-as-φ-excitations::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 556-568
+heading: '**3.5 Nuclear Collective Modes as Φ-Excitations**'
+parent_heading: '**3\. Π-Layer: The Physical Nuclear Regime**'
 block_type: paragraph
+excerpt: 'Giant resonances: * GDR (dipole) \= Φ¹-mode * GQR (quadrupole) \= Φ²-mode'
 concepts:
 - Φ
-excerpt: 'Giant resonances: * GDR (dipole) \= Φ¹-mode * GQR (quadrupole) \= Φ²-mode'
-heading: '**3.5 Nuclear Collective Modes as Φ-Excitations**'
-id: GEN13-2043
-lines: 556-568
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-the-physical-nuclear-regime::35-nuclear-collective-modes-as-φ-excitations::b1
-parent_heading: '**3\. Π-Layer: The Physical Nuclear Regime**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+- Φ-tensor
+- Φ²
+- Φ¹
+- Φ⁰
+aliases:
+- Bk866gr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.31578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,35 @@
+id: GEN14-2766
+location: genesis-14/inflation-structure-formation::next-and-final-cosmology-master-piece::9-full-inflationstructure-cascade-theorem::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1884-1904
+heading: '**9\. Full Inflation–Structure Cascade Theorem**'
+parent_heading: '**Next (and final cosmology master piece):**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'A single combined formal theorem synthesizing Proofs 1–8: * δ-instability
   ⇒ inflation * Φ-freeze ⇒ primordial spectrum'
-heading: '**9\. Full Inflation–Structure Cascade Theorem**'
-id: GEN14-2766
-lines: 1884-1904
-location: genesis-14/inflation-structure-formation::next-and-final-cosmology-master-piece::9-full-inflationstructure-cascade-theorem::b1
-parent_heading: '**Next (and final cosmology master piece):**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- Theorem
+- δ
+- δ-instability
+- Π-stability
+- the full master theorem
+- Φ-freeze
+- δ-Higgs
+- Π
+- χ
+- Φ
+aliases:
+- Bk256sc
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.27659574468085
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

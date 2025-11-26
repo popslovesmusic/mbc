@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Deviational Geometry
-- consequences
-- derive
-- δ
-excerpt: 'In ordinary geometry you begin with: * points * coordinates'
-heading: '**1\. Core Idea**'
 id: INTK-9927
-lines: 523-540
 location: intake/meta-genesis-diagrammatic-papers::1-core-idea::b1
 source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 523-540
+heading: '**1\. Core Idea**'
+block_type: paragraph
+excerpt: 'In ordinary geometry you begin with: * points * coordinates'
+concepts:
+- Deviational Geometry
+- Deviation
+- Curvature
+- δ
+- →
+- δ-structure
+- consequences
+- derive
+aliases:
+- Bk348og
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.51282051282051
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,19 +1,40 @@
+id: GEN4-7806
+location: genesis-4/the-adjoint-triple::the-δφ-tri-unity-transition-box::axiom-t1-modal-distinction-without-ontic-division::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1506-1522
+heading: '**Axiom T1 — Modal Distinction Without Ontic Division**'
+parent_heading: '**✦ THE δ–Φ → TRI-UNITY TRANSITION BOX**'
 block_type: paragraph
+excerpt: 'The universe expresses three **modalities**: * **δ** — Pure deviation (Meta-Genesis)
+  * **Φ** — Pure form (Meta-Math / δ-Geometry)'
 concepts:
+- Deviation
+- Meta-Genesis
+- Meta-Math
+- δ
+- tri-modal monism
+- π
+- Φ
+- δ-Geometry
+- tri-modal
+- modes of one substance
+- not three substances
 - 'Deviation
 
 
   Thus'
-- Meta-Genesis
-- Meta-Math
 - modalities
-- Φ
-- δ
-excerpt: 'The universe expresses three **modalities**: * **δ** — Pure deviation (Meta-Genesis)
-  * **Φ** — Pure form (Meta-Math / δ-Geometry)'
-heading: '**Axiom T1 — Modal Distinction Without Ontic Division**'
-id: GEN4-7806
-lines: 1506-1522
-location: genesis-4/the-adjoint-triple::the-δφ-tri-unity-transition-box::axiom-t1-modal-distinction-without-ontic-division::b1
-parent_heading: '**✦ THE δ–Φ → TRI-UNITY TRANSITION BOX**'
-source: genesis-4\The_Adjoint_Triple.md
+aliases:
+- Bk654tu
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.033898305084744
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

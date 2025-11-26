@@ -1,14 +1,37 @@
+id: INTK-10073
+location: intake/meta-genesis-physical-interpretation-papers::why-the-universe-cannot-remain-still::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 2-21
+heading: '**Why the Universe Cannot Remain Still**'
 block_type: paragraph
-concepts:
-- The First Necessity
-- Zero State
-- possible
-- Ψ
 excerpt: '*(The First Necessity of Deviation)* Imagine a universe that begins as the
   purest possible state — a perfect stillness without space, without matter, without
   time. A state so simple that it contains *...'
-heading: '**Why the Universe Cannot Remain Still**'
-id: INTK-10073
-lines: 2-21
-location: intake/meta-genesis-physical-interpretation-papers::why-the-universe-cannot-remain-still::b1
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Deviation
+- IGSOA
+- State
+- stillness is not stable
+- Ψ
+- The First Necessity
+- no directions
+- no operators
+- no gradients
+- no choices
+- Zero State
+- no change
+- Ψ₀
+aliases:
+- Bk700tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: true
+concept_density: 10.655737704918032
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

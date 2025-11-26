@@ -1,12 +1,30 @@
+id: GEN12-1909
+location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-formation-theorem::5-central-singularities::b1
+source: genesis-12\Untitled_document.md
+lines: 2802-2810
+heading: '**5\. Central Singularities.**'
+parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Formation Theorem ⟡**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'A basin becomes a black-hole nucleus iff its δ-curvature exceeds the critical
   deviation: Cδ(Ki)\>Ccrit.C\_\\delta(K\_i) \> C\_{\\mathrm{crit}}.Cδ​(Ki​)\>Ccrit​.
   Thus SMBHs correspond to δ-knot saturat...'
-heading: '**5\. Central Singularities.**'
-id: GEN12-1909
-lines: 2802-2810
-location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-formation-theorem::5-central-singularities::b1
-parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Formation Theorem ⟡**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- δ-curvature
+- black-hole
+- δ-knot
+aliases:
+- Bk048bb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

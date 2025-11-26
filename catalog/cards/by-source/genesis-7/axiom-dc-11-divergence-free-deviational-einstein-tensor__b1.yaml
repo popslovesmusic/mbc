@@ -1,14 +1,32 @@
+id: GEN7-8668
+location: genesis-7/why-curvature-gives-gravity::v-meta-einstein-compatibility-axioms::axiom-dc-11-divergence-free-deviational-einstein-tensor::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 659-673
+heading: '**Axiom DC-11 — Divergence-Free Deviational Einstein Tensor**'
+parent_heading: '**V. META-EINSTEIN COMPATIBILITY AXIOMS**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- δ
-- μ
-- ν
 excerpt: 'Define the δ-Meta-Einstein tensor: Gμνδ:=PRiem(Rμνδ)−12gμνPRiem(Rδ).\\mathfrak{G}^\\delta\_{\\mu\\nu}
   := \\mathcal{P}\_{\\mathrm{Riem}}(R^\\delta\_{\\mu\\nu}) \- \\frac{1}{2} g\_{\\mu\\nu}\\mathcal{P}...'
-heading: '**Axiom DC-11 — Divergence-Free Deviational Einstein Tensor**'
-id: GEN7-8668
-lines: 659-673
-location: genesis-7/why-curvature-gives-gravity::v-meta-einstein-compatibility-axioms::axiom-dc-11-divergence-free-deviational-einstein-tensor::b1
-parent_heading: '**V. META-EINSTEIN COMPATIBILITY AXIOMS**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- μ
+- δ
+- ν
+- Meta-Einstein
+- ∇
+- δ-Meta-Einstein
+- conservation structure
+aliases:
+- Bk789dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

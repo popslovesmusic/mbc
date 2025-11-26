@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Λ
-excerpt: 'We must show: Λ(T(M))≡M\\Lambda(\\mathcal{T}(M)) \\equiv MΛ(T(M))≡M and'
-heading: '**⭐ 4\. The Heart of the Equivalence**'
 id: GEN16-4095
-lines: 4550-4560
 location: genesis-16/untitled-document::4-the-heart-of-the-equivalence::b1
 source: genesis-16\Untitled_document.md
+lines: 4550-4560
+heading: '**⭐ 4\. The Heart of the Equivalence**'
+block_type: paragraph
+excerpt: 'We must show: Λ(T(M))≡M\\Lambda(\\mathcal{T}(M)) \\equiv MΛ(T(M))≡M and'
+concepts:
+- Λ
+aliases:
+- Bk187ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.3333333333333335
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

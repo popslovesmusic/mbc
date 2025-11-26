@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: The universe’s first “move.” The first non-zero. The first crack in the perfectly
-  uniform field.
-heading: '**Deviation (δ)**'
 id: GEN1-380
-lines: 303-318
 location: genesis-1/the-first-geometry::deviation-δ::b1
 source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 303-318
+heading: '**Deviation (δ)**'
+block_type: paragraph
+excerpt: The universe’s first “move.” The first non-zero. The first crack in the perfectly
+  uniform field.
+concepts:
+- non-zero
+aliases:
+- Bk839tu
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 1.9230769230769231
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

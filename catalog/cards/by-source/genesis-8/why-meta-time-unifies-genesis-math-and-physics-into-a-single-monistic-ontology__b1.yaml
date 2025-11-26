@@ -1,15 +1,36 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Meta-Genesis
-- Meta-Math
-- Monism Axiom Box
-excerpt: 'This document is structured in the IGSOA style: * formal axioms * theorems'
+id: GEN8-8814
+location: genesis-8/meta-time-geometry-and-temporal-projection::a-meta-time-interpretation-within-monism::why-meta-time-unifies-genesis-math-and-physics-into-a-single-monistic-ontology::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 736-752
 heading: '***Why Meta-Time unifies Genesis, Math, and Physics into a single monistic
   ontology***'
-id: GEN8-8814
-lines: 736-752
-location: genesis-8/meta-time-geometry-and-temporal-projection::a-meta-time-interpretation-within-monism::why-meta-time-unifies-genesis-math-and-physics-into-a-single-monistic-ontology::b1
 parent_heading: '**A Meta-Time Interpretation Within Monism**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+block_type: paragraph
+excerpt: 'This document is structured in the IGSOA style: * formal axioms * theorems'
+concepts:
+- Meta-Genesis
+- Meta-Math
+- IGSOA
+- Axiom
+- Lemma
+- Box
+- category-level
+- →
+- Monism Axiom Box
+aliases:
+- Bk219td
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

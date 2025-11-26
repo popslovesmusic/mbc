@@ -1,12 +1,28 @@
+id: GEN12-1869
+location: genesis-12/untitled-document::7-δ-harmonic-determination-of-galaxy-morphology::spiral-galaxies-6-mode-dominance::b1
+source: genesis-12\Untitled_document.md
+lines: 2225-2231
+heading: '**Spiral Galaxies (6-Mode Dominance)**'
+parent_heading: '**7\. δ-Harmonic Determination of Galaxy Morphology**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'δ₆ interference produces stable rotational symmetries: Ki∼δ6+δ3⟹spiral.K\_i
   \\sim \\delta\_6 \+ \\delta\_3 \\quad\\Longrightarrow\\quad \\text{spiral}.Ki​∼δ6​+δ3​⟹spiral.
   The number of arms correspond...'
-heading: '**Spiral Galaxies (6-Mode Dominance)**'
-id: GEN12-1869
-lines: 2225-2231
-location: genesis-12/untitled-document::7-δ-harmonic-determination-of-galaxy-morphology::spiral-galaxies-6-mode-dominance::b1
-parent_heading: '**7\. δ-Harmonic Determination of Galaxy Morphology**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- δ₆
+aliases:
+- Bk547ip
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

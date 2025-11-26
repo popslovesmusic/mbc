@@ -1,11 +1,31 @@
+id: GEN20-6789
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::48-gate-operators-andorxornotimplies::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1648-1668
+heading: 4.8 Gate Operators (AND/OR/XOR/NOT/IMPLIES)
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts: []
 excerpt: 'Classical logic gates appear in MBC-4.0 as router configurations, not as
   primitives. Each gate corresponds to a particular polarity and routing configuration:
   * AND → polarity-convergent flow'
-heading: 4.8 Gate Operators (AND/OR/XOR/NOT/IMPLIES)
-id: GEN20-6789
-lines: 1648-1668
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::48-gate-operators-andorxornotimplies::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- →
+- MBC
+- polarity-convergent
+- polarity-conflict
+- polarity-unified
+- router-logic
+aliases:
+- Bk965cl
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**The Complete IGSOA Base Layer**'
 id: GEN4-7620
-lines: 422-424
 location: genesis-4/meta-physics-axiom-box::the-unified-foundation-layer-axiom-box::the-complete-igsoa-base-layer::b1
-parent_heading: '**THE UNIFIED FOUNDATION LAYER AXIOM BOX**'
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 422-424
+heading: '**The Complete IGSOA Base Layer**'
+parent_heading: '**THE UNIFIED FOUNDATION LAYER AXIOM BOX**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

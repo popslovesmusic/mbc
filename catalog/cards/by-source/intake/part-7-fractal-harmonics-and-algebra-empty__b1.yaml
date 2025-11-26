@@ -1,21 +1,37 @@
+id: INTK-10932
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-ii-metacalculus-metageometry-fractals-mostly-complete::part-7-fractal-harmonics-and-algebra-empty::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 115-137
+heading: '**Part 7: Fractal Harmonics and Algebra** ⚠️ **EMPTY**'
+parent_heading: '**Volume II: MetaCalculus, MetaGeometry, Fractals** ✓ Mostly Complete'
 block_type: paragraph
-concepts:
-- Fractal Adjacency Matrix
-- Fractal Dimension
-- Harmonic Resonance Lattice
-- Missing Encyclopedia Definitions
-- Operator
-- Scale Hierarchy
-- Scaling Group
-- Self-Similarity
-- Should Contain
-- Similarity Operator
-- δ
 excerpt: '**Status:** Directory exists, no content **Impact:** MEDIUM-HIGH - Fractal
   algebra not fully developed before physics application **Should Contain:**'
-heading: '**Part 7: Fractal Harmonics and Algebra** ⚠️ **EMPTY**'
-id: INTK-10932
-lines: 115-137
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-ii-metacalculus-metageometry-fractals-mostly-complete::part-7-fractal-harmonics-and-algebra-empty::b1
-parent_heading: '**Volume II: MetaCalculus, MetaGeometry, Fractals** ✓ Mostly Complete'
-source: intake\Volume_Structure_Gap_Analysis.md
+concepts:
+- Adjacency
+- Operator
+- δ-dimension
+- Missing Encyclopedia Definitions
+- δ
+- Self-Similarity
+- Self-similarity
+- Harmonic Resonance Lattice
+- MEDIUM-HIGH
+- Fractal Adjacency Matrix
+- Similarity Operator
+- Fractal Dimension
+- Scale Hierarchy
+- Should Contain
+- Scaling Group
+aliases:
+- Bk661sd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.54794520547945
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

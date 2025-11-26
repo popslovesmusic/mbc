@@ -1,13 +1,30 @@
+id: GEN4-7647
+location: genesis-4/meta-physics-axiom-box::proof-topos-theoretic-sketch::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 663-667
+heading: '**Proof (Topos-Theoretic Sketch)**'
 block_type: paragraph
-concepts:
-- Meta-Causality
-- δ
-- σ
 excerpt: We prove Meta-Causality by showing the δ-order defines an internal preorder
   object in the ∞-topos σ-Topos\\sigma\\text{-Topos}σ-Topos, then demonstrating that
   its externalization under geometric morph...
-heading: '**Proof (Topos-Theoretic Sketch)**'
-id: GEN4-7647
-lines: 663-667
-location: genesis-4/meta-physics-axiom-box::proof-topos-theoretic-sketch::b1
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- σ
+- Meta-Causality
+- δ-order
+- δ
+- ∞
+aliases:
+- Bk514pm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

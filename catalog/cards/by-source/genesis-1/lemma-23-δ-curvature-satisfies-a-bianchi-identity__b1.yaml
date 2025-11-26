@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: '**Statement.** The deviation-curvature obeys \[δ,\[δ,δ\]\]=0.\[\\delta,\[\\delta,\\delta\]\]=0.\[δ,\[δ,δ\]\]=0.'
-heading: '**Lemma 2.3 — δ-Curvature Satisfies a Bianchi Identity.**'
 id: GEN1-569
-lines: 830-846
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::lemma-23-δ-curvature-satisfies-a-bianchi-identity::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 830-846
+heading: '**Lemma 2.3 — δ-Curvature Satisfies a Bianchi Identity.**'
+block_type: paragraph
+excerpt: '**Statement.** The deviation-curvature obeys \[δ,\[δ,δ\]\]=0.\[\\delta,\[\\delta,\\delta\]\]=0.\[δ,\[δ,δ\]\]=0.'
+concepts:
+- δ
+- Proof
+- deviation-curvature
+aliases:
+- Bk415st
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,26 @@
+id: INTK-10666
+location: intake/volume-i-core-ontology-and-metagenesis-summary::framework-status-and-roadmap::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1602-1604
+heading: Framework Status and Roadmap
 block_type: paragraph
-concepts:
-- IGSOA-DFVM
-- Negative Ontology
 excerpt: This document summarizes the current status of the conjoined **Negative Ontology
   (NO)** and **IGSOA-DFVM** frameworks, its identified strengths and weaknesses, and
   the proposed roadmap for its future ...
-heading: Framework Status and Roadmap
-id: INTK-10666
-lines: 1602-1604
-location: intake/volume-i-core-ontology-and-metagenesis-summary::framework-status-and-roadmap::b1
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- meta-conversation
+- IGSOA-DFVM
+- Negative Ontology
+aliases:
+- Bk439td
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,16 +1,35 @@
+id: GEN7-8537
+location: genesis-7/the-complete-eft-lagrangian::7-curvature-compatibility::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1421-1449
+heading: '**7\. Curvature Compatibility**'
 block_type: paragraph
+excerpt: 'Deviation induces curvature in Genesis: Rμν(δ),\\mathcal{R}\_{\\mu\\nu}(\\delta),Rμν​(δ),
+  which must satisfy:'
 concepts:
-- Meta-Einstein
-- Meta-Math
-- non-commutativity
-- α
 - δ
 - μ
 - ν
-excerpt: 'Deviation induces curvature in Genesis: Rμν(δ),\\mathcal{R}\_{\\mu\\nu}(\\delta),Rμν​(δ),
-  which must satisfy:'
-heading: '**7\. Curvature Compatibility**'
-id: GEN7-8537
-lines: 1421-1449
-location: genesis-7/the-complete-eft-lagrangian::7-curvature-compatibility::b1
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+- Meta-Math
+- Meta-Einstein
+- δ-geometry
+- Deviation
+- non-commutativity
+- ∇
+- α
+- δ-EFT
+aliases:
+- Bk999di
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

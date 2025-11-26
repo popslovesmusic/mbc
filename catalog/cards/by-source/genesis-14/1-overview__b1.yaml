@@ -1,19 +1,40 @@
+id: GEN14-2822
+location: genesis-14/meta-math-and-cryptography::cryptography-as-a-meta-math-projection-theory::1-overview::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 506-526
+heading: '**1\. Overview**'
+parent_heading: '**Cryptography as a Meta-Math Projection Theory**'
 block_type: paragraph
-concepts:
-- Axiom
-- Meta-Math
-- asymmetric
-- lossy
-- non-invertible
-- Π
-- Φ
-- δ
 excerpt: Cryptography is traditionally understood as a branch of applied mathematics
   concerned with secure communication. In the Meta-Math framework, however, cryptography
   attains a deeper and more universal i...
-heading: '**1\. Overview**'
-id: GEN14-2822
-lines: 506-526
-location: genesis-14/meta-math-and-cryptography::cryptography-as-a-meta-math-projection-theory::1-overview::b1
-parent_heading: '**Cryptography as a Meta-Math Projection Theory**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Meta-Math
+- IGSOA
+- δ
+- Axiom
+- Π
+- δ-level
+- Φ
+- adjoint-triple
+- non-invertible
+- structural impossibility
+- Π-level
+- ad-hoc
+- projection theory
+- asymmetric
+- lossy
+aliases:
+- Bk049ct
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.79136690647482
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: producing primary adjacency-curvature deviations.
-heading: '**Functor δ : Genesis → 𝒟**'
 id: GEN12-1720
-lines: 63-65
 location: genesis-12/untitled-document::1-preliminaries-categories-and-functors::12-the-functors::functor-δ-genesis-𝒟::b1
-parent_heading: '**1.2 The Functors**'
 source: genesis-12\Untitled_document.md
+lines: 63-65
+heading: '**Functor δ : Genesis → 𝒟**'
+parent_heading: '**1.2 The Functors**'
+block_type: paragraph
+excerpt: producing primary adjacency-curvature deviations.
+concepts:
+- adjacency-curvature
+aliases:
+- Bk585pp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

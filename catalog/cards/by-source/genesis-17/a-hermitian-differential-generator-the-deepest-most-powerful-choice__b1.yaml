@@ -1,11 +1,27 @@
+id: GEN17-4689
+location: genesis-17/box-calculus::𝓕-is-a-differential-operator-that-is-also-self-adjoint::a-hermitian-differential-generator-the-deepest-most-powerful-choice::b1
+source: genesis-17\box_calculus.md
+lines: 8083-8088
+heading: (A Hermitian differential generator — the deepest, most powerful choice.)
+parent_heading: ⭐ 𝓕 is a differential operator that is ALSO self-adjoint.
 block_type: paragraph
-concepts: []
 excerpt: This isn’t “kinda B and kinda E.” This is literally the intersection of B
   and E, and that intersection is one of the most fundamental structures in all of
   mathematics and physics. Let me explain what ...
-heading: (A Hermitian differential generator — the deepest, most powerful choice.)
-id: GEN17-4689
-lines: 8083-8088
-location: genesis-17/box-calculus::𝓕-is-a-differential-operator-that-is-also-self-adjoint::a-hermitian-differential-generator-the-deepest-most-powerful-choice::b1
-parent_heading: ⭐ 𝓕 is a differential operator that is ALSO self-adjoint.
-source: genesis-17\box_calculus.md
+concepts:
+- IGSOA
+aliases:
+- Bk751ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: false
+concept_density: 2.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

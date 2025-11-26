@@ -1,12 +1,29 @@
+id: GEN9-9511
+location: genesis-9/strong-force::5-weak-force-as-internal-natural-transformations::the-weak-gauge-field::b1
+source: genesis-9\strong-force.md
+lines: 1216-1224
+heading: '**The weak gauge field**'
+parent_heading: '**5\. Weak Force as Internal Natural Transformations**'
 block_type: paragraph
+excerpt: 'A(w):P→PA^{(w)} : \\mathbf{P} \\to \\mathbf{P}A(w):P→P is the Φ-image of
+  the torsion natural transformation: A(w):=Φ(T).A^{(w)} := \\Phi(T).A(w):=Φ(T).'
 concepts:
 - Φ
 - Φ-image
-excerpt: 'A(w):P→PA^{(w)} : \\mathbf{P} \\to \\mathbf{P}A(w):P→P is the Φ-image of
-  the torsion natural transformation: A(w):=Φ(T).A^{(w)} := \\Phi(T).A(w):=Φ(T).'
-heading: '**The weak gauge field**'
-id: GEN9-9511
-lines: 1216-1224
-location: genesis-9/strong-force::5-weak-force-as-internal-natural-transformations::the-weak-gauge-field::b1
-parent_heading: '**5\. Weak Force as Internal Natural Transformations**'
-source: genesis-9\strong-force.md
+- →
+- θ
+aliases:
+- Bk669mm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

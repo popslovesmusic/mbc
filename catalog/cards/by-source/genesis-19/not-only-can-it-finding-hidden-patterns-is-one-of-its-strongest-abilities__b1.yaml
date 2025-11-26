@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Here are concrete categories of patterns it can detect: ---'
-heading: Not only can it — finding hidden patterns is one of its strongest abilities.
 id: GEN19-6043
-lines: 387-390
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::so-can-mbc-find-unintentional-patterns::not-only-can-it-finding-hidden-patterns-is-one-of-its-strongest-abilities::b1
-parent_heading: So, Can MBC Find Unintentional Patterns?
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 387-390
+heading: Not only can it — finding hidden patterns is one of its strongest abilities.
+parent_heading: So, Can MBC Find Unintentional Patterns?
+block_type: paragraph
+excerpt: 'Here are concrete categories of patterns it can detect: ---'
+aliases:
+- Bk994ha
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
+id: GEN9-9405
+location: genesis-9/is-the-source-of-all-structure::4-π-projection-classical-stability::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 1039-1068
+heading: '**4\. Π-Projection: Classical Stability**'
 block_type: table
-concepts:
-- Meta-Time
-- Π
-- Φ
-- δ
 excerpt: 'Π acts on the Φ-image to enforce adjacency stability: Π:Hint→Hclassical.\\Pi:
   \\mathcal{H}\_{\\text{int}} \\rightarrow \\mathcal{H}\_{\\text{classical}}.Π:Hint​→Hclassical​.
   It enforces:'
-heading: '**4\. Π-Projection: Classical Stability**'
-id: GEN9-9405
-lines: 1039-1068
-location: genesis-9/is-the-source-of-all-structure::4-π-projection-classical-stability::b1
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- Meta-Time
+- Π
+- Π-composite modes
+- δ
+- →
+- δ-propagation
+- Π-composite
+- Π-stable
+- Φ-image
+- δ-modes
+- Φ
+aliases:
+- Bk636at
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.784313725490197
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

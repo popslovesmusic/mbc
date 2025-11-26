@@ -1,13 +1,35 @@
+id: SPEC-11011
+location: special/specil::5-so-the-answer-is-yes-and-here-is-the-precise-chain::yes::b1
+source: special\specil.md
+lines: 674-698
+heading: '**✔ Yes.**'
+parent_heading: '**🌋 5\. So the answer is: Yes, and here is the precise chain**'
 block_type: paragraph
-concepts:
-- IGSOA
-- NOT
-- δ
 excerpt: 'And here’s the **correct formal order**: 1. **NOT** forbids stillness 2.
   **IGSOA** begins cycling'
-heading: '**✔ Yes.**'
-id: SPEC-11011
-lines: 674-698
-location: special/specil::5-so-the-answer-is-yes-and-here-is-the-precise-chain::yes::b1
-parent_heading: '**🌋 5\. So the answer is: Yes, and here is the precise chain**'
-source: special\specil.md
+concepts:
+- IGSOA
+- δ
+- Smoothing creates rapid expansion
+- →
+- Symmetry tries to flatten δ
+- Physical realm appears
+- correct formal order
+- Heating occurs
+- Time begins
+- NOT
+- δ₀
+aliases:
+- Bk517ah
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.741935483870968
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

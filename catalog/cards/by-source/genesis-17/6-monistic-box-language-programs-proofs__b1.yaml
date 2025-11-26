@@ -1,10 +1,26 @@
+id: GEN17-4766
+location: genesis-17/box-calculus::monistic-box-calculus-syntax-v10::6-monistic-box-language-programs-proofs::b1
+source: genesis-17\box_calculus.md
+lines: 9085-9087
+heading: 6\. Monistic Box Language (Programs / Proofs)
+parent_heading: ⭐ MONISTIC BOX CALCULUS SYNTAX v1.0
 block_type: paragraph
-concepts: []
 excerpt: A “program” (reasoning chain) is now only a curvature-annotated 𝓕-flow on
   a graph.
-heading: 6\. Monistic Box Language (Programs / Proofs)
-id: GEN17-4766
-lines: 9085-9087
-location: genesis-17/box-calculus::monistic-box-calculus-syntax-v10::6-monistic-box-language-programs-proofs::b1
-parent_heading: ⭐ MONISTIC BOX CALCULUS SYNTAX v1.0
-source: genesis-17\box_calculus.md
+concepts:
+- curvature-annotated
+aliases:
+- Bk790pr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

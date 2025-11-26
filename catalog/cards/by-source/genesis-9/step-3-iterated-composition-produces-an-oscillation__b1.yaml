@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Φ
-- Ψ
-- δ
-excerpt: 'Define: Xn+1=Φ(δ(Xn))X\_{n+1} \= \\Phi(\\delta(X\_n))Xn+1​=Φ(δ(Xn​)) Since:'
-heading: '**Step 3 — Iterated composition produces an oscillation**'
 id: GEN9-9265
-lines: 932-956
 location: genesis-9/does-meta-genesis-indicate-new-physics::proof-sketch-category-theoretic::step-3-iterated-composition-produces-an-oscillation::b1
-parent_heading: '**Proof Sketch (Category-Theoretic)**'
 source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 932-956
+heading: '**Step 3 — Iterated composition produces an oscillation**'
+parent_heading: '**Proof Sketch (Category-Theoretic)**'
+block_type: paragraph
+excerpt: 'Define: Xn+1=Φ(δ(Xn))X\_{n+1} \= \\Phi(\\delta(X\_n))Xn+1​=Φ(δ(Xn​)) Since:'
+concepts:
+- δ
+- Φ
+- ≠
+- non-periodic
+- non-fixed
+- Ψ
+- Ψ₀
+aliases:
+- Bk496dp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.294117647058822
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

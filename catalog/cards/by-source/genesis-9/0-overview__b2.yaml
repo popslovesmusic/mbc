@@ -1,15 +1,39 @@
+id: GEN9-9492
+location: genesis-9/strong-force::0-overview::b2
+source: genesis-9\strong-force.md
+lines: 825-845
+heading: '**0\. Overview**'
 block_type: paragraph
-concepts:
-- torsion
-- δ
-- δ-curvature
-- μ
-- ν
 excerpt: Unlike the weak force—which emerges from the antisymmetric, binary nature
   of δ-torsion—the **strong force emerges when torsion is suppressed** and the δ-connection
   exhibits **pure δ-curvature with 3-f...
-heading: '**0\. Overview**'
-id: GEN9-9492
-lines: 825-845
-location: genesis-9/strong-force::0-overview::b2
-source: genesis-9\strong-force.md
+concepts:
+- δ
+- χ
+- δ-geometry
+- pure δ-curvature with 3-fold minimal degeneracy
+- δ-curvature
+- IGSOA
+- strong force emerges when torsion is suppressed
+- torsion
+- δ-torsion
+- ∧
+- μ
+- ν
+- strong-force
+- δ-connection
+aliases:
+- Bk388ut
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

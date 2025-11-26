@@ -1,15 +1,32 @@
+id: GEN20-6655
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::federated-reasoning-theorem-json-specification-mbc-40::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 1177-1181
+heading: Federated Reasoning Theorem — JSON Specification (MBC-4.0)
 block_type: paragraph
-concepts:
-- Federated Reasoning Theorem
-- Machine-Readable
-- Readable Version
-- Sealed Machine
-- Theorem
 excerpt: '(Sealed Machine-Readable Version) { "mbc\_version": "4.0", "module": "federated\_reasoning\_theorem",
   "sealed": true, "entities": { "nodes": "Categories C\_i", "local\_functors": "Pi\_i
   : C\_i \-\> Tr...'
-heading: Federated Reasoning Theorem — JSON Specification (MBC-4.0)
-id: GEN20-6655
-lines: 1177-1181
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::federated-reasoning-theorem-json-specification-mbc-40::b1
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- Theorem
+- Machine-Readable
+- Federated Reasoning Theorem
+- Pi-natural
+- Readable Version
+- Sealed Machine
+aliases:
+- Bk954sm
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.607476635514018
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

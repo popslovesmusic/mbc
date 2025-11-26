@@ -1,15 +1,37 @@
-block_type: table
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Linear Logic
-- Π
-- Σ
-- δ
-excerpt: The mapping is not loose—it is exact. ---
-heading: '⭐ 0\. Overview: Why Linear Logic?'
 id: GEN17-4538
-lines: 6171-6181
 location: genesis-17/box-calculus::0-overview-why-linear-logic::b1
 source: genesis-17\box_calculus.md
+lines: 6171-6181
+heading: '⭐ 0\. Overview: Why Linear Logic?'
+block_type: table
+excerpt: The mapping is not loose—it is exact. ---
+concepts:
+- Box Calculus
+- IGSOA
+- Axiom
+- non-commutative
+- Proof
+- resource-sensitive
+- Box
+- Σ
+- energy-sensitive
+- Cut-elimination
+- δ-curvature
+- E-expansion
+- Π
+- δ
+- ⊗
+aliases:
+- Bk294bc
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

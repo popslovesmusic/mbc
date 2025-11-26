@@ -1,15 +1,38 @@
+id: GEN7-8602
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::8-final-δ-dirac-equation-boxed::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 793-811
+heading: '**8\. Final δ-Dirac Equation (boxed)**'
 block_type: paragraph
-concepts:
-- γ
-- δ
-- δ-geometric
-- μ
-- ρ
 excerpt: \[iγμ(∂μ+14Kμab(δ)γab)−yδVμVμ\]ψ=0\\boxed{ \\left\[ i \\gamma^\\mu \\left(\\partial\_\\mu
   \+ \\frac{1}{4}K\_\\mu{}^{ab}(\\delta)\\gamma\_{ab}\\right) \- y\_\\delta \\sqrt{V\_\\mu
   V^\\mu} \\right\]\\ps...
-heading: '**8\. Final δ-Dirac Equation (boxed)**'
-id: GEN7-8602
-lines: 793-811
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::8-final-δ-dirac-equation-boxed::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- μ
+- δ
+- →
+- γ
+- ρ
+- ψ
+- ∂
+- δ-geometric
+- δ-curvature
+- δ-spectral
+- δ-torsion
+- δ-vector
+- δV
+aliases:
+- Bk276bl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.130434782608695
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

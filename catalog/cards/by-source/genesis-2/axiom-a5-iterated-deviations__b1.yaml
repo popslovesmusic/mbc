@@ -1,16 +1,36 @@
+id: GEN2-6542
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a2-deviational-structure::axiom-a5-iterated-deviations::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 998-1014
+heading: '**Axiom A5 (Iterated Deviations).**'
+parent_heading: '**A.2 Deviational Structure**'
 block_type: paragraph
-concepts:
-- functorial
-- Φ
-- Ψ
-- δ
-- η
-- σ
 excerpt: 'Define: δnΨ0:=δ(δn−1Ψ0).(A.2.3)\\delta^n \\Psi\_0 := \\delta(\\delta^{n-1}\\Psi\_0).
   \\tag{A.2.3}δnΨ0​:=δ(δn−1Ψ0​).(A.2.3) The δ-tower:'
-heading: '**Axiom A5 (Iterated Deviations).**'
-id: GEN2-6542
-lines: 998-1014
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a2-deviational-structure::axiom-a5-iterated-deviations::b1
-parent_heading: '**A.2 Deviational Structure**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- δ
+- Ψ
+- →
+- δn
+- η
+- ∈
+- σ
+- scale-indexed
+- δ-tower
+- Φ
+- functorial
+aliases:
+- Bk937dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.734513274336283
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

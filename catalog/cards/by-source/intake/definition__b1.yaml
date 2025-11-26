@@ -1,15 +1,38 @@
+id: INTK-9947
+location: intake/meta-genesis-mathematical-papers::3-definition-of-the-deviation-generated-subspace::definition::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 70-82
+heading: '**Definition.**'
+parent_heading: '**3\. Definition of the Deviation-Generated Subspace**'
 block_type: paragraph
-concepts:
-- Deviation-Generated
-- Generated Subspace
-- Ψ
-- δ
 excerpt: 'The **Deviation-Generated Subspace** Hδ\\mathcal{H}\_\\deltaHδ​ is: Hδ:=span⁡{δnΨ0:n∈N0}.\\boxed{
   \\mathcal{H}\_\\delta := \\operatorname{span} \\left\\{ \\delta^n\\Psi\_0 : n \\in
   \\mathbb{N}\_0 \\ri...'
-heading: '**Definition.**'
-id: INTK-9947
-lines: 70-82
-location: intake/meta-genesis-mathematical-papers::3-definition-of-the-deviation-generated-subspace::definition::b1
-parent_heading: '**3\. Definition of the Deviation-Generated Subspace**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- δ
+- Deviation
+- ∈
+- Ψ
+- Deviation-Generated Subspace
+- Deviation-Generated
+- δn
+- ∑
+- ∞
+- zero-state
+- Generated Subspace
+- free linear space
+aliases:
+- Bk568td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

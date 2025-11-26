@@ -1,14 +1,38 @@
+id: GEN13-2578
+location: genesis-13/what-biology-is-in-meta-genesis::section-iii5-δ-flux-quantization-law::theorem-iii51-π-induced-quantization-of-δ-flux::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1703-1717
+heading: '**Theorem III.5.1 (Π-Induced Quantization of δ-Flux).**'
+parent_heading: '**SECTION III.5 — δ-Flux Quantization Law**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'If Π acts on Φ-cycle modes, then: Φδ∈Zdim⁡P0.\\Phi\_\\delta \\in \\frac{\\mathbb{Z}}{\\dim
   \\mathcal{P}\_0}.Φδ​∈dimP0​Z​. Thus δ-flux is **quantized in units** determined
   by Π’s lowest-level stable su...'
-heading: '**Theorem III.5.1 (Π-Induced Quantization of δ-Flux).**'
-id: GEN13-2578
-lines: 1703-1717
-location: genesis-13/what-biology-is-in-meta-genesis::section-iii5-δ-flux-quantization-law::theorem-iii51-π-induced-quantization-of-δ-flux::b1
-parent_heading: '**SECTION III.5 — δ-Flux Quantization Law**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Π
+- Proof
+- Φ
+- ∈
+- Π-compactness
+- lowest-level
+- Φ-cycle
+- δ-flux
+- quantized in units
+- δD
+aliases:
+- Bk348ac
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.0327868852459
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

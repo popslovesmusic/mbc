@@ -1,18 +1,39 @@
+id: GEN4-7601
+location: genesis-4/meta-physics-axiom-box::this-axiom-box-completes-the-tri-foundation-layer::meta-physics-axiom-box::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 183-198
+heading: '**✔ Meta-Physics Axiom Box**'
+parent_heading: '**This Axiom Box Completes the Tri-Foundation Layer**'
 block_type: paragraph
-concepts:
-- Foundation Layer Seal
-- Layer
-- Meta-Causality
-- Meta-Einstein
-- Meta-Math
-- Meta-Physics
-- Φ
-- δ
 excerpt: (realization → the geometric, causal, and dynamical layer) These three together
   are the **Foundation Layer Seal** you’ve been assembling. ---
-heading: '**✔ Meta-Physics Axiom Box**'
-id: GEN4-7601
-lines: 183-198
-location: genesis-4/meta-physics-axiom-box::this-axiom-box-completes-the-tri-foundation-layer::meta-physics-axiom-box::b1
-parent_heading: '**This Axiom Box Completes the Tri-Foundation Layer**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Meta-Einstein
+- Meta-Math
+- Foundation Layer
+- Theorem
+- Topos-theoretic proof
+- Layer
+- Proof
+- δ
+- Topos-theoretic
+- Meta-Causality
+- Meta-Physics
+- Foundation Layer Seal
+- Φ
+- →
+- unified combined box
+aliases:
+- Bk299rt
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

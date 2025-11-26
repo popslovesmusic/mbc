@@ -1,19 +1,39 @@
+id: INTK-10348
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::formal-definition::3-operations-meta-addition-boxplus-and-meta-scalar-multiplication-odot::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 986-989
+heading: '3. Operations: Meta-Addition ($\boxplus$) and Meta-Scalar Multiplication
+  ($\odot$)'
+parent_heading: Formal Definition
 block_type: paragraph
-concepts:
-- Meta-Addition
-- Meta-Scalar
-- Meta-Vector
-- Meta-Vectors
-- Scalar Multiplication
-- Ψ
-- λ
 excerpt: 'The space is equipped with: - **Meta-Addition ($\boxplus$):** For any two
   Meta-Vectors `V₁, V₂ ∈ S_Ψ`, their sum `V₁ ⊞ V₂ ∈ S_Ψ`. This operation is non-linear
   and generally non-commutative/non-associa...'
-heading: '3. Operations: Meta-Addition ($\boxplus$) and Meta-Scalar Multiplication
-  ($\odot$)'
-id: INTK-10348
-lines: 986-989
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::formal-definition::3-operations-meta-addition-boxplus-and-meta-scalar-multiplication-odot::b1
-parent_heading: Formal Definition
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- ∈
+- Ψ
+- Meta-Vector
+- Meta-Scalar
+- non-linear
+- λ
+- non-associative
+- scale-dependent
+- non-commutative
+- Meta-Addition
+- Meta-Vectors
+- Scalar Multiplication
+aliases:
+- Bk949ts
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.33898305084746
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

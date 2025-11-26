@@ -1,11 +1,26 @@
+id: INTK-9640
+location: intake/abstract-editorial-review::section-9-observational-predictions::92-dynamic-λ::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 504-510
+heading: '**9.2 — dynamic Λ**'
+parent_heading: '**📄 Section 9 — Observational Predictions**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Perfect but add: Crucially, this does not require new fields — only evolving
   δ-activity. This strengthens the contrast with quintessence.'
-heading: '**9.2 — dynamic Λ**'
-id: INTK-9640
-lines: 504-510
-location: intake/abstract-editorial-review::section-9-observational-predictions::92-dynamic-λ::b1
-parent_heading: '**📄 Section 9 — Observational Predictions**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- δ-activity
+- δ
+aliases:
+- Bk407pb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

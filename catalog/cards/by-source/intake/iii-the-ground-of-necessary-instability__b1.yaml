@@ -1,11 +1,23 @@
+id: INTK-9776
+location: intake/meta-genesis-core-papers-foundations::3-what-ψ₀-is::iii-the-ground-of-necessary-instability::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 347-351
+heading: '**(iii) The Ground of Necessary Instability**'
+parent_heading: '**3\. What Ψ₀ *is***'
 block_type: paragraph
-concepts:
-- Axiom
 excerpt: Since it cannot remain perfectly symmetric (NOT Axiom \+ deviation instability),
   it must break. ---
-heading: '**(iii) The Ground of Necessary Instability**'
-id: INTK-9776
-lines: 347-351
-location: intake/meta-genesis-core-papers-foundations::3-what-ψ₀-is::iii-the-ground-of-necessary-instability::b1
-parent_heading: '**3\. What Ψ₀ *is***'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Axiom
+aliases:
+- Bk448sc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

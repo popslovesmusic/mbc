@@ -1,11 +1,34 @@
+id: GEN17-4869
+location: genesis-17/key-points::caveats-open-questions::b1
+source: genesis-17\Key_Points.md
+lines: 24-36
+heading: '**Caveats & open questions**'
 block_type: list
-concepts:
-- Causal Sphere
 excerpt: '* The article is a popular-science piece, so it doesn’t provide detailed
   technical models or definitive proof. It’s more about *possible directions* than
   *established facts*. * Even if dark matter is ...'
-heading: '**Caveats & open questions**'
-id: GEN17-4869
-lines: 24-36
-location: genesis-17/key-points::caveats-open-questions::b1
-source: genesis-17\Key_Points.md
+concepts:
+- pull up the original scientific papers
+- Proof
+- cross-referenced
+- popular-science
+- dual-column
+- large-scale
+- Causal Sphere
+aliases:
+- Bk035ta
+tags:
+- proof
+- qualified
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.635761589403973
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

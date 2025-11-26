@@ -1,14 +1,32 @@
-block_type: paragraph
-concepts:
-- Box
-- Lemma
-- some
-- Φ
-- Ψ
-excerpt: '**Claim:** If Ψ₀ cannot exist, the system cannot remain in state Ψ₀. **Proof:**'
-heading: '**Lemma 5 (Non-Existence Requires Resolution).**'
 id: GEN1-490
-lines: 1100-1117
 location: genesis-1/the-foundation-layer::ii-lemmas-leading-to-the-theorem::lemma-5-non-existence-requires-resolution::b1
-parent_heading: '**II. Lemmas Leading to the Theorem**'
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1100-1117
+heading: '**Lemma 5 (Non-Existence Requires Resolution).**'
+parent_heading: '**II. Lemmas Leading to the Theorem**'
+block_type: paragraph
+excerpt: '**Claim:** If Ψ₀ cannot exist, the system cannot remain in state Ψ₀. **Proof:**'
+concepts:
+- Ψ
+- Lemma
+- Proof
+- Ψ₀
+- Φ
+- Box
+- →
+- some
+aliases:
+- Bk871cc
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.698412698412698
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

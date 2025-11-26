@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Σ
-excerpt: 'Formally: E(Σt) is permitted only if ΔH(Σt)\>ϵ E(Σ'
-heading: '⭐ 1\. Core Principle: Expansion Occurs Only While Informational Yield Is
-  Positive'
 id: GEN17-4227
-lines: 1178-1208
 location: genesis-17/box-calculus::1-core-principle-expansion-occurs-only-while-informational-yield-is-positive::b1
 source: genesis-17\box_calculus.md
+lines: 1178-1208
+heading: '⭐ 1\. Core Principle: Expansion Occurs Only While Informational Yield Is
+  Positive'
+block_type: paragraph
+excerpt: 'Formally: E(Σt) is permitted only if ΔH(Σt)\>ϵ E(Σ'
+concepts:
+- Σ
+- Δ
+- Σt
+aliases:
+- Bk101fp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,29 @@
+id: INTK-9853
+location: intake/meta-genesis-core-papers-foundations::4-what-emerges-and-why::42-directionality::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1275-1289
+heading: '**4.2 Directionality**'
+parent_heading: '**4\. What Emerges and Why**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'A structural difference breaks symmetry: Ψ1→Ψ1+ε\\Psi\_1 \\to \\Psi\_1 \+
   \\varepsilonΨ1​→Ψ1​+ε This induces:'
-heading: '**4.2 Directionality**'
-id: INTK-9853
-lines: 1275-1289
-location: intake/meta-genesis-core-papers-foundations::4-what-emerges-and-why::42-directionality::b1
-parent_heading: '**4\. What Emerges and Why**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- ε
+- →
+- proto-dimension
+aliases:
+- Bk144sd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

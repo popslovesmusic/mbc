@@ -1,12 +1,30 @@
+id: GEN19-5821
+location: genesis-19/mbc-4-1::2-unary-operators-θ-mode::21-not-negation::b1
+source: genesis-19\MBC-4_1.md
+lines: 25-36
+heading: '**2.1 NOT / Negation**'
+parent_heading: '**2\. Unary Operators (Θ-Mode)**'
 block_type: table
+excerpt: Negation flips directional curvature except when polarity is neutral. ---
 concepts:
+- Θ
+- Polarity
+- MBC
+- ¬
+- self-dual
 - Polarity Logic
 - Standard Logic
-- Θ
-excerpt: Negation flips directional curvature except when polarity is neutral. ---
-heading: '**2.1 NOT / Negation**'
-id: GEN19-5821
-lines: 25-36
-location: genesis-19/mbc-4-1::2-unary-operators-θ-mode::21-not-negation::b1
-parent_heading: '**2\. Unary Operators (Θ-Mode)**'
-source: genesis-19\MBC-4_1.md
+aliases:
+- Bk354sl
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.583333333333334
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

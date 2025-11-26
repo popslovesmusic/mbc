@@ -1,12 +1,33 @@
+id: GEN12-1984
+location: genesis-12/untitled-document::1-the-categories-involved::12-deviation-geometry-category-devmathsfdevdev::b1
+source: genesis-12\Untitled_document.md
+lines: 4202-4212
+heading: '**1.2 Deviation Geometry Category Dev\\mathsf{Dev}Dev**'
+parent_heading: '**1\. The Categories Involved**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'δ:Gen→Dev\\delta : \\mathsf{Gen} \\to \\mathsf{Dev}δ:Gen→Dev * **Objects:**
   δ-configurations, adjacency-curvature fields. * **Morphisms:** δ-preserving curvature
   embeddings and adjacency maps.'
-heading: '**1.2 Deviation Geometry Category Dev\\mathsf{Dev}Dev**'
-id: GEN12-1984
-lines: 4202-4212
-location: genesis-12/untitled-document::1-the-categories-involved::12-deviation-geometry-category-devmathsfdevdev::b1
-parent_heading: '**1\. The Categories Involved**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- adjacency-curvature
+- δ-configurations
+- →
+- δ-preserving
+- topos-like
+- pre-metric
+aliases:
+- Bk830gd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.91891891891892
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

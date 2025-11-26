@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- How Meta
-- Meta-Einstein
-excerpt: ✔ TikZ \+ Mermaid diagrams ✔ The formal functor definitions ✔ The adjunction
-  proof in categorical notation
-heading: '**If you want next:**'
 id: GEN2-6275
-lines: 859-867
 location: genesis-2/axioms-for-the-category-genesis::if-you-want-next::b2
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 859-867
+heading: '**If you want next:**'
+block_type: paragraph
+excerpt: ✔ TikZ \+ Mermaid diagrams ✔ The formal functor definitions ✔ The adjunction
+  proof in categorical notation
+concepts:
+- Meta-Einstein
+- Proof
+- →
+- How Meta
+aliases:
+- Bk347tm
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

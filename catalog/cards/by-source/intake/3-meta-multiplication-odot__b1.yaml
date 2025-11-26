@@ -1,14 +1,32 @@
+id: INTK-10337
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::meta-arithmetic-operations::3-meta-multiplication-odot::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 920-924
+heading: 3. Meta-Multiplication ($\odot$)
+parent_heading: Meta-Arithmetic Operations
 block_type: list
-concepts:
-- λ
-- ξ
-- σ
 excerpt: '- **Purpose:** Scale-dependent influence or scaling of deviation-quantities.
   - **Behavior:** Involves non-linear transformations and can reflect changes across
   scale layers. - **Example:** Applying a ...'
-heading: 3. Meta-Multiplication ($\odot$)
-id: INTK-10337
-lines: 920-924
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::meta-arithmetic-operations::3-meta-multiplication-odot::b1
-parent_heading: Meta-Arithmetic Operations
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- deviation-quantities
+- λ
+- σ
+- ξ
+- Scale-dependent
+- non-linear
+aliases:
+- Bk133ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

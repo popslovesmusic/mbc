@@ -1,12 +1,29 @@
+id: GEN13-2532
+location: genesis-13/what-biology-is-in-meta-genesis::3-π-closure-and-stabilization::definition-31-π-closure-operator::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1017-1031
+heading: '**Definition 3.1 (Π-Closure Operator).**'
+parent_heading: '**3\. Π-Closure and Stabilization**'
 block_type: paragraph
-concepts:
-- Π
-- Ω
 excerpt: 'A Π-closure operator Π:H→P\\Pi: \\mathcal{H} \\to \\mathcal{P}Π:H→P satisfies:
   1. **Idempotence:** Π∘Π=Π\\Pi \\circ \\Pi \= \\PiΠ∘Π=Π'
-heading: '**Definition 3.1 (Π-Closure Operator).**'
-id: GEN13-2532
-lines: 1017-1031
-location: genesis-13/what-biology-is-in-meta-genesis::3-π-closure-and-stabilization::definition-31-π-closure-operator::b1
-parent_heading: '**3\. Π-Closure and Stabilization**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- ∈
+- Ω
+- →
+- Π-closure
+aliases:
+- Bk407co
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.9504950495049505
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

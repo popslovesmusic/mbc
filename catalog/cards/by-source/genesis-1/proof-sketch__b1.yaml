@@ -1,10 +1,22 @@
+id: GEN1-468
+location: genesis-1/the-foundation-layer::proof-sketch::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 761-765
+heading: '**\*\*Proof Sketch:**'
 block_type: paragraph
+excerpt: The NOT Axiom Forces Existence\*\* ---
 concepts:
 - Axiom
 - Axiom Forces Existence
-excerpt: The NOT Axiom Forces Existence\*\* ---
-heading: '**\*\*Proof Sketch:**'
-id: GEN1-468
-lines: 761-765
-location: genesis-1/the-foundation-layer::proof-sketch::b1
-source: genesis-1\THE_FOUNDATION_LAYER.md
+aliases:
+- Bk865tn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

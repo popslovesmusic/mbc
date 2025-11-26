@@ -1,14 +1,37 @@
+id: GEN6-8253
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::5-what-fixes-the-size-of-mixing::m-selection::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 607-627
+heading: '**m-selection**'
+parent_heading: '**5\) What fixes the *size* of mixing?**'
 block_type: paragraph
-concepts:
-- α
-- β
-- δ
 excerpt: mα+mK=mβ.(S3)m\_\\alpha \+ m\_K \= m\_\\beta . \\tag{S3}mα​+mK​=mβ​.(S3)
   **Interpretation:** Most off-diagonal couplings are forbidden or suppressed unless
   δ-curvature carries the right harmonic conte...
-heading: '**m-selection**'
-id: GEN6-8253
-lines: 607-627
-location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::5-what-fixes-the-size-of-mixing::m-selection::b1
-parent_heading: '**5\) What fixes the *size* of mixing?**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- θ
+- dominated by the lowest nontrivial adjacency modes
+- ↔
+- nearest-neighbor mixing
+- β
+- nearest-neighbor
+- α
+- off-diagonal
+- δ-curvature
+- δ
+- exactly CKM hierarchy
+- far mixing
+aliases:
+- Bk082ab
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

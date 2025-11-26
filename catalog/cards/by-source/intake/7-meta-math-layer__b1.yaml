@@ -1,13 +1,31 @@
-block_type: list
-concepts:
-- Deviation Ricci
-- Meta-Fractal
-- Meta-Lagrangian
-- δ
-excerpt: '* Full operator algebra forms: * δ-spectrum * A/H/E/F operators'
-heading: '**7\. Meta-Math Layer**'
 id: INTK-9908
-lines: 122-138
 location: intake/meta-genesis-diagrammatic-papers::2-expanded-causal-flowchart-with-meanings::7-meta-math-layer::b1
-parent_heading: '**2\. Expanded Causal Flowchart (with meanings)**'
 source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 122-138
+heading: '**7\. Meta-Math Layer**'
+parent_heading: '**2\. Expanded Causal Flowchart (with meanings)**'
+block_type: list
+excerpt: '* Full operator algebra forms: * δ-spectrum * A/H/E/F operators'
+concepts:
+- Deviation
+- δ
+- Meta-Lagrangian
+- Meta-Fractal
+- δ-Laplacians
+- δ-spectrum
+- Deviation Ricci
+aliases:
+- Bk546fo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 35.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

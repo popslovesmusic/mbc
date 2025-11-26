@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Einstein (before testing): “Relativity seems consistent with the constancy
-  of the speed of light.” Darwin (before fossils):'
-heading: '**⭐ 2\. Scientific theories begin this exact same way**'
 id: SPEC-11388
-lines: 8240-8264
 location: special/specil::2-scientific-theories-begin-this-exact-same-way::b1
 source: special\specil.md
+lines: 8240-8264
+heading: '**⭐ 2\. Scientific theories begin this exact same way**'
+block_type: paragraph
+excerpt: 'Einstein (before testing): “Relativity seems consistent with the constancy
+  of the speed of light.” Darwin (before fossils):'
+concepts:
+- IGSOA
+aliases:
+- Bk299eb
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 1.4285714285714286
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

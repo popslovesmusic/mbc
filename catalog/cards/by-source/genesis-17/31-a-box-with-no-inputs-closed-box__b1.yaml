@@ -1,16 +1,32 @@
+id: GEN17-4503
+location: genesis-17/box-calculus::3-explicit-translation-box-λ::31-a-box-with-no-inputs-closed-box::b1
+source: genesis-17\box_calculus.md
+lines: 5735-5743
+heading: 3.1 A Box with no inputs (closed Box)
+parent_heading: ⭐ 3\. Explicit Translation Box → λ
 block_type: paragraph
+excerpt: Λ(B)=a closed λ-term representing Π(ΣB) Λ(B)=a closed λ-term representing
+  Π(Σ B
 concepts:
+- λ
 - Box
-- The Box
 - Λ
 - Π
 - Σ
-- λ
-excerpt: Λ(B)=a closed λ-term representing Π(ΣB) Λ(B)=a closed λ-term representing
-  Π(Σ B
-heading: 3.1 A Box with no inputs (closed Box)
-id: GEN17-4503
-lines: 5735-5743
-location: genesis-17/box-calculus::3-explicit-translation-box-λ::31-a-box-with-no-inputs-closed-box::b1
-parent_heading: ⭐ 3\. Explicit Translation Box → λ
-source: genesis-17\box_calculus.md
+- The Box
+- ΣB
+aliases:
+- Bk401ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.875
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

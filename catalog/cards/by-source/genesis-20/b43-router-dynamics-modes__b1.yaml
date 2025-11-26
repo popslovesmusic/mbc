@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Routers support several real-time modes depending on: * topology * context'
-heading: B4.3 Router Dynamics Modes
 id: GEN20-7232
-lines: 7641-7649
 location: genesis-20/mbc-40-documentaitio-1::b43-router-dynamics-modes::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7641-7649
+heading: B4.3 Router Dynamics Modes
+block_type: paragraph
+excerpt: 'Routers support several real-time modes depending on: * topology * context'
+concepts:
+- real-time
+aliases:
+- Bk348rs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

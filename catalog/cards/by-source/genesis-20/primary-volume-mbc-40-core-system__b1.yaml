@@ -1,10 +1,25 @@
+id: GEN20-7001
+location: genesis-20/mbc-40-documentaitio-1::conclusion::primary-volume-mbc-40-core-system::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4301-4304
+heading: 'Primary Volume: MBC-4.0 Core System'
+parent_heading: ⭐ Conclusion
 block_type: list
+excerpt: '* Chapters 1–12 (done) * Bridge Chapter (now writing)'
 concepts:
 - Bridge Chapter
-excerpt: '* Chapters 1–12 (done) * Bridge Chapter (now writing)'
-heading: 'Primary Volume: MBC-4.0 Core System'
-id: GEN20-7001
-lines: 4301-4304
-location: genesis-20/mbc-40-documentaitio-1::conclusion::primary-volume-mbc-40-core-system::b1
-parent_heading: ⭐ Conclusion
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk546cd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

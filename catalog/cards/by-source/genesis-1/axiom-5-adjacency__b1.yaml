@@ -1,12 +1,28 @@
+id: GEN1-562
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-axiomatic-foundation::axiom-5-adjacency::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 749-755
+heading: '**Axiom 5 (Adjacency).**'
+parent_heading: '**1\. Axiomatic Foundation**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Define an adjacency relation A:H×H→{0,1}A:\\mathcal{H}\\times\\mathcal{H}\\to\\{0,1\\}A:H×H→{0,1}
   by A(x,y)=1  ⟺  δ(x)=δ(y).A(x,y)=1 \\iff \\delta(x)=\\delta(y).A(x,y)=1⟺δ(x)=δ(y).
   ---
-heading: '**Axiom 5 (Adjacency).**'
-id: GEN1-562
-lines: 749-755
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-axiomatic-foundation::axiom-5-adjacency::b1
-parent_heading: '**1\. Axiomatic Foundation**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- →
+aliases:
+- Bk770da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.081632653061225
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

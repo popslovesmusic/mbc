@@ -1,13 +1,36 @@
+id: GEN2-6278
+location: genesis-2/axioms-for-the-category-genesis::axioms-of-deviation::δ-axiom-set-for-meta-genesis::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 891-903
+heading: '***(δ-Axiom Set for Meta-Genesis)***'
+parent_heading: '**Axioms of Deviation**'
 block_type: paragraph
-concepts:
-- Zero State
-- Ψ
-- δ
 excerpt: 'We write: * Ψ0\\Psi\_0Ψ0​ \= Zero State (structureless, timeless, operator-free)
   * δ \= Deviation operator'
-heading: '***(δ-Axiom Set for Meta-Genesis)***'
-id: GEN2-6278
-lines: 891-903
-location: genesis-2/axioms-for-the-category-genesis::axioms-of-deviation::δ-axiom-set-for-meta-genesis::b1
-parent_heading: '**Axioms of Deviation**'
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Ψ
+- Deviation
+- IGSOA
+- δ
+- State
+- Axiom
+- operator-free
+- primitive property
+- δn
+- Ψn
+- Zero State
+aliases:
+- Bk039wp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.205128205128204
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

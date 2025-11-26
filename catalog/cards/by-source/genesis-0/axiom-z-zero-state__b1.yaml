@@ -1,11 +1,24 @@
+id: GEN0-247
+location: genesis-0/tri-unity-theorem-equivalence-of::2-why-δ-must-exist-the-formal-proof::axiom-z-zero-state::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1288-1304
+heading: '**Axiom Z — Zero-State**'
+parent_heading: '**2\. Why δ Must Exist — The Formal Proof**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'There exists a unique state Ψ0\\Psi\_0Ψ0​ with: * no structure, * no internal
   operators,'
-heading: '**Axiom Z — Zero-State**'
-id: GEN0-247
-lines: 1288-1304
-location: genesis-0/tri-unity-theorem-equivalence-of::2-why-δ-must-exist-the-formal-proof::axiom-z-zero-state::b1
-parent_heading: '**2\. Why δ Must Exist — The Formal Proof**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- ∃
+aliases:
+- Bk669te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

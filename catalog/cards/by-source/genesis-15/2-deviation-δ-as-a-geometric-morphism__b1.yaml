@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Define δ as the structure-preserving transformation of cosmic fields: δ\\\*:X→X.\\delta^{\\\*}
-  : \\mathcal{X} \\to \\mathcal{X}.δ\\\*:X→X. Interpretation:'
-heading: '**2\. Deviation δ as a Geometric Morphism**'
 id: GEN15-3470
-lines: 1442-1454
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-deviation-δ-as-a-geometric-morphism::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1442-1454
+heading: '**2\. Deviation δ as a Geometric Morphism**'
+block_type: paragraph
+excerpt: 'Define δ as the structure-preserving transformation of cosmic fields: δ\\\*:X→X.\\delta^{\\\*}
+  : \\mathcal{X} \\to \\mathcal{X}.δ\\\*:X→X. Interpretation:'
+concepts:
+- δ
+- structure-preserving
+- →
+- δ-harmonic
+aliases:
+- Bk592dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.75609756097561
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

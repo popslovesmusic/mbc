@@ -1,14 +1,31 @@
+id: GEN9-9035
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-box-flow-diagram-outreach-slides-visual-canon::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 201-236
+heading: '**2\. Box-Flow Diagram (Outreach / Slides / Visual Canon)**'
 block_type: paragraph
+excerpt: 'This version is clearer for presentations: `┌────────────────────────┐`
+  `│  δ–HARMONICS           │`'
 concepts:
 - Tri-Unity
 - Π
 - Φ
+- →
 - δ
 - λ
-excerpt: 'This version is clearer for presentations: `┌────────────────────────┐`
-  `│  δ–HARMONICS           │`'
-heading: '**2\. Box-Flow Diagram (Outreach / Slides / Visual Canon)**'
-id: GEN9-9035
-lines: 201-236
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-box-flow-diagram-outreach-slides-visual-canon::b1
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+- χ
+aliases:
+- Bk195tv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.727272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

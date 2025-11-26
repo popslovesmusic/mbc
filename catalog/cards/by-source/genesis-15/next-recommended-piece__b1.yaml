@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'For maximum coherence, you may want one of these next:'
-heading: '**Next Recommended Piece**'
 id: GEN15-3210
-lines: 2058-2060
 location: genesis-15/the-mass-curvature-projection-theorem::next-recommended-piece::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2058-2060
+heading: '**Next Recommended Piece**'
+block_type: paragraph
+excerpt: 'For maximum coherence, you may want one of these next:'
+aliases:
+- Bk638fm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,31 @@
+id: GEN4-7714
+location: genesis-4/the-adjoint-triple::the-adjoint-triple::l-u-r::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 6-24
+heading: '**(L ⊣ U ⊣ R)**'
+parent_heading: '**The Adjoint Triple**'
 block_type: paragraph
-concepts:
-- Action Extraction
-- Mathematical Realization
-- Structured Space
-- Underlying Potential
-- σ
 excerpt: 'We want three categories and a pair of adjunctions: MG  ⟷LU  σ-Topos  ⟷RU′  MM\\text{MG}\\;\\underset{U}{\\overset{L}{\\longleftrightarrow}}\\;\\sigma\\text{-Topos}
   \\;\\underset{U''}{\\overset{R}{\\lo...'
-heading: '**(L ⊣ U ⊣ R)**'
-id: GEN4-7714
-lines: 6-24
-location: genesis-4/the-adjoint-triple::the-adjoint-triple::l-u-r::b1
-parent_heading: '**The Adjoint Triple**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- σ
+- Mathematical Realization
+- →
+- Underlying Potential
+- Action Extraction
+- Structured Space
+aliases:
+- Bk497wt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.317073170731707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

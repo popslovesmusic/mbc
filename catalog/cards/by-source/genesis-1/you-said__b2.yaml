@@ -1,12 +1,29 @@
+id: GEN1-599
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-complete::you-said::b2
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1125-1127
+heading: '**You said:**'
+parent_heading: '**Chapter Complete**'
 block_type: paragraph
+excerpt: 'The next chapter: Meta-Einstein Dynamics & Deviational Curvature'
 concepts:
+- Meta-Einstein
+- Curvature
+- Deviation
 - Deviational Curvature
 - Einstein Dynamics
-- Meta-Einstein
-excerpt: 'The next chapter: Meta-Einstein Dynamics & Deviational Curvature'
-heading: '**You said:**'
-id: GEN1-599
-lines: 1125-1127
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-complete::you-said::b2
-parent_heading: '**Chapter Complete**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+aliases:
+- Bk794tn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 62.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

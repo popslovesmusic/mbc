@@ -1,12 +1,32 @@
+id: GEN16-3788
+location: genesis-16/untitled-document::define-the-mixing-law-explicitly::b1
+source: genesis-16\Untitled_document.md
+lines: 752-764
+heading: '**Define the Mixing Law explicitly:**'
 block_type: paragraph
-concepts:
-- Σ
-- δ
 excerpt: 'Σnew=Σ1⊕Σ2=A(Σ1,Σ2)\\Sigma\_{\\text{new}} \= \\Sigma\_1 \\oplus \\Sigma\_2
   \= A(\\Sigma\_1, \\Sigma\_2)Σnew​=Σ1​⊕Σ2​=A(Σ1​,Σ2​) Where: * ⊕ is formally defined
   as a **weighted linear combination**'
-heading: '**Define the Mixing Law explicitly:**'
-id: GEN16-3788
-lines: 752-764
-location: genesis-16/untitled-document::define-the-mixing-law-explicitly::b1
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- IGSOA
+- nonlinear δ-curvature effects
+- ⊕
+- weighted linear combination
+- δ-curvature
+- δ
+- Σnew
+aliases:
+- Bk734st
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

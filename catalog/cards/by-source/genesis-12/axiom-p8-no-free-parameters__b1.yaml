@@ -1,10 +1,24 @@
+id: GEN12-1711
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p8-no-free-parameters::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2653-2658
+heading: '**Axiom P8 (No Free Parameters).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Predictions ⟡**'
 block_type: paragraph
-concepts: []
 excerpt: The predictions above admit **no adjustable degrees of freedom**. The universe
   must exhibit these signatures if IGSOA is correct. ---
-heading: '**Axiom P8 (No Free Parameters).**'
-id: GEN12-1711
-lines: 2653-2658
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p8-no-free-parameters::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Predictions ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- no adjustable degrees of freedom
+aliases:
+- Bk654tp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

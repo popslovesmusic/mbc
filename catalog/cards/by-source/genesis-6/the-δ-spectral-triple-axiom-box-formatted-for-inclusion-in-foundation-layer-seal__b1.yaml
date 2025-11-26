@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: Just tell me which one you want next.
+id: GEN6-8283
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-i-can-now-produce::the-δ-spectral-triple-axiom-box-formatted-for-inclusion-in-foundation-layer-seal::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 321-323
 heading: '**✔ The δ-Spectral Triple Axiom Box formatted for inclusion in Foundation
   Layer Seal**'
-id: GEN6-8283
-lines: 321-323
-location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-i-can-now-produce::the-δ-spectral-triple-axiom-box-formatted-for-inclusion-in-foundation-layer-seal::b1
 parent_heading: '**If you want, I can now produce:**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+block_type: paragraph
+excerpt: Just tell me which one you want next.
+aliases:
+- Bk626jt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

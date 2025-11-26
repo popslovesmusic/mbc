@@ -1,13 +1,38 @@
+id: GEN9-9114
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-δ-curvature-as-a-modal-operator::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1344-1370
+heading: '**5\. δ-Curvature as a Modal Operator**'
 block_type: paragraph
-concepts:
-- Box
-- K-modality
-- δ
 excerpt: 'Define the **δ-curvature modality**: □δ:P(X)→P(X)\\Box\_\\delta : \\mathbb{P}(X)
   \\to \\mathbb{P}(X)□δ​:P(X)→P(X) corresponding to the raising of a predicate through
   the δ-Weitzenböck curvature functo...'
-heading: '**5\. δ-Curvature as a Modal Operator**'
-id: GEN9-9114
-lines: 1344-1370
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-δ-curvature-as-a-modal-operator::b1
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- Box
+- ≤
+- δ-curvature
+- IGSOA
+- δ-curvature modality
+- δP
+- ∇
+- →
+- K-modality
+- δPP
+- δQP
+- δx
+aliases:
+- Bk704dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.783783783783784
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

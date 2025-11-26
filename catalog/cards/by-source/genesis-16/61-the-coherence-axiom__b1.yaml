@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: All diagrams built from E, A, Φ, Π must commute up to δ-curvature.
-heading: '**6.1. The Coherence Axiom**'
 id: GEN16-3924
-lines: 2390-2392
 location: genesis-16/untitled-document::6-expansion-direction-vi-higher-axiomatics::61-the-coherence-axiom::b1
-parent_heading: '**6\. Expansion Direction VI: Higher Axiomatics**'
 source: genesis-16\Untitled_document.md
+lines: 2390-2392
+heading: '**6.1. The Coherence Axiom**'
+parent_heading: '**6\. Expansion Direction VI: Higher Axiomatics**'
+block_type: paragraph
+excerpt: All diagrams built from E, A, Φ, Π must commute up to δ-curvature.
+concepts:
+- δ-curvature
+- Π
+- δ
+- Φ
+aliases:
+- Bk359ad
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

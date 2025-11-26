@@ -1,11 +1,26 @@
+id: INTK-9806
+location: intake/meta-genesis-core-papers-foundations::3-measured-δ-deviation-content::δ-measure-4-deviation-is-curvature::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 624-626
+heading: '**(δ-Measure-4) Deviation is Curvature**'
+parent_heading: '**3\. Measured δ (Deviation Content)**'
 block_type: paragraph
+excerpt: R(Ψ)∝δ2(Ψ)\\mathcal{R}(\\Psi) \\propto \\delta^2(\\Psi)R(Ψ)∝δ2(Ψ)
 concepts:
 - Ψ
 - δ
-excerpt: R(Ψ)∝δ2(Ψ)\\mathcal{R}(\\Psi) \\propto \\delta^2(\\Psi)R(Ψ)∝δ2(Ψ)
-heading: '**(δ-Measure-4) Deviation is Curvature**'
-id: INTK-9806
-lines: 624-626
-location: intake/meta-genesis-core-papers-foundations::3-measured-δ-deviation-content::δ-measure-4-deviation-is-curvature::b1
-parent_heading: '**3\. Measured δ (Deviation Content)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+aliases:
+- Bk332mp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

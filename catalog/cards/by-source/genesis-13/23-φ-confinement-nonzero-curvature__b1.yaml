@@ -1,12 +1,28 @@
+id: GEN13-2151
+location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-qcd-as-operator-algebra::23-φ-confinement-nonzero-curvature::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1845-1851
+heading: '**2.3 Φ-Confinement \= Nonzero Curvature**'
+parent_heading: '**2\. The Φ-Layer: QCD as Operator Algebra**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: FΦ=\[DΦ,AΦ\]+AΦ2≠0.F\_\\Phi \= \[D\_\\Phi,A\_\\Phi\] \+ A\_\\Phi^2 \\neq
   0.FΦ​=\[DΦ​,AΦ​\]+AΦ2​=0. Thus Φ inherits confinement from δ. ---
-heading: '**2.3 Φ-Confinement \= Nonzero Curvature**'
-id: GEN13-2151
-lines: 1845-1851
-location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-qcd-as-operator-algebra::23-φ-confinement-nonzero-curvature::b1
-parent_heading: '**2\. The Φ-Layer: QCD as Operator Algebra**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- ≠
+- δ
+aliases:
+- Bk850pp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

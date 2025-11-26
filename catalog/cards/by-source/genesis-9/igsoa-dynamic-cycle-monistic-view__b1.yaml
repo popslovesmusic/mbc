@@ -1,15 +1,35 @@
+id: GEN9-9244
+location: genesis-9/does-meta-genesis-indicate-new-physics::3-yes-the-igsoa-cycle-is-an-onoff-pulse-across-the-brane::igsoa-dynamic-cycle-monistic-view::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 604-629
+heading: '**IGSOA Dynamic Cycle (Monistic View):**'
+parent_heading: '**3\. Yes: The IGSOA Cycle *Is* an On–Off Pulse Across the Brane**'
 block_type: list
-concepts:
-- Axiom
-- Φ
-- Ψ
-- δ
 excerpt: 1. **IGS (infinite potential)** tends toward *perfect smoothness* (symmetry).
   2. **OA (ontic action)** injects deviation (δ) into the field. 3. **IGS responds**
   by expanding, smoothing, harmonizing (Φ...
-heading: '**IGSOA Dynamic Cycle (Monistic View):**'
-id: GEN9-9244
-lines: 604-629
-location: genesis-9/does-meta-genesis-indicate-new-physics::3-yes-the-igsoa-cycle-is-an-onoff-pulse-across-the-brane::igsoa-dynamic-cycle-monistic-view::b1
-parent_heading: '**3\. Yes: The IGSOA Cycle *Is* an On–Off Pulse Across the Brane**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- →
+- Axiom
+- Φ cannot erase deviation entirely
+- Φ
+- δ
+- Ψ
+- feedback deviations
+- new patterns emerge
+- IGS responds
+- Ψ₀
+aliases:
+- Bk550ii
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.627906976744185
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

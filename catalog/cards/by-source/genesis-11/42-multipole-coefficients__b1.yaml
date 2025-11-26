@@ -1,11 +1,26 @@
+id: GEN11-1325
+location: genesis-11/the-adjacency-wave-equation::4-the-δφπ-cmb-spectral-axiom::42-multipole-coefficients::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 1063-1065
+heading: '**4.2 multipole coefficients**'
+parent_heading: '**4\. The δ→Φ→Π CMB Spectral Axiom**'
 block_type: paragraph
+excerpt: aℓm=(O∘Π)(λℓ)m.a\_{\\ell m} \= (\\mathfrak{O}\\circ\\Pi)(\\lambda\_\\ell)\_m.aℓm​=(O∘Π)(λℓ​)m​.
 concepts:
 - Π
 - λ
-excerpt: aℓm=(O∘Π)(λℓ)m.a\_{\\ell m} \= (\\mathfrak{O}\\circ\\Pi)(\\lambda\_\\ell)\_m.aℓm​=(O∘Π)(λℓ​)m​.
-heading: '**4.2 multipole coefficients**'
-id: GEN11-1325
-lines: 1063-1065
-location: genesis-11/the-adjacency-wave-equation::4-the-δφπ-cmb-spectral-axiom::42-multipole-coefficients::b1
-parent_heading: '**4\. The δ→Φ→Π CMB Spectral Axiom**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+aliases:
+- Bk711em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

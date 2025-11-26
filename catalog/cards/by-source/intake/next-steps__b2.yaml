@@ -1,12 +1,28 @@
+id: INTK-10241
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::next-steps::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 308-320
+heading: '**NEXT STEPS**'
 block_type: paragraph
-concepts:
-- Fractal Lagrangian
-- Meta-Fractal
 excerpt: 'I can now: *   **Provide a detailed breakdown of each 3x3 sub-block and
   its physical interpretation.** *   **Derive the specific form of the A/H/E/F operators
   within this matrix context.**'
-heading: '**NEXT STEPS**'
-id: INTK-10241
-lines: 308-320
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::next-steps::b2
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- off-diagonal
+- Meta-Fractal
+- sub-block
+- Fractal Lagrangian
+aliases:
+- Bk304cn
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.714285714285714
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

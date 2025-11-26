@@ -1,12 +1,32 @@
+id: GEN15-3471
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-deviation-δ-as-a-geometric-morphism::geometric-morphism-structure::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1456-1470
+heading: '**Geometric Morphism Structure**'
+parent_heading: '**2\. Deviation δ as a Geometric Morphism**'
 block_type: paragraph
+excerpt: 'A geometric morphism between ∞-topoi consists of: * a pullback functor δ\*
+  (finite-limit preserving) * a right adjoint δ\_∗ (limit-preserving)'
 concepts:
 - Tri-Unity
 - δ
-excerpt: 'A geometric morphism between ∞-topoi consists of: * a pullback functor δ\*
-  (finite-limit preserving) * a right adjoint δ\_∗ (limit-preserving)'
-heading: '**Geometric Morphism Structure**'
-id: GEN15-3471
-lines: 1456-1470
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::2-deviation-δ-as-a-geometric-morphism::geometric-morphism-structure::b1
-parent_heading: '**2\. Deviation δ as a Geometric Morphism**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+- limit-preserving
+- colimit-preserving
+- finite-limit
+- triple adjoint system
+- ∞
+- deviation operator δ
+aliases:
+- Bk507gm
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

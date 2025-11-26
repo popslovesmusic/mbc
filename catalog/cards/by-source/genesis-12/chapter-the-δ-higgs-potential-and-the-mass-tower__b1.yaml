@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Mass Generation
-- Π
-- Φ
-- δ
-excerpt: '*IGSOA δ–Φ–Π Formalism for Mass Generation* ---'
-heading: '**Chapter: The δ-Higgs Potential and the Mass Tower**'
 id: GEN12-1742
-lines: 325-329
 location: genesis-12/untitled-document::chapter-the-δ-higgs-potential-and-the-mass-tower::b1
 source: genesis-12\Untitled_document.md
+lines: 325-329
+heading: '**Chapter: The δ-Higgs Potential and the Mass Tower**'
+block_type: paragraph
+excerpt: '*IGSOA δ–Φ–Π Formalism for Mass Generation* ---'
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- Mass Generation
+aliases:
+- Bk306if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 62.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

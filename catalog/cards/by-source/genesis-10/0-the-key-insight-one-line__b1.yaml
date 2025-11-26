@@ -1,15 +1,33 @@
+id: GEN10-891
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::0-the-key-insight-one-line::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2377-2391
+heading: '**0\. The Key Insight (one line)**'
 block_type: paragraph
-concepts:
-- First Law
-- magnitude
-- Π
-- Φ
-- δ
 excerpt: '**Energy is the invariant “amount of deviation” (δ-intensity) that persists
   through Φ-distribution and Π-projection.** Thus: * δ sets the **magnitude** of deviation
   (energy content).'
-heading: '**0\. The Key Insight (one line)**'
-id: GEN10-891
-lines: 2377-2391
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::0-the-key-insight-one-line::b1
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Π
+- δ
+- Φ
+- Φ-distribution
+- magnitude
+- Π-projection
+- δ-intensity
+- conserved energy
+- First Law
+aliases:
+- Bk462et
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 19.565217391304348
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

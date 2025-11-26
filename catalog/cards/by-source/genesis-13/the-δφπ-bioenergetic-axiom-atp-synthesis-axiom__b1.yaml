@@ -1,16 +1,44 @@
+id: GEN13-2502
+location: genesis-13/what-biology-is-in-meta-genesis::3-sealed-axiom-box::the-δφπ-bioenergetic-axiom-atp-synthesis-axiom::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 633-661
+heading: '**⟡ The δ–Φ–Π Bioenergetic Axiom (ATP Synthesis Axiom) ⟡**'
+parent_heading: '**3\. ⟡ Sealed Axiom Box ⟡**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Π
-- Φ
-- δ
 excerpt: '**Axiom (ATP-BioFlux):** An ATP molecule is the Π-stabilized form of a δ-gradient
   transduced through a Φ-cycle. Explicitly:'
-heading: '**⟡ The δ–Φ–Π Bioenergetic Axiom (ATP Synthesis Axiom) ⟡**'
-id: GEN13-2502
-lines: 633-661
-location: genesis-13/what-biology-is-in-meta-genesis::3-sealed-axiom-box::the-δφπ-bioenergetic-axiom-atp-synthesis-axiom::b1
-parent_heading: '**3\. ⟡ Sealed Axiom Box ⟡**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Π
+- Φ
+- Axiom
+- Φ-transduction
+- δ-gradient
+- Box
+- δ-flux
+- Self-sustaining
+- ATP-equivalent
+- Π-stabilized
+- δ-imbalance
+- δ-asymmetry
+- ATP-BioFlux
+- δ-gradients
+aliases:
+- Am201aa
+tags:
+- atp-bioflux
+- low-uncertainty
+- axiom-box
+- axiom
+- definitive
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.033898305084744
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

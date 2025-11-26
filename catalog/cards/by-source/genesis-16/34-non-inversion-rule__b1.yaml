@@ -1,12 +1,25 @@
+id: GEN16-3822
+location: genesis-16/untitled-document::3-formal-halting-law::34-non-inversion-rule::b1
+source: genesis-16\Untitled_document.md
+lines: 1088-1094
+heading: '**3.4 NON-INVERSION RULE**'
+parent_heading: '**⭐ 3\. Formal Halting Law**'
 block_type: paragraph
-concepts:
-- Π
-- Σ
 excerpt: E cannot undo Π-evaluation. E(Π(Σ))=Π(Σ)E(\\Pi(\\Sigma)) \= \\Pi(\\Sigma)E(Π(Σ))=Π(Σ)
   Π resolves meaning; expansion cannot reopen it.
-heading: '**3.4 NON-INVERSION RULE**'
-id: GEN16-3822
-lines: 1088-1094
-location: genesis-16/untitled-document::3-formal-halting-law::34-non-inversion-rule::b1
-parent_heading: '**⭐ 3\. Formal Halting Law**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Π-evaluation
+- Π
+- Σ
+aliases:
+- Bk645cu
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

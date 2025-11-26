@@ -1,12 +1,29 @@
+id: GEN15-3185
+location: genesis-15/the-mass-curvature-projection-theorem::ⅵ-category-theoretic-interpretation::φ::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1717-1721
+heading: '**Φ**'
+parent_heading: '**Ⅵ. Category-Theoretic Interpretation**'
 block_type: paragraph
-concepts:
-- Φ
-- λ
 excerpt: 'decomposes κ into eigenmodes: Φ(κ)=⨁nλnIdΦn.\\Phi(\\kappa)=\\bigoplus\_n
   \\lambda\_n \\mathrm{Id}\_{\\Phi\_n}.Φ(κ)=n⨁​λn​IdΦn​​.'
-heading: '**Φ**'
-id: GEN15-3185
-lines: 1717-1721
-location: genesis-15/the-mass-curvature-projection-theorem::ⅵ-category-theoretic-interpretation::φ::b1
-parent_heading: '**Ⅵ. Category-Theoretic Interpretation**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Φ
+- κ
+- λ
+- Φn
+aliases:
+- Bk321di
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

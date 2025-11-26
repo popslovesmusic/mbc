@@ -1,12 +1,30 @@
+id: GEN20-7051
+location: genesis-20/mbc-40-documentaitio-1::conclusion::152-what-this-volume-has-intentionally-not-covered::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4950-4978
+heading: 15.2 What This Volume Has Intentionally Not Covered
+parent_heading: ⭐ Conclusion
 block_type: paragraph
-concepts:
-- Advanced Companion Volume
-- Θ
 excerpt: 'This was by design, not omission. We did not detail: * advanced Θ-router
   architecture'
-heading: 15.2 What This Volume Has Intentionally Not Covered
-id: GEN20-7051
-lines: 4950-4978
-location: genesis-20/mbc-40-documentaitio-1::conclusion::152-what-this-volume-has-intentionally-not-covered::b1
-parent_heading: ⭐ Conclusion
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- higher-order
+- multi-input
+- Advanced Companion Volume
+- multi-loop
+- Θ
+aliases:
+- Bk437tw
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.317073170731707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

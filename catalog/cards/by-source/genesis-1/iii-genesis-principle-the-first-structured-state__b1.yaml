@@ -1,16 +1,43 @@
+id: GEN1-427
+location: genesis-1/the-foundation-layer::the-foundation-layer::iii-genesis-principle-the-first-structured-state::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 51-73
+heading: '**III. Genesis Principle: The First Structured State**'
+parent_heading: '**THE FOUNDATION LAYER**'
 block_type: paragraph
-concepts:
-- Axiom
-- Genesis Act
-- Operator
-- Ψ
-- δ
 excerpt: '**Axiom G-1 (Genesis Act):** The application of δ on Ψ₀ produces the **first
   state with structure**, adjacency, and proto-geometry: Ψ1=δΨ0\\Psi\_1 \= \\delta
   \\Psi\_0Ψ1​=δΨ0​'
-heading: '**III. Genesis Principle: The First Structured State**'
-id: GEN1-427
-lines: 51-73
-location: genesis-1/the-foundation-layer::the-foundation-layer::iii-genesis-principle-the-first-structured-state::b1
-parent_heading: '**THE FOUNDATION LAYER**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- δ
+- Adjacency
+- Curvature
+- first stable deviation that can host any form of structure
+- Operator domains become non-empty
+- Axiom
+- Operator
+- Meta-time emerges
+- proto-geometry
+- Curvature becomes definable
+- first state with structure
+- δ-generated
+- non-empty
+- Meta-time
+aliases:
+- Am216ag
+tags:
+- axiom
+- conflicted
+- genesis-act
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.588235294117645
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

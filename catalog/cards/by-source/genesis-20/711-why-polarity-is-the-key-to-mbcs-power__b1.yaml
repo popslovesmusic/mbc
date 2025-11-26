@@ -1,11 +1,28 @@
+id: GEN20-6847
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::711-why-polarity-is-the-key-to-mbcs-power::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2491-2517
+heading: 7.11 Why Polarity Is the Key to MBC’s Power
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
+excerpt: 'Polarity enables: * nuance * non-binary logic'
 concepts:
+- Polarity
+- MBC
+- non-binary
 - Polarity Algebra
 - Semantic Logic
-excerpt: 'Polarity enables: * nuance * non-binary logic'
-heading: 7.11 Why Polarity Is the Key to MBC’s Power
-id: GEN20-6847
-lines: 2491-2517
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::711-why-polarity-is-the-key-to-mbcs-power::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk805pe
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.042253521126761
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

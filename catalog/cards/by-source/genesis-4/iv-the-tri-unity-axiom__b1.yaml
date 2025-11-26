@@ -1,14 +1,38 @@
+id: GEN4-7689
+location: genesis-4/meta-physics-axiom-box::iv-the-tri-unity-axiom::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1297-1313
+heading: '**IV. THE TRI-UNITY AXIOM**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Unity Constraint
-- Φ
-- δ
 excerpt: 'The δ \+ Φ \+ Physics layers satisfy the **Tri-Unity Constraint**: π∘δ=physical
   dynamics,Φ∘δ=δΦ∘Φ,π∘Φ \= physical observables.\\boxed{ \\pi\\circ\\delta \= \\text{physical
   dynamics},\\qquad \\Phi\\cir...'
-heading: '**IV. THE TRI-UNITY AXIOM**'
-id: GEN4-7689
-lines: 1297-1313
-location: genesis-4/meta-physics-axiom-box::iv-the-tri-unity-axiom::b1
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Φ
+- δ
+- Tri-Unity
+- Physics is the realized projection of δ-motion with Φ-form
+- IGSOA
+- π
+- Φ gives these motions their form and representation
+- Tri-Unity Constraint
+- δ generates motion and curvature
+- δ-motion
+- Φ-form
+- combined action law
+- Unity Constraint
+aliases:
+- Bk136tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.130434782608695
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

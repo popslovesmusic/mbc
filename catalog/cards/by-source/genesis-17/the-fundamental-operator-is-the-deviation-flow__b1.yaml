@@ -1,11 +1,26 @@
+id: GEN17-4654
+location: genesis-17/box-calculus::5-formal-statement::the-fundamental-operator-is-the-deviation-flow::b1
+source: genesis-17\box_calculus.md
+lines: 7786-7790
+heading: 'The fundamental operator is the deviation flow:'
+parent_heading: ⭐ 5\. FORMAL STATEMENT
 block_type: paragraph
+excerpt: F(Σ;δ):Σ↦Σ′ F(Σ;δ):Σ↦Σ ′
 concepts:
 - Σ
 - δ
-excerpt: F(Σ;δ):Σ↦Σ′ F(Σ;δ):Σ↦Σ ′
-heading: 'The fundamental operator is the deviation flow:'
-id: GEN17-4654
-lines: 7786-7790
-location: genesis-17/box-calculus::5-formal-statement::the-fundamental-operator-is-the-deviation-flow::b1
-parent_heading: ⭐ 5\. FORMAL STATEMENT
-source: genesis-17\box_calculus.md
+aliases:
+- Bk50059
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

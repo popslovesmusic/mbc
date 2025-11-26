@@ -1,12 +1,31 @@
+id: GEN9-9146
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-δ-periodic-table-condensed-grid::δ-harmonic-shells-π-orbital-blocks::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1872-1901
+heading: '**δ-Harmonic Shells & Π-Orbital Blocks**'
+parent_heading: '**The δ-Periodic Table (Condensed Grid)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: '`n=1  | 1s:     H, He` `n=2  | 2s:     Li, Be` `| 2p:     B, C, N, O, F,
   Ne`'
-heading: '**δ-Harmonic Shells & Π-Orbital Blocks**'
-id: GEN9-9146
-lines: 1872-1901
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-δ-periodic-table-condensed-grid::δ-harmonic-shells-π-orbital-blocks::b1
-parent_heading: '**The δ-Periodic Table (Condensed Grid)**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- →
+- δ-high-curvature
+- δ
+- δ-degeneracy
+- Φ-node
+- χ
+- Φ
+aliases:
+- Bk426tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.862745098039216
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

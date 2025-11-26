@@ -1,13 +1,27 @@
+id: GEN1-405
+location: genesis-1/the-first-geometry::3-what-makes-the-δ-higgs-manifold-unique::a-the-high-central-peak-is-not-a-fine-tuned-bump::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 706-709
+heading: '**(A) The high central peak is not a fine-tuned bump.**'
+parent_heading: '**3\. What Makes the δ-Higgs Manifold Unique**'
 block_type: paragraph
-concepts:
-- Axiom
-- must
-- Ψ
 excerpt: 'It is dictated by the NOT Axiom: the universe *must* have an unstable region
   around Ψ₀ or stillness would be eternal.'
-heading: '**(A) The high central peak is not a fine-tuned bump.**'
-id: GEN1-405
-lines: 706-709
-location: genesis-1/the-first-geometry::3-what-makes-the-δ-higgs-manifold-unique::a-the-high-central-peak-is-not-a-fine-tuned-bump::b1
-parent_heading: '**3\. What Makes the δ-Higgs Manifold Unique**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- Axiom
+- Ψ
+- Ψ₀
+aliases:
+- Bk199dt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

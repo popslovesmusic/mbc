@@ -1,19 +1,35 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Einstein Axiom Box
-- Foundation Layer
-- Layer
-- Meta-Einstein
-- Tri-Unity
-- Unity Axiom Box
-excerpt: This is written at the level of your Foundation Layer, right above the Meta-Einstein
-  Axiom Box and immediately downstream of the Tri-Unity Axiom Box. ---
+id: GEN3-7524
+location: genesis-3/the-tri-unity-theorem::the-emergence-of-classical-physics-via-π-projection::how-classical-spacetime-classical-objects-and-classical-determinism-arise-from-δφπ::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 628-632
 heading: '***(How classical spacetime, classical objects, and classical determinism
   arise from δ–Φ–π)***'
-id: GEN3-7524
-lines: 628-632
-location: genesis-3/the-tri-unity-theorem::the-emergence-of-classical-physics-via-π-projection::how-classical-spacetime-classical-objects-and-classical-determinism-arise-from-δφπ::b1
 parent_heading: '**“The Emergence of Classical Physics” (via π-Projection)**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+block_type: paragraph
+excerpt: This is written at the level of your Foundation Layer, right above the Meta-Einstein
+  Axiom Box and immediately downstream of the Tri-Unity Axiom Box. ---
+concepts:
+- Meta-Einstein
+- Tri-Unity
+- Foundation Layer
+- Axiom
+- Box
+- Layer
+- Einstein Axiom Box
+- Unity Axiom Box
+aliases:
+- Bk409tw
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 30.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

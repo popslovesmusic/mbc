@@ -1,16 +1,33 @@
-block_type: paragraph
-concepts:
-- Atomic Shells
-- Encyclopedia Entries Available
-- Orbital Shapes
-- Should Contain
-- δ
-excerpt: '**Should Contain:** - Atomic shells from 2n² formula (9-mode δ-operator)
-  - Orbital shapes (s, p, d, f) from δ-harmonic spectrum'
+id: INTK-10946
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-v-metacosmology-gravity-largescale-completely-empty::part-18-atomic-and-fractal-material-structure-directory-only-no-files::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 341-356
 heading: '**Part 18: Atomic_and_Fractal_Material_Structure** - Directory only, no
   files'
-id: INTK-10946
-lines: 341-356
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-v-metacosmology-gravity-largescale-completely-empty::part-18-atomic-and-fractal-material-structure-directory-only-no-files::b1
 parent_heading: '**Volume V: MetaCosmology, Gravity, LargeScale** ❌ **COMPLETELY EMPTY**'
-source: intake\Volume_Structure_Gap_Analysis.md
+block_type: paragraph
+excerpt: '**Should Contain:** - Atomic shells from 2n² formula (9-mode δ-operator)
+  - Orbital shapes (s, p, d, f) from δ-harmonic spectrum'
+concepts:
+- δ
+- Encyclopedia Entries Available
+- δ-operator
+- δ-harmonic
+- Orbital Shapes
+- Should Contain
+- Atomic Shells
+aliases:
+- Bk107sc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

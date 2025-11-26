@@ -1,17 +1,38 @@
-block_type: table
-concepts:
-- Category-Theoretic
-- Federated Reasoning
-- Standard Category
-- Theoretic Phrasing
-- Θ
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: Dual-Column Cross-Referenced Statement
 id: GEN20-6644
-lines: 932-943
 location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::federated-reasoning-theorem-formal-category-theoretic-version::dual-column-cross-referenced-statement::b1
-parent_heading: Federated Reasoning Theorem (Formal Category-Theoretic Version)
 source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 932-943
+heading: Dual-Column Cross-Referenced Statement
+parent_heading: Federated Reasoning Theorem (Formal Category-Theoretic Version)
+block_type: table
+excerpt: '---'
+concepts:
+- Π
+- δ
+- Π-evaluation
+- δ-geometry
+- IGSOA
+- MBC
+- Φ
+- Π-value
+- Θ
+- Π-consistent
+- terminal-evaluation
+- Category-Theoretic
+- Π-values
+- →
+- Π-evaluations
+aliases:
+- Bk964im
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.886597938144329
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

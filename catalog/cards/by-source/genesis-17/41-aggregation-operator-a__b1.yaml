@@ -1,10 +1,32 @@
+id: GEN17-4167
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::41-aggregation-operator-a::b1
+source: genesis-17\box_calculus.md
+lines: 258-267
+heading: 4.1 Aggregation Operator A
+parent_heading: 4\. Operator-Specific Transition Rules
 block_type: table
+excerpt: 'Axiomatic properties: A associative,A(Σ,0)=Σ A associative,A(Σ,0)=Σ'
 concepts:
 - Σ
-excerpt: 'Axiomatic properties: A associative,A(Σ,0)=Σ A associative,A(Σ,0)=Σ'
-heading: 4.1 Aggregation Operator A
-id: GEN17-4167
-lines: 258-267
-location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::41-aggregation-operator-a::b1
-parent_heading: 4\. Operator-Specific Transition Rules
-source: genesis-17\box_calculus.md
+- IGSOA
+- Merge
+- adjacency-content
+- ∑
+aliases:
+- Am524is
+tags:
+- axiom
+- low-uncertainty
+- definitive
+- properties
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.8125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

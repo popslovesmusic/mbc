@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: '*(my theoretical version)* This comparison will show: * where they are identical'
-heading: '**(B) The Closure Axiom Box we just formalized**'
 id: GEN16-3867
-lines: 1745-1761
 location: genesis-16/untitled-document::next-step-you-choose::b-the-closure-axiom-box-we-just-formalized::b1
-parent_heading: '**❓ Next Step (You Choose)**'
 source: genesis-16\Untitled_document.md
+lines: 1745-1761
+heading: '**(B) The Closure Axiom Box we just formalized**'
+parent_heading: '**❓ Next Step (You Choose)**'
+block_type: paragraph
+excerpt: '*(my theoretical version)* This comparison will show: * where they are identical'
+aliases:
+- Bk345tv
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

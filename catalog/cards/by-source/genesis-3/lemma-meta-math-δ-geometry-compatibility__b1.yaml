@@ -1,19 +1,41 @@
+id: GEN3-7555
+location: genesis-3/the-tri-unity-theorem::ii-statement-of-the-lemma::lemma-meta-math-δ-geometry-compatibility::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 965-998
+heading: '**Lemma (Meta-Math / δ-Geometry Compatibility)**'
+parent_heading: '**II. Statement of the Lemma**'
 block_type: paragraph
-concepts:
-- Adjacency Preservation
-- Commutator Preservation
-- Curvature Preservation
-- Full Faithfulness
-- Local Patches
-- Meta-Math
-- Φ
-- δ
 excerpt: 'There exists a faithful, curvature-preserving functor ι:Gδ↪M\\iota : \\mathcal{G}\_{\\delta}
   \\hookrightarrow \\mathcal{M}ι:Gδ​↪M from the category of δ-geometric objects into
   the Meta-Math category s...'
-heading: '**Lemma (Meta-Math / δ-Geometry Compatibility)**'
-id: GEN3-7555
-lines: 965-998
-location: genesis-3/the-tri-unity-theorem::ii-statement-of-the-lemma::lemma-meta-math-δ-geometry-compatibility::b1
-parent_heading: '**II. Statement of the Lemma**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- ι
+- δ
+- Meta-Math
+- Φ
+- Adjacency
+- Curvature
+- curvature-preserving
+- Φ-Compatibility
+- δ-geometric
+- δ-Actions
+- Commutator Preservation
+- Adjacency Preservation
+- δ-local
+- Curvature Preservation
+- Full Faithfulness
+aliases:
+- Bk569te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.866995073891626
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

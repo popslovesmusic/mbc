@@ -1,12 +1,31 @@
+id: GEN1-404
+location: genesis-1/the-first-geometry::2-the-shape-of-the-manifold-plain-english-picture::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 689-702
+heading: '**2\. The Shape of the Manifold (Plain-English Picture)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'If you imagine the whole manifold as a 3D terrain: * **At the center:**
   a forbidden peak (Ψ₀) the universe cannot inhabit. * **Around it:** a steep, sloping
   ring — the unstable δ-inflation ridge.'
-heading: '**2\. The Shape of the Manifold (Plain-English Picture)**'
-id: GEN1-404
-lines: 689-702
-location: genesis-1/the-first-geometry::2-the-shape-of-the-manifold-plain-english-picture::b1
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- δ
+- δ-inflation
+- two critical differences
+- δ-Higgs
+- Ψ
+- Ψ₀
+aliases:
+- Bk929yi
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

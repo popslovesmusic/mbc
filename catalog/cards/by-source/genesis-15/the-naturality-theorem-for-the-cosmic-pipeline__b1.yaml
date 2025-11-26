@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: '*(δ → CMB → Structure → Galaxy)* ---'
-heading: '**THE NATURALITY THEOREM FOR THE COSMIC PIPELINE**'
 id: GEN15-3389
-lines: 248-252
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::the-naturality-theorem-for-the-cosmic-pipeline::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 248-252
+heading: '**THE NATURALITY THEOREM FOR THE COSMIC PIPELINE**'
+block_type: paragraph
+excerpt: '*(δ → CMB → Structure → Galaxy)* ---'
+concepts:
+- →
+- δ
+aliases:
+- Bk617cs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

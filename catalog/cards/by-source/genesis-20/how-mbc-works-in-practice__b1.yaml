@@ -1,13 +1,33 @@
+id: GEN20-7048
+location: genesis-20/mbc-40-documentaitio-1::conclusion::151-what-we-accomplished-in-this-volume::how-mbc-works-in-practice::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4918-4926
+heading: ● How MBC Works in Practice
+parent_heading: 15.1 What We Accomplished in This Volume
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '* worked examples (semantic, logical, classifier, contradiction) * polarity-driven
   inference * meaning formation via δ → Φ → Π'
-heading: ● How MBC Works in Practice
-id: GEN20-7048
-lines: 4918-4926
-location: genesis-20/mbc-40-documentaitio-1::conclusion::151-what-we-accomplished-in-this-volume::how-mbc-works-in-practice::b1
-parent_heading: 15.1 What We Accomplished in This Volume
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- context-sensitive
+- →
+- polarity-driven
+- non-collapse
+- multi-causal
+- Π
+- δ
+- Φ
+aliases:
+- Bk510we
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.586206896551722
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

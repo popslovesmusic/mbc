@@ -1,15 +1,35 @@
+id: GEN7-8548
+location: genesis-7/the-complete-eft-lagrangian::step-3-meta-time-ordering-enforces-bianchi-identity-g7::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1595-1614
+heading: '**🔶 Step 3 — Meta-Time Ordering Enforces Bianchi Identity (G7)**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- α
-- δ
-- μ
-- ν
 excerpt: 'Meta-Time must preserve structural composition: π(δ∘δ)=π(δ)∘π(δ).\\pi(\\delta\\circ\\delta)
   \= \\pi(\\delta)\\circ\\pi(\\delta).π(δ∘δ)=π(δ)∘π(δ). This implies (by naturality
   of π):'
-heading: '**🔶 Step 3 — Meta-Time Ordering Enforces Bianchi Identity (G7)**'
-id: GEN7-8548
-lines: 1595-1614
-location: genesis-7/the-complete-eft-lagrangian::step-3-meta-time-ordering-enforces-bianchi-identity-g7::b1
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- δ
+- Meta-Time
+- π
+- metric structure is forced by Meta-Time
+- μ
+- ∇
+- ν
+- α
+- contracted curvature tensor
+- compatible emergent metric
+aliases:
+- Bk853mt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.638297872340425
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

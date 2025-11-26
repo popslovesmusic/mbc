@@ -1,15 +1,33 @@
+id: GEN20-6706
+location: genesis-20/mbc-40-documentaitio-1::why-mbc-40-is-primarily-non-numerical::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 698-709
+heading: Why MBC-4.0 is primarily non-numerical
 block_type: list
-concepts:
-- Causal Order
-- Θ
-- Π
-- Φ
-- δ
 excerpt: '* IGSOA is a dynamic monistic process, not a numeric field. * Boxes encode
   structure, dependency, polarity, and curvature class — not numeric values. * Polarity
   is directional and semantic, not numeri...'
-heading: Why MBC-4.0 is primarily non-numerical
-id: GEN20-6706
-lines: 698-709
-location: genesis-20/mbc-40-documentaitio-1::why-mbc-40-is-primarily-non-numerical::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Polarity
+- IGSOA
+- MBC
+- δ
+- Π
+- Θ
+- Φ
+- Causal Order
+aliases:
+- Bk202id
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.98876404494382
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

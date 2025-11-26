@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'Since IGSOA is smooth and δ is a structural deviation: * no infinite density
-  * no spacetime breakdown'
-heading: '**Corollary 3: No singularity is required.**'
 id: GEN17-5122
-lines: 1590-1604
 location: genesis-17/mbc-schema-3::corollary-3-no-singularity-is-required::b1
 source: genesis-17\MBC_Schema_3.md
+lines: 1590-1604
+heading: '**Corollary 3: No singularity is required.**'
+block_type: paragraph
+excerpt: 'Since IGSOA is smooth and δ is a structural deviation: * no infinite density
+  * no spacetime breakdown'
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+aliases:
+- Bk407si
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.428571428571429
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

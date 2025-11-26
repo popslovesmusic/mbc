@@ -1,13 +1,28 @@
+id: INTK-10926
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-i-core-ontology-and-metagenesis-mostly-complete::part-1-ontological-foundations-complete-8-files::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 24-36
+heading: '**Part 1: Ontological Foundations** ✓ COMPLETE (8 files)'
+parent_heading: '**Volume I: Core Ontology and MetaGenesis** ✓ Mostly Complete'
 block_type: paragraph
+excerpt: '**Status:** Fully developed **Contents:** - Core_Ontological_Axioms.md'
 concepts:
+- IGSOA
+- Deviation
 - Axiom
-- Ontological Cost
 - Ψ
 - δ
-excerpt: '**Status:** Fully developed **Contents:** - Core_Ontological_Axioms.md'
-heading: '**Part 1: Ontological Foundations** ✓ COMPLETE (8 files)'
-id: INTK-10926
-lines: 24-36
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-i-core-ontology-and-metagenesis-mostly-complete::part-1-ontological-foundations-complete-8-files::b1
-parent_heading: '**Volume I: Core Ontology and MetaGenesis** ✓ Mostly Complete'
-source: intake\Volume_Structure_Gap_Analysis.md
+- Ontological Cost
+- Ψ₀
+aliases:
+- Bk021sf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.137931034482758
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

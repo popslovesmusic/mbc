@@ -1,11 +1,28 @@
+id: INTK-10235
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::4-operators-as-matrix-elements-and-sub-blocks::43-ahef-operators::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 250-255
+heading: '**4.3. A/H/E/F Operators**'
+parent_heading: '**4. Operators as Matrix Elements and Sub-Blocks**'
 block_type: paragraph
-concepts: []
 excerpt: These fundamental operators emerge as specific entries or smaller matrices
   within the `M_IJ` framework. *   `A` (Ascension) might correspond to a diagonal
   element in the manifestation block related to...
-heading: '**4.3. A/H/E/F Operators**'
-id: INTK-10235
-lines: 250-255
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::4-operators-as-matrix-elements-and-sub-blocks::43-ahef-operators::b1
-parent_heading: '**4. Operators as Matrix Elements and Sub-Blocks**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- scale-expansion
+- off-diagonal
+aliases:
+- Bk481tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.3478260869565215
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
+id: GEN13-2312
+location: genesis-13/the-weight-of-light::6-physical-interpretation::igsoa-csoi-view::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 760-778
+heading: '**IGSOA CSOI view:**'
+parent_heading: '**6\. Physical Interpretation**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Flat curves → **causal memory**. A galaxy’s outer stars orbit inside a domain
   where the adjacency network has a persistent 1/r deviation profile, inherited from
   formation. This profile: * Does not dec...'
-heading: '**IGSOA CSOI view:**'
-id: GEN13-2312
-lines: 760-778
-location: genesis-13/the-weight-of-light::6-physical-interpretation::igsoa-csoi-view::b1
-parent_heading: '**6\. Physical Interpretation**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Π
+- δ
+- δ-adjacency
+- Φ-dynamical
+- pre-metric
+- Φ
+- →
+- causal memory
+aliases:
+- Bk203fc
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.126582278481013
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

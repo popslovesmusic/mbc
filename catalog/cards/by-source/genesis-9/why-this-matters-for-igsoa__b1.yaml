@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- Π
-- Φ
-- δ
-excerpt: 'You have been building: * **δ → Φ → Π tower** * **χ-phase periodic table**'
-heading: '**Why This Matters for IGSOA**'
 id: GEN9-9442
-lines: 104-126
 location: genesis-9/strong-force::why-this-matters-for-igsoa::b1
 source: genesis-9\strong-force.md
+lines: 104-126
+heading: '**Why This Matters for IGSOA**'
+block_type: paragraph
+excerpt: 'You have been building: * **δ → Φ → Π tower** * **χ-phase periodic table**'
+concepts:
+- Meta-Einstein
+- δ
+- Meta-Einstein curvature sector
+- δ-Harmonic degeneracy shells
+- χ
+- Axiom
+- →
+- δ-Harmonic
+- Π
+- Φ
+aliases:
+- Bk712yh
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.658227848101266
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

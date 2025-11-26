@@ -1,13 +1,35 @@
+id: GEN9-9485
+location: genesis-9/strong-force::6-why-the-weak-force-is-short-ranged-massive::b1
+source: genesis-9\strong-force.md
+lines: 726-746
+heading: '**6\. Why the Weak Force is Short-Ranged (Massive)**'
 block_type: paragraph
-concepts:
-- Standard Model Higgs
-- massive
-- δ
 excerpt: 'In IGSOA: * δ-curvature modes (χ-triplet) are massless → long-range (gluons
   stay “massless but confined”). * δ-torsion modes (θ-doublet) are naturally **massive**
   because the torsion potential is conv...'
-heading: '**6\. Why the Weak Force is Short-Ranged (Massive)**'
-id: GEN9-9485
-lines: 726-746
-location: genesis-9/strong-force::6-why-the-weak-force-is-short-ranged-massive::b1
-source: genesis-9\strong-force.md
+concepts:
+- δ
+- IGSOA
+- δ-torsion
+- δ-curvature
+- long-range
+- χ
+- θ
+- →
+- Standard Model Higgs
+- mass terms
+- massive
+aliases:
+- Bk591ic
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.956521739130435
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,10 +1,26 @@
+id: INTK-9828
+location: intake/meta-genesis-core-papers-foundations::2-assumptions-axioms-used::a1-not-axiom::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 931-935
+heading: '**(A1) NOT Axiom**'
+parent_heading: '**2\. Assumptions (Axioms Used)**'
 block_type: paragraph
-concepts: []
 excerpt: ∅∉State(U)\\varnothing \\notin \\mathrm{State}(\\mathcal{U})∅∈/State(U) Non-being
   is not a legitimate state.
-heading: '**(A1) NOT Axiom**'
-id: INTK-9828
-lines: 931-935
-location: intake/meta-genesis-core-papers-foundations::2-assumptions-axioms-used::a1-not-axiom::b1
-parent_heading: '**2\. Assumptions (Axioms Used)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- State
+- Non-being
+- ∉
+- ∈
+aliases:
+- Bk535sv
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.52941176470588
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

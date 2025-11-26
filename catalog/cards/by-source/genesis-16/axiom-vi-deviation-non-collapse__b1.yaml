@@ -1,16 +1,33 @@
+id: GEN16-3978
+location: genesis-16/untitled-document::3-mapping-the-laws-axioms::axiom-vi-deviation-non-collapse::b1
+source: genesis-16\Untitled_document.md
+lines: 2980-2988
+heading: '**Axiom VI — Deviation / Non-Collapse**'
+parent_heading: '**⭐ 3\. Mapping the Laws (Axioms)**'
 block_type: table
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Deviation Axiom
-- Meta-Math
-- Σ
 excerpt: G(Deviation Axiom)=NOT-Axiom\\boxed{G(\\text{Deviation Axiom})=\\text{NOT-Axiom}}G(Deviation
   Axiom)=NOT-Axiom​ ---
-heading: '**Axiom VI — Deviation / Non-Collapse**'
-id: GEN16-3978
-lines: 2980-2988
-location: genesis-16/untitled-document::3-mapping-the-laws-axioms::axiom-vi-deviation-non-collapse::b1
-parent_heading: '**⭐ 3\. Mapping the Laws (Axioms)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Axiom
+- Deviation
+- Meta-Math
+- Box Calculus
+- NOT-Axiom
+- Deviation Axiom
+- Box
+- Σ
+- ≠
+aliases:
+- Bk899bc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.076923076923077
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

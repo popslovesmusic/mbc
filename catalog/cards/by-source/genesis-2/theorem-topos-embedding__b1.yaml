@@ -1,17 +1,40 @@
+id: GEN2-6532
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::4-full-topos-theoretic-statement::theorem-topos-embedding::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 815-845
+heading: '**Theorem (Topos Embedding).**'
+parent_heading: '**4\. Full Topos-Theoretic Statement**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Scale-Topos
-- Π
-- Φ
-- δ
-- σ
 excerpt: 'There exists a chain of functors: MG→iDGδ→ΥSh(σ)→ΠRGMG \\xrightarrow{i}
   DG\_{\\delta} \\xrightarrow{Υ} Sh(\\sigma) \\xrightarrow{\\Pi} RGMGi​DGδ​Υ​Sh(σ)Π​RG
   such that:'
-heading: '**Theorem (Topos Embedding).**'
-id: GEN2-6532
-lines: 815-845
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::4-full-topos-theoretic-statement::theorem-topos-embedding::b1
-parent_heading: '**4\. Full Topos-Theoretic Statement**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- Υ
+- Π
+- →
+- Meta-Genesis
+- δ
+- IGSOA
+- σ
+- Φ
+- fully-faithful
+- scale-indexed
+- Scale-Topos
+- δ-extension
+- left-exact
+- ΠRGMG
+aliases:
+- Bk275te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.395973154362416
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

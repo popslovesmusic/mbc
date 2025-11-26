@@ -1,14 +1,34 @@
+id: INTK-10789
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-math-interpretation-of-quantum-gravity::3-deviation-curvature-identity-core-result::32-the-igsoa-curvaturedeviation-relation::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2233-2248
+heading: '**3.2 The IGSOA Curvature–Deviation Relation**'
+parent_heading: '**3\. Deviation-Curvature Identity (Core Result)**'
 block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- δ
 excerpt: 'On stable peakset layers, the *Meta-Einstein Equation* is: Rab−12gabR=8π Tab(δ)\\boxed{
   \\mathcal{R}\_{ab} \- \\frac{1}{2}g\_{ab} \\mathcal{R} \= 8\\pi \\, T^{(\\delta)}\_{ab}
   }Rab​−21​gab​R=8πTab(δ)​...'
-heading: '**3.2 The IGSOA Curvature–Deviation Relation**'
-id: INTK-10789
-lines: 2233-2248
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-math-interpretation-of-quantum-gravity::3-deviation-curvature-identity-core-result::32-the-igsoa-curvaturedeviation-relation::b1
-parent_heading: '**3\. Deviation-Curvature Identity (Core Result)**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- δ
+- Meta-Einstein
+- ∇
+- deviation-curvature
+- peakset-interaction
+- π
+- δ-stress
+- Einstein Equation
+aliases:
+- Bk658sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.4
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,23 @@
+id: GEN18-5597
+location: genesis-18/mbc-4::if-you-want-next::d-the-polarity-semantic-lambda-calculus-θ-aware-φ-abstraction-calculus::b1
+source: genesis-18\MBC-4.md
+lines: 2542-2548
+heading: '**D. The Polarity-Semantic Lambda Calculus *(Θ-aware Φ-abstraction calculus)***'
+parent_heading: '**If you want next:**'
 block_type: paragraph
-concepts: []
 excerpt: Which direction do we go next? . ChatGPT can make mistakes. Check important
   info.
-heading: '**D. The Polarity-Semantic Lambda Calculus *(Θ-aware Φ-abstraction calculus)***'
-id: GEN18-5597
-lines: 2542-2548
-location: genesis-18/mbc-4::if-you-want-next::d-the-polarity-semantic-lambda-calculus-θ-aware-φ-abstraction-calculus::b1
-parent_heading: '**If you want next:**'
-source: genesis-18\MBC-4.md
+aliases:
+- Bk990wd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

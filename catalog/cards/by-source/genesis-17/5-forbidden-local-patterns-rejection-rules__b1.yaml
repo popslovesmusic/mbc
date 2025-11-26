@@ -1,10 +1,24 @@
+id: GEN17-4252
+location: genesis-17/box-calculus::graph-grammar-for-box-calculus-topology-legal-wiring::5-forbidden-local-patterns-rejection-rules::b1
+source: genesis-17\box_calculus.md
+lines: 1609-1611
+heading: 5\. Forbidden Local Patterns (Rejection Rules)
+parent_heading: ⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)
 block_type: paragraph
-concepts: []
 excerpt: Instead of only generative grammar, we also give explicit “illegal adjacency
   motifs.”
-heading: 5\. Forbidden Local Patterns (Rejection Rules)
-id: GEN17-4252
-lines: 1609-1611
-location: genesis-17/box-calculus::graph-grammar-for-box-calculus-topology-legal-wiring::5-forbidden-local-patterns-rejection-rules::b1
-parent_heading: ⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)
-source: genesis-17\box_calculus.md
+aliases:
+- Bk336io
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

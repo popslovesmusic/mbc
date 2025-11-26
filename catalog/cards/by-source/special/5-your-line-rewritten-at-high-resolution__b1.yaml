@@ -1,10 +1,25 @@
+id: SPEC-11180
+location: special/specil::5-your-line-rewritten-at-high-resolution::b1
+source: special\specil.md
+lines: 3752-3772
+heading: '**⭐ 5\. Your line rewritten at high resolution:**'
 block_type: paragraph
-concepts: []
 excerpt: '**Religion arose as humanity’s earliest system for perceiving, tracking,
   stabilizing, and interpreting the monistic patterns of reality — using record-keeping,
   ritualized replication, and meditative i...'
-heading: '**⭐ 5\. Your line rewritten at high resolution:**'
-id: SPEC-11180
-lines: 3752-3772
-location: special/specil::5-your-line-rewritten-at-high-resolution::b1
-source: special\specil.md
+concepts:
+- IGSOA
+- meta-mathematical
+- record-keeping
+aliases:
+- Bk576ra
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

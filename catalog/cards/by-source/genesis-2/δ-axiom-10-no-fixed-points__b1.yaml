@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'There is **no** object XXX such that: δX=X.\\delta X \= X.δX=X. Deviation
-  must always yield change.'
-heading: '**δ-Axiom 10 — No Fixed Points**'
 id: GEN2-6288
-lines: 1081-1097
 location: genesis-2/axioms-for-the-category-genesis::δ-axiom-10-no-fixed-points::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 1081-1097
+heading: '**δ-Axiom 10 — No Fixed Points**'
+block_type: paragraph
+excerpt: 'There is **no** object XXX such that: δX=X.\\delta X \= X.δX=X. Deviation
+  must always yield change.'
+concepts:
+- Deviation
+- δ
+- δX
+aliases:
+- Bk184to
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

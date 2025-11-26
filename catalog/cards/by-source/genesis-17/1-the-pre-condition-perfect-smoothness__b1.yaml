@@ -1,13 +1,30 @@
-block_type: table
-concepts:
-- Box
-- No Boxes
-- Standard Physics Description
-- Π
-excerpt: '**Cross-reference:** This is **Stage 0** of the MBC process stack: IGSOA(smooth,
-  structureless)IGSOA \\quad \\text{(smooth, structureless)}IGSOA(smooth, structureless)'
-heading: '**1\. The Pre-Condition: Perfect Smoothness**'
 id: GEN17-5099
-lines: 1233-1245
 location: genesis-17/mbc-schema-3::1-the-pre-condition-perfect-smoothness::b1
 source: genesis-17\MBC_Schema_3.md
+lines: 1233-1245
+heading: '**1\. The Pre-Condition: Perfect Smoothness**'
+block_type: table
+excerpt: '**Cross-reference:** This is **Stage 0** of the MBC process stack: IGSOA(smooth,
+  structureless)IGSOA \\quad \\text{(smooth, structureless)}IGSOA(smooth, structureless)'
+concepts:
+- IGSOA
+- MBC
+- Box
+- Cross-reference
+- Standard Physics Description
+- Π
+- Box category is empty
+- No Boxes
+- Stage 0
+aliases:
+- Bk819sp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.32876712328767
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

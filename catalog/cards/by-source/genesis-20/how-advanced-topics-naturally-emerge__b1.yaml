@@ -1,9 +1,26 @@
-block_type: list
-concepts: []
-excerpt: '* need for sophisticated routing * multi-input semantics * statistical updating'
-heading: ● How Advanced Topics Naturally Emerge
 id: GEN20-7050
-lines: 4937-4948
 location: genesis-20/mbc-40-documentaitio-1::conclusion::151-what-we-accomplished-in-this-volume::how-advanced-topics-naturally-emerge::b1
-parent_heading: 15.1 What We Accomplished in This Volume
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4937-4948
+heading: ● How Advanced Topics Naturally Emerge
+parent_heading: 15.1 What We Accomplished in This Volume
+block_type: list
+excerpt: '* need for sophisticated routing * multi-input semantics * statistical updating'
+concepts:
+- multi-input
+- tensor-like
+aliases:
+- Bk969nf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

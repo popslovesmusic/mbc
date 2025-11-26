@@ -1,15 +1,35 @@
+id: GEN7-8647
+location: genesis-7/why-curvature-gives-gravity::proof::step-1-δ-produces-a-connection::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 389-401
+heading: '**Step 1 — δ produces a connection**'
+parent_heading: '**PROOF**'
 block_type: paragraph
-concepts:
-- Deviational Geometry Axioms
-- any
-- Γ
-- δ
 excerpt: 'From the Deviational Geometry Axioms: Γijδ=f(A,δA)\\Gamma^\\delta\_{ij}
   \= f(\\mathcal{A}, \\delta \\mathcal{A})Γijδ​=f(A,δA) and the connection is path-dependent
   — therefore a curvature tensor exists...'
-heading: '**Step 1 — δ produces a connection**'
-id: GEN7-8647
-lines: 389-401
-location: genesis-7/why-curvature-gives-gravity::proof::step-1-δ-produces-a-connection::b1
-parent_heading: '**PROOF**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Γ
+- Deviational Geometry
+- Deviation
+- ∂
+- path-dependent
+- Deviational Geometry Axioms
+- δA
+- δR
+aliases:
+- Bk720ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.465116279069768
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

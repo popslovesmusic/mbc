@@ -1,12 +1,36 @@
+id: GEN4-7909
+location: genesis-4/the-first-adjacency::3-δ-variation-as-a-proto-metric::properties::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1707-1729
+heading: '**Properties**'
+parent_heading: '**3\. δ-Variation as a Proto-Metric**'
 block_type: list
+excerpt: 1. **Non-negativity:** Δδ(Ψi,Ψj)≥0\\Delta\_\\delta(\\Psi\_i,\\Psi\_j) \\ge
+  0Δδ​(Ψi​,Ψj​)≥0 2. **Identity:**
 concepts:
 - Ψ
 - δ
-excerpt: 1. **Non-negativity:** Δδ(Ψi,Ψj)≥0\\Delta\_\\delta(\\Psi\_i,\\Psi\_j) \\ge
-  0Δδ​(Ψi​,Ψj​)≥0 2. **Identity:**
-heading: '**Properties**'
-id: GEN4-7909
-lines: 1707-1729
-location: genesis-4/the-first-adjacency::3-δ-variation-as-a-proto-metric::properties::b1
-parent_heading: '**3\. δ-Variation as a Proto-Metric**'
-source: genesis-4\The_First_Adjacency.md
+- Δ
+- Ψi
+- Ψj
+- IGSOA
+- Ψk
+- ≤
+- ≥
+- Non-negativity
+- Triangle-like
+- δ-refinement
+aliases:
+- Bk950nn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.275862068965518
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

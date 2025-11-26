@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'If a loop fails to converge, it must be: * marked unstable * isolated'
-heading: Failure Condition
 id: GEN20-7140
-lines: 6043-6052
 location: genesis-20/mbc-40-documentaitio-1::a33-loop-stability-cycle-coherence-condition::failure-condition::b1
-parent_heading: A3.3 Loop Stability (Cycle Coherence Condition)
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6043-6052
+heading: Failure Condition
+parent_heading: A3.3 Loop Stability (Cycle Coherence Condition)
+block_type: paragraph
+excerpt: 'If a loop fails to converge, it must be: * marked unstable * isolated'
+concepts:
+- conflict-resolution
+- router-level
+aliases:
+- Bk754lf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

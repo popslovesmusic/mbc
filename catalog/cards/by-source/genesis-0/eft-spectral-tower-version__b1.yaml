@@ -1,19 +1,39 @@
+id: GEN0-308
+location: genesis-0/why-the-first-action-is-necessary::the-δ-boson-interpretation::eft-spectral-tower-version::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1010-1027
+heading: '***(EFT \+ Spectral Tower Version)***'
+parent_heading: '**The δ-Boson Interpretation**'
 block_type: paragraph
-concepts:
-- Deviation
-- Deviation Operator
-- Fractal Mode Quantization
-- Meta-Fractal
-- Mode
-- Operator
-- Ψ
-- δ
 excerpt: The δ-boson is the fundamental excitation of **Deviation** — the same δ that
   breaks the perfect symmetry of Ψ₀ and sparks the beginning of the universe. In the
   physical regime, δ manifests not as a si...
-heading: '***(EFT \+ Spectral Tower Version)***'
-id: GEN0-308
-lines: 1010-1027
-location: genesis-0/why-the-first-action-is-necessary::the-δ-boson-interpretation::eft-spectral-tower-version::b1
-parent_heading: '**The δ-Boson Interpretation**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- Deviation
+- δ
+- IGSOA
+- Meta-Fractal Mode Quantization
+- Operator
+- Mode
+- δ-boson
+- Meta-Fractal
+- Fractal Mode Quantization
+- δ-bosons
+- infinite spectral tower
+- Ψ
+- Deviation Operator
+- Ψ₀
+aliases:
+- Bk948tb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: true
+concept_density: 14.736842105263156
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

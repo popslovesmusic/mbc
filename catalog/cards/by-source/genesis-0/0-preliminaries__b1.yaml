@@ -1,11 +1,37 @@
-block_type: paragraph
-concepts:
-- δ
-- δ-bosons
-excerpt: 'We assume: 1. A **fractal Hilbert-stack**: H=⨆k≥0Hk\\mathcal{H} \= \\bigsqcup\_{k\\ge
-  0} \\mathcal{H}\_kH=k≥0⨆​Hk​'
-heading: '**0\. Preliminaries**'
 id: GEN0-347
-lines: 1659-1677
 location: genesis-0/why-the-first-action-is-necessary::0-preliminaries::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1659-1677
+heading: '**0\. Preliminaries**'
+block_type: paragraph
+excerpt: 'We assume: 1. A **fractal Hilbert-stack**: H=⨆k≥0Hk\\mathcal{H} \= \\bigsqcup\_{k\\ge
+  0} \\mathcal{H}\_kH=k≥0⨆​Hk​'
+concepts:
+- δ
+- fractal Hilbert-stack
+- δ-boson
+- ∈
+- δ-mode
+- ≥
+- →
+- complete propagator structure
+- Hilbert-stack
+- δ-mode basis
+- mode-raising
+- δ-bosons
+- deviation generator
+aliases:
+- Bk948af
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.149532710280374
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

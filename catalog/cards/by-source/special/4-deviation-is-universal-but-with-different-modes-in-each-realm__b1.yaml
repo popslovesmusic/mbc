@@ -1,13 +1,33 @@
+id: SPEC-10984
+location: special/specil::4-deviation-is-universal-but-with-different-modes-in-each-realm::b1
+source: special\specil.md
+lines: 274-290
+heading: '**🧿 4\. Deviation is universal — but with different modes in each realm**'
 block_type: table
-concepts:
-- Uncertainty Principle
-- enforcer
-- δ
 excerpt: 'Your breakdown is exact: This is a stunning unification: **Deviation is
   monistic — one essence, many modes — because each realm has different degrees of
   freedom.**'
-heading: '**🧿 4\. Deviation is universal — but with different modes in each realm**'
-id: SPEC-10984
-lines: 274-290
-location: special/specil::4-deviation-is-universal-but-with-different-modes-in-each-realm::b1
-source: special\specil.md
+concepts:
+- Deviation
+- Axiom
+- Δ
+- non-flatness
+- non-zero
+- Uncertainty Principle
+- δ
+- ≥
+- Mathematical realm
+- Physical realm
+- Genesis realm
+aliases:
+- Bk170yb
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.924050632911392
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,28 @@
+id: GEN14-2936
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-paper-outline::7-deriving-the-standard-ensembles::72-canonical-ensemble-modular-flow-allowed::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 351-353
+heading: '**7.2 Canonical Ensemble (modular flow allowed)**'
+parent_heading: '**7\. Deriving the Standard Ensembles**'
 block_type: paragraph
-concepts:
-- Φ
-- β
 excerpt: P(Φ-trace with modular flow)=Z(β)\\mathcal{P}(\\text{Φ-trace with modular
   flow}) \= Z(\\beta)P(Φ-trace with modular flow)=Z(β)
-heading: '**7.2 Canonical Ensemble (modular flow allowed)**'
-id: GEN14-2936
-lines: 351-353
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-paper-outline::7-deriving-the-standard-ensembles::72-canonical-ensemble-modular-flow-allowed::b1
-parent_heading: '**7\. Deriving the Standard Ensembles**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Φ-trace
+- Φ
+- β
+aliases:
+- Bk146tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,38 @@
-block_type: paragraph
-concepts:
-- complete
-- full
-- non-monoidal
-- partial
-- weak
-- Ψ
-- δ
-excerpt: 'Genesis is a *weak*, *partial*, *non-monoidal* proto-category with: * **no
-  identities at Ψ₀** * **no invertible morphisms**'
-heading: '**🔶 Step 1 — Genesis and Math are defined on disjoint structural primitives**'
 id: GEN2-6261
-lines: 606-650
 location: genesis-2/axioms-for-the-category-genesis::step-1-genesis-and-math-are-defined-on-disjoint-structural-primitives::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 606-650
+heading: '**🔶 Step 1 — Genesis and Math are defined on disjoint structural primitives**'
+block_type: paragraph
+excerpt: 'Genesis is a *weak*, *partial*, *non-monoidal* proto-category with: * **no
+  identities at Ψ₀** * **no invertible morphisms**'
+concepts:
+- δ-curvature as a scalar along primitive morphisms
+- no shared axioms that could directly contradict
+- proto-time as ordering
+- primitive δ-morphisms
+- ∩
+- adjacency as a minimal relation
+- δ
+- proto-category
+- different levels of structure
+- non-monoidal
+- δ-morphisms
+- δ-curvature
+- proto-time
+- no invertible morphisms
+- no symmetric structure
+aliases:
+- Bk115gw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.446601941747574
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,16 +1,38 @@
+id: GEN15-3360
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::vii-category-theoretic-formulation::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1642-1670
+heading: '**VII. Category-Theoretic Formulation**'
 block_type: paragraph
+excerpt: 'Objects: * δ-fields ∈Dev\\in \\mathsf{Dev}∈Dev * potentials ∈Dyn\\in \\mathsf{Dyn}∈Dyn'
 concepts:
+- δ
+- Π
+- Φ
+- ∈
+- →
+- δlocal
+- quadrupole-preserving
+- δCSOI
+- δtail
+- δ-fields
+- η
 - 'Halo
 
 
   Functors'
-- Π
-- Φ
-- δ
-- η
-excerpt: 'Objects: * δ-fields ∈Dev\\in \\mathsf{Dev}∈Dev * potentials ∈Dyn\\in \\mathsf{Dyn}∈Dyn'
-heading: '**VII. Category-Theoretic Formulation**'
-id: GEN15-3360
-lines: 1642-1670
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::vii-category-theoretic-formulation::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+aliases:
+- Bk369of
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.450704225352112
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,20 +1,40 @@
+id: GEN13-2540
+location: genesis-13/what-biology-is-in-meta-genesis::8-the-chapter-continues::part-ii::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1156-1166
+heading: '**PART II**'
+parent_heading: '**8\. The Chapter Continues…**'
 block_type: list
-concepts:
-- Adjacency Curvature
-- Conformational Projectors
-- Energy Transduction Law
-- Flux Across
-- Membrane Boundaries
-- Rotor Algebra
-- Spectral Decomposition
-- Π
-- Φ
-- δ
 excerpt: '* δ-Adjacency Curvature of Membrane Boundaries * Φ-Rotor Algebra of F₀ *
   Π-Conformational Projectors'
-heading: '**PART II**'
-id: GEN13-2540
-lines: 1156-1166
-location: genesis-13/what-biology-is-in-meta-genesis::8-the-chapter-continues::part-ii::b1
-parent_heading: '**8\. The Chapter Continues…**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Adjacency
+- Curvature
+- δ
+- Π-Conformational
+- Π
+- Φ
+- Π-Manifolds
+- δ-Adjacency
+- Conformational Projectors
+- Energy Transduction Law
+- Φ-Rotor
+- Spectral Decomposition
+- δ-Flux
+- Adjacency Curvature
+- Membrane Boundaries
+aliases:
+- Bk119ac
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 62.96296296296296
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

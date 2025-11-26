@@ -1,11 +1,30 @@
+id: GEN13-2065
+location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-nuclear-pre-geometry::proposition-16-δ-defect-classification::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 779-786
+heading: '**Proposition 1.6 (δ-Defect Classification).**'
+parent_heading: '**1\. The δ-Layer: Nuclear Pre-Geometry**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Every δ-defect is homotopic to one of {kink,dipole,tripole}\\{\\text{kink},\\text{dipole},\\text{tripole}\\}{kink,dipole,tripole}.
   The δ-tripole is the minimal non-Abelian stable defect. This forms th...
-heading: '**Proposition 1.6 (δ-Defect Classification).**'
-id: GEN13-2065
-lines: 779-786
-location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-nuclear-pre-geometry::proposition-16-δ-defect-classification::b1
-parent_heading: '**1\. The δ-Layer: Nuclear Pre-Geometry**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- pre-geometry
+- non-Abelian
+- δ-tripole
+- δ-defect
+aliases:
+- Bk774ed
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.513513513513514
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

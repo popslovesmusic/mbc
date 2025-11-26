@@ -1,14 +1,38 @@
+id: GEN10-715
+location: genesis-10/how-stillness-becomes-solid::3-π-projection-momentum-space-bands-and-the-z₂-invariant::32-curvature-parity-band-inversion::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 539-559
+heading: '**3.2 Curvature Parity → Band inversion**'
+parent_heading: '**3\. Π-Projection: Momentum-Space, Bands, and the Z₂ Invariant**'
 block_type: paragraph
-concepts:
-- Π
-- Σ
-- δ
-- ν
 excerpt: 'The δ-parity index determines whether: * Π-projected pairs exchange ordering
   (band inversion), or * remain trivially ordered.'
-heading: '**3.2 Curvature Parity → Band inversion**'
-id: GEN10-715
-lines: 539-559
-location: genesis-10/how-stillness-becomes-solid::3-π-projection-momentum-space-bands-and-the-z₂-invariant::32-curvature-parity-band-inversion::b1
-parent_heading: '**3\. Π-Projection: Momentum-Space, Bands, and the Z₂ Invariant**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- Π
+- δ
+- δ-geometry
+- ∫
+- ν
+- ∂
+- Σ
+- Π-curvature
+- δ-curvature
+- Π-projected
+- Berry-like
+- δ-parity
+- ΣF
+aliases:
+- Bk881tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.92436974789916
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,31 @@
+id: GEN10-894
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-the-three-layer-derivation::22-φ-layer-modal-distribution-without-magnitude-change::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2449-2479
+heading: '**2.2 Φ-Layer: Modal Distribution Without Magnitude Change**'
+parent_heading: '**2\. The Three-Layer Derivation**'
 block_type: paragraph
-concepts:
-- how
-- Φ
-- Ψ
-- δ
 excerpt: 'Φ takes the deviation and decomposes it into modal channels: Φ(δΨ)={Eδ,i(Φ)}.Φ(δΨ)
   \= \\{E\_{\\delta,i}^{(Φ)}\\}.Φ(δΨ)={Eδ,i(Φ)​}. These Φ-modes can:'
-heading: '**2.2 Φ-Layer: Modal Distribution Without Magnitude Change**'
-id: GEN10-894
-lines: 2449-2479
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-the-three-layer-derivation::22-φ-layer-modal-distribution-without-magnitude-change::b1
-parent_heading: '**2\. The Three-Layer Derivation**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Φ
+- δ
+- Ψ
+- ∑
+- ∀
+- Φ-modes
+- modal expression
+aliases:
+- Bk752tt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.216494845360824
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

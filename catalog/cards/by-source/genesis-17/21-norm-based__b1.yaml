@@ -1,10 +1,25 @@
+id: GEN17-4229
+location: genesis-17/box-calculus::hς::21-norm-based::b1
+source: genesis-17\box_calculus.md
+lines: 1224-1227
+heading: 2.1 Norm-Based
+parent_heading: H(Σ)?
 block_type: paragraph
+excerpt: H(Σ)=∥Σ∥ H(Σ)=∥Σ∥
 concepts:
 - Σ
-excerpt: H(Σ)=∥Σ∥ H(Σ)=∥Σ∥
-heading: 2.1 Norm-Based
-id: GEN17-4229
-lines: 1224-1227
-location: genesis-17/box-calculus::hς::21-norm-based::b1
-parent_heading: H(Σ)?
-source: genesis-17\box_calculus.md
+aliases:
+- Bk15932
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

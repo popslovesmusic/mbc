@@ -1,15 +1,35 @@
+id: GEN9-9201
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-χ-valence-electronegativity-law::axiom-χ4-the-χvalenceen-triad::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2651-2671
+heading: '**Axiom χ4 — The χ–Valence–EN Triad**'
+parent_heading: '**The χ ↔ Valence ↔ Electronegativity Law**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Π
-- Φ
-- δ
 excerpt: 'For each element: (χ, V, EN) form a δ-Tri-Unity triple.\\boxed{ (\\chi,\\,
   V,\\, \\mathrm{EN}) \\text{ form a δ-Tri-Unity triple.} }(χ,V,EN) form a δ-Tri-Unity
   triple.​ Meaning:'
-heading: '**Axiom χ4 — The χ–Valence–EN Triad**'
-id: GEN9-9201
-lines: 2651-2671
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-χ-valence-electronegativity-law::axiom-χ4-the-χvalenceen-triad::b1
-parent_heading: '**The χ ↔ Valence ↔ Electronegativity Law**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Tri-Unity
+- χ
+- δ-Tri-Unity
+- δ
+- Tri-Unity conservation law
+- Π-space
+- Π
+- Φ-mode
+- Φ
+aliases:
+- Bk378fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.843373493975903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,37 @@
+id: INTK-9934
+location: intake/meta-genesis-diagrammatic-papers::3-constructed-geometric-structures::33-deviational-curvature::b1
+source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 620-643
+heading: '**3.3 Deviational Curvature**'
+parent_heading: '**3\. Constructed Geometric Structures**'
 block_type: paragraph
-concepts:
-- Deviational Riemann Tensor
-- δ
 excerpt: Curvature measures **failure of deviation to commute along adjacent paths**.
   Rδ(i,j)=δiδj−δjδi.R\_{\\delta}(i,j)=\\delta\_i \\delta\_j \- \\delta\_j \\delta\_i.Rδ​(i,j)=δi​δj​−δj​δi​.
   This is the Devi...
-heading: '**3.3 Deviational Curvature**'
-id: INTK-9934
-lines: 620-643
-location: intake/meta-genesis-diagrammatic-papers::3-constructed-geometric-structures::33-deviational-curvature::b1
-parent_heading: '**3\. Constructed Geometric Structures**'
-source: intake\Meta-Genesis_Diagrammatic_Papers.md
+concepts:
+- δ
+- Curvature
+- Deviation
+- failure of deviation to commute along adjacent paths
+- δj
+- δi
+- δ-curved geometry
+- Deviational Riemann Tensor
+- single curvature tensor
+- δ-curved
+- δ-mode
+aliases:
+- Bk529cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.102564102564102
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

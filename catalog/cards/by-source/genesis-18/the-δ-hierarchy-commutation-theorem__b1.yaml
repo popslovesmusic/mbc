@@ -1,12 +1,27 @@
+id: GEN18-5690
+location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-produce::the-δ-hierarchy-commutation-theorem::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 951-953
+heading: '**🔵 The δ-Hierarchy Commutation Theorem**'
+parent_heading: '**If you want, I can now produce:**'
 block_type: paragraph
+excerpt: (δⁿΦⁿΠⁿ commute and collapse to δΦΠ)
 concepts:
 - Π
-- Φ
 - δ
-excerpt: (δⁿΦⁿΠⁿ commute and collapse to δΦΠ)
-heading: '**🔵 The δ-Hierarchy Commutation Theorem**'
-id: GEN18-5690
-lines: 951-953
-location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-produce::the-δ-hierarchy-commutation-theorem::b1
-parent_heading: '**If you want, I can now produce:**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+- Φ
+aliases:
+- Bk262ca
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

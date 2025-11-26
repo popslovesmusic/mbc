@@ -1,13 +1,33 @@
+id: GEN2-6313
+location: genesis-2/axioms-of-geometry-topos-compatible::6-topos-theoretic-validity-conditions::axiom-63-adjointness-with-meta-math::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 261-271
+heading: '**Axiom 6.3 — Adjointness with Meta-Math**'
+parent_heading: '**6\. Topos-Theoretic Validity Conditions**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- δ
 excerpt: 'There exists an adjoint pair F:δ-Geom⇆Meta-Math:UF : \\delta\\text{-Geom}
   \\leftrightarrows \\text{Meta-Math} : UF:δ-Geom⇆Meta-Math:U making δ-geometry a
   **middle layer**:'
-heading: '**Axiom 6.3 — Adjointness with Meta-Math**'
-id: GEN2-6313
-lines: 261-271
-location: genesis-2/axioms-of-geometry-topos-compatible::6-topos-theoretic-validity-conditions::axiom-63-adjointness-with-meta-math::b1
-parent_heading: '**6\. Topos-Theoretic Validity Conditions**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Meta-Math
+- δ-geometry
+- δ
+- δ-Geom
+- →
+- δ-Geometry
+- middle layer
+aliases:
+- Bk879te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

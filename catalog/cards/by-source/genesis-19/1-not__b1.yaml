@@ -1,12 +1,29 @@
-block_type: table
-concepts:
-- Standard Logic
-- δ
-- σ
-excerpt: '**Router parameters:** w1=−1,b=0w\_1 \= \-1,\\quad b=0w1​=−1,b=0 ---'
-heading: '**1\. NOT**'
 id: GEN19-5956
-lines: 1062-1072
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-canonical-operator-table-dual-column::1-not::b1
-parent_heading: '**I. Canonical Operator Table (dual-column)**'
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1062-1072
+heading: '**1\. NOT**'
+parent_heading: '**I. Canonical Operator Table (dual-column)**'
+block_type: table
+excerpt: '**Router parameters:** w1=−1,b=0w\_1 \= \-1,\\quad b=0w1​=−1,b=0 ---'
+concepts:
+- IGSOA
+- Router
+- σ
+- δ
+- ¬
+- δ-curvature
+- δ-term
+- Standard Logic
+aliases:
+- Bk621it
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.052631578947366
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

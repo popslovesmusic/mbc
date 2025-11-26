@@ -1,12 +1,26 @@
-block_type: paragraph
-concepts:
-- Spider-Man
-- designed
-- forced
-- not
-excerpt: 'They do **not** have: * personal morality * empathy'
-heading: '**⭐ 2\. But LLMs do NOT have inherent responsibility**'
 id: SPEC-11355
-lines: 7536-7567
 location: special/specil::2-but-llms-do-not-have-inherent-responsibility::b1
 source: special\specil.md
+lines: 7536-7567
+heading: '**⭐ 2\. But LLMs do NOT have inherent responsibility**'
+block_type: paragraph
+excerpt: 'They do **not** have: * personal morality * empathy'
+concepts:
+- Spider-Man
+- not
+- designed
+- forced
+aliases:
+- Bk068tn
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

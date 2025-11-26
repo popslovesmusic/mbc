@@ -1,12 +1,30 @@
+id: GEN20-6964
+location: genesis-20/mbc-40-documentaitio-1::the-advanced-topics-that-are-truly-worthy::5-category-theoretic-deepening-beyond-chapter-9::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3950-3962
+heading: 5\. Category-Theoretic Deepening (Beyond Chapter 9\)
+parent_heading: ⭐ THE ADVANCED TOPICS THAT ARE TRULY WORTHY
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Not basic category theory — but: * monoidal functors for routers * enriched
   2-category structure'
-heading: 5\. Category-Theoretic Deepening (Beyond Chapter 9\)
-id: GEN20-6964
-lines: 3950-3962
-location: genesis-20/mbc-40-documentaitio-1::the-advanced-topics-that-are-truly-worthy::5-category-theoretic-deepening-beyond-chapter-9::b1
-parent_heading: ⭐ THE ADVANCED TOPICS THAT ARE TRULY WORTHY
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- Kan-extension
+- multi-input
+- δ-modes
+- Π
+- δ
+aliases:
+- Bk678nb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,14 +1,28 @@
+id: GEN6-8274
+location: genesis-6/spectral-triple-axiom-box-sealed-version::2-δ-dirac-operator-satisfies-s2::compact-resolvent::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 188-200
+heading: '**Compact resolvent:**'
+parent_heading: '**(2) δ-Dirac Operator Satisfies S2**'
 block_type: paragraph
+excerpt: 'Your δ-harmonic spectrum: λn∼nα(α\>0)\\lambda\_{n} \\sim n^{\\alpha} \\quad
+  (\\alpha\>0)λn​∼nα(α\>0) implies:'
 concepts:
 - α
 - δ
 - λ
+- δ-harmonic
 - μ
-excerpt: 'Your δ-harmonic spectrum: λn∼nα(α\>0)\\lambda\_{n} \\sim n^{\\alpha} \\quad
-  (\\alpha\>0)λn​∼nα(α\>0) implies:'
-heading: '**Compact resolvent:**'
-id: GEN6-8274
-lines: 188-200
-location: genesis-6/spectral-triple-axiom-box-sealed-version::2-δ-dirac-operator-satisfies-s2::compact-resolvent::b1
-parent_heading: '**(2) δ-Dirac Operator Satisfies S2**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+- →
+aliases:
+- Bk931yh
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

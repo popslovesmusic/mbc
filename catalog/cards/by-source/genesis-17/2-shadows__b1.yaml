@@ -1,9 +1,23 @@
-block_type: list
-concepts: []
-excerpt: '* IGS \= low curvature (soft modes) * OA \= high curvature (hard modes)'
-heading: '2 Shadows:'
 id: GEN17-4703
-lines: 8229-8232
 location: genesis-17/box-calculus::5-what-this-means-for-igsoa-summarized::2-shadows::b1
-parent_heading: ⭐ 5\. What this means for IGSOA (summarized)
 source: genesis-17\box_calculus.md
+lines: 8229-8232
+heading: '2 Shadows:'
+parent_heading: ⭐ 5\. What this means for IGSOA (summarized)
+block_type: list
+excerpt: '* IGS \= low curvature (soft modes) * OA \= high curvature (hard modes)'
+aliases:
+- Bk534il
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

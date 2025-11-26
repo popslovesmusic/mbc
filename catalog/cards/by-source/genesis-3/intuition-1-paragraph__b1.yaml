@@ -1,19 +1,38 @@
+id: GEN3-7481
+location: genesis-3/the-tri-unity-theorem::the-tri-unity-theorem::intuition-1-paragraph::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 6-18
+heading: '**Intuition (1 paragraph)**'
+parent_heading: '**The Tri-Unity Theorem**'
 block_type: paragraph
-concepts:
-- Deviation
-- Meta-Genesis
-- Meta-Math
-- The Tri
-- Tri-Unity
-- forces
-- Φ
-- δ
 excerpt: 'The operators **δ**, **Φ**, and **π** represent the three irreducible generative
   acts in IGSOA: * **δ** \= *Deviation*, the act of non-stillness, the origin of dynamics
   and curvature. * **Φ** \= *Form...'
-heading: '**Intuition (1 paragraph)**'
-id: GEN3-7481
-lines: 6-18
-location: genesis-3/the-tri-unity-theorem::the-tri-unity-theorem::intuition-1-paragraph::b1
-parent_heading: '**The Tri-Unity Theorem**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Meta-Genesis
+- Meta-Math
+- Tri-Unity
+- Projection
+- Deviation
+- IGSOA
+- Theorem
+- π
+- δ
+- Φ
+- →
+- non-stillness
+- mode-spaces
+- cannot exist independently
+- The Tri
+aliases:
+- Bk128to
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.582417582417584
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

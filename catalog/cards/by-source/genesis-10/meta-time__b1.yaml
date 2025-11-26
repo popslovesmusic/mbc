@@ -1,11 +1,28 @@
+id: GEN10-852
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::7-time-as-a-projection-of-δ-ordering::meta-time::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1690-1694
+heading: '**Meta-Time:**'
+parent_heading: '**7\. Time as a Projection of δ-Ordering**'
 block_type: paragraph
+excerpt: 'Ordering of δ-iterations: Ψ0→Ψ1→Ψ2→⋯Ψ\_0 \\to Ψ\_1 \\to Ψ\_2 \\to \\cdotsΨ0​→Ψ1​→Ψ2​→⋯'
 concepts:
 - Ψ
+- →
+- δ-iterations
 - δ
-excerpt: 'Ordering of δ-iterations: Ψ0→Ψ1→Ψ2→⋯Ψ\_0 \\to Ψ\_1 \\to Ψ\_2 \\to \\cdotsΨ0​→Ψ1​→Ψ2​→⋯'
-heading: '**Meta-Time:**'
-id: GEN10-852
-lines: 1690-1694
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::7-time-as-a-projection-of-δ-ordering::meta-time::b1
-parent_heading: '**7\. Time as a Projection of δ-Ordering**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+aliases:
+- Bk554oi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.052631578947366
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

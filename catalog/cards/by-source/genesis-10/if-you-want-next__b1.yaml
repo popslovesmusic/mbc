@@ -1,17 +1,41 @@
+id: GEN10-720
+location: genesis-10/how-stillness-becomes-solid::if-you-want-next::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 631-643
+heading: '**If you want next:**'
 block_type: list
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Invariant Axiom
-- Π
-- Φ
-- δ
 excerpt: '* **A sealed Axiom Box** (one page): *The δ→Φ→Π Z₂ Invariant Axiom* * **A
   diagram stack** (δ-curvature → Φ-pairs → Π-bands → edge modes) * **A version rewritten
   in narrative/outreach style**'
-heading: '**If you want next:**'
-id: GEN10-720
-lines: 631-643
-location: genesis-10/how-stillness-becomes-solid::if-you-want-next::b1
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- →
+- Axiom
+- δ
+- Box
+- Π
+- Φ
+- δ-curvature
+- δ-spectral
+- Π-bands
+- Φ-pairs
+- A sealed Axiom Box
+- Invariant Axiom
+- A diagram stack
+- Axiom Box
+aliases:
+- Bk884sa
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.450980392156865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,32 @@
+id: GEN9-9193
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::9-conclusion-matter-as-a-δ-harmonic-phenomenon::compact-mapping-paper-ready::more-technical-overlays::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2547-2555
+heading: '**More technical overlays**'
+parent_heading: '**Compact mapping (paper-ready)**'
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '* δ-harmonic shell boundaries * Φ-mode node diagrams over each block * Π-orbital
   capacity annotations (2n² bands)'
-heading: '**More technical overlays**'
-id: GEN9-9193
-lines: 2547-2555
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::9-conclusion-matter-as-a-δ-harmonic-phenomenon::compact-mapping-paper-ready::more-technical-overlays::b1
-parent_heading: '**Compact mapping (paper-ready)**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ-harmonic
+- Π-orbital
+- Φ-mode
+- Π
+- χ
+- δ
+- Φ
+aliases:
+- Bk991hs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.923076923076923
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,30 @@
+id: GEN12-1581
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::2-δ-φ-harmonicization::25-unified-interpretation-one-ladder-many-phenomena::2-cmb-acoustic-peaks::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 804-810
+heading: '**(2) CMB Acoustic Peaks**'
+parent_heading: '**2.5 Unified Interpretation: One Ladder, Many Phenomena**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'The CMB multipole spacing is the Π-projection of Φ: ℓk  ∝  Π(ϕk).\\ell\_k
   \\;\\propto\\; \\Pi(\\phi\_k).ℓk​∝Π(ϕk​). Thus CMB peaks are **angular projections
   of Φ**.'
-heading: '**(2) CMB Acoustic Peaks**'
-id: GEN12-1581
-lines: 804-810
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::2-δ-φ-harmonicization::25-unified-interpretation-one-ladder-many-phenomena::2-cmb-acoustic-peaks::b1
-parent_heading: '**2.5 Unified Interpretation: One Ladder, Many Phenomena**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- Φ
+- Π-projection
+- angular projections of Φ
+aliases:
+- Bk991tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

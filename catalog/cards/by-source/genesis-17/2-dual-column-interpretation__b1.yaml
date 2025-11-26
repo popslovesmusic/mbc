@@ -1,12 +1,33 @@
-block_type: table
-concepts:
-- Mathematical Interpretation
-- Π
-- Σ
-- δ
-excerpt: '---'
-heading: 🔷 2\. Dual-Column Interpretation
 id: GEN17-4838
-lines: 10145-10155
 location: genesis-17/box-calculus::2-dual-column-interpretation::b1
 source: genesis-17\box_calculus.md
+lines: 10145-10155
+heading: 🔷 2\. Dual-Column Interpretation
+block_type: table
+excerpt: '---'
+concepts:
+- Deviation
+- IGSOA
+- δ
+- Σ
+- self-adjoint
+- Mathematical Interpretation
+- ground-state
+- Long-time
+- Π
+- →
+- Σdt
+aliases:
+- Bk428ii
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.095238095238097
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

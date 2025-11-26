@@ -1,11 +1,27 @@
+id: GEN0-225
+location: genesis-0/tri-unity-theorem-equivalence-of::2-key-definitions::definition-2-adjacency-a₁::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1030-1032
+heading: '**Definition 2 — Adjacency (A₁)**'
+parent_heading: '**2\. Key Definitions**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: xAy  ⟺  y=δkx for some k≥1.x \\mathcal{A} y \\iff y \= \\delta^k x \\text{
   for some } k\\ge 1.xAy⟺y=δkx for some k≥1.
-heading: '**Definition 2 — Adjacency (A₁)**'
-id: GEN0-225
-lines: 1030-1032
-location: genesis-0/tri-unity-theorem-equivalence-of::2-key-definitions::definition-2-adjacency-a₁::b1
-parent_heading: '**2\. Key Definitions**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- ≥
+- δ
+- δkx
+aliases:
+- Bk338xf
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

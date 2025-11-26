@@ -1,15 +1,36 @@
+id: GEN17-4258
+location: genesis-17/box-calculus::graph-grammar-for-box-calculus-topology-legal-wiring::7-the-graph-grammar-theorem-closure-result::b1
+source: genesis-17\box_calculus.md
+lines: 1682-1701
+heading: 7\. The Graph Grammar Theorem (Closure Result)
+parent_heading: ⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)
 block_type: table
+excerpt: 'Theorem (Termination-to-Π): If WF(G)'
 concepts:
-- Box
-- Standard Statement
-- Theorem
+- IGSOA
 - Π
+- Theorem
+- Box
+- Termination-to-Π
 - Φ
 - ρ
-excerpt: 'Theorem (Termination-to-Π): If WF(G)'
-heading: 7\. The Graph Grammar Theorem (Closure Result)
-id: GEN17-4258
-lines: 1682-1701
-location: genesis-17/box-calculus::graph-grammar-for-box-calculus-topology-legal-wiring::7-the-graph-grammar-theorem-closure-result::b1
-parent_heading: ⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)
-source: genesis-17\box_calculus.md
+- well-formed
+- Π-realized
+- Standard Statement
+aliases:
+- Th401is
+tags:
+- theorem
+- termination-to-π
+- ambiguous
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Ψ
-- δ
-excerpt: 'On objects: F(Ψ)=δΨF(Ψ) \= δΨF(Ψ)=δΨ On morphisms:'
-heading: '**F: 𝒢 → 𝒜 (Deviation functor)**'
 id: GEN10-826
-lines: 1268-1284
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-defining-the-igsoa-functors::f-𝒢-𝒜-deviation-functor::b1
-parent_heading: '**2\. Defining the IGSOA Functors**'
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1268-1284
+heading: '**F: 𝒢 → 𝒜 (Deviation functor)**'
+parent_heading: '**2\. Defining the IGSOA Functors**'
+block_type: paragraph
+excerpt: 'On objects: F(Ψ)=δΨF(Ψ) \= δΨF(Ψ)=δΨ On morphisms:'
+concepts:
+- δ
+- Ψ
+- ΨF
+- δ²
+aliases:
+- Bk227om
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

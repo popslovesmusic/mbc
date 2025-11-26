@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: We prove the four equivalences as a chain. ---
-heading: 5\. Proof of the Correspondence
 id: GEN17-4581
-lines: 6841-6844
 location: genesis-17/box-calculus::curryhoward-for-box-calculus::5-proof-of-the-correspondence::b1
-parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
 source: genesis-17\box_calculus.md
+lines: 6841-6844
+heading: 5\. Proof of the Correspondence
+parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
+block_type: paragraph
+excerpt: We prove the four equivalences as a chain. ---
+aliases:
+- Bk807pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

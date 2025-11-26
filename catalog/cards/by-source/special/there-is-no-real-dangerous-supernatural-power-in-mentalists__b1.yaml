@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Spider-Man
-- does
-excerpt: What *does* exist is **psychological skill**, and psychological skill can
-  create **ethical risks** if someone uses it irresponsibly.
-heading: '**⭐ There is no real “dangerous supernatural power” in mentalists.**'
 id: SPEC-11334
-lines: 7110-7118
 location: special/specil::there-is-no-real-dangerous-supernatural-power-in-mentalists::b1
 source: special\specil.md
+lines: 7110-7118
+heading: '**⭐ There is no real “dangerous supernatural power” in mentalists.**'
+block_type: paragraph
+excerpt: What *does* exist is **psychological skill**, and psychological skill can
+  create **ethical risks** if someone uses it irresponsibly.
+concepts:
+- psychological skill
+- Spider-Man
+- ethical risks
+aliases:
+- Bk617wd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

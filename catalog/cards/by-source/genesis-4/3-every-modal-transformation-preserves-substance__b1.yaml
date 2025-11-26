@@ -1,14 +1,30 @@
+id: GEN4-7797
+location: genesis-4/the-adjoint-triple::3-every-modal-transformation-preserves-substance::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1330-1360
+heading: '**3\. Every Modal Transformation Preserves Substance**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Math
-- δ
-- σ
 excerpt: 'From your functor pipeline: MG→Lσ-Topos→RMMMG \\xrightarrow{L} \\sigma\\text{-Topos}
   \\xrightarrow{R} MMMGL​σ-ToposR​MM and the Meta-Genesis → Meta-Math commutation
   theorem:'
-heading: '**3\. Every Modal Transformation Preserves Substance**'
-id: GEN4-7797
-lines: 1330-1360
-location: genesis-4/the-adjoint-triple::3-every-modal-transformation-preserves-substance::b1
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- →
+- Meta-Genesis
+- Meta-Math
+- Theorem
+- σ
+- δ-origin
+- δ
+- substance preserving
+aliases:
+- Bk402fy
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.16326530612245
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

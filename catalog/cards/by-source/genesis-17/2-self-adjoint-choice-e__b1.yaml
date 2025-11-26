@@ -1,8 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Self-adjoint means: F=F† F=F'
-heading: ⭐ 2\. Self-Adjoint (Choice E)
 id: GEN17-4692
-lines: 8122-8145
 location: genesis-17/box-calculus::2-self-adjoint-choice-e::b1
 source: genesis-17\box_calculus.md
+lines: 8122-8145
+heading: ⭐ 2\. Self-Adjoint (Choice E)
+block_type: paragraph
+excerpt: 'Self-adjoint means: F=F† F=F'
+concepts:
+- Information-preserving
+- Self-adjoint
+aliases:
+- Bk432sa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.4691358024691357
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

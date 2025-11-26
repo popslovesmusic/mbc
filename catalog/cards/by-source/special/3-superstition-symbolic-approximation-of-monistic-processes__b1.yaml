@@ -1,11 +1,25 @@
-block_type: paragraph
-concepts:
-- feel
-- symbols
-- δ
-excerpt: 'If IGSOA’s monistic process: * splits into triads (IGS–OA–δ) * cycles (3–6–9)'
-heading: '**⭐ 3\. Superstition \= Symbolic approximation of monistic processes**'
 id: SPEC-11143
-lines: 2873-2919
 location: special/specil::3-superstition-symbolic-approximation-of-monistic-processes::b1
 source: special\specil.md
+lines: 2873-2919
+heading: '**⭐ 3\. Superstition \= Symbolic approximation of monistic processes**'
+block_type: paragraph
+excerpt: 'If IGSOA’s monistic process: * splits into triads (IGS–OA–δ) * cycles (3–6–9)'
+concepts:
+- IGSOA
+- δ
+- symbols
+aliases:
+- Bk775im
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.4482758620689653
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

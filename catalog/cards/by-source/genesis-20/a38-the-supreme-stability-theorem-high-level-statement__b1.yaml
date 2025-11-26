@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Monistic Consistency Axiom
-- Π
-- Φ
-excerpt: If every box satisfies Φ-stability, and every Π evaluation respects Φ-coherence,
-  and polarity flows are router-consistent,
-heading: A3.8 The Supreme Stability Theorem (High-Level Statement)
 id: GEN20-7151
-lines: 6232-6241
 location: genesis-20/mbc-40-documentaitio-1::a38-the-supreme-stability-theorem-high-level-statement::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6232-6241
+heading: A3.8 The Supreme Stability Theorem (High-Level Statement)
+block_type: paragraph
+excerpt: If every box satisfies Φ-stability, and every Π evaluation respects Φ-coherence,
+  and polarity flows are router-consistent,
+concepts:
+- MBC
+- Axiom
+- Theorem
+- router-consistent
+- Φ
+- Φ-coherence
+- Monistic Consistency Axiom
+- Φ-stability
+- Π
+aliases:
+- Bk841eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.307692307692307
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

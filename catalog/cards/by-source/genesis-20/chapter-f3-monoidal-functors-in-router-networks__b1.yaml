@@ -1,12 +1,29 @@
-block_type: list
-concepts:
-- Π
-- Φ
-- δ
-excerpt: '* router-composition as monoidal product * functoriality of δ → Φ → Π'
-heading: Chapter F3 — Monoidal Functors in Router Networks
 id: GEN20-7083
-lines: 5269-5272
 location: genesis-20/mbc-40-documentaitio-1::part-vi-operadic-higher-categorical-mbc::chapter-f3-monoidal-functors-in-router-networks::b1
-parent_heading: PART VI — Operadic & Higher-Categorical MBC
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5269-5272
+heading: Chapter F3 — Monoidal Functors in Router Networks
+parent_heading: PART VI — Operadic & Higher-Categorical MBC
+block_type: list
+excerpt: '* router-composition as monoidal product * functoriality of δ → Φ → Π'
+concepts:
+- router-composition
+- →
+- Π
+- δ
+- Φ
+aliases:
+- Bk837rc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

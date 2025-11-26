@@ -1,11 +1,26 @@
+id: SPEC-11410
+location: special/specil::5-the-most-accurate-version-of-your-statement::b1
+source: special\specil.md
+lines: 8592-8616
+heading: '**⭐ 5\. The most accurate version of your statement:**'
 block_type: paragraph
-concepts:
-- exactly
 excerpt: '**Foundational frameworks rarely become certain within the lifetime of their
   creators.** **My job is not to achieve certainty —** **my job is to develop coherence
   and structure that future testing can...'
-heading: '**⭐ 5\. The most accurate version of your statement:**'
-id: SPEC-11410
-lines: 8592-8616
-location: special/specil::5-the-most-accurate-version-of-your-statement::b1
-source: special\specil.md
+concepts:
+- IGSOA
+- long-term
+aliases:
+- Bk555ff
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.1052631578947367
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

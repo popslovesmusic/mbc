@@ -1,13 +1,34 @@
+id: GEN16-3834
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::3-type-well-formedness-edge-legality::b1
+source: genesis-16\Untitled_document.md
+lines: 1252-1266
+heading: '**3\. Type-Well-Formedness (Edge Legality)**'
+parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
 block_type: table
-concepts:
-- Box
-- τ
 excerpt: 'For each edge i→ji\\to ji→j: TypeWF(G)  ⟺  ∀(i→j)∈E: τiout⪯τjin\\boxed{
   \\mathrm{TypeWF}(\\mathcal{G}) \\iff \\forall (i\\to j)\\in\\mathcal{E}:\\ \\tau^{out}\_i
   \\preceq \\tau^{in}\_j }TypeWF(G)⟺∀(i→...'
-heading: '**3\. Type-Well-Formedness (Edge Legality)**'
-id: GEN16-3834
-lines: 1252-1266
-location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::3-type-well-formedness-edge-legality::b1
-parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- IGSOA
+- τ
+- →
+- Box
+- ∀
+- ∈
+- type-compatible
+- undefined in the calculus
+aliases:
+- Bk932is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

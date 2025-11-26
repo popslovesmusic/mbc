@@ -1,10 +1,24 @@
+id: GEN20-6738
+location: genesis-20/mbc-40-documentaitio-1::proposed-companion-section-advanced-router-logic-adaptive-semantics::chapter-x-θ-router-fundamentals::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1094-1103
+heading: Chapter X — Θ-Router Fundamentals
+parent_heading: '📘 Proposed Companion Section: Advanced Router Logic & Adaptive Semantics'
 block_type: list
-concepts: []
 excerpt: '* What the router is * How directional polarity works * Structure of a router
   decision'
-heading: Chapter X — Θ-Router Fundamentals
-id: GEN20-6738
-lines: 1094-1103
-location: genesis-20/mbc-40-documentaitio-1::proposed-companion-section-advanced-router-logic-adaptive-semantics::chapter-x-θ-router-fundamentals::b1
-parent_heading: '📘 Proposed Companion Section: Advanced Router Logic & Adaptive Semantics'
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk710wt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

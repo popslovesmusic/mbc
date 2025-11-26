@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ψ
-excerpt: 'Define the composite: Ψ:=Π∘Φ:D→P.\\Psi := Π \\circ Φ : \\mathcal{D} \\to
-  \\mathcal{P}.Ψ:=Π∘Φ:D→P. This is the **cryptographic pipeline**.'
-heading: '**2\. The Cryptographic Pipeline as a Functor Composition**'
 id: GEN14-2890
-lines: 1457-1467
 location: genesis-14/meta-math-and-cryptography::2-the-cryptographic-pipeline-as-a-functor-composition::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1457-1467
+heading: '**2\. The Cryptographic Pipeline as a Functor Composition**'
+block_type: paragraph
+excerpt: 'Define the composite: Ψ:=Π∘Φ:D→P.\\Psi := Π \\circ Φ : \\mathcal{D} \\to
+  \\mathcal{P}.Ψ:=Π∘Φ:D→P. This is the **cryptographic pipeline**.'
+concepts:
+- Ψ
+- Φ
+- Π
+- →
+- cryptographic pipeline
+aliases:
+- Bk057dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.157894736842104
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

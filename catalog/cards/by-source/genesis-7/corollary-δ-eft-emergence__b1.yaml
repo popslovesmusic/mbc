@@ -1,13 +1,28 @@
+id: GEN7-8511
+location: genesis-7/the-complete-eft-lagrangian::corollary-δ-eft-emergence::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1027-1039
+heading: '**🔻 Corollary (δ-EFT Emergence)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Law Emergence Axiom
-- δ
 excerpt: 'The δ-EFT Lagrangian is the **unique minimal scalar density** satisfying
   the Law Emergence Axiom. Thus: Lδ-EFT=Closure(Axioms 1–9).\\mathcal{L}\_{\\delta\\text{-EFT}}
   \= \\text{Closure}(\\text{Axioms ...'
-heading: '**🔻 Corollary (δ-EFT Emergence)**'
-id: GEN7-8511
-lines: 1027-1039
-location: genesis-7/the-complete-eft-lagrangian::corollary-δ-eft-emergence::b1
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- Axiom
+- δ
+- δ-EFT
+- Lδ-EFT
+- unique minimal scalar density
+- Law Emergence Axiom
+aliases:
+- Bk145te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

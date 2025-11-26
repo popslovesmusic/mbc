@@ -1,12 +1,25 @@
+id: GEN8-8997
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::mg1-the-first-movement-axiom::deviation-necessity::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1195-1197
+heading: '**Deviation Necessity**'
+parent_heading: '**⟦ MG–1 : THE FIRST MOVEMENT AXIOM ⟧**'
 block_type: paragraph
+excerpt: Ψ0  ⇏  Ψ0⟹δΨ0≠0\\Psi\_0 \\;\\not\\Rightarrow\\; \\Psi\_0 \\qquad \\Longrightarrow
+  \\qquad \\delta\\Psi\_0 \\neq 0Ψ0​⇒Ψ0​⟹δΨ0​=0
 concepts:
 - Ψ
 - δ
-excerpt: Ψ0  ⇏  Ψ0⟹δΨ0≠0\\Psi\_0 \\;\\not\\Rightarrow\\; \\Psi\_0 \\qquad \\Longrightarrow
-  \\qquad \\delta\\Psi\_0 \\neq 0Ψ0​⇒Ψ0​⟹δΨ0​=0
-heading: '**Deviation Necessity**'
-id: GEN8-8997
-lines: 1195-1197
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::mg1-the-first-movement-axiom::deviation-necessity::b1
-parent_heading: '**⟦ MG–1 : THE FIRST MOVEMENT AXIOM ⟧**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+- ≠
+aliases:
+- Bk142pn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

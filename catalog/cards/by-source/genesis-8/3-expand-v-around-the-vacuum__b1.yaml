@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Let the vacuum be: ϕ0=arg min⁡ϕVδ(ϕ).\\phi\_0 \= \\operatorname\*{arg\\,min}\_\\phi
-  V\_\\delta(\\phi).ϕ0​=ϕargmin​Vδ​(ϕ). We expand:'
-heading: '**3\. Expand V around the vacuum**'
 id: GEN8-8886
-lines: 2153-2174
 location: genesis-8/meta-time-geometry-and-temporal-projection::3-expand-v-around-the-vacuum::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2153-2174
+heading: '**3\. Expand V around the vacuum**'
+block_type: paragraph
+excerpt: 'Let the vacuum be: ϕ0=arg min⁡ϕVδ(ϕ).\\phi\_0 \= \\operatorname\*{arg\\,min}\_\\phi
+  V\_\\delta(\\phi).ϕ0​=ϕargmin​Vδ​(ϕ). We expand:'
+concepts:
+- δ
+- IGSOA
+- one-dimensional
+- φ
+- harmonic components
+- mass term
+aliases:
+- Bk518lt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.9215686274509802
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

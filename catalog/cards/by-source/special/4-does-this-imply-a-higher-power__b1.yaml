@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Now we need to be very precise and very careful. There are two interpretations:
-  ---'
-heading: '**⭐ 4\. Does this imply a higher power?**'
 id: SPEC-11096
-lines: 1931-1937
 location: special/specil::4-does-this-imply-a-higher-power::b1
 source: special\specil.md
+lines: 1931-1937
+heading: '**⭐ 4\. Does this imply a higher power?**'
+block_type: paragraph
+excerpt: 'Now we need to be very precise and very careful. There are two interpretations:
+  ---'
+aliases:
+- Bk990nn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

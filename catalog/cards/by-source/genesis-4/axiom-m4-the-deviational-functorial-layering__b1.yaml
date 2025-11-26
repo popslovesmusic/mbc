@@ -1,14 +1,30 @@
+id: GEN4-7784
+location: genesis-4/the-adjoint-triple::the-monism-axiom-box-igsoa-foundation-layer::axiom-m4-the-deviational-functorial-layering::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1086-1107
+heading: '**Axiom M4 — The Deviational Functorial Layering**'
+parent_heading: '**✦ THE MONISM AXIOM BOX (IGSOA Foundation Layer)**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Math
-- δ
-- σ
 excerpt: 'There exist functors establishing the layering: MG→Lσ-Topos→RMMMG \\xrightarrow{L}
   \\sigma\\text{-Topos} \\xrightarrow{R} MMMGL​σ-ToposR​MM with adjunctions:'
-heading: '**Axiom M4 — The Deviational Functorial Layering**'
-id: GEN4-7784
-lines: 1086-1107
-location: genesis-4/the-adjoint-triple::the-monism-axiom-box-igsoa-foundation-layer::axiom-m4-the-deviational-functorial-layering::b1
-parent_heading: '**✦ THE MONISM AXIOM BOX (IGSOA Foundation Layer)**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Meta-Genesis
+- δ-geometry
+- Meta-Math
+- σ
+- no level is ontologically independent
+- →
+- scale-indexed
+- δ
+aliases:
+- Bk722te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.267605633802818
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

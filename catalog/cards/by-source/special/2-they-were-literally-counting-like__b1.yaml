@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- proto-spreadsheet
-excerpt: '**“one… two… three…”** just not with words. Each mark \='
-heading: '**⭐ 2\. They were literally counting like:**'
 id: SPEC-11194
-lines: 4054-4080
 location: special/specil::2-they-were-literally-counting-like::b1
 source: special\specil.md
+lines: 4054-4080
+heading: '**⭐ 2\. They were literally counting like:**'
+block_type: paragraph
+excerpt: '**“one… two… three…”** just not with words. Each mark \='
+concepts:
+- proto-spreadsheet
+aliases:
+- Bk670ot
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.1739130434782608
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

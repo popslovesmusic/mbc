@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Box
-excerpt: 'Instead of weight matrices like: W1, W2, W3 You build a graph where each
-  node is a Box and each edge is a Router.'
-heading: \#1 — What a Router Neural Network Is
 id: GEN19-6092
-lines: 851-856
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::1-what-a-router-neural-network-is::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 851-856
+heading: \#1 — What a Router Neural Network Is
+block_type: paragraph
+excerpt: 'Instead of weight matrices like: W1, W2, W3 You build a graph where each
+  node is a Box and each edge is a Router.'
+concepts:
+- Router
+- Box
+aliases:
+- Bk731iw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,28 @@
+id: GEN17-4445
+location: genesis-17/box-calculus::::igsoa-polarity::b1
+source: genesis-17\box_calculus.md
+lines: 4598-4605
+heading: IGSOA Polarity
+parent_heading: ​
 block_type: paragraph
-concepts:
-- If Aggregation
 excerpt: '“Expand then collapse must equal collapse.” Or: “If Aggregation follows
   Expansion+Projection, nothing changes.”'
-heading: IGSOA Polarity
-id: GEN17-4445
-lines: 4598-4605
-location: genesis-17/box-calculus::::igsoa-polarity::b1
-parent_heading: ​
-source: genesis-17\box_calculus.md
+concepts:
+- Projection
+- re-collapse
+- If Aggregation
+aliases:
+- Bk368et
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

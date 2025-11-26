@@ -1,15 +1,32 @@
+id: INTK-9673
+location: intake/axioms-geometry::9-final-canonical-form::b1
+source: intake\Axioms-geometry.md
+lines: 392-402
+heading: '**9\. Final Canonical Form**'
 block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- δ
-- μ
-- ν
 excerpt: 'The complete Meta-Einstein Equation (unprojected) is: GABδ−CABδ=8π TABδ\\boxed{
   G^\\delta\_{AB} \- \\mathcal{C}^\\delta\_{AB} \= 8\\pi\\, T^\\delta\_{AB} }GABδ​−CABδ​=8πTABδ​​
   Projection:'
-heading: '**9\. Final Canonical Form**'
-id: INTK-9673
-lines: 392-402
-location: intake/axioms-geometry::9-final-canonical-form::b1
-source: intake\Axioms-geometry.md
+concepts:
+- Meta-Einstein
+- δ
+- Projection
+- ν
+- π
+- μ
+- Einstein Equation
+aliases:
+- Bk911tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

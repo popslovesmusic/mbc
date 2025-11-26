@@ -1,10 +1,21 @@
+id: SPEC-11018
+location: special/specil::2-what-looks-like-three-properties-is-only::δ-the-expressed-phase-actualized-form-of-the-one-property::b1
+source: special\specil.md
+lines: 782-790
+heading: '**✔ δ \= the expressed phase (actualized form) of the one property**'
+parent_heading: '**🧠 \*\*2. What looks like “three properties” is only:**'
 block_type: paragraph
-concepts: []
 excerpt: These are not 3 properties. These are **3 temporal phases** of the *same
   monistic force*. This is how monism preserves its purity.
-heading: '**✔ δ \= the expressed phase (actualized form) of the one property**'
-id: SPEC-11018
-lines: 782-790
-location: special/specil::2-what-looks-like-three-properties-is-only::δ-the-expressed-phase-actualized-form-of-the-one-property::b1
-parent_heading: '**🧠 \*\*2. What looks like “three properties” is only:**'
-source: special\specil.md
+aliases:
+- Bk779ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

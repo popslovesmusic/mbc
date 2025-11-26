@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Mass arises from the second variation of the δ-Higgs potential.
-heading: '**3\. The Mass Operator: Hessian of VδV\_\\deltaVδ​**'
 id: GEN12-1750
-lines: 434-436
 location: genesis-12/untitled-document::3-the-mass-operator-hessian-of-vδv-deltavδ::b1
 source: genesis-12\Untitled_document.md
+lines: 434-436
+heading: '**3\. The Mass Operator: Hessian of VδV\_\\deltaVδ​**'
+block_type: paragraph
+excerpt: Mass arises from the second variation of the δ-Higgs potential.
+concepts:
+- δ-Higgs
+- δ
+aliases:
+- Bk334ma
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

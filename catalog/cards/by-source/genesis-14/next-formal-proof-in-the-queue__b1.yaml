@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Curvature Perturbation Theorem
-- Flat Rotation Curves
-- Harmonic Degeneracy
-- Theorem
-- δ
-excerpt: ✔ **PROOF 4 — κₙ Variance \= |hₙ|² (Curvature Perturbation Theorem)** or
-  ✔ **PROOF 5 — Filaments/Sheets/Nodes from δ-Harmonic Degeneracy**
-heading: '**Next formal proof in the queue:**'
 id: GEN14-2709
-lines: 928-936
 location: genesis-14/inflation-structure-formation::next-formal-proof-in-the-queue::b1
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 928-936
+heading: '**Next formal proof in the queue:**'
+block_type: paragraph
+excerpt: ✔ **PROOF 4 — κₙ Variance \= |hₙ|² (Curvature Perturbation Theorem)** or
+  ✔ **PROOF 5 — Filaments/Sheets/Nodes from δ-Harmonic Degeneracy**
+concepts:
+- Curvature
+- Theorem
+- Proof
+- Curvature Perturbation Theorem
+- δ-Harmonic
+- δ
+- κ
+- Flat Rotation Curves
+- Harmonic Degeneracy
+aliases:
+- Bk590pv
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

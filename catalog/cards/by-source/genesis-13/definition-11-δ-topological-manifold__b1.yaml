@@ -1,11 +1,30 @@
+id: GEN13-2212
+location: genesis-13/meta-math-nuclear-physics::1-δ-layer-topology-defects-and-braid-groups::definition-11-δ-topological-manifold::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2425-2437
+heading: '**Definition 1.1 — δ-Topological Manifold**'
+parent_heading: '**1\. δ-Layer: Topology, Defects, and Braid Groups**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: A δ-topological substrate is a pair (M,δ)(M,\\delta)(M,δ) where MMM is a
   2D manifold (plane, torus, or surface), and
-heading: '**Definition 1.1 — δ-Topological Manifold**'
-id: GEN13-2212
-lines: 2425-2437
-location: genesis-13/meta-math-nuclear-physics::1-δ-layer-topology-defects-and-braid-groups::definition-11-δ-topological-manifold::b1
-parent_heading: '**1\. δ-Layer: Topology, Defects, and Braid Groups**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- deviation-curvature
+- ⊗
+- →
+- δ-topological
+aliases:
+- Bk522ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.904761904761903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

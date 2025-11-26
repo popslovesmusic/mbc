@@ -1,10 +1,27 @@
+id: GEN20-6679
+location: genesis-20/mbc-40-documentaitio-1::mbc-40-documentation-writing-protocol::3-audience-assumption::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 323-331
+heading: 3\. Audience Assumption
+parent_heading: MBC-4.0 Documentation Writing Protocol
 block_type: list
-concepts: []
 excerpt: '* Readers are intelligent technical professionals but not experts in IGSOA
   or MBC. * Documentation must support:'
-heading: 3\. Audience Assumption
-id: GEN20-6679
-lines: 323-331
-location: genesis-20/mbc-40-documentaitio-1::mbc-40-documentation-writing-protocol::3-audience-assumption::b1
-parent_heading: MBC-4.0 Documentation Writing Protocol
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- IGSOA
+- MBC
+- cross-disciplinary
+aliases:
+- Bk496ra
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.714285714285714
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

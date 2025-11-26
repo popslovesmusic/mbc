@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- information
-excerpt: 'With even a few generations of tally marks, they could notice: * unusual
-  star alignments * solar-year shifts'
-heading: '**⭐ 4\. Record-keeping gave the priesthood predictive power**'
 id: SPEC-11207
-lines: 4373-4411
 location: special/specil::4-record-keeping-gave-the-priesthood-predictive-power::b1
 source: special\specil.md
+lines: 4373-4411
+heading: '**⭐ 4\. Record-keeping gave the priesthood predictive power**'
+block_type: paragraph
+excerpt: 'With even a few generations of tally marks, they could notice: * unusual
+  star alignments * solar-year shifts'
+concepts:
+- calendar-making
+- solar-year
+- scientists before science
+- information
+aliases:
+- Bk727we
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 6.349206349206349
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

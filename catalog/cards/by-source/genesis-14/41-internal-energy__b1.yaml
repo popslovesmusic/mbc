@@ -1,12 +1,28 @@
+id: GEN14-2913
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::main-paper-outline-formal::4-deriving-thermodynamic-potentials::41-internal-energy::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 95-98
+heading: '**4.1 Internal Energy:**'
+parent_heading: '**4\. Deriving Thermodynamic Potentials**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: '**U \= TrΦ(δ²)** Interpret as “raw deviation magnitude available to physical
   modes.”'
-heading: '**4.1 Internal Energy:**'
-id: GEN14-2913
-lines: 95-98
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::main-paper-outline-formal::4-deriving-thermodynamic-potentials::41-internal-energy::b1
-parent_heading: '**4\. Deriving Thermodynamic Potentials**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- δ
+- Φ
+- δ²
+aliases:
+- Bk675ir
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

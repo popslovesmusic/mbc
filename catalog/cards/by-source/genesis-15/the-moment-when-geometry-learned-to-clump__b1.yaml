@@ -1,16 +1,37 @@
+id: GEN15-3173
+location: genesis-15/the-mass-curvature-projection-theorem::ⅰ-narrative-version::the-moment-when-geometry-learned-to-clump::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1515-1555
+heading: '***The moment when geometry learned to clump***'
+parent_heading: '**Ⅰ. Narrative Version**'
 block_type: paragraph
-concepts:
-- Harmonic Ladder
-- structured
-- Π
-- Φ
-- δ
 excerpt: Reheating is not merely a thermal event—it is the **moment the universe learns
   to fluctuate**. During inflation, δ-curvature is smoothed on vast scales. Φ-modes
   are nearly silent, pushed down by the e...
-heading: '***The moment when geometry learned to clump***'
-id: GEN15-3173
-lines: 1515-1555
-location: genesis-15/the-mass-curvature-projection-theorem::ⅰ-narrative-version::the-moment-when-geometry-learned-to-clump::b1
-parent_heading: '**Ⅰ. Narrative Version**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- δ-curvature
+- Φ-mode
+- Φ
+- moment the universe learns to fluctuate
+- almost-featureless
+- Π
+- meta-fractal
+- δ-Harmonic
+- Φ-modes
+- δ-Higgs
+- Harmonic Ladder
+aliases:
+- Bk247rn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.017543859649122
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

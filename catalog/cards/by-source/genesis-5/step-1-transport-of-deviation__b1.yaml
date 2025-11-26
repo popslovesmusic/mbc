@@ -1,13 +1,34 @@
+id: GEN5-8074
+location: genesis-5/formal-proof-of-the-adjoint-triple::proof::step-1-transport-of-deviation::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 2049-2062
+heading: '**Step 1 — Transport of Deviation.**'
+parent_heading: '**Proof.**'
 block_type: paragraph
+excerpt: 'The δ-connection for Π gives: λ:Πδ⇒δGeoΠ.\\lambda:\\Pi\\delta \\Rightarrow
+  \\delta\_{Geo}\\Pi.λ:Πδ⇒δGeo​Π. This ensures Π can “see” deviation.'
 concepts:
 - Π
 - δ
 - λ
-excerpt: 'The δ-connection for Π gives: λ:Πδ⇒δGeoΠ.\\lambda:\\Pi\\delta \\Rightarrow
-  \\delta\_{Geo}\\Pi.λ:Πδ⇒δGeo​Π. This ensures Π can “see” deviation.'
-heading: '**Step 1 — Transport of Deviation.**'
-id: GEN5-8074
-lines: 2049-2062
-location: genesis-5/formal-proof-of-the-adjoint-triple::proof::step-1-transport-of-deviation::b1
-parent_heading: '**Proof.**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+- Curvature
+- δGeo
+- δ-connection
+- δ-naturality
+- Πf
+- δf
+aliases:
+- Bk255tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.39240506329114
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

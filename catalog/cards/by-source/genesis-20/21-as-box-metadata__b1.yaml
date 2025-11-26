@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'A box may hold: * mean / median * variance / uncertainty'
-heading: 2.1 As Box Metadata
 id: GEN20-6714
-lines: 783-800
 location: genesis-20/mbc-40-documentaitio-1::2-how-numbers-fit-into-mbc::21-as-box-metadata::b1
-parent_heading: 2\. How Numbers Fit Into MBC
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 783-800
+heading: 2.1 As Box Metadata
+parent_heading: 2\. How Numbers Fit Into MBC
+block_type: paragraph
+excerpt: 'A box may hold: * mean / median * variance / uncertainty'
+aliases:
+- Bk737bm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

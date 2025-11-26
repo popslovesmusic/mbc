@@ -1,12 +1,27 @@
+id: GEN2-6556
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a-narrative-intuitive-physics-explanation::1-begin-with-nothing-literally-nothing::ψ₀-the-zero-state::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 1198-1228
+heading: '**Ψ₀ — the Zero-State**'
+parent_heading: '**1\. Begin With Nothing — Literally Nothing**'
 block_type: list
+excerpt: '* It has no directions * no metric * no space'
 concepts:
 - Axiom
-- deviation
 - Ψ
-excerpt: '* It has no directions * no metric * no space'
-heading: '**Ψ₀ — the Zero-State**'
-id: GEN2-6556
-lines: 1198-1228
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a-narrative-intuitive-physics-explanation::1-begin-with-nothing-literally-nothing::ψ₀-the-zero-state::b1
-parent_heading: '**1\. Begin With Nothing — Literally Nothing**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+- Ψ₀
+- deviation
+aliases:
+- Bk523hd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.063291139240507
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

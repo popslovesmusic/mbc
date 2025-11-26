@@ -1,14 +1,36 @@
+id: GEN19-5884
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::0-objects-inputs-sealed-definitions::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 159-176
+heading: '**0\. Objects & Inputs (sealed definitions)**'
+parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
 block_type: table
-concepts:
-- Box
-- Standard Math
-- α
-- δ
 excerpt: 'For each neighbor Bi→BB\_i\\to BBi​→B, define: * **δ-curvature signal:**
   κi∈R \\kappa\_i \\in \\mathbb{R}κi​∈R (signed curvature orientation of that adjacency)'
-heading: '**0\. Objects & Inputs (sealed definitions)**'
-id: GEN19-5884
-lines: 159-176
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::0-objects-inputs-sealed-definitions::b1
-parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- δ
+- ∈
+- IGSOA
+- bundle of δ-adjacency inputs
+- δ-curvature
+- δ-metadata
+- Box
+- polarity-relevant
+- α
+- κ
+- →
+- δ-adjacency
+- δ-Geometry
+- Standard Math
+aliases:
+- Bk695ig
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.173913043478262
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

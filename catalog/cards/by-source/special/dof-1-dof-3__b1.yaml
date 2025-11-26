@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**DOF: 1 → DOF: 3**'
 id: SPEC-11030
-lines: 930-932
 location: special/specil::1-the-one-monistic-property-splits-into-three-modes-because-of-dimensional-freedom::dof-1-dof-3::b1
+source: special\specil.md
+lines: 930-932
+heading: '**DOF: 1 → DOF: 3**'
 parent_heading: '**🌌 1\. The One Monistic Property splits into three *modes* because
   of dimensional freedom**'
-source: special\specil.md
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

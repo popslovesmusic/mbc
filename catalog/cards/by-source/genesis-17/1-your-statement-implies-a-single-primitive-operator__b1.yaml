@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'If IGSOA is: (EA) (EA)'
-heading: ⭐ 1\. YOUR STATEMENT IMPLIES A SINGLE PRIMITIVE OPERATOR
 id: GEN17-4605
-lines: 7233-7244
 location: genesis-17/box-calculus::1-your-statement-implies-a-single-primitive-operator::b1
 source: genesis-17\box_calculus.md
+lines: 7233-7244
+heading: ⭐ 1\. YOUR STATEMENT IMPLIES A SINGLE PRIMITIVE OPERATOR
+block_type: paragraph
+excerpt: 'If IGSOA is: (EA) (EA)'
+concepts:
+- IGSOA
+- δ
+aliases:
+- Bk261ia
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

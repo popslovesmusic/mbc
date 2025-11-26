@@ -1,12 +1,32 @@
+id: GEN1-414
+location: genesis-1/the-first-geometry::the-δ-higgs-mass-tower-and-degeneracy-structure::2-mass-spectrum-δ-hessian-eigenvalues::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 841-861
+heading: '**2\. Mass Spectrum (δ-Hessian Eigenvalues)**'
+parent_heading: '**The δ-Higgs Mass Tower and Degeneracy Structure**'
 block_type: paragraph
-concepts:
-- Higgs Mass Tower
-- δ
 excerpt: Let M2vk=mk2vkM^2 v\_k \= m\_k^2 v\_kM2vk​=mk2​vk​ denote the eigenvalue
   equation for the Hessian.
-heading: '**2\. Mass Spectrum (δ-Hessian Eigenvalues)**'
-id: GEN1-414
-lines: 841-861
-location: genesis-1/the-first-geometry::the-δ-higgs-mass-tower-and-degeneracy-structure::2-mass-spectrum-δ-hessian-eigenvalues::b1
-parent_heading: '**The δ-Higgs Mass Tower and Degeneracy Structure**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- ≤
+- δ
+- δ-Higgs Mass Tower
+- δ-bosonic
+- δ-field
+- δ-Higgs
+- Higgs Mass Tower
+aliases:
+- Bk169ld
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.536585365853659
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

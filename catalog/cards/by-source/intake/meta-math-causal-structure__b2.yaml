@@ -1,14 +1,30 @@
+id: INTK-10871
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::meta-time-metric-and-causal-reachability::meta-math-causal-structure::b2
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3464-3469
+heading: Meta-Math Causal Structure
+parent_heading: Meta-Time Metric and Causal Reachability
 block_type: paragraph
-concepts:
-- Compatibility
-- Computability
-- Projection-compatibility
-- τ
 excerpt: 'Causal reachability determined by: - **Computability** of deviation modes
   in τ - **Compatibility** of deviation modes in τ'
-heading: Meta-Math Causal Structure
-id: INTK-10871
-lines: 3464-3469
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::meta-time-metric-and-causal-reachability::meta-math-causal-structure::b2
-parent_heading: Meta-Time Metric and Causal Reachability
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Projection
+- τ
+- Projection-compatibility
+- Compatibility
+- Computability
+aliases:
+- Bk945cr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.73913043478261
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

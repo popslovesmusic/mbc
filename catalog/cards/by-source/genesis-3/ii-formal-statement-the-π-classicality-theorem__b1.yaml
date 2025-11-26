@@ -1,12 +1,32 @@
+id: GEN3-7527
+location: genesis-3/the-tri-unity-theorem::ii-formal-statement-the-π-classicality-theorem::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 655-665
+heading: '**II. Formal Statement: The π-Classicality Theorem**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Classical physics arises whenπ∘Φ∘δsatisfies a fixed-point condition.\\boxed{
   \\textbf{Classical physics arises when} \\quad \\pi \\circ \\Phi \\circ \\delta
   \\quad \\text{satisfies a fixed-point condi...
-heading: '**II. Formal Statement: The π-Classicality Theorem**'
-id: GEN3-7527
-lines: 655-665
-location: genesis-3/the-tri-unity-theorem::ii-formal-statement-the-π-classicality-theorem::b1
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Φ
+- π
+- fixed-point
+- δ
+- δ-generated
+- mode-space
+- δsatisfies
+aliases:
+- Bk080cp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

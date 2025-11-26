@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- Meta-Math
-excerpt: Your UBCAS axioms become Meta-Math axioms with flipped polarity. I’ll present
-  each as a paired equivalence. ---
-heading: ⭐ 3\. Mapping the Laws (Axioms)
 id: GEN17-4385
-lines: 3137-3141
 location: genesis-17/box-calculus::3-mapping-the-laws-axioms::b1
 source: genesis-17\box_calculus.md
+lines: 3137-3141
+heading: ⭐ 3\. Mapping the Laws (Axioms)
+block_type: paragraph
+excerpt: Your UBCAS axioms become Meta-Math axioms with flipped polarity. I’ll present
+  each as a paired equivalence. ---
+concepts:
+- Meta-Math
+aliases:
+- Bk425yu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

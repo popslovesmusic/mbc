@@ -1,15 +1,38 @@
+id: GEN9-9407
+location: genesis-9/is-the-source-of-all-structure::5-orbital-shapes-from-δ-sector-decomposition::52-p-orbitals-n-2::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 1087-1101
+heading: '**5.2. p-Orbitals (n \= 2\)**'
+parent_heading: '**5\. Orbital Shapes from δ-Sector Decomposition**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- α
-- δ
 excerpt: 'n \= 2 gives 6 δ-modes. A-sector contains **first-order adjacency gradients**:
   ψ2,α(A)  ∝  adjacency direction fields.\\psi\_{2,\\alpha}^{(A)} \\; \\propto \\;\\text{adjacency
   direction fields}.ψ2,α(A...'
-heading: '**5.2. p-Orbitals (n \= 2\)**'
-id: GEN9-9407
-lines: 1087-1101
-location: genesis-9/is-the-source-of-all-structure::5-orbital-shapes-from-δ-sector-decomposition::52-p-orbitals-n-2::b1
-parent_heading: '**5\. Orbital Shapes from δ-Sector Decomposition**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- three orthogonally oriented dipolar adjacency patterns
+- first-order adjacency gradients
+- ψ
+- Π
+- δ
+- α
+- δ-adjacency
+- first-order
+- A-sector
+- δ-modes
+- Φ
+- →
+aliases:
+- Bk420gm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.35483870967742
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

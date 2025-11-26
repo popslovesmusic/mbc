@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: 'The distance between: * **what the performer is doing**, and * **what the
-  observer can perceive**.'
-heading: '**⭐ The Mystical Distance Gap**'
 id: SPEC-11323
-lines: 6858-6870
 location: special/specil::the-mystical-distance-gap::b1
 source: special\specil.md
+lines: 6858-6870
+heading: '**⭐ The Mystical Distance Gap**'
+block_type: paragraph
+excerpt: 'The distance between: * **what the performer is doing**, and * **what the
+  observer can perceive**.'
+concepts:
+- what the observer can perceive
+- what the performer is doing
+aliases:
+- Bk292td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.128205128205128
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

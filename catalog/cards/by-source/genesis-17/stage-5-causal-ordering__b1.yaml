@@ -1,10 +1,25 @@
+id: GEN17-5038
+location: genesis-17/mbc-schema-3::expanded-diagram-stack-multi-layer::stage-5-causal-ordering::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 454-456
+heading: '**Stage 5 — Causal Ordering**'
+parent_heading: '**Expanded Diagram Stack (Multi-Layer)**'
 block_type: paragraph
+excerpt: '`Π(Box₁, Box₂) = CausalLink`'
 concepts:
 - Π
-excerpt: '`Π(Box₁, Box₂) = CausalLink`'
-heading: '**Stage 5 — Causal Ordering**'
-id: GEN17-5038
-lines: 454-456
-location: genesis-17/mbc-schema-3::expanded-diagram-stack-multi-layer::stage-5-causal-ordering::b1
-parent_heading: '**Expanded Diagram Stack (Multi-Layer)**'
-source: genesis-17\MBC_Schema_3.md
+aliases:
+- Bk477ca
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

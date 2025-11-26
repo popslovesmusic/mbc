@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'If you want, I can generate: ✔ a follow-up section containing **tables of
-  concrete predictions**, ✔ a diagrammatic version of the δ–Φ–Π methodological pipeline,'
-heading: '**(End of Section X)**'
 id: GEN11-1236
-lines: 1788-1796
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::end-of-section-x::b1
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1788-1796
+heading: '**(End of Section X)**'
+block_type: paragraph
+excerpt: 'If you want, I can generate: ✔ a follow-up section containing **tables of
+  concrete predictions**, ✔ a diagrammatic version of the δ–Φ–Π methodological pipeline,'
+concepts:
+- tables of concrete predictions
+- follow-up
+- Π
+- δ
+- Φ
+aliases:
+- Bk411yw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.869565217391305
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

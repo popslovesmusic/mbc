@@ -1,17 +1,33 @@
+id: INTK-10814
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::light-cone-as-projection::projection-process::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2528-2537
+heading: Projection Process
+parent_heading: Light Cone as Projection
 block_type: paragraph
+excerpt: 'Physical spacetime arises when deviation patterns project onto lower-dimensional
+  manifold governed by Dependent-Mode constraint. Emergent metric: ```'
 concepts:
-- Dependent-Mode
 - Meta-Time
 - Mode
+- lower-dimensional
 - Π
+- Dependent-Mode
 - δ
 - μ
 - ν
-excerpt: 'Physical spacetime arises when deviation patterns project onto lower-dimensional
-  manifold governed by Dependent-Mode constraint. Emergent metric: ```'
-heading: Projection Process
-id: INTK-10814
-lines: 2528-2537
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::light-cone-as-projection::projection-process::b1
-parent_heading: Light Cone as Projection
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+aliases:
+- Bk937ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.242424242424242
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

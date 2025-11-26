@@ -1,13 +1,31 @@
+id: GEN4-7764
+location: genesis-4/the-adjoint-triple::1-statement-of-the-theorem::the-meta-genesis-meta-math-commutation-theorem::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 823-839
+heading: '**The Meta-Genesis → Meta-Math Commutation Theorem**'
+parent_heading: '**1\. Statement of the Theorem**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Θ
 excerpt: '**There exists a canonical natural transformation** Θ:R∘L∘TMeta  ⇒  O∘R∘L\\Theta
   : R \\circ L \\circ \\mathbb{T}\_{\\mathrm{Meta}} \\;\\Rightarrow\\; \\mathbb{O}
   \\circ R \\circ LΘ:R∘L∘TMeta​⇒O∘R∘L **...'
-heading: '**The Meta-Genesis → Meta-Math Commutation Theorem**'
-id: GEN4-7764
-lines: 823-839
-location: genesis-4/the-adjoint-triple::1-statement-of-the-theorem::the-meta-genesis-meta-math-commutation-theorem::b1
-parent_heading: '**1\. Statement of the Theorem**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Meta-Genesis
+- Θ
+- There exists a canonical natural transformation
+- ∈
+- such that the diagram
+aliases:
+- Bk542te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.464285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

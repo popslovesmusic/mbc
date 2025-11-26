@@ -1,13 +1,38 @@
+id: GEN13-2622
+location: genesis-13/what-biology-is-in-meta-genesis::1-category-of-metabolic-agents::definition-12-metabolic-morphism::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2384-2404
+heading: '**Definition 1.2 (Metabolic Morphism).**'
+parent_heading: '**1\. Category of Metabolic Agents**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'A morphism f:X→Yf:X\\to Yf:X→Y in 𝔅 is a triple: f=(f∂,  fδ,  fΦ)f=(f\_\\partial,\\;
   f\_\\delta,\\; f\_\\Phi)f=(f∂​,fδ​,fΦ​) with:'
-heading: '**Definition 1.2 (Metabolic Morphism).**'
-id: GEN13-2622
-lines: 2384-2404
-location: genesis-13/what-biology-is-in-meta-genesis::1-category-of-metabolic-agents::definition-12-metabolic-morphism::b1
-parent_heading: '**1\. Category of Metabolic Agents**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Φ
+- ∂
+- Π
+- →
+- Δ
+- Φ-compatibility
+- δ-intertwiner
+- Π-stability
+- Φf
+- ΦLR
+- ΦP
+- δf
+aliases:
+- Bk225mt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.420289855072465
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

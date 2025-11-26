@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: Appendix E — Glossary of Advanced Terms
 id: GEN20-7093
-lines: 5348-5350
 location: genesis-20/mbc-40-documentaitio-1::appendices::appendix-e-glossary-of-advanced-terms::b1
-parent_heading: Appendices
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5348-5350
+heading: Appendix E — Glossary of Advanced Terms
+parent_heading: Appendices
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

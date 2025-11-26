@@ -1,11 +1,26 @@
+id: GEN15-3248
+location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::4-rotation-curve-evolution::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2517-2519
+heading: '**4\. Rotation-curve evolution**'
+parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: vc2(r,t)=Π(mode sum at radius r,t).v\_c^2(r,t) \= \\Pi(\\text{mode sum at
   radius }r,t).vc2​(r,t)=Π(mode sum at radius r,t).
-heading: '**4\. Rotation-curve evolution**'
-id: GEN15-3248
-lines: 2517-2519
-location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::4-rotation-curve-evolution::b1
-parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Π
+aliases:
+- Bk512ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.0303030303030303
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

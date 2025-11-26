@@ -1,21 +1,41 @@
+id: SPEC-11024
+location: special/specil::6-final-clean-formulation::b1
+source: special\specil.md
+lines: 878-900
+heading: '**🔥 6\. Final clean formulation**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Expression Theorem
-- Monistic Systems
-- One Monistic Property
-- Only One Property Exists
-- Phase-Expression
-- The Monistic Phase
-- Theorem
-- δ
 excerpt: 'The brane does not have three properties. It has one property expressed
   in three modes: One Monistic Property⟶{IGS: PotentialOA: Realizationδ:Actualization\\text{One
   Monistic Property} \\longrightarro...'
-heading: '**🔥 6\. Final clean formulation**'
-id: SPEC-11024
-lines: 878-900
-location: special/specil::6-final-clean-formulation::b1
-source: special\specil.md
+concepts:
+- A full Genesis chapter explaining why plurality is impossible
+- The Monistic Phase-Expression Theorem
+- Theorem
+- Axiom
+- One Monistic Property
+- δ
+- Box
+- Phase-Expression
+- →
+- phase-shifts
+- Only One Property Exists
+- The Monistic Phase
+- Expression Theorem
+- Monistic Systems
+- Axiom Box
+aliases:
+- Bk218tb
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

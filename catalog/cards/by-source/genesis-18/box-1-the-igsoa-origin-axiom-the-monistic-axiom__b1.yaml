@@ -1,15 +1,35 @@
+id: GEN18-5235
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::box-1-the-igsoa-origin-axiom-the-monistic-axiom::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1282-1299
+heading: '**BOX 1 — The IGSOA-Origin Axiom (The Monistic Axiom)**'
 block_type: table
-concepts:
-- Sealed Consequence
-- Standard Mathematical Form
-- Π
-- Φ
-- δ
 excerpt: '*(Sealed: no modifications allowed)* ∃\! Is.t. all operators, shadows, and
   structures are derived.\\exists\!\\ \\mathfrak{I} \\quad \\text{s.t. all operators,
   shadows, and structures are derived.}∃\! ...'
-heading: '**BOX 1 — The IGSOA-Origin Axiom (The Monistic Axiom)**'
-id: GEN18-5235
-lines: 1282-1299
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::box-1-the-igsoa-origin-axiom-the-monistic-axiom::b1
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- IGSOA
+- MBC
+- δ
+- ∃
+- Standard Mathematical Form
+- Π
+- Φ
+- Sealed Consequence
+- monistic source
+aliases:
+- Bk776sm
+tags:
+- conflicted
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.487804878048781
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

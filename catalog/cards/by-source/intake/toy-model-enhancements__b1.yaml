@@ -1,12 +1,27 @@
+id: INTK-10767
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::toy-model-enhancements::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2028-2029
+heading: Toy Model Enhancements
+parent_heading: Glossary
 block_type: paragraph
+excerpt: 'Proposals for Increased Dynamic Complexity (Source: toy_model_enhancements.md)
+  [[Read More](concepts/Encyclopedia\Toy_Model_Enhancements.md)]'
 concepts:
 - Increased Dynamic Complexity
 - Read More
-excerpt: 'Proposals for Increased Dynamic Complexity (Source: toy_model_enhancements.md)
-  [[Read More](concepts/Encyclopedia\Toy_Model_Enhancements.md)]'
-heading: Toy Model Enhancements
-id: INTK-10767
-lines: 2028-2029
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::toy-model-enhancements::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+aliases:
+- Bk373pf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

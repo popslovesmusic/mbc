@@ -1,14 +1,29 @@
-block_type: paragraph
-concepts:
-- Axiom
-- The Zero State
-- Zero State
-- forbids
-- Ψ
-excerpt: 'The Zero State ontology *forbids*: ❌ “Absolute nothing” as a starting point
-  ❌ A pre-time vacuum'
-heading: '**7\. What Ψ₀ Eliminates (for consistency)**'
 id: INTK-9786
-lines: 420-434
 location: intake/meta-genesis-core-papers-foundations::7-what-ψ₀-eliminates-for-consistency::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 420-434
+heading: '**7\. What Ψ₀ Eliminates (for consistency)**'
+block_type: paragraph
+excerpt: 'The Zero State ontology *forbids*: ❌ “Absolute nothing” as a starting point
+  ❌ A pre-time vacuum'
+concepts:
+- Axiom
+- State
+- Ψ
+- pre-being
+- pre-time
+- Zero State
+- The Zero State
+- Ψ₀
+aliases:
+- Bk871tz
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.3265306122449
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,38 @@
+id: SPEC-11427
+location: special/specil::5-if-youd-like-we-can-now-explore::what-would-count-as-igsoa-style-predictions-the-make-it-real-checklist::b1
+source: special\specil.md
+lines: 8898-8914
+heading: '**What would count as IGSOA-style predictions (the “make it real” checklist)**'
+parent_heading: '**⭐ 5\. If you''d like, we can now explore:**'
 block_type: paragraph
-concepts:
-- Non-Gaussian
-- the
-- δ
 excerpt: 'If you want δ-curvature to be more than a narrative fit, it should predict
   *new, checkable things*. Here are strong ones: 1. **Polarization axis coherence**
   If the axis is primordial, a related alignm...'
-heading: '**What would count as IGSOA-style predictions (the “make it real” checklist)**'
-id: SPEC-11427
-lines: 8898-8914
-location: special/specil::5-if-youd-like-we-can-now-explore::what-would-count-as-igsoa-style-predictions-the-make-it-real-checklist::b1
-parent_heading: '**⭐ 5\. If you''d like, we can now explore:**'
-source: special\specil.md
+concepts:
+- Correlation with other large-angle anomalies
+- IGSOA
+- δ
+- δ-curvature
+- model-dependent
+- structure-wise
+- Polarization axis coherence
+- Non-Gaussian
+- large-angle
+- δ-family
+- E-mode
+- Scale dependence
+aliases:
+- Bk574yw
+tags:
+- qualified
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.911330049261084
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,27 @@
+id: GEN17-4550
+location: genesis-17/box-calculus::5-the-full-embedding::formulas-boxes::b1
+source: genesis-17\box_calculus.md
+lines: 6357-6375
+heading: Formulas ↦ Boxes
+parent_heading: ⭐ 5\. The Full Embedding
 block_type: list
+excerpt: '* atomic A ↦ Box with Σ\_A * A ⊗ B ↦ Box product * BA×BB'
 concepts:
 - Box
+- ⊗
 - Σ
-excerpt: '* atomic A ↦ Box with Σ\_A * A ⊗ B ↦ Box product * BA×BB'
-heading: Formulas ↦ Boxes
-id: GEN17-4550
-lines: 6357-6375
-location: genesis-17/box-calculus::5-the-full-embedding::formulas-boxes::b1
-parent_heading: ⭐ 5\. The Full Embedding
-source: genesis-17\box_calculus.md
+aliases:
+- Bk509ab
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

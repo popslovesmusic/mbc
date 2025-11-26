@@ -1,11 +1,28 @@
+id: INTK-10612
+location: intake/volume-i-core-ontology-and-metagenesis-summary::6-curvature-as-a-higher-derivation::definition-62-curvature-functor::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 963-969
+heading: '**Definition 6.2 (Curvature Functor).**'
+parent_heading: '**6\. Curvature as a Higher Derivation**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Curvature is the higher commutator: C=\[∇δ,∇δ\]\\mathcal{C} \= \[\\nabla\_\\delta,
   \\nabla\_\\delta\]C=\[∇δ​,∇δ​\] ---'
-heading: '**Definition 6.2 (Curvature Functor).**'
-id: INTK-10612
-lines: 963-969
-location: intake/volume-i-core-ontology-and-metagenesis-summary::6-curvature-as-a-higher-derivation::definition-62-curvature-functor::b1
-parent_heading: '**6\. Curvature as a Higher Derivation**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Curvature
+- δ
+- ∇
+aliases:
+- Bk565ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

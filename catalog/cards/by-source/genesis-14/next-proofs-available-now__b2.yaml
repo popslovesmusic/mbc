@@ -1,14 +1,31 @@
-block_type: list
-concepts:
-- Full Inflation
-- Metric Stability Equation
-- Structure Cascade Theorem
-- Theorem
-- Π
-excerpt: 8. **Π-Metric Stability Equation (Π-evolution law)** 9. **Full Inflation–Structure
-  Cascade Theorem (combining proofs 1–8)** Which would you like next?
-heading: '**Next proofs available now:**'
 id: GEN14-2755
-lines: 1692-1698
 location: genesis-14/inflation-structure-formation::next-proofs-available-now::b2
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 1692-1698
+heading: '**Next proofs available now:**'
+block_type: list
+excerpt: 8. **Π-Metric Stability Equation (Π-evolution law)** 9. **Full Inflation–Structure
+  Cascade Theorem (combining proofs 1–8)** Which would you like next?
+concepts:
+- Theorem
+- Π
+- Π-evolution
+- Structure Cascade Theorem
+- Metric Stability Equation
+- Π-Metric
+- Full Inflation
+aliases:
+- Bk647ms
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.434782608695656
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

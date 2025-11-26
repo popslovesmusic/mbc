@@ -1,15 +1,36 @@
-block_type: paragraph
-concepts:
-- Box
-- Expansion Constraint
-- Graph Grammar
-- Mixing Law
-- So Box Calculus
-- Σ
-excerpt: 'You now have **all three interaction laws**: 1. **Mixing Law (A / ⊕ algebra
-  on Σ)** ✅ 2. **Expansion Constraint (E-halting by entropy gain)** ✅'
-heading: '**✅ Box Calculus is Now Closed**'
 id: GEN16-3846
-lines: 1429-1442
 location: genesis-16/untitled-document::box-calculus-is-now-closed::b1
 source: genesis-16\Untitled_document.md
+lines: 1429-1442
+heading: '**✅ Box Calculus is Now Closed**'
+block_type: paragraph
+excerpt: 'You now have **all three interaction laws**: 1. **Mixing Law (A / ⊕ algebra
+  on Σ)** ✅ 2. **Expansion Constraint (E-halting by entropy gain)** ✅'
+concepts:
+- Box Calculus
+- complete pen-and-paper computation system
+- Box
+- pen-and-paper
+- all three interaction laws
+- E-halting
+- without undefined steps
+- Σ
+- ⊕
+- Expansion Constraint
+- So Box Calculus
+- Graph Grammar
+- Mixing Law
+aliases:
+- Bk708yn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.074074074074073
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

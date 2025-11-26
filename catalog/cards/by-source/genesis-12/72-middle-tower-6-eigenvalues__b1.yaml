@@ -1,14 +1,32 @@
+id: GEN12-1756
+location: genesis-12/untitled-document::7-explicit-mode-structure::72-middle-tower-6-eigenvalues::b1
+source: genesis-12\Untitled_document.md
+lines: 534-556
+heading: '**7.2 Middle Tower (6 eigenvalues)**'
+parent_heading: '**7\. Explicit Mode Structure**'
 block_type: paragraph
-concepts:
-- Φ
-- α
-- β
-- δ
 excerpt: 'Cubic term becomes non-negligible: mmid≈2α+6βδ.m\_{\\text{mid}} \\approx
   2\\alpha \+ 6\\beta\\delta.mmid​≈2α+6βδ. Matches:'
-heading: '**7.2 Middle Tower (6 eigenvalues)**'
-id: GEN12-1756
-lines: 534-556
-location: genesis-12/untitled-document::7-explicit-mode-structure::72-middle-tower-6-eigenvalues::b1
-parent_heading: '**7\. Explicit Mode Structure**'
-source: genesis-12\Untitled_document.md
+concepts:
+- ≈
+- β
+- δ
+- α
+- non-negligible
+- Φ-dynamics
+- Φ
+aliases:
+- Bk742ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.94871794871795
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

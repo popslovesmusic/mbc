@@ -1,15 +1,32 @@
+id: GEN15-3219
+location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-proof-derived-from-the-functor-stack::step-3-projecting-to-the-last-scattering-surface-yields-the-cmb::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2163-2169
+heading: '**Step 3: Projecting to the last-scattering surface yields the CMB**'
+parent_heading: '**Ⅱ. Proof (Derived from the Functor Stack)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- λ
 excerpt: aℓm=ΠLSS(λℓΦℓm).a\_{\\ell m} \= \\Pi\_{\\mathrm{LSS}}\\big(\\lambda\_\\ell
   \\Phi\_{\\ell m}\\big).aℓm​=ΠLSS​(λℓ​Φℓm​). The CMB multipoles thus encode δ-curvature.
   ---
-heading: '**Step 3: Projecting to the last-scattering surface yields the CMB**'
-id: GEN15-3219
-lines: 2163-2169
-location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-proof-derived-from-the-functor-stack::step-3-projecting-to-the-last-scattering-surface-yields-the-cmb::b1
-parent_heading: '**Ⅱ. Proof (Derived from the Functor Stack)**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- λ
+- Π
+- Φ
+- δ-curvature
+- δ
+- ΠLSS
+aliases:
+- Bk879em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.35483870967742
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

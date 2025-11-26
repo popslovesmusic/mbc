@@ -1,14 +1,36 @@
+id: GEN11-1116
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::5-adjacent-reality-the-clean-igsoa-formula::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 410-430
+heading: '**5\. Adjacent Reality: The Clean IGSOA Formula**'
 block_type: paragraph
-concepts:
-- Φ
-- α
-- β
-- δ
 excerpt: 'You can write the echo amplitude as: h(t)=hdirect(t)  +  ∑n≥1  Rn  hdirect(t−Δtn)h(t)
   \= h\_{\\text{direct}}(t) \\;+\\; \\sum\_{n\\ge 1} \\;R\_n\\; h\_{\\text{direct}}(t
   \- \\Delta t\_n)h(t)=hdirect​(...'
-heading: '**5\. Adjacent Reality: The Clean IGSOA Formula**'
-id: GEN11-1116
-lines: 410-430
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::5-adjacent-reality-the-clean-igsoa-formula::b1
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- Δ
+- IGSOA
+- β
+- α
+- δ
+- ∑
+- ≥
+- Φ
+- Φ-propagation
+- GW echo calculator
+- δAn
+aliases:
+- Bk862yc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

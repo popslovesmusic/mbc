@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'This one is simple and devastatingly clean: 1. Zero-state is absolute stillness.
-  2. Deviation introduces difference.'
-heading: '**5\. Meta-Genesis Ontological Proof**'
 id: INTK-10024
-lines: 1260-1289
 location: intake/meta-genesis-mathematical-papers::5-meta-genesis-ontological-proof::b1
 source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1260-1289
+heading: '**5\. Meta-Genesis Ontological Proof**'
+block_type: paragraph
+excerpt: 'This one is simple and devastatingly clean: 1. Zero-state is absolute stillness.
+  2. Deviation introduces difference.'
+concepts:
+- Deviation
+- Zero-state
+- un-exist
+aliases:
+- Bk584to
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 4.225352112676056
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

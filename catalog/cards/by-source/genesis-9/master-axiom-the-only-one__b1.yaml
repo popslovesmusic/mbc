@@ -1,15 +1,39 @@
+id: GEN9-9447
+location: genesis-9/strong-force::master-axiom-the-only-one::b1
+source: genesis-9\strong-force.md
+lines: 155-173
+heading: '**\*\*Master Axiom (the only one):**'
 block_type: paragraph
-concepts:
-- Adjacency Curvature Axiom
-- Axiom
-- siblings
-- single
-- δ
 excerpt: 'δ-Adjacency Curvature Axiom\*\* **Deviation generates curvature on adjacency;
   curvature generates harmonic degeneracy; harmonic degeneracy generates phase-sectors.**
   Symbolically:'
-heading: '**\*\*Master Axiom (the only one):**'
-id: GEN9-9447
-lines: 155-173
-location: genesis-9/strong-force::master-axiom-the-only-one::b1
-source: genesis-9\strong-force.md
+concepts:
+- δ
+- Adjacency
+- Curvature
+- Deviation
+- IGSOA
+- two different phase-structures appear
+- →
+- Axiom
+- χ
+- θ
+- ∇
+- phase-structures
+- phase-sectors
+- δ-curvature
+- δ-Adjacency
+aliases:
+- Bk927ac
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

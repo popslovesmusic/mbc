@@ -1,10 +1,31 @@
+id: GEN20-7022
+location: genesis-20/mbc-40-documentaitio-1::conclusion::136-summary-of-the-bridge::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4559-4574
+heading: 13.6 Summary of the Bridge
+parent_heading: ⭐ Conclusion
 block_type: paragraph
-concepts: []
 excerpt: 'Advanced MBC topics are worthy because they: * arise naturally from the
   basic calculus * expand its expressive power'
-heading: 13.6 Summary of the Bridge
-id: GEN20-7022
-lines: 4559-4574
-location: genesis-20/mbc-40-documentaitio-1::conclusion::136-summary-of-the-bridge::b1
-parent_heading: ⭐ Conclusion
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- multi-dimensional
+- semantic-engine
+- multi-context
+- multi-input
+- high-level
+aliases:
+- Bk910am
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

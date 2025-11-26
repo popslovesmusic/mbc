@@ -1,11 +1,27 @@
+id: GEN13-2122
+location: genesis-13/meta-math-nuclear-physics::2-φ-operator-algebra-as-qcd::definition-24-φ-gluon-operators::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1524-1530
+heading: '**Definition 2.4 — Φ-Gluon Operators**'
+parent_heading: '**2\. Φ-Operator Algebra as QCD**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: A gluon is any element G∈c=Der(AΦ).G\\in \\mathfrak{c} \= \\mathrm{Der}(\\mathcal{A}\_\\Phi).G∈c=Der(AΦ​).
   ---
-heading: '**Definition 2.4 — Φ-Gluon Operators**'
-id: GEN13-2122
-lines: 1524-1530
-location: genesis-13/meta-math-nuclear-physics::2-φ-operator-algebra-as-qcd::definition-24-φ-gluon-operators::b1
-parent_heading: '**2\. Φ-Operator Algebra as QCD**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- ∈
+aliases:
+- Bk137ga
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

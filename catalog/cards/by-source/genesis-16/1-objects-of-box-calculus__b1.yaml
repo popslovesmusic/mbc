@@ -1,14 +1,36 @@
-block_type: table
-concepts:
-- Axiom
-- Mathematical Polarity
-- Γ
-- Σ
-- Ω
-excerpt: Thus the collection of Boxes is a valid **category of semantic objects**.
-  ---
-heading: '**⭐ 1\. Objects of Box Calculus**'
 id: GEN16-4060
-lines: 4098-4107
 location: genesis-16/untitled-document::1-objects-of-box-calculus::b1
 source: genesis-16\Untitled_document.md
+lines: 4098-4107
+heading: '**⭐ 1\. Objects of Box Calculus**'
+block_type: table
+excerpt: Thus the collection of Boxes is a valid **category of semantic objects**.
+  ---
+concepts:
+- Polarity
+- IGSOA
+- Σ
+- Axiom
+- Ω
+- Δ
+- Γ
+- category of semantic objects
+- well-defined
+- non-zero
+- non-null
+- Mathematical Polarity
+aliases:
+- Bk114ip
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.33898305084746
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

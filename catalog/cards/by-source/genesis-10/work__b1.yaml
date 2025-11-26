@@ -1,15 +1,33 @@
+id: GEN10-940
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::9-work-and-heat-in-the-igsoa-framework::work::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 3135-3139
+heading: '**Work:**'
+parent_heading: '**9\. Work and Heat in the IGSOA Framework**'
 block_type: paragraph
-concepts:
-- without
-- Π
-- Φ
-- δ
 excerpt: Π-level redistribution of Φ-modes *without* changing total δ-magnitude. W=Π(ΔEδ,i(Φ)),∑iΔEδ,i(Φ)=0.W
   \= Π(\\Delta E\_{\\delta,i}^{(Φ)}),\\qquad \\sum\_i \\Delta E\_{\\delta,i}^{(Φ)}
   \= 0.W=Π(ΔEδ,i(Φ)​...
-heading: '**Work:**'
-id: GEN10-940
-lines: 3135-3139
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::9-work-and-heat-in-the-igsoa-framework::work::b1
-parent_heading: '**9\. Work and Heat in the IGSOA Framework**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Φ
+- δ
+- Π
+- Δ
+- ∑
+- δ-magnitude
+- Φ-modes
+- Π-level
+aliases:
+- Bk910lr
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

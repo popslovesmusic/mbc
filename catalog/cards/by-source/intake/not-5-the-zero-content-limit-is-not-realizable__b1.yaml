@@ -1,13 +1,30 @@
+id: INTK-9744
+location: intake/meta-genesis-core-papers-foundations::the-not-axiom-fully-formal::not-5-the-zero-content-limit-is-not-realizable::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 57-65
+heading: '**(NOT-5) The Zero-Content Limit is Not Realizable.**'
+parent_heading: '**THE NOT AXIOM (Fully Formal)**'
 block_type: paragraph
-concepts:
-- resistance
-- Ψ
 excerpt: lim⁡Ψ→Ψ0R(Ψ)=∞,\\lim\_{\\Psi \\to \\Psi\_0} R(\\Psi) \= \\infty,Ψ→Ψ0​lim​R(Ψ)=∞,
   where **R** is the *resistance* (deviation cost) to states approaching zero content.
   Thus any process attempting to col...
-heading: '**(NOT-5) The Zero-Content Limit is Not Realizable.**'
-id: INTK-9744
-lines: 57-65
-location: intake/meta-genesis-core-papers-foundations::the-not-axiom-fully-formal::not-5-the-zero-content-limit-is-not-realizable::b1
-parent_heading: '**THE NOT AXIOM (Fully Formal)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- →
+- ∞
+- divergent resistance
+aliases:
+- Bk807ll
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

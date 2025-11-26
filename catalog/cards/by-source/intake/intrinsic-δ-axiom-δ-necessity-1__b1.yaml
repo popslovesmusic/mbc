@@ -1,14 +1,31 @@
+id: INTK-9794
+location: intake/meta-genesis-core-papers-foundations::1-intrinsic-δ-ontological-necessity::intrinsic-δ-axiom-δ-necessity-1::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 519-523
+heading: '**Intrinsic δ Axiom (δ-Necessity-1)**'
+parent_heading: '**1\. Intrinsic δ (Ontological Necessity)**'
 block_type: paragraph
-concepts:
-- uniqueness
-- Ψ
-- δ
 excerpt: Ψ0 is unstable⇒∃\! δint\\Psi\_0 \\text{ is unstable} \\quad \\Rightarrow
   \\quad \\exists \! \\ \\delta\_{\\mathrm{int}}Ψ0​ is unstable⇒∃\! δint​ The “\!”
   asserts **uniqueness**.
-heading: '**Intrinsic δ Axiom (δ-Necessity-1)**'
-id: INTK-9794
-lines: 519-523
-location: intake/meta-genesis-core-papers-foundations::1-intrinsic-δ-ontological-necessity::intrinsic-δ-axiom-δ-necessity-1::b1
-parent_heading: '**1\. Intrinsic δ (Ontological Necessity)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- ∃
+- δ
+- Ψ
+- δint
+- uniqueness
+aliases:
+- Bk431up
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.833333333333336
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

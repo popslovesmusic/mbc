@@ -1,10 +1,23 @@
+id: GEN15-3257
+location: genesis-15/the-mass-curvature-projection-theorem::next-possible-chapters::the-galaxy-evolution-operator-algebra-ahef-tower::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2653-2657
+heading: '**✓ The Galaxy Evolution Operator Algebra (A/H/E/F tower)**'
+parent_heading: '**Next Possible Chapters**'
 block_type: paragraph
-concepts: []
 excerpt: Which one should I generate next? ChatGPT can make mistakes. Check important
   info.
-heading: '**✓ The Galaxy Evolution Operator Algebra (A/H/E/F tower)**'
-id: GEN15-3257
-lines: 2653-2657
-location: genesis-15/the-mass-curvature-projection-theorem::next-possible-chapters::the-galaxy-evolution-operator-algebra-ahef-tower::b1
-parent_heading: '**Next Possible Chapters**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+aliases:
+- Bk484wo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

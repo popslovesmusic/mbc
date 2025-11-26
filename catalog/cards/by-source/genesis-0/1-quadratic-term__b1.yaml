@@ -1,13 +1,31 @@
+id: GEN0-112
+location: genesis-0/feynman-rules-interaction-vertices::i-compute-the-hessian-term-by-term::1-quadratic-term::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1625-1641
+heading: '**1\. Quadratic term**'
+parent_heading: '**I. Compute the Hessian term-by-term**'
 block_type: paragraph
-concepts:
-- δ
-- μ
 excerpt: 'V2=μδ22∑m(δ(m))2V\_2 \= \\frac{\\mu\_\\delta^2}{2}\\sum\_m (\\delta^{(m)})^2V2​=2μδ2​​m∑​(δ(m))2
   First derivative: ∂V2∂δ(m)=μδ2δ(m)\\frac{\\partial V\_2}{\\partial\\delta^{(m)}}
   \= \\mu\_\\delta^2 \\d...'
-heading: '**1\. Quadratic term**'
-id: GEN0-112
-lines: 1625-1641
-location: genesis-0/feynman-rules-interaction-vertices::i-compute-the-hessian-term-by-term::1-quadratic-term::b1
-parent_heading: '**I. Compute the Hessian term-by-term**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- ∂
+- μ
+- δmn
+- ∑
+aliases:
+- Bk276fd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.901960784313726
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,26 @@
+id: INTK-10352
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v1-closure-under-meta-addition::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1001-1002
+heading: 'V.1 Closure under Meta-Addition:'
+parent_heading: Properties and Axioms (Generalized)
 block_type: paragraph
+excerpt: If `V, W ∈ S_Ψ`, then `V ⊞ W ∈ S_Ψ`.
 concepts:
 - Ψ
-excerpt: If `V, W ∈ S_Ψ`, then `V ⊞ W ∈ S_Ψ`.
-heading: 'V.1 Closure under Meta-Addition:'
-id: INTK-10352
-lines: 1001-1002
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v1-closure-under-meta-addition::b1
-parent_heading: Properties and Axioms (Generalized)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+- ∈
+aliases:
+- Bk709th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

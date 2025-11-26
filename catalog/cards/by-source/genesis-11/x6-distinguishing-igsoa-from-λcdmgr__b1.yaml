@@ -1,13 +1,36 @@
-block_type: paragraph
-concepts:
-- Λ
-- Π
-- Φ
-- δ
-excerpt: 'To qualify as a **unique prediction**, a Π-imprint must satisfy: Π ⁣\[Φ(D)\]≇ΠΛCDM/GR.\\Pi\\\!\\left\[\\Phi(\\mathscr{D})\\right\]
-  \\not\\cong \\Pi\_{\\Lambda\\text{CDM}/\\text{GR}}.Π\[Φ(D)\]≅ΠΛCDM/G...'
-heading: '**X.6 Distinguishing IGSOA from ΛCDM/GR**'
 id: GEN11-1234
-lines: 1746-1770
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::x6-distinguishing-igsoa-from-λcdmgr::b1
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1746-1770
+heading: '**X.6 Distinguishing IGSOA from ΛCDM/GR**'
+block_type: paragraph
+excerpt: 'To qualify as a **unique prediction**, a Π-imprint must satisfy: Π ⁣\[Φ(D)\]≇ΠΛCDM/GR.\\Pi\\\!\\left\[\\Phi(\\mathscr{D})\\right\]
+  \\not\\cong \\Pi\_{\\Lambda\\text{CDM}/\\text{GR}}.Π\[Φ(D)\]≅ΠΛCDM/G...'
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- multi-channel test
+- Λ
+- torsion-origin
+- multi-channel
+- non-Gaussian
+- empirically differentiable
+- non-random
+- δ-torsion
+- Π-imprint
+- δ-basins
+- B-modes
+aliases:
+- Bk555qu
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.791666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

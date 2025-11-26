@@ -1,20 +1,46 @@
+id: GEN14-2806
+location: genesis-14/meta-math-and-cryptography::7-a-unified-axiom-box::sealed-axiom-box-meta-math-cryptography-axiom::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 192-211
+heading: '**Sealed Axiom Box: “Meta-Math Cryptography Axiom”**'
+parent_heading: '**7\. A Unified Axiom Box**'
 block_type: paragraph
-concepts:
-- Axiom
-- Deviation Amplification
-- Hermetic Version
-- Meta-Math
-- Monistic Consistency
-- Projection Irreversibility
-- Π
-- Φ
-- δ
 excerpt: '*(Hermetic Version)* **Axiom MM-Crypto-1 (Asymmetric Φ-Projection):** For
   any δ-state, Φ produces a Π-projection that forgets structure in a way that admits
   no natural inverse.'
-heading: '**Sealed Axiom Box: “Meta-Math Cryptography Axiom”**'
-id: GEN14-2806
-lines: 192-211
-location: genesis-14/meta-math-and-cryptography::7-a-unified-axiom-box::sealed-axiom-box-meta-math-cryptography-axiom::b1
-parent_heading: '**7\. A Unified Axiom Box**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Axiom
+- Meta-Math
+- Projection
+- Π
+- δ
+- Deviation
+- MM-Crypto
+- Φ
+- δ-state
+- Φ-Projection
+- Φ-chaoticity
+- Π-projection
+- Φ-morphisms
+- Projection Irreversibility
+- δ-states
+aliases:
+- Am861hv
+tags:
+- monistic-consistency
+- deviation-amplification
+- conflicted
+- asymmetric-φ-projection
+- axiom
+- projection-irreversibility
+is_formal: true
+statement_type: axiom
+axiom_count: 4
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.37037037037037
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

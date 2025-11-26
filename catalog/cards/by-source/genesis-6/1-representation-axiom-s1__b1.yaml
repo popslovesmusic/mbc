@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Faithfulness
-- Identity Emergence Theorem
-- Theorem
-- Ψ
-- δ
-excerpt: '𝓗δ is the closure of {δⁿΨ₀}. For any polynomial P(δ), we have: ∥P(δ)∥\<∞\\|P(\\delta)\\|
-  \< \\infty∥P(δ)∥\<∞'
-heading: '**(1) Representation Axiom (S1)**'
 id: GEN6-8271
-lines: 150-169
 location: genesis-6/spectral-triple-axiom-box-sealed-version::1-representation-axiom-s1::b1
 source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 150-169
+heading: '**(1) Representation Axiom (S1)**'
+block_type: paragraph
+excerpt: '𝓗δ is the closure of {δⁿΨ₀}. For any polynomial P(δ), we have: ∥P(δ)∥\<∞\\|P(\\delta)\\|
+  \< \\infty∥P(δ)∥\<∞'
+concepts:
+- δ
+- Theorem
+- δ-generated
+- π
+- Ψ
+- ∞
+- Identity Emergence Theorem
+- Faithfulness
+- Ψ₀
+aliases:
+- Bk603tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

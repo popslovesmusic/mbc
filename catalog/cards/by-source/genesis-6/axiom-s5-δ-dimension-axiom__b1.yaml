@@ -1,12 +1,31 @@
+id: GEN6-8264
+location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s5-δ-dimension-axiom::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 68-76
+heading: '**AXIOM S5 – δ-Dimension Axiom**'
+parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'There exists p ≥ 1 (fractal dimension index) such that: Tr((1+Dδ2)−p/2)\<∞.\\mathrm{Tr}\\left((1
   \+ \\mathcal{D}\_{\\delta}^{2})^{-p/2}\\right) \< \\infty.Tr((1+Dδ2​)−p/2)\<∞. This
   p is your **fractal...'
-heading: '**AXIOM S5 – δ-Dimension Axiom**'
-id: GEN6-8264
-lines: 68-76
-location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s5-δ-dimension-axiom::b1
-parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- ∞
+- δ-dimension
+- fractal spectral dimension
+- ≥
+aliases:
+- Bk386te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.904761904761903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

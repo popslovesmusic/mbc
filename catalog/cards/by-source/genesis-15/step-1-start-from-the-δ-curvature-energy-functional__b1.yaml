@@ -1,13 +1,30 @@
+id: GEN15-3127
+location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-1-start-from-the-δ-curvature-energy-functional::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 731-743
+heading: '**Step 1 — Start from the δ-curvature energy functional**'
+parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
 block_type: paragraph
-concepts:
-- only
-- Φ
-- δ
 excerpt: 'The universal “curvature energy” at Φ-level is: E\[δ\]:=Tr(Kδ)=Tr(δ†δ)\\mathcal{E}\[\\delta\]
   := \\mathrm{Tr}\\big(\\mathcal{K}\_\\delta\\big) \= \\mathrm{Tr}\\big(\\delta^\\dagger\\delta\\big)E\[δ\]:...'
-heading: '**Step 1 — Start from the δ-curvature energy functional**'
-id: GEN15-3127
-lines: 731-743
-location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-1-start-from-the-δ-curvature-energy-functional::b1
-parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- potential-like
+- Φ-level
+- Φ
+- only
+aliases:
+- Bk438tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.620689655172415
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

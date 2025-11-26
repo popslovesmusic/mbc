@@ -1,13 +1,31 @@
+id: GEN11-1326
+location: genesis-11/the-adjacency-wave-equation::4-the-δφπ-cmb-spectral-axiom::43-power-spectrum::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 1067-1073
+heading: '**4.3 power spectrum**'
+parent_heading: '**4\. The δ→Φ→Π CMB Spectral Axiom**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: Cℓ=12ℓ+1∑m∣aℓm∣2=F(λℓ).C\_\\ell \= \\frac{1}{2\\ell+1} \\sum\_m |a\_{\\ell
   m}|^2 \= F(\\lambda\_\\ell).Cℓ​=2ℓ+11​m∑​∣aℓm​∣2=F(λℓ​). Thus the CMB spectrum is
   a **functorial invariant** of δ-curvature. ...
-heading: '**4.3 power spectrum**'
-id: GEN11-1326
-lines: 1067-1073
-location: genesis-11/the-adjacency-wave-equation::4-the-δφπ-cmb-spectral-axiom::43-power-spectrum::b1
-parent_heading: '**4\. The δ→Φ→Π CMB Spectral Axiom**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- ∑
+- λ
+- δ-curvature
+- δ
+- functorial invariant
+aliases:
+- Bk151ef
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.869565217391305
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

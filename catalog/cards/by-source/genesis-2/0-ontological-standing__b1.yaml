@@ -1,12 +1,33 @@
+id: GEN2-6227
+location: genesis-2/axioms-for-the-category-genesis::axioms-for-the-category-genesis::0-ontological-standing::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 4-19
+heading: '**0\. Ontological Standing**'
+parent_heading: '**Axioms for the Category Genesis**'
 block_type: paragraph
-concepts:
-- not
-- Ψ
 excerpt: 'Genesis is **not** a category of mathematical objects. Genesis is a **minimal
   structural layer** encoding the transition from: * structureless → structured'
-heading: '**0\. Ontological Standing**'
-id: GEN2-6227
-lines: 4-19
-location: genesis-2/axioms-for-the-category-genesis::axioms-for-the-category-genesis::0-ontological-standing::b1
-parent_heading: '**Axioms for the Category Genesis**'
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- →
+- adjacency-emergent
+- operator-admitting
+- adjacency-free
+- proto-temporal
+- operator-free
+- minimal structural layer
+- Ψ
+- weak category
+- not
+- Ψ₀
+aliases:
+- Bk061gn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.444444444444443
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

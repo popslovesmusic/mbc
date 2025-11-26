@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: We proceed in five structured steps. ---
-heading: '**Proof**'
 id: GEN14-2738
-lines: 1337-1341
 location: genesis-14/inflation-structure-formation::proof::b2
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 1337-1341
+heading: '**Proof**'
+block_type: paragraph
+excerpt: We proceed in five structured steps. ---
+aliases:
+- Bk084pf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

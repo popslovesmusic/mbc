@@ -1,10 +1,26 @@
+id: GEN9-9272
+location: genesis-9/does-meta-genesis-indicate-new-physics::corollaries::corollary-c-meta-time-emergence::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1009-1011
+heading: '**Corollary C (Meta-Time Emergence).**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
+excerpt: The sequence {Xn}\\{ X\_n \\}{Xn​} defines a partial order → **Meta-Time**.
 concepts:
 - Meta-Time
-excerpt: The sequence {Xn}\\{ X\_n \\}{Xn​} defines a partial order → **Meta-Time**.
-heading: '**Corollary C (Meta-Time Emergence).**'
-id: GEN9-9272
-lines: 1009-1011
-location: genesis-9/does-meta-genesis-indicate-new-physics::corollaries::corollary-c-meta-time-emergence::b1
-parent_heading: '**Corollaries**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+- →
+aliases:
+- Bk053ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

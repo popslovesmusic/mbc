@@ -1,12 +1,42 @@
-block_type: paragraph
-concepts:
-- Adjacency Graph
-- end
-- Ψ
-- δ
-excerpt: '`graph LR` `A0["Ψ₀"] -->|δ| A1["Ψ₁"]` `A1 -->|δ| A2["Ψ₂"]`'
-heading: '**6\. Diagrammatic Intuition**'
 id: GEN4-7900
-lines: 1505-1527
 location: genesis-4/the-first-adjacency::6-diagrammatic-intuition::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 1505-1527
+heading: '**6\. Diagrammatic Intuition**'
+block_type: paragraph
+excerpt: '`graph LR` `A0["Ψ₀"] -->|δ| A1["Ψ₁"]` `A1 -->|δ| A2["Ψ₂"]`'
+concepts:
+- δ
+- Ψ
+- Adjacency
+- δ-transport
+- Adjacency Graph
+- Ψ₂
+- Ψ₃
+- Ψ₁
+- end
+- Ψ₀
+aliases:
+- Bk000a
+tags:
+- A2
+- A1
+- low-uncertainty
+- A0
+- A3
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.24137931034483
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A0
+- A1
+- A2
+- A3

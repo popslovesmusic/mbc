@@ -1,14 +1,31 @@
+id: INTK-10084
+location: intake/meta-genesis-physical-interpretation-papers::0-preliminaries::definition-02-deviation-operator-δ::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 199-211
+heading: '**Definition 0.2 (Deviation Operator δ).**'
+parent_heading: '**0\. Preliminaries**'
 block_type: paragraph
-concepts:
-- Φ
-- Ψ
-- δ
 excerpt: 'Deviation δ is the minimal departure from Ψ₀ that creates distinguishability:
   δ(Ψ0):=Ψ1such that Ψ1≠Ψ0,\\delta(\\Psi\_0) := \\Psi\_1 \\quad \\text{such that }
   \\Psi\_1 \\neq \\Psi\_0,δ(Ψ0​):=Ψ1​such t...'
-heading: '**Definition 0.2 (Deviation Operator δ).**'
-id: INTK-10084
-lines: 199-211
-location: intake/meta-genesis-physical-interpretation-papers::0-preliminaries::definition-02-deviation-operator-δ::b1
-parent_heading: '**0\. Preliminaries**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- Deviation
+- Φ
+- δ
+- ∃
+- ¬
+- ≠
+- Ψ₀
+aliases:
+- Bk919dt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

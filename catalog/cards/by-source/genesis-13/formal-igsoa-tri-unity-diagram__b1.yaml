@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Formal IGSOA Tri-Unity Diagram)***'
 id: GEN13-2254
-lines: 2956-2958
 location: genesis-13/meta-math-nuclear-physics::unified-diagram-stack::δ-φ-π-condensed-matter-physics::formal-igsoa-tri-unity-diagram::b1
-parent_heading: '**δ → Φ → Π Condensed-Matter Physics**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2956-2958
+heading: '***(Formal IGSOA Tri-Unity Diagram)***'
+parent_heading: '**δ → Φ → Π Condensed-Matter Physics**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

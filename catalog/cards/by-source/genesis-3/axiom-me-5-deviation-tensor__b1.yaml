@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- interaction
-- source-of-curvature
-- Φ
-- δ
-excerpt: 'There exists a symmetric rank-2 tensor: TδΦT\_{\\delta\\Phi}TδΦ​ such that:'
-heading: '**Axiom ME-5 (Deviation Tensor)**'
 id: GEN3-7388
-lines: 359-379
 location: genesis-3/the-physics-box-diagram::iii-the-δφ-stressdeviation-tensor::axiom-me-5-deviation-tensor::b1
-parent_heading: '**III. The δ–Φ Stress–Deviation Tensor**'
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 359-379
+heading: '**Axiom ME-5 (Deviation Tensor)**'
+parent_heading: '**III. The δ–Φ Stress–Deviation Tensor**'
+block_type: paragraph
+excerpt: 'There exists a symmetric rank-2 tensor: TδΦT\_{\\delta\\Phi}TδΦ​ such that:'
+concepts:
+- δ
+- Φ
+- constraint and structural-coherence
+- structural-coherence
+- source-of-curvature
+- stress-energy
+- Φ-symmetric
+- interaction
+- ΦT
+aliases:
+- Bk910te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

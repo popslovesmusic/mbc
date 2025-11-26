@@ -1,15 +1,36 @@
+id: GEN9-9134
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::6-unified-naturality-coherence-law::b-inner-coherence-δ-φ-π::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1648-1668
+heading: '**(B) Inner coherence (δ → Φ → Π)**'
+parent_heading: '**6\. Unified Naturality / Coherence Law**'
 block_type: paragraph
-concepts:
-- Θ
-- Π
-- Φ
-- δ
 excerpt: 'Hyperdoctrine naturality: ΠΦδ(f)∘ΘX  =  ΘY∘f.\\Pi\\Phi\\delta(f)\\circ \\Theta\_X
   \\;=\\; \\Theta\_Y\\circ f.ΠΦδ(f)∘ΘX​=ΘY​∘f. Now unify them by requiring **δ-inner
   coherence to be preserved by H**:'
-heading: '**(B) Inner coherence (δ → Φ → Π)**'
-id: GEN9-9134
-lines: 1648-1668
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::6-unified-naturality-coherence-law::b-inner-coherence-δ-φ-π::b1
-parent_heading: '**6\. Unified Naturality / Coherence Law**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- Θ
+- Projection
+- outer projection functor H is a morphism of hyperdoctrines
+- δ-inner coherence to be preserved by H
+- Π
+- Φ
+- →
+- δ-inner
+- δ-logic
+aliases:
+- Bk141hn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.345794392523365
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

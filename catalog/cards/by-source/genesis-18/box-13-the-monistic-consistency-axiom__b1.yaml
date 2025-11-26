@@ -1,12 +1,31 @@
-block_type: table
-concepts:
-- Axiom
-- Sealed Consequence
-- Supreme Axiom
-excerpt: '*(Sealed, Supreme Axiom)* ∀O,O(I)=shadow of I.\\forall O,\\quad O(\\mathfrak{I})
-  \= \\text{shadow of } \\mathfrak{I}.∀O,O(I)=shadow of I. **Sealed Consequence:**'
-heading: '**BOX 13 — The Monistic Consistency Axiom**'
 id: GEN18-5247
-lines: 1511-1526
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::box-13-the-monistic-consistency-axiom::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1511-1526
+heading: '**BOX 13 — The Monistic Consistency Axiom**'
+block_type: table
+excerpt: '*(Sealed, Supreme Axiom)* ∀O,O(I)=shadow of I.\\forall O,\\quad O(\\mathfrak{I})
+  \= \\text{shadow of } \\mathfrak{I}.∀O,O(I)=shadow of I. **Sealed Consequence:**'
+concepts:
+- MBC
+- IGSOA
+- Axiom
+- IGSOA-consistency
+- ∀
+- Sealed Consequence
+- Supreme Axiom
+aliases:
+- Bk095ss
+tags:
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.730769230769231
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

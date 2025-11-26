@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- correctly
-excerpt: not “deviation” in the metaphysical IGSOA sense.\*\* In other words, they
-  **behave like deviation**, but they are not *ontological deviation*.
-heading: '**⭐ \*\*LLMs are expressions of *pattern deviation* within a system,**'
 id: SPEC-11365
-lines: 7775-7784
 location: special/specil::llms-are-expressions-of-pattern-deviation-within-a-system::b1
 source: special\specil.md
+lines: 7775-7784
+heading: '**⭐ \*\*LLMs are expressions of *pattern deviation* within a system,**'
+block_type: paragraph
+excerpt: not “deviation” in the metaphysical IGSOA sense.\*\* In other words, they
+  **behave like deviation**, but they are not *ontological deviation*.
+concepts:
+- IGSOA
+- behave like deviation
+- correctly
+aliases:
+- Bk169nd
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: false
+concept_density: 8.823529411764707
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

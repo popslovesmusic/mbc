@@ -1,16 +1,30 @@
+id: INTK-10390
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::not-axiom::implications-of-the-not-axiom::5-arrow-of-time-and-irreversibility::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1187-1188
+heading: 5. Arrow of Time and Irreversibility
+parent_heading: Implications of the NOT Axiom
 block_type: paragraph
-concepts:
-- Axiom
-- Meta-Time
-- away
-- Ψ
-- τ
 excerpt: The monotonic nature of Meta-Time (τ) and the irreversibility of actualization
   events are direct consequences of the NOT Axiom. The system always moves *away*
   from `Ψ₀` (or towards it, but never reach...
-heading: 5. Arrow of Time and Irreversibility
-id: INTK-10390
-lines: 1187-1188
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::not-axiom::implications-of-the-not-axiom::5-arrow-of-time-and-irreversibility::b1
-parent_heading: Implications of the NOT Axiom
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Time
+- Axiom
+- τ
+- Ψ
+- Ψ₀
+aliases:
+- Bk084tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

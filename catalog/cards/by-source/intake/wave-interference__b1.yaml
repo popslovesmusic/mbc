@@ -1,12 +1,29 @@
+id: INTK-10273
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::physical-implications::wave-interference::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 573-574
+heading: Wave Interference
+parent_heading: Physical Implications
 block_type: paragraph
-concepts:
-- Meta-Addition
 excerpt: The classic double-slit experiment can be reinterpreted through Meta-Addition,
   where the deviation fields of the two paths interfere non-linearly to produce the
   observed pattern.
-heading: Wave Interference
-id: INTK-10273
-lines: 573-574
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::physical-implications::wave-interference::b1
-parent_heading: Physical Implications
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Addition
+- non-linearly
+- double-slit
+aliases:
+- Bk927tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

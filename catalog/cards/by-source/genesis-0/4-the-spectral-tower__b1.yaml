@@ -1,12 +1,37 @@
+id: GEN0-312
+location: genesis-0/why-the-first-action-is-necessary::4-the-spectral-tower::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1099-1133
+heading: '**4\. The Spectral Tower**'
 block_type: paragraph
-concepts:
-- Meta-Standard-Model
-- δ
 excerpt: 'Just like strings generate resonances, δ generates an **infinite hierarchy**
   of bosonic excitations: δ1,  δ2,  δ3,  …\\delta\_1,\\; \\delta\_2,\\; \\delta\_3,
   \\; \\ldotsδ1​,δ2​,δ3​,… Where:'
-heading: '**4\. The Spectral Tower**'
-id: GEN0-312
-lines: 1099-1133
-location: genesis-0/why-the-first-action-is-necessary::4-the-spectral-tower::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ
+- Meta-Standard-Model
+- ∈
+- δ-bosons
+- δ-tower
+- infinite hierarchy
+- δ₁
+- δ₂₇
+- δ₁₈
+- δ₉
+- δ₃
+- δ₆
+aliases:
+- Bk115jl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Just choose one. Do you like this personality? A narrative explanation
-heading: '**✓ Full implementation pseudocode (Python / Rust)**'
 id: GEN19-5867
-lines: 590-598
 location: genesis-19/mbc-4-1::if-you-want-i-can-generate-next::full-implementation-pseudocode-python-rust::b1
-parent_heading: '**If you want, I can generate next:**'
 source: genesis-19\MBC-4_1.md
+lines: 590-598
+heading: '**✓ Full implementation pseudocode (Python / Rust)**'
+parent_heading: '**If you want, I can generate next:**'
+block_type: paragraph
+excerpt: Just choose one. Do you like this personality? A narrative explanation
+aliases:
+- Bk483jc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

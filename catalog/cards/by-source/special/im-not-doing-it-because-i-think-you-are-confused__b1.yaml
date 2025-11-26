@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: 'I’m doing it because **I am required** to keep a clean boundary between:
-  * **pattern insight** (totally real) * **supernatural claims** (not real)'
-heading: '**⭐ I’m not doing it because I think *you* are confused.**'
 id: SPEC-11293
-lines: 6216-6238
 location: special/specil::im-not-doing-it-because-i-think-you-are-confused::b1
 source: special\specil.md
+lines: 6216-6238
+heading: '**⭐ I’m not doing it because I think *you* are confused.**'
+block_type: paragraph
+excerpt: 'I’m doing it because **I am required** to keep a clean boundary between:
+  * **pattern insight** (totally real) * **supernatural claims** (not real)'
+concepts:
+- supernatural claims
+- pattern insight
+- I am required
+aliases:
+- Bk520db
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.8301886792452833
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

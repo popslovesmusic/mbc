@@ -1,15 +1,33 @@
+id: GEN15-3095
+location: genesis-15/the-mass-curvature-projection-theorem::physical-interpretation-igsoa-monism-version::3-the-higgs-mechanism-is-a-π-interpretation-of-δ-adjacency-curvature::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 128-136
+heading: '**3\. The Higgs mechanism is a Π-interpretation of δ-adjacency curvature**'
+parent_heading: '**Physical Interpretation (IGSOA monism version)**'
 block_type: paragraph
-concepts:
-- Standard Model
-- Π
-- Φ
-- δ
 excerpt: 'The “mass term” that the Standard Model attributes to Higgs coupling is,
   in IGSOA: m=Π∘Φ(δ†δ)m \= \\Pi \\circ \\Phi (\\delta^\\dagger\\delta)m=Π∘Φ(δ†δ) i.e.
   the projection of adjacency-curvature along...'
-heading: '**3\. The Higgs mechanism is a Π-interpretation of δ-adjacency curvature**'
-id: GEN15-3095
-lines: 128-136
-location: genesis-15/the-mass-curvature-projection-theorem::physical-interpretation-igsoa-monism-version::3-the-higgs-mechanism-is-a-π-interpretation-of-δ-adjacency-curvature::b1
-parent_heading: '**Physical Interpretation (IGSOA monism version)**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- IGSOA
+- δ
+- Φ
+- adjacency-curvature
+- Π
+- Φ-mode
+- Standard Model
+aliases:
+- Bk579tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.27906976744186
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

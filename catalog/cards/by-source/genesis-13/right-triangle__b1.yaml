@@ -1,12 +1,28 @@
+id: GEN13-2336
+location: genesis-13/the-weight-of-light::2-second-adjoint-pair-φ-π::24-triangle-identities::right-triangle::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1057-1067
+heading: '**Right Triangle:**'
+parent_heading: '**2.4 Triangle identities**'
 block_type: paragraph
+excerpt: '\\Pi^\\\!\*G \\to \\Pi^\\\!\*\\Phi(\\Pi^\\\!\*G) \\to \\Pi^\\\!\*G Repeated
+  Φ → Π\* reconstruction recovers the same dynamical triple. Thus:'
 concepts:
 - Π
 - Φ
-excerpt: '\\Pi^\\\!\*G \\to \\Pi^\\\!\*\\Phi(\\Pi^\\\!\*G) \\to \\Pi^\\\!\*G Repeated
-  Φ → Π\* reconstruction recovers the same dynamical triple. Thus:'
-heading: '**Right Triangle:**'
-id: GEN13-2336
-lines: 1057-1067
-location: genesis-13/the-weight-of-light::2-second-adjoint-pair-φ-π::24-triangle-identities::right-triangle::b1
-parent_heading: '**2.4 Triangle identities**'
-source: genesis-13\The_Weight_of_Light.md
+- →
+aliases:
+- Bk005pr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

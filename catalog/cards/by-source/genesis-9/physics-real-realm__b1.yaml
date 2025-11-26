@@ -1,11 +1,27 @@
-block_type: list
-concepts:
-- δ
-excerpt: '* GR smooths curvature * QM injects uncertainty * Fields oscillate'
-heading: '**Physics (real realm):**'
 id: GEN9-9248
-lines: 651-672
 location: genesis-9/does-meta-genesis-indicate-new-physics::4-why-this-works-meta-genesis-prevents-collapse-meta-math-prevents-explosion::physics-real-realm::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 651-672
+heading: '**Physics (real realm):**'
 parent_heading: '**4\. Why This Works: Meta-Genesis Prevents Collapse, Meta-Math Prevents
   Explosion**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+block_type: list
+excerpt: '* GR smooths curvature * QM injects uncertainty * Fields oscillate'
+concepts:
+- middle-world
+- δ
+aliases:
+- Bk191sc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

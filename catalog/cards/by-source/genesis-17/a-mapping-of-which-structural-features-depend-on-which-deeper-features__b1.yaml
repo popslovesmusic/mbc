@@ -1,10 +1,21 @@
+id: GEN17-4914
+location: genesis-17/key-points::1-causal-order-record-of-causes-not-sequence-in-time::a-mapping-of-which-structural-features-depend-on-which-deeper-features::b1
+source: genesis-17\Key_Points.md
+lines: 569-583
+heading: '**A mapping of which structural features depend on which deeper features.**'
+parent_heading: '**⭐ 1\. Causal Order \= “Record of Causes,” NOT “Sequence in Time”**'
 block_type: paragraph
-concepts: []
 excerpt: 'It is a *dependency tree*, not a timeline. So instead of: * A causes B *because
   it came first in time*'
-heading: '**A mapping of which structural features depend on which deeper features.**'
-id: GEN17-4914
-lines: 569-583
-location: genesis-17/key-points::1-causal-order-record-of-causes-not-sequence-in-time::a-mapping-of-which-structural-features-depend-on-which-deeper-features::b1
-parent_heading: '**⭐ 1\. Causal Order \= “Record of Causes,” NOT “Sequence in Time”**'
-source: genesis-17\Key_Points.md
+aliases:
+- Bk703dt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

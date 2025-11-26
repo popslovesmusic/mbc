@@ -1,15 +1,32 @@
+id: GEN18-5314
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::7-final-sealed-formulation::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2350-2368
+heading: '**7\. Final “Sealed” Formulation**'
 block_type: paragraph
-concepts:
-- downstream
-- only
-- Π
-- Φ
-- δ
 excerpt: '*(Cannot be altered, only extended)* IGSOA⇒δ⇒Φ⇒Π⇒Boxes⇒Connectors⇒CSOI.\\boxed{
   \\textbf{IGSOA} \\Rightarrow \\delta \\Rightarrow \\Phi \\Rightarrow \\Pi \\Rightarrow
   \\textbf{Boxes} \\Rightarrow \\te...'
-heading: '**7\. Final “Sealed” Formulation**'
-id: GEN18-5314
-lines: 2350-2368
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::7-final-sealed-formulation::b1
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- IGSOA
+- MBC
+- Π
+- δ
+- Φ
+- sealed canonical diagram stack
+- backward-flow
+- only
+aliases:
+- Bk979ca
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

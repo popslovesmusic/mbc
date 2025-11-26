@@ -1,13 +1,33 @@
+id: INTK-9887
+location: intake/meta-genesis-core-papers-foundations::2-meta-time-must-exist-why-its-forced::f3-iterated-deviation-introduces-order::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1698-1710
+heading: '**(F3) Iterated deviation introduces order**'
+parent_heading: '**2\. Meta-Time Must Exist (Why It’s Forced)**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Ψ
-- δ
 excerpt: 'Once Ψ₁ exists: Ψ1→δΨ2→δΨ3→δ⋯\\Psi\_1 \\xrightarrow{\\delta} \\Psi\_2 \\xrightarrow{\\delta}
   \\Psi\_3 \\xrightarrow{\\delta} \\cdotsΨ1​δ​Ψ2​δ​Ψ3​δ​⋯ This chain is totally ordered.'
-heading: '**(F3) Iterated deviation introduces order**'
-id: INTK-9887
-lines: 1698-1710
-location: intake/meta-genesis-core-papers-foundations::2-meta-time-must-exist-why-its-forced::f3-iterated-deviation-introduces-order::b1
-parent_heading: '**2\. Meta-Time Must Exist (Why It’s Forced)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- Meta-Time
+- δ
+- →
+- ∃
+- Ψi
+- Ψj
+- Ψ₁
+aliases:
+- Bk886oe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Given: k:B1→B3B2 k:B'
-heading: Define Uncurrying
 id: GEN17-4487
-lines: 5457-5487
 location: genesis-17/box-calculus::6-currying-isomorphism::define-uncurrying::b1
-parent_heading: ⭐ 6\. Currying Isomorphism
 source: genesis-17\box_calculus.md
+lines: 5457-5487
+heading: Define Uncurrying
+parent_heading: ⭐ 6\. Currying Isomorphism
+block_type: paragraph
+excerpt: 'Given: k:B1→B3B2 k:B'
+concepts:
+- →
+aliases:
+- Bk620gd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.127659574468085
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

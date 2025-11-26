@@ -1,26 +1,40 @@
+id: INTK-10663
+location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::part-3-the-axiomatic-framework::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1566-1574
+heading: 'Part 3: The Axiomatic Framework'
+parent_heading: Summary of Foundational Concepts
 block_type: paragraph
-concepts:
-- Axiom
-- Causality Axiom
-- Flawed Symmetry
-- IGSOA
-- Meta-Time
-- Mono-Force
-- Physical Time
-- The Mono
-- The Principle
-- The Unified Time
-- Time-Causality
-- Zero State
-- Φ
-- Ψ
-- δ
 excerpt: The behavior of the Φ field is governed by a set of core axioms that define
   its dynamics. *   **The Principle of Flawed Symmetry (IGSOA):** All that exists
   is an expression of a single, monistic field...
-heading: 'Part 3: The Axiomatic Framework'
-id: INTK-10663
-lines: 1566-1574
-location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::part-3-the-axiomatic-framework::b1
-parent_heading: Summary of Foundational Concepts
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- IGSOA
+- Deviation
+- Axiom
+- State
+- Ψ
+- Time-Causality
+- Mono-Force
+- Ψ-Drive
+- δ
+- Φ
+- The Unified Time
+- Flawed Symmetry
+- Causality Axiom
+- Physical Time
+aliases:
+- Bk977tb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.970588235294118
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

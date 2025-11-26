@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- α
-- δ
-excerpt: 'Let the Meta-Einstein equation be written as: Tδ=αRδ.\\mathcal{T}\_\\delta
-  \= \\alpha\\mathcal{R}\_\\delta.Tδ​=αRδ​. ---'
-heading: '**4\. Dynamical Consequences of the Meta-Einstein Equation**'
 id: GEN1-613
-lines: 1262-1268
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::4-dynamical-consequences-of-the-meta-einstein-equation::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1262-1268
+heading: '**4\. Dynamical Consequences of the Meta-Einstein Equation**'
+block_type: paragraph
+excerpt: 'Let the Meta-Einstein equation be written as: Tδ=αRδ.\\mathcal{T}\_\\delta
+  \= \\alpha\\mathcal{R}\_\\delta.Tδ​=αRδ​. ---'
+concepts:
+- Meta-Einstein
+- δ
+- α
+aliases:
+- Bk181lt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

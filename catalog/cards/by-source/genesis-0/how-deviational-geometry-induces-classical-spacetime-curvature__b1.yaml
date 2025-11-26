@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***How Deviational Geometry induces classical spacetime curvature***'
 id: GEN0-078
-lines: 1159-1161
 location: genesis-0/feynman-rules-interaction-vertices::the-δ-ricci-einstein-projection-theorem::how-deviational-geometry-induces-classical-spacetime-curvature::b1
-parent_heading: '**The δ-Ricci → Einstein Projection Theorem**'
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1159-1161
+heading: '***How Deviational Geometry induces classical spacetime curvature***'
+parent_heading: '**The δ-Ricci → Einstein Projection Theorem**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

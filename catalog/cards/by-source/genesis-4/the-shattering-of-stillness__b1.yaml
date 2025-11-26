@@ -1,13 +1,32 @@
+id: GEN4-7834
+location: genesis-4/the-first-adjacency::the-crack-in-perfect-stillness::the-shattering-of-stillness::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 391-425
+heading: '**The Shattering of Stillness**'
+parent_heading: '**The Crack in Perfect Stillness**'
 block_type: paragraph
-concepts:
-- The Zero
-- Zero-State
-- Ψ
 excerpt: As soon as one crack appears, stillness becomes impossible to restore. The
   fracture spreads—
-heading: '**The Shattering of Stillness**'
-id: GEN4-7834
-lines: 391-425
-location: genesis-4/the-first-adjacency::the-crack-in-perfect-stillness::the-shattering-of-stillness::b1
-parent_heading: '**The Crack in Perfect Stillness**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- →
+- State
+- Ψ
+- Zero-State
+- The Zero
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk748so
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.64516129032258
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

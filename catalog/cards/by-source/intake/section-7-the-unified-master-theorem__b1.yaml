@@ -1,16 +1,35 @@
+id: INTK-9689
+location: intake/axioms-geometry::section-7-the-unified-master-theorem::b1
+source: intake\Axioms-geometry.md
+lines: 629-642
+heading: '**Section 7 — The Unified Master Theorem**'
 block_type: paragraph
-concepts:
-- Deviational Geometry
-- Master Compatibility Theorem
-- Meta-Genesis
-- Meta-Math
-- Theorem
-- δ
 excerpt: '**Master Compatibility Theorem** *(Canonical form)* If δ exists and satisfies
   the Deviational Geometry axioms, and if Meta-Genesis supplies the necessary potential
   conditions for δ to act, then every ...'
-heading: '**Section 7 — The Unified Master Theorem**'
-id: INTK-9689
-lines: 629-642
-location: intake/axioms-geometry::section-7-the-unified-master-theorem::b1
-source: intake\Axioms-geometry.md
+concepts:
+- Meta-Genesis
+- Meta-Math
+- Deviational Geometry
+- Deviation
+- Theorem
+- action-level
+- Axiom
+- δ
+- Master Compatibility Theorem
+- single theory
+aliases:
+- Bk458mc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

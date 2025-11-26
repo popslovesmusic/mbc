@@ -1,12 +1,33 @@
+id: GEN17-4599
+location: genesis-17/box-calculus::4-upgrade-box-graphs-into-proof-nets::δ-curvature-proof-nets::b1
+source: genesis-17\box_calculus.md
+lines: 7156-7167
+heading: ⭐ δ-curvature proof nets
+parent_heading: ⭐ 4\. Upgrade Box Graphs into Proof Nets
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'This turns the system into: * a graphical linear logic * with δ-geometry
   as the geometry-of-interaction'
-heading: ⭐ δ-curvature proof nets
-id: GEN17-4599
-lines: 7156-7167
-location: genesis-17/box-calculus::4-upgrade-box-graphs-into-proof-nets::δ-curvature-proof-nets::b1
-parent_heading: ⭐ 4\. Upgrade Box Graphs into Proof Nets
-source: genesis-17\box_calculus.md
+concepts:
+- δ-geometry
+- →
+- Geometry-of-Interaction
+- geometry-of-interaction
+- Π
+- δ
+- world-level
+aliases:
+- Bk826tt
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

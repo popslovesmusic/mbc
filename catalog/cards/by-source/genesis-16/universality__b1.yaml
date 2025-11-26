@@ -1,13 +1,31 @@
+id: GEN16-4067
+location: genesis-16/untitled-document::3-binary-products::universality::b1
+source: genesis-16\Untitled_document.md
+lines: 4170-4190
+heading: '**Universality**'
+parent_heading: '**⭐ 3\. Binary Products**'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Σ
 excerpt: 'For any Box XXX with maps: f:X→B1,g:X→B2f:X\\to B\_1,\\quad g:X\\to B\_2f:X→B1​,g:X→B2​
   the unique map:'
-heading: '**Universality**'
-id: GEN16-4067
-lines: 4170-4190
-location: genesis-16/untitled-document::3-binary-products::universality::b1
-parent_heading: '**⭐ 3\. Binary Products**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- →
+- Box Calculus
+- ΣX
+- Box
+- ⊗
+aliases:
+- Bk433fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.615384615384616
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

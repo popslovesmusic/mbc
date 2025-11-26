@@ -1,10 +1,33 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Every point has a δ-spectrum: δ0(p), δ1(p), δ2(p),…\\delta\_0(p),\\ \\delta\_1(p),\\
-  \\delta\_2(p), \\ldotsδ0​(p), δ1​(p), δ2​(p),… Define the **δ-energy density**:'
-heading: '**3\. Projection of δ-Spectrum to a Riemannian Metric**'
 id: GEN2-6503
-lines: 396-406
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::3-projection-of-δ-spectrum-to-a-riemannian-metric::b1
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 396-406
+heading: '**3\. Projection of δ-Spectrum to a Riemannian Metric**'
+block_type: paragraph
+excerpt: 'Every point has a δ-spectrum: δ0(p), δ1(p), δ2(p),…\\delta\_0(p),\\ \\delta\_1(p),\\
+  \\delta\_2(p), \\ldotsδ0​(p), δ1​(p), δ2​(p),… Define the **δ-energy density**:'
+concepts:
+- δ
+- ε
+- ∑
+- δ-energy density
+- ≥
+- scale-weights
+- δ-spectrum
+- δ-energy
+- δn
+aliases:
+- Bk148ep
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

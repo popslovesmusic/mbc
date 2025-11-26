@@ -1,11 +1,29 @@
+id: GEN19-6015
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::iii-semantics-language::7-semantic-classification::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 71-76
+heading: ✔ 7\. Semantic Classification
+parent_heading: III. SEMANTICS & LANGUAGE
 block_type: list
-concepts:
-- δ
 excerpt: '* Build classifiers purely from δ-geometry * Automatically detect semantic
   conflicts * Map meaning clusters'
-heading: ✔ 7\. Semantic Classification
-id: GEN19-6015
-lines: 71-76
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::iii-semantics-language::7-semantic-classification::b1
-parent_heading: III. SEMANTICS & LANGUAGE
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- δ-geometry
+- IGSOA
+- δ
+- ↔
+aliases:
+- Bk805bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

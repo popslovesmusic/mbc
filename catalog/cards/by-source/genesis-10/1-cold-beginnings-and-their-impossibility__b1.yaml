@@ -1,11 +1,31 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Zero-State
-- Ψ
-excerpt: 'In standard cosmology, “cold” means: * no thermal activity * no entropy'
-heading: '**1\. Cold Beginnings and Their Impossibility**'
 id: GEN10-861
-lines: 1799-1828
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::1-cold-beginnings-and-their-impossibility::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1799-1828
+heading: '**1\. Cold Beginnings and Their Impossibility**'
+block_type: paragraph
+excerpt: 'In standard cosmology, “cold” means: * no thermal activity * no entropy'
+concepts:
+- Ψ
+- IGSOA
+- Axiom
+- State
+- zero-entropy
+- Zero-State
+- Ψ₀
+- forbidden state
+- NOT Axiom
+aliases:
+- Bk207sc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.857142857142856
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

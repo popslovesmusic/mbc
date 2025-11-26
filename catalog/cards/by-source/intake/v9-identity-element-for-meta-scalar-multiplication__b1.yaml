@@ -1,11 +1,26 @@
+id: INTK-10360
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v9-identity-element-for-meta-scalar-multiplication::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1025-1026
+heading: 'V.9 Identity Element for Meta-Scalar Multiplication:'
+parent_heading: Properties and Axioms (Generalized)
 block_type: paragraph
-concepts:
-- Meta-Scalar
 excerpt: There exists a Meta-Scalar `1` such that `1 ⊙ V = V`. (Represents an identity
   transformation).
-heading: 'V.9 Identity Element for Meta-Scalar Multiplication:'
-id: INTK-10360
-lines: 1025-1026
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v9-identity-element-for-meta-scalar-multiplication::b1
-parent_heading: Properties and Axioms (Generalized)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Scalar
+aliases:
+- Bk752te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

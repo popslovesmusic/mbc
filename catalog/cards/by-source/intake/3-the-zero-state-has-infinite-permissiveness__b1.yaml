@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Ψ
-- δ
-excerpt: 'The zero-state, Ψ₀, is defined as: * no geometry * no values'
-heading: '**3\. The Zero-State Has Infinite Permissiveness**'
 id: INTK-10044
-lines: 324-368
 location: intake/meta-genesis-outreach-narrative-papers::why-perfect-stillness-cannot-exist::3-the-zero-state-has-infinite-permissiveness::b1
-parent_heading: '**Why Perfect Stillness Cannot Exist**'
 source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 324-368
+heading: '**3\. The Zero-State Has Infinite Permissiveness**'
+parent_heading: '**Why Perfect Stillness Cannot Exist**'
+block_type: paragraph
+excerpt: 'The zero-state, Ψ₀, is defined as: * no geometry * no values'
+concepts:
+- Deviation
+- Ψ
+- zero-state
+- ∞
+- δ
+- none are forbidden
+- is forced
+- Ψ₀
+aliases:
+- Bk766tz
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.207207207207207
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

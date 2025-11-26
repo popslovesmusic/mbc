@@ -1,12 +1,28 @@
+id: GEN3-7579
+location: genesis-3/the-tri-unity-theorem::iii-δφ-unity-axioms::axiom-u1-δ-requires-φ::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1297-1304
+heading: '**Axiom U1 — δ Requires Φ**'
+parent_heading: '**III. δ–Φ Unity Axioms**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Deviation without structure collapses to noise. Φ is required to give δ-generated
   adjacency coherent mode structure. δ⇒Φ.\\delta \\Rightarrow \\Phi.δ⇒Φ.
-heading: '**Axiom U1 — δ Requires Φ**'
-id: GEN3-7579
-lines: 1297-1304
-location: genesis-3/the-tri-unity-theorem::iii-δφ-unity-axioms::axiom-u1-δ-requires-φ::b1
-parent_heading: '**III. δ–Φ Unity Axioms**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Deviation
+- δ
+- Φ
+- δ-generated
+aliases:
+- Bk824dw
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

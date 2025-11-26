@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- Field
-- Field Equation
-- Φ
-- δ
-excerpt: \*\*The universe curves because it deviates (δ). It forms patterns because
-  it organizes itself (Φ). It becomes real because a projection chooses a branch (π).
-heading: '**VII. Outreach / Plain-Language Version**'
 id: GEN3-7509
-lines: 449-457
 location: genesis-3/the-tri-unity-theorem::vii-outreach-plain-language-version::b1
 source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 449-457
+heading: '**VII. Outreach / Plain-Language Version**'
+block_type: paragraph
+excerpt: \*\*The universe curves because it deviates (δ). It forms patterns because
+  it organizes itself (Φ). It becomes real because a projection chooses a branch (π).
+concepts:
+- Field
+- δ
+- Φ
+- π
+- Field Equation
+aliases:
+- Bk684tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.204081632653061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

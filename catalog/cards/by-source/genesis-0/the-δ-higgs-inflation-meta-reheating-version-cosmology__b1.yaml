@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which one should we do next?
-heading: '**✔ The δ-Higgs inflation / Meta-Reheating version (cosmology)**'
 id: GEN0-107
-lines: 1572-1574
 location: genesis-0/feynman-rules-interaction-vertices::if-you-want-next-i-can-derive::the-δ-higgs-inflation-meta-reheating-version-cosmology::b1
-parent_heading: '**If you want next, I can derive:**'
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1572-1574
+heading: '**✔ The δ-Higgs inflation / Meta-Reheating version (cosmology)**'
+parent_heading: '**If you want next, I can derive:**'
+block_type: paragraph
+excerpt: Which one should we do next?
+aliases:
+- Bk045wo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

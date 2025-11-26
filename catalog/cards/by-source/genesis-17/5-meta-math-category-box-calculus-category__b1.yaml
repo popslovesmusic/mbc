@@ -1,17 +1,33 @@
-block_type: table
-concepts:
-- Box
-- Box Calculus
-- "Calculus  \nCat  \nMeta"
-- "Cat  \nBox Calculus"
-- Meta-Math
-- Operators  Op Op
-- Opj Op
-- Π
-- Σ
-excerpt: 'Thus: CatMeta-Math≅CatBox Calculus Cat'
-heading: ⭐ 5\. META-MATH CATEGORY → BOX CALCULUS CATEGORY
 id: GEN17-4367
-lines: 2938-2956
 location: genesis-17/box-calculus::5-meta-math-category-box-calculus-category::b1
 source: genesis-17\box_calculus.md
+lines: 2938-2956
+heading: ⭐ 5\. META-MATH CATEGORY → BOX CALCULUS CATEGORY
+block_type: table
+excerpt: 'Thus: CatMeta-Math≅CatBox Calculus Cat'
+concepts:
+- Meta-Math
+- Box Calculus
+- Box
+- Path-composition
+- CatMeta-Math
+- E-halting
+- Π-normal
+- Π
+- Σ
+- "Calculus  \nCat  \nMeta"
+- "Cat  \nBox Calculus"
+- Operators  Op Op
+- Opj Op
+aliases:
+- Bk706mm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.636363636363637
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

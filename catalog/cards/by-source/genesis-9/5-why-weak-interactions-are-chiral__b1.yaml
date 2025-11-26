@@ -1,13 +1,34 @@
-block_type: paragraph
-concepts:
-- γ
-- δ
-- μ
-- ν
-excerpt: 'This part is intrinsic to torsion. The δ-torsion tensor naturally splits
-  the left and right eigenspaces: T    μν(δ)γνT^{(\\delta)}\_{\\;\\;\\mu\\nu}\\gamma^\\nuTμν(δ)​γν'
-heading: '**5\. Why Weak Interactions Are Chiral**'
 id: GEN9-9484
-lines: 702-724
 location: genesis-9/strong-force::5-why-weak-interactions-are-chiral::b1
 source: genesis-9\strong-force.md
+lines: 702-724
+heading: '**5\. Why Weak Interactions Are Chiral**'
+block_type: paragraph
+excerpt: 'This part is intrinsic to torsion. The δ-torsion tensor naturally splits
+  the left and right eigenspaces: T    μν(δ)γνT^{(\\delta)}\_{\\;\\;\\mu\\nu}\\gamma^\\nuTμν(δ)​γν'
+concepts:
+- δ
+- γ
+- IGSOA
+- ν
+- Axiom
+- μ
+- Right-handed
+- right-handed
+- Left-handed
+- δ-torsion
+- torsion is antisymmetric
+- θ
+- natural chirality
+aliases:
+- Bk390tp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.978494623655912
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

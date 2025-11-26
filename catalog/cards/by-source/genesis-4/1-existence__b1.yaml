@@ -1,12 +1,29 @@
+id: GEN4-7613
+location: genesis-4/meta-physics-axiom-box::conclusion::1-existence::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 358-362
+heading: '**1\. Existence**'
+parent_heading: '**Conclusion**'
 block_type: paragraph
+excerpt: F exists because Genesis is *free on δ* and Meta-Math supplies a canonical
+  δ-endomorphism (M0,δmath).(M\_0, \\delta\_{\\mathrm{math}}).(M0​,δmath​).
 concepts:
 - Meta-Math
 - δ
-excerpt: F exists because Genesis is *free on δ* and Meta-Math supplies a canonical
-  δ-endomorphism (M0,δmath).(M\_0, \\delta\_{\\mathrm{math}}).(M0​,δmath​).
-heading: '**1\. Existence**'
-id: GEN4-7613
-lines: 358-362
-location: genesis-4/meta-physics-axiom-box::conclusion::1-existence::b1
-parent_heading: '**Conclusion**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+- δ-endomorphism
+- δmath
+aliases:
+- Bk836eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

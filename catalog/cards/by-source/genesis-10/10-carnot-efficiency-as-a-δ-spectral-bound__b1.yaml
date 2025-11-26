@@ -1,14 +1,31 @@
+id: GEN10-942
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::10-carnot-efficiency-as-a-δ-spectral-bound::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 3157-3173
+heading: '**10\. Carnot Efficiency as a δ-Spectral Bound**'
 block_type: paragraph
-concepts:
-- The Carnot
-- δ
-- η
-- ρ
 excerpt: 'Entropy production at different temperatures arises because: T=spectral
   density of δ.T \= \\text{spectral density of δ}.T=spectral density of δ. The Carnot
   efficiency formula'
-heading: '**10\. Carnot Efficiency as a δ-Spectral Bound**'
-id: GEN10-942
-lines: 3157-3173
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::10-carnot-efficiency-as-a-δ-spectral-bound::b1
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- δ
+- ρ
+- IGSOA
+- η
+- δ-spectral
+- The Carnot
+aliases:
+- Bk357ep
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.792207792207792
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

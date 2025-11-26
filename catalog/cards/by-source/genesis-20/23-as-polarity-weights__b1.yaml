@@ -1,11 +1,25 @@
+id: GEN20-6716
+location: genesis-20/mbc-40-documentaitio-1::2-how-numbers-fit-into-mbc::23-as-polarity-weights::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 819-837
+heading: 2.3 As Polarity Weights
+parent_heading: 2\. How Numbers Fit Into MBC
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'Polarity Θ can take numeric or bounded numeric form: * Θ \= \+1 (strong
   positive direction) * Θ \= −1 (strong negative direction)'
-heading: 2.3 As Polarity Weights
-id: GEN20-6716
-lines: 819-837
-location: genesis-20/mbc-40-documentaitio-1::2-how-numbers-fit-into-mbc::23-as-polarity-weights::b1
-parent_heading: 2\. How Numbers Fit Into MBC
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Θ
+- Polarity
+- Bayesian-style
+aliases:
+- Bk368pc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

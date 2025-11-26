@@ -1,13 +1,29 @@
+id: INTK-10238
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::6-relation-to-3-6-9-harmonic-symmetry::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 273-283
+heading: '**6. Relation to 3-6-9 Harmonic Symmetry**'
 block_type: paragraph
-concepts:
-- Fractal Standard Model
-- Meta-Fractal
-- Meta-Geometric
 excerpt: The 9x9 structure naturally embodies the 3-6-9 symmetry. *   The three primary
   triads (Manifestation, Propagation, Interaction) form the "3" aspect. *   The "6"
   aspects arise from combinations and tra...
-heading: '**6. Relation to 3-6-9 Harmonic Symmetry**'
-id: INTK-10238
-lines: 273-283
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::6-relation-to-3-6-9-harmonic-symmetry::b1
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- self-consistency
+- Meta-Geometric
+- Meta-Fractal
+- Fractal Standard Model
+aliases:
+- Bk386ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

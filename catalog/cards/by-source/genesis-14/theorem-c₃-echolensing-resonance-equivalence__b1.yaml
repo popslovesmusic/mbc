@@ -1,12 +1,28 @@
+id: GEN14-2796
+location: genesis-14/inflation-structure-formation::5-δgw-echo-cmb-lensing-resonance-theorem::theorem-c₃-echolensing-resonance-equivalence::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 2330-2335
+heading: '**Theorem C₃ (Echo–Lensing Resonance Equivalence)**'
+parent_heading: '**5\. δ→GW Echo → CMB Lensing Resonance Theorem**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: If δ produces harmonic GW echo frequencies fnf\_nfn​, then Π-lensing of the
   CMB contains correlated multipoles ℓ=ℓ(fn)\\ell \= \\ell(f\_n)ℓ=ℓ(fn​)
-heading: '**Theorem C₃ (Echo–Lensing Resonance Equivalence)**'
-id: GEN14-2796
-lines: 2330-2335
-location: genesis-14/inflation-structure-formation::5-δgw-echo-cmb-lensing-resonance-theorem::theorem-c₃-echolensing-resonance-equivalence::b1
-parent_heading: '**5\. δ→GW Echo → CMB Lensing Resonance Theorem**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- Π-lensing
+- Π
+aliases:
+- Bk175ph
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

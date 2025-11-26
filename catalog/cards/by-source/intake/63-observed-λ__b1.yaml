@@ -1,14 +1,29 @@
+id: INTK-9622
+location: intake/abstract-editorial-review::section-6-emergence-of-the-cosmological-constant::63-observed-λ::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 303-311
+heading: '**6.3 — Observed Λ**'
+parent_heading: '**📄 Section 6 — Emergence of the Cosmological Constant**'
 block_type: paragraph
-concepts:
-- Λ
-- Π
-- δ
 excerpt: 'Add one bridging sentence: In other words, Λ is observationally constant
   because ⟨Π\_g(T\_δ)⟩ is cosmologically ergodic. This is a strong phrase — “cosmologically
   ergodic” lands very well to physicist...'
-heading: '**6.3 — Observed Λ**'
-id: INTK-9622
-lines: 303-311
-location: intake/abstract-editorial-review::section-6-emergence-of-the-cosmological-constant::63-observed-λ::b1
-parent_heading: '**📄 Section 6 — Emergence of the Cosmological Constant**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- Λ
+- δ
+- Π
+aliases:
+- Bk673ao
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

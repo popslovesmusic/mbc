@@ -1,10 +1,31 @@
-block_type: table
-concepts:
-- Π
-excerpt: ''
-heading: 5.1 Composition Rules
 id: GEN17-4152
-lines: 72-79
 location: genesis-17/box-calculus::box-calculus-technical-introduction-dual-column-cross-referenced::5-box-calculus-as-a-full-operator-algebra::51-composition-rules::b1
-parent_heading: 5\. Box Calculus as a Full Operator Algebra
 source: genesis-17\box_calculus.md
+lines: 72-79
+heading: 5.1 Composition Rules
+parent_heading: 5\. Box Calculus as a Full Operator Algebra
+block_type: table
+excerpt: ''
+concepts:
+- Adjacency
+- Polarity
+- IGSOA
+- ≠
+- non-commutative
+- Π-modes
+- Π
+aliases:
+- Bk488is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

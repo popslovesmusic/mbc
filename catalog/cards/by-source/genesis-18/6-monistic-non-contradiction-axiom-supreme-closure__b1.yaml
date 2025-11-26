@@ -1,18 +1,33 @@
+id: GEN18-5605
+location: genesis-18/sealed-axiom-box::the-monistic-consistency-axiom-box-supreme-closure::right-column-standard-physics-math-correspondence::6-monistic-non-contradiction-axiom-supreme-closure::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 113-136
+heading: '**6\. Monistic Non-Contradiction Axiom (Supreme Closure)**'
+parent_heading: '**Right Column — Standard Physics / Math Correspondence**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- No Box
-- Operator
-- Π
-- Φ
-- δ
 excerpt: '**IGSOA:** No Box, Axiom, Operator, or Projection may introduce a condition
   that breaks the identity: FIGSOA=Π∘Φ∘δ.\\mathcal{F}\_{\\text{IGSOA}} \= \\Pi \\circ
   \\Phi \\circ \\delta.FIGSOA​=Π∘Φ∘δ.'
-heading: '**6\. Monistic Non-Contradiction Axiom (Supreme Closure)**'
-id: GEN18-5605
-lines: 113-136
-location: genesis-18/sealed-axiom-box::the-monistic-consistency-axiom-box-supreme-closure::right-column-standard-physics-math-correspondence::6-monistic-non-contradiction-axiom-supreme-closure::b1
-parent_heading: '**Right Column — Standard Physics / Math Correspondence**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- IGSOA
+- Projection
+- Axiom
+- Operator
+- Box
+- Π
+- δ
+- Φ
+- by supreme closure
+- No Box
+aliases:
+- Bk257ib
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.494252873563218
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

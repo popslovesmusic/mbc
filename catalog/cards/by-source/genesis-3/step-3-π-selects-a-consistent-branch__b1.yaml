@@ -1,15 +1,35 @@
+id: GEN3-7539
+location: genesis-3/the-tri-unity-theorem::v-classical-spacetime-from-π::step-3-π-selects-a-consistent-branch::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 783-799
+heading: '**Step 3: π selects a consistent branch**'
+parent_heading: '**V. Classical Spacetime from π**'
 block_type: paragraph
+excerpt: 'π maps the fractal harmonic geometry into a **smooth manifold**: π∘Φ(G)=(M4,gμν)\\pi\\circ\\Phi(\\mathcal{G})
+  \= (\\mathcal{M}\_{4},g\_{\\mu\\nu})π∘Φ(G)=(M4​,gμν​) * 4-dimensional emergent spacetime'
 concepts:
-- Einstein-Hilbert
+- π
 - Φ
+- Einstein-Hilbert
 - δ
 - μ
 - ν
-excerpt: 'π maps the fractal harmonic geometry into a **smooth manifold**: π∘Φ(G)=(M4,gμν)\\pi\\circ\\Phi(\\mathcal{G})
-  \= (\\mathcal{M}\_{4},g\_{\\mu\\nu})π∘Φ(G)=(M4​,gμν​) * 4-dimensional emergent spacetime'
-heading: '**Step 3: π selects a consistent branch**'
-id: GEN3-7539
-lines: 783-799
-location: genesis-3/the-tri-unity-theorem::v-classical-spacetime-from-π::step-3-π-selects-a-consistent-branch::b1
-parent_heading: '**V. Classical Spacetime from π**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+- δ-adjacency
+- δ-curvature
+- Φ-modes
+- smooth manifold
+aliases:
+- Bk806mt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.129032258064516
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

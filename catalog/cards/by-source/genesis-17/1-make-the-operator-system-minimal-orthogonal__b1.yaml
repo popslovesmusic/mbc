@@ -1,16 +1,35 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Internal Transform
-- Π
-- Φ
-- δ
-- λ
-- ρ
-excerpt: 'Right now, Box Calculus has: * E (Expansion) * A (Aggregation)'
-heading: ⭐ 1\. Make the Operator System Minimal & Orthogonal
 id: GEN17-4592
-lines: 7048-7070
 location: genesis-17/box-calculus::1-make-the-operator-system-minimal-orthogonal::b1
 source: genesis-17\box_calculus.md
+lines: 7048-7070
+heading: ⭐ 1\. Make the Operator System Minimal & Orthogonal
+block_type: paragraph
+excerpt: 'Right now, Box Calculus has: * E (Expansion) * A (Aggregation)'
+concepts:
+- Box Calculus
+- Polarity
+- Transform
+- Router
+- Split
+- Box
+- δ-curvature
+- Π
+- δ
+- λ
+- Φ
+- ρ
+- Internal Transform
+aliases:
+- Bk155rn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 18.055555555555554
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

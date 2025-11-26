@@ -1,13 +1,35 @@
+id: GEN11-1072
+location: genesis-11/how-curvature-could-generate-an-axis::the-δecho-observation-axiom::axiom-oδ-4-amplitude-projection-at-infinity::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 1195-1215
+heading: '**Axiom Oδ-4 (Amplitude Projection at Infinity)**'
+parent_heading: '**The δ–Echo Observation Axiom**'
 block_type: paragraph
-concepts:
-- Tleak Tprop
-- δ
 excerpt: 'The amplitude of a δ-mode at the detector is given by An=Tleak Tprop A δn,A\_n
   \= \\mathcal{T}\_{\\rm leak}\\,\\mathcal{T}\_{\\rm prop}\\,\\mathcal{A}\\,\\delta\_n,An​=Tleak​Tprop​Aδn​,
   where:'
-heading: '**Axiom Oδ-4 (Amplitude Projection at Infinity)**'
-id: GEN11-1072
-lines: 1195-1215
-location: genesis-11/how-curvature-could-generate-an-axis::the-δecho-observation-axiom::axiom-oδ-4-amplitude-projection-at-infinity::b1
-parent_heading: '**The δ–Echo Observation Axiom**'
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+concepts:
+- δ
+- δn
+- δ-harmonic
+- δ-spectrum
+- observed echo amplitudes
+- power-law
+- δ-mode
+- →
+- Tleak Tprop
+aliases:
+- Bk127ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

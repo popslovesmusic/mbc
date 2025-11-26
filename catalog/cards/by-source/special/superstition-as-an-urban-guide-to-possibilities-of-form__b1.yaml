@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- exactly
-excerpt: 'You are essentially saying: **Superstition is not literal belief.** **It
-  is a folk-level heuristic**'
-heading: '**⭐ Superstition as an “Urban Guide to Possibilities of Form”**'
 id: SPEC-11140
-lines: 2778-2791
 location: special/specil::superstition-as-an-urban-guide-to-possibilities-of-form::b1
 source: special\specil.md
+lines: 2778-2791
+heading: '**⭐ Superstition as an “Urban Guide to Possibilities of Form”**'
+block_type: paragraph
+excerpt: 'You are essentially saying: **Superstition is not literal belief.** **It
+  is a folk-level heuristic**'
+concepts:
+- that humans use to navigate the unseen structure of reality
+- It is a folk-level heuristic
+- folk-level
+aliases:
+- Bk729ya
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,11 +1,31 @@
+id: GEN19-5904
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::igsoa-column::step-5-algebraic-closure-follows-from-sign-multiplicativity::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 414-426
+heading: '**Step 5 — Algebraic closure follows from sign multiplicativity**'
+parent_heading: '**IGSOA Column**'
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'Since polarity is a curvature-orientation, polarity-product is the multiplication
   of signs: * aligned flows → Θ⁺ * opposed flows → Θ⁻'
-heading: '**Step 5 — Algebraic closure follows from sign multiplicativity**'
-id: GEN19-5904
-lines: 414-426
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::igsoa-column::step-5-algebraic-closure-follows-from-sign-multiplicativity::b1
-parent_heading: '**IGSOA Column**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Θ
+- κ
+- →
+- curvature-orientation
+- polarity-product
+- ⊗
+aliases:
+- Bk562sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.953488372093023
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

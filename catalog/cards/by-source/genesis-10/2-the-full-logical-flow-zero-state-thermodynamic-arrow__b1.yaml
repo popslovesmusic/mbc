@@ -1,13 +1,35 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ψ
-- δ
-excerpt: 'We now give the **full derivation**, linking **every layer**: Ψ₀ → δ → adjacency
-  → δ²-curvature → Φ-expansion → Π-history → entropy. ---'
-heading: '**2\. The Full Logical Flow (Zero State → Thermodynamic Arrow)**'
 id: GEN10-806
-lines: 1002-1007
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-the-full-logical-flow-zero-state-thermodynamic-arrow::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1002-1007
+heading: '**2\. The Full Logical Flow (Zero State → Thermodynamic Arrow)**'
+block_type: paragraph
+excerpt: 'We now give the **full derivation**, linking **every layer**: Ψ₀ → δ → adjacency
+  → δ²-curvature → Φ-expansion → Π-history → entropy. ---'
+concepts:
+- →
+- δ
+- Φ-expansion
+- Π-history
+- Π
+- Ψ
+- Φ
+- full derivation
+- every layer
+- δ²
+- Ψ₀
+aliases:
+- Bk407ng
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 57.89473684210527
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

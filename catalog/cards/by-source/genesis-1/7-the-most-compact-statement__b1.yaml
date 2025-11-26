@@ -1,15 +1,32 @@
+id: GEN1-521
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::7-the-most-compact-statement::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 178-186
+heading: '**7\. The Most Compact Statement**'
 block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- The Meta
-- α
-- δ
 excerpt: '**The Meta-Einstein Equation is the equality between the δ-energy norm and
   the δ-curvature commutator.** δ†δ=α\[δ,δ\]\\boxed{ \\delta^\\dagger\\delta \= \\alpha\[\\delta,\\delta\]
   }δ†δ=α\[δ,δ\]​ Every...'
-heading: '**7\. The Most Compact Statement**'
-id: GEN1-521
-lines: 178-186
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::7-the-most-compact-statement::b1
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Meta-Einstein
+- α
+- δ-curvature
+- δ-energy
+- Einstein Equation
+- The Meta
+aliases:
+- Bk162tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.27906976744186
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

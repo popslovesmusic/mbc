@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- Domain Correspondence
-- Meta-Math
-excerpt: 'Genesis adjacency: A(X)\\mathcal{A}(X)A(X) maps to Meta-Math operator domains:'
-heading: '**6\. Adjacency Mapping (First Structure → Operator Domains)**'
 id: GEN7-8536
-lines: 1405-1419
 location: genesis-7/the-complete-eft-lagrangian::6-adjacency-mapping-first-structure-operator-domains::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1405-1419
+heading: '**6\. Adjacency Mapping (First Structure → Operator Domains)**'
+block_type: paragraph
+excerpt: 'Genesis adjacency: A(X)\\mathcal{A}(X)A(X) maps to Meta-Math operator domains:'
+concepts:
+- Meta-Math
+- Adjacency
+- This is the step where geometry is born
+- →
+- Domain Correspondence
+aliases:
+- Bk985ga
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.204081632653061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,29 @@
+id: GEN13-2049
+location: genesis-13/meta-math-nuclear-physics::6-next-step::3-derive-one-part-explicitly::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 623-627
+heading: '**(3) Derive one part explicitly**'
+parent_heading: '**6\. Next Step**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: (e.g., SU(3) from Φ³ automorphisms, δ-torsion → confinement, magic numbers,
   binding energy). Which direction should we go?
-heading: '**(3) Derive one part explicitly**'
-id: GEN13-2049
-lines: 623-627
-location: genesis-13/meta-math-nuclear-physics::6-next-step::3-derive-one-part-explicitly::b1
-parent_heading: '**6\. Next Step**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ-torsion
+- δ
+- Φ
+- →
+- Φ³
+aliases:
+- Bk939fa
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.31578947368421
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

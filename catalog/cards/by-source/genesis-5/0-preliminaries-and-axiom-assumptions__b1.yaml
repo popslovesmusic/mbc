@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We assume:'
-heading: '**0\. Preliminaries and Axiom Assumptions**'
 id: GEN5-7932
-lines: 8-10
 location: genesis-5/formal-proof-of-the-adjoint-triple::0-preliminaries-and-axiom-assumptions::b1
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 8-10
+heading: '**0\. Preliminaries and Axiom Assumptions**'
+block_type: paragraph
+excerpt: 'We assume:'
+aliases:
+- Bk627as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,29 @@
+id: INTK-9814
+location: intake/meta-genesis-core-papers-foundations::δ-why-the-first-action-exists::the-zero-state-ψ₀-not-nothing-but-no-thing::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 734-756
+heading: '**The Zero State (Ψ₀): Not Nothing, but No-Thing**'
+parent_heading: '**δ: Why the First Action Exists**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: Ψ₀ is the “place” before places— a perfectly calm, perfectly uniform, perfectly
   still **pre-condition.** * No space
-heading: '**The Zero State (Ψ₀): Not Nothing, but No-Thing**'
-id: INTK-9814
-lines: 734-756
-location: intake/meta-genesis-core-papers-foundations::δ-why-the-first-action-exists::the-zero-state-ψ₀-not-nothing-but-no-thing::b1
-parent_heading: '**δ: Why the First Action Exists**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- almost-nothing
+- pre-condition
+- Ψ₀
+- zero structure
+aliases:
+- Bk905tp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.620689655172415
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

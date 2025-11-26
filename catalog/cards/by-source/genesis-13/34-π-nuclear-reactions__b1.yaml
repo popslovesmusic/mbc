@@ -1,14 +1,33 @@
+id: GEN13-2016
+location: genesis-13/meta-math-nuclear-physics::31-π-projection-nuclear-force::34-π-nuclear-reactions::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 195-205
+heading: '**3.4 Π-Nuclear Reactions**'
+parent_heading: '**3.1 Π-Projection: Nuclear Force**'
 block_type: paragraph
-concepts:
-- Φ
-- α
-- β
-- δ
 excerpt: 'From Φ-operator transitions: * β-decay \= Φ-mode flip * α-decay \= δ-cluster
   tunneling'
-heading: '**3.4 Π-Nuclear Reactions**'
-id: GEN13-2016
-lines: 195-205
-location: genesis-13/meta-math-nuclear-physics::31-π-projection-nuclear-force::34-π-nuclear-reactions::b1
-parent_heading: '**3.1 Π-Projection: Nuclear Force**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- Φ-adjacency
+- Φ-operator
+- δ-cluster
+- β
+- δ
+- Φ-mode
+- α
+aliases:
+- Bk116fo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 36.36363636363637
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

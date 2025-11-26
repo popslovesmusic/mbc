@@ -1,10 +1,25 @@
+id: GEN17-4506
+location: genesis-17/box-calculus::3-explicit-translation-box-λ::34-eval-morphism-application::b1
+source: genesis-17\box_calculus.md
+lines: 5781-5786
+heading: 3.4 eval morphism → application
+parent_heading: ⭐ 3\. Explicit Translation Box → λ
 block_type: paragraph
+excerpt: 'If B \= eval(F, X): Λ(B)=Λ(F) Λ(X) Λ(B)=Λ(F)Λ(X)'
 concepts:
 - Λ
-excerpt: 'If B \= eval(F, X): Λ(B)=Λ(F) Λ(X) Λ(B)=Λ(F)Λ(X)'
-heading: 3.4 eval morphism → application
-id: GEN17-4506
-lines: 5781-5786
-location: genesis-17/box-calculus::3-explicit-translation-box-λ::34-eval-morphism-application::b1
-parent_heading: ⭐ 3\. Explicit Translation Box → λ
-source: genesis-17\box_calculus.md
+aliases:
+- Bk823ev
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

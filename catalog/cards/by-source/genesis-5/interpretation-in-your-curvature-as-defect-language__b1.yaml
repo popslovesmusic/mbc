@@ -1,15 +1,36 @@
+id: GEN5-8067
+location: genesis-5/formal-proof-of-the-adjoint-triple::interpretation-in-your-curvature-as-defect-language::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1944-1959
+heading: '**Interpretation in your curvature-as-defect language**'
 block_type: paragraph
+excerpt: 'Recall your Deviational Curvature definition for a projection FFF: KfF=δD(Ff)∘λX−λY∘F(δf).\\mathcal{K}^F\_f
+  \= \\delta\_D(Ff)\\circ \\lambda\_X \- \\lambda\_Y\\circ F(\\delta f).KfF​=δD​(Ff)∘λX​−λY​∘F...'
 concepts:
-- Deviational Curvature
-- new
 - Π
 - Φ
 - δ
+- Curvature
+- Deviation
 - λ
-excerpt: 'Recall your Deviational Curvature definition for a projection FFF: KfF=δD(Ff)∘λX−λY∘F(δf).\\mathcal{K}^F\_f
-  \= \\delta\_D(Ff)\\circ \\lambda\_X \- \\lambda\_Y\\circ F(\\delta f).KfF​=δD​(Ff)∘λX​−λY​∘F...'
-heading: '**Interpretation in your curvature-as-defect language**'
-id: GEN5-8067
-lines: 1944-1959
-location: genesis-5/formal-proof-of-the-adjoint-triple::interpretation-in-your-curvature-as-defect-language::b1
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+- Φ-alignment
+- Definition
+- Φ-aligned
+- Φ-compatibility
+- δ-connection
+- before and after projection
+- δ-transport
+- Deviational Curvature
+- δD
+aliases:
+- Bk670ry
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.592592592592592
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

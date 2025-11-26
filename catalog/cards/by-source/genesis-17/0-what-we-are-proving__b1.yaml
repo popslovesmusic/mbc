@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-excerpt: 'To show: 1. E is left adjoint to A 2. E⊣A'
-heading: ⭐ 0\. WHAT WE ARE PROVING
 id: GEN17-4419
-lines: 3846-3865
 location: genesis-17/box-calculus::0-what-we-are-proving::b1
 source: genesis-17\box_calculus.md
+lines: 3846-3865
+heading: ⭐ 0\. WHAT WE ARE PROVING
+block_type: paragraph
+excerpt: 'To show: 1. E is left adjoint to A 2. E⊣A'
+concepts:
+- IGSOA
+- Π
+- Φ
+aliases:
+- Bk093sl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.3478260869565215
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

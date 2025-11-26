@@ -1,11 +1,28 @@
+id: GEN18-5310
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::3-arrow-semantics-sealed::connector-csoi::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2282-2288
+heading: '**Connector → CSOI**'
+parent_heading: '**3\. Arrow Semantics (Sealed)**'
 block_type: list
+excerpt: '* Relations → global causal completion * CSOI \= Π(Box-category) ---'
 concepts:
 - Box
+- Box-category
 - Π
-excerpt: '* Relations → global causal completion * CSOI \= Π(Box-category) ---'
-heading: '**Connector → CSOI**'
-id: GEN18-5310
-lines: 2282-2288
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::3-arrow-semantics-sealed::connector-csoi::b1
-parent_heading: '**3\. Arrow Semantics (Sealed)**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+- →
+aliases:
+- Bk567rg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

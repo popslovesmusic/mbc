@@ -1,10 +1,23 @@
+id: GEN18-5725
+location: genesis-18/sealed-axiom-box::axiom-ir-15-π-resolution-axiom::standard-form::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1237-1242
+heading: '**Standard Form**'
+parent_heading: '**AXIOM IR-15 — Π-Resolution Axiom**'
 block_type: paragraph
-concepts: []
 excerpt: Evaluation cannot hide or create inconsistencies. Equivalent to a logical
   conservativity theorem. ---
-heading: '**Standard Form**'
-id: GEN18-5725
-lines: 1237-1242
-location: genesis-18/sealed-axiom-box::axiom-ir-15-π-resolution-axiom::standard-form::b1
-parent_heading: '**AXIOM IR-15 — Π-Resolution Axiom**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- Theorem
+aliases:
+- Bk564ec
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

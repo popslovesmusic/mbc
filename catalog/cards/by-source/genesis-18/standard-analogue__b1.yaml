@@ -1,12 +1,28 @@
+id: GEN18-5543
+location: genesis-18/mbc-4::1-polarity-and-θ-and::standard-analogue::b1
+source: genesis-18\MBC-4.md
+lines: 2070-2078
+heading: '**Standard analogue**'
+parent_heading: '**1\. Polarity AND (Θ-AND)**'
 block_type: paragraph
-concepts:
-- δ
-- μ
 excerpt: 'Fuzzy logic AND: min⁡(μ(A),μ(B))\\min(\\mu(A),\\mu(B))min(μ(A),μ(B)) But
   δ-geometry gives a **geometric reason** for the minimum.'
-heading: '**Standard analogue**'
-id: GEN18-5543
-lines: 2070-2078
-location: genesis-18/mbc-4::1-polarity-and-θ-and::standard-analogue::b1
-parent_heading: '**1\. Polarity AND (Θ-AND)**'
-source: genesis-18\MBC-4.md
+concepts:
+- δ-geometry
+- μ
+- δ
+- geometric reason
+aliases:
+- Bk218fl
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

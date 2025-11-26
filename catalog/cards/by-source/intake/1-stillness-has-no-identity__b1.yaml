@@ -1,13 +1,29 @@
+id: INTK-10074
+location: intake/meta-genesis-physical-interpretation-papers::why-the-universe-cannot-remain-still::1-stillness-has-no-identity::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 23-48
+heading: '**1\. Stillness Has No Identity**'
+parent_heading: '**Why the Universe Cannot Remain Still**'
 block_type: paragraph
-concepts:
-- defined
-- Ψ
 excerpt: In mathematics, physics, and ontology alike, for a state to “remain” something,
   it must first **be** something — it must possess at least one property that distinguishes
   it from “not that property”. B...
-heading: '**1\. Stillness Has No Identity**'
-id: INTK-10074
-lines: 23-48
-location: intake/meta-genesis-physical-interpretation-papers::why-the-universe-cannot-remain-still::1-stillness-has-no-identity::b1
-parent_heading: '**Why the Universe Cannot Remain Still**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- Ψ₀
+- self-identical
+- no distinguishing properties
+aliases:
+- Bk838mp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.301075268817205
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

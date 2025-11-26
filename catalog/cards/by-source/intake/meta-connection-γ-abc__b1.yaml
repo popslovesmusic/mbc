@@ -1,13 +1,28 @@
+id: INTK-10271
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::connection-to-deviation-calculus-and-operators::meta-connection-γ-abc::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 563-564
+heading: Meta-Connection (Γ_ABC)
+parent_heading: Connection to Deviation Calculus and Operators
 block_type: paragraph
+excerpt: The Meta-Connection dictates how the "direction" of deviation shifts during
+  the addition process, influencing the resulting Meta-Vector.
 concepts:
 - Meta-Connection
 - Meta-Vector
 - The Meta
-excerpt: The Meta-Connection dictates how the "direction" of deviation shifts during
-  the addition process, influencing the resulting Meta-Vector.
-heading: Meta-Connection (Γ_ABC)
-id: INTK-10271
-lines: 563-564
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::connection-to-deviation-calculus-and-operators::meta-connection-γ-abc::b1
-parent_heading: Connection to Deviation Calculus and Operators
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+aliases:
+- Bk244tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

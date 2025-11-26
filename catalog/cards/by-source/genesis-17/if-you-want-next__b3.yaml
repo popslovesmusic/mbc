@@ -1,17 +1,37 @@
-block_type: paragraph
-concepts:
-- Column Physics
-- Dual-Column
-- Genesis Layer
-- Layer
-- Meta-Genesis
-- Meta-Operator
-- Operator
-- Operator Table
-excerpt: 'I can provide: ✓ **MBC-4.0 Meta-Operator Table (canonical)** ✓ **MBC-4.0
-  Dual-Column Physics ↔ IGSOA Mapping**'
-heading: '**If you want next:**'
 id: GEN17-5128
-lines: 1929-1938
 location: genesis-17/mbc-schema-3::if-you-want-next::b3
 source: genesis-17\MBC_Schema_3.md
+lines: 1929-1938
+heading: '**If you want next:**'
+block_type: paragraph
+excerpt: 'I can provide: ✓ **MBC-4.0 Meta-Operator Table (canonical)** ✓ **MBC-4.0
+  Dual-Column Physics ↔ IGSOA Mapping**'
+concepts:
+- Meta-Genesis
+- MBC
+- IGSOA
+- Operator
+- Theorem
+- Layer
+- String-diagram
+- Meta-Operator
+- Dual-Column
+- ↔
+- Operator Table
+- Column Physics
+- Genesis Layer
+aliases:
+- Bk989cp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 35.13513513513514
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

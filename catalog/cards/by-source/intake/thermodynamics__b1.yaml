@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: Deviation → asymmetry → entropy gradients
-heading: '**Thermodynamics:**'
 id: INTK-10143
-lines: 849-851
 location: intake/meta-genesis-physical-interpretation-papers::9-deviation-as-the-source-of-physics::thermodynamics::b1
-parent_heading: '**9\. Deviation as the Source of Physics**'
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 849-851
+heading: '**Thermodynamics:**'
+parent_heading: '**9\. Deviation as the Source of Physics**'
+block_type: paragraph
+excerpt: Deviation → asymmetry → entropy gradients
+concepts:
+- Deviation
+- →
+aliases:
+- Bk745da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

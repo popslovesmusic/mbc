@@ -1,13 +1,31 @@
+id: GEN11-1001
+location: genesis-11/how-curvature-could-generate-an-axis::1-start-with-the-δ-mode-field-during-inflation::2-metric-projection-δ-φ-π::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 223-239
+heading: '**2\. Metric projection (δ → Φ → Π)**'
+parent_heading: '**1\. Start with the δ-mode field during inflation**'
 block_type: paragraph
-concepts:
-- Φ
-- β
-- δ
 excerpt: 'The δ-mode is not itself a metric perturbation; you project it: Φ(k)=Pδ→Φ δ(k)\\Phi(k)
   \= \\mathcal{P}\_{\\delta\\to\\Phi}\\,\\delta(k)Φ(k)=Pδ→Φ​δ(k) Your mapping gives:'
-heading: '**2\. Metric projection (δ → Φ → Π)**'
-id: GEN11-1001
-lines: 223-239
-location: genesis-11/how-curvature-could-generate-an-axis::1-start-with-the-δ-mode-field-during-inflation::2-metric-projection-δ-φ-π::b1
-parent_heading: '**1\. Start with the δ-mode field during inflation**'
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+concepts:
+- δ
+- Φ
+- IGSOA
+- →
+- ≈
+- β
+- δ-mode
+- long-wavelength
+- δ-modes
+aliases:
+- Bk880tm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.278350515463918
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

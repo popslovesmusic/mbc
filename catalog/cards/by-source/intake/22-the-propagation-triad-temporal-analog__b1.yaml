@@ -1,19 +1,35 @@
+id: INTK-10228
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-nine-fundamental-deviation-dimensions::22-the-propagation-triad-temporal-analog::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 189-195
+heading: '**2.2. The Propagation Triad (Temporal Analog)**'
+parent_heading: '**2. The Nine Fundamental Deviation Dimensions**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Resonance Flow
-- Scale Flow
-- Time Flow
-- δ
-- ρ
-- σ
-- τ
 excerpt: 'These three dimensions describe how deviation **propagates or flows** in
   an emergent "temporal" sense: 4.  **δ_τ (Meta-Time Flow):** Evolution along the
   Meta-Time axis (τ). 5.  **δ_σ (Scale Flow):** E...'
-heading: '**2.2. The Propagation Triad (Temporal Analog)**'
-id: INTK-10228
-lines: 189-195
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-nine-fundamental-deviation-dimensions::22-the-propagation-triad-temporal-analog::b1
-parent_heading: '**2. The Nine Fundamental Deviation Dimensions**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Time
+- δ
+- τ
+- σ
+- ρ
+- propagates or flows
+- Resonance Flow
+- Scale Flow
+- Time Flow
+aliases:
+- Bk885tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.565217391304348
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

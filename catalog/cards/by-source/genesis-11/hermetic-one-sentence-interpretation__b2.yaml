@@ -1,18 +1,42 @@
+id: GEN11-1310
+location: genesis-11/the-adjacency-wave-equation::hermetic-one-sentence-interpretation::b2
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 928-944
+heading: '**Hermetic One-Sentence Interpretation**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Natural Equivalence Theorem
-- Naturality Axiom Box
-- Theorem
-- Π
-- Φ
-- δ
 excerpt: '**The CMB is the unique composite functor from Genesis to Observables, and
   every anisotropy is a functorial shadow of a δ-harmonic mode.** --- If you want
   next:'
-heading: '**Hermetic One-Sentence Interpretation**'
-id: GEN11-1310
-lines: 928-944
-location: genesis-11/the-adjacency-wave-equation::hermetic-one-sentence-interpretation::b2
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- A functorial commutation diagram in string-diagram or TikZ style
+- A full CMB chapter unifying all sealed boxes so far
+- Theorem
+- Axiom
+- δ
+- δ-harmonic
+- A sealed CMB Naturality Axiom Box
+- Box
+- string-diagram
+- Natural Equivalence Theorem
+- Π
+- Φ
+- →
+- Naturality Axiom Box
+- Π-Φ-δ
+aliases:
+- Bk849tc
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.54794520547945
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

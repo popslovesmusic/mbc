@@ -1,22 +1,40 @@
+id: GEN10-966
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-iv-deriving-gravity-the-meta-einstein-equation::42-the-meta-einstein-equation::b1
+source: genesis-10\research_overview.md
+lines: 150-160
+heading: '**4.2 The Meta-Einstein Equation**'
+parent_heading: '**Part IV: Deriving Gravity — The Meta-Einstein Equation**'
 block_type: equation
-concepts:
-- Einstein Equation
-- Einstein Tensor
-- Field
-- Field Equations
-- In Meta
-- Meta-Einstein
-- Meta-Genesis
-- Stress-Energy
-- The Interpretation
-- The Meta
-- The Stress
 excerpt: 'The result of this variation is the **Meta-Einstein Equation**, the central
   dynamical law of the framework: $$\\text{Meta-}G\_{\\mu\\nu} \= T\_{\\delta}$$ This
   equation bears a striking resemblance to...'
-heading: '**4.2 The Meta-Einstein Equation**'
-id: GEN10-966
-lines: 150-160
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-iv-deriving-gravity-the-meta-einstein-equation::42-the-meta-einstein-equation::b1
-parent_heading: '**Part IV: Deriving Gravity — The Meta-Einstein Equation**'
-source: genesis-10\research_overview.md
+concepts:
+- Meta-Einstein
+- Meta-Genesis
+- Deviation
+- Meta-Einstein Equation
+- Field
+- non-commutativity
+- Stress-Energy
+- pre-geometric
+- Entropy of Information
+- The Interpretation
+- Einstein Equation
+- Einstein Tensor
+- Field Equations
+- The Stress
+- The Meta
+aliases:
+- Bk117tr
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

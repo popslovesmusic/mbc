@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: MBC updates → do not degrade unrelated knowledge
 id: GEN19-6080
-lines: 754-756
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::updates-are-local-and-structural-not-global::mbc-updates-do-not-degrade-unrelated-knowledge::b1
-parent_heading: Updates Are Local and Structural, Not Global
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 754-756
+heading: MBC updates → do not degrade unrelated knowledge
+parent_heading: Updates Are Local and Structural, Not Global
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

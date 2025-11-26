@@ -1,12 +1,27 @@
+id: GEN9-9202
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-χ-valence-electronegativity-law::theorem-χ-phase-chemical-law::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2673-2683
+heading: '**THEOREM (χ-Phase Chemical Law)**'
+parent_heading: '**The χ ↔ Valence ↔ Electronegativity Law**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: '**The valence and electronegativity of every element are determined entirely
   by its chromatic phase χ and its χ-gradient within a δ-harmonic shell.** Formally:
   (V, EN)  =  (F1(χ), F2(∂χ))\\boxed{ (V,\...'
-heading: '**THEOREM (χ-Phase Chemical Law)**'
-id: GEN9-9202
-lines: 2673-2683
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-χ-valence-electronegativity-law::theorem-χ-phase-chemical-law::b1
-parent_heading: '**The χ ↔ Valence ↔ Electronegativity Law**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- χ
+- ∂
+- δ-harmonic
+- δ
+aliases:
+- Bk468tv
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.4074074074074066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

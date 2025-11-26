@@ -1,11 +1,26 @@
+id: GEN19-5983
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-quantifiers-in-θ-logic::5-majority-quantifier-most::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1657-1661
+heading: '**5\. Majority Quantifier — “Most”**'
+parent_heading: '**I. QUANTIFIERS IN Θ-LOGIC**'
 block_type: paragraph
-concepts:
-- Θ
 excerpt: Θ(Most(P))=sign⁡(2S+−N)Θ(\\text{Most}(P)) \= \\operatorname{sign}(2S\_+ \-
   N)Θ(Most(P))=sign(2S+​−N) ---
-heading: '**5\. Majority Quantifier — “Most”**'
-id: GEN19-5983
-lines: 1657-1661
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-quantifiers-in-θ-logic::5-majority-quantifier-most::b1
-parent_heading: '**I. QUANTIFIERS IN Θ-LOGIC**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Θ
+aliases:
+- Bk373ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

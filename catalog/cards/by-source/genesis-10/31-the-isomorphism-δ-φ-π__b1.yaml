@@ -1,14 +1,29 @@
+id: GEN10-962
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-iii-the-tri-unity-theorem::31-the-isomorphism-δ-φ-π::b1
+source: genesis-10\research_overview.md
+lines: 117-128
+heading: '**3.1 The Isomorphism: δ ≅ Φ ≅ Π**'
+parent_heading: '**Part III: The Tri-Unity Theorem**'
 block_type: equation
-concepts:
-- Dynamical
-- Ontological
-- Phenomenological
 excerpt: 'The theorem states that three fundamental operators are ultimately different
   faces of the same underlying reality: 1. **$\\delta$ (Deviation):** The geometric
   aspect. It represents the "shape" or "ter...'
-heading: '**3.1 The Isomorphism: δ ≅ Φ ≅ Π**'
-id: GEN10-962
-lines: 117-128
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-iii-the-tri-unity-theorem::31-the-isomorphism-δ-φ-π::b1
-parent_heading: '**Part III: The Tri-Unity Theorem**'
-source: genesis-10\research_overview.md
+concepts:
+- Projection
+- Deviation
+- Theorem
+- lower-dimensional
+aliases:
+- Bk183tt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.1621621621621623
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,14 +1,36 @@
-block_type: paragraph
-concepts:
-- Meta-Genesis
-- Π
-- δ
-- μ
-- ν
-excerpt: 'Define the δ-covariant derivative: ∇δ:=d+δ.\\nabla\_\\delta := d \+ \\delta.∇δ​:=d+δ.
-  Then the **δ-Bianchi identity** is:'
-heading: '**6\. The δ-Bianchi Identity**'
 id: GEN8-8947
-lines: 611-634
 location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::6-the-δ-bianchi-identity::b1
 source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 611-634
+heading: '**6\. The δ-Bianchi Identity**'
+block_type: paragraph
+excerpt: 'Define the δ-covariant derivative: ∇δ:=d+δ.\\nabla\_\\delta := d \+ \\delta.∇δ​:=d+δ.
+  Then the **δ-Bianchi identity** is:'
+concepts:
+- δ
+- ∇
+- Meta-Genesis
+- μ
+- Meta-Genesis structural consequence
+- δ-Bianchi identity
+- deviation-sourced
+- ν
+- stress-energy
+- Π-projection
+- δ-covariant
+- δ-Bianchi
+- Π
+- δG
+- δT
+aliases:
+- Bk729dt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.045454545454543
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

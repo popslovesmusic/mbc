@@ -1,12 +1,32 @@
+id: GEN12-1874
+location: genesis-12/untitled-document::10-star-formation-as-local-δ-peaking::b1
+source: genesis-12\Untitled_document.md
+lines: 2295-2306
+heading: '**10\. Star Formation as Local δ-Peaking**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Let KiK\_iKi​ be a curvature kernel. Star formation begins where: ∇2Cδ(Ki)
   locally maximized.\\nabla^2 C\_\\delta(K\_i) \\text{ locally maximized}.∇2Cδ​(Ki​)
   locally maximized.'
-heading: '**10\. Star Formation as Local δ-Peaking**'
-id: GEN12-1874
-lines: 2295-2306
-location: genesis-12/untitled-document::10-star-formation-as-local-δ-peaking::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- Π
+- ∇
+- star-forming
+- Π-projection
+- δ-curvature
+- low-scale
+aliases:
+- Bk790lk
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

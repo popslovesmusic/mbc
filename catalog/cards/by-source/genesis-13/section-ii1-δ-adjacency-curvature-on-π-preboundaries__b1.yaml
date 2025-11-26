@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- intrinsically
-- Π
-- δ
-excerpt: Let ∂M\\partial M∂M denote a Π-preboundary manifold (membrane domain). We
-  define a δ-adjacency operator **intrinsically**, without biochemical metaphor. ---
-heading: '**SECTION II.1 — δ-Adjacency Curvature on Π-Preboundaries**'
 id: GEN13-2549
-lines: 1241-1246
 location: genesis-13/what-biology-is-in-meta-genesis::section-ii1-δ-adjacency-curvature-on-π-preboundaries::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1241-1246
+heading: '**SECTION II.1 — δ-Adjacency Curvature on Π-Preboundaries**'
+block_type: paragraph
+excerpt: Let ∂M\\partial M∂M denote a Π-preboundary manifold (membrane domain). We
+  define a δ-adjacency operator **intrinsically**, without biochemical metaphor. ---
+concepts:
+- ∂
+- Π-preboundary
+- δ-adjacency
+- Π
+- δ
+- intrinsically
+aliases:
+- Bk501lp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

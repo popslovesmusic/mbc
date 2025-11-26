@@ -1,14 +1,32 @@
+id: INTK-10206
+location: intake/meta-genesis-meta-math-integration-papers::7-ultra-compact-version-for-axioms-page::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 394-405
+heading: '**7\. Ultra-Compact Version (for axioms page)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Codomain Consistency
-- Ψ
-- δ
 excerpt: '**Axiom (Domain–Codomain Consistency).** For any operator O\\mathcal{O}O:
   Dom(O)={Ψ∣δ(Ψ)\>0, A(Ψ)≠∅, R(Ψ)\<∞},\\mathrm{Dom}(\\mathcal{O}) \= \\{\\Psi \\mid
   \\delta(\\Psi)\>0,\\ A(\\Psi)\\neq\\emptyset...'
-heading: '**7\. Ultra-Compact Version (for axioms page)**'
-id: INTK-10206
-lines: 394-405
-location: intake/meta-genesis-meta-math-integration-papers::7-ultra-compact-version-for-axioms-page::b1
-source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+concepts:
+- Ψ
+- δ
+- ∞
+- Axiom
+- ≠
+- Codomain Consistency
+aliases:
+- Am436ad
+tags:
+- axiom
+- domaincodomain-consistency
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.660377358490567
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

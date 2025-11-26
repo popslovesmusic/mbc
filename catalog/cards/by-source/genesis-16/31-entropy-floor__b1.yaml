@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'E can only apply if: ΔH\>ϵ.\\Delta H \> \\epsilon.ΔH\>ϵ.'
-heading: '**3.1 ENTROPY FLOOR**'
 id: GEN16-3819
-lines: 1066-1070
 location: genesis-16/untitled-document::3-formal-halting-law::31-entropy-floor::b1
-parent_heading: '**⭐ 3\. Formal Halting Law**'
 source: genesis-16\Untitled_document.md
+lines: 1066-1070
+heading: '**3.1 ENTROPY FLOOR**'
+parent_heading: '**⭐ 3\. Formal Halting Law**'
+block_type: paragraph
+excerpt: 'E can only apply if: ΔH\>ϵ.\\Delta H \> \\epsilon.ΔH\>ϵ.'
+concepts:
+- Δ
+aliases:
+- Bk143co
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

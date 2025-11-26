@@ -1,12 +1,30 @@
+id: GEN12-1745
+location: genesis-12/untitled-document::1-preliminaries::12-φ-as-the-dynamical-resonator::b1
+source: genesis-12\Untitled_document.md
+lines: 379-390
+heading: '**1.2 Φ as the Dynamical Resonator**'
+parent_heading: '**1\. Preliminaries**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Φ smooths, transports, and couples δ-harmonics. Its spectrum inherits: *
   δ-harmonic degeneracy classes,'
-heading: '**1.2 Φ as the Dynamical Resonator**'
-id: GEN12-1745
-lines: 379-390
-location: genesis-12/untitled-document::1-preliminaries::12-φ-as-the-dynamical-resonator::b1
-parent_heading: '**1\. Preliminaries**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- δ-harmonic
+- δ-harmonics
+- δ-curvature
+- Φ
+aliases:
+- Bk329st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.833333333333336
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

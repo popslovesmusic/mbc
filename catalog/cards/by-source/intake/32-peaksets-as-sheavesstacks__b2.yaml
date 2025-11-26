@@ -1,12 +1,29 @@
+id: INTK-10500
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::3-δ-objects-peaksets-and-derived-stacks::32-peaksets-as-sheavesstacks::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1844-1845
+heading: '**3.2. Peaksets as Sheaves/Stacks**'
+parent_heading: '**3. δ-Objects, Peaksets, and Derived Stacks**'
 block_type: paragraph
-concepts:
-- Scale-Stack
 excerpt: The collection of all peaksets, organized across scales and subject to deviation
   dynamics, forms a **derived stack** (or ∞-sheaf) over the Scale-Stack. This means
   that peaksets are intrinsically linke...
-heading: '**3.2. Peaksets as Sheaves/Stacks**'
-id: INTK-10500
-lines: 1844-1845
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::3-δ-objects-peaksets-and-derived-stacks::32-peaksets-as-sheavesstacks::b2
-parent_heading: '**3. δ-Objects, Peaksets, and Derived Stacks**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Scale-Stack
+- ∞
+- derived stack
+aliases:
+- Bk342tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

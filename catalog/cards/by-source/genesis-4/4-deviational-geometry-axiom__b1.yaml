@@ -1,16 +1,37 @@
+id: GEN4-7593
+location: genesis-4/meta-physics-axiom-box::meta-physics-axiom-box::4-deviational-geometry-axiom::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 87-107
+heading: '**4\. Deviational Geometry Axiom**'
+parent_heading: '**META-PHYSICS AXIOM BOX**'
 block_type: paragraph
+excerpt: There exists a δ-connection ∇δ\\nabla\_\\delta∇δ​ whose curvature
 concepts:
-- Einstein Condition
-- Energy Projection
-- Meta-Einstein
-- Riemann Projection
 - δ
+- Meta-Einstein
+- ∇
+- Projection
+- π
 - μ
 - ν
-excerpt: There exists a δ-connection ∇δ\\nabla\_\\delta∇δ​ whose curvature
-heading: '**4\. Deviational Geometry Axiom**'
-id: GEN4-7593
-lines: 87-107
-location: genesis-4/meta-physics-axiom-box::meta-physics-axiom-box::4-deviational-geometry-axiom::b1
-parent_heading: '**META-PHYSICS AXIOM BOX**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+- δ-connection
+- geometric generator
+- Einstein Condition
+- Riemann Projection
+- Energy Projection
+- δR
+aliases:
+- Bk627te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.444444444444443
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
+id: GEN17-4580
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::4-normalization-π-evaluation::b1
+source: genesis-17\box_calculus.md
+lines: 6827-6839
+heading: 4\. Normalization \= Π-Evaluation
+parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
 block_type: table
+excerpt: 'So: Π(Σ)  ≡  normal form of the proof/program Π(Σ)≡normal form of the proof/program'
 concepts:
 - Axiom
-- Realization Axiom
+- IGSOA
 - Π
+- Proof
 - Σ
+- cut-elimination
 - β
-excerpt: 'So: Π(Σ)  ≡  normal form of the proof/program Π(Σ)≡normal form of the proof/program'
-heading: 4\. Normalization \= Π-Evaluation
-id: GEN17-4580
-lines: 6827-6839
-location: genesis-17/box-calculus::curryhoward-for-box-calculus::4-normalization-π-evaluation::b1
-parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
-source: genesis-17\box_calculus.md
+- Realization Axiom
+aliases:
+- Bk154if
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.793103448275861
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

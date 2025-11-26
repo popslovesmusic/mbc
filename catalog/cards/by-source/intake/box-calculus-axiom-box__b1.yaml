@@ -1,25 +1,47 @@
+id: INTK-9717
+location: intake/box-calculus-technical-introduction-dual-column-cross-referenced::box-calculus-technical-introduction-dual-column-cross-referenced::9-sealed-axiom-box-for-box-calculus-igsoa-canonical-form::box-calculus-axiom-box::b1
+source: intake\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md
+lines: 142-164
+heading: '**Box Calculus Axiom Box**'
+parent_heading: '**9\. Sealed Axiom Box for Box Calculus (IGSOA Canonical Form)**'
 block_type: paragraph
-concepts:
-- Adjacency Axiom
-- Axiom
-- Box
-- Deviation Axiom
-- Evaluation Axiom
-- Every Box
-- Expansion Duality
-- Merge-Expansion
-- No Box
-- Operator
-- Operator Axiom
-- Polarity Principle
-- State Axiom
-- Π
-- Σ
 excerpt: '**Axiom 1 — State Axiom** Every Box contains a semantic state Σ and a boundary
   ∂Box. **Axiom 2 — Operator Axiom**'
-heading: '**Box Calculus Axiom Box**'
-id: INTK-9717
-lines: 142-164
-location: intake/box-calculus-technical-introduction-dual-column-cross-referenced::box-calculus-technical-introduction-dual-column-cross-referenced::9-sealed-axiom-box-for-box-calculus-igsoa-canonical-form::box-calculus-axiom-box::b1
-parent_heading: '**9\. Sealed Axiom Box for Box Calculus (IGSOA Canonical Form)**'
-source: intake\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md
+concepts:
+- Axiom
+- Π-evaluation
+- Box
+- Adjacency
+- Deviation
+- Polarity
+- Operator
+- State
+- Merge
+- Π
+- adjoint-derived
+- non-commutative
+- Merge-Expansion
+- meaning-making
+- non-collapse
+aliases:
+- Am042as
+tags:
+- -operator-axiom
+- -evaluation-axiom-π-mode
+- -deviation-axiom
+- -merge-expansion-duality
+- -state-axiom
+- -adjacency-axiom
+- axiom
+- -polarity-principle
+is_formal: true
+statement_type: axiom
+axiom_count: 7
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.778761061946902
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

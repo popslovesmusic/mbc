@@ -1,10 +1,23 @@
+id: GEN20-6615
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::the-federated-geometry-theorem-short-version::standard::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 695-698
+heading: Standard
+parent_heading: The Federated Geometry Theorem (short version)
 block_type: paragraph
-concepts: []
 excerpt: Distributed geometric systems can compute consistent global values without
   sharing or merging their local structures. ---
-heading: Standard
-id: GEN20-6615
-lines: 695-698
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::the-federated-geometry-theorem-short-version::standard::b1
-parent_heading: The Federated Geometry Theorem (short version)
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+aliases:
+- Bk701dg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

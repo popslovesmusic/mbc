@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: IGSOA vs standard physics side-by-side for each section.
-heading: '**(E) Build the dual-column version**'
 id: INTK-9736
-lines: 262-265
 location: intake/core-insight-is-a-projection-artifact::7-where-do-you-want-to-go-from-here::e-build-the-dual-column-version::b1
-parent_heading: '**7\. Where do you want to go from here?**'
 source: intake\Core_Insight___is_a_Projection_Artifact.md
+lines: 262-265
+heading: '**(E) Build the dual-column version**'
+parent_heading: '**7\. Where do you want to go from here?**'
+block_type: paragraph
+excerpt: IGSOA vs standard physics side-by-side for each section.
+concepts:
+- IGSOA
+- side-by-side
+aliases:
+- Bk111is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

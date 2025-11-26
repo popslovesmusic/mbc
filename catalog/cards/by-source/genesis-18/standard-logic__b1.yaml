@@ -1,10 +1,24 @@
+id: GEN18-5496
+location: genesis-18/mbc-4::5-mbc-40-implies-operator::standard-logic::b1
+source: genesis-18\MBC-4.md
+lines: 1571-1577
+heading: '**Standard Logic**'
+parent_heading: '**5\. MBC-4.0 IMPLIES Operator**'
 block_type: paragraph
-concepts: []
 excerpt: A⇒B=¬A∨BA\\Rightarrow B \= \\neg A \\lor BA⇒B=¬A∨B Implication \= conditional
   truth. ---
-heading: '**Standard Logic**'
-id: GEN18-5496
-lines: 1571-1577
-location: genesis-18/mbc-4::5-mbc-40-implies-operator::standard-logic::b1
-parent_heading: '**5\. MBC-4.0 IMPLIES Operator**'
-source: genesis-18\MBC-4.md
+concepts:
+- ∨
+- ¬
+aliases:
+- Bk782rn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

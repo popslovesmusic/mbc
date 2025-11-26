@@ -1,14 +1,31 @@
+id: GEN13-2135
+location: genesis-13/meta-math-nuclear-physics::4-φ-π-collective-structures-nuclear-matter::definition-43-nuclear-matter-phase::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1652-1660
+heading: '**Definition 4.3 — Nuclear Matter Phase**'
+parent_heading: '**4\. Φ → Π Collective Structures \= Nuclear Matter**'
 block_type: paragraph
-concepts:
-- Π
-- δ
-- ρ
 excerpt: A phase of nuclear matter is a stable solution of δF\[ρ\]δρ=0,\\frac{\\delta
   \\mathcal{F}\[\\rho\]}{\\delta \\rho}=0,δρδF\[ρ\]​=0, where F\\mathcal{F}F is the
   Π-projected free energy functional.
-heading: '**Definition 4.3 — Nuclear Matter Phase**'
-id: GEN13-2135
-lines: 1652-1660
-location: genesis-13/meta-math-nuclear-physics::4-φ-π-collective-structures-nuclear-matter::definition-43-nuclear-matter-phase::b1
-parent_heading: '**4\. Φ → Π Collective Structures \= Nuclear Matter**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- ρ
+- Π-projected
+- Π
+- δF
+aliases:
+- Bk338pn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.513513513513514
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

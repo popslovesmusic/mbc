@@ -1,15 +1,31 @@
+id: GEN17-4775
+location: genesis-17/box-calculus::the-sealed-axiom-box-for-the-monistic-box-calculus::all-previous-operators-derived-theorems-only::b1
+source: genesis-17\box_calculus.md
+lines: 9239-9244
+heading: (All previous operators → derived theorems only.)
+parent_heading: ⭐ THE SEALED AXIOM BOX FOR THE MONISTIC BOX CALCULUS
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- The Axiom Box
 excerpt: This is the “canonical core.” The Axiom Box is written in pure mathematical
   language, minimal, airtight, unambiguous. This becomes the single source of truth
   for Box Calculus.
-heading: (All previous operators → derived theorems only.)
-id: GEN17-4775
-lines: 9239-9244
-location: genesis-17/box-calculus::the-sealed-axiom-box-for-the-monistic-box-calculus::all-previous-operators-derived-theorems-only::b1
-parent_heading: ⭐ THE SEALED AXIOM BOX FOR THE MONISTIC BOX CALCULUS
-source: genesis-17\box_calculus.md
+concepts:
+- Box Calculus
+- Axiom
+- Box
+- The Axiom Box
+aliases:
+- Bk955tt
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 14.814814814814813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

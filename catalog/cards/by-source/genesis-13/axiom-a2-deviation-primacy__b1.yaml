@@ -1,12 +1,29 @@
+id: GEN13-2357
+location: genesis-13/the-weight-of-light::1-the-axioms::axiom-a2-deviation-primacy::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1419-1423
+heading: '**Axiom A2 — Deviation Primacy**'
+parent_heading: '**1\. The Axioms**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Deviation (δ) is the first asymmetry and the generator of all structure.
   δ:D→Pexists uniquely.\\delta : \\mathcal{D} \\to \\mathcal{P} \\quad\\text{exists
   uniquely.}δ:D→Pexists uniquely.'
-heading: '**Axiom A2 — Deviation Primacy**'
-id: GEN13-2357
-lines: 1419-1423
-location: genesis-13/the-weight-of-light::1-the-axioms::axiom-a2-deviation-primacy::b1
-parent_heading: '**1\. The Axioms**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Deviation
+- δ
+- →
+aliases:
+- Bk193dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

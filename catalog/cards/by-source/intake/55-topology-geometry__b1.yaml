@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Metrics arise as constraints between adjacencies.
-heading: '**5.5 Topology → Geometry**'
 id: INTK-10161
-lines: 1068-1070
 location: intake/meta-genesis-physical-interpretation-papers::5-how-a-single-asymmetry-becomes-a-universe::55-topology-geometry::b1
-parent_heading: '**5\. How a Single Asymmetry Becomes a Universe**'
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 1068-1070
+heading: '**5.5 Topology → Geometry**'
+parent_heading: '**5\. How a Single Asymmetry Becomes a Universe**'
+block_type: paragraph
+excerpt: Metrics arise as constraints between adjacencies.
+aliases:
+- Bk317ma
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

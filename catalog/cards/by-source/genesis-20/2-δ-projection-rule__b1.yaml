@@ -1,20 +1,40 @@
+id: GEN20-6633
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::ii-primitive-inference-rules-in-mbc-40::2-δ-projection-rule::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 857-865
+heading: 2\. δ-Projection Rule
+parent_heading: II. Primitive Inference Rules in MBC-4.0
 block_type: table
-concepts:
-- Aggregation Rule
-- Closure Rule
-- Evaluation Rule
-- Routing Rule
-- Θ
-- Π
-- Σ
-- Φ
-- δ
 excerpt: A ⊢ Φ(A) \\\] | A ⊢ interpretation(A) | \--- \#\# \*\*3. Θ-Routing Rule\*\*
   | \*\*IGSOA\*\* | \*\*Standard\*\* | |-----------|--------------| | If Θ(A) biases
   toward B, we derive \\\[ A ⊢ B \\\] | A ⇒...
-heading: 2\. δ-Projection Rule
-id: GEN20-6633
-lines: 857-865
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::ii-primitive-inference-rules-in-mbc-40::2-δ-projection-rule::b1
-parent_heading: II. Primitive Inference Rules in MBC-4.0
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- IGSOA
+- Σ
+- Merge
+- Π
+- Θ
+- Φ
+- δ-adjacency
+- Φ-project
+- Π-Closure
+- δ
+- Aggregation Rule
+- Evaluation Rule
+- Closure Rule
+- Routing Rule
+aliases:
+- Bk032is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.72151898734177
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,38 @@
-block_type: paragraph
-concepts:
-- condensation
-- Π
-- Φ
-- δ
-excerpt: 'In IGSOA Π modes represent **condensation**, stabilization, “lumpiness.”
-  A δ-mode with: * **negative curvature**'
-heading: '**5\. The Cold Spot as a Π-Condensation Scar**'
 id: GEN11-1101
-lines: 124-144
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::5-the-cold-spot-as-a-π-condensation-scar::b1
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 124-144
+heading: '**5\. The Cold Spot as a Π-Condensation Scar**'
+block_type: paragraph
+excerpt: 'In IGSOA Π modes represent **condensation**, stabilization, “lumpiness.”
+  A δ-mode with: * **negative curvature**'
+concepts:
+- IGSOA
+- pre-geometric damping basin
+- Π-stabilized damping
+- cooler-than-average
+- Π
+- locked Φ-phase
+- pre-geometric
+- Π-stabilized
+- Φ-phase
+- δ
+- δ-mode
+- Φ
+- negative curvature
+- condensation
+aliases:
+- Bk158im
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.434782608695656
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

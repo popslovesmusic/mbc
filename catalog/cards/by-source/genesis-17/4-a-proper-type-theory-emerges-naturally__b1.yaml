@@ -1,14 +1,36 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Type Theory
-- Π
-- δ
-excerpt: 'When everything comes from 𝓕: * types become eigenmodes * proofs become
-  flows'
-heading: ⭐ 4\. A Proper Type Theory Emerges Naturally
 id: GEN17-4719
-lines: 8395-8417
 location: genesis-17/box-calculus::4-a-proper-type-theory-emerges-naturally::b1
 source: genesis-17\box_calculus.md
+lines: 8395-8417
+heading: ⭐ 4\. A Proper Type Theory Emerges Naturally
+block_type: paragraph
+excerpt: 'When everything comes from 𝓕: * types become eigenmodes * proofs become
+  flows'
+concepts:
+- Box Calculus
+- IGSOA
+- programming-and-proof
+- Proof
+- Box
+- ground-state
+- δ-curvature
+- Π
+- δ
+- Δ
+- Type Theory
+aliases:
+- Bk607we
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.864864864864865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

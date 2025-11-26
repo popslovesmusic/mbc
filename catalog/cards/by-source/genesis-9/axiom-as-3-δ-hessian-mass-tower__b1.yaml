@@ -1,13 +1,33 @@
+id: GEN9-9364
+location: genesis-9/is-the-source-of-all-structure::igsoa-axiom-box::atomic-structure-emergence-axiom-δφπ-framework::axiom-as-3-δ-hessian-mass-tower::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 464-472
+heading: '**Axiom AS-3 (δ-Hessian Mass Tower).**'
+parent_heading: '**Atomic Structure Emergence Axiom (δ–Φ–Π Framework)**'
 block_type: paragraph
-concepts:
-- δ
-- δ-Hessian
 excerpt: 'Electron mass, charge, nuclear structure, and family hierarchy arise from
   the **δ-Hessian** of the δ-Higgs potential: mij=∂2V(δ)∂δi∂δj.m\_{ij} \= \\frac{\\partial^2
   V(\\delta)}{\\partial \\delta\_i \\...'
-heading: '**Axiom AS-3 (δ-Hessian Mass Tower).**'
-id: GEN9-9364
-lines: 464-472
-location: genesis-9/is-the-source-of-all-structure::igsoa-axiom-box::atomic-structure-emergence-axiom-δφπ-framework::axiom-as-3-δ-hessian-mass-tower::b1
-parent_heading: '**Atomic Structure Emergence Axiom (δ–Φ–Π Framework)**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- δ
+- ∂
+- δ-Hessian
+- δ-Higgs
+- particle properties
+- δj
+- δi
+aliases:
+- Bk184em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.20754716981132
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

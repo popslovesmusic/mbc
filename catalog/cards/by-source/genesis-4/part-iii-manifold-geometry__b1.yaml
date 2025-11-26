@@ -1,11 +1,28 @@
+id: GEN4-7847
+location: genesis-4/the-first-adjacency::4-proof::part-iii-manifold-geometry::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 645-662
+heading: '**Part III — Manifold ⇒ Geometry**'
+parent_heading: '**4\. Proof**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Given the δ-mode operator: δ(k):M×M→R+\\delta^{(k)} : M \\times M \\to \\mathbb{R}^+δ(k):M×M→R+
   which measures “degree of deviation” between states, define:'
-heading: '**Part III — Manifold ⇒ Geometry**'
-id: GEN4-7847
-lines: 645-662
-location: genesis-4/the-first-adjacency::4-proof::part-iii-manifold-geometry::b1
-parent_heading: '**4\. Proof**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- δ
+- →
+- δ-mode
+aliases:
+- Bk809gt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.296703296703297
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

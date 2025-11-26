@@ -1,11 +1,33 @@
+id: GEN7-8686
+location: genesis-7/why-curvature-gives-gravity::iii-the-effective-δ-atomic-hamiltonian::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 940-956
+heading: '**III. The Effective δ-Atomic Hamiltonian**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Projecting δ-harmonics into the atomic regime gives: Hatomδ=−ℏ22m∇2+Vδ(r)+δ-curvature
   corrections+δ-spin terms.H\_{\\text{atom}}^\\delta \= \-\\frac{\\hbar^2}{2m}\\nabla^2
   \+ V\_{\\delta}(r) \+ \\delt...'
-heading: '**III. The Effective δ-Atomic Hamiltonian**'
-id: GEN7-8686
-lines: 940-956
-location: genesis-7/why-curvature-gives-gravity::iii-the-effective-δ-atomic-hamiltonian::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- atomic Coulomb attraction is a δ-adjacency effect
+- δ-curvature
+- δ-spin
+- π
+- ∇
+- δ-harmonics
+- δ-adjacency
+aliases:
+- Bk376ph
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.2015503875969
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

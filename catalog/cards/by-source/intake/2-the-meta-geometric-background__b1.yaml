@@ -1,16 +1,37 @@
+id: INTK-10211
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-meta-geometric-background::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 27-35
+heading: '**2. The Meta-Geometric Background**'
 block_type: paragraph
-concepts:
-- Deviation-Connection
-- Meta-Curvature
-- Meta-Metric
-- Peakset Probability Geometry
-- Γ
-- δ
 excerpt: The underlying space is not a manifold, but the **Peakset Probability Geometry
   (PPG)**, a scale-layered, fractal structure where δ-modes interact. *   **Meta-Metric
   (G_AB):** This is a functional metr...
-heading: '**2. The Meta-Geometric Background**'
-id: INTK-10211
-lines: 27-35
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-meta-geometric-background::b1
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Curvature
+- Deviation
+- δ
+- deviation-connection
+- Deviation-Connection
+- non-integrability
+- Meta-Curvature
+- Peakset Probability Geometry
+- scale-layered
+- Meta-Metric
+- δ-paths
+- δ-modes
+- Γ
+aliases:
+- Bk282tu
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.606741573033707
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

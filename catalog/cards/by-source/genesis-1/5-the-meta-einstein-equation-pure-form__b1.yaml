@@ -1,12 +1,24 @@
+id: GEN1-519
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::5-the-meta-einstein-equation-pure-form::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 139-152
+heading: '**5\. The Meta-Einstein Equation (Pure Form)**'
 block_type: paragraph
-concepts:
-- α
-- δ
 excerpt: 'Tδ  =  α  Rδ\\boxed{ \\mathcal{T}\_{\\delta} \\;=\\; \\alpha\\; \\mathcal{R}\_{\\delta}
   }Tδ​=αRδ​​ or fully expanded: δ†δ  =  α  \[δ,δ\].\\boxed{ \\delta^\\dagger \\delta
   \\;=\\; \\alpha\\; \[\\delta,...'
-heading: '**5\. The Meta-Einstein Equation (Pure Form)**'
-id: GEN1-519
-lines: 139-152
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::5-the-meta-einstein-equation-pure-form::b1
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- α
+aliases:
+- Bk831bm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.9215686274509802
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

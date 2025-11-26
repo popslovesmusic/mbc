@@ -1,12 +1,35 @@
+id: GEN13-2069
+location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::theorem-24-φ-mass-tower-theorem::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 831-851
+heading: '**Theorem 2.4 (Φ-Mass Tower Theorem).**'
+parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
 block_type: paragraph
+excerpt: Define the δ-Hessian Hessδ(Φn)=DΦ2∣En.\\mathrm{Hess}\_\\delta(\\Phi\_n) \=
+  D\_\\Phi^2|\_{E\_n}.Hessδ​(Φn​)=DΦ2​∣En​​. Then the mass spectrum is
 concepts:
 - Φ
 - δ
-excerpt: Define the δ-Hessian Hessδ(Φn)=DΦ2∣En.\\mathrm{Hess}\_\\delta(\\Phi\_n) \=
-  D\_\\Phi^2|\_{E\_n}.Hessδ​(Φn​)=DΦ2​∣En​​. Then the mass spectrum is
-heading: '**Theorem 2.4 (Φ-Mass Tower Theorem).**'
-id: GEN13-2069
-lines: 831-851
-location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::theorem-24-φ-mass-tower-theorem::b1
-parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+- Φn
+- Φ-automorphism
+- non-invariance
+- δ-Hessian
+- Φ-doublet
+- Φ-modes
+- δ-pairs
+- Δ
+aliases:
+- Bk914dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

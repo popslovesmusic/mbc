@@ -1,11 +1,27 @@
+id: GEN8-8904
+location: genesis-8/meta-time-geometry-and-temporal-projection::::axiom-8-δ-fundamental-determinacy::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2450-2455
+heading: '**Axiom 8 — δ-Fundamental Determinacy**'
+parent_heading: '**────────────────────────────────────────────**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'No bosonic masses are free parameters: all δ-boson masses follow uniquely
   from δ-torsion, δ-harmonics, and the δ-Hessian. ---'
-heading: '**Axiom 8 — δ-Fundamental Determinacy**'
-id: GEN8-8904
-lines: 2450-2455
-location: genesis-8/meta-time-geometry-and-temporal-projection::::axiom-8-δ-fundamental-determinacy::b1
-parent_heading: '**────────────────────────────────────────────**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- δ
+- δ-harmonics
+- δ-Hessian
+- δ-torsion
+- δ-boson
+aliases:
+- Bk131bm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 23.809523809523807
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

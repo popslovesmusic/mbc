@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Networks resolve semantic tension by competitive gating.
-heading: 3\. Competition Mode
 id: GEN20-7212
-lines: 7411-7413
 location: genesis-20/mbc-40-documentaitio-1::b35-router-network-modes::3-competition-mode::b1
-parent_heading: B3.5 Router Network Modes
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7411-7413
+heading: 3\. Competition Mode
+parent_heading: B3.5 Router Network Modes
+block_type: paragraph
+excerpt: Networks resolve semantic tension by competitive gating.
+aliases:
+- Bk055nr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

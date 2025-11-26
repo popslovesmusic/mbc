@@ -1,13 +1,30 @@
+id: GEN3-7536
+location: genesis-3/the-tri-unity-theorem::iv-the-π-emergence-equation::e3-decoherent-realizability::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 755-771
+heading: '**(E3) Decoherent realizability**'
+parent_heading: '**IV. The π-Emergence Equation**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'π(Φ(δX)) is unique.\\pi\\bigl(\\Phi(\\delta X)\\bigr) \\ \\text{is unique}.π(Φ(δX))
   is unique. Together these three conditions define what we observe as: * definite
   positions'
-heading: '**(E3) Decoherent realizability**'
-id: GEN3-7536
-lines: 755-771
-location: genesis-3/the-tri-unity-theorem::iv-the-π-emergence-equation::e3-decoherent-realizability::b1
-parent_heading: '**IV. The π-Emergence Equation**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- π
+- δ
+- Φ
+- δX
+aliases:
+- Bk424ub
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

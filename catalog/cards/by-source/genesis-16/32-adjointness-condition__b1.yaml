@@ -1,13 +1,28 @@
+id: GEN16-4018
+location: genesis-16/untitled-document::3-second-adjoint-pair-φπphi-dashv-piφπ::32-adjointness-condition::b1
+source: genesis-16\Untitled_document.md
+lines: 3563-3569
+heading: '**3.2 Adjointness condition**'
+parent_heading: '**⭐ 3\. SECOND ADJOINT PAIR: Φ⊣Π\\Phi \\dashv \\PiΦ⊣Π**'
 block_type: paragraph
-concepts:
-- Π
-- Σ
-- Φ
 excerpt: 'We must show: Hom(ΦΣ1,Σ2)  ≅  Hom(Σ1,ΠΣ2)Hom(\\Phi\\Sigma\_1, \\Sigma\_2)
   \\;\\cong\\; Hom(\\Sigma\_1, \\Pi\\Sigma\_2)Hom(ΦΣ1​,Σ2​)≅Hom(Σ1​,ΠΣ2​) ---'
-heading: '**3.2 Adjointness condition**'
-id: GEN16-4018
-lines: 3563-3569
-location: genesis-16/untitled-document::3-second-adjoint-pair-φπphi-dashv-piφπ::32-adjointness-condition::b1
-parent_heading: '**⭐ 3\. SECOND ADJOINT PAIR: Φ⊣Π\\Phi \\dashv \\PiΦ⊣Π**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- Π
+- Φ
+aliases:
+- Bk567ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

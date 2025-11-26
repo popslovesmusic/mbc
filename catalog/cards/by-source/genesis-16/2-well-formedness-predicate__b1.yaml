@@ -1,11 +1,29 @@
+id: GEN16-3833
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::2-well-formedness-predicate::b1
+source: genesis-16\Untitled_document.md
+lines: 1240-1250
+heading: '**2\. Well-Formedness Predicate**'
+parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
 block_type: table
-concepts: []
 excerpt: WF(G)  ⟺  TypeWF(G)∧OpWF(G)∧CycleWF(G)\\boxed{ \\mathrm{WF}(\\mathcal{G})
   \\iff \\mathrm{TypeWF}(\\mathcal{G}) \\wedge \\mathrm{OpWF}(\\mathcal{G}) \\wedge
   \\mathrm{CycleWF}(\\mathcal{G}) }WF(G)⟺TypeW...
-heading: '**2\. Well-Formedness Predicate**'
-id: GEN16-3833
-lines: 1240-1250
-location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::2-well-formedness-predicate::b1
-parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- IGSOA
+- ∧
+- operator-sequence
+aliases:
+- Bk806is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.411764705882353
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,30 @@
+id: GEN2-6508
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::5-projection-of-δ-curvature-to-riemann-curvature::key-theorem::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 475-483
+heading: '**Key theorem:**'
+parent_heading: '**5\. Projection of δ-Curvature to Riemann Curvature**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: Π(Rδ) is exactly the Riemann curvature tensor derived from the δ-induced
   metric\\boxed{ \\Pi(\\mathcal{R}\_\\delta)\\ \\text{is exactly the Riemann curvature
   tensor derived from the δ-induced metric} ...
-heading: '**Key theorem:**'
-id: GEN2-6508
-lines: 475-483
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::5-projection-of-δ-curvature-to-riemann-curvature::key-theorem::b1
-parent_heading: '**5\. Projection of δ-Curvature to Riemann Curvature**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- δ
+- δ-induced
+- Π
+- δ-curvature
+aliases:
+- Bk138et
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.349206349206349
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

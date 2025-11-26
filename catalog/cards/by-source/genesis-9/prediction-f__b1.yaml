@@ -1,10 +1,26 @@
+id: GEN9-9216
+location: genesis-9/does-meta-genesis-indicate-new-physics::6-meta-genesis-gives-a-non-anthropic-origin-of-physical-laws::prediction-f::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 165-181
+heading: '**Prediction F:**'
+parent_heading: '**6\. Meta-Genesis Gives a Non-Anthropic Origin of Physical Laws**'
 block_type: paragraph
-concepts: []
 excerpt: 'The universe’s laws must reflect **minimal deviation consistent with stable
   structure**, which constrains: * particle masses * coupling hierarchies'
-heading: '**Prediction F:**'
-id: GEN9-9216
-lines: 165-181
-location: genesis-9/does-meta-genesis-indicate-new-physics::6-meta-genesis-gives-a-non-anthropic-origin-of-physical-laws::prediction-f::b1
-parent_heading: '**6\. Meta-Genesis Gives a Non-Anthropic Origin of Physical Laws**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- minimal deviation consistent with stable structure
+aliases:
+- Bk729tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.225806451612903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

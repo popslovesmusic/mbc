@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Because that’s exactly what they were — **counting systems before numerals
-  existed.** Let me explain it clearly and accurately.
-heading: '**⭐ Those early tablets *do* look like a child’s counting rhyme.**'
 id: SPEC-11192
-lines: 4013-4020
 location: special/specil::those-early-tablets-do-look-like-a-childs-counting-rhyme::b1
 source: special\specil.md
+lines: 4013-4020
+heading: '**⭐ Those early tablets *do* look like a child’s counting rhyme.**'
+block_type: paragraph
+excerpt: Because that’s exactly what they were — **counting systems before numerals
+  existed.** Let me explain it clearly and accurately.
+aliases:
+- Bk090bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

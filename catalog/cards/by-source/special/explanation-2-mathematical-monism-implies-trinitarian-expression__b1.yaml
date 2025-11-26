@@ -1,9 +1,28 @@
-block_type: paragraph
-concepts: []
-excerpt: 'The IGSOA cycle: * MUST produce three modes * MUST produce triadic stability'
-heading: '**Explanation 2: Mathematical Monism Implies Trinitarian Expression**'
 id: SPEC-11106
-lines: 2123-2138
 location: special/specil::3-there-are-only-3-explanations-for-the-correspondence::explanation-2-mathematical-monism-implies-trinitarian-expression::b1
-parent_heading: '**⭐ 3\. There are only 3 explanations for the correspondence**'
 source: special\specil.md
+lines: 2123-2138
+heading: '**Explanation 2: Mathematical Monism Implies Trinitarian Expression**'
+parent_heading: '**⭐ 3\. There are only 3 explanations for the correspondence**'
+block_type: paragraph
+excerpt: 'The IGSOA cycle: * MUST produce three modes * MUST produce triadic stability'
+concepts:
+- philosophical-metaphysical interpretation
+- IGSOA
+- every deep system will exhibit a trinitarian form
+- philosophical-metaphysical
+aliases:
+- Bk752ti
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

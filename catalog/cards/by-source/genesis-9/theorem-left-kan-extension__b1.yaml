@@ -1,13 +1,30 @@
+id: GEN9-9098
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::6-the-orbital-emergence-theorem-categorical-form::theorem-left-kan-extension::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1110-1122
+heading: '**Theorem (Left Kan Extension)**'
+parent_heading: '**6\. The Orbital Emergence Theorem (Categorical Form)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Π is the **left Kan extension** of δ along Φ: Π  ≅  LanΦ(δ).\\Pi \\;\\cong\\;
   \\mathrm{Lan}\_\\Phi(\\delta).Π≅LanΦ​(δ). Meaning:'
-heading: '**Theorem (Left Kan Extension)**'
-id: GEN9-9098
-lines: 1110-1122
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::6-the-orbital-emergence-theorem-categorical-form::theorem-left-kan-extension::b1
-parent_heading: '**6\. The Orbital Emergence Theorem (Categorical Form)**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- Π
+- Φ
+- universal orbital realization
+- left Kan extension
+aliases:
+- Bk895tl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.627906976744185
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

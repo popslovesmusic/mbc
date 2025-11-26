@@ -1,14 +1,35 @@
-block_type: table
-concepts:
-- Mathematical Polarity
-- Σ
-- α
-- β
-- δ
-excerpt: 'Same meaning: Meaning combinations produce new vectors with order-dependent
-  curvature. ---'
-heading: AXIOM II — THE MIXING AXIOM (Synthesis / Algebra of Combination)
 id: GEN17-4304
-lines: 2296-2305
 location: genesis-17/box-calculus::axiom-ii-the-mixing-axiom-synthesis-algebra-of-combination::b1
 source: genesis-17\box_calculus.md
+lines: 2296-2305
+heading: AXIOM II — THE MIXING AXIOM (Synthesis / Algebra of Combination)
+block_type: table
+excerpt: 'Same meaning: Meaning combinations produce new vectors with order-dependent
+  curvature. ---'
+concepts:
+- Σ
+- δ
+- Polarity
+- IGSOA
+- ≠
+- β
+- α
+- Non-commutative
+- order-dependent
+- δ-curvature
+- Mathematical Polarity
+aliases:
+- Bk540ip
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.166666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

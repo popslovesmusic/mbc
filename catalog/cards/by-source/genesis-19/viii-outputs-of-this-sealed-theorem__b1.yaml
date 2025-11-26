@@ -1,24 +1,36 @@
-block_type: paragraph
-concepts:
-- Collapse Stability Theorem
-- Compositional Reasoning Theorem
-- Operator
-- Reasoning Diagram Stack
-- Reasoning Operator
-- Semantic-Compositional
-- Tensor-Reasoning
-- The Full
-- The Polarity Tensor
-- The Semantic
-- Theorem
-- Θ
-- Π
-- Φ
-- δ
-excerpt: 'This theorem establishes: * Polarity is the fundamental semantic invariant.
-  * Reasoning \= polarity transport.'
-heading: '**VIII. Outputs of This Sealed Theorem**'
 id: GEN19-5950
-lines: 990-1015
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::viii-outputs-of-this-sealed-theorem::b1
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 990-1015
+heading: '**VIII. Outputs of This Sealed Theorem**'
+block_type: paragraph
+excerpt: 'This theorem establishes: * Polarity is the fundamental semantic invariant.
+  * Reasoning \= polarity transport.'
+concepts:
+- Π-evaluation
+- Polarity
+- sign propagation through δ-curvature transformations
+- The Semantic-Compositional Reasoning Theorem
+- Theorem
+- The Polarity Tensor-Reasoning Operator
+- Π
+- →
+- The Π-Collapse Stability Theorem
+- δ
+- Operator
+- Semantic-Compositional
+- Compositional Reasoning Theorem
+- Tensor-Reasoning
+- Φ
+aliases:
+- Bk963tt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.586206896551722
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

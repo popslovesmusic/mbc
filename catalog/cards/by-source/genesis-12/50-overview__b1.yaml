@@ -1,16 +1,35 @@
+id: GEN12-1648
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::50-overview::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1800-1826
+heading: '**5.0 Overview**'
+parent_heading: '**5\. Functoriality**'
 block_type: paragraph
-concepts:
-- Cosmic Pipeline
-- functorial
-- Π
-- Φ
-- δ
 excerpt: 'Sections 1–4 established the pipeline: NOT  ⇒  δ  ⇒  Φ  ⇒  Π  ⇒  Observables.\\text{NOT}
   \\;\\Rightarrow\\; \\delta \\;\\Rightarrow\\; \\Phi \\;\\Rightarrow\\; \\Pi \\;\\Rightarrow\\;
   \\text{Observabl...'
-heading: '**5.0 Overview**'
-id: GEN12-1648
-lines: 1800-1826
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::50-overview::b1
-parent_heading: '**5\. Functoriality**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- δ
+- Φ
+- →
+- functorial
+- coherent cosmological machine
+- genesis-level
+- late-universe
+- sky-level
+- Cosmic Pipeline
+aliases:
+- Bk022se
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.433962264150944
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,31 @@
+id: INTK-9779
+location: intake/meta-genesis-core-papers-foundations::4-why-ψ₀-must-break-the-first-movement::zs-8-emergence-of-the-first-operator::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 375-381
+heading: '**(ZS-8) Emergence of the First Operator**'
+parent_heading: '**4\. Why Ψ₀ Must Break (The First Movement)**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: Ψ0→instabilityΨ1\\Psi\_0 \\xrightarrow{\\text{instability}} \\Psi\_1Ψ0​instability​Ψ1​
   where Ψ₁ is the **first instantiated state** with definable deviation, adjacency,
   and proto-time. ---
-heading: '**(ZS-8) Emergence of the First Operator**'
-id: INTK-9779
-lines: 375-381
-location: intake/meta-genesis-core-papers-foundations::4-why-ψ₀-must-break-the-first-movement::zs-8-emergence-of-the-first-operator::b1
-parent_heading: '**4\. Why Ψ₀ Must Break (The First Movement)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- proto-time
+- first instantiated state
+- →
+- Ψ₁
+aliases:
+- Bk773px
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,32 @@
+id: GEN1-547
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::8-summary-of-the-axioms::geometry-from-deviation::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 621-627
+heading: '**Geometry from Deviation**'
+parent_heading: '**8\. Summary of the Axioms**'
 block_type: list
-concepts:
-- δ
 excerpt: '* A2.1 Geometry \= closure(δ) * A2.2 Non-integrability: \[δ,δ\]≠0\[\\delta,\\delta\]\\neq0\[δ,δ\]=0
   * A2.3 δ-energy norm'
-heading: '**Geometry from Deviation**'
-id: GEN1-547
-lines: 621-627
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::8-summary-of-the-axioms::geometry-from-deviation::b1
-parent_heading: '**8\. Summary of the Axioms**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Non-integrability
+- δ-energy
+- ≠
+aliases:
+- Bk002a
+tags:
+- A2
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A2

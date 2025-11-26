@@ -1,16 +1,35 @@
-block_type: paragraph
-concepts:
-- In Deviational Geometry
-- Meta-Curvature
-- Meta-Ricci
-- exactly
-- α
-- β
-- δ
-- δ-connection
-excerpt: 'Deviational geometry defines: 1. The **δ-connection** ∇a(δ)\\nabla^{(\\delta)}\_a∇a(δ)​'
-heading: '**0\. Context**'
 id: GEN0-079
-lines: 1163-1188
 location: genesis-0/feynman-rules-interaction-vertices::0-context::b1
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1163-1188
+heading: '**0\. Context**'
+block_type: paragraph
+excerpt: 'Deviational geometry defines: 1. The **δ-connection** ∇a(δ)\\nabla^{(\\delta)}\_a∇a(δ)​'
+concepts:
+- δ
+- ∇
+- Deviational Geometry
+- Deviation
+- Curvature
+- ∑
+- Theorem
+- Meta-Curvature tensor
+- Meta-Ricci tensor
+- α
+- β
+- pure δ-curvature
+- π
+- Meta-Curvature
+- δ-connection
+aliases:
+- Bk066dg
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.986013986013987
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

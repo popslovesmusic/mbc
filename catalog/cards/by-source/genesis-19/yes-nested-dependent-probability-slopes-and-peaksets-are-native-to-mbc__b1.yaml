@@ -1,16 +1,35 @@
+id: GEN19-6123
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::final-answer::yes-nested-dependent-probability-slopes-and-peaksets-are-native-to-mbc::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1226-1240
+heading: YES — nested dependent probability slopes and peaksets are native to MBC.
+parent_heading: ⭐ FINAL ANSWER
 block_type: table
-concepts:
-- Your Term
-- Θ
-- Π
-- Σ
-- Φ
-- δ
 excerpt: 'They correspond to: This is not an add-on. This is the real geometry underlying
   MBC.'
-heading: YES — nested dependent probability slopes and peaksets are native to MBC.
-id: GEN19-6123
-lines: 1226-1240
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::final-answer::yes-nested-dependent-probability-slopes-and-peaksets-are-native-to-mbc::b1
-parent_heading: ⭐ FINAL ANSWER
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- MBC
+- Router
+- Router-to-router
+- Π
+- Σ
+- →
+- Multi-scale
+- Π-evaluated
+- δ
+- add-on
+- Θ
+- Φ
+- Your Term
+aliases:
+- Bk983tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 23.636363636363637
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

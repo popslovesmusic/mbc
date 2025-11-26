@@ -1,12 +1,38 @@
+id: GEN13-2573
+location: genesis-13/what-biology-is-in-meta-genesis::section-iii3-π-stable-endomorphisms-and-bioenergetic-boundaries::theorem-iii32-finite-π-hierarchy-for-bounded-δ-geometry::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1621-1639
+heading: '**Theorem III.3.2 (Finite Π-Hierarchy for Bounded δ-Geometry).**'
+parent_heading: '**SECTION III.3 — Π-Stable Endomorphisms and Bioenergetic Boundaries**'
 block_type: paragraph
+excerpt: 'If δ-curvature satisfies: ∥Δδ∥\<∞\\|\\Delta\_\\delta\\| \< \\infty∥Δδ​∥\<∞
+  then Π-hierarchy stabilizes:'
 concepts:
 - Π
 - δ
-excerpt: 'If δ-curvature satisfies: ∥Δδ∥\<∞\\|\\Delta\_\\delta\\| \< \\infty∥Δδ​∥\<∞
-  then Π-hierarchy stabilizes:'
-heading: '**Theorem III.3.2 (Finite Π-Hierarchy for Bounded δ-Geometry).**'
-id: GEN13-2573
-lines: 1621-1639
-location: genesis-13/what-biology-is-in-meta-genesis::section-iii3-π-stable-endomorphisms-and-bioenergetic-boundaries::theorem-iii32-finite-π-hierarchy-for-bounded-δ-geometry::b1
-parent_heading: '**SECTION III.3 — Π-Stable Endomorphisms and Bioenergetic Boundaries**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+- Proof
+- finite-dimensional
+- ∀
+- Δ
+- ∃
+- ∞
+- Π-compactness
+- δ-curvature
+- Π-hierarchy
+- δ-packets
+aliases:
+- Bk351cs
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

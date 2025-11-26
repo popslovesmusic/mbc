@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: (The continuous-time law of IGSOA)
 id: GEN17-4835
-lines: 10095-10097
 location: genesis-17/box-calculus::the-meta-genesis-differential-equation-mgde::the-continuous-time-law-of-igsoa::b1
-parent_heading: ⭐ THE META-GENESIS DIFFERENTIAL EQUATION (MGDE)
 source: genesis-17\box_calculus.md
+lines: 10095-10097
+heading: (The continuous-time law of IGSOA)
+parent_heading: ⭐ THE META-GENESIS DIFFERENTIAL EQUATION (MGDE)
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

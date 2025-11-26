@@ -1,12 +1,29 @@
+id: GEN9-9547
+location: genesis-9/strong-force::deep-igsoa-explanation::b1
+source: genesis-9\strong-force.md
+lines: 1902-1910
+heading: '**Deep IGSOA Explanation**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'To understand EMF in your system, we need the chain: δ⇒torsion⇒θ-doublet⇒SU(2)⇒Φ-projection⇒U(1)⇒electromotive
   force.\\delta \\Rightarrow \\text{torsion} \\Rightarrow \\theta\\text{-doublet}
   \\Rightar...'
-heading: '**Deep IGSOA Explanation**'
-id: GEN9-9547
-lines: 1902-1910
-location: genesis-9/strong-force::deep-igsoa-explanation::b1
-source: genesis-9\strong-force.md
+concepts:
+- Φ-projection
+- θ
+- δ
+- Φ
+aliases:
+- Bk683ue
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

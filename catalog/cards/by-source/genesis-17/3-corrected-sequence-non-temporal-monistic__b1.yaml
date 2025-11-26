@@ -1,18 +1,32 @@
+id: GEN17-4890
+location: genesis-17/key-points::3-corrected-sequence-non-temporal-monistic::b1
+source: genesis-17\Key_Points.md
+lines: 241-259
+heading: '**⭐ 3\. Corrected sequence (non-temporal, monistic)**'
 block_type: paragraph
-concepts:
-- IGSOA
-- distinguishable
-- structural
-- Π
-- Π-action
-- Φ
-- Φ-structure
-- δ
 excerpt: 'Not chronological — **structural**: 1. **IGSOA**: the monistic, all-at-once
   process, timeless. 2. Within IGSOA, **deviation (δ)** is the first *distinguishable*
   structural feature.'
-heading: '**⭐ 3\. Corrected sequence (non-temporal, monistic)**'
-id: GEN17-4890
-lines: 241-259
-location: genesis-17/key-points::3-corrected-sequence-non-temporal-monistic::b1
-source: genesis-17\Key_Points.md
+concepts:
+- IGSOA
+- δ
+- Φ
+- Π
+- →
+- emergent distinguishability
+- all-at-once
+- Φ-structure
+- Π-action
+- structural
+aliases:
+- Bk225nc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.24137931034483
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

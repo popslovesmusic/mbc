@@ -1,13 +1,34 @@
+id: GEN17-4902
+location: genesis-17/key-points::3-π-action-curvature-unfurling-like-a-leaf::curvature-does-not-explode-outward::b1
+source: genesis-17\Key_Points.md
+lines: 413-440
+heading: '**Curvature does not “explode outward.”**'
+parent_heading: '**⭐ 3\. Π-action \= curvature unfurling like a leaf**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'It **propagates pattern** outward through relational dependency. You get:
   * **δ → Φ** gives you a peakset (high curvature)'
-heading: '**Curvature does not “explode outward.”**'
-id: GEN17-4902
-lines: 413-440
-location: genesis-17/key-points::3-π-action-curvature-unfurling-like-a-leaf::curvature-does-not-explode-outward::b1
-parent_heading: '**⭐ 3\. Π-action \= curvature unfurling like a leaf**'
-source: genesis-17\Key_Points.md
+concepts:
+- pattern-extended curvature influence
+- self-similar extension of structure
+- pattern-extended
+- Φ
+- →
+- self-similar
+- Π
+- δ
+- propagates pattern
+- without time
+aliases:
+- Bk136pp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.658227848101266
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

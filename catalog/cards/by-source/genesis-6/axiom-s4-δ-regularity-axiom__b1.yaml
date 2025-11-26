@@ -1,12 +1,30 @@
+id: GEN6-8263
+location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s4-δ-regularity-axiom::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 57-66
+heading: '**AXIOM S4 – δ-Regularity Axiom**'
+parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The C\*-algebra 𝒜δ contains all compact perturbations of adjacency that
   preserve δ-generation: Aδ⊃C∗(δ,Adj,Compacts)\\mathcal{A}\_{\\delta} \\supset \\text{C}^{\*}(\\delta,
   \\text{Adj}, \\text{Compact...'
-heading: '**AXIOM S4 – δ-Regularity Axiom**'
-id: GEN6-8263
-lines: 57-66
-location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s4-δ-regularity-axiom::b1
-parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- adjacency-to-geometry
+- ⊃
+- δ-generation
+aliases:
+- Bk553ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

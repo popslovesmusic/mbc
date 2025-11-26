@@ -1,10 +1,25 @@
+id: GEN16-3816
+location: genesis-16/untitled-document::2-what-is-semantic-entropy-hσhsigmahς::21-norm-based::b1
+source: genesis-16\Untitled_document.md
+lines: 1040-1042
+heading: '**2.1 Norm-Based**'
+parent_heading: '**2\. What is Semantic Entropy H(Σ)H(\\Sigma)H(Σ)?**'
 block_type: paragraph
+excerpt: H(Σ)=∥Σ∥H(\\Sigma)=\\|\\Sigma\\|H(Σ)=∥Σ∥
 concepts:
 - Σ
-excerpt: H(Σ)=∥Σ∥H(\\Sigma)=\\|\\Sigma\\|H(Σ)=∥Σ∥
-heading: '**2.1 Norm-Based**'
-id: GEN16-3816
-lines: 1040-1042
-location: genesis-16/untitled-document::2-what-is-semantic-entropy-hσhsigmahς::21-norm-based::b1
-parent_heading: '**2\. What is Semantic Entropy H(Σ)H(\\Sigma)H(Σ)?**'
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk642ss
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

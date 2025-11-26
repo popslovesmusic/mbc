@@ -1,14 +1,35 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Meta-Genesis
-- Thus Meta
-- consistent
-- Ψ
-excerpt: 'Meta-Genesis says: * The universe did not start as “something in nothing.”
-  * It started as **deviation from impossibility**.'
-heading: '**Compatibility with Meta-Genesis**'
 id: INTK-9748
-lines: 105-125
 location: intake/meta-genesis-core-papers-foundations::compatibility-with-meta-genesis::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 105-125
+heading: '**Compatibility with Meta-Genesis**'
+block_type: paragraph
+excerpt: 'Meta-Genesis says: * The universe did not start as “something in nothing.”
+  * It started as **deviation from impossibility**.'
+concepts:
+- Meta-Genesis
+- Ψ
+- Deviation
+- Axiom
+- zero-content is forbidden
+- ∞
+- deviation from impossibility
+- zero-content
+- non-being
+- ≠
+- consistent
+- Thus Meta
+aliases:
+- Bk359mg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.881188118811881
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

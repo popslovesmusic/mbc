@@ -1,12 +1,27 @@
+id: INTK-10188
+location: intake/meta-genesis-meta-math-integration-papers::domains-codomains-and-exclusions::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 201-208
+heading: '**Domains, Codomains, and Exclusions**'
 block_type: paragraph
-concepts:
-- Action Interface
-- Axiom
 excerpt: This is written at the **same formal level** as your operator boundary conditions,
   the NOT Axiom, and the Genesis transition proofs. It establishes **exactly which
   kinds of states an operator may act ...
-heading: '**Domains, Codomains, and Exclusions**'
-id: INTK-10188
-lines: 201-208
-location: intake/meta-genesis-meta-math-integration-papers::domains-codomains-and-exclusions::b1
-source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+concepts:
+- Axiom
+- same formal level
+- Action Interface
+aliases:
+- Bk374tw
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

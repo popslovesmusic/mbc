@@ -1,12 +1,30 @@
+id: INTK-9725
+location: intake/core-insight-is-a-projection-artifact::5-places-to-strengthen-and-i-can-help-you-write-it::52-define-t-δ-explicitly::b1
+source: intake\Core_Insight___is_a_Projection_Artifact.md
+lines: 170-190
+heading: '**5.2 Define T\_δ explicitly**'
+parent_heading: '**5\. Places to Strengthen (and I can help you write it):**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Give δ-stress a form, even schematic: * T\_δ ∼ δᵢ δⱼ terms * T\_δ ∼ ∂ᵢΦⱼ
   − ∂ⱼΦᵢ'
-heading: '**5.2 Define T\_δ explicitly**'
-id: INTK-9725
-lines: 170-190
-location: intake/core-insight-is-a-projection-artifact::5-places-to-strengthen-and-i-can-help-you-write-it::52-define-t-δ-explicitly::b1
-parent_heading: '**5\. Places to Strengthen (and I can help you write it):**'
-source: intake\Core_Insight___is_a_Projection_Artifact.md
+concepts:
+- δ
+- Φ
+- ∂
+- late-time
+- δ-stress
+aliases:
+- Bk061gs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

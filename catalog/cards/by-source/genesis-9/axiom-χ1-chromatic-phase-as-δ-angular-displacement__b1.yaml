@@ -1,14 +1,38 @@
+id: GEN9-9198
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-χ-valence-electronegativity-law::axiom-χ1-chromatic-phase-as-δ-angular-displacement::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2589-2601
+heading: '**Axiom χ1 — Chromatic Phase as δ-Angular Displacement**'
+parent_heading: '**The χ ↔ Valence ↔ Electronegativity Law**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Π
-- Φ
-- δ
 excerpt: Each Π-orbital carries a chromatic phase χ∈Z12,\\chi \\in \\mathbb{Z}\_{12},χ∈Z12​,
   defined as the **δ-harmonic phase coordinate** inherited from the Φ-mode decomposition.
-heading: '**Axiom χ1 — Chromatic Phase as δ-Angular Displacement**'
-id: GEN9-9198
-lines: 2589-2601
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-χ-valence-electronegativity-law::axiom-χ1-chromatic-phase-as-δ-angular-displacement::b1
-parent_heading: '**The χ ↔ Valence ↔ Electronegativity Law**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Tri-Unity
+- χ
+- δ-harmonic phase coordinate
+- ψ
+- δ
+- ∈
+- Φ-mode
+- Φ
+- δ-harmonic
+- δ-balanced
+- Π-orbital
+- Π
+- angular deviation
+aliases:
+- Bk328eo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.56756756756757
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

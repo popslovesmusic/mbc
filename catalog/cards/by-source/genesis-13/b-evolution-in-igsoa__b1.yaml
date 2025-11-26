@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: Evolution \= δ-pressure modulating Φ-mode spaces within Π-stability basins
-heading: '**★ (B) Evolution in IGSOA**'
 id: GEN13-2469
-lines: 169-171
 location: genesis-13/what-biology-is-in-meta-genesis::6-optional-extensions-tell-me-which-direction::b-evolution-in-igsoa::b1
-parent_heading: '**6\. Optional Extensions (tell me which direction):**'
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 169-171
+heading: '**★ (B) Evolution in IGSOA**'
+parent_heading: '**6\. Optional Extensions (tell me which direction):**'
+block_type: paragraph
+excerpt: Evolution \= δ-pressure modulating Φ-mode spaces within Π-stability basins
+concepts:
+- Π-stability
+- δ-pressure
+- Φ-mode
+- Π
+- δ
+- Φ
+aliases:
+- Bk124ep
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 54.54545454545454
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

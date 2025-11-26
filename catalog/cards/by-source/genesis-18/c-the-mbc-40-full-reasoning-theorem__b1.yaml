@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: (derivation with closure boxes) Which one?
-heading: '**C. The MBC-4.0 Full “Reasoning Theorem”**'
 id: GEN18-5388
-lines: 451-455
 location: genesis-18/mbc-4::if-you-want-next::c-the-mbc-40-full-reasoning-theorem::b1
-parent_heading: '**If you want next:**'
 source: genesis-18\MBC-4.md
+lines: 451-455
+heading: '**C. The MBC-4.0 Full “Reasoning Theorem”**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: (derivation with closure boxes) Which one?
+aliases:
+- Bk820dw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

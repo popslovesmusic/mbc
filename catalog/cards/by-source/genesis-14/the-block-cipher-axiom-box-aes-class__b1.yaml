@@ -1,18 +1,45 @@
-block_type: paragraph
-concepts:
-- Avalanche Condition
-- Axiom
-- Ciphertext Projection
-- Lift Security
-- No-Lift
-- Round Structure
-- Π
-- Φ
-- δ
-excerpt: '**Axiom BC1 (Keyed δ-Asymmetry):** A block cipher requires a δ-key whose
-  asymmetry defines the entire transformation. **Axiom BC2 (Φ-Round Structure):**'
-heading: '**The Block Cipher Axiom Box (AES-class)**'
 id: GEN14-2867
-lines: 1095-1117
 location: genesis-14/meta-math-and-cryptography::the-block-cipher-axiom-box-aes-class::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1095-1117
+heading: '**The Block Cipher Axiom Box (AES-class)**'
+block_type: paragraph
+excerpt: '**Axiom BC1 (Keyed δ-Asymmetry):** A block cipher requires a δ-key whose
+  asymmetry defines the entire transformation. **Axiom BC2 (Φ-Round Structure):**'
+concepts:
+- δ
+- Axiom
+- Π
+- Φ
+- Projection
+- ∂
+- →
+- δ-key
+- non-invertible
+- δ-divergence
+- Π-Ciphertext
+- δ-Asymmetry
+- δ-asymmetry
+- Φ-monistic
+- Φ-Round
+aliases:
+- Am296ak
+tags:
+- φ-round-structure
+- π-ciphertext-projection
+- avalanche-condition
+- keyed-δ-asymmetry
+- no-lift-security
+- conflicted
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 5
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.27906976744186
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

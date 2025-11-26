@@ -1,18 +1,40 @@
-block_type: paragraph
-concepts:
-- Adjacency Projection Axiom Box
-- Axiom
-- Box
-- Genesis Closure Principle
-- Meta-Einstein
-- Projection Theorem
-- Theorem
-- next
-- δ
-excerpt: 'From the Projection Theorem, δ-curvature is: Rδ=Curv(g)R\_\\delta \= \\text{Curv}(g)Rδ​=Curv(g)
-  where ggg is the δ-induced metric.'
-heading: '**7\. δ-Curvature Corollary (ties to Meta-Einstein)**'
 id: GEN4-7851
-lines: 708-735
 location: genesis-4/the-first-adjacency::7-δ-curvature-corollary-ties-to-meta-einstein::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 708-735
+heading: '**7\. δ-Curvature Corollary (ties to Meta-Einstein)**'
+block_type: paragraph
+excerpt: 'From the Projection Theorem, δ-curvature is: Rδ=Curv(g)R\_\\delta \= \\text{Curv}(g)Rδ​=Curv(g)
+  where ggg is the δ-induced metric.'
+concepts:
+- δ
+- Meta-Einstein
+- Projection
+- Adjacency
+- Theorem
+- Axiom
+- Box
+- →
+- projected variational equation
+- Adjacency Projection Axiom Box
+- δ-adjacency
+- δ-curvature
+- Genesis Closure Principle
+- δ-induced
+- δ-metric
+aliases:
+- Bk573ft
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.517241379310345
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,21 +1,39 @@
+id: INTK-10225
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::1-overview-a-multi-dimensional-operator-space::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 164-175
+heading: '**1. Overview: A Multi-Dimensional Operator Space**'
 block_type: paragraph
-concepts:
-- Deviation Flux
-- Einstein Equation
-- Fractal Lagrangian
-- Harmonic Symmetry Group
-- Meta-Curvature
-- Meta-Einstein
-- Meta-Fractal
-- Peakset Probability Geometry
-- δ
-- μ
-- ν
 excerpt: The deviation field (δ) and its dynamic interactions (A/H/E/F operators)
   occur not in ordinary spacetime, but in the **Peakset Probability Geometry (PPG)**.
   This PPG has a fractal, multi-scale structu...
-heading: '**1. Overview: A Multi-Dimensional Operator Space**'
-id: INTK-10225
-lines: 164-175
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::1-overview-a-multi-dimensional-operator-space::b1
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Einstein
+- Curvature
+- Deviation
+- Meta-Fractal Lagrangian
+- Meta-Einstein Equation
+- deviation-curvature
+- μ
+- ν
+- Meta-Curvature
+- Peakset Probability Geometry
+- Meta-Fractal
+- multi-scale
+- compact algebraic encoding
+- Harmonic Symmetry Group
+- δ
+aliases:
+- Bk412td
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

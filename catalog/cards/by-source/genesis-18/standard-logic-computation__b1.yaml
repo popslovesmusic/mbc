@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '`Conclusion / truth` `▲` `Evaluation / rule application`'
-heading: '**Standard Logic / Computation**'
 id: GEN18-5423
-lines: 749-759
 location: genesis-18/mbc-4::4-full-semantic-logic-diagram-stack-visual-δ-φ-π::standard-logic-computation::b1
-parent_heading: '**4\. Full Semantic Logic Diagram Stack (visual δ → Φ → Π)**'
 source: genesis-18\MBC-4.md
+lines: 749-759
+heading: '**Standard Logic / Computation**'
+parent_heading: '**4\. Full Semantic Logic Diagram Stack (visual δ → Φ → Π)**'
+block_type: paragraph
+excerpt: '`Conclusion / truth` `▲` `Evaluation / rule application`'
+aliases:
+- Bk470ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

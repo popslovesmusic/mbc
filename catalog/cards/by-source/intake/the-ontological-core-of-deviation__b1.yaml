@@ -1,13 +1,32 @@
+id: INTK-10145
+location: intake/meta-genesis-physical-interpretation-papers::10-final-definition::the-ontological-core-of-deviation::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 863-881
+heading: '**The Ontological Core of Deviation**'
+parent_heading: '**10\. Final Definition**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: Deviation δ is the minimal and necessary act that transforms the impossible
   (Ψ₀) into the possible (Ψ₁).\\boxed{ \\text{Deviation } \\delta \\text{ is the minimal
   and necessary act that transforms the...
-heading: '**The Ontological Core of Deviation**'
-id: INTK-10145
-lines: 863-881
-location: intake/meta-genesis-physical-interpretation-papers::10-final-definition::the-ontological-core-of-deviation::b1
-parent_heading: '**10\. Final Definition**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Deviation
+- Ψ
+- δ
+- non-being
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk391dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

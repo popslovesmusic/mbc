@@ -1,15 +1,36 @@
+id: GEN19-6009
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::i-computation-logic::1-build-an-entire-logic-system-from-one-primitive::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 12-20
+heading: ✔ 1\. Build an Entire Logic System from One Primitive
+parent_heading: I. COMPUTATION & LOGIC
 block_type: list
-concepts:
-- Box
-- Box Network
-- Full Curry
-- Θ
-- Π
 excerpt: '* AND / OR / XOR / NAND / NOR / IMPLIES from Θ-router weights * Multi-valued
   polarity logic * Fuzzy logic & probabilistic logic'
-heading: ✔ 1\. Build an Entire Logic System from One Primitive
-id: GEN19-6009
-lines: 12-20
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::i-computation-logic::1-build-an-entire-logic-system-from-one-primitive::b1
-parent_heading: I. COMPUTATION & LOGIC
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- Proof
+- Box
+- higher-order
+- Multi-valued
+- Π-operators
+- ∀
+- Π
+- ∃
+- Θ
+- Box Network
+- Full Curry
+aliases:
+- Bk410ax
+tags:
+- proof
+- -program-box-network
+is_formal: true
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.555555555555557
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

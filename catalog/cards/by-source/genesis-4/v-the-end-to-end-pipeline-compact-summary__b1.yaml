@@ -1,15 +1,33 @@
+id: GEN4-7712
+location: genesis-4/meta-physics-axiom-box::v-the-end-to-end-pipeline-compact-summary::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1554-1570
+heading: '**V. THE END-TO-END PIPELINE (Compact Summary)**'
 block_type: paragraph
-concepts:
-- Causal Sphere
-- Cone Causality
-- Light-Cone
-- Meta-Physics
-- δ
 excerpt: 'Genesis: X⪯Y  ⟺  Y=δn(X)\\boxed{ \\text{Genesis: } X\\preceq Y \\iff Y=\\delta^n(X)
   }Genesis: X⪯Y⟺Y=δn(X)​ ➡ becomes Math: δmath-reachability\\boxed{ \\text{Math: }
   \\delta\_{\\mathrm{math}}\\text{-re...'
-heading: '**V. THE END-TO-END PIPELINE (Compact Summary)**'
-id: GEN4-7712
-lines: 1554-1570
-location: genesis-4/meta-physics-axiom-box::v-the-end-to-end-pipeline-compact-summary::b1
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- δ
+- Meta-Physics
+- Light-Cone
+- Cone Causality
+- δmath-reachability
+- Causal Sphere
+- δmath
+- δn
+aliases:
+- Bk590gb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.256410256410255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

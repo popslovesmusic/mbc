@@ -1,16 +1,35 @@
+id: GEN8-8873
+location: genesis-8/meta-time-geometry-and-temporal-projection::6-dynamic-emergence-of-direction::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1895-1918
+heading: '**6\. DYNAMIC EMERGENCE OF DIRECTION**'
 block_type: paragraph
+excerpt: '*(momentum, flow, velocity)* In δ-geometry, the momentum operator arises
+  as: pμ=−i ∂μp\_\\mu \= \-i\\,\\partial\_\\mupμ​=−i∂μ​'
 concepts:
+- δ-geometry
 - Meta-Time
+- μ
+- ∂
+- δ
+- δ-harmonic
+- eigen-directions
+- energetic gradient
 - 'Time
 
 
   So'
-- δ
-- μ
-excerpt: '*(momentum, flow, velocity)* In δ-geometry, the momentum operator arises
-  as: pμ=−i ∂μp\_\\mu \= \-i\\,\\partial\_\\mupμ​=−i∂μ​'
-heading: '**6\. DYNAMIC EMERGENCE OF DIRECTION**'
-id: GEN8-8873
-lines: 1895-1918
-location: genesis-8/meta-time-geometry-and-temporal-projection::6-dynamic-emergence-of-direction::b1
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+aliases:
+- Bk514mf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.975609756097562
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

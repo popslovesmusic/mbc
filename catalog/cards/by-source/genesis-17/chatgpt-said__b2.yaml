@@ -1,10 +1,29 @@
+id: GEN17-5130
+location: genesis-17/mbc-schema-3::if-you-want-next::you-said::chatgpt-said::b2
+source: genesis-17\MBC_Schema_3.md
+lines: 1944-1946
+heading: '**ChatGPT said:**'
+parent_heading: '**You said:**'
 block_type: paragraph
-concepts: []
 excerpt: 'Below is the **full, formal, dual-column, cross-referenced statement and
   proof** of the:'
-heading: '**ChatGPT said:**'
-id: GEN17-5130
-lines: 1944-1946
-location: genesis-17/mbc-schema-3::if-you-want-next::you-said::chatgpt-said::b2
-parent_heading: '**You said:**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Proof
+- cross-referenced
+- dual-column
+aliases:
+- Bk830bt
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

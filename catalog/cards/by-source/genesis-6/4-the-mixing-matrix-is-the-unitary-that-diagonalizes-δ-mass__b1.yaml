@@ -1,19 +1,40 @@
+id: GEN6-8250
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::4-the-mixing-matrix-is-the-unitary-that-diagonalizes-δ-mass::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 568-590
+heading: '**4\) The mixing matrix is the unitary that diagonalizes δ-mass**'
+parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
 block_type: paragraph
-concepts:
-- CKM
-- PMNS
-- Uf Mf Uf
-- Uu Ud
-- Π
-- α
-- δ
-- ν
 excerpt: 'Define mass eigenstates: ∣fi⟩mass=∑α(Uf)iα ∣fα⟩flavor(D1)\\big| f\_i \\big\\rangle\_{\\text{mass}}
   \= \\sum\_{\\alpha} (U\_f)\_{i\\alpha}\\, \\big|f\_\\alpha\\big\\rangle\_{\\text{flavor}}
   \\tag{D1}​f...'
-heading: '**4\) The mixing matrix is the unitary that diagonalizes δ-mass**'
-id: GEN6-8250
-lines: 568-590
-location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::4-the-mixing-matrix-is-the-unitary-that-diagonalizes-δ-mass::b1
-parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- PMNS
+- CKM
+- δ-harmonic basis-change matrices induced by Π-projection
+- α
+- δ
+- ν
+- ∑
+- Π-projection
+- basis-change
+- δ-harmonic
+- Π
+- δ-mass
+- Uf Mf Uf
+- Uu Ud
+aliases:
+- Bk351dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

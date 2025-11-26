@@ -1,12 +1,27 @@
+id: INTK-10743
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::no-empty-gap-between-dimensions::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1934-1935
+heading: No Empty Gap Between Dimensions
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Read More
-- The Physics Perspective
 excerpt: 'The Physics Perspective (Source: 30_No_Empty_Gap_Between_Dimensions.txt)
   [[Read More](concepts/Encyclopedia\No_Empty_Gap_Between_Dimensions.md)]'
-heading: No Empty Gap Between Dimensions
-id: INTK-10743
-lines: 1934-1935
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::no-empty-gap-between-dimensions::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- The Physics Perspective
+- Read More
+aliases:
+- Bk249tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

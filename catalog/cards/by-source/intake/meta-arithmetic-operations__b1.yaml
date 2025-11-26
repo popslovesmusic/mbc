@@ -1,11 +1,27 @@
+id: INTK-10334
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::meta-arithmetic-operations::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 904-906
+heading: Meta-Arithmetic Operations
+parent_heading: Meta-Arithmetic
 block_type: paragraph
-concepts:
-- Meta-Arithmetic
 excerpt: 'Meta-Arithmetic defines the precise rules for combining and transforming
   deviation-quantities:'
-heading: Meta-Arithmetic Operations
-id: INTK-10334
-lines: 904-906
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::meta-arithmetic-operations::b1
-parent_heading: Meta-Arithmetic
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- deviation-quantities
+- Meta-Arithmetic
+aliases:
+- Bk505ma
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

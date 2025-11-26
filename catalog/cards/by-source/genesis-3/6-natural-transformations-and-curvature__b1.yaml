@@ -1,15 +1,31 @@
+id: GEN3-7282
+location: genesis-3/metagenesis::6-natural-transformations-and-curvature::b1
+source: genesis-3\metagenesis.md
+lines: 200-213
+heading: '**6\. Natural Transformations and Curvature**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- The Genesis
-- Λ
-- Ψ
-- δ
 excerpt: 'The Genesis category has no curvature. Curvature appears only after the
   functor is applied: Rδ:F(δ2Ψ0)⟶F(δ3Ψ0)\\mathcal{R}\_\\delta : F(\\delta^2\\Psi\_0)
   \\longrightarrow F(\\delta^3\\Psi\_0)Rδ​:F(δ2...'
-heading: '**6\. Natural Transformations and Curvature**'
-id: GEN3-7282
-lines: 200-213
-location: genesis-3/metagenesis::6-natural-transformations-and-curvature::b1
-source: genesis-3\metagenesis.md
+concepts:
+- δ
+- Meta-Einstein
+- Curvature
+- Ψ
+- emergence of curvature from deviational adjacency
+- Λ
+- The Genesis
+aliases:
+- Bk953tg
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.536585365853659
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,13 +1,32 @@
-block_type: list
-concepts:
-- generators
-- Π
-- Φ
-- δ
-excerpt: '* δ-modes \= **generators** of the cosmic operad * Φ \= **operadic substitution
-  (inflation)** * Π \= **algebra evaluation (CMB projection)**'
-heading: '**8\. Interpretation in IGSOA Language**'
 id: GEN15-3429
-lines: 759-782
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::8-interpretation-in-igsoa-language::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 759-782
+heading: '**8\. Interpretation in IGSOA Language**'
+block_type: list
+excerpt: '* δ-modes \= **generators** of the cosmic operad * Φ \= **operadic substitution
+  (inflation)** * Π \= **algebra evaluation (CMB projection)**'
+concepts:
+- δ
+- δ-Operad
+- Π
+- Φ
+- δ-operations
+- linear operadic lifting
+- δ-modes
+- generators
+aliases:
+- Bk158mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.666666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

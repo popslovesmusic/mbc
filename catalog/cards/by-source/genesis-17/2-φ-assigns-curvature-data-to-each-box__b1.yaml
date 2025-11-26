@@ -1,14 +1,29 @@
+id: GEN17-4960
+location: genesis-17/key-points::proof-sketch-monistic-structural-proof::2-φ-assigns-curvature-data-to-each-box::b1
+source: genesis-17\Key_Points.md
+lines: 1164-1172
+heading: '**2\. Φ assigns curvature data to each Box.**'
+parent_heading: '**Proof Sketch (Monistic Structural Proof).**'
 block_type: paragraph
-concepts:
-- Box
-- Every Box
-- Φ
-- δ
 excerpt: 'Every Box receives curvature structure Φ(Bᵢ). This curvature *logically
   depends* on the δ pattern that created that Box. Thus:'
-heading: '**2\. Φ assigns curvature data to each Box.**'
-id: GEN17-4960
-lines: 1164-1172
-location: genesis-17/key-points::proof-sketch-monistic-structural-proof::2-φ-assigns-curvature-data-to-each-box::b1
-parent_heading: '**Proof Sketch (Monistic Structural Proof).**'
-source: genesis-17\Key_Points.md
+concepts:
+- Box
+- Φ
+- δ
+- Every Box
+aliases:
+- Bk368eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

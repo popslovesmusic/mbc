@@ -1,9 +1,32 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: 'The functor: Φ:M→P\\Phi:\\mathbf{M}\\to\\mathbf{P}Φ:M→P performs:'
-heading: '**4\. The Φ-Projection and the Breaking of SU(2)**'
 id: GEN9-9565
-lines: 2217-2246
 location: genesis-9/strong-force::4-the-φ-projection-and-the-breaking-of-su2::b1
 source: genesis-9\strong-force.md
+lines: 2217-2246
+heading: '**4\. The Φ-Projection and the Breaking of SU(2)**'
+block_type: paragraph
+excerpt: 'The functor: Φ:M→P\\Phi:\\mathbf{M}\\to\\mathbf{P}Φ:M→P performs:'
+concepts:
+- Φ
+- IGSOA
+- phase-preserving
+- phase-preserving subgroup
+- Axiom
+- torsion-antisymmetry
+- →
+- energy-momentum
+- non-propagating
+- θ
+aliases:
+- Bk155tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.638297872340425
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

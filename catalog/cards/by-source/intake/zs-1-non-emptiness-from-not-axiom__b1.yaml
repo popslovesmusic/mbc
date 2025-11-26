@@ -1,10 +1,26 @@
+id: INTK-9762
+location: intake/meta-genesis-core-papers-foundations::1-formal-definition::definition-ψ₀-zero-state-ontological-substrate::zs-1-non-emptiness-from-not-axiom::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 254-256
+heading: '**(ZS-1) Non-emptiness (from NOT Axiom)**'
+parent_heading: '**Definition (Ψ₀): Zero State Ontological Substrate**'
 block_type: paragraph
+excerpt: Ψ0≠∅\\Psi\_0 \\neq \\varnothingΨ0​=∅
 concepts:
 - Ψ
-excerpt: Ψ0≠∅\\Psi\_0 \\neq \\varnothingΨ0​=∅
-heading: '**(ZS-1) Non-emptiness (from NOT Axiom)**'
-id: INTK-9762
-lines: 254-256
-location: intake/meta-genesis-core-papers-foundations::1-formal-definition::definition-ψ₀-zero-state-ontological-substrate::zs-1-non-emptiness-from-not-axiom::b1
-parent_heading: '**Definition (Ψ₀): Zero State Ontological Substrate**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+- ≠
+aliases:
+- Bk360pn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

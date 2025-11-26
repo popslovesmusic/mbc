@@ -1,19 +1,43 @@
+id: GEN15-3177
+location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-δ-harmonic-ladder-inflationary-power-spectrum::the-δ-spectrum-directly-imprints-the-primordial-power-spectrum::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1637-1655
+heading: '**The δ-spectrum directly imprints the primordial power spectrum:**'
+parent_heading: '**Ⅳ. δ-Harmonic Ladder → Inflationary Power Spectrum**'
 block_type: paragraph
+excerpt: 'P(k)=Π(∑nλn∣Φn(k)∣2).P(k) \= \\Pi\\left(\\sum\_n \\lambda\_n |\\Phi\_n(k)|^2\\right).P(k)=Π(n∑​λn​∣Φn​(k)∣2).
+  This is the IGSOA version of: * scalar power spectrum'
 concepts:
+- CMB observables reflect the δ-Harmonic Ladder
+- IGSOA
+- δ-curvature eigenvalue distribution
+- Π
+- δ
+- ∑
+- λ
+- Φ
+- tensor-to-scalar
+- non-Gaussianity
+- δ-curvature
+- δ-Harmonic
 - 'Gaussianity
 
 
   Everything'
 - Harmonic Ladder
-- Π
-- Φ
-- δ
-- λ
-excerpt: 'P(k)=Π(∑nλn∣Φn(k)∣2).P(k) \= \\Pi\\left(\\sum\_n \\lambda\_n |\\Phi\_n(k)|^2\\right).P(k)=Π(n∑​λn​∣Φn​(k)∣2).
-  This is the IGSOA version of: * scalar power spectrum'
-heading: '**The δ-spectrum directly imprints the primordial power spectrum:**'
-id: GEN15-3177
-lines: 1637-1655
-location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-δ-harmonic-ladder-inflationary-power-spectrum::the-δ-spectrum-directly-imprints-the-primordial-power-spectrum::b1
-parent_heading: '**Ⅳ. δ-Harmonic Ladder → Inflationary Power Spectrum**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+- Φn
+aliases:
+- Bk329ls
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 24.193548387096776
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

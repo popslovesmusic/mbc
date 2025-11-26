@@ -1,13 +1,29 @@
+id: GEN1-430
+location: genesis-1/the-foundation-layer::the-foundation-layer::v-diagrammatic-version-ascii-form::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 113-131
+heading: '**V. Diagrammatic Version (ASCII form)**'
+parent_heading: '**THE FOUNDATION LAYER**'
 block_type: paragraph
-concepts:
-- Axiom
-- Ψ
-- δ
 excerpt: 'A simple diagram you can drop into any doc: `┌──────────────────────────────────────────────┐`
   `│                FOUNDATION LAYER              │`'
-heading: '**V. Diagrammatic Version (ASCII form)**'
-id: GEN1-430
-lines: 113-131
-location: genesis-1/the-foundation-layer::the-foundation-layer::v-diagrammatic-version-ascii-form::b1
-parent_heading: '**THE FOUNDATION LAYER**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- Axiom
+- δ
+- Ψ₀
+- proto-time
+- δ-Axiom
+- Ψ₁
+aliases:
+- Bk987sd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

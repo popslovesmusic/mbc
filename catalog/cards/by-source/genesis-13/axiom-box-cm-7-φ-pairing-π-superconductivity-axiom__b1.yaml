@@ -1,14 +1,36 @@
-block_type: paragraph
-concepts:
-- Axiom
-- End Seal
-- Π
-- Φ
-- δ
-excerpt: '**SEAL:** CM-7 **Axiom.** The Φ-pairing operator is'
-heading: '**AXIOM BOX CM-7: Φ-Pairing → Π-Superconductivity Axiom**'
 id: GEN13-2247
-lines: 2849-2876
 location: genesis-13/meta-math-nuclear-physics::sealed-axiom-box-set-condensed-matter-physics::axiom-box-cm-7-φ-pairing-π-superconductivity-axiom::b1
-parent_heading: '**SEALED AXIOM BOX SET — CONDENSED MATTER PHYSICS**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2849-2876
+heading: '**AXIOM BOX CM-7: Φ-Pairing → Π-Superconductivity Axiom**'
+parent_heading: '**SEALED AXIOM BOX SET — CONDENSED MATTER PHYSICS**'
+block_type: paragraph
+excerpt: '**SEAL:** CM-7 **Axiom.** The Φ-pairing operator is'
+concepts:
+- Φ
+- Δ
+- δ
+- Axiom
+- Π
+- δ-adjacency
+- ≠
+- Φ-pairing
+- Π-shadow
+- End Seal
+aliases:
+- Am844sa
+tags:
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.989010989010989
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

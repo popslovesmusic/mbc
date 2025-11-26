@@ -1,14 +1,28 @@
+id: INTK-10693
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::boundary-conditions::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1762-1763
+heading: Boundary Conditions
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Boundary Conditions
-- Read More
-- Vibrating String Metaphor
 excerpt: Boundary Conditions are the fixed, unchanging aspects of reality in the Vibrating
   String Metaphor. They are the "topmost" and "bottommost" points of the string's
   vibration, where it "turns around." Th...
-heading: Boundary Conditions
-id: INTK-10693
-lines: 1762-1763
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::boundary-conditions::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Boundary Conditions
+- Vibrating String Metaphor
+- Read More
+aliases:
+- Bk939bc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.976744186046512
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

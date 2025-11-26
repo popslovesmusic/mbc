@@ -1,13 +1,27 @@
+id: INTK-9970
+location: intake/meta-genesis-mathematical-papers::3-category-theoretic-domain-exclusion::theorem-3-functorial-exclusion::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 375-395
+heading: '**Theorem 3 (Functorial Exclusion).**'
+parent_heading: '**3\. Category-Theoretic Domain Exclusion**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Time
-- Ψ
 excerpt: 'Let O\\mathcal{O}O be a functor or natural transformation. To act on Ψ0\\Psi\_0Ψ0​,
   Ψ0\\Psi\_0Ψ0​ must have morphisms. But Ψ0\\Psi\_0Ψ0​ satisfies:'
-heading: '**Theorem 3 (Functorial Exclusion).**'
-id: INTK-9970
-lines: 375-395
-location: intake/meta-genesis-mathematical-papers::3-category-theoretic-domain-exclusion::theorem-3-functorial-exclusion::b1
-parent_heading: '**3\. Category-Theoretic Domain Exclusion**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+- Meta-Genesis
+- Meta-Time
+aliases:
+- Bk234lm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 2.2222222222222223
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

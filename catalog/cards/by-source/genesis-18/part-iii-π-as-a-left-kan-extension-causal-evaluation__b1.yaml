@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: '*(This is the canonical interpretation of Π from your earlier Π-Kan note)*
-  We now express Π as the **left Kan extension** of “δ-evaluations” along Φ. ---'
-heading: '**PART III — Π as a Left Kan Extension (Causal Evaluation)**'
 id: GEN18-5260
-lines: 1714-1720
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iii-π-as-a-left-kan-extension-causal-evaluation::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1714-1720
+heading: '**PART III — Π as a Left Kan Extension (Causal Evaluation)**'
+block_type: paragraph
+excerpt: '*(This is the canonical interpretation of Π from your earlier Π-Kan note)*
+  We now express Π as the **left Kan extension** of “δ-evaluations” along Φ. ---'
+concepts:
+- Π
+- δ-evaluations
+- δ
+- Φ
+- Π-Kan
+- left Kan extension
+aliases:
+- Bk427tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

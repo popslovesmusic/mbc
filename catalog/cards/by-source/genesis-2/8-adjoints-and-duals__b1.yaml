@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Duals Exist
-- δ
-excerpt: '**Axiom M8 — Duals Exist** Every object XXX has a dual X\\\*X^\\\*X\\\*,
-  providing: * adjoint morphisms'
-heading: '**8\. Adjoints and Duals**'
 id: GEN2-6249
-lines: 402-419
 location: genesis-2/axioms-for-the-category-genesis::8-adjoints-and-duals::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 402-419
+heading: '**8\. Adjoints and Duals**'
+block_type: paragraph
+excerpt: '**Axiom M8 — Duals Exist** Every object XXX has a dual X\\\*X^\\\*X\\\*,
+  providing: * adjoint morphisms'
+concepts:
+- Axiom
+- δ-adjoint
+- δ
+- Duals Exist
+aliases:
+- Am740ad
+tags:
+- -duals-exist
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,33 @@
+id: GEN6-8234
+location: genesis-6/harmonics-atomic-orbitals::1-δ-boson-modes-from-δ-harmonics::fractal-δ-eigenvalue-law::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 306-324
+heading: '**Fractal δ-eigenvalue law**'
+parent_heading: '**1\) δ-Boson Modes from δ-Harmonics**'
 block_type: paragraph
+excerpt: 'Use the compact shell-consistent form: Λnℓ(δ)=Λn(r)⏟radial  +  Λℓ(Ω)⏟angular\\Lambda\_{n\\ell}^{(\\delta)}
+  \= \\underbrace{\\Lambda\_n^{(r)}}\_{\\text{radial}} \\;+\\; \\underbrace{\\Lambda\_\\ell^{(\...'
 concepts:
 - Λ
 - Ω
+- χ
 - δ
-excerpt: 'Use the compact shell-consistent form: Λnℓ(δ)=Λn(r)⏟radial  +  Λℓ(Ω)⏟angular\\Lambda\_{n\\ell}^{(\\delta)}
-  \= \\underbrace{\\Lambda\_n^{(r)}}\_{\\text{radial}} \\;+\\; \\underbrace{\\Lambda\_\\ell^{(\...'
-heading: '**Fractal δ-eigenvalue law**'
-id: GEN6-8234
-lines: 306-324
-location: genesis-6/harmonics-atomic-orbitals::1-δ-boson-modes-from-δ-harmonics::fractal-δ-eigenvalue-law::b1
-parent_heading: '**1\) δ-Boson Modes from δ-Harmonics**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+- higher-adjacency
+- shell-consistent
+- self-similar
+- δ-boson
+aliases:
+- Bk812ut
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.4
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

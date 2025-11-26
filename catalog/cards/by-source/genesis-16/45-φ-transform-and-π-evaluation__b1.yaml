@@ -1,13 +1,30 @@
+id: GEN16-3758
+location: genesis-16/untitled-document::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::45-φ-transform-and-π-evaluation::b1
+source: genesis-16\Untitled_document.md
+lines: 290-297
+heading: '**4.5 Φ-Transform and Π-Evaluation**'
+parent_heading: '**4\. Operator-Specific Transition Rules**'
 block_type: table
+excerpt: '---'
 concepts:
-- Box
-- Π
 - Σ
 - Φ
-excerpt: '---'
-heading: '**4.5 Φ-Transform and Π-Evaluation**'
-id: GEN16-3758
-lines: 290-297
-location: genesis-16/untitled-document::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::45-φ-transform-and-π-evaluation::b1
-parent_heading: '**4\. Operator-Specific Transition Rules**'
-source: genesis-16\Untitled_document.md
+- Π
+- IGSOA
+- Box
+- θ
+aliases:
+- Bk391is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.357142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

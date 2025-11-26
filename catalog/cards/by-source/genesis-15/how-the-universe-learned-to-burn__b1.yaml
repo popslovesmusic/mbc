@@ -1,18 +1,39 @@
+id: GEN15-3157
+location: genesis-15/the-mass-curvature-projection-theorem::ⅰ-narrative-version::how-the-universe-learned-to-burn::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1214-1258
+heading: '***How the Universe Learned to Burn***'
+parent_heading: '**Ⅰ. Narrative Version**'
 block_type: paragraph
-concepts:
-- Axiom
-- fall
-- reheating
-- Π
-- Φ
-- δ
-- δ-Higgs
 excerpt: Inflation ends not with a bang, but with a sigh—a soft collapse of an unstable
   symmetry. During the inflationary epoch, the deviation geometry δ is stretched to
   its limit. Curvature is nearly frozen.
-heading: '***How the Universe Learned to Burn***'
-id: GEN15-3157
-lines: 1214-1258
-location: genesis-15/the-mass-curvature-projection-theorem::ⅰ-narrative-version::how-the-universe-learned-to-burn::b1
-parent_heading: '**Ⅰ. Narrative Version**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- Φ-projection
+- Curvature
+- δ-Higgs
+- Axiom
+- Φ
+- δ-curvature
+- Π
+- energy-rich
+- Φ-spectrum
+- Π-observed
+- δ-Yukawa
+- Φ-modes
+- reheating
+aliases:
+- Bk932ie
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.283018867924529
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

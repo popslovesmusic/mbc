@@ -1,11 +1,26 @@
+id: GEN10-849
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-δ-geometry-curvature-and-torsion::42-why-δ²-cannot-vanish::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1622-1640
+heading: '**4.2 Why δ² Cannot Vanish**'
+parent_heading: '**4\. δ-Geometry: Curvature and Torsion**'
 block_type: paragraph
+excerpt: 'Because δ: * lacks an inverse, * introduces asymmetry,'
 concepts:
 - Ψ
 - δ
-excerpt: 'Because δ: * lacks an inverse, * introduces asymmetry,'
-heading: '**4.2 Why δ² Cannot Vanish**'
-id: GEN10-849
-lines: 1622-1640
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::4-δ-geometry-curvature-and-torsion::42-why-δ²-cannot-vanish::b1
-parent_heading: '**4\. δ-Geometry: Curvature and Torsion**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+- non-zero
+- ≠
+- Ψ₀
+aliases:
+- Bk497bl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.627906976744185
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

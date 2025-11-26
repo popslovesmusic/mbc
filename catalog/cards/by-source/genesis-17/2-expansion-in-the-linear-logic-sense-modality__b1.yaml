@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- Linear Logic
-- δ
-excerpt: 'We also showed: δ-curvature  ≡  \!-modality δ-curvature≡\!-modality'
-heading: ⭐ 2\. Expansion in the Linear Logic sense (\! modality)
 id: GEN17-4562
-lines: 6515-6529
 location: genesis-17/box-calculus::2-expansion-in-the-linear-logic-sense-modality::b1
 source: genesis-17\box_calculus.md
+lines: 6515-6529
+heading: ⭐ 2\. Expansion in the Linear Logic sense (\! modality)
+block_type: paragraph
+excerpt: 'We also showed: δ-curvature  ≡  \!-modality δ-curvature≡\!-modality'
+concepts:
+- δ-curvature
+- δ
+- Linear Logic
+aliases:
+- Bk711as
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.521739130434782
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,27 @@
+id: INTK-10505
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::5-lie-algebras-and-the-3-6-9-symmetry::52-3-6-9-harmonic-symmetry-group::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1871-1874
+heading: '**5.2. 3-6-9 Harmonic Symmetry Group**'
+parent_heading: '**5. Lie ∞-Algebras and the 3-6-9 Symmetry**'
 block_type: paragraph
-concepts: []
 excerpt: The $\mathcal{G}_{369}$ group naturally arises as a fundamental internal
   symmetry of this Lie ∞-algebra, governing cyclic transformations and resonant patterns
   of deviation. ---
-heading: '**5.2. 3-6-9 Harmonic Symmetry Group**'
-id: INTK-10505
-lines: 1871-1874
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::5-lie-algebras-and-the-3-6-9-symmetry::52-3-6-9-harmonic-symmetry-group::b2
-parent_heading: '**5. Lie ∞-Algebras and the 3-6-9 Symmetry**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- ∞
+aliases:
+- Bk638tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

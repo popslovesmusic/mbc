@@ -1,12 +1,32 @@
+id: GEN7-8442
+location: genesis-7/the-complete-eft-lagrangian::1-the-total-δ-eft-lagrangian::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 26-32
+heading: '**1\. The Total δ-EFT Lagrangian**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- δ
 excerpt: Lδ-EFT=Lδ-kin+Lδ-geom+LAdj+LMeta-Time+Lδ-Higgs+LYukawa+Lmix+Lint\\boxed{
   \\mathcal{L}\_{\\delta\\text{-EFT}} \= \\mathcal{L}\_{\\delta\\text{-kin}} \+ \\mathcal{L}\_{\\delta\\text{-geom}}
   \+ \\mathcal...
-heading: '**1\. The Total δ-EFT Lagrangian**'
-id: GEN7-8442
-lines: 26-32
-location: genesis-7/the-complete-eft-lagrangian::1-the-total-δ-eft-lagrangian::b1
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- Meta-Time
+- δ
+- LMeta-Time
+- Lδ-Higgs
+- Lδ-geom
+- Lδ-kin
+- Lδ-EFT
+aliases:
+- Bk322ek
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

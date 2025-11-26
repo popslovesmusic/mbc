@@ -1,12 +1,29 @@
+id: GEN2-6287
+location: genesis-2/axioms-for-the-category-genesis::δ-axiom-9-non-cyclicity::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 1061-1079
+heading: '**δ-Axiom 9 — Non-Cyclicity**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Deviation cannot form cycles: There is no sequence: Ψn→δΨn+1→δ⋯→δΨn.\\Psi\_n
   \\xrightarrow{\\delta} \\Psi\_{n+1} \\xrightarrow{\\delta} \\cdots \\xrightarrow{\\delta}
   \\Psi\_n.Ψn​δ​Ψn+1​δ​⋯δ​Ψn​.'
-heading: '**δ-Axiom 9 — Non-Cyclicity**'
-id: GEN2-6287
-lines: 1061-1079
-location: genesis-2/axioms-for-the-category-genesis::δ-axiom-9-non-cyclicity::b1
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Ψ
+- δ
+- Deviation
+- Ψn
+- →
+- proto-time
+- strict ordering
+aliases:
+- Bk645dc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.000000000000002
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

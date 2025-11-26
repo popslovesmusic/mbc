@@ -1,17 +1,42 @@
+id: GEN8-8891
+location: genesis-8/meta-time-geometry-and-temporal-projection::the-δ-weitzenböck-δ-boson-mass-tower-theorem::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2274-2299
+heading: '**The δ-Weitzenböck → δ-Boson Mass Tower Theorem**'
 block_type: paragraph
-concepts:
-- Theorem
-- α
-- δ
-- λ
-- μ
-- ν
-- ρ
 excerpt: '**Theorem:** Let δ define a Weitzenböck torsion tensor Tμνρ(δ)T^\\rho\_{\\mu\\nu}(\\delta)Tμνρ​(δ)
   and corresponding torsion scalar Tδ\\mathcal{T}\_\\deltaTδ​. Let Vδ(ϕ)V\_\\delta(\\phi)Vδ​(ϕ)
   be the ...'
-heading: '**The δ-Weitzenböck → δ-Boson Mass Tower Theorem**'
-id: GEN8-8891
-lines: 2274-2299
-location: genesis-8/meta-time-geometry-and-temporal-projection::the-δ-weitzenböck-δ-boson-mass-tower-theorem::b1
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- δ
+- Torsion-induced δ-Higgs vacuum defines the zero-point shift
+- δ-harmonic modes define mass eigenstates
+- λ
+- Theorem
+- δ-harmonic
+- ψ
+- μ
+- ν
+- ∑
+- ≥
+- α
+- ρ
+- Torsion-induced
+- zero-point
+aliases:
+- Th443tl
+tags:
+- theorem
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.486486486486488
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

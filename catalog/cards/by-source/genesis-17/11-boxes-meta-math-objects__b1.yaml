@@ -1,18 +1,40 @@
+id: GEN17-4381
+location: genesis-17/box-calculus::1-mapping-the-ontology-objects::11-boxes-meta-math-objects::b1
+source: genesis-17\box_calculus.md
+lines: 3072-3098
+heading: 1.1 Boxes → Meta-Math Objects
+parent_heading: ⭐ 1\. Mapping the Ontology (Objects)
 block_type: table
+excerpt: 'So: G(Bi)=Mi,G(Σi)=μ(Mi) G(B'
 concepts:
-- Box
-- Box  Bi
-- Box Calculus
-- Math Image
 - Meta-Math
-- Γ
 - Σ
+- Box Calculus
+- Box
 - Ω
 - μ
-excerpt: 'So: G(Bi)=Mi,G(Σi)=μ(Mi) G(B'
-heading: 1.1 Boxes → Meta-Math Objects
-id: GEN17-4381
-lines: 3072-3098
-location: genesis-17/box-calculus::1-mapping-the-ontology-objects::11-boxes-meta-math-objects::b1
-parent_heading: ⭐ 1\. Mapping the Ontology (Objects)
-source: genesis-17\box_calculus.md
+- Δ
+- Γ
+- Proof
+- State
+- meta-mathematical
+- ∈
+- meaning-carrier
+- Proof-context
+- meta-level
+aliases:
+- Bk107bc
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.337662337662337
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

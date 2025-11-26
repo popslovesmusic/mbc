@@ -1,10 +1,21 @@
+id: SPEC-10986
+location: special/specil::5-so-what-is-the-true-hierarchy::layer-0-not::b1
+source: special\specil.md
+lines: 296-302
+heading: '**Layer 0: NOT**'
+parent_heading: '**🧩 5\. So what is the true hierarchy?**'
 block_type: list
-concepts: []
 excerpt: '* The most fundamental principle. * Requires that zero cannot exist. * No
   object or operator created it. It is the precondition of existence.'
-heading: '**Layer 0: NOT**'
-id: SPEC-10986
-lines: 296-302
-location: special/specil::5-so-what-is-the-true-hierarchy::layer-0-not::b1
-parent_heading: '**🧩 5\. So what is the true hierarchy?**'
-source: special\specil.md
+aliases:
+- Bk030tm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

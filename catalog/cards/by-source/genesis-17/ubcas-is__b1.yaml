@@ -1,9 +1,23 @@
-block_type: list
-concepts: []
-excerpt: '* cleaner * more narrative * more physically intuitive'
-heading: 'UBCAS is:'
 id: GEN17-4294
-lines: 2208-2214
 location: genesis-17/box-calculus::5-big-picture-differences::ubcas-is::b1
-parent_heading: ⭐ 5\. Big Picture Differences
 source: genesis-17\box_calculus.md
+lines: 2208-2214
+heading: 'UBCAS is:'
+parent_heading: ⭐ 5\. Big Picture Differences
+block_type: list
+excerpt: '* cleaner * more narrative * more physically intuitive'
+aliases:
+- Bk026cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

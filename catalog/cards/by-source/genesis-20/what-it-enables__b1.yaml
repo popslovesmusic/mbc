@@ -1,11 +1,27 @@
+id: GEN20-6620
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::federated-geometry-in-box-calculus::what-it-enables::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 735-741
+heading: What it enables
+parent_heading: Federated Geometry in Box Calculus
 block_type: list
-concepts:
-- δ
 excerpt: '* Multi-agent reasoning * Distributed inference chains * Decentralized classifier
   networks'
-heading: What it enables
-id: GEN20-6620
-lines: 735-741
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::federated-geometry-in-box-calculus::what-it-enables::b1
-parent_heading: Federated Geometry in Box Calculus
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- Multi-agent
+- δ-curvature
+- δ
+aliases:
+- Bk931ma
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

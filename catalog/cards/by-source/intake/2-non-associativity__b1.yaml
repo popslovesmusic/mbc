@@ -1,12 +1,31 @@
+id: INTK-10267
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::properties::2-non-associativity::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 547-548
+heading: 2. Non-Associativity
+parent_heading: Properties
 block_type: paragraph
+excerpt: Generally, `(Ψ₁ ⊞ Ψ₂) ⊞ Ψ₃ ≠ Ψ₁ ⊞ (Ψ₂ ⊞ Ψ₃)` due to the iterative and dynamic
+  nature of Meta-Time evolution.
 concepts:
 - Meta-Time
 - Ψ
-excerpt: Generally, `(Ψ₁ ⊞ Ψ₂) ⊞ Ψ₃ ≠ Ψ₁ ⊞ (Ψ₂ ⊞ Ψ₃)` due to the iterative and dynamic
-  nature of Meta-Time evolution.
-heading: 2. Non-Associativity
-id: INTK-10267
-lines: 547-548
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::properties::2-non-associativity::b1
-parent_heading: Properties
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+- ≠
+- Ψ₃
+- Ψ₁
+- Ψ₂
+aliases:
+- Bk151gd
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

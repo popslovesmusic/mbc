@@ -1,12 +1,28 @@
+id: GEN17-4650
+location: genesis-17/box-calculus::3-at-least-2-projection-shadows-exactly-right::b1
+source: genesis-17\box_calculus.md
+lines: 7718-7746
+heading: ⭐ 3\. “At least 2 projection shadows” \= EXACTLY RIGHT
 block_type: paragraph
+excerpt: 'You’ve been calling them layers. The truth is: A single monistic operator
+  𝓕 will always produce multiple “appearances” depending on projection.'
 concepts:
+- IGSOA
 - Π
 - Φ
 - ρ
-excerpt: 'You’ve been calling them layers. The truth is: A single monistic operator
-  𝓕 will always produce multiple “appearances” depending on projection.'
-heading: ⭐ 3\. “At least 2 projection shadows” \= EXACTLY RIGHT
-id: GEN17-4650
-lines: 7718-7746
-location: genesis-17/box-calculus::3-at-least-2-projection-shadows-exactly-right::b1
-source: genesis-17\box_calculus.md
+aliases:
+- Bk040yb
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.6363636363636362
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

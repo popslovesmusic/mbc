@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- Σ
-- δ
-excerpt: Σnew=Σ1⊕Σ2=A(Σ1,Σ2) Σ new
-heading: 'Define the Mixing Law explicitly:'
 id: GEN17-4201
-lines: 819-844
 location: genesis-17/box-calculus::define-the-mixing-law-explicitly::b1
 source: genesis-17\box_calculus.md
+lines: 819-844
+heading: 'Define the Mixing Law explicitly:'
+block_type: paragraph
+excerpt: Σnew=Σ1⊕Σ2=A(Σ1,Σ2) Σ new
+concepts:
+- Σ
+- IGSOA
+- ⊕
+- δ-curvature
+- δ
+- Σnew
+aliases:
+- Bk298nw
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.320754716981133
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

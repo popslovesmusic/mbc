@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: Truth is a structural event, not a value.
 id: GEN20-6853
-lines: 2600-2602
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::83-truth-as-evaluation-not-a-boolean-value::truth-is-a-structural-event-not-a-value::b1
-parent_heading: 8.3 Truth as Evaluation, Not a Boolean Value
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2600-2602
+heading: Truth is a structural event, not a value.
+parent_heading: 8.3 Truth as Evaluation, Not a Boolean Value
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

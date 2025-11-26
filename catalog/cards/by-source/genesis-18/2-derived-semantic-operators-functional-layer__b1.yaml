@@ -1,25 +1,40 @@
+id: GEN18-5356
+location: genesis-18/mbc-4::mbc-40-semantic-operator-table::2-derived-semantic-operators-functional-layer::b1
+source: genesis-18\MBC-4.md
+lines: 29-47
+heading: '**2\. Derived Semantic Operators (“Functional Layer”)**'
+parent_heading: '**MBC-4.0 Semantic Operator Table**'
 block_type: table
-concepts:
-- Operator
-- Semantic Logic
-- Standard Analogue
-- Θ
-- Π
-- Π-Resolve
-- Π-Stabilize
-- Σ
-- Φ
-- Φ-Carry
-- Φ-Compose
-- Φ-Project
-- Ω
-- δ
-- δ-Fork
 excerpt: '**Cross-reference:** Operators ΣΣₐ and Θ come from your router/polarity
   system. ---'
-heading: '**2\. Derived Semantic Operators (“Functional Layer”)**'
-id: GEN18-5356
-lines: 29-47
-location: genesis-18/mbc-4::mbc-40-semantic-operator-table::2-derived-semantic-operators-functional-layer::b1
-parent_heading: '**MBC-4.0 Semantic Operator Table**'
-source: genesis-18\MBC-4.md
+concepts:
+- IGSOA
+- Σ
+- Operator
+- δ
+- Φ
+- Fork
+- Π
+- Θ
+- Cross-reference
+- SAT-resolution
+- Π-Stabilize
+- multi-input
+- map-reduce
+- Φ-Compose
+- Φ-Project
+aliases:
+- Bk960io
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.809523809523807
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

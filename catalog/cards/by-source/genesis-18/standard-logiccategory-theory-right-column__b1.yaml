@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '`P ──f──▶ Q` `│         │` `F(P) ─F(f)▶ F(Q)`'
-heading: '**Standard Logic/Category Theory (Right Column)**'
 id: GEN18-5813
-lines: 2047-2053
 location: genesis-18/sealed-axiom-box::final-synthesis-diagram::standard-logiccategory-theory-right-column::b1
-parent_heading: '**FINAL SYNTHESIS DIAGRAM**'
 source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 2047-2053
+heading: '**Standard Logic/Category Theory (Right Column)**'
+parent_heading: '**FINAL SYNTHESIS DIAGRAM**'
+block_type: paragraph
+excerpt: '`P ──f──▶ Q` `│         │` `F(P) ─F(f)▶ F(Q)`'
+aliases:
+- Bk356ee
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

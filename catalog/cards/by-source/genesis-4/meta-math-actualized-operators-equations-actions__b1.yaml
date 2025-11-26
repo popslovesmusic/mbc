@@ -1,10 +1,27 @@
+id: GEN4-7717
+location: genesis-4/the-adjoint-triple::the-adjoint-triple::meta-math-actualized-operators-equations-actions::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 34-38
+heading: '**Meta-Math (actualized operators, equations, actions)**'
+parent_heading: '**The Adjoint Triple**'
 block_type: paragraph
-concepts: []
 excerpt: This *is* your high-level algebraic version of “Genesis → Geometry → Physics”.
   ---
-heading: '**Meta-Math (actualized operators, equations, actions)**'
-id: GEN4-7717
-lines: 34-38
-location: genesis-4/the-adjoint-triple::the-adjoint-triple::meta-math-actualized-operators-equations-actions::b1
-parent_heading: '**The Adjoint Triple**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- →
+- high-level
+aliases:
+- Bk195ty
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

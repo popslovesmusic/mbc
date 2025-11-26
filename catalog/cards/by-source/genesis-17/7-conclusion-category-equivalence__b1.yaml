@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- η
-excerpt: 'We have: 1. Functors 2. F'
-heading: '⭐ 7\. Conclusion: Category Equivalence'
 id: GEN17-4412
-lines: 3773-3799
 location: genesis-17/box-calculus::7-conclusion-category-equivalence::b1
 source: genesis-17\box_calculus.md
+lines: 3773-3799
+heading: '⭐ 7\. Conclusion: Category Equivalence'
+block_type: paragraph
+excerpt: 'We have: 1. Functors 2. F'
+concepts:
+- category-theoretic
+- ε
+- η
+- Φ
+- Π
+aliases:
+- Bk526hf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.329113924050633
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

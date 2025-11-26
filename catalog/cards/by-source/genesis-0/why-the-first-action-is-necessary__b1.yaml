@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Outreach Version
-- Static Symmetry
-- Zero-State
-- Ψ
-excerpt: '*(Day 1: Breaking the Static Symmetry — Outreach Version)* **Imagine a universe
-  before the universe.** Not darkness.'
-heading: '**Why the First Action Is Necessary**'
 id: GEN0-260
-lines: 2-27
 location: genesis-0/why-the-first-action-is-necessary::why-the-first-action-is-necessary::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 2-27
+heading: '**Why the First Action Is Necessary**'
+block_type: paragraph
+excerpt: '*(Day 1: Breaking the Static Symmetry — Outreach Version)* **Imagine a universe
+  before the universe.** Not darkness.'
+concepts:
+- IGSOA
+- State
+- Axiom
+- Zero-State
+- Ψ
+- Outreach Version
+- Static Symmetry
+- NOT Axiom
+- Ψ₀
+aliases:
+- Bk234db
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.338028169014084
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

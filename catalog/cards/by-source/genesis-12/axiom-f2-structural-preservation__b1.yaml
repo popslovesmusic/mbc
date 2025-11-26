@@ -1,12 +1,25 @@
+id: GEN12-1664
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-functoriality::axiom-f2-structural-preservation::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2104-2118
+heading: '**Axiom F2 (Structural Preservation).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Functoriality ⟡**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'Each functor preserves the essential structure necessary for the next layer:
   * Δ\\DeltaΔ preserves deviation ordering, * H\\mathcal{H}H preserves harmonic ordering
   and adjacency,'
-heading: '**Axiom F2 (Structural Preservation).**'
-id: GEN12-1664
-lines: 2104-2118
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-functoriality::axiom-f2-structural-preservation::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Functoriality ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- Δ
+aliases:
+- Bk739ef
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.9215686274509802
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,16 +1,37 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- Θ
-- Π
-- Σ
-- Φ
-- δ
-- η
-excerpt: 'Define: * Dev\\mathsf{Dev}Dev: category of δ-fields * Dyn\\mathsf{Dyn}Dyn:
-  potentials'
-heading: '**IV. Category-Theoretic Formulation**'
 id: GEN15-3318
-lines: 935-974
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iv-category-theoretic-formulation::b2
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 935-974
+heading: '**IV. Category-Theoretic Formulation**'
+block_type: paragraph
+excerpt: 'Define: * Dev\\mathsf{Dev}Dev: category of δ-fields * Dyn\\mathsf{Dyn}Dyn:
+  potentials'
+concepts:
+- δ
+- Σ
+- Meta-Einstein
+- Π
+- Φ
+- →
+- Θ
+- δlocal
+- δCSOI
+- category-theoretic
+- η
+- energy-momentum
+- δ-fields
+aliases:
+- Bk751dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.471264367816093
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

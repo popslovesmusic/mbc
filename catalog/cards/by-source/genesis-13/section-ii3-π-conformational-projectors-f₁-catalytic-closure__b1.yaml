@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-excerpt: Π acts as a **closure operator** on Φ-mode harmonics. Let C⊂HC \\subset \\mathcal{H}C⊂H
-  denote a catalytic mode subspace. ---
-heading: '**SECTION II.3 — Π-Conformational Projectors (F₁ Catalytic Closure)**'
 id: GEN13-2555
-lines: 1344-1350
 location: genesis-13/what-biology-is-in-meta-genesis::section-ii3-π-conformational-projectors-f₁-catalytic-closure::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1344-1350
+heading: '**SECTION II.3 — Π-Conformational Projectors (F₁ Catalytic Closure)**'
+block_type: paragraph
+excerpt: Π acts as a **closure operator** on Φ-mode harmonics. Let C⊂HC \\subset \\mathcal{H}C⊂H
+  denote a catalytic mode subspace. ---
+concepts:
+- ⊂
+- Φ-mode
+- Π
+- Φ
+- closure operator
+aliases:
+- Bk328ac
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 21.73913043478261
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

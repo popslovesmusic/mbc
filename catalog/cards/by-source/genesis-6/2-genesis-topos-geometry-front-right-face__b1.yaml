@@ -1,12 +1,27 @@
+id: GEN6-8314
+location: genesis-6/spectral-triple-axiom-box-sealed-version::3-the-full-cubes-commutativity-conditions::2-genesis-topos-geometry-front-right-face::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 767-774
+heading: '**(2) Genesis → Topos → Geometry (front-right face)**'
+parent_heading: '**3\. The Full Cube’s Commutativity Conditions**'
 block_type: paragraph
+excerpt: 'Dδ∘Fσ=FGD\_\\delta \\circ F\_\\sigma \= F\_GDδ​∘Fσ​=FG​ This says: **δ applied
+  in the σ-Topos produces exactly the geometry predicted from Genesis.**'
 concepts:
 - δ
 - σ
-excerpt: 'Dδ∘Fσ=FGD\_\\delta \\circ F\_\\sigma \= F\_GDδ​∘Fσ​=FG​ This says: **δ applied
-  in the σ-Topos produces exactly the geometry predicted from Genesis.**'
-heading: '**(2) Genesis → Topos → Geometry (front-right face)**'
-id: GEN6-8314
-lines: 767-774
-location: genesis-6/spectral-triple-axiom-box-sealed-version::3-the-full-cubes-commutativity-conditions::2-genesis-topos-geometry-front-right-face::b1
-parent_heading: '**3\. The Full Cube’s Commutativity Conditions**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+aliases:
+- Bk002fd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

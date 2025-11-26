@@ -1,21 +1,41 @@
+id: GEN14-2909
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::sealed-axiom-box-one-page::axiom-box-the-δφ-thermodynamic-potential-axiom::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 36-59
+heading: '**Axiom Box: The δ–Φ Thermodynamic Potential Axiom**'
+parent_heading: '**Sealed Axiom Box (one page)**'
 block_type: list
-concepts:
-- Adjoint Triple Compatibility
-- Curvature-Defect
-- Defect Correction
-- Genesis Asymmetry
-- Meta-Genesis
-- Multiplicity Projection
-- The Legendre
-- Trace Projection
-- Π
-- Φ
-- δ
 excerpt: 1. **Genesis Asymmetry (δ):** Deviation is the primitive curvature defect
   of Meta-Genesis. 2. **Φ-Trace Projection:**
-heading: '**Axiom Box: The δ–Φ Thermodynamic Potential Axiom**'
-id: GEN14-2909
-lines: 36-59
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::sealed-axiom-box-one-page::axiom-box-the-δφ-thermodynamic-potential-axiom::b1
-parent_heading: '**Sealed Axiom Box (one page)**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- δ
+- Meta-Genesis
+- Φ
+- Projection
+- Adjoint Triple
+- Curvature
+- Deviation
+- Π
+- Curvature-Defect
+- κ
+- accessible-state
+- →
+- Π-Multiplicity
+- Adjoint Triple Compatibility
+- Π-projection
+aliases:
+- Bk709ga
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

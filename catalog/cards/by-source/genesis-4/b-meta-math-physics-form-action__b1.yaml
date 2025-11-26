@@ -1,11 +1,28 @@
+id: GEN4-7756
+location: genesis-4/the-adjoint-triple::6-how-each-layer-necessitates-the-next::b-meta-math-physics-form-action::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 714-726
+heading: '**(B) Meta-Math ⇒ Physics (Form ⇒ Action)**'
+parent_heading: '**✦ 6\. How Each Layer Necessitates the Next**'
 block_type: paragraph
-concepts:
-- σ
 excerpt: Given structured geometry, operators must act. Curvature must evolve. Fields
   must propagate.
-heading: '**(B) Meta-Math ⇒ Physics (Form ⇒ Action)**'
-id: GEN4-7756
-lines: 714-726
-location: genesis-4/the-adjoint-triple::6-how-each-layer-necessitates-the-next::b-meta-math-physics-form-action::b1
-parent_heading: '**✦ 6\. How Each Layer Necessitates the Next**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Curvature
+- →
+- σ
+aliases:
+- Bk496gs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

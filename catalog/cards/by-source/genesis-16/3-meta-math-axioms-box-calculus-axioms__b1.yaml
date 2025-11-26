@@ -1,8 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: Here we perform a **line-by-line polarity-matched translation**. ---
-heading: '**⭐ 3\. META-MATH AXIOMS → BOX CALCULUS AXIOMS**'
 id: GEN16-3945
-lines: 2609-2613
 location: genesis-16/untitled-document::3-meta-math-axioms-box-calculus-axioms::b1
 source: genesis-16\Untitled_document.md
+lines: 2609-2613
+heading: '**⭐ 3\. META-MATH AXIOMS → BOX CALCULUS AXIOMS**'
+block_type: paragraph
+excerpt: Here we perform a **line-by-line polarity-matched translation**. ---
+concepts:
+- line-by-line polarity-matched translation
+- polarity-matched
+- line-by-line
+aliases:
+- Bk205hp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

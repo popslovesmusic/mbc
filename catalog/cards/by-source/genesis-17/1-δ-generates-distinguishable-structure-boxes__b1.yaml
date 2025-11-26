@@ -1,12 +1,28 @@
+id: GEN17-4959
+location: genesis-17/key-points::proof-sketch-monistic-structural-proof::1-δ-generates-distinguishable-structure-boxes::b1
+source: genesis-17\Key_Points.md
+lines: 1155-1162
+heading: '**1\. δ generates distinguishable structure (Boxes).**'
+parent_heading: '**Proof Sketch (Monistic Structural Proof).**'
 block_type: paragraph
-concepts:
-- Box
-- δ
 excerpt: 'Because IGSOA is monistic and featureless without deviation, any distinguishable
   unit (Box) must come from δ. Thus: **Boxes \= δ-domains.**'
-heading: '**1\. δ generates distinguishable structure (Boxes).**'
-id: GEN17-4959
-lines: 1155-1162
-location: genesis-17/key-points::proof-sketch-monistic-structural-proof::1-δ-generates-distinguishable-structure-boxes::b1
-parent_heading: '**Proof Sketch (Monistic Structural Proof).**'
-source: genesis-17\Key_Points.md
+concepts:
+- IGSOA
+- Box
+- δ
+- δ-domains
+aliases:
+- Bk761bi
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

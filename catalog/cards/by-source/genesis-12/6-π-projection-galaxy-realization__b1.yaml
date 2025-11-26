@@ -1,13 +1,30 @@
+id: GEN12-1866
+location: genesis-12/untitled-document::6-π-projection-galaxy-realization::b1
+source: genesis-12\Untitled_document.md
+lines: 2191-2213
+heading: '**6\. Π Projection: Galaxy Realization**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- ρ
 excerpt: 'A curvature kernel becomes an observable galaxy when: * baryonic density
   threshold ρb\>ρcool\\rho\_b \> \\rho\_{\\text{cool}}ρb​\>ρcool​, * Φ₂ mode amplitude
   exceeds luminous threshold,'
-heading: '**6\. Π Projection: Galaxy Realization**'
-id: GEN12-1866
-lines: 2191-2213
-location: genesis-12/untitled-document::6-π-projection-galaxy-realization::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- Π
+- ρ
+- →
+- Φ
+- Φ₂
+aliases:
+- Bk090ck
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

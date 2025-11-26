@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: SU(3) as Automorphisms of 3-Fibered δ-Objects\*\* ---
-heading: '**\*\*Category-Theoretic Proof:**'
 id: GEN9-9519
-lines: 1341-1345
 location: genesis-9/strong-force::category-theoretic-proof::b1
 source: genesis-9\strong-force.md
+lines: 1341-1345
+heading: '**\*\*Category-Theoretic Proof:**'
+block_type: paragraph
+excerpt: SU(3) as Automorphisms of 3-Fibered δ-Objects\*\* ---
+concepts:
+- δ-Objects
+- δ
+aliases:
+- Bk544af
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

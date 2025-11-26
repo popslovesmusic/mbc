@@ -1,16 +1,37 @@
+id: GEN12-1626
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::4-π-observables::42-π-projected-curvature-cmb-anisotropies::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1461-1494
+heading: '**4.2 Π-Projected Curvature → CMB Anisotropies**'
+parent_heading: '**4\. Π → Observables**'
 block_type: paragraph
-concepts:
-- discrete
-- Π
-- Φ
-- δ
-- λ
 excerpt: 'CMB anisotropies represent the simplest Π-image of Φ. Every observed multipole
   aℓma\_{\\ell m}aℓm​ is: aℓm=Π(ϕk)for some mode k.a\_{\\ell m} \= \\Pi(\\phi\_k)
   \\quad \\text{for some mode } k.aℓm​=Π(ϕk...'
-heading: '**4.2 Π-Projected Curvature → CMB Anisotropies**'
-id: GEN12-1626
-lines: 1461-1494
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::4-π-observables::42-π-projected-curvature-cmb-anisotropies::b1
-parent_heading: '**4\. Π → Observables**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- λ
+- Φ
+- projected spacing of the Φ ladder
+- Φ-modes
+- Δ
+- δ-curvature
+- well-known
+- Π-image
+- δ
+- discrete
+aliases:
+- Bk293ca
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.527131782945736
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

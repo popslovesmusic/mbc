@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- projections
-- Φ
-- γ
-excerpt: 'Φ operator excitations give: * giant dipole resonance * quadrupole γ-bands'
-heading: '**3.5 Π-Stress Modes → Nuclear Excited States**'
 id: GEN13-2017
-lines: 207-223
 location: genesis-13/meta-math-nuclear-physics::31-π-projection-nuclear-force::35-π-stress-modes-nuclear-excited-states::b1
-parent_heading: '**3.1 Π-Projection: Nuclear Force**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 207-223
+heading: '**3.5 Π-Stress Modes → Nuclear Excited States**'
+parent_heading: '**3.1 Π-Projection: Nuclear Force**'
+block_type: paragraph
+excerpt: 'Φ operator excitations give: * giant dipole resonance * quadrupole γ-bands'
+concepts:
+- Φ
+- Φ-spectral
+- γ
+aliases:
+- Bk321oe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

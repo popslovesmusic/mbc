@@ -1,13 +1,31 @@
+id: GEN12-1685
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::65-large-scale-structure-lss-predictions::652-filament-angle-distribution::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2382-2388
+heading: '**6.5.2 Filament Angle Distribution**'
+parent_heading: '**6.5 Large-Scale Structure (LSS) Predictions**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'The angular distribution of filaments must follow: p(θ)=Π(mode degeneracies
   of Φ).p(\\theta) \= \\Pi(\\text{mode degeneracies of }\\Phi).p(θ)=Π(mode degeneracies
   of Φ). This predicts a **non-uniform a...'
-heading: '**6.5.2 Filament Angle Distribution**'
-id: GEN12-1685
-lines: 2382-2388
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::65-large-scale-structure-lss-predictions::652-filament-angle-distribution::b1
-parent_heading: '**6.5 Large-Scale Structure (LSS) Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- non-uniform angle distribution
+- θ
+- Π
+- Φ
+- non-uniform
+aliases:
+- Bk018ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,17 +1,32 @@
+id: GEN10-971
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-v-deriving-quantum-mechanics-the-δ-harmonic-spectral-triple::53-δ-harmonics-and-atomic-orbitals::b1
+source: genesis-10\research_overview.md
+lines: 184-196
+heading: '**5.3 δ-Harmonics and Atomic Orbitals**'
+parent_heading: '**Part V: Deriving Quantum Mechanics — The δ-Harmonic Spectral Triple**'
 block_type: paragraph
-concepts:
-- Atomic Orbitals
-- Harmonic Periodic Table Theorem
-- Harmonic Spectral Decomposition
-- Meta-Genesis
-- Periodic Table
-- Theorem
 excerpt: One of the most specific and testable predictions of the theory comes from
   the **$\\delta$-Harmonic Spectral Decomposition**. Just as the vibration of a drumhead
   produces specific harmonic modes, the ...
-heading: '**5.3 δ-Harmonics and Atomic Orbitals**'
-id: GEN10-971
-lines: 184-196
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-v-deriving-quantum-mechanics-the-δ-harmonic-spectral-triple::53-δ-harmonics-and-atomic-orbitals::b1
-parent_heading: '**Part V: Deriving Quantum Mechanics — The δ-Harmonic Spectral Triple**'
-source: genesis-10\research_overview.md
+concepts:
+- Meta-Genesis
+- Theorem
+- first-principles
+- Harmonic Spectral Decomposition
+- Harmonic Periodic Table Theorem
+- Periodic Table
+- Atomic Orbitals
+aliases:
+- Bk856ot
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.216867469879518
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

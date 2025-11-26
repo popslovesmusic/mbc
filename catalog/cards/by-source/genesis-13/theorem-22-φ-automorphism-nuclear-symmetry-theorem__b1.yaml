@@ -1,12 +1,33 @@
+id: GEN13-2067
+location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::theorem-22-φ-automorphism-nuclear-symmetry-theorem::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 800-819
+heading: '**Theorem 2.2 (Φ-Automorphism Nuclear Symmetry Theorem).**'
+parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'The nuclear gauge groups arise as automorphisms of Φ: Gnuclear=Aut(Φ).G\_{\\text{nuclear}}
   \= \\mathrm{Aut}(\\Phi).Gnuclear​=Aut(Φ). More explicitly:'
-heading: '**Theorem 2.2 (Φ-Automorphism Nuclear Symmetry Theorem).**'
-id: GEN13-2067
-lines: 800-819
-location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::theorem-22-φ-automorphism-nuclear-symmetry-theorem::b1
-parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- →
+- Proof
+- δ
+- δ-degeneracy
+- δ-dipoles
+- Φ³
+aliases:
+- Bk788tn
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.368421052631578
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

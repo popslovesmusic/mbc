@@ -1,15 +1,31 @@
+id: GEN0-299
+location: genesis-0/why-the-first-action-is-necessary::2-the-first-distinction-creates-an-ordering::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 770-807
+heading: '**2\. The First Distinction Creates an Ordering**'
 block_type: paragraph
-concepts:
-- First Distinction
-- Meta-Time
-- must
-- Ψ
-- δ
 excerpt: 'In Ψ₀, no two states can be compared because there is only one state. But
   the instant δ acts, there exist two genuinely different configurations: Ψ0andΨ1=Ψ0+δΨ0.\\Psi\_0
   \\quad \\text{and} \\quad \\Ps...'
-heading: '**2\. The First Distinction Creates an Ordering**'
-id: GEN0-299
-lines: 770-807
-location: genesis-0/why-the-first-action-is-necessary::2-the-first-distinction-creates-an-ordering::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- Ψ
+- Meta-Time
+- δ
+- before-after
+- ≠
+- First Distinction
+- Ψ₀
+aliases:
+- Bk746ts
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

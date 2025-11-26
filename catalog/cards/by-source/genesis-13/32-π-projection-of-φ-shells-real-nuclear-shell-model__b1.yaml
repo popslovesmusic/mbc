@@ -1,10 +1,26 @@
+id: GEN13-2040
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-the-physical-nuclear-regime::32-π-projection-of-φ-shells-real-nuclear-shell-model::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 504-518
+heading: '**3.2 Π-Projection of Φ-Shells → Real Nuclear Shell Model**'
+parent_heading: '**3\. Π-Layer: The Physical Nuclear Regime**'
 block_type: paragraph
+excerpt: 'Reproduce: * magic numbers * spin–orbit splittings'
 concepts:
 - Φ
-excerpt: 'Reproduce: * magic numbers * spin–orbit splittings'
-heading: '**3.2 Π-Projection of Φ-Shells → Real Nuclear Shell Model**'
-id: GEN13-2040
-lines: 504-518
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-the-physical-nuclear-regime::32-π-projection-of-φ-shells-real-nuclear-shell-model::b1
-parent_heading: '**3\. Π-Layer: The Physical Nuclear Regime**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+- Φ-edge
+aliases:
+- Bk238rm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

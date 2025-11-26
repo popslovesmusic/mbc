@@ -1,11 +1,24 @@
+id: GEN9-9270
+location: genesis-9/does-meta-genesis-indicate-new-physics::corollaries::corollary-a-no-total-symmetry::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1001-1003
+heading: '**Corollary A (No Total Symmetry).**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
+excerpt: 'Total symmetry (Ψ₀) cannot be attained: δ prevents collapse.'
 concepts:
 - Ψ
 - δ
-excerpt: 'Total symmetry (Ψ₀) cannot be attained: δ prevents collapse.'
-heading: '**Corollary A (No Total Symmetry).**'
-id: GEN9-9270
-lines: 1001-1003
-location: genesis-9/does-meta-genesis-indicate-new-physics::corollaries::corollary-a-no-total-symmetry::b1
-parent_heading: '**Corollaries**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+- Ψ₀
+aliases:
+- Bk488ts
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

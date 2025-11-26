@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- hyper-sensitivity
-- physics
-- δ
-excerpt: 'The newborn universe has: * Adjacencies * Ordering'
-heading: '**1\. Narrative Prelude — When the universe discovers repetition**'
 id: GEN4-7918
-lines: 1921-1975
 location: genesis-4/the-first-adjacency::1-narrative-prelude-when-the-universe-discovers-repetition::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 1921-1975
+heading: '**1\. Narrative Prelude — When the universe discovers repetition**'
+block_type: paragraph
+excerpt: 'The newborn universe has: * Adjacencies * Ordering'
+concepts:
+- Curvature
+- hyper-sensitivity
+- δ-steps
+- δ
+- physics
+aliases:
+- Bk501tn
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.5211267605633805
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

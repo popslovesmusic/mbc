@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (IGS/OA come from low/high eigenvalues)
-heading: A. Define the spectral decomposition of 𝓕
 id: GEN17-4706
-lines: 8244-8246
 location: genesis-17/box-calculus::6-what-we-should-do-next::a-define-the-spectral-decomposition-of-𝓕::b1
-parent_heading: ⭐ 6\. What we should do next
 source: genesis-17\box_calculus.md
+lines: 8244-8246
+heading: A. Define the spectral decomposition of 𝓕
+parent_heading: ⭐ 6\. What we should do next
+block_type: paragraph
+excerpt: (IGS/OA come from low/high eigenvalues)
+aliases:
+- Bk599ic
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

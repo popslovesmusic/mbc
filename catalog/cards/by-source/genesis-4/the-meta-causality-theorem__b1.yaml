@@ -1,18 +1,43 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Genesis Axiom Box
-- Meta-Causality
-- Theorem
-- Theoretic Form
-- Topos-Theoretic
-- δ
-- σ
-excerpt: (*Topos-Theoretic Form*) **Theorem (Meta-Causality).** Let σ-Topos\\sigma\\text{-Topos}σ-Topos
-  be the ∞-topos of scale-sheaves, and let
-heading: '**THE META-CAUSALITY THEOREM**'
 id: GEN4-7646
-lines: 638-661
 location: genesis-4/meta-physics-axiom-box::the-meta-causality-theorem::b1
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 638-661
+heading: '**THE META-CAUSALITY THEOREM**'
+block_type: paragraph
+excerpt: (*Topos-Theoretic Form*) **Theorem (Meta-Causality).** Let σ-Topos\\sigma\\text{-Topos}σ-Topos
+  be the ∞-topos of scale-sheaves, and let
+concepts:
+- δ
+- Axiom
+- σ
+- →
+- Theorem
+- well-defined internal preorder
+- light-cone
+- Box
+- ∈
+- ∃
+- π
+- Topos-Theoretic
+- scale-invariant
+- external geometric reflection
+- Meta-Causality
+aliases:
+- Th356tt
+tags:
+- meta-causality
+- low-uncertainty
+- axiom-box
+- theorem
+- definitive
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.032679738562091
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

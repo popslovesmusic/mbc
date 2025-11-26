@@ -1,12 +1,29 @@
+id: INTK-10016
+location: intake/meta-genesis-mathematical-papers::2-minimal-structure-proof-algebraic::lemma-1-δ¹-breaks-perfect-symmetry::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1110-1124
+heading: '**Lemma 1 — δ¹ breaks perfect symmetry.**'
+parent_heading: '**2\. Minimal-Structure Proof (Algebraic)**'
 block_type: paragraph
+excerpt: 'δΨ0≠Ψ0.\\delta\\Psi\_0 \\neq \\Psi\_0.δΨ0​=Ψ0​. Breaking symmetry introduces:
+  * a boundary'
 concepts:
 - Ψ
 - δ
-excerpt: 'δΨ0≠Ψ0.\\delta\\Psi\_0 \\neq \\Psi\_0.δΨ0​=Ψ0​. Breaking symmetry introduces:
-  * a boundary'
-heading: '**Lemma 1 — δ¹ breaks perfect symmetry.**'
-id: INTK-10016
-lines: 1110-1124
-location: intake/meta-genesis-mathematical-papers::2-minimal-structure-proof-algebraic::lemma-1-δ¹-breaks-perfect-symmetry::b1
-parent_heading: '**2\. Minimal-Structure Proof (Algebraic)**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+- non-zero
+- ≠
+aliases:
+- Bk526dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.793103448275861
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

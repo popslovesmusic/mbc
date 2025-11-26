@@ -1,10 +1,25 @@
+id: GEN20-6739
+location: genesis-20/mbc-40-documentaitio-1::proposed-companion-section-advanced-router-logic-adaptive-semantics::chapter-x-building-logic-gates-with-the-θ-router::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1105-1115
+heading: Chapter X — Building Logic Gates with the Θ-Router
+parent_heading: '📘 Proposed Companion Section: Advanced Router Logic & Adaptive Semantics'
 block_type: list
-concepts: []
 excerpt: '* AND as polarity-convergent flow * OR as polarity-unified flow * NOT as
   polarity inversion'
-heading: Chapter X — Building Logic Gates with the Θ-Router
-id: GEN20-6739
-lines: 1105-1115
-location: genesis-20/mbc-40-documentaitio-1::proposed-companion-section-advanced-router-logic-adaptive-semantics::chapter-x-building-logic-gates-with-the-θ-router::b1
-parent_heading: '📘 Proposed Companion Section: Advanced Router Logic & Adaptive Semantics'
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- polarity-convergent
+- polarity-unified
+aliases:
+- Bk286ap
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

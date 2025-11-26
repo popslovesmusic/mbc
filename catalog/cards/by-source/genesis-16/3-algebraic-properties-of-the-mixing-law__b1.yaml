@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We formally specify the laws the operator must satisfy:'
-heading: '**3\. Algebraic Properties of the Mixing Law**'
 id: GEN16-3800
-lines: 881-883
 location: genesis-16/untitled-document::3-algebraic-properties-of-the-mixing-law::b1
 source: genesis-16\Untitled_document.md
+lines: 881-883
+heading: '**3\. Algebraic Properties of the Mixing Law**'
+block_type: paragraph
+excerpt: 'We formally specify the laws the operator must satisfy:'
+aliases:
+- Bk109fs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,40 @@
-block_type: table
-concepts:
-- Box
-- Sealed Consequence
-- Standard Form
-- Π
-- Φ
-- δ
-- τ
-excerpt: '*(Sealed)* Π:Pot→Poset\\Pi:\\text{Pot}\\to\\text{Poset}Π:Pot→Poset **Sealed
-  Consequence:**'
-heading: '**BOX 4 — The Π-Causality Axiom (Birth of Time)**'
 id: GEN18-5238
-lines: 1339-1360
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::box-4-the-π-causality-axiom-birth-of-time::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1339-1360
+heading: '**BOX 4 — The Π-Causality Axiom (Birth of Time)**'
+block_type: table
+excerpt: '*(Sealed)* Π:Pot→Poset\\Pi:\\text{Pot}\\to\\text{Poset}Π:Pot→Poset **Sealed
+  Consequence:**'
+concepts:
+- Π
+- Φ
+- IGSOA
+- MBC
+- δ
+- Box
+- τ
+- →
+- causal-ordering
+- Φ-structured
+- Box-objects
+- ≠
+- only when Φ exists
+- Sealed Consequence
+- Standard Form
+aliases:
+- Bk921ss
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.304347826086957
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,31 @@
+id: GEN5-8005
+location: genesis-5/formal-proof-of-the-adjoint-triple::7-coda-unity-does-not-mean-simplicity::3-proof-of-naturality::31-left-side-under-φ1phi-1φ1::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 991-1015
+heading: '**3.1 Left side under Φ−1\\Phi^{-1}Φ−1**'
+parent_heading: '**3\. Proof of naturality**'
 block_type: paragraph
-concepts:
-- Φ
-- η
 excerpt: 'Consider U(Lf)∘ηX:X→U(LX′).U(Lf)\\circ \\eta\_X : X \\to U(LX'').U(Lf)∘ηX​:X→U(LX′).
   Apply ΦX,LX′−1\\Phi^{-1}\_{X,LX''}ΦX,LX′−1​:'
-heading: '**3.1 Left side under Φ−1\\Phi^{-1}Φ−1**'
-id: GEN5-8005
-lines: 991-1015
-location: genesis-5/formal-proof-of-the-adjoint-triple::7-coda-unity-does-not-mean-simplicity::3-proof-of-naturality::31-left-side-under-φ1phi-1φ1::b1
-parent_heading: '**3\. Proof of naturality**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- η
+- Φ
+- ΦX
+- →
+- MM-morphism
+- one-liner
+- XXX-slot
+aliases:
+- Bk542cc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: true
+concept_density: 2.8000000000000003
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

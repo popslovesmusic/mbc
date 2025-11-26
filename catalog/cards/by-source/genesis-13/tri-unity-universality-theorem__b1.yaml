@@ -1,14 +1,50 @@
+id: GEN13-2375
+location: genesis-13/the-weight-of-light::5-hermetic-sealed-box::sealed-hermetic-box::tri-unity-universality-theorem::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1595-1626
+heading: '**Tri-Unity Universality Theorem**'
+parent_heading: '**█ SEALED HERMETIC BOX █**'
 block_type: paragraph
-concepts:
-- Curvature Closure
-- Π
-- Φ
-- δ
 excerpt: '**Axioms:** (Monism A1), (Deviation A2), (Naturality A3), (Projection A4),
   (Curvature Closure A5), (Universality A6). **Then:**'
-heading: '**Tri-Unity Universality Theorem**'
-id: GEN13-2375
-lines: 1595-1626
-location: genesis-13/the-weight-of-light::5-hermetic-sealed-box::sealed-hermetic-box::tri-unity-universality-theorem::b1
-parent_heading: '**█ SEALED HERMETIC BOX █**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- Φ
+- Π
+- Projection
+- Curvature
+- Deviation
+- →
+- unique triple of functors
+- Curvature Closure
+- δF
+aliases:
+- Am001a
+tags:
+- A6
+- A2
+- A1
+- low-uncertainty
+- A3
+- A4
+- axiom
+- A5
+- definitive
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.403361344537815
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1
+- A2
+- A3
+- A4
+- A5
+- A6

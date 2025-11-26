@@ -1,10 +1,24 @@
+id: SPEC-10988
+location: special/specil::5-so-what-is-the-true-hierarchy::layer-2-deviation-δ::b1
+source: special\specil.md
+lines: 312-320
+heading: '**Layer 2: Deviation (δ)**'
+parent_heading: '**🧩 5\. So what is the true hierarchy?**'
 block_type: list
-concepts: []
 excerpt: '* The first effect of IGSOA acting under NOT. * The non-zero point on the
   brane. * The source of asymmetry.'
-heading: '**Layer 2: Deviation (δ)**'
-id: SPEC-10988
-lines: 312-320
-location: special/specil::5-so-what-is-the-true-hierarchy::layer-2-deviation-δ::b1
-parent_heading: '**🧩 5\. So what is the true hierarchy?**'
-source: special\specil.md
+concepts:
+- IGSOA
+- non-zero
+aliases:
+- Bk714tf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,10 +1,27 @@
+id: GEN9-9465
+location: genesis-9/strong-force::3-phase-cycles-the-bridge-from-degeneracy-to-symmetry::31-θ-phase-doublets::b1
+source: genesis-9\strong-force.md
+lines: 357-367
+heading: '**3.1 θ-phase (Doublets)**'
+parent_heading: '**3\. Phase-Cycles: The Bridge from Degeneracy to Symmetry**'
 block_type: paragraph
-concepts: []
 excerpt: 'A 2-fold harmonic degeneracy forms: θ∈Z2.\\theta \\in \\mathbb{Z}\_2.θ∈Z2​.
   Its automorphism group:'
-heading: '**3.1 θ-phase (Doublets)**'
-id: GEN9-9465
-lines: 357-367
-location: genesis-9/strong-force::3-phase-cycles-the-bridge-from-degeneracy-to-symmetry::31-θ-phase-doublets::b1
-parent_heading: '**3\. Phase-Cycles: The Bridge from Degeneracy to Symmetry**'
-source: genesis-9\strong-force.md
+concepts:
+- θ
+- ∈
+- weak interaction
+aliases:
+- Bk987fh
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.5
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

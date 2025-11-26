@@ -1,13 +1,31 @@
+id: GEN17-4325
+location: genesis-17/box-calculus::3-expansion-direction-iii-dynamic-systems-field-theory::31-semantic-evolution-equation::b1
+source: genesis-17\box_calculus.md
+lines: 2514-2522
+heading: 3.1. Semantic Evolution Equation
+parent_heading: '3\. Expansion Direction III: Dynamic Systems & Field Theory'
 block_type: paragraph
-concepts:
-- Box
-- Now Box Calculus
-- Σ
 excerpt: 'Continuous-time generalization of the discrete transition function: dΣdt=F(Σ,t)
   dt'
-heading: 3.1. Semantic Evolution Equation
-id: GEN17-4325
-lines: 2514-2522
-location: genesis-17/box-calculus::3-expansion-direction-iii-dynamic-systems-field-theory::31-semantic-evolution-equation::b1
-parent_heading: '3\. Expansion Direction III: Dynamic Systems & Field Theory'
-source: genesis-17\box_calculus.md
+concepts:
+- Box Calculus
+- Σ
+- Box
+- Continuous-time
+- Now Box Calculus
+- Σdt
+aliases:
+- Bk695ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

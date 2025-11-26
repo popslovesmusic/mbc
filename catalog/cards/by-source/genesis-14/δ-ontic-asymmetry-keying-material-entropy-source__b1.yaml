@@ -1,12 +1,29 @@
+id: GEN14-2826
+location: genesis-14/meta-math-and-cryptography::3-δ-the-origin-of-secrecy-entropy-as-deviation::δ-ontic-asymmetry-keying-material-entropy-source::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 564-578
+heading: '**δ \= ontic asymmetry \= keying material \= entropy source**'
+parent_heading: '**3\. δ: The Origin of Secrecy (Entropy as Deviation)**'
 block_type: list
-concepts:
-- Meta-Math
-- δ
 excerpt: '* δ distinguishes one message from another. * δ distinguishes one ciphertext
   from another. * δ distinguishes one authentication code from another.'
-heading: '**δ \= ontic asymmetry \= keying material \= entropy source**'
-id: GEN14-2826
-lines: 564-578
-location: genesis-14/meta-math-and-cryptography::3-δ-the-origin-of-secrecy-entropy-as-deviation::δ-ontic-asymmetry-keying-material-entropy-source::b1
-parent_heading: '**3\. δ: The Origin of Secrecy (Entropy as Deviation)**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Meta-Math
+- Deviation
+- δ
+- →
+aliases:
+- Bk722do
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.16326530612245
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,31 @@
+id: GEN15-3263
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-the-igsoa-formal-proof-sketch::1-csoi-as-δ-adjacency-extension::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 111-127
+heading: '**1\. CSOI as δ-adjacency extension**'
+parent_heading: '**V. The IGSOA-Formal Proof Sketch**'
 block_type: paragraph
-concepts:
-- not
-- tail
-- δ
 excerpt: 'The causal sphere is defined by: C(x):={y  ∣  δ-adj(x,y)\>0}\\mathcal{C}(x)
   := \\{ y \\;|\\; \\delta\\text{-adj}(x,y) \> 0 \\}C(x):={y∣δ-adj(x,y)\>0} which
   does **not** decay with temporal constraints...'
-heading: '**1\. CSOI as δ-adjacency extension**'
-id: GEN15-3263
-lines: 111-127
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-the-igsoa-formal-proof-sketch::1-csoi-as-δ-adjacency-extension::b1
-parent_heading: '**V. The IGSOA-Formal Proof Sketch**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- δ
+- ∫
+- δ-adj
+- light-cone
+- δ-field
+- x-y
+- not
+- tail
+aliases:
+- Bk541tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.30232558139535
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

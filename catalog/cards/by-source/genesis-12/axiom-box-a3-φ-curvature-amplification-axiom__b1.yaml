@@ -1,14 +1,32 @@
+id: GEN12-1773
+location: genesis-12/untitled-document::2-axiom-boxes-for-δ-inflation::axiom-box-a3-φ-curvature-amplification-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 849-857
+heading: '**Axiom Box A3 — Φ-Curvature Amplification Axiom**'
+parent_heading: '**2\. Axiom Boxes for δ-Inflation**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
-- λ
 excerpt: 'Φ exponentially amplifies **curvature gradients**: Φ:δ↦δ eλ(δ)t.\\Phi: \\delta
   \\mapsto \\delta\\,e^{\\lambda(\\delta)t}.Φ:δ↦δeλ(δ)t. Here λ(δ)\\lambda(\\delta)λ(δ)
   is a curvature-dependent Lyapunov e...'
-heading: '**Axiom Box A3 — Φ-Curvature Amplification Axiom**'
-id: GEN12-1773
-lines: 849-857
-location: genesis-12/untitled-document::2-axiom-boxes-for-δ-inflation::axiom-box-a3-φ-curvature-amplification-axiom::b1
-parent_heading: '**2\. Axiom Boxes for δ-Inflation**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- λ
+- Φ
+- curvature-dependent
+- curvature gradients
+- δe
+aliases:
+- Bk513ea
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.634146341463413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

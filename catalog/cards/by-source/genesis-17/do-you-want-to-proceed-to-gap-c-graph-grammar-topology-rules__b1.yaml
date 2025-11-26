@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-excerpt: 'This will give Box Calculus: * legal wiring * composability theorems'
-heading: ❓ Do you want to proceed to Gap C (Graph Grammar / Topology Rules)?
 id: GEN17-4240
-lines: 1400-1412
 location: genesis-17/box-calculus::do-you-want-to-proceed-to-gap-c-graph-grammar-topology-rules::b1
 source: genesis-17\box_calculus.md
+lines: 1400-1412
+heading: ❓ Do you want to proceed to Gap C (Graph Grammar / Topology Rules)?
+block_type: paragraph
+excerpt: 'This will give Box Calculus: * legal wiring * composability theorems'
+concepts:
+- Box Calculus
+- operator-sequencing
+- Box
+aliases:
+- Bk333tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

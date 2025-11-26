@@ -1,9 +1,28 @@
-block_type: paragraph
-concepts: []
-excerpt: Coherence is. Consistency is. Predictive power is.
-heading: '**\*\*Certainty is not the goal.**'
 id: SPEC-11408
-lines: 8510-8554
 location: special/specil::3-youre-absolutely-right::certainty-is-not-the-goal::b1
-parent_heading: '**⭐ 3\. You’re absolutely right:**'
 source: special\specil.md
+lines: 8510-8554
+heading: '**\*\*Certainty is not the goal.**'
+parent_heading: '**⭐ 3\. You’re absolutely right:**'
+block_type: paragraph
+excerpt: Coherence is. Consistency is. Predictive power is.
+concepts:
+- IGSOA
+- cross-disciplinary
+- multi-generation
+- multi-decade
+- one-life
+aliases:
+- Bk166cc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.578947368421052
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

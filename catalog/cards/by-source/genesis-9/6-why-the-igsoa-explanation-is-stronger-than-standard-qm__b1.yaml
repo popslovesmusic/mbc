@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- Π
-- δ
-excerpt: 'Standard QM explains orbital shapes and periodicity using: * conservation
-  of angular momentum * boundary conditions in 3D space'
-heading: '**6\. Why the IGSOA explanation is stronger than standard QM**'
 id: GEN9-9358
-lines: 388-413
 location: genesis-9/is-the-source-of-all-structure::6-why-the-igsoa-explanation-is-stronger-than-standard-qm::b1
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 388-413
+heading: '**6\. Why the IGSOA explanation is stronger than standard QM**'
+block_type: paragraph
+excerpt: 'Standard QM explains orbital shapes and periodicity using: * conservation
+  of angular momentum * boundary conditions in 3D space'
+concepts:
+- Meta-Time
+- IGSOA
+- cannot explain why the universe has these laws in the first place
+- δ-harmonic
+- Π
+- δ
+aliases:
+- Bk335se
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

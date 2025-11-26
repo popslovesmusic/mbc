@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- structure
-- Ψ
-excerpt: 'In mathematics and physics, an operator is a rule that: * acts on something
-  * transforms something'
-heading: '**1\. What an Operator *Is***'
 id: GEN0-282
-lines: 423-452
 location: genesis-0/why-the-first-action-is-necessary::1-what-an-operator-is::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 423-452
+heading: '**1\. What an Operator *Is***'
+block_type: paragraph
+excerpt: 'In mathematics and physics, an operator is a rule that: * acts on something
+  * transforms something'
+concepts:
+- →
+- distinguishable directions
+- adjacent possibilities
+- Ψ
+- structure
+- state space
+- Ψ₀
+aliases:
+- Bk231ma
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

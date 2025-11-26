@@ -1,10 +1,25 @@
+id: GEN20-7017
+location: genesis-20/mbc-40-documentaitio-1::conclusion::133-the-core-clusters-of-advanced-topics::cluster-d-tensor-semantic-field-interpretation::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4478-4492
+heading: Cluster D — Tensor & Semantic Field Interpretation
+parent_heading: 13.3 The Core Clusters of Advanced Topics
 block_type: paragraph
-concepts: []
 excerpt: 'Already previewed in Chapter 10, but the full treatment includes: * semantic
   curvature fields * influence manifolds'
-heading: Cluster D — Tensor & Semantic Field Interpretation
-id: GEN20-7017
-lines: 4478-4492
-location: genesis-20/mbc-40-documentaitio-1::conclusion::133-the-core-clusters-of-advanced-topics::cluster-d-tensor-semantic-field-interpretation::b1
-parent_heading: 13.3 The Core Clusters of Advanced Topics
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- multi-dimensional
+aliases:
+- Bk644ap
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.7027027027027026
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

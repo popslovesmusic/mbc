@@ -1,14 +1,32 @@
+id: GEN16-3802
+location: genesis-16/untitled-document::3-algebraic-properties-of-the-mixing-law::32-identity-element::b1
+source: genesis-16\Untitled_document.md
+lines: 889-895
+heading: '**3.2 Identity Element**'
+parent_heading: '**3\. Algebraic Properties of the Mixing Law**'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Σ
 excerpt: 'There exists a “neutral semantic element” e∈Ve\\in\\mathscr{V}e∈V such that:
   Σ⊕e=Σ\\Sigma\\oplus e \= \\SigmaΣ⊕e=Σ This is the Box Calculus analog of IGSOA’s
   “baseline meaning.”'
-heading: '**3.2 Identity Element**'
-id: GEN16-3802
-lines: 889-895
-location: genesis-16/untitled-document::3-algebraic-properties-of-the-mixing-law::32-identity-element::b1
-parent_heading: '**3\. Algebraic Properties of the Mixing Law**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Box Calculus
+- IGSOA
+- Σ
+- Box
+- ⊕
+- ∈
+aliases:
+- Bk437te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

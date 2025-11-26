@@ -1,21 +1,42 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Foundation Layer Seal
-- Layer
-- Meta-Time
-- Theorem
-- Tri-Unity
-- Unity Axiom Box
-- Unity Theorem
-- Π
-- Φ
-- δ
-excerpt: ✔ A fully sealed **Tri-Unity Axiom Box** ✔ A **9-diagram appendix** with
-  refined ASCII graphs ✔ TikZ, Mermaid, SVG versions
-heading: '**If you want next steps:**'
 id: GEN8-8842
-lines: 1399-1408
 location: genesis-8/meta-time-geometry-and-temporal-projection::if-you-want-next-steps::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1399-1408
+heading: '**If you want next steps:**'
+block_type: paragraph
+excerpt: ✔ A fully sealed **Tri-Unity Axiom Box** ✔ A **9-diagram appendix** with
+  refined ASCII graphs ✔ TikZ, Mermaid, SVG versions
+concepts:
+- Tri-Unity
+- Meta-Time
+- Foundation Layer
+- Theorem
+- Axiom
+- Layer
+- Proof
+- Tri-Unity Axiom Box
+- Meta-Time geometry
+- Box
+- Foundation Layer Seal
+- Π
+- δ
+- Φ
+- Unity Axiom Box
+aliases:
+- Bk201fs
+tags:
+- proof
+- low-uncertainty
+- axiom-box
+- sealed
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.629629629629626
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

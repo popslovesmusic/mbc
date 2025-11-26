@@ -1,16 +1,31 @@
+id: GEN9-9103
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::7-naturality-conditions-tri-unity-enforcement::composite-δ-π-naturality::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1146-1156
+heading: '**Composite δ → Π naturality**'
+parent_heading: '**7\. Naturality Conditions (Tri-Unity Enforcement)**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Θ
-- Π
-- Φ
-- δ
 excerpt: 'Π(Φ(δ(f)))∘ΘX=ΘY∘f.\\Pi(\\Phi(\\delta(f))) \\circ \\Theta\_X \= \\Theta\_Y
   \\circ f.Π(Φ(δ(f)))∘ΘX​=ΘY​∘f. These conditions express: **Harmonic changes propagate
   coherently into geometric changes which...'
-heading: '**Composite δ → Π naturality**'
-id: GEN9-9103
-lines: 1146-1156
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::7-naturality-conditions-tri-unity-enforcement::composite-δ-π-naturality::b1
-parent_heading: '**7\. Naturality Conditions (Tri-Unity Enforcement)**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Tri-Unity
+- Θ
+- δ
+- Π
+- Φ
+aliases:
+- Bk330pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.615384615384617
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

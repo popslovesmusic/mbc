@@ -1,18 +1,39 @@
+id: INTK-10826
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::string-theory-and-spin-networks-connection::spin-networks-as-peakset-graphs::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2672-2687
+heading: Spin Networks as Peakset Graphs
+parent_heading: String Theory and Spin Networks Connection
 block_type: paragraph
-concepts:
-- Deviation Calculus
-- Meta-Math
-- Peakset Interaction Graph
-- Spin Network
-- Structure
-- Γ
-- δ
 excerpt: '**Peakset Interaction Graph**: - Nodes = peaksets (localized configurations
   of deviation in PPG) - Edges = non-zero interaction under Deviation Calculus or
   A/H/E/F operators'
-heading: Spin Networks as Peakset Graphs
-id: INTK-10826
-lines: 2672-2687
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::string-theory-and-spin-networks-connection::spin-networks-as-peakset-graphs::b1
-parent_heading: String Theory and Spin Networks Connection
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Math
+- Deviation
+- δ
+- δ-coupling
+- δ-couplings
+- Peakset Interaction Graph
+- δ-related
+- non-zero
+- Γ
+- Spin Network state
+- Deviation Calculus
+- Spin Network
+- Structure
+aliases:
+- Bk955pi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.294117647058824
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

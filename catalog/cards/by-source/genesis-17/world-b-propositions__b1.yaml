@@ -1,9 +1,25 @@
-block_type: table
-concepts: []
-excerpt: Denote propositions by P P.
-heading: 'World B: Propositions'
 id: GEN17-4572
-lines: 6627-6636
 location: genesis-17/box-calculus::curryhoward-for-box-calculus::1-the-four-worlds::world-b-propositions::b1
-parent_heading: 1\. The Four Worlds
 source: genesis-17\box_calculus.md
+lines: 6627-6636
+heading: 'World B: Propositions'
+parent_heading: 1\. The Four Worlds
+block_type: table
+excerpt: Denote propositions by P P.
+concepts:
+- IGSOA
+- Proposition
+aliases:
+- Bk261if
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

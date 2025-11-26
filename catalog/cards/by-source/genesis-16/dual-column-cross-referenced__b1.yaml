@@ -1,19 +1,42 @@
+id: GEN16-3668
+location: genesis-16/quantum-measurement-in-igsoa-vs::quantum-measurement-in-igsoa-vs-standard-physics::dual-column-cross-referenced::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 4-13
+heading: '***(Dual-Column, Cross-Referenced)***'
+parent_heading: '**Quantum Measurement in IGSOA vs. Standard Physics**'
 block_type: table
-concepts:
-- Causal Sphere
-- Geometry Interpretation
-- In Copenhagen
-- Many Worlds
-- Standard Quantum Mechanics Interpretation
-- Π
-- Φ
-- δ
 excerpt: \<br\> \*\*Measurement \= δ-mode → Φ-mode projection\*\*, which is a structural
   transition inside the δ→Φ→Π chain. | \*\*1. Collapse as an update of the wavefunction\*\*
   In Copenhagen, measurement for...
-heading: '***(Dual-Column, Cross-Referenced)***'
-id: GEN16-3668
-lines: 4-13
-location: genesis-16/quantum-measurement-in-igsoa-vs::quantum-measurement-in-igsoa-vs-standard-physics::dual-column-cross-referenced::b1
-parent_heading: '**Quantum Measurement in IGSOA vs. Standard Physics**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- δ
+- IGSOA
+- →
+- Π
+- Φ
+- Π-evaluation
+- δ-geometry
+- δ-mode
+- Standard Quantum Mechanics Interpretation
+- δ-mode adjacency structure
+- δ-adjacency
+- coherence-fixed-point
+- δ-potential
+- non-unitary
+- Π-operator
+aliases:
+- Bk254ig
+tags:
+- qualified
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.4144736842105265
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

@@ -1,11 +1,33 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-excerpt: 'A full MBC network is coherent iff: 1. All boxes satisfy Φ-stability 2.
-  All evaluations satisfy Π-admissibility'
-heading: A3.7 Global Coherence of the Network
 id: GEN20-7150
-lines: 6212-6230
 location: genesis-20/mbc-40-documentaitio-1::a37-global-coherence-of-the-network::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6212-6230
+heading: A3.7 Global Coherence of the Network
+block_type: paragraph
+excerpt: 'A full MBC network is coherent iff: 1. All boxes satisfy Φ-stability 2.
+  All evaluations satisfy Π-admissibility'
+concepts:
+- ∀
+- MBC
+- ∈
+- polarity-consistent
+- cycle-stability
+- Π-admissibility
+- Φ-stability
+- Π
+- Φ
+aliases:
+- Bk292fm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

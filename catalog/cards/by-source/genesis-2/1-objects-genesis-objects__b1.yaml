@@ -1,15 +1,40 @@
+id: GEN2-6228
+location: genesis-2/axioms-for-the-category-genesis::1-objects-genesis-objects::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 21-41
+heading: '**1\. Objects (Genesis-Objects)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Genesis Objects
-- Zero State
-- Ψ
-- δ
 excerpt: '**Axiom G1 — Genesis Objects** The objects of Genesis are **states of deviation**,
   denoted: Ob(Genesis)={Ψ0, δΨ0, Ψ1, Ψ2,… }\\text{Ob(Genesis)} \= \\{\\Psi\_0,\\ \\delta\\Psi\_0,\\
   \\Psi\_1,\\ \\Psi\_...'
-heading: '**1\. Objects (Genesis-Objects)**'
-id: GEN2-6228
-lines: 21-41
-location: genesis-2/axioms-for-the-category-genesis::1-objects-genesis-objects::b1
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Ψ
+- δ
+- Axiom
+- State
+- adjacency-generated
+- Ψn
+- ∀
+- ≥
+- operator-free
+- ≠
+- states of deviation
+- n-th
+- Genesis Objects
+- Zero State
+aliases:
+- Am965ag
+tags:
+- -genesis-objects
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.736842105263156
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

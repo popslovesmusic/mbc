@@ -1,12 +1,28 @@
+id: GEN2-6466
+location: genesis-2/axioms-of-geometry-topos-compatible::iv-φ-layer-action-flow-mathematics::axiom-φ-2-φ-commutator-and-φ-logic::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1940-1944
+heading: '**Axiom (Φ-2) — Φ-Commutator and Φ-Logic**'
+parent_heading: '**IV. Φ-Layer (Action-Flow / Mathematics)**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: \[f,g\]Φ=Φ(f)g−fΦ(g),Φ(P)=P iff P is Φ-necessary.\[f,g\]\_\\Phi=\\Phi(f)g
   \- f\\Phi(g), \\qquad \\Phi(P)=P \\text{ iff } P\\text{ is Φ-necessary.}\[f,g\]Φ​=Φ(f)g−fΦ(g),Φ(P)=P
   iff P is Φ-necessary. ---
-heading: '**Axiom (Φ-2) — Φ-Commutator and Φ-Logic**'
-id: GEN2-6466
-lines: 1940-1944
-location: genesis-2/axioms-of-geometry-topos-compatible::iv-φ-layer-action-flow-mathematics::axiom-φ-2-φ-commutator-and-φ-logic::b1
-parent_heading: '**IV. Φ-Layer (Action-Flow / Mathematics)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Φ
+- Φ-necessary
+aliases:
+- Bk578in
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.7735849056603774
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

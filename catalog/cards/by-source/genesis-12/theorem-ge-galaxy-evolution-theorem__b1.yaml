@@ -1,18 +1,41 @@
+id: GEN12-1915
+location: genesis-12/untitled-document::the-galaxy-evolution-theorem::theorem-ge-galaxy-evolution-theorem::b1
+source: genesis-12\Untitled_document.md
+lines: 2862-2886
+heading: '**Theorem GE (Galaxy Evolution Theorem).**'
+parent_heading: '**The Galaxy Evolution Theorem**'
 block_type: paragraph
-concepts:
-- Galaxy Formation Theorem
-- Let Gi
-- Theorem
-- evolution
-- Π
-- Φ
-- δ
 excerpt: '*Let δ be the Genesis deviation field, Φ₁ and Φ₂ the linear and nonlinear
   curvature-evolution functors, and Π the observational projection.* *Let Gi=Π(Φ2(Φ1(δ)))\\mathcal{G}\_i
   \= \\Pi(\\Phi\_2(\\Phi\...'
-heading: '**Theorem GE (Galaxy Evolution Theorem).**'
-id: GEN12-1915
-lines: 2862-2886
-location: genesis-12/untitled-document::the-galaxy-evolution-theorem::theorem-ge-galaxy-evolution-theorem::b1
-parent_heading: '**The Galaxy Evolution Theorem**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- Φ
+- Π
+- time-dependent δ-harmonic content
+- Theorem
+- evolution
+- adjacency-nonlinearity
+- δ-harmonic
+- curvature-evolution
+- Φ₂
+- time-dependent
+- Π-observable
+- right-hand
+- Galaxy Formation Theorem
+- δ-mode
+aliases:
+- Bk884lt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.653846153846153
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

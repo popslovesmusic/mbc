@@ -1,11 +1,33 @@
-block_type: paragraph
-concepts:
-- δ
-- η
-excerpt: 'The unit: η:Id⇒Tδ\\eta : \\mathrm{Id} \\Rightarrow T\_\\deltaη:Id⇒Tδ​ embeds
-  any δ-state into its **generated universe**.'
-heading: '**🔷 4\. Monad Unit \= Δ → δ-Universe Expansion**'
 id: GEN15-3440
-lines: 958-980
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::4-monad-unit-δ-δ-universe-expansion::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 958-980
+heading: '**🔷 4\. Monad Unit \= Δ → δ-Universe Expansion**'
+block_type: paragraph
+excerpt: 'The unit: η:Id⇒Tδ\\eta : \\mathrm{Id} \\Rightarrow T\_\\deltaη:Id⇒Tδ​ embeds
+  any δ-state into its **generated universe**.'
+concepts:
+- δ
+- Δ
+- η
+- δ-perturbation
+- δ-adjacency
+- δ-state
+- δ-mode
+- generated universe
+- CSOI doctrine
+aliases:
+- Bk926tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

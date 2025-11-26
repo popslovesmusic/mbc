@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Given: k:B1→B3B2k : B\_1 \\to B\_3^{B\_2}k:B1​→B3B2​​ define:'
-heading: '**Define Uncurrying**'
 id: GEN16-4074
-lines: 4263-4275
 location: genesis-16/untitled-document::6-currying-isomorphism::define-uncurrying::b1
-parent_heading: '**⭐ 6\. Currying Isomorphism**'
 source: genesis-16\Untitled_document.md
+lines: 4263-4275
+heading: '**Define Uncurrying**'
+parent_heading: '**⭐ 6\. Currying Isomorphism**'
+block_type: paragraph
+excerpt: 'Given: k:B1→B3B2k : B\_1 \\to B\_3^{B\_2}k:B1​→B3B2​​ define:'
+concepts:
+- →
+aliases:
+- Bk403gd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.5384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

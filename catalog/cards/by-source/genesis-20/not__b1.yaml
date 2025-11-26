@@ -1,11 +1,23 @@
-block_type: paragraph
-concepts:
-- Θ
-- Π
-excerpt: 'NOT is polarity inversion: Π(Not A) \= Π(Θ\_inverted(A))'
-heading: NOT
 id: GEN20-6857
-lines: 2622-2625
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::84-logical-operators-as-router-configurations::not::b1
-parent_heading: 8.4 Logical Operators as Router Configurations
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2622-2625
+heading: NOT
+parent_heading: 8.4 Logical Operators as Router Configurations
+block_type: paragraph
+excerpt: 'NOT is polarity inversion: Π(Not A) \= Π(Θ\_inverted(A))'
+concepts:
+- Π
+- Θ
+aliases:
+- Bk730np
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,11 +1,27 @@
+id: GEN4-7748
+location: genesis-4/the-adjoint-triple::the-monistic-philosophy-of-igsoa::δ-deviation-the-universal-generator-of-structure::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 543-547
+heading: '**δ (Deviation): The universal generator of structure.**'
+parent_heading: '**✦ The Monistic Philosophy of IGSOA**'
 block_type: paragraph
-concepts:
-- Deviational Reality
 excerpt: Everything else is a transformation, enrichment, or projection of this underlying
   Deviational Reality. ---
-heading: '**δ (Deviation): The universal generator of structure.**'
-id: GEN4-7748
-lines: 543-547
-location: genesis-4/the-adjoint-triple::the-monistic-philosophy-of-igsoa::δ-deviation-the-universal-generator-of-structure::b1
-parent_heading: '**✦ The Monistic Philosophy of IGSOA**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Deviation
+- Deviational Reality
+aliases:
+- Bk729ee
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

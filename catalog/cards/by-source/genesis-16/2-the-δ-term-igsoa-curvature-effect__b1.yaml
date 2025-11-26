@@ -1,16 +1,40 @@
-block_type: table
-concepts:
-- Mathematical Form
-- Σ
-- α
-- β
-- γ
-- δ
-- λ
-excerpt: 'Common examples: * **Tension term**: pushing Σ in a new direction δ(Σ1,Σ2)=γ(Σ1×Σ2)\\delta(\\Sigma\_1,\\Sigma\_2)=\\gamma(\\Sigma\_1
-  \\times \\Sigma\_2)δ(Σ1​,Σ2​)=γ(Σ1​×Σ2​)'
-heading: '**2\. The δ-Term (IGSOA Curvature Effect)**'
 id: GEN16-3799
-lines: 861-879
 location: genesis-16/untitled-document::2-the-δ-term-igsoa-curvature-effect::b1
 source: genesis-16\Untitled_document.md
+lines: 861-879
+heading: '**2\. The δ-Term (IGSOA Curvature Effect)**'
+block_type: table
+excerpt: 'Common examples: * **Tension term**: pushing Σ in a new direction δ(Σ1,Σ2)=γ(Σ1×Σ2)\\delta(\\Sigma\_1,\\Sigma\_2)=\\gamma(\\Sigma\_1
+  \\times \\Sigma\_2)δ(Σ1​,Σ2​)=γ(Σ1​×Σ2​)'
+concepts:
+- Σ
+- δ
+- IGSOA
+- Projection
+- Curvature
+- γ
+- β
+- α
+- λ
+- →
+- δ-form
+- Projection correction
+- Mathematical Form
+- Curvature term
+- Tension term
+aliases:
+- Bk773ii
+tags:
+- qualified
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.109004739336493
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

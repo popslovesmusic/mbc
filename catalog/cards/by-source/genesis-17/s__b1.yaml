@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (dynamic topology / category dynamics)
-heading: S
 id: GEN17-4850
-lines: 10347-10349
 location: genesis-17/box-calculus::next-step-options::s::b1
-parent_heading: ⭐ Next Step Options
 source: genesis-17\box_calculus.md
+lines: 10347-10349
+heading: S
+parent_heading: ⭐ Next Step Options
+block_type: paragraph
+excerpt: (dynamic topology / category dynamics)
+aliases:
+- Bk076dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

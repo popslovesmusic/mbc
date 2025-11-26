@@ -1,12 +1,28 @@
+id: GEN20-7018
+location: genesis-20/mbc-40-documentaitio-1::conclusion::133-the-core-clusters-of-advanced-topics::cluster-e-operadic-2-category-deepening::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4494-4507
+heading: Cluster E — Operadic & 2-Category Deepening
+parent_heading: 13.3 The Core Clusters of Advanced Topics
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Beyond the basic category mapping, advanced material explores: * monoidal
   structures * operadic composition of δ-modes'
-heading: Cluster E — Operadic & 2-Category Deepening
-id: GEN20-7018
-lines: 4494-4507
-location: genesis-20/mbc-40-documentaitio-1::conclusion::133-the-core-clusters-of-advanced-topics::cluster-e-operadic-2-category-deepening::b1
-parent_heading: 13.3 The Core Clusters of Advanced Topics
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- δ-modes
+- Π
+- δ
+aliases:
+- Bk575bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Σ
-- δ
-excerpt: 'IGSOA is governed by one operator, F F, which is:'
-heading: 🔷 1\. The Fundamental Insight
 id: GEN17-4836
-lines: 10099-10129
 location: genesis-17/box-calculus::the-meta-genesis-differential-equation-mgde::1-the-fundamental-insight::b1
-parent_heading: ⭐ THE META-GENESIS DIFFERENTIAL EQUATION (MGDE)
 source: genesis-17\box_calculus.md
+lines: 10099-10129
+heading: 🔷 1\. The Fundamental Insight
+parent_heading: ⭐ THE META-GENESIS DIFFERENTIAL EQUATION (MGDE)
+block_type: paragraph
+excerpt: 'IGSOA is governed by one operator, F F, which is:'
+concepts:
+- Σ
+- Δ
+- Axiom
+- IGSOA
+- δ
+- deviation-driven
+- →
+- self-adjoint
+- Σt
+aliases:
+- Bk579ig
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.842105263157894
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

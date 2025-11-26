@@ -1,19 +1,40 @@
+id: GEN13-2394
+location: genesis-13/the-weight-of-light::9-hermetic-sealed-box-version::sealed-axiomtheorem-box::kms-states-from-deviation::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1859-1898
+heading: '**\*\*“KMS States from Deviation:**'
+parent_heading: '**█ SEALED AXIOM/THEOREM BOX █**'
 block_type: paragraph
-concepts:
-- Dynamics Correspondence Theorem
-- Meta-Genesis
-- Theorem
-- Π
-- Φ
-- β
-- δ
-- σ
-- ω
 excerpt: 'A Meta-Genesis → C\*-Dynamics Correspondence Theorem”\*\* **Given:** * δ:
   deviation operator producing curvature'
-heading: '**\*\*“KMS States from Deviation:**'
-id: GEN13-2394
-lines: 1859-1898
-location: genesis-13/the-weight-of-light::9-hermetic-sealed-box-version::sealed-axiomtheorem-box::kms-states-from-deviation::b1
-parent_heading: '**█ SEALED AXIOM/THEOREM BOX █**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- β
+- δ
+- Meta-Genesis
+- Curvature
+- ω
+- δ-excitations
+- Theorem
+- Π
+- σ
+- Dynamics Correspondence Theorem
+- Π-pushforward
+- Π-projection
+- δ-induced
+- δ-level
+- Φ
+aliases:
+- Bk192mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.03896103896104
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

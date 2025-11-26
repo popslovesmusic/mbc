@@ -1,14 +1,31 @@
+id: INTK-10567
+location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::axiom-3-meta-time-operator::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 409-424
+heading: '**Axiom 3 (Meta-Time Operator).**'
+parent_heading: '**2\. Rigorous Theorem-Based Formulation**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- scale
-- δ
-- τ
 excerpt: 'There exists a one-parameter semigroup U(τ)=eτTU(\\tau)=e^{\\tau \\mathcal{T}}U(τ)=eτT
   called **Meta-Time evolution**, with generator T\\mathcal{T}T satisfying:'
-heading: '**Axiom 3 (Meta-Time Operator).**'
-id: INTK-10567
-lines: 409-424
-location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::axiom-3-meta-time-operator::b1
-parent_heading: '**2\. Rigorous Theorem-Based Formulation**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- τ
+- δ
+- scale
+- Meta-Time evolution
+- δi
+- π
+- ∂
+- one-parameter
+aliases:
+- Bk098te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.23529411764706
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

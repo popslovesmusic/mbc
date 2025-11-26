@@ -1,17 +1,40 @@
+id: GEN11-1226
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::section-x-methodology-for-deriving-empirical-predictions-in-igsoa::x1-overview::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1598-1606
+heading: '**X.1 Overview**'
+parent_heading: '**Section X — Methodology for Deriving Empirical Predictions in IGSOA**'
 block_type: paragraph
-concepts:
-- Axiom
-- Empirical Prediction Axiom
-- Λ
-- Π
-- Φ
-- δ
 excerpt: 'The IGSOA framework grounds physical observables in the interaction of three
   fundamental operators: the **deviation operator** δ\\deltaδ, the **propagation/smoothing
   trace** Φ\\PhiΦ, and the **realiza...'
-heading: '**X.1 Overview**'
-id: GEN11-1226
-lines: 1598-1606
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::section-x-methodology-for-deriving-empirical-predictions-in-igsoa::x1-overview::b1
-parent_heading: '**Section X — Methodology for Deriving Empirical Predictions in IGSOA**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- Axiom
+- δ-structure
+- IGSOA Empirical Prediction Axiom
+- Π-projection
+- Empirical Prediction Axiom
+- δ-feature
+- Φ-evolved
+- Λ
+- realization functor
+- deviation operator
+aliases:
+- Bk765ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.965811965811966
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

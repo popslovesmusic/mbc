@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: – precise definitions – lemmas / propositions / theorems – sealed boxes
-heading: '**B. Read as a *fully formal white-paper*?**'
 id: GEN13-2053
-lines: 654-662
 location: genesis-13/meta-math-nuclear-physics::do-you-want-this-chapter-to::b-read-as-a-fully-formal-white-paper::b1
-parent_heading: '**Do you want this chapter to:**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 654-662
+heading: '**B. Read as a *fully formal white-paper*?**'
+parent_heading: '**Do you want this chapter to:**'
+block_type: paragraph
+excerpt: – precise definitions – lemmas / propositions / theorems – sealed boxes
+concepts:
+- category-theoretic
+aliases:
+- Bk450pd
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

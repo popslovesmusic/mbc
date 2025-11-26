@@ -1,16 +1,33 @@
+id: GEN7-8585
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::8-final-boxed-result-axiom-style::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 521-531
+heading: '**8\. Final Boxed Result (Axiom-Style)**'
 block_type: paragraph
-concepts:
-- Λ
-- Φ
-- δ
-- λ
-- μ
-- ρ
 excerpt: 'Vδ(Φ)=λδ4Φ4−μδ22Φ2+Λδ\\boxed{ V\_\\delta(\\Phi) \= \\frac{\\lambda\_{\\delta}}{4}\\Phi^{4}
   \- \\frac{\\mu\_{\\delta}^{2}}{2}\\Phi^{2} \+ \\Lambda\_{\\delta} }Vδ​(Φ)=4λδ​​Φ4−2μδ2​​Φ2+Λδ​​
   with: Φ=VμVμ,...'
-heading: '**8\. Final Boxed Result (Axiom-Style)**'
-id: GEN7-8585
-lines: 521-531
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::8-final-boxed-result-axiom-style::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- δ
+- μ
+- Φ
+- λ
+- ρ
+- Λ
+- δ-Higgs
+- →
+aliases:
+- Bk491bd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.6190476190476195
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

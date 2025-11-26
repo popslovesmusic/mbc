@@ -1,20 +1,41 @@
+id: GEN0-095
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-vacuum-equations::derived-from-the-full-deviational-geometry-lagrangian::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1394-1408
+heading: '***Derived from the full Deviational Geometry Lagrangian***'
+parent_heading: '**The δ-Higgs Vacuum Equations**'
 block_type: paragraph
-concepts:
-- Λ
-- Ψ
-- α
-- β
-- γ
-- δ
-- δ-field
-- λ
-- μ
 excerpt: 'We start from the **canonical δ-Higgs potential**, consistent with Ψ₀ →
   Ψ₁: V(δ)=Λδ+μδ22 ∥δ∥2+λδ4 ∥δ∥4+α2(∇(δ)δ)2+β4(∇(δ)δ)4+γ A\[δ\].V(\\delta) \= \\Lambda\_{\\delta}
   \+ \\frac{\\mu\_\\delta^2}{2}\\,...'
-heading: '***Derived from the full Deviational Geometry Lagrangian***'
-id: GEN0-095
-lines: 1394-1408
-location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-vacuum-equations::derived-from-the-full-deviational-geometry-lagrangian::b1
-parent_heading: '**The δ-Higgs Vacuum Equations**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- ∇
+- canonical δ-Higgs potential
+- γ
+- β
+- μ
+- Λ
+- ∑
+- λ
+- Ψ
+- α
+- δ-field
+- δ-Higgs
+- →
+- δS
+aliases:
+- Bk060sf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.781954887218044
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

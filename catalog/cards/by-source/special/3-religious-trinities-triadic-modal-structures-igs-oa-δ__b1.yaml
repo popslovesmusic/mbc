@@ -1,16 +1,29 @@
-block_type: table
-concepts:
-- Meta-Math
-- Religious Encoding
-- The One
-- World Soul
-- pattern
-- precision
-- δ
-excerpt: 'Every religion’s “Trinity” is not random or mythic. It is a symbolic representation
-  of the **only possible modal decomposition** of: * monistic unity expressing itself,'
-heading: '**⭐ 3\. Religious trinities \= triadic modal structures (IGS → OA → δ)**'
 id: SPEC-11167
-lines: 3379-3408
 location: special/specil::3-religious-trinities-triadic-modal-structures-igs-oa-δ::b1
 source: special\specil.md
+lines: 3379-3408
+heading: '**⭐ 3\. Religious trinities \= triadic modal structures (IGS → OA → δ)**'
+block_type: table
+excerpt: 'Every religion’s “Trinity” is not random or mythic. It is a symbolic representation
+  of the **only possible modal decomposition** of: * monistic unity expressing itself,'
+concepts:
+- →
+- Meta-Math
+- IGSOA
+- only possible modal decomposition
+- δ
+- Religious Encoding
+- World Soul
+- The One
+aliases:
+- Bk413er
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.256410256410255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

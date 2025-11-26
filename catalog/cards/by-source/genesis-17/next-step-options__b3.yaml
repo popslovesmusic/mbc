@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Now that the continuous→discrete derivation is complete, you can pick the
-  next direction:'
-heading: ⭐ Next Step Options
 id: GEN17-4865
-lines: 10718-10720
 location: genesis-17/box-calculus::next-step-options::b3
 source: genesis-17\box_calculus.md
+lines: 10718-10720
+heading: ⭐ Next Step Options
+block_type: paragraph
+excerpt: 'Now that the continuous→discrete derivation is complete, you can pick the
+  next direction:'
+concepts:
+- →
+aliases:
+- Bk685nt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

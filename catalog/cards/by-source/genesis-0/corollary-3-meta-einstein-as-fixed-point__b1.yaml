@@ -1,18 +1,38 @@
+id: GEN0-167
+location: genesis-0/tri-unity-theorem-equivalence-of::corollaries-the-useful-spells::corollary-3-meta-einstein-as-fixed-point::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 155-164
+heading: '**Corollary 3 (Meta-Einstein as fixed point)**'
+parent_heading: '**Corollaries (the useful “spells”)**'
 block_type: paragraph
-concepts:
-- Chromatic Mode Law
-- Field
-- Field Equation
-- Meta-Einstein
-- Mode
-- Φ
-- δ
 excerpt: 'Your δ–Φ Field Equation (Meta-Einstein \+ Chromatic Mode Law) δRΦ=TΦ\\delta
   R\_{\\Phi} \= T\_{\\Phi}δRΦ​=TΦ​ is the **fixed-point equation** of the tri-unity
   triangle:'
-heading: '**Corollary 3 (Meta-Einstein as fixed point)**'
-id: GEN0-167
-lines: 155-164
-location: genesis-0/tri-unity-theorem-equivalence-of::corollaries-the-useful-spells::corollary-3-meta-einstein-as-fixed-point::b1
-parent_heading: '**Corollaries (the useful “spells”)**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Meta-Einstein
+- Chromatic Mode
+- Φ
+- δ
+- Field
+- fixed-point equation
+- Mode
+- fixed-point
+- tri-unity
+- Chromatic Mode Law
+- Field Equation
+- δR
+aliases:
+- Bk509yf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.57894736842105
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

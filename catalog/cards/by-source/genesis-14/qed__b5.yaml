@@ -1,12 +1,31 @@
+id: GEN14-2733
+location: genesis-14/inflation-structure-formation::qed::b5
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1284-1289
+heading: '**Q.E.D.**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: '**Filaments, sheets, nodes, and voids** are the natural Π-images of the
   δ-harmonic degeneracy classes. The cosmic web is a *group-theoretic inevitability*
   of the δ-spectrum. ---'
-heading: '**Q.E.D.**'
-id: GEN14-2733
-lines: 1284-1289
-location: genesis-14/inflation-structure-formation::qed::b5
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- group-theoretic
+- δ-harmonic
+- δ-spectrum
+- Π-images
+- Π
+aliases:
+- Bk143fs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

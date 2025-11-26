@@ -1,15 +1,38 @@
+id: GEN6-8242
+location: genesis-6/harmonics-atomic-orbitals::3-extension-to-full-fractal-indexing::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 422-446
+heading: '**3\) Extension to Full Fractal Indexing**'
 block_type: paragraph
-concepts:
-- Λ
-- α
-- δ
-- μ
-- ρ
 excerpt: 'You previously used a **fractal index** kkk (or qqq) to label deeper self-similar
   levels. The clean extension is: Λnℓk(δ)=Λn(r)+(3ℓ+6ℓ(ℓ−1)) ρk+9 χℓk.(Ek)\\Lambda\_{n\\ell
   k}^{(\\delta)} \= \\Lambda\_...'
-heading: '**3\) Extension to Full Fractal Indexing**'
-id: GEN6-8242
-lines: 422-446
-location: genesis-6/harmonics-atomic-orbitals::3-extension-to-full-fractal-indexing::b1
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- δ
+- χ
+- Λ
+- ρ
+- predictive hierarchy of heavier δ-bosons
+- scale-renormalization
+- fractal sub-shells
+- μ
+- α
+- self-similar
+- sub-shells
+- δ-bosons
+- primary shells
+- fractal index
+aliases:
+- Bk463yp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

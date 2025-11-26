@@ -1,14 +1,29 @@
-block_type: paragraph
-concepts:
-- Genesis Projects Free Energy
-- How Meta
-- Meta-Genesis
-- Physical World
-- Why Heat Exists
-excerpt: '**“Why Heat Exists: How Meta-Genesis Projects Free Energy into the Physical
-  World”** ---'
-heading: '**Title (Narrative/Outreach)**'
 id: GEN14-2907
-lines: 8-12
 location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::title-narrativeoutreach::b1
 source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 8-12
+heading: '**Title (Narrative/Outreach)**'
+block_type: paragraph
+excerpt: '**“Why Heat Exists: How Meta-Genesis Projects Free Energy into the Physical
+  World”** ---'
+concepts:
+- Meta-Genesis
+- Genesis Projects Free Energy
+- Why Heat Exists
+- Physical World
+- How Meta
+aliases:
+- Bk956wh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 38.46153846153847
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

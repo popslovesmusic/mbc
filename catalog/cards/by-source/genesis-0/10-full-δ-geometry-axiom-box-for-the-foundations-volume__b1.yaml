@@ -1,14 +1,33 @@
+id: GEN0-049
+location: genesis-0/feynman-rules-interaction-vertices::10-full-δ-geometry-axiom-box-for-the-foundations-volume::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 641-647
+heading: '**10\. Full δ-Geometry Axiom Box (for the Foundations Volume)**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Φ
-- δ
-- σ
 excerpt: '1\.  δ is the primitive geometric field.2.  ∇(δ) defines the δ-connection.3.  Rabmn=\[∇a(δ),∇b(δ)\]mn.4.  gab=π(δ)
   is the emergent metric.5.  Gab=Rab−12gabR.6.  Gab=Tab(δ)+Tab(Φ)+Tab(σ).7.  Einstein:
   ...'
-heading: '**10\. Full δ-Geometry Axiom Box (for the Foundations Volume)**'
-id: GEN0-049
-lines: 641-647
-location: genesis-0/feynman-rules-interaction-vertices::10-full-δ-geometry-axiom-box-for-the-foundations-volume::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- Meta-Time
+- Adjacency
+- δ-geometry
+- ∇
+- IGSOA
+- π
+- σ
+- δ-connection
+- canonical δ-geometry layer
+- Φ
+aliases:
+- Bk402tp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.8034934497816595
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

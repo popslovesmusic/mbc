@@ -1,14 +1,31 @@
+id: GEN9-9260
+location: genesis-9/does-meta-genesis-indicate-new-physics::formal-definitions::definition-2-deviation-functor-δ::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 879-889
+heading: '**Definition 2\. (Deviation Functor δ)**'
+parent_heading: '**Formal Definitions**'
 block_type: paragraph
-concepts:
-- Axiom
-- Deviation Persistence
-- Ψ
-- δ
 excerpt: 'δ : IGS → IGS is an endofunctor satisfying: * δ(Ψ₀) ≠ Ψ₀ * δ(x) introduces
   an ontological asymmetry'
-heading: '**Definition 2\. (Deviation Functor δ)**'
-id: GEN9-9260
-lines: 879-889
-location: genesis-9/does-meta-genesis-indicate-new-physics::formal-definitions::definition-2-deviation-functor-δ::b1
-parent_heading: '**Formal Definitions**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- δ
+- Deviation
+- Axiom
+- ≠
+- Ψ
+- return-to-zero
+- Deviation Persistence
+- →
+- Ψ₀
+aliases:
+- Bk402ii
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

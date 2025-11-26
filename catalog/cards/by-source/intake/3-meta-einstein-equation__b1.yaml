@@ -1,21 +1,38 @@
+id: INTK-10543
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::emergence-of-spacetime-and-gravity::3-meta-einstein-equation::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 2069-2070
+heading: 3. Meta-Einstein Equation
+parent_heading: Emergence of Spacetime and Gravity
 block_type: paragraph
-concepts:
-- Einstein Equation
-- Energy Tensor
-- Gauge Meta
-- Higher-Gauge
-- Meta-Curvature
-- Meta-Einstein
-- Meta-Geometric
-- Meta-Geometry
-- Meta-Stress-Energy
-- δ
 excerpt: The **Higher-Gauge Meta-Einstein Equation** is the fundamental field equation
   in Meta-Geometry, directly relating the Meta-Curvature to the Meta-Stress-Energy
   Tensor (both derived from δ). This equati...
-heading: 3. Meta-Einstein Equation
-id: INTK-10543
-lines: 2069-2070
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::emergence-of-spacetime-and-gravity::3-meta-einstein-equation::b1
-parent_heading: Emergence of Spacetime and Gravity
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Einstein
+- Curvature
+- Higher-Gauge Meta-Einstein Equation
+- Meta-Stress-Energy
+- Meta-Curvature
+- Meta-Geometric
+- Meta-Geometry
+- Higher-Gauge
+- δ
+- Einstein Equation
+- Energy Tensor
+- Gauge Meta
+aliases:
+- Bk537th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.268292682926827
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

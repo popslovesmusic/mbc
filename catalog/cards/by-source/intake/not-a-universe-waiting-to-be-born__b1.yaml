@@ -1,10 +1,23 @@
+id: INTK-10063
+location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::not-a-universe-waiting-to-be-born::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 719-723
+heading: '**\*“Not a universe waiting to be born,**'
+parent_heading: '**The Unmade Universe**'
 block_type: paragraph
-concepts: []
 excerpt: but a universe that never existed at all—until its own impossibility created
   it.”\* ---
-heading: '**\*“Not a universe waiting to be born,**'
-id: INTK-10063
-lines: 719-723
-location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::not-a-universe-waiting-to-be-born::b1
-parent_heading: '**The Unmade Universe**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+aliases:
+- Bk321bu
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

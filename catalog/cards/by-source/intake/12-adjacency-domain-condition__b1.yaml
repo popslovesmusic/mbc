@@ -1,12 +1,28 @@
+id: INTK-10191
+location: intake/meta-genesis-meta-math-integration-papers::1-domains::12-adjacency-domain-condition::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 226-233
+heading: '**1.2 Adjacency Domain Condition**'
+parent_heading: '**1\. Domains**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: A(Ψ)≠∅.A(\\Psi) \\neq \\emptyset.A(Ψ)=∅. Adjacency is the structure that
   supports computation, geometry, and dynamics. Without adjacency, O\\mathcal{O}O
   has nowhere to “propagate.”
-heading: '**1.2 Adjacency Domain Condition**'
-id: INTK-10191
-lines: 226-233
-location: intake/meta-genesis-meta-math-integration-papers::1-domains::12-adjacency-domain-condition::b1
-parent_heading: '**1\. Domains**'
-source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+concepts:
+- Adjacency
+- Ψ
+- ≠
+aliases:
+- Bk939pn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

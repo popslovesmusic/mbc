@@ -1,13 +1,30 @@
+id: GEN5-8018
+location: genesis-5/formal-proof-of-the-adjoint-triple::corollary-standard-categorical-form::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1209-1215
+heading: '**Corollary (Standard Categorical Form)**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- η
-- ρ
 excerpt: If a natural retraction ρ\\rhoρ of η\\etaη existed, the unit would split
   naturally, hence **LLL would be full and faithful** and the adjunction would be
   a **reflection / equivalence**. But in IGSOA, U...
-heading: '**Corollary (Standard Categorical Form)**'
-id: GEN5-8018
-lines: 1209-1215
-location: genesis-5/formal-proof-of-the-adjoint-triple::corollary-standard-categorical-form::b1
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- Meta-Genesis
+- IGSOA
+- η
+- ρ
+- LLL would be full and faithful
+- operator-free
+aliases:
+- Bk827nr
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.836065573770492
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

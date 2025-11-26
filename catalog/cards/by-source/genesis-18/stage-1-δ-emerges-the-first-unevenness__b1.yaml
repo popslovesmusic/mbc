@@ -1,12 +1,29 @@
+id: GEN18-5344
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-dual-column-explanation-of-each-stage::stage-1-δ-emerges-the-first-unevenness::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2650-2660
+heading: '**Stage 1 — δ Emerges: “The First Unevenness”**'
+parent_heading: '**2\. Dual-Column Explanation of Each Stage**'
 block_type: table
-concepts:
-- Standard Narrative
-- δ
 excerpt: '**Narrative metaphor:** *A wrinkle appears in the blanket of the absolute.*
   ---'
-heading: '**Stage 1 — δ Emerges: “The First Unevenness”**'
-id: GEN18-5344
-lines: 2650-2660
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-dual-column-explanation-of-each-stage::stage-1-δ-emerges-the-first-unevenness::b1
-parent_heading: '**2\. Dual-Column Explanation of Each Stage**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- Curvature
+- IGSOA
+- δ
+- Standard Narrative
+aliases:
+- Bk066sn
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

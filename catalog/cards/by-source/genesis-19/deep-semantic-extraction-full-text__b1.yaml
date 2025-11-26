@@ -1,24 +1,40 @@
-block_type: table
-concepts:
-- Box
-- Claim-Schema
-- Discourse Frame
-- Hidden Unintentional Pattern
-- Insight Claim
-- Kernel Concept
-- Kernel Peakset
-- Meta-Insight
-- Overall Geometry
-- Semantic Tensor Upgrade
-- Θ
-- Π
-- Φ
-- α
-- β
-excerpt: '---'
-heading: Deep Semantic Extraction (Full-text)
 id: GEN19-6212
-lines: 2448-2464
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::this-is-fully-strict-mode-compliant::deep-semantic-extraction-full-text::b1
-parent_heading: ✅ This is fully strict-mode compliant
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2448-2464
+heading: Deep Semantic Extraction (Full-text)
+parent_heading: ✅ This is fully strict-mode compliant
+block_type: table
+excerpt: '---'
+concepts:
+- FTC-I
+- Φ-projection
+- FTC-II
+- γ
+- ∫
+- Polarity
+- IGSOA
+- MBC
+- Box
+- Π
+- Box-chain
+- →
+- Antiderivative-existence
+- Theorem
+- Integral-as-evaluation
+aliases:
+- Bk147mi
+tags:
+- qualified
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.241379310344828
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,36 @@
-block_type: paragraph
-concepts:
-- Λ
-- δ
-- μ
-excerpt: 'In the low-energy sector (E \<\< base δ mass), the EFT for δ is: Leff=12(∂μδ)2−∑n=1∞cnΛn−4(δn)+∑kZk(∂2)kδ+…\\mathcal{L}\_{\\text{eff}}
-  \= \\frac{1}{2} (\\partial\_\\mu \\delta)^2 \- \\sum\_{n=1}^{\\in...'
-heading: '**3\. EFT Description of δ-Bosons**'
 id: GEN0-311
-lines: 1079-1097
 location: genesis-0/why-the-first-action-is-necessary::3-eft-description-of-δ-bosons::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1079-1097
+heading: '**3\. EFT Description of δ-Bosons**'
+block_type: paragraph
+excerpt: 'In the low-energy sector (E \<\< base δ mass), the EFT for δ is: Leff=12(∂μδ)2−∑n=1∞cnΛn−4(δn)+∑kZk(∂2)kδ+…\\mathcal{L}\_{\\text{eff}}
+  \= \\frac{1}{2} (\\partial\_\\mu \\delta)^2 \- \\sum\_{n=1}^{\\in...'
+concepts:
+- δ
+- ∑
+- ∂
+- Higher-derivative terms
+- low-energy
+- Higher-derivative
+- self-interactions
+- μ
+- Λ
+- ∞
+- Polynomial δ interactions
+- δ-bosons
+- δ-tower
+- δ-δ
+- δn
+aliases:
+- Bk188tl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.363636363636363
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

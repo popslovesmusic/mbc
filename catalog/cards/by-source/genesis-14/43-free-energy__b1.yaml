@@ -1,12 +1,31 @@
+id: GEN14-2915
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::main-paper-outline-formal::4-deriving-thermodynamic-potentials::43-free-energy::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 105-108
+heading: '**4.3 Free Energy:**'
+parent_heading: '**4\. Deriving Thermodynamic Potentials**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: '**F \= TrΦ(δ² – δκ)** Curvature defect removes non-recoverable adjacency
   bias.'
-heading: '**4.3 Free Energy:**'
-id: GEN14-2915
-lines: 105-108
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::main-paper-outline-formal::4-deriving-thermodynamic-potentials::43-free-energy::b1
-parent_heading: '**4\. Deriving Thermodynamic Potentials**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Curvature
+- δ
+- non-recoverable
+- Φ
+- κ
+- δ²
+aliases:
+- Bk594cd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 54.54545454545454
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

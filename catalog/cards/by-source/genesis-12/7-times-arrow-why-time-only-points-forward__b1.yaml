@@ -1,14 +1,29 @@
-block_type: paragraph
-concepts:
-- expressions
-- fact
-- Π
-- Φ
-- δ
-excerpt: Time points forward because δ cannot be undone. Symmetry can be restored
-  locally, cleaned up, smoothed— but the **fact** of asymmetry cannot be reversed.
-heading: '**7\. Time’s Arrow: Why Time Only Points Forward**'
 id: GEN12-1975
-lines: 4049-4074
 location: genesis-12/untitled-document::7-times-arrow-why-time-only-points-forward::b1
 source: genesis-12\Untitled_document.md
+lines: 4049-4074
+heading: '**7\. Time’s Arrow: Why Time Only Points Forward**'
+block_type: paragraph
+excerpt: Time points forward because δ cannot be undone. Symmetry can be restored
+  locally, cleaned up, smoothed— but the **fact** of asymmetry cannot be reversed.
+concepts:
+- δ
+- one-way
+- Π
+- Φ
+- fact
+aliases:
+- Bk061tp
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.154639175257731
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

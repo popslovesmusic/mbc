@@ -1,15 +1,37 @@
+id: GEN13-2345
+location: genesis-13/the-weight-of-light::the-full-99-δ-boson-spectrum-table::axes::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1192-1210
+heading: '**Axes**'
+parent_heading: '**THE FULL 9×9 δ-BOSON SPECTRUM TABLE**'
 block_type: list
-concepts:
-- Columns
-- Rows
-- Π
-- Φ
-- δ
 excerpt: '* **Rows** \= δ-harmonic shell HnH\_nHn​, n=1…9n \= 1…9n=1…9 * **Columns**
   \= Φ-mode lift Φm\\Phi\_mΦm​, m=1…9m \= 1…9m=1…9 Each entry is the **bosonic excitation**:'
-heading: '**Axes**'
-id: GEN13-2345
-lines: 1192-1210
-location: genesis-13/the-weight-of-light::the-full-99-δ-boson-spectrum-table::axes::b1
-parent_heading: '**THE FULL 9×9 δ-BOSON SPECTRUM TABLE**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Φ
+- Π
+- Φm
+- δ
+- δ-curvature
+- Π-projected
+- δ-harmonic
+- Φ-trace
+- Φ-mode
+- bosonic excitation
+- Columns
+- Rows
+aliases:
+- Bk930rh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.901408450704224
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

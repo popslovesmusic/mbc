@@ -1,18 +1,35 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Deviation Stability Theorem
-- Meta-Math
-- Monism Axiom
-- Theorem
-- resilience
-- Π
-- Φ
-- δ
-excerpt: 'Breaking a cryptosystem means: * **Finding a non-natural inverse** * Constructing
-  **an invalid natural transformation**'
-heading: '**6\. Cryptanalysis as “Inverse Meta-Math”**'
 id: GEN14-2805
-lines: 162-188
 location: genesis-14/meta-math-and-cryptography::6-cryptanalysis-as-inverse-meta-math::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 162-188
+heading: '**6\. Cryptanalysis as “Inverse Meta-Math”**'
+block_type: paragraph
+excerpt: 'Breaking a cryptosystem means: * **Finding a non-natural inverse** * Constructing
+  **an invalid natural transformation**'
+concepts:
+- Meta-Math
+- Deviation
+- Theorem
+- Axiom
+- Finding a non-natural inverse
+- δ
+- an invalid natural transformation
+- Π
+- Deviation Stability Theorem
+- non-natural
+- δ-states
+- Φ
+- Monism Axiom
+- NOT axiom
+aliases:
+- Bk106bc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.867469879518072
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

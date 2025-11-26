@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: It is the storage of causality as dependency.\*\* ---
-heading: '**\*\*the structural connector that defines how all boxes relate.**'
 id: GEN17-4942
-lines: 940-944
 location: genesis-17/key-points::4-this-makes-igsoa-a-dependency-graph-monism::the-structural-connector-that-defines-how-all-boxes-relate::b1
-parent_heading: '**⭐ 4\. This makes IGSOA a dependency-graph monism**'
 source: genesis-17\Key_Points.md
+lines: 940-944
+heading: '**\*\*the structural connector that defines how all boxes relate.**'
+parent_heading: '**⭐ 4\. This makes IGSOA a dependency-graph monism**'
+block_type: paragraph
+excerpt: It is the storage of causality as dependency.\*\* ---
+aliases:
+- Bk029ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

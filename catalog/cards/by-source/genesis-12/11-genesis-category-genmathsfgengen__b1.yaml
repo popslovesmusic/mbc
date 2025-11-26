@@ -1,13 +1,29 @@
+id: GEN12-1983
+location: genesis-12/untitled-document::1-the-categories-involved::11-genesis-category-genmathsfgengen::b1
+source: genesis-12\Untitled_document.md
+lines: 4192-4200
+heading: '**1.1 Genesis Category Gen\\mathsf{Gen}Gen**'
+parent_heading: '**1\. The Categories Involved**'
 block_type: list
-concepts:
-- Axiom
-- Ψ
 excerpt: '* **Objects:** Proto-states with or without deviation. * **Morphisms:**
   Genesis-to-Genesis relations preserving the NOT Axiom. * Distinguished initial object:
   perfect symmetry Ψ0\\Psi\_0Ψ0​.'
-heading: '**1.1 Genesis Category Gen\\mathsf{Gen}Gen**'
-id: GEN12-1983
-lines: 4192-4200
-location: genesis-12/untitled-document::1-the-categories-involved::11-genesis-category-genmathsfgengen::b1
-parent_heading: '**1\. The Categories Involved**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Axiom
+- Genesis-to-Genesis
+- Ψ
+- Proto-states
+aliases:
+- Bk778op
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,27 @@
+id: GEN9-9441
+location: genesis-9/strong-force::a-sealed-axiom-box-for-your-hierarchy::axiom-box-the-χ-triplet-emergence-axiom::consequence::b1
+source: genesis-9\strong-force.md
+lines: 96-102
+heading: '**Consequence.**'
+parent_heading: '**Axiom Box: The χ-Triplet Emergence Axiom**'
 block_type: paragraph
-concepts:
-- Standard Model
 excerpt: The strong force is not independent; it is forced by the existence of a χ-triplet
   sector. This matches (and explains) the Standard Model structure without assuming
   it. ---
-heading: '**Consequence.**'
-id: GEN9-9441
-lines: 96-102
-location: genesis-9/strong-force::a-sealed-axiom-box-for-your-hierarchy::axiom-box-the-χ-triplet-emergence-axiom::consequence::b1
-parent_heading: '**Axiom Box: The χ-Triplet Emergence Axiom**'
-source: genesis-9\strong-force.md
+concepts:
+- χ
+- Standard Model
+aliases:
+- Bk180ts
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

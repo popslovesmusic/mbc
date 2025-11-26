@@ -1,12 +1,27 @@
+id: GEN16-3778
+location: genesis-16/untitled-document::proceeding-operator-kernel-registry-v02-canonical-spec::before-i-generate-it::do-you-want-the-registry-to-be::a-minimal-core-spec::b1
+source: genesis-16\Untitled_document.md
+lines: 567-577
+heading: '**A) Minimal-Core Spec**'
+parent_heading: '**Do you want the Registry to be:**'
 block_type: paragraph
+excerpt: 'Only the primitives: * EEE, AAA, ρ\\rhoρ (polarity) * R\\mathcal{R}R (router)'
 concepts:
 - Π
 - Φ
 - ρ
-excerpt: 'Only the primitives: * EEE, AAA, ρ\\rhoρ (polarity) * R\\mathcal{R}R (router)'
-heading: '**A) Minimal-Core Spec**'
-id: GEN16-3778
-lines: 567-577
-location: genesis-16/untitled-document::proceeding-operator-kernel-registry-v02-canonical-spec::before-i-generate-it::do-you-want-the-registry-to-be::a-minimal-core-spec::b1
-parent_heading: '**Do you want the Registry to be:**'
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk537ot
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

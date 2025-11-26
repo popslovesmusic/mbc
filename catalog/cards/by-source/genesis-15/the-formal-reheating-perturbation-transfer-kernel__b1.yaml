@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Just tell me which bridge or chapter you want next.
-heading: '**✓ The formal Reheating → Perturbation Transfer Kernel**'
 id: GEN15-3189
-lines: 1786-1788
 location: genesis-15/the-mass-curvature-projection-theorem::what-you-can-ask-for-next::the-formal-reheating-perturbation-transfer-kernel::b1
-parent_heading: '**What you can ask for next**'
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1786-1788
+heading: '**✓ The formal Reheating → Perturbation Transfer Kernel**'
+parent_heading: '**What you can ask for next**'
+block_type: paragraph
+excerpt: Just tell me which bridge or chapter you want next.
+aliases:
+- Bk439jt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

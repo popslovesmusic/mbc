@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Just tell me which next step you want.
-heading: '**E. Comparison to actual LIGO–Virgo echo data**'
 id: GEN11-1032
-lines: 623-625
 location: genesis-11/how-curvature-could-generate-an-axis::if-you-want-i-can-now-generate::e-comparison-to-actual-ligovirgo-echo-data::b1
-parent_heading: '**✅ If you want, I can now generate:**'
 source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 623-625
+heading: '**E. Comparison to actual LIGO–Virgo echo data**'
+parent_heading: '**✅ If you want, I can now generate:**'
+block_type: paragraph
+excerpt: Just tell me which next step you want.
+aliases:
+- Bk675jt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

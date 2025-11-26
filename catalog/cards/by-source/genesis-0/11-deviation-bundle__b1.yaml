@@ -1,13 +1,31 @@
+id: GEN0-039
+location: genesis-0/feynman-rules-interaction-vertices::1-δ-manifold-primary-structure::11-deviation-bundle::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 502-511
+heading: '**1.1. Deviation bundle**'
+parent_heading: '**1\. δ-Manifold (primary structure)**'
 block_type: paragraph
-concepts:
-- Scale-Topos
-- δ
-- δ-mode
 excerpt: 'There exists a bundle D→MD\\to\\mathcal MD→M such that each fiber hosts
   a *δ-mode*: δ(x)=∑mδ(m)(x) em\\delta(x)=\\sum\_m \\delta^{(m)}(x)\\, e\_mδ(x)=m∑​δ(m)(x)em​'
-heading: '**1.1. Deviation bundle**'
-id: GEN0-039
-lines: 502-511
-location: genesis-0/feynman-rules-interaction-vertices::1-δ-manifold-primary-structure::11-deviation-bundle::b1
-parent_heading: '**1\. δ-Manifold (primary structure)**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- ∑
+- →
+- Scale-Topos
+- δ-mode
+- ∞
+aliases:
+- Bk198te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

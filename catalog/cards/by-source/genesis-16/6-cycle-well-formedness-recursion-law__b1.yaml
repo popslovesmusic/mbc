@@ -1,13 +1,39 @@
+id: GEN16-3844
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::6-cycle-well-formedness-recursion-law::b1
+source: genesis-16\Untitled_document.md
+lines: 1388-1412
+heading: '**6\. Cycle-Well-Formedness (Recursion Law)**'
+parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
 block_type: table
-concepts:
-- contractive
-- ρ
 excerpt: 'Cycles are **allowed only in controlled form**. A directed cycle CCC is
   legal iff: CycleWF(C)  ⟺  ∃ A on C ∧ ∃ ρR on C ∧ E-halting holds on C\\boxed{ \\mathrm{CycleWF}(C)\\iff
   \\exists\\ A \\text{ on ...'
-heading: '**6\. Cycle-Well-Formedness (Recursion Law)**'
-id: GEN16-3844
-lines: 1388-1412
-location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::6-cycle-well-formedness-recursion-law::b1
-parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- IGSOA
+- E-halting
+- ∧
+- ∃
+- ρ
+- At least one branch-resolution
+- Axiom
+- E-halting condition
+- branch-resolution
+- allowed only in controlled form
+- Self-loops
+- NOT-axiom
+- At least one stabilizer
+- contractive
+aliases:
+- Bk085ca
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.79020979020979
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

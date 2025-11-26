@@ -1,18 +1,33 @@
+id: GEN12-1600
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::30-overview::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1012-1034
+heading: '**3.0 Overview**'
+parent_heading: '**3\. Φ → Π (Projection to Geometry)**'
 block_type: paragraph
-concepts:
-- In Section
-- derived
-- geometry
-- placeful
-- Π
-- Φ
-- δ
 excerpt: In Section 2, we established that deviation δ self-organizes into a discrete
   harmonic ladder Φ, the first dynamically stable structure of the universe. In Section
   3, we show how Φ transitions into **g...
-heading: '**3.0 Overview**'
-id: GEN12-1600
-lines: 1012-1034
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::30-overview::b1
-parent_heading: '**3\. Φ → Π (Projection to Geometry)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- Φ
+- self-organizes
+- Π-projection
+- Φ-modes
+- δ
+- In Section
+- geometry
+aliases:
+- Bk164se
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

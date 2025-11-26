@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Degeneracy
-- Λ
-- Ω
-- δ
-excerpt: 'Below is the **load-bearing spectrum table** you can drop straight into
-  the white paper. I’ll list: * **Shell / harmonic sector**'
-heading: '**2\) δ-Boson Spectrum Table (3–6–9 Shell Tower)**'
 id: GEN6-8235
-lines: 326-348
 location: genesis-6/harmonics-atomic-orbitals::2-δ-boson-spectrum-table-369-shell-tower::b1
 source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 326-348
+heading: '**2\) δ-Boson Spectrum Table (3–6–9 Shell Tower)**'
+block_type: paragraph
+excerpt: 'Below is the **load-bearing spectrum table** you can drop straight into
+  the white paper. I’ll list: * **Shell / harmonic sector**'
+concepts:
+- Λ
+- δ
+- load-bearing spectrum table
+- Ω
+- load-bearing
+- δ-radial
+- δ-Higgs
+- Azimuthal channels m
+- Degeneracy
+aliases:
+- Bk052bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.782608695652174
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,28 @@
+id: GEN17-4504
+location: genesis-17/box-calculus::3-explicit-translation-box-λ::32-a-box-with-inputs-boundary-γ::b1
+source: genesis-17\box_calculus.md
+lines: 5745-5764
+heading: 3.2 A Box with inputs (boundary Γ)
+parent_heading: ⭐ 3\. Explicit Translation Box → λ
 block_type: paragraph
+excerpt: If Γ contains variables x1,…,xn x
 concepts:
+- λ
+- Λ
 - Box
 - Γ
-- Λ
-- λ
-excerpt: If Γ contains variables x1,…,xn x
-heading: 3.2 A Box with inputs (boundary Γ)
-id: GEN17-4504
-lines: 5745-5764
-location: genesis-17/box-calculus::3-explicit-translation-box-λ::32-a-box-with-inputs-boundary-γ::b1
-parent_heading: ⭐ 3\. Explicit Translation Box → λ
-source: genesis-17\box_calculus.md
+aliases:
+- Bk941cv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

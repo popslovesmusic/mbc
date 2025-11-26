@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: 'Define canonical Π-normal forms: * atomic * composite'
-heading: 5.1. Normal Form Classification
 id: GEN17-4333
-lines: 2588-2595
 location: genesis-17/box-calculus::5-expansion-direction-v-computational-universality::51-normal-form-classification::b1
-parent_heading: '5\. Expansion Direction V: Computational Universality'
 source: genesis-17\box_calculus.md
+lines: 2588-2595
+heading: 5.1. Normal Form Classification
+parent_heading: '5\. Expansion Direction V: Computational Universality'
+block_type: paragraph
+excerpt: 'Define canonical Π-normal forms: * atomic * composite'
+concepts:
+- fixed-point
+- Π-normal
+- Π
+aliases:
+- Bk282dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

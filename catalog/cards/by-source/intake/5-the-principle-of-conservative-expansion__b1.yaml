@@ -1,14 +1,30 @@
+id: INTK-10658
+location: intake/volume-i-core-ontology-and-metagenesis-summary::core-ontological-axioms-and-principles::5-the-principle-of-conservative-expansion::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1523-1528
+heading: 5. The Principle of Conservative Expansion
+parent_heading: Core Ontological Axioms and Principles
 block_type: paragraph
-concepts:
-- Boundary Expansion
-- Least Action
-- Ontological Activity
 excerpt: '**Principle:** The system evolves such that the product of **Least Action**
   (drive to minimize deviation) and **Boundary Expansion** (drive to increase expressive
   potential) remains conserved. - **Con...'
-heading: 5. The Principle of Conservative Expansion
-id: INTK-10658
-lines: 1523-1528
-location: intake/volume-i-core-ontology-and-metagenesis-summary::core-ontological-axioms-and-principles::5-the-principle-of-conservative-expansion::b1
-parent_heading: Core Ontological Axioms and Principles
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Deviation
+- Ontological Activity
+- Boundary Expansion
+- creative tension
+- Least Action
+aliases:
+- Bk414pt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.666666666666667
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

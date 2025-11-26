@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: Harmonic coherence → CMB correlations Torsion → B-modes Shear → E-modes
-heading: '**(A) Phase-Locking**'
 id: GEN11-1154
-lines: 871-876
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::2-propagate-it-with-φ-derivational-engine::a-phase-locking::b1
-parent_heading: '**2\. Propagate It with Φ (Derivational Engine)**'
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 871-876
+heading: '**(A) Phase-Locking**'
+parent_heading: '**2\. Propagate It with Φ (Derivational Engine)**'
+block_type: paragraph
+excerpt: Harmonic coherence → CMB correlations Torsion → B-modes Shear → E-modes
+concepts:
+- →
+- E-modes
+- B-modes
+aliases:
+- Bk403hc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.076923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

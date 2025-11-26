@@ -1,12 +1,29 @@
+id: GEN10-821
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::1-categories-and-structures::1-𝒢-genesis-category::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1237-1240
+heading: '**(1) 𝒢 — Genesis Category**'
+parent_heading: '**1\. Categories and Structures**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Objects: pre-geometric states Morphisms: allowable deviation operators (only
   δ is defined at Ψ₀)'
-heading: '**(1) 𝒢 — Genesis Category**'
-id: GEN10-821
-lines: 1237-1240
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::1-categories-and-structures::1-𝒢-genesis-category::b1
-parent_heading: '**1\. Categories and Structures**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- pre-geometric
+- Ψ
+- δ
+- Ψ₀
+aliases:
+- Bk857op
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

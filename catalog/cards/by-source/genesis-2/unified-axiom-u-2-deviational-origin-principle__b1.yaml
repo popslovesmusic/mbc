@@ -1,12 +1,32 @@
+id: GEN2-6434
+location: genesis-2/axioms-of-geometry-topos-compatible::section-iii-δφ-structural-unity::unified-axiom-u-2-deviational-origin-principle::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1562-1568
+heading: '**Unified Axiom (U-2) — Deviational-Origin Principle**'
+parent_heading: '**Section III — δ–Φ Structural Unity**'
 block_type: paragraph
+excerpt: 'All Φ-objects arise from δ-objects via Φ\\PhiΦ: (A,δA)→Φ(A,ΦA).(A,\\delta\_A)\\xrightarrow{\\Phi}(A,\\Phi\_A).(A,δA​)Φ​(A,ΦA​).
+  ---'
 concepts:
 - Φ
 - δ
-excerpt: 'All Φ-objects arise from δ-objects via Φ\\PhiΦ: (A,δA)→Φ(A,ΦA).(A,\\delta\_A)\\xrightarrow{\\Phi}(A,\\Phi\_A).(A,δA​)Φ​(A,ΦA​).
-  ---'
-heading: '**Unified Axiom (U-2) — Deviational-Origin Principle**'
-id: GEN2-6434
-lines: 1562-1568
-location: genesis-2/axioms-of-geometry-topos-compatible::section-iii-δφ-structural-unity::unified-axiom-u-2-deviational-origin-principle::b1
-parent_heading: '**Section III — δ–Φ Structural Unity**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+- Φ-objects
+- δ-objects
+- →
+- ΦA
+- δA
+aliases:
+- Bk594ao
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

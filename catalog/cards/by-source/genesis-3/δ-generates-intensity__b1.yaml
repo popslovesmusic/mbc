@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: (Deviation, disturbance, energetic curvature)
-heading: '**δ generates intensity**'
 id: GEN3-7393
-lines: 449-451
 location: genesis-3/the-physics-box-diagram::vii-symmetry-summary-one-page::δ-generates-intensity::b1
-parent_heading: '**VII. Symmetry Summary (One Page)**'
 source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 449-451
+heading: '**δ generates intensity**'
+parent_heading: '**VII. Symmetry Summary (One Page)**'
+block_type: paragraph
+excerpt: (Deviation, disturbance, energetic curvature)
+concepts:
+- Deviation
+aliases:
+- Bk670dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

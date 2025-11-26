@@ -1,10 +1,27 @@
+id: INTK-10616
+location: intake/volume-i-core-ontology-and-metagenesis-summary::8-the-triadic-operator-algebra::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1015-1023
+heading: '**8\. The Triadic Operator Algebra**'
 block_type: paragraph
-concepts: []
 excerpt: 'The three operators satisfy: T=⟨C,A,T⟩\\mathfrak{T} \= \\langle \\mathcal{C},
   \\mathcal{A}, \\mathcal{T} \\rangleT=⟨C,A,T⟩ This defines a Lie-like algebra internal
   to the ∞-topos.'
-heading: '**8\. The Triadic Operator Algebra**'
-id: INTK-10616
-lines: 1015-1023
-location: intake/volume-i-core-ontology-and-metagenesis-summary::8-the-triadic-operator-algebra::b1
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Lie-like
+- ∞
+aliases:
+- Bk003tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.451612903225806
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

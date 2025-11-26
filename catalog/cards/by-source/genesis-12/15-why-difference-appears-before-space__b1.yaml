@@ -1,13 +1,26 @@
+id: GEN12-1559
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::1-genesis-deviation-δ::15-why-difference-appears-before-space::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 477-502
+heading: '**1.5 Why “Difference” Appears Before “Space”**'
+parent_heading: '**1\. Genesis → Deviation (δ)**'
 block_type: paragraph
-concepts:
-- shadow
-- Π
-- δ
 excerpt: 'Space cannot precede difference, because: * space requires metric relations
   * metric relations require adjacency'
-heading: '**1.5 Why “Difference” Appears Before “Space”**'
-id: GEN12-1559
-lines: 477-502
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::1-genesis-deviation-δ::15-why-difference-appears-before-space::b1
-parent_heading: '**1\. Genesis → Deviation (δ)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- δ
+- Π
+- Π-projected
+aliases:
+- Bk025sc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.9603960396039604
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

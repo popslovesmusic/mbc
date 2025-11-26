@@ -1,15 +1,38 @@
+id: GEN6-8255
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::7-the-cp-phase-arises-from-φ-twist-in-δ-harmonics::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 651-668
+heading: '**7\) The CP phase arises from Φ-twist in δ-harmonics**'
+parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
 block_type: paragraph
-concepts:
-- Φ
-- α
-- β
-- δ
 excerpt: You encoded phase/chirality in the Φ-sector. When Φ^\\widehat{\\Phi}Φ contributes,
   δMαβ=∣δMαβ∣eiφαβ(CP1)\\delta\\mathcal{M}\_{\\alpha\\beta} \= |\\delta\\mathcal{M}\_{\\alpha\\beta}|
   e^{i\\varphi\_{\\...
-heading: '**7\) The CP phase arises from Φ-twist in δ-harmonics**'
-id: GEN6-8255
-lines: 651-668
-location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::7-the-cp-phase-arises-from-φ-twist-in-δ-harmonics::b1
-parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- β
+- δ
+- α
+- Φ
+- δM
+- Φ-twist
+- φ
+- ↔
+- δ-harmonic
+- non-zero
+- Φ-sector
+- δ-modes
+aliases:
+- Bk834ye
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.457831325301203
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

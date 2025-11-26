@@ -1,13 +1,36 @@
+id: GEN0-123
+location: genesis-0/feynman-rules-interaction-vertices::vi-boxed-summary-for-the-white-paper::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1824-1840
+heading: '**VI. Boxed Summary for the White Paper**'
 block_type: paragraph
-concepts:
-- γ
-- δ
-- λ
 excerpt: (Mδ2)mn=2λδvδ2 u(m)u(n)+γΞmn\\boxed{ (M\_\\delta^2)\_{mn} \= 2\\lambda\_\\delta
   v\_\\delta^2\\, u^{(m)}u^{(n)} \+ \\gamma \\Xi\_{mn} }(Mδ2​)mn​=2λδ​vδ2​u(m)u(n)+γΞmn​​
   * One **radial δ-Higgs** with m∥...
-heading: '**VI. Boxed Summary for the White Paper**'
-id: GEN0-123
-lines: 1824-1840
-location: genesis-0/feynman-rules-interaction-vertices::vi-boxed-summary-for-the-white-paper::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- γ
+- Ξ
+- λ
+- orthogonal δ-bosons
+- δ-boson
+- Block-structured
+- radial δ-Higgs
+- δ-bosons
+- δ-Higgs
+- δv
+aliases:
+- Bk233bd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.801418439716312
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

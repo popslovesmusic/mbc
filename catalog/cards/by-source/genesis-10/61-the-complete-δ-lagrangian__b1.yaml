@@ -1,12 +1,28 @@
+id: GEN10-973
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-vi-the-δ-eft-lagrangian-and-the-origin-of-mass::61-the-complete-δ-lagrangian::b1
+source: genesis-10\research_overview.md
+lines: 202-210
+heading: '**6.1 The Complete δ-Lagrangian**'
+parent_heading: '**Part VI: The δ-EFT Lagrangian and the Origin of Mass**'
 block_type: equation
-concepts:
-- The Lagrangian
 excerpt: 'The Lagrangian is constructed from several sectors, as detailed in genesis-7:
   $$ \\mathcal{L}{Total} \= \\mathcal{L}{Kinetic} \+ \\mathcal{L}{Geometric} \+ \\mathcal{L}{Gauge}
   \+ \\mathcal{L}\_{\\delt...'
-heading: '**6.1 The Complete δ-Lagrangian**'
-id: GEN10-973
-lines: 202-210
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-vi-the-δ-eft-lagrangian-and-the-origin-of-mass::61-the-complete-δ-lagrangian::b1
-parent_heading: '**Part VI: The δ-EFT Lagrangian and the Origin of Mass**'
-source: genesis-10\research_overview.md
+concepts:
+- delta-Higgs
+- The Lagrangian
+aliases:
+- Bk111tl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.834862385321101
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

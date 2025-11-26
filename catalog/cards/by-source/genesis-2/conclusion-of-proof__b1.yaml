@@ -1,19 +1,38 @@
-block_type: paragraph
-concepts:
-- Foundation Layer
-- Layer
-- Meta-Einstein
-- Physical Realization
-- The Meta
-- theorem
-- Φ
-- δ
-- μ
-- ν
-excerpt: 'We have shown: 1. δ-curvature and δ-energy satisfy a field equation (δ-11).
-  2. Φ-curvature and Φ-energy satisfy a parallel field equation (Φ-11).'
-heading: '**Conclusion of Proof**'
 id: GEN2-6450
-lines: 1772-1794
 location: genesis-2/axioms-of-geometry-topos-compatible::conclusion-of-proof::b1
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1772-1794
+heading: '**Conclusion of Proof**'
+block_type: paragraph
+excerpt: 'We have shown: 1. δ-curvature and δ-energy satisfy a field equation (δ-11).
+  2. Φ-curvature and Φ-energy satisfy a parallel field equation (Φ-11).'
+concepts:
+- Φ
+- Meta-Einstein
+- δ
+- δ-geometry
+- Foundation Layer
+- μ
+- ν
+- Theorem
+- Layer
+- not an additional postulate
+- Φ-curvature
+- δ-curvature
+- Φ-equation
+- δ-energy
+- U-compat
+aliases:
+- Bk776hs
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.260162601626014
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

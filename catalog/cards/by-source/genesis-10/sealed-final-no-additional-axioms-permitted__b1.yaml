@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Atlas
-- Berry Connection Axiom
-- δ
-excerpt: '--- If you want, I can also produce: * A **diagrammatic sealed box** (triangular
-  schema)'
-heading: '**(Sealed. Final. No Additional Axioms Permitted.)**'
 id: GEN10-739
-lines: 857-871
 location: genesis-10/how-stillness-becomes-solid::sealed-final-no-additional-axioms-permitted::b1
 source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 857-871
+heading: '**(Sealed. Final. No Additional Axioms Permitted.)**'
+block_type: paragraph
+excerpt: '--- If you want, I can also produce: * A **diagrammatic sealed box** (triangular
+  schema)'
+concepts:
+- Axiom
+- higher-stack
+- compact symbolic version
+- diagrammatic sealed box
+- δ-Berry
+- Berry Connection Axiom
+- δ
+- Axiom Atlas
+aliases:
+- Bk655yw
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.686274509803921
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

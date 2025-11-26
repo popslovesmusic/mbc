@@ -1,11 +1,30 @@
+id: INTK-10898
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::ahef-as-higher-derivations-in-stack::derived-tangent-complex::b2
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3844-3860
+heading: Derived Tangent Complex
+parent_heading: A/H/E/F as Higher Derivations in ∞-Stack
 block_type: paragraph
-concepts:
-- Operator
 excerpt: 'Every ∞-stack P comes equipped with shifted tangent complex T_P[1] encoding
   infinitesimal deformations of sections. **Higher derivation defined as**: ```'
-heading: Derived Tangent Complex
-id: INTK-10898
-lines: 3844-3860
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::ahef-as-higher-derivations-in-stack::derived-tangent-complex::b2
-parent_heading: A/H/E/F as Higher Derivations in ∞-Stack
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Deviation
+- ∞
+- Operator
+- infinitesimal deviation directions
+- ∈
+- Higher derivation defined as
+aliases:
+- Bk377es
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

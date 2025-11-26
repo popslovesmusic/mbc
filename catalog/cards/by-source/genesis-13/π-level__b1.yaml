@@ -1,14 +1,27 @@
+id: GEN13-2279
+location: genesis-13/the-weight-of-light::4-why-this-works-the-physical-interpretation::π-level::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 248-260
+heading: '**Π-level:**'
+parent_heading: '**4\. Why This Works: The Physical Interpretation**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Π
-- δ
 excerpt: 'Π enforces orbital consistency and produces the logarithmic gravitational
   potential, yielding constant velocity. This gives a monistic explanation: **Flat
   rotation curves \= a geometric memory of unsm...'
-heading: '**Π-level:**'
-id: GEN13-2279
-lines: 248-260
-location: genesis-13/the-weight-of-light::4-why-this-works-the-physical-interpretation::π-level::b1
-parent_heading: '**4\. Why This Works: The Physical Interpretation**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Tri-Unity
+- δ-curvature
+- Π
+- δ
+aliases:
+- Bk400eo
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

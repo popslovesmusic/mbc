@@ -1,14 +1,29 @@
+id: GEN16-3877
+location: genesis-16/untitled-document::2-axiom-set-structure::axiom-vii-realization-axiom-ubcas-closure-axiom-6::b1
+source: genesis-16\Untitled_document.md
+lines: 1868-1880
+heading: '**Axiom VII (Realization Axiom) — UBCAS ↔ Closure Axiom 6**'
+parent_heading: '**2\. Axiom Set Structure**'
 block_type: table
-concepts:
-- Axiom
-- Box
-- Closure Axiom Box
-- Π
 excerpt: Your statement “A thought process that never concludes is invalid.” is equivalent
   to my
-heading: '**Axiom VII (Realization Axiom) — UBCAS ↔ Closure Axiom 6**'
-id: GEN16-3877
-lines: 1868-1880
-location: genesis-16/untitled-document::2-axiom-set-structure::axiom-vii-realization-axiom-ubcas-closure-axiom-6::b1
-parent_heading: '**2\. Axiom Set Structure**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Π
+- Axiom
+- Box
+- end-state
+- Closure Axiom Box
+aliases:
+- Bk130uc
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

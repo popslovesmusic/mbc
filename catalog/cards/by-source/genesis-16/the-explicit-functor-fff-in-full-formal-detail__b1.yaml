@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: or
-heading: '**✔ The explicit functor FFF in full formal detail**'
 id: GEN16-3962
-lines: 2816-2818
 location: genesis-16/untitled-document::if-you-want-next::the-explicit-functor-fff-in-full-formal-detail::b1
-parent_heading: '**If you want next:**'
 source: genesis-16\Untitled_document.md
+lines: 2816-2818
+heading: '**✔ The explicit functor FFF in full formal detail**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: or
+aliases:
+- Bk60171
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

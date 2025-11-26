@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- over
-- Ψ
-- δ
-excerpt: Even though Ψ₀ cannot host operators, δ is not *in* Ψ₀ — it is *over* Ψ₀.
-  It is the first meta-operator, the only one that does not require pre-existing structure.
-heading: '**6\. Deviation Is the First Meta-Operator**'
 id: INTK-10130
-lines: 762-765
 location: intake/meta-genesis-physical-interpretation-papers::6-deviation-is-the-first-meta-operator::b1
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 762-765
+heading: '**6\. Deviation Is the First Meta-Operator**'
+block_type: paragraph
+excerpt: Even though Ψ₀ cannot host operators, δ is not *in* Ψ₀ — it is *over* Ψ₀.
+  It is the first meta-operator, the only one that does not require pre-existing structure.
+concepts:
+- Ψ
+- meta-operator
+- pre-existing
+- Ψ₀
+- δ
+aliases:
+- Bk144et
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.129032258064516
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Ψ
-excerpt: Imagine a chessboard with no squares, no pieces, no rules, no moves. Can
-  you define “move a piece forward”? Can you define “do nothing”?
-heading: '**7\. Cinematic Interpretation**'
 id: GEN0-290
-lines: 631-657
 location: genesis-0/why-the-first-action-is-necessary::7-cinematic-interpretation::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 631-657
+heading: '**7\. Cinematic Interpretation**'
+block_type: paragraph
+excerpt: Imagine a chessboard with no squares, no pieces, no rules, no moves. Can
+  you define “move a piece forward”? Can you define “do nothing”?
+concepts:
+- Ψ
+- no rules
+- Ψ₀
+aliases:
+- Bk142ic
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: true
+concept_density: 3.75
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

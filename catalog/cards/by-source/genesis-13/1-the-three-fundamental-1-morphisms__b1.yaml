@@ -1,16 +1,31 @@
+id: GEN13-2427
+location: genesis-13/the-weight-of-light::1-the-three-fundamental-1-morphisms::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 2226-2244
+heading: '**1\. The Three Fundamental 1-Morphisms**'
 block_type: paragraph
-concepts:
-- The Tri
-- Tri-Unity
-- arbitrary
-- Π
-- Φ
-- δ
 excerpt: 'The Tri-Unity functors, now seen as 1-morphisms: δ:G0→M\\delta : \\mathcal{G}\_0
   \\to \\mathcal{M}δ:G0​→M Φ:M→M\\Phi : \\mathcal{M} \\to \\mathcal{M}Φ:M→M Π:M→P\\Pi
   : \\mathcal{M} \\to \\mathcal{P}Π:M...'
-heading: '**1\. The Three Fundamental 1-Morphisms**'
-id: GEN13-2427
-lines: 2226-2244
-location: genesis-13/the-weight-of-light::1-the-three-fundamental-1-morphisms::b1
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- →
+- Tri-Unity
+- Π
+- δ
+- Φ
+- The Tri
+aliases:
+- Bk217tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

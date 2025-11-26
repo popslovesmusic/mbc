@@ -1,15 +1,31 @@
+id: GEN4-7726
+location: genesis-4/the-adjoint-triple::3-the-two-adjunctions::adjunction-1::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 194-206
+heading: '**Adjunction 1**'
+parent_heading: '**3\. The Two Adjunctions**'
 block_type: paragraph
+excerpt: 'L⊣U:MG⇆σ-ToposL \\dashv U : MG \\leftrightarrows \\sigma\\text{-Topos}L⊣U:MG⇆σ-Topos
+  Interpretation: * Genesis is *free generation* of geometry.'
 concepts:
+- σ
 - 'Topos
 
 
   Interpretation'
-- σ
-excerpt: 'L⊣U:MG⇆σ-ToposL \\dashv U : MG \\leftrightarrows \\sigma\\text{-Topos}L⊣U:MG⇆σ-Topos
-  Interpretation: * Genesis is *free generation* of geometry.'
-heading: '**Adjunction 1**'
-id: GEN4-7726
-lines: 194-206
-location: genesis-4/the-adjoint-triple::3-the-two-adjunctions::adjunction-1::b1
-parent_heading: '**3\. The Two Adjunctions**'
-source: genesis-4\The_Adjoint_Triple.md
+- →
+aliases:
+- Bk723td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

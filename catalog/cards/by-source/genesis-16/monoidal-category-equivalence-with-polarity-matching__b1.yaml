@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Monoidal Category Equivalence with Polarity Matching)***'
 id: GEN16-3986
-lines: 3081-3083
 location: genesis-16/untitled-document::the-equivalence-proof::boxcalcmetamathmathbfboxcalc-simeq-mathbfmetamathboxcalcmetamath::monoidal-category-equivalence-with-polarity-matching::b1
-parent_heading: '**BoxCalc≃MetaMath\\mathbf{BoxCalc} \\simeq \\mathbf{MetaMath}BoxCalc≃MetaMath**'
 source: genesis-16\Untitled_document.md
+lines: 3081-3083
+heading: '***(Monoidal Category Equivalence with Polarity Matching)***'
+parent_heading: '**BoxCalc≃MetaMath\\mathbf{BoxCalc} \\simeq \\mathbf{MetaMath}BoxCalc≃MetaMath**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

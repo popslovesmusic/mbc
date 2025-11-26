@@ -1,19 +1,35 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Energetic Bias
-- Foundation Layer Seal
-- Layer
-- The First Law
-- The Second Law
-- The Stability Axiom Box
-- next
-- δ
-excerpt: '**The First Law: only patterns stable under deviation persist; those stable
-  patterns become the laws of physics.** --- If you want next:'
-heading: '**8\. One-Line Summary**'
 id: GEN4-7930
-lines: 2134-2152
 location: genesis-4/the-first-adjacency::8-one-line-summary::b4
 source: genesis-4\The_First_Adjacency.md
+lines: 2134-2152
+heading: '**8\. One-Line Summary**'
+block_type: paragraph
+excerpt: '**The First Law: only patterns stable under deviation persist; those stable
+  patterns become the laws of physics.** --- If you want next:'
+concepts:
+- Foundation Layer
+- Axiom
+- Layer
+- Box
+- The Stability Axiom Box
+- Foundation Layer Seal
+- δ
+- next
+- Energetic Bias
+- The Second Law
+- The First Law
+aliases:
+- Bk767tf
+tags:
+- axiom-box
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.1875
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

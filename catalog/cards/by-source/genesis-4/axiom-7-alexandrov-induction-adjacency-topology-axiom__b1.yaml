@@ -1,13 +1,32 @@
+id: GEN4-7862
+location: genesis-4/the-first-adjacency::axiom-7-alexandrov-induction-adjacency-topology-axiom::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 880-888
+heading: '**Axiom 7 — Alexandrov Induction (Adjacency ⇒ Topology Axiom)**'
 block_type: paragraph
-concepts:
-- unique
-- Ψ
-- δ
 excerpt: 'A topology T\\mathcal{T}T is induced on A={Ψn}\\mathcal{A} \= \\{\\Psi\_n\\}A={Ψn​}
   by declaring: U⊆A is open   ⟺  ∀Ψn∈U, Nδ(Ψn)⊆U.U \\subseteq \\mathcal{A} \\text{
   is open } \\iff \\forall \\Psi\_n \...'
-heading: '**Axiom 7 — Alexandrov Induction (Adjacency ⇒ Topology Axiom)**'
-id: GEN4-7862
-lines: 880-888
-location: genesis-4/the-first-adjacency::axiom-7-alexandrov-induction-adjacency-topology-axiom::b1
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Ψ
+- Ψn
+- δ
+- ∀
+- ∈
+- δ-adjacency
+- unique
+aliases:
+- Bk978tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

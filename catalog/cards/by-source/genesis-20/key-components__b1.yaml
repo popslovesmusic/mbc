@@ -1,12 +1,26 @@
+id: GEN20-7033
+location: genesis-20/mbc-40-documentaitio-1::conclusion::144-polarity-algebra-implementation::key-components::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4734-4748
+heading: 'Key Components:'
+parent_heading: 14.4 Polarity Algebra Implementation
 block_type: list
-concepts:
-- Advanced Volume
-- Θ
 excerpt: '* Θ (polarity) represented as weighted directional metadata * combine()
   functions for polarity alignment * resolve() functions for polarity conflict'
-heading: 'Key Components:'
-id: GEN20-7033
-lines: 4734-4748
-location: genesis-20/mbc-40-documentaitio-1::conclusion::144-polarity-algebra-implementation::key-components::b1
-parent_heading: 14.4 Polarity Algebra Implementation
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- ∈
+- NOT-like
+- Θ
+- Advanced Volume
+aliases:
+- Bk474pr
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,15 +1,33 @@
-block_type: paragraph
-concepts:
-- Box
-- Thus Box Calculus
-- Π
-- Φ
-- δ
-- λ
-excerpt: 'The adjointness structure means: * E is the free generator of semantic complexity.
-  * A is the cofree collector of semantic complexity.'
-heading: ⭐ 5\. FINAL META-STATEMENT
 id: GEN17-4438
-lines: 4433-4451
 location: genesis-17/box-calculus::5-final-meta-statement::b1
 source: genesis-17\box_calculus.md
+lines: 4433-4451
+heading: ⭐ 5\. FINAL META-STATEMENT
+block_type: paragraph
+excerpt: 'The adjointness structure means: * E is the free generator of semantic complexity.
+  * A is the cofree collector of semantic complexity.'
+concepts:
+- Box Calculus
+- IGSOA
+- Box
+- Π
+- Φ
+- →
+- δ
+- λ
+- Thus Box Calculus
+aliases:
+- Bk968ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

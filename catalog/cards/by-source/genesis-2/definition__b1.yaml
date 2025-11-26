@@ -1,14 +1,35 @@
+id: GEN2-6506
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::4-projection-of-δ-connection-to-levicivita-connection::definition::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 440-459
+heading: '**Definition:**'
+parent_heading: '**4\. Projection of δ-Connection to Levi–Civita Connection**'
 block_type: paragraph
-concepts:
-- Γ
-- Π
-- δ
 excerpt: Π(∇δ)=∇LC\\Pi(\\nabla^\\delta) \= \\nabla^{LC}Π(∇δ)=∇LC where Γijk=12gkℓ(∂igjℓ+∂jgiℓ−∂ℓgij)\\Gamma^k\_{ij}
   \= \\frac12 g^{k\\ell} (\\partial\_i g\_{j\\ell} \+ \\partial\_j g\_{i\\ell} \-
   \\partial\_\\...
-heading: '**Definition:**'
-id: GEN2-6506
-lines: 440-459
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::4-projection-of-δ-connection-to-levicivita-connection::definition::b1
-parent_heading: '**4\. Projection of δ-Connection to Levi–Civita Connection**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- ∂
+- δ
+- ∇
+- metric-compatibility
+- ε
+- Π
+- Γ
+- δ-derivatives
+- δ-connection
+aliases:
+- Bk268nd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

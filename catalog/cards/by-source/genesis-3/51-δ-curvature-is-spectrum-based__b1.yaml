@@ -1,12 +1,31 @@
+id: GEN3-7323
+location: genesis-3/metagenesis::5-the-δ-curvature-tensor::51-δ-curvature-is-spectrum-based::b1
+source: genesis-3\metagenesis.md
+lines: 765-781
+heading: '**5.1 δ-Curvature is Spectrum-Based**'
+parent_heading: '**5\. The δ-Curvature Tensor**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The commutator is evaluated not in classical geometry but in the δ-mode
   basis: X=∑nXnφn,Y=∑mYmφm.X \= \\sum\_n X\_n \\varphi\_n, \\qquad Y \= \\sum\_m Y\_m
   \\varphi\_m.X=n∑​Xn​φn​,Y=m∑​Ym​φm​. where φ...'
-heading: '**5.1 δ-Curvature is Spectrum-Based**'
-id: GEN3-7323
-lines: 765-781
-location: genesis-3/metagenesis::5-the-δ-curvature-tensor::51-δ-curvature-is-spectrum-based::b1
-parent_heading: '**5\. The δ-Curvature Tensor**'
-source: genesis-3\metagenesis.md
+concepts:
+- φ
+- ∑
+- δ
+- deviational spectral structure
+- δ-harmonic
+- δ-mode
+aliases:
+- Bk463tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

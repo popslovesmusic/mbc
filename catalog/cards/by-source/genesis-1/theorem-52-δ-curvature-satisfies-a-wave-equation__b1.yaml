@@ -1,13 +1,31 @@
+id: GEN1-620
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::5-deviational-waves-δ-waves::theorem-52-δ-curvature-satisfies-a-wave-equation::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1344-1353
+heading: '**Theorem 5.2 — δ-Curvature Satisfies a Wave Equation.**'
+parent_heading: '**5\. Deviational Waves (δ-Waves)**'
 block_type: paragraph
-concepts:
-- Box
-- Corollary
-- δ
 excerpt: □δRδ=0.\\boxed{ \\Box\_\\delta \\mathcal{R}\_\\delta \= 0\. }□δ​Rδ​=0.​ **Proof.**
   Follows from Corollary 4.4 and the Bianchi identity which kills source terms.
-heading: '**Theorem 5.2 — δ-Curvature Satisfies a Wave Equation.**'
-id: GEN1-620
-lines: 1344-1353
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::5-deviational-waves-δ-waves::theorem-52-δ-curvature-satisfies-a-wave-equation::b1
-parent_heading: '**5\. Deviational Waves (δ-Waves)**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Corollary
+- Proof
+- Box
+- δR
+aliases:
+- Bk988bb
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.857142857142858
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

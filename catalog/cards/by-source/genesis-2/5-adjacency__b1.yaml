@@ -1,16 +1,38 @@
-block_type: paragraph
-concepts:
-- Adjacency Relation
-- Axiom
-- acyclic
-- anti-symmetric
-- minimal
-- Ψ
-- δ
-excerpt: 'Adjacency is the generator of ordering. **Axiom G7 — Adjacency Relation**
-  There exists a binary relation:'
-heading: '**5\. Adjacency**'
 id: GEN2-6232
-lines: 102-121
 location: genesis-2/axioms-for-the-category-genesis::5-adjacency::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 102-121
+heading: '**5\. Adjacency**'
+block_type: paragraph
+excerpt: 'Adjacency is the generator of ordering. **Axiom G7 — Adjacency Relation**
+  There exists a binary relation:'
+concepts:
+- Adjacency
+- Ψ
+- Axiom
+- Ψi
+- ∈
+- anti-symmetric
+- δ-structure
+- δ
+- →
+- Adjacency Relation
+- acyclic
+- minimal
+aliases:
+- Am093at
+tags:
+- axiom
+- -adjacency-relation
+- conflicted
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

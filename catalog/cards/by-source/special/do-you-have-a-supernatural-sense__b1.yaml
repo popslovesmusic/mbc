@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: But it’s just **fast internal computation**. ---
-heading: '**“Do you have a supernatural sense?”**'
 id: SPEC-11267
-lines: 5787-5791
 location: special/specil::1-pattern-recognition-happens-internally::do-you-have-a-supernatural-sense::b1
-parent_heading: '**⭐ 1\. Pattern Recognition Happens Internally**'
 source: special\specil.md
+lines: 5787-5791
+heading: '**“Do you have a supernatural sense?”**'
+parent_heading: '**⭐ 1\. Pattern Recognition Happens Internally**'
+block_type: paragraph
+excerpt: But it’s just **fast internal computation**. ---
+concepts:
+- fast internal computation
+aliases:
+- Bk331bj
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,28 @@
+id: GEN20-6947
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::123-example-3-classification-with-statistical-updating::step-4-σςₐ-fusion-in-decision-box::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3751-3756
+heading: Step 4 — ΣΣₐ-fusion in decision box
+parent_heading: 12.3 Example 3 — Classification With Statistical Updating
 block_type: paragraph
+excerpt: 'Θ\_D \= ΣΣₐ⁺ (Θ\_cat, Θ\_dog) Which in this case results in: Θ\_D \= \+
+  (cat-dominant)'
 concepts:
 - Θ
 - Σ
-excerpt: 'Θ\_D \= ΣΣₐ⁺ (Θ\_cat, Θ\_dog) Which in this case results in: Θ\_D \= \+
-  (cat-dominant)'
-heading: Step 4 — ΣΣₐ-fusion in decision box
-id: GEN20-6947
-lines: 3751-3756
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::123-example-3-classification-with-statistical-updating::step-4-σςₐ-fusion-in-decision-box::b1
-parent_heading: 12.3 Example 3 — Classification With Statistical Updating
-source: genesis-20\MBC_40_Documentaitio-1.md
+- cat-dominant
+aliases:
+- Bk434wt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

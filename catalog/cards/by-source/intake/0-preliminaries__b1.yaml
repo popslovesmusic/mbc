@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Operator
-- Operator Domain Exclusion
-- Ψ
-- δ
-excerpt: 'You assume: * Ψ0\\Psi\_0Ψ0​: the zero-state (structureless, atemporal, operator-free)
-  * δ\\deltaδ: deviation (first well-defined operator)'
-heading: '**0\. Preliminaries**'
 id: INTK-9979
-lines: 498-524
 location: intake/meta-genesis-mathematical-papers::0-preliminaries::b1
 source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 498-524
+heading: '**0\. Preliminaries**'
+block_type: paragraph
+excerpt: 'You assume: * Ψ0\\Psi\_0Ψ0​: the zero-state (structureless, atemporal, operator-free)
+  * δ\\deltaδ: deviation (first well-defined operator)'
+concepts:
+- Ψ
+- δ
+- Operator
+- deviation-generated
+- operator-free
+- well-defined
+- Zero-state
+- zero-state
+- Operator Domain Exclusion
+- No internal structure
+aliases:
+- Bk078ya
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

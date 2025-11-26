@@ -1,16 +1,32 @@
-block_type: paragraph
-concepts:
-- At Genesis
-- Deviation Operator
-- First Action
-- Operator
-- forbidden
-- Ψ
-- δ
-excerpt: 'At Genesis: Ψ=Ψ0,\\Psi \= \\Psi\_0,Ψ=Ψ0​, all operators are **forbidden**,
-  except the **Deviation Operator**:'
-heading: '**7\. Genesis Boundary Condition (Special Case)**'
 id: INTK-10183
-lines: 152-164
 location: intake/meta-genesis-meta-math-integration-papers::7-genesis-boundary-condition-special-case::b1
 source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 152-164
+heading: '**7\. Genesis Boundary Condition (Special Case)**'
+block_type: paragraph
+excerpt: 'At Genesis: Ψ=Ψ0,\\Psi \= \\Psi\_0,Ψ=Ψ0​, all operators are **forbidden**,
+  except the **Deviation Operator**:'
+concepts:
+- Ψ
+- Deviation
+- δ
+- Operator
+- post-boundary
+- Deviation Operator
+- First Action
+- At Genesis
+- forbidden
+aliases:
+- Bk620gp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.307692307692307
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

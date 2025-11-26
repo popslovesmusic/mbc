@@ -1,10 +1,26 @@
+id: GEN17-4735
+location: genesis-17/box-calculus::i-ontological-foundations-minimal-ontology::primitive-3-the-structural-projection-functor-𝓢::b1
+source: genesis-17\box_calculus.md
+lines: 8575-8580
+heading: 'Primitive 3: The Structural Projection Functor 𝓢'
+parent_heading: 🔷 I. Ontological Foundations (Minimal Ontology)
 block_type: paragraph
-concepts: []
 excerpt: S:V→BC S:V→BC 𝓢 assigns structural form (connectivity/topology) to a semantic
   state.
-heading: 'Primitive 3: The Structural Projection Functor 𝓢'
-id: GEN17-4735
-lines: 8575-8580
-location: genesis-17/box-calculus::i-ontological-foundations-minimal-ontology::primitive-3-the-structural-projection-functor-𝓢::b1
-parent_heading: 🔷 I. Ontological Foundations (Minimal Ontology)
-source: genesis-17\box_calculus.md
+concepts:
+- →
+aliases:
+- Bk851as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,39 @@
-block_type: paragraph
-concepts:
-- Thus Deviational Geometry
-- Π
-- δ
-excerpt: '**Statement.** Under Π: 1. δ-curvature → Riemann curvature'
+id: GEN1-632
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::8-projection-to-classical-dynamics::theorem-82-deviational-dynamics-contain-einstein-yangmills-and-dirac-dynamics::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1459-1487
 heading: '**Theorem 8.2 — Deviational Dynamics Contain Einstein, Yang–Mills, and Dirac
   Dynamics.**'
-id: GEN1-632
-lines: 1459-1487
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::8-projection-to-classical-dynamics::theorem-82-deviational-dynamics-contain-einstein-yangmills-and-dirac-dynamics::b1
 parent_heading: '**8\. Projection to Classical Dynamics**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+block_type: paragraph
+excerpt: '**Statement.** Under Π: 1. δ-curvature → Riemann curvature'
+concepts:
+- δ
+- Deviational Geometry
+- Deviation
+- →
+- Proof
+- δ-curvature
+- δ-energy
+- stress-energy
+- Thus Deviational Geometry
+- δ-action
+- Π
+- δ-mode
+- δnmk
+aliases:
+- Bk765su
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.105263157894736
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

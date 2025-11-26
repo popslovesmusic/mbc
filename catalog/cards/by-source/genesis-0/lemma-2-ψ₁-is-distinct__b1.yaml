@@ -1,12 +1,26 @@
+id: GEN0-229
+location: genesis-0/tri-unity-theorem-equivalence-of::3-lemmas::lemma-2-ψ₁-is-distinct::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1057-1065
+heading: '**Lemma 2 — Ψ₁ is Distinct**'
+parent_heading: '**3\. Lemmas**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Because δ is non-identity: Ψ1≠Ψ0.\\Psi\_1 \\neq \\Psi\_0.Ψ1​=Ψ0​. Thus duality
   (structure vs no structure) emerges.'
-heading: '**Lemma 2 — Ψ₁ is Distinct**'
-id: GEN0-229
-lines: 1057-1065
-location: genesis-0/tri-unity-theorem-equivalence-of::3-lemmas::lemma-2-ψ₁-is-distinct::b1
-parent_heading: '**3\. Lemmas**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- non-identity
+- δ
+- ≠
+aliases:
+- Bk525bn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

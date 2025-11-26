@@ -1,17 +1,36 @@
+id: GEN4-7655
+location: genesis-4/meta-physics-axiom-box::step-5-isotropy-from-scale-invariance::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 793-813
+heading: '**Step 5 — Isotropy from scale invariance**'
 block_type: paragraph
-concepts:
-- Axiom
-- Causal Sphere
-- Scale-Topos
-- The Scale
-- Topos Axiom
-- δ
-- σ
 excerpt: 'The Scale-Topos Axiom states that every physical object appears as a slice:
   σ-Topos/σk.\\sigma\\text{-Topos}/\\sigma^k.σ-Topos/σk. δ acts uniformly on all slices
   (by its definition as “scale-free devi...'
-heading: '**Step 5 — Isotropy from scale invariance**'
-id: GEN4-7655
-lines: 793-813
-location: genesis-4/meta-physics-axiom-box::step-5-isotropy-from-scale-invariance::b1
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- the Causal Sphere of Influence is isotropic and scale-invariant
+- σ
+- Axiom
+- δ
+- Definition
+- scale-invariant
+- Scale-Topos
+- scale-free
+- Causal Sphere
+- δn
+- Topos Axiom
+- The Scale
+aliases:
+- Bk675ts
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.631578947368421
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,24 @@
+id: GEN12-1686
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::65-large-scale-structure-lss-predictions::653-galaxy-bias-prediction::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2390-2398
+heading: '**6.5.3 Galaxy Bias Prediction**'
+parent_heading: '**6.5 Large-Scale Structure (LSS) Predictions**'
 block_type: paragraph
-concepts:
-- λ
 excerpt: 'Galaxy bias b(k)b(k)b(k) is not arbitrary; it is mode-linked: b(k)=f(λk).b(k)
   \= f(\\lambda\_k).b(k)=f(λk​). This implies signatures testable by future LSS surveys.'
-heading: '**6.5.3 Galaxy Bias Prediction**'
-id: GEN12-1686
-lines: 2390-2398
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::65-large-scale-structure-lss-predictions::653-galaxy-bias-prediction::b1
-parent_heading: '**6.5 Large-Scale Structure (LSS) Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- λ
+- mode-linked
+aliases:
+- Bk490gb
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

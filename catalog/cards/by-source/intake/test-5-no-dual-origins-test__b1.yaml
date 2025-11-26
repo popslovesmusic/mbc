@@ -1,10 +1,23 @@
+id: INTK-9688
+location: intake/axioms-geometry::section-6-consistency-checks-self-consistency-tests::test-5-no-dual-origins-test::b1
+source: intake\Axioms-geometry.md
+lines: 617-627
+heading: '**Test 5 – No Dual Origins Test**'
+parent_heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
 block_type: paragraph
-concepts: []
 excerpt: 'Every entity must have a **single origin**: * In MG: existence justification
   * In MM: mathematical behavior'
-heading: '**Test 5 – No Dual Origins Test**'
-id: INTK-9688
-lines: 617-627
-location: intake/axioms-geometry::section-6-consistency-checks-self-consistency-tests::test-5-no-dual-origins-test::b1
-parent_heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
-source: intake\Axioms-geometry.md
+concepts:
+- single origin
+aliases:
+- Bk013ee
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,15 +1,30 @@
-block_type: paragraph
-concepts:
-- Law Emergence Theorem
-- Meta-Math
-- The Genesis
-- Theorem
-- Φ
-- δ
-excerpt: 'The Genesis → Meta-Math functor **must commute with δ**: F∘δ  ≅  Φ∘F,F\\circ
-  \\delta \\;\\cong\\; \\Phi\\circ F,F∘δ≅Φ∘F, where:'
-heading: '**4\. Compatibility With δ (Deviation Functor)**'
 id: GEN7-8534
-lines: 1364-1383
 location: genesis-7/the-complete-eft-lagrangian::4-compatibility-with-δ-deviation-functor::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1364-1383
+heading: '**4\. Compatibility With δ (Deviation Functor)**'
+block_type: paragraph
+excerpt: 'The Genesis → Meta-Math functor **must commute with δ**: F∘δ  ≅  Φ∘F,F\\circ
+  \\delta \\;\\cong\\; \\Phi\\circ F,F∘δ≅Φ∘F, where:'
+concepts:
+- Meta-Math
+- →
+- δ
+- Deviation
+- Φ
+- Theorem
+- Law Emergence Theorem
+- must commute with δ
+- The Genesis
+aliases:
+- Bk258tg
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.843373493975903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

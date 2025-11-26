@@ -1,10 +1,28 @@
+id: GEN7-8583
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::7-why-this-is-profound-in-your-igsoa-system::5-δ-higgs-potential-connects-immediately-to-δ-boson-masses::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 511-513
+heading: '**5\. δ-Higgs potential connects immediately to δ-boson masses**'
+parent_heading: '**7\. Why This Is Profound in Your IGSOA System**'
 block_type: paragraph
+excerpt: via your δ-Hessian → δ-mass tower mapping.
 concepts:
 - δ
-excerpt: via your δ-Hessian → δ-mass tower mapping.
-heading: '**5\. δ-Higgs potential connects immediately to δ-boson masses**'
-id: GEN7-8583
-lines: 511-513
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::7-why-this-is-profound-in-your-igsoa-system::5-δ-higgs-potential-connects-immediately-to-δ-boson-masses::b1
-parent_heading: '**7\. Why This Is Profound in Your IGSOA System**'
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+- δ-Hessian
+- →
+- δ-mass
+aliases:
+- Bk715vy
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

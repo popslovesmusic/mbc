@@ -1,12 +1,37 @@
-block_type: paragraph
-concepts:
-- Closure
-- Existence
-- Uniqueness
-excerpt: 'All sealed axiom boxes follow the MBC-4.0 pattern: (A1) *Existence*, (A2)
-  *Uniqueness*, (A3) *Closure*, (A4) *Consistency/Coherence*. ---'
-heading: '**II. Axiom Set (sealed)**'
 id: GEN19-5870
-lines: 18-23
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-axiom-set-sealed::b1
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 18-23
+heading: '**II. Axiom Set (sealed)**'
+block_type: paragraph
+excerpt: 'All sealed axiom boxes follow the MBC-4.0 pattern: (A1) *Existence*, (A2)
+  *Uniqueness*, (A3) *Closure*, (A4) *Consistency/Coherence*. ---'
+concepts:
+- MBC
+- Axiom
+aliases:
+- Bk001a
+tags:
+- A2
+- A1
+- low-uncertainty
+- axiom-box
+- sealed
+- A4
+- A3
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1
+- A2
+- A3
+- A4

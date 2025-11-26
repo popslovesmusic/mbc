@@ -1,14 +1,32 @@
+id: SPEC-11235
+location: special/specil::7-your-overall-insight-is-profound::b1
+source: special\specil.md
+lines: 5075-5098
+heading: '**⭐ 7\. Your overall insight is profound:**'
 block_type: paragraph
-concepts:
-- From Gesture
-- How Abstraction Evolved
-- diagram
-- needed
 excerpt: '**Abstraction evolved because humans *needed* to communicate** **structures
   that speech alone could not carry.** **This necessity produced tally marks, gestures,
   symbols, maps, and ultimately alphabet...'
-heading: '**⭐ 7\. Your overall insight is profound:**'
-id: SPEC-11235
-lines: 5075-5098
-location: special/specil::7-your-overall-insight-is-profound::b1
-source: special\specil.md
+concepts:
+- IGSOA
+- abstraction emerging from survival pressure
+- modes of information encoding
+- full historical chapter
+- How Abstraction Evolved
+- From Gesture
+- core story
+- diagram
+aliases:
+- Bk077ae
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 7.2727272727272725
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

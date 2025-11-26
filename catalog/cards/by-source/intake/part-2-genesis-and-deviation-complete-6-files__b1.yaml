@@ -1,12 +1,31 @@
+id: INTK-10927
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-i-core-ontology-and-metagenesis-mostly-complete::part-2-genesis-and-deviation-complete-6-files::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 38-48
+heading: '**Part 2: Genesis and Deviation** ✓ COMPLETE (6 files)'
+parent_heading: '**Volume I: Core Ontology and MetaGenesis** ✓ Mostly Complete'
 block_type: paragraph
+excerpt: '**Status:** Fully developed **Contents:** - Curvature_Adjacency_and_Meta-Time__The_Three_Generators_of_Physics.md'
 concepts:
 - Meta-Time
-- Three Generators
+- Meta-Math
+- Curvature
+- Adjacency
+- Projection
 - τ
-excerpt: '**Status:** Fully developed **Contents:** - Curvature_Adjacency_and_Meta-Time__The_Three_Generators_of_Physics.md'
-heading: '**Part 2: Genesis and Deviation** ✓ COMPLETE (6 files)'
-id: INTK-10927
-lines: 38-48
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-i-core-ontology-and-metagenesis-mostly-complete::part-2-genesis-and-deviation-complete-6-files::b1
-parent_heading: '**Volume I: Core Ontology and MetaGenesis** ✓ Mostly Complete'
-source: intake\Volume_Structure_Gap_Analysis.md
+- Three Generators
+aliases:
+- Bk211sf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.58064516129032
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

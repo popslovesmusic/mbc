@@ -1,18 +1,39 @@
-block_type: paragraph
-concepts:
-- Boson Scattering Amplitudes
-- Group Flow
-- Heat Kernel Expansion
-- Renormalization-Group
-- α
-- β
-- γ
-- δ
-- σ
-excerpt: 'The δ-boson propagator tower: Dδ(p)=∑k=1∞iZkp2−mk2+iϵD\_\\delta(p) \= \\sum\_{k=1}^{\\infty}
-  \\frac{i Z\_k}{p^2 \- m\_k^2 \+ i\\epsilon}Dδ​(p)=k=1∑∞​p2−mk2​+iϵiZk​​ with:'
-heading: '**12\. Summary (Formal)**'
 id: GEN0-363
-lines: 1887-1924
 location: genesis-0/why-the-first-action-is-necessary::12-summary-formal::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1887-1924
+heading: '**12\. Summary (Formal)**'
+block_type: paragraph
+excerpt: 'The δ-boson propagator tower: Dδ(p)=∑k=1∞iZkp2−mk2+iϵD\_\\delta(p) \= \\sum\_{k=1}^{\\infty}
+  \\frac{i Z\_k}{p^2 \- m\_k^2 \+ i\\epsilon}Dδ​(p)=k=1∑∞​p2−mk2​+iϵiZk​​ with:'
+concepts:
+- δ
+- Renormalization-Group Flow for the δ-Tower
+- IGSOA
+- Feynman rules for δ-interactions
+- δ-Boson Scattering Amplitudes
+- The δ-Heat Kernel Expansion
+- complete meromorphic field propagator
+- Renormalization-Group
+- β
+- σ
+- ∞
+- γ
+- ∑
+- α
+- δ-interactions
+aliases:
+- Bk209tb
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.060240963855422
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

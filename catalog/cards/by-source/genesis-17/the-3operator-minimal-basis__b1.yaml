@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'This is the clean, canonical, mathematically inevitable minimal basis:'
-heading: ⭐ THE 3–OPERATOR MINIMAL BASIS
 id: GEN17-4612
-lines: 7338-7340
 location: genesis-17/box-calculus::the-3operator-minimal-basis::b1
 source: genesis-17\box_calculus.md
+lines: 7338-7340
+heading: ⭐ THE 3–OPERATOR MINIMAL BASIS
+block_type: paragraph
+excerpt: 'This is the clean, canonical, mathematically inevitable minimal basis:'
+aliases:
+- Bk700tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

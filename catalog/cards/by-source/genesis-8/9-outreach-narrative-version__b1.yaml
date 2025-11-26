@@ -1,11 +1,36 @@
-block_type: paragraph
-concepts:
-- Seal Diagram
-- δ
-excerpt: '**Everything begins with δ.** A perfect stillness cracks. That crack becomes
-  relation.'
-heading: '**9\. OUTREACH NARRATIVE VERSION**'
 id: GEN8-8811
-lines: 685-724
 location: genesis-8/meta-time-geometry-and-temporal-projection::9-outreach-narrative-version::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 685-724
+heading: '**9\. OUTREACH NARRATIVE VERSION**'
+block_type: paragraph
+excerpt: '**Everything begins with δ.** A perfect stillness cracks. That crack becomes
+  relation.'
+concepts:
+- IGSOA
+- δ
+- A mass-spectrum appendix
+- Proof
+- Integration into your IGSOA tree
+- →
+- mass-spectrum
+- The fractal recursion proof
+- δ-Harmonic
+- δ-tower
+- A full chapter version
+- Seal Diagram
+aliases:
+- Bk801eb
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

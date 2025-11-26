@@ -1,11 +1,27 @@
+id: GEN17-5056
+location: genesis-17/mbc-schema-3::4-the-box-category-𝓑::identity::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 656-660
+heading: '**Identity:**'
+parent_heading: '**4\. The Box Category (𝓑)**'
 block_type: paragraph
+excerpt: Each Box has an identity morphism corresponding to “self-adjacency.” ---
 concepts:
 - Box
+- self-adjacency
 - Each Box
-excerpt: Each Box has an identity morphism corresponding to “self-adjacency.” ---
-heading: '**Identity:**'
-id: GEN17-5056
-lines: 656-660
-location: genesis-17/mbc-schema-3::4-the-box-category-𝓑::identity::b1
-parent_heading: '**4\. The Box Category (𝓑)**'
-source: genesis-17\MBC_Schema_3.md
+aliases:
+- Bk649eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

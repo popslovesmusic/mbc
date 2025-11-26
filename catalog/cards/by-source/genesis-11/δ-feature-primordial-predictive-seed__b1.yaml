@@ -1,12 +1,34 @@
+id: GEN11-1196
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-igsoa-empirical-prediction-axiom::definitions::δ-feature-primordial-predictive-seed::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1313-1319
+heading: '**δ-Feature (Primordial Predictive Seed)**'
+parent_heading: '**DEFINITIONS**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Any substructure of δ: D∈{δn, δ0m, δ-torsion, δ-shear, δ-basins, δA loops}\\mathscr{D}
   \\in \\{\\delta\_n,\\, \\delta\_{0m},\\,\\delta\\text{-torsion},\\,\\delta\\text{-shear},\\,\\delta\\text{-basins...'
-heading: '**δ-Feature (Primordial Predictive Seed)**'
-id: GEN11-1196
-lines: 1313-1319
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-igsoa-empirical-prediction-axiom::definitions::δ-feature-primordial-predictive-seed::b1
-parent_heading: '**DEFINITIONS**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- δ
+- δ-torsion
+- δ-basins
+- δ-shear
+- ∈
+- Π-imprint
+- Π
+- δA
+- δn
+aliases:
+- Bk285as
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

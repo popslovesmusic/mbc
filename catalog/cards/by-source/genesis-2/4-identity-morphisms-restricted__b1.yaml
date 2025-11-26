@@ -1,14 +1,35 @@
+id: GEN2-6231
+location: genesis-2/axioms-for-the-category-genesis::4-identity-morphisms-restricted::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 88-100
+heading: '**4\. Identity Morphisms (Restricted)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Identity Emergence
-- Zero State
-- Ψ
 excerpt: 'This is where Genesis differs from ordinary categories. **Axiom G6 — Identity
   Emergence** Identity morphisms **do not exist at Ψ₀**, but exist for all Ψn\\Psi\_nΨn​
   with n≥1n\\ge1n≥1:'
-heading: '**4\. Identity Morphisms (Restricted)**'
-id: GEN2-6231
-lines: 88-100
-location: genesis-2/axioms-for-the-category-genesis::4-identity-morphisms-restricted::b1
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Ψ
+- ≥
+- Axiom
+- State
+- Ψn
+- Identity Emergence
+- Zero State
+- Ψ₀
+aliases:
+- Am366tw
+tags:
+- axiom
+- -identity-emergence
+- conflicted
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.195402298850574
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

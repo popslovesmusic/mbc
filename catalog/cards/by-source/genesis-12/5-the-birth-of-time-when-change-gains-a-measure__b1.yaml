@@ -1,17 +1,32 @@
+id: GEN12-1971
+location: genesis-12/untitled-document::5-the-birth-of-time-when-change-gains-a-measure::b1
+source: genesis-12\Untitled_document.md
+lines: 3978-4015
+heading: '**5\. The Birth of Time: When Change Gains a Measure**'
 block_type: paragraph
-concepts:
-- difference
-- propagates
-- shadow
-- then
-- Π
-- Φ
-- δ
 excerpt: As δ propagates into curvature and adjacency, Φ turns that curvature into
   evolution, and Π eventually turns evolution into observable change. Only *then*
   can something like clock time exist. Time begi...
-heading: '**5\. The Birth of Time: When Change Gains a Measure**'
-id: GEN12-1971
-lines: 3978-4015
-location: genesis-12/untitled-document::5-the-birth-of-time-when-change-gains-a-measure::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- meta-time
+- Π
+- Φ
+- induces measurable effects
+- propagates
+- difference
+- shadow
+aliases:
+- Bk250pi
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0606060606060606
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

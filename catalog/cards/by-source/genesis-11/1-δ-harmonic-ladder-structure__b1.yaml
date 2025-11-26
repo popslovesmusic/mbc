@@ -1,12 +1,32 @@
+id: GEN11-1288
+location: genesis-11/the-adjacency-wave-equation::axiomatic-content-sealed::1-δ-harmonic-ladder-structure::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 677-685
+heading: '**1\. δ-Harmonic Ladder Structure**'
+parent_heading: '**Axiomatic Content (Sealed)**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: 'The δ-harmonic ladder is **uniformly spaced**: λℓ=ℓ Δδ+εℓ,∣εℓ∣≪Δδ.\\lambda\_\\ell
   \= \\ell\\,\\Delta\_\\delta \+ \\varepsilon\_\\ell, \\qquad |\\varepsilon\_\\ell|\\ll\\Delta\_\\delta.λℓ​=ℓΔδ​+εℓ​,∣εℓ...'
-heading: '**1\. δ-Harmonic Ladder Structure**'
-id: GEN11-1288
-lines: 677-685
-location: genesis-11/the-adjacency-wave-equation::axiomatic-content-sealed::1-δ-harmonic-ladder-structure::b1
-parent_heading: '**Axiomatic Content (Sealed)**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ
+- ε
+- Δ
+- λ
+- δ-harmonic
+- primordial spectrum
+- uniformly spaced
+aliases:
+- Bk793th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

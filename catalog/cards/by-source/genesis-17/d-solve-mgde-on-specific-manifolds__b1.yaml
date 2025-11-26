@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: IGSOA harmonics, CMB modes, galaxy seeds.
-heading: D. Solve MGDE on specific manifolds
 id: GEN17-4851
-lines: 10351-10353
 location: genesis-17/box-calculus::next-step-options::d-solve-mgde-on-specific-manifolds::b1
-parent_heading: ⭐ Next Step Options
 source: genesis-17\box_calculus.md
+lines: 10351-10353
+heading: D. Solve MGDE on specific manifolds
+parent_heading: ⭐ Next Step Options
+block_type: paragraph
+excerpt: IGSOA harmonics, CMB modes, galaxy seeds.
+concepts:
+- IGSOA
+aliases:
+- Bk098ih
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

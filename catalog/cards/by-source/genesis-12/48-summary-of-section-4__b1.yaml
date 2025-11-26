@@ -1,17 +1,39 @@
+id: GEN12-1632
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::4-π-observables::48-summary-of-section-4::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1624-1654
+heading: '**4.8 Summary of Section 4**'
+parent_heading: '**4\. Π → Observables**'
 block_type: list
-concepts:
-- Axiom
-- Box
-- Cosmic Pipeline
-- Observables Axiom Box
-- Write Section
-- Π
-- Φ
 excerpt: '* Π-projects Φ-modes into geometric fields. * Observables are geometric
   fields measured on the light cone. * CMB anisotropies are Π-projected spectral differences.'
-heading: '**4.8 Summary of Section 4**'
-id: GEN12-1632
-lines: 1624-1654
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::4-π-observables::48-summary-of-section-4::b1
-parent_heading: '**4\. Π → Observables**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- Π-projected
+- Axiom
+- Φ
+- different views of the same harmonic ladder
+- Box
+- Φ-modes
+- Observables Axiom Box
+- Π-projects
+- Φ-ladder
+- →
+- Cosmic Pipeline
+- Write Section
+aliases:
+- Bk031pm
+tags:
+- axiom-box
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.077519379844961
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,12 +1,29 @@
+id: GEN13-2409
+location: genesis-13/the-weight-of-light::2-lemmas::lemma-l1-uniqueness-of-genesis-lift::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 2021-2029
+heading: '**Lemma L1 — Uniqueness of Genesis Lift**'
+parent_heading: '**2\. Lemmas**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Any functor F:G0→MF : \\mathcal{G}\_0 \\to \\mathcal{M}F:G0​→M compatible
   with monism must be δ: F≅δ.F \\cong \\delta.F≅δ. *Reason:* δ is initial among asymmetry-creating
   functors.'
-heading: '**Lemma L1 — Uniqueness of Genesis Lift**'
-id: GEN13-2409
-lines: 2021-2029
-location: genesis-13/the-weight-of-light::2-lemmas::lemma-l1-uniqueness-of-genesis-lift::b1
-parent_heading: '**2\. Lemmas**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- asymmetry-creating
+- →
+aliases:
+- Bk138af
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

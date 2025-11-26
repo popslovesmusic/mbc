@@ -1,12 +1,31 @@
+id: GEN1-503
+location: genesis-1/the-foundation-layer::v-lemma-4::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1350-1372
+heading: '**\*\*V. Lemma 4**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'The forced morphism must originate from Ψ₀\*\* Because Ψ₀ cannot exist as
   an object, but is nevertheless referenced in the theory, the resolution must be
   mediated by a morphism: δ:Ψ0→Ψ1(5)\\delta: \\P...'
-heading: '**\*\*V. Lemma 4**'
-id: GEN1-503
-lines: 1350-1372
-location: genesis-1/the-foundation-layer::v-lemma-4::b1
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- δ
+- category-theoretic
+- Ψ₀
+- →
+- self-maps
+- uniquely determined
+aliases:
+- Bk685tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.862745098039216
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

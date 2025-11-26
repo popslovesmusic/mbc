@@ -1,22 +1,41 @@
+id: GEN9-9435
+location: genesis-9/is-the-source-of-all-structure::igsoa-axiom-box::conclusion-hermetic-seal::next-options::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 1486-1500
+heading: '**Next options:**'
+parent_heading: '**Conclusion (Hermetic Seal).**'
 block_type: list
-concepts:
-- Atomic Structure
-- Axiom
-- Axiom Block
-- Axiom Commentary Page
-- Orbital Emergence
-- Orbital Emergence Theorem
-- Periodic Table
-- Theorem
-- Π
-- Φ
-- δ
 excerpt: '1. **Orbital Emergence Theorem** (the logical consequence of this axiom
   box) 2. A **diagram stack**: δ → Φ → Π → Orbitals → Periodic Table 3. A **plain-English
   outreach version** of this axiom for Day...'
-heading: '**Next options:**'
-id: GEN9-9435
-lines: 1486-1500
-location: genesis-9/is-the-source-of-all-structure::igsoa-axiom-box::conclusion-hermetic-seal::next-options::b1
-parent_heading: '**Conclusion (Hermetic Seal).**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- Axiom
+- →
+- Theorem
+- plain-English outreach version
+- plain-English
+- Orbital Emergence
+- combined master Axiom Block
+- Orbital Emergence Theorem
+- Axiom Commentary Page
+- Π
+- δ
+- Φ
+- Atomic Structure
+- Periodic Table
+- diagram stack
+aliases:
+- Bk329oe
+tags:
+- axiom-box
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.91780821917808
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

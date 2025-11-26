@@ -1,14 +1,38 @@
+id: GEN15-3353
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::ii-why-δ-generates-triaxial-halos-the-geometric-argument::1-δ-is-not-isotropic::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1523-1551
+heading: '**1\. δ is not isotropic.**'
+parent_heading: '**II. Why δ generates triaxial halos (the geometric argument)**'
 block_type: paragraph
-concepts:
-- local
-- triaxial
-- δ
 excerpt: 'Even if the *local* δ-geometry is nearly isotropic, the **CSOI-tail integrates
   anisotropies over large causal spheres**. Thus: δtail(x)=∫C(x)K(r,θ,ϕ) dy\\delta\_{\\rm
   tail}(x) \= \\int\_{\\mathcal{C}(...'
-heading: '**1\. δ is not isotropic.**'
-id: GEN15-3353
-lines: 1523-1551
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::ii-why-δ-generates-triaxial-halos-the-geometric-argument::1-δ-is-not-isotropic::b1
-parent_heading: '**II. Why δ generates triaxial halos (the geometric argument)**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- δ
+- δ-geometry
+- CSOI-tail integrates anisotropies over large causal spheres
+- IGSOA
+- θ
+- quadrupole-dominated δ-field
+- quadrupole δ-harmonics
+- δ-harmonic
+- quadrupole-dominated
+- ∫
+- δ-harmonics
+- sheet-like
+- CSOI-tail
+- δ-field
+- →
+aliases:
+- Bk693et
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.408759124087592
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

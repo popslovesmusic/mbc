@@ -1,17 +1,40 @@
-block_type: paragraph
-concepts:
-- All Realms
-- Axiom
-- Axiom Box
-- Box
-- Deviation Precedes Time
-- Deviational Order
-- Not Dimension
-- δ
-excerpt: 'I can produce: 1. **A sealed Axiom Box:** “Time as Deviational Order, Not
-  Dimension” 2. **A formal theorem:** “Deviation Precedes Time in All Realms”'
-heading: '**📦 Want this formalized?**'
 id: SPEC-11060
-lines: 1391-1405
 location: special/specil::want-this-formalized::b1
 source: special\specil.md
+lines: 1391-1405
+heading: '**📦 Want this formalized?**'
+block_type: paragraph
+excerpt: 'I can produce: 1. **A sealed Axiom Box:** “Time as Deviational Order, Not
+  Dimension” 2. **A formal theorem:** “Deviation Precedes Time in All Realms”'
+concepts:
+- Deviation
+- A category-theoretic formulation
+- Axiom
+- Theorem
+- A white-paper section
+- category-theoretic
+- Box
+- δ
+- physical-time
+- Genesis-time
+- logical-time
+- white-paper
+- Deviation Precedes Time
+- Deviational Order
+- A TikZ diagram
+aliases:
+- Bk645cp
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 26.47058823529412
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

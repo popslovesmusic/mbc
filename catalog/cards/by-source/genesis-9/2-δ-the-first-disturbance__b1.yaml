@@ -1,15 +1,31 @@
+id: GEN9-9077
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::2-δ-the-first-disturbance::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 743-760
+heading: '**2\. δ: The First Disturbance**'
+parent_heading: '**“Why Orbitals Exist at All”**'
 block_type: paragraph
-concepts:
-- Axiom
-- The Zero State
-- failing
-- Ψ
-- δ
 excerpt: In IGSOA, the universe does not begin by “appearing.” It begins by **failing**
   to remain perfectly still. The Zero State
-heading: '**2\. δ: The First Disturbance**'
-id: GEN9-9077
-lines: 743-760
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::2-δ-the-first-disturbance::b1
-parent_heading: '**“Why Orbitals Exist at All”**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- IGSOA
+- Axiom
+- State
+- Ψ
+- δ
+- The Zero State
+- failing
+aliases:
+- Bk451it
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.962962962962962
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

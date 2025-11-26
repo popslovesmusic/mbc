@@ -1,20 +1,36 @@
-block_type: paragraph
-concepts:
-- Higgs Theorem
-- Mass Spectrum
-- Mass Tower Theorem
-- Standard Model
-- Theorem
-- Π
-- Π-projection
-- Φ
-- Φ-dynamics
-- δ
-- δ-geometry
-excerpt: 'The IGSOA mass mechanism is not spontaneous symmetry breaking in the Standard
-  Model sense. Instead: 1. **δ-geometry** produces a curvature-induced deviation potential.'
-heading: '**0\. Overview**'
 id: GEN12-1743
-lines: 331-360
 location: genesis-12/untitled-document::0-overview::b1
 source: genesis-12\Untitled_document.md
+lines: 331-360
+heading: '**0\. Overview**'
+block_type: paragraph
+excerpt: 'The IGSOA mass mechanism is not spontaneous symmetry breaking in the Standard
+  Model sense. Instead: 1. **δ-geometry** produces a curvature-induced deviation potential.'
+concepts:
+- δ
+- δ-geometry
+- Theorem
+- IGSOA
+- Π
+- Φ
+- δ-harmonic degeneracy tower
+- δ-harmonic
+- Mass Spectrum
+- δ-Higgs potential
+- curvature-induced
+- δ-Higgs
+- →
+- δ-Higgs Theorem
+- mass-bearing
+aliases:
+- Bk380ti
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.298245614035086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

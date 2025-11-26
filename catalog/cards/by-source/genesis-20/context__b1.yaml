@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Boxes
-- Π
-- Φ
-- δ
-excerpt: 'Readers should first understand: 1. Boxes 2. δ → Φ → Π'
-heading: 'Context:'
 id: GEN20-6989
-lines: 4129-4141
 location: genesis-20/mbc-40-documentaitio-1::why-a-single-bridge-chapter-now::context::b1
-parent_heading: ⭐ Why a Single Bridge Chapter Now?
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4129-4141
+heading: 'Context:'
+parent_heading: ⭐ Why a Single Bridge Chapter Now?
+block_type: paragraph
+excerpt: 'Readers should first understand: 1. Boxes 2. δ → Φ → Π'
+concepts:
+- Polarity
+- Axiom
+- →
+- multi-input
+- Π
+- δ
+- Φ
+- Axiom Boxes
+aliases:
+- Bk626rs
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.62162162162162
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

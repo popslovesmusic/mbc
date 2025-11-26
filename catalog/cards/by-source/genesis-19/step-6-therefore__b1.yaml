@@ -1,12 +1,28 @@
+id: GEN19-5942
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-b-standard-logic-proof::step-6-therefore::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 909-915
+heading: '**Step 6\. Therefore:**'
+parent_heading: '**III-B. Standard Logic Proof**'
 block_type: paragraph
-concepts:
-- Θ
 excerpt: Reasoning=sign-preserving affine transformation.\\text{Reasoning} \= \\text{sign-preserving
   affine transformation}.Reasoning=sign-preserving affine transformation. Which proves
   the equivalence between...
-heading: '**Step 6\. Therefore:**'
-id: GEN19-5942
-lines: 909-915
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-b-standard-logic-proof::step-6-therefore::b1
-parent_heading: '**III-B. Standard Logic Proof**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- sign-preserving
+- Θ
+aliases:
+- Bk730rs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.4074074074074066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

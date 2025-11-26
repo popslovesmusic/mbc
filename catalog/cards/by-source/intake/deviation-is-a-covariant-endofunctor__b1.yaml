@@ -1,12 +1,29 @@
+id: INTK-10023
+location: intake/meta-genesis-mathematical-papers::4-category-theoretic-proof::deviation-is-a-covariant-endofunctor::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1240-1258
+heading: '**Deviation is a covariant endofunctor.**'
+parent_heading: '**4\. Category-Theoretic Proof**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Thus: δ acting once   ⟹  δ acting twice   ⟹  ⋯\\delta\\text{ acting once
   } \\implies \\delta \\text{ acting twice } \\implies \\cdotsδ acting once ⟹δ acting
   twice ⟹⋯ A functor cannot map an object int...'
-heading: '**Deviation is a covariant endofunctor.**'
-id: INTK-10023
-lines: 1240-1258
-location: intake/meta-genesis-mathematical-papers::4-category-theoretic-proof::deviation-is-a-covariant-endofunctor::b1
-parent_heading: '**4\. Category-Theoretic Proof**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- δ
+- self-iteration
+- well-defined
+- δn
+aliases:
+- Bk692ta
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.040404040404041
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

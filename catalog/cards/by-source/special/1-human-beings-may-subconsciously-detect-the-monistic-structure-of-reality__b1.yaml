@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- does
-- proto-theories
-excerpt: 'Even if we don’t have explicit mathematical language for it, the brain *does*
-  detect deep patterns: * cycles'
-heading: '**⭐ 1\. Human beings may subconsciously detect the monistic structure of
-  reality**'
 id: SPEC-11116
-lines: 2350-2402
 location: special/specil::1-human-beings-may-subconsciously-detect-the-monistic-structure-of-reality::b1
 source: special\specil.md
+lines: 2350-2402
+heading: '**⭐ 1\. Human beings may subconsciously detect the monistic structure of
+  reality**'
+block_type: paragraph
+excerpt: 'Even if we don’t have explicit mathematical language for it, the brain *does*
+  detect deep patterns: * cycles'
+concepts:
+- emergence-from-stillness
+- unity-expressing-as-many
+- creation-from-asymmetry
+- long before mathematics names them
+- proto-theories
+aliases:
+- Bk275ed
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.172839506172839
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

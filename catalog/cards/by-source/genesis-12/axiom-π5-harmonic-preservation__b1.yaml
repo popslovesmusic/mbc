@@ -1,13 +1,31 @@
+id: GEN12-1617
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-φ-π-projection-to-geometry::axiom-π5-harmonic-preservation::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1317-1329
+heading: '**Axiom Π5 (Harmonic Preservation).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Φ → Π (Projection to Geometry) ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'Π preserves harmonic relations: Π(ϕi+ϕj)=Π(ϕi)+Π(ϕj),\\Pi(\\phi\_i \+ \\phi\_j)
   \= \\Pi(\\phi\_i) \+ \\Pi(\\phi\_j),Π(ϕi​+ϕj​)=Π(ϕi​)+Π(ϕj​), and projects Φ’s discrete
   spectrum into geometric multipol...'
-heading: '**Axiom Π5 (Harmonic Preservation).**'
-id: GEN12-1617
-lines: 1317-1329
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-φ-π-projection-to-geometry::axiom-π5-harmonic-preservation::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Φ → Π (Projection to Geometry) ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- Φ
+- Π-projected
+- Φ-modes
+- →
+aliases:
+- Bk003ph
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

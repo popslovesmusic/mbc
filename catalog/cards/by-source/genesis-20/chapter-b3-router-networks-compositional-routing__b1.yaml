@@ -1,9 +1,28 @@
-block_type: list
-concepts: []
-excerpt: '* Router stacking * Polarity cascades * Multi-layer semantic routing networks'
-heading: Chapter B3 — Router Networks (Compositional Routing)
 id: GEN20-7067
-lines: 5145-5151
 location: genesis-20/mbc-40-documentaitio-1::part-ii-advanced-θ-router-systems::chapter-b3-router-networks-compositional-routing::b1
-parent_heading: PART II — Advanced Θ-Router Systems
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5145-5151
+heading: Chapter B3 — Router Networks (Compositional Routing)
+parent_heading: PART II — Advanced Θ-Router Systems
+block_type: list
+excerpt: '* Router stacking * Polarity cascades * Multi-layer semantic routing networks'
+concepts:
+- Polarity
+- Router
+- Router-network
+- Multi-layer
+aliases:
+- Bk184rs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

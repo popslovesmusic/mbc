@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Length
-- Light-cones
-excerpt: 'Once you have gijg\_{ij}gij​, three things follow automatically: 1. **Length**
-  2. **Light-cones**'
-heading: '**III. Metric Forces Spacetime**'
 id: GEN0-212
-lines: 850-862
 location: genesis-0/tri-unity-theorem-equivalence-of::iii-metric-forces-spacetime::b1
 source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 850-862
+heading: '**III. Metric Forces Spacetime**'
+block_type: paragraph
+excerpt: 'Once you have gijg\_{ij}gij​, three things follow automatically: 1. **Length**
+  2. **Light-cones**'
+concepts:
+- Light-cones
+- Causal structure
+- Length
+aliases:
+- Bk043oy
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

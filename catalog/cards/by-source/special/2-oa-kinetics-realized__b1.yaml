@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Kinetic Realization
-- form
-excerpt: '“O A” is the **moment the potential becomes active.** This is: * The ignition'
-heading: '**2\. OA — Kinetics Realized**'
 id: SPEC-10995
-lines: 419-442
 location: special/specil::the-three-kinetic-phases-of-igsoa::2-oa-kinetics-realized::b1
-parent_heading: '**✅ The Three Kinetic Phases of IGSOA**'
 source: special\specil.md
+lines: 419-442
+heading: '**2\. OA — Kinetics Realized**'
+parent_heading: '**✅ The Three Kinetic Phases of IGSOA**'
+block_type: paragraph
+excerpt: '“O A” is the **moment the potential becomes active.** This is: * The ignition'
+concepts:
+- IGSOA
+- Kinetic Realization
+- kinetic realization stage
+- →
+- fact of movement
+- form
+aliases:
+- Bk853tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

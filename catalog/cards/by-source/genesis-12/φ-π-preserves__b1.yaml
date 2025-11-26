@@ -1,9 +1,23 @@
-block_type: list
-concepts: []
-excerpt: '* harmonic ordering * curvature amplitudes * adjacency neighborhoods'
-heading: '**Φ → Π preserves:**'
 id: GEN12-1652
-lines: 1867-1875
 location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::52-structure-preservation-across-layers::φ-π-preserves::b1
-parent_heading: '**5.2 Structure Preservation Across Layers**'
 source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1867-1875
+heading: '**Φ → Π preserves:**'
+parent_heading: '**5.2 Structure Preservation Across Layers**'
+block_type: list
+excerpt: '* harmonic ordering * curvature amplitudes * adjacency neighborhoods'
+aliases:
+- Bk594ho
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

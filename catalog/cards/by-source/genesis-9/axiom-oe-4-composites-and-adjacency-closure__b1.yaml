@@ -1,14 +1,31 @@
+id: GEN9-9430
+location: genesis-9/is-the-source-of-all-structure::igsoa-axiom-box::orbital-emergence-axiom-δ-φ-π::axiom-oe-4-composites-and-adjacency-closure::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 1411-1422
+heading: '**Axiom OE-4 — Composites and Adjacency Closure.**'
+parent_heading: '**Orbital Emergence Axiom (δ → Φ → Π)**'
 block_type: paragraph
-concepts:
-- Π
-- Π-closures
-- δ
 excerpt: 'Π may stabilize **composite modes** when δ-harmonics alone cannot close
   adjacency loops. This produces the classical extra orbital capacities: * \+1 for
   d-block (9→10),'
-heading: '**Axiom OE-4 — Composites and Adjacency Closure.**'
-id: GEN9-9430
-lines: 1411-1422
-location: genesis-9/is-the-source-of-all-structure::igsoa-axiom-box::orbital-emergence-axiom-δ-φ-π::axiom-oe-4-composites-and-adjacency-closure::b1
-parent_heading: '**Orbital Emergence Axiom (δ → Φ → Π)**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- Π
+- →
+- δ-harmonics
+- Π-closures
+- f-block
+- d-block
+- δ
+- composite modes
+aliases:
+- Bk486ms
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

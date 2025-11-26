@@ -1,10 +1,26 @@
+id: GEN15-3321
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::vii-physical-interpretation::in-standard-gr::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1036-1042
+heading: '**In standard GR:**'
+parent_heading: '**VII. Physical Interpretation**'
 block_type: list
-concepts: []
 excerpt: '* Curvature is local. * Gravity fades as 1/r21/r^21/r2. * DM must be added
   to explain galaxy dynamics.'
-heading: '**In standard GR:**'
-id: GEN15-3321
-lines: 1036-1042
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::vii-physical-interpretation::in-standard-gr::b1
-parent_heading: '**VII. Physical Interpretation**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- Curvature
+aliases:
+- Bk838cl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

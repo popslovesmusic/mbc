@@ -1,11 +1,26 @@
+id: INTK-9845
+location: intake/meta-genesis-core-papers-foundations::2-necessary-conditions-axioms-feeding-the-transition::c3-atemporal-operator-free::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1201-1203
+heading: '**(C3) Atemporal / Operator-Free**'
+parent_heading: '**2\. Necessary Conditions (Axioms Feeding the Transition)**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: ¬(∃T),¬(∃E),Dom(E),Cod(E)≠Ψ0.\\neg(\\exists T),\\qquad \\neg(\\exists E),\\qquad
   \\text{Dom}(E), \\text{Cod}(E) \\neq \\Psi\_0.¬(∃T),¬(∃E),Dom(E),Cod(E)=Ψ0​.
-heading: '**(C3) Atemporal / Operator-Free**'
-id: INTK-9845
-lines: 1201-1203
-location: intake/meta-genesis-core-papers-foundations::2-necessary-conditions-axioms-feeding-the-transition::c3-atemporal-operator-free::b1
-parent_heading: '**2\. Necessary Conditions (Axioms Feeding the Transition)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- ∃
+- ¬
+- Ψ
+- ≠
+aliases:
+- Bk191dc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

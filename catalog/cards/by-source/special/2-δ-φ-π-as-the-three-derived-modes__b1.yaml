@@ -1,13 +1,30 @@
+id: SPEC-10967
+location: special/specil::correct-ontological-ordering-your-framework::2-δ-φ-π-as-the-three-derived-modes::b1
+source: special\specil.md
+lines: 43-51
+heading: '**2\. δ → Φ → Π as the three derived modes**'
+parent_heading: '**✅ Correct Ontological Ordering (Your Framework)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '**δ** \= geometric / curvature / adjacency-bending **Φ** \= dynamical /
   flow / consistency / harmonic constraint **Π** \= ordering / projection / classicalization'
-heading: '**2\. δ → Φ → Π as the three derived modes**'
-id: SPEC-10967
-lines: 43-51
-location: special/specil::correct-ontological-ordering-your-framework::2-δ-φ-π-as-the-three-derived-modes::b1
-parent_heading: '**✅ Correct Ontological Ordering (Your Framework)**'
-source: special\specil.md
+concepts:
+- IGSOA
+- adjacency-bending
+- Π
+- δ
+- Φ
+aliases:
+- Bk544gc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.24137931034483
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Where:'
-heading: IGSOA \= (Manifold of semantic states, Deviation Flow 𝓕, Curvature δ)
 id: GEN17-4653
-lines: 7782-7784
 location: genesis-17/box-calculus::5-formal-statement::igsoa-manifold-of-semantic-states-deviation-flow-𝓕-curvature-δ::b1
-parent_heading: ⭐ 5\. FORMAL STATEMENT
 source: genesis-17\box_calculus.md
+lines: 7782-7784
+heading: IGSOA \= (Manifold of semantic states, Deviation Flow 𝓕, Curvature δ)
+parent_heading: ⭐ 5\. FORMAL STATEMENT
+block_type: paragraph
+excerpt: 'Where:'
+aliases:
+- Bk298wh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

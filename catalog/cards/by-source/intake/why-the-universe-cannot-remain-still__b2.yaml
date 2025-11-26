@@ -1,11 +1,28 @@
+id: INTK-10104
+location: intake/meta-genesis-physical-interpretation-papers::why-the-universe-cannot-remain-still::b2
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 427-432
+heading: '**Why the Universe Cannot Remain Still**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
 excerpt: written as a self-contained section that can open a chapter or paper. Cinematic
   voice, mathematically coherent, and completely aligned with the Meta-Genesis / IGSOA
   logic developed so far. ---
-heading: '**Why the Universe Cannot Remain Still**'
-id: INTK-10104
-lines: 427-432
-location: intake/meta-genesis-physical-interpretation-papers::why-the-universe-cannot-remain-still::b2
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Meta-Genesis
+- IGSOA
+- self-contained
+aliases:
+- Bk259ws
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,29 @@
+id: GEN15-3458
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::5-φ-and-π-as-higher-adjoints-meaning::52-π-δ-inflation-cmbstructuregalaxies::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1266-1276
+heading: '**5.2 Π \= δ\_∗ (Inflation → CMB/Structure/Galaxies)**'
+parent_heading: '**🔷 5\. Φ and Π as Higher Adjoints: Meaning**'
 block_type: list
-concepts:
-- Π
-- δ
 excerpt: '* A right adjoint preserves limits * Extracts global observables * Computes
   metric and curvature summaries'
-heading: '**5.2 Π \= δ\_∗ (Inflation → CMB/Structure/Galaxies)**'
-id: GEN15-3458
-lines: 1266-1276
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::5-φ-and-π-as-higher-adjoints-meaning::52-π-δ-inflation-cmbstructuregalaxies::b1
-parent_heading: '**🔷 5\. Φ and Π as Higher Adjoints: Meaning**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- δ-structures
+- Π
+- δ
+- projection functor
+aliases:
+- Bk487ra
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,30 @@
+id: GEN13-2133
+location: genesis-13/meta-math-nuclear-physics::4-φ-π-collective-structures-nuclear-matter::definition-41-nuclear-tensor-object::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1626-1630
+heading: '**Definition 4.1 — Nuclear Tensor Object**'
+parent_heading: '**4\. Φ → Π Collective Structures \= Nuclear Matter**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: N=SymA(Π(Φn1)⊗⋯⊗Π(Φnk))\\mathcal{N} \= \\mathrm{Sym}^A\\left( \\Pi(\\Phi\_{n\_1})\\otimes
   \\cdots \\otimes \\Pi(\\Phi\_{n\_k}) \\right)N=SymA(Π(Φn1​​)⊗⋯⊗Π(Φnk​​)) ---
-heading: '**Definition 4.1 — Nuclear Tensor Object**'
-id: GEN13-2133
-lines: 1626-1630
-location: genesis-13/meta-math-nuclear-physics::4-φ-π-collective-structures-nuclear-matter::definition-41-nuclear-tensor-object::b1
-parent_heading: '**4\. Φ → Π Collective Structures \= Nuclear Matter**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Π
+- ⊗
+- Φ
+- Φn
+- Φnk
+aliases:
+- Bk351sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

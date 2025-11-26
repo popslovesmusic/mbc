@@ -1,14 +1,32 @@
+id: GEN7-8631
+location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::axiom-ls-1-deviation-persistence::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 190-198
+heading: '**Axiom LS-1 (Deviation Persistence)**'
+parent_heading: '**◼ LAW STABILITY AXIOM BOX**'
 block_type: paragraph
-concepts:
-- Axiom
-- Ψ
-- δ
 excerpt: 'Every realized deviation δ\\deltaδ that emerges from Ψ₀ generates a persistent,
   non-reversible adjacency distortion: δ:A→A′≠A.\\delta : \\mathcal{A} \\rightarrow
   \\mathcal{A}'' \\neq \\mathcal{A}.δ:A→A...'
-heading: '**Axiom LS-1 (Deviation Persistence)**'
-id: GEN7-8631
-lines: 190-198
-location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::axiom-ls-1-deviation-persistence::b1
-parent_heading: '**◼ LAW STABILITY AXIOM BOX**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Axiom
+- Ψ
+- →
+- self-annihilate
+- non-reversible
+- ≠
+- no operators
+- Ψ₀
+aliases:
+- Bk544er
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

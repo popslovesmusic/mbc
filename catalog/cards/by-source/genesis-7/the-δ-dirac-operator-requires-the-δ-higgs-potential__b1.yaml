@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**The δ-Dirac operator *requires* the δ-Higgs potential.**'
 id: GEN7-8600
-lines: 765-767
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::6-δ-higgs-potential-from-the-δ-dirac-operator::the-δ-dirac-operator-requires-the-δ-higgs-potential::b1
-parent_heading: '**6\. δ-Higgs Potential From the δ-Dirac Operator**'
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 765-767
+heading: '**The δ-Dirac operator *requires* the δ-Higgs potential.**'
+parent_heading: '**6\. δ-Higgs Potential From the δ-Dirac Operator**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

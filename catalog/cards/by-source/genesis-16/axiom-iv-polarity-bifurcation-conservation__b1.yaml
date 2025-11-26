@@ -1,20 +1,37 @@
+id: GEN16-3976
+location: genesis-16/untitled-document::3-mapping-the-laws-axioms::axiom-iv-polarity-bifurcation-conservation::b1
+source: genesis-16\Untitled_document.md
+lines: 2960-2968
+heading: '**Axiom IV — Polarity / Bifurcation Conservation**'
+parent_heading: '**⭐ 3\. Mapping the Laws (Axioms)**'
 block_type: table
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Dual-Mode
-- Meta-Math
-- Mode
-- Mode Distinction Axiom
-- Polarity Axiom
-- Σ
-- ρ
 excerpt: G(Polarity Axiom)=Dual-Mode Distinction Axiom\\boxed{G(\\text{Polarity Axiom})=\\text{Dual-Mode
   Distinction Axiom}}G(Polarity Axiom)=Dual-Mode Distinction Axiom​ ---
-heading: '**Axiom IV — Polarity / Bifurcation Conservation**'
-id: GEN16-3976
-lines: 2960-2968
-location: genesis-16/untitled-document::3-mapping-the-laws-axioms::axiom-iv-polarity-bifurcation-conservation::b1
-parent_heading: '**⭐ 3\. Mapping the Laws (Axioms)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Axiom
+- Polarity
+- Meta-Math
+- Σ
+- Box Calculus
+- Mode
+- Dual-Mode
+- Mode Distinction Axiom
+- Polarity Axiom
+- Box
+- ρ
+- →
+aliases:
+- Bk471bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.818181818181817
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

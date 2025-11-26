@@ -1,10 +1,25 @@
+id: GEN11-1164
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::ii-large-scale-structure-lss-predictions::1-void-scars::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 979-992
+heading: '**1\. “Void Scars”**'
+parent_heading: '**II. Large-Scale Structure (LSS) Predictions**'
 block_type: paragraph
+excerpt: 'Predictions: * a heavy tail of supervoids * sharper walls than ΛCDM'
 concepts:
 - Λ
-excerpt: 'Predictions: * a heavy tail of supervoids * sharper walls than ΛCDM'
-heading: '**1\. “Void Scars”**'
-id: GEN11-1164
-lines: 979-992
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::ii-large-scale-structure-lss-predictions::1-void-scars::b1
-parent_heading: '**II. Large-Scale Structure (LSS) Predictions**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+aliases:
+- Bk286ph
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.3478260869565215
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

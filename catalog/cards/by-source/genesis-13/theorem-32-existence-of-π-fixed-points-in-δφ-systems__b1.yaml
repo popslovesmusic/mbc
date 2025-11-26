@@ -1,14 +1,34 @@
+id: GEN13-2533
+location: genesis-13/what-biology-is-in-meta-genesis::3-π-closure-and-stabilization::theorem-32-existence-of-π-fixed-points-in-δφ-systems::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1033-1045
+heading: '**Theorem 3.2 (Existence of Π-Fixed Points in δ–Φ Systems).**'
+parent_heading: '**3\. Π-Closure and Stabilization**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ω
-- δ
 excerpt: 'For any composite functor: Π∘Φ∘δ:S→P\\Pi \\circ \\Phi \\circ \\delta : \\mathcal{S}
   \\to \\mathcal{P}Π∘Φ∘δ:S→P there exists at least one fixed point in P\\mathcal{P}P:'
-heading: '**Theorem 3.2 (Existence of Π-Fixed Points in δ–Φ Systems).**'
-id: GEN13-2533
-lines: 1033-1045
-location: genesis-13/what-biology-is-in-meta-genesis::3-π-closure-and-stabilization::theorem-32-existence-of-π-fixed-points-in-δφ-systems::b1
-parent_heading: '**3\. Π-Closure and Stabilization**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- δ
+- Φ
+- Proof
+- Ω
+- →
+- non-expansive
+- ≠
+aliases:
+- Bk597fa
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

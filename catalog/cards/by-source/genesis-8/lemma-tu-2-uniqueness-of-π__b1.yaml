@@ -1,15 +1,33 @@
+id: GEN8-8713
+location: genesis-8/corollary-einstein-compatibility-via::lemma-tu-2-uniqueness-of-π::b1
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 197-207
+heading: '**◆ Lemma TU-2 (Uniqueness of π) ◆**'
 block_type: paragraph
-concepts:
-- Axiom
-- Lemma
-- Unity Axiom
-- Φ
-- δ
 excerpt: '**Lemma.** Under the conditions of TU-1, the projection π is uniquely determined
   by the demand that its curvature output lies in the Einstein sector: π(RΦ)=R−12(Tr R) g.\\pi(R\_\\Phi)
   \= R \- \\tfrac1...'
-heading: '**◆ Lemma TU-2 (Uniqueness of π) ◆**'
-id: GEN8-8713
-lines: 197-207
-location: genesis-8/corollary-einstein-compatibility-via::lemma-tu-2-uniqueness-of-π::b1
-source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+concepts:
+- π
+- Axiom
+- Lemma
+- Φ
+- adjoint-preservation
+- trace-invariance
+- δ
+- Unity Axiom
+aliases:
+- Lm737lu
+tags:
+- lemma
+is_formal: true
+statement_type: lemma
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

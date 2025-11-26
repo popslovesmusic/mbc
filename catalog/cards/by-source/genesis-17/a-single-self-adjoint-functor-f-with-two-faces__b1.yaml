@@ -1,10 +1,25 @@
+id: GEN17-4606
+location: genesis-17/box-calculus::1-your-statement-implies-a-single-primitive-operator::a-single-self-adjoint-functor-f-with-two-faces::b1
+source: genesis-17\box_calculus.md
+lines: 7246-7261
+heading: 'A single self-adjoint functor F with two faces:'
+parent_heading: ⭐ 1\. YOUR STATEMENT IMPLIES A SINGLE PRIMITIVE OPERATOR
 block_type: paragraph
+excerpt: F+=EF−=A F \+
 concepts:
 - δ
-excerpt: F+=EF−=A F \+
-heading: 'A single self-adjoint functor F with two faces:'
-id: GEN17-4606
-lines: 7246-7261
-location: genesis-17/box-calculus::1-your-statement-implies-a-single-primitive-operator::a-single-self-adjoint-functor-f-with-two-faces::b1
-parent_heading: ⭐ 1\. YOUR STATEMENT IMPLIES A SINGLE PRIMITIVE OPERATOR
-source: genesis-17\box_calculus.md
+aliases:
+- Bk860tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 2.7777777777777777
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

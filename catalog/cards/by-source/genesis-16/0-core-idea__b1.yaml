@@ -1,14 +1,34 @@
-block_type: table
-concepts:
-- Box
-- Box Calculus
-- Graph Grammar
-- Standard Mathematics
-- syntax
-excerpt: '---'
-heading: '**0\. Core Idea**'
 id: GEN16-3831
-lines: 1209-1216
 location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::0-core-idea::b1
-parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
 source: genesis-16\Untitled_document.md
+lines: 1209-1216
+heading: '**0\. Core Idea**'
+parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
+block_type: table
+excerpt: '---'
+concepts:
+- Box Calculus
+- IGSOA
+- which operator outputs can feed which operator inputs
+- Box
+- well-formedness predicate
+- well-formedness
+- how Boxes may be wired
+- reduction discipline
+- Standard Mathematics
+- Graph Grammar
+- syntax
+aliases:
+- Bk399ib
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.942028985507244
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

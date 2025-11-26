@@ -1,13 +1,28 @@
+id: INTK-9886
+location: intake/meta-genesis-core-papers-foundations::2-meta-time-must-exist-why-its-forced::f2-δ-produces-a-direction-of-change::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1688-1696
+heading: '**(F2) δ produces a direction of change**'
+parent_heading: '**2\. Meta-Time Must Exist (Why It’s Forced)**'
 block_type: paragraph
-concepts:
-- arrow
-- Ψ
-- δ
 excerpt: 'When Ψ₀ → Ψ₁ occurs, the transformation is unidirectional: δint:Ψ0→Ψ1.\\delta\_{\\mathrm{int}}
   : \\Psi\_0 \\to \\Psi\_1.δint​:Ψ0​→Ψ1​. This is the first *arrow*.'
-heading: '**(F2) δ produces a direction of change**'
-id: INTK-9886
-lines: 1688-1696
-location: intake/meta-genesis-core-papers-foundations::2-meta-time-must-exist-why-its-forced::f2-δ-produces-a-direction-of-change::b1
-parent_heading: '**2\. Meta-Time Must Exist (Why It’s Forced)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- →
+- δ
+- δint
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk593wo
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

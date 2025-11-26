@@ -1,13 +1,40 @@
-block_type: paragraph
-concepts:
-- Coherence Conditions
-- Formal Stability
-- Π
-- Φ
-- δ
-excerpt: 'Advanced MBC involves: * multi-input semantic fusion * complex router networks'
-heading: A2.9 Why This Review is Necessary
 id: GEN20-7128
-lines: 5885-5910
 location: genesis-20/mbc-40-documentaitio-1::a29-why-this-review-is-necessary::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5885-5910
+heading: A2.9 Why This Review is Necessary
+block_type: paragraph
+excerpt: 'Advanced MBC involves: * multi-input semantic fusion * complex router networks'
+concepts:
+- MBC
+- Axiom
+- →
+- higher-category
+- causal-order
+- multi-input
+- axiom-box
+- Π
+- δ
+- Φ
+- Coherence Conditions
+- Formal Stability
+aliases:
+- Bk002a
+tags:
+- A2
+- A3
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.91044776119403
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A2
+- A3

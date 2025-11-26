@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Math Functor
-- Meta-Math
-- The Genesis
-excerpt: 'The functor must satisfy ordered realization: π(F(X))=F(π(X))\\pi(F(X))
-  \= F(\\pi(X))π(F(X))=F(π(X)) whenever π\\piπ is defined on XXX.'
-heading: '**5\. Compatibility With π (Meta-Time)**'
 id: GEN7-8535
-lines: 1385-1403
 location: genesis-7/the-complete-eft-lagrangian::5-compatibility-with-π-meta-time::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1385-1403
+heading: '**5\. Compatibility With π (Meta-Time)**'
+block_type: paragraph
+excerpt: 'The functor must satisfy ordered realization: π(F(X))=F(π(X))\\pi(F(X))
+  \= F(\\pi(X))π(F(X))=F(π(X)) whenever π\\piπ is defined on XXX.'
+concepts:
+- π
+- Meta-Math
+- Functor
+- →
+- Math Functor
+- The Genesis
+aliases:
+- Bk758tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

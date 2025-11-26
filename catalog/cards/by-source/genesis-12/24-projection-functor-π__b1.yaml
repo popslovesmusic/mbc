@@ -1,16 +1,34 @@
+id: GEN12-1992
+location: genesis-12/untitled-document::2-functors-of-the-galaxy-pipeline::24-projection-functor-π::b1
+source: genesis-12\Untitled_document.md
+lines: 4309-4318
+heading: '**2.4 Projection Functor Π**'
+parent_heading: '**2\. Functors of the Galaxy Pipeline**'
 block_type: paragraph
+excerpt: 'Π:Ker→Gal\\Pi : \\mathsf{Ker} \\to \\mathsf{Gal}Π:Ker→Gal Maps curvature
+  kernels to galaxies. Π is **faithful and injective** on Φ₂-stable objects (GF-5).'
 concepts:
+- Π
+- →
+- faithful and injective
+- Φ
 - 'Gal
 
 
   Maps'
-- Π
-- Φ
-excerpt: 'Π:Ker→Gal\\Pi : \\mathsf{Ker} \\to \\mathsf{Gal}Π:Ker→Gal Maps curvature
-  kernels to galaxies. Π is **faithful and injective** on Φ₂-stable objects (GF-5).'
-heading: '**2.4 Projection Functor Π**'
-id: GEN12-1992
-lines: 4309-4318
-location: genesis-12/untitled-document::2-functors-of-the-galaxy-pipeline::24-projection-functor-π::b1
-parent_heading: '**2\. Functors of the Galaxy Pipeline**'
-source: genesis-12\Untitled_document.md
+- Φ₂
+aliases:
+- Bk998kg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

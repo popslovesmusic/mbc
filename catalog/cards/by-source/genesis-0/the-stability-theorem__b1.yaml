@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts:
-- Cannot Collapse Back
-- Ψ
-excerpt: '**(Ψ₁ Cannot Collapse Back to Ψ₀)**'
-heading: '**The Stability Theorem**'
 id: GEN0-192
-lines: 525-527
 location: genesis-0/tri-unity-theorem-equivalence-of::the-stability-theorem::b1
 source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 525-527
+heading: '**The Stability Theorem**'
+block_type: paragraph
+excerpt: '**(Ψ₁ Cannot Collapse Back to Ψ₀)**'
+concepts:
+- Ψ
+- Cannot Collapse Back
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk701cc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

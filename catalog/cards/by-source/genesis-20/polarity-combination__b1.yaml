@@ -1,10 +1,28 @@
+id: GEN20-7117
+location: genesis-20/mbc-40-documentaitio-1::a25-polarity-algebra-formal-core::polarity-combination::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5785-5811
+heading: Polarity Combination
+parent_heading: A2.5 Polarity Algebra (Formal Core)
 block_type: paragraph
+excerpt: 'Given two inputs: Θcomb=F(Θ1,Θ2,M) Θ'
 concepts:
 - Θ
-excerpt: 'Given two inputs: Θcomb=F(Θ1,Θ2,M) Θ'
-heading: Polarity Combination
-id: GEN20-7117
-lines: 5785-5811
-location: genesis-20/mbc-40-documentaitio-1::a25-polarity-algebra-formal-core::polarity-combination::b1
-parent_heading: A2.5 Polarity Algebra (Formal Core)
-source: genesis-20\MBC_40_Documentaitio-1.md
+- metadata-dependent
+- →
+- non-linear
+aliases:
+- Bk227gt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.30232558139535
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

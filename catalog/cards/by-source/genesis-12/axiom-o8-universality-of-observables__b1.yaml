@@ -1,13 +1,25 @@
+id: GEN12-1643
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-π-observables::axiom-o8-universality-of-observables::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1756-1764
+heading: '**Axiom O8 (Universality of Observables).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Π → Observables ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'All cosmological observables—CMB, lensing, echoes, structure formation—are
   projections of the same harmonic ladder: O=Π(Φ).\\mathcal{O} \= \\Pi(\\Phi).O=Π(Φ).
   There is no observational degree of freed...'
-heading: '**Axiom O8 (Universality of Observables).**'
-id: GEN12-1643
-lines: 1756-1764
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-π-observables::axiom-o8-universality-of-observables::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Π → Observables ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Φ
+- Π
+aliases:
+- Bk018ac
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

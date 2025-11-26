@@ -1,12 +1,32 @@
+id: GEN17-5083
+location: genesis-17/mbc-schema-3::3-meta-box-category-𝓜𝓑::objects-meta-boxes::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1062-1082
+heading: '**Objects: Meta-Boxes**'
+parent_heading: '**3\. META-BOX CATEGORY (𝓜𝓑)**'
 block_type: paragraph
-concepts:
-- Box
-- Ω
 excerpt: 'Each meta-Box \= ⟨Box-net,R,S,E,Metadata⟩\\langle \\text{Box-net}, R, S,
   E, \\text{Metadata} \\rangle⟨Box-net,R,S,E,Metadata⟩ Properties:'
-heading: '**Objects: Meta-Boxes**'
-id: GEN17-5083
-lines: 1062-1082
-location: genesis-17/mbc-schema-3::3-meta-box-category-𝓜𝓑::objects-meta-boxes::b1
-parent_heading: '**3\. META-BOX CATEGORY (𝓜𝓑)**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Box
+- MBC
+- Box-net
+- meta-Box
+- micro-MBC
+- Ω
+- Δ
+aliases:
+- Bk863em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.9375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

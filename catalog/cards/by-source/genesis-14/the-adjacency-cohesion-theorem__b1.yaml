@@ -1,19 +1,40 @@
+id: GEN14-3018
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::the-adjacency-cohesion-theorem::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1394-1414
+heading: '**\*\*The Adjacency → Cohesion Theorem:**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- First Geometry
-- Hermetic Axiom Box
-- Why Condensed Matter Holds Together
-- not
-- Π
-- Φ
-- δ
 excerpt: Why Condensed Matter Holds Together\*\* *(A δ–Φ–Π derivation of cohesion,
   rigidity, bonding, and the stability of matter)* This is one of the **deepest IGSOA
   theorems**, because it establishes that co...
-heading: '**\*\*The Adjacency → Cohesion Theorem:**'
-id: GEN14-3018
-lines: 1394-1414
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::the-adjacency-cohesion-theorem::b1
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Curvature
+- IGSOA
+- Axiom
+- Theorem
+- Why Condensed Matter Holds Together
+- Category-theoretic
+- Box
+- δ
+- δ-adjacency
+- deepest IGSOA theorems
+- Π
+- Φ
+- →
+- Hermetic Axiom Box
+- First Geometry
+aliases:
+- Bk196wc
+tags:
+- axiom-box
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.304347826086957
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

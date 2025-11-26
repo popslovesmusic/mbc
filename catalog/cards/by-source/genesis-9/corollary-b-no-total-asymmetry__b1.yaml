@@ -1,10 +1,22 @@
+id: GEN9-9271
+location: genesis-9/does-meta-genesis-indicate-new-physics::corollaries::corollary-b-no-total-asymmetry::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1005-1007
+heading: '**Corollary B (No Total Asymmetry).**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
+excerpt: 'Total asymmetry cannot exist: Φ prevents divergence.'
 concepts:
 - Φ
-excerpt: 'Total asymmetry cannot exist: Φ prevents divergence.'
-heading: '**Corollary B (No Total Asymmetry).**'
-id: GEN9-9271
-lines: 1005-1007
-location: genesis-9/does-meta-genesis-indicate-new-physics::corollaries::corollary-b-no-total-asymmetry::b1
-parent_heading: '**Corollaries**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+aliases:
+- Bk548ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

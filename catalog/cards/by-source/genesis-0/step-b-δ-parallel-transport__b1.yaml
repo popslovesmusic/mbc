@@ -1,11 +1,30 @@
+id: GEN0-210
+location: genesis-0/tri-unity-theorem-equivalence-of::ii-δ-curvature-forces-a-metric::step-b-δ-parallel-transport::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 810-822
+heading: '**Step B — Δ-parallel transport**'
+parent_heading: '**II. Δ-Curvature Forces a Metric**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Given an edge in the δ-adjacency graph x→x′=δx,x\\to x''=\\delta x,x→x′=δx,
   transport a deviation vector vvv by:'
-heading: '**Step B — Δ-parallel transport**'
-id: GEN0-210
-lines: 810-822
-location: genesis-0/tri-unity-theorem-equivalence-of::ii-δ-curvature-forces-a-metric::step-b-δ-parallel-transport::b1
-parent_heading: '**II. Δ-Curvature Forces a Metric**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- δ
+- Non-commutativity
+- →
+- δ-adjacency
+- δx
+aliases:
+- Bk622ge
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.204081632653061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'I can merge these two into:'
-heading: ❓ Want the final step?
 id: GEN17-4297
-lines: 2241-2243
 location: genesis-17/box-calculus::want-the-final-step::b1
 source: genesis-17\box_calculus.md
+lines: 2241-2243
+heading: ❓ Want the final step?
+block_type: paragraph
+excerpt: 'I can merge these two into:'
+aliases:
+- Bk558cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,18 +1,37 @@
+id: INTK-10307
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::motivation::beyond-linear-algebra::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 763-777
+heading: Beyond Linear Algebra
+parent_heading: Motivation
 block_type: paragraph
-concepts:
-- Meta-Algebra
-- Meta-Calculus
-- Meta-Connection
-- Meta-Geometric
-- Meta-Geometry
-- Meta-Math
-- Meta-Metric
-- The Meta
 excerpt: 'Traditional linear algebra, while powerful, assumes: - Linear superposition
   - Commutativity of operations'
-heading: Beyond Linear Algebra
-id: INTK-10307
-lines: 763-777
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::motivation::beyond-linear-algebra::b1
-parent_heading: Motivation
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- Deviation
+- Meta-Connection
+- non-commutative
+- scale-dependent
+- Meta-Geometric
+- path-dependent
+- Meta-Calculus
+- Meta-Geometry
+- non-linearly
+- Meta-Algebra
+- Meta-Metric
+- The Meta
+aliases:
+- Bk425tl
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.883116883116884
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

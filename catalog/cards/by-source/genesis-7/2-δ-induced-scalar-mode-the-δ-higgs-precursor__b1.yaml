@@ -1,16 +1,35 @@
+id: GEN7-8576
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::2-δ-induced-scalar-mode-the-δ-higgs-precursor::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 339-362
+heading: '**2\. δ-Induced Scalar Mode (the δ-Higgs Precursor)**'
 block_type: paragraph
-concepts:
-- must
-- Φ
-- δ
-- μ
-- ν
-- ρ
 excerpt: 'Every torsion theory allows a decomposition: Tρμν=vector part+axial part+pure-tensor
   part.T^\\rho{}\_{\\mu\\nu} \= \\text{vector part} \+ \\text{axial part} \+ \\text{pure-tensor
   part}.Tρμν​=vector pa...'
-heading: '**2\. δ-Induced Scalar Mode (the δ-Higgs Precursor)**'
-id: GEN7-8576
-lines: 339-362
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::2-δ-induced-scalar-mode-the-δ-higgs-precursor::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- μ
+- ρ
+- δ
+- δ-geometry
+- Φ
+- pure-tensor
+- vector part
+- deviation-induced
+- ν
+- must
+aliases:
+- Bk127et
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.944444444444445
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

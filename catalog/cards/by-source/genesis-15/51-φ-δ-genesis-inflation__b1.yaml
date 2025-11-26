@@ -1,11 +1,27 @@
+id: GEN15-3457
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::5-φ-and-π-as-higher-adjoints-meaning::51-φ-δ-genesis-inflation::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1256-1264
+heading: '**5.1 Φ \= δ\_\! (Genesis → Inflation)**'
+parent_heading: '**🔷 5\. Φ and Π as Higher Adjoints: Meaning**'
 block_type: list
-concepts:
-- Φ
 excerpt: '* A left adjoint preserves colimits * Generates free objects * Expands adjacency
   into harmonic towers'
-heading: '**5.1 Φ \= δ\_\! (Genesis → Inflation)**'
-id: GEN15-3457
-lines: 1256-1264
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::5-φ-and-π-as-higher-adjoints-meaning::51-φ-δ-genesis-inflation::b1
-parent_heading: '**🔷 5\. Φ and Π as Higher Adjoints: Meaning**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- Φ
+- expansion functor
+aliases:
+- Bk741la
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

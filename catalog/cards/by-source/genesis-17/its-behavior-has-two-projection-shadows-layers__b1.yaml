@@ -1,11 +1,30 @@
+id: GEN17-4655
+location: genesis-17/box-calculus::5-formal-statement::its-behavior-has-two-projection-shadows-layers::b1
+source: genesis-17\box_calculus.md
+lines: 7792-7804
+heading: 'Its behavior has two projection shadows (“layers”):'
+parent_heading: ⭐ 5\. FORMAL STATEMENT
 block_type: list
-concepts:
-- δ
 excerpt: '1. IGS (Low-curvature projection): 2. δ→0⇒smoothing behavior 3. δ→0⇒smoothing
   behavior'
-heading: 'Its behavior has two projection shadows (“layers”):'
-id: GEN17-4655
-lines: 7792-7804
-location: genesis-17/box-calculus::5-formal-statement::its-behavior-has-two-projection-shadows-layers::b1
-parent_heading: ⭐ 5\. FORMAL STATEMENT
-source: genesis-17\box_calculus.md
+concepts:
+- δ
+- →
+- High-curvature
+- Low-curvature
+- δ-regimes
+- ≠
+aliases:
+- Bk936il
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

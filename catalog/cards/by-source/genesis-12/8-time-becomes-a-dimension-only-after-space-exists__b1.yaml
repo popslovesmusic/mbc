@@ -1,17 +1,36 @@
-block_type: paragraph
-concepts:
-- Adjacency
-- Geometry
-- Ordering
-- dynamics
-- scaffolding
-- Π
-- Φ
-- δ
-excerpt: 'There is a famous intuition that space and time emerge together. IGSOA refines
-  it: * **Adjacency** (the precursor of space) emerges from δ.'
-heading: '**8\. Time Becomes a Dimension Only After Space Exists**'
 id: GEN12-1976
-lines: 4076-4098
 location: genesis-12/untitled-document::8-time-becomes-a-dimension-only-after-space-exists::b1
 source: genesis-12\Untitled_document.md
+lines: 4076-4098
+heading: '**8\. Time Becomes a Dimension Only After Space Exists**'
+block_type: paragraph
+excerpt: 'There is a famous intuition that space and time emerge together. IGSOA refines
+  it: * **Adjacency** (the precursor of space) emerges from δ.'
+concepts:
+- Adjacency
+- IGSOA
+- δ
+- meta-time
+- Meta-time
+- Π
+- Φ
+- finished corridor
+- scaffolding
+- dynamics
+- Ordering
+- Geometry
+aliases:
+- Bk067tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

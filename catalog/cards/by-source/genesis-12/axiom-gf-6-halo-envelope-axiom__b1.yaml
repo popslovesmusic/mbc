@@ -1,14 +1,33 @@
+id: GEN12-1885
+location: genesis-12/untitled-document::sealed-axiom-box-the-δφπ-galaxy-formation-axiom::axiom-gf-6-halo-envelope-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 2480-2488
+heading: '**Axiom GF-6 (Halo-Envelope Axiom).**'
+parent_heading: '**⟡ SEALED AXIOM BOX: The δ–Φ–Π Galaxy-Formation Axiom ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'A galaxy’s extended mass envelope (“dark halo”) is the **Π-projection of
   the Φ₂-amplified δ-Hessian mass tower**: H=Π ⁣(Φ2(Mδ)).\\mathcal{H} \= \\Pi\\\!\\big(\\Phi\_2(M\_\\delta)\\big).H=Π(Φ2​(Mδ​)).
   ...'
-heading: '**Axiom GF-6 (Halo-Envelope Axiom).**'
-id: GEN12-1885
-lines: 2480-2488
-location: genesis-12/untitled-document::sealed-axiom-box-the-δφπ-galaxy-formation-axiom::axiom-gf-6-halo-envelope-axiom::b1
-parent_heading: '**⟡ SEALED AXIOM BOX: The δ–Φ–Π Galaxy-Formation Axiom ⟡**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ-geometry
+- δ
+- Π
+- Φ
+- Π-projection
+- δ-Hessian
+- Φ₂
+aliases:
+- Bk077ge
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.725490196078432
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

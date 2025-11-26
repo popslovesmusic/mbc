@@ -1,13 +1,28 @@
+id: GEN12-1678
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::62-specific-cmb-predictions::623-the-cold-spot-prediction::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2299-2307
+heading: '**6.2.3 The Cold Spot Prediction**'
+parent_heading: '**6.2 Specific CMB Predictions**'
 block_type: paragraph
-concepts:
-- Cold Spot
-- Π
-- Φ
 excerpt: 'One Φ-mode must appear as: * a single low-entropy Π-projection, * localized
   in angular space.'
-heading: '**6.2.3 The Cold Spot Prediction**'
-id: GEN12-1678
-lines: 2299-2307
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::62-specific-cmb-predictions::623-the-cold-spot-prediction::b1
-parent_heading: '**6.2 Specific CMB Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π-projection
+- low-entropy
+- Φ-mode
+- Π
+- Φ
+- Cold Spot
+aliases:
+- Bk579om
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

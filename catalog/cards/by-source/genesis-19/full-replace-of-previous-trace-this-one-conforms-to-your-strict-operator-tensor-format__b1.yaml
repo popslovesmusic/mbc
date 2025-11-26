@@ -1,18 +1,39 @@
+id: GEN19-6207
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::mbc-40-strict-mode-json-trace::full-replace-of-previous-trace-this-one-conforms-to-your-strict-operator-tensor-format::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2390-2393
+heading: (Full replace of previous trace — this one conforms to your strict operator-tensor
+  format.)
+parent_heading: ✅ MBC-4.0 STRICT-MODE JSON TRACE
 block_type: paragraph
-concepts:
-- Θ
-- Π
-- Σ
-- Φ
-- α
-- δ
 excerpt: '{ "mbc\_version": "4.0-strict", "trace\_id": "trace\_ftc\_strict\_01", "input":
   { "type": "text", "domain\_hint": \["calculus", "fundamental-theorem"\], "content\_ref":
   "calculus\_text\_block\_01", "l...'
-heading: (Full replace of previous trace — this one conforms to your strict operator-tensor
-  format.)
-id: GEN19-6207
-lines: 2390-2393
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::mbc-40-strict-mode-json-trace::full-replace-of-previous-trace-this-one-conforms-to-your-strict-operator-tensor-format::b1
-parent_heading: ✅ MBC-4.0 STRICT-MODE JSON TRACE
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- Σ
+- Θ
+- α
+- Π
+- path-integral
+- Φ
+- →
+- FTC-I
+- Definition
+- path-integral-attractor
+- path-integral-geometry
+- Theorem
+- geometric-evaluation
+- fundamental-theorem
+- endpoint-evaluation
+aliases:
+- Bk865ms
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.6619718309859155
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

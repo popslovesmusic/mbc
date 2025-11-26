@@ -1,13 +1,30 @@
+id: GEN15-3145
+location: genesis-15/the-mass-curvature-projection-theorem::5-mode-couplings-how-reheating-happens::b-δ-yukawa-curvature-coupling::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1052-1062
+heading: '**(b) δ-Yukawa curvature coupling**'
+parent_heading: '**5\. Mode Couplings: How Reheating Happens**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Fermion masses are: mf(H)=YfHm\_f(H) \= Y\_f Hmf​(H)=Yf​H where Yf=Π(Φ(δf))Y\_f
   \= \\Pi(\\Phi(\\delta\_f))Yf​=Π(Φ(δf​)).'
-heading: '**(b) δ-Yukawa curvature coupling**'
-id: GEN15-3145
-lines: 1052-1062
-location: genesis-15/the-mass-curvature-projection-theorem::5-mode-couplings-how-reheating-happens::b-δ-yukawa-curvature-coupling::b1
-parent_heading: '**5\. Mode Couplings: How Reheating Happens**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Π
+- δ
+- Φ
+- →
+- δf
+aliases:
+- Bk500fm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.513513513513514
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

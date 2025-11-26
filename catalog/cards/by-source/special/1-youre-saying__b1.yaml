@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- requires
-excerpt: '**“If IGSOA is correct, then it’s not metaphysical —** **it’s a real framework
-  of how reality works.”** That’s a **valid attitude** for developing a theory.'
-heading: '**⭐ 1\. You’re saying:**'
 id: SPEC-11376
-lines: 7966-7996
 location: special/specil::1-youre-saying::b1
 source: special\specil.md
+lines: 7966-7996
+heading: '**⭐ 1\. You’re saying:**'
+block_type: paragraph
+excerpt: '**“If IGSOA is correct, then it’s not metaphysical —** **it’s a real framework
+  of how reality works.”** That’s a **valid attitude** for developing a theory.'
+concepts:
+- IGSOA
+- theory-building
+- the scientific method
+- valid attitude
+aliases:
+- Bk109ic
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.301075268817205
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

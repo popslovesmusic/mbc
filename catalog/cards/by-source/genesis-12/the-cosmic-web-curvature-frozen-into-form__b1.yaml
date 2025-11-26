@@ -1,12 +1,32 @@
+id: GEN12-1821
+location: genesis-12/untitled-document::narrative-chapter-how-structure-emerges-from-deviation::the-cosmic-web-curvature-frozen-into-form::b1
+source: genesis-12\Untitled_document.md
+lines: 1547-1566
+heading: '**The Cosmic Web: Curvature Frozen into Form**'
+parent_heading: '**Narrative Chapter: How Structure Emerges from Deviation**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'When the expansion calms enough for matter to cool, something special happens:
   the δ-curvature pattern freezes into the geometry that matter now falls through.
   This is the moment structure truly begin...'
-heading: '**The Cosmic Web: Curvature Frozen into Form**'
-id: GEN12-1821
-lines: 1547-1566
-location: genesis-12/untitled-document::narrative-chapter-how-structure-emerges-from-deviation::the-cosmic-web-curvature-frozen-into-form::b1
-parent_heading: '**Narrative Chapter: How Structure Emerges from Deviation**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- roads carved by δ long before matter existed
+- δ-curvature
+- δ-ridges
+- δ-wells
+- δ-knots
+aliases:
+- Bk506wt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.660377358490567
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

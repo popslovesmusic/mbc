@@ -1,13 +1,28 @@
-block_type: paragraph
-concepts:
-- First Distinction
-- How Meta
-- Meta-Time
-- Time Emerges From
-excerpt: How Meta-Time Emerges From the First Distinction
-heading: '**You said:**'
 id: GEN0-292
-lines: 698-700
 location: genesis-0/why-the-first-action-is-necessary::summary-for-the-reader::you-said::b2
-parent_heading: '**Summary (for the reader)**'
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 698-700
+heading: '**You said:**'
+parent_heading: '**Summary (for the reader)**'
+block_type: paragraph
+excerpt: How Meta-Time Emerges From the First Distinction
+concepts:
+- Meta-Time
+- First Distinction
+- Time Emerges From
+- How Meta
+aliases:
+- Bk270hm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

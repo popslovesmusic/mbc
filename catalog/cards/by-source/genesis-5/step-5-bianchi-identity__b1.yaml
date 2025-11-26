@@ -1,15 +1,33 @@
+id: GEN5-8078
+location: genesis-5/formal-proof-of-the-adjoint-triple::proof::step-5-bianchi-identity::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 2115-2129
+heading: '**Step 5 — Bianchi identity.**'
+parent_heading: '**Proof.**'
 block_type: paragraph
-concepts:
-- Riemannian Bianchi
-- Π
-- δ
-- σ
 excerpt: 'Because δ in σTop\\sigma TopσTop satisfies the (co)monadic Bianchi identity:
   δ(K)+K∘δ+(coherences)=0,\\delta(\\mathcal{K}) \+ \\mathcal{K}\\circ\\delta \+ (\\text{coherences})
   \= 0,δ(K)+K∘δ+(coherence...'
-heading: '**Step 5 — Bianchi identity.**'
-id: GEN5-8078
-lines: 2115-2129
-location: genesis-5/formal-proof-of-the-adjoint-triple::proof::step-5-bianchi-identity::b1
-parent_heading: '**Proof.**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- δ
+- ∇
+- Π
+- σ
+- δ-curvature
+- left-exact
+- Riemannian Bianchi
+aliases:
+- Bk268bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.433734939759036
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

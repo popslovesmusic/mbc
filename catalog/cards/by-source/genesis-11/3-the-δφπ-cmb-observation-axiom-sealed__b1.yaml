@@ -1,13 +1,30 @@
+id: GEN11-1322
+location: genesis-11/the-adjacency-wave-equation::3-the-δφπ-cmb-observation-axiom-sealed::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 1045-1051
+heading: '**3\. The δ→Φ→Π CMB Observation Axiom (sealed)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: CMB=O∘Π∘Φ∘δ.\\boxed{ \\mathrm{CMB} \= \\mathfrak{O} \\circ \\Pi \\circ \\Phi
   \\circ \\delta. }CMB=O∘Π∘Φ∘δ.​ This is the fundamental IGSOA definition of the CMB.
   ---
-heading: '**3\. The δ→Φ→Π CMB Observation Axiom (sealed)**'
-id: GEN11-1322
-lines: 1045-1051
-location: genesis-11/the-adjacency-wave-equation::3-the-δφπ-cmb-observation-axiom-sealed::b1
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- IGSOA
+- Definition
+- Π
+- δ
+- Φ
+aliases:
+- Bk417cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

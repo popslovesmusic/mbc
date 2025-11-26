@@ -1,13 +1,29 @@
+id: GEN11-1100
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::4-δ-weitzenböck-curvature-polarization-eb-modes::igsoa-predicts-a-specific-δ-phase-correlation-between-ttteee-spectra::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 117-122
+heading: '**IGSOA predicts a specific δ-phase correlation between TT–TE–EE spectra.**'
+parent_heading: '**4\. δ-Weitzenböck Curvature → Polarization (E/B Modes)**'
 block_type: paragraph
-concepts:
-- before
-- Λ
-- δ
 excerpt: Standard ΛCDM treats correlations as emergent from inflation; IGSOA says
   they are inherited from the δ-harmonic structure *before* spacetime existed. ---
-heading: '**IGSOA predicts a specific δ-phase correlation between TT–TE–EE spectra.**'
-id: GEN11-1100
-lines: 117-122
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::4-δ-weitzenböck-curvature-polarization-eb-modes::igsoa-predicts-a-specific-δ-phase-correlation-between-ttteee-spectra::b1
-parent_heading: '**4\. δ-Weitzenböck Curvature → Polarization (E/B Modes)**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- IGSOA
+- δ-harmonic
+- Λ
+- δ
+aliases:
+- Bk221st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,31 @@
+id: GEN18-5528
+location: genesis-18/mbc-4::xii-the-monistic-semantic-category-theorem::igsoa-hermetic-form::b1
+source: genesis-18\MBC-4.md
+lines: 1906-1908
+heading: '**IGSOA (hermetic form)**'
+parent_heading: '**XII. The Monistic Semantic Category Theorem**'
 block_type: paragraph
+excerpt: MBC is a strict monistic 2-category where S=Ω(ΠΦδ) is a 2-functor and Φ⊣Π\\boxed{
+  \\mathbb{MBC} \\text{ is a strict monistic 2-category where } \\mathcal{S}=\\Omega(\\Pi\\Phi\\delta)
+  \\text{ is a 2-fu...
 concepts:
+- MBC
 - Π
 - Φ
 - Ω
 - δ
-excerpt: MBC is a strict monistic 2-category where S=Ω(ΠΦδ) is a 2-functor and Φ⊣Π\\boxed{
-  \\mathbb{MBC} \\text{ is a strict monistic 2-category where } \\mathcal{S}=\\Omega(\\Pi\\Phi\\delta)
-  \\text{ is a 2-fu...
-heading: '**IGSOA (hermetic form)**'
-id: GEN18-5528
-lines: 1906-1908
-location: genesis-18/mbc-4::xii-the-monistic-semantic-category-theorem::igsoa-hermetic-form::b1
-parent_heading: '**XII. The Monistic Semantic Category Theorem**'
-source: genesis-18\MBC-4.md
+aliases:
+- Bk440ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.064516129032258
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,19 +1,42 @@
+id: GEN15-3113
+location: genesis-15/the-mass-curvature-projection-theorem::sealed-axiom-box-version-1-page::the-mass-curvature-projection-theorem-categorical-form::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 405-444
+heading: '**⟡ The Mass \= Curvature Projection Theorem (Categorical Form) ⟡**'
+parent_heading: '**Sealed Axiom Box Version (1-page)**'
 block_type: paragraph
+excerpt: '**Axiom:** Let δ generate a curvature natural transformation κ:IdG⇒δ†δ.\\kappa
+  : \\mathrm{Id}\_\\mathcal{G} \\Rightarrow \\delta^\\dagger\\delta.κ:IdG​⇒δ†δ.'
 concepts:
-- Adjoint Structure
-- Axiom
-- Observable Natural Transformation
-- Spectral Natural Transformation
-- Tri-Unity
 - Π
 - Φ
 - δ
+- Tri-Unity
 - λ
-excerpt: '**Axiom:** Let δ generate a curvature natural transformation κ:IdG⇒δ†δ.\\kappa
-  : \\mathrm{Id}\_\\mathcal{G} \\Rightarrow \\delta^\\dagger\\delta.κ:IdG​⇒δ†δ.'
-heading: '**⟡ The Mass \= Curvature Projection Theorem (Categorical Form) ⟡**'
-id: GEN15-3113
-lines: 405-444
-location: genesis-15/the-mass-curvature-projection-theorem::sealed-axiom-box-version-1-page::the-mass-curvature-projection-theorem-categorical-form::b1
-parent_heading: '**Sealed Axiom Box Version (1-page)**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+- →
+- Projection
+- Φn
+- κ
+- full Tri-Unity commutative diagram
+- Axiom
+- δ-curvature
+- Proof
+- Observable Natural Transformation
+- Spectral Natural Transformation
+aliases:
+- Am723al
+tags:
+- proof
+- axiom
+- sealed
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.16751269035533
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,11 +1,29 @@
+id: GEN9-9116
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::7-φ-and-π-as-hyperdoctrine-morphisms::71-φ-as-a-fibration-morphism::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1392-1404
+heading: '**7.1. Φ as a fibration morphism**'
+parent_heading: '**7\. Φ and Π as Hyperdoctrine Morphisms**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Φ\\\*:P(X)→P(Φ(X)).\\Phi^\\\* : \\mathbb{P}(X) \\to \\mathbb{P}(\\Phi(X)).Φ\\\*:P(X)→P(Φ(X)).
   Φ induces: * nodal logic'
-heading: '**7.1. Φ as a fibration morphism**'
-id: GEN9-9116
-lines: 1392-1404
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::7-φ-and-π-as-hyperdoctrine-morphisms::71-φ-as-a-fibration-morphism::b1
-parent_heading: '**7\. Φ and Π as Hyperdoctrine Morphisms**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Φ
+- →
+- chromatic-phase
+- geometric hyperdoctrine lift
+aliases:
+- Bk736pm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

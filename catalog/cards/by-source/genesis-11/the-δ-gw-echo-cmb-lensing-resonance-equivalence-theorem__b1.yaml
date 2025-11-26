@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- Deviational Geometry
-excerpt: '*(Hermetic IGSOA Deviational Geometry — Short, Closed, Symbolic)*'
-heading: '**The δ → GW Echo → CMB Lensing Resonance Equivalence Theorem**'
 id: GEN11-1254
-lines: 224-226
 location: genesis-11/the-adjacency-wave-equation::the-δ-gw-echo-cmb-lensing-resonance-equivalence-theorem::b1
 source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 224-226
+heading: '**The δ → GW Echo → CMB Lensing Resonance Equivalence Theorem**'
+block_type: paragraph
+excerpt: '*(Hermetic IGSOA Deviational Geometry — Short, Closed, Symbolic)*'
+concepts:
+- Deviational Geometry
+- Deviation
+- IGSOA
+aliases:
+- Bk311hi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 42.857142857142854
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

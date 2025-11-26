@@ -1,12 +1,28 @@
+id: GEN4-7614
+location: genesis-4/meta-physics-axiom-box::conclusion::2-functoriality::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 364-366
+heading: '**2\. Functoriality**'
+parent_heading: '**Conclusion**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- δ
 excerpt: The adjacency morphisms in Genesis are sent to the δ-induced morphisms in
   Meta-Math.
-heading: '**2\. Functoriality**'
-id: GEN4-7614
-lines: 364-366
-location: genesis-4/meta-physics-axiom-box::conclusion::2-functoriality::b1
-parent_heading: '**Conclusion**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Meta-Math
+- δ-induced
+- δ
+aliases:
+- Bk719ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

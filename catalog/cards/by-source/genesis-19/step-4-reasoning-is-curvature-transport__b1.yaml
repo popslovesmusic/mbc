@@ -1,13 +1,29 @@
+id: GEN19-5934
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-a-igsoa-proof-δ-geometry-language::step-4-reasoning-is-curvature-transport::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 844-854
+heading: '**Step 4\. Reasoning is curvature transport**'
+parent_heading: '**III-A. IGSOA Proof (δ-geometry language)**'
 block_type: paragraph
-concepts:
-- Modus Ponens
-- Φ
-- δ
 excerpt: 'Every inference step is a curvature re-routing: * Modus Ponens \= flow conservation
   across a Φ-compression * AND \= flow intersection in δ-space'
-heading: '**Step 4\. Reasoning is curvature transport**'
-id: GEN19-5934
-lines: 844-854
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-a-igsoa-proof-δ-geometry-language::step-4-reasoning-is-curvature-transport::b1
-parent_heading: '**III-A. IGSOA Proof (δ-geometry language)**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- δ
+- Φ-compression
+- re-routing
+- δ-space
+- δ-flows
+- Φ
+- Modus Ponens
+aliases:
+- Bk171ei
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.875
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

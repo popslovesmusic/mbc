@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: No deviation → no curvature → no dynamic degrees of freedom → no expansion.
-heading: '**• The IGS state is the zero-gradient mode:**'
 id: GEN17-4879
-lines: 130-132
 location: genesis-17/key-points::another-way-to-say-it-igsoa-terms::the-igs-state-is-the-zero-gradient-mode::b1
-parent_heading: '**⭐ Another way to say it (IGSOA terms)**'
 source: genesis-17\Key_Points.md
+lines: 130-132
+heading: '**• The IGS state is the zero-gradient mode:**'
+parent_heading: '**⭐ Another way to say it (IGSOA terms)**'
+block_type: paragraph
+excerpt: No deviation → no curvature → no dynamic degrees of freedom → no expansion.
+concepts:
+- →
+aliases:
+- Bk530dc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

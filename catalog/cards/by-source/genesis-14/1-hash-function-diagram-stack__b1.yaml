@@ -1,14 +1,35 @@
-block_type: paragraph
-concepts:
-- Chaotic Compression Transform
-- Hash Digest Projection
-- Π
-- Φ
-- δ
-excerpt: '*(SHA-256, SHA-3, Blake, etc.)* `δ-seed (entropy, input message differences)`
-  `│`'
-heading: '**1\. HASH FUNCTION DIAGRAM STACK**'
 id: GEN14-2846
-lines: 797-814
 location: genesis-14/meta-math-and-cryptography::1-hash-function-diagram-stack::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 797-814
+heading: '**1\. HASH FUNCTION DIAGRAM STACK**'
+block_type: paragraph
+excerpt: '*(SHA-256, SHA-3, Blake, etc.)* `δ-seed (entropy, input message differences)`
+  `│`'
+concepts:
+- Projection
+- Transform
+- Chaotic Compression Transform
+- fixed-length
+- bit-mixing
+- Hash Digest Projection
+- Π
+- δ
+- Φ
+- δ-seed
+- S-box
+aliases:
+- Bk349ss
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.205128205128204
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

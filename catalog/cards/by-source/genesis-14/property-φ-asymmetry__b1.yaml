@@ -1,14 +1,32 @@
+id: GEN14-2829
+location: genesis-14/meta-math-and-cryptography::4-φ-the-cryptographic-transformation-functor::property-φ-asymmetry::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 590-612
+heading: '**Property (Φ-Asymmetry):**'
+parent_heading: '**4\. Φ: The Cryptographic Transformation Functor**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Φ is directionally stable but backward-chaotic; no valid Φ⁻¹ exists in the
   category of feasible transformations. Φ is therefore a **deliberately engineered
   monistic asymmetry**. Examples:'
-heading: '**Property (Φ-Asymmetry):**'
-id: GEN14-2829
-lines: 590-612
-location: genesis-14/meta-math-and-cryptography::4-φ-the-cryptographic-transformation-functor::property-φ-asymmetry::b1
-parent_heading: '**4\. Φ: The Cryptographic Transformation Functor**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Φ
+- deliberately engineered monistic asymmetry
+- backward-chaotic
+- Π
+- one-directional
+- Π-measurement
+- δ
+aliases:
+- Bk898ds
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

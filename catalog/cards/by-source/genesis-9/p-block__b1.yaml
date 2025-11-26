@@ -1,10 +1,26 @@
+id: GEN9-9353
+location: genesis-9/is-the-source-of-all-structure::4-why-chemistry-clusters-into-blocks-s-p-d-f::p-block::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 327-330
+heading: '**p-block**'
+parent_heading: '**4\. Why chemistry clusters into blocks (s, p, d, f)**'
 block_type: paragraph
-concepts: []
 excerpt: The 6-mode family gives directionally resolved adjacency. These produce anisotropic
   bonding → directional chemistry.
-heading: '**p-block**'
-id: GEN9-9353
-lines: 327-330
-location: genesis-9/is-the-source-of-all-structure::4-why-chemistry-clusters-into-blocks-s-p-d-f::p-block::b1
-parent_heading: '**4\. Why chemistry clusters into blocks (s, p, d, f)**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- →
+aliases:
+- Bk250tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

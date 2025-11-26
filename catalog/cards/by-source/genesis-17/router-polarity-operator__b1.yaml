@@ -1,12 +1,28 @@
+id: GEN17-5030
+location: genesis-17/mbc-schema-3::2-canonical-mbc-operator-table-clean-final::router-polarity-operator::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 391-397
+heading: '**Router / Polarity Operator**'
+parent_heading: '**(2) Canonical MBC Operator Table (Clean, Final)**'
 block_type: table
+excerpt: '---'
 concepts:
-- Direction Selector
 - Operator
 - Π
-excerpt: '---'
-heading: '**Router / Polarity Operator**'
-id: GEN17-5030
-lines: 391-397
-location: genesis-17/mbc-schema-3::2-canonical-mbc-operator-table-clean-final::router-polarity-operator::b1
-parent_heading: '**(2) Canonical MBC Operator Table (Clean, Final)**'
-source: genesis-17\MBC_Schema_3.md
+- →
+- Direction Selector
+aliases:
+- Bk585os
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

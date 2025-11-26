@@ -1,12 +1,29 @@
+id: GEN13-2071
+location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::lemma-26-φ-shell-factorization::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 861-869
+heading: '**Lemma 2.6 (Φ-Shell Factorization).**'
+parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
 block_type: paragraph
+excerpt: Under Π-projection, Π(Φn)=nuclear shell(n).\\Pi(\\Phi\_n) \= \\text{nuclear
+  shell}(n).Π(Φn​)=nuclear shell(n). This produces the empirical magic numbers.
 concepts:
 - Π
 - Φ
-excerpt: Under Π-projection, Π(Φn)=nuclear shell(n).\\Pi(\\Phi\_n) \= \\text{nuclear
-  shell}(n).Π(Φn​)=nuclear shell(n). This produces the empirical magic numbers.
-heading: '**Lemma 2.6 (Φ-Shell Factorization).**'
-id: GEN13-2071
-lines: 861-869
-location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::lemma-26-φ-shell-factorization::b1
-parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+- Π-projection
+- Φn
+aliases:
+- Bk075up
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

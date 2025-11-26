@@ -1,12 +1,31 @@
+id: GEN3-7528
+location: genesis-3/the-tri-unity-theorem::ii-formal-statement-the-π-classicality-theorem::definition-π-fixed-point::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 667-685
+heading: '**Definition: π-fixed point**'
+parent_heading: '**II. Formal Statement: The π-Classicality Theorem**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'A structure x∈Px \\in \\mathcal{P}x∈P is **π-classical** if: π(Φ(δ(x)))=x.\\pi(\\Phi(\\delta(x)))
   \= x.π(Φ(δ(x)))=x. Meaning:'
-heading: '**Definition: π-fixed point**'
-id: GEN3-7528
-lines: 667-685
-location: genesis-3/the-tri-unity-theorem::ii-formal-statement-the-π-classicality-theorem::definition-π-fixed-point::b1
-parent_heading: '**II. Formal Statement: The π-Classicality Theorem**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- π
+- δ
+- Φ
+- returns the same physical configuration
+- ∈
+- re-patterning
+aliases:
+- Bk029sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

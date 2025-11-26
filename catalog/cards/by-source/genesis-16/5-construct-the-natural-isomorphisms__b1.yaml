@@ -1,11 +1,30 @@
+id: GEN16-3995
+location: genesis-16/untitled-document::5-construct-the-natural-isomorphisms::b1
+source: genesis-16\Untitled_document.md
+lines: 3209-3217
+heading: '**⭐ 5\. Construct the Natural Isomorphisms**'
 block_type: paragraph
-concepts:
-- η
 excerpt: 'To prove category equivalence we need natural isomorphisms: η:1MM⇒G∘F\\eta:
   1\_{\\mathbf{MM}} \\Rightarrow G\\circ Fη:1MM​⇒G∘F ε:F∘G⇒1BC\\varepsilon: F\\circ
   G \\Rightarrow 1\_{\\mathbf{BC}}ε:F∘G⇒1BC​...'
-heading: '**⭐ 5\. Construct the Natural Isomorphisms**'
-id: GEN16-3995
-lines: 3209-3217
-location: genesis-16/untitled-document::5-construct-the-natural-isomorphisms::b1
-source: genesis-16\Untitled_document.md
+concepts:
+- Proof
+- η
+- ε
+- key of the proof
+aliases:
+- Bk575pc
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

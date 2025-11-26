@@ -1,15 +1,40 @@
+id: GEN7-8683
+location: genesis-7/why-curvature-gives-gravity::derivation-δ-harmonics-atomic-orbitals-spectral-triple-form::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 873-897
+heading: '**◼ DERIVATION: δ-Harmonics → Atomic Orbitals (Spectral-Triple Form)**'
 block_type: paragraph
-concepts:
-- Operator
-- Operator Geometry
-- Spectral Physics
-- Spectral Triple
-- δ
 excerpt: '*(IGSOA | Operator Geometry | δ-Spectral Physics)* We begin with the δ-Spectral
   Triple: (Aδ, Hδ, Dδ).(\\mathcal{A}\_\\delta,\\ \\mathcal{H}\_\\delta,\\ D\_\\delta).(Aδ​,
   Hδ​, Dδ​).'
-heading: '**◼ DERIVATION: δ-Harmonics → Atomic Orbitals (Spectral-Triple Form)**'
-id: GEN7-8683
-lines: 873-897
-location: genesis-7/why-curvature-gives-gravity::derivation-δ-harmonics-atomic-orbitals-spectral-triple-form::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- δ-geometry
+- IGSOA
+- ∇
+- Operator
+- δ-Spectral
+- δ-harmonic modes
+- Δ
+- δ-adjacency
+- δ-harmonic
+- δ-Hilbert
+- δ-Laplace
+- δ-Dirac
+- Operator Geometry
+- Spectral Physics
+aliases:
+- Bk144io
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.821138211382115
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

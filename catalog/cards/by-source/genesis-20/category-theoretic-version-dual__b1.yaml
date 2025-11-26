@@ -1,15 +1,36 @@
+id: GEN20-6646
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::the-federated-reasoning-theorem-sealed-formal-version::category-theoretic-version-dual::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 998-1049
+heading: Category-Theoretic Version (Dual)
+parent_heading: THE FEDERATED REASONING THEOREM (Sealed, Formal Version)
 block_type: paragraph
+excerpt: Let each node be a category Ci C
 concepts:
-- "Cat  \nEach"
-- Categorical Federated Reasoning
-- Theorem
-- "Truth  \nAnd"
 - Π
 - η
-excerpt: Let each node be a category Ci C
-heading: Category-Theoretic Version (Dual)
-id: GEN20-6646
-lines: 998-1049
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::the-federated-reasoning-theorem-sealed-formal-version::category-theoretic-version-dual::b1
-parent_heading: THE FEDERATED REASONING THEOREM (Sealed, Formal Version)
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+- Theorem
+- Categorical Federated Reasoning
+- →
+- Πi
+- "Truth  \nAnd"
+- "Cat  \nEach"
+- Πj
+aliases:
+- Th394le
+tags:
+- theorem
+- categorical-federated-reasoning
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.737864077669903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

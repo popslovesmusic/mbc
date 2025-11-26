@@ -1,15 +1,34 @@
+id: GEN12-1989
+location: genesis-12/untitled-document::2-functors-of-the-galaxy-pipeline::21-the-deviation-functor::b1
+source: genesis-12\Untitled_document.md
+lines: 4262-4275
+heading: '**2.1 The Deviation Functor**'
+parent_heading: '**2\. Functors of the Galaxy Pipeline**'
 block_type: paragraph
+excerpt: 'δ:Gen→Dev\\delta : \\mathsf{Gen} \\to \\mathsf{Dev}δ:Gen→Dev Maps Genesis-states
+  to deviation-geometry states. Functoriality:'
 concepts:
+- δ
+- →
+- adjacency-curvature
+- deviation-geometry
+- Genesis-states
 - 'Dev
 
 
   Maps Genesis'
-- δ
-excerpt: 'δ:Gen→Dev\\delta : \\mathsf{Gen} \\to \\mathsf{Dev}δ:Gen→Dev Maps Genesis-states
-  to deviation-geometry states. Functoriality:'
-heading: '**2.1 The Deviation Functor**'
-id: GEN12-1989
-lines: 4262-4275
-location: genesis-12/untitled-document::2-functors-of-the-galaxy-pipeline::21-the-deviation-functor::b1
-parent_heading: '**2\. Functors of the Galaxy Pipeline**'
-source: genesis-12\Untitled_document.md
+aliases:
+- Bk124gd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

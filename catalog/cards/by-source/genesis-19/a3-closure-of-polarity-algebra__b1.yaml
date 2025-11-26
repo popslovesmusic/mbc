@@ -1,13 +1,33 @@
-block_type: table
-concepts:
-- Box
-- Standard Form
-- Θ
-- σ
-excerpt: '---'
-heading: '**A3. Closure of Polarity Algebra**'
 id: GEN19-5873
-lines: 41-47
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-axiom-set-sealed::a3-closure-of-polarity-algebra::b1
-parent_heading: '**II. Axiom Set (sealed)**'
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 41-47
+heading: '**A3. Closure of Polarity Algebra**'
+parent_heading: '**II. Axiom Set (sealed)**'
+block_type: table
+excerpt: '---'
+concepts:
+- σ
+- IGSOA
+- Box
+- polarity-tagged
+- ∈
+- Θ
+- ⊗
+- →
+- Standard Form
+aliases:
+- Bk266if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.324324324324326
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

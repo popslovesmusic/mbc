@@ -1,13 +1,29 @@
+id: GEN17-4573
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::1-the-four-worlds::world-c-boxes::b1
+source: genesis-17\box_calculus.md
+lines: 6638-6650
+heading: 'World C: Boxes'
+parent_heading: 1\. The Four Worlds
 block_type: table
+excerpt: Denote a Box by Bτ B
 concepts:
 - Box
 - Box Calculus
-- Σ
+- IGSOA
 - τ
-excerpt: Denote a Box by Bτ B
-heading: 'World C: Boxes'
-id: GEN17-4573
-lines: 6638-6650
-location: genesis-17/box-calculus::curryhoward-for-box-calculus::1-the-four-worlds::world-c-boxes::b1
-parent_heading: 1\. The Four Worlds
-source: genesis-17\box_calculus.md
+- Σ
+aliases:
+- Bk409if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.157894736842104
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

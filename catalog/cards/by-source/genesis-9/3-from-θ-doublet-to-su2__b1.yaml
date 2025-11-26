@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: 'The automorphism group preserving the θ-fibration is: Aut(Xθ)=SU(2).\\mathrm{Aut}(X\_\\theta)
-  \= SU(2).Aut(Xθ​)=SU(2). This is the IGSOA origin of the weak interaction.'
-heading: '**3\. From θ-Doublet to SU(2)**'
 id: GEN9-9564
-lines: 2206-2215
 location: genesis-9/strong-force::3-from-θ-doublet-to-su2::b1
 source: genesis-9\strong-force.md
+lines: 2206-2215
+heading: '**3\. From θ-Doublet to SU(2)**'
+block_type: paragraph
+excerpt: 'The automorphism group preserving the θ-fibration is: Aut(Xθ)=SU(2).\\mathrm{Aut}(X\_\\theta)
+  \= SU(2).Aut(Xθ​)=SU(2). This is the IGSOA origin of the weak interaction.'
+concepts:
+- Φ-projection
+- IGSOA
+- θ
+- Φ
+aliases:
+- Bk087ta
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

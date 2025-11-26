@@ -1,16 +1,31 @@
+id: GEN4-7820
+location: genesis-4/the-first-adjacency::1-deviation-strikes-δ-creates-the-first-distinction::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 30-54
+heading: '**1\. Deviation Strikes: δ Creates the First Distinction**'
 block_type: paragraph
-concepts:
-- Where Blind Stillness
-- difference
-- not
-- ordered
-- Ψ
-- δ
 excerpt: 'Deviation δ\\deltaδ is the first act that breaks the stillness: δ:Ψ0↦Ψ1=δΨ0.\\delta:
   \\Psi\_0 \\mapsto \\Psi\_1 \= \\delta \\Psi\_0.δ:Ψ0​↦Ψ1​=δΨ0​. This does **not**
   create “a place.”'
-heading: '**1\. Deviation Strikes: δ Creates the First Distinction**'
-id: GEN4-7820
-lines: 30-54
-location: genesis-4/the-first-adjacency::1-deviation-strikes-δ-creates-the-first-distinction::b1
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- δ
+- Ψ
+- Deviation
+- not
+- Where Blind Stillness
+- ordered
+aliases:
+- Bk774dt
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.405405405405405
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

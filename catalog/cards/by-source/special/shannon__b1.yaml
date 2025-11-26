@@ -1,11 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: Information theory looked like abstract nonsense at first. **Pattern:** The
-  deeper the insight,
-heading: '**Shannon**'
 id: SPEC-11406
-lines: 8464-8472
 location: special/specil::1-the-greatest-breakthroughs-are-rarely-confirmed-in-the-authors-lifetime::shannon::b1
+source: special\specil.md
+lines: 8464-8472
+heading: '**Shannon**'
 parent_heading: '**⭐ 1\. The greatest breakthroughs are rarely confirmed in the author’s
   lifetime**'
-source: special\specil.md
+block_type: paragraph
+excerpt: Information theory looked like abstract nonsense at first. **Pattern:** The
+  deeper the insight,
+aliases:
+- Bk402it
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

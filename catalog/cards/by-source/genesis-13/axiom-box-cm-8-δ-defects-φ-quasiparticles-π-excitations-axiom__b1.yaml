@@ -1,15 +1,35 @@
+id: GEN13-2248
+location: genesis-13/meta-math-nuclear-physics::sealed-axiom-box-set-condensed-matter-physics::axiom-box-cm-8-δ-defects-φ-quasiparticles-π-excitations-axiom::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2878-2895
+heading: '**AXIOM BOX CM-8: δ-Defects → Φ-Quasiparticles → Π-Excitations Axiom**'
+parent_heading: '**SEALED AXIOM BOX SET — CONDENSED MATTER PHYSICS**'
 block_type: paragraph
-concepts:
-- Axiom
-- End Seal
-- Π
-- Φ
-- δ
 excerpt: '**SEAL:** CM-8 **Axiom.** δ-defect classes map under Φ to quasiparticle
   sectors in the band representation.'
-heading: '**AXIOM BOX CM-8: δ-Defects → Φ-Quasiparticles → Π-Excitations Axiom**'
-id: GEN13-2248
-lines: 2878-2895
-location: genesis-13/meta-math-nuclear-physics::sealed-axiom-box-set-condensed-matter-physics::axiom-box-cm-8-δ-defects-φ-quasiparticles-π-excitations-axiom::b1
-parent_heading: '**SEALED AXIOM BOX SET — CONDENSED MATTER PHYSICS**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Axiom
+- δ
+- δ-defect
+- Φ
+- δ-topology
+- Π-images
+- Π
+- End Seal
+aliases:
+- Am198sa
+tags:
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.09433962264151
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

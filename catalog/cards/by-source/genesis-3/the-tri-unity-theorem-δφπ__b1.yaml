@@ -1,13 +1,30 @@
+id: GEN3-7485
+location: genesis-3/the-tri-unity-theorem::ii-statement-of-the-theorem::the-tri-unity-theorem-δφπ::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 72-92
+heading: '**The Tri-Unity Theorem (δ–Φ–π)**'
+parent_heading: '**II. Statement of the Theorem**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'δ, Φ, π form a minimal closed generating triple.\\boxed{ \\delta,\\ \\Phi,\\
   \\pi\\ \\text{form a minimal closed generating triple.} }δ, Φ, π form a minimal
   closed generating triple.​ Precisely: 1. **...'
-heading: '**The Tri-Unity Theorem (δ–Φ–π)**'
-id: GEN3-7485
-lines: 72-92
-location: genesis-3/the-tri-unity-theorem::ii-statement-of-the-theorem::the-tri-unity-theorem-δφπ::b1
-parent_heading: '**II. Statement of the Theorem**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- δ
+- π
+- Φ
+- →
+- δ forces Φ
+aliases:
+- Bk210fm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.067484662576687
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

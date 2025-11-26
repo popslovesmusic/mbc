@@ -1,16 +1,33 @@
+id: GEN2-6378
+location: genesis-2/axioms-of-geometry-topos-compatible::4-action-level-mapping::41-φ-lagrangian-physical-lagrangian::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1043-1061
+heading: '**4.1 Φ-Lagrangian → Physical Lagrangian**'
+parent_heading: '**4\. Action-Level Mapping**'
 block_type: paragraph
-concepts:
-- Meta-Dirac
-- Meta-Einstein
-- Meta-String
-- Meta-Yang
-- Φ
-- δ
 excerpt: 'Lphys=P(LΦ)\\mathcal{L}\_{\\text{phys}} \= \\mathcal{P}(\\mathcal{L}\_\\Phi)Lphys​=P(LΦ​)
   This produces: * Meta-Einstein–Hilbert action'
-heading: '**4.1 Φ-Lagrangian → Physical Lagrangian**'
-id: GEN2-6378
-lines: 1043-1061
-location: genesis-2/axioms-of-geometry-topos-compatible::4-action-level-mapping::41-φ-lagrangian-physical-lagrangian::b1
-parent_heading: '**4\. Action-Level Mapping**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Meta-Einstein
+- Φ
+- Meta-String
+- Meta-Dirac
+- Φ-unified
+- Meta-Yang
+- δ-Boson
+- δ
+aliases:
+- Bk840lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

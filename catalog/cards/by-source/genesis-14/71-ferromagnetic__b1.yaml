@@ -1,13 +1,30 @@
+id: GEN14-3047
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-chapter-outline::7-types-of-magnetic-phases-in-δ-geometry::71-ferromagnetic::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1862-1868
+heading: '**7.1 Ferromagnetic**'
+parent_heading: '**7\. Types of Magnetic Phases in δ-Geometry**'
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '* δ-fractal asymmetry constant sign * Φ-mode global coherence * Π maximal
   monotonicity'
-heading: '**7.1 Ferromagnetic**'
-id: GEN14-3047
-lines: 1862-1868
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-chapter-outline::7-types-of-magnetic-phases-in-δ-geometry::71-ferromagnetic::b1
-parent_heading: '**7\. Types of Magnetic Phases in δ-Geometry**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- δ-fractal
+- Φ-mode
+- Π
+- δ
+- Φ
+aliases:
+- Bk501fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 41.66666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: But δ is not primitive. It is the **first breakable symmetry of IGSOA**.
-heading: '**✔ δ is the first *active* operator**'
 id: GEN18-5181
-lines: 632-634
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::key-corrections-in-mbc-40::δ-is-the-first-active-operator::b1
-parent_heading: '**Key Corrections in MBC-4.0**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 632-634
+heading: '**✔ δ is the first *active* operator**'
+parent_heading: '**Key Corrections in MBC-4.0**'
+block_type: paragraph
+excerpt: But δ is not primitive. It is the **first breakable symmetry of IGSOA**.
+concepts:
+- IGSOA
+- first breakable symmetry of IGSOA
+- δ
+aliases:
+- Bk192bn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.076923076923077
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

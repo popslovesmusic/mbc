@@ -1,9 +1,25 @@
-block_type: table
-concepts: []
-excerpt: ''
-heading: '**Standard XOR**'
 id: GEN19-5827
-lines: 118-125
 location: genesis-19/mbc-4-1::33-polarity-xor-θ-xor::standard-xor::b1
-parent_heading: '**3.3 Polarity XOR (Θ-XOR)**'
 source: genesis-19\MBC-4_1.md
+lines: 118-125
+heading: '**Standard XOR**'
+parent_heading: '**3.3 Polarity XOR (Θ-XOR)**'
+block_type: table
+excerpt: ''
+concepts:
+- ⊕
+aliases:
+- Bk66984
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

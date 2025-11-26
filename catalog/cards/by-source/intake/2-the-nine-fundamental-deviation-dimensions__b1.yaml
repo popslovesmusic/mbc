@@ -1,10 +1,25 @@
+id: INTK-10226
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-nine-fundamental-deviation-dimensions::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 177-179
+heading: '**2. The Nine Fundamental Deviation Dimensions**'
 block_type: paragraph
-concepts: []
 excerpt: The 9x9 matrix arises from considering nine fundamental, orthogonal **deviation
   dimensions**. These are not spatial dimensions, but abstract "directions" in the
   PPG along which deviation can manifest ...
-heading: '**2. The Nine Fundamental Deviation Dimensions**'
-id: INTK-10226
-lines: 177-179
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-nine-fundamental-deviation-dimensions::b1
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- deviation dimensions
+aliases:
+- Bk146tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.3255813953488373
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

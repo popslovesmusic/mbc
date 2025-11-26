@@ -1,12 +1,30 @@
+id: GEN15-3354
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-the-φ-lift-δ-potential-imprint-on-halo-shape::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1553-1569
+heading: '**III. The Φ-Lift: δ → Potential Imprint on Halo Shape**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Φ integrates δ-curvature to potential: Φ=Φ0(r)+Φ2(r)Y2(θ,ϕ)+…\\Phi \= \\Phi\_0(r)
   \+ \\Phi\_2(r)Y\_2(\\theta,\\phi) \+ \\ldotsΦ=Φ0​(r)+Φ2​(r)Y2​(θ,ϕ)+… The anisotropic
   part Φ2\\Phi\_2Φ2​ gives:'
-heading: '**III. The Φ-Lift: δ → Potential Imprint on Halo Shape**'
-id: GEN15-3354
-lines: 1553-1569
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-the-φ-lift-δ-potential-imprint-on-halo-shape::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- Φ
+- θ
+- δ
+- δ-curvature
+- δ-harmonic
+aliases:
+- Bk459ic
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

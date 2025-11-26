@@ -1,13 +1,30 @@
+id: GEN17-4982
+location: genesis-17/key-points::i-underlying-categories::1-the-category-of-boxes-𝓑::morphisms-hom𝓑::b1
+source: genesis-17\Key_Points.md
+lines: 1477-1489
+heading: '**Morphisms (Hom𝓑):**'
+parent_heading: '**1\. The Category of Boxes: 𝓑**'
 block_type: paragraph
-concepts:
-- iff
-- Φ
-- δ
 excerpt: 'A morphism: `f : Bᵢ → Bⱼ` exists **iff** the Φ-structure of **Bⱼ** *depends
   functionally* on the δ-structure of **Bᵢ**.'
-heading: '**Morphisms (Hom𝓑):**'
-id: GEN17-4982
-lines: 1477-1489
-location: genesis-17/key-points::i-underlying-categories::1-the-category-of-boxes-𝓑::morphisms-hom𝓑::b1
-parent_heading: '**1\. The Category of Boxes: 𝓑**'
-source: genesis-17\Key_Points.md
+concepts:
+- δ
+- Φ
+- δ-structure
+- Φ-structure
+- ≠
+- →
+- structural causation
+- iff
+aliases:
+- Bk674me
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.52941176470588
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

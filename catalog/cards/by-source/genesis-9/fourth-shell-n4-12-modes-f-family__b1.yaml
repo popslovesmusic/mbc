@@ -1,11 +1,29 @@
+id: GEN9-9350
+location: genesis-9/is-the-source-of-all-structure::3-the-δ-harmonic-tower-periodic-table-rows::fourth-shell-n4-12-modes-f-family::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 304-316
+heading: '**Fourth Shell (n=4 → 12 modes → f-family)**'
+parent_heading: '**3\. The δ-Harmonic Tower → Periodic Table Rows**'
 block_type: paragraph
+excerpt: 'Same logic: * 12 fundamental δ-harmonics * Π stabilizes 2 composite modes'
 concepts:
+- δ-harmonics
+- f-block
 - Π
 - δ
-excerpt: 'Same logic: * 12 fundamental δ-harmonics * Π stabilizes 2 composite modes'
-heading: '**Fourth Shell (n=4 → 12 modes → f-family)**'
-id: GEN9-9350
-lines: 304-316
-location: genesis-9/is-the-source-of-all-structure::3-the-δ-harmonic-tower-periodic-table-rows::fourth-shell-n4-12-modes-f-family::b1
-parent_heading: '**3\. The δ-Harmonic Tower → Periodic Table Rows**'
-source: genesis-9\is_the_source_of_all_structure.md
+- →
+aliases:
+- Bk669sl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.857142857142858
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

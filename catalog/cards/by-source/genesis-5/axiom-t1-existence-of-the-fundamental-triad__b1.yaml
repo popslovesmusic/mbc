@@ -1,15 +1,32 @@
+id: GEN5-7954
+location: genesis-5/formal-proof-of-the-adjoint-triple::topostheoretic-axiom-box-the-genesismathtopos-adjoint-triple::axiom-t1-existence-of-the-fundamental-triad::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 271-283
+heading: '**Axiom T1 (Existence of the Fundamental Triad).**'
+parent_heading: '**▢ Topos–Theoretic Axiom Box: The Genesis–Math–Topos Adjoint Triple**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Math
-- Scale-Topos
-- σ
 excerpt: 'There exist three categories: 1. **MG** — the *Meta-Genesis category* of
   potential, pre-structural states. 2. **MM** — the *Meta-Math category* of algebraic
   operator structures.'
-heading: '**Axiom T1 (Existence of the Fundamental Triad).**'
-id: GEN5-7954
-lines: 271-283
-location: genesis-5/formal-proof-of-the-adjoint-triple::topostheoretic-axiom-box-the-genesismathtopos-adjoint-triple::axiom-t1-existence-of-the-fundamental-triad::b1
-parent_heading: '**▢ Topos–Theoretic Axiom Box: The Genesis–Math–Topos Adjoint Triple**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- Meta-Genesis
+- Meta-Math
+- sheaf-theoretic
+- pre-structural
+- Scale-Topos
+- σ
+aliases:
+- Bk112te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

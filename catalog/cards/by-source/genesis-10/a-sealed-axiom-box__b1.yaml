@@ -1,12 +1,28 @@
+id: GEN10-692
+location: genesis-10/how-stillness-becomes-solid::if-you-want-i-can-also-produce::a-sealed-axiom-box::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 323-325
+heading: '**✔ A sealed Axiom Box**'
+parent_heading: '**If you want, I can also produce:**'
 block_type: paragraph
+excerpt: '**“The δ-Harmonic Band Structure Axiom”**'
 concepts:
 - Axiom
 - Harmonic Band Structure Axiom
+- δ-Harmonic
 - δ
-excerpt: '**“The δ-Harmonic Band Structure Axiom”**'
-heading: '**✔ A sealed Axiom Box**'
-id: GEN10-692
-lines: 323-325
-location: genesis-10/how-stillness-becomes-solid::if-you-want-i-can-also-produce::a-sealed-axiom-box::b1
-parent_heading: '**If you want, I can also produce:**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+aliases:
+- Bk937th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

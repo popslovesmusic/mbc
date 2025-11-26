@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Chromatic Modes
-- Π
-- Φ
-- δ
-excerpt: '*(tell me if you want TikZ instead)* `graph TD` `A[δ: Deviation] --> B[Φ:
-  Chromatic Modes]`'
-heading: '**7\. TRI-UNITY FUNCTORIAL CUBE (MERMAID CODE VERSION)**'
 id: GEN8-8840
-lines: 1357-1371
 location: genesis-8/meta-time-geometry-and-temporal-projection::7-tri-unity-functorial-cube-mermaid-code-version::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1357-1371
+heading: '**7\. TRI-UNITY FUNCTORIAL CUBE (MERMAID CODE VERSION)**'
+block_type: paragraph
+excerpt: '*(tell me if you want TikZ instead)* `graph TD` `A[δ: Deviation] --> B[Φ:
+  Chromatic Modes]`'
+concepts:
+- Chromatic Mode
+- Projection
+- Deviation
+- δ
+- Π
+- Φ
+- Chromatic Modes
+aliases:
+- Bk132ty
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

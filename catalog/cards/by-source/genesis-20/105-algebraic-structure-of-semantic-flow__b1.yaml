@@ -1,13 +1,35 @@
+id: GEN20-6892
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::105-algebraic-structure-of-semantic-flow::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3192-3219
+heading: 10.5 Algebraic Structure of Semantic Flow
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts:
-- Σ
-- Φ
 excerpt: 'The algebra of MBC flow is not a ring or group, but a semantic algebra,
   governed by: 1. polarity addition (contextual, weighted) 2. polarity multiplication
   (directional, router-based)'
-heading: 10.5 Algebraic Structure of Semantic Flow
-id: GEN20-6892
-lines: 3192-3219
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::105-algebraic-structure-of-semantic-flow::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- context-sensitive
+- Σ
+- adjacency-based
+- non-commutative
+- non-idempotent
+- router-based
+- Φ-alignment
+- non-linear
+- Φ
+aliases:
+- Bk146ta
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.416666666666668
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

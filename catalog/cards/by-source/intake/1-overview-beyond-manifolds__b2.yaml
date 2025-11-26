@@ -1,15 +1,33 @@
+id: INTK-10494
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::1-overview-beyond-manifolds::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1805-1815
+heading: '**1. Overview: Beyond Manifolds**'
 block_type: paragraph
-concepts:
-- Higher-Stack
-- Meta-Geometric
-- Meta-Geometry
-- Stack Meta
-- δ
 excerpt: 'Traditional geometry (Euclidean, Riemannian, Lorentzian) is based on smooth
   manifolds. However, the Meta-Geometric substrate is inherently: *   **Fractal:**
   Exhibiting self-similarity and non-integer ...'
-heading: '**1. Overview: Beyond Manifolds**'
-id: INTK-10494
-lines: 1805-1815
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::1-overview-beyond-manifolds::b2
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- self-similarity
+- Meta-Geometric
+- Scale-layered
+- Meta-Geometry
+- Higher-Stack
+- non-integer
+- δ
+- ∞
+- Stack Meta
+aliases:
+- Bk003tg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

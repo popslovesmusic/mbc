@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- λ
-- μ
-excerpt: 'Write: H(t)=v+χ(t)H(t)=v+\\chi(t)H(t)=v+χ(t) with:'
-heading: '**Ⅳ. Oscillatory Phase: The Engine of Reheating**'
 id: GEN15-3161
-lines: 1320-1342
 location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-oscillatory-phase-the-engine-of-reheating::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1320-1342
+heading: '**Ⅳ. Oscillatory Phase: The Engine of Reheating**'
+block_type: paragraph
+excerpt: 'Write: H(t)=v+χ(t)H(t)=v+\\chi(t)H(t)=v+χ(t) with:'
+concepts:
+- χ
+- μ
+- δ
+- λ
+- Π
+- Φ
+- δ-Higgs
+aliases:
+- Bk013wc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.526881720430108
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

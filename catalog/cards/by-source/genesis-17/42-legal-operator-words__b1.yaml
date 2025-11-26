@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: We define legality by a grammar G G.
-heading: 4.2 Legal Operator Words
 id: GEN17-4250
-lines: 1528-1536
 location: genesis-17/box-calculus::graph-grammar-for-box-calculus-topology-legal-wiring::4-operator-well-formedness-sequence-grammar::42-legal-operator-words::b1
-parent_heading: 4\. Operator-Well-Formedness (Sequence Grammar)
 source: genesis-17\box_calculus.md
+lines: 1528-1536
+heading: 4.2 Legal Operator Words
+parent_heading: 4\. Operator-Well-Formedness (Sequence Grammar)
+block_type: paragraph
+excerpt: We define legality by a grammar G G.
+concepts:
+- ∈
+aliases:
+- Bk122dl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

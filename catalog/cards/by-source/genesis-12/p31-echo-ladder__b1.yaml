@@ -1,13 +1,31 @@
+id: GEN12-1700
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p3-gravitational-wave-echo-predictions::p31-echo-ladder::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2567-2571
+heading: '**P3.1 Echo Ladder**'
+parent_heading: '**Axiom P3 (Gravitational-Wave Echo Predictions).**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- λ
 excerpt: fk=Πt(λk).f\_k \= \\Pi\_t(\\lambda\_k).fk​=Πt​(λk​). Echo frequencies are
   time-domain Φ-modes.
-heading: '**P3.1 Echo Ladder**'
-id: GEN12-1700
-lines: 2567-2571
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p3-gravitational-wave-echo-predictions::p31-echo-ladder::b1
-parent_heading: '**Axiom P3 (Gravitational-Wave Echo Predictions).**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- λ
+- Π
+- time-domain
+- Φ-modes
+- Φ
+- Πt
+aliases:
+- Bk849le
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.57894736842105
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

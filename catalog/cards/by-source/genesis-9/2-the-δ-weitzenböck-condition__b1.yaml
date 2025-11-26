@@ -1,15 +1,35 @@
-block_type: paragraph
-concepts:
-- Γ
-- Λ
-- δ
-- λ
-- μ
-- ν
-excerpt: 'The δ-Weitzenböck condition imposes: R(δ)=0R^{(\\delta)} \= 0R(δ)=0 but
-  allows:'
-heading: '**2\. The δ-Weitzenböck Condition**'
 id: GEN9-9481
-lines: 613-646
 location: genesis-9/strong-force::2-the-δ-weitzenböck-condition::b1
 source: genesis-9\strong-force.md
+lines: 613-646
+heading: '**2\. The δ-Weitzenböck Condition**'
+block_type: paragraph
+excerpt: 'The δ-Weitzenböck condition imposes: R(δ)=0R^{(\\delta)} \= 0R(δ)=0 but
+  allows:'
+concepts:
+- δ
+- μ
+- ν
+- IGSOA
+- λ
+- Γ
+- Λ
+- →
+- torsion-only
+- weak-sector
+- binary degeneracy spectrum
+- θ
+aliases:
+- Bk961tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

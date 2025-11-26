@@ -1,14 +1,30 @@
+id: GEN20-7046
+location: genesis-20/mbc-40-documentaitio-1::conclusion::151-what-we-accomplished-in-this-volume::the-foundations::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4897-4905
+heading: ● The Foundations
+parent_heading: 15.1 What We Accomplished in This Volume
 block_type: list
-concepts:
-- Θ
-- Π
-- Φ
-- δ
 excerpt: '* IGSOA as the monistic source * δ as the initiator of structure * Φ as
   the stabilizer'
-heading: ● The Foundations
-id: GEN20-7046
-lines: 4897-4905
-location: genesis-20/mbc-40-documentaitio-1::conclusion::151-what-we-accomplished-in-this-volume::the-foundations::b1
-parent_heading: 15.1 What We Accomplished in This Volume
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- IGSOA
+- δ
+- Π
+- Θ
+- Φ
+aliases:
+- Bk551it
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.157894736842104
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,25 @@
+id: GEN15-3208
+location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-the-csoi-interpretation-cmb-tail-galaxy-formation::galaxy-structures-arise-where-csoi-lobes-overlap::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2017-2025
+heading: '**Galaxy structures arise where CSOI lobes overlap**'
+parent_heading: '**Ⅴ. The CSOI Interpretation: CMB Tail → Galaxy Formation**'
 block_type: paragraph
-concepts: []
 excerpt: 'Nodes of the cosmic web are intersections of: ⋂ℓCSOIℓ.\\bigcap\_{\\ell}
   CSOI\_\\ell.ℓ⋂​CSOIℓ​. Thus cosmic structure is **CSOI geometry made visible in
   matter.**'
-heading: '**Galaxy structures arise where CSOI lobes overlap**'
-id: GEN15-3208
-lines: 2017-2025
-location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-the-csoi-interpretation-cmb-tail-galaxy-formation::galaxy-structures-arise-where-csoi-lobes-overlap::b1
-parent_heading: '**Ⅴ. The CSOI Interpretation: CMB Tail → Galaxy Formation**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+aliases:
+- Bk299nt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

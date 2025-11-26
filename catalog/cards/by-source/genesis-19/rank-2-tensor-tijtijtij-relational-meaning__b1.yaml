@@ -1,11 +1,32 @@
+id: GEN19-5863
+location: genesis-19/mbc-4-1::7-compound-polarity-multi-label-classification::rank-2-tensor-tijtijtij-relational-meaning::b1
+source: genesis-19\MBC-4_1.md
+lines: 520-530
+heading: '**Rank-2 tensor TijT^{ij}Tij → relational meaning**'
+parent_heading: '**7\. Compound Polarity → Multi-Label Classification**'
 block_type: list
-concepts:
-- Θ
 excerpt: '* Θ+Θ+ → **mutual support** * Θ+Θ− → **semantic tension** * Θ−Θ− → **reinforced
   contradiction**'
-heading: '**Rank-2 tensor TijT^{ij}Tij → relational meaning**'
-id: GEN19-5863
-lines: 520-530
-location: genesis-19/mbc-4-1::7-compound-polarity-multi-label-classification::rank-2-tensor-tijtijtij-relational-meaning::b1
-parent_heading: '**7\. Compound Polarity → Multi-Label Classification**'
-source: genesis-19\MBC-4_1.md
+concepts:
+- Θ
+- →
+- reinforced contradiction
+- unstable contradiction
+- unstable support
+- semantic tension
+- mutual support
+aliases:
+- Bk656ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 38.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,28 @@
+id: GEN9-9393
+location: genesis-9/is-the-source-of-all-structure::corollaries::corollary-1-elements-are-δ-adjacency-occupancy-patterns::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 876-878
+heading: '**Corollary 1: Elements are δ-adjacency occupancy patterns.**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
+excerpt: An element with atomic number Z corresponds to the first Z Π-stable δ-modes.
 concepts:
+- Π-stable
+- δ-modes
 - Π
 - δ
-excerpt: An element with atomic number Z corresponds to the first Z Π-stable δ-modes.
-heading: '**Corollary 1: Elements are δ-adjacency occupancy patterns.**'
-id: GEN9-9393
-lines: 876-878
-location: genesis-9/is-the-source-of-all-structure::corollaries::corollary-1-elements-are-δ-adjacency-occupancy-patterns::b1
-parent_heading: '**Corollaries**'
-source: genesis-9\is_the_source_of_all_structure.md
+aliases:
+- Bk113ew
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.666666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

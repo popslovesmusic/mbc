@@ -1,16 +1,36 @@
+id: GEN12-1558
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::1-genesis-deviation-δ::14-why-adjacency-emerges::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 452-475
+heading: '**1.4 Why Adjacency Emerges**'
+parent_heading: '**1\. Genesis → Deviation (δ)**'
 block_type: paragraph
-concepts:
-- before
-- creates
-- projection
-- Ψ
-- δ
 excerpt: 'Deviation produces distinguishability. Distinguishability requires an ordering
   relation. An ordering relation is equivalently an **adjacency structure**. Formally,
   adjacency is defined by: Ψ0≺Ψ1iffδ(Ψ...'
-heading: '**1.4 Why Adjacency Emerges**'
-id: GEN12-1558
-lines: 452-475
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::1-genesis-deviation-δ::14-why-adjacency-emerges::b1
-parent_heading: '**1\. Genesis → Deviation (δ)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Ψ
+- Adjacency
+- Deviation
+- δ
+- pre-geometric
+- ≠
+- adjacency structure
+- creates
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk323dp
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.064516129032258
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

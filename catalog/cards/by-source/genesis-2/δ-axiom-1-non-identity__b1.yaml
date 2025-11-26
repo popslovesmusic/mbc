@@ -1,14 +1,28 @@
-block_type: paragraph
-concepts:
-- after
-- change
-- not
-- Ψ
-- δ
-excerpt: 'Deviation is **not** the identity map: δ≠id.\\delta \\neq \\mathrm{id}.δ=id.
-  More strongly:'
-heading: '**δ-Axiom 1 — Non-Identity**'
 id: GEN2-6279
-lines: 905-923
 location: genesis-2/axioms-for-the-category-genesis::δ-axiom-1-non-identity::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 905-923
+heading: '**δ-Axiom 1 — Non-Identity**'
+block_type: paragraph
+excerpt: 'Deviation is **not** the identity map: δ≠id.\\delta \\neq \\mathrm{id}.δ=id.
+  More strongly:'
+concepts:
+- Ψ
+- δ
+- Deviation
+- not
+- →
+- ≠
+- Ψ₀
+aliases:
+- Bk051dn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

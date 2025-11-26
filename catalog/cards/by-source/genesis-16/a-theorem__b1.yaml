@@ -1,15 +1,31 @@
+id: GEN16-3675
+location: genesis-16/quantum-measurement-in-igsoa-vs::in-one-sentence-igsoa-version::a-theorem::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 55-57
+heading: '**✓ A theorem**'
+parent_heading: '**In one sentence (IGSOA version):**'
 block_type: paragraph
+excerpt: '**“The δ→Φ→Π Collapse-Free Measurement Theorem”**'
 concepts:
+- Theorem
+- →
 - Collapse-Free
 - Free Measurement Theorem
-- Theorem
 - Π
-- Φ
 - δ
-excerpt: '**“The δ→Φ→Π Collapse-Free Measurement Theorem”**'
-heading: '**✓ A theorem**'
-id: GEN16-3675
-lines: 55-57
-location: genesis-16/quantum-measurement-in-igsoa-vs::in-one-sentence-igsoa-version::a-theorem::b1
-parent_heading: '**In one sentence (IGSOA version):**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+- Φ
+aliases:
+- Bk820tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 87.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

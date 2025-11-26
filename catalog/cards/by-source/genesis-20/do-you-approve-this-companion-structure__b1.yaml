@@ -1,11 +1,26 @@
+id: GEN20-6745
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1185-1188
+heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts:
-- Primitive Operators
 excerpt: If yes, I will insert these chapters into the master outline and we will
   proceed through them after the core chapters. Ready to continue to Chapter 3 — Primitive
   Operators whenever you say.
-heading: ✔️ Do you approve this companion structure?
-id: GEN20-6745
-lines: 1185-1188
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Primitive Operators
+aliases:
+- Bk266yw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

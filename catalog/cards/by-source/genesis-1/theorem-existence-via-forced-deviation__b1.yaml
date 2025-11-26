@@ -1,14 +1,30 @@
+id: GEN1-493
+location: genesis-1/the-foundation-layer::iii-theorem-not-axiom-forces-existence::theorem-existence-via-forced-deviation::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1185-1188
+heading: '**Theorem (Existence via Forced Deviation).**'
+parent_heading: '**III. Theorem: NOT Axiom Forces Existence**'
 block_type: paragraph
-concepts:
-- Axiom
-- Ψ
-- δ
 excerpt: Under the NOT Axiom, the zero-state Ψ₀ is non-existent and cannot persist.
   Therefore, a deviation δΨ₀ must occur, producing a first structured state Ψ₁ that
   satisfies the minimal criteria for existenc...
-heading: '**Theorem (Existence via Forced Deviation).**'
-id: GEN1-493
-lines: 1185-1188
-location: genesis-1/the-foundation-layer::iii-theorem-not-axiom-forces-existence::theorem-existence-via-forced-deviation::b1
-parent_heading: '**III. Theorem: NOT Axiom Forces Existence**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Axiom
+- Ψ
+- non-existent
+- zero-state
+- δ
+- Ψ₀
+- Ψ₁
+aliases:
+- Bk462ut
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.21212121212121
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

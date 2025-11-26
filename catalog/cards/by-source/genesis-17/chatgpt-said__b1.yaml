@@ -1,17 +1,41 @@
+id: GEN17-5125
+location: genesis-17/mbc-schema-3::compact-axiom-box-form-if-you-want-it::you-said::chatgpt-said::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1620-1644
+heading: '**ChatGPT said:**'
+parent_heading: '**You said:**'
 block_type: paragraph
-concepts:
-- Layer
-- meta-Boxes
-- Π
-- Φ
-- Ω
-- δ
 excerpt: Below is the **official, production-ready MBC-4.0 JSON Schema**, updated
   to include **all meta-operators** (Δ, Ω, R, S, E), **meta-Boxes**, **reflection
   structure**, and the **full category/functor la...
-heading: '**ChatGPT said:**'
-id: GEN17-5125
-lines: 1620-1644
-location: genesis-17/mbc-schema-3::compact-axiom-box-form-if-you-want-it::you-said::chatgpt-said::b1
-parent_heading: '**You said:**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- MBC
+- IGSOA
+- Layer
+- all meta-operators
+- Ω
+- Δ
+- production-ready
+- meta-structures
+- batch-extractor
+- meta-operators
+- meta-genesis
+- meta-Boxes
+- Π
+- δ
+- Φ
+aliases:
+- Bk580bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.17171717171717
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Formally:'
-heading: '**6\. Meta-Collapse: The “Reasoning Functor”**'
 id: GEN18-5382
-lines: 423-425
 location: genesis-18/mbc-4::6-meta-collapse-the-reasoning-functor::b1
 source: genesis-18\MBC-4.md
+lines: 423-425
+heading: '**6\. Meta-Collapse: The “Reasoning Functor”**'
+block_type: paragraph
+excerpt: 'Formally:'
+aliases:
+- Bk823fo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

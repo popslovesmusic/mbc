@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: Multi-causal, multi-context reasoning.
-heading: A4 — Multi-Input Boxes & Higher-Order Semantic Structures
 id: GEN20-6977
-lines: 4048-4050
 location: genesis-20/mbc-40-documentaitio-1::the-final-curated-list-of-advanced-topics-the-ones-truly-worth-full-chapters::advanced-section-chapters-worth-including::a4-multi-input-boxes-higher-order-semantic-structures::b1
-parent_heading: ADVANCED SECTION — CHAPTERS WORTH INCLUDING
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4048-4050
+heading: A4 — Multi-Input Boxes & Higher-Order Semantic Structures
+parent_heading: ADVANCED SECTION — CHAPTERS WORTH INCLUDING
+block_type: paragraph
+excerpt: Multi-causal, multi-context reasoning.
+concepts:
+- multi-context
+- Multi-causal
+aliases:
+- Bk690mc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

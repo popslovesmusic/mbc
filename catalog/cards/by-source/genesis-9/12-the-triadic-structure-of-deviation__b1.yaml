@@ -1,13 +1,27 @@
+id: GEN9-9159
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::1-the-origin-deviation-as-the-first-action::12-the-triadic-structure-of-deviation::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2034-2055
+heading: '**1.2 The Triadic Structure of Deviation**'
+parent_heading: '**1\. The Origin: Deviation as the First Action**'
 block_type: paragraph
+excerpt: 'Deviation cannot arise in isolation. δ appears in a triadic balance: λn,1+λn,2+λn,3=0.\\lambda\_{n,1}+\\lambda\_{n,2}+\\lambda\_{n,3}=0.λn,1​+λn,2​+λn,3​=0.'
 concepts:
 - Tri-Unity
-- shadows
-- δ
 - λ
-excerpt: 'Deviation cannot arise in isolation. δ appears in a triadic balance: λn,1+λn,2+λn,3=0.\\lambda\_{n,1}+\\lambda\_{n,2}+\\lambda\_{n,3}=0.λn,1​+λn,2​+λn,3​=0.'
-heading: '**1.2 The Triadic Structure of Deviation**'
-id: GEN9-9159
-lines: 2034-2055
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::1-the-origin-deviation-as-the-first-action::12-the-triadic-structure-of-deviation::b1
-parent_heading: '**1\. The Origin: Deviation as the First Action**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+- Deviation
+- δ
+aliases:
+- Bk666dc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

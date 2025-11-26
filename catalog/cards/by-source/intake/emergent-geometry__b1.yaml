@@ -1,13 +1,28 @@
+id: INTK-10717
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::emergent-geometry::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1846-1847
+heading: Emergent Geometry
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Emergent Geometry
-- Read More
 excerpt: Emergent Geometry is a paradigm in which spacetime, metric, and curvature
   are not fundamental but are secondary phenomena that emerge from the deeper informational
   and energetic relationships defined ...
-heading: Emergent Geometry
-id: INTK-10717
-lines: 1846-1847
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::emergent-geometry::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- Emergent Geometry
+- Read More
+aliases:
+- Bk988eg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.6923076923076925
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

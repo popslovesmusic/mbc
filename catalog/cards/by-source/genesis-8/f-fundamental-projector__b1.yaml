@@ -1,19 +1,36 @@
+id: GEN8-8798
+location: genesis-8/meta-time-geometry-and-temporal-projection::2-the-four-projectors::f-fundamental-projector::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 484-502
+heading: '**F — Fundamental Projector**'
+parent_heading: '**2\. THE FOUR PROJECTORS**'
 block_type: paragraph
-concepts:
-- Einstein Field Equations
-- Field
-- Higgs Mass Tower
-- Laws Theorem
-- Meta-Einstein
-- The Stability
-- Theorem
-- δ
 excerpt: 'Closes the tower by producing stable laws: F(E):=Meta-Einstein equations,
   δ-EFT, conservation laws, operatorsF(E) := \\text{Meta-Einstein equations, δ-EFT,
   conservation laws, operators}F(E):=Meta-Eins...'
-heading: '**F — Fundamental Projector**'
-id: GEN8-8798
-lines: 484-502
-location: genesis-8/meta-time-geometry-and-temporal-projection::2-the-four-projectors::f-fundamental-projector::b1
-parent_heading: '**2\. THE FOUR PROJECTORS**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- Meta-Einstein
+- δ
+- δ-EFT
+- Theorem
+- Field
+- Einstein Field Equations
+- δ-Higgs
+- Higgs Mass Tower
+- The Stability
+- Laws Theorem
+aliases:
+- Bk172ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.39344262295082
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

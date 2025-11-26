@@ -1,12 +1,30 @@
+id: GEN3-7320
+location: genesis-3/metagenesis::3-construction-of-the-functor::32-on-morphisms::b1
+source: genesis-3\metagenesis.md
+lines: 717-731
+heading: '**3.2 On Morphisms**'
+parent_heading: '**3\. Construction of the Functor**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Given an operator morphism O:A→A’\\mathcal{O}:A\\to A’O:A→A’, we define:
   Cδ(O)=curvature-preserving pushforward O\\\*\\mathcal{C}\_\\delta(\\mathcal{O})
   \= \\text{curvature-preserving pushforward } \\...'
-heading: '**3.2 On Morphisms**'
-id: GEN3-7320
-lines: 717-731
-location: genesis-3/metagenesis::3-construction-of-the-functor::32-on-morphisms::b1
-parent_heading: '**3\. Construction of the Functor**'
-source: genesis-3\metagenesis.md
+concepts:
+- δ
+- curvature-preserving
+- →
+- mass-energy
+aliases:
+- Bk153go
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.878048780487805
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

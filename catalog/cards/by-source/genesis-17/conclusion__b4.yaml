@@ -1,12 +1,27 @@
+id: GEN17-4462
+location: genesis-17/box-calculus::::mathematical-polarity-formal-proof::conclusion::b4
+source: genesis-17\box_calculus.md
+lines: 4955-4965
+heading: ⭐ Conclusion
+parent_heading: Mathematical Polarity (Formal Proof)
 block_type: paragraph
+excerpt: ϵΠ∘Φη=1Π ϵ Π
 concepts:
 - Π
-- Φ
 - η
-excerpt: ϵΠ∘Φη=1Π ϵ Π
-heading: ⭐ Conclusion
-id: GEN17-4462
-lines: 4955-4965
-location: genesis-17/box-calculus::::mathematical-polarity-formal-proof::conclusion::b4
-parent_heading: Mathematical Polarity (Formal Proof)
-source: genesis-17\box_calculus.md
+- Φ
+aliases:
+- Bk934fb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 37.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

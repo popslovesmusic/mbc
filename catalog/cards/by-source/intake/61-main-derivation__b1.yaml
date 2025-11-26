@@ -1,12 +1,28 @@
+id: INTK-9620
+location: intake/abstract-editorial-review::section-6-emergence-of-the-cosmological-constant::61-main-derivation::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 288-294
+heading: '**6.1 — Main derivation**'
+parent_heading: '**📄 Section 6 — Emergence of the Cosmological Constant**'
 block_type: paragraph
-concepts:
-- Einstein Field Equations
-- Field
 excerpt: 'You could strengthen the punch: This is the fundamental replacement for
   the standard Einstein Field Equations in IGSOA. This announces the new law of curvature.'
-heading: '**6.1 — Main derivation**'
-id: INTK-9620
-lines: 288-294
-location: intake/abstract-editorial-review::section-6-emergence-of-the-cosmological-constant::61-main-derivation::b1
-parent_heading: '**📄 Section 6 — Emergence of the Cosmological Constant**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- IGSOA
+- Field
+- Einstein Field Equations
+aliases:
+- Bk812yc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

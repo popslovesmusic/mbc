@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (*Pattern requires Realization*)
-heading: '**Lemma 2: Φ ⇒ π**'
 id: GEN3-7489
-lines: 135-137
 location: genesis-3/the-tri-unity-theorem::iii-formal-proof::lemma-2-φ-π::b1
-parent_heading: '**III. Formal Proof**'
 source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 135-137
+heading: '**Lemma 2: Φ ⇒ π**'
+parent_heading: '**III. Formal Proof**'
+block_type: paragraph
+excerpt: (*Pattern requires Realization*)
+aliases:
+- Bk843pr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,32 @@
+id: GEN17-4388
+location: genesis-17/box-calculus::3-mapping-the-laws-axioms::axiom-iii-expansion-halting::b1
+source: genesis-17\box_calculus.md
+lines: 3165-3174
+heading: Axiom III — Expansion / Halting
+parent_heading: ⭐ 3\. Mapping the Laws (Axioms)
 block_type: table
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Expansion Axiom
-- Finite Formation Axiom
-- Meta-Math
 excerpt: G(Expansion Axiom)=Finite Formation Axiom G(Expansion Axiom)=Finite Formation
   Axiom ​
-heading: Axiom III — Expansion / Halting
-id: GEN17-4388
-lines: 3165-3174
-location: genesis-17/box-calculus::3-mapping-the-laws-axioms::axiom-iii-expansion-halting::b1
-parent_heading: ⭐ 3\. Mapping the Laws (Axioms)
-source: genesis-17\box_calculus.md
+concepts:
+- Axiom
+- Meta-Math
+- Box Calculus
+- Box
+- Finite Formation Axiom
+- Δ
+- Expansion Axiom
+aliases:
+- Bk303bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.94871794871795
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '*(formal algebraic derivation)*'
-heading: '**Standard Column**'
 id: GEN19-5906
-lines: 439-441
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::standard-column::b1
-parent_heading: '**III. Dual-Column Proof**'
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 439-441
+heading: '**Standard Column**'
+parent_heading: '**III. Dual-Column Proof**'
+block_type: paragraph
+excerpt: '*(formal algebraic derivation)*'
+aliases:
+- Bk881fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

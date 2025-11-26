@@ -1,14 +1,30 @@
+id: INTK-10455
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::connection-to-operators-and-meta-geometry::renormalization-group-theory::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1569-1570
+heading: Renormalization Group Theory
+parent_heading: Connection to Operators and Meta-Geometry
 block_type: paragraph
-concepts:
-- Fractal Calculus
-- Fractal Renormalization
-- Meta-Fractal
 excerpt: Meta-Fractal Calculus provides the mathematical formalism for **Meta-Fractal
   Renormalization (MFR)**, where the flow of couplings and fields across scales is
   precisely described by scale-covariant der...
-heading: Renormalization Group Theory
-id: INTK-10455
-lines: 1569-1570
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::connection-to-operators-and-meta-geometry::renormalization-group-theory::b1
-parent_heading: Connection to Operators and Meta-Geometry
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Fractal
+- scale-covariant
+- Fractal Renormalization
+- Fractal Calculus
+aliases:
+- Bk532mf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

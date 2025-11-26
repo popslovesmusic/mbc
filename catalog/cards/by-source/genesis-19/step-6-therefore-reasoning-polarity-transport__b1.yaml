@@ -1,14 +1,29 @@
+id: GEN19-5936
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-a-igsoa-proof-δ-geometry-language::step-6-therefore-reasoning-polarity-transport::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 862-869
+heading: '**Step 6\. Therefore reasoning \= polarity transport**'
+parent_heading: '**III-A. IGSOA Proof (δ-geometry language)**'
 block_type: paragraph
-concepts:
-- Θ
-- Π
-- Φ
-- δ
 excerpt: The entire δ→Φ→Π chain preserves Θ. Inference steps merely re-arrange δ-flows;
   they never introduce new polarity. Thus reasoning **is** polarity propagation.
-heading: '**Step 6\. Therefore reasoning \= polarity transport**'
-id: GEN19-5936
-lines: 862-869
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-a-igsoa-proof-δ-geometry-language::step-6-therefore-reasoning-polarity-transport::b1
-parent_heading: '**III-A. IGSOA Proof (δ-geometry language)**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- δ
+- →
+- re-arrange
+- δ-flows
+- Π
+- Θ
+- Φ
+aliases:
+- Bk763te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.000000000000004
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

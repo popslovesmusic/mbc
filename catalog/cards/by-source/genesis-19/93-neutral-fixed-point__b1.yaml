@@ -1,11 +1,23 @@
+id: GEN19-5849
+location: genesis-19/mbc-4-1::8-the-δφπ-tensor-pipeline::93-neutral-fixed-point::b1
+source: genesis-19\MBC-4_1.md
+lines: 368-372
+heading: '**9.3 Neutral Fixed Point**'
+parent_heading: '**8\. The δ→Φ→Π Tensor Pipeline**'
 block_type: paragraph
-concepts:
-- Θ
 excerpt: e0⋆ΘT=Te\_0 \\star\_\\Theta T \= Te0​⋆Θ​T=T Neutral mode does not inject
   curvature.
-heading: '**9.3 Neutral Fixed Point**'
-id: GEN19-5849
-lines: 368-372
-location: genesis-19/mbc-4-1::8-the-δφπ-tensor-pipeline::93-neutral-fixed-point::b1
-parent_heading: '**8\. The δ→Φ→Π Tensor Pipeline**'
-source: genesis-19\MBC-4_1.md
+concepts:
+- Θ
+aliases:
+- Bk620st
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

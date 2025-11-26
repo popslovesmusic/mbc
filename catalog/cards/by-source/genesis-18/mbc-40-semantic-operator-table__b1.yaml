@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: (AND, OR, NOT, XOR, IMPLIES rebuilt in δ-geometry)
-heading: '**🔵 MBC-4.0 *Semantic Operator Table***'
 id: GEN18-5730
-lines: 1266-1268
 location: genesis-18/sealed-axiom-box::next-items-i-can-generate::mbc-40-semantic-operator-table::b1
-parent_heading: '**Next Items I Can Generate**'
 source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1266-1268
+heading: '**🔵 MBC-4.0 *Semantic Operator Table***'
+parent_heading: '**Next Items I Can Generate**'
+block_type: paragraph
+excerpt: (AND, OR, NOT, XOR, IMPLIES rebuilt in δ-geometry)
+concepts:
+- δ-geometry
+- δ
+aliases:
+- Bk720an
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

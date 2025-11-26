@@ -1,13 +1,30 @@
+id: GEN17-4406
+location: genesis-17/box-calculus::gbcmm::on-morphisms::b1
+source: genesis-17\box_calculus.md
+lines: 3503-3534
+heading: On Morphisms
+parent_heading: G:BC→MM
 block_type: paragraph
+excerpt: Given an operator Op:Σ→Σ′ Op:Σ→Σ
 concepts:
-- Π
 - Σ
+- →
+- Split
+- Π
 - Φ
 - ρ
-excerpt: Given an operator Op:Σ→Σ′ Op:Σ→Σ
-heading: On Morphisms
-id: GEN17-4406
-lines: 3503-3534
-location: genesis-17/box-calculus::gbcmm::on-morphisms::b1
-parent_heading: G:BC→MM
-source: genesis-17\box_calculus.md
+aliases:
+- Bk002go
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.16949152542373
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

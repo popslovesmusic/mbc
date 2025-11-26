@@ -1,14 +1,35 @@
+id: GEN13-2633
+location: genesis-13/what-biology-is-in-meta-genesis::5-selection-as-π-weighted-replicator-flow::theorem-52-replicator-equation-in-𝔅::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2496-2510
+heading: '**Theorem 5.2 (Replicator Equation in 𝔅).**'
+parent_heading: '**5\. Selection as Π-Weighted Replicator Flow**'
 block_type: paragraph
-concepts:
-- Π
-- δ
-- μ
 excerpt: 'Population dynamics satisfy: ddtμt(X)=μt(X)(f(X)−f‾t),\\frac{d}{dt}\\mu\_t(X)=
   \\mu\_t(X)\\big(\\mathfrak{f}(X)-\\overline{\\mathfrak{f}}\_t\\big),dtd​μt​(X)=μt​(X)(f(X)−f​t​),
   where:'
-heading: '**Theorem 5.2 (Replicator Equation in 𝔅).**'
-id: GEN13-2633
-lines: 2496-2510
-location: genesis-13/what-biology-is-in-meta-genesis::5-selection-as-π-weighted-replicator-flow::theorem-52-replicator-equation-in-𝔅::b1
-parent_heading: '**5\. Selection as Π-Weighted Replicator Flow**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- μ
+- evolution is δ-fitness replicator flow
+- Proof
+- Π
+- ∫
+- δ-fitness
+- Π-domains
+- δ
+aliases:
+- Bk181pd
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.195402298850574
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,36 @@
+id: GEN10-975
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-vi-the-δ-eft-lagrangian-and-the-origin-of-mass::63-the-fractal-shell-structure-and-the-flavor-problem::b1
+source: genesis-10\research_overview.md
+lines: 220-231
+heading: '**6.3 The Fractal Shell Structure and the Flavor Problem**'
+parent_heading: '**Part VI: The δ-EFT Lagrangian and the Origin of Mass**'
 block_type: paragraph
-concepts:
-- Flavor Problem
-- Fractal Shell Structure
-- Fractal Vacuum
-- Mass Tower
-- Standard Model
 excerpt: A key success of this framework is its proposed solution to the **Flavor
   Problem** (the existence of three generations of fermions with vastly different
   masses). * **Fractal Vacuum:** The theory posit...
-heading: '**6.3 The Fractal Shell Structure and the Flavor Problem**'
-id: GEN10-975
-lines: 220-231
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-vi-the-δ-eft-lagrangian-and-the-origin-of-mass::63-the-fractal-shell-structure-and-the-flavor-problem::b1
-parent_heading: '**Part VI: The δ-EFT Lagrangian and the Origin of Mass**'
-source: genesis-10\research_overview.md
+concepts:
+- medium-energy
+- self-similar
+- high-energy
+- low-energy
+- Fractal Shell Structure
+- Flavor Problem
+- Fractal Vacuum
+- Standard Model
+- Generation 1
+- Generation 2
+- Mass Tower
+aliases:
+- Bk380ks
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.971014492753622
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

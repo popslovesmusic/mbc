@@ -1,12 +1,29 @@
+id: GEN17-4951
+location: genesis-17/key-points::algorithmic-correspondence::physics::b1
+source: genesis-17\Key_Points.md
+lines: 1059-1073
+heading: '**Physics:**'
+parent_heading: '**🌗 Algorithmic Correspondence**'
 block_type: list
-concepts:
-- Box
-- Π
 excerpt: 1. Matter-energy identifies regions 2. Curvature tensor gives geometry 3.
   Lightcones/causal set order link regions
-heading: '**Physics:**'
-id: GEN17-4951
-lines: 1059-1073
-location: genesis-17/key-points::algorithmic-correspondence::physics::b1
-parent_heading: '**🌗 Algorithmic Correspondence**'
-source: genesis-17\Key_Points.md
+concepts:
+- Curvature
+- Box
+- Matter-energy
+- Π
+aliases:
+- Bk232me
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

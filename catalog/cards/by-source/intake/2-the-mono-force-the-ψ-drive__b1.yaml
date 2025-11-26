@@ -1,15 +1,31 @@
+id: INTK-10655
+location: intake/volume-i-core-ontology-and-metagenesis-summary::core-ontological-axioms-and-principles::2-the-mono-force-the-ψ-drive::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1502-1507
+heading: 2. The Mono-Force (The Ψ-Drive)
+parent_heading: Core Ontological Axioms and Principles
 block_type: paragraph
-concepts:
-- Gravity
-- Mono-Force
-- Zero State
-- Ψ
 excerpt: '**Principle:** All dynamics—gravity, decoherence, entropy, time, and emergence—are
   expressions of a single underlying drive: the systemic tendency toward the **Zero
   State (Ψ₀)**, perpetually constrain...'
-heading: 2. The Mono-Force (The Ψ-Drive)
-id: INTK-10655
-lines: 1502-1507
-location: intake/volume-i-core-ontology-and-metagenesis-summary::core-ontological-axioms-and-principles::2-the-mono-force-the-ψ-drive::b1
-parent_heading: Core Ontological Axioms and Principles
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- State
+- Ψ
+- Mono-Force
+- Ψ₀
+- Zero State
+- Gravity
+aliases:
+- Bk432pa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

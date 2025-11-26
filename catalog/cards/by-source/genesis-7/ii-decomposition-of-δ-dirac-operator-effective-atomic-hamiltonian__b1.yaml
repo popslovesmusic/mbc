@@ -1,12 +1,34 @@
+id: GEN7-8685
+location: genesis-7/why-curvature-gives-gravity::ii-decomposition-of-δ-dirac-operator-effective-atomic-hamiltonian::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 915-938
+heading: '**II. Decomposition of δ-Dirac Operator → Effective Atomic Hamiltonian**'
 block_type: paragraph
-concepts:
-- The Coulomb
-- δ
 excerpt: 'Square the δ-Dirac operator: Dδ2=−Δadj+14Rδ+spin connection terms+Q(δ).D\_\\delta^2
   \= \-\\Delta\_{\\text{adj}} \+ \\frac{1}{4}R^\\delta \+ \\text{spin connection terms}
   \+ \\mathcal{Q}(\\delta).Dδ2​=...'
-heading: '**II. Decomposition of δ-Dirac Operator → Effective Atomic Hamiltonian**'
-id: GEN7-8685
-lines: 915-938
-location: genesis-7/why-curvature-gives-gravity::ii-decomposition-of-δ-dirac-operator-effective-atomic-hamiltonian::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- IGSOA
+- δ-adjacency
+- ∇
+- Δ
+- large-scale
+- δ-Dirac
+- →
+- The Coulomb
+aliases:
+- Bk881st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.338028169014084
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

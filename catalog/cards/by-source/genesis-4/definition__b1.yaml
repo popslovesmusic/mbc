@@ -1,13 +1,27 @@
+id: GEN4-7872
+location: genesis-4/the-first-adjacency::3-why-deviation-forces-ordering-formal-derivation::definition::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1064-1080
+heading: '**Definition:**'
+parent_heading: '**3\. Why Deviation Forces Ordering (Formal Derivation)**'
 block_type: paragraph
-concepts:
-- directional
-- Ψ
-- δ
 excerpt: 'Deviation is a transformation: δ:Ψn↦Ψn+1.\\delta: \\Psi\_n \\mapsto \\Psi\_{n+1}.δ:Ψn​↦Ψn+1​.
   A transformation is inherently **directional**:'
-heading: '**Definition:**'
-id: GEN4-7872
-lines: 1064-1080
-location: genesis-4/the-first-adjacency::3-why-deviation-forces-ordering-formal-derivation::definition::b1
-parent_heading: '**3\. Why Deviation Forces Ordering (Formal Derivation)**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Ψ
+- Ψn
+- Deviation
+- δ
+- directional
+aliases:
+- Bk392dt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.47457627118644
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

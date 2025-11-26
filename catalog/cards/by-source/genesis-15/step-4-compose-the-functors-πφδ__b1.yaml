@@ -1,15 +1,38 @@
+id: GEN15-3106
+location: genesis-15/the-mass-curvature-projection-theorem::step-4-compose-the-functors-πφδ::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 329-351
+heading: '**STEP 4 — Compose the functors: Π∘Φ∘δ**'
 block_type: paragraph
-concepts:
-- Curvature Projection
-- Π
-- Φ
-- δ
-- λ
 excerpt: 'Since the eigenvalues λₙ arise from something originally natural in δ-space,
   and Π preserves naturality: mn=Π(λn)m\_n \= \\Pi(\\lambda\_n)mn​=Π(λn​) is the Π-image
   of the Φ-projection of δ-curvature.'
-heading: '**STEP 4 — Compose the functors: Π∘Φ∘δ**'
-id: GEN15-3106
-lines: 329-351
-location: genesis-15/the-mass-curvature-projection-theorem::step-4-compose-the-functors-πφδ::b1
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Π
+- δ
+- Φ-projection
+- λ
+- Φ
+- Projection
+- Curvature
+- δ-curvature
+- κ
+- Π-interpretation
+- Π-image
+- δ-space
+- Curvature Projection
+aliases:
+- Bk207st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.380952380952381
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

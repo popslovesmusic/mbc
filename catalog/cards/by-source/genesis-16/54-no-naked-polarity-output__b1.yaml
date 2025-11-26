@@ -1,12 +1,29 @@
+id: GEN16-3843
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::5-forbidden-local-patterns-rejection-rules::54-no-naked-polarity-output::b1
+source: genesis-16\Untitled_document.md
+lines: 1380-1386
+heading: '**5.4 No naked polarity output**'
+parent_heading: '**5\. Forbidden Local Patterns (Rejection Rules)**'
 block_type: paragraph
-concepts:
-- ρ
 excerpt: ρ↛(anything but Router)\\boxed{ \\rho \\not\\to \\text{(anything but Router)}
   }ρ→(anything but Router)​ Polarity creates branches; Router (or A) must resolve
   them. ---
-heading: '**5.4 No naked polarity output**'
-id: GEN16-3843
-lines: 1380-1386
-location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::5-forbidden-local-patterns-rejection-rules::54-no-naked-polarity-output::b1
-parent_heading: '**5\. Forbidden Local Patterns (Rejection Rules)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Router
+- Polarity
+- ρ
+- →
+aliases:
+- Bk471ab
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

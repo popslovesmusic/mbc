@@ -1,19 +1,41 @@
+id: GEN20-6601
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::mbc-40-composition-specification-machine-readable-json::sealed-canonical-version-locked::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 542-545
+heading: (Sealed, canonical, version-locked)
+parent_heading: ✅ MBC-4.0 Composition Specification (Machine-Readable JSON)
 block_type: paragraph
-concepts:
-- Box
-- Box Algebra
-- Box Composition
-- Θ
-- Π
-- Σ
-- Φ
-- δ
 excerpt: '{ "mbc\_version": "4.0", "module": "composition", "sealed": true, "description":
   "Machine-readable schema for the Box Composition operator in Box Algebra (MBC-4.0).",
   "operator": { "name": "compose", ...'
-heading: (Sealed, canonical, version-locked)
-id: GEN20-6601
-lines: 542-545
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::mbc-40-composition-specification-machine-readable-json::sealed-canonical-version-locked::b1
-parent_heading: ✅ MBC-4.0 Composition Specification (Machine-Readable JSON)
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- Box
+- Σ
+- δ
+- Π
+- Θ
+- Φ
+- δ-geometry
+- →
+- Box Algebra
+- Polarity
+- MBC
+- Definition
+- adjacency-compatible
+- Merge
+- δ-compatibilities
+aliases:
+- Bk319mm
+tags:
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.09433962264151
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

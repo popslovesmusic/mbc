@@ -1,10 +1,25 @@
+id: GEN20-6686
+location: genesis-20/mbc-40-documentaitio-1::12-why-boxes::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 380-393
+heading: 1.2 Why “Boxes”?
 block_type: paragraph
-concepts: []
 excerpt: 'A box is the primary unit of structure in MBC-4.0. A box is not a container
   of objects; it is a semantic cell. It records how a piece of structure forms, deforms,
   or interacts with others. A box has:'
-heading: 1.2 Why “Boxes”?
-id: GEN20-6686
-lines: 380-393
-location: genesis-20/mbc-40-documentaitio-1::12-why-boxes::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- IGSOA
+- MBC
+- machine-learning
+aliases:
+- Bk724bt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

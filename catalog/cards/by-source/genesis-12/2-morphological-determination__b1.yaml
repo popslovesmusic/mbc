@@ -1,11 +1,31 @@
+id: GEN12-1906
+location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-formation-theorem::2-morphological-determination::b1
+source: genesis-12\Untitled_document.md
+lines: 2764-2776
+heading: '**2\. Morphological Determination.**'
+parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Formation Theorem ⟡**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Galaxy morphology is fixed by the dominant δ-harmonic at the basin: dom(δ∣Bi)  ⇒  morphology(Ki),\\text{dom}(\\delta|\_{B\_i})
   \\;\\Rightarrow\\; \\text{morphology}(K\_i),dom(δ∣Bi​​)⇒morphology(Ki​), ...'
-heading: '**2\. Morphological Determination.**'
-id: GEN12-1906
-lines: 2764-2776
-location: genesis-12/untitled-document::sealed-theorem-box-the-galaxy-formation-theorem::2-morphological-determination::b1
-parent_heading: '**⟡ SEALED THEOREM BOX: The Galaxy Formation Theorem ⟡**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- →
+- δ-harmonic
+- δ₉
+- δ₆
+- δ₃
+aliases:
+- Bk791gm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

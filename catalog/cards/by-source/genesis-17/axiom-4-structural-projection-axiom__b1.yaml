@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts:
-- Σ
-excerpt: 'Graph structure comes from a projection functor: S:V→BC S:V→BC'
-heading: 🔷 AXIOM 4 – Structural Projection Axiom
 id: GEN17-4780
-lines: 9310-9328
 location: genesis-17/box-calculus::axiom-4-structural-projection-axiom::b1
 source: genesis-17\box_calculus.md
+lines: 9310-9328
+heading: 🔷 AXIOM 4 – Structural Projection Axiom
+block_type: paragraph
+excerpt: 'Graph structure comes from a projection functor: S:V→BC S:V→BC'
+concepts:
+- Σ
+- →
+- Σi
+aliases:
+- Bk923gs
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

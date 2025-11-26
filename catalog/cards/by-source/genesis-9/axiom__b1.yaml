@@ -1,12 +1,31 @@
+id: GEN9-9453
+location: genesis-9/strong-force::the-correct-igsoa-axiom-box-combined::axiom-box-δ-adjacency-curvature-axiom-forces-version::axiom::b1
+source: genesis-9\strong-force.md
+lines: 227-231
+heading: '**Axiom.**'
+parent_heading: '**Axiom Box: δ-Adjacency Curvature Axiom (Forces Version)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Deviation induces curvature on adjacency. Curvature produces harmonic degeneracy
   shells in the δ-spectrum. Each degeneracy class forms a phase-cycle whose automorphism
   group defines a gauge interactio...
-heading: '**Axiom.**'
-id: GEN9-9453
-lines: 227-231
-location: genesis-9/strong-force::the-correct-igsoa-axiom-box-combined::axiom-box-δ-adjacency-curvature-axiom-forces-version::axiom::b1
-parent_heading: '**Axiom Box: δ-Adjacency Curvature Axiom (Forces Version)**'
-source: genesis-9\strong-force.md
+concepts:
+- Curvature
+- Deviation
+- phase-cycle
+- δ-spectrum
+- δ
+aliases:
+- Bk954di
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.857142857142858
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

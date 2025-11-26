@@ -1,14 +1,29 @@
+id: GEN9-9310
+location: genesis-9/does-meta-genesis-indicate-new-physics::2-the-co-arising-principle::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1500-1529
+heading: '**2\. The Co-Arising Principle**'
 block_type: paragraph
-concepts:
-- Arising Axiom
-- Asymmetry Co
-- Axiom
-- Co-Arising
 excerpt: 'The **Symmetry–Asymmetry Co-Arising Axiom** states that: * Perfect symmetry
   is unstable and induces asymmetry. * Pure asymmetry is unsustainable and induces
   symmetry.'
-heading: '**2\. The Co-Arising Principle**'
-id: GEN9-9310
-lines: 1500-1529
-location: genesis-9/does-meta-genesis-indicate-new-physics::2-the-co-arising-principle::b1
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- IGSOA
+- Axiom
+- Co-Arising
+- Arising Axiom
+- Asymmetry Co
+aliases:
+- Bk145ts
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 4.9504950495049505
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

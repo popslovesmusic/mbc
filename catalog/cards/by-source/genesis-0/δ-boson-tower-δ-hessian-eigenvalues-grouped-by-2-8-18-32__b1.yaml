@@ -1,11 +1,28 @@
+id: GEN0-151
+location: genesis-0/feynman-rules-interaction-vertices::v-connection-to-shell-degeneracies-2-8-18-32::δ-boson-tower-δ-hessian-eigenvalues-grouped-by-2-8-18-32::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 2216-2220
+heading: '**δ-Boson Tower \= (δ-Hessian eigenvalues grouped by 2, 8, 18, 32 …)**'
+parent_heading: '**V. Connection to Shell Degeneracies (2, 8, 18, 32, …)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: This is the **core connection** between δ-geometry and the observed family/flavor
   patterns. ---
-heading: '**δ-Boson Tower \= (δ-Hessian eigenvalues grouped by 2, 8, 18, 32 …)**'
-id: GEN0-151
-lines: 2216-2220
-location: genesis-0/feynman-rules-interaction-vertices::v-connection-to-shell-degeneracies-2-8-18-32::δ-boson-tower-δ-hessian-eigenvalues-grouped-by-2-8-18-32::b1
-parent_heading: '**V. Connection to Shell Degeneracies (2, 8, 18, 32, …)**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ-geometry
+- δ
+- core connection
+aliases:
+- Bk517tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

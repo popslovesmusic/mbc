@@ -1,11 +1,28 @@
+id: GEN18-5809
+location: genesis-18/sealed-axiom-box::layer-5-semantic-closure-diagram-full-collapse::cross-reference::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 2009-2014
+heading: '**Cross-Reference**'
+parent_heading: '**LAYER 5 — Semantic Closure Diagram (Full Collapse)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Semantic logic \= δ-logic. All inference collapses back to δ-primitive structure.
   ---
-heading: '**Cross-Reference**'
-id: GEN18-5809
-lines: 2009-2014
-location: genesis-18/sealed-axiom-box::layer-5-semantic-closure-diagram-full-collapse::cross-reference::b1
-parent_heading: '**LAYER 5 — Semantic Closure Diagram (Full Collapse)**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- δ
+- δ-primitive
+- δ-logic
+aliases:
+- Bk433sl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

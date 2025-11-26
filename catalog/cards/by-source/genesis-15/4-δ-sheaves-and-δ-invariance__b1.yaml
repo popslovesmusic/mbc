@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'A δ-sheaf F is an object satisfying: δ\\\*F  ≃  F.\\delta^{\\\*}F \\;\\simeq\\;
-  F.δ\\\*F≃F. These are stable under deviation.'
-heading: '**4\. δ-Sheaves and δ-Invariance**'
 id: GEN15-3476
-lines: 1547-1575
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::4-δ-sheaves-and-δ-invariance::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 1547-1575
+heading: '**4\. δ-Sheaves and δ-Invariance**'
+block_type: paragraph
+excerpt: 'A δ-sheaf F is an object satisfying: δ\\\*F  ≃  F.\\delta^{\\\*}F \\;\\simeq\\;
+  F.δ\\\*F≃F. These are stable under deviation.'
+concepts:
+- Deviation
+- δ
+- large-scale-structure
+- δ-invariant objects
+- scale-invariant
+- δ-invariant
+- δ-sheaf
+aliases:
+- Bk630so
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

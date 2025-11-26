@@ -1,10 +1,25 @@
+id: GEN17-4447
+location: genesis-17/box-calculus::::mathematical-polarity-formal-proof::step-2-expand-each-maps-definition::b1
+source: genesis-17\box_calculus.md
+lines: 4636-4662
+heading: Step 2 — Expand each map’s definition
+parent_heading: Mathematical Polarity (Formal Proof)
 block_type: paragraph
+excerpt: 'From the adjointness construction: * Unit: * ηA(x)=A(x,e)'
 concepts:
 - η
-excerpt: 'From the adjointness construction: * Unit: * ηA(x)=A(x,e)'
-heading: Step 2 — Expand each map’s definition
-id: GEN17-4447
-lines: 4636-4662
-location: genesis-17/box-calculus::::mathematical-polarity-formal-proof::step-2-expand-each-maps-definition::b1
-parent_heading: Mathematical Polarity (Formal Proof)
-source: genesis-17\box_calculus.md
+aliases:
+- Bk313ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.6129032258064515
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

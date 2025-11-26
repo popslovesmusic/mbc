@@ -1,14 +1,34 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- So Box Calculus
-- δ
-- λ
-excerpt: 'Since we already showed: δ-curvature≡\! δ-curvature≡\!'
-heading: 6\. Linear Logic Enhancement (Resource Meaning)
 id: GEN17-4587
-lines: 6975-6992
 location: genesis-17/box-calculus::curryhoward-for-box-calculus::6-linear-logic-enhancement-resource-meaning::b1
-parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
 source: genesis-17\box_calculus.md
+lines: 6975-6992
+heading: 6\. Linear Logic Enhancement (Resource Meaning)
+parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
+block_type: paragraph
+excerpt: 'Since we already showed: δ-curvature≡\! δ-curvature≡\!'
+concepts:
+- Box Calculus
+- δ
+- Box
+- ↔
+- δ-curvature
+- resource-aware
+- δ-energy
+- λ
+- So Box Calculus
+aliases:
+- Bk577sa
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.9811320754717
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

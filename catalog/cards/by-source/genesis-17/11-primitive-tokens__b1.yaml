@@ -1,16 +1,35 @@
+id: GEN17-4803
+location: genesis-17/box-calculus::monistic-box-calculus-formal-syntax-grammar-v10::1-lexical-alphabet-tokens::11-primitive-tokens::b1
+source: genesis-17\box_calculus.md
+lines: 9561-9585
+heading: 1.1 Primitive Tokens
+parent_heading: 1\. Lexical Alphabet (Tokens)
 block_type: table
-concepts:
-- Box
-- Γ
-- Π
-- Σ
-- Ω
-- δ
 excerpt: 'Primitive token set: L0={Σ, δ, F, S, Γ, Ω, Box⟨⟩, Graph⟨⟩, →F\[δ\], \[ \], ×, ;}
   L'
-heading: 1.1 Primitive Tokens
-id: GEN17-4803
-lines: 9561-9585
-location: genesis-17/box-calculus::monistic-box-calculus-formal-syntax-grammar-v10::1-lexical-alphabet-tokens::11-primitive-tokens::b1
-parent_heading: 1\. Lexical Alphabet (Tokens)
-source: genesis-17\box_calculus.md
+concepts:
+- Box
+- δ
+- Projection
+- Curvature
+- IGSOA
+- Ω
+- Σ
+- Γ
+- →
+- δ-profiles
+- δ-schedule
+- non-zero
+- Π
+aliases:
+- Bk533im
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.655737704918032
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

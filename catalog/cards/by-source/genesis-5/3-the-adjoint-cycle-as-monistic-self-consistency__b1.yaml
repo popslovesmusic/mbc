@@ -1,11 +1,25 @@
+id: GEN5-7987
+location: genesis-5/formal-proof-of-the-adjoint-triple::3-the-adjoint-cycle-as-monistic-self-consistency::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 770-779
+heading: '**3\. The Adjoint Cycle as Monistic Self-Consistency**'
 block_type: paragraph
-concepts:
-- σ
 excerpt: The adjoint triple MG→LMM→UσTop→RMGMG \\xrightarrow{L} MM \\xrightarrow{U}
   \\sigma Top \\xrightarrow{R} MGMGL​MMU​σTopR​MG is not merely categorical notation
   —
-heading: '**3\. The Adjoint Cycle as Monistic Self-Consistency**'
-id: GEN5-7987
-lines: 770-779
-location: genesis-5/formal-proof-of-the-adjoint-triple::3-the-adjoint-cycle-as-monistic-self-consistency::b1
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- →
+- σ
+- mathematical fossil of monism
+aliases:
+- Bk424ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

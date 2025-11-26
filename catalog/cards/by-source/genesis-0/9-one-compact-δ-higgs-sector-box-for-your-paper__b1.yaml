@@ -1,13 +1,40 @@
+id: GEN0-034
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::9-one-compact-δ-higgs-sector-box-for-your-paper::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 431-447
+heading: '**9\. One compact “δ-Higgs sector” box (for your paper)**'
+parent_heading: '**The δ-Higgs / Flavor-Mass Sector**'
 block_type: paragraph
-concepts:
-- immediately
-- Ψ
-- δ
 excerpt: 'You can paste this as the official sector definition: LδH=12(∂δ)2−V(δ)+∑i,j,myij(m)ΨˉiΨjδ(m)δ(0)=vδ+δ^(0)(MΨ)ij=vδ∑myij(m)=vδy0∑mfmEij\\boxed{
   \\begin{aligned} \\mathcal L\_{\\delta H} &= \\frac12(\\p...'
-heading: '**9\. One compact “δ-Higgs sector” box (for your paper)**'
-id: GEN0-034
-lines: 431-447
-location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::9-one-compact-δ-higgs-sector-box-for-your-paper::b1
-parent_heading: '**The δ-Higgs / Flavor-Mass Sector**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- Ψ
+- ∑
+- Definition
+- Theorem
+- ∂
+- Derive the family mass ratios
+- δ-Higgs
+- →
+- Ψj
+- δH
+- immediately
+- δy
+- Ψ₀
+- Ψ₁
+aliases:
+- Bk486yc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.281553398058252
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

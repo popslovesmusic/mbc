@@ -1,11 +1,27 @@
+id: GEN17-4659
+location: genesis-17/box-calculus::7-next-step-your-choice::a-𝓕-as-a-curvature-flow-ricci-like::b1
+source: genesis-17\box_calculus.md
+lines: 7828-7834
+heading: A. 𝓕 as a curvature flow (Ricci-like)
+parent_heading: ⭐ 7\. NEXT STEP (your choice)
 block_type: paragraph
+excerpt: dΣdt=− δ(Σ) dt dΣ
 concepts:
 - Σ
 - δ
-excerpt: dΣdt=− δ(Σ) dt dΣ
-heading: A. 𝓕 as a curvature flow (Ricci-like)
-id: GEN17-4659
-lines: 7828-7834
-location: genesis-17/box-calculus::7-next-step-your-choice::a-𝓕-as-a-curvature-flow-ricci-like::b1
-parent_heading: ⭐ 7\. NEXT STEP (your choice)
-source: genesis-17\box_calculus.md
+- Σdt
+aliases:
+- Bk126bb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 42.857142857142854
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

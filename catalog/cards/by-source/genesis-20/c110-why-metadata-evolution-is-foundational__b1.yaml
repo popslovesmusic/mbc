@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Corrective Semantics
-- Error Signals
-excerpt: 'Everything advanced depends on metadata: * router dynamics (B4) * dynamic
-  network growth & pruning'
-heading: C1.10 Why Metadata Evolution is Foundational
 id: GEN20-7269
-lines: 8258-8285
 location: genesis-20/mbc-40-documentaitio-1::c110-why-metadata-evolution-is-foundational::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 8258-8285
+heading: C1.10 Why Metadata Evolution is Foundational
+block_type: paragraph
+excerpt: 'Everything advanced depends on metadata: * router dynamics (B4) * dynamic
+  network growth & pruning'
+concepts:
+- MBC
+- multi-input
+- Corrective Semantics
+- Error Signals
+aliases:
+- Bk463ea
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.797101449275362
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

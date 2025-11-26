@@ -1,14 +1,32 @@
+id: GEN13-2632
+location: genesis-13/what-biology-is-in-meta-genesis::5-selection-as-π-weighted-replicator-flow::definition-51-selection-operator::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2486-2494
+heading: '**Definition 5.1 (Selection Operator).**'
+parent_heading: '**5\. Selection as Π-Weighted Replicator Flow**'
 block_type: paragraph
-concepts:
-- Π
-- δ
-- μ
 excerpt: 'Define: SΠ(μt)(X)=f(X) μt(X)∫f(Y) μt(Y) dY.\\mathcal{S}\_\\Pi(\\mu\_t)(X)=
   \\frac{\\mathfrak{f}(X)\\,\\mu\_t(X)} {\\int \\mathfrak{f}(Y)\\,\\mu\_t(Y)\\,dY}.SΠ​(μt​)(X)=∫f(Y)μt​(Y)dYf(X)μt​(X)​.
   This i...'
-heading: '**Definition 5.1 (Selection Operator).**'
-id: GEN13-2632
-lines: 2486-2494
-location: genesis-13/what-biology-is-in-meta-genesis::5-selection-as-π-weighted-replicator-flow::definition-51-selection-operator::b1
-parent_heading: '**5\. Selection as Π-Weighted Replicator Flow**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- μ
+- Π
+- ∫
+- Π-weighted
+- δ-fitness
+- δ
+aliases:
+- Bk024dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

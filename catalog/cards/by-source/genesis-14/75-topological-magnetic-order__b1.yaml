@@ -1,13 +1,31 @@
+id: GEN14-3051
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-chapter-outline::7-types-of-magnetic-phases-in-δ-geometry::75-topological-magnetic-order::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1894-1902
+heading: '**7.5 Topological Magnetic Order**'
+parent_heading: '**7\. Types of Magnetic Phases in δ-Geometry**'
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '* δ-fractal defects (vortices/twists) * Φ-stable orientation loops * Π-protected
   winding number'
-heading: '**7.5 Topological Magnetic Order**'
-id: GEN14-3051
-lines: 1894-1902
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iii-full-chapter-outline::7-types-of-magnetic-phases-in-δ-geometry::75-topological-magnetic-order::b1
-parent_heading: '**7\. Types of Magnetic Phases in δ-Geometry**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Π-protected
+- δ-fractal
+- Φ-stable
+- Π
+- δ
+- Φ
+aliases:
+- Bk572fd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 46.15384615384615
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

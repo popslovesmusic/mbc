@@ -1,15 +1,32 @@
+id: GEN12-1674
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::6-predictions::60-overview::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2230-2249
+heading: '**6.0 Overview**'
+parent_heading: '**6\. Predictions**'
 block_type: paragraph
-concepts:
-- Cosmic Pipeline
-- must
-- Π
-- Φ
-- δ
 excerpt: 'Sections 1–5 established the full IGSOA Cosmic Pipeline: NOT  ⇒  δ  ⇒  Φ  ⇒  Π  ⇒  Observables  ⇒  Functoriality.\\text{NOT}
   \\;\\Rightarrow\\; \\delta \\;\\Rightarrow\\; \\Phi \\;\\Rightarrow\\; \\Pi...'
-heading: '**6.0 Overview**'
-id: GEN12-1674
-lines: 2230-2249
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::6-predictions::60-overview::b1
-parent_heading: '**6\. Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- Π-projection
+- δ-curvature
+- Φ-ladder
+- empirical consequences
+- Cosmic Pipeline
+- must
+aliases:
+- Bk492se
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.987012987012985
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

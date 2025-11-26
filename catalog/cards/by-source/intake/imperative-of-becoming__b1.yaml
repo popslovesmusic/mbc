@@ -1,16 +1,33 @@
+id: INTK-10728
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::imperative-of-becoming::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1885-1886
+heading: Imperative of Becoming
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Causal History
-- Echo Operator
-- Operator
-- Read More
-- The Imperative
 excerpt: The Imperative of Becoming is a principle that describes the perpetual, self-driven
   nature of evolution within the IGSOA framework. It is the necessary consequence
   of the interplay between actualizati...
-heading: Imperative of Becoming
-id: INTK-10728
-lines: 1885-1886
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::imperative-of-becoming::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- Operator
+- self-driven
+- Causal History
+- The Imperative
+- Echo Operator
+- Read More
+aliases:
+- Bk580ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

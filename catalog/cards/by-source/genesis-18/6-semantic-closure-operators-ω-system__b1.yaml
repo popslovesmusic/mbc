@@ -1,16 +1,38 @@
+id: GEN18-5360
+location: genesis-18/mbc-4::mbc-40-semantic-operator-table::6-semantic-closure-operators-ω-system::b1
+source: genesis-18\MBC-4.md
+lines: 102-117
+heading: '**6\. Semantic Closure Operators (Ω-System)**'
+parent_heading: '**MBC-4.0 Semantic Operator Table**'
 block_type: table
-concepts:
-- Box
-- Operator
-- Supreme Closure Box
-- Supreme Closure Theorem
-- Theorem
-- Ω
 excerpt: These enforce the **Supreme Closure Theorem** you requested earlier. **Cross-reference:**
   These implement the “Supreme Closure Box.”
-heading: '**6\. Semantic Closure Operators (Ω-System)**'
-id: GEN18-5360
-lines: 102-117
-location: genesis-18/mbc-4::mbc-40-semantic-operator-table::6-semantic-closure-operators-ω-system::b1
-parent_heading: '**MBC-4.0 Semantic Operator Table**'
-source: genesis-18\MBC-4.md
+concepts:
+- Ω
+- Theorem
+- Operator
+- Box
+- Cross-reference
+- Ω-Conserve
+- Ω-Canonize
+- Ω-Operator
+- Ω-Inherit
+- Supreme Closure Theorem
+- Ω-Seal
+- Ω-Fix
+- Supreme Closure Box
+aliases:
+- Bk644te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.311475409836063
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,40 @@
+id: INTK-10908
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::summary::b2
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 4087-4089
+heading: Summary
+parent_heading: Meta-Time Cone
 block_type: paragraph
-concepts:
-- Meta-Time
-- Time Cone
-- Time Metric
-- δ
-- τ
 excerpt: Meta-Time Cone replaces light cone as true domain of causal accessibility,
   with light cone appearing only after projection from Meta-Time to spacetime; causality
   governed by δ-compatibility not speed ...
-heading: Summary
-id: INTK-10908
-lines: 4087-4089
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::summary::b2
-parent_heading: Meta-Time Cone
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- δ
+- resolution-dependent
+- Meta-Time-proximate
+- spacelike-separated
+- τ
+- δ-flow
+- Δ
+- scale-dependent
+- δ-compatibility
+- low-resolution
+- super-luminal
+- scale-warped
+- Time Metric
+- Time Cone
+aliases:
+- Bk451mt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.444444444444445
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

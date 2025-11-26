@@ -1,16 +1,33 @@
+id: GEN1-539
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::5-projection-to-emergent-physics::axiom-51-projection-functor-π::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 491-508
+heading: '**Axiom 5.1 — Projection Functor Π.**'
+parent_heading: '**5\. Projection to Emergent Physics**'
 block_type: paragraph
-concepts:
-- Meta-Geometry
-- shadow
-- Π
-- δ
-- μ
-- ν
 excerpt: 'There exists a functor: Π:Meta-Geometry⟶GR\\Pi: \\text{Meta-Geometry} \\longrightarrow
   \\text{GR}Π:Meta-Geometry⟶GR such that:'
-heading: '**Axiom 5.1 — Projection Functor Π.**'
-id: GEN1-539
-lines: 491-508
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::5-projection-to-emergent-physics::axiom-51-projection-functor-π::b1
-parent_heading: '**5\. Projection to Emergent Physics**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Π
+- δ-geometry
+- μ
+- ν
+- Meta-Geometry
+- π
+- ∇
+- δ-Einstein
+- not fundamental
+- shadow
+aliases:
+- Bk243te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.956521739130435
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

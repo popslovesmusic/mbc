@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We now build the **natural transformations**:'
-heading: '**✦ Part 2 — Natural Transformations Between Them**'
 id: GEN4-7736
-lines: 363-365
 location: genesis-4/the-adjoint-triple::part-2-natural-transformations-between-them::b1
 source: genesis-4\The_Adjoint_Triple.md
+lines: 363-365
+heading: '**✦ Part 2 — Natural Transformations Between Them**'
+block_type: paragraph
+excerpt: 'We now build the **natural transformations**:'
+concepts:
+- natural transformations
+aliases:
+- Bk649nb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,31 @@
+id: GEN14-2713
+location: genesis-14/inflation-structure-formation::proof::1-δ-harmonic-decomposition::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 973-989
+heading: '**1\. δ-Harmonic Decomposition**'
+parent_heading: '**Proof**'
 block_type: paragraph
+excerpt: 'δ acts on adjacency objects with a complete orthonormal δ-harmonic basis
+  {hn}n∈N\\{h\_n\\}\_{n\\in\\mathbb{N}}{hn​}n∈N​ satisfying the spectral decomposition:'
 concepts:
 - δ
 - λ
-excerpt: 'δ acts on adjacency objects with a complete orthonormal δ-harmonic basis
-  {hn}n∈N\\{h\_n\\}\_{n\\in\\mathbb{N}}{hn​}n∈N​ satisfying the spectral decomposition:'
-heading: '**1\. δ-Harmonic Decomposition**'
-id: GEN14-2713
-lines: 973-989
-location: genesis-14/inflation-structure-formation::proof::1-δ-harmonic-decomposition::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+- δ-harmonic
+- ∑
+- ∈
+- primitive seeds
+aliases:
+- Bk143aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

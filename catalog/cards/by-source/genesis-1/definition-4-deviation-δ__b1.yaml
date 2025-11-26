@@ -1,12 +1,29 @@
+id: GEN1-484
+location: genesis-1/the-foundation-layer::i-preliminaries-definitions::definition-4-deviation-δ::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1010-1024
+heading: '**Definition 4 (Deviation δ).**'
+parent_heading: '**I. Preliminaries & Definitions**'
 block_type: paragraph
+excerpt: 'δ is the primitive operator satisfying: * δ is the only operator compatible
+  with Ψ₀ * δ introduces distinction'
 concepts:
 - Ψ
 - δ
-excerpt: 'δ is the primitive operator satisfying: * δ is the only operator compatible
-  with Ψ₀ * δ introduces distinction'
-heading: '**Definition 4 (Deviation δ).**'
-id: GEN1-484
-lines: 1010-1024
-location: genesis-1/the-foundation-layer::i-preliminaries-definitions::definition-4-deviation-δ::b1
-parent_heading: '**I. Preliminaries & Definitions**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+- Ψ₀
+- ≠
+aliases:
+- Bk574tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

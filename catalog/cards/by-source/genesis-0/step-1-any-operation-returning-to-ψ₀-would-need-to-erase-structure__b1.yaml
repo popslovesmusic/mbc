@@ -1,16 +1,31 @@
+id: GEN0-197
+location: genesis-0/tri-unity-theorem-equivalence-of::proof::step-1-any-operation-returning-to-ψ₀-would-need-to-erase-structure::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 607-629
+heading: '**Step 1 — Any operation returning to Ψ₀ would need to erase structure**'
+parent_heading: '**Proof**'
 block_type: paragraph
+excerpt: 'To map Ψ1\\Psi\_1Ψ1​ back to Ψ0\\Psi\_0Ψ0​, an operator O\\mathcal{O}O would
+  need to: * erase adjacency * erase degrees of freedom'
 concepts:
 - Axiom
+- Deviation
+- Ψ
+- structure-destruction
+- pre-deviation
+- δ
 - Deviational Axiom
 - Genesis Axiom
 - invalid
-- Ψ
-- δ
-excerpt: 'To map Ψ1\\Psi\_1Ψ1​ back to Ψ0\\Psi\_0Ψ0​, an operator O\\mathcal{O}O would
-  need to: * erase adjacency * erase degrees of freedom'
-heading: '**Step 1 — Any operation returning to Ψ₀ would need to erase structure**'
-id: GEN0-197
-lines: 607-629
-location: genesis-0/tri-unity-theorem-equivalence-of::proof::step-1-any-operation-returning-to-ψ₀-would-need-to-erase-structure::b1
-parent_heading: '**Proof**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+aliases:
+- Bk802mp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

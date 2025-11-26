@@ -1,20 +1,37 @@
+id: GEN10-982
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-viii-meta-time-cosmology-and-new-physics::81-meta-time-and-temporal-projection::b1
+source: genesis-10\research_overview.md
+lines: 270-275
+heading: '**8.1 Meta-Time and Temporal Projection**'
+parent_heading: '**Part VIII: Meta-Time, Cosmology, and New Physics**'
 block_type: paragraph
-concepts:
-- Emergent Metric Theorem
-- First Action
-- Meta-Genesis
-- Meta-Time
-- Physical Time
-- Spectral Triple
-- Temporal Projection
-- The Arrow
-- Theorem
 excerpt: Time in Meta-Genesis is dual. There is **Meta-Time** ($\\mathcal{T}$), the
   logical ordering of deviations, and **Physical Time** ($t$), the measurable coordinate
   in equations. * **Temporal Projection ...
-heading: '**8.1 Meta-Time and Temporal Projection**'
-id: GEN10-982
-lines: 270-275
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::part-viii-meta-time-cosmology-and-new-physics::81-meta-time-and-temporal-projection::b1
-parent_heading: '**Part VIII: Meta-Time, Cosmology, and New Physics**'
-source: genesis-10\research_overview.md
+concepts:
+- Meta-Time
+- Meta-Genesis
+- Projection
+- Theorem
+- light-cone
+- Emergent Metric Theorem
+- Temporal Projection
+- Spectral Triple
+- Physical Time
+- First Action
+- The Arrow
+aliases:
+- Bk478tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.359550561797752
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

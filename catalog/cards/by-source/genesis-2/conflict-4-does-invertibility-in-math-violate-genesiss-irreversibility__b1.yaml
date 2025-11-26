@@ -1,10 +1,26 @@
+id: GEN2-6271
+location: genesis-2/axioms-for-the-category-genesis::step-4-conflicts-that-cannot-arise::conflict-4-does-invertibility-in-math-violate-genesiss-irreversibility::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 770-783
+heading: '**Conflict 4: Does invertibility in Math violate Genesis’s irreversibility?**'
+parent_heading: '**🔶 Step 4 — Conflicts That Cannot Arise**'
 block_type: paragraph
-concepts: []
 excerpt: 'No. Genesis morphisms are mapped to structure-preserving maps in Math. Whether
   those maps are invertible is irrelevant to Genesis:'
-heading: '**Conflict 4: Does invertibility in Math violate Genesis’s irreversibility?**'
-id: GEN2-6271
-lines: 770-783
-location: genesis-2/axioms-for-the-category-genesis::step-4-conflicts-that-cannot-arise::conflict-4-does-invertibility-in-math-violate-genesiss-irreversibility::b1
-parent_heading: '**🔶 Step 4 — Conflicts That Cannot Arise**'
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- structure-preserving
+aliases:
+- Bk088gm
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.4390243902439024
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

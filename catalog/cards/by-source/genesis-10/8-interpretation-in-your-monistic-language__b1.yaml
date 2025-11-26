@@ -1,13 +1,35 @@
-block_type: list
-concepts:
-- The Second Law
-- Φ
-- δ
-- η
-excerpt: '* δ is asymmetry. * Φ is symmetry’s smoothing response. * The natural transformation
-  η is **symmetry’s inevitable expansion**.'
-heading: '**8\. Interpretation in Your Monistic Language**'
 id: GEN10-837
-lines: 1426-1450
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::8-interpretation-in-your-monistic-language::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1426-1450
+heading: '**8\. Interpretation in Your Monistic Language**'
+block_type: list
+excerpt: '* δ is asymmetry. * Φ is symmetry’s smoothing response. * The natural transformation
+  η is **symmetry’s inevitable expansion**.'
+concepts:
+- functors do not permit the reverse of δ
+- topos-theoretic version
+- Proof
+- δ
+- topos-theoretic
+- string-diagram
+- Lawvere hyperdoctrine version
+- the naturality of smoothing
+- η
+- Φ
+- functorial projection
+- The Second Law
+aliases:
+- Bk811as
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.793103448275861
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

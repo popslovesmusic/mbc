@@ -1,15 +1,32 @@
+id: GEN15-3383
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::6-full-pipeline-summary-one-line-version::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 174-182
+heading: '**6\. Full Pipeline Summary (One-Line Version)**'
 block_type: paragraph
-concepts:
-- Primordial Spectrum
-- Structure Web
-- Π
-- Φ
-- δ
 excerpt: δ  →  Φ    Primordial Spectrum  →  Π    CMB  ⟶  Structure Web  ⟶  Halos  ⟶  Galaxies\\boxed{
   \\delta \\;\\xrightarrow{\\;\\Phi\\;}\\; \\text{Primordial Spectrum} \\;\\xrightarrow{\\;\\Pi\\;}\\;
   \\text...
-heading: '**6\. Full Pipeline Summary (One-Line Version)**'
-id: GEN15-3383
-lines: 174-182
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::6-full-pipeline-summary-one-line-version::b1
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- →
+- Deviation
+- Primordial Spectrum
+- Structure Web
+- Π
+- δ
+- Φ
+aliases:
+- Bk462ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.864406779661017
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

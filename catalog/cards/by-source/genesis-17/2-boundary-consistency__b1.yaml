@@ -1,11 +1,28 @@
+id: GEN17-4818
+location: genesis-17/box-calculus::3-small-step-semantics-reduction-relation::side-conditions-mandatory-igsoa-constraints::2-boundary-consistency::b1
+source: genesis-17\box_calculus.md
+lines: 9773-9785
+heading: 2\. Boundary consistency
+parent_heading: ⭐ Side Conditions (Mandatory IGSOA Constraints)
 block_type: paragraph
+excerpt: (ports must still be type-compatible) Type(Σt+1(Bi))⪯Γi Type(Σ
 concepts:
 - Γ
 - Σ
-excerpt: (ports must still be type-compatible) Type(Σt+1(Bi))⪯Γi Type(Σ
-heading: 2\. Boundary consistency
-id: GEN17-4818
-lines: 9773-9785
-location: genesis-17/box-calculus::3-small-step-semantics-reduction-relation::side-conditions-mandatory-igsoa-constraints::2-boundary-consistency::b1
-parent_heading: ⭐ Side Conditions (Mandatory IGSOA Constraints)
-source: genesis-17\box_calculus.md
+- type-compatible
+- Σt
+aliases:
+- Bk571pm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.052631578947366
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

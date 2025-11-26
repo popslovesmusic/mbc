@@ -1,10 +1,25 @@
+id: GEN17-4230
+location: genesis-17/box-calculus::hς::22-dimensionality-based::b1
+source: genesis-17\box_calculus.md
+lines: 1229-1232
+heading: 2.2 Dimensionality-Based
+parent_heading: H(Σ)?
 block_type: paragraph
+excerpt: H(Σ)=rank(Σ) H(Σ)=rank(Σ)
 concepts:
 - Σ
-excerpt: H(Σ)=rank(Σ) H(Σ)=rank(Σ)
-heading: 2.2 Dimensionality-Based
-id: GEN17-4230
-lines: 1229-1232
-location: genesis-17/box-calculus::hς::22-dimensionality-based::b1
-parent_heading: H(Σ)?
-source: genesis-17\box_calculus.md
+aliases:
+- Bk314rr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

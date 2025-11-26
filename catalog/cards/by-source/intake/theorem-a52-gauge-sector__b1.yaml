@@ -1,10 +1,27 @@
+id: INTK-10640
+location: intake/volume-i-core-ontology-and-metagenesis-summary::a5-the-three-commutators-generate-three-physical-sectors::theorem-a52-gauge-sector::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1339-1347
+heading: '**Theorem A.5.2 (Gauge Sector).**'
+parent_heading: '**A.5 The Three Commutators Generate Three Physical Sectors**'
 block_type: paragraph
-concepts: []
 excerpt: '\[C,A\]≠0\[\\mathcal{C}, \\mathcal{A}\] \\neq 0\[C,A\]=0 produces a nonzero
   field strength: F=dA+A∧AF \= dA \+ A\\wedge AF=dA+A∧A'
-heading: '**Theorem A.5.2 (Gauge Sector).**'
-id: INTK-10640
-lines: 1339-1347
-location: intake/volume-i-core-ontology-and-metagenesis-summary::a5-the-three-commutators-generate-three-physical-sectors::theorem-a52-gauge-sector::b1
-parent_heading: '**A.5 The Three Commutators Generate Three Physical Sectors**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- ∧
+- ≠
+aliases:
+- Bk692mm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,27 @@
+id: GEN20-6834
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::73-where-does-polarity-come-from::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2277-2289
+heading: 7.3 Where Does Polarity Come From?
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Polarity is a derived operator but originates from: * the inherent directional
   asymmetries introduced by δ * the A (action) projection of IGSOA'
-heading: 7.3 Where Does Polarity Come From?
-id: GEN20-6834
-lines: 2277-2289
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::73-where-does-polarity-come-from::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Polarity
+- IGSOA
+- δ
+aliases:
+- Bk694pd
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.454545454545454
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

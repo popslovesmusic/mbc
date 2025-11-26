@@ -1,12 +1,29 @@
+id: GEN3-7504
+location: genesis-3/the-tri-unity-theorem::iv-why-this-equation-unifies-everything::gravity::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 376-380
+heading: '**Gravity**'
+parent_heading: '**IV. Why This Equation Unifies Everything**'
 block_type: paragraph
+excerpt: 'From the δ-sector: δRδ⟶Gμν\\delta R\_\\delta \\longrightarrow G\_{\\mu\\nu}δRδ​⟶Gμν​'
 concepts:
 - δ
-- μ
 - ν
-excerpt: 'From the δ-sector: δRδ⟶Gμν\\delta R\_\\delta \\longrightarrow G\_{\\mu\\nu}δRδ​⟶Gμν​'
-heading: '**Gravity**'
-id: GEN3-7504
-lines: 376-380
-location: genesis-3/the-tri-unity-theorem::iv-why-this-equation-unifies-everything::gravity::b1
-parent_heading: '**IV. Why This Equation Unifies Everything**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+- μ
+- δ-sector
+- δR
+aliases:
+- Bk760ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.411764705882355
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

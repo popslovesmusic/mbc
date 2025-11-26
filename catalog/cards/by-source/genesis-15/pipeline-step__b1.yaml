@@ -1,18 +1,37 @@
+id: GEN15-3377
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::3-cmb-structure-formation-linear-regime::pipeline-step::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 101-117
+heading: '**Pipeline Step**'
+parent_heading: '**3\. CMB → Structure Formation (Linear Regime)**'
 block_type: paragraph
+excerpt: 'Π(Φ(δ))⟶Linear Structure Web\\Pi(\\Phi(\\delta)) \\longrightarrow \\text{Linear
+  Structure Web}Π(Φ(δ))⟶Linear Structure Web This produces: * BAO scale imprints'
 concepts:
+- δ
 - Linear Structure Web
+- Π
+- Φ
+- BAO-modulated
 - 'Linear Structure Web
 
 
   This'
-- Π
-- Φ
-- δ
-excerpt: 'Π(Φ(δ))⟶Linear Structure Web\\Pi(\\Phi(\\delta)) \\longrightarrow \\text{Linear
-  Structure Web}Π(Φ(δ))⟶Linear Structure Web This produces: * BAO scale imprints'
-heading: '**Pipeline Step**'
-id: GEN15-3377
-lines: 101-117
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::3-cmb-structure-formation-linear-regime::pipeline-step::b1
-parent_heading: '**3\. CMB → Structure Formation (Linear Regime)**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+- proto-halos
+- δ-sourced
+- δ-lattice
+aliases:
+- Bk663ls
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

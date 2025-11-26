@@ -1,14 +1,31 @@
+id: GEN11-1211
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::core-spectral-consequences::a-scalar-power-spectrum::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1474-1478
+heading: '**(A) Scalar Power Spectrum**'
+parent_heading: '**CORE SPECTRAL CONSEQUENCES**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Ps(k)=Π ⁣\[∣TΦ(k) δk(scalar)∣2\]\\boxed{ \\mathcal{P}\_{s}(k) \= \\Pi\\\!\\left\[
   |\\mathcal{T}\_{\\Phi}(k)\\,\\delta\_{k}^{(\\text{scalar})}|^{2} \\right\] }Ps​(k)=Π\[∣TΦ​(k)δk(scalar)​∣2\]​
   where sc...
-heading: '**(A) Scalar Power Spectrum**'
-id: GEN11-1211
-lines: 1474-1478
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::core-spectral-consequences::a-scalar-power-spectrum::b1
-parent_heading: '**CORE SPECTRAL CONSEQUENCES**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- δ
+- Π
+- Φ
+- δ-curvature
+- δk
+aliases:
+- Bk572sb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

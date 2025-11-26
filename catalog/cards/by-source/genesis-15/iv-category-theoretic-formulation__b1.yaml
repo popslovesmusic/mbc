@@ -1,19 +1,44 @@
+id: GEN15-3297
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iv-category-theoretic-formulation::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 616-652
+heading: '**IV. Category-Theoretic Formulation**'
 block_type: paragraph
+excerpt: 'Define categories: * Devi\\mathsf{Devi}Devi: δ-fields * Dens\\mathsf{Dens}Dens:
+  mass densities'
 concepts:
+- Φ
+- →
+- Π
+- Πnull
+- δ
+- Theorem
+- η
+- ∪
+- ρ
+- null-geodesic
+- δ-fields
+- ↔
+- δCSOI
 - 'Null
 
 
   Let'
-- Theorem
-- Π
-- Φ
-- δ
-- η
-- ρ
-excerpt: 'Define categories: * Devi\\mathsf{Devi}Devi: δ-fields * Dens\\mathsf{Dens}Dens:
-  mass densities'
-heading: '**IV. Category-Theoretic Formulation**'
-id: GEN15-3297
-lines: 616-652
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iv-category-theoretic-formulation::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+- δCSOID
+aliases:
+- Th674dc
+tags:
+- theorem
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.615384615384617
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

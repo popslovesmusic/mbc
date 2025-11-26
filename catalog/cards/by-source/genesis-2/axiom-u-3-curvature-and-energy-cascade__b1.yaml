@@ -1,13 +1,29 @@
+id: GEN2-6471
+location: genesis-2/axioms-of-geometry-topos-compatible::v-δφ-unity-layer-structural-harmony::axiom-u-3-curvature-and-energy-cascade::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1976-1980
+heading: '**Axiom (U-3) — Curvature and Energy Cascade**'
+parent_heading: '**V. δ–Φ Unity Layer (Structural Harmony)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Rδ  →  RΦ  →  RMeta,Tδ  →  TΦ  →  TMeta.R\_\\delta \\;\\to\\; R\_\\Phi \\;\\to\\;
   R\_{\\text{Meta}}, \\qquad T\_\\delta \\;\\to\\; T\_\\Phi \\;\\to\\; T\_{\\text{Meta}}.Rδ​→RΦ​→RMeta​,Tδ​→TΦ​→TMeta​.
   ...
-heading: '**Axiom (U-3) — Curvature and Energy Cascade**'
-id: GEN2-6471
-lines: 1976-1980
-location: genesis-2/axioms-of-geometry-topos-compatible::v-δφ-unity-layer-structural-harmony::axiom-u-3-curvature-and-energy-cascade::b1
-parent_heading: '**V. δ–Φ Unity Layer (Structural Harmony)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- →
+- δ
+- Φ
+aliases:
+- Bk799rt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

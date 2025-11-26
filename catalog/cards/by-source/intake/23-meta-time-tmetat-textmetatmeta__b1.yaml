@@ -1,13 +1,28 @@
+id: INTK-9930
+location: intake/meta-genesis-diagrammatic-papers::2-primitive-objects-of-deviational-geometry::23-meta-time-tmetat-textmetatmeta::b1
+source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 566-574
+heading: '**2.3 Meta-Time TmetaT\_{\\text{meta}}Tmeta​**'
+parent_heading: '**2\. Primitive Objects of Deviational Geometry**'
 block_type: paragraph
-concepts:
-- Deviational Geometry
-- δ
 excerpt: Order of deviations, not temporal flow. Si≺Si+1iffδSi=Si+1S\_i \\prec S\_{i+1}
   \\quad \\text{iff} \\quad \\delta S\_i \= S\_{i+1}Si​≺Si+1​iffδSi​=Si+1​ This gives
   Deviational Geometry its **categorica...
-heading: '**2.3 Meta-Time TmetaT\_{\\text{meta}}Tmeta​**'
-id: INTK-9930
-lines: 566-574
-location: intake/meta-genesis-diagrammatic-papers::2-primitive-objects-of-deviational-geometry::23-meta-time-tmetat-textmetatmeta::b1
-parent_heading: '**2\. Primitive Objects of Deviational Geometry**'
-source: intake\Meta-Genesis_Diagrammatic_Papers.md
+concepts:
+- Deviational Geometry
+- Deviation
+- δ
+- categorical arrow structure
+- δSi
+aliases:
+- Bk616od
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.904761904761903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

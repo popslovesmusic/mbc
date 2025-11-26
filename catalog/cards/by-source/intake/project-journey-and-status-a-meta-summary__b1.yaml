@@ -1,10 +1,27 @@
+id: INTK-10777
+location: intake/volume-i-core-ontology-and-metagenesis-summary::project-journey-and-status-a-meta-summary::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2085-2089
+heading: 'Project Journey and Status: A Meta-Summary'
 block_type: paragraph
-concepts: []
 excerpt: This document provides a high-level summary of the metaphysical framework's
   development, from its initial intuitive metaphors to its current status and future
   roadmap. It synthesizes the project's his...
-heading: 'Project Journey and Status: A Meta-Summary'
-id: INTK-10777
-lines: 2085-2089
-location: intake/volume-i-core-ontology-and-metagenesis-summary::project-journey-and-status-a-meta-summary::b1
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- self-evaluations
+- high-level
+aliases:
+- Bk468td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.128205128205128
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

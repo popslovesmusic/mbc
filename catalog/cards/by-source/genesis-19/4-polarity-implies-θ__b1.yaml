@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: The most important one for semantic reasoning.
-heading: '**4\. Polarity IMPLIES (Θ-→)**'
 id: GEN19-5829
-lines: 150-152
 location: genesis-19/mbc-4-1::4-polarity-implies-θ::b1
 source: genesis-19\MBC-4_1.md
+lines: 150-152
+heading: '**4\. Polarity IMPLIES (Θ-→)**'
+block_type: paragraph
+excerpt: The most important one for semantic reasoning.
+aliases:
+- Bk904tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

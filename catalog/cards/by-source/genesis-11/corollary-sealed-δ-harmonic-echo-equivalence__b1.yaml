@@ -1,13 +1,38 @@
+id: GEN11-1269
+location: genesis-11/the-adjacency-wave-equation::the-gw-echo-spectrum-axiom::corollary-sealed-δ-harmonic-echo-equivalence::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 443-458
+heading: '**Corollary (sealed): δ-Harmonic → Echo Equivalence**'
+parent_heading: '**The GW Echo Spectrum Axiom**'
 block_type: paragraph
-concepts:
-- δ
-- δ-defects
-- λ
 excerpt: Δδ=λδ(1)\\boxed{ \\Delta\_\\delta \= \\lambda\_{\\delta}^{(1)} }Δδ​=λδ(1)​​
   i.e., the **fundamental echo spacing equals the first δ-harmonic eigenvalue**.
-heading: '**Corollary (sealed): δ-Harmonic → Echo Equivalence**'
-id: GEN11-1269
-lines: 443-458
-location: genesis-11/the-adjacency-wave-equation::the-gw-echo-spectrum-axiom::corollary-sealed-δ-harmonic-echo-equivalence::b1
-parent_heading: '**The GW Echo Spectrum Axiom**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ
+- fundamental echo spacing equals the first δ-harmonic eigenvalue
+- ↔
+- δ-adjacency curvature
+- δ-harmonic
+- δ-harmonic ladder
+- Δ
+- λ
+- δ-adjacency
+- δ-defects
+- QNM echo spacing
+- GW echo ladder
+- echo cavities
+aliases:
+- Bk224bd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.23255813953488
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

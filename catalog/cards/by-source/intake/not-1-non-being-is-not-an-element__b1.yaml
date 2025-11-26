@@ -1,11 +1,27 @@
+id: INTK-9740
+location: intake/meta-genesis-core-papers-foundations::the-not-axiom-fully-formal::not-1-non-being-is-not-an-element::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 18-25
+heading: '**(NOT-1) Non-Being is Not an Element.**'
+parent_heading: '**THE NOT AXIOM (Fully Formal)**'
 block_type: paragraph
-concepts: []
 excerpt: ∅∉State(U)\\varnothing \\notin State(\\mathcal{U})∅∈/State(U) There exists
   **no admissible configuration** whose content is the empty set. Absence cannot be
   instantiated.
-heading: '**(NOT-1) Non-Being is Not an Element.**'
-id: INTK-9740
-lines: 18-25
-location: intake/meta-genesis-core-papers-foundations::the-not-axiom-fully-formal::not-1-non-being-is-not-an-element::b1
-parent_heading: '**THE NOT AXIOM (Fully Formal)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- State
+- no admissible configuration
+- ∉
+- ∈
+aliases:
+- Bk719sv
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

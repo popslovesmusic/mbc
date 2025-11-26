@@ -1,12 +1,27 @@
+id: INTK-10419
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::meta-calculus-operations::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1351-1353
+heading: Meta-Calculus Operations
+parent_heading: Meta-Calculus
 block_type: paragraph
+excerpt: 'Meta-Calculus defines the precise rules for rates of change and accumulation
+  of Meta-Fields:'
 concepts:
 - Meta-Calculus
 - Meta-Fields
-excerpt: 'Meta-Calculus defines the precise rules for rates of change and accumulation
-  of Meta-Fields:'
-heading: Meta-Calculus Operations
-id: INTK-10419
-lines: 1351-1353
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::meta-calculus-operations::b1
-parent_heading: Meta-Calculus
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+aliases:
+- Bk698mc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,27 @@
+id: INTK-10304
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::physical-implications::phase-transitions::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 746-747
+heading: Phase Transitions
+parent_heading: Physical Implications
 block_type: paragraph
-concepts:
-- Meta-Scalar
 excerpt: Phase transitions in physical systems (e.g., ferromagnetism, superconductivity)
   can be understood as critical points where a Meta-Scalar (like effective temperature
   or external field strength) induces...
-heading: Phase Transitions
-id: INTK-10304
-lines: 746-747
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::physical-implications::phase-transitions::b1
-parent_heading: Physical Implications
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Scalar
+aliases:
+- Bk401pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.7777777777777777
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

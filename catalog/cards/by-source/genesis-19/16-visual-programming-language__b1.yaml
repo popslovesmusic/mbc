@@ -1,12 +1,30 @@
+id: GEN19-6024
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::vi-workflows-programming-automation::16-visual-programming-language::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 157-165
+heading: ✔ 16\. Visual Programming Language
+parent_heading: VI. WORKFLOWS, PROGRAMMING, & AUTOMATION
 block_type: paragraph
-concepts:
-- Unreal Blueprint
-- Π
 excerpt: 'You can build a Blockly / Node-RED / Unreal Blueprint-style editor: * Boxes
   \= nodes * Routers \= wires'
-heading: ✔ 16\. Visual Programming Language
-id: GEN19-6024
-lines: 157-165
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::vi-workflows-programming-automation::16-visual-programming-language::b1
-parent_heading: VI. WORKFLOWS, PROGRAMMING, & AUTOMATION
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- Polarity
+- Blueprint-style
+- Node-RED
+- Π
+- Unreal Blueprint
+aliases:
+- Bk156yc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 18.51851851851852
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,26 +1,42 @@
+id: GEN16-3732
+location: genesis-16/quantum-measurement-in-igsoa-vs::igsoa-vs-mssm-on-the-origin-of-particle-masses::dual-column-cross-referenced-δ-geometry-vs-supersymmetry::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 744-782
+heading: '***(Dual-Column, Cross-Referenced — δ-Geometry vs Supersymmetry)***'
+parent_heading: '**IGSOA vs MSSM on the Origin of Particle Masses**'
 block_type: table
-concepts:
-- Cross-Referenced
-- Emergent Symmetry
-- Harmonic Mass Ladder Theorem
-- Mass Theory
-- One-Sentence
-- Predicts No Superpartners
-- Referenced Summary
-- Sentence Contrast
-- Supersymmetric Extension
-- Theorem
-- inherits
-- unexplained
-- Π
-- Φ
-- δ
 excerpt: m∼Π(Cδ(n))m \\sim \\Pi\\big(\\mathcal{C}\_\\delta^{(n)}\\big)m∼Π(Cδ(n)​)
   Mass \= **geometric invariant**. | **1\. Origin of mass:** Mass arises from **Higgs
   VEVs and SUSY-breaking terms**.
-heading: '***(Dual-Column, Cross-Referenced — δ-Geometry vs Supersymmetry)***'
-id: GEN16-3732
-lines: 744-782
-location: genesis-16/quantum-measurement-in-igsoa-vs::igsoa-vs-mssm-on-the-origin-of-particle-masses::dual-column-cross-referenced-δ-geometry-vs-supersymmetry::b1
-parent_heading: '**IGSOA vs MSSM on the Origin of Particle Masses**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- δ
+- IGSOA
+- Φ
+- Π
+- Π-evaluation
+- δ-geometry
+- δ-harmonic
+- δ-spectrum
+- →
+- δ-curvature
+- Higgs VEVs and SUSY-breaking terms
+- Theorem
+- δ-harmonics
+- Φ-locking
+- three Φ-coherent projections
+aliases:
+- Bk022im
+tags:
+- proof
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.087628865979381
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

@@ -1,13 +1,31 @@
+id: GEN20-6656
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::unified-one-sentence-summary::b2
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 1183-1188
+heading: Unified One-Sentence Summary
 block_type: paragraph
-concepts:
-- Federated Reasoning
-- Π
-- δ
 excerpt: Federated Reasoning succeeds because Π-evaluations commute across all semantic
   transport maps, guaranteeing a unique categorical limit Π\* that represents global
   truth across decentralized δ-geometrie...
-heading: Unified One-Sentence Summary
-id: GEN20-6656
-lines: 1183-1188
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::unified-one-sentence-summary::b2
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- Π-evaluation
+- Π
+- Π-evaluations
+- δ-geometries
+- δ
+- Federated Reasoning
+aliases:
+- Bk464fr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

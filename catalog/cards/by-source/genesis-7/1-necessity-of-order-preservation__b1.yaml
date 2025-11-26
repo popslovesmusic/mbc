@@ -1,16 +1,32 @@
+id: GEN7-8491
+location: genesis-7/the-complete-eft-lagrangian::part-ii-meta-time-ordering-proof::1-necessity-of-order-preservation::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 746-762
+heading: '**1\. Necessity of order-preservation.**'
+parent_heading: '**Part II: Meta-Time Ordering Proof**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Thus Meta
-- Π
-- Φ
-- δ
 excerpt: 'If Π is not a functor, then: Π(δ∘δ)≠Π(δ)∘Π(δ),\\Pi(\\delta\\circ\\delta)
   \\neq \\Pi(\\delta)\\circ\\Pi(\\delta),Π(δ∘δ)=Π(δ)∘Π(δ), meaning the temporal ordering
   of deviation is inconsistent.'
-heading: '**1\. Necessity of order-preservation.**'
-id: GEN7-8491
-lines: 746-762
-location: genesis-7/the-complete-eft-lagrangian::part-ii-meta-time-ordering-proof::1-necessity-of-order-preservation::b1
-parent_heading: '**Part II: Meta-Time Ordering Proof**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- δ
+- Π
+- Meta-Time
+- order-preservation
+- non-associative
+- ≠
+- Φ
+- →
+- Thus Meta
+aliases:
+- Bk928nf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.0625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

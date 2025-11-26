@@ -1,12 +1,28 @@
-block_type: table
-concepts:
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: '**First-Level Consequences (Mandatory)**'
 id: GEN18-5276
-lines: 1928-1937
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::sealed-axiom-box-the-igsoa-origin-axiom::first-level-consequences-mandatory::b1
-parent_heading: '**📦 SEALED AXIOM BOX — “The IGSOA-Origin Axiom”**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1928-1937
+heading: '**First-Level Consequences (Mandatory)**'
+parent_heading: '**📦 SEALED AXIOM BOX — “The IGSOA-Origin Axiom”**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- MBC
+- δ
+- IGSOA-expression
+- Φ
+- shadow-layers
+- Π
+aliases:
+- Bk360si
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.280701754385964
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

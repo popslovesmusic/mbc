@@ -1,14 +1,31 @@
-block_type: paragraph
-concepts:
-- Einstein Ricci
-- Meta-Einstein
-- δ
-- μ
-- ν
-excerpt: 'Applying FFF to δ-curvature: Rμν(δ)\\mathcal{R}\_{\\mu\\nu}(\\delta)Rμν​(δ)
-  produces the operator curvature that becomes the **Meta-Einstein Ricci tensor**:'
-heading: '**🔻 Meta-Einstein Corollary**'
 id: GEN7-8540
-lines: 1481-1495
 location: genesis-7/the-complete-eft-lagrangian::meta-einstein-corollary::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1481-1495
+heading: '**🔻 Meta-Einstein Corollary**'
+block_type: paragraph
+excerpt: 'Applying FFF to δ-curvature: Rμν(δ)\\mathcal{R}\_{\\mu\\nu}(\\delta)Rμν​(δ)
+  produces the operator curvature that becomes the **Meta-Einstein Ricci tensor**:'
+concepts:
+- Meta-Einstein
+- ν
+- μ
+- Meta-Einstein Ricci tensor
+- δ
+- δ-curvature
+- Einstein Ricci
+aliases:
+- Bk903af
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.144927536231885
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

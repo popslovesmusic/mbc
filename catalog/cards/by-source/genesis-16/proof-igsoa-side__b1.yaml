@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: '*(Cross-referenced with standard physics)* ---'
-heading: '**Proof (IGSOA Side)**'
 id: GEN16-3706
-lines: 418-422
 location: genesis-16/quantum-measurement-in-igsoa-vs::proof-igsoa-side::b1
 source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 418-422
+heading: '**Proof (IGSOA Side)**'
+block_type: paragraph
+excerpt: '*(Cross-referenced with standard physics)* ---'
+concepts:
+- Cross-referenced
+aliases:
+- Bk905cr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

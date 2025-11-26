@@ -1,15 +1,37 @@
+id: GEN0-160
+location: genesis-0/tri-unity-theorem-equivalence-of::proof-equivalence::step-0-setup-the-core-triangle::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 61-70
+heading: '**Step 0\. Setup: the core triangle**'
+parent_heading: '**Proof (equivalence)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ψ
-- δ
 excerpt: 'From A1–A3 we have a triangle of structure: Ψ0→  δ  δΨ0→  ClΦ  Φ→  Π  Phys.\\Psi\_0
   \\xrightarrow{\\;\\delta\\;} \\delta\\Psi\_0 \\xrightarrow{\\;\\mathrm{Cl}\_\\Phi\\;}
   \\Phi \\xrightarrow{\\;\\Pi\\;...'
-heading: '**Step 0\. Setup: the core triangle**'
-id: GEN0-160
-lines: 61-70
-location: genesis-0/tri-unity-theorem-equivalence-of::proof-equivalence::step-0-setup-the-core-triangle::b1
-parent_heading: '**Proof (equivalence)**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Φ
+- →
+- Deviation
+- Ψ
+- δ
+- Π
+aliases:
+- Bk001a
+tags:
+- A1
+- A3
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1
+- A3

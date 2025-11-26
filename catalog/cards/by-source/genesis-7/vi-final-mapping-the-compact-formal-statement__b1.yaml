@@ -1,16 +1,37 @@
+id: GEN7-8689
+location: genesis-7/why-curvature-gives-gravity::vi-final-mapping-the-compact-formal-statement::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 1020-1032
+heading: '**VI. Final Mapping (the compact formal statement)**'
 block_type: paragraph
-concepts:
-- Atomic Orbitals
-- Harmonic Eigenmodes
-- Spectral Triple
-- functorial
-- δ
-- λ
 excerpt: δ-Harmonic Eigenmodes of the δ-Spectral Triple⟹Atomic Orbitals (R, Y) via
   δ→GR+QFT projection\\boxed{ \\text{δ-Harmonic Eigenmodes of the δ-Spectral Triple}
   \\quad \\Longrightarrow \\quad \\text{Atomi...
-heading: '**VI. Final Mapping (the compact formal statement)**'
-id: GEN7-8689
-lines: 1020-1032
-location: genesis-7/why-curvature-gives-gravity::vi-final-mapping-the-compact-formal-statement::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- ψ
+- δ-Harmonic
+- →
+- Atomic Orbitals
+- δ-Harmonics
+- δ-Spectral
+- Harmonic Eigenmodes
+- Spectral Triple
+- Δ
+- λ
+- functorial
+aliases:
+- Bk869he
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: This section is crucial—it provides the IGSOA testable predictions. ---
-heading: '**5\. Consequences for CMB Physics**'
 id: GEN12-1734
-lines: 203-207
 location: genesis-12/untitled-document::5-consequences-for-cmb-physics::b1
 source: genesis-12\Untitled_document.md
+lines: 203-207
+heading: '**5\. Consequences for CMB Physics**'
+block_type: paragraph
+excerpt: This section is crucial—it provides the IGSOA testable predictions. ---
+concepts:
+- IGSOA
+aliases:
+- Bk761ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

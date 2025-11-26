@@ -1,11 +1,28 @@
+id: GEN16-3801
+location: genesis-16/untitled-document::3-algebraic-properties-of-the-mixing-law::31-closure::b1
+source: genesis-16\Untitled_document.md
+lines: 885-887
+heading: '**3.1 Closure**'
+parent_heading: '**3\. Algebraic Properties of the Mixing Law**'
 block_type: paragraph
-concepts:
-- Σ
 excerpt: Σ1,Σ2∈V⇒Σ1⊕Σ2∈V\\Sigma\_1,\\Sigma\_2 \\in \\mathscr{V} \\quad\\Rightarrow\\quad
   \\Sigma\_1\\oplus\\Sigma\_2 \\in \\mathscr{V}Σ1​,Σ2​∈V⇒Σ1​⊕Σ2​∈V
-heading: '**3.1 Closure**'
-id: GEN16-3801
-lines: 885-887
-location: genesis-16/untitled-document::3-algebraic-properties-of-the-mixing-law::31-closure::b1
-parent_heading: '**3\. Algebraic Properties of the Mixing Law**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- ∈
+- ⊕
+aliases:
+- Bk672ss
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

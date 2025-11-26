@@ -1,12 +1,26 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- change
-- δ
-excerpt: Before there is time, there is *change*. Before there is change, there is
-  *δ*, the first difference. But δ does not just appear once.
-heading: '**6\. Deep Intuition (Director’s Narrative)**'
 id: INTK-9898
-lines: 1819-1847
 location: intake/meta-genesis-core-papers-foundations::6-deep-intuition-directors-narrative::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1819-1847
+heading: '**6\. Deep Intuition (Director’s Narrative)**'
+block_type: paragraph
+excerpt: Before there is time, there is *change*. Before there is change, there is
+  *δ*, the first difference. But δ does not just appear once.
+concepts:
+- Meta-Time
+- δ
+- un-crack
+aliases:
+- Bk379bt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: true
+concept_density: 2.727272727272727
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

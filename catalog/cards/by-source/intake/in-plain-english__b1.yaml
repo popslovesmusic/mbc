@@ -1,11 +1,26 @@
+id: INTK-9822
+location: intake/meta-genesis-core-papers-foundations::in-plain-english::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 850-879
+heading: '**In Plain English**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: The universe exists because **perfect stillness can’t stay still.** Because
   being cannot be perfectly uniform. Because “non-being” is forbidden, and “perfect-being”
   is unstable.
-heading: '**In Plain English**'
-id: INTK-9822
-lines: 850-879
-location: intake/meta-genesis-core-papers-foundations::in-plain-english::b1
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- δ
+- perfect-being
+- public-facing
+- non-being
+aliases:
+- Bk257tu
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.508771929824561
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

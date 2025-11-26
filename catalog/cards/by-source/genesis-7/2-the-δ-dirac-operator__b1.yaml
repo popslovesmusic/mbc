@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Ω
-- γ
-- δ
-- μ
-excerpt: 'The covariant derivative on spinors: ∇μ(δ)=∂μ+Ωμ(δ).\\nabla\_\\mu^{(\\delta)}
-  \= \\partial\_\\mu \+ \\Omega\_\\mu^{(\\delta)}.∇μ(δ)​=∂μ​+Ωμ(δ)​. Thus:'
-heading: '**2\. The δ-Dirac Operator**'
 id: GEN7-8594
-lines: 644-660
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::2-the-δ-dirac-operator::b1
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 644-660
+heading: '**2\. The δ-Dirac Operator**'
+block_type: paragraph
+excerpt: 'The covariant derivative on spinors: ∇μ(δ)=∂μ+Ωμ(δ).\\nabla\_\\mu^{(\\delta)}
+  \= \\partial\_\\mu \+ \\Omega\_\\mu^{(\\delta)}.∇μ(δ)​=∂μ​+Ωμ(δ)​. Thus:'
+concepts:
+- μ
+- δ
+- δ-geometry
+- geometric Dirac operator of δ-geometry
+- Ω
+- γ
+- ∇
+- ∂
+- δ-spectral
+aliases:
+- Bk551tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.91089108910891
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,36 @@
+id: GEN12-1760
+location: genesis-12/untitled-document::9-boson-sector::92-δ-boson-tower::b1
+source: genesis-12\Untitled_document.md
+lines: 610-626
+heading: '**9.2 δ-Boson Tower**'
+parent_heading: '**9\. Boson Sector**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'The heavy δ-boson sector arises from the quadratic-dominant region of the
   Hessian where Φ produces **stable curvature excitations**, including: * δ0 (ground
   deviation mode) * δ± (charged curvature exc...'
-heading: '**9.2 δ-Boson Tower**'
-id: GEN12-1760
-lines: 610-626
-location: genesis-12/untitled-document::9-boson-sector::92-δ-boson-tower::b1
-parent_heading: '**9\. Boson Sector**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- Φ
+- gravitational-coupled
+- quadratic-dominant
+- stable curvature excitations
+- meta-boson
+- nonlinear eigenbranches
+- δ-boson
+- χ
+- δG
+aliases:
+- Bk450th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.51851851851852
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

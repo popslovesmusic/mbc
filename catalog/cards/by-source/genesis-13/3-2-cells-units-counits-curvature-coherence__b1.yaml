@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'The bicategory carries:'
-heading: '**3\. 2-Cells: Units, Counits, Curvature, Coherence**'
 id: GEN13-2429
-lines: 2272-2274
 location: genesis-13/the-weight-of-light::3-2-cells-units-counits-curvature-coherence::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 2272-2274
+heading: '**3\. 2-Cells: Units, Counits, Curvature, Coherence**'
+block_type: paragraph
+excerpt: 'The bicategory carries:'
+aliases:
+- Bk418tb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,20 +1,38 @@
-block_type: paragraph
-concepts:
-- Galaxy Evolution
-- Galaxy Formation
-- Linear Curvature Growth
-- Matter Projection
-- Mode
-- Mode Compression
-- Mode Drift
-- Nonlinear Collapse
-- Time Evolution
-- Π
-- Φ
-- δ
-excerpt: '*(Most compact version)* `Genesis-0 Deviation` `│`'
-heading: '**1\. Linear Arrow Stack**'
 id: GEN12-1941
-lines: 3233-3266
 location: genesis-12/untitled-document::1-linear-arrow-stack::b1
 source: genesis-12\Untitled_document.md
+lines: 3233-3266
+heading: '**1\. Linear Arrow Stack**'
+block_type: paragraph
+excerpt: '*(Most compact version)* `Genesis-0 Deviation` `│`'
+concepts:
+- Projection
+- Curvature
+- Deviation
+- Mode
+- δ
+- Φ
+- adjacency-curvature
+- Π
+- Linear Curvature Growth
+- δ-Mode
+- δ-Web
+- Nonlinear Collapse
+- Matter Projection
+- Mode Compression
+- Galaxy Evolution
+aliases:
+- Bk995mc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 41.66666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

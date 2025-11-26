@@ -1,21 +1,40 @@
+id: GEN3-7521
+location: genesis-3/the-tri-unity-theorem::final-box-summary::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 600-616
+heading: '**FINAL BOX SUMMARY**'
 block_type: paragraph
-concepts:
-- Axiom
-- Lemma
-- The Tri
-- Theorem
-- Tri-Unity
-- Unity Axiom
-- Unity Diagram Stack
-- Unity Reconstruction Lemma
-- Unity Theorem
-- Φ
-- δ
 excerpt: 'Tri-Unity Axiom: (δ,Φ,π) is the unique minimal closed triple generating(i)
   deviation/curvature, (ii) structure/pattern, (iii) realization/physics.\\boxed{
   \\textbf{Tri-Unity Axiom:}\\ (\\delta,\\Phi,\...'
-heading: '**FINAL BOX SUMMARY**'
-id: GEN3-7521
-lines: 600-616
-location: genesis-3/the-tri-unity-theorem::final-box-summary::b1
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Tri-Unity
+- A fully formal topos-theoretic Tri-Unity Reconstruction Lemma
+- Axiom
+- Theorem
+- Lemma
+- A physical-intuition version
+- The Tri-Unity Theorem
+- physical-intuition
+- π
+- δ
+- Unity Axiom
+- Φ
+- topos-theoretic
+- Unity Reconstruction Lemma
+- Unity Diagram Stack
+aliases:
+- Bk084tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.166666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

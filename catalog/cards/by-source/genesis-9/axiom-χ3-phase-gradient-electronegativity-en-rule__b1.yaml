@@ -1,12 +1,32 @@
+id: GEN9-9200
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-χ-valence-electronegativity-law::axiom-χ3-phase-gradient-electronegativity-en-rule::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2625-2649
+heading: '**Axiom χ3 — Phase Gradient → Electronegativity (EN Rule)**'
+parent_heading: '**The χ ↔ Valence ↔ Electronegativity Law**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Electronegativity is governed by the **χ-phase gradient** across a shell:
   EN=g ⁣(∂χ∂Z)\\mathrm{EN} \= g\\\!\\left(\\frac{\\partial \\chi}{\\partial Z}\\right)EN=g(∂Z∂χ​)
   The rule:'
-heading: '**Axiom χ3 — Phase Gradient → Electronegativity (EN Rule)**'
-id: GEN9-9200
-lines: 2625-2649
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::the-χ-valence-electronegativity-law::axiom-χ3-phase-gradient-electronegativity-en-rule::b1
-parent_heading: '**The χ ↔ Valence ↔ Electronegativity Law**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- χ
+- →
+- ∂
+- δ
+- δ-soft
+- δ-pull
+aliases:
+- Bk375eg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

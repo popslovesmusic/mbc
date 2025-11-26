@@ -1,14 +1,33 @@
+id: GEN12-1631
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::4-π-observables::47-π-projected-φ-modes-observational-anomalies::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1602-1622
+heading: '**4.7 Π-Projected Φ-Modes → Observational Anomalies**'
+parent_heading: '**4\. Π → Observables**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Because Φ has a discrete, ordered structure, Π-projected observables inherit:
   * preferred directions (from mode degeneracies), * cold spot signatures (from mode
   isolation),'
-heading: '**4.7 Π-Projected Φ-Modes → Observational Anomalies**'
-id: GEN12-1631
-lines: 1602-1622
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::4-π-observables::47-π-projected-φ-modes-observational-anomalies::b1
-parent_heading: '**4\. Π → Observables**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- Π-images of known Φ-structures
+- adjacency-originated
+- Π
+- Φ
+- Φ-structures
+- δ-curvature
+- Π-projected
+- Π-images
+- δ
+aliases:
+- Bk746bh
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

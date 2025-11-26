@@ -1,8 +1,21 @@
-block_type: paragraph
-concepts: []
-excerpt: THE NOT AXIOM\*\* ---
-heading: '**\*\*⟡ HERMETIC AXIOM BOX 01 ⟡**'
 id: GEN3-7296
-lines: 391-395
 location: genesis-3/metagenesis::hermetic-axiom-box-01::b1
 source: genesis-3\metagenesis.md
+lines: 391-395
+heading: '**\*\*⟡ HERMETIC AXIOM BOX 01 ⟡**'
+block_type: paragraph
+excerpt: THE NOT AXIOM\*\* ---
+concepts:
+- Axiom
+aliases:
+- Bk750tn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

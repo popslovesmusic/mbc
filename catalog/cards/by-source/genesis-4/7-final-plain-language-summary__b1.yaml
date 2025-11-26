@@ -1,14 +1,35 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Meta-Causality
-- Physical Causality
-- Ψ
-- δ
-excerpt: 'You can think of it like this: * The universe starts with no structure (Ψ₀).
-  * It cannot remain perfectly still (NOT Axiom).'
-heading: '**7\. Final Plain-Language Summary**'
 id: GEN4-7668
-lines: 1041-1080
 location: genesis-4/meta-physics-axiom-box::7-final-plain-language-summary::b1
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1041-1080
+heading: '**7\. Final Plain-Language Summary**'
+block_type: paragraph
+excerpt: 'You can think of it like this: * The universe starts with no structure (Ψ₀).
+  * It cannot remain perfectly still (NOT Axiom).'
+concepts:
+- Meta-Causality
+- Axiom
+- δ
+- δ-reachability
+- Physical Causality
+- →
+- direction-free
+- light-cone
+- scale-free
+- one-page
+- Ψ
+- Ψ₀
+aliases:
+- Bk790yc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.70391061452514
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

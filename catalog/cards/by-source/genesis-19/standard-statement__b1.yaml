@@ -1,13 +1,29 @@
+id: GEN19-5877
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iv-the-polarity-router-law-core-of-the-θ-system::standard-statement::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 88-96
+heading: '**Standard Statement**'
+parent_heading: '**IV. The Polarity Router Law (core of the Θ-system)**'
 block_type: paragraph
-concepts:
-- Σ
-- σ
 excerpt: 'A polarity router computes the sign of a weighted sum: **σ \= sign( Σ wᵢ
   xᵢ )** equivalent to a perceptron-like classifier, but operating on semantic curvature
   rather than numeric features.'
-heading: '**Standard Statement**'
-id: GEN19-5877
-lines: 88-96
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iv-the-polarity-router-law-core-of-the-θ-system::standard-statement::b1
-parent_heading: '**IV. The Polarity Router Law (core of the Θ-system)**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- perceptron-like
+- Σ
+- σ
+aliases:
+- Bk440pr
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,14 +1,29 @@
+id: GEN16-3914
+location: genesis-16/untitled-document::3-expansion-direction-iii-dynamic-systems-field-theory::33-field-extension::b1
+source: genesis-16\Untitled_document.md
+lines: 2302-2314
+heading: '**3.3. Field Extension**'
+parent_heading: '**3\. Expansion Direction III: Dynamic Systems & Field Theory**'
 block_type: paragraph
-concepts:
-- Box
-- Field
-- The Box Field Theory
-- Σ
 excerpt: 'Define a semantic field: Σ(x,t)\\Sigma(x,t)Σ(x,t) distributed over a topology
   — semantic physics.'
-heading: '**3.3. Field Extension**'
-id: GEN16-3914
-lines: 2302-2314
-location: genesis-16/untitled-document::3-expansion-direction-iii-dynamic-systems-field-theory::33-field-extension::b1
-parent_heading: '**3\. Expansion Direction III: Dynamic Systems & Field Theory**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Field
+- Box
+- Σ
+- The Box Field Theory
+aliases:
+- Bk415ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

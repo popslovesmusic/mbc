@@ -1,13 +1,29 @@
+id: GEN13-2364
+location: genesis-13/the-weight-of-light::2-lemmas::lemma-l3-π-is-the-universal-right-kan-lifting-of-φ::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1475-1483
+heading: '**Lemma L3 — Π is the Universal Right Kan Lifting of Φ**'
+parent_heading: '**2\. Lemmas**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: Π is the canonical way to represent Φ-dynamics as geometry. Π=RanΦ(id)\\Pi
   \= \\mathsf{Ran}\_\\Phi(\\mathrm{id})Π=RanΦ​(id) Thus Π is the *best possible* way
   to turn dynamics into geometry.
-heading: '**Lemma L3 — Π is the Universal Right Kan Lifting of Φ**'
-id: GEN13-2364
-lines: 1475-1483
-location: genesis-13/the-weight-of-light::2-lemmas::lemma-l3-π-is-the-universal-right-kan-lifting-of-φ::b1
-parent_heading: '**2\. Lemmas**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- Π
+- Φ
+- Φ-dynamics
+aliases:
+- Bk449tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

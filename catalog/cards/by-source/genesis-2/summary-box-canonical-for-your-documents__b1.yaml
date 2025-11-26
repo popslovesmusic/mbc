@@ -1,18 +1,39 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Meta-Math
-- Meta-Physics
-- The Meta
-- Φ
-- Ψ
-- δ
-excerpt: '**Meta-Math \= the layer of Φ-action.** **Every mathematical structure is
-  a Φ-flow, Φ-fixed point, or Φ-curvature.** The Φ-aligned axioms give:'
-heading: '**Summary Box (canonical for your documents)**'
 id: GEN2-6341
-lines: 609-643
 location: genesis-2/axioms-of-geometry-topos-compatible::summary-box-canonical-for-your-documents::b1
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 609-643
+heading: '**Summary Box (canonical for your documents)**'
+block_type: paragraph
+excerpt: '**Meta-Math \= the layer of Φ-action.** **Every mathematical structure is
+  a Φ-flow, Φ-fixed point, or Φ-curvature.** The Φ-aligned axioms give:'
+concepts:
+- Φ
+- →
+- Meta-Math
+- δ
+- Axiom
+- Lemma
+- δ-Geometry
+- Box
+- Φ-connections
+- action-fixed
+- Meta-Physics
+- Φ-generative
+- Φ-curvature
+- topos-valid
+- Φ-aligned
+aliases:
+- Bk239mm
+tags:
+- axiom-box
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.131147540983605
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: We now define the Π-energy tower systematically. ---
-heading: '**SECTION IV.3 — Π-Energy Towers (ATP/GTP/NADH Multiplet)**'
 id: GEN13-2591
-lines: 1867-1871
 location: genesis-13/what-biology-is-in-meta-genesis::section-iv3-π-energy-towers-atpgtpnadh-multiplet::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1867-1871
+heading: '**SECTION IV.3 — Π-Energy Towers (ATP/GTP/NADH Multiplet)**'
+block_type: paragraph
+excerpt: We now define the Π-energy tower systematically. ---
+concepts:
+- Π-energy
+- Π
+aliases:
+- Bk241nd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,21 @@
-block_type: paragraph
-concepts: []
-excerpt: A, B, or C?
-heading: '**Which version do you want me to produce?**'
 id: GEN13-2055
-lines: 673-675
 location: genesis-13/meta-math-nuclear-physics::which-version-do-you-want-me-to-produce::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 673-675
+heading: '**Which version do you want me to produce?**'
+block_type: paragraph
+excerpt: A, B, or C?
+aliases:
+- Bk51239
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

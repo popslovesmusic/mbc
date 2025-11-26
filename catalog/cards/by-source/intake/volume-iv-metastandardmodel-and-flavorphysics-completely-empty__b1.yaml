@@ -1,11 +1,26 @@
+id: INTK-10938
+location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-iv-metastandardmodel-and-flavorphysics-completely-empty::b1
+source: intake\Volume_Structure_Gap_Analysis.md
+lines: 239-242
+heading: '**Volume IV: MetaStandardModel and FlavorPhysics** ❌ **COMPLETELY EMPTY**'
+parent_heading: DETAILED STRUCTURE OVERVIEW
 block_type: paragraph
-concepts:
-- Standard Model
 excerpt: '**Status:** CRITICAL GAP - Entire volume empty **Impact:** CRITICAL - Prevents
   experimental validation and comparison with Standard Model'
-heading: '**Volume IV: MetaStandardModel and FlavorPhysics** ❌ **COMPLETELY EMPTY**'
-id: INTK-10938
-lines: 239-242
-location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::detailed-structure-overview::volume-iv-metastandardmodel-and-flavorphysics-completely-empty::b1
-parent_heading: DETAILED STRUCTURE OVERVIEW
-source: intake\Volume_Structure_Gap_Analysis.md
+concepts:
+- Standard Model
+aliases:
+- Bk428sc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

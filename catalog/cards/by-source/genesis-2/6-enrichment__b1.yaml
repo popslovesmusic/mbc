@@ -1,13 +1,35 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Enrichment Over Itself
-- Meta-Einstein
-- δ
-excerpt: '**Axiom M6 — Enrichment Over Itself** Math is enriched over Math: Hom(X,Y)∈Ob(Math).\\text{Hom}(X,Y)
-  \\in \\text{Ob(Math)}.Hom(X,Y)∈Ob(Math).'
-heading: '**6\. Enrichment**'
 id: GEN2-6247
-lines: 362-383
 location: genesis-2/axioms-for-the-category-genesis::6-enrichment::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 362-383
+heading: '**6\. Enrichment**'
+block_type: paragraph
+excerpt: '**Axiom M6 — Enrichment Over Itself** Math is enriched over Math: Hom(X,Y)∈Ob(Math).\\text{Hom}(X,Y)
+  \\in \\text{Ob(Math)}.Hom(X,Y)∈Ob(Math).'
+concepts:
+- Meta-Einstein
+- Axiom
+- ∈
+- morphism-valued
+- δ-curvature
+- Enrichment Over Itself
+- δ
+- ∞
+aliases:
+- Am151ae
+tags:
+- axiom
+- -enrichment-over-itself
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.814814814814813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

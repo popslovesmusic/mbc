@@ -1,15 +1,35 @@
+id: GEN14-2787
+location: genesis-14/inflation-structure-formation::1-the-δcmb-projection-axiom-box-sealed::sealed-axiom-box-the-δcmb-projection-axiom::axiom-c₀-δcmb-projection-axiom::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 2206-2221
+heading: '**Axiom C₀ (δ→CMB Projection Axiom)**'
+parent_heading: '**📦 Sealed Axiom Box: “The δ→CMB Projection Axiom”**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- γ
-- δ
 excerpt: Let δ be the Genesis deviation operator with harmonic decomposition δ=∑nanhn.\\delta
   \= \\sum\_n a\_n h\_n.δ=n∑​an​hn​. Let Φ be the curvature-minimizing smoothing functor,
   giving the frozen Φ-modes
-heading: '**Axiom C₀ (δ→CMB Projection Axiom)**'
-id: GEN14-2787
-lines: 2206-2221
-location: genesis-14/inflation-structure-formation::1-the-δcmb-projection-axiom-box-sealed::sealed-axiom-box-the-δcmb-projection-axiom::axiom-c₀-δcmb-projection-axiom::b1
-parent_heading: '**📦 Sealed Axiom Box: “The δ→CMB Projection Axiom”**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- γ
+- ∑
+- Φ
+- Π
+- δ
+- curvature-minimizing
+- last-scattering
+- Φ-modes
+- ΠL
+aliases:
+- Bk723lt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,41 @@
+id: GEN13-2550
+location: genesis-13/what-biology-is-in-meta-genesis::section-ii1-δ-adjacency-curvature-on-π-preboundaries::definition-ii11-adjacency-field::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1248-1269
+heading: '**Definition II.1.1 (Adjacency Field).**'
+parent_heading: '**SECTION II.1 — δ-Adjacency Curvature on Π-Preboundaries**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Let A:∂M→R+A: \\partial M \\to \\mathbb{R}^+A:∂M→R+ be an adjacency density.
   The **δ-adjacency operator** is: Aδf=−∇∂M⋅(A∇∂Mf)\\mathcal{A}\_\\delta f \= \-\\nabla\_{\\partial
   M} \\cdot (A \\nabla\_{\\...'
-heading: '**Definition II.1.1 (Adjacency Field).**'
-id: GEN13-2550
-lines: 1248-1269
-location: genesis-13/what-biology-is-in-meta-genesis::section-ii1-δ-adjacency-curvature-on-π-preboundaries::definition-ii11-adjacency-field::b1
-parent_heading: '**SECTION II.1 — δ-Adjacency Curvature on Π-Preboundaries**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- ∂
+- δ
+- ∇
+- Deviation
+- IGSOA
+- non-uniform adjacency curvature
+- δ-adjacency operator
+- Deviation-induced
+- ≠
+- ∫
+- ∈
+- ∃
+- κ
+- Φ
+- →
+aliases:
+- Bk370lp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.893617021276595
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

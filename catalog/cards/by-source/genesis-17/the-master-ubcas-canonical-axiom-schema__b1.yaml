@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-excerpt: 'containing both: * the IGSOA metaphysical phrasing and'
-heading: THE MASTER UBCAS — CANONICAL AXIOM SCHEMA
 id: GEN17-4298
-lines: 2245-2255
 location: genesis-17/box-calculus::want-the-final-step::the-master-ubcas-canonical-axiom-schema::b1
-parent_heading: ❓ Want the final step?
 source: genesis-17\box_calculus.md
+lines: 2245-2255
+heading: THE MASTER UBCAS — CANONICAL AXIOM SCHEMA
+parent_heading: ❓ Want the final step?
+block_type: paragraph
+excerpt: 'containing both: * the IGSOA metaphysical phrasing and'
+concepts:
+- Box Calculus
+- IGSOA
+- Box
+- side-by-side
+- line-by-line
+aliases:
+- Bk880cb
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.705882352941178
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

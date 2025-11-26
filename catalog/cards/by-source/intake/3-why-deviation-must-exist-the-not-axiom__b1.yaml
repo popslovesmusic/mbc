@@ -1,9 +1,21 @@
-block_type: paragraph
-concepts:
-- Axiom
-excerpt: 'The core reason deviation is required is the NOT Axiom:'
-heading: '**3\. Why Deviation Must Exist: The NOT Axiom**'
 id: INTK-10126
-lines: 681-683
 location: intake/meta-genesis-physical-interpretation-papers::3-why-deviation-must-exist-the-not-axiom::b1
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 681-683
+heading: '**3\. Why Deviation Must Exist: The NOT Axiom**'
+block_type: paragraph
+excerpt: 'The core reason deviation is required is the NOT Axiom:'
+concepts:
+- Axiom
+aliases:
+- Bk645tc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

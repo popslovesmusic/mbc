@@ -1,15 +1,34 @@
+id: GEN17-4552
+location: genesis-17/box-calculus::5-the-full-embedding::proofs-box-operator-nets::b1
+source: genesis-17\box_calculus.md
+lines: 6413-6421
+heading: Proofs ↦ Box operator nets
+parent_heading: ⭐ 5\. The Full Embedding
 block_type: list
-concepts:
-- Box
-- Linear Logic
-- Thus Box Calculus
-- Π
-- δ
 excerpt: '* Each LL inference rule maps to a Box operator * Cut corresponds to merging
   edges * Cut-elimination corresponds to Π-evaluation'
-heading: Proofs ↦ Box operator nets
-id: GEN17-4552
-lines: 6413-6421
-location: genesis-17/box-calculus::5-the-full-embedding::proofs-box-operator-nets::b1
-parent_heading: ⭐ 5\. The Full Embedding
-source: genesis-17\box_calculus.md
+concepts:
+- Π-evaluation
+- Box Calculus
+- Box
+- Cut-elimination
+- δ-curvature
+- Π
+- δ
+- Thus Box Calculus
+- Linear Logic
+aliases:
+- Bk407ei
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.47058823529412
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

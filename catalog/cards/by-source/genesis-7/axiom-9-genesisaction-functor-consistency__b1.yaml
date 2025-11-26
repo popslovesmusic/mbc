@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: 'Let: * G\\mathcal{G}G: Genesis * M\\mathcal{M}M: Math/Physics'
-heading: '**Axiom 9 — Genesis–Action Functor Consistency**'
 id: GEN7-8476
-lines: 531-552
 location: genesis-7/the-complete-eft-lagrangian::the-δ-eft-axiom-box-sealed::axiom-9-genesisaction-functor-consistency::b1
-parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 531-552
+heading: '**Axiom 9 — Genesis–Action Functor Consistency**'
+parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
+block_type: paragraph
+excerpt: 'Let: * G\\mathcal{G}G: Genesis * M\\mathcal{M}M: Math/Physics'
+concepts:
+- →
+- δ
+- Φ
+- δ-EFT
+aliases:
+- Bk290lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

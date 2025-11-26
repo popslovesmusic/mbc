@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- nonlinear
-- δ
-excerpt: Unlike ordinary raising operators, δ is **nonlinear** in the fractal Hilbert
-  stack.
-heading: '**3\. Commutators: \[δ, δ²\], \[δ, δⁿ\]**'
 id: GEN0-327
-lines: 1413-1415
 location: genesis-0/why-the-first-action-is-necessary::3-commutators-δ-δ²-δ-δⁿ::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1413-1415
+heading: '**3\. Commutators: \[δ, δ²\], \[δ, δⁿ\]**'
+block_type: paragraph
+excerpt: Unlike ordinary raising operators, δ is **nonlinear** in the fractal Hilbert
+  stack.
+concepts:
+- δ
+- nonlinear
+aliases:
+- Bk472uo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

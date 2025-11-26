@@ -1,16 +1,37 @@
-block_type: list
-concepts:
-- Meta-Time
-- Π
-- Φ
-- α
-- δ
-- μ
-- ν
-excerpt: 1. **Functorial consistency:** F∘δ≅Φ∘FF\\circ \\delta \\cong \\Phi\\circ
-  FF∘δ≅Φ∘F means “deviation transported from Genesis to Math remains self-consistent.”
-heading: '**⚙ Interpretations of Each Condition**'
 id: GEN7-8484
-lines: 657-673
 location: genesis-7/the-complete-eft-lagrangian::interpretations-of-each-condition::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 657-673
+heading: '**⚙ Interpretations of Each Condition**'
+block_type: list
+excerpt: 1. **Functorial consistency:** F∘δ≅Φ∘FF\\circ \\delta \\cong \\Phi\\circ
+  FF∘δ≅Φ∘F means “deviation transported from Genesis to Math remains self-consistent.”
+concepts:
+- δ
+- Meta-Time
+- Π
+- Deviation
+- Deviation-curvature
+- non-pathological
+- μ
+- ∇
+- ν
+- α
+- Φ
+- self-consistent
+- δ-generated
+aliases:
+- Bk867fc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.26530612244898
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

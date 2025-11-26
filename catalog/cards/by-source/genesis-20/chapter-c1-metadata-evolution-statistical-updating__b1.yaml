@@ -1,9 +1,27 @@
-block_type: list
-concepts: []
-excerpt: '* Confidence updates * Polarity recalibration * Connector-weight evolution'
-heading: Chapter C1 — Metadata Evolution & Statistical Updating
 id: GEN20-7069
-lines: 5165-5171
 location: genesis-20/mbc-40-documentaitio-1::part-iii-statistical-adaptive-extensions::chapter-c1-metadata-evolution-statistical-updating::b1
-parent_heading: PART III — Statistical & Adaptive Extensions
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5165-5171
+heading: Chapter C1 — Metadata Evolution & Statistical Updating
+parent_heading: PART III — Statistical & Adaptive Extensions
+block_type: list
+excerpt: '* Confidence updates * Polarity recalibration * Connector-weight evolution'
+concepts:
+- Polarity
+- Connector-weight
+- Bayesian-like
+aliases:
+- Bk843cu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 23.076923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

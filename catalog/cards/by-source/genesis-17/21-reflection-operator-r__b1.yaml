@@ -1,16 +1,35 @@
+id: GEN17-5080
+location: genesis-17/mbc-schema-3::2-new-derived-meta-operators::21-reflection-operator-r::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 988-1016
+heading: '**2.1 Reflection Operator (R)**'
+parent_heading: '**2\. NEW DERIVED META-OPERATORS**'
 block_type: paragraph
+excerpt: 'A Box that contains a representation of itself: R(X)=Hom(X,X)R(X) \= \\text{Hom}(X,X)R(X)=Hom(X,X)
+  Where X may be:'
 concepts:
 - Box
+- self-evaluating
+- self-modeling
+- meta-Box
+- Box-net
+- δ
+- δ-mode
 - 'Box
 
 
   Interpretation'
-- δ
-excerpt: 'A Box that contains a representation of itself: R(X)=Hom(X,X)R(X) \= \\text{Hom}(X,X)R(X)=Hom(X,X)
-  Where X may be:'
-heading: '**2.1 Reflection Operator (R)**'
-id: GEN17-5080
-lines: 988-1016
-location: genesis-17/mbc-schema-3::2-new-derived-meta-operators::21-reflection-operator-r::b1
-parent_heading: '**2\. NEW DERIVED META-OPERATORS**'
-source: genesis-17\MBC_Schema_3.md
+aliases:
+- Bk164bt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

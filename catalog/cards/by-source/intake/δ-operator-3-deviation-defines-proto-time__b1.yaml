@@ -1,11 +1,26 @@
+id: INTK-9799
+location: intake/meta-genesis-core-papers-foundations::2-operator-δ-mathematical-action::δ-operator-3-deviation-defines-proto-time::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 560-564
+heading: '**(δ-Operator-3) Deviation Defines Proto-Time**'
+parent_heading: '**2\. Operator δ (Mathematical Action)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: T=δ∘δ\\\*T \= \\delta \\circ \\delta^\\\*T=δ∘δ\\\* The temporal direction
   emerges from iterated deviation or its dual.
-heading: '**(δ-Operator-3) Deviation Defines Proto-Time**'
-id: INTK-9799
-lines: 560-564
-location: intake/meta-genesis-core-papers-foundations::2-operator-δ-mathematical-action::δ-operator-3-deviation-defines-proto-time::b1
-parent_heading: '**2\. Operator δ (Mathematical Action)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- δ
+aliases:
+- Bk877dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

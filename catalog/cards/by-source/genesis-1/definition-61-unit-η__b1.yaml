@@ -1,11 +1,27 @@
+id: GEN1-661
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::6-the-unit-and-counit::definition-61-unit-η::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1933-1941
+heading: '**Definition 6.1 — Unit (η).**'
+parent_heading: '**6\. The Unit and Counit**'
 block_type: paragraph
-concepts:
-- η
 excerpt: 'ηG:G→U(F(G))\\eta\_G : G \\to U(F(G))ηG​:G→U(F(G)) Since U(F(G))=GU(F(G))
   \= GU(F(G))=G: ηG=idG.\\eta\_G \= \\mathrm{id}\_{G}.ηG​=idG​.'
-heading: '**Definition 6.1 — Unit (η).**'
-id: GEN1-661
-lines: 1933-1941
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::6-the-unit-and-counit::definition-61-unit-η::b1
-parent_heading: '**6\. The Unit and Counit**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- η
+- →
+aliases:
+- Bk954es
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

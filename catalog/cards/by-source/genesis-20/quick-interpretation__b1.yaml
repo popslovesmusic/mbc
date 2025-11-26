@@ -1,10 +1,28 @@
+id: GEN20-7258
+location: genesis-20/mbc-40-documentaitio-1::quick-interpretation::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 8032-8045
+heading: ⭐ Quick Interpretation
 block_type: paragraph
-concepts: []
 excerpt: 'You are describing a self-editing semantic graph. It’s not just possible
   — it is what the advanced calculus naturally does. This is the conceptual precursor
   to:'
-heading: ⭐ Quick Interpretation
-id: GEN20-7258
-lines: 8032-8045
-location: genesis-20/mbc-40-documentaitio-1::quick-interpretation::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- IGSOA
+- MBC
+- meaning-driven
+- context-aware
+- self-editing
+- MBC-based
+aliases:
+- Bk759ya
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

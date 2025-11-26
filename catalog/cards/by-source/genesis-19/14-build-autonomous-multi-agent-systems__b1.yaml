@@ -1,11 +1,29 @@
+id: GEN19-6022
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::v-machine-learning-intelligence::14-build-autonomous-multi-agent-systems::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 138-143
+heading: ✔ 14\. Build Autonomous Multi-Agent Systems
+parent_heading: V. MACHINE LEARNING & INTELLIGENCE
 block_type: list
-concepts:
-- Π
 excerpt: '* Agents communicate via box structures * Shared Π-evaluations \= shared
   truth * Federated reasoning'
-heading: ✔ 14\. Build Autonomous Multi-Agent Systems
-id: GEN19-6022
-lines: 138-143
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::v-machine-learning-intelligence::14-build-autonomous-multi-agent-systems::b1
-parent_heading: V. MACHINE LEARNING & INTELLIGENCE
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- Π-evaluation
+- Meta-learning
+- Π-evaluations
+- Π
+aliases:
+- Bk054ac
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

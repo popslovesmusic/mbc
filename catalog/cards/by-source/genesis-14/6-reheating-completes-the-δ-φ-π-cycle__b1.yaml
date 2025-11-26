@@ -1,12 +1,35 @@
+id: GEN14-2707
+location: genesis-14/inflation-structure-formation::proof::6-reheating-completes-the-δ-φ-π-cycle::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 890-920
+heading: '**6\. Reheating Completes the δ → Φ → Π Cycle**'
+parent_heading: '**Proof**'
 block_type: paragraph
+excerpt: 'During inflation: * δ dominates * Φ suppresses gradients'
 concepts:
 - Π
-- Φ
 - δ
-excerpt: 'During inflation: * δ dominates * Φ suppresses gradients'
-heading: '**6\. Reheating Completes the δ → Φ → Π Cycle**'
-id: GEN14-2707
-lines: 890-920
-location: genesis-14/inflation-structure-formation::proof::6-reheating-completes-the-δ-φ-π-cycle::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+- Φ
+- IGSOA
+- δ-harmonics
+- Π-radiation
+- fixed-point
+- Φ-stability
+- tri-unity
+- Π-matter
+- →
+aliases:
+- Bk172di
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.492957746478872
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

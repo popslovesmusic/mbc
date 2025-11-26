@@ -1,13 +1,30 @@
-block_type: paragraph
-concepts:
-- Meta-Fractal
-- Meta-Genesis
-- The Meta
-- δ
-excerpt: 'I can now produce: ✅ A fully formal theorem \+ proof version ✅ The diagrammatic
-  version (string diagrams / adjacency stack)'
-heading: '**If you want:**'
 id: GEN1-523
-lines: 206-217
 location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::if-you-want::b1
 source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 206-217
+heading: '**If you want:**'
+block_type: paragraph
+excerpt: 'I can now produce: ✅ A fully formal theorem \+ proof version ✅ The diagrammatic
+  version (string diagrams / adjacency stack)'
+concepts:
+- Meta-Genesis
+- Theorem
+- Proof
+- δ
+- Meta-Fractal
+- The Meta
+aliases:
+- Bk823cn
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

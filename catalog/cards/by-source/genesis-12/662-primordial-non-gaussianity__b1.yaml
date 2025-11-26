@@ -1,11 +1,27 @@
+id: GEN12-1688
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::66-inflation-predictions::662-primordial-non-gaussianity::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2410-2418
+heading: '**6.6.2 Primordial Non-Gaussianity**'
+parent_heading: '**6.6 Inflation Predictions**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Φ-mode interference produces: * equilateral fₙₗ ≠ 0, * local fₙₗ \= small
   but structured,'
-heading: '**6.6.2 Primordial Non-Gaussianity**'
-id: GEN12-1688
-lines: 2410-2418
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::66-inflation-predictions::662-primordial-non-gaussianity::b1
-parent_heading: '**6.6 Inflation Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- ≠
+- Φ-mode
+- Φ
+aliases:
+- Bk780mi
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

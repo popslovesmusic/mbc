@@ -1,11 +1,31 @@
+id: GEN11-1143
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::4-how-δ-geometry-modifies-inflationary-predictions::b-low-ℓ-anomalies-are-not-flukes::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 734-751
+heading: '**B. Low-ℓ anomalies are not “flukes”**'
+parent_heading: '**4\. How δ-Geometry Modifies Inflationary Predictions**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Inflation normally washes out large-scale structure. IGSOA preserves them
   if they come from δ₀₁ or δ₀₂ primordial modes. So:'
-heading: '**B. Low-ℓ anomalies are not “flukes”**'
-id: GEN11-1143
-lines: 734-751
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::4-how-δ-geometry-modifies-inflationary-predictions::b-low-ℓ-anomalies-are-not-flukes::b1
-parent_heading: '**4\. How δ-Geometry Modifies Inflationary Predictions**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- IGSOA
+- octopole-planarity
+- δ
+- large-scale
+- δ₀₂
+- δ₀₁
+aliases:
+- Bk387in
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,27 @@
-block_type: table
-concepts:
-- Layer
-- Π
-- Φ
-- δ
-excerpt: 'Under δ–Φ–Π: Inflation is thus a **deviation resonance**, not a field rolling
-  down a potential. ---'
-heading: '**9\. Tri-Unity Formulation of Inflation**'
 id: GEN12-1788
-lines: 1023-1035
 location: genesis-12/untitled-document::9-tri-unity-formulation-of-inflation::b1
 source: genesis-12\Untitled_document.md
+lines: 1023-1035
+heading: '**9\. Tri-Unity Formulation of Inflation**'
+block_type: table
+excerpt: 'Under δ–Φ–Π: Inflation is thus a **deviation resonance**, not a field rolling
+  down a potential. ---'
+concepts:
+- →
+- Layer
+- Π
+- δ
+- Φ
+- deviation resonance
+aliases:
+- Bk761ul
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

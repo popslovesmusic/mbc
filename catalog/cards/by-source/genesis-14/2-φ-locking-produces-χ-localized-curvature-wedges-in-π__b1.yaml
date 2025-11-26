@@ -1,14 +1,40 @@
+id: GEN14-2751
+location: genesis-14/inflation-structure-formation::proof::2-φ-locking-produces-χ-localized-curvature-wedges-in-π::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1586-1612
+heading: '**2\. Φ-Locking Produces χ-Localized Curvature Wedges in Π**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- directional
-- Π
-- Φ
-- δ
 excerpt: When Φ collapses, the projection χ∗:=Φ(δpre−δpost)\\chi\_\* := \\Phi(\\delta\_{\\text{pre}}
   \-\\delta\_{\\text{post}})χ∗​:=Φ(δpre​−δpost​) injects curvature into Π (Proof 3).
-heading: '**2\. Φ-Locking Produces χ-Localized Curvature Wedges in Π**'
-id: GEN14-2751
-lines: 1586-1612
-location: genesis-14/inflation-structure-formation::proof::2-φ-locking-produces-χ-localized-curvature-wedges-in-π::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- χ
+- Π
+- immediately generates negative-curvature basins
+- adjacency-breaking
+- δ
+- κ
+- Proof
+- Φ
+- curvature-preserving
+- negative-curvature
+- Π-projection
+- localized curvature wells
+- δpost
+- δpre
+- directional
+aliases:
+- Bk771wc
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.450381679389313
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

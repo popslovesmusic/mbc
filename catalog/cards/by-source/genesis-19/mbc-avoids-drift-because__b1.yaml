@@ -1,13 +1,25 @@
+id: GEN19-6084
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::summary-backprop-is-structurally-unstable-mbc-is-structurally-anchored::mbc-avoids-drift-because::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 797-806
+heading: 'MBC Avoids Drift Because:'
+parent_heading: 'Summary: Backprop is structurally unstable; MBC is structurally anchored'
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '* no global weight matrices * meaning is topological, not numerical * updates
   are local, not distributed'
-heading: 'MBC Avoids Drift Because:'
-id: GEN19-6084
-lines: 797-806
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::summary-backprop-is-structurally-unstable-mbc-is-structurally-anchored::mbc-avoids-drift-because::b1
-parent_heading: 'Summary: Backprop is structurally unstable; MBC is structurally anchored'
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- Π
+- δ
+- Φ
+aliases:
+- Bk197gw
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

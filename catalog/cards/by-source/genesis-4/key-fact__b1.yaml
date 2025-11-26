@@ -1,12 +1,24 @@
+id: GEN4-7921
+location: genesis-4/the-first-adjacency::2-formalization-the-law-of-pattern-stability::key-fact::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 2008-2014
+heading: '**Key Fact:**'
+parent_heading: '**2\. Formalization — The Law of Pattern Stability**'
 block_type: paragraph
-concepts:
-- δ
-- δ-action
 excerpt: Stability is not defined by geometry. Geometry has only just emerged. Stability
   is defined by **δ-action**.
-heading: '**Key Fact:**'
-id: GEN4-7921
-lines: 2008-2014
-location: genesis-4/the-first-adjacency::2-formalization-the-law-of-pattern-stability::key-fact::b1
-parent_heading: '**2\. Formalization — The Law of Pattern Stability**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- δ-action
+- δ
+aliases:
+- Bk245sn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

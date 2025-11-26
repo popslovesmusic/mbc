@@ -1,12 +1,29 @@
+id: GEN4-7704
+location: genesis-4/meta-physics-axiom-box::ii-meta-math-layer-causality-becomes-formally-structured::8-φ-layer-integration-gives-geometric-form-to-causality::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1470-1478
+heading: '**8\. Φ-layer integration gives geometric form to causality.**'
+parent_heading: '**II. META-MATH LAYER — Causality Becomes Formally Structured**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'The chromatic/phase field Φ assigns **shape, mode, symmetry, and informational
   form** to each mathematical state: Φ(F(X)).\\Phi(F(X)).Φ(F(X)). This Φ-structure
   becomes the **informational geometry** u...'
-heading: '**8\. Φ-layer integration gives geometric form to causality.**'
-id: GEN4-7704
-lines: 1470-1478
-location: genesis-4/meta-physics-axiom-box::ii-meta-math-layer-causality-becomes-formally-structured::8-φ-layer-integration-gives-geometric-form-to-causality::b1
-parent_heading: '**II. META-MATH LAYER — Causality Becomes Formally Structured**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Φ
+- Φ-structure
+- informational geometry
+aliases:
+- Bk953tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

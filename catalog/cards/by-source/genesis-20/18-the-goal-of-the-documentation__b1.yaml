@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- Core Principles
-excerpt: 'This documentation aims to guide the reader from: * the motivation → * the
-  primitives →'
-heading: 1.8 The Goal of the Documentation
 id: GEN20-6692
-lines: 479-496
 location: genesis-20/mbc-40-documentaitio-1::18-the-goal-of-the-documentation::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 479-496
+heading: 1.8 The Goal of the Documentation
+block_type: paragraph
+excerpt: 'This documentation aims to guide the reader from: * the motivation → * the
+  primitives →'
+concepts:
+- →
+- MBC
+- category-theoretic
+- cross-disciplinary
+- Core Principles
+aliases:
+- Bk390td
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.944444444444445
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

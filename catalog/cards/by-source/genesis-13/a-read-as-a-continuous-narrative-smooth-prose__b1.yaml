@@ -1,10 +1,24 @@
+id: GEN13-2052
+location: genesis-13/meta-math-nuclear-physics::do-you-want-this-chapter-to::a-read-as-a-continuous-narrative-smooth-prose::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 646-652
+heading: '**A. Read as a *continuous narrative* (smooth prose)?**'
+parent_heading: '**Do you want this chapter to:**'
 block_type: paragraph
-concepts: []
 excerpt: – flowing logic, motivations, intuitive diagrams in words – equations inserted
   when needed – similar to your cosmology/narrative chapters
-heading: '**A. Read as a *continuous narrative* (smooth prose)?**'
-id: GEN13-2052
-lines: 646-652
-location: genesis-13/meta-math-nuclear-physics::do-you-want-this-chapter-to::a-read-as-a-continuous-narrative-smooth-prose::b1
-parent_heading: '**Do you want this chapter to:**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+aliases:
+- Bk157fl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

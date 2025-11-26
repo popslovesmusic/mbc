@@ -1,12 +1,32 @@
+id: INTK-10559
+location: intake/volume-i-core-ontology-and-metagenesis-summary::9-meta-time-and-the-cmb-cosmic-time-as-scale-projection::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 248-264
+heading: '**9. Meta-Time and the CMB: Cosmic Time as Scale Projection**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- δ
 excerpt: 'Cosmic time (in FRW cosmology) is recovered by projecting Meta-Time to the
   cosmological scale: T→πFRWtcosmic.Τ \xrightarrow{\pi\_{\text{FRW}}} t\_{\text{cosmic}}.TπFRW​​tcosmic​.
   This gives:'
-heading: '**9. Meta-Time and the CMB: Cosmic Time as Scale Projection**'
-id: INTK-10559
-lines: 248-264
-location: intake/volume-i-core-ontology-and-metagenesis-summary::9-meta-time-and-the-cmb-cosmic-time-as-scale-projection::b1
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- →
+- δ
+- π
+- δ-curvature
+- δ-energy
+- Τ
+aliases:
+- Bk604ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.20754716981132
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

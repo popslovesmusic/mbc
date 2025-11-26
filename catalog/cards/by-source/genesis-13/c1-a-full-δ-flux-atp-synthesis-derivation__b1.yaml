@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: (chemiosmosis \= δ-Φ resonance lattice)
-heading: '**(C1) A full δ-Flux → ATP Synthesis derivation**'
 id: GEN13-2488
-lines: 450-452
 location: genesis-13/what-biology-is-in-meta-genesis::7-next-directions-pick-one::c1-a-full-δ-flux-atp-synthesis-derivation::b1
-parent_heading: '**7\. Next Directions (pick one):**'
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 450-452
+heading: '**(C1) A full δ-Flux → ATP Synthesis derivation**'
+parent_heading: '**7\. Next Directions (pick one):**'
+block_type: paragraph
+excerpt: (chemiosmosis \= δ-Φ resonance lattice)
+concepts:
+- δ
+- Φ
+- δ-Φ
+aliases:
+- Bk491cr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 60.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

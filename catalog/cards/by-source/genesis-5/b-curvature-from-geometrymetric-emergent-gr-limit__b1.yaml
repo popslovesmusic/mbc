@@ -1,13 +1,32 @@
+id: GEN5-8034
+location: genesis-5/formal-proof-of-the-adjoint-triple::6-igsoa-reading-where-curvature-lives-in-your-stack::b-curvature-from-geometrymetric-emergent-gr-limit::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1449-1467
+heading: '**(B) Curvature from Geometry→Metric (Emergent GR limit)**'
+parent_heading: '**6\. IGSOA reading: where curvature lives in your stack**'
 block_type: paragraph
-concepts:
-- Π
-- δ
-- σ
 excerpt: 'Let F=Π:σTop→GeoF=\\Pi: \\sigma Top\\to GeoF=Π:σTop→Geo be the projection
   to **Riemann/metric geometry**.'
-heading: '**(B) Curvature from Geometry→Metric (Emergent GR limit)**'
-id: GEN5-8034
-lines: 1449-1467
-location: genesis-5/formal-proof-of-the-adjoint-triple::6-igsoa-reading-where-curvature-lives-in-your-stack::b-curvature-from-geometrymetric-emergent-gr-limit::b1
-parent_heading: '**6\. IGSOA reading: where curvature lives in your stack**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- δ
+- δ-scale
+- Π
+- →
+- σ
+- δ-naturality
+- scale-topos
+aliases:
+- Bk413lg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.526881720430108
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

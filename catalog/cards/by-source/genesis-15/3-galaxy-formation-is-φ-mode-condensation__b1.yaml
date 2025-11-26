@@ -1,12 +1,29 @@
+id: GEN15-3181
+location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-from-perturbations-to-galaxies::3-galaxy-formation-is-φ-mode-condensation::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1674-1692
+heading: '**3\. Galaxy formation is Φ-mode condensation**'
+parent_heading: '**Ⅴ. From Perturbations to Galaxies**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Galaxies form where: Φ(Kδ)n\\Phi(\\mathcal{K}\_\\delta)\_nΦ(Kδ​)n​ modes
   locally dominate.'
-heading: '**3\. Galaxy formation is Φ-mode condensation**'
-id: GEN15-3181
-lines: 1674-1692
-location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-from-perturbations-to-galaxies::3-galaxy-formation-is-φ-mode-condensation::b1
-parent_heading: '**Ⅴ. From Perturbations to Galaxies**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- Φ
+- δ-harmonic
+- direct consequences
+aliases:
+- Bk891gf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

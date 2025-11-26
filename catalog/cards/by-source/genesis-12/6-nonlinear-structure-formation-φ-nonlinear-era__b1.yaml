@@ -1,11 +1,36 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: 'When δ-curvature modes grow past a threshold: Φ enters nonlinear regime.\\Phi
-  \\text{ enters nonlinear regime}.Φ enters nonlinear regime. Φ-nonlinearity induces:'
-heading: '**6\. Nonlinear Structure Formation (Φ-Nonlinear Era)**'
 id: GEN12-1805
-lines: 1273-1295
 location: genesis-12/untitled-document::6-nonlinear-structure-formation-φ-nonlinear-era::b1
 source: genesis-12\Untitled_document.md
+lines: 1273-1295
+heading: '**6\. Nonlinear Structure Formation (Φ-Nonlinear Era)**'
+block_type: paragraph
+excerpt: 'When δ-curvature modes grow past a threshold: Φ enters nonlinear regime.\\Phi
+  \\text{ enters nonlinear regime}.Φ enters nonlinear regime. Φ-nonlinearity induces:'
+concepts:
+- δ
+- adjacency-fractal collapse
+- Φ
+- void-scar reinforcement
+- adjacency-curvature
+- δm
+- adjacency-fractal
+- Φ-nonlinearity
+- δ-curvature
+- void-scar
+- halo kernel formation
+- filament bifurcation
+aliases:
+- Bk550wc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,33 @@
+id: GEN7-8676
+location: genesis-7/why-curvature-gives-gravity::ii-the-δ-weitzenböck-formula::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 754-775
+heading: '**II. The δ-Weitzenböck Formula**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'In classical spectral geometry, curvature is obtained from: D2=∇∗∇+14R.\\mathcal{D}^2
   \= \\nabla^\\ast \\nabla \+ \\frac{1}{4} R.D2=∇∗∇+41​R. In δ-geometry, the analog
   is:'
-heading: '**II. The δ-Weitzenböck Formula**'
-id: GEN7-8676
-lines: 754-775
-location: genesis-7/why-curvature-gives-gravity::ii-the-δ-weitzenböck-formula::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- ∇
+- δ-geometry
+- higher-order
+- δ-covariant
+- δ-deviation
+- δ-curvature
+- δR
+aliases:
+- Bk360cs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.207207207207207
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

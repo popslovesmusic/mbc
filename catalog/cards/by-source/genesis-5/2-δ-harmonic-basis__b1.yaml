@@ -1,12 +1,33 @@
+id: GEN5-8196
+location: genesis-5/the-ga-8-meta-einstein-theorem::2-δ-harmonic-basis::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 931-945
+heading: '**2\. δ-Harmonic Basis**'
 block_type: paragraph
-concepts:
-- δ
-- μ
 excerpt: 'The δ-harmonics form an orthonormal basis of L2L^2L2: ⟨ψm,ψn⟩=∫Mψm\\\*ψn dμδ=δmn.\\langle
   \\psi\_m, \\psi\_n \\rangle \= \\int\_M \\psi\_m^\\\* \\psi\_n \\, d\\mu\_\\delta
   \= \\delta\_{mn}.⟨ψm​,ψn​⟩=∫...'
-heading: '**2\. δ-Harmonic Basis**'
-id: GEN5-8196
-lines: 931-945
-location: genesis-5/the-ga-8-meta-einstein-theorem::2-δ-harmonic-basis::b1
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- ψ
+- δ
+- ∫
+- ∑
+- ≥
+- μ
+- δ-harmonics
+- δmn
+aliases:
+- Bk624th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.080808080808081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

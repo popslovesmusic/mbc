@@ -1,15 +1,36 @@
+id: GEN9-9381
+location: genesis-9/is-the-source-of-all-structure::iv-full-igsoa-δ-harmonic-periodic-table-expanded-form::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 656-683
+heading: '**IV. Full IGSOA δ-Harmonic Periodic Table (Expanded Form)**'
 block_type: paragraph
-concepts:
-- Matrix Form
-- not
-- Π
-- Φ
-- δ
 excerpt: This is the *canonical matrix*, with every δ-family explicitly arranged.
   Let Δn\\Delta\_nΔn​ denote the n-th δ-harmonic family. `IGSOA δ-HARMONIC PERIODIC
   TABLE (Matrix Form)`
-heading: '**IV. Full IGSOA δ-Harmonic Periodic Table (Expanded Form)**'
-id: GEN9-9381
-lines: 656-683
-location: genesis-9/is-the-source-of-all-structure::iv-full-igsoa-δ-harmonic-periodic-table-expanded-form::b1
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- Δ
+- Π
+- Φ-projection
+- IGSOA
+- δ
+- δ-harmonic
+- δ-HARMONIC
+- not
+- δ-family
+- Φ
+- n-th
+- Matrix Form
+aliases:
+- Bk347tt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.022556390977442
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

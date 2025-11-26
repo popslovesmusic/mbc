@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: 'Loops appear in advanced router networks and agent workflows. A loop: B1→B2→⋯→Bn→B1'
-heading: A3.3 Loop Stability (Cycle Coherence Condition)
 id: GEN20-7138
-lines: 5991-6013
 location: genesis-20/mbc-40-documentaitio-1::a33-loop-stability-cycle-coherence-condition::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5991-6013
+heading: A3.3 Loop Stability (Cycle Coherence Condition)
+block_type: paragraph
+excerpt: 'Loops appear in advanced router networks and agent workflows. A loop: B1→B2→⋯→Bn→B1'
+concepts:
+- →
+- Φ
+aliases:
+- Bk279la
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

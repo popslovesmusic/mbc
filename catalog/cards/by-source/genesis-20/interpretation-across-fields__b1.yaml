@@ -1,11 +1,27 @@
+id: GEN20-6764
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::36-φ-the-formation-operator-cohesion::interpretation-across-fields::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1338-1348
+heading: Interpretation Across Fields
+parent_heading: 3.6 Φ — The Formation Operator (Cohesion)
 block_type: list
-concepts:
-- Φ
 excerpt: '* Physics: formation of stable curvature or modes * Logic: coherence between
   premises * Semantics: clustering related meaning'
-heading: Interpretation Across Fields
-id: GEN20-6764
-lines: 1338-1348
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::36-φ-the-formation-operator-cohesion::interpretation-across-fields::b1
-parent_heading: 3.6 Φ — The Formation Operator (Cohesion)
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Φ
+- A-dominated
+- E-dominated
+aliases:
+- Bk085pf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.317073170731707
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

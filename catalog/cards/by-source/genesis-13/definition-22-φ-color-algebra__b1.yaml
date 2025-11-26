@@ -1,11 +1,26 @@
+id: GEN13-2119
+location: genesis-13/meta-math-nuclear-physics::2-φ-operator-algebra-as-qcd::definition-22-φ-color-algebra::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1504-1510
+heading: '**Definition 2.2 — Φ-Color Algebra**'
+parent_heading: '**2\. Φ-Operator Algebra as QCD**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: c=Der(AΦ)\\mathfrak{c} \= \\mathrm{Der}(\\mathcal{A}\_\\Phi)c=Der(AΦ​) is
   the derivation algebra of Φ. ---
-heading: '**Definition 2.2 — Φ-Color Algebra**'
-id: GEN13-2119
-lines: 1504-1510
-location: genesis-13/meta-math-nuclear-physics::2-φ-operator-algebra-as-qcd::definition-22-φ-color-algebra::b1
-parent_heading: '**2\. Φ-Operator Algebra as QCD**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+aliases:
+- Bk697dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

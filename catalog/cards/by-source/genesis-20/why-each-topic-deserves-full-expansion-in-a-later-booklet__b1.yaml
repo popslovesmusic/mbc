@@ -1,8 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Because each advanced topic is: * large * nuanced'
-heading: ⭐ Why Each Topic Deserves Full Expansion in a Later Booklet
 id: GEN20-6990
-lines: 4143-4156
 location: genesis-20/mbc-40-documentaitio-1::why-each-topic-deserves-full-expansion-in-a-later-booklet::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4143-4156
+heading: ⭐ Why Each Topic Deserves Full Expansion in a Later Booklet
+block_type: paragraph
+excerpt: 'Because each advanced topic is: * large * nuanced'
+concepts:
+- semantic-engine
+- one-by-one
+aliases:
+- Bk268be
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

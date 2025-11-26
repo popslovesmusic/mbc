@@ -1,12 +1,33 @@
+id: GEN12-1781
+location: genesis-12/untitled-document::6-gw-echo-cmb-resonance-equivalence::b1
+source: genesis-12\Untitled_document.md
+lines: 957-977
+heading: '**6\. GW Echo → CMB Resonance Equivalence**'
 block_type: paragraph
-concepts:
-- α
-- δ
 excerpt: 'Because both GW-echo spectra and CMB spectra arise from the **same δ-harmonic
   ladder**, IGSOA predicts: PGW echo(f)  ↔  PCMB(ℓ)P\_{\\text{GW echo}}(f) \\;\\leftrightarrow\\;
   P\_{\\text{CMB}}(\\ell)PGW...'
-heading: '**6\. GW Echo → CMB Resonance Equivalence**'
-id: GEN12-1781
-lines: 957-977
-location: genesis-12/untitled-document::6-gw-echo-cmb-resonance-equivalence::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- IGSOA
+- same δ-harmonic ladder
+- ≈
+- α
+- ↔
+- δ-harmonic
+- GW-echo
+- δ
+aliases:
+- Bk270bb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.594202898550725
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

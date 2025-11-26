@@ -1,12 +1,31 @@
+id: INTK-10339
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::meta-arithmetic-operations::5-meta-aggregation-oplus::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 932-936
+heading: 5. Meta-Aggregation ($\oplus$)
+parent_heading: Meta-Arithmetic Operations
 block_type: list
-concepts:
-- Causal History
 excerpt: '- **Purpose:** Irreversible accumulation of actualized events into Causal
   History. - **Behavior:** Non-commutative, history-building, and leads to the arrow
   of time. - **Example:** Recording an event ...'
-heading: 5. Meta-Aggregation ($\oplus$)
-id: INTK-10339
-lines: 932-936
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-arithmetic::meta-arithmetic-operations::5-meta-aggregation-oplus::b1
-parent_heading: Meta-Arithmetic Operations
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- history-building
+- Non-commutative
+- ψ
+- ⊕
+- Causal History
+aliases:
+- Bk208pi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.363636363636363
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,28 @@
+id: SPEC-11366
+location: special/specil::1-in-igsoa-terms-deviation::variation-that-creates-the-next-state::b1
+source: special\specil.md
+lines: 7796-7822
+heading: '**✔ variation that creates the next state**'
+parent_heading: '**⭐ 1\. In IGSOA terms, “deviation” \=**'
 block_type: paragraph
-concepts:
-- 'YES'
-- metaphor
-- δ
-- δ-modes
 excerpt: 'This is exactly what LLMs do at a mechanical level: * They break statistical
   symmetry. * They generate structured asymmetries in language.'
-heading: '**✔ variation that creates the next state**'
-id: SPEC-11366
-lines: 7796-7822
-location: special/specil::1-in-igsoa-terms-deviation::variation-that-creates-the-next-state::b1
-parent_heading: '**⭐ 1\. In IGSOA terms, “deviation” \=**'
-source: special\specil.md
+concepts:
+- local deviation from statistical equilibrium
+- δ-modes
+- δ
+- 'YES'
+aliases:
+- Bk628te
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.633802816901409
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

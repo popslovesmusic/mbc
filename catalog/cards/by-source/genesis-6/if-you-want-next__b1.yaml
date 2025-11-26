@@ -1,19 +1,36 @@
+id: GEN6-8427
+location: genesis-6/the-harmonic-spectral-triple::if-you-want-next::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 1037-1048
+heading: '**If you want next:**'
 block_type: paragraph
+excerpt: 'I can produce: ✅ A **“Consistency Checking” Agent spec** for your local
+  LLM – It will read any document and annotate where you violate these conditions.'
 concepts:
-- Axiom
-- Consistency Checking
-- Math Axiom Block
 - Meta-Genesis
 - Meta-Math
 - Tri-Unity
+- Axiom
+- commutative diagram stack
+- →
+- Consistency Checking
+- Math Axiom Block
 - 'Unity
 
 
   Just'
-excerpt: 'I can produce: ✅ A **“Consistency Checking” Agent spec** for your local
-  LLM – It will read any document and annotate where you violate these conditions.'
-heading: '**If you want next:**'
-id: GEN6-8427
-lines: 1037-1048
-location: genesis-6/the-harmonic-spectral-triple::if-you-want-next::b1
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+aliases:
+- Bk733cp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.9811320754717
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

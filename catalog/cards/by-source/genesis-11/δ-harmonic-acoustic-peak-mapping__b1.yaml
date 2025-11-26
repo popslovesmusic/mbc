@@ -1,15 +1,40 @@
+id: GEN11-1095
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::2-δ-harmonics-φ-wave-propagation-acoustics::δ-harmonic-acoustic-peak-mapping::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 53-65
+heading: '**δ-Harmonic → Acoustic Peak Mapping**'
+parent_heading: '**2\. δ-Harmonics → Φ-Wave Propagation → Acoustics**'
 block_type: table
-concepts:
-- Harmonic Mode
-- Mode
-- Propagation Meaning
-- Φ
-- δ
 excerpt: '**In other words, your δ-harmonic spectrum *is* the acoustic peak structure.**
   ---'
-heading: '**δ-Harmonic → Acoustic Peak Mapping**'
-id: GEN11-1095
-lines: 53-65
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::2-δ-harmonics-φ-wave-propagation-acoustics::δ-harmonic-acoustic-peak-mapping::b1
-parent_heading: '**2\. δ-Harmonics → Φ-Wave Propagation → Acoustics**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- δ
+- Mode
+- long-wavelength
+- Φ-Propagation
+- higher-order
+- δ-Harmonic
+- δ-harmonic
+- Φ
+- first acoustic peak
+- Propagation Meaning
+- Harmonic Mode
+- second peak
+- third peak
+- δ₁
+- δ₃
+aliases:
+- Bk500hm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 32.075471698113205
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

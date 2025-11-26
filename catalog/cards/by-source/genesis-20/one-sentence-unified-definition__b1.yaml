@@ -1,21 +1,42 @@
+id: GEN20-6573
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::one-sentence-unified-definition::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 128-138
+heading: One-Sentence Unified Definition
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Box Algebra
-- Box Algebra Axiom Box
-- Box Algebra Diagram Stack
-- Box Calculus
-- Operator
-- Operator Algebra Map
-- Π
-- Φ
-- δ
 excerpt: Box Algebra is the algebra of operators acting on Box-objects, defining the
   lawful ways Boxes transform, route, combine, and evaluate—serving as the algebraic
   engine that powers all reasoning and comp...
-heading: One-Sentence Unified Definition
-id: GEN20-6573
-lines: 128-138
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::one-sentence-unified-definition::b1
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- Box
+- Box Algebra
+- Box Calculus
+- MBC
+- Axiom
+- →
+- Operator
+- machine-readable
+- Box-objects
+- Box Algebra Diagram Stack
+- Π
+- δ
+- Box Algebra Axiom Box
+- Φ
+- Operator Algebra Map
+aliases:
+- Bk524ba
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

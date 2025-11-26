@@ -1,10 +1,25 @@
+id: GEN15-3306
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::if-you-want-next::the-csoieinstein-field-equation-derivation::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 764-766
+heading: '**• The CSOI–Einstein Field Equation Derivation**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
+excerpt: (the Meta-Einstein version with CSOI built in)
 concepts:
 - Meta-Einstein
-excerpt: (the Meta-Einstein version with CSOI built in)
-heading: '**• The CSOI–Einstein Field Equation Derivation**'
-id: GEN15-3306
-lines: 764-766
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::if-you-want-next::the-csoieinstein-field-equation-derivation::b1
-parent_heading: '**If you want next:**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+aliases:
+- Bk874tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

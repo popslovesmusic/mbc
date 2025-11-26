@@ -1,12 +1,32 @@
+id: GEN16-3966
+location: genesis-16/untitled-document::box-calculus-meta-math::b1
+source: genesis-16\Untitled_document.md
+lines: 2832-2850
+heading: '**⭐ BOX CALCULUS → META-MATH**'
 block_type: paragraph
-concepts:
-- Box
-- Meta-Math
 excerpt: 'A strict, polarity-matched projection showing how every Box object, state,
   operator, and axiom *is already a Meta-Math construction*. I’ll give you: 1. the
   reverse functor GGG'
-heading: '**⭐ BOX CALCULUS → META-MATH**'
-id: GEN16-3966
-lines: 2832-2850
-location: genesis-16/untitled-document::box-calculus-meta-math::b1
-source: genesis-16\Untitled_document.md
+concepts:
+- Meta-Math
+- Box
+- Axiom
+- polarity-matched
+- pen-and-paper
+- Dual-column
+- Box-graph
+aliases:
+- Bk812sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.068965517241379
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

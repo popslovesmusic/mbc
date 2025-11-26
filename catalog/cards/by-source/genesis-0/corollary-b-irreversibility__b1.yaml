@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts:
-- Ψ
-excerpt: Genesis is one-way; no collapse to Ψ₀ is allowed.
-heading: '**Corollary B — Irreversibility**'
 id: GEN0-237
-lines: 1173-1175
 location: genesis-0/tri-unity-theorem-equivalence-of::5-corollaries::corollary-b-irreversibility::b1
-parent_heading: '**5\. Corollaries**'
 source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1173-1175
+heading: '**Corollary B — Irreversibility**'
+parent_heading: '**5\. Corollaries**'
+block_type: paragraph
+excerpt: Genesis is one-way; no collapse to Ψ₀ is allowed.
+concepts:
+- one-way
+- Ψ
+- Ψ₀
+aliases:
+- Bk134go
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

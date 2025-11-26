@@ -1,10 +1,31 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'The three structures (A,R,T)(\\mathcal{A}, \\mathcal{R}, \\mathcal{T})(A,R,T)
-  are uniquely determined:'
-heading: '**Step 4 — Uniqueness**'
 id: GEN0-177
-lines: 306-322
 location: genesis-0/tri-unity-theorem-equivalence-of::step-4-uniqueness::b1
 source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 306-322
+heading: '**Step 4 — Uniqueness**'
+block_type: paragraph
+excerpt: 'The three structures (A,R,T)(\\mathcal{A}, \\mathcal{R}, \\mathcal{T})(A,R,T)
+  are uniquely determined:'
+concepts:
+- δ
+- Definition
+- unique δ-consequences
+- δ-generated
+- δ-consequences
+- δ-action
+- δ-moves
+- δ-chain
+aliases:
+- Bk910tt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.267605633802818
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

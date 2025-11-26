@@ -1,15 +1,32 @@
+id: GEN4-7720
+location: genesis-4/the-adjoint-triple::1-categories::3-meta-math-mm::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 89-99
+heading: '**3\. Meta-Math (MM)**'
+parent_heading: '**1\. Categories**'
 block_type: paragraph
-concepts:
-- Meta-Fractal
-- Meta-Lagrangians
-- Operator
-- realized
-- δ
 excerpt: 'Objects: Operator algebras, δ-calculus objects, A/H/E/F algebra, Meta-Fractal
   operators, δ-Ricci curvature, Meta-Lagrangians. Morphisms:'
-heading: '**3\. Meta-Math (MM)**'
-id: GEN4-7720
-lines: 89-99
-location: genesis-4/the-adjoint-triple::1-categories::3-meta-math-mm::b1
-parent_heading: '**1\. Categories**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Operator
+- δ
+- Meta-Lagrangians
+- action and computation layer
+- Meta-Fractal
+- δ-calculus
+- δ-Ricci
+aliases:
+- Bk296oo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

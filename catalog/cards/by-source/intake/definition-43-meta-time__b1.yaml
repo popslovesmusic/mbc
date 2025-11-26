@@ -1,12 +1,30 @@
+id: INTK-10096
+location: intake/meta-genesis-physical-interpretation-papers::4-emergence-of-adjacency-and-meta-time::definition-43-meta-time::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 348-356
+heading: '**Definition 4.3 (Meta-Time).**'
+parent_heading: '**4\. Emergence of Adjacency and Meta-Time**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'Meta-time is defined as the unique ordering induced by deviations: T:Ψn≺Ψn+1.T:
   \\Psi\_n \\prec \\Psi\_{n+1}.T:Ψn​≺Ψn+1​. Thus meta-time is **not pre-existing**;
   it **emerges as the record of deviatio...'
-heading: '**Definition 4.3 (Meta-Time).**'
-id: INTK-10096
-lines: 348-356
-location: intake/meta-genesis-physical-interpretation-papers::4-emergence-of-adjacency-and-meta-time::definition-43-meta-time::b1
-parent_heading: '**4\. Emergence of Adjacency and Meta-Time**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- emerges as the record of deviation
+- Ψn
+- not pre-existing
+- pre-existing
+- Meta-time
+- meta-time
+aliases:
+- Bk184mt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.073170731707318
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

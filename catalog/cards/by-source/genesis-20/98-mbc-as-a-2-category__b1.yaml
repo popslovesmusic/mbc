@@ -1,10 +1,29 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'A 2-category has: * objects * 1-morphisms (ordinary arrows)'
-heading: 9.8 MBC as a 2-Category
 id: GEN20-6878
-lines: 2981-3002
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::98-mbc-as-a-2-category::b1
-parent_heading: ✔️ Do you approve this companion structure?
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2981-3002
+heading: 9.8 MBC as a 2-Category
+parent_heading: ✔️ Do you approve this companion structure?
+block_type: paragraph
+excerpt: 'A 2-category has: * objects * 1-morphisms (ordinary arrows)'
+concepts:
+- MBC
+- multi-input
+- re-tunings
+- δ-modes
+- δ
+aliases:
+- Bk644ch
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.042253521126761
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

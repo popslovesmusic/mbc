@@ -1,13 +1,27 @@
+id: GEN0-231
+location: genesis-0/tri-unity-theorem-equivalence-of::3-lemmas::lemma-4-meta-time-is-forced::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1077-1085
+heading: '**Lemma 4 — Meta-Time Is Forced**'
+parent_heading: '**3\. Lemmas**'
 block_type: paragraph
-concepts:
-- generated
-- Ψ
-- δ
 excerpt: 'From strictness of δ: Ψ0≺Ψ1≺Ψ2≺⋯\\Psi\_0 \\prec \\Psi\_1 \\prec \\Psi\_2
   \\prec \\cdotsΨ0​≺Ψ1​≺Ψ2​≺⋯ Thus time is not assumed; it is **generated** by deviation.'
-heading: '**Lemma 4 — Meta-Time Is Forced**'
-id: GEN0-231
-lines: 1077-1085
-location: genesis-0/tri-unity-theorem-equivalence-of::3-lemmas::lemma-4-meta-time-is-forced::b1
-parent_heading: '**3\. Lemmas**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- δ
+- generated
+aliases:
+- Bk542fs
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,13 +1,32 @@
+id: GEN16-3912
+location: genesis-16/untitled-document::3-expansion-direction-iii-dynamic-systems-field-theory::31-semantic-evolution-equation::b1
+source: genesis-16\Untitled_document.md
+lines: 2284-2290
+heading: '**3.1. Semantic Evolution Equation**'
+parent_heading: '**3\. Expansion Direction III: Dynamic Systems & Field Theory**'
 block_type: paragraph
-concepts:
-- Box
-- Now Box Calculus
-- Σ
 excerpt: 'Continuous-time generalization of the discrete transition function: dΣdt=F(Σ,t)\\frac{d\\Sigma}{dt}=F(\\Sigma,t)dtdΣ​=F(Σ,t)
   Now Box Calculus becomes a **semantic differential geometry**.'
-heading: '**3.1. Semantic Evolution Equation**'
-id: GEN16-3912
-lines: 2284-2290
-location: genesis-16/untitled-document::3-expansion-direction-iii-dynamic-systems-field-theory::31-semantic-evolution-equation::b1
-parent_heading: '**3\. Expansion Direction III: Dynamic Systems & Field Theory**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Box Calculus
+- Σ
+- Box
+- Continuous-time
+- semantic differential geometry
+- Now Box Calculus
+- Σdt
+aliases:
+- Bk776ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.58064516129032
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

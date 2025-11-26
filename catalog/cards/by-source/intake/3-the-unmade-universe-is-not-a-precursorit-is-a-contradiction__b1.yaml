@@ -1,14 +1,28 @@
+id: INTK-10067
+location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::3-the-unmade-universe-is-not-a-precursorit-is-a-contradiction::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 822-844
+heading: '**3\. The Unmade Universe Is Not a Precursor—It Is a Contradiction**'
+parent_heading: '**THE UNMADE UNIVERSE**'
 block_type: paragraph
-concepts:
-- First Movement
-- The Unmade Universe
-- non-state
-- Ψ
 excerpt: Most cosmologies imagine a “pre-universe”— a womb, a reservoir, a waiting
   field. IGSOA removes that illusion.
-heading: '**3\. The Unmade Universe Is Not a Precursor—It Is a Contradiction**'
-id: INTK-10067
-lines: 822-844
-location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::3-the-unmade-universe-is-not-a-precursorit-is-a-contradiction::b1
-parent_heading: '**THE UNMADE UNIVERSE**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- IGSOA
+- pre-universe
+- Ψ
+- The Unmade Universe
+- non-state
+- First Movement
+aliases:
+- Bk415mc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.521739130434782
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

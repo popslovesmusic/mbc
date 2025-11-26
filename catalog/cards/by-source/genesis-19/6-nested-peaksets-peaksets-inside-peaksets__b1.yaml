@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Meta-Genesis
-- Π
-- Φ
-- δ
-excerpt: 'Yes — you can also have: * peaksets inside larger peaksets * micro-peaks
-  inside macro-peaks'
-heading: ⭐ 6\. Nested Peaksets (peaksets inside peaksets)
 id: GEN19-6122
-lines: 1199-1222
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::6-nested-peaksets-peaksets-inside-peaksets::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1199-1222
+heading: ⭐ 6\. Nested Peaksets (peaksets inside peaksets)
+block_type: paragraph
+excerpt: 'Yes — you can also have: * peaksets inside larger peaksets * micro-peaks
+  inside macro-peaks'
+concepts:
+- Meta-Genesis
+- →
+- micro-peaks
+- multi-scale
+- macro-peaks
+- Π
+- δ
+- Φ
+aliases:
+- Bk925yy
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.114754098360656
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

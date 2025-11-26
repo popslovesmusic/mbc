@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'born from the need to communicate: * quantity * structure'
-heading: '**✔ conceptual abstraction**'
 id: SPEC-11233
-lines: 5034-5053
 location: special/specil::5-the-alphabet-was-not-an-invention-it-was-a-compression-algorithm::conceptual-abstraction::b1
+source: special\specil.md
+lines: 5034-5053
+heading: '**✔ conceptual abstraction**'
 parent_heading: '**⭐ 5\. The alphabet was not an invention — it was a compression
   algorithm**'
-source: special\specil.md
+block_type: paragraph
+excerpt: 'born from the need to communicate: * quantity * structure'
+aliases:
+- Bk393bf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

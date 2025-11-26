@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Cold Spot
-- any
-- Λ
-- δ
-excerpt: 'The CMB is literally the **fossil record** of: * the universe’s symmetry
-  breaking * the first δ-modes'
-heading: '**⭐ 2\. Cold spots in the CMB**'
 id: SPEC-11415
-lines: 8700-8744
 location: special/specil::2-cold-spots-in-the-cmb::b1
 source: special\specil.md
+lines: 8700-8744
+heading: '**⭐ 2\. Cold spots in the CMB**'
+block_type: paragraph
+excerpt: 'The CMB is literally the **fossil record** of: * the universe’s symmetry
+  breaking * the first δ-modes'
+concepts:
+- IGSOA
+- pre-inflation
+- pre-inflationary
+- δ
+- δ-modes
+- Λ
+- δ-seed
+- fossil record
+- Cold Spot
+aliases:
+- Bk822tc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.964601769911504
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

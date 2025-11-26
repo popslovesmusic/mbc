@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: B-modes originate from δ’s antisymmetric component passed through Φ.
-heading: '**4\. Tensor Modes \= δ-Torsion**'
 id: GEN11-1190
-lines: 1255-1257
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-δinflation-projection-axiom::immediate-consequences::4-tensor-modes-δ-torsion::b1
-parent_heading: '**IMMEDIATE CONSEQUENCES**'
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1255-1257
+heading: '**4\. Tensor Modes \= δ-Torsion**'
+parent_heading: '**IMMEDIATE CONSEQUENCES**'
+block_type: paragraph
+excerpt: B-modes originate from δ’s antisymmetric component passed through Φ.
+concepts:
+- B-modes
+- δ
+- Φ
+aliases:
+- Bk700mo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

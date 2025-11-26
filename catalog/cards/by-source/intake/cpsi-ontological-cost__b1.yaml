@@ -1,18 +1,36 @@
+id: INTK-10697
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::cpsi-ontological-cost::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1776-1779
+heading: C[Psi] (Ontological Cost)
+parent_heading: Glossary
 block_type: table
+excerpt: ''
 concepts:
+- Ψ
+- Definition
 - Cross-References
-- Formal Definition
 - Ontological Cost
+- ∫
+- τ
+- δ
+- ∇
+- λ
+- Formal Definition
 - Ontological Role
 - Read More
-- Ψ
-- δ
-- λ
-- τ
-excerpt: ''
-heading: C[Psi] (Ontological Cost)
-id: INTK-10697
-lines: 1776-1779
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::cpsi-ontological-cost::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+aliases:
+- Bk228tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

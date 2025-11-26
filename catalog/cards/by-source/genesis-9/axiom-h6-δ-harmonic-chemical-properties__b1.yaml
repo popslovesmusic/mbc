@@ -1,15 +1,33 @@
+id: GEN9-9029
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::axiom-box-the-δ-harmonic-periodic-table-theorem::axiom-h6-δ-harmonic-chemical-properties::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 81-97
+heading: '**Axiom H6 — δ-Harmonic → Chemical Properties**'
+parent_heading: '**AXIOM BOX — The δ-Harmonic Periodic Table Theorem**'
 block_type: paragraph
-concepts:
-- Atomic Chemistry
-- Harmonic Geometry
-- Tri-Unity
-- δ
 excerpt: 'Chemical valence, electronegativity, ionization structure, covalent geometry,
   and bonding behavior correspond one-to-one with: 1. **δ-degeneracy (shell capacity)**
   2. **chromatic index (mode symmetry)...'
-heading: '**Axiom H6 — δ-Harmonic → Chemical Properties**'
-id: GEN9-9029
-lines: 81-97
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::axiom-box-the-δ-harmonic-periodic-table-theorem::axiom-h6-δ-harmonic-chemical-properties::b1
-parent_heading: '**AXIOM BOX — The δ-Harmonic Periodic Table Theorem**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Tri-Unity
+- δ
+- δ-Harmonic
+- Harmonic Geometry
+- Atomic Chemistry
+- δ-degeneracy
+- one-to-one
+aliases:
+- Bk230cv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.9375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,32 @@
+id: INTK-10030
+location: intake/meta-genesis-outreach-narrative-papers::day-1-breaking-the-static-symmetry::2-narrator-voiceover-the-not-axiom::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 43-65
+heading: '**2\. Narrator Voiceover: The NOT Axiom**'
+parent_heading: '**DAY 1 — BREAKING THE STATIC SYMMETRY**'
 block_type: paragraph
-concepts:
-- Axiom
-- none
-- Ψ
 excerpt: 'The story begins with a single principle: **The NOT Axiom:** *No perfectly
   symmetric, perfectly empty, perfectly silent state can persist;*'
-heading: '**2\. Narrator Voiceover: The NOT Axiom**'
-id: INTK-10030
-lines: 43-65
-location: intake/meta-genesis-outreach-narrative-papers::day-1-breaking-the-static-symmetry::2-narrator-voiceover-the-not-axiom::b1
-parent_heading: '**DAY 1 — BREAKING THE STATIC SYMMETRY**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- Axiom
+- zero-state
+- Ψ
+- ∞
+- every possible perturbation
+- non-change
+- breaks itself
+- none
+aliases:
+- Bk985ts
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.421052631578947
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,31 @@
+id: INTK-10106
+location: intake/meta-genesis-physical-interpretation-papers::1-stillness-requires-identity-ψ₀-has-none::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 454-479
+heading: '**1\. Stillness Requires Identity. Ψ₀ Has None.**'
 block_type: paragraph
-concepts:
-- Zero State
-- Ψ
 excerpt: 'To “remain” still, a system must first have identity: a rule that makes
   it the same state at two different moments. But the Zero State **Ψ₀** — the perfect-static
   origin — has: * no time'
-heading: '**1\. Stillness Requires Identity. Ψ₀ Has None.**'
-id: INTK-10106
-lines: 454-479
-location: intake/meta-genesis-physical-interpretation-papers::1-stillness-requires-identity-ψ₀-has-none::b1
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- State
+- perfect-static
+- is no interval
+- no identity
+- Zero State
+- Ψ₀
+aliases:
+- Bk025rs
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.045977011494253
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

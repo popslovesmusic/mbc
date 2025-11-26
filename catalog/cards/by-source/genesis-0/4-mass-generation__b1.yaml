@@ -1,12 +1,30 @@
+id: GEN0-027
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::4-mass-generation::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 323-345
+heading: '**4\. Mass generation**'
+parent_heading: '**The δ-Higgs / Flavor-Mass Sector**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Insert δ-VEV: Lmass=∑i,j,myij(m)ΨˉiΨj(vδ+δ^(m))\\mathcal L\_{\\text{mass}}
   \= \\sum\_{i,j,m} y^{(m)}\_{ij} \\bar\\Psi\_i\\Psi\_j (v\_\\delta \+ \\hat\\delta^{(m)})Lmass​=i,j,m∑​yij(m)​Ψˉi​Ψj​(vδ​+δ^(m...'
-heading: '**4\. Mass generation**'
-id: GEN0-027
-lines: 323-345
-location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::4-mass-generation::b1
-parent_heading: '**The δ-Higgs / Flavor-Mass Sector**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- ∑
+- Ψ
+- IGSOA
+- δ-VEV
+- hierarchy comes from
+- mass matrix is
+- Ψj
+aliases:
+- Bk903iv
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.405405405405405
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

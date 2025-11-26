@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Just say **“Next: X”**. ChatGPT can make mistakes. Check important info.'
+id: INTK-10027
+location: intake/meta-genesis-mathematical-papers::7-compact-insertable-version-white-paper-ready::a-unified-chapter-combining-identity-emergence-adjacency-genesis-closure::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1349-1353
 heading: '**✔ A unified chapter combining Identity Emergence \+ Adjacency \+ Genesis
   Closure**'
-id: INTK-10027
-lines: 1349-1353
-location: intake/meta-genesis-mathematical-papers::7-compact-insertable-version-white-paper-ready::a-unified-chapter-combining-identity-emergence-adjacency-genesis-closure::b1
 parent_heading: '**7\. Compact Insertable Version (White Paper Ready)**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+block_type: paragraph
+excerpt: 'Just say **“Next: X”**. ChatGPT can make mistakes. Check important info.'
+aliases:
+- Bk883js
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

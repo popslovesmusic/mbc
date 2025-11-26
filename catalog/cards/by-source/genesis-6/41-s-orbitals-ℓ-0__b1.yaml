@@ -1,13 +1,35 @@
+id: GEN6-8214
+location: genesis-6/harmonics-atomic-orbitals::4-explicit-δ-harmonic-shapes-the-orbitals::41-s-orbitals-ℓ-0::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 78-96
+heading: '**4.1 s-Orbitals (ℓ \= 0\)**'
+parent_heading: '**4\. Explicit δ-Harmonic Shapes (the orbitals)**'
 block_type: paragraph
-concepts:
-- Shape
-- Ω
-- δ
 excerpt: 'Angular equation: ΔΩ,δY00(δ)=0\\Delta\_{\\Omega,\\delta} Y\_{00}^{(\\delta)}
   \= 0ΔΩ,δ​Y00(δ)​=0 Thus:'
-heading: '**4.1 s-Orbitals (ℓ \= 0\)**'
-id: GEN6-8214
-lines: 78-96
-location: genesis-6/harmonics-atomic-orbitals::4-explicit-δ-harmonic-shapes-the-orbitals::41-s-orbitals-ℓ-0::b1
-parent_heading: '**4\. Explicit δ-Harmonic Shapes (the orbitals)**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- δ
+- Ω
+- IGSOA predicts subtle s-orbital distortions
+- IGSOA
+- π
+- Δ
+- s-orbital
+- →
+- Shape
+- δY
+aliases:
+- Bk315ae
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

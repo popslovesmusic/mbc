@@ -1,14 +1,31 @@
+id: GEN3-7390
+location: genesis-3/the-physics-box-diagram::v-projection-to-physics::axiom-me-7-φ-projection-yields-gr::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 405-411
+heading: '**Axiom ME-7 (Φ-Projection Yields GR)**'
+parent_heading: '**V. Projection to Physics**'
 block_type: paragraph
-concepts:
-- Φ
-- μ
-- ν
 excerpt: 'Applying the Φ-projection functor PΦP\_\\PhiPΦ​ gives: PΦ(RΦ)=GμνP\_\\Phi(\\mathcal{R}\_\\Phi)
   \= G\_{\\mu\\nu}PΦ​(RΦ​)=Gμν​ where GμνG\_{\\mu\\nu}Gμν​ is the standard Einstein
   tensor.'
-heading: '**Axiom ME-7 (Φ-Projection Yields GR)**'
-id: GEN3-7390
-lines: 405-411
-location: genesis-3/the-physics-box-diagram::v-projection-to-physics::axiom-me-7-φ-projection-yields-gr::b1
-parent_heading: '**V. Projection to Physics**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Φ
+- Φ-projection
+- μ
+- ν
+- ΦP
+aliases:
+- Bk766at
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

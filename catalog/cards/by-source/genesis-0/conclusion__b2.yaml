@@ -1,12 +1,27 @@
+id: GEN0-201
+location: genesis-0/tri-unity-theorem-equivalence-of::conclusion::b2
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 701-707
+heading: '**Conclusion**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- Ψ
 excerpt: All three pillars—deviation, closure, and Meta-Time ordering—jointly prohibit
   a return to the zero-state. Ψ1 is structurally stable.\\boxed{ \\Psi\_1 \\text{
   is structurally stable.} }Ψ1​ is structura...
-heading: '**Conclusion**'
-id: GEN0-201
-lines: 701-707
-location: genesis-0/tri-unity-theorem-equivalence-of::conclusion::b2
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Meta-Time
+- Ψ
+- Theorem
+- →
+- zero-state
+aliases:
+- Bk248at
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.8493150684931505
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

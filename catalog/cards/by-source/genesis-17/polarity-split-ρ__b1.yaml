@@ -1,11 +1,26 @@
+id: GEN17-4789
+location: genesis-17/box-calculus::axiom-9-all-other-operators-are-derived-operators::polarity-split-ρ::b1
+source: genesis-17\box_calculus.md
+lines: 9436-9445
+heading: 'Polarity Split (ρ):'
+parent_heading: 🔷 AXIOM 9 – All Other Operators Are Derived Operators
 block_type: paragraph
+excerpt: ρ(Σ)=(Σ+,Σ−) ρ(Σ)=(Σ \+
 concepts:
 - Σ
 - ρ
-excerpt: ρ(Σ)=(Σ+,Σ−) ρ(Σ)=(Σ \+
-heading: 'Polarity Split (ρ):'
-id: GEN17-4789
-lines: 9436-9445
-location: genesis-17/box-calculus::axiom-9-all-other-operators-are-derived-operators::polarity-split-ρ::b1
-parent_heading: 🔷 AXIOM 9 – All Other Operators Are Derived Operators
-source: genesis-17\box_calculus.md
+aliases:
+- Bk072f3
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

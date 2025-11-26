@@ -1,17 +1,40 @@
+id: GEN0-320
+location: genesis-0/why-the-first-action-is-necessary::9-summary-for-the-reader::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1271-1305
+heading: '**9\. Summary (for the reader)**'
 block_type: paragraph
-concepts:
-- Boson Propagator Tower
-- Boson Tower
-- Feynman Rules
-- Interaction Vertices
-- Meta-Geometric
-- Spectral Decomposition Matrix
-- δ
 excerpt: 'The δ-boson is the quantized manifestation of deviation. It is not a single
   particle but an **infinite spectral tower**: * each level \= a fractal geometric
   excitation'
-heading: '**9\. Summary (for the reader)**'
-id: GEN0-320
-lines: 1271-1305
-location: genesis-0/why-the-first-action-is-necessary::9-summary-for-the-reader::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ
+- IGSOA
+- Renormalization group equations for δ modes
+- δ-Boson
+- Spectral Decomposition Matrix
+- Meta-Geometric
+- flavor-mass
+- δ-Feynman
+- infinite spectral tower
+- Boson Propagator Tower
+- δ-Higgs
+- δ-boson
+- δ-EFT
+- Interaction Vertices
+- Feynman Rules
+aliases:
+- Bk871tb
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.06
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,17 +1,41 @@
+id: GEN11-1239
+location: genesis-11/the-adjacency-wave-equation::the-δadjacency-wave-equation::axiomatic-content::b1
+source: genesis-11\The_Adjacency_Wave_Equation.md
+lines: 22-33
+heading: '**Axiomatic Content**'
+parent_heading: '**The δ–Adjacency Wave Equation**'
 block_type: list
-concepts:
-- Adjacency Kinetics
-- Deviational Mass Term
-- Meta-Time
-- Propagation Term
-- δ
-- τ
 excerpt: 1. **Adjacency Kinetics (Propagation Term):** The adjacency Laplacian `Δₐ`
   is the curvature-free kinetic operator on pure adjacency space before δ-curvature
   bends it. Δa:=Tr(∂a⊗∂a)\\Delta\_{a} := \\ma...
-heading: '**Axiomatic Content**'
-id: GEN11-1239
-lines: 22-33
-location: genesis-11/the-adjacency-wave-equation::the-δadjacency-wave-equation::axiomatic-content::b1
-parent_heading: '**The δ–Adjacency Wave Equation**'
-source: genesis-11\The_Adjacency_Wave_Equation.md
+concepts:
+- δ
+- Meta-Time
+- ∂
+- Adjacency
+- Deviation
+- Δ
+- ⊗
+- mass-curvature
+- curvature-free
+- δ-curvature
+- δ-boson
+- τ
+- Deviational Mass Term
+- Adjacency Kinetics
+- Propagation Term
+aliases:
+- Bk326ak
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.09433962264151
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

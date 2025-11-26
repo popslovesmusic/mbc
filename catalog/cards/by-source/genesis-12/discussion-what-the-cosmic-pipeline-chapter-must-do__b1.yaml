@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'This isn’t just another chapter. This is **the skeleton key** that unlocks
-  everything else. It needs to:'
-heading: '**Discussion: What the Cosmic Pipeline Chapter Must Do**'
 id: GEN12-1529
-lines: 2-7
 location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::discussion-what-the-cosmic-pipeline-chapter-must-do::b1
 source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2-7
+heading: '**Discussion: What the Cosmic Pipeline Chapter Must Do**'
+block_type: paragraph
+excerpt: 'This isn’t just another chapter. This is **the skeleton key** that unlocks
+  everything else. It needs to:'
+concepts:
+- the skeleton key
+aliases:
+- Bk880ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

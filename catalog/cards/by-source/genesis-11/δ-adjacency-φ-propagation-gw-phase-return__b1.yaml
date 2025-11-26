@@ -1,15 +1,38 @@
-block_type: paragraph
-concepts:
-- adjacency
-- Π
-- Φ
-- δ
-excerpt: 'In IGSOA, **adjacency** is the pre-metric structure: a graph-like relation
-  that determines *who can affect whom* before metric distances exist. The key point:'
-heading: '***δ → Adjacency → Φ-propagation → GW phase return***'
 id: GEN11-1109
-lines: 263-274
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::how-adjacency-structure-can-cause-gravitational-wave-echoes-igsoa-version::δ-adjacency-φ-propagation-gw-phase-return::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 263-274
+heading: '***δ → Adjacency → Φ-propagation → GW phase return***'
 parent_heading: '**How Adjacency Structure Can Cause Gravitational-Wave Echoes (IGSOA
   Version)**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+block_type: paragraph
+excerpt: 'In IGSOA, **adjacency** is the pre-metric structure: a graph-like relation
+  that determines *who can affect whom* before metric distances exist. The key point:'
+concepts:
+- IGSOA
+- phase-symmetry
+- Π-condensed
+- δ-harmonics
+- graph-like
+- pre-metric
+- re-enter
+- Φ-modes
+- Π
+- δ
+- Φ
+- adjacency
+aliases:
+- Bk599ia
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

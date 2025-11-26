@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'In functorial language: δ⊣Φ⊣Π.\\delta \\dashv \\Phi \\dashv \\Pi.δ⊣Φ⊣Π.'
-heading: '**Ⅵ. Category-Theoretic Interpretation**'
 id: GEN15-3183
-lines: 1705-1709
 location: genesis-15/the-mass-curvature-projection-theorem::ⅵ-category-theoretic-interpretation::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1705-1709
+heading: '**Ⅵ. Category-Theoretic Interpretation**'
+block_type: paragraph
+excerpt: 'In functorial language: δ⊣Φ⊣Π.\\delta \\dashv \\Phi \\dashv \\Pi.δ⊣Φ⊣Π.'
+concepts:
+- Π
+- δ
+- Φ
+aliases:
+- Bk664fl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

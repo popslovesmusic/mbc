@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Math Diagram
-- Standard Physics
-excerpt: 'Each “layer” of the stack contains: 1. **IGSOA Diagram (Left)** 2. **Standard
-  Physics/Math Diagram (Right)**'
-heading: '**STRUCTURE OF THE STACK**'
 id: GEN18-5638
-lines: 468-478
 location: genesis-18/sealed-axiom-box::structure-of-the-stack::b1
 source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 468-478
+heading: '**STRUCTURE OF THE STACK**'
+block_type: paragraph
+excerpt: 'Each “layer” of the stack contains: 1. **IGSOA Diagram (Left)** 2. **Standard
+  Physics/Math Diagram (Right)**'
+concepts:
+- IGSOA
+- Cross-reference statement
+- Cross-reference
+- Standard Physics
+- Math Diagram
+aliases:
+- Bk944el
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 21.73913043478261
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

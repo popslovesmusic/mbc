@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: X∼Y  ⟹  F(X)→F(Y).X\\sim Y \\implies F(X)\\to F(Y).X∼Y⟹F(X)→F(Y).
-heading: '**Axiom MM.2 — Adjacency Preservation**'
 id: GEN4-7632
-lines: 517-519
 location: genesis-4/meta-physics-axiom-box::iv-meta-math-axioms-structure-action::axiom-mm2-adjacency-preservation::b1
-parent_heading: '**IV. META-MATH AXIOMS (Structure → Action)**'
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 517-519
+heading: '**Axiom MM.2 — Adjacency Preservation**'
+parent_heading: '**IV. META-MATH AXIOMS (Structure → Action)**'
+block_type: paragraph
+excerpt: X∼Y  ⟹  F(X)→F(Y).X\\sim Y \\implies F(X)\\to F(Y).X∼Y⟹F(X)→F(Y).
+concepts:
+- →
+aliases:
+- Bk670si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,29 @@
+id: GEN16-3913
+location: genesis-16/untitled-document::3-expansion-direction-iii-dynamic-systems-field-theory::32-semantic-lagrangian-action-principle::b1
+source: genesis-16\Untitled_document.md
+lines: 2292-2300
+heading: '**3.2. Semantic Lagrangian / Action Principle**'
+parent_heading: '**3\. Expansion Direction III: Dynamic Systems & Field Theory**'
 block_type: paragraph
-concepts:
-- Π
-- Σ
 excerpt: 'Define an action: S\[Σ\]=∫L(Σ,Σ˙) dtS\[\\Sigma\] \= \\int L(\\Sigma, \\dot{\\Sigma})\\,dtS\[Σ\]=∫L(Σ,Σ˙)dt
   Such that Π-evaluation corresponds to:'
-heading: '**3.2. Semantic Lagrangian / Action Principle**'
-id: GEN16-3913
-lines: 2292-2300
-location: genesis-16/untitled-document::3-expansion-direction-iii-dynamic-systems-field-theory::32-semantic-lagrangian-action-principle::b1
-parent_heading: '**3\. Expansion Direction III: Dynamic Systems & Field Theory**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Π-evaluation
+- Σ
+- ∫
+- Π
+aliases:
+- Bk369da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

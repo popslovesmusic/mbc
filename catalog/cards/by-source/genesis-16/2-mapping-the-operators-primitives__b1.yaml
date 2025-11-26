@@ -1,13 +1,28 @@
+id: GEN16-3970
+location: genesis-16/untitled-document::2-mapping-the-operators-primitives::b1
+source: genesis-16\Untitled_document.md
+lines: 2899-2903
+heading: '**⭐ 2\. Mapping the Operators (Primitives)**'
 block_type: paragraph
+excerpt: 'Recall Box operator alphabet: O={E,A,ρ,R,Φ,Π}\\mathcal{O}=\\{E,A,\\rho,\\mathcal{R},\\Phi,\\Pi\\}O={E,A,ρ,R,Φ,Π}'
 concepts:
 - Box
-- Recall Box
 - Π
 - Φ
 - ρ
-excerpt: 'Recall Box operator alphabet: O={E,A,ρ,R,Φ,Π}\\mathcal{O}=\\{E,A,\\rho,\\mathcal{R},\\Phi,\\Pi\\}O={E,A,ρ,R,Φ,Π}'
-heading: '**⭐ 2\. Mapping the Operators (Primitives)**'
-id: GEN16-3970
-lines: 2899-2903
-location: genesis-16/untitled-document::2-mapping-the-operators-primitives::b1
-source: genesis-16\Untitled_document.md
+- Recall Box
+aliases:
+- Bk725rb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.51851851851852
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

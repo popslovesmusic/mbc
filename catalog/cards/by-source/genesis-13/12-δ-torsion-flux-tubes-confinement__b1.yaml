@@ -1,11 +1,29 @@
+id: GEN13-2147
+location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-source-of-all-color-and-confinement::12-δ-torsion-flux-tubes-confinement::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1803-1811
+heading: '**1.2 δ-Torsion → Flux Tubes → Confinement**'
+parent_heading: '**1\. The δ-Layer: Source of All Color and Confinement**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: T=Tor(δ)≠0.T \= \\mathrm{Tor}(\\delta) \\neq 0.T=Tor(δ)=0. * δ-torsion enforces
   minimal flux-tube bundles. * This is the geometric precursor of color confinement.
-heading: '**1.2 δ-Torsion → Flux Tubes → Confinement**'
-id: GEN13-2147
-lines: 1803-1811
-location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-source-of-all-color-and-confinement::12-δ-torsion-flux-tubes-confinement::b1
-parent_heading: '**1\. The δ-Layer: Source of All Color and Confinement**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- δ
+- flux-tube
+- δ-torsion
+- ≠
+aliases:
+- Bk928tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.793103448275861
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

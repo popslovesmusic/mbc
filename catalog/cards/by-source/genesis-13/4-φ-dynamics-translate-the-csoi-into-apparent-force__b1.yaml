@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Φ
-- α
-- δ
-excerpt: 'Φ acts on δ-curvature the same way it always does: aΦ(r)=Φ\[∂δ(r)\]a\_\\Phi(r)
-  \= \\Phi\[\\partial\\delta(r)\]aΦ​(r)=Φ\[∂δ(r)\] For the CSOI-tail:'
-heading: '**4\. Φ-Dynamics Translate the CSOI into Apparent Force**'
 id: GEN13-2309
-lines: 724-736
 location: genesis-13/the-weight-of-light::4-φ-dynamics-translate-the-csoi-into-apparent-force::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 724-736
+heading: '**4\. Φ-Dynamics Translate the CSOI into Apparent Force**'
+block_type: paragraph
+excerpt: 'Φ acts on δ-curvature the same way it always does: aΦ(r)=Φ\[∂δ(r)\]a\_\\Phi(r)
+  \= \\Phi\[\\partial\\delta(r)\]aΦ​(r)=Φ\[∂δ(r)\] For the CSOI-tail:'
+concepts:
+- Φ
+- δ
+- ∂
+- CSOI-tail
+- α
+- δ-curvature
+- dynamical acceleration
+aliases:
+- Bk648ac
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

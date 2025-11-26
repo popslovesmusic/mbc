@@ -1,16 +1,43 @@
+id: GEN5-8139
+location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::iii-the-target-meta-einstein::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 69-93
+heading: '**III. THE TARGET: META-EINSTEIN**'
+parent_heading: '**THE GA-8 → META-EINSTEIN THEOREM**'
 block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- The Meta
-- Φ
-- δ
 excerpt: 'The Meta-Einstein Equation is: E(g):=Ric⁡δ(g)−12 g Rδ=TΦ\\mathcal{E}(g)
   := \\operatorname{Ric}\_\\delta(g) \- \\tfrac{1}{2}\\,g\\,R\_\\delta \= T\_\\PhiE(g):=Ricδ​(g)−21​gRδ​=TΦ​
   Where:'
-heading: '**III. THE TARGET: META-EINSTEIN**'
-id: GEN5-8139
-lines: 69-93
-location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::iii-the-target-meta-einstein::b1
-parent_heading: '**THE GA-8 → META-EINSTEIN THEOREM**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- δ
+- Meta-Einstein
+- Φ
+- energy-information
+- ∃
+- →
+- δ-adjacency
+- δ-scalar
+- δ-Ricci
+- Φ-mode
+- Einstein Equation
+- The Meta
+- ΦT
+- δR
+aliases:
+- Bk008ga
+tags:
+- GA-8
+- definitive
+- low-uncertainty
+is_formal: true
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.852713178294573
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- GA-8

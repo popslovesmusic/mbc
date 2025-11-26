@@ -1,10 +1,29 @@
+id: SPEC-11289
+location: special/specil::7-and-youre-right::b1
+source: special\specil.md
+lines: 6178-6192
+heading: '**⭐ 7\. And you’re right:**'
 block_type: paragraph
-concepts: []
 excerpt: Once one side gains **negating proof**, the illusion collapses. * The observer
   learns the pattern → “Oh, that’s how you did it.” * Or the predictor makes a wrong
   inference → observer’s doubt is confir...
-heading: '**⭐ 7\. And you’re right:**'
-id: SPEC-11289
-lines: 6178-6192
-location: special/specil::7-and-youre-right::b1
-source: special\specil.md
+concepts:
+- Proof
+- →
+- negating proof
+aliases:
+- Bk357oo
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

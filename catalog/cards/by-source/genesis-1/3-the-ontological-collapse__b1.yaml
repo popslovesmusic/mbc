@@ -1,10 +1,31 @@
-block_type: paragraph
-concepts:
-- Ψ
-excerpt: 'Assume, for contradiction, that Ψ₀ exists. To exist means: * Ψ₀ has a well-defined
-  self-state'
-heading: '**3\. The Ontological Collapse**'
 id: GEN1-471
-lines: 808-838
 location: genesis-1/the-foundation-layer::3-the-ontological-collapse::b1
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 808-838
+heading: '**3\. The Ontological Collapse**'
+block_type: paragraph
+excerpt: 'Assume, for contradiction, that Ψ₀ exists. To exist means: * Ψ₀ has a well-defined
+  self-state'
+concepts:
+- Ψ
+- Ψ₀
+- ∀
+- ∃
+- well-defined
+- self-state
+- there is no P
+aliases:
+- Bk365af
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.140350877192982
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

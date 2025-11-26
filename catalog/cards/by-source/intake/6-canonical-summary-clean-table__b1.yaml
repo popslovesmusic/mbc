@@ -1,19 +1,37 @@
-block_type: table
-concepts:
-- Adjacency Void
-- Codomain
-- Domain
-- Infinite Curvature
-- Meta-Time
-- Operator
-- Time Static
-- Zero-Deviation
-- Zero-State
-- Ψ
-- δ
-excerpt: '---'
-heading: '**6\. Canonical Summary (clean table)**'
 id: INTK-10205
-lines: 380-392
 location: intake/meta-genesis-meta-math-integration-papers::6-canonical-summary-clean-table::b1
 source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 380-392
+heading: '**6\. Canonical Summary (clean table)**'
+block_type: table
+excerpt: '---'
+concepts:
+- Meta-Time
+- δ
+- Adjacency
+- Curvature
+- Deviation
+- Ψ
+- ∞
+- Operator
+- State
+- Meta-Time Static
+- ∂
+- Zero-Deviation
+- Operator-null
+- Zero-State
+- ≠
+aliases:
+- Bk918cc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.390243902439025
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

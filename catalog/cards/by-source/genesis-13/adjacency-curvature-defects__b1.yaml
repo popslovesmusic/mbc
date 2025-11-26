@@ -1,15 +1,37 @@
-block_type: paragraph
-concepts:
-- Topological Classes
-- Λ
-- Ω
-- δ
-- δ-Lattice
-- λ
-excerpt: '`δ-Lattice` `┌──────────────────────────┐` `│   Λδ = (V, E, δ)         │`'
-heading: '***(Adjacency, Curvature, Defects)***'
 id: GEN13-2255
-lines: 2962-2991
 location: genesis-13/meta-math-nuclear-physics::i-δ-geometry-layer::adjacency-curvature-defects::b1
-parent_heading: '**I. δ-GEOMETRY LAYER**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2962-2991
+heading: '***(Adjacency, Curvature, Defects)***'
+parent_heading: '**I. δ-GEOMETRY LAYER**'
+block_type: paragraph
+excerpt: '`δ-Lattice` `┌──────────────────────────┐` `│   Λδ = (V, E, δ)         │`'
+concepts:
+- δ
+- Curvature
+- ψ
+- Ω
+- Λ
+- δ-Topological
+- δ-Harmonics
+- δ-Curvature
+- δ-Lattice
+- pre-band
+- π
+- λ
+- Topological Classes
+aliases:
+- Bk363la
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 41.935483870967744
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Σ
-- Φ
-- δ
-excerpt: 'The system now has: * a defined algebra on Σ * a formal merge operator'
-heading: ⭐ You have now resolved Gap A completely.
 id: GEN17-4219
-lines: 1120-1131
 location: genesis-17/box-calculus::you-have-now-resolved-gap-a-completely::b1
 source: genesis-17\box_calculus.md
+lines: 1120-1131
+heading: ⭐ You have now resolved Gap A completely.
+block_type: paragraph
+excerpt: 'The system now has: * a defined algebra on Σ * a formal merge operator'
+concepts:
+- δ
+- →
+- δ-curvature
+- Π
+- Φ
+- Σ
+aliases:
+- Bk176ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.35483870967742
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- micro-galaxies
-- where
-- Π
-- Φ
-- δ
-excerpt: 'Star formation begins where: * Φ compresses δ-harmonic nodes to local high
-  curvature, * Π projects density thresholds into luminous ignition.'
-heading: '**7\. Star Formation as Local δ-Peaking**'
 id: GEN12-1844
-lines: 1875-1893
 location: genesis-12/untitled-document::7-star-formation-as-local-δ-peaking::b1
 source: genesis-12\Untitled_document.md
+lines: 1875-1893
+heading: '**7\. Star Formation as Local δ-Peaking**'
+block_type: paragraph
+excerpt: 'Star formation begins where: * Φ compresses δ-harmonic nodes to local high
+  curvature, * Π projects density thresholds into luminous ignition.'
+concepts:
+- Π
+- δ
+- Φ
+- micro-galaxies
+- δ-harmonic
+- tri-unity
+- where
+- how brightly
+- how sharply
+aliases:
+- Bk794sf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

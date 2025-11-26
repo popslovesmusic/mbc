@@ -1,13 +1,30 @@
+id: GEN16-3670
+location: genesis-16/quantum-measurement-in-igsoa-vs::cross-references-to-igsoa-core-concepts::φ-dynamics::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 23-27
+heading: '**Φ-Dynamics**'
+parent_heading: '**Cross-References to IGSOA Core Concepts**'
 block_type: list
-concepts:
-- Field
-- Φ
-- δ
 excerpt: '* Field-like mode that appears when δ-potential enters coherent interaction
   with macroscopic structures * Decoherence \= δ→Φ symmetry breaking'
-heading: '**Φ-Dynamics**'
-id: GEN16-3670
-lines: 23-27
-location: genesis-16/quantum-measurement-in-igsoa-vs::cross-references-to-igsoa-core-concepts::φ-dynamics::b1
-parent_heading: '**Cross-References to IGSOA Core Concepts**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- Field
+- δ
+- δ-potential
+- Field-like
+- Φ
+- →
+aliases:
+- Bk128fl
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.57894736842105
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

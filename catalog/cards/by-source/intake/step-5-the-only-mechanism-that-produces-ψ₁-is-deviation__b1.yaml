@@ -1,11 +1,28 @@
+id: INTK-9835
+location: intake/meta-genesis-core-papers-foundations::3-formal-proof::step-5-the-only-mechanism-that-produces-ψ₁-is-deviation::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1021-1047
+heading: '**Step 5 — The only mechanism that produces Ψ₁ is deviation**'
+parent_heading: '**3\. Formal Proof**'
 block_type: paragraph
+excerpt: 'Since Ψ₀ has: * no operators * no geometry'
 concepts:
 - Ψ
 - δ
-excerpt: 'Since Ψ₀ has: * no operators * no geometry'
-heading: '**Step 5 — The only mechanism that produces Ψ₁ is deviation**'
-id: INTK-9835
-lines: 1021-1047
-location: intake/meta-genesis-core-papers-foundations::3-formal-proof::step-5-the-only-mechanism-that-produces-ψ₁-is-deviation::b1
-parent_heading: '**3\. Formal Proof**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+- δint
+- →
+- exactly one
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk670sh
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.76923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

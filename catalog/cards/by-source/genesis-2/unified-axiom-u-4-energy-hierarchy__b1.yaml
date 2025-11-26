@@ -1,13 +1,28 @@
+id: GEN2-6436
+location: genesis-2/axioms-of-geometry-topos-compatible::section-iii-δφ-structural-unity::unified-axiom-u-4-energy-hierarchy::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1578-1584
+heading: '**Unified Axiom (U-4) — Energy Hierarchy**'
+parent_heading: '**Section III — δ–Φ Structural Unity**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Tδ    ⟶    TΦ    ⟶    TMetaT\_\\delta \\;\\;\\longrightarrow\\;\\; T\_\\Phi
   \\;\\;\\longrightarrow\\;\\; T\_{\\text{Meta}}Tδ​⟶TΦ​⟶TMeta​ is functorial and preserves
   conservation laws. ---
-heading: '**Unified Axiom (U-4) — Energy Hierarchy**'
-id: GEN2-6436
-lines: 1578-1584
-location: genesis-2/axioms-of-geometry-topos-compatible::section-iii-δφ-structural-unity::unified-axiom-u-4-energy-hierarchy::b1
-parent_heading: '**Section III — δ–Φ Structural Unity**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- δ
+- Φ
+aliases:
+- Bk770td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

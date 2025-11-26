@@ -1,11 +1,33 @@
-block_type: paragraph
-concepts:
-- δ
-- λ
-excerpt: 'Decompose: δϕ(x)=∑nan ψn(x)\\delta\\phi(x) \= \\sum\_{n} a\_n \\, \\psi\_n(x)δϕ(x)=n∑​an​ψn​(x)
-  where ψn\\psi\_nψn​ are δ-harmonic eigenmodes:'
-heading: '**4\. δ-Harmonic Decomposition**'
 id: GEN8-8887
-lines: 2176-2194
 location: genesis-8/meta-time-geometry-and-temporal-projection::4-δ-harmonic-decomposition::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2176-2194
+heading: '**4\. δ-Harmonic Decomposition**'
+block_type: paragraph
+excerpt: 'Decompose: δϕ(x)=∑nan ψn(x)\\delta\\phi(x) \= \\sum\_{n} a\_n \\, \\psi\_n(x)δϕ(x)=n∑​an​ψn​(x)
+  where ψn\\psi\_nψn​ are δ-harmonic eigenmodes:'
+concepts:
+- ψ
+- δ
+- ∑
+- ∂
+- δ-boson mass matrix
+- Δ
+- λ
+- δ-harmonic
+- δ-boson
+aliases:
+- Bk372dn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.03125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

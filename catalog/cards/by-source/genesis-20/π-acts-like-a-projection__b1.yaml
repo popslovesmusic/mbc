@@ -1,12 +1,27 @@
+id: GEN20-6889
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::102-polarity-tensors::π-acts-like-a-projection::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3137-3140
+heading: Π acts like a projection
+parent_heading: 10.2 Polarity Tensors
 block_type: paragraph
-concepts:
-- Θ
-- Π
 excerpt: Π takes Θ⃗ and produces a single meaningful evaluation, similar to projecting
   onto a semantic axis. ---
-heading: Π acts like a projection
-id: GEN20-6889
-lines: 3137-3140
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::102-polarity-tensors::π-acts-like-a-projection::b1
-parent_heading: 10.2 Polarity Tensors
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Π
+- Θ
+aliases:
+- Bk921ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

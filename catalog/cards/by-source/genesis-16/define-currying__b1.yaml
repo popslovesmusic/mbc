@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Given: h:B1×B2→B3h : B\_1 \\times B\_2 \\to B\_3h:B1​×B2​→B3​ define:'
-heading: '**Define Currying**'
 id: GEN16-4073
-lines: 4249-4261
 location: genesis-16/untitled-document::6-currying-isomorphism::define-currying::b1
-parent_heading: '**⭐ 6\. Currying Isomorphism**'
 source: genesis-16\Untitled_document.md
+lines: 4249-4261
+heading: '**Define Currying**'
+parent_heading: '**⭐ 6\. Currying Isomorphism**'
+block_type: paragraph
+excerpt: 'Given: h:B1×B2→B3h : B\_1 \\times B\_2 \\to B\_3h:B1​×B2​→B3​ define:'
+concepts:
+- →
+aliases:
+- Bk584gt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.9230769230769231
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

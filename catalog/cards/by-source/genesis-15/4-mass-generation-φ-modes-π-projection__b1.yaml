@@ -1,11 +1,25 @@
-block_type: paragraph
-concepts:
-- Π
-- δ
-excerpt: 'For a particle mode ψn\\psi\_nψn​: mn=Π(⟨ψn,Kδψn⟩).m\_n \= \\Pi(\\langle
-  \\psi\_n , \\mathcal{K}\_\\delta \\psi\_n \\rangle).mn​=Π(⟨ψn​,Kδ​ψn​⟩). This gives:'
-heading: '**⟡ 4\. Mass Generation: Φ-modes \+ Π-projection**'
 id: GEN15-3119
-lines: 582-598
 location: genesis-15/the-mass-curvature-projection-theorem::4-mass-generation-φ-modes-π-projection::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 582-598
+heading: '**⟡ 4\. Mass Generation: Φ-modes \+ Π-projection**'
+block_type: paragraph
+excerpt: 'For a particle mode ψn\\psi\_nψn​: mn=Π(⟨ψn,Kδψn⟩).m\_n \= \\Pi(\\langle
+  \\psi\_n , \\mathcal{K}\_\\delta \\psi\_n \\rangle).mn​=Π(⟨ψn​,Kδ​ψn​⟩). This gives:'
+concepts:
+- ψ
+- δ
+- δ-curvature
+- Π
+aliases:
+- Bk609fp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.017543859649122
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

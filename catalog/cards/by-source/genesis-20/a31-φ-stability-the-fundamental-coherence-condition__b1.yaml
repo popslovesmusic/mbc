@@ -1,11 +1,27 @@
+id: GEN20-7131
+location: genesis-20/mbc-40-documentaitio-1::a31-φ-stability-the-fundamental-coherence-condition::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5924-5929
+heading: 'A3.1 Φ-Stability: The Fundamental Coherence Condition'
 block_type: paragraph
+excerpt: 'Φ is responsible for stabilizing raw deviation. A Φ-state must satisfy:
+  Φ(δ)=Φ(Φ(δ))'
 concepts:
 - Φ
 - δ
-excerpt: 'Φ is responsible for stabilizing raw deviation. A Φ-state must satisfy:
-  Φ(δ)=Φ(Φ(δ))'
-heading: 'A3.1 Φ-Stability: The Fundamental Coherence Condition'
-id: GEN20-7131
-lines: 5924-5929
-location: genesis-20/mbc-40-documentaitio-1::a31-φ-stability-the-fundamental-coherence-condition::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+- Φ-state
+aliases:
+- Bk885rf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

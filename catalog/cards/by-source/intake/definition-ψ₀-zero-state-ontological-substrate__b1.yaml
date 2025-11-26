@@ -1,16 +1,35 @@
+id: INTK-9761
+location: intake/meta-genesis-core-papers-foundations::1-formal-definition::definition-ψ₀-zero-state-ontological-substrate::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 248-252
+heading: '**Definition (Ψ₀): Zero State Ontological Substrate**'
+parent_heading: '**1\. Formal Definition**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Ontological
-- Ontological Arena
-- Zero State
-- Ψ
 excerpt: 'Let **𝒰** be the Meta-Genesis pre-field (the Meta-Ontological Arena). The
   **Zero State**, Ψ₀, is defined as the **unique, atemporal, operator-free, minimal
   informational substrate** satisfying:'
-heading: '**Definition (Ψ₀): Zero State Ontological Substrate**'
-id: INTK-9761
-lines: 248-252
-location: intake/meta-genesis-core-papers-foundations::1-formal-definition::definition-ψ₀-zero-state-ontological-substrate::b1
-parent_heading: '**1\. Formal Definition**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Meta-Genesis
+- State
+- Meta-Ontological
+- operator-free
+- pre-field
+- Ψ
+- Ontological Arena
+- Zero State
+- Ψ₀
+aliases:
+- Bk383lt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 32.142857142857146
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

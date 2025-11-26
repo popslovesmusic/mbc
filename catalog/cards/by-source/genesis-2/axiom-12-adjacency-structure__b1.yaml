@@ -1,13 +1,30 @@
+id: GEN2-6298
+location: genesis-2/axioms-of-geometry-topos-compatible::1-δ-geometry-objects-and-morphisms::axiom-12-adjacency-structure::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 51-62
+heading: '**Axiom 1.2 — Adjacency Structure**'
+parent_heading: '**1\. δ-Geometry: Objects and Morphisms**'
 block_type: paragraph
-concepts:
-- primitive
-- δ
 excerpt: Every δ-object AAA is equipped with a reflexive, symmetric relation object
   Adj(A)⊆A×A\\mathrm{Adj}(A) \\subseteq A \\times AAdj(A)⊆A×A interpreted as the **deviational
   adjacency relation**.
-heading: '**Axiom 1.2 — Adjacency Structure**'
-id: GEN2-6298
-lines: 51-62
-location: genesis-2/axioms-of-geometry-topos-compatible::1-δ-geometry-objects-and-morphisms::axiom-12-adjacency-structure::b1
-parent_heading: '**1\. δ-Geometry: Objects and Morphisms**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Adjacency
+- deviational adjacency relation
+- δ-object
+- δ
+- primitive
+aliases:
+- Bk696eo
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.416666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

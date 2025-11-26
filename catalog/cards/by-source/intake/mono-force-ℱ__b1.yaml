@@ -1,13 +1,28 @@
+id: INTK-10285
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::connection-to-deviation-calculus-and-operators::mono-force-ℱ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 638-639
+heading: Mono-Force (ℱ)
+parent_heading: Connection to Deviation Calculus and Operators
 block_type: paragraph
-concepts:
-- Mono-Force
-- Ψ
 excerpt: The accumulated `C(t)` influences the ontological cost function `C[Ψ]`, which
   in turn guides the **Mono-Force (ℱ)** towards new actualizations. This means history
   guides the future.
-heading: Mono-Force (ℱ)
-id: INTK-10285
-lines: 638-639
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::connection-to-deviation-calculus-and-operators::mono-force-ℱ::b1
-parent_heading: Connection to Deviation Calculus and Operators
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Mono-Force
+- Ψ
+aliases:
+- Bk869ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

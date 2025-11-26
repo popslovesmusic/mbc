@@ -1,24 +1,39 @@
+id: GEN8-9005
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::seal::b2
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1238-1258
+heading: '**SEAL**'
 block_type: list
-concepts:
-- Axiom
-- Box
-- Einstein Hermetic Box
-- First Movement
-- Genesis Axiom Stack
-- Meta-Einstein
-- Meta-Genesis
-- Meta-Time
-- The Adjacency Axiom
-- The Genesis Closure Axiom
-- The Ordering
-- Time Axiom
-- necessity
-- δ
 excerpt: '* MG–1 is **the first axiom** of Meta-Genesis. * It supersedes naïve “beginning”
   concepts by defining the *necessity* of δ. * It is consistent with NOT, δ-Axioms,
   and the Meta-Einstein Hermetic Box.'
-heading: '**SEAL**'
-id: GEN8-9005
-lines: 1238-1258
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::seal::b2
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- Axiom
+- Meta-Einstein
+- Meta-Genesis
+- Meta-Time
+- Adjacency
+- Meta-Genesis Axiom Stack
+- Box
+- δ
+- The Genesis Closure Axiom
+- MG-Axioms
+- δ-Axioms
+- Einstein Hermetic Box
+- →
+- The Adjacency Axiom
+- Genesis Axiom Stack
+aliases:
+- Bk036tf
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

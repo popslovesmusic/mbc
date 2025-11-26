@@ -1,12 +1,28 @@
+id: GEN5-7961
+location: genesis-5/formal-proof-of-the-adjoint-triple::topostheoretic-axiom-box-the-genesismathtopos-adjoint-triple::axiom-t8-topos-compatibility::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 365-371
+heading: '**Axiom T8 (Topos Compatibility).**'
+parent_heading: '**▢ Topos–Theoretic Axiom Box: The Genesis–Math–Topos Adjoint Triple**'
 block_type: paragraph
-concepts:
-- σ
 excerpt: The middle category σTop\\sigma TopσTop is a Grothendieck topos. The functor
   U:MM→σTopU:MM \\to \\sigma TopU:MM→σTop preserves finite limits, and the functor
   R:σTop→MGR:\\sigma Top \\to MGR:σTop→MG pr...
-heading: '**Axiom T8 (Topos Compatibility).**'
-id: GEN5-7961
-lines: 365-371
-location: genesis-5/formal-proof-of-the-adjoint-triple::topostheoretic-axiom-box-the-genesismathtopos-adjoint-triple::axiom-t8-topos-compatibility::b1
-parent_heading: '**▢ Topos–Theoretic Axiom Box: The Genesis–Math–Topos Adjoint Triple**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- σ
+- →
+aliases:
+- Bk710tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

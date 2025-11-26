@@ -1,17 +1,40 @@
+id: GEN6-8384
+location: genesis-6/the-harmonic-spectral-triple::8-final-box-ready-to-insert-into-white-papers::3-representation-forces-distinguishability-adjacency-geometry::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 313-354
+heading: '**3\. Representation forces distinguishability → adjacency → geometry**'
+parent_heading: '**8\. Final Box (ready to insert into white papers)**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- eigen-decomposition
-- manufactures
-- orthogonality
-- states
-- δ
 excerpt: 'A C\*-algebra by itself is abstract. To become physics it must act on a
   Hilbert space: π(Aδ)⊂B(Hδ)\\pi(\\mathcal A\_\\delta)\\subset \\mathcal B(\\mathcal
   H\_\\delta)π(Aδ​)⊂B(Hδ​)'
-heading: '**3\. Representation forces distinguishability → adjacency → geometry**'
-id: GEN6-8384
-lines: 313-354
-location: genesis-6/the-harmonic-spectral-triple::8-final-box-ready-to-insert-into-white-papers::3-representation-forces-distinguishability-adjacency-geometry::b1
-parent_heading: '**8\. Final Box (ready to insert into white papers)**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- δ
+- Adjacency
+- Meta-Genesis
+- →
+- eigen-decomposition
+- ⊂
+- π
+- ≤
+- emergence engine
+- inner products
+- orthogonality
+- are adjacency
+- states
+- δD
+aliases:
+- Bk806ai
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.536585365853659
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

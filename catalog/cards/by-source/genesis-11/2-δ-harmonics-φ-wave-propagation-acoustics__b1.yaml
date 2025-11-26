@@ -1,14 +1,36 @@
-block_type: paragraph
-concepts:
-- Sachs-Wolfe
-- phase
-- Φ
-- Φ-propagator
-- δ
-excerpt: 'Your δ-harmonic tower is crucial. Each δ-mode has: * a **harmonic number**
-  (n \= 1,2,3…)'
-heading: '**2\. δ-Harmonics → Φ-Wave Propagation → Acoustics**'
 id: GEN11-1094
-lines: 33-51
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::2-δ-harmonics-φ-wave-propagation-acoustics::b1
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 33-51
+heading: '**2\. δ-Harmonics → Φ-Wave Propagation → Acoustics**'
+block_type: paragraph
+excerpt: 'Your δ-harmonic tower is crucial. Each δ-mode has: * a **harmonic number**
+  (n \= 1,2,3…)'
+concepts:
+- Sachs-Wolfe contributions
+- δ
+- Φ-propagator
+- Sachs-Wolfe
+- δ-harmonic
+- χ
+- δ-mode
+- Φ
+- phase
+- harmonic number
+- acoustic peaks
+- phase shifts
+aliases:
+- Bk911yh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.268292682926827
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

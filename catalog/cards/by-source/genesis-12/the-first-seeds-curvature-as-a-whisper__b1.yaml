@@ -1,13 +1,32 @@
+id: GEN12-1818
+location: genesis-12/untitled-document::narrative-chapter-how-structure-emerges-from-deviation::the-first-seeds-curvature-as-a-whisper::b1
+source: genesis-12\Untitled_document.md
+lines: 1491-1508
+heading: '**The First Seeds: Curvature as a Whisper**'
+parent_heading: '**Narrative Chapter: How Structure Emerges from Deviation**'
 block_type: paragraph
-concepts:
-- seeds
-- δ
 excerpt: The first thing δ does is **bend adjacency**—the raw, pre-geometric ordering
   of “which thing touches which.” With the slightest bend, adjacency no longer folds
   back into perfect symmetry. A ripple app...
-heading: '**The First Seeds: Curvature as a Whisper**'
-id: GEN12-1818
-lines: 1491-1508
-location: genesis-12/untitled-document::narrative-chapter-how-structure-emerges-from-deviation::the-first-seeds-curvature-as-a-whisper::b1
-parent_heading: '**Narrative Chapter: How Structure Emerges from Deviation**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- the pattern is already there
+- pre-geometric
+- δ-ripples
+- bend adjacency
+- seeds
+aliases:
+- Bk092tf
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.122448979591836
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,22 +1,40 @@
+id: GEN8-8794
+location: genesis-8/meta-time-geometry-and-temporal-projection::1-the-formal-object::definition-fractal-derivative-tower::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 408-436
+heading: '**Definition (Fractal Derivative Tower)**'
+parent_heading: '**1\. THE FORMAL OBJECT**'
 block_type: paragraph
-concepts:
-- Adjacency Projector
-- Deviation Operator
-- Emergent Projector
-- Field
-- Fractal Derivative Tower
-- Fundamental Closure Projector
-- Harmonic Projector
-- Meta-Time
-- Operator
-- iteration
-- Ψ
-- δ
 excerpt: 'Let: * δ: 𝓗 → 𝓗 be the **Deviation Operator** * A: 𝓗 → Graph be the **Adjacency
   Projector**'
-heading: '**Definition (Fractal Derivative Tower)**'
-id: GEN8-8794
-lines: 408-436
-location: genesis-8/meta-time-geometry-and-temporal-projection::1-the-formal-object::definition-fractal-derivative-tower::b1
-parent_heading: '**1\. THE FORMAL OBJECT**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- δ
+- Meta-Time
+- →
+- Adjacency
+- Deviation
+- Ψ
+- Field
+- Operator
+- Ψn
+- Δ
+- Fundamental Closure Projector
+- Fractal Derivative Tower
+- Adjacency Projector
+- Emergent Projector
+- Harmonic Projector
+aliases:
+- Bk869lt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.937888198757763
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

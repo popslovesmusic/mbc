@@ -1,16 +1,39 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Meta-Genesis
-- Meta-Physics
-- Physics Commutation Theorem
-- Theorem
-excerpt: ✔ A full **Axiom Box** for the theorem ✔ A **one-page version** for the white
-  paper ✔ A **Mermaid or TikZ diagram** of the commutative squares
-heading: '**6\. If you want next:**'
 id: GEN4-7777
-lines: 997-1005
 location: genesis-4/the-adjoint-triple::6-if-you-want-next::b1
 source: genesis-4\The_Adjoint_Triple.md
+lines: 997-1005
+heading: '**6\. If you want next:**'
+block_type: paragraph
+excerpt: ✔ A full **Axiom Box** for the theorem ✔ A **one-page version** for the white
+  paper ✔ A **Mermaid or TikZ diagram** of the commutative squares
+concepts:
+- Meta-Genesis
+- Theorem
+- Axiom
+- Proof
+- Box
+- one-page version
+- Physics Commutation Theorem
+- Meta-Physics
+- one-page
+- Mermaid or TikZ diagram
+- ↔
+- fully formal proof
+- Axiom Box
+aliases:
+- Bk539fa
+tags:
+- axiom-box
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.53061224489796
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

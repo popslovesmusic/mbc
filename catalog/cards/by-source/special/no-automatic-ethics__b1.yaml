@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: That’s the asymmetric danger. ---
-heading: '**✘ no automatic ethics**'
 id: SPEC-11357
-lines: 7605-7609
 location: special/specil::3-skill-responsibility::no-automatic-ethics::b1
-parent_heading: '**⭐ 3\. Skill ≠ responsibility**'
 source: special\specil.md
+lines: 7605-7609
+heading: '**✘ no automatic ethics**'
+parent_heading: '**⭐ 3\. Skill ≠ responsibility**'
+block_type: paragraph
+excerpt: That’s the asymmetric danger. ---
+aliases:
+- Bk151tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

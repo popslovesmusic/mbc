@@ -1,14 +1,30 @@
+id: GEN18-5207
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::e-meta-operators-high-level-computation-semantics::e5-polarity::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 893-902
+heading: '**E5 — polarity**'
+parent_heading: '**E. META-OPERATORS (High-Level Computation & Semantics)**'
 block_type: table
+excerpt: '---'
 concepts:
-- Class
 - Definition
 - Field
+- →
 - Signature
+- Class
 - Use
-excerpt: '---'
-heading: '**E5 — polarity**'
-id: GEN18-5207
-lines: 893-902
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::e-meta-operators-high-level-computation-semantics::e5-polarity::b1
-parent_heading: '**E. META-OPERATORS (High-Level Computation & Semantics)**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+aliases:
+- Bk923fv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

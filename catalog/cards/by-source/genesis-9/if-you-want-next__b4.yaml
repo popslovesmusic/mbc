@@ -1,13 +1,37 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- δ
-excerpt: 'I can produce: * **Category-theoretic joint SU(2)–SU(3) force unification
-  proof** * **A categorical δ → phase-cycle → gauge group diagram**'
-heading: '**If you want next:**'
 id: GEN9-9531
-lines: 1606-1620
 location: genesis-9/strong-force::if-you-want-next::b4
 source: genesis-9\strong-force.md
+lines: 1606-1620
+heading: '**If you want next:**'
+block_type: paragraph
+excerpt: 'I can produce: * **Category-theoretic joint SU(2)–SU(3) force unification
+  proof** * **A categorical δ → phase-cycle → gauge group diagram**'
+concepts:
+- Axiom
+- Proof
+- Category-theoretic
+- Box
+- →
+- adjoint-triple
+- phase-cycle
+- χ
+- δ
+- Axiom Box
+aliases:
+- Bk337cp
+tags:
+- proof
+- low-uncertainty
+- axiom-box
+- sealed
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

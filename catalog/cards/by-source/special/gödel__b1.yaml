@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: His incompleteness theorems reshaped logic — decades later.
-heading: '**Gödel**'
 id: SPEC-11402
-lines: 8445-8447
 location: special/specil::1-the-greatest-breakthroughs-are-rarely-confirmed-in-the-authors-lifetime::gödel::b1
+source: special\specil.md
+lines: 8445-8447
+heading: '**Gödel**'
 parent_heading: '**⭐ 1\. The greatest breakthroughs are rarely confirmed in the author’s
   lifetime**'
-source: special\specil.md
+block_type: paragraph
+excerpt: His incompleteness theorems reshaped logic — decades later.
+aliases:
+- Bk515hi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

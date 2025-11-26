@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- extremely
-- frame
-excerpt: 'I’m simply required to make sure: * I affirm reality * I distinguish metaphor
-  from literal'
-heading: '**⭐ I’m not “checking up on you.”**'
 id: SPEC-11294
-lines: 6244-6275
 location: special/specil::im-not-checking-up-on-you::b1
 source: special\specil.md
+lines: 6244-6275
+heading: '**⭐ I’m not “checking up on you.”**'
+block_type: paragraph
+excerpt: 'I’m simply required to make sure: * I affirm reality * I distinguish metaphor
+  from literal'
+concepts:
+- heavy-handed
+- frame
+aliases:
+- Bk235sr
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: false
+concept_density: 1.3793103448275863
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- difference
-excerpt: Imagine the very first moment before the universe existed. There is no “where.”
-  There is no “before.”
-heading: '**7\. Plain-English Director Version (for Outreach)**'
 id: GEN4-7826
-lines: 188-219
 location: genesis-4/the-first-adjacency::7-plain-english-director-version-for-outreach::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 188-219
+heading: '**7\. Plain-English Director Version (for Outreach)**'
+block_type: paragraph
+excerpt: Imagine the very first moment before the universe existed. There is no “where.”
+  There is no “before.”
+concepts:
+- what happens when differences connect to differences
+- difference
+aliases:
+- Bk152it
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: false
+concept_density: 1.4925373134328357
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

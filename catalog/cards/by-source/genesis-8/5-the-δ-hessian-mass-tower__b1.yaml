@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- The Hessian
-- δ
-- η
-- λ
-excerpt: 'The Hessian matrix is: Hmn=∫ddx  ψm(x) V′′(ϕ0) ψn(x)H\_{mn} \= \\int d^dx\\;
-  \\psi\_m(x)\\, V''''(\\phi\_0)\\, \\psi\_n(x)Hmn​=∫ddxψm​(x)V′′(ϕ0​)ψn​(x) Since:'
-heading: '**5\. The δ-Hessian → Mass Tower**'
 id: GEN8-8888
-lines: 2196-2210
 location: genesis-8/meta-time-geometry-and-temporal-projection::5-the-δ-hessian-mass-tower::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 2196-2210
+heading: '**5\. The δ-Hessian → Mass Tower**'
+block_type: paragraph
+excerpt: 'The Hessian matrix is: Hmn=∫ddx  ψm(x) V′′(ϕ0) ψn(x)H\_{mn} \= \\int d^dx\\;
+  \\psi\_m(x)\\, V''''(\\phi\_0)\\, \\psi\_n(x)Hmn​=∫ddxψm​(x)V′′(ϕ0​)ψn​(x) Since:'
+concepts:
+- λ
+- IGSOA
+- ψ
+- ∫
+- η
+- δ
+- δmn
+- The Hessian
+aliases:
+- Bk666th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

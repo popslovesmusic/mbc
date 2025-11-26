@@ -1,11 +1,28 @@
+id: GEN20-7234
+location: genesis-20/mbc-40-documentaitio-1::b43-router-dynamics-modes::2-transient-mode::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7666-7679
+heading: 2\. Transient Mode
+parent_heading: B4.3 Router Dynamics Modes
 block_type: paragraph
+excerpt: 'Router output evolves rapidly under new δ-events: ∣Θ(t+1)−Θ(t)∣≫0 ∣Θ'
 concepts:
 - Θ
+- Router
+- δ-events
 - δ
-excerpt: 'Router output evolves rapidly under new δ-events: ∣Θ(t+1)−Θ(t)∣≫0 ∣Θ'
-heading: 2\. Transient Mode
-id: GEN20-7234
-lines: 7666-7679
-location: genesis-20/mbc-40-documentaitio-1::b43-router-dynamics-modes::2-transient-mode::b1
-parent_heading: B4.3 Router Dynamics Modes
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk630ro
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

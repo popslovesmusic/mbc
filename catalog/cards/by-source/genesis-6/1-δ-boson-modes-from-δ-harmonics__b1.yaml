@@ -1,12 +1,37 @@
+id: GEN6-8232
+location: genesis-6/harmonics-atomic-orbitals::1-δ-boson-modes-from-δ-harmonics::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 276-292
+heading: '**1\) δ-Boson Modes from δ-Harmonics**'
 block_type: paragraph
-concepts:
-- Λ
-- δ
 excerpt: 'A δ-boson is the quantized excitation of the deviation field in the δ-harmonic
   basis: δ(x)  =  ∑n,ℓ,m  anℓm Υnℓm(δ)(x)⇒quanta anℓm≡δ-bosons.\\delta(\\mathbf{x})
   \\;=\\; \\sum\_{n,\\ell,m}\\; a\_{n\\el...'
-heading: '**1\) δ-Boson Modes from δ-Harmonics**'
-id: GEN6-8232
-lines: 276-292
-location: genesis-6/harmonics-atomic-orbitals::1-δ-boson-modes-from-δ-harmonics::b1
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- δ
+- Υ
+- δ-boson
+- δ-harmonic
+- δ-bosons
+- Δ
+- Λ
+- ∑
+- δ-eigenproblem
+- δ-azimuthal
+- δ-harmonics
+- δ-angular
+aliases:
+- Bk500bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

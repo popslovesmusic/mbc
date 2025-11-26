@@ -1,12 +1,28 @@
+id: GEN11-1170
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::iv-inflation-early-universe-predictions::2-no-separate-reheating-stage::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1063-1070
+heading: '**2\. No separate reheating stage**'
+parent_heading: '**IV. Inflation / Early-Universe Predictions**'
 block_type: paragraph
+excerpt: Φ → Π projection handles energy release. **Test:** Absence of reheating signatures
+  in GW backgrounds.
 concepts:
 - Π
 - Φ
-excerpt: Φ → Π projection handles energy release. **Test:** Absence of reheating signatures
-  in GW backgrounds.
-heading: '**2\. No separate reheating stage**'
-id: GEN11-1170
-lines: 1063-1070
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::iv-inflation-early-universe-predictions::2-no-separate-reheating-stage::b1
-parent_heading: '**IV. Inflation / Early-Universe Predictions**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+- →
+aliases:
+- Bk012ph
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,34 @@
-block_type: table
-concepts:
-- Sealed Consequence
-- Standard Mathematical Form
-- Φ
-- δ
-excerpt: '*(Sealed)* Φ:δ→Pot\\Phi:\\delta\\to\\text{Pot}Φ:δ→Pot **Sealed Consequence:**'
-heading: '**BOX 3 — The Φ-Projection Axiom (Structure from Deviation)**'
 id: GEN18-5237
-lines: 1320-1337
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::box-3-the-φ-projection-axiom-structure-from-deviation::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1320-1337
+heading: '**BOX 3 — The Φ-Projection Axiom (Structure from Deviation)**'
+block_type: table
+excerpt: '*(Sealed)* Φ:δ→Pot\\Phi:\\delta\\to\\text{Pot}Φ:δ→Pot **Sealed Consequence:**'
+concepts:
+- Φ
+- δ
+- IGSOA
+- MBC
+- potential-projection
+- ≠
+- →
+- well-defined
+- Standard Mathematical Form
+- Sealed Consequence
+aliases:
+- Bk974ss
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

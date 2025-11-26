@@ -1,13 +1,35 @@
+id: GEN6-8257
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::9-what-this-lets-you-claim-cleanly::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 686-700
+heading: '**9\) What this lets you claim (cleanly)**'
+parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
 block_type: list
-concepts:
-- Φ
-- δ
 excerpt: 1. **Three families are forced by the first three δ-harmonic sectors.** 2.
   **Mixing is forced by δ-curvature naturality defect.** 3. **Hierarchy of CKM angles
   is forced by δ-selection rules.**
-heading: '**9\) What this lets you claim (cleanly)**'
-id: GEN6-8257
-lines: 686-700
-location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::9-what-this-lets-you-claim-cleanly::b1
-parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- δ
+- Φ-chirality
+- δ-selection
+- δ-curvature
+- δ-Harmonic
+- δ-harmonic
+- δ-coupling
+- δ-modes
+- Φ
+aliases:
+- Bk883tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.846153846153847
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

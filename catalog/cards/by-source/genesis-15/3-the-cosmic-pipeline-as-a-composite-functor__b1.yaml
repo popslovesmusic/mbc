@@ -1,11 +1,30 @@
+id: GEN15-3397
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::3-the-cosmic-pipeline-as-a-composite-functor::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 315-329
+heading: '**3\. The Cosmic Pipeline as a Composite Functor**'
 block_type: paragraph
+excerpt: 'Define: F=N∘L∘Π∘Φ:C→GF \= N \\circ L \\circ \\Pi \\circ \\Phi : \\mathcal{C}
+  \\to \\mathcal{G}F=N∘L∘Π∘Φ:C→G That is:'
 concepts:
 - Π
 - Φ
-excerpt: 'Define: F=N∘L∘Π∘Φ:C→GF \= N \\circ L \\circ \\Pi \\circ \\Phi : \\mathcal{C}
-  \\to \\mathcal{G}F=N∘L∘Π∘Φ:C→G That is:'
-heading: '**3\. The Cosmic Pipeline as a Composite Functor**'
-id: GEN15-3397
-lines: 315-329
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::3-the-cosmic-pipeline-as-a-composite-functor::b1
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+- Δ
+- →
+- Φprimordial
+- ΠCMB
+aliases:
+- Bk184dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.315789473684211
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

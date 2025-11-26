@@ -1,13 +1,31 @@
+id: GEN2-6320
+location: genesis-2/axioms-of-geometry-topos-compatible::1-φ-objects-and-morphisms::axiom-mm-11-φ-objects::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 364-374
+heading: '**Axiom MM-1.1 — Φ-Objects**'
+parent_heading: '**1\. Φ-Objects and Morphisms**'
 block_type: paragraph
-concepts:
-- Φ
-- Φ-object
-- δ
 excerpt: 'A **Φ-object** is a pair (A,ΦA)(A, \\Phi\_A)(A,ΦA​) where Φ\_A is an endomorphism
   representing *active structure*: order, algebra, causality, computation.'
-heading: '**Axiom MM-1.1 — Φ-Objects**'
-id: GEN2-6320
-lines: 364-374
-location: genesis-2/axioms-of-geometry-topos-compatible::1-φ-objects-and-morphisms::axiom-mm-11-φ-objects::b1
-parent_heading: '**1\. Φ-Objects and Morphisms**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Φ
+- δ
+- δ-Geometry
+- δ-objects
+- Φ-object
+- ΦA
+aliases:
+- Bk128op
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

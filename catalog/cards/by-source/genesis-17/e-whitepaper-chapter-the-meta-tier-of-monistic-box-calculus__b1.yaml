@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Tell me which one you want.
-heading: '**E. Whitepaper chapter: “The Meta-Tier of Monistic Box Calculus”**'
 id: GEN17-5095
-lines: 1209-1211
 location: genesis-17/mbc-schema-3::if-you-want-next::e-whitepaper-chapter-the-meta-tier-of-monistic-box-calculus::b1
-parent_heading: '**If you want next:**'
 source: genesis-17\MBC_Schema_3.md
+lines: 1209-1211
+heading: '**E. Whitepaper chapter: “The Meta-Tier of Monistic Box Calculus”**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: Tell me which one you want.
+aliases:
+- Bk693tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

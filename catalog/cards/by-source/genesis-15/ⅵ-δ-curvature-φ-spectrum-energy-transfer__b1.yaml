@@ -1,17 +1,39 @@
-block_type: paragraph
-concepts:
-- Fermions
-- radiation-dominated
-- Γ
-- Π
-- Φ
-- δ
-- λ
-- ρ
-excerpt: 'The δ-Higgs energy density evolves as: ρ˙δH=−∑nΓnρδH.\\dot{\\rho}\_{\\delta
-  H} \= \- \\sum\_n \\Gamma\_n \\rho\_{\\delta H}.ρ˙​δH​=−n∑​Γn​ρδH​. where:'
-heading: '**Ⅵ. δ-Curvature → Φ-Spectrum Energy Transfer**'
 id: GEN15-3163
-lines: 1378-1396
 location: genesis-15/the-mass-curvature-projection-theorem::ⅵ-δ-curvature-φ-spectrum-energy-transfer::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1378-1396
+heading: '**Ⅵ. δ-Curvature → Φ-Spectrum Energy Transfer**'
+block_type: paragraph
+excerpt: 'The δ-Higgs energy density evolves as: ρ˙δH=−∑nΓnρδH.\\dot{\\rho}\_{\\delta
+  H} \= \- \\sum\_n \\Gamma\_n \\rho\_{\\delta H}.ρ˙​δH​=−n∑​Γn​ρδH​. where:'
+concepts:
+- δ
+- Γ
+- π
+- ρ
+- →
+- Π
+- radiation-dominated
+- δH
+- ∑
+- λ
+- δ-curvature
+- Φ-spectrum
+- δ-Yukawa
+- δ-Higgs
+- Φ
+aliases:
+- Bk860th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.934426229508196
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

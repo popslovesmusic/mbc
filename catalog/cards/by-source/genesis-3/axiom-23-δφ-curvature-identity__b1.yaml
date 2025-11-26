@@ -1,15 +1,31 @@
+id: GEN3-7405
+location: genesis-3/the-physics-box-diagram::2-curvature-in-δ-geometry-and-φ-geometry::axiom-23-δφ-curvature-identity::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 601-611
+heading: '**Axiom 2.3 (δ–Φ Curvature Identity)**'
+parent_heading: '**2\. Curvature in δ-Geometry and Φ-Geometry**'
 block_type: paragraph
-concepts:
-- Einstein Equation
-- Meta-Einstein
-- Φ
-- δ
 excerpt: 'On the common boundary of deviation–form interaction: Rδ=RΦ.\\mathcal{R}\_\\delta
   \= \\mathcal{R}\_\\Phi.Rδ​=RΦ​. This identity is the **symmetry condition** that
   forces the two generative structures ...'
-heading: '**Axiom 2.3 (δ–Φ Curvature Identity)**'
-id: GEN3-7405
-lines: 601-611
-location: genesis-3/the-physics-box-diagram::2-curvature-in-δ-geometry-and-φ-geometry::axiom-23-δφ-curvature-identity::b1
-parent_heading: '**2\. Curvature in δ-Geometry and Φ-Geometry**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Meta-Einstein
+- δ
+- Φ
+- same underlying curvature
+- symmetry condition
+- Einstein Equation
+aliases:
+- Bk741tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,14 +1,39 @@
+id: GEN12-1753
+location: genesis-12/untitled-document::theorem-δ-higgs-curvature-theorem::b1
+source: genesis-12\Untitled_document.md
+lines: 476-490
+heading: '**Theorem (δ-Higgs Curvature Theorem)**'
 block_type: paragraph
-concepts:
-- Mass Shells
-- Π
-- Φ
-- δ
 excerpt: 'The δ-Higgs potential VδV\_\\deltaVδ​ generates a mass operator MδM\_\\deltaMδ​
   whose eigenmodes correspond exactly to the δ-harmonic degeneracy classes (3–6–9).
   Thus: Mass Shells  ↔  {δ-harmonic shel...'
-heading: '**Theorem (δ-Higgs Curvature Theorem)**'
-id: GEN12-1753
-lines: 476-490
-location: genesis-12/untitled-document::theorem-δ-higgs-curvature-theorem::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- δ-harmonic
+- Proof
+- →
+- Mass Shells
+- ↔
+- non-degeneracy
+- δ-curvature
+- δ-Higgs
+- Π
+- Φ
+- δV
+- δM
+aliases:
+- Bk177th
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.80821917808219
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

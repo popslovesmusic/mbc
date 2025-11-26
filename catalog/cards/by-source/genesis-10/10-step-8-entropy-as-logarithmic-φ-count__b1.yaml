@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Meta-Genesis
-- expands
-- Φ
-- δ
-excerpt: 'You define: S(t):=log⁡dim⁡Φ(t).S(t) := \\log \\dim Φ(t).S(t):=logdimΦ(t).
-  Since Φ-space grows:'
-heading: '**10\. Step 8 — Entropy as Logarithmic Φ-Count**'
 id: GEN10-814
-lines: 1154-1170
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::10-step-8-entropy-as-logarithmic-φ-count::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1154-1170
+heading: '**10\. Step 8 — Entropy as Logarithmic Φ-Count**'
+block_type: paragraph
+excerpt: 'You define: S(t):=log⁡dim⁡Φ(t).S(t) := \\log \\dim Φ(t).S(t):=logdimΦ(t).
+  Since Φ-space grows:'
+concepts:
+- Φ
+- Meta-Genesis
+- ≥
+- Δ
+- Φ-space
+- δ
+- cannot reverse δ
+- expands
+- Φddtdim
+- ΦTr
+- δ²
+aliases:
+- Bk311yd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.702127659574469
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

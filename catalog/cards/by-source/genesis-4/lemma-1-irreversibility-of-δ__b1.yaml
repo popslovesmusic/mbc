@@ -1,15 +1,31 @@
+id: GEN4-7873
+location: genesis-4/the-first-adjacency::3-why-deviation-forces-ordering-formal-derivation::lemma-1-irreversibility-of-δ::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1082-1089
+heading: '**Lemma 1 (Irreversibility of δ).**'
+parent_heading: '**3\. Why Deviation Forces Ordering (Formal Derivation)**'
 block_type: paragraph
-concepts:
-- Axiom
-- The Zero
-- Zero-State
-- Ψ
-- δ
 excerpt: 'There exists no operator δ−1\\delta^{-1}δ−1 such that: δ−1(Ψn+1)=Ψn.\\delta^{-1}(\\Psi\_{n+1})
   \= \\Psi\_n.δ−1(Ψn+1​)=Ψn​. **Reason:**'
-heading: '**Lemma 1 (Irreversibility of δ).**'
-id: GEN4-7873
-lines: 1082-1089
-location: genesis-4/the-first-adjacency::3-why-deviation-forces-ordering-formal-derivation::lemma-1-irreversibility-of-δ::b1
-parent_heading: '**3\. Why Deviation Forces Ordering (Formal Derivation)**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Ψ
+- δ
+- Axiom
+- State
+- Ψn
+- Zero-State
+- The Zero
+aliases:
+- Bk493te
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.20754716981132
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

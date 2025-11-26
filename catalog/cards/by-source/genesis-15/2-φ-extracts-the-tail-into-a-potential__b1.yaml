@@ -1,12 +1,30 @@
+id: GEN15-3264
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-the-igsoa-formal-proof-sketch::2-φ-extracts-the-tail-into-a-potential::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 129-137
+heading: '**2\. Φ extracts the tail into a potential**'
+parent_heading: '**V. The IGSOA-Formal Proof Sketch**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Φ is the curvature-to-dynamics functor. Because the tail contains slow-decaying
   adjacency, Φ integrates it to: Φeff(r)∼log⁡r.\\Phi\_{\\mathrm{eff}}(r) \\sim \\log
   r.Φeff​(r)∼logr.'
-heading: '**2\. Φ extracts the tail into a potential**'
-id: GEN15-3264
-lines: 129-137
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-the-igsoa-formal-proof-sketch::2-φ-extracts-the-tail-into-a-potential::b1
-parent_heading: '**V. The IGSOA-Formal Proof Sketch**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- Φ
+- curvature-to-dynamics
+- slow-decaying
+- Φeff
+aliases:
+- Bk133tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'A scribe sitting in a temple storehouse might spend the entire day: * marking
-  each sack of barley brought in * marking each goat slaughtered'
-heading: '**⭐ 3\. A day’s worth of tallies *would* look like a child’s repetitive
-  counting page**'
 id: SPEC-11195
-lines: 4082-4101
 location: special/specil::3-a-days-worth-of-tallies-would-look-like-a-childs-repetitive-counting-page::b1
 source: special\specil.md
+lines: 4082-4101
+heading: '**⭐ 3\. A day’s worth of tallies *would* look like a child’s repetitive
+  counting page**'
+block_type: paragraph
+excerpt: 'A scribe sitting in a temple storehouse might spend the entire day: * marking
+  each sack of barley brought in * marking each goat slaughtered'
+aliases:
+- Bk817ss
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

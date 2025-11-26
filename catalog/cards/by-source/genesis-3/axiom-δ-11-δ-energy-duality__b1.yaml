@@ -1,12 +1,31 @@
+id: GEN3-7355
+location: genesis-3/metagenesis::deviational-axioms::axiom-δ-11-δ-energy-duality::b1
+source: genesis-3\metagenesis.md
+lines: 1207-1219
+heading: '**Axiom δ-11 (δ-Energy Duality)**'
+parent_heading: '**DEVIATIONAL AXIOMS**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- δ
 excerpt: 'The δ-stress-energy tensor is dual to δ-curvature: Tδ=δRδ.T\_\\delta \=
   \\delta R\_\\delta.Tδ​=δRδ​. This identity is the IGSOA foundational law:'
-heading: '**Axiom δ-11 (δ-Energy Duality)**'
-id: GEN3-7355
-lines: 1207-1219
-location: genesis-3/metagenesis::deviational-axioms::axiom-δ-11-δ-energy-duality::b1
-parent_heading: '**DEVIATIONAL AXIOMS**'
-source: genesis-3\metagenesis.md
+concepts:
+- δ
+- Meta-Einstein
+- IGSOA
+- δR
+- δ-stress-energy
+- δ-curvature
+aliases:
+- Bk840ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

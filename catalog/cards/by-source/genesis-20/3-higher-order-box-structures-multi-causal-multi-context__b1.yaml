@@ -1,10 +1,30 @@
+id: GEN20-6962
+location: genesis-20/mbc-40-documentaitio-1::the-advanced-topics-that-are-truly-worthy::3-higher-order-box-structures-multi-causal-multi-context::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3918-3936
+heading: 3\. Higher-Order Box Structures (Multi-causal & Multi-context)
+parent_heading: ⭐ THE ADVANCED TOPICS THAT ARE TRULY WORTHY
 block_type: paragraph
-concepts: []
 excerpt: 'Here we expand: * multi-input box interactions * multi-dimensional semantic
   tensor fields'
-heading: 3\. Higher-Order Box Structures (Multi-causal & Multi-context)
-id: GEN20-6962
-lines: 3918-3936
-location: genesis-20/mbc-40-documentaitio-1::the-advanced-topics-that-are-truly-worthy::3-higher-order-box-structures-multi-causal-multi-context::b1
-parent_heading: ⭐ THE ADVANCED TOPICS THAT ARE TRULY WORTHY
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- multi-dimensional
+- multi-context
+- multi-factor
+- multi-causal
+- multi-input
+aliases:
+- Bk317he
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 13.157894736842104
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

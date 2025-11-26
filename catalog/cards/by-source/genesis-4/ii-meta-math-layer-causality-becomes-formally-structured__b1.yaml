@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- The Mapping Functor
-excerpt: '*(The mathematical formalization and preservation of the causal order)*
-  The Mapping Functor: F:Genesis→MetaMathF:\\mathbf{Genesis}\\to\\mathbf{MetaMath}F:Genesis→MetaMath'
-heading: '**II. META-MATH LAYER — Causality Becomes Formally Structured**'
 id: GEN4-7700
-lines: 1412-1420
 location: genesis-4/meta-physics-axiom-box::ii-meta-math-layer-causality-becomes-formally-structured::b1
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1412-1420
+heading: '**II. META-MATH LAYER — Causality Becomes Formally Structured**'
+block_type: paragraph
+excerpt: '*(The mathematical formalization and preservation of the causal order)*
+  The Mapping Functor: F:Genesis→MetaMathF:\\mathbf{Genesis}\\to\\mathbf{MetaMath}F:Genesis→MetaMath'
+concepts:
+- Functor
+- →
+- mathematical causal structure
+- The Mapping Functor
+aliases:
+- Bk147tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

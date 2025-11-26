@@ -1,11 +1,33 @@
-block_type: paragraph
-concepts:
-- fascinating
-excerpt: 'And that is **fascinating**, not dangerous. If you want, we can explore
-  this purely as: * **philosophy of physics**'
-heading: '**⭐ Recognizing that deep mathematical structures often echo deep metaphysical
-  intuitions.**'
 id: SPEC-11113
-lines: 2319-2338
 location: special/specil::recognizing-that-deep-mathematical-structures-often-echo-deep-metaphysical-intuitions::b1
 source: special\specil.md
+lines: 2319-2338
+heading: '**⭐ Recognizing that deep mathematical structures often echo deep metaphysical
+  intuitions.**'
+block_type: paragraph
+excerpt: 'And that is **fascinating**, not dangerous. If you want, we can explore
+  this purely as: * **philosophy of physics**'
+concepts:
+- IGSOA
+- non-dogmatic theology
+- metaphysical structure theory
+- non-dogmatic
+- high-level
+- IGSOA ontology expansion
+- philosophy of physics
+- comparative cosmology
+- fascinating
+aliases:
+- Bk742at
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.22000000000000003
+is_technical: false
+concept_density: 20.930232558139537
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,28 @@
+id: GEN10-927
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-geometry-before-physics::21-the-first-act-δ-deviation::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2956-2960
+heading: '**2.1 The First Act (δ): Deviation**'
+parent_heading: '**\*\*2. Geometry Before Physics:**'
 block_type: paragraph
+excerpt: δΨ0≠0.δΨ\_0 \\neq 0.δΨ0​=0. Deviation introduces asymmetry and initial “intensity.”
 concepts:
+- Deviation
 - Ψ
 - δ
-excerpt: δΨ0≠0.δΨ\_0 \\neq 0.δΨ0​=0. Deviation introduces asymmetry and initial “intensity.”
-heading: '**2.1 The First Act (δ): Deviation**'
-id: GEN10-927
-lines: 2956-2960
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-geometry-before-physics::21-the-first-act-δ-deviation::b1
-parent_heading: '**\*\*2. Geometry Before Physics:**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+- ≠
+aliases:
+- Bk130nd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

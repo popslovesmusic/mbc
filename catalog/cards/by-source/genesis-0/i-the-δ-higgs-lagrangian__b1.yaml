@@ -1,12 +1,32 @@
+id: GEN0-096
+location: genesis-0/feynman-rules-interaction-vertices::i-the-δ-higgs-lagrangian::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1410-1420
+heading: '**I. The δ-Higgs Lagrangian**'
 block_type: paragraph
-concepts:
-- Γ
-- δ
 excerpt: 'The full δ-Higgs sector: LδH=12gab∇a(δ)δ  ∇b(δ)δ−V(δ),\\mathcal{L}\_{\\delta
   H} \= \\frac12 g^{ab} \\nabla^{(\\delta)}\_a\\delta\\; \\nabla^{(\\delta)}\_b\\delta
   \- V(\\delta),LδH​=21​gab∇a(δ)​δ∇b(δ)​...'
-heading: '**I. The δ-Higgs Lagrangian**'
-id: GEN0-096
-lines: 1410-1420
-location: genesis-0/feynman-rules-interaction-vertices::i-the-δ-higgs-lagrangian::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- ∇
+- Γ
+- ∂
+- δ-connection
+- δ-Higgs
+- δH
+aliases:
+- Bk737tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.235294117647058
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

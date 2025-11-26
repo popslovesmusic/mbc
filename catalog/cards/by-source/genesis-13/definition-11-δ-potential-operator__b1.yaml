@@ -1,15 +1,37 @@
+id: GEN13-2527
+location: genesis-13/what-biology-is-in-meta-genesis::1-the-δ-deviation-structure-of-bioenergetics::definition-11-δ-potential-operator::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 947-968
+heading: '**Definition 1.1 (δ-Potential Operator).**'
+parent_heading: '**1\. The δ-Deviation Structure of Bioenergetics**'
 block_type: paragraph
-concepts:
-- Γ
-- Π
-- Π-preboundary
-- δ
-- λ
 excerpt: 'A **δ-potential operator** on a boundary manifold ∂M\\partial M∂M is: Δδ:Γ(∂M)→Γ(∂M)\\Delta\_\\delta
   : \\Gamma(\\partial M) \\to \\Gamma(\\partial M)Δδ​:Γ(∂M)→Γ(∂M) such that:'
-heading: '**Definition 1.1 (δ-Potential Operator).**'
-id: GEN13-2527
-lines: 947-968
-location: genesis-13/what-biology-is-in-meta-genesis::1-the-δ-deviation-structure-of-bioenergetics::definition-11-δ-potential-operator::b1
-parent_heading: '**1\. The δ-Deviation Structure of Bioenergetics**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Δ
+- λ
+- ∂
+- Adjacency
+- Γ
+- ≠
+- δ-potential operator
+- ∇
+- ∃
+- →
+- κ
+- proton-motive
+- Π-preboundary
+- δ-potential
+aliases:
+- Bk564po
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.32876712328767
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

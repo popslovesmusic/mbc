@@ -1,12 +1,33 @@
+id: GEN12-1759
+location: genesis-12/untitled-document::9-boson-sector::91-gauge-bosons::b1
+source: genesis-12\Untitled_document.md
+lines: 596-608
+heading: '**9.1 Gauge Bosons**'
+parent_heading: '**9\. Boson Sector**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Gauge boson masses arise from **δ-curvature distortions of adjacency fibrations**:
   * U(1) → massless (flat δ-direction) * SU(2) → Φ-induced coupled modes'
-heading: '**9.1 Gauge Bosons**'
-id: GEN12-1759
-lines: 596-608
-location: genesis-12/untitled-document::9-boson-sector::91-gauge-bosons::b1
-parent_heading: '**9\. Boson Sector**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ-curvature distortions of adjacency fibrations
+- δ
+- →
+- δ-curvature
+- δ-direction
+- Φ-induced
+- δ-shell
+- Φ
+aliases:
+- Bk147gb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.51282051282051
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,33 @@
-block_type: table
-concepts:
-- Operator
-- Standard Analogue
-- Θ
-- Ω
-excerpt: 'These are the **canonical polar operators** of MBC-4.0. These are not optional:
-  they form the **canonical polar algebra**. ---'
-heading: '**IV. Primitive Θ-Operators**'
 id: GEN18-5573
-lines: 2334-2349
 location: genesis-18/mbc-4::iv-primitive-θ-operators::b1
 source: genesis-18\MBC-4.md
+lines: 2334-2349
+heading: '**IV. Primitive Θ-Operators**'
+block_type: table
+excerpt: 'These are the **canonical polar operators** of MBC-4.0. These are not optional:
+  they form the **canonical polar algebra**. ---'
+concepts:
+- Θ
+- IGSOA
+- MBC
+- Operator
+- polarity-driven
+- canonical polar operators
+- sign-flip
+- canonical polar algebra
+- lock-in
+- Ω
+- →
+- Standard Analogue
+aliases:
+- Bk513ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

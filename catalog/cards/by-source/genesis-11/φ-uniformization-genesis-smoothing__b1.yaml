@@ -1,12 +1,34 @@
+id: GEN11-1184
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-δinflation-projection-axiom::definitions::φ-uniformization-genesis-smoothing::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1213-1217
+heading: '**Φ-Uniformization (Genesis Smoothing)**'
+parent_heading: '**DEFINITIONS**'
 block_type: paragraph
+excerpt: Φ(δR)(x)=∫ ⁣TΦ(k) δk eik⋅x dk\\Phi(\\delta\\mathcal{R})(x) \= \\int\\\! \\mathcal{T}\_{\\Phi}(k)\\,\\delta\_k\\,e^{ik\\cdot
+  x}\\,dkΦ(δR)(x)=∫TΦ​(k)δk​eik⋅xdk where TΦ(k)\\mathcal{T}\_\\Phi(k)TΦ​(k) gi...
 concepts:
 - Φ
 - δ
-excerpt: Φ(δR)(x)=∫ ⁣TΦ(k) δk eik⋅x dk\\Phi(\\delta\\mathcal{R})(x) \= \\int\\\! \\mathcal{T}\_{\\Phi}(k)\\,\\delta\_k\\,e^{ik\\cdot
-  x}\\,dkΦ(δR)(x)=∫TΦ​(k)δk​eik⋅xdk where TΦ(k)\\mathcal{T}\_\\Phi(k)TΦ​(k) gi...
-heading: '**Φ-Uniformization (Genesis Smoothing)**'
-id: GEN11-1184
-lines: 1213-1217
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-δinflation-projection-axiom::definitions::φ-uniformization-genesis-smoothing::b1
-parent_heading: '**DEFINITIONS**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+- ∫
+- phase-locking
+- mode-coupling
+- δ-harmonics
+- pre-metric
+- δk
+- δR
+aliases:
+- Bk214ep
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,31 @@
+id: GEN10-867
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::5-δ-geometry-and-the-necessity-of-initial-heat::52-δ²-creates-curvature-weitzenböck-torsion::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1947-1958
+heading: '**5.2 δ² Creates Curvature (Weitzenböck Torsion)**'
+parent_heading: '**5\. δ-Geometry and the Necessity of Initial Heat**'
 block_type: paragraph
-concepts:
-- Φ
-- Ψ
-- δ
 excerpt: 'K1=δ2Ψ0≠0.\\mathcal{K}\_1 \= δ^2Ψ₀ \\neq 0.K1​=δ2Ψ0​=0. Curvature is the
   geometric form of “heat”: it activates new adjacency directions.'
-heading: '**5.2 δ² Creates Curvature (Weitzenböck Torsion)**'
-id: GEN10-867
-lines: 1947-1958
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::5-δ-geometry-and-the-necessity-of-initial-heat::52-δ²-creates-curvature-weitzenböck-torsion::b1
-parent_heading: '**5\. δ-Geometry and the Necessity of Initial Heat**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Ψ
+- Curvature
+- δ
+- Φ
+- ≠
+- Ψ₀
+aliases:
+- Bk245mn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

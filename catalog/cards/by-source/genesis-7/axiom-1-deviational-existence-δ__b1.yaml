@@ -1,14 +1,30 @@
+id: GEN7-8468
+location: genesis-7/the-complete-eft-lagrangian::the-δ-eft-axiom-box-sealed::axiom-1-deviational-existence-δ::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 411-424
+heading: '**Axiom 1 — Deviational Existence (δ)**'
+parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
 block_type: paragraph
-concepts:
-- Zero-State
-- Ψ
-- δ
 excerpt: 'Deviation exists and cannot be zero: δ:State  →  State,δ≠0.\\delta: \\text{State}
   \\;\\to\\; \\text{State}, \\quad \\delta \\neq 0.δ:State→State,δ=0. Every realized
   physical field is a manifestation o...'
-heading: '**Axiom 1 — Deviational Existence (δ)**'
-id: GEN7-8468
-lines: 411-424
-location: genesis-7/the-complete-eft-lagrangian::the-δ-eft-axiom-box-sealed::axiom-1-deviational-existence-δ::b1
-parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- State
+- δ
+- Deviation
+- Ψ
+- →
+- Zero-State
+- ≠
+aliases:
+- Bk365de
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

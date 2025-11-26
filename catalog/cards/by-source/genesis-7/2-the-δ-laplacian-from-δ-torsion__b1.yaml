@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- δ
-- δ-Laplacian
-- μ
-- ν
-- ρ
-excerpt: 'For any scalar field ψ\\psiψ, the Weitzenböck Laplacian is: ΔWψ=∇μ∇μψ.\\Delta\_W
-  \\psi \= \\nabla\_\\mu\\nabla^\\mu \\psi.ΔW​ψ=∇μ​∇μψ. In δ-geometry:'
-heading: '**2\. The δ-Laplacian From δ-Torsion**'
 id: GEN7-8556
-lines: 33-59
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::2-the-δ-laplacian-from-δ-torsion::b1
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 33-59
+heading: '**2\. The δ-Laplacian From δ-Torsion**'
+block_type: paragraph
+excerpt: 'For any scalar field ψ\\psiψ, the Weitzenböck Laplacian is: ΔWψ=∇μ∇μψ.\\Delta\_W
+  \\psi \= \\nabla\_\\mu\\nabla^\\mu \\psi.ΔW​ψ=∇μ​∇μψ. In δ-geometry:'
+concepts:
+- ψ
+- μ
+- ∂
+- δ
+- ρ
+- ∇
+- Δ
+- δ-geometry
+- ν
+- δ-Laplacian
+aliases:
+- Bk263fa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.854368932038835
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

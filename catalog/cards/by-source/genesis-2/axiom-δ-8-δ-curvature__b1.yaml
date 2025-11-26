@@ -1,11 +1,28 @@
+id: GEN2-6412
+location: genesis-2/axioms-of-geometry-topos-compatible::section-i-δ-layer-intrinsic-deviation-geometry::axiom-δ-8-δ-curvature::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1412-1416
+heading: '**Axiom (δ-8) — δ-Curvature**'
+parent_heading: '**Section I — δ-Layer (Intrinsic Deviation / Geometry)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Rδ(X,Y)Z=∇Xδ∇YδZ−∇Yδ∇XδZ−∇\[X,Y\]δδZ.R\_\\delta(X,Y)Z \= \\nabla^\\delta\_X\\nabla^\\delta\_Y
   Z \-\\nabla^\\delta\_Y\\nabla^\\delta\_X Z \-\\nabla^\\delta\_{\[X,Y\]\_\\delta}Z.Rδ​(X,Y)Z=∇Xδ​∇Yδ​Z−∇Yδ​...
-heading: '**Axiom (δ-8) — δ-Curvature**'
-id: GEN2-6412
-lines: 1412-1416
-location: genesis-2/axioms-of-geometry-topos-compatible::section-i-δ-layer-intrinsic-deviation-geometry::axiom-δ-8-δ-curvature::b1
-parent_heading: '**Section I — δ-Layer (Intrinsic Deviation / Geometry)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- δ
+- ∇
+- δZ
+aliases:
+- Bk139dn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

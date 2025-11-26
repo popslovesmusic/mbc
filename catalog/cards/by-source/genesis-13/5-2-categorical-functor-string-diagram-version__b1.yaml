@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- recursion
-- Π
-- Φ
-- δ
-excerpt: 'Define functors: * δ: Stillness → Gradients * Φ: Gradients → CyclicModes'
-heading: '**5\. 2-Categorical Functor / String Diagram Version**'
 id: GEN13-2504
-lines: 697-720
 location: genesis-13/what-biology-is-in-meta-genesis::5-2-categorical-functor-string-diagram-version::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 697-720
+heading: '**5\. 2-Categorical Functor / String Diagram Version**'
+block_type: paragraph
+excerpt: 'Define functors: * δ: Stillness → Gradients * Φ: Gradients → CyclicModes'
+concepts:
+- Π
+- Φ
+- →
+- δ
+- Π-fixed point
+- Π-fixed
+- recursion
+aliases:
+- Bk587df
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.000000000000002
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

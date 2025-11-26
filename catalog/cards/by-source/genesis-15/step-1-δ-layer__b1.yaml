@@ -1,11 +1,29 @@
+id: GEN15-3315
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-the-δ-φ-π-derivation-of-the-field-equations::step-1-δ-layer::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 893-901
+heading: '**Step 1 — δ-layer**'
+parent_heading: '**III. The δ → Φ → Π Derivation of the Field Equations**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Deviation generates curvature: δ↦δCSOI=δ+δtail\\delta \\mapsto \\delta\_{\\mathrm{CSOI}}
   \= \\delta \+ \\delta\_{\\mathrm{tail}}δ↦δCSOI​=δ+δtail​ with'
-heading: '**Step 1 — δ-layer**'
-id: GEN15-3315
-lines: 893-901
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-the-δ-φ-π-derivation-of-the-field-equations::step-1-δ-layer::b1
-parent_heading: '**III. The δ → Φ → Π Derivation of the Field Equations**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- δ
+- Deviation
+- δtail
+- δCSOI
+aliases:
+- Bk577dg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

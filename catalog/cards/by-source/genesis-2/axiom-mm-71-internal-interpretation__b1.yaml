@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- internally
-- Φ
-excerpt: All Φ-operators and structures are defined **internally** in the topos.
-heading: '**Axiom MM-7.1 — Internal Interpretation**'
 id: GEN2-6338
-lines: 595-597
 location: genesis-2/axioms-of-geometry-topos-compatible::7-topos-theoretic-validity::axiom-mm-71-internal-interpretation::b1
-parent_heading: '**7\. Topos-Theoretic Validity**'
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 595-597
+heading: '**Axiom MM-7.1 — Internal Interpretation**'
+parent_heading: '**7\. Topos-Theoretic Validity**'
+block_type: paragraph
+excerpt: All Φ-operators and structures are defined **internally** in the topos.
+concepts:
+- Φ-operators
+- Φ
+- internally
+aliases:
+- Bk526ao
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

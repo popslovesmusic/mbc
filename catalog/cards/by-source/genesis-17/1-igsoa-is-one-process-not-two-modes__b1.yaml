@@ -1,8 +1,21 @@
-block_type: paragraph
-concepts: []
-excerpt: 'IGS \= smoothing OA \= action But crucially:'
-heading: ⭐ 1\. IGSOA is One Process, Not Two Modes
 id: GEN17-4627
-lines: 7458-7467
 location: genesis-17/box-calculus::1-igsoa-is-one-process-not-two-modes::b1
 source: genesis-17\box_calculus.md
+lines: 7458-7467
+heading: ⭐ 1\. IGSOA is One Process, Not Two Modes
+block_type: paragraph
+excerpt: 'IGS \= smoothing OA \= action But crucially:'
+aliases:
+- Bk489is
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

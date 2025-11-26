@@ -1,12 +1,28 @@
+id: GEN2-6440
+location: genesis-2/axioms-of-geometry-topos-compatible::one-line-summary::you-said::b3
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1627-1629
+heading: '**You said:**'
+parent_heading: '**One-Line Summary**'
 block_type: paragraph
+excerpt: 'The fully formal theorem: “δ–Φ Unity ⇒ Meta-Einstein'
 concepts:
 - Meta-Einstein
-- Φ
+- Theorem
 - δ
-excerpt: 'The fully formal theorem: “δ–Φ Unity ⇒ Meta-Einstein'
-heading: '**You said:**'
-id: GEN2-6440
-lines: 1627-1629
-location: genesis-2/axioms-of-geometry-topos-compatible::one-line-summary::you-said::b3
-parent_heading: '**One-Line Summary**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+- Φ
+aliases:
+- Bk082tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 44.44444444444444
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

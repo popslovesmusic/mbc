@@ -1,20 +1,39 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Chromatic Cognition
-- Chromatic Modes
-- Deviational Geometry
-- Meta-Genesis
-- Meta-Time
-- Physics Axiom Stack
-- Tri-Unity
-- Π
-- Φ
-- δ
-excerpt: '*(IGSOA: δ–Φ–Π, Chromatic Modes, Deviational Geometry, and Meta-Time)* This
-  is written at the high level: * **formal and rigorous**,'
-heading: '**“How Color, Curvature, and Causality Unify”**'
 id: GEN8-8750
-lines: 732-748
 location: genesis-8/corollary-einstein-compatibility-via::how-color-curvature-and-causality-unify::b1
 source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 732-748
+heading: '**“How Color, Curvature, and Causality Unify”**'
+block_type: paragraph
+excerpt: '*(IGSOA: δ–Φ–Π, Chromatic Modes, Deviational Geometry, and Meta-Time)* This
+  is written at the high level: * **formal and rigorous**,'
+concepts:
+- Meta-Time
+- Meta-Genesis
+- Tri-Unity
+- consistent with the Tri-Unity and Meta-Genesis narrative
+- Deviational Geometry
+- Chromatic Mode
+- Deviation
+- IGSOA
+- Axiom
+- δ
+- Φ
+- δ-Geometry
+- Π
+- Physics Axiom Stack
+- Chromatic Cognition
+aliases:
+- Bk303ic
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 30.508474576271187
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

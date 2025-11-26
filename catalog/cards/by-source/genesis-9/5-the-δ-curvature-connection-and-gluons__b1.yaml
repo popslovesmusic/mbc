@@ -1,17 +1,38 @@
+id: GEN9-9497
+location: genesis-9/strong-force::5-the-δ-curvature-connection-and-gluons::b1
+source: genesis-9\strong-force.md
+lines: 942-966
+heading: '**5\. The δ-Curvature Connection and Gluons**'
 block_type: paragraph
-concepts:
-- The Yang
-- exactly
-- Γ
-- Π
-- δ
-- μ
-- ν
 excerpt: 'With torsion zeroed, the δ-connection becomes purely curvature-generating:
   Aμ(δ):=Γμ(δ).A\_{\\mu}^{(\\delta)} := \\Gamma^{(\\delta)}\_{\\mu}.Aμ(δ)​:=Γμ(δ)​.
   Restrict this connection to the χ-sector:'
-heading: '**5\. The δ-Curvature Connection and Gluons**'
-id: GEN9-9497
-lines: 942-966
-location: genesis-9/strong-force::5-the-δ-curvature-connection-and-gluons::b1
-source: genesis-9\strong-force.md
+concepts:
+- μ
+- χ
+- ν
+- δ
+- Π
+- ∂
+- →
+- curvature-generating
+- self-interaction
+- Γ
+- δ-connection
+- Non-abelian
+- The Yang
+- exactly
+aliases:
+- Bk215wt
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.58904109589041
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

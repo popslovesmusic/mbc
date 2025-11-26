@@ -1,12 +1,32 @@
+id: GEN13-2521
+location: genesis-13/what-biology-is-in-meta-genesis::choose-the-format::option-e-grand-combined::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 847-859
+heading: '**Option E — “Grand Combined”**'
+parent_heading: '**Choose the Format**'
 block_type: paragraph
-concepts:
-- three-layer
-- δ
 excerpt: 'A full **three-layer** chapter: 1. **Narrative layer** 2. **Physics/chemistry
   translation layer**'
-heading: '**Option E — “Grand Combined”**'
-id: GEN13-2521
-lines: 847-859
-location: genesis-13/what-biology-is-in-meta-genesis::choose-the-format::option-e-grand-combined::b1
-parent_heading: '**Choose the Format**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ-geometry
+- mini-book chapter
+- three-layer
+- mini-book
+- ≈
+- δ
+- Narrative layer
+aliases:
+- Bk834ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.137931034482758
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

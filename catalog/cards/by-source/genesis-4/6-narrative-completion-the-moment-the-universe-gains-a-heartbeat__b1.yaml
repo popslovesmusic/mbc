@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- Time
-- meaningful
-excerpt: As the newborn adjacencies weave themselves together, a strange new sensation
-  permeates the primal fabric. Not motion. Not change.
-heading: '**6\. Narrative Completion — The moment the universe gains a heartbeat**'
 id: GEN4-7882
-lines: 1187-1224
 location: genesis-4/the-first-adjacency::6-narrative-completion-the-moment-the-universe-gains-a-heartbeat::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 1187-1224
+heading: '**6\. Narrative Completion — The moment the universe gains a heartbeat**'
+block_type: paragraph
+excerpt: As the newborn adjacencies weave themselves together, a strange new sensation
+  permeates the primal fabric. Not motion. Not change.
+concepts:
+- Meta-Time
+- →
+- remember its steps
+- Time
+aliases:
+- Bk574tn
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.3333333333333335
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

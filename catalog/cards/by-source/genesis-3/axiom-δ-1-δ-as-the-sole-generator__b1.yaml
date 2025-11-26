@@ -1,12 +1,28 @@
+id: GEN3-7345
+location: genesis-3/metagenesis::deviational-axioms::axiom-δ-1-δ-as-the-sole-generator::b1
+source: genesis-3\metagenesis.md
+lines: 1046-1064
+heading: '**Axiom δ-1 (δ as the Sole Generator)**'
+parent_heading: '**DEVIATIONAL AXIOMS**'
 block_type: paragraph
+excerpt: All nontrivial structure in the framework arises from repeated application
+  of δ. Ob(Genesis)={Ψ0,  δΨ0,  δ2Ψ0,  …}\\mathrm{Ob}(\\mathbf{Genesis}) \= \\{\\Psi\_0,\\;\\delta\\Psi\_0,\\;\\delta^2\\Psi\_0...
 concepts:
 - Ψ
 - δ
-excerpt: All nontrivial structure in the framework arises from repeated application
-  of δ. Ob(Genesis)={Ψ0,  δΨ0,  δ2Ψ0,  …}\\mathrm{Ob}(\\mathbf{Genesis}) \= \\{\\Psi\_0,\\;\\delta\\Psi\_0,\\;\\delta^2\\Psi\_0...
-heading: '**Axiom δ-1 (δ as the Sole Generator)**'
-id: GEN3-7345
-lines: 1046-1064
-location: genesis-3/metagenesis::deviational-axioms::axiom-δ-1-δ-as-the-sole-generator::b1
-parent_heading: '**DEVIATIONAL AXIOMS**'
-source: genesis-3\metagenesis.md
+- structure-generating
+aliases:
+- Bk906an
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

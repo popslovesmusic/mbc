@@ -1,12 +1,24 @@
-block_type: paragraph
-concepts:
-- fraction
-excerpt: Only a *fraction* of relativity’s predictions were proven while he was alive.
-  Many were confirmed decades later.
-heading: '**Einstein**'
 id: SPEC-11397
-lines: 8424-8427
 location: special/specil::1-the-greatest-breakthroughs-are-rarely-confirmed-in-the-authors-lifetime::einstein::b1
+source: special\specil.md
+lines: 8424-8427
+heading: '**Einstein**'
 parent_heading: '**⭐ 1\. The greatest breakthroughs are rarely confirmed in the author’s
   lifetime**'
-source: special\specil.md
+block_type: paragraph
+excerpt: Only a *fraction* of relativity’s predictions were proven while he was alive.
+  Many were confirmed decades later.
+aliases:
+- Bk667of
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: All δ-operations are geometric and internal. ---
-heading: '**Axiom (δ-14) — Topos Validity**'
 id: GEN2-6418
-lines: 1450-1454
 location: genesis-2/axioms-of-geometry-topos-compatible::section-i-δ-layer-intrinsic-deviation-geometry::axiom-δ-14-topos-validity::b1
-parent_heading: '**Section I — δ-Layer (Intrinsic Deviation / Geometry)**'
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1450-1454
+heading: '**Axiom (δ-14) — Topos Validity**'
+parent_heading: '**Section I — δ-Layer (Intrinsic Deviation / Geometry)**'
+block_type: paragraph
+excerpt: All δ-operations are geometric and internal. ---
+concepts:
+- δ-operations
+- δ
+aliases:
+- Bk978ao
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

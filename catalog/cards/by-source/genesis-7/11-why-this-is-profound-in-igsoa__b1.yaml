@@ -1,13 +1,35 @@
-block_type: list
-concepts:
-- Meta-Geometry
-- Quantum Chemistry
-- Spectral Modes
-- δ
-excerpt: '* Orbitals are **not quantum accidents** → they are **geometric eigenmodes
-  of δ-torsion**. * The δ-field determines the stability of elements'
-heading: '**11\. Why This Is Profound in IGSOA**'
 id: GEN7-8569
-lines: 232-248
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::11-why-this-is-profound-in-igsoa::b1
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 232-248
+heading: '**11\. Why This Is Profound in IGSOA**'
+block_type: list
+excerpt: '* Orbitals are **not quantum accidents** → they are **geometric eigenmodes
+  of δ-torsion**. * The δ-field determines the stability of elements'
+concepts:
+- δ
+- →
+- geometric eigenmodes of δ-torsion
+- Meta-Geometry
+- δ-Harmonics
+- Quantum Chemistry
+- Spectral Modes
+- δ-Spectrum
+- δ-torsion
+- δ-field
+- δ-Higgs
+- δ-modes
+- not quantum accidents
+- full atomic table
+aliases:
+- Bk149oa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

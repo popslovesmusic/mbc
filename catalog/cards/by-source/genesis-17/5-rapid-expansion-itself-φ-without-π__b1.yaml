@@ -1,21 +1,42 @@
+id: GEN17-5103
+location: genesis-17/mbc-schema-3::5-rapid-expansion-itself-φ-without-π::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1319-1339
+heading: '**5\. Rapid Expansion Itself: Φ Without Π**'
 block_type: table
+excerpt: '**Cross-reference:** In Box Calculus: Rapid Expansion=Φ-growth in the absence
+  of Π-Boxhood\\text{Rapid Expansion} \= \\textbf{Φ-growth in the absence of Π-Boxhood}Rapid
+  Expansion=Φ-growth in the absen...'
 concepts:
+- Π
 - Box
+- IGSOA
+- Box Calculus
+- Φ
+- MBC
+- Π-Boxhood
+- Φ-growth
+- Rapid Expansion
+- Cross-reference
+- Structural Interpretation
+- Π-ordering
+- Standard Physics View
+- In Box Calculus
 - 'Boxhood
 
 
   There'
-- In Box Calculus
-- Rapid Expansion
-- Standard Physics View
-- Structural Interpretation
-- Π
-- Φ
-excerpt: '**Cross-reference:** In Box Calculus: Rapid Expansion=Φ-growth in the absence
-  of Π-Boxhood\\text{Rapid Expansion} \= \\textbf{Φ-growth in the absence of Π-Boxhood}Rapid
-  Expansion=Φ-growth in the absen...'
-heading: '**5\. Rapid Expansion Itself: Φ Without Π**'
-id: GEN17-5103
-lines: 1319-1339
-location: genesis-17/mbc-schema-3::5-rapid-expansion-itself-φ-without-π::b1
-source: genesis-17\MBC_Schema_3.md
+aliases:
+- Bk859sp
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.396694214876034
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,27 @@
+id: GEN18-5500
+location: genesis-18/mbc-4::7-hermetic-box-forms::standard-logic-hermetic-forms::b1
+source: genesis-18\MBC-4.md
+lines: 1599-1603
+heading: '**Standard logic hermetic forms**'
+parent_heading: '**7\. Hermetic Box Forms**'
 block_type: paragraph
-concepts: []
 excerpt: A∧B=Close(A∧B)A∨B=Close(A∨B)¬A=Close(¬A)A⊕B=Close(A⊕B)A⇒B=Close(A⇒B)\\begin{aligned}
   A\\land B &= \\text{Close}(A\\land B)\\\\ A\\lor B &= \\text{Close}(A\\lor B)\\\\
   \\neg A &= \\text{Close}(\\neg A)...
-heading: '**Standard logic hermetic forms**'
-id: GEN18-5500
-lines: 1599-1603
-location: genesis-18/mbc-4::7-hermetic-box-forms::standard-logic-hermetic-forms::b1
-parent_heading: '**7\. Hermetic Box Forms**'
-source: genesis-18\MBC-4.md
+concepts:
+- ∧
+- ⊕
+- ∨
+- ¬
+aliases:
+- Bk457cc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.705882352941177
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

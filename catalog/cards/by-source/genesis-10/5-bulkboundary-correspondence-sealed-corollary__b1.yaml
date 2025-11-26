@@ -1,17 +1,36 @@
+id: GEN10-738
+location: genesis-10/how-stillness-becomes-solid::the-δ-φ-π-z₂-invariant-axiom::5-bulkboundary-correspondence-sealed-corollary::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 847-855
+heading: '**(5) Bulk–Boundary Correspondence (Sealed Corollary)**'
+parent_heading: '**The δ → Φ → Π Z₂ Invariant Axiom**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- Unity Invariance Law
-- iff
-- Π
-- δ
-- ν
 excerpt: 'A boundary supports protected Π-edge modes **iff** the δ-parity changes
   across it: Δνδ=1⟹gapless Π-boundary spectrum.\\Delta\\nu\_\\delta \= 1 \\quad\\Longrightarrow\\quad
   \\text{gapless Π-boundary sp...'
-heading: '**(5) Bulk–Boundary Correspondence (Sealed Corollary)**'
-id: GEN10-738
-lines: 847-855
-location: genesis-10/how-stillness-becomes-solid::the-δ-φ-π-z₂-invariant-axiom::5-bulkboundary-correspondence-sealed-corollary::b1
-parent_heading: '**The δ → Φ → Π Z₂ Invariant Axiom**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- Tri-Unity
+- Π
+- Π-boundary
+- δ
+- Δ
+- ν
+- δ-parity
+- Π-edge
+- Unity Invariance Law
+- iff
+aliases:
+- Bk059bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.833333333333336
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

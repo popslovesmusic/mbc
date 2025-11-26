@@ -1,10 +1,22 @@
-block_type: paragraph
-concepts:
-- not
-excerpt: 'Notice the sequence: 5.31,  6.12,  6.45,  6.58,  6.72  ms5.31,\\; 6.12,\\;
-  6.45,\\; 6.58,\\; 6.72\\;{\\rm ms}5.31,6.12,6.45,6.58,6.72ms This is **not**:'
-heading: '**⭐ 10\. IGSOA SIGNATURE: δ-HARMONIC ECHO SPACING IS NOT EQUAL**'
 id: GEN11-1030
-lines: 583-597
 location: genesis-11/how-curvature-could-generate-an-axis::10-igsoa-signature-δ-harmonic-echo-spacing-is-not-equal::b1
 source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 583-597
+heading: '**⭐ 10\. IGSOA SIGNATURE: δ-HARMONIC ECHO SPACING IS NOT EQUAL**'
+block_type: paragraph
+excerpt: 'Notice the sequence: 5.31,  6.12,  6.45,  6.58,  6.72  ms5.31,\\; 6.12,\\;
+  6.45,\\; 6.58,\\; 6.72\\;{\\rm ms}5.31,6.12,6.45,6.58,6.72ms This is **not**:'
+concepts:
+- not
+aliases:
+- Bk347nt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 2.272727272727273
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

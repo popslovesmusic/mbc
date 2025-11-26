@@ -1,16 +1,43 @@
+id: GEN12-1880
+location: genesis-12/untitled-document::sealed-axiom-box-the-δφπ-galaxy-formation-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 2397-2414
+heading: '**⟡ SEALED AXIOM BOX: The δ–Φ–Π Galaxy-Formation Axiom ⟡**'
 block_type: paragraph
-concepts:
-- Axiom
-- Galaxy Formation Axiom
-- galaxy
-- Π
-- Φ
-- δ
 excerpt: '**Axiom GF-1 (Galaxy Formation Axiom).** A *galaxy* is the **Π-projection
   of the second-stage Φ-evolution of a δ-curvature basin** formed during cosmic structure
   emergence: G  ≡  Π ⁣(Φ2 ⁣(Φ1(δ)))\\box...'
-heading: '**⟡ SEALED AXIOM BOX: The δ–Φ–Π Galaxy-Formation Axiom ⟡**'
-id: GEN12-1880
-lines: 2397-2414
-location: genesis-12/untitled-document::sealed-axiom-box-the-δφπ-galaxy-formation-axiom::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- Π-projection of the second-stage Φ-evolution of a δ-curvature basin
+- Φ
+- δ
+- Axiom
+- Π
+- adjacency-curvature
+- mode-compression
+- post-inflation
+- Π-projection
+- second-stage
+- Φ-evolution
+- δ-curvature
+- mode-growth
+- δ-basins
+- Galaxy Formation Axiom
+aliases:
+- Am337ag
+tags:
+- galaxy-formation-axiom
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.346938775510203
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

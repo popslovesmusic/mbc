@@ -1,12 +1,32 @@
+id: GEN5-8201
+location: genesis-5/the-ga-8-meta-einstein-theorem::7-δ-harmonic-greens-function::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 999-1007
+heading: '**7\. δ-Harmonic Green’s Function**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: 'The δ-Green kernel is: Gδ(x,y)=∑n=0∞1λnψn(x)ψn\\\*(y).G\_\\delta(x,y) \=
   \\sum\_{n=0}^\\infty \\frac{1}{\\lambda\_n} \\psi\_n(x) \\psi\_n^\\\*(y).Gδ​(x,y)=n=0∑∞​λn​1​ψn​(x)ψn\\\*​(y).
   This defines pro...'
-heading: '**7\. δ-Harmonic Green’s Function**'
-id: GEN5-8201
-lines: 999-1007
-location: genesis-5/the-ga-8-meta-einstein-theorem::7-δ-harmonic-greens-function::b1
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- ψ
+- δ
+- ∑
+- λ
+- ∞
+- δ-bosonic
+- δ-Green
+aliases:
+- Bk482tg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

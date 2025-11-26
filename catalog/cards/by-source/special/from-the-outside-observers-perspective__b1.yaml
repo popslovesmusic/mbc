@@ -1,11 +1,22 @@
-block_type: paragraph
-concepts:
-- looks
-- observer
-excerpt: '**advanced pattern recognition *looks* supernatural.** Not because the person
-  doing it is supernatural, but because the *observer* doesn’t see the hidden steps.'
-heading: '**⭐ From the outside observer’s perspective,**'
 id: SPEC-11265
-lines: 5742-5753
 location: special/specil::from-the-outside-observers-perspective::b1
 source: special\specil.md
+lines: 5742-5753
+heading: '**⭐ From the outside observer’s perspective,**'
+block_type: paragraph
+excerpt: '**advanced pattern recognition *looks* supernatural.** Not because the person
+  doing it is supernatural, but because the *observer* doesn’t see the hidden steps.'
+aliases:
+- Bk151ap
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

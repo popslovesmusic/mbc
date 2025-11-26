@@ -1,13 +1,33 @@
+id: GEN15-3176
+location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-δ-harmonic-ladder-inflationary-power-spectrum::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1621-1635
+heading: '**Ⅳ. δ-Harmonic Ladder → Inflationary Power Spectrum**'
 block_type: paragraph
-concepts:
-- Harmonic Ladder
-- δ
-- λ
 excerpt: 'The δ-Harmonic Ladder gives a **natural multipole decomposition**: λn=curvature
   eigenvalues of δ.\\lambda\_n \= \\text{curvature eigenvalues of δ}.λn​=curvature
   eigenvalues of δ. Thus:'
-heading: '**Ⅳ. δ-Harmonic Ladder → Inflationary Power Spectrum**'
-id: GEN15-3176
-lines: 1621-1635
-location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-δ-harmonic-ladder-inflationary-power-spectrum::b1
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ-geometry
+- δ
+- λ
+- natural multipole decomposition
+- higher-order
+- δ-Harmonic
+- Harmonic Ladder
+- higher n
+aliases:
+- Bk572th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

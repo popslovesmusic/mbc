@@ -1,15 +1,37 @@
+id: GEN12-1604
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::34-adjacency-spatial-relations::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1120-1138
+heading: '**3.4 Adjacency → Spatial Relations**'
+parent_heading: '**3\. Φ → Π (Projection to Geometry)**'
 block_type: paragraph
-concepts:
-- From Section
-- Π
-- Φ
-- Ψ
 excerpt: 'From Section 1, adjacency arises pre-geometrically: Ψa≺Ψb⇒adjacency exists.\\Psi\_a
   \\prec \\Psi\_b \\Rightarrow \\text{adjacency exists}.Ψa​≺Ψb​⇒adjacency exists.
   Π turns adjacency into spatial neigh...'
-heading: '**3.4 Adjacency → Spatial Relations**'
-id: GEN12-1604
-lines: 1120-1138
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::34-adjacency-spatial-relations::b1
-parent_heading: '**3\. Φ → Π (Projection to Geometry)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- Ψ
+- metric-shadow of deviation
+- the projected form of pure adjacency
+- pre-geometrically
+- Φ
+- →
+- metric-shadow
+- Ψb
+- From Section
+- Ψa
+aliases:
+- Bk636fs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.359550561797752
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

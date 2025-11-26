@@ -1,17 +1,32 @@
+id: GEN8-8971
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::corollaries::corollary-1-meta-einstein-gravity-is-not-fundamental::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1002-1011
+heading: '**Corollary 1 — Meta-Einstein Gravity is Not Fundamental**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- The Meta
-- forced
-- Π
-- Φ
-- δ
-- ρ
 excerpt: 'The Meta-Einstein equation: Gδ=8π Π(Φ∘δρ)G\_\\delta \= 8\\pi\\,\\Pi(\\Phi\\circ\\delta\\rho)Gδ​=8πΠ(Φ∘δρ)
   is **forced** by δ-curvature.'
-heading: '**Corollary 1 — Meta-Einstein Gravity is Not Fundamental**'
-id: GEN8-8971
-lines: 1002-1011
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::corollaries::corollary-1-meta-einstein-gravity-is-not-fundamental::b1
-parent_heading: '**Corollaries**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+concepts:
+- Meta-Einstein
+- δ
+- π
+- Π
+- Φ
+- ρ
+- δ-curvature
+- necessary consequence
+- The Meta
+- forced
+aliases:
+- Bk923tm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.77777777777778
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

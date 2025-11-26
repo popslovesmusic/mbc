@@ -1,10 +1,25 @@
+id: GEN17-4466
+location: genesis-17/box-calculus::if-you-want-next::that-box-calculus-is-cartesian-closed-ccc::b1
+source: genesis-17\box_calculus.md
+lines: 5022-5025
+heading: • That Box Calculus is Cartesian Closed (CCC)
+parent_heading: '⭐ If you want next:'
 block_type: paragraph
+excerpt: — i.e., it contains λ-calculus internally. or
 concepts:
 - λ
-excerpt: — i.e., it contains λ-calculus internally. or
-heading: • That Box Calculus is Cartesian Closed (CCC)
-id: GEN17-4466
-lines: 5022-5025
-location: genesis-17/box-calculus::if-you-want-next::that-box-calculus-is-cartesian-closed-ccc::b1
-parent_heading: '⭐ If you want next:'
-source: genesis-17\box_calculus.md
+aliases:
+- Bk320cc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,33 @@
+id: GEN18-5321
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::1-axiom-statement-sealed::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2422-2434
+heading: '**1\. Axiom Statement (Sealed)**'
 block_type: table
+excerpt: ∀O,  O(I)=shadow(I)\\forall O,\\; O(\\mathfrak{I}) \= \\text{shadow}(\\mathfrak{I})∀O,O(I)=shadow(I)
+  ---
 concepts:
+- IGSOA
+- MBC
+- ∀
+- IGSOA-shadow
 - Standard Mathematical Form
-- not
 - one
 - projections
 - shadows
-excerpt: ∀O,  O(I)=shadow(I)\\forall O,\\; O(\\mathfrak{I}) \= \\text{shadow}(\\mathfrak{I})∀O,O(I)=shadow(I)
-  ---
-heading: '**1\. Axiom Statement (Sealed)**'
-id: GEN18-5321
-lines: 2422-2434
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::1-axiom-statement-sealed::b1
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+- not
+aliases:
+- Bk725sm
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.7164179104477615
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

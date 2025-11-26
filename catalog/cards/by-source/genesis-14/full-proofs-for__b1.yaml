@@ -1,19 +1,44 @@
+id: GEN14-2673
+location: genesis-14/inflation-structure-formation::which-version-do-you-want::full-proofs-for::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 396-418
+heading: '**✔ Full proofs for**'
+parent_heading: '**Which version do you want?**'
 block_type: list
+excerpt: '* δ-inflation from adjacency instability * φₙ freeze-out from Φ-dynamics
+  * δ-Higgs reheating'
 concepts:
+- Theorem
+- δ
 - 'Structure Cascade Theorem
 
 
   Once'
-- Theorem
-- formalism
-- Π
 - Φ
-- δ
-excerpt: '* δ-inflation from adjacency instability * φₙ freeze-out from Φ-dynamics
-  * δ-Higgs reheating'
-heading: '**✔ Full proofs for**'
-id: GEN14-2673
-lines: 396-418
-location: genesis-14/inflation-structure-formation::which-version-do-you-want::full-proofs-for::b1
-parent_heading: '**Which version do you want?**'
-source: genesis-14\Inflation__Structure_Formation.md
+- δ-inflation
+- δ-harmonics
+- dark-energy
+- Φ-dynamics
+- freeze-out
+- CSOI-tail
+- Φ-vacuum
+- Π-metric
+- δ-Higgs
+- Π
+- φ
+aliases:
+- Bk232if
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

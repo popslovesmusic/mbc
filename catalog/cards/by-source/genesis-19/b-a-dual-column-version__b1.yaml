@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: IGSOA δ/Φ/Π ↔ tensor calculus \+ differential geometry
-heading: 'B) A dual-column version:'
 id: GEN19-6155
-lines: 1567-1569
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-produce-next::b-a-dual-column-version::b1
-parent_heading: '⭐ If you want, I can produce next:'
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1567-1569
+heading: 'B) A dual-column version:'
+parent_heading: '⭐ If you want, I can produce next:'
+block_type: paragraph
+excerpt: IGSOA δ/Φ/Π ↔ tensor calculus \+ differential geometry
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- ↔
+aliases:
+- Bk673it
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 62.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

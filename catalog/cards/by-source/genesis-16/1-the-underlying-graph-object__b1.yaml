@@ -1,13 +1,32 @@
+id: GEN16-3832
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::1-the-underlying-graph-object::b1
+source: genesis-16\Untitled_document.md
+lines: 1218-1238
+heading: '**1\. The Underlying Graph Object**'
+parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
 block_type: paragraph
+excerpt: 'Let the whole reasoning structure be a directed graph: G=(B,E)\\boxed{ \\mathcal{G}
+  \= (B, \\mathcal{E}) }G=(B,E)​ where'
 concepts:
 - Box
 - τ
 - ω
-excerpt: 'Let the whole reasoning structure be a directed graph: G=(B,E)\\boxed{ \\mathcal{G}
-  \= (B, \\mathcal{E}) }G=(B,E)​ where'
-heading: '**1\. The Underlying Graph Object**'
-id: GEN16-3832
-lines: 1218-1238
-location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::1-the-underlying-graph-object::b1
-parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
-source: genesis-16\Untitled_document.md
+- →
+- ∈
+- edge-metadata
+- channel label
+aliases:
+- Bk483lt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.862745098039216
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

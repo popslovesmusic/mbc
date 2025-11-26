@@ -1,12 +1,29 @@
+id: GEN17-4583
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::5-proof-of-the-correspondence::52-propositions-boxes::b1
+source: genesis-17\box_calculus.md
+lines: 6874-6906
+heading: 5.2 Propositions ↔ Boxes
+parent_heading: 5\. Proof of the Correspondence
 block_type: table
+excerpt: 'Define: C2: Pτ↦Bτ C'
 concepts:
+- τ
+- IGSOA
+- Proposition
 - Box
 - Σ
-- τ
-excerpt: 'Define: C2: Pτ↦Bτ C'
-heading: 5.2 Propositions ↔ Boxes
-id: GEN17-4583
-lines: 6874-6906
-location: genesis-17/box-calculus::curryhoward-for-box-calculus::5-proof-of-the-correspondence::52-propositions-boxes::b1
-parent_heading: 5\. Proof of the Correspondence
-source: genesis-17\box_calculus.md
+aliases:
+- Bk970if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.8125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

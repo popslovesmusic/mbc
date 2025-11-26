@@ -1,18 +1,41 @@
-block_type: list
-concepts:
-- Axiom
-- Box
-- Einstein Axiom Box
-- Einstein Projection
-- Meta-Einstein
-- Stress Tensor
-- The Deviational Curvature
-- The Meta
-- δ
-excerpt: '* **The Meta-Einstein Axiom Box** (unified version) * **The Deviational
-  Curvature → Meta-Einstein Projection proof** * **The δ-Stress Tensor explicit form**'
-heading: '**✔ If you want, I can produce:**'
 id: GEN7-8552
-lines: 1699-1713
 location: genesis-7/the-complete-eft-lagrangian::if-you-want-i-can-produce::b2
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 1699-1713
+heading: '**✔ If you want, I can produce:**'
+block_type: list
+excerpt: '* **The Meta-Einstein Axiom Box** (unified version) * **The Deviational
+  Curvature → Meta-Einstein Projection proof** * **The δ-Stress Tensor explicit form**'
+concepts:
+- Meta-Einstein
+- Projection
+- Curvature
+- Deviation
+- The δ-Stress Tensor explicit form
+- Axiom
+- The Meta-Einstein Axiom Box
+- →
+- Proof
+- Box
+- δ
+- The Deviational Curvature
+- δ-Hessian
+- δ-Stress
+- Einstein Projection
+aliases:
+- Bk806tm
+tags:
+- axiom-box
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 35.294117647058826
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

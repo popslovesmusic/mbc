@@ -1,16 +1,31 @@
+id: INTK-10282
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::connection-to-deviation-calculus-and-operators::causal-history-operator-ℋ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 629-630
+heading: Causal History Operator (ℋ)
+parent_heading: Connection to Deviation Calculus and Operators
 block_type: paragraph
-concepts:
-- Causal History Operator
-- Meta-Aggregation
-- Meta-Time
-- Operator
-- The Meta
 excerpt: The Meta-Aggregation operator is the core component of the **Causal History
   Operator (ℋ)**. The operator ℋ essentially performs the Meta-Aggregation step by
   step over Meta-Time.
-heading: Causal History Operator (ℋ)
-id: INTK-10282
-lines: 629-630
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::connection-to-deviation-calculus-and-operators::causal-history-operator-ℋ::b1
-parent_heading: Connection to Deviation Calculus and Operators
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Time
+- Meta-Aggregation
+- Operator
+- Causal History Operator
+- The Meta
+aliases:
+- Bk106tm
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 17.857142857142858
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

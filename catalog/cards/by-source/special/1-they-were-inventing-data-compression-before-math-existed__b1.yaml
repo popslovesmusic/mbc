@@ -1,9 +1,28 @@
-block_type: paragraph
-concepts: []
-excerpt: Those early clay tablets weren’t art. They weren’t stories. They weren’t
-  magic symbols.
-heading: '**⭐ 1\. They were inventing data compression before math existed.**'
 id: SPEC-11185
-lines: 3807-3844
 location: special/specil::1-they-were-inventing-data-compression-before-math-existed::b1
 source: special\specil.md
+lines: 3807-3844
+heading: '**⭐ 1\. They were inventing data compression before math existed.**'
+block_type: paragraph
+excerpt: Those early clay tablets weren’t art. They weren’t stories. They weren’t
+  magic symbols.
+concepts:
+- short-hand tally marks
+- proto-accounting
+- proto-encoding
+- short-hand
+aliases:
+- Bk206te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 5.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

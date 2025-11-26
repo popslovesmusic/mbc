@@ -1,13 +1,31 @@
+id: GEN11-1145
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::4-how-δ-geometry-modifies-inflationary-predictions::d-non-gaussianity::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 764-781
+heading: '**D. Non-Gaussianity**'
+parent_heading: '**4\. How δ-Geometry Modifies Inflationary Predictions**'
 block_type: paragraph
-concepts:
-- fNL
-- projects
-- δ
 excerpt: 'δ-curvature at Genesis is **not Gaussian**. Inflation *projects* it but
   does not remove all structure. Expected signatures:'
-heading: '**D. Non-Gaussianity**'
-id: GEN11-1145
-lines: 764-781
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::4-how-δ-geometry-modifies-inflationary-predictions::d-non-gaussianity::b1
-parent_heading: '**4\. How δ-Geometry Modifies Inflationary Predictions**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- IGSOA
+- scale-dependent
+- topology-like
+- δ-curvature
+- δ
+- not Gaussian
+- fNL
+aliases:
+- Bk283cg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.588235294117645
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

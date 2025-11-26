@@ -1,8 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We now have: * deterministic * confluent'
-heading: '⭐ SUMMARY: Operational Semantics Completed'
 id: GEN17-4828
-lines: 10027-10044
 location: genesis-17/box-calculus::summary-operational-semantics-completed::b1
 source: genesis-17\box_calculus.md
+lines: 10027-10044
+heading: '⭐ SUMMARY: Operational Semantics Completed'
+block_type: paragraph
+excerpt: 'We now have: * deterministic * confluent'
+concepts:
+- self-contained
+- small-step
+- big-step
+aliases:
+- Bk268nh
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

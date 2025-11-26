@@ -1,16 +1,40 @@
+id: GEN9-9170
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-from-π-orbitals-to-atoms::52-why-each-element-has-its-properties::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2200-2212
+heading: '**5.2 Why Each Element Has Its Properties**'
+parent_heading: '**5\. From Π-Orbitals to Atoms**'
 block_type: list
-concepts:
-- Actinides
-- Halogens
-- Lanthanides
-- Π
-- Φ
-- δ
 excerpt: '* **Alkali metals**: χ \= \+1 unbalanced Φ-mode * **Halogens**: χ \= −1
   extremal Φ-phase * **Noble gases**: δ-symmetry saturation'
-heading: '**5.2 Why Each Element Has Its Properties**'
-id: GEN9-9170
-lines: 2200-2212
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-from-π-orbitals-to-atoms::52-why-each-element-has-its-properties::b1
-parent_heading: '**5\. From Π-Orbitals to Atoms**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Π
+- χ
+- δ
+- Φ
+- near-degenerate
+- δ-symmetry
+- δ-harmonic
+- Φ-phase
+- Φ-mode
+- Transition metals
+- Alkali metals
+- Lanthanides
+- Noble gases
+- Actinides
+- Halogens
+aliases:
+- Bk019am
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 48.64864864864865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

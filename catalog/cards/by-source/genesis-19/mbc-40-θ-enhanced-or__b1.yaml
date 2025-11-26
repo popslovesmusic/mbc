@@ -1,13 +1,31 @@
+id: GEN19-5826
+location: genesis-19/mbc-4-1::32-polarity-or-θ-or::mbc-40-θ-enhanced-or::b1
+source: genesis-19\MBC-4_1.md
+lines: 95-114
+heading: '**MBC-4.0 Θ-Enhanced OR**'
+parent_heading: '**3.2 Polarity OR (Θ-OR)**'
 block_type: table
-concepts:
-- Θ
-- Π
-- δ
 excerpt: '**Interpretation:** OR collapses to the **maximum curvature direction**,
   unless router overrides. Geometry:'
-heading: '**MBC-4.0 Θ-Enhanced OR**'
-id: GEN19-5826
-lines: 95-114
-location: genesis-19/mbc-4-1::32-polarity-or-θ-or::mbc-40-θ-enhanced-or::b1
-parent_heading: '**3.2 Polarity OR (Θ-OR)**'
-source: genesis-19\MBC-4_1.md
+concepts:
+- Θ
+- δ-geometry
+- router-weighted
+- non-projectable
+- maximum curvature direction
+- δ
+- Π
+aliases:
+- Bk378is
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.75
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

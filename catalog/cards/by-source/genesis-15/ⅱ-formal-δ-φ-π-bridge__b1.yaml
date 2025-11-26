@@ -1,17 +1,39 @@
-block_type: paragraph
-concepts:
-- Harmonic Ladder
-- Π
-- Φ
-- δ
-- λ
-- μ
-- ρ
-- ω
-excerpt: 'We begin from the reheating dynamics: H(t)=Π(Φ0(δ(t))).H(t)=\\Pi(\\Phi\_0(\\delta(t))).H(t)=Π(Φ0​(δ(t))).
-  Couplings:'
-heading: '**Ⅱ. Formal δ → Φ → Π Bridge**'
 id: GEN15-3174
-lines: 1557-1599
 location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-formal-δ-φ-π-bridge::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1557-1599
+heading: '**Ⅱ. Formal δ → Φ → Π Bridge**'
+block_type: paragraph
+excerpt: 'We begin from the reheating dynamics: H(t)=Π(Φ0(δ(t))).H(t)=\\Pi(\\Phi\_0(\\delta(t))).H(t)=Π(Φ0​(δ(t))).
+  Couplings:'
+concepts:
+- Φ
+- Φn
+- δ
+- Π
+- λ
+- μ
+- ∑
+- ω
+- amplitude of each n-mode
+- ψ
+- ∫
+- ρ
+- δ-curvature
+- δ-Harmonic
+- observable perturbations
+aliases:
+- Bk465bf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.23045267489712
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

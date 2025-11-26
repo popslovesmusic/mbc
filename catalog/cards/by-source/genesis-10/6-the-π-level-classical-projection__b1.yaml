@@ -1,12 +1,37 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'The Π-functor coarse-grains Φ-modes into classical histories: Π:Φ→Histories.Π:
-  Φ \\to \\text{Histories}.Π:Φ→Histories. Because Φ-space is monotonically increasing:'
-heading: '**6\. The Π-Level (Classical) Projection**'
 id: GEN10-785
-lines: 645-665
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::6-the-π-level-classical-projection::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 645-665
+heading: '**6\. The Π-Level (Classical) Projection**'
+block_type: paragraph
+excerpt: 'The Π-functor coarse-grains Φ-modes into classical histories: Π:Φ→Histories.Π:
+  Φ \\to \\text{Histories}.Π:Φ→Histories. Because Φ-space is monotonically increasing:'
+concepts:
+- Φ
+- Π
+- Curvature
+- δ
+- Φ-multiplicity
+- Non-invertible
+- three-stage projection
+- →
+- coarse-grains
+- three-stage
+- Π-functor
+- Φ-modes
+- Φ-space
+aliases:
+- Bk333tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.504424778761061
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

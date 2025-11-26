@@ -1,17 +1,34 @@
+id: GEN20-7127
+location: genesis-20/mbc-40-documentaitio-1::a28-formal-summary-compact-specification::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5867-5883
+heading: A2.8 Formal Summary (Compact Specification)
 block_type: paragraph
+excerpt: 'An MBC system is: (B,F,Θ,δ,Φ,Π,M,⪯) (B,F,Θ,δ,Φ,Π,M,⪯)'
 concepts:
+- MBC
 - Axiom
+- δ
+- Π
+- Θ
+- Φ
 - 'Axiom Boxes
 
 
   This'
-- Θ
-- Π
-- Φ
-- δ
-excerpt: 'An MBC system is: (B,F,Θ,δ,Φ,Π,M,⪯) (B,F,Θ,δ,Φ,Π,M,⪯)'
-heading: A2.8 Formal Summary (Compact Specification)
-id: GEN20-7127
-lines: 5867-5883
-location: genesis-20/mbc-40-documentaitio-1::a28-formal-summary-compact-specification::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk176ms
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.666666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

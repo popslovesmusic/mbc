@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-excerpt: 'You originally framed the “hot point” as something that “happened,” but:
-  **No events exist until Π constructs a temporal ordering.** “Hot point” is simply:'
-heading: '**⭐ 6\. This also fixes the “hot point” confusion**'
 id: GEN17-4894
-lines: 297-310
 location: genesis-17/key-points::6-this-also-fixes-the-hot-point-confusion::b1
 source: genesis-17\Key_Points.md
+lines: 297-310
+heading: '**⭐ 6\. This also fixes the “hot point” confusion**'
+block_type: paragraph
+excerpt: 'You originally framed the “hot point” as something that “happened,” but:
+  **No events exist until Π constructs a temporal ordering.** “Hot point” is simply:'
+concepts:
+- Φ-projection
+- Π
+- Φ
+aliases:
+- Bk475yo
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

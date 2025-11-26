@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: This would mimic evolving dark energy but with IGSOA fingerprints.
-heading: '**6.2 Λ may drift slightly with δ-harmonic amplitude drift**'
 id: INTK-9728
-lines: 223-225
 location: intake/core-insight-is-a-projection-artifact::6-experimental-predictions-your-outline-has-them-but-we-can-sharpen-them::62-λ-may-drift-slightly-with-δ-harmonic-amplitude-drift::b1
+source: intake\Core_Insight___is_a_Projection_Artifact.md
+lines: 223-225
+heading: '**6.2 Λ may drift slightly with δ-harmonic amplitude drift**'
 parent_heading: '**6\. Experimental Predictions (Your outline has them, but we can
   sharpen them):**'
-source: intake\Core_Insight___is_a_Projection_Artifact.md
+block_type: paragraph
+excerpt: This would mimic evolving dark energy but with IGSOA fingerprints.
+concepts:
+- IGSOA
+aliases:
+- Bk648tw
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- curvature
-- Ψ
-- δ
-excerpt: After the first adjacency forms and Meta-Time crystallizes, the newborn relational
-  web tries to arrange itself as cleanly as it can.
-heading: '**1\. Narrative Prelude — When adjacency stops lying flat**'
 id: GEN4-7889
-lines: 1330-1376
 location: genesis-4/the-first-adjacency::1-narrative-prelude-when-adjacency-stops-lying-flat::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 1330-1376
+heading: '**1\. Narrative Prelude — When adjacency stops lying flat**'
+block_type: paragraph
+excerpt: After the first adjacency forms and Meta-Time crystallizes, the newborn relational
+  web tries to arrange itself as cleanly as it can.
+concepts:
+- Meta-Time
+- Ψ
+- ↔
+- Deviation
+- δ
+- curvature
+aliases:
+- Bk226at
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.225806451612903
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

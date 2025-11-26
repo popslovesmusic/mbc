@@ -1,12 +1,28 @@
+id: GEN6-8260
+location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s1-representation-axiom::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 22-33
+heading: '**AXIOM S1 – Representation Axiom**'
+parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: '**𝒜δ** acts by bounded operators on **𝓗δ**: π:Aδ→B(Hδ)\\pi : \\mathcal{A}\_{\\delta}
   \\rightarrow \\mathcal{B}(\\mathcal{H}\_{\\delta})π:Aδ​→B(Hδ​) and is faithful when
   restricted to the δ-generated s...'
-heading: '**AXIOM S1 – Representation Axiom**'
-id: GEN6-8260
-lines: 22-33
-location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s1-representation-axiom::b1
-parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- Deviation
+- π
+- →
+- δ-generated
+aliases:
+- Bk811ab
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

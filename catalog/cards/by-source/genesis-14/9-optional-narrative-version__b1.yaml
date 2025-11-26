@@ -1,15 +1,41 @@
+id: GEN14-2665
+location: genesis-14/inflation-structure-formation::9-optional-narrative-version::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 261-285
+heading: '**9\. Optional: Narrative Version**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Boxes
-- Π
-- Φ
-- δ
 excerpt: 'If you want, I can generate a **cinematic, story-level chapter** (like your
   other narrative versions) describing: * the universe as δ-curvature waking up, *
   inflation as the first breath,'
-heading: '**9\. Optional: Narrative Version**'
-id: GEN14-2665
-lines: 261-285
-location: genesis-14/inflation-structure-formation::9-optional-narrative-version::b1
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- fully formatted TeX-ready chapter
+- diagrammatic 2-category version
+- Axiom
+- operator-algebra version
+- operator-algebra
+- Π
+- δ
+- Φ
+- δ-curvature
+- story-level
+- TeX-ready
+- full formal proofs
+- sealed Axiom Boxes
+- Axiom Boxes
+aliases:
+- Bk973yw
+tags:
+- axiom-box
+- proof
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.06
+is_technical: true
+concept_density: 14.583333333333334
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

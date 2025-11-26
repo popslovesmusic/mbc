@@ -1,11 +1,27 @@
+id: GEN20-6909
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::113-the-δ-genesis-axiom::structural-implications::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3422-3426
+heading: Structural implications
+parent_heading: 11.3 The δ-Genesis Axiom
 block_type: list
-concepts:
-- δ
 excerpt: '* every box begins with δ-content * curvature, polarity, meaning → all trace
   back to deviation * no structure can form spontaneously without δ'
-heading: Structural implications
-id: GEN20-6909
-lines: 3422-3426
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::113-the-δ-genesis-axiom::structural-implications::b1
-parent_heading: 11.3 The δ-Genesis Axiom
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- δ
+- δ-content
+- →
+aliases:
+- Bk448eb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

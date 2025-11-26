@@ -1,12 +1,29 @@
+id: INTK-9837
+location: intake/meta-genesis-core-papers-foundations::conclusion-of-the-proof::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1071-1077
+heading: '**Conclusion of the Proof**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: Ψ0 cannot remain Ψ0\\Psi\_0 \\text{ cannot remain } \\Psi\_0Ψ0​ cannot remain
   Ψ0​ ⇒∃δint\\Rightarrow \\exists \\delta\_{\\mathrm{int}}⇒∃δint​ ⇒Ψ1=δint(Ψ0)\\Rightarrow
   \\Psi\_1 \= \\delta\_{\\mathrm{in...
-heading: '**Conclusion of the Proof**'
-id: INTK-9837
-lines: 1071-1077
-location: intake/meta-genesis-core-papers-foundations::conclusion-of-the-proof::b1
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- δ
+- Proof
+- δint
+- ∃
+aliases:
+- Bk641cr
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

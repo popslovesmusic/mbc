@@ -1,13 +1,29 @@
+id: GEN0-284
+location: genesis-0/why-the-first-action-is-necessary::2-ψ₀-has-no-domain-of-action::this-trivial-mapping-is-not-an-operator-in-the-physical-sense::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 469-486
+heading: '**This trivial mapping is not an “operator” in the physical sense.**'
+parent_heading: '**2\. Ψ₀ Has No Domain of Action**'
 block_type: paragraph
-concepts:
-- identity
-- Φ
-- δ
 excerpt: 'Why? Because physical operators must encode distinctions: * momentum vs.
   position'
-heading: '**This trivial mapping is not an “operator” in the physical sense.**'
-id: GEN0-284
-lines: 469-486
-location: genesis-0/why-the-first-action-is-necessary::2-ψ₀-has-no-domain-of-action::this-trivial-mapping-is-not-an-operator-in-the-physical-sense::b1
-parent_heading: '**2\. Ψ₀ Has No Domain of Action**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- IGSOA
+- δ
+- Φ
+- identity
+aliases:
+- Bk503wb
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,30 @@
+id: GEN15-3097
+location: genesis-15/the-mass-curvature-projection-theorem::corollaries::corollary-2-mass-towers::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 146-150
+heading: '**Corollary 2 — Mass Towers**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
-concepts:
-- Boson Mass Tower
-- δ
 excerpt: 'The δ-Boson Mass Tower arises from the ordering of δ-eigenvalues: m1≤m2≤m3≤…m\_1
   \\le m\_2 \\le m\_3 \\le \\dotsm1​≤m2​≤m3​≤…'
-heading: '**Corollary 2 — Mass Towers**'
-id: GEN15-3097
-lines: 146-150
-location: genesis-15/the-mass-curvature-projection-theorem::corollaries::corollary-2-mass-towers::b1
-parent_heading: '**Corollaries**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- ≤
+- δ
+- δ-eigenvalues
+- δ-Boson
+- Boson Mass Tower
+aliases:
+- Bk671tb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.51851851851852
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

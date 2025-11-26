@@ -110,16 +110,32 @@
     <div class="content">
         <div id="overview" class="stats-overview">
             <div class="stat-card">
-                <div class="value">11429</div>
+                <div class="value">11,429</div>
                 <div class="label">Total Cards</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">164</div>
+                <div class="label">Formal Statements</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">8,269</div>
+                <div class="label">Technical Blocks</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">7,505</div>
+                <div class="label">Definitive Statements</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">1,528</div>
+                <div class="label">Contradictions</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">895</div>
+                <div class="label">Ambiguous Blocks</div>
             </div>
             <div class="stat-card">
                 <div class="value">23</div>
                 <div class="label">Directories</div>
-            </div>
-            <div class="stat-card">
-                <div class="value">1</div>
-                <div class="label">Block Types</div>
             </div>
             <div class="stat-card">
                 <div class="value">30</div>
@@ -153,6 +169,18 @@
             <div class="chart-container full-width">
                 <h2>Top 30 Concepts</h2>
                 <canvas id="conceptsChart"></canvas>
+            </div>
+        </div>
+
+        <div id="enhanced" class="chart-grid">
+            <div class="chart-container">
+                <h2>Formal Statements by Type</h2>
+                <canvas id="formalTypesChart"></canvas>
+            </div>
+
+            <div class="chart-container">
+                <h2>Top 15 Tags</h2>
+                <canvas id="tagsChart"></canvas>
             </div>
         </div>
     </div>
@@ -260,10 +288,10 @@
         new Chart(document.getElementById('conceptsChart'), {
             type: 'bar',
             data: {
-                labels: ['δ', 'Φ', 'Π', 'Box', 'Ψ', 'Axiom', 'Σ', 'Meta-Math', 'λ', 'Meta-Time', 'μ', 'Meta-Genesis', 'Θ', 'Meta-Einstein', 'Theorem', 'Box Calculus', 'σ', 'α', 'ν', 'ρ', 'Tri-Unity', 'τ', 'η', 'Operator', 'Ω', 'β', 'Layer', 'Λ', 'Axiom Box', 'Γ'],
+                labels: ['δ', 'Φ', 'Π', '→', 'IGSOA', 'Box', 'Axiom', 'Ψ', 'δ-curvature', 'Deviation', 'Theorem', 'Σ', 'Meta-Math', 'MBC', 'λ', 'Meta-Time', '∈', 'Ψ₀', 'δ-harmonic', '≠', 'Box Calculus', 'μ', 'Adjacency', 'Meta-Genesis', 'Meta-Einstein', 'Θ', 'Δ', 'Curvature', 'Proof', 'δ-geometry'],
                 datasets: [{
                     label: 'Frequency',
-                    data: [5730, 3097, 2555, 1070, 1009, 908, 523, 490, 474, 419, 364, 358, 357, 353, 302, 302, 285, 269, 255, 228, 220, 206, 203, 195, 155, 151, 145, 143, 141, 130],
+                    data: [5728, 3048, 2529, 2503, 1917, 1065, 1062, 1004, 721, 719, 532, 519, 508, 482, 469, 420, 419, 401, 392, 371, 367, 364, 360, 360, 355, 349, 346, 341, 339, 312],
                     backgroundColor: 'rgba(230, 126, 34, 0.8)',
                     borderColor: 'rgba(230, 126, 34, 1)',
                     borderWidth: 1
@@ -274,6 +302,71 @@
                 indexAxis: 'y',
                 scales: {
                     x: { beginAtZero: true }
+                }
+            }
+        });
+
+        // Formal types chart (pie)
+        new Chart(document.getElementById('formalTypesChart'), {
+            type: 'pie',
+            data: {
+                labels: ['axiom', 'definition', 'theorem', 'lemma', 'corollary'],
+                datasets: [{
+                    data: [100, 13, 29, 6, 3],
+                    backgroundColor: [
+                        'rgba(52, 152, 219, 0.8)',
+                        'rgba(46, 204, 113, 0.8)',
+                        'rgba(155, 89, 182, 0.8)',
+                        'rgba(241, 196, 15, 0.8)',
+                        'rgba(231, 76, 60, 0.8)',
+                        'rgba(26, 188, 156, 0.8)'
+                    ],
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                ...chartOptions,
+                plugins: {
+                    legend: {
+                        position: 'right'
+                    }
+                }
+            }
+        });
+
+        // Tags chart (doughnut)
+        new Chart(document.getElementById('tagsChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['definitive', 'low-uncertainty', 'conflicted', 'ambiguous', 'sealed', 'proof', 'axiom-box', 'qualified', 'axiom', 'A1', 'A2', 'A3', 'theorem', 'A4', 'definition'],
+                datasets: [{
+                    data: [7505, 7441, 1528, 895, 458, 406, 401, 229, 100, 64, 37, 32, 29, 20, 13],
+                    backgroundColor: [
+                        'rgba(52, 152, 219, 0.8)',
+                        'rgba(46, 204, 113, 0.8)',
+                        'rgba(155, 89, 182, 0.8)',
+                        'rgba(241, 196, 15, 0.8)',
+                        'rgba(231, 76, 60, 0.8)',
+                        'rgba(26, 188, 156, 0.8)',
+                        'rgba(230, 126, 34, 0.8)',
+                        'rgba(149, 165, 166, 0.8)',
+                        'rgba(127, 140, 141, 0.8)',
+                        'rgba(192, 57, 43, 0.8)',
+                        'rgba(142, 68, 173, 0.8)',
+                        'rgba(39, 174, 96, 0.8)',
+                        'rgba(41, 128, 185, 0.8)',
+                        'rgba(243, 156, 18, 0.8)',
+                        'rgba(211, 84, 0, 0.8)'
+                    ],
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                ...chartOptions,
+                plugins: {
+                    legend: {
+                        position: 'right'
+                    }
                 }
             }
         });

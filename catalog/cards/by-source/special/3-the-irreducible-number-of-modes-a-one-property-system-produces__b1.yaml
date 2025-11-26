@@ -1,12 +1,26 @@
-block_type: paragraph
-concepts:
-- triadic
-- Π
-- Φ
-- δ
-excerpt: This is your δ–Φ–Π, your IGS–OA–δ, your potential–realization–actualization.
-heading: '**👉 3 \= the irreducible number of modes a One-Property system produces.**'
 id: SPEC-11065
-lines: 1462-1470
 location: special/specil::3-the-irreducible-number-of-modes-a-one-property-system-produces::b1
 source: special\specil.md
+lines: 1462-1470
+heading: '**👉 3 \= the irreducible number of modes a One-Property system produces.**'
+block_type: paragraph
+excerpt: This is your δ–Φ–Π, your IGS–OA–δ, your potential–realization–actualization.
+concepts:
+- δ
+- Π
+- Φ
+aliases:
+- Bk234ty
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

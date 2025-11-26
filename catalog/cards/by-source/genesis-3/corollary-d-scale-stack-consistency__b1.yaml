@@ -1,12 +1,28 @@
+id: GEN3-7455
+location: genesis-3/the-physics-box-diagram::corollaries::corollary-d-scale-stack-consistency::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1266-1272
+heading: '**Corollary D. Scale-Stack Consistency**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: δ generates deviation modes; Φ organizes them into adjacency-coherent scales;
   Physics inherits this as curvature \+ field dynamics.
-heading: '**Corollary D. Scale-Stack Consistency**'
-id: GEN3-7455
-lines: 1266-1272
-location: genesis-3/the-physics-box-diagram::corollaries::corollary-d-scale-stack-consistency::b1
-parent_heading: '**Corollaries**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- adjacency-coherent
+- δ
+- Φ
+aliases:
+- Bk900gd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

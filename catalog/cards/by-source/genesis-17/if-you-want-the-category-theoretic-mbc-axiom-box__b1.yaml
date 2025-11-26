@@ -1,11 +1,36 @@
-block_type: paragraph
-concepts:
-- Π
-- δ
-excerpt: 'I can compress all of this into a **one-page sealed axiom box** suitable
-  for your whitepaper chain. Or if you want: ✓ **String diagram version**'
-heading: '**If you want the “Category-Theoretic MBC Axiom Box”**'
 id: GEN17-5071
-lines: 821-833
 location: genesis-17/mbc-schema-3::if-you-want-the-category-theoretic-mbc-axiom-box::b1
 source: genesis-17\MBC_Schema_3.md
+lines: 821-833
+heading: '**If you want the “Category-Theoretic MBC Axiom Box”**'
+block_type: paragraph
+excerpt: 'I can compress all of this into a **one-page sealed axiom box** suitable
+  for your whitepaper chain. Or if you want: ✓ **String diagram version**'
+concepts:
+- MBC
+- one-page sealed axiom box
+- Axiom
+- Sheaf-theoretic MBC
+- Sheaf-theoretic
+- one-page
+- String diagram version
+- δ-modes
+- Π
+- δ
+aliases:
+- Bk040cc
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 21.27659574468085
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

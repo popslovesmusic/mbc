@@ -1,12 +1,30 @@
+id: GEN9-9046
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::1-what-quantum-mechanics-says::qm1-the-schrödinger-operator::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 324-328
+heading: '**(QM1) The Schrödinger Operator**'
+parent_heading: '**1\. What Quantum Mechanics Says**'
 block_type: paragraph
-concepts:
-- eigenfunctions
 excerpt: −ℏ22m∇2ψ+V(r)ψ=Eψ.-\\frac{\\hbar^2}{2m}\\nabla^2 \\psi \+ V(r)\\psi \= E\\psi.−2mℏ2​∇2ψ+V(r)ψ=Eψ.
   Orbitals arise as the **eigenfunctions** of the Laplacian \+ potential in three-dimensional
   space.
-heading: '**(QM1) The Schrödinger Operator**'
-id: GEN9-9046
-lines: 324-328
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::1-what-quantum-mechanics-says::qm1-the-schrödinger-operator::b1
-parent_heading: '**1\. What Quantum Mechanics Says**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- ψ
+- three-dimensional
+- ∇
+- eigenfunctions
+aliases:
+- Bk413fh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

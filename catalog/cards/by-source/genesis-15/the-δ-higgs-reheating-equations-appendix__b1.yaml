@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (deriving all resonance parameters, backreaction terms, and energy conservation)
-heading: '**✓ The δ-Higgs Reheating Equations Appendix**'
 id: GEN15-3168
-lines: 1464-1466
 location: genesis-15/the-mass-curvature-projection-theorem::if-you-want-the-next-chapter::the-δ-higgs-reheating-equations-appendix::b1
-parent_heading: '**If you want the next chapter**'
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1464-1466
+heading: '**✓ The δ-Higgs Reheating Equations Appendix**'
+parent_heading: '**If you want the next chapter**'
+block_type: paragraph
+excerpt: (deriving all resonance parameters, backreaction terms, and energy conservation)
+aliases:
+- Bk889da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

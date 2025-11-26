@@ -1,24 +1,40 @@
-block_type: list
-concepts:
-- Category-Theoretic
-- Commutator Functor
-- Commutator Theorems
-- Flow Endofunctor
-- Formal Appendix
-- Gravitational Sectors
-- Higher Derivation
-- Higher-Linear
-- Introduction
-- Linear Functor
-- Meta-Time
-- Operator
-- Projection Functor
-- Scale-Flow
-- Scale-Stack
-excerpt: 1. **Introduction** 2. **The Scale-Stack ∞-Topos** 3. **δ-Objects, δ-Modes,
-  and δ-Spectral Geometry**
-heading: '**Chapter Structure**'
 id: INTK-10600
-lines: 788-816
 location: intake/volume-i-core-ontology-and-metagenesis-summary::chapter-structure::b1
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 788-816
+heading: '**Chapter Structure**'
+block_type: list
+excerpt: 1. **Introduction** 2. **The Scale-Stack ∞-Topos** 3. **δ-Objects, δ-Modes,
+  and δ-Spectral Geometry**
+concepts:
+- Meta-Time
+- Projection
+- Adjacency
+- Curvature
+- The Peakset Geometry and Fractal δ-Calculus
+- Theorem
+- Functor
+- Meta-Time as a Scale-Flow Endofunctor
+- Adjacency as a Higher-Linear Functor
+- δ
+- Operator
+- The Three Generators as Endofunctors
+- Category-Theoretic
+- The Triadic Operator Algebra
+- Higher-Linear
+aliases:
+- Bk023it
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.21739130434783
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

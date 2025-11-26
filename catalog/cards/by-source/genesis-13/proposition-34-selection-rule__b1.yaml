@@ -1,11 +1,27 @@
+id: GEN13-2131
+location: genesis-13/meta-math-nuclear-physics::3-π-projection-to-qcd-observables::proposition-34-selection-rule::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1613-1618
+heading: '**Proposition 3.4 — Selection Rule.**'
+parent_heading: '**3\. Π-Projection to QCD Observables**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: Π only returns color-neutral composites. Thus Π enforces confinement at the
   physical level. ---
-heading: '**Proposition 3.4 — Selection Rule.**'
-id: GEN13-2131
-lines: 1613-1618
-location: genesis-13/meta-math-nuclear-physics::3-π-projection-to-qcd-observables::proposition-34-selection-rule::b1
-parent_heading: '**3\. Π-Projection to QCD Observables**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Π
+- color-neutral
+aliases:
+- Bk578or
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

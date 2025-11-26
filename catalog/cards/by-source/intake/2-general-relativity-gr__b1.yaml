@@ -1,15 +1,32 @@
+id: INTK-10437
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::emergence-of-physics-from-mm-ufe::2-general-relativity-gr::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1472-1474
+heading: 2. General Relativity (GR)
+parent_heading: Emergence of Physics from MM-UFE
 block_type: list
-concepts:
-- Einstein Field Equations
-- Field
-- Λ
-- Ψ
 excerpt: '- **Emergence:** When the MM-UFE is projected onto a real, symmetric Lorentzian
   4-metric sector, and the deviation field stabilizes into continuous spacetime, it
   reduces to the Einstein Field Equation...'
-heading: 2. General Relativity (GR)
-id: INTK-10437
-lines: 1472-1474
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::emergence-of-physics-from-mm-ufe::2-general-relativity-gr::b1
-parent_heading: Emergence of Physics from MM-UFE
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Field
+- ∇
+- Einstein Field Equations
+- Λ
+- MM-UFE
+- Ψ
+aliases:
+- Bk978ew
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

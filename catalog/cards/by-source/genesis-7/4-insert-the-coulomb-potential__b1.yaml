@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Hydrogenic potentials are: V(r)=−Ze2r.V(r) \= \-\\frac{Ze^2}{r}.V(r)=−rZe2​.
-  IGSOA adds the δ-induced vacuum correction:'
-heading: '**4\. Insert the Coulomb Potential**'
 id: GEN7-8559
-lines: 95-111
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::4-insert-the-coulomb-potential::b1
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 95-111
+heading: '**4\. Insert the Coulomb Potential**'
+block_type: paragraph
+excerpt: 'Hydrogenic potentials are: V(r)=−Ze2r.V(r) \= \-\\frac{Ze^2}{r}.V(r)=−rZe2​.
+  IGSOA adds the δ-induced vacuum correction:'
+concepts:
+- δ
+- IGSOA
+- δ-induced
+- δ-torsion
+aliases:
+- Bk188hp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.597701149425287
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- Γ
-- Ψ
-- δ
-excerpt: 'Construct δ-grading: Γδ(δnΨ0)=(−1)nδnΨ0,\\Gamma\_{\\delta}(\\delta^{n}\\Psi\_{0})
-  \= (-1)^{n}\\delta^{n}\\Psi\_{0},Γδ​(δnΨ0​)=(−1)nδnΨ0​, a canonical parity.'
-heading: '**(8) δ-Orientability (S8)**'
 id: GEN6-8280
-lines: 272-286
 location: genesis-6/spectral-triple-axiom-box-sealed-version::8-δ-orientability-s8::b1
 source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 272-286
+heading: '**(8) δ-Orientability (S8)**'
+block_type: paragraph
+excerpt: 'Construct δ-grading: Γδ(δnΨ0)=(−1)nδnΨ0,\\Gamma\_{\\delta}(\\delta^{n}\\Psi\_{0})
+  \= (-1)^{n}\\delta^{n}\\Psi\_{0},Γδ​(δnΨ0​)=(−1)nδnΨ0​, a canonical parity.'
+concepts:
+- δ
+- Ψ
+- Γ
+- δn
+- π
+- δ-grading
+- δ-space
+- p-cycle
+aliases:
+- Bk275cg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

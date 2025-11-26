@@ -1,9 +1,23 @@
-block_type: list
-concepts: []
-excerpt: '* local adjacency * local curvature * local semantic pipeline'
-heading: 1\. δ-Patch (local geometry cell)
 id: GEN20-6616
-lines: 702-708
 location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::key-structural-components::1-δ-patch-local-geometry-cell::b1
-parent_heading: Key Structural Components
 source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 702-708
+heading: 1\. δ-Patch (local geometry cell)
+parent_heading: Key Structural Components
+block_type: list
+excerpt: '* local adjacency * local curvature * local semantic pipeline'
+aliases:
+- Bk543la
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

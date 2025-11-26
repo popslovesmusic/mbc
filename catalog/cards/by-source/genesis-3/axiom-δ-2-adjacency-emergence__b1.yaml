@@ -1,13 +1,28 @@
+id: GEN3-7346
+location: genesis-3/metagenesis::deviational-axioms::axiom-δ-2-adjacency-emergence::b1
+source: genesis-3\metagenesis.md
+lines: 1066-1074
+heading: '**Axiom δ-2 (Adjacency Emergence)**'
+parent_heading: '**DEVIATIONAL AXIOMS**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: The **first full deviation** produces adjacency—the first structure capable
   of supporting relations. δΨ0 has adjacency structure but no curvature.\\boxed{ \\delta\\Psi\_0
   \\ \\text{has adjacency struc...
-heading: '**Axiom δ-2 (Adjacency Emergence)**'
-id: GEN3-7346
-lines: 1066-1074
-location: genesis-3/metagenesis::deviational-axioms::axiom-δ-2-adjacency-emergence::b1
-parent_heading: '**DEVIATIONAL AXIOMS**'
-source: genesis-3\metagenesis.md
+concepts:
+- Ψ
+- δ
+- first full deviation
+aliases:
+- Bk464tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

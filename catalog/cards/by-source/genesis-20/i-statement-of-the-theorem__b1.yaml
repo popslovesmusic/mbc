@@ -1,18 +1,39 @@
+id: GEN20-6589
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::the-box-algebra-composition-theorem-sealed::i-statement-of-the-theorem::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 295-303
+heading: I. Statement of the Theorem
+parent_heading: □ The Box Algebra Composition Theorem (Sealed)
 block_type: table
+excerpt: '---'
 concepts:
-- Box
-- Logical Phrasing
-- Standard Mathematical
+- Φ-projection
+- Polarity
 - Theorem
-- Θ
-- Π
+- IGSOA
+- MBC
+- Box
+- adjacency-compatible
+- δ
 - Σ
 - Φ
-- δ
-excerpt: '---'
-heading: I. Statement of the Theorem
-id: GEN20-6589
-lines: 295-303
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::the-box-algebra-composition-theorem-sealed::i-statement-of-the-theorem::b1
-parent_heading: □ The Box Algebra Composition Theorem (Sealed)
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+- →
+- BA-Composition
+- well-defined
+- δ-states
+- Standard Mathematical
+aliases:
+- Bk156im
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,29 @@
+id: GEN13-2215
+location: genesis-13/meta-math-nuclear-physics::1-δ-layer-topology-defects-and-braid-groups::definition-14-δ-braiding-generator::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2467-2475
+heading: '**Definition 1.4 — δ-Braiding Generator**'
+parent_heading: '**1\. δ-Layer: Topology, Defects, and Braid Groups**'
 block_type: paragraph
-concepts:
-- δ
-- σ
 excerpt: Let σi∈π1(M∖Dδ)\\sigma\_i \\in \\pi\_1(M\\setminus \\mathcal{D}\_\\delta)σi​∈π1​(M∖Dδ​)
   be a generator representing exchange of neighboring defects.
-heading: '**Definition 1.4 — δ-Braiding Generator**'
-id: GEN13-2215
-lines: 2467-2475
-location: genesis-13/meta-math-nuclear-physics::1-δ-layer-topology-defects-and-braid-groups::definition-14-δ-braiding-generator::b1
-parent_heading: '**1\. δ-Layer: Topology, Defects, and Braid Groups**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- π
+- δ
+- ∈
+- σ
+aliases:
+- Bk683ls
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,36 @@
+id: GEN6-8211
+location: genesis-6/harmonics-atomic-orbitals::2-separation-of-variables-δ-spherical-harmonics::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 30-50
+heading: '**2\. Separation of Variables → δ-Spherical Harmonics**'
 block_type: paragraph
-concepts:
-- Ψ
-- Ω
-- δ
-- λ
 excerpt: 'Because δ encodes adjacency curvature, assume: δ(r,θ,ϕ)=δr(r) δΩ(θ,ϕ)(4)\\delta(r,\\theta,\\phi)
   \= \\delta\_r(r)\\,\\delta\_\\Omega(\\theta,\\phi) \\tag{4}δ(r,θ,ϕ)=δr​(r)δΩ​(θ,ϕ)(4)
   Separation ansatz...'
-heading: '**2\. Separation of Variables → δ-Spherical Harmonics**'
-id: GEN6-8211
-lines: 30-50
-location: genesis-6/harmonics-atomic-orbitals::2-separation-of-variables-δ-spherical-harmonics::b1
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- δ
+- Ω
+- θ
+- Δ
+- ∇
+- δ-spherical harmonics
+- λ
+- Ψ
+- δ-spherical
+- δr
+- δY
+aliases:
+- Bk782be
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.358381502890173
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

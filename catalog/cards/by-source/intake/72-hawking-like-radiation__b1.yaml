@@ -1,11 +1,30 @@
+id: INTK-10796
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-math-interpretation-of-quantum-gravity::7-how-this-reproduces-standard-quantum-gravity-predictions::72-hawking-like-radiation::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2360-2368
+heading: '**7.2 Hawking-like Radiation**'
+parent_heading: '**7\. How This Reproduces Standard Quantum Gravity Predictions**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Bifurcation at a meta-horizon (surface of maximal δ-gradient) produces:
   * mode-pair creation, * one escapes,'
-heading: '**7.2 Hawking-like Radiation**'
-id: INTK-10796
-lines: 2360-2368
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-math-interpretation-of-quantum-gravity::7-how-this-reproduces-standard-quantum-gravity-predictions::72-hawking-like-radiation::b1
-parent_heading: '**7\. How This Reproduces Standard Quantum Gravity Predictions**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- δ
+- meta-horizon
+- δ-substrate
+- δ-gradient
+- mode-pair
+aliases:
+- Bk441bm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.727272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

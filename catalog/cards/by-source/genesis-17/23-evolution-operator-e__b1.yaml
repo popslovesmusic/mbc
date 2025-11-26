@@ -1,11 +1,33 @@
+id: GEN17-5082
+location: genesis-17/mbc-schema-3::2-new-derived-meta-operators::23-evolution-operator-e::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1044-1058
+heading: '**2.3 Evolution Operator (E)**'
+parent_heading: '**2\. NEW DERIVED META-OPERATORS**'
 block_type: paragraph
-concepts:
-- Ω
 excerpt: 'A time-like functor inside MBC, but not physical time: E:MC→MCE: \\mathcal{MC}
   \\to \\mathcal{MC}E:MC→MC Where **𝓜𝓒** is meta-causal category.'
-heading: '**2.3 Evolution Operator (E)**'
-id: GEN17-5082
-lines: 1044-1058
-location: genesis-17/mbc-schema-3::2-new-derived-meta-operators::23-evolution-operator-e::b1
-parent_heading: '**2\. NEW DERIVED META-OPERATORS**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- MBC
+- →
+- meta-causal
+- rule-update
+- meta-Boxes
+- time-like
+- meta-time
+- Ω
+- Δ
+aliases:
+- Bk348tl
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

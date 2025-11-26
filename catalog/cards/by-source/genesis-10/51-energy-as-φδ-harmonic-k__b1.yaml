@@ -1,16 +1,35 @@
+id: GEN10-688
+location: genesis-10/how-stillness-becomes-solid::5-band-structure-emerges::51-energy-as-φδ-harmonic-k::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 259-271
+heading: '**5.1 Energy as Φ(δ-harmonic, k)**'
+parent_heading: '**5\. Band Structure Emerges**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- λ
-- ω
 excerpt: 'Because Φ stabilizes δ-harmonics and Π assigns momentum labels, the energy
   of a mode becomes: En(k)=ℏ ω(λn,k).E\_{n}(k) \= \\hbar\\, \\omega(\\lambda\_n, k).En​(k)=ℏω(λn​,k).
   The function ω(λn,k)\\ome...'
-heading: '**5.1 Energy as Φ(δ-harmonic, k)**'
-id: GEN10-688
-lines: 259-271
-location: genesis-10/how-stillness-becomes-solid::5-band-structure-emerges::51-energy-as-φδ-harmonic-k::b1
-parent_heading: '**5\. Band Structure Emerges**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- λ
+- ω
+- Π
+- δ
+- Φ
+- δ-curvature
+- δ-harmonics
+- Π-momentum
+- Φ-mode
+aliases:
+- Bk072bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.754098360655737
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

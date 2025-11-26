@@ -1,14 +1,39 @@
-block_type: paragraph
-concepts:
-- Axiom
-- End Seal
-- Π
-- Φ
-- δ
-excerpt: '**SEAL:** ΠΝP-1 **Axiom.** Let Π:OΦ→PΠ\\Pi : \\mathcal{O}\_\\Phi \\to \\mathcal{P}\_\\PiΠ:OΦ​→PΠ​
-  be the Π-projection functor.'
-heading: '**AXIOM BOX 3: The Π-Nuclear Projection Axiom**'
 id: GEN13-2089
-lines: 1121-1146
 location: genesis-13/meta-math-nuclear-physics::axiom-box-3-the-π-nuclear-projection-axiom::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1121-1146
+heading: '**AXIOM BOX 3: The Π-Nuclear Projection Axiom**'
+block_type: paragraph
+excerpt: '**SEAL:** ΠΝP-1 **Axiom.** Let Π:OΦ→PΠ\\Pi : \\mathcal{O}\_\\Phi \\to \\mathcal{P}\_\\PiΠ:OΦ​→PΠ​
+  be the Π-projection functor.'
+concepts:
+- Π
+- ⊗
+- Axiom
+- Φ
+- δ-torsion
+- tensor-compatible
+- δ
+- →
+- Φ-transitions
+- Π-projection
+- Π-shadow
+- Ν
+- End Seal
+aliases:
+- Am244sa
+tags:
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.264150943396226
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

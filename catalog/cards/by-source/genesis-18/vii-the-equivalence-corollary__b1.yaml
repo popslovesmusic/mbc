@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- equivalent
-excerpt: 'The following are **equivalent**:'
-heading: '**VII. The Equivalence Corollary**'
 id: GEN18-5447
-lines: 1022-1024
 location: genesis-18/mbc-4::vii-the-equivalence-corollary::b1
 source: genesis-18\MBC-4.md
+lines: 1022-1024
+heading: '**VII. The Equivalence Corollary**'
+block_type: paragraph
+excerpt: 'The following are **equivalent**:'
+concepts:
+- equivalent
+aliases:
+- Bk430tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

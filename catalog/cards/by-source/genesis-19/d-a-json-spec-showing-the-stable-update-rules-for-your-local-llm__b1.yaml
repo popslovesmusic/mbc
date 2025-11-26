@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which one do you want next?
-heading: D) A JSON spec showing the stable update rules for your local LLM
 id: GEN19-6086
-lines: 818-820
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-also-give-you::d-a-json-spec-showing-the-stable-update-rules-for-your-local-llm::b1
-parent_heading: 'If you want, I can also give you:'
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 818-820
+heading: D) A JSON spec showing the stable update rules for your local LLM
+parent_heading: 'If you want, I can also give you:'
+block_type: paragraph
+excerpt: Which one do you want next?
+aliases:
+- Bk465wo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

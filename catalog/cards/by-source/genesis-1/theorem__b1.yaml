@@ -1,14 +1,31 @@
+id: GEN1-506
+location: genesis-1/the-foundation-layer::vii-theorem::theorem::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1400-1404
+heading: '**Theorem.**'
+parent_heading: '**\*\*VII. Theorem**'
 block_type: paragraph
-concepts:
-- Axiom
-- Ψ
-- δ
 excerpt: 'Let Ψ₀ be the zero-state of the NOT Axiom. In any topos 𝓣, Ψ₀ cannot be
   an object because it violates the identity-morphism axiom. Therefore, a morphism
   δ : Ψ₀ → Ψ₁ must be introduced by the internal ...'
-heading: '**Theorem.**'
-id: GEN1-506
-lines: 1400-1404
-location: genesis-1/the-foundation-layer::vii-theorem::theorem::b1
-parent_heading: '**\*\*VII. Theorem**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- Axiom
+- identity-morphism
+- zero-state
+- Ψ₀
+- δ
+- →
+- Ψ₁
+aliases:
+- Bk960lt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

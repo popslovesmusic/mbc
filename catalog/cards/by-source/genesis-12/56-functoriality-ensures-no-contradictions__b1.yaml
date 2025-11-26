@@ -1,13 +1,32 @@
+id: GEN12-1657
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::56-functoriality-ensures-no-contradictions::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1983-2007
+heading: '**5.6 Functoriality Ensures No Contradictions**'
+parent_heading: '**5\. Functoriality**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Because each layer is functorially derived: * δ cannot contradict Φ, * Φ
   cannot contradict Π,'
-heading: '**5.6 Functoriality Ensures No Contradictions**'
-id: GEN12-1657
-lines: 1983-2007
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::56-functoriality-ensures-no-contradictions::b1
-parent_heading: '**5\. Functoriality**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- Π
+- Φ
+- →
+- cross-domain
+- fine-tuning
+- globally consistent cosmos
+- δ
+aliases:
+- Bk746be
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.09433962264151
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

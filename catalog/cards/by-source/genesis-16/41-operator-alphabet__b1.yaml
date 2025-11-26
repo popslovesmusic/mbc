@@ -1,14 +1,30 @@
+id: GEN16-3836
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::4-operator-well-formedness-sequence-grammar::41-operator-alphabet::b1
+source: genesis-16\Untitled_document.md
+lines: 1272-1278
+heading: '**4.1 Operator Alphabet**'
+parent_heading: '**4\. Operator-Well-Formedness (Sequence Grammar)**'
 block_type: paragraph
+excerpt: 'O={E, A, ρ, R, Φ, Π}\\mathcal{O}=\\{E,\\ A,\\ \\rho,\\ \\mathcal{R},\\ \\Phi,\\
+  \\Pi\\}O={E, A, ρ, R, Φ, Π} A reasoning path is an operator word: w=Op1Op2⋯Opn∈O∗w
+  \= Op\_1 Op\_2 \\cdots Op\_n \\in \\m...'
 concepts:
 - Π
 - Φ
 - ρ
-excerpt: 'O={E, A, ρ, R, Φ, Π}\\mathcal{O}=\\{E,\\ A,\\ \\rho,\\ \\mathcal{R},\\ \\Phi,\\
-  \\Pi\\}O={E, A, ρ, R, Φ, Π} A reasoning path is an operator word: w=Op1Op2⋯Opn∈O∗w
-  \= Op\_1 Op\_2 \\cdots Op\_n \\in \\m...'
-heading: '**4.1 Operator Alphabet**'
-id: GEN16-3836
-lines: 1272-1278
-location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::4-operator-well-formedness-sequence-grammar::41-operator-alphabet::b1
-parent_heading: '**4\. Operator-Well-Formedness (Sequence Grammar)**'
-source: genesis-16\Untitled_document.md
+- ∈
+aliases:
+- Bk880mr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

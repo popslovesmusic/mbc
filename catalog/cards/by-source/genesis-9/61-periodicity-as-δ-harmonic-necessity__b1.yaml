@@ -1,11 +1,27 @@
+id: GEN9-9172
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::6-the-δ-periodic-table::61-periodicity-as-δ-harmonic-necessity::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2226-2230
+heading: '**6.1 Periodicity as δ-Harmonic Necessity**'
+parent_heading: '**6\. The δ-Periodic Table**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Z=∑n≤Ndnstable fill.Z \= \\sum\_{n \\le N} d\_n^{\\text{stable fill}}.Z=n≤N∑​dnstable
   fill​. The classical “periods” match **δ-harmonic shells**, not electron counts.
-heading: '**6.1 Periodicity as δ-Harmonic Necessity**'
-id: GEN9-9172
-lines: 2226-2230
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::6-the-δ-periodic-table::61-periodicity-as-δ-harmonic-necessity::b1
-parent_heading: '**6\. The δ-Periodic Table**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ-harmonic shells
+- ∑
+- ≤
+- δ-harmonic
+- δ
+aliases:
+- Bk868nf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

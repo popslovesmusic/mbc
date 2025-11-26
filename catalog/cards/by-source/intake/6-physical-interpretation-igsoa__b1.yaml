@@ -1,14 +1,39 @@
-block_type: list
-concepts:
-- Meta-Time
-- only
-- projection
-- Ψ
-- δ
-excerpt: '* δ¹ \= identity → first particle * δ² \= adjacency → proto-interaction
-  * δ³ \= curvature → proto-geometry'
-heading: '**6\. Physical Interpretation (IGSOA)**'
 id: INTK-10025
-lines: 1291-1313
 location: intake/meta-genesis-mathematical-papers::6-physical-interpretation-igsoa::b1
 source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1291-1313
+heading: '**6\. Physical Interpretation (IGSOA)**'
+block_type: list
+excerpt: '* δ¹ \= identity → first particle * δ² \= adjacency → proto-interaction
+  * δ³ \= curvature → proto-geometry'
+concepts:
+- δ
+- Meta-Time
+- →
+- proto-interaction
+- π
+- Ψ
+- ≥
+- proto-geometry
+- nth-order
+- δn
+- projection
+- only
+- δ¹
+- δ⁴
+- δ²
+aliases:
+- Bk197if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.757575757575758
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,31 @@
+id: GEN6-8403
+location: genesis-6/the-harmonic-spectral-triple::4-boundedness-of-commutators-dδad-deltaadδa::42-for-the-unitary-meta-time-operator-πpiπ::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 604-612
+heading: '**4.2 For the unitary Meta-Time operator π\\piπ**'
+parent_heading: '**4\. Boundedness of commutators \[Dδ,a\]\[D\_\\delta,a\]\[Dδ​,a\]**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- bounded
-- Φ
-- δ
 excerpt: π\\piπ is unitary → bounded. \[Dδ,π\]=\[δ+δ†+Φ,π\]\[D\_\\delta,\\pi\] \=
   \[\\delta+\\delta^\\dagger+\\Phi,\\pi\]\[Dδ​,π\]=\[δ+δ†+Φ,π\] The relation \[ δ,π\]=iI\[\\,\\delta,\\pi\]=i
   I\[δ,π\]=iI (Meta-T...
-heading: '**4.2 For the unitary Meta-Time operator π\\piπ**'
-id: GEN6-8403
-lines: 604-612
-location: genesis-6/the-harmonic-spectral-triple::4-boundedness-of-commutators-dδad-deltaadδa::42-for-the-unitary-meta-time-operator-πpiπ::b1
-parent_heading: '**4\. Boundedness of commutators \[Dδ,a\]\[D\_\\delta,a\]\[Dδ​,a\]**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- π
+- δ
+- Meta-Time
+- Φ
+- →
+aliases:
+- Bk239ub
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.25925925925926
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

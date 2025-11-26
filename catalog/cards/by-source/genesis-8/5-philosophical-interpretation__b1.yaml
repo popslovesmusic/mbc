@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Colored Because It Is Curved
-- The Universe
-- δ
-excerpt: The Universe is Colored Because It Is Curved\*\* Color is usually taken as
-  a microscopic or internal property. Causality is macroscopic.
-heading: '**\*\*5. Philosophical Interpretation:**'
 id: GEN8-8760
-lines: 915-939
 location: genesis-8/corollary-einstein-compatibility-via::5-philosophical-interpretation::b1
 source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 915-939
+heading: '**\*\*5. Philosophical Interpretation:**'
+block_type: paragraph
+excerpt: The Universe is Colored Because It Is Curved\*\* Color is usually taken as
+  a microscopic or internal property. Causality is macroscopic.
+concepts:
+- Curvature
+- IGSOA
+- Colored Because It Is Curved
+- δ
+- The Universe
+aliases:
+- Bk028tu
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.681818181818182
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

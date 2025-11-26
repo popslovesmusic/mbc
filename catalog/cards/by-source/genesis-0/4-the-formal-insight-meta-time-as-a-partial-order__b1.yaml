@@ -1,13 +1,36 @@
-block_type: paragraph
-concepts:
-- First Distinction
-- Meta-Time
-- Ψ
-- δ
-excerpt: 'Let the sequence of deviation-generated states be: S={Ψ0,Ψ1,Ψ2,… }\\mathcal{S}
-  \= \\{\\Psi\_0, \\Psi\_1, \\Psi\_2, \\dots\\}S={Ψ0​,Ψ1​,Ψ2​,…} Define the relation:'
-heading: '**4\. The Formal Insight (Meta-Time as a Partial Order)**'
 id: GEN0-301
-lines: 852-880
 location: genesis-0/why-the-first-action-is-necessary::4-the-formal-insight-meta-time-as-a-partial-order::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 852-880
+heading: '**4\. The Formal Insight (Meta-Time as a Partial Order)**'
+block_type: paragraph
+excerpt: 'Let the sequence of deviation-generated states be: S={Ψ0,Ψ1,Ψ2,… }\\mathcal{S}
+  \= \\{\\Psi\_0, \\Psi\_1, \\Psi\_2, \\dots\\}S={Ψ0​,Ψ1​,Ψ2​,…} Define the relation:'
+concepts:
+- Ψ
+- Meta-Time
+- δ
+- deviation-generation relation
+- →
+- deviation-generation
+- deviation-generated
+- First Distinction
+- Ψi
+- δj
+- δi
+- Ψ₂
+- Ψj
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk616lt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

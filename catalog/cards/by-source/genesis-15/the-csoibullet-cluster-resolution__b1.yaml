@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- Bullet Cluster
-excerpt: (showing how IGSOA explains the Bullet Cluster without particle dark matter)
-heading: '**• The CSOI–Bullet Cluster Resolution**'
 id: GEN15-3305
-lines: 760-762
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::if-you-want-next::the-csoibullet-cluster-resolution::b1
-parent_heading: '**If you want next:**'
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 760-762
+heading: '**• The CSOI–Bullet Cluster Resolution**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: (showing how IGSOA explains the Bullet Cluster without particle dark matter)
+concepts:
+- IGSOA
+- Bullet Cluster
+aliases:
+- Bk620sh
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 18.181818181818183
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,17 +1,31 @@
+id: INTK-10662
+location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::part-2-the-substrate-of-reality-the-informational-field-φ::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1553-1564
+heading: 'Part 2: The Substrate of Reality - The Informational Field (Φ)'
+parent_heading: Summary of Foundational Concepts
 block_type: paragraph
-concepts:
-- Abstract Realm
-- Axiom
-- Field
-- Real Realm
-- Scalar Quantum Field
-- Φ
 excerpt: The single, fundamental substrate of all reality is a **Scalar Quantum Field**,
   designated as **Φ**. This field is the "hardware" of the universe. *   **Nature
   of the Field:** *   **Field:** It is a c...
-heading: 'Part 2: The Substrate of Reality - The Informational Field (Φ)'
-id: INTK-10662
-lines: 1553-1564
-location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::part-2-the-substrate-of-reality-the-informational-field-φ::b1
-parent_heading: Summary of Foundational Concepts
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Field
+- Axiom
+- Φ
+- operator-valued
+- standing-wave
+- Scalar Quantum Field
+- Abstract Realm
+- Real Realm
+aliases:
+- Bk659ts
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.651162790697675
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

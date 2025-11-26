@@ -1,15 +1,28 @@
+id: INTK-9883
+location: intake/meta-genesis-core-papers-foundations::1-formal-definition-of-meta-time-τ::interpretation::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1662-1676
+heading: '**Interpretation:**'
+parent_heading: '**1\. Formal Definition of Meta-Time (Τ)**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- accumulation
-- path
-- pattern
-- sequence
 excerpt: 'Meta-Time is the **pattern** created when one deviation follows another.
   It measures: * the *sequence* of deviations'
-heading: '**Interpretation:**'
-id: INTK-9883
-lines: 1662-1676
-location: intake/meta-genesis-core-papers-foundations::1-formal-definition-of-meta-time-τ::interpretation::b1
-parent_heading: '**1\. Formal Definition of Meta-Time (Τ)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Meta-Time
+- structure of change before time exists
+- pattern
+aliases:
+- Bk876mt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Boxes and routers don’t store “weights” in the neural sense. They store:
-  * polarity'
-heading: MBC Has No Hidden Numerical State Shared Across All Inputs
 id: GEN19-6077
-lines: 712-729
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::mbc-has-no-hidden-numerical-state-shared-across-all-inputs::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 712-729
+heading: MBC Has No Hidden Numerical State Shared Across All Inputs
+block_type: paragraph
+excerpt: 'Boxes and routers don’t store “weights” in the neural sense. They store:
+  * polarity'
+concepts:
+- high-dimensional
+aliases:
+- Bk508ba
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.2222222222222223
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

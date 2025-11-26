@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Field
-- Semantic Field Theory
-- Θ
-excerpt: 'We can write router flow as: dΘdC=FR(Θ,M) dC'
-heading: B4.9 Router Dynamics and Semantic Differential Equations
 id: GEN20-7250
-lines: 7871-7903
 location: genesis-20/mbc-40-documentaitio-1::b49-router-dynamics-and-semantic-differential-equations::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7871-7903
+heading: B4.9 Router Dynamics and Semantic Differential Equations
+block_type: paragraph
+excerpt: 'We can write router flow as: dΘdC=FR(Θ,M) dC'
+concepts:
+- Θ
+- MBC
+- Field
+- Semantic Field Theory
+aliases:
+- Bk127cw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

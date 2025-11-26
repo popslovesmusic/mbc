@@ -1,16 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Free Energy
-- Genesis-Level
-- Level Curvature
-- Thermodynamic Potential Axiom
-- Φ
-- δ
-excerpt: '**“Free Energy as a Φ-Shadow of Genesis-Level Curvature: A δ–Φ Thermodynamic
-  Potential Axiom”**'
-heading: '**Title (Hermetic Sealed-Box Style)**'
 id: GEN14-2906
-lines: 4-6
 location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::title-hermetic-sealed-box-style::b1
 source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 4-6
+heading: '**Title (Hermetic Sealed-Box Style)**'
+block_type: paragraph
+excerpt: '**“Free Energy as a Φ-Shadow of Genesis-Level Curvature: A δ–Φ Thermodynamic
+  Potential Axiom”**'
+concepts:
+- Curvature
+- Axiom
+- Φ
+- Thermodynamic Potential Axiom
+- Genesis-Level
+- Φ-Shadow
+- δ
+- Level Curvature
+- Free Energy
+aliases:
+- Bk710fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 56.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

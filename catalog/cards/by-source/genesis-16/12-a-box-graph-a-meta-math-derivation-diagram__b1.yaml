@@ -1,12 +1,31 @@
-block_type: table
-concepts:
-- Box
-- Box Calculus
-- Meta-Math
-excerpt: 'Thus: G(G)=D\\boxed{ G(\\mathcal{G})=\\mathcal{D} }G(G)=D​ ---'
-heading: '**1.2 A Box Graph → A Meta-Math Derivation Diagram**'
 id: GEN16-3969
-lines: 2885-2897
 location: genesis-16/untitled-document::1-mapping-the-ontology-objects::12-a-box-graph-a-meta-math-derivation-diagram::b1
-parent_heading: '**⭐ 1\. Mapping the Ontology (Objects)**'
 source: genesis-16\Untitled_document.md
+lines: 2885-2897
+heading: '**1.2 A Box Graph → A Meta-Math Derivation Diagram**'
+parent_heading: '**⭐ 1\. Mapping the Ontology (Objects)**'
+block_type: table
+excerpt: 'Thus: G(G)=D\\boxed{ G(\\mathcal{G})=\\mathcal{D} }G(G)=D​ ---'
+concepts:
+- Meta-Math
+- Box Calculus
+- Proof
+- Box
+- →
+- Well-formedness
+aliases:
+- Bk283bc
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

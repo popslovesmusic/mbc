@@ -1,13 +1,36 @@
+id: GEN9-9449
+location: genesis-9/strong-force::the-exact-igsoa-statement::weak-force::b1
+source: genesis-9\strong-force.md
+lines: 183-193
+heading: '**✔ Weak Force**'
+parent_heading: '**THE EXACT IGSOA STATEMENT**'
 block_type: paragraph
-concepts:
-- δ
-- λ
 excerpt: Comes from the **doublet θ-phase** θ∈Z2  ⇒  Aut(θ)=SU(2)\\theta \\in \\mathbb{Z}\_2\\;\\Rightarrow\\;
   \\mathrm{Aut}(\\theta)=SU(2)θ∈Z2​⇒Aut(θ)=SU(2) Both χ and θ phases are **eigen-phases
   of the δ-har...
-heading: '**✔ Weak Force**'
-id: GEN9-9449
-lines: 183-193
-location: genesis-9/strong-force::the-exact-igsoa-statement::weak-force::b1
-parent_heading: '**THE EXACT IGSOA STATEMENT**'
-source: genesis-9\strong-force.md
+concepts:
+- θ
+- eigen-phases of the δ-harmonic spectrum
+- ψ
+- δ
+- ∈
+- λ
+- eigen-phases
+- δ-harmonic
+- same curvature operator
+- χ
+aliases:
+- Bk597cf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.94915254237288
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

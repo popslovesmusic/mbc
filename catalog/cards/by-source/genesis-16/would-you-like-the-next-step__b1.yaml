@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Box Calculus Axiom Box
-- Box Calculus Cheat Sheet
-excerpt: 'I can provide any of the following: 1. **A Box Calculus Cheat Sheet** (you
-  asked earlier) 2. **A full formal operator algebra (LaTeX)**'
-heading: '**Would you like the next step?**'
 id: GEN16-3746
-lines: 167-181
 location: genesis-16/untitled-document::would-you-like-the-next-step::b1
 source: genesis-16\Untitled_document.md
+lines: 167-181
+heading: '**Would you like the next step?**'
+block_type: paragraph
+excerpt: 'I can provide any of the following: 1. **A Box Calculus Cheat Sheet** (you
+  asked earlier) 2. **A full formal operator algebra (LaTeX)**'
+concepts:
+- Box Calculus
+- Box
+- Axiom
+- A complete set of Box Calculus diagrams
+- A sealed Box Calculus Axiom Box PDF
+- A Box Calculus Cheat Sheet
+- Box Calculus Cheat Sheet
+- Box Calculus Axiom Box
+aliases:
+- Bk284cp
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 13.793103448275861
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

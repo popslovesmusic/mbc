@@ -1,14 +1,27 @@
+id: GEN12-1955
+location: genesis-12/untitled-document::narrative-chapter-the-birth-of-the-cosmic-microwave-background::b1
+source: genesis-12\Untitled_document.md
+lines: 3590-3604
+heading: '**Narrative Chapter: The Birth of the Cosmic Microwave Background**'
 block_type: paragraph
-concepts:
-- How Light Learned
-- memory
-- shape
-- δ
 excerpt: '*(How Light Learned to Remember δ)* Before the universe had light, it had
   *shape*. Not the shape of galaxies or stars—those would come much later—but the
   first faint bending of adjacency, the earliest...'
-heading: '**Narrative Chapter: The Birth of the Cosmic Microwave Background**'
-id: GEN12-1955
-lines: 3590-3604
-location: genesis-12/untitled-document::narrative-chapter-the-birth-of-the-cosmic-microwave-background::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- memory
+- δ
+- How Light Learned
+aliases:
+- Bk179hl
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.1578947368421053
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

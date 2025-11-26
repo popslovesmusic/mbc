@@ -1,12 +1,35 @@
+id: GEN10-827
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-defining-the-igsoa-functors::g-𝒜-𝓜-modal-expansion-functor::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1286-1300
+heading: '**G: 𝒜 → 𝓜 (Modal Expansion Functor)**'
+parent_heading: '**2\. Defining the IGSOA Functors**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'On objects: G(A)=Φ(A)G(\\mathcal{A}) \= Φ(\\mathcal{A})G(A)=Φ(A) On morphisms
   (torsion → expansion):'
-heading: '**G: 𝒜 → 𝓜 (Modal Expansion Functor)**'
-id: GEN10-827
-lines: 1286-1300
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-defining-the-igsoa-functors::g-𝒜-𝓜-modal-expansion-functor::b1
-parent_heading: '**2\. Defining the IGSOA Functors**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Φ
+- Φ-space
+- δ
+- →
+- δA
+aliases:
+- Bk001a
+tags:
+- A2
+- A1
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.952380952380952
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1
+- A2

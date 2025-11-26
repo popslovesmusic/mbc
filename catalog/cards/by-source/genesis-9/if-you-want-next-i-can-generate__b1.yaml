@@ -1,17 +1,38 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Orbital Emergence Axiom
-- Periodic Table
-- Quantum Mechanics
-- Π
-- Φ
-- δ
-excerpt: '**Options:** 1. **A companion Axiom Box**: *“Orbital Emergence Axiom (δ→Φ→Π)”*'
-heading: '**If you want next, I can generate:**'
 id: GEN9-9413
-lines: 1178-1193
 location: genesis-9/is-the-source-of-all-structure::if-you-want-next-i-can-generate::b1
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 1178-1193
+heading: '**If you want next, I can generate:**'
+block_type: paragraph
+excerpt: '**Options:** 1. **A companion Axiom Box**: *“Orbital Emergence Axiom (δ→Φ→Π)”*'
+concepts:
+- →
+- IGSOA
+- Axiom
+- A plain-English outreach version
+- A one-page comparison
+- Box
+- Π
+- δ
+- Φ
+- plain-English
+- δ-Harmonics
+- Π-Orbitals
+- Orbital Emergence Axiom
+- one-page
+- Φ-Modes
+aliases:
+- Bk622oc
+tags:
+- axiom-box
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.746031746031743
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,10 +1,26 @@
-block_type: list
-concepts:
-- η
-excerpt: '* Eη:E→EAE * Eη:E→EAE * ϵE:EAE→E'
-heading: Step 1 — Write out the maps
 id: GEN17-4451
-lines: 4724-4741
 location: genesis-17/box-calculus::::mathematical-polarity-formal-proof::step-1-write-out-the-maps::b2
-parent_heading: Mathematical Polarity (Formal Proof)
 source: genesis-17\box_calculus.md
+lines: 4724-4741
+heading: Step 1 — Write out the maps
+parent_heading: Mathematical Polarity (Formal Proof)
+block_type: list
+excerpt: '* Eη:E→EAE * Eη:E→EAE * ϵE:EAE→E'
+concepts:
+- →
+- η
+aliases:
+- Bk678ee
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

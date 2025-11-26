@@ -1,11 +1,28 @@
+id: GEN17-4741
+location: genesis-17/box-calculus::iii-emergence-of-the-two-shadows::shadow-2-oa-high-curvature-limit::b1
+source: genesis-17\box_calculus.md
+lines: 8649-8659
+heading: 'Shadow 2: OA (High Curvature Limit)'
+parent_heading: 🔷 III. Emergence of the Two Shadows
 block_type: paragraph
+excerpt: 'When δ is large: F(Σ)≈+δ Σ+higher-order terms F(Σ)≈+δΣ+higher-order terms'
 concepts:
 - Σ
 - δ
-excerpt: 'When δ is large: F(Σ)≈+δ Σ+higher-order terms F(Σ)≈+δΣ+higher-order terms'
-heading: 'Shadow 2: OA (High Curvature Limit)'
-id: GEN17-4741
-lines: 8649-8659
-location: genesis-17/box-calculus::iii-emergence-of-the-two-shadows::shadow-2-oa-high-curvature-limit::b1
-parent_heading: 🔷 III. Emergence of the Two Shadows
-source: genesis-17\box_calculus.md
+- higher-order
+- ≈
+aliases:
+- Bk918wl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

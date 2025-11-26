@@ -1,10 +1,25 @@
+id: INTK-9844
+location: intake/meta-genesis-core-papers-foundations::2-necessary-conditions-axioms-feeding-the-transition::c2-maximal-symmetry::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1197-1199
+heading: '**(C2) Maximal Symmetry**'
+parent_heading: '**2\. Necessary Conditions (Axioms Feeding the Transition)**'
 block_type: paragraph
+excerpt: Aut(Ψ0)={Id}.\\mathrm{Aut}(\\Psi\_0) \= \\{\\mathrm{Id}\\}.Aut(Ψ0​)={Id}.
 concepts:
 - Ψ
-excerpt: Aut(Ψ0)={Id}.\\mathrm{Aut}(\\Psi\_0) \= \\{\\mathrm{Id}\\}.Aut(Ψ0​)={Id}.
-heading: '**(C2) Maximal Symmetry**'
-id: INTK-9844
-lines: 1197-1199
-location: intake/meta-genesis-core-papers-foundations::2-necessary-conditions-axioms-feeding-the-transition::c2-maximal-symmetry::b1
-parent_heading: '**2\. Necessary Conditions (Axioms Feeding the Transition)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+aliases:
+- Bk491am
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

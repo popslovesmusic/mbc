@@ -1,16 +1,32 @@
+id: GEN17-5143
+location: genesis-17/mbc-schema-3::corollaries::corollary-3-laws-of-physics-are-emergent-not-fundamental::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 2148-2154
+heading: '**Corollary 3 — “Laws of physics” are emergent, not fundamental.**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
-concepts:
-- Genesis Layer
-- Layer
-- Meta-Genesis
-- Π
-- Φ
-- δ
 excerpt: 'Each layer includes its own Π, Φ, δ structures, meaning: Laws appear at
   each Meta-Genesis Layer as stabilizers of meta-Boxes. ---'
-heading: '**Corollary 3 — “Laws of physics” are emergent, not fundamental.**'
-id: GEN17-5143
-lines: 2148-2154
-location: genesis-17/mbc-schema-3::corollaries::corollary-3-laws-of-physics-are-emergent-not-fundamental::b1
-parent_heading: '**Corollaries**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Meta-Genesis
+- Layer
+- meta-Boxes
+- Π
+- δ
+- Φ
+- Genesis Layer
+aliases:
+- Bk409el
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.818181818181817
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

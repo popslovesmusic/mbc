@@ -1,17 +1,37 @@
+id: GEN16-4128
+location: genesis-16/untitled-document::1-resource-sensitivity-exists-in-box-calculus::axiom-ii-mixing::b1
+source: genesis-16\Untitled_document.md
+lines: 4951-4971
+heading: '**Axiom II (Mixing):**'
+parent_heading: '**⭐ 1\. RESOURCE SENSITIVITY EXISTS IN BOX CALCULUS**'
 block_type: paragraph
-concepts:
-- Linear Logic
-- exactly
-- Σ
-- α
-- β
-- δ
 excerpt: 'A(Σ1,Σ2)=αΣ1+βΣ2+δ(Σ1,Σ2)A(\\Sigma\_1,\\Sigma\_2) \= \\alpha\\Sigma\_1 \+
   \\beta\\Sigma\_2 \+ \\delta(\\Sigma\_1,\\Sigma\_2)A(Σ1​,Σ2​)=αΣ1​+βΣ2​+δ(Σ1​,Σ2​)
   This is *not idempotent*: A(Σ,Σ)≠ΣA(\\Sigma,...'
-heading: '**Axiom II (Mixing):**'
-id: GEN16-4128
-lines: 4951-4971
-location: genesis-16/untitled-document::1-resource-sensitivity-exists-in-box-calculus::axiom-ii-mixing::b1
-parent_heading: '**⭐ 1\. RESOURCE SENSITIVITY EXISTS IN BOX CALCULUS**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- δ
+- δ-curvature
+- β
+- α
+- ≠
+- linear resources
+- No contraction
+- No duplication
+- No weakening
+- Linear Logic
+- ΣA
+aliases:
+- Bk852ss
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.634146341463413
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,10 +1,27 @@
+id: GEN9-9130
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-φ-and-π-as-adjunctions-inside-the-projection::φ-geometric-completion-within-physics::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1616-1620
+heading: '**Φ \= geometric completion *within physics***'
+parent_heading: '**5\. Φ and Π as Adjunctions *inside* the Projection**'
 block_type: paragraph
+excerpt: 'Φ:S→G\\Phi : \\mathcal{S} \\to \\mathcal{G}Φ:S→G (the Φ-mode manifold category)'
 concepts:
 - Φ
-excerpt: 'Φ:S→G\\Phi : \\mathcal{S} \\to \\mathcal{G}Φ:S→G (the Φ-mode manifold category)'
-heading: '**Φ \= geometric completion *within physics***'
-id: GEN9-9130
-lines: 1616-1620
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-φ-and-π-as-adjunctions-inside-the-projection::φ-geometric-completion-within-physics::b1
-parent_heading: '**5\. Φ and Π as Adjunctions *inside* the Projection**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+- →
+- Φ-mode
+aliases:
+- Bk233pm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.647058823529413
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

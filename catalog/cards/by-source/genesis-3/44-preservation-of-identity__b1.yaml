@@ -1,11 +1,27 @@
+id: GEN3-7279
+location: genesis-3/metagenesis::4-structural-properties-of-f::44-preservation-of-identity::b1
+source: genesis-3\metagenesis.md
+lines: 153-159
+heading: '**4.4 Preservation of Identity**'
+parent_heading: '**4\. Structural Properties of F**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Identity in Genesis is δ⁰, so: F(idG)=F(δ0)=O0=idF(G).F(\\mathrm{id}\_G)=F(\\delta^0)=\\mathcal{O}\_0
   \= \\mathrm{id}\_{F(G)}.F(idG​)=F(δ0)=O0​=idF(G)​. ---'
-heading: '**4.4 Preservation of Identity**'
-id: GEN3-7279
-lines: 153-159
-location: genesis-3/metagenesis::4-structural-properties-of-f::44-preservation-of-identity::b1
-parent_heading: '**4\. Structural Properties of F**'
-source: genesis-3\metagenesis.md
+concepts:
+- δ
+- δ⁰
+aliases:
+- Bk225ig
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

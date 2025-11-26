@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- Ψ
-- δ
-excerpt: 'Iterating δ produces ordering: Ψ0,Ψ1,Ψ2,…Ψ\_0, Ψ\_1, Ψ\_2, \\ldotsΨ0​,Ψ1​,Ψ2​,…
-  This ordering **is Meta-Time**.'
-heading: '**5\. Step 3 — Time Emerges From δ (Meta-Time)**'
 id: GEN10-809
-lines: 1061-1073
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::5-step-3-time-emerges-from-δ-meta-time::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1061-1073
+heading: '**5\. Step 3 — Time Emerges From δ (Meta-Time)**'
+block_type: paragraph
+excerpt: 'Iterating δ produces ordering: Ψ0,Ψ1,Ψ2,…Ψ\_0, Ψ\_1, Ψ\_2, \\ldotsΨ0​,Ψ1​,Ψ2​,…
+  This ordering **is Meta-Time**.'
+concepts:
+- Ψ
+- Meta-Time
+- δ
+- deviation-order
+- the partial order induced by δ
+- is Meta-Time
+aliases:
+- Bk328ip
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

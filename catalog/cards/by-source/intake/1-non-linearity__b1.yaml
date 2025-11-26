@@ -1,12 +1,27 @@
+id: INTK-10296
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::properties::1-non-linearity::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 717-718
+heading: 1. Non-Linearity
+parent_heading: Properties
 block_type: paragraph
+excerpt: The scaling effect is generally non-linear, meaning doubling the Meta-Scalar
+  might not simply double the Meta-Vector.
 concepts:
 - Meta-Scalar
 - Meta-Vector
-excerpt: The scaling effect is generally non-linear, meaning doubling the Meta-Scalar
-  might not simply double the Meta-Vector.
-heading: 1. Non-Linearity
-id: INTK-10296
-lines: 717-718
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::properties::1-non-linearity::b1
-parent_heading: Properties
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+- non-linear
+aliases:
+- Bk809ts
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

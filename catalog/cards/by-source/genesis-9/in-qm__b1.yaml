@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Orbitals are **mathematical consequences of spatial geometry.**
-heading: '**In QM:**'
 id: GEN9-9060
-lines: 495-497
 location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::6-the-deep-statement::in-qm::b1
-parent_heading: '**6\. The Deep Statement**'
 source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 495-497
+heading: '**In QM:**'
+parent_heading: '**6\. The Deep Statement**'
+block_type: paragraph
+excerpt: Orbitals are **mathematical consequences of spatial geometry.**
+aliases:
+- Bk892oa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

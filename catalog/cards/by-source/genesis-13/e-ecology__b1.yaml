@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: Ecosystems \= interlocking Π-closures exchanging δ-flows through Φ-channels
-heading: '**★ (E) Ecology**'
 id: GEN13-2472
-lines: 182-184
 location: genesis-13/what-biology-is-in-meta-genesis::6-optional-extensions-tell-me-which-direction::e-ecology::b1
-parent_heading: '**6\. Optional Extensions (tell me which direction):**'
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 182-184
+heading: '**★ (E) Ecology**'
+parent_heading: '**6\. Optional Extensions (tell me which direction):**'
+block_type: paragraph
+excerpt: Ecosystems \= interlocking Π-closures exchanging δ-flows through Φ-channels
+concepts:
+- Φ-channels
+- Π-closures
+- δ-flows
+- Π
+- δ
+- Φ
+aliases:
+- Bk345ei
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 60.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,17 +1,35 @@
+id: GEN17-4939
+location: genesis-17/key-points::2-causal-order-the-connector::the-connector-that-stores-the-relationship-between-boxes::b1
+source: genesis-17\Key_Points.md
+lines: 876-904
+heading: '**the connector that stores the relationship between boxes.**'
+parent_heading: '**⭐ 2\. Causal order \= the connector**'
 block_type: paragraph
-concepts:
-- edge
-- graph
-- how
-- why
-- Π
-- Φ
-- δ
 excerpt: 'This means: * It encodes **how** a box depends on another box. * It encodes
   **why** a box has the structure it has.'
-heading: '**the connector that stores the relationship between boxes.**'
-id: GEN17-4939
-lines: 876-904
-location: genesis-17/key-points::2-causal-order-the-connector::the-connector-that-stores-the-relationship-between-boxes::b1
-parent_heading: '**⭐ 2\. Causal order \= the connector**'
-source: genesis-17\Key_Points.md
+concepts:
+- Π
+- relationship-preserving glue
+- relationship-preserving
+- δ
+- Φ
+- Φ-box
+- Π-box
+- δ-box
+- the dependency map
+- graph
+- edge
+- how
+- why
+aliases:
+- Bk657tm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.84057971014493
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

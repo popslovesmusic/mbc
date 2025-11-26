@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: (deriving MOND as the low-acceleration limit of δ-curvature)
-heading: '**• The CSOI–MOND Equivalence**'
 id: GEN15-3287
-lines: 482-484
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::if-you-want-the-next-layer::the-csoimond-equivalence::b1
-parent_heading: '**If you want the next layer**'
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 482-484
+heading: '**• The CSOI–MOND Equivalence**'
+parent_heading: '**If you want the next layer**'
+block_type: paragraph
+excerpt: (deriving MOND as the low-acceleration limit of δ-curvature)
+concepts:
+- low-acceleration
+- δ-curvature
+- δ
+aliases:
+- Bk446dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

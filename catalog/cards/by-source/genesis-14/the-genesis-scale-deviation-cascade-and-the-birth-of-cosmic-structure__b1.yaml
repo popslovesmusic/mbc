@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Matter Modes
-- Π
-- Φ
-- δ
-excerpt: '*(δ-Geometry → Φ-Dynamics → Π-Matter Modes)* ---'
-heading: '***The Genesis-Scale Deviation Cascade and the Birth of Cosmic Structure***'
 id: GEN14-2642
-lines: 4-8
 location: genesis-14/inflation-structure-formation::inflation-structure-formation::the-genesis-scale-deviation-cascade-and-the-birth-of-cosmic-structure::b1
-parent_heading: '**Inflation → Structure Formation**'
 source: genesis-14\Inflation__Structure_Formation.md
+lines: 4-8
+heading: '***The Genesis-Scale Deviation Cascade and the Birth of Cosmic Structure***'
+parent_heading: '**Inflation → Structure Formation**'
+block_type: paragraph
+excerpt: '*(δ-Geometry → Φ-Dynamics → Π-Matter Modes)* ---'
+concepts:
+- →
+- δ-Geometry
+- Φ-Dynamics
+- Π-Matter
+- Π
+- δ
+- Φ
+- Matter Modes
+aliases:
+- Bk281gd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 114.28571428571428
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

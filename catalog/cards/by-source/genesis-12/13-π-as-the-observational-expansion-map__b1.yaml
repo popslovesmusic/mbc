@@ -1,11 +1,28 @@
+id: GEN12-1770
+location: genesis-12/untitled-document::1-preliminaries::13-π-as-the-observational-expansion-map::b1
+source: genesis-12\Untitled_document.md
+lines: 800-814
+heading: '**1.3 Π as the Observational Expansion Map**'
+parent_heading: '**1\. Preliminaries**'
 block_type: paragraph
+excerpt: 'Π projects Φ into observables: * CMB multipoles, * inflationary tilt,'
 concepts:
+- tensor-to-scalar
+- large-scale
 - Π
 - Φ
-excerpt: 'Π projects Φ into observables: * CMB multipoles, * inflationary tilt,'
-heading: '**1.3 Π as the Observational Expansion Map**'
-id: GEN12-1770
-lines: 800-814
-location: genesis-12/untitled-document::1-preliminaries::13-π-as-the-observational-expansion-map::b1
-parent_heading: '**1\. Preliminaries**'
-source: genesis-12\Untitled_document.md
+aliases:
+- Bk881pi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

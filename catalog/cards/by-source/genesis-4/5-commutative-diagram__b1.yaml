@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Adjacency Graph
-- Differentiable Manifold
-- δ
-- δ-adjacency
-excerpt: '`flowchart TD` `A["δ-Adjacency Graph 𝒜"] -->|π_top| T["Topology 𝒯"]` `T
-  -->|π_geo| M["Differentiable Manifold M"]`'
-heading: '**5\. Commutative Diagram**'
 id: GEN4-7849
-lines: 674-684
 location: genesis-4/the-first-adjacency::5-commutative-diagram::b1
 source: genesis-4\The_First_Adjacency.md
+lines: 674-684
+heading: '**5\. Commutative Diagram**'
+block_type: paragraph
+excerpt: '`flowchart TD` `A["δ-Adjacency Graph 𝒜"] -->|π_top| T["Topology 𝒯"]` `T
+  -->|π_geo| M["Differentiable Manifold M"]`'
+concepts:
+- Adjacency
+- δ
+- π
+- δ-adjacency
+- δ-Adjacency
+- Differentiable Manifold
+- δ-metric
+- Adjacency Graph
+aliases:
+- Bk739fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.666666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

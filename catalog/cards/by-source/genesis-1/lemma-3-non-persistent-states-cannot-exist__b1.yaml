@@ -1,12 +1,32 @@
+id: GEN1-488
+location: genesis-1/the-foundation-layer::ii-lemmas-leading-to-the-theorem::lemma-3-non-persistent-states-cannot-exist::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1069-1087
+heading: '**Lemma 3 (Non-Persistent States Cannot Exist).**'
+parent_heading: '**II. Lemmas Leading to the Theorem**'
 block_type: paragraph
-concepts:
-- Box
-- Ψ
 excerpt: '**Claim:** If Ψ fails Definition 3 (persistence), it fails Definition 2
   (existence). **Proof:**'
-heading: '**Lemma 3 (Non-Persistent States Cannot Exist).**'
-id: GEN1-488
-lines: 1069-1087
-location: genesis-1/the-foundation-layer::ii-lemmas-leading-to-the-theorem::lemma-3-non-persistent-states-cannot-exist::b1
-parent_heading: '**II. Lemmas Leading to the Theorem**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Definition
+- Proof
+- Box
+- self-consistency
+- non-persistence
+- self-relation
+- non-existence
+- Ψ
+aliases:
+- Bk164cf
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.545454545454545
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

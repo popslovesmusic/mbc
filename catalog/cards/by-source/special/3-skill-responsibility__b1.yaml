@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'An LLM can: * talk like a therapist * argue like a lawyer'
-heading: '**⭐ 3\. Skill ≠ responsibility**'
 id: SPEC-11356
-lines: 7569-7601
 location: special/specil::3-skill-responsibility::b1
 source: special\specil.md
+lines: 7569-7601
+heading: '**⭐ 3\. Skill ≠ responsibility**'
+block_type: paragraph
+excerpt: 'An LLM can: * talk like a therapist * argue like a lawyer'
+aliases:
+- Bk158lc
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

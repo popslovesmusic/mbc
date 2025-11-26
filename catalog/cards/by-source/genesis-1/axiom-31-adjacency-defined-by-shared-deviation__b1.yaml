@@ -1,12 +1,32 @@
+id: GEN1-533
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::3-adjacency-locality-and-proto-spacetime::axiom-31-adjacency-defined-by-shared-deviation::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 390-400
+heading: '**Axiom 3.1 — Adjacency Defined by Shared Deviation.**'
+parent_heading: '**3\. Adjacency, Locality, and Proto-Spacetime**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Two states are adjacent if they share the same deviation value: A(x,y)=1  ⟺  δ(x)=δ(y).A(x,y)
   \= 1 \\iff \\delta(x) \= \\delta(y).A(x,y)=1⟺δ(x)=δ(y). Adjacency is **equivalence-class
   geometry** induce...'
-heading: '**Axiom 3.1 — Adjacency Defined by Shared Deviation.**'
-id: GEN1-533
-lines: 390-400
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::3-adjacency-locality-and-proto-spacetime::axiom-31-adjacency-defined-by-shared-deviation::b1
-parent_heading: '**3\. Adjacency, Locality, and Proto-Spacetime**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Adjacency
+- equivalence-class geometry
+- Axiom
+- equivalence-class
+- light-cone
+aliases:
+- Bk322ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.16949152542373
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

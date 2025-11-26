@@ -1,13 +1,30 @@
+id: INTK-9637
+location: intake/abstract-editorial-review::section-8-numerical-derivation-of-λ::82-three-statistical-components::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 477-486
+heading: '**8.2 — Three statistical components**'
+parent_heading: '**📄 Section 8 — Numerical Derivation of Λ**'
 block_type: paragraph
+excerpt: 'This list is excellent. Add one clarifying line: These three components
+  form the “δ-statistical ensemble” whose expectation value determines Λ.'
 concepts:
+- δ-statistical
+- Π-statistics
 - Λ
 - Π
 - δ
-excerpt: 'This list is excellent. Add one clarifying line: These three components
-  form the “δ-statistical ensemble” whose expectation value determines Λ.'
-heading: '**8.2 — Three statistical components**'
-id: INTK-9637
-lines: 477-486
-location: intake/abstract-editorial-review::section-8-numerical-derivation-of-λ::82-three-statistical-components::b1
-parent_heading: '**📄 Section 8 — Numerical Derivation of Λ**'
-source: intake\ABSTRACT__Editorial_Review.md
+aliases:
+- Bk216tl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

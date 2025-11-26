@@ -1,15 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Π
-- Φ
-- δ
-excerpt: 'These are minor editorial refinements, not structural rewrites: * Add clarifications
-  about Φ-domain being non-metric. * Strengthen functorial properties of Π\_g.'
-heading: '**⭐ SUMMARY OF REQUIRED CHANGES**'
 id: INTK-9623
-lines: 313-327
 location: intake/abstract-editorial-review::summary-of-required-changes::b1
 source: intake\ABSTRACT__Editorial_Review.md
+lines: 313-327
+heading: '**⭐ SUMMARY OF REQUIRED CHANGES**'
+block_type: paragraph
+excerpt: 'These are minor editorial refinements, not structural rewrites: * Add clarifications
+  about Φ-domain being non-metric. * Strengthen functorial properties of Π\_g.'
+concepts:
+- Axiom
+- Box
+- Π
+- δ
+- non-metric
+- Φ-domain
+- Φ
+- Axiom Box
+aliases:
+- Bk822ta
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

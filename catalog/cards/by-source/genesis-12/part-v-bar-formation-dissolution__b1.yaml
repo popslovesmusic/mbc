@@ -1,12 +1,31 @@
+id: GEN12-1924
+location: genesis-12/untitled-document::part-v-bar-formation-dissolution::b1
+source: genesis-12\Untitled_document.md
+lines: 3007-3020
+heading: '**Part V — Bar Formation & Dissolution**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Bar structures correspond to δ₉ dominance (GF-3). Thus bars form when: a9(t)
   increases relative to a3,a6,a\_9(t) \\text{ increases relative to } a\_3,a\_6,a9​(t)
   increases relative to a3​,a6​,'
-heading: '**Part V — Bar Formation & Dissolution**'
-id: GEN12-1924
-lines: 3007-3020
-location: genesis-12/untitled-document::part-v-bar-formation-dissolution::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- mode-amplitude switching
+- mode-amplitude
+- δ
+- Φ
+- δ₉
+- Φ₂
+aliases:
+- Bk083bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.450704225352112
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

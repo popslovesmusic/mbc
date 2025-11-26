@@ -1,19 +1,40 @@
+id: GEN14-2927
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-sealed-axiom-box-hermetic::axiom-box-the-meta-genesis-partition-functor::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 238-265
+heading: '**Axiom Box: The Meta-Genesis Partition Functor**'
+parent_heading: '**II. Sealed Axiom Box (Hermetic)**'
 block_type: list
+excerpt: 1. **Genesis Asymmetry (δ):** δ defines adjacency curvature and the primitive
+  non-zero condition. 2. **Adjacency Category:**
 concepts:
-- Adjacency Category
-- Ensemble Correspondence
-- Genesis Asymmetry
-- Multiplicity Projection
-- Partition Functor
-- Trace Compression
 - Π
 - Φ
 - δ
-excerpt: 1. **Genesis Asymmetry (δ):** δ defines adjacency curvature and the primitive
-  non-zero condition. 2. **Adjacency Category:**
-heading: '**Axiom Box: The Meta-Genesis Partition Functor**'
-id: GEN14-2927
-lines: 238-265
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-sealed-axiom-box-hermetic::axiom-box-the-meta-genesis-partition-functor::b1
-parent_heading: '**II. Sealed Axiom Box (Hermetic)**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+- →
+- Projection
+- Adjacency
+- Functor
+- adjacency-preserving
+- curvature-monotone
+- Φ-distinguishable
+- Π-Multiplicity
+- δ-adjacency
+- δ-curvature
+- Φ-exchange
+- Π-exchange
+aliases:
+- Bk897ga
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.535714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

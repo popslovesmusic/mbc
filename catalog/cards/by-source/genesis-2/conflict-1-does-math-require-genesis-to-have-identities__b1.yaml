@@ -1,12 +1,26 @@
+id: GEN2-6268
+location: genesis-2/axioms-for-the-category-genesis::step-4-conflicts-that-cannot-arise::conflict-1-does-math-require-genesis-to-have-identities::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 733-744
+heading: '**Conflict 1: Does Math require Genesis to have identities?**'
+parent_heading: '**🔶 Step 4 — Conflicts That Cannot Arise**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'No. Functors do not require identity existence in the domain. Only that
   they preserve them if present. Genesis identities exist only for n≥1n\\ge1n≥1, and
   they map cleanly:'
-heading: '**Conflict 1: Does Math require Genesis to have identities?**'
-id: GEN2-6268
-lines: 733-744
-location: genesis-2/axioms-for-the-category-genesis::step-4-conflicts-that-cannot-arise::conflict-1-does-math-require-genesis-to-have-identities::b1
-parent_heading: '**🔶 Step 4 — Conflicts That Cannot Arise**'
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Ψ
+- ≥
+- Ψn
+aliases:
+- Bk121fn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.122448979591836
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

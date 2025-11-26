@@ -1,12 +1,29 @@
+id: SPEC-11425
+location: special/specil::5-if-youd-like-we-can-now-explore::how-δ-curvature-could-generate-an-axis::3-super-horizon-coherence-δ-field-correlation-length-horizon::b1
+source: special\specil.md
+lines: 8870-8882
+heading: '**3\) Super-horizon coherence (δ-field correlation length \> horizon)**'
+parent_heading: '**How δ-curvature could generate an “Axis”**'
 block_type: paragraph
-concepts:
-- Λ
-- δ
 excerpt: 'For the AoE to happen without wrecking ΛCDM everywhere else, the asymmetry
   must be: * weak, * coherent only at huge scales,'
-heading: '**3\) Super-horizon coherence (δ-field correlation length \> horizon)**'
-id: SPEC-11425
-lines: 8870-8882
-location: special/specil::5-if-youd-like-we-can-now-explore::how-δ-curvature-could-generate-an-axis::3-super-horizon-coherence-δ-field-correlation-length-horizon::b1
-parent_heading: '**How δ-curvature could generate an “Axis”**'
-source: special\specil.md
+concepts:
+- Genesis-level
+- δ-curvature
+- Λ
+- δ
+aliases:
+- Bk287ft
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.405405405405405
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

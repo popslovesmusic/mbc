@@ -1,13 +1,30 @@
+id: GEN16-4132
+location: genesis-16/untitled-document::4-δ-curvature-as-the-modality::41-dereliction::b1
+source: genesis-16\Untitled_document.md
+lines: 5038-5049
+heading: '**⭐ 4.1 Dereliction**'
+parent_heading: '**⭐ 4\. δ-curvature AS THE \!-MODALITY**'
 block_type: paragraph
-concepts:
-- Π
-- Σ
-- δ
 excerpt: '\!Σ→Σ\!\\Sigma \\to \\Sigma\!Σ→Σ δ-curvature weakened: Σ+δ(Σ,Σ)→ΠΣ\\Sigma
   \+ \\delta(\\Sigma,\\Sigma) \\xrightarrow{Π} \\SigmaΣ+δ(Σ,Σ)Π​Σ'
-heading: '**⭐ 4.1 Dereliction**'
-id: GEN16-4132
-lines: 5038-5049
-location: genesis-16/untitled-document::4-δ-curvature-as-the-modality::41-dereliction::b1
-parent_heading: '**⭐ 4\. δ-curvature AS THE \!-MODALITY**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- Π
+- δ
+- →
+- δ-curvature
+- δ-effect
+aliases:
+- Bk408ss
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

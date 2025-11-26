@@ -1,12 +1,29 @@
+id: GEN9-9080
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::4-π-the-first-forms-of-matter::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 802-811
+heading: '**4\. Π: The First Forms of Matter**'
+parent_heading: '**“Why Orbitals Exist at All”**'
 block_type: paragraph
+excerpt: 'Now comes the moment where structure becomes recognizable. When Φ-modes
+  stabilize, a projection occurs: Φ⟶Π.\\Phi \\longrightarrow \\Pi.Φ⟶Π.'
 concepts:
 - Π
 - Φ
-excerpt: 'Now comes the moment where structure becomes recognizable. When Φ-modes
-  stabilize, a projection occurs: Φ⟶Π.\\Phi \\longrightarrow \\Pi.Φ⟶Π.'
-heading: '**4\. Π: The First Forms of Matter**'
-id: GEN9-9080
-lines: 802-811
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::4-π-the-first-forms-of-matter::b1
-parent_heading: '**“Why Orbitals Exist at All”**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+- proto-orbitals
+- Φ-modes
+aliases:
+- Bk915nc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.428571428571429
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

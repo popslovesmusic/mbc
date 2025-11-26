@@ -1,18 +1,39 @@
+id: GEN10-877
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::abstract::b3
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2094-2106
+heading: '**Abstract**'
 block_type: paragraph
-concepts:
-- First Law
-- The First Law
-- Zero-State
-- energy
-- Π
-- Φ
-- Ψ
-- δ
 excerpt: 'The First Law of Thermodynamics—energy conservation—is derived in IGSOA
   not from symmetries of a pre-existent spacetime, but from **monistic persistence
   of deviation**. Energy is identified as: **the ...'
-heading: '**Abstract**'
-id: GEN10-877
-lines: 2094-2106
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::abstract::b3
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- IGSOA
+- monistic impossibility of returning to nothing
+- δ
+- Theorem
+- State
+- monistic persistence of deviation
+- Ψ
+- →
+- pre-existent
+- Zero-State
+- total deviation content
+- Π
+- Φ
+- First Law
+- energy
+aliases:
+- Bk544tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.085106382978726
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

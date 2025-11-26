@@ -1,14 +1,32 @@
+id: GEN19-5848
+location: genesis-19/mbc-4-1::8-the-δφπ-tensor-pipeline::pipeline-formula::b1
+source: genesis-19\MBC-4_1.md
+lines: 359-366
+heading: '**Pipeline Formula**'
+parent_heading: '**8\. The δ→Φ→Π Tensor Pipeline**'
 block_type: table
-concepts:
-- Anti-Idempotence
-- Polarity Tensor Identities
-- δ
 excerpt: \\Pi(\\Phi(\\delta(T))) \= g\_{ij} \\, R^i\_k R^j\_\\ell \\, T^{k\\ell} \\\]
   | Semantic meaning \= weighted polarity contraction of δ-adjacency structure. |
   This is \*the\* tensor equation of MBC-4.0 ...
-heading: '**Pipeline Formula**'
-id: GEN19-5848
-lines: 359-366
-location: genesis-19/mbc-4-1::8-the-δφπ-tensor-pipeline::pipeline-formula::b1
-parent_heading: '**8\. The δ→Φ→Π Tensor Pipeline**'
-source: genesis-19\MBC-4_1.md
+concepts:
+- MBC
+- Polarity
+- Anti-Idempotence
+- δ-adjacency
+- Polarity Tensor Identities
+- δ
+aliases:
+- Bk786sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.741573033707865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

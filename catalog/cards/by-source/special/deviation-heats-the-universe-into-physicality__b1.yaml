@@ -1,13 +1,31 @@
+id: SPEC-11009
+location: special/specil::4-expansion-heating-physical-emergence::deviation-heats-the-universe-into-physicality::b1
+source: special\specil.md
+lines: 648-666
+heading: '**Deviation heats the universe into physicality.**'
+parent_heading: '**🔥 4\. Expansion → Heating → Physical Emergence**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'This is the missing link between: * pure monistic Genesis * and physical
   cosmology.'
-heading: '**Deviation heats the universe into physicality.**'
-id: SPEC-11009
-lines: 648-666
-location: special/specil::4-expansion-heating-physical-emergence::deviation-heats-the-universe-into-physicality::b1
-parent_heading: '**🔥 4\. Expansion → Heating → Physical Emergence**'
-source: special\specil.md
+concepts:
+- IGSOA
+- smoothing-expansion
+- non-zero
+- Π
+- δ
+- Φ
+aliases:
+- Bk467tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.825242718446602
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

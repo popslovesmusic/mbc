@@ -1,12 +1,28 @@
+id: GEN19-6130
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::interpretation::2-the-craters-depressions-nested-dependent-probability-slopes::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1298-1314
+heading: 2\. The craters (depressions) \= nested dependent probability slopes
+parent_heading: ✅ Interpretation
 block_type: paragraph
-concepts:
-- Θ
-- Σ
 excerpt: 'Each depression corresponds to: * a local probability slope * a nested region
   of increased semantic likelihood'
-heading: 2\. The craters (depressions) \= nested dependent probability slopes
-id: GEN19-6130
-lines: 1298-1314
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::interpretation::2-the-craters-depressions-nested-dependent-probability-slopes::b1
-parent_heading: ✅ Interpretation
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- Σ
+- sub-gradient
+- Θ
+aliases:
+- Bk038ed
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

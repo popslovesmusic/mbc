@@ -1,14 +1,31 @@
+id: GEN3-7463
+location: genesis-3/the-physics-box-diagram::2-the-δ-axiom-deviational-necessity::axiom-d1-the-first-action-exists::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1381-1399
+heading: '**Axiom D1: The First Action Exists**'
+parent_heading: '**2\. THE δ AXIOM (Deviational Necessity)**'
 block_type: paragraph
-concepts:
-- inevitable
-- necessary
-- Ψ
-- δ
 excerpt: 'There exists a primitive operator δδδ such that: δ(Ψ0)≠Ψ0.δ(Ψ\_0) \\neq
   Ψ\_0.δ(Ψ0​)=Ψ0​. Deviation is **necessary** and **inevitable**.'
-heading: '**Axiom D1: The First Action Exists**'
-id: GEN3-7463
-lines: 1381-1399
-location: genesis-3/the-physics-box-diagram::2-the-δ-axiom-deviational-necessity::axiom-d1-the-first-action-exists::b1
-parent_heading: '**2\. THE δ AXIOM (Deviational Necessity)**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- δ
+- Ψ
+- Deviation
+- ≠
+- inevitable
+- necessary
+aliases:
+- Bk063te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,28 @@
+id: GEN20-6776
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::42-the-polarity-operator-θ::core-roles-of-θ::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1476-1486
+heading: 'Core roles of Θ:'
+parent_heading: 4.2 The Polarity Operator (Θ)
 block_type: list
-concepts:
-- Θ
-- δ
 excerpt: '* directs deviation along a specific path * weights competing flows * resolves
   ambiguity'
-heading: 'Core roles of Θ:'
-id: GEN20-6776
-lines: 1476-1486
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::42-the-polarity-operator-θ::core-roles-of-θ::b1
-parent_heading: 4.2 The Polarity Operator (Θ)
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- Θ
+- δ
+aliases:
+- Bk475dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

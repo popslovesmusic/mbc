@@ -1,11 +1,31 @@
+id: GEN12-1716
+location: genesis-12/untitled-document::1-preliminaries-categories-and-functors::11-categories::category-𝒟-deviation-geometry::b1
+source: genesis-12\Untitled_document.md
+lines: 39-43
+heading: '**Category 𝒟 (Deviation Geometry)**'
+parent_heading: '**1.1 Categories**'
 block_type: list
-concepts:
-- δ
 excerpt: '* **Objects:** δ-configurations, δ-curvature fields, adjacency structures.
   * **Morphisms:** δ-adjacency-preserving maps; curvature-preserving embeddings; deviation-homomorphisms.'
-heading: '**Category 𝒟 (Deviation Geometry)**'
-id: GEN12-1716
-lines: 39-43
-location: genesis-12/untitled-document::1-preliminaries-categories-and-functors::11-categories::category-𝒟-deviation-geometry::b1
-parent_heading: '**1.1 Categories**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- deviation-homomorphisms
+- δ-adjacency-preserving
+- curvature-preserving
+- δ-configurations
+- δ-curvature
+aliases:
+- Bk366oc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Zero-State
-excerpt: 'IGSOA: the Zero-State necessarily becomes unstable.'
-heading: '**(1) What “caused” the Big Bang?**'
 id: GEN5-7993
-lines: 855-857
 location: genesis-5/formal-proof-of-the-adjoint-triple::5-why-monism-solves-the-oldest-paradoxes-of-physics::1-what-caused-the-big-bang::b1
-parent_heading: '**5\. Why Monism Solves the Oldest Paradoxes of Physics**'
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 855-857
+heading: '**(1) What “caused” the Big Bang?**'
+parent_heading: '**5\. Why Monism Solves the Oldest Paradoxes of Physics**'
+block_type: paragraph
+excerpt: 'IGSOA: the Zero-State necessarily becomes unstable.'
+concepts:
+- IGSOA
+- State
+- Zero-State
+aliases:
+- Bk703it
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 42.857142857142854
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- persist
-- Φ
-- δ
-excerpt: δ gives you all allowed frequencies. Φ selects which ones **persist**.
-heading: '**2\. Φ-Stabilization: Selecting Physical Resonances**'
 id: GEN10-679
-lines: 171-174
 location: genesis-10/how-stillness-becomes-solid::2-φ-stabilization-selecting-physical-resonances::b1
 source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 171-174
+heading: '**2\. Φ-Stabilization: Selecting Physical Resonances**'
+block_type: paragraph
+excerpt: δ gives you all allowed frequencies. Φ selects which ones **persist**.
+concepts:
+- δ
+- Φ
+- persist
+aliases:
+- Bk808gy
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.27272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

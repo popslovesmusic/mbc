@@ -1,15 +1,40 @@
+id: GEN11-1093
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::1-genesis-level-δ-modes-primordial-deviational-curvature::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 10-31
+heading: '**1\. Genesis-Level δ-Modes → Primordial Deviational Curvature**'
 block_type: paragraph
-concepts:
-- source
-- Π
-- Φ
-- Ψ
-- δ
 excerpt: 'In IGSOA, before spacetime emerges, δ is the **first operative asymmetry**:
   * δ encodes **non-zero deviation** from Ψ₀ stillness * adjacency begins to “bend”
   under δ-curvature'
-heading: '**1\. Genesis-Level δ-Modes → Primordial Deviational Curvature**'
-id: GEN11-1093
-lines: 10-31
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::1-genesis-level-δ-modes-primordial-deviational-curvature::b1
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- δ
+- IGSOA
+- δ-curvature fluctuations
+- δ-curvature
+- non-zero deviation
+- energy-density
+- primordial curvature spectrum
+- first operative asymmetry
+- temperature anisotropies
+- non-zero
+- Π
+- Ψ
+- Φ
+- →
+- δk
+aliases:
+- Bk438ib
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.391304347826086
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

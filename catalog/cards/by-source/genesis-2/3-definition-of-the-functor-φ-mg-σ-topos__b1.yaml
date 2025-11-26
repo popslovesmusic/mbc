@@ -1,13 +1,30 @@
+id: GEN2-6481
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::3-definition-of-the-functor-φ-mg-σ-topos::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 90-114
+heading: '**3\. Definition of the Functor Φ: MG → σ-Topos**'
 block_type: paragraph
+excerpt: 'We define Φ on objects: 1. **Φ(Ψ₀)** \= terminal sheaf **1** * Because Ψ₀
+  has no adjacency, no variation, and no internal variation.'
 concepts:
 - Φ
 - Ψ
+- Ψ₀
 - δ
+- k-adjacency
+- ≤
 - σ
-excerpt: 'We define Φ on objects: 1. **Φ(Ψ₀)** \= terminal sheaf **1** * Because Ψ₀
-  has no adjacency, no variation, and no internal variation.'
-heading: '**3\. Definition of the Functor Φ: MG → σ-Topos**'
-id: GEN2-6481
-lines: 90-114
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::3-definition-of-the-functor-φ-mg-σ-topos::b1
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+- n-fold
+- n-step
+aliases:
+- Bk472do
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,36 @@
+id: GEN13-2592
+location: genesis-13/what-biology-is-in-meta-genesis::section-iv3-π-energy-towers-atpgtpnadh-multiplet::definition-iv31-π-energy-tower::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1873-1895
+heading: '**Definition IV.3.1 (Π-Energy Tower).**'
+parent_heading: '**SECTION IV.3 — Π-Energy Towers (ATP/GTP/NADH Multiplet)**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Let: En=Pn∩Spec⁡(Wδ)E\_n \= \\mathcal{P}\_n \\cap \\operatorname{Spec}(W\_\\delta)En​=Pn​∩Spec(Wδ​)
   The **Π-energy tower** is:'
-heading: '**Definition IV.3.1 (Π-Energy Tower).**'
-id: GEN13-2592
-lines: 1873-1895
-location: genesis-13/what-biology-is-in-meta-genesis::section-iv3-π-energy-towers-atpgtpnadh-multiplet::definition-iv31-π-energy-tower::b1
-parent_heading: '**SECTION IV.3 — Π-Energy Towers (ATP/GTP/NADH Multiplet)**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- ⊂
+- δ
+- ∩
+- metabolite-level
+- Π-energy tower
+- δ-enhanced
+- ADP-like
+- Π-energy
+- CTP-like
+- ATP-like
+- Π
+- spectral classes
+aliases:
+- Bk569ls
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.457831325301203
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,10 +1,26 @@
+id: GEN17-4452
+location: genesis-17/box-calculus::::mathematical-polarity-formal-proof::step-2-apply-definitions::b1
+source: genesis-17\box_calculus.md
+lines: 4743-4764
+heading: Step 2 — Apply definitions
+parent_heading: Mathematical Polarity (Formal Proof)
 block_type: list
+excerpt: '* Unit injects identity structure: * η(x)=A(x,e) * η(x)=A(x,e)'
 concepts:
 - η
-excerpt: '* Unit injects identity structure: * η(x)=A(x,e) * η(x)=A(x,e)'
-heading: Step 2 — Apply definitions
-id: GEN17-4452
-lines: 4743-4764
-location: genesis-17/box-calculus::::mathematical-polarity-formal-proof::step-2-apply-definitions::b1
-parent_heading: Mathematical Polarity (Formal Proof)
-source: genesis-17\box_calculus.md
+- A-wrapper
+aliases:
+- Bk773ui
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.8169014084507045
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

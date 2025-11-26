@@ -1,11 +1,24 @@
-block_type: paragraph
-concepts:
-- before
-- effect
-- independent
-excerpt: 'For deviation to: * enforce NOT * operate at Genesis'
-heading: '**🧠 4\. Why deviation must be outside time**'
 id: SPEC-11058
-lines: 1346-1377
 location: special/specil::4-why-deviation-must-be-outside-time::b1
 source: special\specil.md
+lines: 1346-1377
+heading: '**🧠 4\. Why deviation must be outside time**'
+block_type: paragraph
+excerpt: 'For deviation to: * enforce NOT * operate at Genesis'
+concepts:
+- Deviation
+- meta-time
+- independent
+- before
+aliases:
+- Bk798fd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.797101449275362
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

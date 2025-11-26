@@ -1,10 +1,31 @@
-block_type: paragraph
-concepts:
-- Ψ
-- δ
-excerpt: 'Identity requires: * a domain * persistence'
-heading: '**3\. Logical-Structural Proof**'
 id: INTK-10021
-lines: 1172-1224
 location: intake/meta-genesis-mathematical-papers::3-logical-structural-proof::b1
 source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1172-1224
+heading: '**3\. Logical-Structural Proof**'
+block_type: paragraph
+excerpt: 'Identity requires: * a domain * persistence'
+concepts:
+- Adjacency
+- Ψ
+- δ
+- δN
+- ∃
+- self-membership
+- non-transitive
+- depends on and extends
+aliases:
+- Bk657ir
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.4
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

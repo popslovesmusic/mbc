@@ -1,10 +1,24 @@
+id: INTK-10446
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::core-concepts::4-meta-fields-ψ-f::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1525-1526
+heading: 4. Meta-Fields (Ψ_F)
+parent_heading: Core Concepts
 block_type: paragraph
-concepts: []
 excerpt: Functions or generalized functions (e.g., the deviation field) defined on
   F.
-heading: 4. Meta-Fields (Ψ_F)
-id: INTK-10446
-lines: 1525-1526
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::core-concepts::4-meta-fields-ψ-f::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+aliases:
+- Bk704fg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

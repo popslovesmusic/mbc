@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- Monism Theorem
-- Theorem
-- δ
-excerpt: ✔ **A polished “δ-Monism Theorem” chapter** ✔ **A rigorous category-theoretic
-  version** ✔ **A plain-English outreach version (“Why the universe is only one thing”)**
-heading: '**If you want, I can now generate:**'
 id: GEN4-7802
-lines: 1462-1470
 location: genesis-4/the-adjoint-triple::if-you-want-i-can-now-generate::b1
 source: genesis-4\The_Adjoint_Triple.md
+lines: 1462-1470
+heading: '**If you want, I can now generate:**'
+block_type: paragraph
+excerpt: ✔ **A polished “δ-Monism Theorem” chapter** ✔ **A rigorous category-theoretic
+  version** ✔ **A plain-English outreach version (“Why the universe is only one thing”)**
+concepts:
+- Meta-Time
+- A rigorous category-theoretic version
+- Theorem
+- category-theoretic
+- δ-Monism
+- δ
+- plain-English
+- →
+- Monism Theorem
+aliases:
+- Bk273pm
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.5
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,10 +1,25 @@
+id: INTK-10003
+location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-3-cycles-are-forbidden-at-δ²::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 942-956
+heading: '**Lemma 3 — Cycles are forbidden at δ².**'
+parent_heading: '**4\. Full Formal Proof**'
 block_type: paragraph
-concepts: []
 excerpt: 'Cycles require a topological boundary, but adjacency arises before topology
   exists. Thus: X⪯Y⪯X⇒X=Y.X\\preceq Y\\preceq X \\Rightarrow X=Y.X⪯Y⪯X⇒X=Y.'
-heading: '**Lemma 3 — Cycles are forbidden at δ².**'
-id: INTK-10003
-lines: 942-956
-location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-3-cycles-are-forbidden-at-δ²::b1
-parent_heading: '**4\. Full Formal Proof**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- pre-order
+aliases:
+- Bk742cr
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 1.9607843137254901
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

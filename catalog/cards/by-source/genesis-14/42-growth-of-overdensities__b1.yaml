@@ -1,14 +1,35 @@
+id: GEN14-2653
+location: genesis-14/inflation-structure-formation::4-π-metric-emergence-growth-of-structure-after-reheating::42-growth-of-overdensities::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 121-132
+heading: '**4.2 Growth of Overdensities**'
+parent_heading: '**4\. Π-Metric Emergence: Growth of Structure After Reheating**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- ρ
 excerpt: 'The inflation-frozen Φ-modes become Π-metric sources. Overdensities δρ/ρ
   grow as a function of: * δ-harmonic hierarchy'
-heading: '**4.2 Growth of Overdensities**'
-id: GEN14-2653
-lines: 121-132
-location: genesis-14/inflation-structure-formation::4-π-metric-emergence-growth-of-structure-after-reheating::42-growth-of-overdensities::b1
-parent_heading: '**4\. Π-Metric Emergence: Growth of Structure After Reheating**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- adjacency-curvature
+- δ
+- inflation-frozen
+- Φ
+- ρ
+- δ-harmonic
+- Π-metric
+- Φ-modes
+- Π
+- χ
+- Φ-mass
+aliases:
+- Bk424ti
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 34.375
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

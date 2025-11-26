@@ -1,13 +1,30 @@
+id: INTK-10066
+location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::2-why-the-unmade-universe-cannot-hold::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 790-820
+heading: '**2\. Why the Unmade Universe Cannot Hold**'
+parent_heading: '**THE UNMADE UNIVERSE**'
 block_type: paragraph
+excerpt: The tragedy (or beauty) of the Unmade Universe is that it contains the seed
+  of its own undoing. Because it contains **no constraints**,
 concepts:
 - Meta-Genesis
 - Unmade Universe
 - Ψ
-excerpt: The tragedy (or beauty) of the Unmade Universe is that it contains the seed
-  of its own undoing. Because it contains **no constraints**,
-heading: '**2\. Why the Unmade Universe Cannot Hold**'
-id: INTK-10066
-lines: 790-820
-location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::2-why-the-unmade-universe-cannot-hold::b1
-parent_heading: '**THE UNMADE UNIVERSE**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+- ∞
+- unmade-ness
+- no constraints
+aliases:
+- Bk252tt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.769230769230769
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

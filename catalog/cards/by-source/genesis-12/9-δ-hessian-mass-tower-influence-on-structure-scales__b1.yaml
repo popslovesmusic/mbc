@@ -1,14 +1,35 @@
-block_type: paragraph
-concepts:
-- Λ
-- α
-- β
-- γ
-- δ
-excerpt: 'The δ-Hessian: Mδ=2α+6βδ+12γδ2M\_\\delta \= 2\\alpha \+ 6\\beta\\delta \+
-  12\\gamma\\delta^2Mδ​=2α+6βδ+12γδ2 modulates:'
-heading: '**9\. δ-Hessian (Mass Tower) Influence on Structure Scales**'
 id: GEN12-1810
-lines: 1352-1376
 location: genesis-12/untitled-document::9-δ-hessian-mass-tower-influence-on-structure-scales::b1
 source: genesis-12\Untitled_document.md
+lines: 1352-1376
+heading: '**9\. δ-Hessian (Mass Tower) Influence on Structure Scales**'
+block_type: paragraph
+excerpt: 'The δ-Hessian: Mδ=2α+6βδ+12γδ2M\_\\delta \= 2\\alpha \+ 6\\beta\\delta \+
+  12\\gamma\\delta^2Mδ​=2α+6βδ+12γδ2 modulates:'
+concepts:
+- δ
+- →
+- dark-matter
+- curvature-induced
+- γ
+- β
+- α
+- baryon-acoustic
+- halo-core
+- δ-Hessian
+- Λ
+aliases:
+- Bk284th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.492957746478872
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

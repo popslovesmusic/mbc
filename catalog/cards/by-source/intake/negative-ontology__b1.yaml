@@ -1,13 +1,28 @@
+id: INTK-10741
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::negative-ontology::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1928-1929
+heading: Negative Ontology
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Negative Ontology
-- Read More
 excerpt: Negative Ontology is the foundational metaphysical principle of the IGSOA
   framework. It inverts classical metaphysics by proposing that reality emerges not
   from a positive source or substance, but fro...
-heading: Negative Ontology
-id: INTK-10741
-lines: 1928-1929
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::negative-ontology::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- Negative Ontology
+- Read More
+aliases:
+- Bk081no
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.5
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

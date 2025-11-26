@@ -1,12 +1,28 @@
+id: INTK-9723
+location: intake/core-insight-is-a-projection-artifact::4-major-strength-the-vacuum-does-not-gravitate-only-its-deviation-does::b1
+source: intake\Core_Insight___is_a_Projection_Artifact.md
+lines: 118-150
+heading: '**4\. Major Strength: “The vacuum does not gravitate; only its deviation
+  does.”**'
 block_type: paragraph
+excerpt: 'This line is your hammer. It means: * Homogeneous vacuum → no curvature'
 concepts:
+- →
 - Λ
 - Π
 - δ
-excerpt: 'This line is your hammer. It means: * Homogeneous vacuum → no curvature'
-heading: '**4\. Major Strength: “The vacuum does not gravitate; only its deviation
-  does.”**'
-id: INTK-9723
-lines: 118-150
-location: intake/core-insight-is-a-projection-artifact::4-major-strength-the-vacuum-does-not-gravitate-only-its-deviation-does::b1
-source: intake\Core_Insight___is_a_Projection_Artifact.md
+- Π₉
+aliases:
+- Bk678tl
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.1020408163265305
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

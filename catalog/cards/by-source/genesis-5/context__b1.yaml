@@ -1,19 +1,41 @@
+id: GEN5-8064
+location: genesis-5/formal-proof-of-the-adjoint-triple::corollary-φ-compatibility-of-the-δriemann-projection::context::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1894-1912
+heading: '**Context**'
+parent_heading: '**Corollary (Φ-Compatibility of the δ→Riemann Projection)**'
 block_type: paragraph
-concepts:
-- Chromatic Field
-- Field
-- Scale-Topos
-- Λ
-- Π
-- Φ
-- δ
-- σ
 excerpt: 'Let * δ:σTop→σTop\\delta : \\sigma Top \\to \\sigma Topδ:σTop→σTop be the
   **Deviation endofunctor** on the Scale-Topos. * Φ:σTop→σTop\\Phi : \\sigma Top \\to
   \\sigma TopΦ:σTop→σTop be the **Chromatic ...'
-heading: '**Context**'
-id: GEN5-8064
-lines: 1894-1912
-location: genesis-5/formal-proof-of-the-adjoint-triple::corollary-φ-compatibility-of-the-δriemann-projection::context::b1
-parent_heading: '**Corollary (Φ-Compatibility of the δ→Riemann Projection)**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- σ
+- Φ
+- δ
+- Π
+- Λ
+- →
+- Deviation
+- Φ-faithful on interchange
+- Field
+- mode-alignment
+- Scale-Topos
+- scale-sheaf
+- Riemann projection functor
+- Φ-faithful
+- Deviation endofunctor
+aliases:
+- Bk689ld
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.32258064516129
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

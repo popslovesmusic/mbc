@@ -1,18 +1,37 @@
+id: GEN15-3118
+location: genesis-15/the-mass-curvature-projection-theorem::3-the-πφδ-potential-igsoa-higgs-potential::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 542-580
+heading: '**⟡ 3\. The Π∘Φ∘δ Potential: IGSOA Higgs Potential**'
 block_type: paragraph
-concepts:
-- Standard Higgs
-- Π
-- Φ
-- α
-- β
-- δ
-- λ
-- μ
 excerpt: 'Standard Higgs potential emerges naturally from the curvature spectrum.
   Start with δ-curvature expansion around a non-zero mode: δ=δ0+ϵ,\\delta \= \\delta\_0
   \+ \\epsilon,δ=δ0​+ϵ,'
-heading: '**⟡ 3\. The Π∘Φ∘δ Potential: IGSOA Higgs Potential**'
-id: GEN15-3118
-lines: 542-580
-location: genesis-15/the-mass-curvature-projection-theorem::3-the-πφδ-potential-igsoa-higgs-potential::b1
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- Π
+- λ
+- μ
+- Φ
+- the Higgs potential emerges from δ-curvature
+- IGSOA
+- β
+- α
+- δ-curvature
+- non-zero
+- Standard Higgs
+aliases:
+- Bk443sh
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.838709677419355
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

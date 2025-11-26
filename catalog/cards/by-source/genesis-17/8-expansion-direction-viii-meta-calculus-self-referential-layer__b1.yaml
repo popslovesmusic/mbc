@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-excerpt: (Box Calculus that reasons about its own Boxes)
-heading: '⭐ 8\. Expansion Direction VIII: Meta-Calculus (Self-Referential Layer)'
 id: GEN17-4344
-lines: 2673-2675
 location: genesis-17/box-calculus::8-expansion-direction-viii-meta-calculus-self-referential-layer::b1
 source: genesis-17\box_calculus.md
+lines: 2673-2675
+heading: '⭐ 8\. Expansion Direction VIII: Meta-Calculus (Self-Referential Layer)'
+block_type: paragraph
+excerpt: (Box Calculus that reasons about its own Boxes)
+concepts:
+- Box Calculus
+- Box
+aliases:
+- Bk579bc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

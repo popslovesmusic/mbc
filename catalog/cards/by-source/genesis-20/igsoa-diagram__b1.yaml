@@ -1,16 +1,33 @@
+id: GEN20-6593
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::iv-canonical-composition-diagram-cross-referenced::igsoa-diagram::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 461-472
+heading: IGSOA Diagram
+parent_heading: IV. Canonical Composition Diagram (Cross-Referenced)
 block_type: paragraph
-concepts:
-- Semantic Form
-- Θ
-- Π
-- Σ
-- Φ
-- δ
 excerpt: \[ B1 \] \--δ--\> \[ δB1 \] \----\\ δ-merge \--\> \[ δB1 ⊛ δB2 \] \--Φ--\>
   \[ Semantic Form \] \[ B2 \] \--δ--\> \[ δB2 \] \----/                                \\
-heading: IGSOA Diagram
-id: GEN20-6593
-lines: 461-472
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::iv-canonical-composition-diagram-cross-referenced::igsoa-diagram::b1
-parent_heading: IV. Canonical Composition Diagram (Cross-Referenced)
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- δ
+- δB
+- Σ
+- δ-merge
+- Θ
+- Π
+- Φ
+- Semantic Form
+aliases:
+- Bk249ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

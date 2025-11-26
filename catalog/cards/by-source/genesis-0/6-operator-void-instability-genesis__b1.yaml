@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- First Action
-- Ψ
-- δ
-excerpt: 'If Ψ₀ cannot host operators, then: * it cannot evolve * it cannot stabilize'
-heading: '**6\. Operator Void ⇒ Instability ⇒ Genesis**'
 id: GEN0-289
-lines: 599-629
 location: genesis-0/why-the-first-action-is-necessary::6-operator-void-instability-genesis::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 599-629
+heading: '**6\. Operator Void ⇒ Instability ⇒ Genesis**'
+block_type: paragraph
+excerpt: 'If Ψ₀ cannot host operators, then: * it cannot evolve * it cannot stabilize'
+concepts:
+- Ψ
+- Deviation
+- IGSOA
+- δ
+- Ψ₀
+- ≠
+- First Action
+aliases:
+- Bk894ch
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.291666666666667
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

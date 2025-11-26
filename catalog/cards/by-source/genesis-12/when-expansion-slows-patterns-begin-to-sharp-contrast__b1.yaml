@@ -1,13 +1,29 @@
+id: GEN12-1820
+location: genesis-12/untitled-document::narrative-chapter-how-structure-emerges-from-deviation::when-expansion-slows-patterns-begin-to-sharp-contrast::b1
+source: genesis-12\Untitled_document.md
+lines: 1529-1545
+heading: '**When Expansion Slows: Patterns Begin to Sharp-Contrast**'
+parent_heading: '**Narrative Chapter: How Structure Emerges from Deviation**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: As inflation softens into the slower expansion of a growing universe, the
   Φ-flow keeps twisting δ’s imprint. Imagine taking a single brushstroke and stretching
   it thousands of times. The stroke thins,...
-heading: '**When Expansion Slows: Patterns Begin to Sharp-Contrast**'
-id: GEN12-1820
-lines: 1529-1545
-location: genesis-12/untitled-document::narrative-chapter-how-structure-emerges-from-deviation::when-expansion-slows-patterns-begin-to-sharp-contrast::b1
-parent_heading: '**Narrative Chapter: How Structure Emerges from Deviation**'
-source: genesis-12\Untitled_document.md
+concepts:
+- unfolding of a single asymmetry
+- δ
+- Φ
+- Φ-flow
+aliases:
+- Bk183is
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: true
+concept_density: 5.797101449275362
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

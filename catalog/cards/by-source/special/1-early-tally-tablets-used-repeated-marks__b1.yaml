@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts:
-- data
-excerpt: 'Before numbers, before writing, before mathematics, people represented quantities
-  with: * repeated scratches * repeated dots'
-heading: '**⭐ 1\. Early tally tablets used repeated marks**'
 id: SPEC-11193
-lines: 4022-4052
 location: special/specil::1-early-tally-tablets-used-repeated-marks::b1
 source: special\specil.md
+lines: 4022-4052
+heading: '**⭐ 1\. Early tally tablets used repeated marks**'
+block_type: paragraph
+excerpt: 'Before numbers, before writing, before mathematics, people represented quantities
+  with: * repeated scratches * repeated dots'
+aliases:
+- Bk469bn
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

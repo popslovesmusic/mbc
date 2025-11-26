@@ -1,15 +1,38 @@
-block_type: table
-concepts:
-- Geometry Narrative
-- Standard Physics Narrative
-- contained
-- must
-- δ
-- δ-deviation
-excerpt: '---'
-heading: '**2\. The Instability That Was Never “Triggered”**'
 id: GEN18-5148
-lines: 17-24
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::chapter-how-expansion-happened-before-time-existed::2-the-instability-that-was-never-triggered::b1
-parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 17-24
+heading: '**2\. The Instability That Was Never “Triggered”**'
+parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
+block_type: table
+excerpt: '---'
+concepts:
+- δ
+- IGSOA
+- Definition
+- pre-temporal
+- infinite smoothing symmetry
+- δ-deviation
+- Standard Physics Narrative
+- δ-Geometry
+- non-flat
+- structurally imperfect
+- ontological necessity
+- structural imbalance
+- Geometry Narrative
+aliases:
+- Bk686sp
+tags:
+- qualified
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

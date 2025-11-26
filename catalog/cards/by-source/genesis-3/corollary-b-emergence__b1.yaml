@@ -1,12 +1,30 @@
+id: GEN3-7453
+location: genesis-3/the-physics-box-diagram::corollaries::corollary-b-emergence::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1256-1258
+heading: '**Corollary B. Emergence**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Every physical field equation (GR, Yang–Mills, Dirac, scalar fields) is representable
   as a Φ-projection of a δ-originating deviation structured by Φ-form.
-heading: '**Corollary B. Emergence**'
-id: GEN3-7453
-lines: 1256-1258
-location: genesis-3/the-physics-box-diagram::corollaries::corollary-b-emergence::b1
-parent_heading: '**Corollaries**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Φ-projection
+- Φ
+- δ-originating
+- δ
+- Φ-form
+aliases:
+- Bk681ep
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

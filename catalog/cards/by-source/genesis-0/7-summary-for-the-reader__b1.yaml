@@ -1,19 +1,42 @@
+id: GEN0-304
+location: genesis-0/why-the-first-action-is-necessary::7-summary-for-the-reader::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 945-974
+heading: '**7\. Summary (for the reader)**'
 block_type: paragraph
+excerpt: 'Meta-Time emerges because: * Ψ₀ has no distinctions → no ordering → no time
+  * the First Action δ creates the **first distinction**'
 concepts:
-- First Action
 - Meta-Time
+- δ-geometry
+- →
+- IGSOA
+- A cinematic extended section for the outreach book
 - Theorem
+- δ
+- Ψ
+- category-theoretic
+- Time Emergence Theorem
+- Ψ₀
+- first distinction
+- ordered relations
+- First Action
 - 'Time
 
 
   Thus'
-- Time Emergence Theorem
-- Ψ
-- δ
-excerpt: 'Meta-Time emerges because: * Ψ₀ has no distinctions → no ordering → no time
-  * the First Action δ creates the **first distinction**'
-heading: '**7\. Summary (for the reader)**'
-id: GEN0-304
-lines: 945-974
-location: genesis-0/why-the-first-action-is-necessary::7-summary-for-the-reader::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+aliases:
+- Bk272mt
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.274336283185843
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

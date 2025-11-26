@@ -1,15 +1,40 @@
+id: INTK-10894
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::spin-statistics-from-3-6-9-algebra::spin-statistics-theorem::b2
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3745-3784
+heading: Spin-Statistics Theorem
+parent_heading: Spin-Statistics from 3-6-9 Algebra
 block_type: paragraph
-concepts:
-- Bosons
-- Fermions
-- Mechanism
-- Statement
 excerpt: '**Statement**: In 3-6-9 deviation algebra, any excitation whose 2π rotation
   corresponds to 9-mode with eigenvalue -1 must obey antisymmetric exchange statistics,
   while excitations with eigenvalue +1 o...'
-heading: Spin-Statistics Theorem
-id: INTK-10894
-lines: 3745-3784
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::spin-statistics-from-3-6-9-algebra::spin-statistics-theorem::b2
-parent_heading: Spin-Statistics from 3-6-9 Algebra
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- ψ
+- π
+- φ
+- deviation-phase
+- half-rotation
+- →
+- Key identity
+- Two cases
+- Mechanism
+- Statement
+- Fermions
+- Bosons
+- Case 2
+- Case 1
+aliases:
+- Bk147sd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.9375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

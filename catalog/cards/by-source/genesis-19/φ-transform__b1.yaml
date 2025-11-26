@@ -1,11 +1,23 @@
+id: GEN19-5947
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::vi-worked-example-δφπ-reasoning-step::φ-transform::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 965-970
+heading: '**Φ-transform**'
+parent_heading: '**VI. Worked Example: δ→Φ→Π Reasoning Step**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Simplify the adjacency graph. Flow still oriented positive: K\~Φ=a⋅(+5),a\>0.\\tilde
   K\_\\Phi \= a\\cdot(+5),\\quad a\>0.K\~Φ​=a⋅(+5),a\>0.'
-heading: '**Φ-transform**'
-id: GEN19-5947
-lines: 965-970
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::vi-worked-example-δφπ-reasoning-step::φ-transform::b1
-parent_heading: '**VI. Worked Example: δ→Φ→Π Reasoning Step**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Φ
+aliases:
+- Bk425st
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.3333333333333335
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

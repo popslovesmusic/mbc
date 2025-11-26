@@ -1,11 +1,23 @@
+id: GEN4-7925
+location: genesis-4/the-first-adjacency::3-why-patterns-must-stabilize-meta-reason::3-meta-time-enforces-coherence::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 2031-2041
+heading: '**(3) Meta-Time enforces coherence**'
+parent_heading: '**3\. Why Patterns Must Stabilize (Meta-Reason)**'
 block_type: paragraph
-concepts:
-- Meta-Time
 excerpt: 'Meta-Time ordering forces the universe to carry forward structural relations.
   Patterns that do not cohere through ordering instantly fail. Thus:'
-heading: '**(3) Meta-Time enforces coherence**'
-id: GEN4-7925
-lines: 2031-2041
-location: genesis-4/the-first-adjacency::3-why-patterns-must-stabilize-meta-reason::3-meta-time-enforces-coherence::b1
-parent_heading: '**3\. Why Patterns Must Stabilize (Meta-Reason)**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Meta-Time
+aliases:
+- Bk145mt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

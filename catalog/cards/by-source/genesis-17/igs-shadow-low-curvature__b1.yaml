@@ -1,11 +1,29 @@
+id: GEN17-4675
+location: genesis-17/box-calculus::3-the-two-shadows-projections-igs-and-oa::igs-shadow-low-curvature::b1
+source: genesis-17\box_calculus.md
+lines: 7966-7979
+heading: IGS Shadow (Low curvature)
+parent_heading: '⭐ 3\. The Two Shadows (Projections): IGS and OA'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'δ→0⟹smooth, relax, equalize δ→0⟹smooth, relax, equalize This is the “smoothing”
   you saw intuitively:'
-heading: IGS Shadow (Low curvature)
-id: GEN17-4675
-lines: 7966-7979
-location: genesis-17/box-calculus::3-the-two-shadows-projections-igs-and-oa::igs-shadow-low-curvature::b1
-parent_heading: '⭐ 3\. The Two Shadows (Projections): IGS and OA'
-source: genesis-17\box_calculus.md
+concepts:
+- symmetry-restoration
+- equilibrium-seeking
+- δ
+- →
+aliases:
+- Bk277sr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.793103448275861
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

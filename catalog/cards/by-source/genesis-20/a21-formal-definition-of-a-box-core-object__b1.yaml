@@ -1,13 +1,31 @@
-block_type: paragraph
-concepts:
-- Box
-- Θ
-- Π
-- Φ
-- δ
-excerpt: 'A Box in MBC-4.0 is a structured tuple: B=(δ,Φ,Π,Θ,M,Cin,Cout,∂B,⪯) B=(δ,Φ,Π,Θ,M,C'
-heading: A2.1 Formal Definition of a Box (Core Object)
 id: GEN20-7108
-lines: 5608-5628
 location: genesis-20/mbc-40-documentaitio-1::a21-formal-definition-of-a-box-core-object::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5608-5628
+heading: A2.1 Formal Definition of a Box (Core Object)
+block_type: paragraph
+excerpt: 'A Box in MBC-4.0 is a structured tuple: B=(δ,Φ,Π,Θ,M,Cin,Cout,∂B,⪯) B=(δ,Φ,Π,Θ,M,C'
+concepts:
+- MBC
+- δ
+- Π
+- Θ
+- Φ
+- ∂
+- Box
+- causal-order
+aliases:
+- Bk679bm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

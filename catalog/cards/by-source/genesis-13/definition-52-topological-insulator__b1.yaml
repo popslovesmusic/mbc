@@ -1,10 +1,25 @@
+id: GEN13-2198
+location: genesis-13/meta-math-nuclear-physics::5-φ-π-topological-phases::definition-52-topological-insulator::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2288-2292
+heading: '**Definition 5.2 — Topological Insulator**'
+parent_heading: '**5\. Φ → Π Topological Phases**'
 block_type: paragraph
+excerpt: νZ2=1.\\nu\_{Z\_2} \= 1.νZ2​​=1. ---
 concepts:
 - ν
-excerpt: νZ2=1.\\nu\_{Z\_2} \= 1.νZ2​​=1. ---
-heading: '**Definition 5.2 — Topological Insulator**'
-id: GEN13-2198
-lines: 2288-2292
-location: genesis-13/meta-math-nuclear-physics::5-φ-π-topological-phases::definition-52-topological-insulator::b1
-parent_heading: '**5\. Φ → Π Topological Phases**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+aliases:
+- Bk01334
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

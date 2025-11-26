@@ -1,13 +1,31 @@
+id: INTK-9867
+location: intake/meta-genesis-core-papers-foundations::2-why-adjacency-must-emerge::f2-δ-generates-distinguishable-substructure-in-ψ₁::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1449-1455
+heading: '**(F2) δ generates distinguishable substructure in Ψ₁**'
+parent_heading: '**2\. Why Adjacency Must Emerge**'
 block_type: paragraph
-concepts:
-- differences
-- Ψ
-- δ
 excerpt: 'Deviation creates *differences*: Ψ1=Ψ0+δint(Ψ0)\\Psi\_1 \= \\Psi\_0 \+ \\delta\_{\\mathrm{int}}(\\Psi\_0)Ψ1​=Ψ0​+δint​(Ψ0​)
   Now Ψ₁ contains **separable components**.'
-heading: '**(F2) δ generates distinguishable substructure in Ψ₁**'
-id: INTK-9867
-lines: 1449-1455
-location: intake/meta-genesis-core-papers-foundations::2-why-adjacency-must-emerge::f2-δ-generates-distinguishable-substructure-in-ψ₁::b1
-parent_heading: '**2\. Why Adjacency Must Emerge**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- Deviation
+- δ
+- separable components
+- δint
+- Ψ₁
+aliases:
+- Bk984dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.076923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

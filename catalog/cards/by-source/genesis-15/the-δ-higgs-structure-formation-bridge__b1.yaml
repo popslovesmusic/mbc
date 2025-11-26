@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: (How reheating seeds the δ-harmonic ladder → perturbations → galaxies)
-heading: '**✓ The δ-Higgs → Structure Formation Bridge**'
 id: GEN15-3167
-lines: 1458-1460
 location: genesis-15/the-mass-curvature-projection-theorem::if-you-want-the-next-chapter::the-δ-higgs-structure-formation-bridge::b1
-parent_heading: '**If you want the next chapter**'
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1458-1460
+heading: '**✓ The δ-Higgs → Structure Formation Bridge**'
+parent_heading: '**If you want the next chapter**'
+block_type: paragraph
+excerpt: (How reheating seeds the δ-harmonic ladder → perturbations → galaxies)
+concepts:
+- →
+- δ-harmonic
+- δ
+aliases:
+- Bk686hr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

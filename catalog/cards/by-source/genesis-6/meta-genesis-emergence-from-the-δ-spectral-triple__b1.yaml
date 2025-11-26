@@ -1,17 +1,40 @@
+id: GEN6-8388
+location: genesis-6/the-harmonic-spectral-triple::8-final-box-ready-to-insert-into-white-papers::6-meta-genesis-axiom-box-for-emergence::meta-genesis-emergence-from-the-δ-spectral-triple::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 418-451
+heading: '**Meta-Genesis Emergence from the δ-Spectral Triple**'
+parent_heading: '**6\. Meta-Genesis Axiom Box for emergence**'
 block_type: paragraph
-concepts:
-- Genesis Functor
-- Spectral Triple
-- Tri-Unity
-- Π
-- Ψ
-- δ
 excerpt: Let Tδ=(Aδ,Hδ,Dδ)\\mathfrak T\_\\delta=(\\mathcal A\_\\delta,\\mathcal H\_\\delta,D\_\\delta)Tδ​=(Aδ​,Hδ​,Dδ​)
   be a δ-Harmonic spectral triple with Aδ≠C1\\mathcal A\_\\delta\\neq \\mathbb C\\mathbf
   1A...
-heading: '**Meta-Genesis Emergence from the δ-Spectral Triple**'
-id: GEN6-8388
-lines: 418-451
-location: genesis-6/the-harmonic-spectral-triple::8-final-box-ready-to-insert-into-white-papers::6-meta-genesis-axiom-box-for-emergence::meta-genesis-emergence-from-the-δ-spectral-triple::b1
-parent_heading: '**6\. Meta-Genesis Axiom Box for emergence**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- δ
+- Ψ
+- Tri-Unity
+- Π-projection yields classical physics
+- Genesis Functor gives potential objects
+- Functor
+- Ψ₀
+- ≠
+- ∈
+- →
+- operator-free
+- Π-projection
+- distinguishable eigenmodes
+- δ-harmonic
+- δ-Spectral
+aliases:
+- Bk087lm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.396946564885496
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

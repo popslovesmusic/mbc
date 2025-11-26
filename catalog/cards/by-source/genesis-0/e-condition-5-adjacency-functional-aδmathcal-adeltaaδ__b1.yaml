@@ -1,15 +1,37 @@
-block_type: paragraph
-concepts:
-- nonlocality
-- topology
-- Ψ
-- δ
-excerpt: 'Ψ₀ has *no adjacency*. Ψ₁ must have *some adjacency*. Thus δ must generate
-  adjacency:'
-heading: '**E. Condition 5: Adjacency functional A\[δ\]\\mathcal A\[\\delta\]A\[δ\]**'
 id: GEN0-061
-lines: 825-848
 location: genesis-0/feynman-rules-interaction-vertices::ii-why-this-form-is-mandatory-derivation-from-the-ψ₀-ψ₁-stability-theorem::e-condition-5-adjacency-functional-aδmathcal-adeltaaδ::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 825-848
+heading: '**E. Condition 5: Adjacency functional A\[δ\]\\mathcal A\[\\delta\]A\[δ\]**'
 parent_heading: '**II. Why this form is mandatory (derivation from the Ψ₀ → Ψ₁ Stability
   Theorem)**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+block_type: paragraph
+excerpt: 'Ψ₀ has *no adjacency*. Ψ₁ must have *some adjacency*. Thus δ must generate
+  adjacency:'
+concepts:
+- δ
+- ∂
+- Ψ
+- ∑
+- topology-free
+- flavor adjacency matrices
+- δ-Higgs
+- topology
+- Ψ₁
+- nonlocality
+- Ψ₀
+aliases:
+- Bk655ha
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.750000000000002
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

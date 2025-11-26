@@ -1,14 +1,31 @@
-block_type: paragraph
-concepts:
-- Axiom
-- ontological
-- Ψ
-- δ
-- λ
-excerpt: 'If the δ-spectrum contracted, then: * a mode must collapse to λ \= 0, *
-  implying δΨ \= 0,'
-heading: '**7\. Why the δ-Spectrum Cannot Contract (Meta-Genesis Reason)**'
 id: GEN10-917
-lines: 2811-2831
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::7-why-the-δ-spectrum-cannot-contract-meta-genesis-reason::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2811-2831
+heading: '**7\. Why the δ-Spectrum Cannot Contract (Meta-Genesis Reason)**'
+block_type: paragraph
+excerpt: 'If the δ-spectrum contracted, then: * a mode must collapse to λ \= 0, *
+  implying δΨ \= 0,'
+concepts:
+- λ
+- Axiom
+- Δ
+- Ψ
+- ≥
+- δ
+- δ-spectrum
+- Ψ₀
+aliases:
+- Bk581ts
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.559322033898304
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

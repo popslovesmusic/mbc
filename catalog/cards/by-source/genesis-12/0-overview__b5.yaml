@@ -1,14 +1,40 @@
+id: GEN12-1851
+location: genesis-12/untitled-document::0-overview::b5
+source: genesis-12\Untitled_document.md
+lines: 2011-2027
+heading: '**0\. Overview**'
 block_type: paragraph
-concepts:
-- Galaxy Formation
-- Π
-- Φ
-- δ
 excerpt: 'Galaxy formation in IGSOA is the Π-projection of the second-stage Φ-evolution
   of δ-curvature, following the initial δ → Φ → Π structure-formation cycle. The complete
   pipeline is: Galaxy Formation=Π(Φ2...'
-heading: '**0\. Overview**'
-id: GEN12-1851
-lines: 2011-2027
-location: genesis-12/untitled-document::0-overview::b5
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- IGSOA
+- Π
+- δ
+- second-order dynamical image
+- Galaxy Formation
+- structure-formation
+- post-inflationary
+- →
+- Genesis-level
+- second-order
+- second-stage
+- Galaxy-scale
+- Π-projection
+- Φ-evolution
+aliases:
+- Bk090gf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 24.050632911392405
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

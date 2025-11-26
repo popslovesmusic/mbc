@@ -1,13 +1,30 @@
+id: GEN13-2639
+location: genesis-13/what-biology-is-in-meta-genesis::8-corollaries-ultra-formal::corollary-82-adaptation-as-π-energy-tower-migration::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2580-2588
+heading: '**Corollary 8.2 (Adaptation as Π-Energy Tower Migration).**'
+parent_heading: '**8\. Corollaries (Ultra-Formal)**'
 block_type: paragraph
-concepts:
-- Π
-- μ
 excerpt: 'Evolution drives populations upward in Π-tower index: Eμt\[n\] is nondecreasing,\\mathbb{E}\_{\\mu\_t}\[n\]\\
   \\text{is nondecreasing,}Eμt​​\[n\] is nondecreasing, where nnn is the Π-energy
   level clas...'
-heading: '**Corollary 8.2 (Adaptation as Π-Energy Tower Migration).**'
-id: GEN13-2639
-lines: 2580-2588
-location: genesis-13/what-biology-is-in-meta-genesis::8-corollaries-ultra-formal::corollary-82-adaptation-as-π-energy-tower-migration::b1
-parent_heading: '**8\. Corollaries (Ultra-Formal)**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- μ
+- Π-energy
+- Π-tower
+aliases:
+- Bk942ed
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.428571428571429
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Box
-- By Definition
-- Ψ
-excerpt: '**Claim:** There does not exist a P such that: P(Ψ0)=Ψ0.P(\\Psi\_0) \= \\Psi\_0.P(Ψ0​)=Ψ0​.'
-heading: '**Lemma 1 (Ψ₀ Cannot Possess a Self-Relation).**'
 id: GEN1-486
-lines: 1030-1047
 location: genesis-1/the-foundation-layer::ii-lemmas-leading-to-the-theorem::lemma-1-ψ₀-cannot-possess-a-self-relation::b1
-parent_heading: '**II. Lemmas Leading to the Theorem**'
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1030-1047
+heading: '**Lemma 1 (Ψ₀ Cannot Possess a Self-Relation).**'
+parent_heading: '**II. Lemmas Leading to the Theorem**'
+block_type: paragraph
+excerpt: '**Claim:** There does not exist a P such that: P(Ψ0)=Ψ0.P(\\Psi\_0) \= \\Psi\_0.P(Ψ0​)=Ψ0​.'
+concepts:
+- Ψ
+- Definition
+- Proof
+- Box
+- self-relation
+- By Definition
+- Ψ₀
+aliases:
+- Bk563ct
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

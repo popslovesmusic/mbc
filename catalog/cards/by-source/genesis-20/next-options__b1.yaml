@@ -1,21 +1,42 @@
+id: GEN20-6623
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::unified-one-sentence-definition::next-options::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 760-768
+heading: 'Next Options:'
+parent_heading: Unified One-Sentence Definition
 block_type: list
-concepts:
-- Axiom
-- Box
-- Federated Geometry
-- Federated Geometry Axiom Box
-- Federated Geometry Diagram Stack
-- Federated Reasoning Theorem
-- Federated Semantic Pipeline
-- Theorem
-- Π
-- Φ
-- δ
 excerpt: 1. Federated Geometry Axiom Box (sealed) 2. Federated Geometry Diagram Stack
   (IGSOA ↔ Physics) 3. Federated Geometry JSON Schema (MBC-4.0 style)
-heading: 'Next Options:'
-id: GEN20-6623
-lines: 760-768
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::unified-one-sentence-definition::next-options::b1
-parent_heading: Unified One-Sentence Definition
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- IGSOA
+- MBC
+- Theorem
+- Axiom
+- Federated Geometry
+- category-theoretic
+- Box
+- Federated Geometry Diagram Stack
+- →
+- Federated Geometry Axiom Box
+- Federated Semantic Pipeline
+- Federated Reasoning Theorem
+- multi-agent
+- Π
+- δ
+aliases:
+- Bk626fg
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 37.77777777777778
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

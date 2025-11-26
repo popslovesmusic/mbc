@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Disjunction as δ-FORK \+ Φ-MERGE → Π-STABILIZE)***'
 id: GEN18-5485
-lines: 1441-1443
 location: genesis-18/mbc-4::2-mbc-40-or-operator::disjunction-as-δ-fork-φ-merge-π-stabilize::b1
-parent_heading: '**2\. MBC-4.0 OR Operator**'
 source: genesis-18\MBC-4.md
+lines: 1441-1443
+heading: '***(Disjunction as δ-FORK \+ Φ-MERGE → Π-STABILIZE)***'
+parent_heading: '**2\. MBC-4.0 OR Operator**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

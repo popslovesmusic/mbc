@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Which direction would you like to go next?
+id: GEN13-2237
+location: genesis-13/meta-math-nuclear-physics::next-options::d-a-δ-φ-π-quantum-information-theory-derivation-entropy-codes-channels::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2689-2691
 heading: '**D. A δ → Φ → Π Quantum Information Theory derivation (entropy, codes,
   channels)**'
-id: GEN13-2237
-lines: 2689-2691
-location: genesis-13/meta-math-nuclear-physics::next-options::d-a-δ-φ-π-quantum-information-theory-derivation-entropy-codes-channels::b1
 parent_heading: '**NEXT OPTIONS**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+block_type: paragraph
+excerpt: Which direction would you like to go next?
+aliases:
+- Bk016wd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

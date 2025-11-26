@@ -1,11 +1,29 @@
+id: GEN17-4867
+location: genesis-17/key-points::key-points::b1
+source: genesis-17\Key_Points.md
+lines: 2-12
+heading: '**Key Points**'
 block_type: list
-concepts:
-- Dark Matter
 excerpt: 1. The article discusses how the long-standing puzzle of Dark Matter — matter
   that interacts gravitationally but not via electromagnetic radiation — may require
   us to rethink commonly accepted assumpt...
-heading: '**Key Points**'
-id: GEN17-4867
-lines: 2-12
-location: genesis-17/key-points::key-points::b1
-source: genesis-17\Key_Points.md
+concepts:
+- answer-physics-dark-matter-problem
+- particle-physics
+- long-standing
+- Dark Matter
+aliases:
+- Bk303ta
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

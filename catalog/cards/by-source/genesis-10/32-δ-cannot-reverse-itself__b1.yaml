@@ -1,13 +1,29 @@
+id: GEN10-768
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-actual-derivation-genesis-physics::32-δ-cannot-reverse-itself::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 321-331
+heading: '**3.2 δ Cannot Reverse Itself**'
+parent_heading: '**3\. The Actual Derivation: Genesis → Physics**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'In IGSOA, δ is structurally non-invertible: δ:Ψ↦Ψ+A⇒δ−1∉Dom(Ψ).δ: Ψ \\mapsto
   Ψ \+ \\mathcal{A} \\quad\\Rightarrow\\quad δ^{-1} \\not\\in \\mathrm{Dom}(Ψ).δ:Ψ↦Ψ+A⇒δ−1∈Dom(Ψ).
   This creates the **first ...'
-heading: '**3.2 δ Cannot Reverse Itself**'
-id: GEN10-768
-lines: 321-331
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-actual-derivation-genesis-physics::32-δ-cannot-reverse-itself::b1
-parent_heading: '**3\. The Actual Derivation: Genesis → Physics**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Ψ
+- δ
+- IGSOA
+- ∈
+- non-invertible
+- first monotonic map
+aliases:
+- Bk531is
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,10 +1,25 @@
+id: INTK-10157
+location: intake/meta-genesis-physical-interpretation-papers::5-how-a-single-asymmetry-becomes-a-universe::51-adjacency-order::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 1046-1050
+heading: '**5.1 Adjacency → Order**'
+parent_heading: '**5\. How a Single Asymmetry Becomes a Universe**'
 block_type: paragraph
+excerpt: 'The two states create a chain: Ψ0≺Ψ1.\\Psi\_0 \\prec \\Psi\_1.Ψ0​≺Ψ1​.'
 concepts:
 - Ψ
-excerpt: 'The two states create a chain: Ψ0≺Ψ1.\\Psi\_0 \\prec \\Psi\_1.Ψ0​≺Ψ1​.'
-heading: '**5.1 Adjacency → Order**'
-id: INTK-10157
-lines: 1046-1050
-location: intake/meta-genesis-physical-interpretation-papers::5-how-a-single-asymmetry-becomes-a-universe::51-adjacency-order::b1
-parent_heading: '**5\. How a Single Asymmetry Becomes a Universe**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+aliases:
+- Bk168tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

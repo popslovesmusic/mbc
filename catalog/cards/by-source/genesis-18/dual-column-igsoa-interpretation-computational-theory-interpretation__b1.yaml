@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Dual-Column: IGSOA Interpretation ↔ Computational Theory Interpretation)***'
 id: GEN18-5734
-lines: 1295-1297
 location: genesis-18/sealed-axiom-box::mbc-40-computational-axioms-for-agent-workflows::dual-column-igsoa-interpretation-computational-theory-interpretation::b1
-parent_heading: '**MBC-4.0 Computational Axioms (for Agent Workflows)**'
 source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1295-1297
+heading: '***(Dual-Column: IGSOA Interpretation ↔ Computational Theory Interpretation)***'
+parent_heading: '**MBC-4.0 Computational Axioms (for Agent Workflows)**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

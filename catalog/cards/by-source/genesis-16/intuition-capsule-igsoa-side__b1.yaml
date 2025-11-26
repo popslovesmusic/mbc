@@ -1,17 +1,41 @@
+id: GEN16-3682
+location: genesis-16/quantum-measurement-in-igsoa-vs::the-δφπ-collapse-free-measurement-theorem::intuition-capsule-igsoa-side::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 168-177
+heading: '**Intuition Capsule (IGSOA side)**'
+parent_heading: '**The δ→Φ→Π Collapse-Free Measurement Theorem**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Π
-- Φ
-- δ
 excerpt: A measurement doesn’t smash a wavefunction. It **pins a fuzzy δ-network to
   a rigid Φ-pattern**, then **Π reads off the only stable macroscopic continuation**.
   You see one outcome because the detector’...
-heading: '**Intuition Capsule (IGSOA side)**'
-id: GEN16-3682
-lines: 168-177
-location: genesis-16/quantum-measurement-in-igsoa-vs::the-δφπ-collapse-free-measurement-theorem::intuition-capsule-igsoa-side::b1
-parent_heading: '**The δ→Φ→Π Collapse-Free Measurement Theorem**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- pins a fuzzy δ-network to a rigid Φ-pattern
+- Π reads off the only stable macroscopic continuation
+- Axiom
+- only one coherent fixed point at a time
+- Box
+- one-pager
+- Φ-pattern
+- δ-network
+- Π
+- δ
+- Φ
+- sealed Axiom Box
+- Axiom Box
+aliases:
+- Bk766md
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

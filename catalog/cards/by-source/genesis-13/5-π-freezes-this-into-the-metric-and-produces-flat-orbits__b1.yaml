@@ -1,12 +1,24 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- α
-excerpt: 'Π does not change the falloff; Π simply converts it into the metric potential:
-  Φ(r)=−αk0ln⁡r\\Phi(r) \= \-\\alpha k\_0 \\ln rΦ(r)=−αk0​lnr The geodesic condition:'
-heading: '**5\. Π Freezes This into the Metric and Produces Flat Orbits**'
 id: GEN13-2310
-lines: 738-752
 location: genesis-13/the-weight-of-light::5-π-freezes-this-into-the-metric-and-produces-flat-orbits::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 738-752
+heading: '**5\. Π Freezes This into the Metric and Produces Flat Orbits**'
+block_type: paragraph
+excerpt: 'Π does not change the falloff; Π simply converts it into the metric potential:
+  Φ(r)=−αk0ln⁡r\\Phi(r) \= \-\\alpha k\_0 \\ln rΦ(r)=−αk0​lnr The geodesic condition:'
+concepts:
+- α
+- Φ
+- Π
+aliases:
+- Bk853dn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.6875
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

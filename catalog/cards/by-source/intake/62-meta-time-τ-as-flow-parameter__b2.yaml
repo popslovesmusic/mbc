@@ -1,13 +1,28 @@
+id: INTK-10507
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::6-derived-geometry-and-meta-time-flow::62-meta-time-τ-as-flow-parameter::b2
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1881-1884
+heading: '**6.2. Meta-Time (τ) as Flow Parameter**'
+parent_heading: '**6. Derived Geometry and Meta-Time Flow**'
 block_type: paragraph
-concepts:
-- Meta-Geometry
-- Meta-Time
-- τ
 excerpt: The evolution of Meta-Geometry in **Meta-Time (τ)** is described as a flow
   or trajectory through this derived moduli space. ---
-heading: '**6.2. Meta-Time (τ) as Flow Parameter**'
-id: INTK-10507
-lines: 1881-1884
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::6-derived-geometry-and-meta-time-flow::62-meta-time-τ-as-flow-parameter::b2
-parent_heading: '**6. Derived Geometry and Meta-Time Flow**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Time
+- Meta-Geometry
+- τ
+aliases:
+- Bk589te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

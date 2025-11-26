@@ -1,15 +1,37 @@
+id: GEN13-2042
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-the-physical-nuclear-regime::34-π-projection-of-φ-transitions-nuclear-decay-spectroscopy::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 542-554
+heading: '**3.4 Π-Projection of Φ-Transitions → Nuclear Decay / Spectroscopy**'
+parent_heading: '**3\. Π-Layer: The Physical Nuclear Regime**'
 block_type: table
+excerpt: 'Explicit correspondences: ---'
 concepts:
-- Π
 - Φ
-- α
-- β
+- Π-Phenomenon
+- Φ-adjacency
+- Φ-spectral
+- Φ-isospin
+- δ-cluster
+- Φ-Origin
+- Φ-energy
+- Π
 - γ
 - δ
-excerpt: 'Explicit correspondences: ---'
-heading: '**3.4 Π-Projection of Φ-Transitions → Nuclear Decay / Spectroscopy**'
-id: GEN13-2042
-lines: 542-554
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-the-physical-nuclear-regime::34-π-projection-of-φ-transitions-nuclear-decay-spectroscopy::b1
-parent_heading: '**3\. Π-Layer: The Physical Nuclear Regime**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+- β
+- α
+aliases:
+- Bk961ec
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 40.625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

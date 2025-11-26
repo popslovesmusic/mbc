@@ -1,14 +1,31 @@
+id: GEN4-7762
+location: genesis-4/the-adjoint-triple::the-meta-genesis-meta-math-commutation-theorem::igsoa-fundamental-structure-theorem::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 788-795
+heading: '***(IGSOA Fundamental Structure Theorem)***'
+parent_heading: '**✦ The Meta-Genesis → Meta-Math Commutation Theorem**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Math
-- σ
 excerpt: This is the theorem that guarantees **your entire framework does not collapse**
   when the pre-structural layer (Meta-Genesis) passes through the structuring layer
   (Meta-Math). It proves the compatibili...
-heading: '***(IGSOA Fundamental Structure Theorem)***'
-id: GEN4-7762
-lines: 788-795
-location: genesis-4/the-adjoint-triple::the-meta-genesis-meta-math-commutation-theorem::igsoa-fundamental-structure-theorem::b1
-parent_heading: '**✦ The Meta-Genesis → Meta-Math Commutation Theorem**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Meta-Genesis
+- Meta-Math
+- IGSOA
+- your entire framework does not collapse
+- Theorem
+- →
+- pre-structural
+- σ
+aliases:
+- Bk266tt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.02127659574468
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

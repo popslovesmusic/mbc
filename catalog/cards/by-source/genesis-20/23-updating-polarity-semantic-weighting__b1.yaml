@@ -1,11 +1,28 @@
+id: GEN20-6728
+location: genesis-20/mbc-40-documentaitio-1::2-how-mbc-incorporates-real-time-statistical-updates::23-updating-polarity-semantic-weighting::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 975-994
+heading: 2.3 Updating Polarity (semantic weighting)
+parent_heading: ✅ 2\. How MBC incorporates real-time statistical updates
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'Polarity Θ is extremely flexible: * It can express semantic nuance * It
   can express confidence'
-heading: 2.3 Updating Polarity (semantic weighting)
-id: GEN20-6728
-lines: 975-994
-location: genesis-20/mbc-40-documentaitio-1::2-how-mbc-incorporates-real-time-statistical-updates::23-updating-polarity-semantic-weighting::b1
-parent_heading: ✅ 2\. How MBC incorporates real-time statistical updates
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Polarity
+- MBC
+- LLM-style
+- Θ
+aliases:
+- Bk065pe
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

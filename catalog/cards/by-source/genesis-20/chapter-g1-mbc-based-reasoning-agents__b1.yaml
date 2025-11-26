@@ -1,11 +1,27 @@
+id: GEN20-7085
+location: genesis-20/mbc-40-documentaitio-1::part-vii-agent-workflow-architecture::chapter-g1-mbc-based-reasoning-agents::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5284-5288
+heading: Chapter G1 — MBC-Based Reasoning Agents
+parent_heading: PART VII — Agent Workflow Architecture
 block_type: list
-concepts:
-- Box
 excerpt: '* Box networks as agent brains * semantic memory integration * causal-order
   scheduling'
-heading: Chapter G1 — MBC-Based Reasoning Agents
-id: GEN20-7085
-lines: 5284-5288
-location: genesis-20/mbc-40-documentaitio-1::part-vii-agent-workflow-architecture::chapter-g1-mbc-based-reasoning-agents::b1
-parent_heading: PART VII — Agent Workflow Architecture
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Box
+- causal-order
+aliases:
+- Bk689bn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

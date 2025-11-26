@@ -1,21 +1,40 @@
+id: GEN12-1691
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::68-summary-of-section-6-the-igsoa-prediction-set::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2452-2493
+heading: '**6.8 Summary of Section 6: The IGSOA Prediction Set**'
+parent_heading: '**6.1 The Universality Prediction**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Cosmic Pipeline
-- Functoriality Theorem
-- Mass Tower
-- Predictions Axiom Box
-- Structure Formation
-- Theorem
-- Π
-- Φ
-- δ
 excerpt: 'IGSOA predicts: * universal ladder spacing across all observables, * cold
   spot and axis-of-evil as structural inevitabilities,'
-heading: '**6.8 Summary of Section 6: The IGSOA Prediction Set**'
-id: GEN12-1691
-lines: 2452-2493
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::68-summary-of-section-6-the-igsoa-prediction-set::b1
-parent_heading: '**6.1 The Universality Prediction**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- Axiom
+- Theorem
+- Box
+- δ
+- sealed Predictions Axiom Box
+- Π
+- Predictions Axiom Box
+- Φ
+- axis-of-evil
+- δ-Higgs
+- Functoriality Theorem
+- Structure Formation
+- Cosmic Pipeline
+- not adjustable
+aliases:
+- Bk693ip
+tags:
+- axiom-box
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.307692307692308
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,15 +1,39 @@
+id: GEN10-787
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::8-final-sealed-statement::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 689-709
+heading: '**8\. Final Sealed Statement**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Π
-- Φ
-- Ψ
-- δ
 excerpt: Entropy growth is the Π-projection of the irreversible deviation δ that breaks
   Ψ₀ and generates physical time.\\boxed{ \\textbf{Entropy growth is the Π-projection
   of the irreversible deviation δ that ...
-heading: '**8\. Final Sealed Statement**'
-id: GEN10-787
-lines: 689-709
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::8-final-sealed-statement::b1
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Meta-Genesis
+- δ
+- δ-curvature expands the modal space Φ
+- Π-projection
+- category-theoretic functor proof
+- Meta-Genesis has no inverse
+- Π
+- Ψ
+- Proof
+- category-theoretic
+- δ-curvature
+- Ψ₀
+- long academic chapter
+- Φ
+- →
+aliases:
+- Bk263eg
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.71875
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Meta-Einstein
-- deviation
-- δ
-excerpt: 'This box isolates the exact principles governing *deviation* (δ), the primitive
-  generator of: * adjacency * curvature'
-heading: '**Purpose of the Hermetic Seal**'
 id: GEN3-7342
-lines: 1004-1025
 location: genesis-3/metagenesis::purpose-of-the-hermetic-seal::b1
 source: genesis-3\metagenesis.md
+lines: 1004-1025
+heading: '**Purpose of the Hermetic Seal**'
+block_type: paragraph
+excerpt: 'This box isolates the exact principles governing *deviation* (δ), the primitive
+  generator of: * adjacency * curvature'
+concepts:
+- Meta-Einstein
+- Curvature
+- δ
+- Axiom
+- →
+- non-derivable
+aliases:
+- Bk514tb
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.244897959183673
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

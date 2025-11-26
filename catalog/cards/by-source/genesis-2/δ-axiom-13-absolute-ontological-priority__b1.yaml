@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Deviation precedes: * identity * symmetry'
-heading: '**δ-Axiom 13 — Absolute Ontological Priority**'
 id: GEN2-6291
-lines: 1131-1165
 location: genesis-2/axioms-for-the-category-genesis::δ-axiom-13-absolute-ontological-priority::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 1131-1165
+heading: '**δ-Axiom 13 — Absolute Ontological Priority**'
+block_type: paragraph
+excerpt: 'Deviation precedes: * identity * symmetry'
+concepts:
+- δ
+- Deviation
+aliases:
+- Bk558dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.8461538461538463
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

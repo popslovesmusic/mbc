@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Router composition involves: FR2∘R1=FR2(FR1(⋅)) F'
-heading: B3.4 Internal Structure of Router Composition
 id: GEN20-7207
-lines: 7338-7384
 location: genesis-20/mbc-40-documentaitio-1::b34-internal-structure-of-router-composition::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7338-7384
+heading: B3.4 Internal Structure of Router Composition
+block_type: paragraph
+excerpt: 'Router composition involves: FR2∘R1=FR2(FR1(⋅)) F'
+concepts:
+- Router
+aliases:
+- Bk920rc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.3255813953488373
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

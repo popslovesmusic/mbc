@@ -1,13 +1,30 @@
+id: GEN3-7372
+location: genesis-3/the-physics-box-diagram::3-stack-commutativity-conditions::horizontal-adjunction-consistency::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 156-162
+heading: '**Horizontal Adjunction Consistency**'
+parent_heading: '**3\. STACK COMMUTATIVITY CONDITIONS**'
 block_type: list
-concepts:
-- exactly
-- Φ
-- δ
 excerpt: 1. **F\_δ ⊣ G\_δ** δ-structure is the *freest deviation generator* consistent
   with Φ-forms. 2. **P\_Φ ⊣ H\_Φ**
-heading: '**Horizontal Adjunction Consistency**'
-id: GEN3-7372
-lines: 156-162
-location: genesis-3/the-physics-box-diagram::3-stack-commutativity-conditions::horizontal-adjunction-consistency::b1
-parent_heading: '**3\. STACK COMMUTATIVITY CONDITIONS**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Φ
+- δ
+- Φ-consistent
+- δ-structure
+- Φ-forms
+aliases:
+- Bk785st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.24137931034483
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

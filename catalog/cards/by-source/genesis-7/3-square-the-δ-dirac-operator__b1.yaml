@@ -1,16 +1,36 @@
+id: GEN7-8595
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::3-square-the-δ-dirac-operator::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 662-688
+heading: '**3\. Square the δ-Dirac Operator**'
 block_type: paragraph
-concepts:
-- γ
-- δ
-- μ
-- ν
-- ρ
-- σ
 excerpt: 'A classical result: D2=−∇μ∇μ+14R+18Tμνργμνρ.D^2 \= \-\\nabla\_\\mu \\nabla^\\mu
   \+ \\frac{1}{4}R \+ \\frac{1}{8}T\_{\\mu\\nu\\rho}\\gamma^{\\mu\\nu\\rho}.D2=−∇μ​∇μ+41​R+81​Tμνρ​γμνρ.
   In δ-Weitzenböck ...'
-heading: '**3\. Square the δ-Dirac Operator**'
-id: GEN7-8595
-lines: 662-688
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::3-square-the-δ-dirac-operator::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- μ
+- ν
+- ρ
+- δ
+- γ
+- ∇
+- σ
+- δ-induced spin potential
+- Δ
+- potential-like
+- δ-induced
+aliases:
+- Bk040cr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.707317073170732
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

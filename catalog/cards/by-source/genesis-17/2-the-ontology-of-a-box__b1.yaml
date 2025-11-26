@@ -1,17 +1,37 @@
-block_type: table
-concepts:
-- Adjacent Boxes
-- Box
-- Operator
-- Standard Definition
-- Π
-- Σ
-- Φ
-- δ
-excerpt: '---'
-heading: 2\. The Ontology of a Box
 id: GEN17-4148
-lines: 18-25
 location: genesis-17/box-calculus::box-calculus-technical-introduction-dual-column-cross-referenced::2-the-ontology-of-a-box::b1
-parent_heading: BOX CALCULUS — TECHNICAL INTRODUCTION (DUAL-COLUMN, CROSS-REFERENCED)
 source: genesis-17\box_calculus.md
+lines: 18-25
+heading: 2\. The Ontology of a Box
+parent_heading: BOX CALCULUS — TECHNICAL INTRODUCTION (DUAL-COLUMN, CROSS-REFERENCED)
+block_type: table
+excerpt: '---'
+concepts:
+- Box
+- Definition
+- IGSOA
+- Operator
+- δ-process
+- OO-logic
+- Π
+- δ
+- Σ
+- ∂
+- Φ
+- Standard Definition
+- Adjacent Boxes
+aliases:
+- Bk256id
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.11627906976744
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

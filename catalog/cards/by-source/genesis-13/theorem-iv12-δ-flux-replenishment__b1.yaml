@@ -1,14 +1,41 @@
+id: GEN13-2586
+location: genesis-13/what-biology-is-in-meta-genesis::section-iv1-δ-flux-replenishment-theorem::theorem-iv12-δ-flux-replenishment::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1791-1802
+heading: '**Theorem IV.1.2 (δ-Flux Replenishment).**'
+parent_heading: '**SECTION IV.1 — δ-Flux Replenishment Theorem**'
 block_type: paragraph
-concepts:
-- Π
-- Ω
-- δ
-- ω
 excerpt: 'Let A∈ΩA \\in \\OmegaA∈Ω. Then: Rδ(A)=Δδ−ωAA≠0,ωA∈Spec⁡(Wδ).\\mathcal{R}\_\\delta(A)
   \= \\Delta\_\\delta \- \\omega\_A A \\neq 0, \\quad \\omega\_A \\in \\operatorname{Spec}(W\_\\delta).Rδ​(A)=Δδ​−ωA​...'
-heading: '**Theorem IV.1.2 (δ-Flux Replenishment).**'
-id: GEN13-2586
-lines: 1791-1802
-location: genesis-13/what-biology-is-in-meta-genesis::section-iv1-δ-flux-replenishment-theorem::theorem-iv12-δ-flux-replenishment::b1
-parent_heading: '**SECTION IV.1 — δ-Flux Replenishment Theorem**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- ω
+- ∈
+- Proof
+- Definition
+- non-zero δ-gradient
+- Ω
+- Δ
+- δ-gradient
+- non-zero
+- δ-packet
+- Π-closed
+- ≠
+- Π
+- δW
+aliases:
+- Bk078lo
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 21.333333333333336
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

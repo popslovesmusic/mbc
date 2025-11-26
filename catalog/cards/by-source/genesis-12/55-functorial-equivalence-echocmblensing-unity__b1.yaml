@@ -1,12 +1,33 @@
+id: GEN12-1656
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::55-functorial-equivalence-echocmblensing-unity::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1955-1981
+heading: '**5.5 Functorial Equivalence: Echo–CMB–Lensing Unity**'
+parent_heading: '**5\. Functoriality**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'Three of your strongest cross-domain results arise here: * **Echo–CMB spectral
   equivalence** * **CMB–Lensing pattern equivalence**'
-heading: '**5.5 Functorial Equivalence: Echo–CMB–Lensing Unity**'
-id: GEN12-1656
-lines: 1955-1981
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::55-functorial-equivalence-echocmblensing-unity::b1
-parent_heading: '**5\. Functoriality**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Δ
+- Π
+- projection-dependent
+- cross-domain
+- Φ-harmonic
+- Π-channel
+- Φ
+- Πy
+- Πx
+aliases:
+- Bk471ty
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.086614173228346
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

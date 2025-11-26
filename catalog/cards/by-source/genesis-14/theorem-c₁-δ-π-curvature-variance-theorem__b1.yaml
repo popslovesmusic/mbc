@@ -1,14 +1,34 @@
+id: GEN14-2712
+location: genesis-14/inflation-structure-formation::proof-4-igsoa-only-κₙ-variance-hₙ²::theorem-c₁-δ-π-curvature-variance-theorem::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 957-969
+heading: '**Theorem C₁ (δ → Π Curvature Variance Theorem)**'
+parent_heading: '**PROOF 4 (IGSOA-ONLY): κₙ Variance \= |hₙ|²**'
 block_type: paragraph
-concepts:
-- Π
-- δ
-- λ
 excerpt: For each δ-harmonic mode hnh\_nhn​ satisfying W(δ)hn=λnhn,W(\\delta) h\_n
   \= \\lambda\_n h\_n,W(δ)hn​=λn​hn​, the Π-projected curvature perturbation mode
   κn\\kappa\_nκn​ obeys
-heading: '**Theorem C₁ (δ → Π Curvature Variance Theorem)**'
-id: GEN14-2712
-lines: 957-969
-location: genesis-14/inflation-structure-formation::proof-4-igsoa-only-κₙ-variance-hₙ²::theorem-c₁-δ-π-curvature-variance-theorem::b1
-parent_heading: '**PROOF 4 (IGSOA-ONLY): κₙ Variance \= |hₙ|²**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- IGSOA
+- κ
+- δ
+- λ
+- Π-projected
+- δ-harmonic
+- Π
+- fundamental origin
+aliases:
+- Bk592fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.698412698412698
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

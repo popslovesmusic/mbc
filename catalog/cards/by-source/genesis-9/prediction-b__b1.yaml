@@ -1,17 +1,41 @@
-block_type: paragraph
-concepts:
-- Meta-Genesis
-- derived
-- testable
-- Π
-- Φ
-- δ
-excerpt: 'There exists a causal structure **strictly larger than the relativistic
-  light cone**. GR: Causal order \= metric \+ null cones.'
-heading: '**Prediction B:**'
 id: GEN9-9208
-lines: 41-64
 location: genesis-9/does-meta-genesis-indicate-new-physics::does-meta-genesis-indicate-new-physics-yes-in-three-independent-ways::2-meta-genesis-enforces-a-causal-sphere-of-influence-beyond-the-light-cone::prediction-b::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 41-64
+heading: '**Prediction B:**'
 parent_heading: '**2\. Meta-Genesis Enforces a “Causal Sphere of Influence” Beyond
   the Light Cone**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+block_type: paragraph
+excerpt: 'There exists a causal structure **strictly larger than the relativistic
+  light cone**. GR: Causal order \= metric \+ null cones.'
+concepts:
+- Φ-projection
+- Meta-Genesis
+- IGSOA
+- strictly larger than the relativistic light cone
+- Π-classicalization
+- not present in current physics
+- early-universe
+- super-horizon
+- δ-adjacency
+- dark-sector
+- c-limited
+- Π
+- δ
+- Φ
+- →
+aliases:
+- Bk294te
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 21.333333333333336
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

@@ -1,15 +1,32 @@
+id: GEN2-6472
+location: genesis-2/axioms-of-geometry-topos-compatible::vi-the-seal-of-emergence::axiom-s-1-field-equation-cascade::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1984-1988
+heading: '**Axiom (S-1) — Field Equation Cascade**'
+parent_heading: '**VI. The Seal of Emergence**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
-- μ
-- ν
 excerpt: δRδ=Tδ  ⟶  ΦRΦ=TΦ  ⟶  GμνMeta=TμνMeta.\\delta R\_\\delta \= T\_\\delta \\;\\longrightarrow\\;
   \\Phi R\_\\Phi \= T\_\\Phi \\;\\longrightarrow\\; G\_{\\mu\\nu}^{\\text{Meta}} \=
   T\_{\\mu\\nu}^{\\text{Me...
-heading: '**Axiom (S-1) — Field Equation Cascade**'
-id: GEN2-6472
-lines: 1984-1988
-location: genesis-2/axioms-of-geometry-topos-compatible::vi-the-seal-of-emergence::axiom-s-1-field-equation-cascade::b1
-parent_heading: '**VI. The Seal of Emergence**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- δ
+- Φ
+- ν
+- μ
+- δR
+- ΦR
+aliases:
+- Bk647dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

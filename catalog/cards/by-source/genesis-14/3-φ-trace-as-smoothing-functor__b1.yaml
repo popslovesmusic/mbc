@@ -1,15 +1,33 @@
+id: GEN14-2686
+location: genesis-14/inflation-structure-formation::proof-1-igsoa-only-δ-adjacency-instability-inflation::proof::3-φ-trace-as-smoothing-functor::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 595-605
+heading: '**3\. Φ-Trace as Smoothing Functor**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- λ
 excerpt: 'Φ is the left adjoint of Π and right adjoint of δ: δ  ⊣  Φ  ⊣  Π.\\delta
   \\;\\dashv\\; \\Phi \\;\\dashv\\; \\Pi.δ⊣Φ⊣Π. Φ acts on δ-harmonics by suppressing
   local adjacency anisotropies:'
-heading: '**3\. Φ-Trace as Smoothing Functor**'
-id: GEN14-2686
-lines: 595-605
-location: genesis-14/inflation-structure-formation::proof-1-igsoa-only-δ-adjacency-instability-inflation::proof::3-φ-trace-as-smoothing-functor::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- Φ
+- δ
+- Π
+- Definition
+- curvature-minimizing
+- λ
+- δ-harmonics
+aliases:
+- Bk792tl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.294117647058822
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

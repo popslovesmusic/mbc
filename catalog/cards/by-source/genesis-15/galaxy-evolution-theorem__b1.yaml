@@ -1,14 +1,40 @@
+id: GEN15-3239
+location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-formal-statement-galaxy-evolution-theorem::galaxy-evolution-theorem::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2396-2441
+heading: '**Galaxy Evolution Theorem**'
+parent_heading: '**Ⅱ. Formal Statement: Galaxy Evolution Theorem**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Let: Gal\[κ0\]=Ghalo∘G∘ΠLSS∘Φ(κ0)\\mathfrak{Gal}\[\\kappa\_0\] \= \\mathcal{G}\_{\\mathrm{halo}}\\circ
   G\\circ \\Pi\_{\\mathrm{LSS}}\\circ\\Phi(\\kappa\_0)Gal\[κ0​\]=Ghalo​∘G∘ΠLSS​∘Φ(κ0​)
   be the galax...'
-heading: '**Galaxy Evolution Theorem**'
-id: GEN15-3239
-lines: 2396-2441
-location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-formal-statement-galaxy-evolution-theorem::galaxy-evolution-theorem::b1
-parent_heading: '**Ⅱ. Formal Statement: Galaxy Evolution Theorem**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- κ
+- δ
+- Φ
+- Π
+- δ-curvature
+- IGSOA
+- is uniquely determined by the natural transformation
+- →
+- time-flow
+- galaxy-distribution
+- time-dependent
+- Π-images
+- ΠLSS
+- Πobs
+aliases:
+- Bk223lg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.64516129032258
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

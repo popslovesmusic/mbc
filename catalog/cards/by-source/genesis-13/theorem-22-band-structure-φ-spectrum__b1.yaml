@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: Let H=DΦH \= D\_\\PhiH=DΦ​. Then band energies are En(k)=Spec(H(k)).E\_n(k)=\\text{Spec}(H(k)).En​(k)=Spec(H(k)).
-heading: '**Theorem 2.2 — Band Structure \= Φ-Spectrum**'
 id: GEN13-2182
-lines: 2161-2170
 location: genesis-13/meta-math-nuclear-physics::2-φ-layer-band-theory-and-operator-algebra::theorem-22-band-structure-φ-spectrum::b1
-parent_heading: '**2\. Φ-Layer: Band Theory and Operator Algebra**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2161-2170
+heading: '**Theorem 2.2 — Band Structure \= Φ-Spectrum**'
+parent_heading: '**2\. Φ-Layer: Band Theory and Operator Algebra**'
+block_type: paragraph
+excerpt: Let H=DΦH \= D\_\\PhiH=DΦ​. Then band energies are En(k)=Spec(H(k)).E\_n(k)=\\text{Spec}(H(k)).En​(k)=Spec(H(k)).
+concepts:
+- band structure is Φ-eigenvalue spectrum
+- Φ
+- Φ-eigenvalue
+- ΦH
+aliases:
+- Bk583lp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.428571428571429
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

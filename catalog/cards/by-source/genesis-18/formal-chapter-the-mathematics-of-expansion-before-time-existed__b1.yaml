@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Based Derivation
-- Dual-Column
-- Equation-Based
-excerpt: '*A Dual-Column, Equation-Based Derivation* ---'
-heading: '**Formal Chapter: The Mathematics of Expansion Before Time Existed**'
 id: GEN18-5159
-lines: 120-124
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::formal-chapter-the-mathematics-of-expansion-before-time-existed::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 120-124
+heading: '**Formal Chapter: The Mathematics of Expansion Before Time Existed**'
+block_type: paragraph
+excerpt: '*A Dual-Column, Equation-Based Derivation* ---'
+concepts:
+- Equation-Based
+- Dual-Column
+- Based Derivation
+aliases:
+- Bk946dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

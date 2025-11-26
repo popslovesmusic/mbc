@@ -1,15 +1,37 @@
-block_type: table
-concepts:
-- Box
-- Standard Logic
-- closed
-- objective
-- Θ
-- Π
-- δ
-excerpt: Thus polarity is **objective**, **closed**, and **fully algebraic**. ---
-heading: '**I. Dual-Column Theorem Statement**'
 id: GEN19-5896
-lines: 348-356
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-dual-column-theorem-statement::b1
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 348-356
+heading: '**I. Dual-Column Theorem Statement**'
+block_type: table
+excerpt: Thus polarity is **objective**, **closed**, and **fully algebraic**. ---
+concepts:
+- Π-evaluation
+- Polarity
+- IGSOA
+- MBC
+- κ
+- Θ
+- δ
+- sign-multiplicative
+- Box
+- deterministic sign function
+- δ-curvature
+- δ-metadata
+- δ-Geometry
+- Π
+- completely determined
+aliases:
+- Bk842ig
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.23931623931624
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

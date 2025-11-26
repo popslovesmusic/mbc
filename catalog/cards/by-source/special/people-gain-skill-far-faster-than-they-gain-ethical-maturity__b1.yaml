@@ -1,9 +1,28 @@
-block_type: paragraph
-concepts: []
-excerpt: 'So you get: * brilliant manipulators * skilled persuaders'
-heading: '**⭐ People gain skill FAR faster than they gain ethical maturity.**'
 id: SPEC-11344
-lines: 7333-7368
 location: special/specil::you-used-spider-man-syndrome-in-the-correct-sense::people-gain-skill-far-faster-than-they-gain-ethical-maturity::b1
-parent_heading: '**⭐ You used “Spider-Man Syndrome” in the *correct* sense:**'
 source: special\specil.md
+lines: 7333-7368
+heading: '**⭐ People gain skill FAR faster than they gain ethical maturity.**'
+parent_heading: '**⭐ You used “Spider-Man Syndrome” in the *correct* sense:**'
+block_type: paragraph
+excerpt: 'So you get: * brilliant manipulators * skilled persuaders'
+concepts:
+- superhuman-looking
+- asymmetric psychological power
+- body-language
+- ZERO obligation
+aliases:
+- Bk590yg
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 7.8431372549019605
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

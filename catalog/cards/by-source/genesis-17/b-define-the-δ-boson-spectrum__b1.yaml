@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: Show how MGDE’s spectral decomposition yields δ-bosons, mass shells, harmonics.
-heading: B. Define the δ-Boson Spectrum
 id: GEN17-4849
-lines: 10339-10341
 location: genesis-17/box-calculus::next-step-options::b-define-the-δ-boson-spectrum::b1
-parent_heading: ⭐ Next Step Options
 source: genesis-17\box_calculus.md
+lines: 10339-10341
+heading: B. Define the δ-Boson Spectrum
+parent_heading: ⭐ Next Step Options
+block_type: paragraph
+excerpt: Show how MGDE’s spectral decomposition yields δ-bosons, mass shells, harmonics.
+concepts:
+- δ-bosons
+- δ
+aliases:
+- Bk743sh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,26 @@
+id: GEN16-4016
+location: genesis-16/untitled-document::3-second-adjoint-pair-φπphi-dashv-piφπ::b1
+source: genesis-16\Untitled_document.md
+lines: 3533-3540
+heading: '**⭐ 3\. SECOND ADJOINT PAIR: Φ⊣Π\\Phi \\dashv \\PiΦ⊣Π**'
 block_type: paragraph
+excerpt: Φ \= internal transform Π \= evaluation / realization (terminal) This pair
+  is even more fundamental.
 concepts:
 - Π
 - Φ
-excerpt: Φ \= internal transform Π \= evaluation / realization (terminal) This pair
-  is even more fundamental.
-heading: '**⭐ 3\. SECOND ADJOINT PAIR: Φ⊣Π\\Phi \\dashv \\PiΦ⊣Π**'
-id: GEN16-4016
-lines: 3533-3540
-location: genesis-16/untitled-document::3-second-adjoint-pair-φπphi-dashv-piφπ::b1
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk851it
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,26 @@
+id: GEN14-2903
+location: genesis-14/meta-math-and-cryptography::if-you-want-next::e-a-full-2-category-fibration-formulation::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1612-1614
+heading: '**E. A full 2-category / fibration formulation**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
+excerpt: (δ as objects, Φ as 1-morphisms, Π as fibration projection, No-Lift as lack
+  of cartesian lift)
 concepts:
 - No-Lift
 - Π
-- Φ
 - δ
-excerpt: (δ as objects, Φ as 1-morphisms, Π as fibration projection, No-Lift as lack
-  of cartesian lift)
-heading: '**E. A full 2-category / fibration formulation**'
-id: GEN14-2903
-lines: 1612-1614
-location: genesis-14/meta-math-and-cryptography::if-you-want-next::e-a-full-2-category-fibration-formulation::b1
-parent_heading: '**If you want next:**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+- Φ
+aliases:
+- Bk550om
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

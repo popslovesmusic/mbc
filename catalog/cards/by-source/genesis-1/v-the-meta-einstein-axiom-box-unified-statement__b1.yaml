@@ -1,18 +1,43 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Balance Axiom
-- Curvature Axiom
-- Deviation Axiom
-- Einstein Equation
-- Meta-Einstein
-- Projection Axiom
-- Ψ
-- δ
-excerpt: '`┌────────────────────────────────────────────────────────────┐` `│                 META–EINSTEIN
-  AXIOM BOX                    │` `│                                                            │`'
-heading: '**V. The Meta-Einstein Axiom Box (Unified Statement)**'
 id: GEN1-463
-lines: 686-705
 location: genesis-1/the-foundation-layer::v-the-meta-einstein-axiom-box-unified-statement::b1
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 686-705
+heading: '**V. The Meta-Einstein Axiom Box (Unified Statement)**'
+block_type: paragraph
+excerpt: '`┌────────────────────────────────────────────────────────────┐` `│                 META–EINSTEIN
+  AXIOM BOX                    │` `│                                                            │`'
+concepts:
+- δ
+- Meta-Einstein
+- Axiom
+- Projection
+- Curvature
+- Deviation
+- Ψ
+- →
+- Einstein Equation
+- Projection Axiom
+- Deviation Axiom
+- Curvature Axiom
+- Balance Axiom
+- δR
+- δ²
+aliases:
+- Bk644me
+tags:
+- axiom-box
+- AXIOM BOX
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 34.883720930232556
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- AXIOM BOX

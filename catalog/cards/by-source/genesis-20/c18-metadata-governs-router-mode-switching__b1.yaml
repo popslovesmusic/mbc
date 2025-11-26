@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- Mode
-excerpt: 'Router mode (from B1): * summative * competitive'
-heading: C1.8 Metadata Governs Router Mode Switching
 id: GEN20-7267
-lines: 8217-8238
 location: genesis-20/mbc-40-documentaitio-1::c18-metadata-governs-router-mode-switching::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 8217-8238
+heading: C1.8 Metadata Governs Router Mode Switching
+block_type: paragraph
+excerpt: 'Router mode (from B1): * summative * competitive'
+concepts:
+- Router
+- Mode
+aliases:
+- Bk811rm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

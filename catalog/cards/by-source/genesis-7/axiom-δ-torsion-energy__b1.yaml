@@ -1,18 +1,40 @@
+id: GEN7-8610
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::δ-weitzenböck-δ-higgs-potential-axiom-box-sealed-version::axiom-δ-torsion-energy::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 882-908
+heading: '**AXIOM (δ-Torsion Energy).**'
+parent_heading: '**▮ δ-Weitzenböck → δ-Higgs Potential Axiom Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- and
-- both
-- Φ
-- δ
-- μ
-- ν
-- ρ
 excerpt: 'The torsion scalar is: Tδ:=Sρμν δρμν,T\_\\delta := S\_\\rho{}^{\\mu\\nu}\\,\\delta^\\rho{}\_{\\mu\\nu},Tδ​:=Sρ​μνδρμν​,
   and, in δ-geometry, reduces to the vector-dominant invariant:'
-heading: '**AXIOM (δ-Torsion Energy).**'
-id: GEN7-8610
-lines: 882-908
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::δ-weitzenböck-δ-higgs-potential-axiom-box-sealed-version::axiom-δ-torsion-energy::b1
-parent_heading: '**▮ δ-Weitzenböck → δ-Higgs Potential Axiom Box (Sealed Version)**'
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- δ
+- μ
+- Φ
+- Meta-Genesis
+- δ-geometry
+- ν
+- ρ
+- only lower-order torsion invariants
+- self-interaction
+- vector-dominant
+- lower-order
+- δ-invariant
+- δ-harmonic
+- and
+- both
+aliases:
+- Bk838tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.096774193548388
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,17 +1,35 @@
+id: GEN12-1659
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::58-summary-of-section-5::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2037-2065
+heading: '**5.8 Summary of Section 5**'
+parent_heading: '**5\. Functoriality**'
 block_type: list
-concepts:
-- Axiom
-- Box
-- Cosmic Pipeline
-- Functoriality Axiom Box
-- The Cosmic Pipeline
-- Write Section
 excerpt: '* The Cosmic Pipeline is a composition of functors. * Each functor preserves
   the necessary structure for the next. * Genesis morphisms become morphisms of the
   sky.'
-heading: '**5.8 Summary of Section 5**'
-id: GEN12-1659
-lines: 2037-2065
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::5-functoriality::58-summary-of-section-5::b1
-parent_heading: '**5\. Functoriality**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- Axiom
+- Box
+- sealed Functoriality Axiom Box
+- Functoriality Axiom Box
+- Cross-scale
+- Cosmic Pipeline
+- The Cosmic Pipeline
+- Write Section
+aliases:
+- Bk254tc
+tags:
+- axiom-box
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

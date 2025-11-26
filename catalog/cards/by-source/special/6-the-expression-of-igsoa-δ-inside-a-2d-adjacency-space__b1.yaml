@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'This corresponds to: * forward cycle (3) * return cycle (3)'
-heading: '**👉 6 \= the expression of IGSOA \+ δ inside a 2D adjacency space.**'
 id: SPEC-11083
-lines: 1715-1735
 location: special/specil::6-the-expression-of-igsoa-δ-inside-a-2d-adjacency-space::b1
 source: special\specil.md
+lines: 1715-1735
+heading: '**👉 6 \= the expression of IGSOA \+ δ inside a 2D adjacency space.**'
+block_type: paragraph
+excerpt: 'This corresponds to: * forward cycle (3) * return cycle (3)'
+concepts:
+- self-interference
+aliases:
+- Bk346tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.8461538461538463
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

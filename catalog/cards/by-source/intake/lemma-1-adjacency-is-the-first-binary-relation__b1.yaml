@@ -1,12 +1,27 @@
+id: INTK-10001
+location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-1-adjacency-is-the-first-binary-relation::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 910-922
+heading: '**Lemma 1 — Adjacency is the first binary relation.**'
+parent_heading: '**4\. Full Formal Proof**'
 block_type: paragraph
+excerpt: 'By identity emergence: δΨ0 is the first object.\\delta\\Psi\_0\\ \\text{is
+  the first object.}δΨ0​ is the first object. By adjacency emergence:'
 concepts:
 - Ψ
 - δ
-excerpt: 'By identity emergence: δΨ0 is the first object.\\delta\\Psi\_0\\ \\text{is
-  the first object.}δΨ0​ is the first object. By adjacency emergence:'
-heading: '**Lemma 1 — Adjacency is the first binary relation.**'
-id: INTK-10001
-lines: 910-922
-location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-1-adjacency-is-the-first-binary-relation::b1
-parent_heading: '**4\. Full Formal Proof**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+aliases:
+- Bk182ie
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

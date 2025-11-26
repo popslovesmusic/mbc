@@ -1,12 +1,34 @@
+id: GEN9-9462
+location: genesis-9/strong-force::1-the-foundational-axiom::11-the-δ-adjacency-curvature-axiom::b1
+source: genesis-9\strong-force.md
+lines: 309-317
+heading: '**1.1 The δ-Adjacency Curvature Axiom**'
+parent_heading: '**1\. The Foundational Axiom**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: '**Deviation generates curvature on adjacency; curvature generates harmonic
   degeneracy; harmonic degeneracy generates phase-sectors.** Symbolically: δ  ⇒  ∇δAdj  ⇒  Spec(Hδ)  ⇒  {θ,χ}-phase.\\delta
   \\;...'
-heading: '**1.1 The δ-Adjacency Curvature Axiom**'
-id: GEN9-9462
-lines: 309-317
-location: genesis-9/strong-force::1-the-foundational-axiom::11-the-δ-adjacency-curvature-axiom::b1
-parent_heading: '**1\. The Foundational Axiom**'
-source: genesis-9\strong-force.md
+concepts:
+- δ
+- Deviation
+- Axiom
+- χ
+- ∇
+- θ
+- phase-sectors
+- structural consequences
+- δAdj
+aliases:
+- Bk019dg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.516129032258066
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

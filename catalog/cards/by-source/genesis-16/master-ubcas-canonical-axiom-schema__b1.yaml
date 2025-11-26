@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- Dual-Column
-- Mathematical Polarity
-excerpt: '**(Dual-Column: IGSOA Polarity ↔ Mathematical Polarity)** ---'
-heading: '**⭐ MASTER UBCAS — CANONICAL AXIOM SCHEMA**'
 id: GEN16-3889
-lines: 2031-2035
 location: genesis-16/untitled-document::master-ubcas-canonical-axiom-schema::b1
 source: genesis-16\Untitled_document.md
+lines: 2031-2035
+heading: '**⭐ MASTER UBCAS — CANONICAL AXIOM SCHEMA**'
+block_type: paragraph
+excerpt: '**(Dual-Column: IGSOA Polarity ↔ Mathematical Polarity)** ---'
+concepts:
+- Polarity
+- IGSOA
+- Dual-Column
+- Mathematical Polarity
+- ↔
+aliases:
+- Bk000dc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 83.33333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

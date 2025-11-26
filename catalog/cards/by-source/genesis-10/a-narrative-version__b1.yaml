@@ -1,11 +1,25 @@
+id: GEN10-695
+location: genesis-10/how-stillness-becomes-solid::if-you-want-i-can-also-produce::a-narrative-version::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 335-339
+heading: '**✔ A narrative version**'
+parent_heading: '**If you want, I can also produce:**'
 block_type: paragraph
-concepts:
-- Universe Invents Electricity
 excerpt: “How the Universe Invents Electricity in Crystals” Which one do you want
   next?
-heading: '**✔ A narrative version**'
-id: GEN10-695
-lines: 335-339
-location: genesis-10/how-stillness-becomes-solid::if-you-want-i-can-also-produce::a-narrative-version::b1
-parent_heading: '**If you want, I can also produce:**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- Universe Invents Electricity
+aliases:
+- Bk799ht
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

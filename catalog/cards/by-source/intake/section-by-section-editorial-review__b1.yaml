@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**✍️ SECTION-BY-SECTION EDITORIAL REVIEW**'
 id: INTK-9603
-lines: 161-163
 location: intake/abstract-editorial-review::section-by-section-editorial-review::b1
 source: intake\ABSTRACT__Editorial_Review.md
+lines: 161-163
+heading: '**✍️ SECTION-BY-SECTION EDITORIAL REVIEW**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,21 +1,39 @@
+id: GEN7-8656
+location: genesis-7/why-curvature-gives-gravity::igsoa-axiom-box-for-δ-curvature::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 508-515
+heading: '**◼ IGSOA AXIOM BOX FOR δ-CURVATURE**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Einstein Axiom Box
-- Foundation Layer
-- Genesis Axiom Box
-- Geometry Axiom Box
-- Law Stability Axiom Box
-- Layer
-- Meta-Einstein
-- δ
 excerpt: '*(The definitive axiom box governing how deviation produces curvature)*
   This is written in the exact same high-formality, cross-compatible style as the
   NOT Axiom Box, Genesis Axiom Box, Law Stability ...'
-heading: '**◼ IGSOA AXIOM BOX FOR δ-CURVATURE**'
-id: GEN7-8656
-lines: 508-515
-location: genesis-7/why-curvature-gives-gravity::igsoa-axiom-box-for-δ-curvature::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- Axiom
+- Meta-Einstein
+- Box
+- Foundation Layer
+- Axiom Box
+- Layer
+- cross-compatible
+- high-formality
+- δ-Geometry
+- Law Stability Axiom Box
+- δ
+- Einstein Axiom Box
+- Geometry Axiom Box
+- Genesis Axiom Box
+aliases:
+- Bk427td
+tags:
+- axiom-box
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 26.41509433962264
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

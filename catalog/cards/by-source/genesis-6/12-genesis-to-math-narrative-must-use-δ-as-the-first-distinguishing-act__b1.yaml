@@ -1,14 +1,31 @@
+id: GEN6-8425
+location: genesis-6/the-harmonic-spectral-triple::iv-semantic-interpretive-consistency-conditions::12-genesis-to-math-narrative-must-use-δ-as-the-first-distinguishing-act::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 1015-1023
+heading: '**12\. Genesis-to-Math Narrative Must Use δ as the First Distinguishing
+  Act**'
+parent_heading: '**IV. Semantic / Interpretive Consistency Conditions**'
 block_type: paragraph
-concepts:
-- first
-- δ
 excerpt: 'Your narrative and formal proofs must consistently say: “Deviation (δ) is
   the **first** act that breaks perfect symmetry.” Any alternative “first act” (randomness,
   choice, seed, field, function) creat...'
-heading: '**12\. Genesis-to-Math Narrative Must Use δ as the First Distinguishing
-  Act**'
-id: GEN6-8425
-lines: 1015-1023
-location: genesis-6/the-harmonic-spectral-triple::iv-semantic-interpretive-consistency-conditions::12-genesis-to-math-narrative-must-use-δ-as-the-first-distinguishing-act::b1
-parent_heading: '**IV. Semantic / Interpretive Consistency Conditions**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- Deviation
+- δ
+- first
+aliases:
+- Bk417yn
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

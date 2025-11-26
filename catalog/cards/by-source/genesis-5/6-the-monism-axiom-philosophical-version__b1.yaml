@@ -1,11 +1,29 @@
+id: GEN5-7998
+location: genesis-5/formal-proof-of-the-adjoint-triple::6-the-monism-axiom-philosophical-version::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 882-889
+heading: '**6\. The Monism Axiom (philosophical version)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: '**The universe is a single self-contained reality whose potential, actions,
   and structures are inseparable expressions of the same underlying ontological field.**
   **δ is the principle that differentia...'
-heading: '**6\. The Monism Axiom (philosophical version)**'
-id: GEN5-7998
-lines: 882-889
-location: genesis-5/formal-proof-of-the-adjoint-triple::6-the-monism-axiom-philosophical-version::b1
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- IGSOA
+- Axiom
+- self-contained
+- δ
+aliases:
+- Bk984tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.51063829787234
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

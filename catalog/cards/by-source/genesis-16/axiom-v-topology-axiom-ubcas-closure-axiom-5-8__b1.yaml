@@ -1,13 +1,30 @@
+id: GEN16-3875
+location: genesis-16/untitled-document::2-axiom-set-structure::axiom-v-topology-axiom-ubcas-closure-axiom-5-8::b1
+source: genesis-16\Untitled_document.md
+lines: 1850-1858
+heading: '**Axiom V (Topology Axiom) — UBCAS ↔ Closure Axiom 5 & 8**'
+parent_heading: '**2\. Axiom Set Structure**'
 block_type: table
+excerpt: UBCAS defines **two constraints**, Closure Axiom Box defines **three**. ---
 concepts:
 - Axiom
 - Box
+- ∧
 - Closure Axiom Box
+- →
+- two constraints
 - three
-excerpt: UBCAS defines **two constraints**, Closure Axiom Box defines **three**. ---
-heading: '**Axiom V (Topology Axiom) — UBCAS ↔ Closure Axiom 5 & 8**'
-id: GEN16-3875
-lines: 1850-1858
-location: genesis-16/untitled-document::2-axiom-set-structure::axiom-v-topology-axiom-ubcas-closure-axiom-5-8::b1
-parent_heading: '**2\. Axiom Set Structure**'
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk122uc
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.94871794871795
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

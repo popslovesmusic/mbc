@@ -1,13 +1,34 @@
+id: SPEC-11004
+location: special/specil::1-before-the-universe-was-physical-time-already-existed::time-the-ordering-of-deviations::b1
+source: special\specil.md
+lines: 532-565
+heading: '**Time \= the ordering of deviations**'
+parent_heading: '**🌑 1\. Before the Universe Was Physical, Time Already Existed**'
 block_type: paragraph
-concepts:
-- Genesis-Time
-- begins
-- δ
 excerpt: 'Time **begins** the moment: * IGS (potential kinetics) * fires into OA (kinetic
   realization)'
-heading: '**Time \= the ordering of deviations**'
-id: SPEC-11004
-lines: 532-565
-location: special/specil::1-before-the-universe-was-physical-time-already-existed::time-the-ordering-of-deviations::b1
-parent_heading: '**🌑 1\. Before the Universe Was Physical, Time Already Existed**'
-source: special\specil.md
+concepts:
+- δ
+- begins
+- But time is already running
+- Genesis-Time
+- non-zero
+- δ₀
+- is movement
+- δ₁
+- δ₃
+- δ₂
+aliases:
+- Bk934tb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.345679012345679
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

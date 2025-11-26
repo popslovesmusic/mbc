@@ -1,16 +1,32 @@
+id: INTK-10847
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-vs-relativistic-time::how-relativity-fits-inside-the-igsoa-meta-math-framework::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3132-3136
+heading: '**How Relativity Fits Inside the IGSOA / Meta-Math Framework**'
+parent_heading: '**Meta-Time vs Relativistic Time**'
 block_type: paragraph
-concepts:
-- Dependent-Mode
-- Deviation Calculus
-- Meta-Geometry
-- Mode
-- Mode Physics
 excerpt: This is written to *drop directly into your white paper* and is already aligned
   with your Meta-Geometry, Dependent-Mode Physics, and Deviation Calculus vocabulary.
   ---
-heading: '**How Relativity Fits Inside the IGSOA / Meta-Math Framework**'
-id: INTK-10847
-lines: 3132-3136
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-vs-relativistic-time::how-relativity-fits-inside-the-igsoa-meta-math-framework::b1
-parent_heading: '**Meta-Time vs Relativistic Time**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Deviation
+- Mode
+- Dependent-Mode
+- Meta-Geometry
+- Deviation Calculus
+- Mode Physics
+aliases:
+- Bk185tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,27 @@
+id: GEN20-7087
+location: genesis-20/mbc-40-documentaitio-1::part-vii-agent-workflow-architecture::chapter-g3-multi-agent-systems::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5296-5300
+heading: Chapter G3 — Multi-Agent Systems
+parent_heading: PART VII — Agent Workflow Architecture
 block_type: list
-concepts: []
 excerpt: '* polarity-driven agent communication * inference-sharing networks * coordinated
   reasoning cycles'
-heading: Chapter G3 — Multi-Agent Systems
-id: GEN20-7087
-lines: 5296-5300
-location: genesis-20/mbc-40-documentaitio-1::part-vii-agent-workflow-architecture::chapter-g3-multi-agent-systems::b1
-parent_heading: PART VII — Agent Workflow Architecture
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- inference-sharing
+- polarity-driven
+aliases:
+- Bk978pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

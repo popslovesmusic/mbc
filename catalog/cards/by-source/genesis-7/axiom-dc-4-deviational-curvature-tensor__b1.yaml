@@ -1,13 +1,30 @@
+id: GEN7-8661
+location: genesis-7/why-curvature-gives-gravity::ii-curvature-axioms::axiom-dc-4-deviational-curvature-tensor::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 566-574
+heading: '**Axiom DC-4 — Deviational Curvature Tensor**'
+parent_heading: '**II. CURVATURE AXIOMS**'
 block_type: paragraph
-concepts:
-- Γ
-- δ
 excerpt: 'The δ-curvature tensor is: Rijklδ=∂kΓijlδ−∂lΓijkδ+ΓimsδΓsjlδ−ΓjmsδΓsilδ.R^\\delta\_{ijkl}
   \= \\partial\_k \\Gamma^\\delta\_{ijl} \- \\partial\_l \\Gamma^\\delta\_{ijk} \+
   \\Gamma^\\delta\_{ims}\\Gamma...'
-heading: '**Axiom DC-4 — Deviational Curvature Tensor**'
-id: GEN7-8661
-lines: 566-574
-location: genesis-7/why-curvature-gives-gravity::ii-curvature-axioms::axiom-dc-4-deviational-curvature-tensor::b1
-parent_heading: '**II. CURVATURE AXIOMS**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Γ
+- ∂
+- δ-curvature
+aliases:
+- Bk404tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.970149253731343
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

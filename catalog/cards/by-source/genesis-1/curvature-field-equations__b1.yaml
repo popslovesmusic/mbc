@@ -1,12 +1,32 @@
+id: GEN1-549
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::8-summary-of-the-axioms::curvature-field-equations::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 637-643
+heading: '**Curvature & Field Equations**'
+parent_heading: '**8\. Summary of the Axioms**'
 block_type: list
+excerpt: '* A4.1 δ-curvature * A4.2 δ-Bianchi * A4.3 Meta-Einstein Equation'
 concepts:
-- Einstein Equation
 - Meta-Einstein
 - δ
-excerpt: '* A4.1 δ-curvature * A4.2 δ-Bianchi * A4.3 Meta-Einstein Equation'
-heading: '**Curvature & Field Equations**'
-id: GEN1-549
-lines: 637-643
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::8-summary-of-the-axioms::curvature-field-equations::b1
-parent_heading: '**8\. Summary of the Axioms**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+- δ-curvature
+- δ-Bianchi
+- Einstein Equation
+aliases:
+- Bk004a
+tags:
+- A4
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 38.46153846153847
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A4

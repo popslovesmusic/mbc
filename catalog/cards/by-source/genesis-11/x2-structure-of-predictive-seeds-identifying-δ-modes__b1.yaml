@@ -1,15 +1,39 @@
+id: GEN11-1227
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::x2-structure-of-predictive-seeds-identifying-δ-modes::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1608-1629
+heading: '**X.2 Structure of Predictive Seeds: Identifying δ-Modes**'
 block_type: paragraph
-concepts:
-- predictive
-- Π
-- Φ
-- δ
-- δ-feature
 excerpt: The first step in producing testable predictions is the identification of
   a **δ-feature** D\\mathscr{D}D. These features originate at the pre-geometric (Genesis-level)
   layer, where deviation is the so...
-heading: '**X.2 Structure of Predictive Seeds: Identifying δ-Modes**'
-id: GEN11-1227
-lines: 1608-1629
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::x2-structure-of-predictive-seeds-identifying-δ-modes::b1
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- δ
+- Adjacency
+- δ-feature
+- gravitational-wave
+- Harmonic δ-modes
+- Torsional and shear components
+- long-wavelength
+- pre-geometric
+- Genesis-level
+- topology-like
+- δ-resonances
+- large-scale
+- scalar-like
+- Φ-evolution
+- Π-imprint
+aliases:
+- Bk027tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.793893129770993
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

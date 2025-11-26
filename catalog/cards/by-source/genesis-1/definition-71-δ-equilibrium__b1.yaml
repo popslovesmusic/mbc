@@ -1,13 +1,30 @@
+id: GEN1-627
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::7-deviational-equilibrium-and-stability::definition-71-δ-equilibrium::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1403-1411
+heading: '**Definition 7.1 — δ-Equilibrium.**'
+parent_heading: '**7\. Deviational Equilibrium and Stability**'
 block_type: paragraph
-concepts:
-- Axiom
-- δ
 excerpt: 'A state δeq\\delta\_{\\mathrm{eq}}δeq​ is in equilibrium iff: Rδ=0.\\mathcal{R}\_\\delta
   \= 0.Rδ​=0. Since δ is non-integrable by Axiom 3, the only equilibrium solution
   is trivial.'
-heading: '**Definition 7.1 — δ-Equilibrium.**'
-id: GEN1-627
-lines: 1403-1411
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::7-deviational-equilibrium-and-stability::definition-71-δ-equilibrium::b1
-parent_heading: '**7\. Deviational Equilibrium and Stability**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Axiom
+- non-integrable
+- δeq
+aliases:
+- Bk803sd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.428571428571429
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

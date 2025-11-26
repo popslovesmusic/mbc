@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: '*(Derived from Axioms GF-1 … GF-9)* ---'
-heading: '**The Galaxy-Formation Theorem**'
 id: GEN12-1892
-lines: 2553-2557
 location: genesis-12/untitled-document::the-galaxy-formation-theorem::b1
 source: genesis-12\Untitled_document.md
+lines: 2553-2557
+heading: '**The Galaxy-Formation Theorem**'
+block_type: paragraph
+excerpt: '*(Derived from Axioms GF-1 … GF-9)* ---'
+aliases:
+- Bk947df
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

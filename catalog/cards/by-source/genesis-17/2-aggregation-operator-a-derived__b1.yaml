@@ -1,11 +1,26 @@
+id: GEN17-4745
+location: genesis-17/box-calculus::iv-all-box-operators-become-derived-operators::2-aggregation-operator-a-derived::b1
+source: genesis-17\box_calculus.md
+lines: 8681-8689
+heading: 2\. Aggregation Operator A (Derived)
+parent_heading: 🔷 IV. ALL Box Operators Become Derived Operators
 block_type: paragraph
+excerpt: Smoothing \= low curvature flow. A(Σ):=Fδ↓(Σ) A(Σ):=F
 concepts:
 - Σ
 - δ
-excerpt: Smoothing \= low curvature flow. A(Σ):=Fδ↓(Σ) A(Σ):=F
-heading: 2\. Aggregation Operator A (Derived)
-id: GEN17-4745
-lines: 8681-8689
-location: genesis-17/box-calculus::iv-all-box-operators-become-derived-operators::2-aggregation-operator-a-derived::b1
-parent_heading: 🔷 IV. ALL Box Operators Become Derived Operators
-source: genesis-17\box_calculus.md
+aliases:
+- Bk026sl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

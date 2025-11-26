@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: “One or more inputs true.”
-heading: Classical OR
 id: GEN20-7187
-lines: 6958-6960
 location: genesis-20/mbc-40-documentaitio-1::b24-semantic-or-unified-influence-gate::classical-or::b1
-parent_heading: B2.4 Semantic OR (Unified Influence Gate)
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6958-6960
+heading: Classical OR
+parent_heading: B2.4 Semantic OR (Unified Influence Gate)
+block_type: paragraph
+excerpt: “One or more inputs true.”
+aliases:
+- Bk927om
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

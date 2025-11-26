@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: Big-step semantics gives the whole computation at once. ---
-heading: 🔷 4\. Big-Step Semantics (Evaluation)
 id: GEN17-4821
-lines: 9833-9836
 location: genesis-17/box-calculus::4-big-step-semantics-evaluation::b1
 source: genesis-17\box_calculus.md
+lines: 9833-9836
+heading: 🔷 4\. Big-Step Semantics (Evaluation)
+block_type: paragraph
+excerpt: Big-step semantics gives the whole computation at once. ---
+concepts:
+- Big-step
+aliases:
+- Bk585bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

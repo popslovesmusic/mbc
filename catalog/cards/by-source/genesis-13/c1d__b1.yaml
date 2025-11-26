@@ -1,13 +1,28 @@
-block_type: paragraph
-concepts:
-- Bioenergetics Chapter
-- Π
-- Φ
-- δ
-excerpt: '**Full δ–Φ–Π Bioenergetics Chapter (20–30 pages).**'
-heading: '**(C1d)**'
 id: GEN13-2510
-lines: 756-758
 location: genesis-13/what-biology-is-in-meta-genesis::7-expansion-options-choose-the-next-step::c1d::b1
-parent_heading: '**7\. Expansion Options — choose the next step**'
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 756-758
+heading: '**(C1d)**'
+parent_heading: '**7\. Expansion Options — choose the next step**'
+block_type: paragraph
+excerpt: '**Full δ–Φ–Π Bioenergetics Chapter (20–30 pages).**'
+concepts:
+- Π
+- δ
+- Φ
+- Bioenergetics Chapter
+aliases:
+- Bk323fb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 44.44444444444444
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

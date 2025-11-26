@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: The full primitive \+ derived operator table that your C++ engine and LLM
-  need.
-heading: '✅ Proceeding: Operator Kernel Registry v0.2 (Canonical Spec)'
 id: GEN17-4189
-lines: 527-529
 location: genesis-17/box-calculus::proceeding-operator-kernel-registry-v02-canonical-spec::b1
 source: genesis-17\box_calculus.md
+lines: 527-529
+heading: '✅ Proceeding: Operator Kernel Registry v0.2 (Canonical Spec)'
+block_type: paragraph
+excerpt: The full primitive \+ derived operator table that your C++ engine and LLM
+  need.
+aliases:
+- Bk916tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

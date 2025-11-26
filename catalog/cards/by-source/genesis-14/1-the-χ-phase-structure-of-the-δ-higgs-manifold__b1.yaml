@@ -1,13 +1,38 @@
+id: GEN14-2750
+location: genesis-14/inflation-structure-formation::proof::1-the-χ-phase-structure-of-the-δ-higgs-manifold::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1560-1584
+heading: '**1\. The χ-Phase Structure of the δ-Higgs Manifold**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- From Proof
-- Φ
-- δ
 excerpt: 'From Proof 3: The δ-Higgs manifold is the Φ-fixed-point set Mδ-Higgs={X∣Φ(X)=X}.\\mathcal{M}\_{\\delta\\text{-Higgs}}=\\{X\\mid
   \\Phi(X)=X\\}.Mδ-Higgs​={X∣Φ(X)=X}.'
-heading: '**1\. The χ-Phase Structure of the δ-Higgs Manifold**'
-id: GEN14-2750
-lines: 1560-1584
-location: genesis-14/inflation-structure-formation::proof::1-the-χ-phase-structure-of-the-δ-higgs-manifold::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- χ
+- δ-Higgs
+- δ
+- IGSOA
+- Mδ-Higgs
+- Φ
+- Proof
+- anisotropic adjacency directions
+- orthogonal curvature directions
+- Φ-fixed-point
+- geometric vacuum orientation
+- Φ-collapse
+- ≠
+- From Proof
+aliases:
+- Bk065fp
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.844036697247708
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,31 @@
+id: INTK-10280
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::formal-definition::iterative-definition::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 609-618
+heading: Iterative Definition
+parent_heading: Formal Definition
 block_type: paragraph
-concepts:
-- Causal History
-- Meta-Aggregation
-- Meta-Time
-- The Causal History
 excerpt: 'The Causal History at Meta-Time step `t` is defined iteratively as: ```
   C(t) = C(t-1) ⊕ ψ_actual(t)'
-heading: Iterative Definition
-id: INTK-10280
-lines: 609-618
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::formal-definition::iterative-definition::b1
-parent_heading: Formal Definition
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Time
+- ψ
+- ⊕
+- Meta-Aggregation
+- Causal History
+- The Causal History
+aliases:
+- Bk187tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

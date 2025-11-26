@@ -1,11 +1,29 @@
+id: GEN20-6800
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::57-causal-order-non-temporal-dependency-structure::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1857-1882
+heading: '5.7 Causal Order: Non-Temporal Dependency Structure'
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts:
-- Causal Order
 excerpt: 'Causal Order is the structural backbone of box networks. It is not time-based.
   Instead it is defined by:'
-heading: '5.7 Causal Order: Non-Temporal Dependency Structure'
-id: GEN20-6800
-lines: 1857-1882
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::57-causal-order-non-temporal-dependency-structure::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- →
+- time-based
+- Causal Order
+aliases:
+- Bk984co
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.651162790697675
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

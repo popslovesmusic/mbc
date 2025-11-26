@@ -1,19 +1,42 @@
+id: GEN9-9383
+location: genesis-9/is-the-source-of-all-structure::if-you-want-next-i-can-generate::choose-one::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 701-713
+heading: '**Choose one:**'
+parent_heading: '**If you want next, I can generate:**'
 block_type: list
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Harmonic Periodic Table Theorem
-- Theorem
-- Π
-- Φ
-- δ
 excerpt: '1. **A sealed Axiom Box**: “The δ-Harmonic Periodic Table Theorem.” 2. **A
   full graphic diagram** of the IGSOA periodic table (grid layout). 3. **The δ→Φ→Π
   projection diagram** mapping harmonics to or...'
-heading: '**Choose one:**'
-id: GEN9-9383
-lines: 701-713
-location: genesis-9/is-the-source-of-all-structure::if-you-want-next-i-can-generate::choose-one::b1
-parent_heading: '**If you want next, I can generate:**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- IGSOA
+- Theorem
+- Axiom
+- The δ-harmonic orbital shapes
+- δ
+- Box
+- Harmonic Periodic Table Theorem
+- →
+- δ-Harmonic
+- δ-harmonic
+- A full graphic diagram
+- Π
+- Φ
+- A sealed Axiom Box
+- A derivation page
+aliases:
+- Bk611sa
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.666666666666668
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

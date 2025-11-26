@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- τ
-excerpt: '**Edges must preserve type compatibility.** For edge i→ji\\to ji→j: τiout⪯τjin\\boxed{
-  \\tau^{out}\_i \\preceq \\tau^{in}\_j }τiout​⪯τjin​​'
-heading: '**⭐ AXIOM 7 — Adjacency & Typing Axiom**'
 id: GEN16-3858
-lines: 1608-1620
 location: genesis-16/untitled-document::axiom-7-adjacency-typing-axiom::b1
 source: genesis-16\Untitled_document.md
+lines: 1608-1620
+heading: '**⭐ AXIOM 7 — Adjacency & Typing Axiom**'
+block_type: paragraph
+excerpt: '**Edges must preserve type compatibility.** For edge i→ji\\to ji→j: τiout⪯τjin\\boxed{
+  \\tau^{out}\_i \\preceq \\tau^{in}\_j }τiout​⪯τjin​​'
+concepts:
+- τ
+- type-theoretic skeleton
+- →
+- type-theoretic
+aliases:
+- Bk396em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

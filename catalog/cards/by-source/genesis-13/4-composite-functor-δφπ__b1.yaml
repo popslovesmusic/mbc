@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'Define: T=Π∘Φ∘δ:D→G\\mathcal{T} \= \\Pi \\circ \\Phi \\circ \\delta \\quad:\\quad
-  \\mathcal{D} \\to \\mathcal{G}T=Π∘Φ∘δ:D→G For any adjacency object AAA:'
-heading: '**4\. Composite Functor δ→Φ→Π**'
 id: GEN13-2295
-lines: 458-472
 location: genesis-13/the-weight-of-light::4-composite-functor-δφπ::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 458-472
+heading: '**4\. Composite Functor δ→Φ→Π**'
+block_type: paragraph
+excerpt: 'Define: T=Π∘Φ∘δ:D→G\\mathcal{T} \= \\Pi \\circ \\Phi \\circ \\delta \\quad:\\quad
+  \\mathcal{D} \\to \\mathcal{G}T=Π∘Φ∘δ:D→G For any adjacency object AAA:'
+concepts:
+- Π
+- δ
+- Φ
+- →
+- Π-projectable
+- δ-curvature
+aliases:
+- Bk289dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,33 @@
+id: GEN13-2184
+location: genesis-13/meta-math-nuclear-physics::2-φ-layer-band-theory-and-operator-algebra::theorem-24-berry-curvature-from-φ-curvature::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2180-2186
+heading: '**Theorem 2.4 (Berry Curvature from Φ-Curvature).**'
+parent_heading: '**2\. Φ-Layer: Band Theory and Operator Algebra**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ω
-- δ
 excerpt: FΦ=∇×AΦ=Π(Φ(Ωδ)).\\mathcal{F}\_\\Phi \= \\nabla \\times \\mathcal{A}\_\\Phi
   \= \\Pi\\big(\\Phi(\\Omega\_\\delta)\\big).FΦ​=∇×AΦ​=Π(Φ(Ωδ​)). Φ-Berry curvature
   is the image of δ-curvature. ---
-heading: '**Theorem 2.4 (Berry Curvature from Φ-Curvature).**'
-id: GEN13-2184
-lines: 2180-2186
-location: genesis-13/meta-math-nuclear-physics::2-φ-layer-band-theory-and-operator-algebra::theorem-24-berry-curvature-from-φ-curvature::b1
-parent_heading: '**2\. Φ-Layer: Band Theory and Operator Algebra**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- δ
+- Ω
+- Π
+- ∇
+- δ-curvature
+- Φ-Berry
+aliases:
+- Bk997mp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.444444444444446
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

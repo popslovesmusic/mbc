@@ -1,12 +1,27 @@
+id: INTK-9685
+location: intake/axioms-geometry::section-6-consistency-checks-self-consistency-tests::test-2-potential-flow-test::b1
+source: intake\Axioms-geometry.md
+lines: 597-599
+heading: '**Test 2 – Potential-Flow Test**'
+parent_heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
 block_type: paragraph
-concepts:
-- Every Meta
-- Meta-Math
 excerpt: Every Meta-Math dynamic equation must correspond to a lawful sequence of
   MG deviations.
-heading: '**Test 2 – Potential-Flow Test**'
-id: INTK-9685
-lines: 597-599
-location: intake/axioms-geometry::section-6-consistency-checks-self-consistency-tests::test-2-potential-flow-test::b1
-parent_heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
-source: intake\Axioms-geometry.md
+concepts:
+- Meta-Math
+- Every Meta
+aliases:
+- Bk859em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

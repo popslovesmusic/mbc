@@ -1,16 +1,39 @@
+id: GEN7-8577
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::3-how-the-potential-appears-from-δ-torsion::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 364-418
+heading: '**3\. How the Potential Appears from δ-Torsion**'
 block_type: paragraph
-concepts:
-- vector-dominated
-- Φ
-- δ
-- μ
-- ν
-- ρ
 excerpt: 'Take the torsion scalar: Tδ=Sρμνδρμν.T\_\\delta \= S\_\\rho{}^{\\mu\\nu}
   \\delta^\\rho{}\_{\\mu\\nu}.Tδ​=Sρ​μνδρμν​. In teleparallel gravity and similar
   torsion-based theories, one finds:'
-heading: '**3\. How the Potential Appears from δ-Torsion**'
-id: GEN7-8577
-lines: 364-418
-location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::3-how-the-potential-appears-from-δ-torsion::b1
-source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+concepts:
+- δ
+- μ
+- Φ
+- δ-geometry
+- IGSOA
+- ≈
+- nonlinear deviation self-interaction
+- ν
+- ρ
+- pure-tensor
+- δ-harmonic equilibrium
+- vector-dominated
+- self-interaction
+- torsion-based
+- higher-order
+aliases:
+- Bk666tt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.898305084745763
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

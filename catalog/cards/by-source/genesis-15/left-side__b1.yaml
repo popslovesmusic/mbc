@@ -1,14 +1,29 @@
+id: GEN15-3405
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-proof-of-naturality::now-show-equality::left-side::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 430-456
+heading: '**Left side:**'
+parent_heading: '**Now Show Equality**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- η
 excerpt: F(f)∘ηΔ=(N∘L∘Π∘Φ)(f)∘(N∘L∘Π∘Φ)(idΔ)F(f) \\circ \\eta\_\\Delta \= \\left(
   N \\circ L \\circ \\Pi \\circ \\Phi \\right)(f) \\circ \\left( N \\circ L \\circ
   \\Pi \\circ \\Phi \\right)(\\text{id}\_\\Delta...
-heading: '**Left side:**'
-id: GEN15-3405
-lines: 430-456
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-proof-of-naturality::now-show-equality::left-side::b1
-parent_heading: '**Now Show Equality**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- Φ
+- Δ
+- Π
+- η
+aliases:
+- Bk326ce
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 1.7167381974248928
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

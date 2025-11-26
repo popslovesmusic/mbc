@@ -1,11 +1,36 @@
-block_type: paragraph
-concepts:
-- δ
-- λ
-excerpt: 'Define: Mθ⊂M\\mathbf{M}\_\\theta \\subset \\mathbf{M}Mθ​⊂M as the full subcategory
-  of δ-objects XXX for which torsion acts with **paired eigenvalues**:'
-heading: '**3\. Torsion Selects a Subcategory of 2-Fibered δ-Objects**'
 id: GEN9-9508
-lines: 1137-1165
 location: genesis-9/strong-force::3-torsion-selects-a-subcategory-of-2-fibered-δ-objects::b1
 source: genesis-9\strong-force.md
+lines: 1137-1165
+heading: '**3\. Torsion Selects a Subcategory of 2-Fibered δ-Objects**'
+block_type: paragraph
+excerpt: 'Define: Mθ⊂M\\mathbf{M}\_\\theta \\subset \\mathbf{M}Mθ​⊂M as the full subcategory
+  of δ-objects XXX for which torsion acts with **paired eigenvalues**:'
+concepts:
+- θ
+- IGSOA
+- →
+- ⊂
+- π
+- ∈
+- λ
+- torsion-induced
+- double fiber decomposition
+- δ-objects
+- δ
+- paired eigenvalues
+aliases:
+- Bk759dm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.917355371900827
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

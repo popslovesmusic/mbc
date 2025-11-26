@@ -1,13 +1,32 @@
+id: GEN12-1666
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-functoriality::axiom-f4-mode-equivalence-under-projection::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2132-2150
+heading: '**Axiom F4 (Mode Equivalence Under Projection).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Functoriality ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'For any Φ-mode ϕk\\phi\_kϕk​, Π-projections into different observational
   channels satisfy: Πx(ϕk)  ∼  Πy(ϕk),\\Pi\_x(\\phi\_k) \\;\\sim\\; \\Pi\_y(\\phi\_k),Πx​(ϕk​)∼Πy​(ϕk​),
   up to channel-dependent ...'
-heading: '**Axiom F4 (Mode Equivalence Under Projection).**'
-id: GEN12-1666
-lines: 2132-2150
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-functoriality::axiom-f4-mode-equivalence-under-projection::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Functoriality ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- channel-dependent
+- Π-projections
+- Φ-mode
+- Φ
+- Πy
+- Πx
+aliases:
+- Bk499fa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.725490196078432
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

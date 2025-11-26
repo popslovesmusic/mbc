@@ -1,15 +1,38 @@
+id: GEN17-4172
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::5-full-unified-definition::b1
+source: genesis-17\box_calculus.md
+lines: 312-321
+heading: 5\. Full Unified Definition
+parent_heading: Formal Transition Function for Box Calculus
 block_type: table
-concepts:
-- Box
-- Box Calculus
-- Standard Formalism
-- Σ
 excerpt: 'Where preconditions typically include: Pre(Op,Σ,Adj):=(Adjacency-legal)∧(NOT-axiom
   preserved)∧(type compatibility) Pre(Op,Σ,Adj):=(Adjacency-legal)∧(NOT-axiom preserved)∧(type
   compatibility)'
-heading: 5\. Full Unified Definition
-id: GEN17-4172
-lines: 312-321
-location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::5-full-unified-definition::b1
-parent_heading: Formal Transition Function for Box Calculus
-source: genesis-17\box_calculus.md
+concepts:
+- Σ
+- Adjacency
+- Box Calculus
+- IGSOA
+- ∧
+- θ
+- Adjacency-legal
+- Axiom
+- NOT-axiom
+- Box
+- operator-indexed
+- state-transition
+- Standard Formalism
+aliases:
+- Bk015ib
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.829787234042554
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

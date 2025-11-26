@@ -1,14 +1,35 @@
+id: GEN10-727
+location: genesis-10/how-stillness-becomes-solid::the-δφπ-z₂-operator-algebraic-invariant::axiom-of-z₂-unity-tri-unity-invariant-law::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 724-732
+heading: '**Axiom of Z₂ Unity (Tri-Unity Invariant Law)**'
+parent_heading: '**The δ→Φ→Π Z₂ Operator-Algebraic Invariant**'
 block_type: paragraph
-concepts:
-- Π
-- δ
-- ν
 excerpt: 'The δ-parity and Π-parity coincide: νΠ=νδ.\\nu\_\\Pi \= \\nu\_\\delta .νΠ​=νδ​.
   Thus the **Z₂ invariant of the Π-band representation** is the **operator-algebraic
   δ-curvature parity** of the underlyin...'
-heading: '**Axiom of Z₂ Unity (Tri-Unity Invariant Law)**'
-id: GEN10-727
-lines: 724-732
-location: genesis-10/how-stillness-becomes-solid::the-δφπ-z₂-operator-algebraic-invariant::axiom-of-z₂-unity-tri-unity-invariant-law::b1
-parent_heading: '**The δ→Φ→Π Z₂ Operator-Algebraic Invariant**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- operator-algebraic δ-curvature parity
+- Π
+- δ
+- ν
+- operator-algebraic
+- δ-curvature
+- δ-parity
+- Π-parity
+- Π-band
+aliases:
+- Bk670tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.076923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

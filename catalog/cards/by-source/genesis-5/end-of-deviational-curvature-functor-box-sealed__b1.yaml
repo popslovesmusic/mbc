@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- Einstein Dynamics
-- Φ
-- δ
-excerpt: 'If you want, I can generate: * a **diagram page** (string diagrams / TikZ),
-  * a **δ–Φ-symmetric version**,'
-heading: '**End of ▢ Deviational Curvature Functor Box (Sealed)**'
 id: GEN5-8048
-lines: 1654-1664
 location: genesis-5/formal-proof-of-the-adjoint-triple::end-of-deviational-curvature-functor-box-sealed::b1
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1654-1664
+heading: '**End of ▢ Deviational Curvature Functor Box (Sealed)**'
+block_type: paragraph
+excerpt: 'If you want, I can generate: * a **diagram page** (string diagrams / TikZ),
+  * a **δ–Φ-symmetric version**,'
+concepts:
+- higher-topos extended version
+- δ
+- higher-topos
+- Φ-symmetric
+- δ-Einstein
+- Φ
+- Einstein Dynamics
+- diagram page
+aliases:
+- Bk007yw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: 'Each box carries metadata that influences: * polarity * flow routing'
-heading: '5.5 Metadata: The Semantic Heart of the Box'
 id: GEN20-6798
-lines: 1812-1834
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::55-metadata-the-semantic-heart-of-the-box::b1
-parent_heading: ✔️ Do you approve this companion structure?
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1812-1834
+heading: '5.5 Metadata: The Semantic Heart of the Box'
+parent_heading: ✔️ Do you approve this companion structure?
+block_type: paragraph
+excerpt: 'Each box carries metadata that influences: * polarity * flow routing'
+concepts:
+- Curvature
+- Adjacency
+- Polarity
+- Θ
+aliases:
+- Bk871eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.878048780487805
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

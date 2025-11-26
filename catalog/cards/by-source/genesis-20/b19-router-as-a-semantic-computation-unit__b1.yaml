@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- Θ
-excerpt: 'The advanced Θ-router acts as: * a semantic aggregator * a logic gate'
-heading: B1.9 Router as a Semantic Computation Unit
 id: GEN20-7173
-lines: 6707-6727
 location: genesis-20/mbc-40-documentaitio-1::b19-router-as-a-semantic-computation-unit::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6707-6727
+heading: B1.9 Router as a Semantic Computation Unit
+block_type: paragraph
+excerpt: 'The advanced Θ-router acts as: * a semantic aggregator * a logic gate'
+concepts:
+- MBC
+- context-sensitive
+- multi-channel
+- Θ
+aliases:
+- Bk923ta
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

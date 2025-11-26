@@ -1,10 +1,23 @@
+id: GEN20-7245
+location: genesis-20/mbc-40-documentaitio-1::b46-semantic-flow-through-router-networks::3-convergence-phase::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7798-7809
+heading: 3\. Convergence Phase
+parent_heading: B4.6 Semantic Flow Through Router Networks
 block_type: paragraph
-concepts: []
 excerpt: 'Network stabilizes into coherent meaning. This cycle resembles: * gradient
   flow'
-heading: 3\. Convergence Phase
-id: GEN20-7245
-lines: 7798-7809
-location: genesis-20/mbc-40-documentaitio-1::b46-semantic-flow-through-router-networks::3-convergence-phase::b1
-parent_heading: B4.6 Semantic Flow Through Router Networks
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk546ns
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

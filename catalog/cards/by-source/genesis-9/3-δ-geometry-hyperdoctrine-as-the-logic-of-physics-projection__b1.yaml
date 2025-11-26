@@ -1,14 +1,40 @@
+id: GEN9-9127
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-δ-geometry-hyperdoctrine-as-the-logic-of-physics-projection::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1560-1584
+heading: '**3\. δ-Geometry Hyperdoctrine as the Logic of Physics Projection**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Π
-- Φ
-- δ
 excerpt: 'Recall the hyperdoctrine you just built: Pδ:Sop→Poset\\mathbb{P}\_\\delta
   : \\mathcal{S}^{op} \\to \\mathbf{Poset}Pδ​:Sop→Poset with δ-curvature modality,
   Φ-lifting, Π-comprehension, etc.'
-heading: '**3\. δ-Geometry Hyperdoctrine as the Logic of Physics Projection**'
-id: GEN9-9127
-lines: 1560-1584
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-δ-geometry-hyperdoctrine-as-the-logic-of-physics-projection::b1
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- the internal predicate logic on the H-projection of δ-actions
+- Meta-Math
+- δ-stable image of Meta-Math inside Physics
+- →
+- δ-hyperdoctrine
+- Π-comprehension
+- H-projection
+- δ-geometric
+- δ-curvature
+- δ-actions
+- Φ-lifting
+- δ-stable
+- Π
+- Φ
+aliases:
+- Bk946rt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,31 @@
+id: GEN4-7738
+location: genesis-4/the-adjoint-triple::part-2-natural-transformations-between-them::1-projection-transformation-meta-time-physical-time::interpretation::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 391-405
+heading: '**Interpretation:**'
+parent_heading: '**1\. Projection Transformation (Meta-Time → Physical Time)**'
 block_type: list
-concepts:
-- Meta-Time
-- δ
-- η
 excerpt: '* Meta-Time is **pushed forward** through the structuring functor LLL *
   It becomes **physical time evolution** * The transformation η\\etaη *add structure*:'
-heading: '**Interpretation:**'
-id: GEN4-7738
-lines: 391-405
-location: genesis-4/the-adjoint-triple::part-2-natural-transformations-between-them::1-projection-transformation-meta-time-physical-time::interpretation::b1
-parent_heading: '**1\. Projection Transformation (Meta-Time → Physical Time)**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Meta-Time
+- η
+- δ-geometric
+- physical time evolution
+- δ
+- pushed forward
+aliases:
+- Bk872mt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.689655172413794
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

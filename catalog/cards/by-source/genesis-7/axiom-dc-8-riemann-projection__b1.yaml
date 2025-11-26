@@ -1,13 +1,30 @@
+id: GEN7-8665
+location: genesis-7/why-curvature-gives-gravity::iii-categorical-axioms::axiom-dc-8-riemann-projection::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 619-633
+heading: '**Axiom DC-8 — Riemann Projection**'
+parent_heading: '**III. CATEGORICAL AXIOMS**'
 block_type: paragraph
-concepts:
-- Lorentzian Riemannian Geom
-- δ
 excerpt: 'There exists a projection functor: PRiem:δ-Geom→(Lorentzian Riemannian Geom)\\mathcal{P}\_{\\mathrm{Riem}}:
   \\delta\\text{-Geom} \\to (\\text{Lorentzian Riemannian Geom})PRiem​:δ-Geom→(Lorentzian
   Riem...'
-heading: '**Axiom DC-8 — Riemann Projection**'
-id: GEN7-8665
-lines: 619-633
-location: genesis-7/why-curvature-gives-gravity::iii-categorical-axioms::axiom-dc-8-riemann-projection::b1
-parent_heading: '**III. CATEGORICAL AXIOMS**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Lorentzian Riemannian Geom
+- →
+- δ-Geom
+aliases:
+- Bk906te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.779661016949152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

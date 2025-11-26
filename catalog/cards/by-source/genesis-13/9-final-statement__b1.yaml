@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- Categorical Commutation Theorem
-- Theorem
-excerpt: (2-Categorical Commutation Theorem)\*\*
-heading: '**\*\*9. Final Statement**'
 id: GEN13-2437
-lines: 2395-2397
 location: genesis-13/the-weight-of-light::9-final-statement::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 2395-2397
+heading: '**\*\*9. Final Statement**'
+block_type: paragraph
+excerpt: (2-Categorical Commutation Theorem)\*\*
+concepts:
+- Theorem
+- Categorical Commutation Theorem
+aliases:
+- Bk726cc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

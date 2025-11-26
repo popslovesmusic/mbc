@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Genesis-Action
-excerpt: 'IGSOA \= the **monistic generator**, the **Genesis-Action engine**, the
-  **dynamic that fills the void created by NOT**. If NOT forbids zero, IGSOA provides:'
-heading: '**🔥 2\. IGSOA is the engine that expresses the NOT axiom**'
 id: SPEC-10981
-lines: 223-250
 location: special/specil::2-igsoa-is-the-engine-that-expresses-the-not-axiom::b1
 source: special\specil.md
+lines: 223-250
+heading: '**🔥 2\. IGSOA is the engine that expresses the NOT axiom**'
+block_type: paragraph
+excerpt: 'IGSOA \= the **monistic generator**, the **Genesis-Action engine**, the
+  **dynamic that fills the void created by NOT**. If NOT forbids zero, IGSOA provides:'
+concepts:
+- IGSOA
+- Deviation
+- dynamic that fills the void created by NOT
+- Genesis-Action engine
+- Genesis-Action
+- monistic generator
+aliases:
+- Bk295it
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

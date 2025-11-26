@@ -1,12 +1,32 @@
+id: GEN4-7907
+location: genesis-4/the-first-adjacency::2-formal-framework-from-adjacency-to-metric::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1671-1691
+heading: '**2\. Formal Framework — From Adjacency to Metric**'
 block_type: paragraph
+excerpt: 'We begin from what we already have: * A δ-adjacency graph A\\mathcal{A}A
+  * Meta-Time ordering Ψ0≺Ψ1≺Ψ2≺⋯\\Psi\_0 \\prec \\Psi\_1 \\prec \\Psi\_2 \\prec \\cdotsΨ0​≺Ψ1​≺Ψ2​≺⋯'
 concepts:
 - Meta-Time
 - Ψ
 - δ
-excerpt: 'We begin from what we already have: * A δ-adjacency graph A\\mathcal{A}A
-  * Meta-Time ordering Ψ0≺Ψ1≺Ψ2≺⋯\\Psi\_0 \\prec \\Psi\_1 \\prec \\Psi\_2 \\prec \\cdotsΨ0​≺Ψ1​≺Ψ2​≺⋯'
-heading: '**2\. Formal Framework — From Adjacency to Metric**'
-id: GEN4-7907
-lines: 1671-1691
-location: genesis-4/the-first-adjacency::2-formal-framework-from-adjacency-to-metric::b1
-source: genesis-4\The_First_Adjacency.md
+- δ-adjacency
+- δ-curvature
+- Symmetric local structure
+- Quantitative separation
+- Triangle consistency
+- δR
+aliases:
+- Bk997bf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.754098360655737
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

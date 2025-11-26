@@ -1,11 +1,36 @@
+id: GEN13-2610
+location: genesis-13/what-biology-is-in-meta-genesis::section-v4-π-compactness-lemma::lemma-v41-π-compactness::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2180-2206
+heading: '**Lemma V.4.1 (Π-Compactness).**'
+parent_heading: '**SECTION V.4 — Π-Compactness Lemma**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'Let PΠP\_\\PiPΠ​ be the Π-closure operator. If: Im⁡(PΠ)⊂H\\operatorname{Im}(P\_\\Pi)
   \\subset \\mathcal{H}Im(PΠ​)⊂H'
-heading: '**Lemma V.4.1 (Π-Compactness).**'
-id: GEN13-2610
-lines: 2180-2206
-location: genesis-13/what-biology-is-in-meta-genesis::section-v4-π-compactness-lemma::lemma-v41-π-compactness::b1
-parent_heading: '**SECTION V.4 — Π-Compactness Lemma**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- Projection
+- Proof
+- Lemma
+- finite-dimensional
+- ⊂
+- →
+- Π-closure
+- Π-energy
+- ΠP
+aliases:
+- Bk102lt
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.925373134328357
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

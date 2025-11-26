@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts:
-- Causal Sphere
-excerpt: 'Your **Causal Sphere of Influence** (CSOI) turns galaxy evolution into geometry:'
-heading: '**Ⅴ. CSOI-tail Interpretation**'
 id: GEN15-3251
-lines: 2534-2536
 location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-csoi-tail-interpretation::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2534-2536
+heading: '**Ⅴ. CSOI-tail Interpretation**'
+block_type: paragraph
+excerpt: 'Your **Causal Sphere of Influence** (CSOI) turns galaxy evolution into geometry:'
+concepts:
+- Causal Sphere of Influence
+- Causal Sphere
+aliases:
+- Bk067yc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

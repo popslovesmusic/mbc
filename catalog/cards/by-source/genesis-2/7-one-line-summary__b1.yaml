@@ -1,17 +1,41 @@
+id: GEN2-6383
+location: genesis-2/axioms-of-geometry-topos-compatible::7-one-line-summary::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1131-1144
+heading: '**7\. One-Line Summary**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Meta-Physics
-- Physics Axiom Box
-- Physics Axiom Stack
-- Φ
-- δ
 excerpt: '**Meta-Physics is the physical realization of Φ-Math:** **Φ generates the
   mathematics, and Meta-Physics is the projection of Φ-curvature, Φ-energy, and Φ-action
   into dynamical spacetime.** ---'
-heading: '**7\. One-Line Summary**'
-id: GEN2-6383
-lines: 1131-1144
-location: genesis-2/axioms-of-geometry-topos-compatible::7-one-line-summary::b1
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Φ
+- Axiom
+- Meta-Physics
+- →
+- A Meta-Physics Axiom Box
+- Proof
+- Box
+- δ
+- Φ-curvature
+- Φ-action
+- Φ-energy
+- Φ-Math
+- Physics Axiom Stack
+- Physics Axiom Box
+aliases:
+- Bk010mp
+tags:
+- axiom-box
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

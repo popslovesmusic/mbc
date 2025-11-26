@@ -1,14 +1,31 @@
+id: GEN8-8782
+location: genesis-8/meta-time-geometry-and-temporal-projection::3-temporal-projection-πₜ-how-physical-time-emerges::31-formal-definition::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 125-156
+heading: '**3.1 Formal Definition**'
+parent_heading: '**3\. Temporal Projection (πₜ) – How Physical Time Emerges**'
 block_type: paragraph
-concepts:
-- Meta-Temporal
-- Meta-Time
-- Two Meta
 excerpt: 'Let \~ be the equivalence relation: Two Meta-Temporal states Τ₁, Τ₂ are
   equivalent iff: They differ only by latent deviation that does not change measurable
   adjacency geometry.'
-heading: '**3.1 Formal Definition**'
-id: GEN8-8782
-lines: 125-156
-location: genesis-8/meta-time-geometry-and-temporal-projection::3-temporal-projection-πₜ-how-physical-time-emerges::31-formal-definition::b1
-parent_heading: '**3\. Temporal Projection (πₜ) – How Physical Time Emerges**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- Meta-Time
+- Τ
+- Meta-Temporal
+- Physical time
+- maximal quotient
+- Two Meta
+aliases:
+- Bk186lt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.741573033707865
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

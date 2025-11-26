@@ -1,12 +1,32 @@
+id: GEN1-541
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::6-higher-order-deviational-structure::axiom-61-deviational-mode-tower-δₙₘₖ::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 531-553
+heading: '**Axiom 6.1 — Deviational Mode Tower (δₙₘₖ).**'
+parent_heading: '**6\. Higher-Order Deviational Structure**'
 block_type: paragraph
-concepts:
-- Meta-Standard-Model
-- δ
 excerpt: 'The deviation operator has a hierarchical spectral decomposition: δ=∑n,m,kδnmk.\\delta
   \= \\sum\_{n,m,k} \\delta\_{nmk}.δ=n,m,k∑​δnmk​. These δ-modes encode:'
-heading: '**Axiom 6.1 — Deviational Mode Tower (δₙₘₖ).**'
-id: GEN1-541
-lines: 531-553
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::6-higher-order-deviational-structure::axiom-61-deviational-mode-tower-δₙₘₖ::b1
-parent_heading: '**6\. Higher-Order Deviational Structure**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- δ-geometry
+- Meta-Standard-Model
+- ∑
+- δ-bosons
+- δ-modes
+- δnmk
+aliases:
+- Bk954td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.666666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

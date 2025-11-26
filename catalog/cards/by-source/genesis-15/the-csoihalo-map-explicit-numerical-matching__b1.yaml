@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: (derive NFW parameters from δ-geometric invariants)
-heading: '**• The CSOI–Halo Map (explicit numerical matching)**'
 id: GEN15-3288
-lines: 486-488
 location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::if-you-want-the-next-layer::the-csoihalo-map-explicit-numerical-matching::b1
-parent_heading: '**If you want the next layer**'
 source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 486-488
+heading: '**• The CSOI–Halo Map (explicit numerical matching)**'
+parent_heading: '**If you want the next layer**'
+block_type: paragraph
+excerpt: (derive NFW parameters from δ-geometric invariants)
+concepts:
+- δ-geometric
+- δ
+aliases:
+- Bk716dn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

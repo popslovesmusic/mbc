@@ -1,12 +1,33 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'We now give the *complete δ-spectral triple* underlying ATP synthesis. Let:
-  * A\\mathcal{A}A: algebra of observables on the Π-preboundary ∂M\\partial M∂M'
-heading: '**SECTION III.1 — The δ-Spectral Triple for Bioenergetics**'
 id: GEN13-2565
-lines: 1467-1479
 location: genesis-13/what-biology-is-in-meta-genesis::section-iii1-the-δ-spectral-triple-for-bioenergetics::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1467-1479
+heading: '**SECTION III.1 — The δ-Spectral Triple for Bioenergetics**'
+block_type: paragraph
+excerpt: 'We now give the *complete δ-spectral triple* underlying ATP synthesis. Let:
+  * A\\mathcal{A}A: algebra of observables on the Π-preboundary ∂M\\partial M∂M'
+concepts:
+- δ
+- ∂
+- Π-preboundary
+- δ-deviation
+- δ-spectral
+- Π
+- Φ-mode
+- Φ
+- δD
+aliases:
+- Bk915ng
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

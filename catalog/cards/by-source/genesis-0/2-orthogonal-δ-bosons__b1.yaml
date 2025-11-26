@@ -1,12 +1,30 @@
+id: GEN0-120
+location: genesis-0/feynman-rules-interaction-vertices::iv-physical-interpretation::2-orthogonal-δ-bosons::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1764-1788
+heading: '**2\. Orthogonal δ-bosons**'
+parent_heading: '**IV. Physical interpretation**'
 block_type: paragraph
-concepts:
-- γ
-- δ
 excerpt: 'Modes orthogonal to uuu, satisfying: u(m)δ^⊥(m)=0,u^{(m)}\\hat\\delta\_\\perp^{(m)}
   \= 0,u(m)δ^⊥(m)​=0, have masses determined by adjacency:'
-heading: '**2\. Orthogonal δ-bosons**'
-id: GEN0-120
-lines: 1764-1788
-location: genesis-0/feynman-rules-interaction-vertices::iv-physical-interpretation::2-orthogonal-δ-bosons::b1
-parent_heading: '**IV. Physical interpretation**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- massive δ-boson spectrum
+- δ-boson
+- γ
+- Ξ
+aliases:
+- Bk016mo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,34 @@
-block_type: paragraph
-concepts:
-- relation
-- without
-- Ψ
-- δ
-excerpt: Before adjacency, there is no “next to.” No proximity, no separation, no
-  nearness, no farness. Ψ₀ is a perfectly smooth featureless sheet—
-heading: '**5\. Deep Intuition (Director’s Narrative)**'
 id: INTK-9875
-lines: 1546-1582
 location: intake/meta-genesis-core-papers-foundations::5-deep-intuition-directors-narrative::b1
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1546-1582
+heading: '**5\. Deep Intuition (Director’s Narrative)**'
+block_type: paragraph
+excerpt: Before adjacency, there is no “next to.” No proximity, no separation, no
+  nearness, no farness. Ψ₀ is a perfectly smooth featureless sheet—
+concepts:
+- Adjacency
+- How time will eventually flow
+- How particles will interact
+- How geometry will appear
+- δ
+- Ψ
+- How things can change
+- How forces will form
+- Where things can go
+- relation
+- Ψ₀
+aliases:
+- Bk273ba
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.322033898305085
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

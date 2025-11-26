@@ -1,14 +1,37 @@
+id: GEN14-2760
+location: genesis-14/inflation-structure-formation::proof::lemma-1-π-is-curvature-preserving-on-φ-fixed-inputs::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1744-1768
+heading: '**Lemma 1 — Π is curvature-preserving on Φ-fixed inputs**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- From Proof
-- Π
-- Φ
-- δ
 excerpt: 'From Proof 3, at Φ-fixed points: Φ(X)=X.\\Phi(X)=X.Φ(X)=X. Π preserves curvature
   magnitudes on Φ-stable objects by definition of the adjoint triple:'
-heading: '**Lemma 1 — Π is curvature-preserving on Φ-fixed inputs**'
-id: GEN14-2760
-lines: 1744-1768
-location: genesis-14/inflation-structure-formation::proof::lemma-1-π-is-curvature-preserving-on-φ-fixed-inputs::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- Π
+- δ
+- ∇
+- κ
+- Φ
+- Proof
+- Definition
+- Π-curvature
+- Φ-stable
+- Φ-fixed
+- From Proof
+aliases:
+- Bk248fp
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.34020618556701
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

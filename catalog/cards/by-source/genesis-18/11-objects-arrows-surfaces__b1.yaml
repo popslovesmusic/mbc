@@ -1,14 +1,33 @@
+id: GEN18-5254
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-i-strict-2-operad-globular-operad-for-δ-modes::1-the-δ-globular-base::11-objects-arrows-surfaces::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1600-1624
+heading: '**1.1 Objects, Arrows, Surfaces**'
+parent_heading: '**1\. The δ-Globular Base**'
 block_type: table
-concepts:
-- Π
-- Φ
-- α
-- δ
 excerpt: 'Source/target functions: s,t:G2→G1,s,t:G1→G0.s,t: G\_2 \\to G\_1,\\qquad
   s,t:G\_1\\to G\_0.s,t:G2​→G1​,s,t:G1​→G0​. These satisfy globular identities:'
-heading: '**1.1 Objects, Arrows, Surfaces**'
-id: GEN18-5254
-lines: 1600-1624
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-i-strict-2-operad-globular-operad-for-δ-modes::1-the-δ-globular-base::11-objects-arrows-surfaces::b1
-parent_heading: '**1\. The δ-Globular Base**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- α
+- →
+- IGSOA
+- adjacency-geometry
+- δ
+- δ-curvature
+- Π
+- Φ
+aliases:
+- Bk329si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.9259259259259265
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

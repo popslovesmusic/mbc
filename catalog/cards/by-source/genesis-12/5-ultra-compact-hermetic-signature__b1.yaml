@@ -1,16 +1,39 @@
+id: GEN12-1952
+location: genesis-12/untitled-document::5-ultra-compact-hermetic-signature::b1
+source: genesis-12\Untitled_document.md
+lines: 3552-3574
+heading: '**5\. Ultra-Compact Hermetic Signature**'
 block_type: paragraph
-concepts:
-- Box
-- Galaxy Diagram Stack Box
-- Tri-Unity
-- Π
-- Φ
-- δ
 excerpt: 'The version you place in a sealed box: Formation  ⇒  Evolution  ⇒  Observables=Π ⁣∘Φ2 ⁣∘Φ1(δ(t)).\\boxed{
   \\text{Formation}\\;\\Rightarrow\\;\\text{Evolution}\\;\\Rightarrow\\;\\text{Observables}
   \= \...'
-heading: '**5\. Ultra-Compact Hermetic Signature**'
-id: GEN12-1952
-lines: 3552-3574
-location: genesis-12/untitled-document::5-ultra-compact-hermetic-signature::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- Tri-Unity
+- A color-coded 3-level diagram for your Tri-Unity aesthetic
+- δ
+- IGSOA
+- Φ
+- A figure caption in formal manuscript tone
+- Box
+- Π
+- color-coded
+- LaTeX-ready
+- Galaxy Diagram Stack Box
+- δ₉
+- δ₃
+- δ₆
+aliases:
+- Bk458tv
+tags:
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.725490196078432
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

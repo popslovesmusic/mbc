@@ -1,11 +1,28 @@
+id: GEN13-2061
+location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-nuclear-pre-geometry::lemma-12-δ-multiplicity-lemma::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 731-743
+heading: '**Lemma 1.2 (δ-Multiplicity Lemma).**'
+parent_heading: '**1\. The δ-Layer: Nuclear Pre-Geometry**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The δ-eigenspaces EnE\_nEn​ satisfy dim⁡En=3n,\\dim E\_n \= 3n,dimEn​=3n,
   and every EnE\_nEn​ admits a natural 3-factorization:'
-heading: '**Lemma 1.2 (δ-Multiplicity Lemma).**'
-id: GEN13-2061
-lines: 731-743
-location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-nuclear-pre-geometry::lemma-12-δ-multiplicity-lemma::b1
-parent_heading: '**1\. The δ-Layer: Nuclear Pre-Geometry**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- ⊕
+- δ-eigenspaces
+- δ
+aliases:
+- Bk088te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.838709677419355
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

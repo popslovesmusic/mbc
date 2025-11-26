@@ -1,16 +1,32 @@
+id: GEN0-045
+location: genesis-0/feynman-rules-interaction-vertices::6-meta-einstein-equation-canonical-igsoa-form::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 575-591
+heading: '**6\. Meta-Einstein Equation (canonical IGSOA form)**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- deeper
-- projection
-- Φ
-- δ
-- σ
 excerpt: 'Gab=Tab(δ)+Tab(Φ)+Tab(σ)\\boxed{ \\mathcal{G}\_{ab} \= \\mathcal{T}\_{ab}^{(\\delta)}
   \+ \\mathcal{T}\_{ab}^{(\\Phi)} \+ \\mathcal{T}\_{ab}^{(\\sigma)} }Gab​=Tab(δ)​+Tab(Φ)​+Tab(σ)​​
   Where: * T(δ)\\ma...'
-heading: '**6\. Meta-Einstein Equation (canonical IGSOA form)**'
-id: GEN0-045
-lines: 575-591
-location: genesis-0/feynman-rules-interaction-vertices::6-meta-einstein-equation-canonical-igsoa-form::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- Meta-Time
+- δ
+- Φ
+- σ
+- π
+- δ-energy
+- deeper
+aliases:
+- Bk984gt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.216494845360824
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

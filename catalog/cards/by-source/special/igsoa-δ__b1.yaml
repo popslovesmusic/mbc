@@ -1,12 +1,25 @@
+id: SPEC-10964
+location: special/specil::igsoa-δ::b1
+source: special\specil.md
+lines: 10-17
+heading: '**❗ IGSOA ≠ δ**'
 block_type: paragraph
-concepts:
-- not
-- δ
 excerpt: '**δ is *not* the fundamental operator.** **IGSOA is the primordial monistic
   engine; δ is an emergent mode.** Let’s fix the hierarchy and then rewrite the equivalence
   theorem properly.'
-heading: '**❗ IGSOA ≠ δ**'
-id: SPEC-10964
-lines: 10-17
-location: special/specil::igsoa-δ::b1
-source: special\specil.md
+concepts:
+- IGSOA
+- Theorem
+- δ
+aliases:
+- Bk611nt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

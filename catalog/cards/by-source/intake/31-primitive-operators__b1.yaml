@@ -1,20 +1,36 @@
-block_type: table
-concepts:
-- Aggregative
-- Axiom
-- Axiom Enforcement
-- Expositive
-- Merge-Aggregator
-- Operator
-- Polarity Operator
-- Router Operator
-- Standard Formalism
-- Σ
-- λ
-excerpt: ''
-heading: '**3.1 Primitive Operators**'
 id: INTK-9708
-lines: 27-36
 location: intake/box-calculus-technical-introduction-dual-column-cross-referenced::box-calculus-technical-introduction-dual-column-cross-referenced::3-operator-primitives-the-heart-of-box-calculus::31-primitive-operators::b1
-parent_heading: '**3\. Operator Primitives (The Heart of Box Calculus)**'
 source: intake\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md
+lines: 27-36
+heading: '**3.1 Primitive Operators**'
+parent_heading: '**3\. Operator Primitives (The Heart of Box Calculus)**'
+block_type: table
+excerpt: ''
+concepts:
+- Operator
+- Polarity
+- IGSOA
+- Axiom
+- Router
+- NOT-Axiom Enforcement
+- Merge
+- Σ
+- Merge-Aggregator
+- non-triviality
+- monoid-like
+- NOT-Axiom
+- non-zero
+- λ
+- →
+aliases:
+- Bk255io
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.444444444444446
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

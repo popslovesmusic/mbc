@@ -1,10 +1,25 @@
+id: GEN9-9093
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-π-as-a-right-adjunct-to-φ-orbital-projection::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1040-1048
+heading: '**3\. Π as a Right Adjunct to Φ (Orbital Projection)**'
 block_type: paragraph
+excerpt: 'There exists an adjunction: Φ  ⊣  Π\\Phi \\;\\dashv\\; \\PiΦ⊣Π with'
 concepts:
 - Π
 - Φ
-excerpt: 'There exists an adjunction: Φ  ⊣  Π\\Phi \\;\\dashv\\; \\PiΦ⊣Π with'
-heading: '**3\. Π as a Right Adjunct to Φ (Orbital Projection)**'
-id: GEN9-9093
-lines: 1040-1048
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-π-as-a-right-adjunct-to-φ-orbital-projection::b1
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+aliases:
+- Bk628te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

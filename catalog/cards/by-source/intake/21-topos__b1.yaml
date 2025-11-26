@@ -1,12 +1,29 @@
+id: INTK-10461
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-scale-stack-s-an-topos::21-topos::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1612-1616
+heading: '**2.1. ∞-Topos**'
+parent_heading: '**2. The Scale-Stack (S): An ∞-Topos**'
 block_type: paragraph
-concepts:
-- Meta-Fields
 excerpt: 'An ∞-topos is a higher-categorical generalization of a topological space
   or a topos (category of sheaves). It allows for the rigorous treatment of: *   **Homotopy
   theory:** Paths, loops, and higher-di...'
-heading: '**2.1. ∞-Topos**'
-id: INTK-10461
-lines: 1612-1616
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-scale-stack-s-an-topos::21-topos::b1
-parent_heading: '**2. The Scale-Stack (S): An ∞-Topos**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- higher-dimensional
+- higher-categorical
+- Meta-Fields
+- ∞
+aliases:
+- Bk343th
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.2727272727272725
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

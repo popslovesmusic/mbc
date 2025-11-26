@@ -1,11 +1,31 @@
+id: GEN0-089
+location: genesis-0/feynman-rules-interaction-vertices::6-boxed-axiomtheorem-pair-drop-in-format::axiom-δ-projection-axiom::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1334-1342
+heading: '**Axiom (δ-Projection Axiom)**'
+parent_heading: '**6\. Boxed Axiom/Theorem Pair (drop-in format)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'There exists a projection π:D⊗D→TM⊗TM\\pi: D\\otimes D \\to T\\mathcal M
   \\otimes T\\mathcal Mπ:D⊗D→TM⊗TM such that'
-heading: '**Axiom (δ-Projection Axiom)**'
-id: GEN0-089
-lines: 1334-1342
-location: genesis-0/feynman-rules-interaction-vertices::6-boxed-axiomtheorem-pair-drop-in-format::axiom-δ-projection-axiom::b1
-parent_heading: '**6\. Boxed Axiom/Theorem Pair (drop-in format)**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- π
+- δ
+- ⊗
+- →
+- δa
+- δb
+aliases:
+- Bk219te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

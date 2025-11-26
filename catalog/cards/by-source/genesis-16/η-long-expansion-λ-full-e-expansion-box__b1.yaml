@@ -1,17 +1,35 @@
+id: GEN16-4117
+location: genesis-16/untitled-document::5-meta-analytic-correspondence::η-long-expansion-λ-full-e-expansion-box::b1
+source: genesis-16\Untitled_document.md
+lines: 4853-4866
+heading: '**η-long expansion (λ) ⇔ Full E-expansion (Box)**'
+parent_heading: '**⭐ 5\. META-ANALYTIC CORRESPONDENCE**'
 block_type: table
+excerpt: Everything matches **exactly**. ---
 concepts:
 - Box
-- Box Side
-- exactly
-- Γ
-- Π
-- β
 - η
 - λ
-excerpt: Everything matches **exactly**. ---
-heading: '**η-long expansion (λ) ⇔ Full E-expansion (Box)**'
-id: GEN16-4117
-lines: 4853-4866
-location: genesis-16/untitled-document::5-meta-analytic-correspondence::η-long-expansion-λ-full-e-expansion-box::b1
-parent_heading: '**⭐ 5\. META-ANALYTIC CORRESPONDENCE**'
-source: genesis-16\Untitled_document.md
+- E-expansion
+- E-expanded
+- Π-normal
+- Π
+- β
+- Γ
+- Box Side
+- exactly
+aliases:
+- Bk628sb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.448979591836736
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,31 @@
+id: GEN16-3874
+location: genesis-16/untitled-document::2-axiom-set-structure::axiom-iv-polarity-axiom-ubcas-vs-closure-axiom-box::b1
+source: genesis-16\Untitled_document.md
+lines: 1833-1848
+heading: '**Axiom IV (Polarity Axiom) — UBCAS vs. Closure Axiom Box**'
+parent_heading: '**2\. Axiom Set Structure**'
 block_type: table
-concepts:
-- Axiom
-- Box
-- Closure Axiom
-- Closure Axiom Box
-- Σ
 excerpt: '**UBCAS gives a *conservation law*.** **Closure Axiom gives a *composition
   law*.** Together:'
-heading: '**Axiom IV (Polarity Axiom) — UBCAS vs. Closure Axiom Box**'
-id: GEN16-3874
-lines: 1833-1848
-location: genesis-16/untitled-document::2-axiom-set-structure::axiom-iv-polarity-axiom-ubcas-vs-closure-axiom-box::b1
-parent_heading: '**2\. Axiom Set Structure**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Polarity
+- Axiom
+- Router
+- Box
+- Closure Axiom
+- Σ
+- Closure Axiom Box
+aliases:
+- Bk602uc
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.725490196078432
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

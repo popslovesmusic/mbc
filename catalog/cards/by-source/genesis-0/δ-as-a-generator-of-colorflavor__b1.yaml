@@ -1,12 +1,30 @@
+id: GEN0-006
+location: genesis-0/feynman-rules-interaction-vertices::2-fundamental-δ-interaction-vertices::c-δφ-chromatic-field-vertex::δ-as-a-generator-of-colorflavor::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 78-94
+heading: '**δ as a generator of color/flavor**'
+parent_heading: '**(C) δ–Φ (Chromatic Field) Vertex**'
 block_type: paragraph
+excerpt: 'L⊃gδΦ δ(m)Φ2\\mathcal{L}\\supset g\_{\\delta\\Phi}\\,\\delta^{(m)}\\Phi^2L⊃gδΦ​δ(m)Φ2
+  Feynman rule: VδΦΦ(m)=−2i gδΦ fmV\_{\\delta\\Phi\\Phi}^{(m)}=-2i\\,g\_{\\delta\\Phi}\\,f\_mVδΦΦ(m)​=−2igδΦ​fm​'
 concepts:
 - Φ
 - δ
-excerpt: 'L⊃gδΦ δ(m)Φ2\\mathcal{L}\\supset g\_{\\delta\\Phi}\\,\\delta^{(m)}\\Phi^2L⊃gδΦ​δ(m)Φ2
-  Feynman rule: VδΦΦ(m)=−2i gδΦ fmV\_{\\delta\\Phi\\Phi}^{(m)}=-2i\\,g\_{\\delta\\Phi}\\,f\_mVδΦΦ(m)​=−2igδΦ​fm​'
-heading: '**δ as a generator of color/flavor**'
-id: GEN0-006
-lines: 78-94
-location: genesis-0/feynman-rules-interaction-vertices::2-fundamental-δ-interaction-vertices::c-δφ-chromatic-field-vertex::δ-as-a-generator-of-colorflavor::b1
-parent_heading: '**(C) δ–Φ (Chromatic Field) Vertex**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+- chromatic-flavor fractal index
+- ⊃
+- chromatic-flavor
+aliases:
+- Bk358ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.617977528089887
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

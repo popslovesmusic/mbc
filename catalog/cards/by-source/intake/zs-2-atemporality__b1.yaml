@@ -1,12 +1,28 @@
+id: INTK-9763
+location: intake/meta-genesis-core-papers-foundations::1-formal-definition::definition-ψ₀-zero-state-ontological-substrate::zs-2-atemporality::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 258-264
+heading: '**(ZS-2) Atemporality**'
+parent_heading: '**Definition (Ψ₀): Zero State Ontological Substrate**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'There exists **no temporal ordering** on Ψ₀: ¬(∃ t)¬(∃ \<t)on Ψ0\\neg(\\exists\\,
   t) \\quad \\neg(\\exists\\, \<\_{t}) \\quad \\text{on}\\ \\Psi\_{0}¬(∃t)¬(∃\<t​)on
   Ψ0​ No sequence, no before/after, n...'
-heading: '**(ZS-2) Atemporality**'
-id: INTK-9763
-lines: 258-264
-location: intake/meta-genesis-core-papers-foundations::1-formal-definition::definition-ψ₀-zero-state-ontological-substrate::zs-2-atemporality::b1
-parent_heading: '**Definition (Ψ₀): Zero State Ontological Substrate**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- ∃
+- ¬
+- Ψ
+- no temporal ordering
+- Ψ₀
+aliases:
+- Bk159te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.157894736842104
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

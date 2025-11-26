@@ -1,15 +1,35 @@
+id: GEN5-8153
+location: genesis-5/the-ga-8-meta-einstein-theorem::zero-state-universe-minimal-derivation-flow::2-not-axiom-existence-of-deviation::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 343-351
+heading: '**2\. NOT Axiom (Existence of Deviation)**'
+parent_heading: '**ZERO STATE → UNIVERSE (MINIMAL DERIVATION FLOW)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Perfect Stillness
-- Ψ
-- δ
 excerpt: '**Axiom (NOT).** ¬(Perfect Stillness)⟹∃ δ:Ψ0→Ψ1\\neg(\\text{Perfect Stillness})
   \\quad\\Longrightarrow\\quad \\exists\\,\\delta: \\Psi\_0 \\to \\Psi\_1¬(Perfect
   Stillness)⟹∃δ:Ψ0​→Ψ1​ **Interpretation:...'
-heading: '**2\. NOT Axiom (Existence of Deviation)**'
-id: GEN5-8153
-lines: 343-351
-location: genesis-5/the-ga-8-meta-einstein-theorem::zero-state-universe-minimal-derivation-flow::2-not-axiom-existence-of-deviation::b1
-parent_heading: '**ZERO STATE → UNIVERSE (MINIMAL DERIVATION FLOW)**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- Ψ
+- Axiom
+- →
+- Perfect Stillness
+- ∃
+- δ
+- ¬
+- Ψ₀
+aliases:
+- Am424an
+tags:
+- axiom
+- conflicted
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.52941176470588
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,29 @@
+id: GEN7-8634
+location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::axiom-ls-4-genesis-closure::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 227-236
+heading: '**Axiom LS-4 (Genesis Closure)**'
+parent_heading: '**◼ LAW STABILITY AXIOM BOX**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'All realized deviations must be contained within the closure of the Genesis
   category: Im(δ)⊂Cl(Genesis).\\mathrm{Im}(\\delta) \\subset \\mathrm{Cl}(\\mathrm{Genesis}).Im(δ)⊂Cl(Genesis).
   Thus new modes...'
-heading: '**Axiom LS-4 (Genesis Closure)**'
-id: GEN7-8634
-lines: 227-236
-location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::axiom-ls-4-genesis-closure::b1
-parent_heading: '**◼ LAW STABILITY AXIOM BOX**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- ⊂
+- δ
+- law-breaking
+aliases:
+- Bk127ar
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.122448979591836
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

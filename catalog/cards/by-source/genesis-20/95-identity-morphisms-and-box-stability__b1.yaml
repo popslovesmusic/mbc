@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'In category theory: id\_A : A → A is a morphism that does nothing.'
-heading: 9.5 Identity Morphisms and Box Stability
 id: GEN20-6873
-lines: 2903-2920
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::95-identity-morphisms-and-box-stability::b1
-parent_heading: ✔️ Do you approve this companion structure?
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2903-2920
+heading: 9.5 Identity Morphisms and Box Stability
+parent_heading: ✔️ Do you approve this companion structure?
+block_type: paragraph
+excerpt: 'In category theory: id\_A : A → A is a morphism that does nothing.'
+concepts:
+- MBC
+- →
+- self-stabilizing
+- Π
+- δ
+- Φ
+aliases:
+- Bk921ct
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

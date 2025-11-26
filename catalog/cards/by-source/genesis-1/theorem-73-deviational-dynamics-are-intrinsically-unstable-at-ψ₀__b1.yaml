@@ -1,13 +1,30 @@
+id: GEN1-629
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::7-deviational-equilibrium-and-stability::theorem-73-deviational-dynamics-are-intrinsically-unstable-at-ψ₀::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1424-1435
+heading: '**Theorem 7.3 — Deviational Dynamics Are Intrinsically Unstable at Ψ₀.**'
+parent_heading: '**7\. Deviational Equilibrium and Stability**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: Ψ0 cannot satisfy the δ-Einstein equation.\\Psi\_0 \\text{ cannot satisfy
   the δ-Einstein equation.}Ψ0​ cannot satisfy the δ-Einstein equation. **Proof.**
   δ(Ψ0) is undefined⇒δ†δ(Ψ0) undefined⇒Ψ0 cannot...
-heading: '**Theorem 7.3 — Deviational Dynamics Are Intrinsically Unstable at Ψ₀.**'
-id: GEN1-629
-lines: 1424-1435
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::7-deviational-equilibrium-and-stability::theorem-73-deviational-dynamics-are-intrinsically-unstable-at-ψ₀::b1
-parent_heading: '**7\. Deviational Equilibrium and Stability**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Ψ
+- δ-Einstein
+- Proof
+- Ψ₀
+aliases:
+- Bk150cs
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.329113924050633
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

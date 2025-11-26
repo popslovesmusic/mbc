@@ -1,12 +1,29 @@
+id: GEN6-8406
+location: genesis-6/the-harmonic-spectral-triple::5-compact-resolvent-of-dδd-deltadδ::51-δ-harmonic-basis-diagonalizes-dδd-deltadδ::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 648-658
+heading: '**5.1 δ-harmonic basis diagonalizes DδD\_\\deltaDδ​**'
+parent_heading: '**5\. Compact resolvent of DδD\_\\deltaDδ​**'
 block_type: paragraph
-concepts:
-- Λ
-- δ
 excerpt: 'Each eigenvector satisfies: Dδψnmk=Λnmkψnmk.D\_\\delta\\psi\_{nmk}= \\Lambda\_{nmk}\\psi\_{nmk}.Dδ​ψnmk​=Λnmk​ψnmk​.
   Thus'
-heading: '**5.1 δ-harmonic basis diagonalizes DδD\_\\deltaDδ​**'
-id: GEN6-8406
-lines: 648-658
-location: genesis-6/the-harmonic-spectral-triple::5-compact-resolvent-of-dδd-deltadδ::51-δ-harmonic-basis-diagonalizes-dδd-deltadδ::b1
-parent_heading: '**5\. Compact resolvent of DδD\_\\deltaDδ​**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- ψ
+- δ
+- Λ
+- ∑
+aliases:
+- Bk195ee
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.30232558139535
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

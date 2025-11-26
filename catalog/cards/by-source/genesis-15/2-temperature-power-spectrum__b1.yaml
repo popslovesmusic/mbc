@@ -1,13 +1,28 @@
+id: GEN15-3202
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version-of-the-stack::2-temperature-power-spectrum::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1949-1951
+heading: '**2\. Temperature power spectrum**'
+parent_heading: '**Ⅲ. Operator-Theoretic Version of the Stack**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- λ
 excerpt: Cℓ=⟨∣aℓm∣2⟩=Π(λℓ∣Φℓ∣2).C\_\\ell \= \\langle |a\_{\\ell m}|^2\\rangle \= \\Pi\\left(\\lambda\_\\ell
   |\\Phi\_\\ell|^2\\right).Cℓ​=⟨∣aℓm​∣2⟩=Π(λℓ​∣Φℓ​∣2).
-heading: '**2\. Temperature power spectrum**'
-id: GEN15-3202
-lines: 1949-1951
-location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version-of-the-stack::2-temperature-power-spectrum::b1
-parent_heading: '**Ⅲ. Operator-Theoretic Version of the Stack**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Π
+- λ
+- Φ
+aliases:
+- Bk184el
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

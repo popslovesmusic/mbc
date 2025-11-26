@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: 'Fuses inputs that are different δ-patterns but same semantic meaning. This
-  requires: * metadata similarity checks'
-heading: B2.8 Synonym / Alignment Gate
 id: GEN20-7192
-lines: 7076-7086
 location: genesis-20/mbc-40-documentaitio-1::b28-synonym-alignment-gate::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7076-7086
+heading: B2.8 Synonym / Alignment Gate
+block_type: paragraph
+excerpt: 'Fuses inputs that are different δ-patterns but same semantic meaning. This
+  requires: * metadata similarity checks'
+concepts:
+- language-based
+- Φ-compatible
+- δ-patterns
+- δ
+- Φ
+aliases:
+- Bk153fi
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.51851851851852
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

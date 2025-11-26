@@ -1,11 +1,32 @@
+id: GEN6-8279
+location: genesis-6/spectral-triple-axiom-box-sealed-version::7-δ-first-order-axiom-s7::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 261-270
+heading: '**(7) δ-First-Order Axiom (S7)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'For a,b ∈ 𝒜δ: \[\[Dδ,a\],JδbJδ−1\]=\[∂δa,b∗\]=0\[\[\\mathcal{D}\_{\\delta},
   a\], J\_{\\delta} b J\_{\\delta}^{-1}\] \= \[\\partial\_{\\delta}a, b^{\*}\] \=
   0\[\[Dδ​,a\],Jδ​bJδ−1​\]=\[∂δ​a,b∗\]=0 becau...'
-heading: '**(7) δ-First-Order Axiom (S7)**'
-id: GEN6-8279
-lines: 261-270
-location: genesis-6/spectral-triple-axiom-box-sealed-version::7-δ-first-order-axiom-s7::b1
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- δ-multiplication
+- ∂
+- first-order
+- ∈
+- δbJ
+- δa
+aliases:
+- Bk144fm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

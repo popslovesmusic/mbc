@@ -1,21 +1,38 @@
+id: INTK-10404
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::δ-deviation::relationship-to-operators::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1252-1263
+heading: Relationship to Operators
+parent_heading: δ (Deviation)
 block_type: paragraph
-concepts:
-- Meta-Fractal
-- Meta-Math
-- Meta-Time
-- Operator
-- Operator Algebra
-- Scale Operator
-- Time Flow
-- Σ
-- δ
-- τ
 excerpt: 'The fundamental operators of Meta-Math act directly on the `δ` field: *   **Â
   (Ascension):** Drives `δ` outward across scales. *   **Ĥ (Holding):** Stabilizes
   `δ` configurations.'
-heading: Relationship to Operators
-id: INTK-10404
-lines: 1252-1263
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::δ-deviation::relationship-to-operators::b1
-parent_heading: δ (Deviation)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- δ
+- Meta-Math
+- Meta-Time
+- Operator
+- non-commutative
+- Meta-Fractal
+- non-locally
+- τ
+- Σ
+- Operator Algebra
+- Scale Operator
+- Time Flow
+aliases:
+- Bk326tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Box
-- Meta-Math
-excerpt: 'Both categories are monoidal: * ⊗\_BC * ⊗\_BC \= parallel Box composition'
-heading: ⭐ 6\. Coherence Conditions (Monoidal Structure)
 id: GEN17-4411
-lines: 3722-3771
 location: genesis-17/box-calculus::6-coherence-conditions-monoidal-structure::b1
 source: genesis-17\box_calculus.md
+lines: 3722-3771
+heading: ⭐ 6\. Coherence Conditions (Monoidal Structure)
+block_type: paragraph
+excerpt: 'Both categories are monoidal: * ⊗\_BC * ⊗\_BC \= parallel Box composition'
+concepts:
+- ⊗
+- Meta-Math
+- Box
+aliases:
+- Bk418bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.6548672566371683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

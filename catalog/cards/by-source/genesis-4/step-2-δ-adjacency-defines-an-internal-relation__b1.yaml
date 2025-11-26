@@ -1,15 +1,38 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Genesis Axiom Box
-- Meta-Causality
-- Ω
-- δ
-excerpt: 'In the Genesis Axiom Box, δ-adjacency is the morphism: X→δ(X).X \\to \\delta(X).X→δ(X).
-  Inside an ∞-topos, this is an element of the exponential object:'
-heading: '**Step 2 — δ-adjacency defines an internal relation**'
 id: GEN4-7649
-lines: 695-716
 location: genesis-4/meta-physics-axiom-box::step-2-δ-adjacency-defines-an-internal-relation::b1
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 695-716
+heading: '**Step 2 — δ-adjacency defines an internal relation**'
+block_type: paragraph
+excerpt: 'In the Genesis Axiom Box, δ-adjacency is the morphism: X→δ(X).X \\to \\delta(X).X→δ(X).
+  Inside an ∞-topos, this is an element of the exponential object:'
+concepts:
+- δ
+- →
+- Meta-Causality is an internal relation
+- Axiom
+- Definition
+- Box
+- δn
+- Ω
+- ∃
+- Meta-Causality
+- δ-adjacency
+- ∞
+- Genesis Axiom Box
+aliases:
+- Bk221tg
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.483870967741936
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

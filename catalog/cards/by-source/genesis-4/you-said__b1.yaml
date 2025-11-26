@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- The First Curvature
-- Why Deviation Bends Adjacency
-excerpt: The First Curvature (Why Deviation Bends Adjacency)
-heading: '**You said:**'
 id: GEN4-7886
-lines: 1289-1291
 location: genesis-4/the-first-adjacency::8-one-line-summary::you-said::b1
-parent_heading: '**8\. One-Line Summary**'
 source: genesis-4\The_First_Adjacency.md
+lines: 1289-1291
+heading: '**You said:**'
+parent_heading: '**8\. One-Line Summary**'
+block_type: paragraph
+excerpt: The First Curvature (Why Deviation Bends Adjacency)
+concepts:
+- Curvature
+- Deviation
+- Adjacency
+- Why Deviation Bends Adjacency
+- The First Curvature
+aliases:
+- Bk048tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 71.42857142857143
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

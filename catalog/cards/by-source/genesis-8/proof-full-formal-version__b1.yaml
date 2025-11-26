@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: We prove that **(1) ⇒ (2) ⇒ (3) ⇒ (1)**, forming a cycle of equivalence.
-  ---
-heading: '**◆ Proof (Full Formal Version)**'
 id: GEN8-8738
-lines: 538-542
 location: genesis-8/corollary-einstein-compatibility-via::proof-full-formal-version::b1
 source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 538-542
+heading: '**◆ Proof (Full Formal Version)**'
+block_type: paragraph
+excerpt: We prove that **(1) ⇒ (2) ⇒ (3) ⇒ (1)**, forming a cycle of equivalence.
+  ---
+aliases:
+- Bk902pt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

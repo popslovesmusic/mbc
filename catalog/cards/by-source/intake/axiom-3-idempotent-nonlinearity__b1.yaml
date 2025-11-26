@@ -1,13 +1,29 @@
+id: INTK-9945
+location: intake/meta-genesis-mathematical-papers::formalization-of-the-deviation-generated-subspace-hδmathcalh-deltahδ::1-pre-geometry-setup::axiom-3-idempotent-nonlinearity::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 30-38
+heading: '**Axiom 3 (Idempotent Nonlinearity).**'
+parent_heading: '**1\. Pre-Geometry Setup**'
 block_type: paragraph
-concepts:
-- inputs
-- δ
 excerpt: Although δ\\deltaδ is linear on *inputs*, its **iterates are not reducible**,
   i.e. δnX≢δX(n\>1).\\delta^n X \\not\\equiv \\delta X \\quad (n\>1).δnX≡δX(n\>1).
   This distinguishes deviation from a clas...
-heading: '**Axiom 3 (Idempotent Nonlinearity).**'
-id: INTK-9945
-lines: 30-38
-location: intake/meta-genesis-mathematical-papers::formalization-of-the-deviation-generated-subspace-hδmathcalh-deltahδ::1-pre-geometry-setup::axiom-3-idempotent-nonlinearity::b1
-parent_heading: '**1\. Pre-Geometry Setup**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- δ
+- iterates are not reducible
+- δnX
+- δX
+aliases:
+- Bk427al
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.30232558139535
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

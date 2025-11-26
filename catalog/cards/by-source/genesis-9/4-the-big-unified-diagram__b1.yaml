@@ -1,11 +1,36 @@
+id: GEN9-9128
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::4-the-big-unified-diagram::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1586-1606
+heading: '**4\. The Big Unified Diagram**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Here’s the whole structure as a commuting “tower”: G0→FM→HP δ↓↑i M→H∘δS\\begin{CD}
   \\mathcal{G}\_0 @\>F\>\> \\mathcal{M} @\>H\>\> \\mathcal{P} \\\\ @. @V\\delta VV
   @AA i A \\\\ @. \\mathcal{M} @\>\>H\...'
-heading: '**4\. The Big Unified Diagram**'
-id: GEN9-9128
-lines: 1586-1606
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::4-the-big-unified-diagram::b1
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- δ-geometry
+- Hyperdoctrine gives that world its internal δ-logic
+- →
+- Adjoint triple creates the physical world
+- where δ-geometry lives
+- two-layered system
+- two-layered
+- δ-stable
+- δ-logic
+- δS
+aliases:
+- Bk649ht
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.870967741935484
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

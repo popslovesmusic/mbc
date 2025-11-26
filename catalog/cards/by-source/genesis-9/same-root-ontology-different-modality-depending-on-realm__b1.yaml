@@ -1,16 +1,32 @@
-block_type: table
-concepts:
-- Genesis
-- Math
-- Mode
-- Physics
-- δ
-excerpt: 'A single invariant explains: * why zero-state universes cannot remain zero
-  * why logic has non-identity'
-heading: '**Same root ontology, different modality depending on realm:**'
 id: GEN9-9231
-lines: 390-418
 location: genesis-9/does-meta-genesis-indicate-new-physics::4-the-deep-insight-these-are-not-different-phenomena-they-are-different-modes-of-the-same-universal-δ::same-root-ontology-different-modality-depending-on-realm::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 390-418
+heading: '**Same root ontology, different modality depending on realm:**'
 parent_heading: '**4\. The Deep Insight: These Are Not Different Phenomena — They
   Are Different Modes of the Same Universal δ**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+block_type: table
+excerpt: 'A single invariant explains: * why zero-state universes cannot remain zero
+  * why logic has non-identity'
+concepts:
+- δ
+- Mode
+- non-identity
+- zero-state
+- not-exist
+- non-zero
+- Genesis
+- Physics
+- Math
+aliases:
+- Bk317rm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.465116279069768
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

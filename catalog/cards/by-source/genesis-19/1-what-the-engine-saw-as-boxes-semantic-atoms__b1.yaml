@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'It extracted concepts like: * first, second, third * fundamental, theorem,
-  calculus'
-heading: ✅ 1\. What the Engine Saw as Boxes (Semantic Atoms)
 id: GEN19-6190
-lines: 2202-2213
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::1-what-the-engine-saw-as-boxes-semantic-atoms::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2202-2213
+heading: ✅ 1\. What the Engine Saw as Boxes (Semantic Atoms)
+block_type: paragraph
+excerpt: 'It extracted concepts like: * first, second, third * fundamental, theorem,
+  calculus'
+concepts:
+- Theorem
+aliases:
+- Bk861ec
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.4390243902439024
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

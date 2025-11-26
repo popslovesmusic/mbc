@@ -1,11 +1,25 @@
+id: GEN18-5634
+location: genesis-18/sealed-axiom-box::if-you-want-next-i-can-generate::the-sealed-π-kan-extension-closure-box::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 433-437
+heading: '**📦 The Sealed Π-Kan Extension Closure Box**'
+parent_heading: '**If you want next, I can generate:**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: (proving Π’s uniqueness from left Kan universality) Which one should I generate
   next?
-heading: '**📦 The Sealed Π-Kan Extension Closure Box**'
-id: GEN18-5634
-lines: 433-437
-location: genesis-18/sealed-axiom-box::if-you-want-next-i-can-generate::the-sealed-π-kan-extension-closure-box::b1
-parent_heading: '**If you want next, I can generate:**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- Π
+aliases:
+- Bk751pu
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,29 @@
+id: GEN19-6176
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-now-deliver::what-i-can-do-next-without-asking-you-more-questions::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1872-1882
+heading: What I can do next (without asking you more questions)
+parent_heading: 'If you want, I can now deliver:'
 block_type: paragraph
-concepts: []
 excerpt: 'I can push this into any of these directions right away: 1. Use your text
   as input and run the same simulation live. 2. Add multi-polarity channels so slopes
   become explicit tensors.'
-heading: What I can do next (without asking you more questions)
-id: GEN19-6176
-lines: 1872-1882
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-now-deliver::what-i-can-do-next-without-asking-you-more-questions::b1
-parent_heading: 'If you want, I can now deliver:'
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- MBC
+- peakset-inside-peakset
+- multi-polarity
+aliases:
+- Bk293cp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 3.488372093023256
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,29 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Monoidal Category
-excerpt: '(Box Calculus → A Monoidal Category / 2-Category) Box Calculus already hints
-  at: * Objects → Boxes'
-heading: '**2\. Expansion Direction II: Category-Theoretic Completion**'
 id: GEN16-3907
-lines: 2236-2250
 location: genesis-16/untitled-document::2-expansion-direction-ii-category-theoretic-completion::b1
 source: genesis-16\Untitled_document.md
+lines: 2236-2250
+heading: '**2\. Expansion Direction II: Category-Theoretic Completion**'
+block_type: paragraph
+excerpt: '(Box Calculus → A Monoidal Category / 2-Category) Box Calculus already hints
+  at: * Objects → Boxes'
+concepts:
+- Box Calculus
+- →
+- Adjacency
+- Box
+- Monoidal Category
+aliases:
+- Bk488bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.833333333333336
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

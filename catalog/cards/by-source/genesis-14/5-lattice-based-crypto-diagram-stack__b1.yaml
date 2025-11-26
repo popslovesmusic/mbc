@@ -1,14 +1,33 @@
-block_type: paragraph
-concepts:
-- Dimensional Lattice Projection
-- High-Dimensional
-- Public Key
-- Π
-- Φ
-- δ
-excerpt: '*(Post-quantum systems: Kyber, Dilithium)* `δ-secret short vector s` `│`'
-heading: '**5\. LATTICE-BASED CRYPTO DIAGRAM STACK**'
 id: GEN14-2854
-lines: 920-937
 location: genesis-14/meta-math-and-cryptography::5-lattice-based-crypto-diagram-stack::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 920-937
+heading: '**5\. LATTICE-BASED CRYPTO DIAGRAM STACK**'
+block_type: paragraph
+excerpt: '*(Post-quantum systems: Kyber, Dilithium)* `δ-secret short vector s` `│`'
+concepts:
+- Projection
+- δ
+- High-Dimensional
+- high-dimensional
+- Dimensional Lattice Projection
+- matrix-vector
+- Post-quantum
+- δ-secret
+- Π
+- Φ
+- Public Key
+aliases:
+- Bk167pq
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.404255319148938
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

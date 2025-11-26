@@ -1,15 +1,32 @@
+id: INTK-10000
+location: intake/meta-genesis-mathematical-papers::3-projection-to-meta-time::definition-meta-time-projection::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 879-906
+heading: '**Definition: Meta-Time Projection**'
+parent_heading: '**3\. Projection to Meta-Time**'
 block_type: paragraph
-concepts:
-- Cole-Turner
-- Linearity
-- Minimality
-- Ψ
-- δ
 excerpt: 'A functor πT:(A,⪯) ↦ T\\pi\_T : (A,\\preceq)\\ \\mapsto\\ \\mathbb{T}πT​:(A,⪯)
   ↦ T such that:'
-heading: '**Definition: Meta-Time Projection**'
-id: INTK-10000
-lines: 879-906
-location: intake/meta-genesis-mathematical-papers::3-projection-to-meta-time::definition-meta-time-projection::b1
-parent_heading: '**3\. Projection to Meta-Time**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- π
+- δ
+- Ψ
+- Compatibility with deviation grades
+- δn
+- ≤
+- Cole-Turner
+- Order preservation
+- Minimality
+- Linearity
+aliases:
+- Bk331fp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.264462809917356
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

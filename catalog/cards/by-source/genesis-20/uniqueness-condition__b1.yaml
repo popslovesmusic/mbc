@@ -1,12 +1,30 @@
+id: GEN20-7134
+location: genesis-20/mbc-40-documentaitio-1::a31-φ-stability-the-fundamental-coherence-condition::uniqueness-condition::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5942-5968
+heading: Uniqueness Condition
+parent_heading: 'A3.1 Φ-Stability: The Fundamental Coherence Condition'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'If multiple Φ-states are possible (e.g., under ambiguity), Φ must: * either
   converge to a single stable structure * or represent the ambiguity internally as
   a structured Φ-superposition'
-heading: Uniqueness Condition
-id: GEN20-7134
-lines: 5942-5968
-location: genesis-20/mbc-40-documentaitio-1::a31-φ-stability-the-fundamental-coherence-condition::uniqueness-condition::b1
-parent_heading: 'A3.1 Φ-Stability: The Fundamental Coherence Condition'
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Φ
+- ∃
+- Φ-superposition
+- multi-input
+- Φ-states
+aliases:
+- Bk884ms
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.352941176470589
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Graphs that compute properties about themselves.
-heading: '**8.2. Self-Evaluating Graphs**'
 id: GEN16-3933
-lines: 2448-2450
 location: genesis-16/untitled-document::8-expansion-direction-viii-meta-calculus-self-referential-layer::82-self-evaluating-graphs::b1
+source: genesis-16\Untitled_document.md
+lines: 2448-2450
+heading: '**8.2. Self-Evaluating Graphs**'
 parent_heading: '**⭐ 8\. Expansion Direction VIII: Meta-Calculus (Self-Referential
   Layer)**'
-source: genesis-16\Untitled_document.md
+block_type: paragraph
+excerpt: Graphs that compute properties about themselves.
+aliases:
+- Bk952gt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

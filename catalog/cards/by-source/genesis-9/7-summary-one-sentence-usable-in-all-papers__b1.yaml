@@ -1,16 +1,36 @@
+id: GEN9-9062
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::7-summary-one-sentence-usable-in-all-papers::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 511-524
+heading: '**7\. Summary (one sentence usable in all papers)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Orbital Origins
-- Φ
-- δ
 excerpt: '**Quantum mechanics derives orbitals from the geometry of space, while IGSOA
   derives space—and its orbitals—from the internal harmonic structure of δ.** ---
   If you want, I can now produce:'
-heading: '**7\. Summary (one sentence usable in all papers)**'
-id: GEN9-9062
-lines: 511-524
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::7-summary-one-sentence-usable-in-all-papers::b1
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- IGSOA
+- Axiom
+- Box
+- δ
+- Φ
+- Φ-mode
+- →
+- Orbital Origins
+- Axiom Box
+aliases:
+- Bk207qm
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.32876712328767
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

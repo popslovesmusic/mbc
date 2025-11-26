@@ -1,15 +1,31 @@
+id: GEN9-9583
+location: genesis-9/strong-force::sealed-axiom-box-electromagnetism-emf-emergence-δ-φ-u1::axiom-em-7-electromotive-force-emf::b1
+source: genesis-9\strong-force.md
+lines: 2506-2516
+heading: '**Axiom EM-7: Electromotive Force (EMF)**'
+parent_heading: '**⬛ SEALED AXIOM BOX — Electromagnetism & EMF Emergence (δ → Φ →
+  U(1))**'
 block_type: paragraph
-concepts:
-- Φ
-- γ
-- δ
 excerpt: 'Electromotive force is the U(1)-covariant potential difference around a
   closed curve: E=∮γF(EM).\\boxed{ \\mathcal{E} \= \\oint\_{\\gamma} F^{(EM)}. }E=∮γ​F(EM).​
   Thus:'
-heading: '**Axiom EM-7: Electromotive Force (EMF)**'
-id: GEN9-9583
-lines: 2506-2516
-location: genesis-9/strong-force::sealed-axiom-box-electromagnetism-emf-emergence-δ-φ-u1::axiom-em-7-electromotive-force-emf::b1
-parent_heading: '**⬛ SEALED AXIOM BOX — Electromagnetism & EMF Emergence (δ → Φ →
-  U(1))**'
-source: genesis-9\strong-force.md
+concepts:
+- Φ-projected
+- δ-torsion
+- δ
+- Φ
+- γ
+aliases:
+- Bk900ef
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

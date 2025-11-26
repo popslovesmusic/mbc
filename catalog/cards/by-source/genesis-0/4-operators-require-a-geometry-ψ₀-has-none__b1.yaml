@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Φ
-- Ψ
-- δ
-excerpt: 'Think of any operator you know: * ∂/∂x (needs coordinates) * ∇ (needs a
-  metric)'
-heading: '**4\. Operators Require a Geometry. Ψ₀ Has None.**'
 id: GEN0-287
-lines: 516-561
 location: genesis-0/why-the-first-action-is-necessary::4-operators-require-a-geometry-ψ₀-has-none::b1
 source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 516-561
+heading: '**4\. Operators Require a Geometry. Ψ₀ Has None.**'
+block_type: paragraph
+excerpt: 'Think of any operator you know: * ∂/∂x (needs coordinates) * ∇ (needs a
+  metric)'
+concepts:
+- ∂
+- Ψ
+- mode-spectrum
+- δ
+- Φ
+- ∇
+- Ψ₀
+aliases:
+- Bk185ta
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: true
+concept_density: 6.25
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

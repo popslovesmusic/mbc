@@ -1,14 +1,36 @@
-block_type: paragraph
-concepts:
-- triaxial
-- Λ
-- δ
-excerpt: 'This theorem explains: * why halos are **not spherical** * why they are
-  **triaxial**'
+id: GEN15-3351
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::the-δhalo-morphology-theorem::why-igsoa-predicts-halo-shapes-triaxiality-anisotropy-and-the-massconcentration-relation-directly-from-δ-geometry::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1469-1487
 heading: '***Why IGSOA predicts halo shapes, triaxiality, anisotropy, and the mass–concentration
   relation directly from δ-geometry.***'
-id: GEN15-3351
-lines: 1469-1487
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::the-δhalo-morphology-theorem::why-igsoa-predicts-halo-shapes-triaxiality-anisotropy-and-the-massconcentration-relation-directly-from-δ-geometry::b1
 parent_heading: '**The δ–Halo Morphology Theorem**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+block_type: paragraph
+excerpt: 'This theorem explains: * why halos are **not spherical** * why they are
+  **triaxial**'
+concepts:
+- IGSOA
+- Theorem
+- δ-adjacency geometry
+- δ-adjacency
+- same morphology trends
+- δ
+- Λ
+- →
+- not spherical
+- triaxial
+aliases:
+- Bk094tt
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.24137931034483
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

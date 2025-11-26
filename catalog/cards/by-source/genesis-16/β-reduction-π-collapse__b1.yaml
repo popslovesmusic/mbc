@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**β-reduction ↔ Π-collapse**'
 id: GEN16-4083
-lines: 4417-4419
 location: genesis-16/untitled-document::1-mapping-the-syntax::β-reduction-π-collapse::b1
-parent_heading: '**⭐ 1\. Mapping the Syntax**'
 source: genesis-16\Untitled_document.md
+lines: 4417-4419
+heading: '**β-reduction ↔ Π-collapse**'
+parent_heading: '**⭐ 1\. Mapping the Syntax**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

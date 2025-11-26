@@ -1,13 +1,29 @@
+id: GEN12-1613
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-φ-π-projection-to-geometry::axiom-π1-existence-of-projection::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1272-1280
+heading: '**Axiom Π1 (Existence of Projection).**'
+parent_heading: '**⟡ SEALED AXIOM BOX — Φ → Π (Projection to Geometry) ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'There exists a functor Π:Φ→Geom\\Pi : \\Phi \\rightarrow \\mathsf{Geom}Π:Φ→Geom
   mapping harmonic modes to geometric modes, where 𝔾𝑒𝑜𝑚 is the category of geometric
   structures (metrics, curvature patche...'
-heading: '**Axiom Π1 (Existence of Projection).**'
-id: GEN12-1613
-lines: 1272-1280
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-φ-π-projection-to-geometry::axiom-π1-existence-of-projection::b1
-parent_heading: '**⟡ SEALED AXIOM BOX — Φ → Π (Projection to Geometry) ⟡**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- Φ
+- →
+aliases:
+- Bk795te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

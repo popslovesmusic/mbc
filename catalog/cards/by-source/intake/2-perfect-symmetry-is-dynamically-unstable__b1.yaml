@@ -1,12 +1,28 @@
+id: INTK-10107
+location: intake/meta-genesis-physical-interpretation-papers::2-perfect-symmetry-is-dynamically-unstable::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 481-500
+heading: '**2\. Perfect Symmetry Is Dynamically Unstable**'
 block_type: paragraph
-concepts:
-- Axiom
-- Ψ
 excerpt: Ψ₀ is defined as having no distinctions — a complete symmetry. But in physics
   and mathematics, perfect symmetry is never stable unless something enforces it.
   Ψ₀ has nothing to enforce anything.
-heading: '**2\. Perfect Symmetry Is Dynamically Unstable**'
-id: INTK-10107
-lines: 481-500
-location: intake/meta-genesis-physical-interpretation-papers::2-perfect-symmetry-is-dynamically-unstable::b1
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Axiom
+- Ψ
+- Ψ₀
+- NOT Axiom
+aliases:
+- Bk079dh
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.128205128205128
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

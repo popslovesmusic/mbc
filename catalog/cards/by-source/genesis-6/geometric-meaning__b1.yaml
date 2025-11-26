@@ -1,12 +1,34 @@
+id: GEN6-8372
+location: genesis-6/the-harmonic-spectral-triple::3-dirac-like-operator-dδd-deltadδ::geometric-meaning::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 88-97
+heading: '**Geometric meaning**'
+parent_heading: '**3\. Dirac-Like Operator DδD\_\\deltaDδ​**'
 block_type: list
-concepts:
-- δ
 excerpt: '* The commutator with algebra elements defines the δ-metric: \[Dδ,a\]measures
   the “δ-gradient” of a.\[D\_\\delta, a\] \\quad\\text{measures the “δ-gradient” of
   } a.\[Dδ​,a\]measures the “δ-gradient” o...'
-heading: '**Geometric meaning**'
-id: GEN6-8372
-lines: 88-97
-location: genesis-6/the-harmonic-spectral-triple::3-dirac-like-operator-dδd-deltadδ::geometric-meaning::b1
-parent_heading: '**3\. Dirac-Like Operator DδD\_\\deltaDδ​**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- δ
+- Adjacency
+- δ-gradient
+- Theorem
+- ≤
+- ∈
+- δ-metric
+- →
+aliases:
+- Bk057tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.766990291262135
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Your agent must do the following:'
-heading: '**When merging Meta-Genesis → Meta-Math text:**'
 id: INTK-9691
-lines: 648-650
 location: intake/axioms-geometry::section-8-integration-rules-for-your-writing-agents::when-merging-meta-genesis-meta-math-text::b1
-parent_heading: '**Section 8 — Integration Rules for Your Writing Agents**'
 source: intake\Axioms-geometry.md
+lines: 648-650
+heading: '**When merging Meta-Genesis → Meta-Math text:**'
+parent_heading: '**Section 8 — Integration Rules for Your Writing Agents**'
+block_type: paragraph
+excerpt: 'Your agent must do the following:'
+aliases:
+- Bk572ya
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

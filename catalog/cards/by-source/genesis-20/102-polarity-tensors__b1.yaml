@@ -1,11 +1,27 @@
+id: GEN20-6886
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::102-polarity-tensors::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3110-3116
+heading: 10.2 Polarity Tensors
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'We define a polarity tensor Θ⃗ to represent the directional influence profile
   of a box. For a box with n incoming influences: Θ⃗ \= (Θ₁, Θ₂, … , Θₙ)'
-heading: 10.2 Polarity Tensors
-id: GEN20-6886
-lines: 3110-3116
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::102-polarity-tensors::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Θ
+- context-dependent
+aliases:
+- Bk905dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

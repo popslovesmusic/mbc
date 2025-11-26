@@ -1,8 +1,21 @@
-block_type: paragraph
-concepts: []
-excerpt: A? B? C? D? E? Or your own version?
-heading: ⭐ Which form should the monistic operator 𝓕 take?
 id: GEN17-4686
-lines: 8068-8070
 location: genesis-17/box-calculus::which-form-should-the-monistic-operator-𝓕-take::b1
 source: genesis-17\box_calculus.md
+lines: 8068-8070
+heading: ⭐ Which form should the monistic operator 𝓕 take?
+block_type: paragraph
+excerpt: A? B? C? D? E? Or your own version?
+aliases:
+- Bk577yo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

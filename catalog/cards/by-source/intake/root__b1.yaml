@@ -1,26 +1,40 @@
-block_type: paragraph
-concepts:
-- Basis Decomposition
-- "Basis Semantic Wave Equation  \nSubstitute"
-- Box
-- Box Calculus
-- Box Calculus Composition
-- "Box Calculus Language\tStandard Mathematics"
-- Box Calculus Semantic
-- "Box Calculus Term\tStandard"
-- Box Field
-- "Box Field  \nExpand"
-- 'Canonical Equations
-
-
-  The Semantic Wave Equation'
-- Column Introduction
-- Column Legend
-- Column Overview
-- Column Setup
-excerpt: 'Skip to content Chat history You said:'
-heading: (root)
 id: INTK-10208
-lines: 1-4268
 location: intake/skip-to-content::root::b1
 source: intake\Skip to content.md
+lines: 1-4268
+heading: (root)
+block_type: paragraph
+excerpt: 'Skip to content Chat history You said:'
+concepts:
+- δ
+- μ
+- Φ
+- Π
+- ∂
+- χ
+- IGSOA
+- ψ
+- Box
+- ⊕
+- ∇
+- λ
+- ∑
+- MBC
+- Theorem
+aliases:
+- Bk712sc
+tags:
+- qualified
+- conflicted
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 1.4336917562724014
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

@@ -1,12 +1,28 @@
+id: GEN16-4137
+location: genesis-16/untitled-document::5-the-full-embedding::formulas-boxes::b1
+source: genesis-16\Untitled_document.md
+lines: 5104-5110
+heading: '**Formulas ↦ Boxes**'
+parent_heading: '**⭐ 5\. The Full Embedding**'
 block_type: list
-concepts:
-- Box
-- Σ
 excerpt: '* atomic A ↦ Box with Σ\_A * A ⊗ B ↦ Box product BA×BBB\_A \\times B\_BBA​×BB​
   * A ⊸ B ↦ exponential Box BBBAB\_B^{B\_A}BBBA​​'
-heading: '**Formulas ↦ Boxes**'
-id: GEN16-4137
-lines: 5104-5110
-location: genesis-16/untitled-document::5-the-full-embedding::formulas-boxes::b1
-parent_heading: '**⭐ 5\. The Full Embedding**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Box
+- ⊗
+- Σ
+aliases:
+- Bk081ab
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

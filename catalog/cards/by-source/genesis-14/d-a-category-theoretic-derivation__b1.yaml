@@ -1,10 +1,25 @@
+id: GEN14-2842
+location: genesis-14/meta-math-and-cryptography::9-conclusions-and-implications::d-a-category-theoretic-derivation::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 770-774
+heading: '**D. A category-theoretic derivation**'
+parent_heading: '**9\. Conclusions and Implications**'
 block_type: paragraph
-concepts: []
 excerpt: formalizing cryptography as non-invertible morphisms in a fibred topos. Which
   one next?
-heading: '**D. A category-theoretic derivation**'
-id: GEN14-2842
-lines: 770-774
-location: genesis-14/meta-math-and-cryptography::9-conclusions-and-implications::d-a-category-theoretic-derivation::b1
-parent_heading: '**9\. Conclusions and Implications**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- non-invertible
+aliases:
+- Bk970fc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

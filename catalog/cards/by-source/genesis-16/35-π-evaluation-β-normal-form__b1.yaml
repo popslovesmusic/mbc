@@ -1,17 +1,32 @@
+id: GEN16-4094
+location: genesis-16/untitled-document::3-explicit-translation-box-λ::35-π-evaluation-β-normal-form::b1
+source: genesis-16\Untitled_document.md
+lines: 4542-4548
+heading: '**⭐ 3.5 Π-evaluation → β-normal-form**'
+parent_heading: '**⭐ 3\. Explicit Translation Box → λ**'
 block_type: paragraph
-concepts:
-- Box
-- Thus Box
-- Λ
-- Π
-- β
-- λ
 excerpt: Λ(Π(B))=Λ(B) in β-normal form\\Lambda(\\Pi(B)) \= \\Lambda(B) \\text{ in
   β-normal form}Λ(Π(B))=Λ(B) in β-normal form Thus Box evaluation produces the λ-normal
   form. ---
-heading: '**⭐ 3.5 Π-evaluation → β-normal-form**'
-id: GEN16-4094
-lines: 4542-4548
-location: genesis-16/untitled-document::3-explicit-translation-box-λ::35-π-evaluation-β-normal-form::b1
-parent_heading: '**⭐ 3\. Explicit Translation Box → λ**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Λ
+- β
+- Box
+- Π
+- λ
+- Thus Box
+aliases:
+- Bk110nf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

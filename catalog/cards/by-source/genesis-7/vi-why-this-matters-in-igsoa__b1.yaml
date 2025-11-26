@@ -1,12 +1,36 @@
+id: GEN7-8699
+location: genesis-7/why-curvature-gives-gravity::vi-why-this-matters-in-igsoa::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 1213-1226
+heading: '**◼ VI. Why This Matters in IGSOA**'
 block_type: list
-concepts:
-- Meta-Einstein
-- δ
 excerpt: 1. **δ-curvature is encoded purely in DδD\_\\deltaDδ​.** The entire geometric
   content appears as the commutator structure of δ-Dirac. 2. **Atomic orbitals** arise
   from the low-energy spectrum of Dδ2D\...
-heading: '**◼ VI. Why This Matters in IGSOA**'
-id: GEN7-8699
-lines: 1213-1226
-location: genesis-7/why-curvature-gives-gravity::vi-why-this-matters-in-igsoa::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Meta-Einstein
+- Meta-Einstein equations
+- δ-boson mass spectrum
+- δ-EFT Lagrangian
+- δ-curvature
+- low-energy
+- δ-boson
+- δ-Dirac
+- δ-EFT
+- Atomic orbitals
+- δD
+aliases:
+- Bk095ce
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.903225806451612
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

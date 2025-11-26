@@ -1,16 +1,33 @@
+id: GEN4-7589
+location: genesis-4/meta-physics-axiom-box::meta-physics-axiom-box::0-ontological-substrate-axiom-osa::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 6-25
+heading: '**0\. Ontological Substrate Axiom (OSA)**'
+parent_heading: '**META-PHYSICS AXIOM BOX**'
 block_type: paragraph
-concepts:
-- Adjacency Potential
-- Non-Temporal
-- The Zero
-- Zero-State
-- not
-- Ψ
 excerpt: 'There exists a distinguished object Ψ0∈MetaPhys\\Psi\_{0}\\in \\mathbf{MetaPhys}Ψ0​∈MetaPhys
   called the **Zero-State**, satisfying:'
-heading: '**0\. Ontological Substrate Axiom (OSA)**'
-id: GEN4-7589
-lines: 6-25
-location: genesis-4/meta-physics-axiom-box::meta-physics-axiom-box::0-ontological-substrate-axiom-osa::b1
-parent_heading: '**META-PHYSICS AXIOM BOX**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Ψ
+- Adjacency
+- State
+- Zero-State
+- ∈
+- ∞
+- unbounded curvature potential
+- Non-Temporal
+- Adjacency Potential
+- The Zero
+- not
+aliases:
+- Bk641te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.222222222222221
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

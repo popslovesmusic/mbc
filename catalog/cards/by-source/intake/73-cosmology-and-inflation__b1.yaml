@@ -1,12 +1,28 @@
+id: INTK-10221
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::7-key-implications-for-unification::73-cosmology-and-inflation::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 123-128
+heading: '**7.3 Cosmology and Inflation**'
+parent_heading: '**7. Key Implications for Unification**'
 block_type: list
-concepts:
-- δ
 excerpt: '*   The cosmological constant arises naturally from the vacuum energy of
   the deviation field. *   Inflationary epochs correspond to phases of rapid δ-condensation
   and subsequent bifurcation in the ear...'
-heading: '**7.3 Cosmology and Inflation**'
-id: INTK-10221
-lines: 123-128
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::7-key-implications-for-unification::73-cosmology-and-inflation::b1
-parent_heading: '**7. Key Implications for Unification**'
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- δ-condensation
+- δ
+aliases:
+- Bk451tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

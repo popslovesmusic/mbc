@@ -1,19 +1,40 @@
+id: INTK-10665
+location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::part-5-the-ontological-flow::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1587-1599
+heading: 'Part 5: The Ontological Flow'
+parent_heading: Summary of Foundational Concepts
 block_type: paragraph
-concepts:
-- Causal History
-- Dependent Mode
-- Mode
-- Mono-Force
-- Ontological Activity
-- Probability Slope
-- Zero State
-- δ
 excerpt: The axioms and the computational process combine to create a clear, step-by-step
   flow of emergence, from pure potential to realized history. 1.  **IGSOA:** The process
   begins with the single, flawed m...
-heading: 'Part 5: The Ontological Flow'
-id: INTK-10665
-lines: 1587-1599
-location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::part-5-the-ontological-flow::b1
-parent_heading: Summary of Foundational Concepts
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Deviation
+- IGSOA
+- State
+- Mode
+- meta-operator
+- step-by-step
+- Mono-Force
+- non-zero
+- δ
+- Ontological Activity
+- Probability Slope
+- Causal History
+- Dependent Mode
+- Zero State
+aliases:
+- Bk976ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.852713178294573
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

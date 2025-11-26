@@ -1,14 +1,35 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Meta-Math
-- functor
-- δ
-excerpt: 'Meta-Math is your: * theory of abstract generative structure * operator-level
-  genesis of meaning'
-heading: '**🔷 0\. PURPOSE OF THE MAPPING**'
 id: GEN16-3942
-lines: 2535-2560
 location: genesis-16/untitled-document::0-purpose-of-the-mapping::b1
 source: genesis-16\Untitled_document.md
+lines: 2535-2560
+heading: '**🔷 0\. PURPOSE OF THE MAPPING**'
+block_type: paragraph
+excerpt: 'Meta-Math is your: * theory of abstract generative structure * operator-level
+  genesis of meaning'
+concepts:
+- Meta-Math
+- δ-geometry
+- Box Calculus
+- δ-geometry compatible operator system
+- Box
+- vector-semantic algebra
+- vector-semantic
+- operator-level
+- closed reasoning machine
+- typed process calculus
+- δ
+- functor
+aliases:
+- Bk801mm
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.052631578947366
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Fractal Calculus
-- Meta-Fractal
-- Peakset Probability Geometry
-excerpt: 'Geometry aligns with: - Peakset Probability Geometry - Meta-Fractal Calculus'
-heading: Alignment with Framework
 id: INTK-10819
-lines: 2585-2589
 location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::geometry-of-meta-time-cone::alignment-with-framework::b1
-parent_heading: Geometry of Meta-Time Cone
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2585-2589
+heading: Alignment with Framework
+parent_heading: Geometry of Meta-Time Cone
+block_type: paragraph
+excerpt: 'Geometry aligns with: - Peakset Probability Geometry - Meta-Fractal Calculus'
+concepts:
+- Peakset Probability Geometry
+- Meta-Fractal
+- Fractal Calculus
+aliases:
+- Bk551ga
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

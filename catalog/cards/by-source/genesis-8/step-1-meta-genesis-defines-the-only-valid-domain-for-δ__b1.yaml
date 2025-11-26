@@ -1,16 +1,32 @@
+id: GEN8-8724
+location: genesis-8/corollary-einstein-compatibility-via::proof-formal-version::step-1-meta-genesis-defines-the-only-valid-domain-for-δ::b1
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 336-348
+heading: '**Step 1 — Meta-Genesis defines the only valid domain for δ**'
+parent_heading: '**◆ Proof (Formal Version) ◆**'
 block_type: paragraph
-concepts:
-- Axiom
-- Deviational Axiom
-- Genesis Axiom
-- Meta-Genesis
-- δ
 excerpt: 'Meta-Genesis provides the **potential space** GMG\\mathcal{G}\_{\\text{MG}}GMG​:
   no operators, pure adjacency potential, no metric. By the Deviational Axiom (NOT
   Axiom \+ Genesis Axiom):'
-heading: '**Step 1 — Meta-Genesis defines the only valid domain for δ**'
-id: GEN8-8724
-lines: 336-348
-location: genesis-8/corollary-einstein-compatibility-via::proof-formal-version::step-1-meta-genesis-defines-the-only-valid-domain-for-δ::b1
-parent_heading: '**◆ Proof (Formal Version) ◆**'
-source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+concepts:
+- Meta-Genesis
+- Axiom
+- Deviation
+- δ
+- Deviational Axiom
+- domain exclusion
+- potential space
+- Genesis Axiom
+- no freedom
+aliases:
+- Bk338mg
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.0625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

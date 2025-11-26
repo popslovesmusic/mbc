@@ -1,12 +1,31 @@
+id: GEN12-1577
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::2-δ-φ-harmonicization::23-why-the-ladder-is-discrete-no-continuum-modes::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 731-762
+heading: '**2.3 Why the Ladder is Discrete (No Continuum Modes)**'
+parent_heading: '**2\. δ → Φ (Harmonicization)**'
 block_type: paragraph
-concepts:
-- But Genesis
-- Φ
 excerpt: 'Continuum spectra require: * a pre-existing metric space, * continuous translational
   symmetry,'
-heading: '**2.3 Why the Ladder is Discrete (No Continuum Modes)**'
-id: GEN12-1577
-lines: 731-762
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::2-δ-φ-harmonicization::23-why-the-ladder-is-discrete-no-continuum-modes::b1
-parent_heading: '**2\. δ → Φ (Harmonicization)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- Genesis-level property
+- Φ-spectrum
+- Φ
+- Genesis-level
+- pre-existing
+- But Genesis
+aliases:
+- Bk596cs
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.608695652173914
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

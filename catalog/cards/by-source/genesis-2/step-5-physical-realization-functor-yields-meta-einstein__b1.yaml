@@ -1,18 +1,37 @@
+id: GEN2-6449
+location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-5-physical-realization-functor-yields-meta-einstein::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1754-1770
+heading: '**Step 5 — Physical Realization Functor yields Meta-Einstein**'
+parent_heading: '**Proof**'
 block_type: paragraph
+excerpt: 'By definition of the Physical Realization functor P\\mathcal{P}P: P(RΦ)=GμνMeta,P(TΦ)=TμνMeta.(8)\\mathcal{P}(R\_\\Phi)
+  \= G\_{\\mu\\nu}^{\\text{Meta}}, \\qquad \\mathcal{P}(T\_\\Phi) \= T\_{\\mu\\nu}...'
 concepts:
-- Einstein Equation
-- Field
-- Field Equation
-- Meta-Einstein
-- Physical Realization
 - Φ
 - μ
 - ν
-excerpt: 'By definition of the Physical Realization functor P\\mathcal{P}P: P(RΦ)=GμνMeta,P(TΦ)=TμνMeta.(8)\\mathcal{P}(R\_\\Phi)
-  \= G\_{\\mu\\nu}^{\\text{Meta}}, \\qquad \\mathcal{P}(T\_\\Phi) \= T\_{\\mu\\nu}...'
-heading: '**Step 5 — Physical Realization Functor yields Meta-Einstein**'
-id: GEN2-6449
-lines: 1754-1770
-location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-5-physical-realization-functor-yields-meta-einstein::b1
-parent_heading: '**Proof**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+- Meta-Einstein
+- Definition
+- Meta-Einstein Equation
+- Field
+- Φ-Field
+- Physical Realization
+- Einstein Equation
+- Field Equation
+- ΦR
+aliases:
+- Bk658dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.619469026548673
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

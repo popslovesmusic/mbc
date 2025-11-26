@@ -1,13 +1,28 @@
+id: INTK-10415
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::core-concepts::1-meta-fields-ψ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1339-1340
+heading: 1. Meta-Fields (Ψ)
+parent_heading: Core Concepts
 block_type: paragraph
-concepts:
-- Fractal Space
-- Meta-Calculus
-- Meta-Fractal
 excerpt: Generalized functions defined over the Meta-Fractal Space (F or PPG), representing
   the deviation field. These are the objects upon which Meta-Calculus operates.
-heading: 1. Meta-Fields (Ψ)
-id: INTK-10415
-lines: 1339-1340
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::core-concepts::1-meta-fields-ψ::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Calculus
+- Meta-Fractal
+- Fractal Space
+aliases:
+- Bk429gf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

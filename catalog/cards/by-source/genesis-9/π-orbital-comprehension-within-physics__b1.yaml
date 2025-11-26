@@ -1,13 +1,32 @@
+id: GEN9-9131
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-φ-and-π-as-adjunctions-inside-the-projection::π-orbital-comprehension-within-physics::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1622-1634
+heading: '**Π \= orbital comprehension *within physics***'
+parent_heading: '**5\. Φ and Π as Adjunctions *inside* the Projection**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Π:G→O\\Pi : \\mathcal{G} \\to \\mathcal{O}Π:G→O Thus: * The **outer adjoint
   triple** (MG/MM/Physics) builds the world.'
-heading: '**Π \= orbital comprehension *within physics***'
-id: GEN9-9131
-lines: 1622-1634
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::5-φ-and-π-as-adjunctions-inside-the-projection::π-orbital-comprehension-within-physics::b1
-parent_heading: '**5\. Φ and Π as Adjunctions *inside* the Projection**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Π
+- physics-internal
+- →
+- δ
+- Φ
+- outer adjoint triple
+- inner adjoint chain
+aliases:
+- Bk241mm
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.893617021276595
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

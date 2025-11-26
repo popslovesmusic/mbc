@@ -1,11 +1,25 @@
-block_type: paragraph
-concepts:
-- Fractal Space
-- Meta-Fractal
-excerpt: The base space for MFDA is not a smooth manifold, but a **Meta-Fractal Space
-  (F)**.
-heading: '**2. The Meta-Fractal Base Space (F)**'
 id: INTK-10244
-lines: 344-346
 location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-meta-fractal-base-space-f::b1
 source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 344-346
+heading: '**2. The Meta-Fractal Base Space (F)**'
+block_type: paragraph
+excerpt: The base space for MFDA is not a smooth manifold, but a **Meta-Fractal Space
+  (F)**.
+concepts:
+- Meta-Fractal
+- Fractal Space
+aliases:
+- Bk409tb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

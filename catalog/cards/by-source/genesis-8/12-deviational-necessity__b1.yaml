@@ -1,14 +1,30 @@
+id: GEN8-8777
+location: genesis-8/meta-time-geometry-and-temporal-projection::1-the-ontology-of-meta-time-τ::12-deviational-necessity::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 62-77
+heading: '**1.2 Deviational Necessity**'
+parent_heading: '**1\. The Ontology of Meta-Time (Τ)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Meta-Time
-- Ψ
-- δ
 excerpt: 'Meta-Time ordering exists **because deviation cannot be zero**: * Perfect
   stillness (Ψ₀) cannot persist. * NOT Axiom: *perfect identity cannot self-maintain.*'
-heading: '**1.2 Deviational Necessity**'
-id: GEN8-8777
-lines: 62-77
-location: genesis-8/meta-time-geometry-and-temporal-projection::1-the-ontology-of-meta-time-τ::12-deviational-necessity::b1
-parent_heading: '**1\. The Ontology of Meta-Time (Τ)**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- Meta-Time
+- Axiom
+- because deviation cannot be zero
+- Ψ
+- self-maintain
+- ≠
+- δ
+- Ψ₀
+aliases:
+- Bk860mt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.09433962264151
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

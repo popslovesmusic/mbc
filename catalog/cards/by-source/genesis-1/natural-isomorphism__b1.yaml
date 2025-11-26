@@ -1,10 +1,24 @@
+id: GEN1-652
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-31-meta-genesis-and-meta-math-form-an-adjoint-pair::natural-isomorphism::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1807-1816
+heading: '**Natural Isomorphism**'
+parent_heading: '**Theorem 3.1 — Meta-Genesis and Meta-Math Form an Adjoint Pair**'
 block_type: paragraph
-concepts: []
 excerpt: 'The two constructions are mutual inverses and natural in both G and M. Thus:
   F⊣U.F\\dashv U.F⊣U.'
-heading: '**Natural Isomorphism**'
-id: GEN1-652
-lines: 1807-1816
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-31-meta-genesis-and-meta-math-form-an-adjoint-pair::natural-isomorphism::b1
-parent_heading: '**Theorem 3.1 — Meta-Genesis and Meta-Math Form an Adjoint Pair**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+aliases:
+- Bk749tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

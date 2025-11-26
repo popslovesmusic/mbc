@@ -1,14 +1,40 @@
+id: GEN5-8140
+location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::iv-formal-proof::step-1-ga-8-forces-a-canonical-natural-transformation::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 97-122
+heading: '**Step 1\. GA-8 forces a canonical natural transformation**'
+parent_heading: '**IV. FORMAL PROOF**'
 block_type: paragraph
-concepts:
-- Lemma
-- Ψ
-- δ
-- η
 excerpt: 'GA-8 states: ηΨ:F(Ψ)→F(Ψ′)\\eta\_\\Psi : F(\\Psi) \\to F(\\Psi'')ηΨ​:F(Ψ)→F(Ψ′)
   is universal for deviation-preserving adjacency refinements.'
-heading: '**Step 1\. GA-8 forces a canonical natural transformation**'
-id: GEN5-8140
-lines: 97-122
-location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::iv-formal-proof::step-1-ga-8-forces-a-canonical-natural-transformation::b1
-parent_heading: '**IV. FORMAL PROOF**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- η
+- Ψ
+- Lemma
+- deviation-preserving
+- natural transformation
+- δ
+- →
+- δ-generated
+- δ-coherent
+- functorially determined
+aliases:
+- Lm008ga
+tags:
+- lemma
+- GA-8
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: lemma
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.1010101010101
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- GA-8

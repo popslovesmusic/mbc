@@ -1,14 +1,31 @@
-block_type: list
-concepts:
-- Box
-- Box Calculus
-- Σ
-- δ
-- λ
-excerpt: 1. **Box Calculus ↔ λ-Calculus equivalence** (explicit translation of λ-terms
-  into Box Calculus) 2. **Box Calculus is a *bicartesian closed category***
-heading: '**⭐ Next proofs we can do:**'
 id: GEN16-4077
-lines: 4331-4345
 location: genesis-16/untitled-document::next-proofs-we-can-do::b1
 source: genesis-16\Untitled_document.md
+lines: 4331-4345
+heading: '**⭐ Next proofs we can do:**'
+block_type: list
+excerpt: 1. **Box Calculus ↔ λ-Calculus equivalence** (explicit translation of λ-terms
+  into Box Calculus) 2. **Box Calculus is a *bicartesian closed category***
+concepts:
+- Box Calculus
+- Box
+- Box Calculus supports a linear logic interpretation
+- λ
+- δ-curvature
+- δ
+- Σ
+- ↔
+aliases:
+- Bk673bc
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

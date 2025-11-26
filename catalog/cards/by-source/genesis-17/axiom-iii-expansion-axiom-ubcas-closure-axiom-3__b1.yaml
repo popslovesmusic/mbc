@@ -1,15 +1,35 @@
+id: GEN17-4286
+location: genesis-17/box-calculus::2-axiom-set-structure::axiom-iii-expansion-axiom-ubcas-closure-axiom-3::b1
+source: genesis-17\box_calculus.md
+lines: 2110-2120
+heading: Axiom III (Expansion Axiom) — UBCAS ↔ Closure Axiom 3
+parent_heading: 2\. Axiom Set Structure
 block_type: table
+excerpt: 'You emphasize thermodynamic analogy. I emphasize entropy, curvature, and
+  resolution constraints explicitly. Both capture:'
 concepts:
 - Axiom
 - Box
-- Closure Axiom
-- Closure Axiom Box
+- resolution-floor
 - Σ
-excerpt: 'You emphasize thermodynamic analogy. I emphasize entropy, curvature, and
-  resolution constraints explicitly. Both capture:'
-heading: Axiom III (Expansion Axiom) — UBCAS ↔ Closure Axiom 3
-id: GEN17-4286
-lines: 2110-2120
-location: genesis-17/box-calculus::2-axiom-set-structure::axiom-iii-expansion-axiom-ubcas-closure-axiom-3::b1
-parent_heading: 2\. Axiom Set Structure
-source: genesis-17\box_calculus.md
+- curvature-floor
+- Closure Axiom
+- ε
+- Δ
+- Closure Axiom Box
+- Σt
+aliases:
+- Bk612uc
+tags:
+- axiom-box
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.408163265306122
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

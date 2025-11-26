@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: The first “real” operation in MBC-4.0 is deviation, represented by δ. Before
-  δ, IGSOA is perfectly smooth. After δ, curvature begins to take shape.
-heading: '2.3 Deviation: The Birth of Structure'
 id: GEN20-6697
-lines: 551-568
 location: genesis-20/mbc-40-documentaitio-1::23-deviation-the-birth-of-structure::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 551-568
+heading: '2.3 Deviation: The Birth of Structure'
+block_type: paragraph
+excerpt: The first “real” operation in MBC-4.0 is deviation, represented by δ. Before
+  δ, IGSOA is perfectly smooth. After δ, curvature begins to take shape.
+concepts:
+- δ
+- MBC
+- Curvature
+- Deviation
+- IGSOA
+aliases:
+- Bk366tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

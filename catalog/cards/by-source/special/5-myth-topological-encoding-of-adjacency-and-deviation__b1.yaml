@@ -1,9 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Myths encode: * origin (IGS) * action (OA)'
-heading: '**⭐ 5\. Myth \= topological encoding of adjacency and deviation**'
 id: SPEC-11169
-lines: 3446-3471
 location: special/specil::5-myth-topological-encoding-of-adjacency-and-deviation::b1
 source: special\specil.md
+lines: 3446-3471
+heading: '**⭐ 5\. Myth \= topological encoding of adjacency and deviation**'
+block_type: paragraph
+excerpt: 'Myths encode: * origin (IGS) * action (OA)'
+concepts:
+- IGSOA
+- meta-math
+- δ
+- fundamental morphisms
+- operators in IGSOA
+aliases:
+- Bk301me
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.82051282051282
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

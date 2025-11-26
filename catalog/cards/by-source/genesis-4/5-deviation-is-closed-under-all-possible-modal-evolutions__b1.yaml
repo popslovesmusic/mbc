@@ -1,12 +1,32 @@
+id: GEN4-7799
+location: genesis-4/the-adjoint-triple::5-deviation-is-closed-under-all-possible-modal-evolutions::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1395-1429
+heading: '**5\. Deviation Is Closed Under All Possible Modal Evolutions**'
 block_type: paragraph
-concepts:
-- δ
-- σ
 excerpt: 'The closure axiom: δ⇒MG⇒σ-Topos⇒MM⇒Physics⇒δ\\delta \\Rightarrow MG \\Rightarrow
   \\sigma\\text{-Topos} \\Rightarrow MM \\Rightarrow \\text{Physics} \\Rightarrow
   \\deltaδ⇒MG⇒σ-Topos⇒MM⇒Physics⇒δ proves...'
-heading: '**5\. Deviation Is Closed Under All Possible Modal Evolutions**'
-id: GEN4-7799
-lines: 1395-1429
-location: genesis-4/the-adjoint-triple::5-deviation-is-closed-under-all-possible-modal-evolutions::b1
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- δ
+- δ-closed
+- Axiom
+- σ
+- self-generating
+- self-sufficient
+- δ-adjacencies
+- δ-structure
+aliases:
+- Bk109tc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.4074074074074066
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,15 +1,43 @@
+id: GEN13-2465
+location: genesis-13/what-biology-is-in-meta-genesis::4-the-theorem-why-life-must-appear::the-emergent-biology-theorem-δ-φ-π-life::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 107-134
+heading: '**The Emergent Biology Theorem (δ → Φ → Π ⇒ Life)**'
+parent_heading: '**4\. The Theorem: Why Life Must Appear**'
 block_type: paragraph
-concepts:
-- Theorem
-- Π
-- Φ
-- δ
 excerpt: '**Theorem:** Given any domain where δ-gradients persist and Φ-dynamics couple
   modes nonlinearly, Π-closure almost surely produces self-sustaining structures,
   and among those, a non-zero measure of str...'
-heading: '**The Emergent Biology Theorem (δ → Φ → Π ⇒ Life)**'
-id: GEN13-2465
-lines: 107-134
-location: genesis-13/what-biology-is-in-meta-genesis::4-the-theorem-why-life-must-appear::the-emergent-biology-theorem-δ-φ-π-life::b1
-parent_heading: '**4\. The Theorem: Why Life Must Appear**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- δ-geometry
+- δ
+- Φ
+- Theorem
+- Proof
+- Π-closure
+- δ ensures non-equilibrium
+- →
+- Perturbations induce variation
+- non-equilibrium
+- self-sustaining
+- Π-boundaries
+- Π-operators
+- Φ ensures dynamical mixing
+aliases:
+- Th007tg
+tags:
+- theorem
+- proof
+- ambiguous
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.97810218978102
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

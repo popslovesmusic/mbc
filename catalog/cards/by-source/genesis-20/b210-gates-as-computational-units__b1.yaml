@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'In advanced MBC: * gates chain * gates layer'
-heading: B2.10 Gates as Computational Units
 id: GEN20-7194
-lines: 7110-7127
 location: genesis-20/mbc-40-documentaitio-1::b210-gates-as-computational-units::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7110-7127
+heading: B2.10 Gates as Computational Units
+block_type: paragraph
+excerpt: 'In advanced MBC: * gates chain * gates layer'
+concepts:
+- MBC
+- micro-operations
+aliases:
+- Bk256am
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.405405405405405
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

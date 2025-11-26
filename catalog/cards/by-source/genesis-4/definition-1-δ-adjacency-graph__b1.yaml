@@ -1,12 +1,30 @@
+id: GEN4-7891
+location: genesis-4/the-first-adjacency::2-formal-foundations-curvature-without-geometry::definition-1-δ-adjacency-graph::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1384-1388
+heading: '**Definition 1 — δ-Adjacency Graph**'
+parent_heading: '**2\. Formal Foundations — Curvature Without Geometry**'
 block_type: paragraph
+excerpt: A=({Ψn},Eδ)\\mathcal{A} \= (\\{\\Psi\_n\\}, E\_\\delta)A=({Ψn​},Eδ​) with
+  edges (Ψi,Ψi+1)(\\Psi\_i,\\Psi\_{i+1})(Ψi​,Ψi+1​) from δ-application.
 concepts:
 - Ψ
 - δ
-excerpt: A=({Ψn},Eδ)\\mathcal{A} \= (\\{\\Psi\_n\\}, E\_\\delta)A=({Ψn​},Eδ​) with
-  edges (Ψi,Ψi+1)(\\Psi\_i,\\Psi\_{i+1})(Ψi​,Ψi+1​) from δ-application.
-heading: '**Definition 1 — δ-Adjacency Graph**'
-id: GEN4-7891
-lines: 1384-1388
-location: genesis-4/the-first-adjacency::2-formal-foundations-curvature-without-geometry::definition-1-δ-adjacency-graph::b1
-parent_heading: '**2\. Formal Foundations — Curvature Without Geometry**'
-source: genesis-4\The_First_Adjacency.md
+- Ψi
+- δ-application
+- Ψn
+aliases:
+- Bk241mp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

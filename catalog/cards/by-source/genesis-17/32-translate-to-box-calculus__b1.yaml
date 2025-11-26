@@ -1,12 +1,28 @@
+id: GEN17-4524
+location: genesis-17/box-calculus::3-proof-η-long-normal-form-fully-expanded-box-graph::32-translate-to-box-calculus::b1
+source: genesis-17\box_calculus.md
+lines: 6013-6030
+heading: 3.2 Translate to Box Calculus
+parent_heading: '⭐ 3\. PROOF: η-LONG NORMAL FORM → FULLY EXPANDED BOX GRAPH'
 block_type: paragraph
+excerpt: 'By translation T T:'
 concepts:
 - Box
-- Γ
 - η
-excerpt: 'By translation T T:'
-heading: 3.2 Translate to Box Calculus
-id: GEN17-4524
-lines: 6013-6030
-location: genesis-17/box-calculus::3-proof-η-long-normal-form-fully-expanded-box-graph::32-translate-to-box-calculus::b1
-parent_heading: '⭐ 3\. PROOF: η-LONG NORMAL FORM → FULLY EXPANDED BOX GRAPH'
-source: genesis-17\box_calculus.md
+- eval-morphisms
+- Γ
+aliases:
+- Bk376ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

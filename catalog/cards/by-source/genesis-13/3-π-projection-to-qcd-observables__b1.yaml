@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: The Π-layer represents realized QCD fields, observable hadrons, and color-neutral
-  composites. ---
-heading: '**3\. Π-Projection to QCD Observables**'
 id: GEN13-2127
-lines: 1577-1581
 location: genesis-13/meta-math-nuclear-physics::3-π-projection-to-qcd-observables::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1577-1581
+heading: '**3\. Π-Projection to QCD Observables**'
+block_type: paragraph
+excerpt: The Π-layer represents realized QCD fields, observable hadrons, and color-neutral
+  composites. ---
+concepts:
+- color-neutral
+- Π-layer
+- Π
+aliases:
+- Bk523tl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.076923076923077
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

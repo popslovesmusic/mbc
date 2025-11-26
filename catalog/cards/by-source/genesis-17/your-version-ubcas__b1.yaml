@@ -1,13 +1,29 @@
+id: GEN17-4291
+location: genesis-17/box-calculus::3-soundness-consistency-sketch-comparison::your-version-ubcas::b1
+source: genesis-17\box_calculus.md
+lines: 2168-2172
+heading: Your Version (UBCAS)
+parent_heading: ⭐ 3\. Soundness & Consistency Sketch — Comparison
 block_type: list
-concepts:
-- δ
-- ρ
 excerpt: '* Consistency via geometric tension: True and False merge into a new vector.
   * Termination via entropy budget and topology. * Completeness because {E, A, ρ,
   δ} is Turing-complete.'
-heading: Your Version (UBCAS)
-id: GEN17-4291
-lines: 2168-2172
-location: genesis-17/box-calculus::3-soundness-consistency-sketch-comparison::your-version-ubcas::b1
-parent_heading: ⭐ 3\. Soundness & Consistency Sketch — Comparison
-source: genesis-17\box_calculus.md
+concepts:
+- Turing-complete
+- δ
+- ρ
+aliases:
+- Bk929cv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

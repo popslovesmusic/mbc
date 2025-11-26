@@ -1,15 +1,40 @@
+id: GEN14-2985
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::i-formal-abstract::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 951-971
+heading: '**I. Formal Abstract**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Π
-- Π-stability
-- Φ
-- δ
 excerpt: We present a unified derivation of crystalline order from the δ-curvature
   of Meta-Genesis. Deviation δ, as the primitive generator of adjacency curvature,
   induces **piecewise-constant curvature platea...
-heading: '**I. Formal Abstract**'
-id: GEN14-2985
-lines: 951-971
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::i-formal-abstract::b1
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- Φ-projection
+- Meta-Genesis
+- δ
+- δ-curvature
+- Φ
+- Deviation
+- piecewise-constant curvature plateaus
+- Π
+- δ-curvature quantization
+- maximal-degeneracy
+- piecewise-constant
+- Φ-mode
+- Φ-mode coherence
+- Topological crystalline phases
+- Π-multiplicity
+aliases:
+- Bk994pu
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.556962025316455
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

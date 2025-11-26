@@ -1,11 +1,26 @@
+id: GEN9-9285
+location: genesis-9/does-meta-genesis-indicate-new-physics::sealed-axiom-box::the-symmetryasymmetry-co-arising-axiom::6-monistic-identity::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1127-1134
+heading: '**6\. (Monistic Identity)**'
+parent_heading: '**The Symmetry–Asymmetry Co-Arising Axiom**'
 block_type: paragraph
-concepts: []
 excerpt: S and A are not dual substances but **modalities of the same underlying being**.
   They differ only in expression, not in ontology. S≡Aunder the monistic identity
   of IGSS \\equiv A \\quad\\text{under th...
-heading: '**6\. (Monistic Identity)**'
-id: GEN9-9285
-lines: 1127-1134
-location: genesis-9/does-meta-genesis-indicate-new-physics::sealed-axiom-box::the-symmetryasymmetry-co-arising-axiom::6-monistic-identity::b1
-parent_heading: '**The Symmetry–Asymmetry Co-Arising Axiom**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- modalities of the same underlying being
+aliases:
+- Bk695aa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.1739130434782608
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

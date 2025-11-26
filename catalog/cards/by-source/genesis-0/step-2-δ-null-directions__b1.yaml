@@ -1,11 +1,28 @@
+id: GEN0-214
+location: genesis-0/tri-unity-theorem-equivalence-of::iii-metric-forces-spacetime::step-2-δ-null-directions::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 878-890
+heading: '**Step 2 — Δ-null directions**'
+parent_heading: '**III. Metric Forces Spacetime**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Define a δ-null vector kkk by: g(k,k)=0.g(k,k)=0.g(k,k)=0. These generate
   null cones (= light-cones) at each point.'
-heading: '**Step 2 — Δ-null directions**'
-id: GEN0-214
-lines: 878-890
-location: genesis-0/tri-unity-theorem-equivalence-of::iii-metric-forces-spacetime::step-2-δ-null-directions::b1
-parent_heading: '**III. Metric Forces Spacetime**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- light-cones
+- δ
+- δ-null
+aliases:
+- Bk420dn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

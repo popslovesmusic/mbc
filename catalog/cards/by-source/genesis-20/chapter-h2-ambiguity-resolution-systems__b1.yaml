@@ -1,9 +1,25 @@
-block_type: list
-concepts: []
-excerpt: '* stable vs unstable meaning zones * conflict-analysis engines'
-heading: Chapter H2 — Ambiguity Resolution Systems
 id: GEN20-7090
-lines: 5319-5322
 location: genesis-20/mbc-40-documentaitio-1::part-viii-advanced-examples-tutorials::chapter-h2-ambiguity-resolution-systems::b1
-parent_heading: PART VIII — Advanced Examples & Tutorials
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5319-5322
+heading: Chapter H2 — Ambiguity Resolution Systems
+parent_heading: PART VIII — Advanced Examples & Tutorials
+block_type: list
+excerpt: '* stable vs unstable meaning zones * conflict-analysis engines'
+concepts:
+- conflict-analysis
+aliases:
+- Bk884su
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

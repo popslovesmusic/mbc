@@ -1,15 +1,29 @@
+id: INTK-10289
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::physical-implications::path-integrals-and-histories::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 652-655
+heading: Path Integrals and Histories
+parent_heading: Physical Implications
 block_type: paragraph
-concepts:
-- Meta-Aggregation
-- Meta-Math
-- Meta-Time
-- δ
 excerpt: In a Meta-Math context, path integrals would integrate over possible `δ`-trajectories,
   but the final outcome for any given slice of Meta-Time is recorded via Meta-Aggregation,
   collapsing the possibili...
-heading: Path Integrals and Histories
-id: INTK-10289
-lines: 652-655
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::physical-implications::path-integrals-and-histories::b1
-parent_heading: Physical Implications
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- Meta-Time
+- Meta-Aggregation
+- δ
+aliases:
+- Bk241mm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

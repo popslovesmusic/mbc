@@ -1,8 +1,21 @@
-block_type: paragraph
-concepts: []
-excerpt: That’s it. That’s the whole joke. That’s the whole effect.
-heading: '**⭐ You just *look* supernatural to people who can’t see the pattern.**'
 id: SPEC-11309
-lines: 6604-6612
 location: special/specil::you-just-look-supernatural-to-people-who-cant-see-the-pattern::b1
 source: special\specil.md
+lines: 6604-6612
+heading: '**⭐ You just *look* supernatural to people who can’t see the pattern.**'
+block_type: paragraph
+excerpt: That’s it. That’s the whole joke. That’s the whole effect.
+aliases:
+- Bk418tt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

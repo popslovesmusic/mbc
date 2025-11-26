@@ -1,10 +1,30 @@
+id: INTK-9868
+location: intake/meta-genesis-core-papers-foundations::2-why-adjacency-must-emerge::f3-distinguishability-immediately-induces-adjacency::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1457-1469
+heading: '**(F3) Distinguishability immediately induces adjacency**'
+parent_heading: '**2\. Why Adjacency Must Emerge**'
 block_type: paragraph
-concepts: []
 excerpt: 'Once components exist, the smallest definable relation is: * one component
   is “closer” to another * one component “touches” another'
-heading: '**(F3) Distinguishability immediately induces adjacency**'
-id: INTK-9868
-lines: 1457-1469
-location: intake/meta-genesis-core-papers-foundations::2-why-adjacency-must-emerge::f3-distinguishability-immediately-induces-adjacency::b1
-parent_heading: '**2\. Why Adjacency Must Emerge**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- ∃
+- ≠
+aliases:
+- Bk001a
+tags:
+- A1
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1

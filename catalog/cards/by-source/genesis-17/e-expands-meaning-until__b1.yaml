@@ -1,15 +1,29 @@
+id: GEN17-4238
+location: genesis-17/box-calculus::5-conceptual-interpretation::e-expands-meaning-until::b1
+source: genesis-17\box_calculus.md
+lines: 1371-1388
+heading: 'E expands meaning until:'
+parent_heading: ⭐ 5\. Conceptual Interpretation
 block_type: list
-concepts:
-- Box
-- Box Calculus
-- Π
-- δ
-- λ
 excerpt: '* the idea is saturated * further detail adds no new structure * δ-curvature
   stabilizes'
-heading: 'E expands meaning until:'
-id: GEN17-4238
-lines: 1371-1388
-location: genesis-17/box-calculus::5-conceptual-interpretation::e-expands-meaning-until::b1
-parent_heading: ⭐ 5\. Conceptual Interpretation
-source: genesis-17\box_calculus.md
+concepts:
+- Box Calculus
+- Box
+- fixed-point
+- δ-curvature
+- λ
+- Π
+- δ
+aliases:
+- Bk154ti
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.20754716981132
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

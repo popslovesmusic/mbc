@@ -1,15 +1,32 @@
-block_type: paragraph
-concepts:
-- Aggregation Operator
-- Operator
-- Σ
-- α
-- β
-- δ
-excerpt: 'We define the Aggregation Operator A as the canonical merge over Σ-states:
-  A(Σ1,Σ2)=Σ1⊕Σ2=α Σ1+β Σ2+δ(Σ1,Σ2) A(Σ'
-heading: 1\. Formal Definition of the Mixing Law
 id: GEN17-4209
-lines: 902-933
 location: genesis-17/box-calculus::1-formal-definition-of-the-mixing-law::b1
 source: genesis-17\box_calculus.md
+lines: 902-933
+heading: 1\. Formal Definition of the Mixing Law
+block_type: paragraph
+excerpt: 'We define the Aggregation Operator A as the canonical merge over Σ-states:
+  A(Σ1,Σ2)=Σ1⊕Σ2=α Σ1+β Σ2+δ(Σ1,Σ2) A(Σ'
+concepts:
+- Σ
+- Operator
+- ⊕
+- β
+- δ
+- α
+- Σ-states
+- Aggregation Operator
+aliases:
+- Bk164dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

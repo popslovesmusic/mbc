@@ -1,12 +1,32 @@
+id: INTK-10564
+location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 359-369
+heading: '**2\. Rigorous Theorem-Based Formulation**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- δ
 excerpt: 'We now formalize the triad *(Curvature, Adjacency, Meta-Time)* as **three
   generating operators**: (C,A,T)(\\mathcal{C},\\mathcal{A},\\mathcal{T})(C,A,T) that
   act on the δ-mode Hilbert/fractal space'
-heading: '**2\. Rigorous Theorem-Based Formulation**'
-id: INTK-10564
-lines: 359-369
-location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::b1
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- δ
+- Curvature
+- Adjacency
+- three generating operators
+- δ-mode
+- δi
+aliases:
+- Bk244nf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.583333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

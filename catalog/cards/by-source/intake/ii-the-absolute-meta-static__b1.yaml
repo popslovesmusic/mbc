@@ -1,9 +1,20 @@
-block_type: paragraph
-concepts: []
-excerpt: A state with no degrees of freedom, no axes of variation, no projection.
-heading: '**(ii) The Absolute Meta-Static**'
 id: INTK-9775
-lines: 343-345
 location: intake/meta-genesis-core-papers-foundations::3-what-ψ₀-is::ii-the-absolute-meta-static::b1
-parent_heading: '**3\. What Ψ₀ *is***'
 source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 343-345
+heading: '**(ii) The Absolute Meta-Static**'
+parent_heading: '**3\. What Ψ₀ *is***'
+block_type: paragraph
+excerpt: A state with no degrees of freedom, no axes of variation, no projection.
+aliases:
+- Bk692sw
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

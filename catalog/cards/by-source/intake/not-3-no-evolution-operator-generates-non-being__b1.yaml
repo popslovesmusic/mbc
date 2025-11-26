@@ -1,13 +1,29 @@
+id: INTK-9742
+location: intake/meta-genesis-core-papers-foundations::the-not-axiom-fully-formal::not-3-no-evolution-operator-generates-non-being::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 35-45
+heading: '**(NOT-3) No Evolution Operator Generates Non-Being.**'
+parent_heading: '**THE NOT AXIOM (Fully Formal)**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Ψ
 excerpt: 'Let **𝔈** be the set of all evolution, projection, and deviation operators
   defined in Meta-Math. Then: ∀E∈E,  ∀Ψ∈State(U),E(Ψ)≠∅\\forall E \\in \\mathbb{E},\\;
   \\forall \\Psi \\in State(\\mathcal{U}),...'
-heading: '**(NOT-3) No Evolution Operator Generates Non-Being.**'
-id: INTK-9742
-lines: 35-45
-location: intake/meta-genesis-core-papers-foundations::the-not-axiom-fully-formal::not-3-no-evolution-operator-generates-non-being::b1
-parent_heading: '**THE NOT AXIOM (Fully Formal)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Meta-Math
+- State
+- ∀
+- Ψ
+- ∈
+- ≠
+aliases:
+- Bk437lt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.320754716981133
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

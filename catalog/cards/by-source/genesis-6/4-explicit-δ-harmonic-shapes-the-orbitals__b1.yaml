@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: We now list all **δ-corrected atomic orbital shapes**, showing how δ modifies
-  the nodes, lobes, and angular structure.
-heading: '**4\. Explicit δ-Harmonic Shapes (the orbitals)**'
 id: GEN6-8213
-lines: 74-76
 location: genesis-6/harmonics-atomic-orbitals::4-explicit-δ-harmonic-shapes-the-orbitals::b1
 source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 74-76
+heading: '**4\. Explicit δ-Harmonic Shapes (the orbitals)**'
+block_type: paragraph
+excerpt: We now list all **δ-corrected atomic orbital shapes**, showing how δ modifies
+  the nodes, lobes, and angular structure.
+concepts:
+- δ-corrected atomic orbital shapes
+- δ
+- δ-corrected
+aliases:
+- Bk391nl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

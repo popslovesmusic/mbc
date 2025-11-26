@@ -1,12 +1,38 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'After recombination: * CMB-encoded perturbations re-enter the horizon, *
-  gravitational instability amplifies them,'
-heading: '**3\. CMB → Structure Formation (Linear Regime)**'
 id: GEN15-3376
-lines: 83-99
 location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::3-cmb-structure-formation-linear-regime::b1
 source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 83-99
+heading: '**3\. CMB → Structure Formation (Linear Regime)**'
+block_type: paragraph
+excerpt: 'After recombination: * CMB-encoded perturbations re-enter the horizon, *
+  gravitational instability amplifies them,'
+concepts:
+- δ
+- IGSOA
+- →
+- δ-curvature
+- proto-halos
+- CMB-encoded
+- Φ-dynamics
+- re-enter
+- Π-metric
+- Π
+- Φ
+- structure nodes
+- δm
+- δk
+aliases:
+- Bk932ar
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

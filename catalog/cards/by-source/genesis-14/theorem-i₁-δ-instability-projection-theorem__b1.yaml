@@ -1,15 +1,33 @@
+id: GEN14-2683
+location: genesis-14/inflation-structure-formation::proof-1-igsoa-only-δ-adjacency-instability-inflation::theorem-i₁-δ-instability-projection-theorem::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 551-567
+heading: '**Theorem I₁ (δ-Instability Projection Theorem)**'
+parent_heading: '**PROOF 1 (IGSOA-ONLY): δ-Adjacency Instability ⇒ Inflation**'
 block_type: paragraph
-concepts:
-- Adj
-- Π
-- δ
-- λ
 excerpt: Let δ be the Genesis deviation operator on the category **Adj**, with δ-Weitzenböck
   curvature W(δ):=δ∘∇−∇∘δ.W(δ) := \\delta\\circ\\nabla \- \\nabla\\circ\\delta.W(δ):=δ∘∇−∇∘δ.
   If
-heading: '**Theorem I₁ (δ-Instability Projection Theorem)**'
-id: GEN14-2683
-lines: 551-567
-location: genesis-14/inflation-structure-formation::proof-1-igsoa-only-δ-adjacency-instability-inflation::theorem-i₁-δ-instability-projection-theorem::b1
-parent_heading: '**PROOF 1 (IGSOA-ONLY): δ-Adjacency Instability ⇒ Inflation**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- λ
+- ∇
+- Π
+- Π-projected
+- δ-harmonic
+- →
+- Adj
+aliases:
+- Bk522lt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.791208791208792
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

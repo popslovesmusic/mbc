@@ -1,23 +1,40 @@
+id: GEN5-8047
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc9-closure-and-consistency::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1631-1652
+heading: '**Axiom DC9 — Closure and Consistency.**'
+parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Einstein Axiom Box
-- Foundation Layer
-- Genesis Axiom
-- Geometry Axiom Box
-- Layer
-- Meta-Einstein
-- The Deviational Curvature Functor
-- Theorem
-- Unity Theorem
-- Φ
-- δ
 excerpt: 'The Deviational Curvature Functor is a sealed component of the IGSOA Foundation
   Layer. It is compatible with: * the NOT Axiom,'
-heading: '**Axiom DC9 — Closure and Consistency.**'
-id: GEN5-8047
-lines: 1631-1652
-location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc9-closure-and-consistency::b1
-parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- Meta-Einstein
+- Axiom
+- Curvature
+- Foundation Layer
+- Deviation
+- IGSOA
+- Theorem
+- Box
+- Functor
+- Layer
+- The Deviational Curvature Functor
+- δ
+- non-commuting
+- δ-Geometry
+- Φ
+aliases:
+- Bk331td
+tags:
+- axiom-box
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

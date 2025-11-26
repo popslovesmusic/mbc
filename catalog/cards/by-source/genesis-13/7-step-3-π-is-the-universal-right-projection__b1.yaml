@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-excerpt: 'Given a morphism out of the Φ-image: FMP:M→P,F\_{MP} : \\mathcal{M} \\to
-  \\mathcal{P},FMP​:M→P, there exists a unique 2-cell:'
-heading: '**7\. Step 3 — Π is the universal right-projection**'
 id: GEN13-2435
-lines: 2356-2375
 location: genesis-13/the-weight-of-light::7-step-3-π-is-the-universal-right-projection::b1
 source: genesis-13\The_Weight_of_Light.md
+lines: 2356-2375
+heading: '**7\. Step 3 — Π is the universal right-projection**'
+block_type: paragraph
+excerpt: 'Given a morphism out of the Φ-image: FMP:M→P,F\_{MP} : \\mathcal{M} \\to
+  \\mathcal{P},FMP​:M→P, there exists a unique 2-cell:'
+concepts:
+- Φ
+- Π
+- θ
+- →
+- Φ-image
+aliases:
+- Bk633gm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.8125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

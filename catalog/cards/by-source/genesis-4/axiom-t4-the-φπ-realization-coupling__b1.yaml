@@ -1,12 +1,29 @@
+id: GEN4-7809
+location: genesis-4/the-adjoint-triple::the-δφ-tri-unity-transition-box::axiom-t4-the-φπ-realization-coupling::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1562-1582
+heading: '**Axiom T4 — The Φ–π Realization Coupling**'
+parent_heading: '**✦ THE δ–Φ → TRI-UNITY TRANSITION BOX**'
 block_type: paragraph
-concepts:
-- Φ
-- σ
 excerpt: 'There exists a realization functor: R:σ-ToposΦ⟶MMπR : \\sigma\\text{-Topos}\_{\\Phi}
   \\longrightarrow MM\_{\\pi}R:σ-ToposΦ​⟶MMπ​ which upgrades:'
-heading: '**Axiom T4 — The Φ–π Realization Coupling**'
-id: GEN4-7809
-lines: 1562-1582
-location: genesis-4/the-adjoint-triple::the-δφ-tri-unity-transition-box::axiom-t4-the-φπ-realization-coupling::b1
-parent_heading: '**✦ THE δ–Φ → TRI-UNITY TRANSITION BOX**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- π
+- Φ
+- →
+- σ
+aliases:
+- Bk627te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,29 @@
+id: GEN8-8834
+location: genesis-8/meta-time-geometry-and-temporal-projection::1-2d-string-diagram-stack::13-the-functorial-tri-unity-layer::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 1182-1194
+heading: '**1.3 The Functorial Tri-Unity Layer**'
+parent_heading: '**1\. 2D STRING DIAGRAM STACK**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '`Genesis ──δ──▶ Math ──Φ──▶ Physics ──Π──▶ Classical` * δ maps *potential
   → relational structure* * Φ maps *relational structure → dynamical modes*'
-heading: '**1.3 The Functorial Tri-Unity Layer**'
-id: GEN8-8834
-lines: 1182-1194
-location: genesis-8/meta-time-geometry-and-temporal-projection::1-2d-string-diagram-stack::13-the-functorial-tri-unity-layer::b1
-parent_heading: '**1\. 2D STRING DIAGRAM STACK**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- →
+- Π
+- δ
+- Φ
+aliases:
+- Bk128gm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

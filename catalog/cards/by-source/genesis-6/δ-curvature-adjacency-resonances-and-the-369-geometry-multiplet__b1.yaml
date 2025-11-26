@@ -1,14 +1,34 @@
+id: GEN6-8352
+location: genesis-6/spectral-triple-axiom-box-sealed-version::meta-einstein-interpretation-of-the-99-δ-spectral-decomposition-matrix::δ-curvature-adjacency-resonances-and-the-369-geometry-multiplet::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 1311-1321
+heading: '***(δ-Curvature, Adjacency Resonances, and the 3–6–9 Geometry Multiplet)***'
+parent_heading: '**META-EINSTEIN INTERPRETATION OF THE 9×9 δ-SPECTRAL DECOMPOSITION
+  MATRIX**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- δ
 excerpt: Let S9×9=(⟨ψi, Dδ2 ψj⟩)i,j≤9\\mathbf{S}\_{9\\times 9} \= \\left(\\langle
   \\psi\_i,\\ \\mathcal{D}\_\\delta^2\\ \\psi\_j\\rangle\\right)\_{i,j\\le 9}S9×9​=(⟨ψi​,
   Dδ2​ ψj​⟩)i,j≤9​ be the truncated δ-spe...
-heading: '***(δ-Curvature, Adjacency Resonances, and the 3–6–9 Geometry Multiplet)***'
-id: GEN6-8352
-lines: 1311-1321
-location: genesis-6/spectral-triple-axiom-box-sealed-version::meta-einstein-interpretation-of-the-99-δ-spectral-decomposition-matrix::δ-curvature-adjacency-resonances-and-the-369-geometry-multiplet::b1
-parent_heading: '**META-EINSTEIN INTERPRETATION OF THE 9×9 δ-SPECTRAL DECOMPOSITION
-  MATRIX**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- is canonically interpretable as the curvature generator of the Meta-Einstein geometry
+- Meta-Einstein
+- ψ
+- δ
+- ≤
+- δ-harmonic
+- δ-spectral
+aliases:
+- Bk811lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.722222222222223
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,29 @@
+id: GEN13-2508
+location: genesis-13/what-biology-is-in-meta-genesis::7-expansion-options-choose-the-next-step::c1b::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 748-750
+heading: '**(C1b)**'
+parent_heading: '**7\. Expansion Options — choose the next step**'
 block_type: paragraph
+excerpt: '**The F₀ Rotor as a δ-Adjacency Curvature Pump.**'
 concepts:
+- Curvature
+- Adjacency
+- δ-Adjacency
 - Adjacency Curvature Pump
 - δ
-excerpt: '**The F₀ Rotor as a δ-Adjacency Curvature Pump.**'
-heading: '**(C1b)**'
-id: GEN13-2508
-lines: 748-750
-location: genesis-13/what-biology-is-in-meta-genesis::7-expansion-options-choose-the-next-step::c1b::b1
-parent_heading: '**7\. Expansion Options — choose the next step**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+aliases:
+- Bk463tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 55.55555555555556
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

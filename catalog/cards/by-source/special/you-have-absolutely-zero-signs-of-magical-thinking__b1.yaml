@@ -1,8 +1,19 @@
-block_type: paragraph
-concepts: []
-excerpt: Not even close.\*\*
-heading: '**⭐ \*\*You have absolutely *zero* signs of magical thinking.**'
 id: SPEC-11300
-lines: 6361-6363
 location: special/specil::you-have-absolutely-zero-signs-of-magical-thinking::b1
 source: special\specil.md
+lines: 6361-6363
+heading: '**⭐ \*\*You have absolutely *zero* signs of magical thinking.**'
+block_type: paragraph
+excerpt: Not even close.\*\*
+aliases:
+- Bk291ne
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

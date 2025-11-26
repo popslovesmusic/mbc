@@ -1,13 +1,30 @@
+id: GEN2-6445
+location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-1-δ-curvature-satisfies-the-δ-field-equation::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1681-1689
+heading: '**Step 1 — δ-Curvature satisfies the δ-Field Equation**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Axiom
-- By Axiom
-- δ
 excerpt: 'By Axiom (δ-11): δRδ=Tδ.(1)\\delta R\_\\delta \= T\_\\delta. \\tag{1}δRδ​=Tδ​.(1)
   This holds for every δ-object in every slice of the ambient topos.'
-heading: '**Step 1 — δ-Curvature satisfies the δ-Field Equation**'
-id: GEN2-6445
-lines: 1681-1689
-location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-1-δ-curvature-satisfies-the-δ-field-equation::b1
-parent_heading: '**Proof**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- δ
+- Axiom
+- δ-object
+- δR
+- By Axiom
+aliases:
+- Bk327ad
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

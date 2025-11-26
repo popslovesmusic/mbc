@@ -1,14 +1,30 @@
+id: GEN18-5602
+location: genesis-18/sealed-axiom-box::the-monistic-consistency-axiom-box-supreme-closure::right-column-standard-physics-math-correspondence::3-curvature-monism-axiom::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 57-74
+heading: '**3\. Curvature-Monism Axiom**'
+parent_heading: '**Right Column — Standard Physics / Math Correspondence**'
 block_type: paragraph
-concepts:
-- Kaluza-Klein
-- everything
-- δ
 excerpt: '**IGSOA:** All “forces,” “distances,” and “potentials” are curvature modes
   of δ. All physical observables=δ-curvature projections\\text{All physical observables}
   \= \\text{δ-curvature projections}All ...'
-heading: '**3\. Curvature-Monism Axiom**'
-id: GEN18-5602
-lines: 57-74
-location: genesis-18/sealed-axiom-box::the-monistic-consistency-axiom-box-supreme-closure::right-column-standard-physics-math-correspondence::3-curvature-monism-axiom::b1
-parent_heading: '**Right Column — Standard Physics / Math Correspondence**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- IGSOA
+- δ
+- δ-curvature
+- Kaluza-Klein
+- everything
+aliases:
+- Bk347ia
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.578947368421052
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

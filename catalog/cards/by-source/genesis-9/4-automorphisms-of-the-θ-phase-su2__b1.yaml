@@ -1,13 +1,32 @@
+id: GEN9-9483
+location: genesis-9/strong-force::4-automorphisms-of-the-θ-phase-su2::b1
+source: genesis-9\strong-force.md
+lines: 676-700
+heading: '**4\. Automorphisms of the θ-Phase (SU(2))**'
 block_type: paragraph
-concepts:
-- δ
-- μ
-- ν
 excerpt: 'A 2-phase cyclic object has an automorphism group: Aut(θ)=SU(2).\\mathrm{Aut}(\\theta)
   \= SU(2).Aut(θ)=SU(2). This is because the set of unitary transformations acting
   on a doublet with determinant 1 ...'
-heading: '**4\. Automorphisms of the θ-Phase (SU(2))**'
-id: GEN9-9483
-lines: 676-700
-location: genesis-9/strong-force::4-automorphisms-of-the-θ-phase-su2::b1
-source: genesis-9\strong-force.md
+concepts:
+- μ
+- ν
+- ∂
+- ∈
+- spin-connection
+- δ
+- θ
+aliases:
+- Bk053pc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.977272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

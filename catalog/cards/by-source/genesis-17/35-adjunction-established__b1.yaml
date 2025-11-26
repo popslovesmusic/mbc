@@ -1,11 +1,26 @@
+id: GEN17-4436
+location: genesis-17/box-calculus::φπ::35-adjunction-established::b1
+source: genesis-17\box_calculus.md
+lines: 4409-4416
+heading: ⭐ 3.5 ADJUNCTION ESTABLISHED
+parent_heading: Φ⊣Π
 block_type: paragraph
+excerpt: Φ⊣Π Φ⊣Π ​
 concepts:
 - Π
 - Φ
-excerpt: Φ⊣Π Φ⊣Π ​
-heading: ⭐ 3.5 ADJUNCTION ESTABLISHED
-id: GEN17-4436
-lines: 4409-4416
-location: genesis-17/box-calculus::φπ::35-adjunction-established::b1
-parent_heading: Φ⊣Π
-source: genesis-17\box_calculus.md
+aliases:
+- Bk074tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

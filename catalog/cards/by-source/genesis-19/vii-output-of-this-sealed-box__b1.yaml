@@ -1,20 +1,38 @@
-block_type: list
-concepts:
-- Polarity Algebra Theorem
-- Semantic Classifier Map
-- The Polarity
-- The Polarity Logic Gate Table
-- The Polarity Tensor Algebra
-- Theorem
-- polarity
-- Θ
-- Π
-- Φ
-- δ
-excerpt: 1. A fully defined **polarity algebra** 2. A polarity-router operator 3.
-  A deterministic Π-collapse rule
-heading: '**VII. Output of This Sealed Box**'
 id: GEN19-5880
-lines: 116-141
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::vii-output-of-this-sealed-box::b1
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 116-141
+heading: '**VII. Output of This Sealed Box**'
+block_type: list
+excerpt: 1. A fully defined **polarity algebra** 2. A polarity-router operator 3.
+  A deterministic Π-collapse rule
+concepts:
+- Polarity
+- MBC
+- Theorem
+- →
+- Classifier
+- Gate
+- The full Polarity Algebra Theorem
+- The Polarity
+- Π
+- Θ
+- polarity-router
+- The Polarity Logic Gate Table
+- polarity
+- The Polarity Tensor Algebra
+- Π-collapse
+aliases:
+- Bk002fd
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.2020202020202
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Λ
-excerpt: 'We must show: Λ(T(M))≡M Λ(T(M))≡M'
-heading: ⭐ 4\. The Heart of the Equivalence
 id: GEN17-4508
-lines: 5795-5803
 location: genesis-17/box-calculus::4-the-heart-of-the-equivalence::b1
 source: genesis-17\box_calculus.md
+lines: 5795-5803
+heading: ⭐ 4\. The Heart of the Equivalence
+block_type: paragraph
+excerpt: 'We must show: Λ(T(M))≡M Λ(T(M))≡M'
+concepts:
+- Λ
+aliases:
+- Bk553ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

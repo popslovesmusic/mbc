@@ -1,14 +1,33 @@
+id: GEN2-6557
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a-narrative-intuitive-physics-explanation::2-the-first-flicker-of-something-δψ₀::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 1230-1255
+heading: '**2\. The First Flicker of Something: δΨ₀**'
+parent_heading: '**A Narrative / Intuitive Physics Explanation**'
 block_type: paragraph
-concepts:
-- Zero-State
-- creates
-- Ψ
-- δ
 excerpt: 'The moment the Zero-State fails to remain perfectly identical, a tiny “not-quite-the-same”
   appears. This is **δΨ₀**, the first deviation. You can think of δΨ₀ as:'
-heading: '**2\. The First Flicker of Something: δΨ₀**'
-id: GEN2-6557
-lines: 1230-1255
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a-narrative-intuitive-physics-explanation::2-the-first-flicker-of-something-δψ₀::b1
-parent_heading: '**A Narrative / Intuitive Physics Explanation**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- Deviation
+- δ
+- State
+- not-quite-the-same
+- Ψ
+- pre-existing
+- Zero-State
+- Ψ₀
+aliases:
+- Bk614tm
+tags:
+- qualified
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.080808080808081
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

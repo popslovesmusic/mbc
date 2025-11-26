@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'I can generate:'
-heading: '**Where do you want to expand next?**'
 id: GEN14-3057
-lines: 1980-1982
 location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::where-do-you-want-to-expand-next::b1
 source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1980-1982
+heading: '**Where do you want to expand next?**'
+block_type: paragraph
+excerpt: 'I can generate:'
+aliases:
+- Bk197cg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

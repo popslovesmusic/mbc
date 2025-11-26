@@ -1,11 +1,25 @@
-block_type: paragraph
-concepts:
-- Type Theory
-- λ
-excerpt: 'Implication 1: You get a single universal law for the entire system. Implication
-  2:'
-heading: '⭐ Final Summary: What are the implications of the rewrite?'
 id: GEN17-4725
-lines: 8498-8516
 location: genesis-17/box-calculus::final-summary-what-are-the-implications-of-the-rewrite::b1
 source: genesis-17\box_calculus.md
+lines: 8498-8516
+heading: '⭐ Final Summary: What are the implications of the rewrite?'
+block_type: paragraph
+excerpt: 'Implication 1: You get a single universal law for the entire system. Implication
+  2:'
+concepts:
+- IGSOA
+- →
+- λ
+- Type Theory
+aliases:
+- Bk770iy
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

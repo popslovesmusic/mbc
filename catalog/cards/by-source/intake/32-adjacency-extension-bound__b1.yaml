@@ -1,14 +1,30 @@
+id: INTK-10175
+location: intake/meta-genesis-meta-math-integration-papers::3-adjacency-boundary-conditions::32-adjacency-extension-bound::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 79-89
+heading: '**3.2 Adjacency Extension Bound**'
+parent_heading: '**3\. Adjacency Boundary Conditions**'
 block_type: paragraph
+excerpt: 'An operator altering adjacency must do so boundedly: ∣A(OΨ)∣−∣A(Ψ)∣≤αO,|A(\\mathcal{O}\\Psi)|
+  \- |A(\\Psi)| \\le \\alpha\_\\mathcal{O},∣A(OΨ)∣−∣A(Ψ)∣≤αO​, where αO\\alpha\_\\mathcal{O}αO​
+  is the opera...'
 concepts:
 - Meta-Time
 - Ψ
 - α
-excerpt: 'An operator altering adjacency must do so boundedly: ∣A(OΨ)∣−∣A(Ψ)∣≤αO,|A(\\mathcal{O}\\Psi)|
-  \- |A(\\Psi)| \\le \\alpha\_\\mathcal{O},∣A(OΨ)∣−∣A(Ψ)∣≤αO​, where αO\\alpha\_\\mathcal{O}αO​
-  is the opera...'
-heading: '**3.2 Adjacency Extension Bound**'
-id: INTK-10175
-lines: 79-89
-location: intake/meta-genesis-meta-math-integration-papers::3-adjacency-boundary-conditions::32-adjacency-extension-bound::b1
-parent_heading: '**3\. Adjacency Boundary Conditions**'
-source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+- ≤
+- adjacency index
+aliases:
+- Bk967oa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.47457627118644
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

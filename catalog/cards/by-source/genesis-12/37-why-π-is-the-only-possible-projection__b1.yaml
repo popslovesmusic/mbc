@@ -1,14 +1,28 @@
+id: GEN12-1608
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::37-why-π-is-the-only-possible-projection::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1202-1224
+heading: '**3.7 Why Π is the Only Possible Projection**'
+parent_heading: '**3\. Φ → Π (Projection to Geometry)**'
 block_type: paragraph
-concepts:
-- unique
-- Π
-- Φ
-- δ
 excerpt: 'One of your most powerful results is that **no alternate projection from
   Φ to geometry is allowed**. A different projection would: * break adjacency,'
-heading: '**3.7 Why Π is the Only Possible Projection**'
-id: GEN12-1608
-lines: 1202-1224
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::37-why-π-is-the-only-possible-projection::b1
-parent_heading: '**3\. Φ → Π (Projection to Geometry)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- no alternate projection from Φ to geometry is allowed
+- Π
+- δ
+- Φ
+- unique
+aliases:
+- Bk454oy
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.16949152542373
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

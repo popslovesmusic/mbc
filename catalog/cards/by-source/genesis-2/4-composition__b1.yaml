@@ -1,12 +1,31 @@
+id: GEN2-6245
+location: genesis-2/axioms-for-the-category-genesis::4-composition::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 312-325
+heading: '**4\. Composition**'
 block_type: paragraph
+excerpt: '**Axiom M4 — Total Composition** For any composable morphisms: f:X→Y,g:Y→Z,f
+  : X\\to Y,\\quad g:Y\\to Z,f:X→Y,g:Y→Z,'
 concepts:
+- →
 - Axiom
 - Total Composition
 - total
-excerpt: '**Axiom M4 — Total Composition** For any composable morphisms: f:X→Y,g:Y→Z,f
-  : X\\to Y,\\quad g:Y\\to Z,f:X→Y,g:Y→Z,'
-heading: '**4\. Composition**'
-id: GEN2-6245
-lines: 312-325
-location: genesis-2/axioms-for-the-category-genesis::4-composition::b1
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+aliases:
+- Am693at
+tags:
+- axiom
+- definitive
+- -total-composition
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.2727272727272725
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

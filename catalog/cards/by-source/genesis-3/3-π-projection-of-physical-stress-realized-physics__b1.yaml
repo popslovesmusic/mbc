@@ -1,14 +1,32 @@
+id: GEN3-7503
+location: genesis-3/the-tri-unity-theorem::iii-term-by-term-definitions::3-π-projection-of-physical-stress-realized-physics::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 360-372
+heading: '**3\. π-Projection of Physical Stress (realized physics)**'
+parent_heading: '**III. Term-by-Term Definitions**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- consistency
-- Φ
-- δ
 excerpt: 'π∗Tphys\\pi^{\*}T\_{\\text{phys}}π∗Tphys​ is the pullback of realized stress-energy
   into the δ–Φ pre-physical layer. It enforces **consistency**:'
-heading: '**3\. π-Projection of Physical Stress (realized physics)**'
-id: GEN3-7503
-lines: 360-372
-location: genesis-3/the-tri-unity-theorem::iii-term-by-term-definitions::3-π-projection-of-physical-stress-realized-physics::b1
-parent_heading: '**III. Term-by-Term Definitions**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Tri-Unity
+- π
+- stress-energy
+- pre-physical
+- δ
+- Φ
+- consistency
+aliases:
+- Bk065tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

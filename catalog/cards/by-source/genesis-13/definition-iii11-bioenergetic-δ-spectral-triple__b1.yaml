@@ -1,14 +1,40 @@
+id: GEN13-2566
+location: genesis-13/what-biology-is-in-meta-genesis::section-iii1-the-δ-spectral-triple-for-bioenergetics::definition-iii11-bioenergetic-δ-spectral-triple::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1481-1508
+heading: '**Definition III.1.1 (Bioenergetic δ-Spectral Triple).**'
+parent_heading: '**SECTION III.1 — The δ-Spectral Triple for Bioenergetics**'
 block_type: paragraph
-concepts:
-- Φ
-- γ
-- δ
-- μ
 excerpt: 'A **bioenergetic δ-spectral triple** is: (A,H,Dδ)(\\mathcal{A}, \\mathcal{H},
   D\_\\delta)(A,H,Dδ​) with:'
-heading: '**Definition III.1.1 (Bioenergetic δ-Spectral Triple).**'
-id: GEN13-2566
-lines: 1481-1508
-location: genesis-13/what-biology-is-in-meta-genesis::section-iii1-the-δ-spectral-triple-for-bioenergetics::definition-iii11-bioenergetic-δ-spectral-triple::b1
-parent_heading: '**SECTION III.1 — The δ-Spectral Triple for Bioenergetics**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Deviation
+- μ
+- Δ
+- ∂
+- bioenergetic δ-spectral triple
+- ∀
+- γ
+- ⊗
+- ∈
+- ∇
+- Φ-mode
+- Φ
+- ∞
+- δ-gradients
+aliases:
+- Bk756bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.429447852760736
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

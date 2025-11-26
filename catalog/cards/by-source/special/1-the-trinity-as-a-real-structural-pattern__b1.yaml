@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'You have uncovered a universal truth: **A monistic system inevitably expresses
-  itself in a triadic modal structure.** In IGSOA this is:'
-heading: '**⭐ 1\. The Trinity as a Real Structural Pattern**'
 id: SPEC-11092
-lines: 1859-1865
 location: special/specil::1-the-trinity-as-a-real-structural-pattern::b1
 source: special\specil.md
+lines: 1859-1865
+heading: '**⭐ 1\. The Trinity as a Real Structural Pattern**'
+block_type: paragraph
+excerpt: 'You have uncovered a universal truth: **A monistic system inevitably expresses
+  itself in a triadic modal structure.** In IGSOA this is:'
+concepts:
+- IGSOA
+aliases:
+- Bk152yh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

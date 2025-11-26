@@ -19,10 +19,17 @@ def generate_analytics_html(catalog_dir: str = "catalog", output_dir: str = "cat
     catalog_dir = Path(catalog_dir)
     output_dir = Path(output_dir)
 
-    # Load cards
+    # Load enhanced cards if available, otherwise basic cards
+    enhanced_cards_file = catalog_dir / "indexes" / "cards-enhanced.jsonl"
     cards_file = catalog_dir / "indexes" / "cards.jsonl"
-    if not cards_file.exists():
+
+    if enhanced_cards_file.exists():
+        cards_file = enhanced_cards_file
+        print(f"Using enhanced cards with full semantic metrics")
+    elif not cards_file.exists():
         raise FileNotFoundError(f"Cards file not found: {cards_file}")
+    else:
+        print(f"Using basic cards (enhanced cards not found)")
 
     cards = []
     with open(cards_file, 'r', encoding='utf-8') as f:
@@ -85,6 +92,32 @@ def collect_statistics(cards: List[Dict]) -> Dict:
     depth_counts = Counter(location_depths)
     stats['by_depth'] = dict(sorted(depth_counts.items()))
 
+    # Enhanced metrics (if available)
+    stats['total_cards'] = len(cards)
+    stats['formal_count'] = sum(1 for c in cards if c.get('is_formal'))
+    stats['technical_count'] = sum(1 for c in cards if c.get('is_technical'))
+    stats['definitive_count'] = sum(1 for c in cards if c.get('is_definitive'))
+    stats['contradiction_count'] = sum(1 for c in cards if c.get('has_contradictions'))
+    stats['ambiguity_count'] = sum(1 for c in cards if c.get('has_ambiguity'))
+
+    # Formal statements by type
+    formal_types = Counter(c.get('statement_type') for c in cards if c.get('statement_type'))
+    stats['formal_types'] = dict(formal_types)
+
+    # Quality score distributions
+    conversational_scores = [c.get('conversational_score', 0) for c in cards]
+    stats['avg_conversational'] = sum(conversational_scores) / len(conversational_scores) if conversational_scores else 0
+
+    severity_scores = [c.get('max_severity', 0) for c in cards]
+    stats['avg_severity'] = sum(severity_scores) / len(severity_scores) if severity_scores else 0
+
+    # Tag distribution
+    all_tags = []
+    for card in cards:
+        all_tags.extend(card.get('tags', []))
+    tag_freq = Counter(all_tags)
+    stats['top_tags'] = dict(tag_freq.most_common(15))
+
     return stats
 
 
@@ -106,6 +139,13 @@ def create_analytics_html(stats: Dict, total_cards: int) -> str:
 
     depth_labels = [f"Depth {d}" for d in stats['by_depth'].keys()]
     depth_values = list(stats['by_depth'].values())
+
+    # Enhanced metric data
+    formal_type_labels = list(stats.get('formal_types', {}).keys())
+    formal_type_values = list(stats.get('formal_types', {}).values())
+
+    tag_labels = list(stats.get('top_tags', {}).keys())
+    tag_values = list(stats.get('top_tags', {}).values())
 
     html = f'''<!DOCTYPE html>
 <html lang="en">
@@ -219,16 +259,32 @@ def create_analytics_html(stats: Dict, total_cards: int) -> str:
     <div class="content">
         <div id="overview" class="stats-overview">
             <div class="stat-card">
-                <div class="value">{total_cards}</div>
+                <div class="value">{total_cards:,}</div>
                 <div class="label">Total Cards</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">{stats.get('formal_count', 0):,}</div>
+                <div class="label">Formal Statements</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">{stats.get('technical_count', 0):,}</div>
+                <div class="label">Technical Blocks</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">{stats.get('definitive_count', 0):,}</div>
+                <div class="label">Definitive Statements</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">{stats.get('contradiction_count', 0):,}</div>
+                <div class="label">Contradictions</div>
+            </div>
+            <div class="stat-card">
+                <div class="value">{stats.get('ambiguity_count', 0):,}</div>
+                <div class="label">Ambiguous Blocks</div>
             </div>
             <div class="stat-card">
                 <div class="value">{len(stats['by_directory'])}</div>
                 <div class="label">Directories</div>
-            </div>
-            <div class="stat-card">
-                <div class="value">{len(stats['by_type'])}</div>
-                <div class="label">Block Types</div>
             </div>
             <div class="stat-card">
                 <div class="value">{len(stats['top_concepts'])}</div>
@@ -262,6 +318,18 @@ def create_analytics_html(stats: Dict, total_cards: int) -> str:
             <div class="chart-container full-width">
                 <h2>Top 30 Concepts</h2>
                 <canvas id="conceptsChart"></canvas>
+            </div>
+        </div>
+
+        <div id="enhanced" class="chart-grid">
+            <div class="chart-container">
+                <h2>Formal Statements by Type</h2>
+                <canvas id="formalTypesChart"></canvas>
+            </div>
+
+            <div class="chart-container">
+                <h2>Top 15 Tags</h2>
+                <canvas id="tagsChart"></canvas>
             </div>
         </div>
     </div>
@@ -386,6 +454,71 @@ def create_analytics_html(stats: Dict, total_cards: int) -> str:
                 }}
             }}
         }});
+
+        // Formal types chart (pie)
+        new Chart(document.getElementById('formalTypesChart'), {{
+            type: 'pie',
+            data: {{
+                labels: {formal_type_labels},
+                datasets: [{{
+                    data: {formal_type_values},
+                    backgroundColor: [
+                        'rgba(52, 152, 219, 0.8)',
+                        'rgba(46, 204, 113, 0.8)',
+                        'rgba(155, 89, 182, 0.8)',
+                        'rgba(241, 196, 15, 0.8)',
+                        'rgba(231, 76, 60, 0.8)',
+                        'rgba(26, 188, 156, 0.8)'
+                    ],
+                    borderWidth: 2
+                }}]
+            }},
+            options: {{
+                ...chartOptions,
+                plugins: {{
+                    legend: {{
+                        position: 'right'
+                    }}
+                }}
+            }}
+        }});
+
+        // Tags chart (doughnut)
+        new Chart(document.getElementById('tagsChart'), {{
+            type: 'doughnut',
+            data: {{
+                labels: {tag_labels},
+                datasets: [{{
+                    data: {tag_values},
+                    backgroundColor: [
+                        'rgba(52, 152, 219, 0.8)',
+                        'rgba(46, 204, 113, 0.8)',
+                        'rgba(155, 89, 182, 0.8)',
+                        'rgba(241, 196, 15, 0.8)',
+                        'rgba(231, 76, 60, 0.8)',
+                        'rgba(26, 188, 156, 0.8)',
+                        'rgba(230, 126, 34, 0.8)',
+                        'rgba(149, 165, 166, 0.8)',
+                        'rgba(127, 140, 141, 0.8)',
+                        'rgba(192, 57, 43, 0.8)',
+                        'rgba(142, 68, 173, 0.8)',
+                        'rgba(39, 174, 96, 0.8)',
+                        'rgba(41, 128, 185, 0.8)',
+                        'rgba(243, 156, 18, 0.8)',
+                        'rgba(211, 84, 0, 0.8)'
+                    ],
+                    borderWidth: 2
+                }}]
+            }},
+            options: {{
+                ...chartOptions,
+                plugins: {{
+                    legend: {{
+                        position: 'right'
+                    }}
+                }}
+            }}
+        }});
     </script>
 </body>
 </html>'''
@@ -395,5 +528,5 @@ def create_analytics_html(stats: Dict, total_cards: int) -> str:
 
 if __name__ == "__main__":
     output_file = generate_analytics_html()
-    print(f"\n✓ Analytics page generated!")
+    print(f"\n[OK] Analytics page generated!")
     print(f"Open in browser: file:///{output_file}")

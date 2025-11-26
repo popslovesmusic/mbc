@@ -1,13 +1,28 @@
+id: GEN16-4049
+location: genesis-16/untitled-document::22-second-triangle-identity-ϵπφη1πepsilon-pi-circ-phi-eta-1-piϵπφη1π::mathematical-polarity-formal-proof::conclusion::b1
+source: genesis-16\Untitled_document.md
+lines: 3996-4000
+heading: '**⭐ Conclusion**'
+parent_heading: '**Mathematical Polarity (Formal Proof)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- η
 excerpt: ϵΠ∘Φη=1Π\\boxed{ \\epsilon\_\\Pi \\circ \\Phi\\eta \= 1\_\\Pi }ϵΠ​∘Φη=1Π​​
   ---
-heading: '**⭐ Conclusion**'
-id: GEN16-4049
-lines: 3996-4000
-location: genesis-16/untitled-document::22-second-triangle-identity-ϵπφη1πepsilon-pi-circ-phi-eta-1-piϵπφη1π::mathematical-polarity-formal-proof::conclusion::b1
-parent_heading: '**Mathematical Polarity (Formal Proof)**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Π
+- η
+- Φ
+aliases:
+- Bk773be
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

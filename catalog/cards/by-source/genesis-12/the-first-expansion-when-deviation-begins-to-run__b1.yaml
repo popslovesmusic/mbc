@@ -1,13 +1,31 @@
+id: GEN12-1819
+location: genesis-12/untitled-document::narrative-chapter-how-structure-emerges-from-deviation::the-first-expansion-when-deviation-begins-to-run::b1
+source: genesis-12\Untitled_document.md
+lines: 1510-1527
+heading: '**The First Expansion: When Deviation Begins to Run**'
+parent_heading: '**Narrative Chapter: How Structure Emerges from Deviation**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: As δ amplifies through Φ, the universe undergoes the first great acceleration.
   Not because some inflaton rolls down a potential, but because **asymmetry refuses
   to relax**. Φ takes the tiny curvature ...
-heading: '**The First Expansion: When Deviation Begins to Run**'
-id: GEN12-1819
-lines: 1510-1527
-location: genesis-12/untitled-document::narrative-chapter-how-structure-emerges-from-deviation::the-first-expansion-when-deviation-begins-to-run::b1
-parent_heading: '**Narrative Chapter: How Structure Emerges from Deviation**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- Φ
+- asymmetry refuses to relax
+- δ-mode
+- first resonance
+aliases:
+- Bk526at
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.319148936170213
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

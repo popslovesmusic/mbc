@@ -1,25 +1,42 @@
+id: GEN10-672
+location: genesis-10/how-stillness-becomes-solid::quantum-hall-states-from-meta-genesis::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 90-109
+heading: '**\*\*Quantum Hall States from Meta-Genesis:**'
 block_type: paragraph
-concepts:
-- Adjacency Space
-- Axiom
-- Axiom Box
-- Box
-- Curvature Form
-- Curvature Quantization
-- Meta-Genesis
-- One Direction
-- Quantum Hall
-- The Hall Quantization Axiom
-- Tri-Unity
-- Universe Forces Currents
-- Within Meta
-- Π
-- Φ
 excerpt: Curvature Quantization in Adjacency Space\*\* **Abstract (δ-Geometry / Meta-Genesis
   formal style):** This work derives the Quantum Hall hierarchy directly from the
   δ-Geometry foundation layer, showing...
-heading: '**\*\*Quantum Hall States from Meta-Genesis:**'
-id: GEN10-672
-lines: 90-109
-location: genesis-10/how-stillness-becomes-solid::quantum-hall-states-from-meta-genesis::b1
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- δ
+- Meta-Genesis
+- Tri-Unity
+- Curvature
+- Adjacency
+- IGSOA
+- Axiom
+- Π
+- →
+- Theorem
+- δ-curvature
+- δ-Geometry
+- cyclotron-resonant
+- Box
+- Φ
+aliases:
+- Bk479cq
+tags:
+- axiom-box
+- qualified
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.537444933920703
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

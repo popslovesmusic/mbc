@@ -1,10 +1,37 @@
+id: GEN2-6500
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-two-categories::11-δ-geometry-category-dgδmathbfdg-deltadgδ::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 338-362
+heading: '**1.1 δ-Geometry Category DGδ\\mathbf{DG}\_\\deltaDGδ​**'
+parent_heading: '**1\. The Two Categories**'
 block_type: paragraph
+excerpt: 'Objects: * δ-mode manifolds XXX * Each point p∈Xp\\in Xp∈X carries a δ-spectrum'
 concepts:
 - δ
-excerpt: 'Objects: * δ-mode manifolds XXX * Each point p∈Xp\\in Xp∈X carries a δ-spectrum'
-heading: '**1.1 δ-Geometry Category DGδ\\mathbf{DG}\_\\deltaDGδ​**'
-id: GEN2-6500
-lines: 338-362
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-two-categories::11-δ-geometry-category-dgδmathbfdg-deltadgδ::b1
-parent_heading: '**1\. The Two Categories**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+- δn
+- ∇
+- ∈
+- ≥
+- scale-advancing
+- δ-connection
+- δ-curvature
+- δ-spectrum
+- δ-maps
+- δ-mode
+- δnY
+- δnX
+aliases:
+- Bk013om
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.745098039215685
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,37 @@
+id: GEN13-2531
+location: genesis-13/what-biology-is-in-meta-genesis::2-φ-mode-structure-of-transduction::theorem-22-cyclic-mode-necessity::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1005-1013
+heading: '**Theorem 2.2 (Cyclic Mode Necessity).**'
+parent_heading: '**2\. Φ-Mode Structure of Transduction**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'For any δ-operator with non-zero curvature defect, the Φ-image contains
   a cyclic mode object: Δδ∈D⇒∃R∈H:Φ(Δδ)=LR.\\Delta\_\\delta \\in \\mathcal{D} \\quad
   \\Rightarrow \\quad \\exists R \\in \\mathcal...'
-heading: '**Theorem 2.2 (Cyclic Mode Necessity).**'
-id: GEN13-2531
-lines: 1005-1013
-location: genesis-13/what-biology-is-in-meta-genesis::2-φ-mode-structure-of-transduction::theorem-22-cyclic-mode-necessity::b1
-parent_heading: '**2\. Φ-Mode Structure of Transduction**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Δ
+- ∈
+- Φ
+- Proof
+- ∃
+- non-trivial
+- δ-operator
+- non-zero
+- Φ-image
+aliases:
+- Bk095fa
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.084507042253522
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,33 @@
+id: INTK-10787
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-math-interpretation-of-quantum-gravity::2-the-meta-geometric-substrate::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 2194-2213
+heading: '**2\. The Meta-Geometric Substrate**'
+parent_heading: '**Meta-Math Interpretation of Quantum Gravity**'
 block_type: paragraph
-concepts:
-- Meta-Geometry
-- Peakset Probability Geometry
-- emerges
-- peaksets
-- δ
 excerpt: Meta-Geometry is defined not on a manifold but on the **Peakset Probability
   Geometry (PPG)** — a scale-layered space of *peaksets*, which are clustering structures
   of δ-intensity. Each peakset carries...
-heading: '**2\. The Meta-Geometric Substrate**'
-id: INTK-10787
-lines: 2194-2213
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-math-interpretation-of-quantum-gravity::2-the-meta-geometric-substrate::b1
-parent_heading: '**Meta-Math Interpretation of Quantum Gravity**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- δ
+- symmetry-breaking
+- mode-transport
+- Peakset Probability Geometry
+- scale-layered
+- Meta-Geometry
+- δ-transport
+- δ-intensity
+aliases:
+- Bk842mg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.88888888888889
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

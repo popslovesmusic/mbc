@@ -1,14 +1,36 @@
+id: GEN3-7517
+location: genesis-3/the-tri-unity-theorem::tri-unity-axiom-box::axiom-t3-π-projection-realization::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 535-551
+heading: '**Axiom T3 — π (Projection / Realization)**'
+parent_heading: '**▣ TRI-UNITY AXIOM BOX**'
 block_type: paragraph
-concepts:
-- actualization
-- Φ
-- Ψ
-- δ
 excerpt: 'There exists a realization functor π:M→P\\pi: \\mathcal{M} \\to \\mathcal{P}π:M→P
   such that:'
-heading: '**Axiom T3 — π (Projection / Realization)**'
-id: GEN3-7517
-lines: 535-551
-location: genesis-3/the-tri-unity-theorem::tri-unity-axiom-box::axiom-t3-π-projection-realization::b1
-parent_heading: '**▣ TRI-UNITY AXIOM BOX**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- π
+- Φ
+- δ
+- Ψ
+- →
+- non-emptiness
+- Φ-patterns
+- ≠
+- physical existence
+- branch selection
+- actualization
+aliases:
+- Bk548te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.790697674418606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

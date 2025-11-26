@@ -1,13 +1,32 @@
+id: GEN8-8793
+location: genesis-8/meta-time-geometry-and-temporal-projection::0-purpose::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 385-404
+heading: '**0\. PURPOSE**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- engine
-- δ
 excerpt: '**δ** is the first derivative: *the deviation of identity.* All geometry,
   algebra, fields, symmetries, and matter come from iterating δ through your four
   projectors: * **A** \= Adjacency (graph-level)'
-heading: '**0\. PURPOSE**'
-id: GEN8-8793
-lines: 385-404
-location: genesis-8/meta-time-geometry-and-temporal-projection::0-purpose::b1
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- δ
+- Meta-Einstein
+- Adjacency
+- IGSOA
+- graph-level
+- field-level
+- engine
+aliases:
+- Bk475tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

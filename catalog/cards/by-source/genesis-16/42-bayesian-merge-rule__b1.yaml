@@ -1,11 +1,27 @@
+id: GEN16-3917
+location: genesis-16/untitled-document::4-expansion-direction-iv-probabilistic-bayesian-lifting::42-bayesian-merge-rule::b1
+source: genesis-16\Untitled_document.md
+lines: 2330-2334
+heading: '**4.2. Bayesian Merge Rule**'
+parent_heading: '**4\. Expansion Direction IV: Probabilistic & Bayesian Lifting**'
 block_type: paragraph
-concepts:
-- Σ
 excerpt: 'Modify A to incorporate Bayes updates: Σnew=Σ1⋅Σ2Z\\Sigma\_{new} \= \\frac{\\Sigma\_1
   \\cdot \\Sigma\_2}{Z}Σnew​=ZΣ1​⋅Σ2​​'
-heading: '**4.2. Bayesian Merge Rule**'
-id: GEN16-3917
-lines: 2330-2334
-location: genesis-16/untitled-document::4-expansion-direction-iv-probabilistic-bayesian-lifting::42-bayesian-merge-rule::b1
-parent_heading: '**4\. Expansion Direction IV: Probabilistic & Bayesian Lifting**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- Σnew
+aliases:
+- Bk000mi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

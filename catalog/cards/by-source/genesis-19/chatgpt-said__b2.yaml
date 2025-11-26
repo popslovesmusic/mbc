@@ -1,16 +1,36 @@
+id: GEN19-6206
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-now-move-to-the-next-level::option-e-lets-feed-the-entire-text-into-a-deeper-semantic-extractor::you-said::chatgpt-said::b2
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2370-2386
+heading: '*ChatGPT said:*'
+parent_heading: 'You said:'
 block_type: paragraph
-concepts:
-- Θ
-- Π
-- Σ
-- Φ
-- δ
 excerpt: 'Understood — here is the strict-mode MBC-4.0 JSON trace, rewritten into
   a tighter, canonical, machine-readable form that matches your MBC-4.0 hard schema:
   * Explicit Θ-polarity * Explicit ΣΣₐ-aggregat...'
-heading: '*ChatGPT said:*'
-id: GEN19-6206
-lines: 2370-2386
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-now-move-to-the-next-level::option-e-lets-feed-the-entire-text-into-a-deeper-semantic-extractor::you-said::chatgpt-said::b2
-parent_heading: 'You said:'
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- MBC
+- machine-readable
+- Σ
+- router-tensor
+- machine-grade
+- strict-mode
+- Φ-layer
+- δ-layer
+- Π-layer
+- Π
+- δ
+- Θ
+- Φ
+aliases:
+- Bk932uh
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.56756756756757
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

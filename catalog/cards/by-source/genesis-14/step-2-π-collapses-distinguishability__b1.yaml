@@ -1,12 +1,27 @@
+id: GEN14-2894
+location: genesis-14/meta-math-and-cryptography::3-main-theorem-the-no-lift-theorem-for-cryptography::31-proof-structure::step-2-π-collapses-distinguishability::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1509-1522
+heading: '**Step 2 — Π collapses distinguishability.**'
+parent_heading: '**3.1 Proof Structure**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'Π is defined as a lossy functor: Π(x1)=Π(x2) with x1≠x2.Π(x\_1) \= Π(x\_2)
   \\text{ with } x\_1 \\neq x\_2.Π(x1​)=Π(x2​) with x1​=x2​. Thus no left inverse
   Π−1Π^{-1}Π−1 exists:'
-heading: '**Step 2 — Π collapses distinguishability.**'
-id: GEN14-2894
-lines: 1509-1522
-location: genesis-14/meta-math-and-cryptography::3-main-theorem-the-no-lift-theorem-for-cryptography::31-proof-structure::step-2-π-collapses-distinguishability::b1
-parent_heading: '**3.1 Proof Structure**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Π
+- ∉
+- ≠
+- ∈
+aliases:
+- Bk887dl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.194805194805195
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

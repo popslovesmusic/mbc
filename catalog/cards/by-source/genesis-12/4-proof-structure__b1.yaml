@@ -1,8 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: We break the proof into four lemmas. ---
-heading: '**4\. Proof Structure**'
 id: GEN12-1728
-lines: 136-140
 location: genesis-12/untitled-document::4-proof-structure::b1
 source: genesis-12\Untitled_document.md
+lines: 136-140
+heading: '**4\. Proof Structure**'
+block_type: paragraph
+excerpt: We break the proof into four lemmas. ---
+concepts:
+- Proof
+aliases:
+- Bk699bt
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

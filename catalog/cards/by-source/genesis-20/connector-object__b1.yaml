@@ -1,10 +1,25 @@
+id: GEN20-7028
+location: genesis-20/mbc-40-documentaitio-1::conclusion::142-minimal-data-structures-required::connector-object::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4644-4656
+heading: Connector Object
+parent_heading: 14.2 Minimal Data Structures Required
 block_type: paragraph
+excerpt: 'Each connector stores: * source\_box * target\_box'
 concepts:
 - Θ
-excerpt: 'Each connector stores: * source\_box * target\_box'
-heading: Connector Object
-id: GEN20-7028
-lines: 4644-4656
-location: genesis-20/mbc-40-documentaitio-1::conclusion::142-minimal-data-structures-required::connector-object::b1
-parent_heading: 14.2 Minimal Data Structures Required
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk901ec
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.4482758620689653
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

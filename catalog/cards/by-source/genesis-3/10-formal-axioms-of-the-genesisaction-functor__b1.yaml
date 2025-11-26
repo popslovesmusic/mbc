@@ -1,17 +1,37 @@
-block_type: list
-concepts:
-- Adjoint Reconstruction
-- Axiom
-- Functorial Curvature Law
-- Monoidal Consistency
-- Object Promotion
-- Operator
-- Operator Emergence
-- δ
-excerpt: 1. **Axiom (Object Promotion)** Every deviational state has a unique minimal
-  operator-admissible image. 2. **Axiom (δ-Covariance)**
-heading: '**10\. Formal Axioms of the Genesis–Action Functor**'
 id: GEN3-7290
-lines: 281-301
 location: genesis-3/metagenesis::10-formal-axioms-of-the-genesisaction-functor::b1
 source: genesis-3\metagenesis.md
+lines: 281-301
+heading: '**10\. Formal Axioms of the Genesis–Action Functor**'
+block_type: list
+excerpt: 1. **Axiom (Object Promotion)** Every deviational state has a unique minimal
+  operator-admissible image. 2. **Axiom (δ-Covariance)**
+concepts:
+- Axiom
+- Curvature
+- Operator
+- operator-admissible
+- δ
+- second-order
+- δ-Covariance
+- δ-addition
+- Functorial Curvature Law
+- Adjoint Reconstruction
+- Monoidal Consistency
+- Operator Emergence
+- Object Promotion
+aliases:
+- Bk281ao
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.883116883116884
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

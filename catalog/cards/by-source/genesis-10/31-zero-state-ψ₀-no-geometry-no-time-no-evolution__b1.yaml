@@ -1,10 +1,25 @@
+id: GEN10-845
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-from-ψ₀-to-δ-geometry::31-zero-state-ψ₀-no-geometry-no-time-no-evolution::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1544-1562
+heading: '**3.1 Zero-State (Ψ₀): No Geometry, No Time, No Evolution**'
+parent_heading: '**3\. From Ψ₀ to δ-Geometry**'
 block_type: paragraph
+excerpt: 'Ψ₀ is: * structureless * atemporal'
 concepts:
 - Ψ
-excerpt: 'Ψ₀ is: * structureless * atemporal'
-heading: '**3.1 Zero-State (Ψ₀): No Geometry, No Time, No Evolution**'
-id: GEN10-845
-lines: 1544-1562
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-from-ψ₀-to-δ-geometry::31-zero-state-ψ₀-no-geometry-no-time-no-evolution::b1
-parent_heading: '**3\. From Ψ₀ to δ-Geometry**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+- operator-free
+- non-geometric
+- Ψ₀
+aliases:
+- Bk265sa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

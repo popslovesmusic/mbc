@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- nothing
-excerpt: '**Why must deviation exist?** Because if *nothing* existed, it couldn’t
-  stay that way. Nothing has no rules holding it together.'
-heading: '**5\. Outreach Version (Plain English)**'
 id: GEN0-258
-lines: 1466-1499
 location: genesis-0/tri-unity-theorem-equivalence-of::5-outreach-version-plain-english::b1
 source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1466-1499
+heading: '**5\. Outreach Version (Plain English)**'
+block_type: paragraph
+excerpt: '**Why must deviation exist?** Because if *nothing* existed, it couldn’t
+  stay that way. Nothing has no rules holding it together.'
+concepts:
+- Deviation
+- Definition
+- first consequence
+aliases:
+- Bk883wm
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.614457831325301
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

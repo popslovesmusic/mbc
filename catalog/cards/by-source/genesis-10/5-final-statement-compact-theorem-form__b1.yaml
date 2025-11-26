@@ -1,16 +1,42 @@
-block_type: paragraph
-concepts:
-- Theorem
-- Tri-Unity
-- Π
-- Σ
-- Φ
-- δ
-- ν
-excerpt: '**Theorem (δ → Φ → Π Z₂ Invariant):** Let FδF\_\\deltaFδ​ be the δ-curvature
-  on adjacency cycles Σ\\SigmaΣ. Define the δ-parity invariant:'
-heading: '**5\. Final Statement (Compact Theorem Form)**'
 id: GEN10-719
-lines: 603-629
 location: genesis-10/how-stillness-becomes-solid::5-final-statement-compact-theorem-form::b1
 source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 603-629
+heading: '**5\. Final Statement (Compact Theorem Form)**'
+block_type: paragraph
+excerpt: '**Theorem (δ → Φ → Π Z₂ Invariant):** Let FδF\_\\deltaFδ​ be the δ-curvature
+  on adjacency cycles Σ\\SigmaΣ. Define the δ-parity invariant:'
+concepts:
+- δ
+- ν
+- Π
+- Tri-Unity
+- Σ
+- Theorem
+- Π-projection
+- δ-curvature
+- δ-parity
+- ∫
+- Φ
+- →
+- band-inverted
+- Π-edge
+- ΣF
+aliases:
+- Th864ti
+tags:
+- theorem
+- low-uncertainty
+- definitive
+- δ-φ-π-z₂-invariant
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.940298507462686
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

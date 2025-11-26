@@ -1,14 +1,33 @@
+id: GEN3-7383
+location: genesis-3/the-physics-box-diagram::meta-einstein-axiom-box-δφ-symmetric-version::0-purpose-of-the-axiom-box::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 289-293
+heading: '**0\. Purpose of the Axiom Box**'
+parent_heading: '**META-EINSTEIN AXIOM BOX (δ/Φ-SYMMETRIC VERSION)**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- Φ
-- δ
 excerpt: To define the **canonical curvature law** of IGSOA when expressed in the
   δ-generated deviation geometry and its Φ-generated form geometry, such that **Meta-Einstein
   curvature is the unique δ–Φ fixed p...
-heading: '**0\. Purpose of the Axiom Box**'
-id: GEN3-7383
-lines: 289-293
-location: genesis-3/the-physics-box-diagram::meta-einstein-axiom-box-δφ-symmetric-version::0-purpose-of-the-axiom-box::b1
-parent_heading: '**META-EINSTEIN AXIOM BOX (δ/Φ-SYMMETRIC VERSION)**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Meta-Einstein
+- IGSOA
+- Φ
+- δ
+- Φ-generated
+- δ-generated
+- canonical curvature law
+aliases:
+- Bk196dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

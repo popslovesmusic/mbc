@@ -1,20 +1,39 @@
+id: GEN4-7885
+location: genesis-4/the-first-adjacency::8-one-line-summary::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 1274-1287
+heading: '**8\. One-Line Summary**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Meta-Time
-- Physical Time Projection Theorem
-- The First Place
-- The Meta
-- Theorem
-- Time Axiom Box
-- Universe Learned
-- next
 excerpt: '**Meta-Time is the inevitable ordering of deviations; it is the universe’s
   first timeline, predating space, physics, and all geometry.** --- If you want next,
   I can write:'
-heading: '**8\. One-Line Summary**'
-id: GEN4-7885
-lines: 1274-1287
-location: genesis-4/the-first-adjacency::8-one-line-summary::b1
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- Meta-Time
+- Projection
+- Theorem
+- Axiom
+- Box
+- Physical Time Projection Theorem
+- proto-space
+- →
+- The Meta
+- Universe Learned
+- The First Place
+- next
+- Time Axiom Box
+aliases:
+- Bk473mt
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.967741935483872
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

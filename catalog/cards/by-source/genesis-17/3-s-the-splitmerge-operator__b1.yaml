@@ -1,10 +1,25 @@
+id: GEN17-4615
+location: genesis-17/box-calculus::the-3operator-minimal-basis::3-s-the-splitmerge-operator::b1
+source: genesis-17\box_calculus.md
+lines: 7355-7360
+heading: 3\. S — The Split/Merge Operator
+parent_heading: ⭐ THE 3–OPERATOR MINIMAL BASIS
 block_type: list
+excerpt: '* S⁺ \= ρ (polarity split) * S⁻ \= R (router/merge) ---'
 concepts:
 - ρ
-excerpt: '* S⁺ \= ρ (polarity split) * S⁻ \= R (router/merge) ---'
-heading: 3\. S — The Split/Merge Operator
-id: GEN17-4615
-lines: 7355-7360
-location: genesis-17/box-calculus::the-3operator-minimal-basis::3-s-the-splitmerge-operator::b1
-parent_heading: ⭐ THE 3–OPERATOR MINIMAL BASIS
-source: genesis-17\box_calculus.md
+aliases:
+- Bk806ps
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

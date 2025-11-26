@@ -1,13 +1,29 @@
+id: GEN16-4047
+location: genesis-16/untitled-document::22-second-triangle-identity-ϵπφη1πepsilon-pi-circ-phi-eta-1-piϵπφη1π::mathematical-polarity-formal-proof::step-1-write-out-maps::b1
+source: genesis-16\Untitled_document.md
+lines: 3969-3979
+heading: '**Step 1 — Write out maps**'
+parent_heading: '**Mathematical Polarity (Formal Proof)**'
 block_type: list
+excerpt: '* Φη:Π→ΦΠΦ\\Phi\\eta : \\Pi \\to \\Phi\\Pi\\PhiΦη:Π→ΦΠΦ * ϵΠ:ΦΠΦ→Π\\epsilon\_\\Pi
+  : \\Phi\\Pi\\Phi \\to \\PiϵΠ​:ΦΠΦ→Π Compose:'
 concepts:
 - Π
 - Φ
+- →
 - η
-excerpt: '* Φη:Π→ΦΠΦ\\Phi\\eta : \\Pi \\to \\Phi\\Pi\\PhiΦη:Π→ΦΠΦ * ϵΠ:ΦΠΦ→Π\\epsilon\_\\Pi
-  : \\Phi\\Pi\\Phi \\to \\PiϵΠ​:ΦΠΦ→Π Compose:'
-heading: '**Step 1 — Write out maps**'
-id: GEN16-4047
-lines: 3969-3979
-location: genesis-16/untitled-document::22-second-triangle-identity-ϵπφη1πepsilon-pi-circ-phi-eta-1-piϵπφη1π::mathematical-polarity-formal-proof::step-1-write-out-maps::b1
-parent_heading: '**Mathematical Polarity (Formal Proof)**'
-source: genesis-16\Untitled_document.md
+aliases:
+- Bk066pe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

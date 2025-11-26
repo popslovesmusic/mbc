@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: Energy flow \= δ-gradient → Φ-cycle → Π-homeostasis
-heading: '**★ (C) Metabolism as δ-Flux Geometry**'
 id: GEN13-2470
-lines: 173-175
 location: genesis-13/what-biology-is-in-meta-genesis::6-optional-extensions-tell-me-which-direction::c-metabolism-as-δ-flux-geometry::b1
-parent_heading: '**6\. Optional Extensions (tell me which direction):**'
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 173-175
+heading: '**★ (C) Metabolism as δ-Flux Geometry**'
+parent_heading: '**6\. Optional Extensions (tell me which direction):**'
+block_type: paragraph
+excerpt: Energy flow \= δ-gradient → Φ-cycle → Π-homeostasis
+concepts:
+- →
+- Π-homeostasis
+- δ-gradient
+- Φ-cycle
+- Π
+- δ
+- Φ
+aliases:
+- Bk281ef
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 87.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

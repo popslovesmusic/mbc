@@ -1,10 +1,23 @@
+id: GEN20-7007
+location: genesis-20/mbc-40-documentaitio-1::conclusion::132-how-advanced-topics-grow-naturally-from-basic-mbc::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4368-4370
+heading: 13.2 How Advanced Topics Grow Naturally From Basic MBC
+parent_heading: ⭐ Conclusion
 block_type: paragraph
-concepts: []
 excerpt: Advanced material is not “add-on content.” It is the inevitable expansion
   once the basic calculus is understood.
-heading: 13.2 How Advanced Topics Grow Naturally From Basic MBC
-id: GEN20-7007
-lines: 4368-4370
-location: genesis-20/mbc-40-documentaitio-1::conclusion::132-how-advanced-topics-grow-naturally-from-basic-mbc::b1
-parent_heading: ⭐ Conclusion
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- add-on
+aliases:
+- Bk785am
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

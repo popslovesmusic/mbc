@@ -1,11 +1,28 @@
+id: GEN6-8416
+location: genesis-6/the-harmonic-spectral-triple::ii-functorial-consistency-conditions::relating-the-two-categories::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 833-843
+heading: '***(Relating the two categories)***'
+parent_heading: '**II. Functorial Consistency Conditions**'
 block_type: paragraph
-concepts:
-- Action Functor
 excerpt: Let F:Genesis⟶MathF:\\text{Genesis} \\longrightarrow \\text{Math}F:Genesis⟶Math
   be the **Genesis→Action Functor**.
-heading: '***(Relating the two categories)***'
-id: GEN6-8416
-lines: 833-843
-location: genesis-6/the-harmonic-spectral-triple::ii-functorial-consistency-conditions::relating-the-two-categories::b1
-parent_heading: '**II. Functorial Consistency Conditions**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+concepts:
+- Functor
+- →
+- Action Functor
+aliases:
+- Bk234lg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

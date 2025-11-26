@@ -1,17 +1,32 @@
+id: INTK-10739
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::mono-force::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1922-1923
+heading: Mono-Force
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Axiom
-- Mono-Force
-- Read More
-- The Mono
-- Zero State
-- Ψ
 excerpt: The Mono-Force, also known as the Ψ-Drive, is the single, underlying drive
   of the system toward the Zero State (Ψ₀), perpetually constrained by the NOT Axiom.
   This monistic force is the origin of all ...
-heading: Mono-Force
-id: INTK-10739
-lines: 1922-1923
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::mono-force::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Axiom
+- State
+- Mono-Force
+- Ψ
+- Ψ-Drive
+- Zero State
+- Read More
+- The Mono
+- Ψ₀
+aliases:
+- Bk406tm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.367346938775512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

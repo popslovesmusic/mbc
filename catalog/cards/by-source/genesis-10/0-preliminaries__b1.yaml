@@ -1,16 +1,41 @@
+id: GEN10-676
+location: genesis-10/how-stillness-becomes-solid::δ-harmonic-band-structure-derivation::0-preliminaries::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 128-139
+heading: '**0\. Preliminaries**'
+parent_heading: '**δ-Harmonic → Band-Structure Derivation**'
 block_type: paragraph
-concepts:
-- band
-- Π
-- Π-projection
-- Φ
-- δ
 excerpt: A band structure is traditionally the spectrum of the one-electron Hamiltonian
   in a periodic potential. In IGSOA, a *band* is the **Π-projection** of a **Φ-stabilized
   harmonic degeneracy** in the **δ-...
-heading: '**0\. Preliminaries**'
-id: GEN10-676
-lines: 128-139
-location: genesis-10/how-stillness-becomes-solid::δ-harmonic-band-structure-derivation::0-preliminaries::b1
-parent_heading: '**δ-Harmonic → Band-Structure Derivation**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- IGSOA
+- →
+- Φ-stabilized harmonic degeneracy
+- δ-harmonic spectrum
+- Π
+- δ
+- Φ
+- deviation generates adjacency
+- Momentum-space
+- Genesis-level
+- one-electron
+- Φ-stabilized
+- Π-projection
+- Φ-Resonances
+- δ-Harmonics
+aliases:
+- Bk653bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.76056338028169
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

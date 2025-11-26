@@ -1,12 +1,31 @@
-block_type: list
-concepts:
-- Π
-- Φ
-- δ
-excerpt: '* geometric compactness * distinguishability * degeneracy protection'
-heading: '**Π ensures:**'
 id: GEN14-3027
-lines: 1552-1568
 location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iv-derivation-structure::4-π-level-stabilization::π-ensures::b1
-parent_heading: '**4\. Π-Level Stabilization**'
 source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1552-1568
+heading: '**Π ensures:**'
+parent_heading: '**4\. Π-Level Stabilization**'
+block_type: list
+excerpt: '* geometric compactness * distinguishability * degeneracy protection'
+concepts:
+- Π-stabilized
+- δ-adjacency
+- Φ-mode
+- Π
+- δ
+- Φ
+- chemical bond
+aliases:
+- Bk002gc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.434782608695656
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,35 @@
+id: GEN15-3103
+location: genesis-15/the-mass-curvature-projection-theorem::step-1-δ-induces-a-natural-curvature-transformation::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 231-251
+heading: '**STEP 1 — δ induces a natural curvature transformation**'
 block_type: paragraph
-concepts:
-- Axiom
-- Deviation Curvature Axiom
-- functorial
-- δ
 excerpt: 'The **Deviation Curvature Axiom** provides a natural transformation: κ:IdG⇒δ†δ\\kappa
   : \\mathrm{Id}\_\\mathcal{G} \\Rightarrow \\delta^\\dagger \\deltaκ:IdG​⇒δ†δ Concretely,
   for any object X∈GX \\in ...'
-heading: '**STEP 1 — δ induces a natural curvature transformation**'
-id: GEN15-3103
-lines: 231-251
-location: genesis-15/the-mass-curvature-projection-theorem::step-1-δ-induces-a-natural-curvature-transformation::b1
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- δ
+- κ
+- Curvature
+- Deviation
+- Axiom
+- ∈
+- →
+- δ-curvature
+- Deviation Curvature Axiom
+- functorial
+aliases:
+- Bk065td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.547008547008547
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

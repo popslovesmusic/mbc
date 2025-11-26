@@ -1,12 +1,27 @@
+id: GEN15-3221
+location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-proof-derived-from-the-functor-stack::step-5-halo-functor-yields-galaxies::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2179-2185
+heading: '**Step 5: Halo functor yields galaxies**'
+parent_heading: '**Ⅱ. Proof (Derived from the Functor Stack)**'
 block_type: paragraph
+excerpt: Ngal(M,t)=Ghalo(δρ).\\mathcal{N}\_{\\mathrm{gal}}(M,t) \= \\mathcal{G}\_{\\mathrm{halo}}(\\delta\\rho).Ngal​(M,t)=Ghalo​(δρ).
+  This gives the halo mass function, merger trees, galaxy clustering, and vo...
 concepts:
 - δ
 - ρ
-excerpt: Ngal(M,t)=Ghalo(δρ).\\mathcal{N}\_{\\mathrm{gal}}(M,t) \= \\mathcal{G}\_{\\mathrm{halo}}(\\delta\\rho).Ngal​(M,t)=Ghalo​(δρ).
-  This gives the halo mass function, merger trees, galaxy clustering, and vo...
-heading: '**Step 5: Halo functor yields galaxies**'
-id: GEN15-3221
-lines: 2179-2185
-location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-proof-derived-from-the-functor-stack::step-5-halo-functor-yields-galaxies::b1
-parent_heading: '**Ⅱ. Proof (Derived from the Functor Stack)**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+aliases:
+- Bk769ng
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

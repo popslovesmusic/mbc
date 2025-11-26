@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'Why? Because a snowflake: * has no global time'
-heading: '**⭐ 4\. Snowflake-growth analogy is perfect**'
 id: GEN17-4903
-lines: 442-478
 location: genesis-17/key-points::4-snowflake-growth-analogy-is-perfect::b1
 source: genesis-17\Key_Points.md
+lines: 442-478
+heading: '**⭐ 4\. Snowflake-growth analogy is perfect**'
+block_type: paragraph
+excerpt: 'Why? Because a snowflake: * has no global time'
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+aliases:
+- Bk721wb
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.194805194805195
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

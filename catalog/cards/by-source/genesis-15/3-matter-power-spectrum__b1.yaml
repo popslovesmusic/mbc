@@ -1,14 +1,30 @@
+id: GEN15-3203
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version-of-the-stack::3-matter-power-spectrum::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1953-1959
+heading: '**3\. Matter power spectrum**'
+parent_heading: '**Ⅲ. Operator-Theoretic Version of the Stack**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- λ
 excerpt: 'P(k)=T2(k) Pprim(k)P(k)=T^2(k)\\,P\_{\\mathrm{prim}}(k)P(k)=T2(k)Pprim​(k)
   with: Pprim(k)=Π(∑ℓλℓ∣Φℓ(k)∣2).P\_{\\mathrm{prim}}(k) \= \\Pi\\left(\\sum\_\\ell
   \\lambda\_\\ell |\\Phi\_\\ell(k)|^2\\right)....'
-heading: '**3\. Matter power spectrum**'
-id: GEN15-3203
-lines: 1953-1959
-location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version-of-the-stack::3-matter-power-spectrum::b1
-parent_heading: '**Ⅲ. Operator-Theoretic Version of the Stack**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Π
+- ∑
+- λ
+- Φ
+aliases:
+- Bk423pm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.017543859649122
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

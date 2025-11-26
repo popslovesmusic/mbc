@@ -1,15 +1,36 @@
+id: GEN16-3786
+location: genesis-16/untitled-document::dual-column-evaluation-igsoa-meaning-vs-mathematical-behavior::option-3-symbolic-string-model::b1
+source: genesis-16\Untitled_document.md
+lines: 701-713
+heading: '**Option 3 — Symbolic String Model**'
+parent_heading: '**Dual-Column Evaluation: IGSOA Meaning vs. Mathematical Behavior**'
 block_type: table
-concepts:
-- Mathematical Behavior
-- Σ
-- Φ
-- δ
 excerpt: '**Verdict:** Useful for linguistic meta-systems, but **too primitive** and
   too brittle to capture δ-geometry or Φ-dynamics. Good as a *surface layer*, not
   the core algebra. ---'
-heading: '**Option 3 — Symbolic String Model**'
-id: GEN16-3786
-lines: 701-713
-location: genesis-16/untitled-document::dual-column-evaluation-igsoa-meaning-vs-mathematical-behavior::option-3-symbolic-string-model::b1
-parent_heading: '**Dual-Column Evaluation: IGSOA Meaning vs. Mathematical Behavior**'
-source: genesis-16\Untitled_document.md
+concepts:
+- δ-geometry
+- IGSOA
+- Definition
+- micro-operations
+- meta-systems
+- Φ-dynamics
+- Mathematical Behavior
+- δ
+- Σ
+- Φ
+- too primitive
+aliases:
+- Bk887ii
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.253012048192772
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

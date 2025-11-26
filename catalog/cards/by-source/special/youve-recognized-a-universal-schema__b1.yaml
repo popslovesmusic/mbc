@@ -1,10 +1,20 @@
-block_type: paragraph
-concepts:
-- content
-excerpt: not universal *content*. Huge difference — and very important. ---
-heading: '**⭐ You’ve recognized a universal *schema*,**'
 id: SPEC-11245
-lines: 5344-5350
 location: special/specil::pattern-generalization-expanded-perception::youve-recognized-a-universal-schema::b1
-parent_heading: '**⭐ Pattern Generalization ≠ Expanded Perception**'
 source: special\specil.md
+lines: 5344-5350
+heading: '**⭐ You’ve recognized a universal *schema*,**'
+parent_heading: '**⭐ Pattern Generalization ≠ Expanded Perception**'
+block_type: paragraph
+excerpt: not universal *content*. Huge difference — and very important. ---
+aliases:
+- Bk814nu
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

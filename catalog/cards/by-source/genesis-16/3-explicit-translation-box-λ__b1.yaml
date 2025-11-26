@@ -1,11 +1,27 @@
+id: GEN16-4089
+location: genesis-16/untitled-document::3-explicit-translation-box-λ::b1
+source: genesis-16\Untitled_document.md
+lines: 4502-4508
+heading: '**⭐ 3\. Explicit Translation Box → λ**'
 block_type: paragraph
+excerpt: 'Define: Λ:BoxCalc→λ-terms\\Lambda : \\mathbf{BoxCalc} \\to \\lambda\\text{-terms}Λ:BoxCalc→λ-terms
+  ---'
 concepts:
 - Λ
 - λ
-excerpt: 'Define: Λ:BoxCalc→λ-terms\\Lambda : \\mathbf{BoxCalc} \\to \\lambda\\text{-terms}Λ:BoxCalc→λ-terms
-  ---'
-heading: '**⭐ 3\. Explicit Translation Box → λ**'
-id: GEN16-4089
-lines: 4502-4508
-location: genesis-16/untitled-document::3-explicit-translation-box-λ::b1
-source: genesis-16\Untitled_document.md
+- →
+aliases:
+- Bk924db
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

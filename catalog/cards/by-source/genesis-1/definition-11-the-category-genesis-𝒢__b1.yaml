@@ -1,11 +1,26 @@
+id: GEN1-642
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-the-categories::definition-11-the-category-genesis-𝒢::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1584-1608
+heading: '**Definition 1.1 — The Category Genesis (𝒢).**'
+parent_heading: '**1\. The Categories**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'Objects: * Unstructured potentials GGG. * No adjacency, metric, or internal
   dofs.'
-heading: '**Definition 1.1 — The Category Genesis (𝒢).**'
-id: GEN1-642
-lines: 1584-1608
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-the-categories::definition-11-the-category-genesis-𝒢::b1
-parent_heading: '**1\. The Categories**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- →
+- zero-state
+- Ψ
+- Ψ₀
+aliases:
+- Bk835ou
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- new
-- Ψ
-- δ
-excerpt: 'Each application of δ yields a **new** state: δ:Ψn↦Ψn+1\\delta : \\Psi\_n
-  \\mapsto \\Psi\_{n+1}δ:Ψn​↦Ψn+1​ with:'
-heading: '**δ-Axiom 5 — Generativity**'
 id: GEN2-6283
-lines: 979-995
 location: genesis-2/axioms-for-the-category-genesis::δ-axiom-5-generativity::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 979-995
+heading: '**δ-Axiom 5 — Generativity**'
+block_type: paragraph
+excerpt: 'Each application of δ yields a **new** state: δ:Ψn↦Ψn+1\\delta : \\Psi\_n
+  \\mapsto \\Psi\_{n+1}δ:Ψn​↦Ψn+1​ with:'
+concepts:
+- Ψ
+- Ψn
+- δ
+- strictly ascending state sequence
+- proto-time
+- ≠
+- new
+aliases:
+- Bk599ea
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.44776119402985
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

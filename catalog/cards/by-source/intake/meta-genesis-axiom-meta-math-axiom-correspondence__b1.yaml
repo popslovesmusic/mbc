@@ -1,24 +1,48 @@
+id: INTK-9680
+location: intake/axioms-geometry::section-3-axioms-flow-mapping::meta-genesis-axiom-meta-math-axiom-correspondence::b1
+source: intake\Axioms-geometry.md
+lines: 493-507
+heading: '**Meta-Genesis Axiom → Meta-Math Axiom Correspondence**'
+parent_heading: '**Section 3 — Axioms Flow Mapping**'
 block_type: table
+excerpt: '**Result:** Meta-Genesis gives the *why*; Meta-Math gives the *how*.'
 concepts:
-- Axiom
-- Compatibility Condition
-- Deviation Necessity
-- Emergent Distinction
-- Emergent Ordering
-- Emergent Structure
-- Genesis Axiom
-- Math Correspondence
+- δ
 - Meta-Genesis
 - Meta-Math
-- Operator
-- how
-- why
 - Ψ
-- δ
-excerpt: '**Result:** Meta-Genesis gives the *why*; Meta-Math gives the *how*.'
-heading: '**Meta-Genesis Axiom → Meta-Math Axiom Correspondence**'
-id: INTK-9680
-lines: 493-507
-location: intake/axioms-geometry::section-3-axioms-flow-mapping::meta-genesis-axiom-meta-math-axiom-correspondence::b1
-parent_heading: '**Section 3 — Axioms Flow Mapping**'
-source: intake\Axioms-geometry.md
+- Adjacency
+- Curvature
+- Deviation
+- Axiom
+- Operator
+- τ
+- δ-evolution
+- δ-curvature
+- Meta-time
+- Compatibility Condition
+- δ-domain
+aliases:
+- Bk001a
+tags:
+- A2
+- A1
+- A3
+- A4
+- A5
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.838709677419356
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A1
+- A2
+- A3
+- A4
+- A5

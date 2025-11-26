@@ -1,14 +1,30 @@
+id: GEN14-2772
+location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::i-δ-adjacency-instability-π-exponential-expansion::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1966-1978
+heading: '**(I) δ-Adjacency Instability ⇒ Π-Exponential Expansion**'
+parent_heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
 block_type: paragraph
-concepts:
-- Π
-- Π-shadow
-- δ
-- λ
 excerpt: 'If δ has a positive eigenmode W(δ)h=λ+h(λ+\>0),W(\\delta) h \=\\lambda\_+
   h \\quad (\\lambda\_+\>0),W(δ)h=λ+​h(λ+​\>0), then Π projects exponential expansion:'
-heading: '**(I) δ-Adjacency Instability ⇒ Π-Exponential Expansion**'
-id: GEN14-2772
-lines: 1966-1978
-location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::i-δ-adjacency-instability-π-exponential-expansion::b1
-parent_heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- λ
+- δ
+- positive-curvature
+- Π
+- Π-shadow
+aliases:
+- Bk624hp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.936507936507936
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,30 @@
+id: INTK-10706
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::constraint-satisfaction::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1807-1808
+heading: Constraint Satisfaction
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Constraint Satisfaction
-- Error Correction Metaphor
-- Read More
 excerpt: Constraint Satisfaction is a key concept in the IGSOA framework that describes
   the fundamental mechanism by which the universe operates. It refines the earlier
   "Error Correction Metaphor" into a more ...
-heading: Constraint Satisfaction
-id: INTK-10706
-lines: 1807-1808
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::constraint-satisfaction::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- Constraint Satisfaction
+- Error Correction Metaphor
+- Read More
+aliases:
+- Bk193cs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.30232558139535
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

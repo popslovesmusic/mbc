@@ -1,22 +1,40 @@
+id: INTK-10679
+location: intake/volume-i-core-ontology-and-metagenesis-summary::a-summary-of-the-metaphysical-framework::3-dynamics-and-principles::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1686-1694
+heading: 3. Dynamics and Principles
+parent_heading: A Summary of the Metaphysical Framework
 block_type: list
-concepts:
-- Axiom
-- Least Action
-- Logical Consequence
-- Mono-Force
-- Ontological Activity
-- Real Realm
-- Structural Teleology
-- The Imperative
-- Zero State
-- telos
-- Ψ
 excerpt: '*   **Mono-Force (Ψ-Drive):** The single, underlying drive of the system
   toward the Zero State, perpetually constrained by the NOT Axiom. This monistic force
   is the origin of all apparent physical for...'
-heading: 3. Dynamics and Principles
-id: INTK-10679
-lines: 1686-1694
-location: intake/volume-i-core-ontology-and-metagenesis-summary::a-summary-of-the-metaphysical-framework::3-dynamics-and-principles::b1
-parent_heading: A Summary of the Metaphysical Framework
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Deviation
+- State
+- Axiom
+- Mono-Force
+- re-contextualized
+- Ψ-Drive
+- Ψ
+- Structural Teleology
+- Ontological Activity
+- Zero State
+- Logical Consequence
+- The Imperative
+- Least Action
+- Real Realm
+aliases:
+- Bk356mf
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.6350710900473935
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

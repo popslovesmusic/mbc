@@ -1,11 +1,23 @@
+id: GEN1-505
+location: genesis-1/the-foundation-layer::vii-theorem::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1396-1398
+heading: '**\*\*VII. Theorem**'
 block_type: paragraph
+excerpt: (NOT Axiom Forces Existence — Topos Form)\*\*
 concepts:
 - Axiom
 - Axiom Forces Existence
 - Topos Form
-excerpt: (NOT Axiom Forces Existence — Topos Form)\*\*
-heading: '**\*\*VII. Theorem**'
-id: GEN1-505
-lines: 1396-1398
-location: genesis-1/the-foundation-layer::vii-theorem::b1
-source: genesis-1\THE_FOUNDATION_LAYER.md
+aliases:
+- Bk681na
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,11 +1,30 @@
+id: GEN10-928
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-geometry-before-physics::22-the-first-relation-δψ-adjacency::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2962-2966
+heading: '**2.2 The First Relation (δΨ): Adjacency**'
+parent_heading: '**\*\*2. Geometry Before Physics:**'
 block_type: paragraph
+excerpt: 'Adjacency is the first relational structure: A1=δΨ0.\\mathcal{A}\_1 \= δΨ\_0.A1​=δΨ0​.'
 concepts:
+- Adjacency
 - Ψ
 - δ
-excerpt: 'Adjacency is the first relational structure: A1=δΨ0.\\mathcal{A}\_1 \= δΨ\_0.A1​=δΨ0​.'
-heading: '**2.2 The First Relation (δΨ): Adjacency**'
-id: GEN10-928
-lines: 2962-2966
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::2-geometry-before-physics::22-the-first-relation-δψ-adjacency::b1
-parent_heading: '**\*\*2. Geometry Before Physics:**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+aliases:
+- Bk001a
+tags:
+- A1
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1

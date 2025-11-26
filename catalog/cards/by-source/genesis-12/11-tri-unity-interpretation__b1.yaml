@@ -1,13 +1,26 @@
+id: GEN12-1762
+location: genesis-12/untitled-document::11-tri-unity-interpretation::b1
+source: genesis-12\Untitled_document.md
+lines: 646-658
+heading: '**11\. Tri-Unity Interpretation**'
 block_type: table
+excerpt: 'The mass tower fits the δ–Φ–Π triad: Thus mass is a **projection of deviation**,
+  not an intrinsic property. ---'
 concepts:
 - Layer
 - Π
-- Φ
 - δ
-excerpt: 'The mass tower fits the δ–Φ–Π triad: Thus mass is a **projection of deviation**,
-  not an intrinsic property. ---'
-heading: '**11\. Tri-Unity Interpretation**'
-id: GEN12-1762
-lines: 646-658
-location: genesis-12/untitled-document::11-tri-unity-interpretation::b1
-source: genesis-12\Untitled_document.md
+- Φ
+- projection of deviation
+aliases:
+- Bk979tm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

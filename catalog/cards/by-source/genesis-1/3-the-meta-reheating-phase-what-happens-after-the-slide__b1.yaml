@@ -1,15 +1,36 @@
+id: GEN1-389
+location: genesis-1/the-first-geometry::3-the-meta-reheating-phase-what-happens-after-the-slide::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 466-499
+heading: '**3\. The Meta-Reheating Phase (What Happens After the Slide)**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Math
-- Meta-Reheating
-- Standard Model
-- δ
 excerpt: 'Classical cosmology says that after inflation, the inflaton energy “dumps”
   into matter and radiation. Your framework keeps the logic but changes the mechanism.
   Here’s the outreach version:'
-heading: '**3\. The Meta-Reheating Phase (What Happens After the Slide)**'
-id: GEN1-389
-lines: 466-499
-location: genesis-1/the-first-geometry::3-the-meta-reheating-phase-what-happens-after-the-slide::b1
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- Meta-Genesis
+- Meta-Math
+- δ
+- Meta-Reheating
+- δ-Higgs valley
+- δ-oscillation
+- proto-energy
+- δ-curvature
+- δ-driven
+- δ-field
+- δ-Higgs
+- Standard Model
+aliases:
+- Bk839cc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.361963190184049
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,17 +1,39 @@
+id: GEN15-3352
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::i-core-statement-of-the-theorem::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1489-1519
+heading: '**I. Core Statement of the Theorem**'
 block_type: paragraph
+excerpt: '**δ–Halo Morphology Theorem.** Let δ be the deviation field generating curvature,
+  and let C(x)\\mathcal{C}(x)C(x)'
 concepts:
-- Causal Sphere
-- Halo Morphology Theorem
+- δ
+- δ-geometry
 - Theorem
 - Π
 - Φ
-- δ
-- δ-geometry
-- ρ
-excerpt: '**δ–Halo Morphology Theorem.** Let δ be the deviation field generating curvature,
-  and let C(x)\\mathcal{C}(x)C(x)'
-heading: '**I. Core Statement of the Theorem**'
-id: GEN15-3352
-lines: 1489-1519
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::i-core-statement-of-the-theorem::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+- nonlocal adjacency δ-tail
+- δlocal
+- δ-curvature
+- δtail
+- δCSOI
+- dark-matter halos
+- δ-field
+- local δ-curvature
+- ∫
+- θ
+aliases:
+- Bk342hm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.736263736263737
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

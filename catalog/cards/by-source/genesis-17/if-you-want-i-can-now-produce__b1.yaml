@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: ✓ **dual-column cross-referenced version** ✓ **formal theorem statement**
-  ✓ **mathematical operator form (δ, Φ, Π)**
-heading: '**If you want, I can now produce:**'
 id: GEN17-4896
-lines: 324-331
 location: genesis-17/key-points::if-you-want-i-can-now-produce::b1
 source: genesis-17\Key_Points.md
+lines: 324-331
+heading: '**If you want, I can now produce:**'
+block_type: paragraph
+excerpt: ✓ **dual-column cross-referenced version** ✓ **formal theorem statement**
+  ✓ **mathematical operator form (δ, Φ, Π)**
+concepts:
+- dual-column cross-referenced version
+- Theorem
+- collapse-unfolding
+- cross-referenced
+- dual-column
+- formal theorem statement
+- Π
+- δ
+- Φ
+aliases:
+- Bk112dc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 37.5
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

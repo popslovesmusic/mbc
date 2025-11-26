@@ -1,10 +1,23 @@
+id: GEN18-5665
+location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-generate::the-supreme-closure-evaluation-tree::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 715-719
+heading: '**🔶 The “Supreme Closure Evaluation Tree”**'
+parent_heading: '**If you want, I can now generate:**'
 block_type: paragraph
-concepts: []
 excerpt: (selection tree showing why no alternative operators are allowed) Which one
   next?
-heading: '**🔶 The “Supreme Closure Evaluation Tree”**'
-id: GEN18-5665
-lines: 715-719
-location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-generate::the-supreme-closure-evaluation-tree::b1
-parent_heading: '**If you want, I can now generate:**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+aliases:
+- Bk715st
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,26 @@
+id: GEN17-4429
+location: genesis-17/box-calculus::φπ::b1
+source: genesis-17\box_calculus.md
+lines: 4182-4187
+heading: Φ⊣Π
 block_type: paragraph
+excerpt: Φ \= internal transform Π \= evaluation / realization (terminal) This pair
+  is even more fundamental.
 concepts:
 - Π
 - Φ
-excerpt: Φ \= internal transform Π \= evaluation / realization (terminal) This pair
-  is even more fundamental.
-heading: Φ⊣Π
-id: GEN17-4429
-lines: 4182-4187
-location: genesis-17/box-calculus::φπ::b1
-source: genesis-17\box_calculus.md
+aliases:
+- Bk448it
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

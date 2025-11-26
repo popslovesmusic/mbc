@@ -1,17 +1,33 @@
+id: GEN15-3292
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::the-csoilensing-equivalence-theorem::how-δ-curvature-with-a-csoi-tail-reproduces-the-gravitational-lensing-normally-attributed-to-dark-matter-halos::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 506-522
+heading: '***(How δ-curvature with a CSOI-tail reproduces the gravitational lensing
+  normally attributed to dark matter halos)***'
+parent_heading: '**The CSOI–Lensing Equivalence Theorem**'
 block_type: paragraph
+excerpt: 'This is the *canonical* version: * Functorial * δ/Φ/Π formulation'
 concepts:
 - Axiom
 - Box
-- Hermetic Axiom Box
-- canonical
+- lensing-angle
 - Π
-- Φ
 - δ
-excerpt: 'This is the *canonical* version: * Functorial * δ/Φ/Π formulation'
-heading: '***(How δ-curvature with a CSOI-tail reproduces the gravitational lensing
-  normally attributed to dark matter halos)***'
-id: GEN15-3292
-lines: 506-522
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::the-csoilensing-equivalence-theorem::how-δ-curvature-with-a-csoi-tail-reproduces-the-gravitational-lensing-normally-attributed-to-dark-matter-halos::b1
-parent_heading: '**The CSOI–Lensing Equivalence Theorem**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+- Φ
+- Hermetic Axiom Box
+aliases:
+- Bk794tt
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 31.818181818181817
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

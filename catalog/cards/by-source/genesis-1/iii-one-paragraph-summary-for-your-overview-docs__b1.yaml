@@ -1,21 +1,40 @@
+id: GEN1-374
+location: genesis-1/the-first-geometry::iii-one-paragraph-summary-for-your-overview-docs::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 220-236
+heading: '**III. One-Paragraph Summary (for your overview docs)**'
 block_type: paragraph
-concepts:
-- Einstein Projection Theorem
-- Meta-Time
-- Scale-Topos
-- The Adjacency
-- The First Curvature
-- The First Ordering
-- Theorem
-- Time Projection Theorem
-- δ
-- μ
-- ν
 excerpt: Adjacency created by δ is the first structure the universe ever has—a primitive
   relation distinguishing one state from another. Assigning δ-weights to these adjacencies
   allows compositions of differen...
-heading: '**III. One-Paragraph Summary (for your overview docs)**'
-id: GEN1-374
-lines: 220-236
-location: genesis-1/the-first-geometry::iii-one-paragraph-summary-for-your-overview-docs::b1
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- Meta-Time
+- Projection
+- Adjacency
+- δ
+- Curvature
+- Theorem
+- pre-metric
+- geometry emerges from difference
+- μ
+- ν
+- →
+- metric emerges from adjacency
+- Einstein Projection Theorem
+- Scale-Topos
+- δ-curvature
+aliases:
+- Bk298ac
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.803418803418804
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

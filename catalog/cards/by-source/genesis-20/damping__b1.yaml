@@ -1,11 +1,28 @@
+id: GEN20-7249
+location: genesis-20/mbc-40-documentaitio-1::b48-router-saturation-damping::damping::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7848-7869
+heading: 'Damping:'
+parent_heading: B4.8 Router Saturation & Damping
 block_type: paragraph
+excerpt: 'Polarity change attenuated: Θ(t+1)=αFR(Θ(t))+(1−α)Θ(t) Θ'
 concepts:
 - Θ
 - α
-excerpt: 'Polarity change attenuated: Θ(t+1)=αFR(Θ(t))+(1−α)Θ(t) Θ'
-heading: 'Damping:'
-id: GEN20-7249
-lines: 7848-7869
-location: genesis-20/mbc-40-documentaitio-1::b48-router-saturation-damping::damping::b1
-parent_heading: B4.8 Router Saturation & Damping
-source: genesis-20\MBC_40_Documentaitio-1.md
+- Polarity
+- metadata-driven
+aliases:
+- Bk649pc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

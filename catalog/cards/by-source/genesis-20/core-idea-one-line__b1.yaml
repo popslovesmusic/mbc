@@ -1,11 +1,28 @@
+id: GEN20-6647
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::core-idea-one-line::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 1051-1054
+heading: Core Idea (One Line)
 block_type: paragraph
-concepts:
-- Π
 excerpt: If all Π-evaluations commute across transport maps, distributed reasoning
   admits a unique global evaluator Π\*, giving sound and complete federated inference.
   ---
-heading: Core Idea (One Line)
-id: GEN20-6647
-lines: 1051-1054
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::core-idea-one-line::b1
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+concepts:
+- Π-evaluation
+- Π
+- Π-evaluations
+aliases:
+- Bk832ae
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

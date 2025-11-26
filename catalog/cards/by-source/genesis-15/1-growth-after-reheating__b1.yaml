@@ -1,12 +1,29 @@
+id: GEN15-3179
+location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-from-perturbations-to-galaxies::1-growth-after-reheating::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1661-1667
+heading: '**1\. Growth after reheating**'
+parent_heading: '**Ⅴ. From Perturbations to Galaxies**'
 block_type: paragraph
+excerpt: 'Once the universe becomes matter/equal-energy dominated: δρk(t)∝t2/3\\delta\\rho\_k(t)
+  \\propto t^{2/3}δρk​(t)∝t2/3 for sub-horizon k.'
 concepts:
 - δ
 - ρ
-excerpt: 'Once the universe becomes matter/equal-energy dominated: δρk(t)∝t2/3\\delta\\rho\_k(t)
-  \\propto t^{2/3}δρk​(t)∝t2/3 for sub-horizon k.'
-heading: '**1\. Growth after reheating**'
-id: GEN15-3179
-lines: 1661-1667
-location: genesis-15/the-mass-curvature-projection-theorem::ⅴ-from-perturbations-to-galaxies::1-growth-after-reheating::b1
-parent_heading: '**Ⅴ. From Perturbations to Galaxies**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+- equal-energy
+- sub-horizon
+aliases:
+- Bk541ot
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

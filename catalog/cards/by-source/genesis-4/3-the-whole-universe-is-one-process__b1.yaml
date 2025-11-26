@@ -1,10 +1,23 @@
+id: GEN4-7775
+location: genesis-4/the-adjoint-triple::4-physical-interpretation::3-the-whole-universe-is-one-process::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 972-980
+heading: '**3\. The whole universe is one process:**'
+parent_heading: '**4\. Physical Interpretation**'
 block_type: paragraph
-concepts: []
 excerpt: '**Potential → Form → Action → Evolution** with *no contradictions* across
   levels. This is your monistic philosophy made rigorous.'
-heading: '**3\. The whole universe is one process:**'
-id: GEN4-7775
-lines: 972-980
-location: genesis-4/the-adjoint-triple::4-physical-interpretation::3-the-whole-universe-is-one-process::b1
-parent_heading: '**4\. Physical Interpretation**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- →
+aliases:
+- Bk061pf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

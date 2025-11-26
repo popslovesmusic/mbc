@@ -1,13 +1,33 @@
+id: GEN3-7482
+location: genesis-3/the-tri-unity-theorem::i-preliminaries::axiom-a1-δ-deviation::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 22-35
+heading: '**Axiom A1 — δ (Deviation)**'
+parent_heading: '**I. Preliminaries**'
 block_type: paragraph
-concepts:
-- Axiom
-- Ψ
-- δ
 excerpt: 'A δ-structure is a functor δ:G→G\\delta : \\mathcal{G} \\to \\mathcal{G}δ:G→G
   on the Genesis category, satisfying:'
-heading: '**Axiom A1 — δ (Deviation)**'
-id: GEN3-7482
-lines: 22-35
-location: genesis-3/the-tri-unity-theorem::i-preliminaries::axiom-a1-δ-deviation::b1
-parent_heading: '**I. Preliminaries**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- δ
+- Axiom
+- →
+- δ-structure
+- ≠
+- Ψ
+- Ψ₀
+aliases:
+- Bk001a
+tags:
+- A1
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.20754716981132
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A1

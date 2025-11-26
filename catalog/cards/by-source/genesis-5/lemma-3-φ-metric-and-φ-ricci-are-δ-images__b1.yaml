@@ -1,12 +1,32 @@
+id: GEN5-8102
+location: genesis-5/meta-einstein-axiom-box-language-sealed::lemma-3-φ-metric-and-φ-ricci-are-δ-images::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 231-239
+heading: '**Lemma 3 — Φ-metric and Φ-Ricci are δ-images**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'If δ and Φ are unity-related, then the Φ-metric is the unique Φ-stable metric
   induced from the δ-metric: gΦ=Υ(gδ),g^\\Phi \= \\Upsilon(g^\\delta),gΦ=Υ(gδ), and
   hence'
-heading: '**Lemma 3 — Φ-metric and Φ-Ricci are δ-images**'
-id: GEN5-8102
-lines: 231-239
-location: genesis-5/meta-einstein-axiom-box-language-sealed::lemma-3-φ-metric-and-φ-ricci-are-δ-images::b1
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- Φ
+- δ
+- Υ
+- unity-related
+- Φ-metric
+- Φ-stable
+- δ-metric
+aliases:
+- Bk325aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.29032258064516
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

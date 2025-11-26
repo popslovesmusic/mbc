@@ -1,11 +1,35 @@
-block_type: paragraph
-concepts:
-- δ
-- η
-excerpt: 'This theorem is the precise mathematical version of: **You cannot naturally
-  “lift back” from induced structure to pure potential.** Why?'
-heading: '**Physics / IGSOA Interpretation**'
 id: GEN5-8019
-lines: 1217-1246
 location: genesis-5/formal-proof-of-the-adjoint-triple::physics-igsoa-interpretation::b1
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1217-1246
+heading: '**Physics / IGSOA Interpretation**'
+block_type: paragraph
+excerpt: 'This theorem is the precise mathematical version of: **You cannot naturally
+  “lift back” from induced structure to pure potential.** Why?'
+concepts:
+- Deviation
+- IGSOA
+- un-generate
+- Theorem
+- δ
+- →
+- coarse-graining
+- δ-composites
+- δ-directions
+- η
+- no canonical pick
+aliases:
+- Bk630tt
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0109289617486334
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

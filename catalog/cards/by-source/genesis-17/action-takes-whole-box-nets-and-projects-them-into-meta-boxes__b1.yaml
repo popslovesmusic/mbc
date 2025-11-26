@@ -1,17 +1,36 @@
+id: GEN17-5078
+location: genesis-17/mbc-schema-3::1-new-primitive-meta-operators::12-meta-projection-operator-ω::action-takes-whole-box-nets-and-projects-them-into-meta-boxes::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 947-982
+heading: '**Action: Takes whole Box-nets and projects them into meta-Boxes.**'
+parent_heading: '**1.2 Meta-Projection Operator (Ω)**'
 block_type: paragraph
-concepts:
-- Box
-- Meta-Boxes
-- meta-Boxes
-- Π
-- Φ
-- Ω
-- δ
 excerpt: 'Ω:B→MB\\Omega : \\mathcal{B} \\to \\mathcal{MB}Ω:B→MB Where **𝓜𝓑** is the
   category of *meta-Boxes*. Interpretation:'
-heading: '**Action: Takes whole Box-nets and projects them into meta-Boxes.**'
-id: GEN17-5078
-lines: 947-982
-location: genesis-17/mbc-schema-3::1-new-primitive-meta-operators::12-meta-projection-operator-ω::action-takes-whole-box-nets-and-projects-them-into-meta-boxes::b1
-parent_heading: '**1.2 Meta-Projection Operator (Ω)**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Box
+- MBC
+- Ω
+- Meta-Boxes
+- Φ
+- →
+- multi-level
+- meta-Boxes
+- Box-nets
+- Π
+- δ
+aliases:
+- Bk226om
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.864864864864865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

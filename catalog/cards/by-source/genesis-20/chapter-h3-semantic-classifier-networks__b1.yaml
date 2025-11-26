@@ -1,9 +1,23 @@
-block_type: list
-concepts: []
-excerpt: '* training * reinforcing * stabilizing'
-heading: Chapter H3 — Semantic Classifier Networks
 id: GEN20-7091
-lines: 5324-5328
 location: genesis-20/mbc-40-documentaitio-1::part-viii-advanced-examples-tutorials::chapter-h3-semantic-classifier-networks::b1
-parent_heading: PART VIII — Advanced Examples & Tutorials
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5324-5328
+heading: Chapter H3 — Semantic Classifier Networks
+parent_heading: PART VIII — Advanced Examples & Tutorials
+block_type: list
+excerpt: '* training * reinforcing * stabilizing'
+aliases:
+- Bk022tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,35 @@
+id: GEN7-8649
+location: genesis-7/why-curvature-gives-gravity::proof::step-3-projection-to-classical-geometry::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 419-435
+heading: '**Step 3 — Projection to classical geometry**'
+parent_heading: '**PROOF**'
 block_type: paragraph
-concepts:
-- The Riemann
-- δ
-- μ
-- ν
 excerpt: 'The Riemann projection functor: PRiem:δ-Geom⟶(Lorentzian, Riemann)\\mathcal{P}\_{\\mathrm{Riem}}:
   \\delta\\text{-Geom} \\longrightarrow (\\text{Lorentzian, Riemann})PRiem​:δ-Geom⟶(Lorentzian,
   Riemann)...'
-heading: '**Step 3 — Projection to classical geometry**'
-id: GEN7-8649
-lines: 419-435
-location: genesis-7/why-curvature-gives-gravity::proof::step-3-projection-to-classical-geometry::b1
-parent_heading: '**PROOF**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- μ
+- δ-Geom
+- ∇
+- ν
+- δ-conservation
+- δ-curvature
+- The Riemann
+- δG
+aliases:
+- Bk401tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

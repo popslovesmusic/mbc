@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'Given a box B B, the reasoning/evaluation cycle is a mapping:'
-heading: A2.2 The δ → Φ → Π Pipeline (Formal Transformation)
 id: GEN20-7110
-lines: 5641-5653
 location: genesis-20/mbc-40-documentaitio-1::a22-the-δ-φ-π-pipeline-formal-transformation::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5641-5653
+heading: A2.2 The δ → Φ → Π Pipeline (Formal Transformation)
+block_type: paragraph
+excerpt: 'Given a box B B, the reasoning/evaluation cycle is a mapping:'
+concepts:
+- δ
+- Φ
+- Π
+- →
+aliases:
+- Bk445gb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

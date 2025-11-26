@@ -1,13 +1,29 @@
+id: GEN17-4409
+location: genesis-17/box-calculus::5-construct-the-natural-isomorphisms::ηmgfm::b1
+source: genesis-17\box_calculus.md
+lines: 3589-3634
+heading: η:M→G(F(M))
+parent_heading: ⭐ 5\. Construct the Natural Isomorphisms
 block_type: paragraph
+excerpt: 'Take any Meta-Math object M M:'
 concepts:
-- Box
 - Meta-Math
 - η
+- Box
 - μ
-excerpt: 'Take any Meta-Math object M M:'
-heading: η:M→G(F(M))
-id: GEN17-4409
-lines: 3589-3634
-location: genesis-17/box-calculus::5-construct-the-natural-isomorphisms::ηmgfm::b1
-parent_heading: ⭐ 5\. Construct the Natural Isomorphisms
-source: genesis-17\box_calculus.md
+- →
+aliases:
+- Bk877ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.952380952380952
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

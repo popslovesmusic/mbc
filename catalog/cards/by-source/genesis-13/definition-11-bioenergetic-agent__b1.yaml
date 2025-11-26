@@ -1,15 +1,36 @@
+id: GEN13-2621
+location: genesis-13/what-biology-is-in-meta-genesis::1-category-of-metabolic-agents::definition-11-bioenergetic-agent::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2362-2382
+heading: '**Definition 1.1 (Bioenergetic Agent).**'
+parent_heading: '**1\. Category of Metabolic Agents**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ω
-- δ
 excerpt: 'A **bioenergetic agent** is a quadruple: X=(∂MX,  Δδ,X,  LR,X,  PΠ,X)X=(\\partial
   M\_X,\\; \\Delta\_{\\delta,X},\\; \\mathcal{L}\_{R,X},\\; P\_{\\Pi,X})X=(∂MX​,Δδ,X​,LR,X​,PΠ,X​)
   such that:'
-heading: '**Definition 1.1 (Bioenergetic Agent).**'
-id: GEN13-2621
-lines: 2362-2382
-location: genesis-13/what-biology-is-in-meta-genesis::1-category-of-metabolic-agents::definition-11-bioenergetic-agent::b1
-parent_heading: '**1\. Category of Metabolic Agents**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Δ
+- Π
+- ∂
+- ≠
+- Ω
+- Φ
+- Π-preboundary
+- bioenergetic agent
+- ΩX
+aliases:
+- Bk194ba
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.246376811594203
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

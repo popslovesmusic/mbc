@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: E ;\\dashv; A \\qquad\\text{and}\\qquad \\Phi ;\\dashv; \\Pi
-heading: '**\[**'
 id: GEN16-4005
-lines: 3368-3377
 location: genesis-16/untitled-document::adjointness-proof::::b1
-parent_heading: '**⭐ ADJOINTNESS PROOF**'
 source: genesis-16\Untitled_document.md
+lines: 3368-3377
+heading: '**\[**'
+parent_heading: '**⭐ ADJOINTNESS PROOF**'
+block_type: paragraph
+excerpt: E ;\\dashv; A \\qquad\\text{and}\\qquad \\Phi ;\\dashv; \\Pi
+concepts:
+- polarity-symmetric
+aliases:
+- Bk108dq
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.166666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

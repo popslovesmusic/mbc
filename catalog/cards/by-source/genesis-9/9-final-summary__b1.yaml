@@ -1,12 +1,33 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'We have shown: 1. δ-curvature splits δ-objects into 3 fibers. 2. This defines
-  a χ-fibration.'
-heading: '**9\. Final Summary**'
 id: GEN9-9529
-lines: 1565-1583
 location: genesis-9/strong-force::9-final-summary::b1
 source: genesis-9\strong-force.md
+lines: 1565-1583
+heading: '**9\. Final Summary**'
+block_type: paragraph
+excerpt: 'We have shown: 1. δ-curvature splits δ-objects into 3 fibers. 2. This defines
+  a χ-fibration.'
+concepts:
+- IGSOA
+- δ
+- δ-objects
+- χ
+- non-singlets
+- δ-curvature
+- Π
+- Φ
+- →
+aliases:
+- Bk534hs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.23529411764706
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

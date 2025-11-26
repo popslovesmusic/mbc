@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Across 15 chapters, the reader has learned:'
-heading: 15.1 What We Accomplished in This Volume
 id: GEN20-7045
-lines: 4893-4895
 location: genesis-20/mbc-40-documentaitio-1::conclusion::151-what-we-accomplished-in-this-volume::b1
-parent_heading: ⭐ Conclusion
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4893-4895
+heading: 15.1 What We Accomplished in This Volume
+parent_heading: ⭐ Conclusion
+block_type: paragraph
+excerpt: 'Across 15 chapters, the reader has learned:'
+aliases:
+- Bk640ac
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

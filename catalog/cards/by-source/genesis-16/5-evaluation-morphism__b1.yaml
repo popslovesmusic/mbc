@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- canonical
-excerpt: 'We require a canonical evaluation map: eval:B2B1×B1→B2eval: B\_2^{B\_1}
-  \\times B\_1 \\to B\_2eval:B2B1​​×B1​→B2​ Define:'
-heading: '**⭐ 5\. Evaluation Morphism**'
 id: GEN16-4071
-lines: 4223-4241
 location: genesis-16/untitled-document::5-evaluation-morphism::b1
 source: genesis-16\Untitled_document.md
+lines: 4223-4241
+heading: '**⭐ 5\. Evaluation Morphism**'
+block_type: paragraph
+excerpt: 'We require a canonical evaluation map: eval:B2B1×B1→B2eval: B\_2^{B\_1}
+  \\times B\_1 \\to B\_2eval:B2B1​​×B1​→B2​ Define:'
+concepts:
+- Box Calculus
+- Box
+- →
+- canonical
+aliases:
+- Bk683rc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.970149253731343
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

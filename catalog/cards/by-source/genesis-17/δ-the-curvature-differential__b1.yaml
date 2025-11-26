@@ -1,15 +1,29 @@
+id: GEN17-4635
+location: genesis-17/box-calculus::::δ-the-curvature-differential::b1
+source: genesis-17\box_calculus.md
+lines: 7540-7561
+heading: ⭐ δ \= The Curvature Differential
+parent_heading: ⭐
 block_type: paragraph
-concepts:
-- Π
-- Σ
-- Φ
-- δ
-- ρ
 excerpt: 'Not a mode selector. Not an amplifier. δ is the curvature of the dynamical
   monistic process, i.e.:'
-heading: ⭐ δ \= The Curvature Differential
-id: GEN17-4635
-lines: 7540-7561
-location: genesis-17/box-calculus::::δ-the-curvature-differential::b1
-parent_heading: ⭐
-source: genesis-17\box_calculus.md
+concepts:
+- δ
+- Σ
+- ≠
+- ρ
+- Π
+- Φ
+- →
+aliases:
+- Bk346nm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.722222222222223
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

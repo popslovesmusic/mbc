@@ -1,11 +1,33 @@
+id: INTK-9719
+location: intake/core-insight-is-a-projection-artifact::core-insight-λ-is-a-projection-artifact::π₉-gravitational-projection-is-a-gradient-detector::b1
+source: intake\Core_Insight___is_a_Projection_Artifact.md
+lines: 31-49
+heading: '**Π₉ (gravitational projection) is a gradient detector.**'
+parent_heading: '**Core Insight: Λ is a Projection Artifact**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'It only projects **non-uniform curvature-generating stresses**. This axiom:
   Π₉(constant) \= 0'
-heading: '**Π₉ (gravitational projection) is a gradient detector.**'
-id: INTK-9719
-lines: 31-49
-location: intake/core-insight-is-a-projection-artifact::core-insight-λ-is-a-projection-artifact::π₉-gravitational-projection-is-a-gradient-detector::b1
-parent_heading: '**Core Insight: Λ is a Projection Artifact**'
-source: intake\Core_Insight___is_a_Projection_Artifact.md
+concepts:
+- non-uniform curvature-generating stresses
+- curvature-generating
+- Axiom
+- →
+- non-uniform
+- trace-free
+- Π
+- ∇
+- Π₉
+aliases:
+- Bk797op
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.565217391304348
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
+id: GEN1-635
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::9-summary-the-meta-einstein-dynamical-framework::6-all-physical-fields-gravity-gauge-fields-fermions-arise-from-δ-mode-decomposition::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1507-1509
 heading: '**(6) All physical fields (gravity, gauge fields, fermions) arise from δ-mode
   decomposition.**'
-id: GEN1-635
-lines: 1507-1509
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::9-summary-the-meta-einstein-dynamical-framework::6-all-physical-fields-gravity-gauge-fields-fermions-arise-from-δ-mode-decomposition::b1
 parent_heading: '**9\. Summary: The Meta-Einstein Dynamical Framework**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

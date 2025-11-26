@@ -1,14 +1,29 @@
+id: GEN13-2268
+location: genesis-13/the-weight-of-light::the-weight-of-light::6-the-horizon-the-edge-of-knowable-adjacency::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 88-96
+heading: '**6\. The Horizon: The Edge of Knowable Adjacency**'
+parent_heading: '***The Weight of Light***'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: The event horizon is the place where adjacency itself loses the ability to
   preserve order. Π can no longer enforce a spacelike structure. Φ collapses into
   inevitability. δ becomes unbounded. Inside, t...
-heading: '**6\. The Horizon: The Edge of Knowable Adjacency**'
-id: GEN13-2268
-lines: 88-96
-location: genesis-13/the-weight-of-light::the-weight-of-light::6-the-horizon-the-edge-of-knowable-adjacency::b1
-parent_heading: '***The Weight of Light***'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+aliases:
+- Bk174te
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.714285714285714
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

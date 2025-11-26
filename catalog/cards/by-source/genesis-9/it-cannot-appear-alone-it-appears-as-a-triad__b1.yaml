@@ -1,11 +1,26 @@
+id: GEN9-9078
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::2-δ-the-first-disturbance::it-cannot-appear-alone-it-appears-as-a-triad::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 762-770
+heading: '**It cannot appear alone. It appears as a triad.**'
+parent_heading: '**2\. δ: The First Disturbance**'
 block_type: paragraph
-concepts:
-- λ
 excerpt: 'Three modes, always in balance: λ1+λ2+λ3=0.\\lambda\_{1}+\\lambda\_{2}+\\lambda\_{3}=0.λ1​+λ2​+λ3​=0.
   This triadic heartbeat is the seed of all future structure.'
-heading: '**It cannot appear alone. It appears as a triad.**'
-id: GEN9-9078
-lines: 762-770
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::2-δ-the-first-disturbance::it-cannot-appear-alone-it-appears-as-a-triad::b1
-parent_heading: '**2\. δ: The First Disturbance**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- λ
+aliases:
+- Bk198tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.0303030303030303
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

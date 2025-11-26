@@ -1,13 +1,32 @@
+id: GEN7-8658
+location: genesis-7/why-curvature-gives-gravity::i-structural-axioms::axiom-dc-1-deviational-action::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 527-539
+heading: '**Axiom DC-1 — Deviational Action**'
+parent_heading: '**I. STRUCTURAL AXIOMS**'
 block_type: paragraph
-concepts:
-- Axiom
-- δ
 excerpt: 'Deviation δ\\deltaδ acts on the adjacency structure: δ:A→A′=A+ΔA,\\delta
   : \\mathcal{A} \\to \\mathcal{A}'' \= \\mathcal{A} \+ \\Delta\\mathcal{A},δ:A→A′=A+ΔA,
   where'
-heading: '**Axiom DC-1 — Deviational Action**'
-id: GEN7-8658
-lines: 527-539
-location: genesis-7/why-curvature-gives-gravity::i-structural-axioms::axiom-dc-1-deviational-action::b1
-parent_heading: '**I. STRUCTURAL AXIOMS**'
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Deviation
+- Δ
+- Axiom
+- adjacency-distorting operator
+- adjacency-distorting
+- ≠
+- →
+- self-annihilate
+aliases:
+- Bk102da
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.754098360655737
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

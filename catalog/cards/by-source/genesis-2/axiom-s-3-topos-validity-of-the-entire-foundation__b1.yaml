@@ -1,13 +1,25 @@
+id: GEN2-6474
+location: genesis-2/axioms-of-geometry-topos-compatible::vi-the-seal-of-emergence::axiom-s-3-topos-validity-of-the-entire-foundation::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1996-2000
+heading: '**Axiom (S-3) — Topos Validity of the Entire Foundation**'
+parent_heading: '**VI. The Seal of Emergence**'
 block_type: paragraph
-concepts:
-- internally
-- Φ
-- δ
 excerpt: All objects, morphisms, operators, connections, and curvatures in NOT, Genesis,
   δ, and Φ are interpreted **internally** in the ambient topos. ---
-heading: '**Axiom (S-3) — Topos Validity of the Entire Foundation**'
-id: GEN2-6474
-lines: 1996-2000
-location: genesis-2/axioms-of-geometry-topos-compatible::vi-the-seal-of-emergence::axiom-s-3-topos-validity-of-the-entire-foundation::b1
-parent_heading: '**VI. The Seal of Emergence**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- δ
+- Φ
+- internally
+aliases:
+- Bk878ao
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

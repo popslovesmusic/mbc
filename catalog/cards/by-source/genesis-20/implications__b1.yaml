@@ -1,10 +1,27 @@
+id: GEN20-6923
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::119-the-computational-axiom-agent-workflow-axiom::implications::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3534-3543
+heading: Implications
+parent_heading: 11.9 The Computational Axiom (Agent Workflow Axiom)
 block_type: list
-concepts: []
 excerpt: '* agent-based systems can be built inside MBC * classifiers and workflows
   act as semantic maps * computational steps mirror box interactions'
-heading: Implications
-id: GEN20-6923
-lines: 3534-3543
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::119-the-computational-axiom-agent-workflow-axiom::implications::b1
-parent_heading: 11.9 The Computational Axiom (Agent Workflow Axiom)
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- agent-based
+aliases:
+- Bk256ab
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

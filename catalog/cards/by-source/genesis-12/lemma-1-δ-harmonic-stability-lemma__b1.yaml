@@ -1,14 +1,39 @@
+id: GEN12-1729
+location: genesis-12/untitled-document::4-proof-structure::lemma-1-δ-harmonic-stability-lemma::b1
+source: genesis-12\Untitled_document.md
+lines: 142-149
+heading: '**Lemma 1 (δ-Harmonic Stability Lemma)**'
+parent_heading: '**4\. Proof Structure**'
 block_type: paragraph
-concepts:
-- Proof Sketch
-- Φ
-- δ
 excerpt: '*δ-harmonic modes form a well-defined spectrum and constitute the domain
   of Φ.* **Proof Sketch:** From A1, δ-curvature induces a spectrum of adjacency harmonics.
   Their degeneracy class is invariant un...'
-heading: '**Lemma 1 (δ-Harmonic Stability Lemma)**'
-id: GEN12-1729
-lines: 142-149
-location: genesis-12/untitled-document::4-proof-structure::lemma-1-δ-harmonic-stability-lemma::b1
-parent_heading: '**4\. Proof Structure**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Proof
+- δ
+- object-preservation
+- Φ
+- well-defined
+- δ-curvature
+- δ-morphisms
+- δ-harmonic
+- Proof Sketch
+aliases:
+- Bk001a
+tags:
+- proof
+- A1
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.951219512195124
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1

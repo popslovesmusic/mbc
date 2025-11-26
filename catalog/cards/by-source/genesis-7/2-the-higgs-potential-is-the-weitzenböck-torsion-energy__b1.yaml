@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: Tδ∼−Φ2,Tδ2∼Φ4.T\_\\delta \\sim \-\\Phi^2, \\qquad T\_\\delta^2 \\sim \\Phi^4.Tδ​∼−Φ2,Tδ2​∼Φ4.
-heading: '**2\. The Higgs potential is the Weitzenböck torsion energy.**'
 id: GEN7-8582
-lines: 503-505
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::7-why-this-is-profound-in-your-igsoa-system::2-the-higgs-potential-is-the-weitzenböck-torsion-energy::b1
-parent_heading: '**7\. Why This Is Profound in Your IGSOA System**'
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 503-505
+heading: '**2\. The Higgs potential is the Weitzenböck torsion energy.**'
+parent_heading: '**7\. Why This Is Profound in Your IGSOA System**'
+block_type: paragraph
+excerpt: Tδ∼−Φ2,Tδ2∼Φ4.T\_\\delta \\sim \-\\Phi^2, \\qquad T\_\\delta^2 \\sim \\Phi^4.Tδ​∼−Φ2,Tδ2​∼Φ4.
+concepts:
+- δ
+- Φ
+aliases:
+- Bk276ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

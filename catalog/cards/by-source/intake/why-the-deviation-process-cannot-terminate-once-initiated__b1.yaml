@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Why the deviation process cannot terminate once initiated)***'
 id: INTK-10013
-lines: 1062-1064
 location: intake/meta-genesis-mathematical-papers::the-genesis-closure-principle::why-the-deviation-process-cannot-terminate-once-initiated::b1
-parent_heading: '**The Genesis Closure Principle**'
 source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1062-1064
+heading: '***(Why the deviation process cannot terminate once initiated)***'
+parent_heading: '**The Genesis Closure Principle**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

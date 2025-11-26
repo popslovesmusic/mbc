@@ -1,12 +1,33 @@
+id: GEN10-851
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::6-π-projection-from-modal-growth-to-the-thermal-arrow::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1662-1686
+heading: '**6\. Π-Projection: From Modal Growth to the Thermal Arrow**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'Π maps Φ-modes to classical macrostates: Π:Φ→Histories (macrostates).Π:Φ
   \\to \\text{Histories (macrostates)}.Π:Φ→Histories (macrostates). Because Φ-space
   grows:'
-heading: '**6\. Π-Projection: From Modal Growth to the Thermal Arrow**'
-id: GEN10-851
-lines: 1662-1686
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::6-π-projection-from-modal-growth-to-the-thermal-arrow::b1
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Φ
+- Π
+- Δ
+- →
+- coarse-grained
+- Π-histories
+- many-to-one
+- Φ-modes
+- Φ-space
+aliases:
+- Bk063mm
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,15 +1,38 @@
-block_type: paragraph
-concepts:
-- Adjacency Locking
-- Chromatic Phase Locking
-- Mode
-- Mode Compression
-- Φ
-- δ
-excerpt: 'When structure enters nonlinear growth: Φ2:Bδ↦Bδ′,\\Phi\_2: \\mathcal{B}\_\\delta
-  \\mapsto \\mathcal{B}\_\\delta'',Φ2​:Bδ​↦Bδ′​, where the transformed basins satisfy:'
-heading: '**5\. Φ₂: Nonlinear Mode Compression and Node Locking**'
 id: GEN12-1865
-lines: 2163-2189
 location: genesis-12/untitled-document::5-φ₂-nonlinear-mode-compression-and-node-locking::b1
 source: genesis-12\Untitled_document.md
+lines: 2163-2189
+heading: '**5\. Φ₂: Nonlinear Mode Compression and Node Locking**'
+block_type: paragraph
+excerpt: 'When structure enters nonlinear growth: Φ2:Bδ↦Bδ′,\\Phi\_2: \\mathcal{B}\_\\delta
+  \\mapsto \\mathcal{B}\_\\delta'',Φ2​:Bδ​↦Bδ′​, where the transformed basins satisfy:'
+concepts:
+- δ
+- Φ
+- →
+- Adjacency
+- higher-order
+- χ
+- Mode
+- δ-harmonic
+- grid-like
+- Chromatic Phase Locking
+- local curvature kernels
+- Adjacency Locking
+- Mode Compression
+- Φ₂
+aliases:
+- Bk628ws
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.570247933884298
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

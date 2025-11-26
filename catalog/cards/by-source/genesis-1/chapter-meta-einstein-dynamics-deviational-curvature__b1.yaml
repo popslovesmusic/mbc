@@ -1,16 +1,37 @@
+id: GEN1-601
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-meta-einstein-dynamics-deviational-curvature::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1134-1140
+heading: '**Chapter — Meta-Einstein Dynamics & Deviational Curvature**'
 block_type: paragraph
-concepts:
-- Deviational Geometry
-- Formal Theorem
-- Lemma
-- Proof Chapter
-- Theorem
-- δ
 excerpt: '*(Formal Theorem–Lemma–Proof Chapter)* This continues directly from the
   **Axioms of Deviational Geometry**, and assumes the δ-action and δ-curvature formalism
   already established. ---'
-heading: '**Chapter — Meta-Einstein Dynamics & Deviational Curvature**'
-id: GEN1-601
-lines: 1134-1140
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-meta-einstein-dynamics-deviational-curvature::b1
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- Deviational Geometry
+- Deviation
+- Theorem
+- Lemma
+- Proof
+- δ
+- Axioms of Deviational Geometry
+- δ-curvature
+- δ-action
+- Formal Theorem
+- Proof Chapter
+aliases:
+- Bk091ft
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 44.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

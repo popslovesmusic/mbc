@@ -1,14 +1,38 @@
-block_type: table
-concepts:
-- Box
-- Box Calculus
-- Standard Formalism
-- Σ
-- Ω
-excerpt: You already wrote the desired form; we now make it clock-rigorous.
-heading: '**C) The Tick / Global Transition Semantics**'
 id: GEN16-3768
-lines: 392-401
 location: genesis-16/untitled-document::box-calculus-v02-closing-the-three-gaps::c-the-tick-global-transition-semantics::b1
-parent_heading: '**Box Calculus v0.2 — Closing the Three Gaps**'
 source: genesis-16\Untitled_document.md
+lines: 392-401
+heading: '**C) The Tick / Global Transition Semantics**'
+parent_heading: '**Box Calculus v0.2 — Closing the Three Gaps**'
+block_type: table
+excerpt: You already wrote the desired form; we now make it clock-rigorous.
+concepts:
+- Ω
+- Σ
+- Box Calculus
+- IGSOA
+- Σi
+- Ωi
+- Box
+- →
+- ∈
+- operator-indexed
+- clock-rigorous
+- co-evolves
+- Standard Formalism
+- Σj
+- Ωj
+aliases:
+- Bk810ya
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.109004739336493
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

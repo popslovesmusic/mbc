@@ -1,13 +1,27 @@
+id: GEN17-5007
+location: genesis-17/mbc-schema-3::4-derived-operators::41-φ-curvatureamplitude-field::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 64-70
+heading: '**4.1 Φ – Curvature/Amplitude Field**'
+parent_heading: '**4\. Derived Operators**'
 block_type: paragraph
-concepts:
-- shadow
-- Φ
-- δ
 excerpt: Φ \= Φ(δ) * The *shadow* of deviation expressed as curvature * Governs local
   geometric amplification
-heading: '**4.1 Φ – Curvature/Amplitude Field**'
-id: GEN17-5007
-lines: 64-70
-location: genesis-17/mbc-schema-3::4-derived-operators::41-φ-curvatureamplitude-field::b1
-parent_heading: '**4\. Derived Operators**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- Φ
+- δ
+aliases:
+- Bk879ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

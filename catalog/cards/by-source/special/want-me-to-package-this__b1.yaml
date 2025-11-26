@@ -1,19 +1,42 @@
+id: SPEC-11000
+location: special/specil::want-me-to-package-this::b1
+source: special\specil.md
+lines: 496-510
+heading: '**📦 Want me to package this?**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Kinetic Chapter
-- Kinetic Tri
-- Phase Axiom
-- Tri-Kinetic
-- Tri-Phase
-- δ
 excerpt: 'I can turn this into any of the following: * A **sealed Axiom Box**: “The
   IGSOA Kinetic Tri-Phase Axiom” * A formal **Genesis-0 diagram** (IGS → OA → δ →
   smoothing flow)'
-heading: '**📦 Want me to package this?**'
-id: SPEC-11000
-lines: 496-510
-location: special/specil::want-me-to-package-this::b1
-source: special\specil.md
+concepts:
+- IGSOA
+- Axiom
+- category-theoretic functor
+- →
+- Tri-Kinetic Chapter
+- category-theoretic
+- Box
+- Genesis-0 diagram
+- white-paper
+- Tri-Kinetic
+- Tri-Phase
+- δ
+- sealed Axiom Box
+- Kinetic Chapter
+- Kinetic Tri
+aliases:
+- Bk112ct
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 30.909090909090907
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

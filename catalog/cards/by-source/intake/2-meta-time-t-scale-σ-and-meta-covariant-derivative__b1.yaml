@@ -1,12 +1,27 @@
+id: INTK-10319
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::operator-algebra::2-meta-time-t-scale-σ-and-meta-covariant-derivative::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 825-826
+heading: 2. Meta-Time (T̂), Scale (Σ̂), and Meta-Covariant Derivative (∇̂)
+parent_heading: Operator Algebra
 block_type: paragraph
-concepts:
-- Meta-Geometry
-- Meta-Time
 excerpt: Operators representing evolution along Meta-Time, transformations along the
   scale dimension, and transport in Meta-Geometry.
-heading: 2. Meta-Time (T̂), Scale (Σ̂), and Meta-Covariant Derivative (∇̂)
-id: INTK-10319
-lines: 825-826
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::operator-algebra::2-meta-time-t-scale-σ-and-meta-covariant-derivative::b1
-parent_heading: Operator Algebra
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Time
+- Meta-Geometry
+aliases:
+- Bk477or
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

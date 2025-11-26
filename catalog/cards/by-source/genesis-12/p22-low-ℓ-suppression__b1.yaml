@@ -1,11 +1,27 @@
+id: GEN12-1697
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p2-cmb-multipole-predictions::p22-low-ℓ-suppression::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2545-2551
+heading: '**P2.2 Low-ℓ Suppression**'
+parent_heading: '**Axiom P2 (CMB Multipole Predictions).**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Low Φ-modes project to suppressed: * quadrupole (ℓ \= 2), * octopole (ℓ
   \= 3).'
-heading: '**P2.2 Low-ℓ Suppression**'
-id: GEN12-1697
-lines: 2545-2551
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p2-cmb-multipole-predictions::p22-low-ℓ-suppression::b1
-parent_heading: '**Axiom P2 (CMB Multipole Predictions).**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Φ-modes
+- Φ
+aliases:
+- Bk832lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,26 @@
-block_type: paragraph
-concepts:
-- Zero-State
-- self-fixing
-- Ψ
-excerpt: There exists a distinguished object Ψ0\\Psi\_0Ψ0​ such that
-heading: '**Axiom NOT.1 — Impossibility of Perfect Identity**'
 id: GEN4-7621
-lines: 428-439
 location: genesis-4/meta-physics-axiom-box::i-not-axiom-non-identity-of-the-zero-state::axiom-not1-impossibility-of-perfect-identity::b1
-parent_heading: '**I. NOT AXIOM (Non-Identity of the Zero-State)**'
 source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 428-439
+heading: '**Axiom NOT.1 — Impossibility of Perfect Identity**'
+parent_heading: '**I. NOT AXIOM (Non-Identity of the Zero-State)**'
+block_type: paragraph
+excerpt: There exists a distinguished object Ψ0\\Psi\_0Ψ0​ such that
+concepts:
+- Ψ
+- State
+- self-fixing
+- Zero-State
+- ≠
+aliases:
+- Bk194te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.627906976744185
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

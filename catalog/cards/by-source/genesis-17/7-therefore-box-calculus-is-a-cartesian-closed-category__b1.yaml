@@ -1,15 +1,34 @@
+id: GEN17-4489
+location: genesis-17/box-calculus::7-therefore-box-calculus-is-a-cartesian-closed-category::b1
+source: genesis-17\box_calculus.md
+lines: 5530-5556
+heading: ⭐ 7\. Therefore Box Calculus is a Cartesian Closed Category
 block_type: paragraph
+excerpt: 'We have proven: 1. Terminal object exists (Π-state). 2. Binary products
+  exist (semantic tensor).'
 concepts:
 - Box
 - Box Calculus
+- Meta-Math
 - Cartesian Closed Category
-- Meta-Mathematics
-- Π
 - λ
-excerpt: 'We have proven: 1. Terminal object exists (Π-state). 2. Binary products
-  exist (semantic tensor).'
-heading: ⭐ 7\. Therefore Box Calculus is a Cartesian Closed Category
-id: GEN17-4489
-lines: 5530-5556
-location: genesis-17/box-calculus::7-therefore-box-calculus-is-a-cartesian-closed-category::b1
-source: genesis-17\box_calculus.md
+- Meta-Mathematics
+- self-sufficient
+- higher-order
+- Π-state
+- Π
+aliases:
+- Bk458hp
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.309278350515463
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

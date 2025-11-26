@@ -1,12 +1,31 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ψ
-- δ
-excerpt: '`Ψ₀  (zero-state: no structure, no time)` `│` `│  δ (first deviation)`'
-heading: '**6\. Diagram (Formal Genesis Flow)**'
 id: GEN0-240
-lines: 1187-1211
 location: genesis-0/tri-unity-theorem-equivalence-of::6-diagram-formal-genesis-flow::b1
 source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1187-1211
+heading: '**6\. Diagram (Formal Genesis Flow)**'
+block_type: paragraph
+excerpt: '`Ψ₀  (zero-state: no structure, no time)` `│` `│  δ (first deviation)`'
+concepts:
+- Ψ
+- δ
+- IGSOA
+- Π
+- Φ
+- →
+- zero-state
+- Ψ₂
+- Ψ₃
+- Ψ₁
+- Ψ₀
+aliases:
+- Bk113zs
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.941176470588237
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

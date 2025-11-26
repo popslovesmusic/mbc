@@ -1,18 +1,37 @@
+id: INTK-10682
+location: intake/volume-i-core-ontology-and-metagenesis-summary::a-summary-of-the-metaphysical-framework::6-synthesized-concepts-and-applications::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1713-1721
+heading: 6. Synthesized Concepts and Applications
+parent_heading: A Summary of the Metaphysical Framework
 block_type: list
-concepts:
-- Chromatic Cognition
-- Cyclical Semantic Field Dynamics
-- Field
-- Paradox-Wormhole
-- The Error Correction Metaphor
-- Wormhole Principle
-- Zero State
 excerpt: '*   **Cyclical Semantic Field Dynamics:** The core purpose of the framework:
   to describe a system where actualized events cyclically dissolve back into a semantic
   potential field, influencing future a...'
-heading: 6. Synthesized Concepts and Applications
-id: INTK-10682
-lines: 1713-1721
-location: intake/volume-i-core-ontology-and-metagenesis-summary::a-summary-of-the-metaphysical-framework::6-synthesized-concepts-and-applications::b1
-parent_heading: A Summary of the Metaphysical Framework
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Deviation
+- State
+- Field
+- Cyclical Semantic Field Dynamics
+- Paradox-Wormhole
+- fault-tolerant
+- The Error Correction Metaphor
+- cross-scale
+- one-to-one
+- Chromatic Cognition
+- Wormhole Principle
+- Zero State
+aliases:
+- Bk497cs
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.547169811320755
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

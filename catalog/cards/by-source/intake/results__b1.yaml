@@ -1,16 +1,33 @@
+id: INTK-10624
+location: intake/volume-i-core-ontology-and-metagenesis-summary::11-projection-functor-gr-qft-qm::results::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1085-1096
+heading: '**Results**'
+parent_heading: '**11\. Projection Functor → GR, QFT, QM**'
 block_type: list
+excerpt: '* **General Relativity** gμν=Π(C)g\_{\\mu\\nu} \= \\Pi(\\mathcal{C})gμν​=Π(C)
+  * **Gauge Theory**'
 concepts:
-- Gauge Theory
-- General Relativity
-- Quantum Mechanics
 - Π
 - μ
 - ν
-excerpt: '* **General Relativity** gμν=Π(C)g\_{\\mu\\nu} \= \\Pi(\\mathcal{C})gμν​=Π(C)
-  * **Gauge Theory**'
-heading: '**Results**'
-id: INTK-10624
-lines: 1085-1096
-location: intake/volume-i-core-ontology-and-metagenesis-summary::11-projection-functor-gr-qft-qm::results::b1
-parent_heading: '**11\. Projection Functor → GR, QFT, QM**'
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+- ∂
+- shadow of the triad
+- General Relativity
+- Quantum Mechanics
+- Gauge Theory
+aliases:
+- Bk170gr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.814814814814813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

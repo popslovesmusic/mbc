@@ -1,20 +1,41 @@
+id: GEN8-8776
+location: genesis-8/meta-time-geometry-and-temporal-projection::1-the-ontology-of-meta-time-τ::11-meta-time-is-not-time::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 34-60
+heading: '**1.1 Meta-Time Is Not Time**'
+parent_heading: '**1\. The Ontology of Meta-Time (Τ)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Meta-Time
-- Non-dynamical
-- Non-geometric
-- Non-local
-- Non-numeric
-- Time Ordering
-- Zero State
-- Ψ
-- δ
 excerpt: 'Meta-Time is: * **Non-numeric** (has no metric a priori) * **Non-geometric**
   (precedes geometry)'
-heading: '**1.1 Meta-Time Is Not Time**'
-id: GEN8-8776
-lines: 34-60
-location: genesis-8/meta-time-geometry-and-temporal-projection::1-the-ontology-of-meta-time-τ::11-meta-time-is-not-time::b1
-parent_heading: '**1\. The Ontology of Meta-Time (Τ)**'
-source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+concepts:
+- Meta-Time
+- Deviation
+- well-ordering principle on states
+- Axiom
+- Ψ
+- well-ordering
+- State
+- δ
+- Non-geometric
+- Non-dynamical
+- Non-numeric
+- Non-local
+- ≠
+- ≤
+- Time Ordering
+aliases:
+- Am391mt
+tags:
+- meta-time-ordering
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

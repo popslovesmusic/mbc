@@ -1,11 +1,27 @@
-block_type: paragraph
-concepts:
-- Foundational Statement
-- δ
-excerpt: '*(IGSOA Foundational Statement)* Gravity in IGSOA is not a force, not a
-  field, and not spacetime bending in the classical sense. Instead:'
-heading: '**Why δ-Curvature Gives Gravity**'
 id: GEN7-8618
-lines: 2-15
 location: genesis-7/why-curvature-gives-gravity::why-δ-curvature-gives-gravity::b1
 source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 2-15
+heading: '**Why δ-Curvature Gives Gravity**'
+block_type: paragraph
+excerpt: '*(IGSOA Foundational Statement)* Gravity in IGSOA is not a force, not a
+  field, and not spacetime bending in the classical sense. Instead:'
+concepts:
+- IGSOA
+- δ
+- δ-curvature
+- Foundational Statement
+aliases:
+- Bk833if
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.633802816901409
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

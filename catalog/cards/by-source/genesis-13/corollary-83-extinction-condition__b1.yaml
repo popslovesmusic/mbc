@@ -1,12 +1,31 @@
+id: GEN13-2640
+location: genesis-13/what-biology-is-in-meta-genesis::8-corollaries-ultra-formal::corollary-83-extinction-condition::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2590-2602
+heading: '**Corollary 8.3 (Extinction Condition).**'
+parent_heading: '**8\. Corollaries (Ultra-Formal)**'
 block_type: paragraph
-concepts:
-- δ
-- μ
 excerpt: 'If δ-flux replenishment fails for all agents: ∀X, Rδ,X(A)=0,\\forall X,\\
   \\mathcal{R}\_{\\delta,X}(A)=0,∀X, Rδ,X​(A)=0, then:'
-heading: '**Corollary 8.3 (Extinction Condition).**'
-id: GEN13-2640
-lines: 2590-2602
-location: genesis-13/what-biology-is-in-meta-genesis::8-corollaries-ultra-formal::corollary-83-extinction-condition::b1
-parent_heading: '**8\. Corollaries (Ultra-Formal)**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- ∀
+- μ
+- →
+- ∞
+- δ-flux
+aliases:
+- Bk942fr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

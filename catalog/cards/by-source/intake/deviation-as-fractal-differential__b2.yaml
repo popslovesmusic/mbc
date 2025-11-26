@@ -1,18 +1,40 @@
+id: INTK-10902
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::meta-fractal-calculus-integration::deviation-as-fractal-differential::b2
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3940-3966
+heading: Deviation as Fractal Differential
+parent_heading: Meta-Fractal Calculus Integration
 block_type: paragraph
-concepts:
-- 1-form
-- Fractal Leibniz
-- Meaning
-- Meta-Fractal
-- Ω
-- α
-- δ
-- μ
 excerpt: 'Deviation δ naturally a **1-form** over Meta-Fractal base: ``` δ(x) dμ_F(x)
   ∈ Ω¹_F'
-heading: Deviation as Fractal Differential
-id: INTK-10902
-lines: 3940-3966
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::meta-fractal-calculus-integration::deviation-as-fractal-differential::b2
-parent_heading: Meta-Fractal Calculus Integration
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- δ
+- Deviation
+- Meta-Fractal exterior derivative
+- Ω
+- Meta-Fractal
+- μ
+- ∂
+- scale-curvature
+- scale-weights
+- α
+- ∈
+- →
+- Fractal Leibniz
+- Meaning
+- Ω¹
+aliases:
+- Bk306dn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,26 @@
+id: GEN17-5061
+location: genesis-17/mbc-schema-3::6-the-mbc-adjoint-triple::62-φ-π-right-adjoint::statement::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 724-726
+heading: '**Statement**'
+parent_heading: '**6.2 Φ ⊣ Π (Right Adjoint)**'
 block_type: paragraph
+excerpt: Φ  ⊣  Π\\Phi \\;\\dashv\\; \\PiΦ⊣Π
 concepts:
 - Π
 - Φ
-excerpt: Φ  ⊣  Π\\Phi \\;\\dashv\\; \\PiΦ⊣Π
-heading: '**Statement**'
-id: GEN17-5061
-lines: 724-726
-location: genesis-17/mbc-schema-3::6-the-mbc-adjoint-triple::62-φ-π-right-adjoint::statement::b1
-parent_heading: '**6.2 Φ ⊣ Π (Right Adjoint)**'
-source: genesis-17\MBC_Schema_3.md
+aliases:
+- Bk249pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

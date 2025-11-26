@@ -1,14 +1,34 @@
+id: GEN14-2684
+location: genesis-14/inflation-structure-formation::proof-1-igsoa-only-δ-adjacency-instability-inflation::proof::1-genesis-setup::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 571-579
+heading: '**1\. Genesis Setup**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
-- η
 excerpt: 'Adjacency objects A∈Obj(Adj)A \\in \\text{Obj}(\\text{Adj})A∈Obj(Adj) evolve
   under δ through the natural transformation η:IdAdj⇒δ,\\eta: \\text{Id}\_{\\text{Adj}}
   \\Rightarrow \\delta,η:IdAdj​⇒δ, whic...'
-heading: '**1\. Genesis Setup**'
-id: GEN14-2684
-lines: 571-579
-location: genesis-14/inflation-structure-formation::proof-1-igsoa-only-δ-adjacency-instability-inflation::proof::1-genesis-setup::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- Adjacency
+- δ
+- η
+- ∈
+- zero-state
+- Ψ
+- ∇
+- Ψ₀
+aliases:
+- Bk692ao
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.545454545454545
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

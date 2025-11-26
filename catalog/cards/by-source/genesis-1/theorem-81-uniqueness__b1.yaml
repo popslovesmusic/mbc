@@ -1,12 +1,28 @@
+id: GEN1-596
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-81-uniqueness::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 1087-1095
+heading: '**Theorem 8.1 (Uniqueness).**'
 block_type: paragraph
-concepts:
-- Deviational Geometry
-- δ
 excerpt: Any geometric theory satisfying Axioms 1–6 must be isomorphic to Deviational
   Geometry; the triple (δ,δ†δ,\[δ,δ\])(\\delta,\\delta^\\dagger\\delta,\[\\delta,\\delta\])(δ,δ†δ,\[δ,δ\])
   determines all geo...
-heading: '**Theorem 8.1 (Uniqueness).**'
-id: GEN1-596
-lines: 1087-1095
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-81-uniqueness::b1
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Deviational Geometry
+- Deviation
+aliases:
+- Bk153ag
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.894736842105263
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

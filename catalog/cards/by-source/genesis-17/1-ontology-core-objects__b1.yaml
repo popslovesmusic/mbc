@@ -1,18 +1,38 @@
-block_type: table
-concepts:
-- Axiom
-- Box
-- Box Calculus
-- Closure Axiom Box
-- You Wrote
-- Γ
-- Σ
-- Ω
-- τ
-excerpt: 'Result: Your ontology and the Closure Axiom Box ontology are fully compatible
-  and differ only in notation style. ---'
-heading: 1\. Ontology (Core Objects)
 id: GEN17-4282
-lines: 2062-2073
 location: genesis-17/box-calculus::1-ontology-core-objects::b1
 source: genesis-17\box_calculus.md
+lines: 2062-2073
+heading: 1\. Ontology (Core Objects)
+block_type: table
+excerpt: 'Result: Your ontology and the Closure Axiom Box ontology are fully compatible
+  and differ only in notation style. ---'
+concepts:
+- Box
+- Box Calculus
+- Σ
+- Axiom
+- τ
+- category-aligned
+- Closure Axiom Box
+- Ω
+- Δ
+- ∈
+- Γ
+- ∂
+- You Wrote
+aliases:
+- Bk381uy
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.743801652892563
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

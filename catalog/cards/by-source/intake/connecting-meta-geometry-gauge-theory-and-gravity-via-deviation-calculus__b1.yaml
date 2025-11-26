@@ -1,18 +1,35 @@
+id: INTK-10209
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::the-higher-gauge-meta-einstein-equation::connecting-meta-geometry-gauge-theory-and-gravity-via-deviation-calculus::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 7-11
+heading: '**Connecting Meta-Geometry, Gauge Theory, and Gravity via Deviation Calculus**'
+parent_heading: The Higher-Gauge Meta-Einstein Equation
 block_type: paragraph
-concepts:
-- Einstein Equation
-- Gauge Meta
-- Higher-Gauge
-- Meta-Einstein
-- Meta-Geometric
-- Meta-Math
-- δ
 excerpt: This document details the derivation and interpretation of the **Higher-Gauge
   Meta-Einstein Equation**, a core result of the IGSOA / Meta-Math framework. This
   equation unifies the concepts of gravity,...
-heading: '**Connecting Meta-Geometry, Gauge Theory, and Gravity via Deviation Calculus**'
-id: INTK-10209
-lines: 7-11
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::the-higher-gauge-meta-einstein-equation::connecting-meta-geometry-gauge-theory-and-gravity-via-deviation-calculus::b1
-parent_heading: The Higher-Gauge Meta-Einstein Equation
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Einstein
+- Meta-Math
+- IGSOA
+- Higher-Gauge Meta-Einstein Equation
+- Meta-Geometric
+- Higher-Gauge
+- δ
+- Einstein Equation
+- Gauge Meta
+aliases:
+- Bk359td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

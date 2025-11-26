@@ -1,14 +1,30 @@
+id: GEN13-2230
+location: genesis-13/meta-math-nuclear-physics::4-π-topological-quantum-gates-from-φ-braid-operators::definition-41-π-gate::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2619-2627
+heading: '**Definition 4.1 — Π-Gate**'
+parent_heading: '**4\. Π-Topological Quantum Gates From Φ-Braid Operators**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- β
-- ρ
 excerpt: A topological quantum gate is U=Π(ρΦ(β)),U= \\Pi(\\rho\_\\Phi(\\beta)),U=Π(ρΦ​(β)),
   where β∈Bn\\beta\\in B\_nβ∈Bn​ is a braid.
-heading: '**Definition 4.1 — Π-Gate**'
-id: GEN13-2230
-lines: 2619-2627
-location: genesis-13/meta-math-nuclear-physics::4-π-topological-quantum-gates-from-φ-braid-operators::definition-41-π-gate::b1
-parent_heading: '**4\. Π-Topological Quantum Gates From Φ-Braid Operators**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- β
+- Π
+- Φ
+- ρ
+- ∈
+aliases:
+- Bk276tq
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

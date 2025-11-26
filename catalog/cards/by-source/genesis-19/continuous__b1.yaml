@@ -1,11 +1,26 @@
+id: GEN19-6195
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::3-peaksets-semantic-attractors::continuous::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2249-2253
+heading: “continuous”
+parent_heading: ✅ 3\. Peaksets (Semantic Attractors)
 block_type: paragraph
-concepts: []
 excerpt: is repeated across all three theorems → becomes a semantic anchor. In a real
   MBC tensor system, these would form a multi-channel polarity basin, not just a scalar.
   ---
-heading: “continuous”
-id: GEN19-6195
-lines: 2249-2253
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::3-peaksets-semantic-attractors::continuous::b1
-parent_heading: ✅ 3\. Peaksets (Semantic Attractors)
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- MBC
+- multi-channel
+- →
+aliases:
+- Bk119ra
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

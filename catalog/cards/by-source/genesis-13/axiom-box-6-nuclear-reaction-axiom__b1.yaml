@@ -1,17 +1,38 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Correspondence Postulate
-- End Seal
-- Π
-- Φ
-- α
-- β
-- γ
-- τ
-excerpt: '**SEAL:** NRA-1 **Axiom.** Every Φ-transition operator'
-heading: '**AXIOM BOX 6: Nuclear Reaction Axiom**'
 id: GEN13-2092
-lines: 1186-1211
 location: genesis-13/meta-math-nuclear-physics::axiom-box-6-nuclear-reaction-axiom::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1186-1211
+heading: '**AXIOM BOX 6: Nuclear Reaction Axiom**'
+block_type: paragraph
+excerpt: '**SEAL:** NRA-1 **Axiom.** Every Φ-transition operator'
+concepts:
+- τ
+- Π
+- Φ
+- Axiom
+- γ
+- β
+- α
+- →
+- Φ-transition
+- Correspondence Postulate
+- Φm
+- Φn
+- End Seal
+aliases:
+- Am334sn
+tags:
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.871287128712872
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

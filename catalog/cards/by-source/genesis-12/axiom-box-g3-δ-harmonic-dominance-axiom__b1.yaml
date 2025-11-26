@@ -1,11 +1,27 @@
+id: GEN12-1859
+location: genesis-12/untitled-document::2-axiom-boxes-used::axiom-box-g3-δ-harmonic-dominance-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 2102-2104
+heading: '**Axiom Box G3 — δ-Harmonic Dominance Axiom**'
+parent_heading: '**2\. Axiom Boxes Used**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Local galaxy morphology is determined by the dominant δ-harmonic in the local
   curvature spectrum.
-heading: '**Axiom Box G3 — δ-Harmonic Dominance Axiom**'
-id: GEN12-1859
-lines: 2102-2104
-location: genesis-12/untitled-document::2-axiom-boxes-used::axiom-box-g3-δ-harmonic-dominance-axiom::b1
-parent_heading: '**2\. Axiom Boxes Used**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ-harmonic
+- δ
+aliases:
+- Bk619lg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

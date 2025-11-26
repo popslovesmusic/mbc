@@ -1,11 +1,28 @@
+id: GEN19-5909
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::standard-column::step-3-polarity-algebra::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 457-471
+heading: '**Step 3 — Polarity algebra**'
+parent_heading: '**Standard Column**'
 block_type: paragraph
-concepts: []
 excerpt: 'The induced binary operation is: ⊗:{±1}×{±1}→{±1},(a,b)↦ab.\\otimes: \\{±1\\}\\times\\{±1\\}\\to\\{±1\\},\\quad
   (a,b)\\mapsto ab.⊗:{±1}×{±1}→{±1},(a,b)↦ab. This is the multiplicative group of
   order 2:'
-heading: '**Step 3 — Polarity algebra**'
-id: GEN19-5909
-lines: 457-471
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::standard-column::step-3-polarity-algebra::b1
-parent_heading: '**Standard Column**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- ⊗
+- →
+aliases:
+- Bk103ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,29 @@
+id: GEN4-7628
+location: genesis-4/meta-physics-axiom-box::iii-genesis-axioms-emergence-of-structure-from-deviation::axiom-g2-emergence-of-adjacency::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 485-489
+heading: '**Axiom G.2 — Emergence of Adjacency**'
+parent_heading: '**III. GENESIS AXIOMS (Emergence of Structure from Deviation)**'
 block_type: paragraph
-concepts:
-- Γ
 excerpt: A(Γ1)≠∅\\mathcal{A}(\\Gamma\_1)\\neq\\varnothingA(Γ1​)=∅ Deviation creates
   adjacency relations that act as proto-morphisms.
-heading: '**Axiom G.2 — Emergence of Adjacency**'
-id: GEN4-7628
-lines: 485-489
-location: genesis-4/meta-physics-axiom-box::iii-genesis-axioms-emergence-of-structure-from-deviation::axiom-g2-emergence-of-adjacency::b1
-parent_heading: '**III. GENESIS AXIOMS (Emergence of Structure from Deviation)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Deviation
+- Γ
+- proto-morphisms
+- ≠
+aliases:
+- Bk857mg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

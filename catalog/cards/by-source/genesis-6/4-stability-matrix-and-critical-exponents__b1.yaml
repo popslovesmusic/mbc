@@ -1,15 +1,40 @@
+id: GEN6-8334
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::4-stability-matrix-and-critical-exponents::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 993-1020
+heading: '**4\) Stability Matrix and Critical Exponents**'
+parent_heading: '**If you want next:**'
 block_type: paragraph
-concepts:
-- β
-- δ
-- η
-- λ
-- ν
 excerpt: 'Linearize around a fixed point: Mij=∂βi∂gj∣∗.M\_{ij}=\\left.\\frac{\\partial
   \\beta\_i}{\\partial g\_j}\\right|\_\*.Mij​=∂gj​∂βi​​​∗​. For the δ-WF FP:'
-heading: '**4\) Stability Matrix and Critical Exponents**'
-id: GEN6-8334
-lines: 993-1020
-location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::4-stability-matrix-and-critical-exponents::b1
-parent_heading: '**If you want next:**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- λ
+- ε
+- ∂
+- β
+- δ-geometry
+- correlation-length exponent
+- correlation-length
+- ≈
+- η
+- ν
+- δ-wavefunction
+- anomalous dimension
+- δ-WF
+- δm
+aliases:
+- Bk713la
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.639004149377594
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

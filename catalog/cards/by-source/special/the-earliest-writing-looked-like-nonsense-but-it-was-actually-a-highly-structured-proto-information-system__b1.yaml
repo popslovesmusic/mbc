@@ -1,11 +1,25 @@
+id: SPEC-11184
+location: special/specil::the-earliest-writing-looked-like-nonsense-but-it-was-actually-a-highly-structured-proto-information-system::b1
+source: special\specil.md
+lines: 3797-3805
+heading: '**⭐ The earliest writing looked like nonsense — but it was actually a highly
+  structured proto-information system.**'
 block_type: paragraph
-concepts: []
 excerpt: 'People today see those early Sumerian tablets and think: “It looks like
   scribbles — like a child’s drawing.” But that’s only because we’re used to alphabetic
   writing and modern numeracy.'
-heading: '**⭐ The earliest writing looked like nonsense — but it was actually a highly
-  structured proto-information system.**'
-id: SPEC-11184
-lines: 3797-3805
-location: special/specil::the-earliest-writing-looked-like-nonsense-but-it-was-actually-a-highly-structured-proto-information-system::b1
-source: special\specil.md
+aliases:
+- Bk027pt
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

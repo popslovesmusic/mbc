@@ -1,12 +1,27 @@
+id: GEN18-5331
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::5-sealed-coherence-conditions::53-bicategorical-coherence::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 2511-2517
+heading: '**5.3 Bicategorical Coherence**'
+parent_heading: '**5\. Sealed Coherence Conditions**'
 block_type: paragraph
-concepts:
-- α
 excerpt: 'Every 2-cell, connector, morphism, and rewrite must satisfy: α:f⇒g  ⇒  (monistic
   invariance preserved).\\alpha : f \\Rightarrow g \\;\\Rightarrow\\; \\text{(monistic
   invariance preserved)}.α:f⇒g⇒(moni...'
-heading: '**5.3 Bicategorical Coherence**'
-id: GEN18-5331
-lines: 2511-2517
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::5-sealed-coherence-conditions::53-bicategorical-coherence::b1
-parent_heading: '**5\. Sealed Coherence Conditions**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- α
+aliases:
+- Bk780ec
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.3333333333333335
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

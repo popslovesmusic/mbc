@@ -1,11 +1,29 @@
+id: GEN6-8275
+location: genesis-6/spectral-triple-axiom-box-sealed-version::3-bounded-commutators-s3::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 202-210
+heading: '**(3) Bounded Commutators (S3)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'For a ∈ 𝒜δ: \[Dδ,P(δ)\]=(∂δP)(δ)\[\\mathcal{D}\_{\\delta}, P(\\delta)\]
   \= (\\partial\_{\\delta} P)(\\delta)\[Dδ​,P(δ)\]=(∂δ​P)(δ) which is again a polynomial
   in δ — hence bounded.'
-heading: '**(3) Bounded Commutators (S3)**'
-id: GEN6-8275
-lines: 202-210
-location: genesis-6/spectral-triple-axiom-box-sealed-version::3-bounded-commutators-s3::b1
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- ∂
+- ∈
+- δP
+aliases:
+- Bk376fm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

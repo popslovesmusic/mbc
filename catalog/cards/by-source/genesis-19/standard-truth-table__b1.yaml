@@ -1,9 +1,25 @@
-block_type: table
-concepts: []
-excerpt: ''
-heading: '**Standard Truth Table**'
 id: GEN19-5825
-lines: 86-93
 location: genesis-19/mbc-4-1::32-polarity-or-θ-or::standard-truth-table::b1
-parent_heading: '**3.2 Polarity OR (Θ-OR)**'
 source: genesis-19\MBC-4_1.md
+lines: 86-93
+heading: '**Standard Truth Table**'
+parent_heading: '**3.2 Polarity OR (Θ-OR)**'
+block_type: table
+excerpt: ''
+concepts:
+- ∨
+aliases:
+- Bk715f6
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,33 @@
+id: GEN14-3029
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iv-derivation-structure::6-when-cohesion-breaks-melting-and-dissociation::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1592-1618
+heading: '**6\. When Cohesion Breaks: Melting and Dissociation**'
+parent_heading: '**IV. DERIVATION STRUCTURE**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Cohesion fails only when: 1. δ-curvature plateaus dissolve 2. Φ-mode coherence
   is destroyed'
-heading: '**6\. When Cohesion Breaks: Melting and Dissociation**'
-id: GEN14-3029
-lines: 1592-1618
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::iv-derivation-structure::6-when-cohesion-breaks-melting-and-dissociation::b1
-parent_heading: '**IV. DERIVATION STRUCTURE**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- curvature-decoherence
+- δ
+- Π-multiplicity
+- δ-curvature
+- δ-Geometry
+- Π
+- Φ-mode
+- Φ
+aliases:
+- Bk452cf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

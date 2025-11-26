@@ -1,18 +1,35 @@
+id: GEN6-8418
+location: genesis-6/the-harmonic-spectral-triple::ii-functorial-consistency-conditions::5-no-natural-transformation-backward::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 861-881
+heading: '**5\. No Natural Transformation Backward**'
+parent_heading: '**II. Functorial Consistency Conditions**'
 block_type: paragraph
+excerpt: 'There must be **no** natural transformation: η:IdMath⇒F\\eta : \\text{Id}\_{\\text{Math}}
+  \\Rightarrow Fη:IdMath​⇒F because:'
 concepts:
+- Theorem
+- NOT-sealed Genesis boundary
+- η
 - 'Genesis Closure Principle
 
 
   Thus'
-- Lift Theorem
+- No-Lift Theorem
+- NOT-sealed
 - No-Lift
-- Theorem
-- η
-excerpt: 'There must be **no** natural transformation: η:IdMath⇒F\\eta : \\text{Id}\_{\\text{Math}}
-  \\Rightarrow Fη:IdMath​⇒F because:'
-heading: '**5\. No Natural Transformation Backward**'
-id: GEN6-8418
-lines: 861-881
-location: genesis-6/the-harmonic-spectral-triple::ii-functorial-consistency-conditions::5-no-natural-transformation-backward::b1
-parent_heading: '**II. Functorial Consistency Conditions**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+- Lift Theorem
+aliases:
+- Bk888tm
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

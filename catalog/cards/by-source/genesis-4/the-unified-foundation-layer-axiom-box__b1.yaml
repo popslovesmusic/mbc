@@ -1,11 +1,23 @@
+id: GEN4-7619
+location: genesis-4/meta-physics-axiom-box::the-unified-foundation-layer-axiom-box::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 418-420
+heading: '**THE UNIFIED FOUNDATION LAYER AXIOM BOX**'
 block_type: paragraph
+excerpt: '*(NOT \+ δ \+ Genesis \+ Meta-Math \+ Meta-Physics)*'
 concepts:
 - Meta-Math
 - Meta-Physics
 - δ
-excerpt: '*(NOT \+ δ \+ Genesis \+ Meta-Math \+ Meta-Physics)*'
-heading: '**THE UNIFIED FOUNDATION LAYER AXIOM BOX**'
-id: GEN4-7619
-lines: 418-420
-location: genesis-4/meta-physics-axiom-box::the-unified-foundation-layer-axiom-box::b1
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+aliases:
+- Bk126ng
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 42.857142857142854
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

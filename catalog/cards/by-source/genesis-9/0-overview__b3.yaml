@@ -1,10 +1,30 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'We show: 1. **δ-Weitzenböck torsion** selects a category of **2-fibered
-  δ-objects**. 2. These objects form a **doublet fibration**, encoded by the θ-phase.'
-heading: '**0\. Overview**'
 id: GEN9-9505
-lines: 1064-1084
 location: genesis-9/strong-force::0-overview::b3
 source: genesis-9\strong-force.md
+lines: 1064-1084
+heading: '**0\. Overview**'
+block_type: paragraph
+excerpt: 'We show: 1. **δ-Weitzenböck torsion** selects a category of **2-fibered
+  δ-objects**. 2. These objects form a **doublet fibration**, encoded by the θ-phase.'
+concepts:
+- δ
+- θ
+- doublet fibration
+- δ-objects
+- δ-torsion
+- weak interaction
+aliases:
+- Bk096st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.315789473684211
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,32 @@
+id: INTK-10070
+location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::6-the-unmade-universe-as-a-mirror::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 886-914
+heading: '**6\. The Unmade Universe as a Mirror**'
+parent_heading: '**THE UNMADE UNIVERSE**'
 block_type: paragraph
-concepts:
-- In Meta
-- Meta-Math
-- Meta-Time
-- Ψ
-- δ
 excerpt: 'This is the philosophical resonance: * It is the mirror against which deviation
   defines itself. * The foil that makes structure meaningful.'
-heading: '**6\. The Unmade Universe as a Mirror**'
-id: INTK-10070
-lines: 886-914
-location: intake/meta-genesis-outreach-narrative-papers::the-unmade-universe::6-the-unmade-universe-as-a-mirror::b1
-parent_heading: '**THE UNMADE UNIVERSE**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- Meta-Math
+- Meta-Time
+- Adjacency
+- δ
+- Ψ
+- In Meta
+- Ψ₀
+aliases:
+- Bk553tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

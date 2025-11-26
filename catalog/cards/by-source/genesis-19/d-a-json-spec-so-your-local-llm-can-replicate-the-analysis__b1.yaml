@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which one do you want next?
-heading: D) A JSON spec so your local LLM can replicate the analysis.
 id: GEN19-6056
-lines: 490-492
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-give-you::d-a-json-spec-so-your-local-llm-can-replicate-the-analysis::b1
-parent_heading: 'If you want, I can give you:'
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 490-492
+heading: D) A JSON spec so your local LLM can replicate the analysis.
+parent_heading: 'If you want, I can give you:'
+block_type: paragraph
+excerpt: Which one do you want next?
+aliases:
+- Bk465wo
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

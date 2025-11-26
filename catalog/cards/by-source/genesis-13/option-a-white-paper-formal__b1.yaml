@@ -1,14 +1,30 @@
+id: GEN13-2517
+location: genesis-13/what-biology-is-in-meta-genesis::choose-the-format::option-a-white-paper-formal::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 790-804
+heading: '**Option A — “White-Paper Formal”**'
+parent_heading: '**Choose the Format**'
 block_type: list
-concepts:
-- Operator
-- Π
-- Φ
-- δ
 excerpt: '* Axioms, theorems, corollaries * No narrative * Heavy use of δ-geometry,
   Φ-operators, Π-closure formalism'
-heading: '**Option A — “White-Paper Formal”**'
-id: GEN13-2517
-lines: 790-804
-location: genesis-13/what-biology-is-in-meta-genesis::choose-the-format::option-a-white-paper-formal::b1
-parent_heading: '**Choose the Format**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ-geometry
+- Operator
+- Category-theoretic
+- Φ-operators
+- Π-closure
+- Π
+- δ
+- Φ
+aliases:
+- Bk631at
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

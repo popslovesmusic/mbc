@@ -1,13 +1,30 @@
+id: INTK-10379
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector::connection-to-meta-algebraic-operations::2-meta-scalar-multiplication-odot::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1125-1127
+heading: 2. Meta-Scalar Multiplication ($\odot$)
+parent_heading: Connection to Meta-Algebraic Operations
 block_type: list
-concepts:
-- Meta-Scalar
-- Meta-Vector
-- λ
 excerpt: '- Scales a Meta-Vector by a Meta-Scalar, with the scaling effect often being
   scale-dependent and non-linear. - `V_res = λ ⊙ V`'
-heading: 2. Meta-Scalar Multiplication ($\odot$)
-id: INTK-10379
-lines: 1125-1127
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector::connection-to-meta-algebraic-operations::2-meta-scalar-multiplication-odot::b1
-parent_heading: Connection to Meta-Algebraic Operations
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- scale-dependent
+- Meta-Vector
+- Meta-Scalar
+- non-linear
+- λ
+aliases:
+- Bk946sm
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.727272727272727
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

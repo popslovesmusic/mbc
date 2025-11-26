@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Define a “budget” F F:'
-heading: 3.2 FUEL LIMIT (Optional but Natural)
 id: GEN17-4233
-lines: 1279-1296
 location: genesis-17/box-calculus::3-formal-halting-law::32-fuel-limit-optional-but-natural::b1
-parent_heading: ⭐ 3\. Formal Halting Law
 source: genesis-17\box_calculus.md
+lines: 1279-1296
+heading: 3.2 FUEL LIMIT (Optional but Natural)
+parent_heading: ⭐ 3\. Formal Halting Law
+block_type: paragraph
+excerpt: 'Define a “budget” F F:'
+aliases:
+- Bk690db
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

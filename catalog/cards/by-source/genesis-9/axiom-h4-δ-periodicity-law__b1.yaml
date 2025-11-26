@@ -1,12 +1,28 @@
+id: GEN9-9027
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::axiom-box-the-δ-harmonic-periodic-table-theorem::axiom-h4-δ-periodicity-law::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 52-65
+heading: '**Axiom H4 — δ-Periodicity Law**'
+parent_heading: '**AXIOM BOX — The δ-Harmonic Periodic Table Theorem**'
 block_type: paragraph
-concepts:
-- imposes
-- δ
 excerpt: 'Successive harmonic shells obey: dn+1−dn=4n+2,d\_{n+1} \- d\_n \= 4n+2,dn+1​−dn​=4n+2,
   identical to the Aufbau periodicity.'
-heading: '**Axiom H4 — δ-Periodicity Law**'
-id: GEN9-9027
-lines: 52-65
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::axiom-box-the-δ-harmonic-periodic-table-theorem::axiom-h4-δ-periodicity-law::b1
-parent_heading: '**AXIOM BOX — The δ-Harmonic Periodic Table Theorem**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- δ-harmonic
+- δ-spectral
+- imposes
+aliases:
+- Bk068sh
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

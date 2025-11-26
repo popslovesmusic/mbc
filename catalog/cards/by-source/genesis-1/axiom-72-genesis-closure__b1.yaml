@@ -1,12 +1,28 @@
+id: GEN1-544
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::7-stability-and-consistency-conditions::axiom-72-genesis-closure::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 585-593
+heading: '**Axiom 7.2 — Genesis Closure.**'
+parent_heading: '**7\. Stability and Consistency Conditions**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The closure of δ under composition is complete: ⟨δ⟩closure=⟨δ,δ2,δ3,… ⟩.\\langle
   \\delta \\rangle\_{\\text{closure}} \= \\langle \\delta,\\delta^2,\\delta^3,\\dots
   \\rangle.⟨δ⟩closure​=⟨δ,δ2,δ3,…⟩. No...'
-heading: '**Axiom 7.2 — Genesis Closure.**'
-id: GEN1-544
-lines: 585-593
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::7-stability-and-consistency-conditions::axiom-72-genesis-closure::b1
-parent_heading: '**7\. Stability and Consistency Conditions**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- δ-generated
+aliases:
+- Bk138tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,28 @@
+id: GEN0-359
+location: genesis-0/why-the-first-action-is-necessary::8-effective-low-energy-approximation::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1811-1819
+heading: '**8\. Effective Low-Energy Approximation**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'For energies p2≪m22p^2 \\ll m\_2^2p2≪m22​: Dδ(p)≈iZ1p2−m12+O(p2/m22),D\_\\delta(p)
   \\approx \\frac{i Z\_1}{p^2 \- m\_1^2} \+ \\mathcal{O}(p^2/m\_2^2),Dδ​(p)≈p2−m12​iZ1​​+O(p2/m22​),
   i.e. δ behaves lik...'
-heading: '**8\. Effective Low-Energy Approximation**'
-id: GEN0-359
-lines: 1811-1819
-location: genesis-0/why-the-first-action-is-necessary::8-effective-low-energy-approximation::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ
+- ≈
+- single light boson
+aliases:
+- Bk033fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.172413793103448
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

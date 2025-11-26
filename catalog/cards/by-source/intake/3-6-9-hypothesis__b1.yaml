@@ -1,12 +1,28 @@
+id: INTK-10686
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::3-6-9-hypothesis::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1737-1738
+heading: 3-6-9 Hypothesis
+parent_heading: Glossary
 block_type: paragraph
-concepts:
-- Read More
 excerpt: The 3-6-9 Hypothesis, in the context of the IGSOA framework, is a reinterpretation
   of the popular "Tesla 3-6-9" meme. Instead of treating the numbers 3, 6, and 9 as
   having intrinsic mystical power, th...
-heading: 3-6-9 Hypothesis
-id: INTK-10686
-lines: 1737-1738
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::3-6-9-hypothesis::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- Read More
+aliases:
+- Bk159th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.3333333333333335
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

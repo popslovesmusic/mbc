@@ -1,19 +1,37 @@
+id: GEN14-2798
+location: genesis-14/inflation-structure-formation::6-full-cmb-functoriality-theorem::theorem-c₄-cmb-functoriality-theorem::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 2357-2380
+heading: '**Theorem C₄ (CMB Functoriality Theorem)**'
+parent_heading: '**6\. FULL CMB FUNCTORIALITY THEOREM**'
 block_type: paragraph
+excerpt: 'The CMB anisotropy operator T:Adj→Maps(S2)T: \\text{Adj} \\to \\text{Maps}(S^2)T:Adj→Maps(S2)
+  is a **Π∘Φ∘δ functor**, satisfying:'
 concepts:
-- Adjoint Compatibility
-- Functoriality
-- Harmonic Preservation
-- Naturality
-- Spectrum Conservation
+- δ
 - Π
 - Φ
 - γ
-- δ
-excerpt: 'The CMB anisotropy operator T:Adj→Maps(S2)T: \\text{Adj} \\to \\text{Maps}(S^2)T:Adj→Maps(S2)
-  is a **Π∘Φ∘δ functor**, satisfying:'
-heading: '**Theorem C₄ (CMB Functoriality Theorem)**'
-id: GEN14-2798
-lines: 2357-2380
-location: genesis-14/inflation-structure-formation::6-full-cmb-functoriality-theorem::theorem-c₄-cmb-functoriality-theorem::b1
-parent_heading: '**6\. FULL CMB FUNCTORIALITY THEOREM**'
-source: genesis-14\Inflation__Structure_Formation.md
+- →
+- strict functorial image
+- Adjoint Compatibility
+- Spectrum Conservation
+- Harmonic Preservation
+- Functoriality
+- ΠL
+- Naturality
+aliases:
+- Bk548tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.108108108108109
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

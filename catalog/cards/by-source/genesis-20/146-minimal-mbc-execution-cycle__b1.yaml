@@ -1,13 +1,34 @@
+id: GEN20-7035
+location: genesis-20/mbc-40-documentaitio-1::conclusion::146-minimal-mbc-execution-cycle::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4768-4786
+heading: 14.6 Minimal MBC Execution Cycle
+parent_heading: ⭐ Conclusion
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 1. Input arrives as δ in upstream boxes. 2. Boxes perform Φ-formation. 3.
   Π-evaluation outputs meaning \+ metadata.
-heading: 14.6 Minimal MBC Execution Cycle
-id: GEN20-7035
-lines: 4768-4786
-location: genesis-20/mbc-40-documentaitio-1::conclusion::146-minimal-mbc-execution-cycle::b1
-parent_heading: ⭐ Conclusion
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Π-evaluation
+- Proof
+- Π
+- δ
+- Φ
+- Φ-convergence
+- Φ-formation
+- δ-content
+- Π-values
+aliases:
+- Bk804ia
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.846153846153847
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

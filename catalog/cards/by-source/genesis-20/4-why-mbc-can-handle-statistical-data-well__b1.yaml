@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Because statistical or numeric values often represent: * tendencies * probabilities'
-heading: 4\. Why MBC Can Handle Statistical Data Well
 id: GEN20-6718
-lines: 852-864
 location: genesis-20/mbc-40-documentaitio-1::4-why-mbc-can-handle-statistical-data-well::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 852-864
+heading: 4\. Why MBC Can Handle Statistical Data Well
+block_type: paragraph
+excerpt: 'Because statistical or numeric values often represent: * tendencies * probabilities'
+concepts:
+- MBC
+aliases:
+- Bk001bs
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.7027027027027026
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

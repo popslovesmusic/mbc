@@ -1,11 +1,29 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: 'Φ takes: * box → coherent-box * connector → stabilized connector'
-heading: Φ as a Functor
 id: GEN20-6875
-lines: 2938-2946
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::96-functors-as-semantic-maps::φ-as-a-functor::b1
-parent_heading: 9.6 Functors as Semantic Maps
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2938-2946
+heading: Φ as a Functor
+parent_heading: 9.6 Functors as Semantic Maps
+block_type: paragraph
+excerpt: 'Φ takes: * box → coherent-box * connector → stabilized connector'
+concepts:
+- →
+- Φ
+- coherent-box
+- δ-pattern
+- δ
+aliases:
+- Bk295tb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

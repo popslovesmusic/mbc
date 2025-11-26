@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- Analysis Based On
-excerpt: '**Date:** 2025-11-21 **Analysis Based On:** MASTER_SUMMARY.md, UPDATED_TABLE_OF_CONTENTS.md,
-  glossary.md, and all 5 volumes ---'
-heading: MetaMath White Papers - Volume Structure Gap Analysis
 id: INTK-10924
-lines: 2-7
 location: intake/volume-structure-gap-analysis::metamath-white-papers-volume-structure-gap-analysis::b1
 source: intake\Volume_Structure_Gap_Analysis.md
+lines: 2-7
+heading: MetaMath White Papers - Volume Structure Gap Analysis
+block_type: paragraph
+excerpt: '**Date:** 2025-11-21 **Analysis Based On:** MASTER_SUMMARY.md, UPDATED_TABLE_OF_CONTENTS.md,
+  glossary.md, and all 5 volumes ---'
+concepts:
+- Analysis Based On
+aliases:
+- Bk653da
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.88235294117647
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

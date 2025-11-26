@@ -1,13 +1,32 @@
+id: GEN18-5448
+location: genesis-18/mbc-4::vii-the-equivalence-corollary::igsoa-terms::b1
+source: genesis-18\MBC-4.md
+lines: 1026-1032
+heading: '**IGSOA terms**'
+parent_heading: '**VII. The Equivalence Corollary**'
 block_type: list
-concepts:
-- Π
-- Φ
-- δ
 excerpt: '* δ-structure has been correctly lifted * Φ-object is internally coherent
   * Π-collapse gives a stable truth-object'
-heading: '**IGSOA terms**'
-id: GEN18-5448
-lines: 1026-1032
-location: genesis-18/mbc-4::vii-the-equivalence-corollary::igsoa-terms::b1
-parent_heading: '**VII. The Equivalence Corollary**'
-source: genesis-18\MBC-4.md
+concepts:
+- truth-object
+- δ-structure
+- Π-collapse
+- Φ-object
+- Π
+- δ
+- Φ
+aliases:
+- Bk822sh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 38.88888888888889
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

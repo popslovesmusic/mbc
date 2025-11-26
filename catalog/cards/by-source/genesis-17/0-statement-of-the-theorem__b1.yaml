@@ -1,16 +1,43 @@
-block_type: table
-concepts:
-- Box
-- Box Calculus Polarity
-- Howard Polarity
-- "Programs  \nTypes"
-- Standard Curry
-- Theorem
-- Π
-excerpt: 'Theorem (CH-BC): There is an isomorphism between four domains: Types  ≃  Propositions  ≃  Boxes  ≃  Programs'
-heading: 0\. Statement of the Theorem
 id: GEN17-4570
-lines: 6599-6612
 location: genesis-17/box-calculus::curryhoward-for-box-calculus::0-statement-of-the-theorem::b1
-parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
 source: genesis-17\box_calculus.md
+lines: 6599-6612
+heading: 0\. Statement of the Theorem
+parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
+block_type: table
+excerpt: 'Theorem (CH-BC): There is an isomorphism between four domains: Types  ≃  Propositions  ≃  Boxes  ≃  Programs'
+concepts:
+- Π-evaluation
+- Polarity
+- Box
+- Box Calculus
+- IGSOA
+- Theorem
+- Proof
+- cut-elimination
+- Π
+- well-formed
+- proof-like
+- Π-normal
+- Box Calculus Polarity
+- CH-BC
+- "Programs  \nTypes"
+aliases:
+- Th847ib
+tags:
+- proof
+- ch-bc
+- low-uncertainty
+- theorem
+- definitive
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

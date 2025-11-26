@@ -1,15 +1,35 @@
-block_type: table
-concepts:
-- Box
-- Federated Geometry
-- Standard Math
-- Θ
-- Π
-- Φ
-- δ
-excerpt: F={Bi}i∈I F={B i
-heading: Formal Definition (Dual-Column)
 id: GEN20-6612
-lines: 620-685
 location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::formal-definition-dual-column::b1
 source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 620-685
+heading: Formal Definition (Dual-Column)
+block_type: table
+excerpt: F={Bi}i∈I F={B i
+concepts:
+- Π
+- IGSOA
+- ∈
+- Federated Geometry
+- Box
+- δ
+- Θ
+- Φ
+- Box-geometries
+- sheaf-like
+- inter-Box
+- Π-aligned
+- δ-fields
+- Π-links
+- Standard Math
+aliases:
+- Bk830is
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.497237569060774
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

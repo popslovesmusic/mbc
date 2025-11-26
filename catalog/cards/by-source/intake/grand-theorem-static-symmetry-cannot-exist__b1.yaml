@@ -1,17 +1,32 @@
+id: INTK-10099
+location: intake/meta-genesis-physical-interpretation-papers::6-final-result::grand-theorem-static-symmetry-cannot-exist::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 379-401
+heading: '**Grand Theorem (Static Symmetry Cannot Exist).**'
+parent_heading: '**6\. Final Result**'
 block_type: paragraph
-concepts:
-- Axiom
-- Lemma
-- chance
-- choice
-- Ψ
-- δ
 excerpt: Ψ0 cannot remain still. Perfect stillness is ontologically forbidden.\\boxed{
   \\Psi\_0 \\text{ cannot remain still. Perfect stillness is ontologically forbidden.}
   }Ψ0​ cannot remain still. Perfect sti...
-heading: '**Grand Theorem (Static Symmetry Cannot Exist).**'
-id: INTK-10099
-lines: 379-401
-location: intake/meta-genesis-physical-interpretation-papers::6-final-result::grand-theorem-static-symmetry-cannot-exist::b1
-parent_heading: '**6\. Final Result**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- Adjacency
+- Deviation
+- Lemma
+- Axiom
+- δ
+- →
+- meta-time
+- logical necessity
+aliases:
+- Bk075cr
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.653846153846153
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

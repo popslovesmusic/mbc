@@ -1,13 +1,35 @@
+id: GEN3-7498
+location: genesis-3/the-tri-unity-theorem::the-δφ-field-equation::master-equation-of-deviational-geometry-φ-pattern-dynamics::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 254-269
+heading: '***(Master Equation of Deviational Geometry \+ Φ-Pattern Dynamics)***'
+parent_heading: '**The δ–Φ Field Equation**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- Φ
-- δ
 excerpt: 'This is the **single equation** that unifies: * **Meta-Einstein curvature**
   (δ-generated curvature) * **Φ-pattern evolution** (mode-structure \+ chromatic harmonics)'
-heading: '***(Master Equation of Deviational Geometry \+ Φ-Pattern Dynamics)***'
-id: GEN3-7498
-lines: 254-269
-location: genesis-3/the-tri-unity-theorem::the-δφ-field-equation::master-equation-of-deviational-geometry-φ-pattern-dynamics::b1
-parent_heading: '**The δ–Φ Field Equation**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Meta-Einstein
+- Meta-Einstein curvature
+- Φ-pattern evolution
+- π
+- δ
+- Φ
+- mode-structure
+- δ-generated
+- Φ-pattern
+- single equation
+aliases:
+- Bk664tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 20.833333333333336
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

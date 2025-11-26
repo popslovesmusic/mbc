@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Just tell me which one. ChatGPT can make mistakes. Che
-heading: '**✓ A narrative version for Genesis-0 → Genesis-1 transition**'
 id: GEN17-5145
-lines: 2166-2170
 location: genesis-17/mbc-schema-3::if-you-want-next::a-narrative-version-for-genesis-0-genesis-1-transition::b1
-parent_heading: '**If you want next:**'
 source: genesis-17\MBC_Schema_3.md
+lines: 2166-2170
+heading: '**✓ A narrative version for Genesis-0 → Genesis-1 transition**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: Just tell me which one. ChatGPT can make mistakes. Che
+aliases:
+- Bk600jt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

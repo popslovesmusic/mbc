@@ -1,11 +1,34 @@
+id: GEN18-5600
+location: genesis-18/sealed-axiom-box::the-monistic-consistency-axiom-box-supreme-closure::right-column-standard-physics-math-correspondence::1-monistic-origin-axiom::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 16-32
+heading: '**1\. Monistic Origin Axiom**'
+parent_heading: '**Right Column — Standard Physics / Math Correspondence**'
 block_type: paragraph
-concepts: []
 excerpt: '**IGSOA:** All structures, operators, states, and curvatures arise as shadows
   of a single primitive generative process: FIGSOA:=Deviation(IGS/OA)\\mathcal{F}\_{\\text{IGSOA}}
   := \\text{Deviation}(\\te...'
-heading: '**1\. Monistic Origin Axiom**'
-id: GEN18-5600
-lines: 16-32
-location: genesis-18/sealed-axiom-box::the-monistic-consistency-axiom-box-supreme-closure::right-column-standard-physics-math-correspondence::1-monistic-origin-axiom::b1
-parent_heading: '**Right Column — Standard Physics / Math Correspondence**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+concepts:
+- IGSOA
+- Deviation
+- single underlying dynamical object
+- operator-state
+- pre-geometric
+- two limiting projections
+aliases:
+- Am923ia
+tags:
+- axiom
+- conflicted
+- equivalent-to-assuming-a-single-underlying-dynamical-object-a-pre-geometric-field-functional-or-operator-algebra-whose-classicalquantum-fields-are-projections-comparable-to-assuming-a-single-algebraic-object-whose-representations-give-all-physical-fields-similar-to
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.88235294117647
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

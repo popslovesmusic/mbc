@@ -1,10 +1,30 @@
-block_type: table
-concepts:
-- Θ
-excerpt: '**Two-layer form:** Let XOR \= x=A⊕Bx \= A\\oplus Bx=A⊕B. Then:'
-heading: '**8\. XNOR (the “semantic equivalence” operator)**'
 id: GEN19-5964
-lines: 1164-1178
 location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-derived-operators::8-xnor-the-semantic-equivalence-operator::b1
-parent_heading: '**II. Derived Operators**'
 source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 1164-1178
+heading: '**8\. XNOR (the “semantic equivalence” operator)**'
+parent_heading: '**II. Derived Operators**'
+block_type: table
+excerpt: '**Two-layer form:** Let XOR \= x=A⊕Bx \= A\\oplus Bx=A⊕B. Then:'
+concepts:
+- Curvature
+- IGSOA
+- ↔
+- ⊕
+- Curvature-equivalence
+- ¬
+- Two-layer
+- co-align
+- Θ
+aliases:
+- Bk924is
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

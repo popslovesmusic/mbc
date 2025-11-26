@@ -1,16 +1,35 @@
+id: GEN16-4086
+location: genesis-16/untitled-document::2-explicit-translation-λ-box::22-abstraction::b1
+source: genesis-16\Untitled_document.md
+lines: 4443-4458
+heading: '**2.2 Abstraction**'
+parent_heading: '**⭐ 2\. Explicit Translation λ → Box**'
 block_type: paragraph
-concepts:
-- Box
-- This Box
-- Π
-- Σ
-- λ
 excerpt: 'T(λx.M)=(T(M))Bx\\mathcal{T}(\\lambda x.M) \= \\left( \\mathcal{T}(M) \\right)^{B\_x}T(λx.M)=(T(M))Bx​
   Meaning: Construct an **exponential Box** representing “a function from B\_x to
   B\_M”.'
-heading: '**2.2 Abstraction**'
-id: GEN16-4086
-lines: 4443-4458
-location: genesis-16/untitled-document::2-explicit-translation-λ-box::22-abstraction::b1
-parent_heading: '**⭐ 2\. Explicit Translation λ → Box**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Box
+- λ
+- Σ-function
+- Π-normal
+- Π
+- Σ
+- Δ
+- exponential Box
+- This Box
+aliases:
+- Bk885ml
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.754098360655737
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,30 @@
+id: GEN4-7794
+location: genesis-4/the-adjoint-triple::a-δ-centered-metaphysical-proof-of-monism::premise-0-the-not-axiom-axiom-of-non-stillness::b1
+source: genesis-4\The_Adjoint_Triple.md
+lines: 1248-1261
+heading: '**Premise 0 — The NOT Axiom (Axiom of Non-Stillness)**'
+parent_heading: '**✦ A δ-Centered Metaphysical Proof of Monism**'
 block_type: paragraph
-concepts:
-- Axiom
-- Ψ
-- δ
 excerpt: A perfectly still, perfectly structureless state Ψ0Ψ\_0Ψ0​ **cannot exist**.
   ¬(∃X  =  Ψ0 stable)\\neg(\\exists X \\;=\\; Ψ\_0 \\text{ stable})¬(∃X=Ψ0​ stable)
   If perfect stillness existed, deviation w...
-heading: '**Premise 0 — The NOT Axiom (Axiom of Non-Stillness)**'
-id: GEN4-7794
-lines: 1248-1261
-location: genesis-4/the-adjoint-triple::a-δ-centered-metaphysical-proof-of-monism::premise-0-the-not-axiom-axiom-of-non-stillness::b1
-parent_heading: '**✦ A δ-Centered Metaphysical Proof of Monism**'
-source: genesis-4\The_Adjoint_Triple.md
+concepts:
+- Deviation
+- Ψ
+- Axiom
+- ∃
+- ¬
+- δ
+- cannot exist
+aliases:
+- Bk409ps
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

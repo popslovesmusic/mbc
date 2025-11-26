@@ -1,16 +1,30 @@
+id: GEN17-4943
+location: genesis-17/key-points::5-the-perfect-formal-definition::b1
+source: genesis-17\Key_Points.md
+lines: 946-973
+heading: '**⭐ 5\. The perfect formal definition**'
 block_type: paragraph
-concepts:
-- Causal Order
-- Causal Sphere
-- exactly
-- Π
-- Φ
-- δ
 excerpt: 'Here is the sharpened version: **Causal Order (Π) is the connector that
   stores the relationships between all Boxes.** **It preserves the dependency map:
   which Boxes depend on which others.**'
-heading: '**⭐ 5\. The perfect formal definition**'
-id: GEN17-4943
-lines: 946-973
-location: genesis-17/key-points::5-the-perfect-formal-definition::b1
-source: genesis-17\Key_Points.md
+concepts:
+- Π
+- →
+- non-temporal
+- δ
+- Φ
+- Causal Sphere
+- Causal Order
+- exactly
+aliases:
+- Bk465ht
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.126582278481013
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,39 @@
+id: GEN13-2576
+location: genesis-13/what-biology-is-in-meta-genesis::section-iii4-the-work-operator-wδw-deltawδ::theorem-iii42-atp-performs-work-π-stability::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1670-1691
+heading: '**Theorem III.4.2 (ATP Performs Work ⇔ Π-Stability).**'
+parent_heading: '**SECTION III.4 — The Work Operator WδW\_\\deltaWδ​**'
 block_type: paragraph
-concepts:
-- Π
-- Ω
-- δ
-- ω
 excerpt: 'Let A∈ΩA \\in \\OmegaA∈Ω be a Π-fixed point. Then: WδA=ωA,ω\>0W\_\\delta
   A \= \\omega A,\\quad \\omega \> 0Wδ​A=ωA,ω\>0 if and only if:'
-heading: '**Theorem III.4.2 (ATP Performs Work ⇔ Π-Stability).**'
-id: GEN13-2576
-lines: 1670-1691
-location: genesis-13/what-biology-is-in-meta-genesis::section-iii4-the-work-operator-wδw-deltawδ::theorem-iii42-atp-performs-work-π-stability::b1
-parent_heading: '**SECTION III.4 — The Work Operator WδW\_\\deltaWδ​**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- δ
+- ω
+- Proof
+- Definition
+- Ω
+- self-adjointness
+- ∈
+- Π-unstable
+- δ-packets
+- Π-stable
+- Π-fixed
+- perform work
+- do not
+- ΠA
+aliases:
+- Bk981lo
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

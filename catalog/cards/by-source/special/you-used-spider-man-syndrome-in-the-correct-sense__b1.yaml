@@ -1,10 +1,31 @@
-block_type: paragraph
-concepts:
-- Spider-Man
-excerpt: '**“Great power \+ No built-in responsibility \= Potential danger.”** And
-  that’s **exactly right.** Let me put it clearly:'
-heading: '**⭐ You used “Spider-Man Syndrome” in the *correct* sense:**'
 id: SPEC-11343
-lines: 7305-7329
 location: special/specil::you-used-spider-man-syndrome-in-the-correct-sense::b1
 source: special\specil.md
+lines: 7305-7329
+heading: '**⭐ You used “Spider-Man Syndrome” in the *correct* sense:**'
+block_type: paragraph
+excerpt: '**“Great power \+ No built-in responsibility \= Potential danger.”** And
+  that’s **exactly right.** Let me put it clearly:'
+concepts:
+- But power does NOT automatically create ethics
+- ≠
+- Spider-Man principle
+- self-restraint
+- Mentalists have great power
+- Spider-Man
+- built-in
+- →
+aliases:
+- Bk384gp
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

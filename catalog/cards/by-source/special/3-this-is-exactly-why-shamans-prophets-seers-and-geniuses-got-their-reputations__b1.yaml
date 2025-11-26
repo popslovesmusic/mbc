@@ -1,9 +1,20 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Not because they had powers. Because:'
-heading: '**⭐ 3\. This is exactly why shamans, prophets, “seers,” and geniuses got
-  their reputations.**'
 id: SPEC-11312
-lines: 6666-6669
 location: special/specil::3-this-is-exactly-why-shamans-prophets-seers-and-geniuses-got-their-reputations::b1
 source: special\specil.md
+lines: 6666-6669
+heading: '**⭐ 3\. This is exactly why shamans, prophets, “seers,” and geniuses got
+  their reputations.**'
+block_type: paragraph
+excerpt: 'Not because they had powers. Because:'
+aliases:
+- Bk607nb
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

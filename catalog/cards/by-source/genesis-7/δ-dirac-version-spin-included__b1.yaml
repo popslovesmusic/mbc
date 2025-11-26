@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Deviational Geometry
-- Spinor Coupling
-excerpt: '**IGSOA Deviational Geometry \+ Torsion \+ Spinor Coupling** ---'
-heading: '**δ-Dirac Version (Spin Included)**'
 id: GEN7-8590
-lines: 576-580
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::δ-dirac-version-spin-included::b1
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 576-580
+heading: '**δ-Dirac Version (Spin Included)**'
+block_type: paragraph
+excerpt: '**IGSOA Deviational Geometry \+ Torsion \+ Spinor Coupling** ---'
+concepts:
+- Deviational Geometry
+- Deviation
+- IGSOA
+- Spinor Coupling
+aliases:
+- Bk406id
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

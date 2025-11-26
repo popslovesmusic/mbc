@@ -1,17 +1,38 @@
+id: GEN1-518
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::4-third-step-the-variational-principle-in-the-δ-framework::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 117-137
+heading: '**4\. Third Step: The Variational Principle in the δ-Framework**'
 block_type: paragraph
+excerpt: 'The **Meta-Action** is the simplest δ-invariant scalar: Sδ=∫(δ†δ−α\[δ,δ\]).S\_{\\delta}
+  \= \\int (\\delta^\\dagger \\delta \- \\alpha \[\\delta,\\delta\]) .Sδ​=∫(δ†δ−α\[δ,δ\]).
+  The coefficient α is fi...'
 concepts:
-- Einstein Equation
-- Meta-Action
+- δ
 - Meta-Einstein
 - Meta-Genesis
 - Meta-Math
 - α
-- δ
-excerpt: 'The **Meta-Action** is the simplest δ-invariant scalar: Sδ=∫(δ†δ−α\[δ,δ\]).S\_{\\delta}
-  \= \\int (\\delta^\\dagger \\delta \- \\alpha \[\\delta,\\delta\]) .Sδ​=∫(δ†δ−α\[δ,δ\]).
-  The coefficient α is fi...'
-heading: '**4\. Third Step: The Variational Principle in the δ-Framework**'
-id: GEN1-518
-lines: 117-137
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::4-third-step-the-variational-principle-in-the-δ-framework::b1
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+- ∫
+- δ-invariant
+- Meta-Action
+- δ-language
+- δ-Euler
+- →
+- Einstein Equation
+- δS
+aliases:
+- Bk507tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.131313131313133
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

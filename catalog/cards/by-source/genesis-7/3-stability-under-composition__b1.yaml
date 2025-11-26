@@ -1,13 +1,30 @@
+id: GEN7-8488
+location: genesis-7/the-complete-eft-lagrangian::part-i-abstract-categorical-proof::3-stability-under-composition::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 707-721
+heading: '**3\. Stability under composition.**'
+parent_heading: '**Part I: Abstract Categorical Proof**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'A law is a rule that persists under repeated deviation: δ∘δ,δ∘δ∘δ,…\\delta\\circ\\delta,\\quad
   \\delta\\circ\\delta\\circ\\delta,\\quad\\ldotsδ∘δ,δ∘δ∘δ,… But composition in G\\mathcal{G}G
   must corresp...'
-heading: '**3\. Stability under composition.**'
-id: GEN7-8488
-lines: 707-721
-location: genesis-7/the-complete-eft-lagrangian::part-i-abstract-categorical-proof::3-stability-under-composition::b1
-parent_heading: '**Part I: Abstract Categorical Proof**'
-source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+concepts:
+- δ
+- Φ
+- ΦF
+- closure under composition
+- δF
+aliases:
+- Bk248lr
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 4.464285714285714
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

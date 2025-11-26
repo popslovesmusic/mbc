@@ -1,13 +1,28 @@
+id: INTK-10380
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector::connection-to-meta-algebraic-operations::3-inner-product-meta-dot-product::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1129-1131
+heading: 3. Inner Product (Meta-Dot Product)
+parent_heading: Connection to Meta-Algebraic Operations
 block_type: list
-concepts:
-- Meta-Metric
-- Meta-Vector
-- Vector Space
 excerpt: '- Defined using the Meta-Metric (G_AB), which allows calculation of generalized
   "angles" and "lengths" in the Meta-Vector Space. - `⟨V₁, V₂⟩_G = G_AB (V₁)^A (V₂)^B`'
-heading: 3. Inner Product (Meta-Dot Product)
-id: INTK-10380
-lines: 1129-1131
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector::connection-to-meta-algebraic-operations::3-inner-product-meta-dot-product::b1
-parent_heading: Connection to Meta-Algebraic Operations
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Vector
+- Meta-Metric
+- Vector Space
+aliases:
+- Bk178du
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

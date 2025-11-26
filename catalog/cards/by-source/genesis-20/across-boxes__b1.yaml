@@ -1,11 +1,24 @@
+id: GEN20-6802
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::58-inside-boundary-vs-cross-boundary-semantics::across-boxes::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1897-1909
+heading: Across boxes
+parent_heading: 5.8 Inside-Boundary vs Cross-Boundary Semantics
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'Π evaluates interactions between boxes. Semantics across boundaries involve:
   * connector polarity'
-heading: Across boxes
-id: GEN20-6802
-lines: 1897-1909
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::58-inside-boundary-vs-cross-boundary-semantics::across-boxes::b1
-parent_heading: 5.8 Inside-Boundary vs Cross-Boundary Semantics
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- MBC
+- Π
+aliases:
+- Bk910ei
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.405405405405405
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

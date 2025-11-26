@@ -1,10 +1,31 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'In your framework, the *ordinary Laplacian* ∇2\\nabla^2∇2 is replaced by
-  the **δ-Laplace operator**:'
-heading: '**1\. Start From the δ-Laplace Operator**'
 id: GEN6-8210
-lines: 8-28
 location: genesis-6/harmonics-atomic-orbitals::1-start-from-the-δ-laplace-operator::b1
 source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 8-28
+heading: '**1\. Start From the δ-Laplace Operator**'
+block_type: paragraph
+excerpt: 'In your framework, the *ordinary Laplacian* ∇2\\nabla^2∇2 is replaced by
+  the **δ-Laplace operator**:'
+concepts:
+- δ
+- ∇
+- Δ
+- δ-Laplace operator
+- δ-Laplace
+- deviation field
+- δf
+aliases:
+- Bk179yf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.6000000000000005
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,25 @@
+id: INTK-10705
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::consciousness-as-a-fractal::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1804-1805
+heading: Consciousness as a Fractal
+parent_heading: Glossary
 block_type: paragraph
+excerpt: 'Hypothesis (Source: 08_Consciousness_as_a_Fractal.txt) [[Read More](concepts/Encyclopedia\Consciousness_as_a_Fractal.md)]'
 concepts:
 - Read More
-excerpt: 'Hypothesis (Source: 08_Consciousness_as_a_Fractal.txt) [[Read More](concepts/Encyclopedia\Consciousness_as_a_Fractal.md)]'
-heading: Consciousness as a Fractal
-id: INTK-10705
-lines: 1804-1805
-location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::consciousness-as-a-fractal::b1
-parent_heading: Glossary
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+aliases:
+- Bk794hs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,14 +1,40 @@
+id: GEN12-1776
+location: genesis-12/untitled-document::4-the-deviational-inflation-equation::b1
+source: genesis-12\Untitled_document.md
+lines: 883-907
+heading: '**4\. The Deviational Inflation Equation**'
 block_type: paragraph
-concepts:
-- Θ
-- Π
-- Φ
-- δ
 excerpt: 'For δ-curvature tensor CδC\_\\deltaCδ​, Φ produces expansion via the deviation-driven
   Raychaudhuri-like evolution: dΘdt=−12Θ2⏟self-focusing+Tr(Cδ)⏟δ-curvature drive+RΦ⏟Φ-resonant
   term.\\frac{d\\Theta}...'
-heading: '**4\. The Deviational Inflation Equation**'
-id: GEN12-1776
-lines: 883-907
-location: genesis-12/untitled-document::4-the-deviational-inflation-equation::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- Φ
+- Θ
+- δ-curvature
+- IGSOA
+- positive-definite as a deviation field
+- self-focusing
+- Φ-resonant
+- Φ produces exponential amplification
+- positive-definite
+- Raychaudhuri-like
+- deviation-driven
+- δ supplies curvature energy
+- Π detects it as inflation
+- Π
+aliases:
+- Bk750fc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.457516339869281
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

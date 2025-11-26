@@ -1,11 +1,30 @@
+id: GEN16-3879
+location: genesis-16/untitled-document::3-soundness-consistency-sketch-comparison::my-version::b1
+source: genesis-16\Untitled_document.md
+lines: 1892-1905
+heading: '**My Version**'
+parent_heading: '**⭐ 3\. Soundness & Consistency Sketch — Comparison**'
 block_type: list
-concepts:
-- δ
 excerpt: '* Soundness via WF predicate and normalization theorem. * Termination via
   entropy \+ stabilizers \+ grammars. * Completeness relative to δ-semantic truth.'
-heading: '**My Version**'
-id: GEN16-3879
-lines: 1892-1905
-location: genesis-16/untitled-document::3-soundness-consistency-sketch-comparison::my-version::b1
-parent_heading: '**⭐ 3\. Soundness & Consistency Sketch — Comparison**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Theorem
+- δ-semantic
+- graph rewriting theory
+- δ
+- physical intuition
+aliases:
+- Bk804sv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

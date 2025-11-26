@@ -1,11 +1,27 @@
+id: GEN11-1208
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-δinflation-spectral-axiom::definitions::1-δ-harmonic-spectrum-genesis-level::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1442-1446
+heading: '**1\. δ-Harmonic Spectrum (Genesis-Level)**'
+parent_heading: '**DEFINITIONS**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: Pδ(k)=⟨∣δk∣2⟩\\mathcal{P}\_{\\delta}(k)= \\langle |\\delta\_{k}|^{2}\\ranglePδ​(k)=⟨∣δk​∣2⟩
   constituting the primordial information source for all inflationary observables.
-heading: '**1\. δ-Harmonic Spectrum (Genesis-Level)**'
-id: GEN11-1208
-lines: 1442-1446
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-δinflation-spectral-axiom::definitions::1-δ-harmonic-spectrum-genesis-level::b1
-parent_heading: '**DEFINITIONS**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- δ
+- δk
+aliases:
+- Bk089md
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.4074074074074066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

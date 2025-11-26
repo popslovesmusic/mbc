@@ -1,14 +1,26 @@
-block_type: paragraph
-concepts:
-- distinctions
-- host
-- self-emptying
-- self-exiting
-- Ψ
-- δ
-excerpt: 'Think of Ψ₀ as: * featureless * tensionless'
-heading: '**3\. Why δ Must Exist — Intuitive Structural Argument**'
 id: GEN0-254
-lines: 1390-1429
 location: genesis-0/tri-unity-theorem-equivalence-of::3-why-δ-must-exist-intuitive-structural-argument::b1
 source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1390-1429
+heading: '**3\. Why δ Must Exist — Intuitive Structural Argument**'
+block_type: paragraph
+excerpt: 'Think of Ψ₀ as: * featureless * tensionless'
+concepts:
+- Ψ
+- self-emptying
+- self-exiting
+- δ
+- Ψ₀
+- host
+aliases:
+- Bk840tf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: true
+concept_density: 6.976744186046512
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

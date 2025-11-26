@@ -1,17 +1,34 @@
+id: INTK-10661
+location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::part-1-the-core-principle-negative-ontology::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1543-1551
+heading: 'Part 1: The Core Principle - Negative Ontology'
+parent_heading: Summary of Foundational Concepts
 block_type: paragraph
-concepts:
-- Axiom
-- Negative Ontology
-- The Forbidden State
-- Zero State
-- because
-- Ψ
 excerpt: The framework is built upon the principle of **Negative Ontology**. This
   inverts classical metaphysics by proposing that reality emerges not from a positive
   source or substance, but from a negative, s...
-heading: 'Part 1: The Core Principle - Negative Ontology'
-id: INTK-10661
-lines: 1543-1551
-location: intake/volume-i-core-ontology-and-metagenesis-summary::summary-of-foundational-concepts::part-1-the-core-principle-negative-ontology::b1
-parent_heading: Summary of Foundational Concepts
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- State
+- Axiom
+- self-contradictory
+- Zero State
+- Ψ
+- The Forbidden State
+- Negative Ontology
+- Ψ₀
+aliases:
+- Bk068tf
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.651162790697675
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

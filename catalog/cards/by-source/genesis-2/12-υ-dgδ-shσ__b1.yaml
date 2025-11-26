@@ -1,14 +1,40 @@
+id: GEN2-6522
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-meaning-of-each-arrow::12-υ-dgδ-shσ::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 677-705
+heading: '**1.2 Υ : DG₍δ₎ → Sh(σ)**'
+parent_heading: '**1\. The Meaning of Each Arrow**'
 block_type: paragraph
-concepts:
-- Left Kan Extension
-- Sheafification Functor
-- δ
-- σ
 excerpt: '**δ-Sheafification Functor / Left Kan Extension** This is the core topos-move:
   * Turns every δ-object into a σ-indexed sheaf'
-heading: '**1.2 Υ : DG₍δ₎ → Sh(σ)**'
-id: GEN2-6522
-lines: 677-705
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-meaning-of-each-arrow::12-υ-dgδ-shσ::b1
-parent_heading: '**1\. The Meaning of Each Arrow**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- δ
+- Υ
+- Functor
+- δ-object
+- δ-Sheafification
+- δ-connections
+- δ-refinement
+- topos-move
+- left-exact
+- δ-levels
+- Sheafification Functor
+- σ
+- →
+- Left Kan Extension
+- restriction maps
+aliases:
+- Bk212sf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.525773195876287
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

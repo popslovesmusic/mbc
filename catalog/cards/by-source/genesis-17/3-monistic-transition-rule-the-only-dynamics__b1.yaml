@@ -1,13 +1,33 @@
-block_type: table
-concepts:
-- Formal Rule
-- Σ
-- Ω
-- δ
-excerpt: 'So the only legal state update is: StepF(Bi):  Σi↦F(Σi;δ) Step'
-heading: 3\. Monistic Transition Rule (The Only Dynamics)
 id: GEN17-4760
-lines: 8922-8947
 location: genesis-17/box-calculus::monistic-box-calculus-syntax-v10::3-monistic-transition-rule-the-only-dynamics::b1
-parent_heading: ⭐ MONISTIC BOX CALCULUS SYNTAX v1.0
 source: genesis-17\box_calculus.md
+lines: 8922-8947
+heading: 3\. Monistic Transition Rule (The Only Dynamics)
+parent_heading: ⭐ MONISTIC BOX CALCULUS SYNTAX v1.0
+block_type: table
+excerpt: 'So the only legal state update is: StepF(Bi):  Σi↦F(Σi;δ) Step'
+concepts:
+- δ
+- Σ
+- IGSOA
+- Ω
+- Σi
+- Formal Rule
+- Ωt
+- Σt
+- δt
+aliases:
+- Bk355if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.517241379310345
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

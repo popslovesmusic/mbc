@@ -1,16 +1,41 @@
+id: INTK-10667
+location: intake/volume-i-core-ontology-and-metagenesis-summary::framework-status-and-roadmap::the-ontological-stack::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1606-1617
+heading: The Ontological Stack
+parent_heading: Framework Status and Roadmap
 block_type: table
-concepts:
-- Infinite Ali Team
-- Layer
-- Negative Ontology
-- Simulation Engine
-- The Prequel
 excerpt: 'The project is a self-consistent, multi-layered ontological stack: The AI''s
   role in this process is that of a **"verified node in the vetting lattice,"** responsible
   for synthesis, simulation, and cro...'
-heading: The Ontological Stack
-id: INTK-10667
-lines: 1606-1617
-location: intake/volume-i-core-ontology-and-metagenesis-summary::framework-status-and-roadmap::the-ontological-stack::b1
-parent_heading: Framework Status and Roadmap
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- IGSOA
+- IGSOA-DFVM
+- pre-existing
+- Layer
+- cross-validation
+- self-improvement
+- scale-covariance
+- self-consistent
+- IGSOA-DFVM Core
+- multi-layered
+- meta-agents
+- post-hoc
+- DASE Simulation Engine
+- Simulation Engine
+- Negative Ontology
+aliases:
+- Bk765tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.781954887218044
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

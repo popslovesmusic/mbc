@@ -1,12 +1,32 @@
+id: GEN9-9440
+location: genesis-9/strong-force::a-sealed-axiom-box-for-your-hierarchy::axiom-box-the-χ-triplet-emergence-axiom::axiom-χ-triplet-axiom::b1
+source: genesis-9\strong-force.md
+lines: 88-94
+heading: '**Axiom. (χ-Triplet Axiom)**'
+parent_heading: '**Axiom Box: The χ-Triplet Emergence Axiom**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Whenever the δ-Harmonic spectrum admits a **3-phase χ-cycle**, the automorphism
   group of that cycle is **SU(3)**, and its curvature defines the strong interaction.
   Formally: χ∈{0,1,2}⟹Aut(χ)=SU(3)\\ch...'
-heading: '**Axiom. (χ-Triplet Axiom)**'
-id: GEN9-9440
-lines: 88-94
-location: genesis-9/strong-force::a-sealed-axiom-box-for-your-hierarchy::axiom-box-the-χ-triplet-emergence-axiom::axiom-χ-triplet-axiom::b1
-parent_heading: '**Axiom Box: The χ-Triplet Emergence Axiom**'
-source: genesis-9\strong-force.md
+concepts:
+- χ
+- strong-force
+- ∧
+- ∈
+- δ-Harmonic
+- δ
+aliases:
+- Bk519wt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.593406593406594
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

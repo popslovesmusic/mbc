@@ -1,15 +1,32 @@
+id: GEN1-450
+location: genesis-1/the-foundation-layer::vi-δ-energy-operator-tδ::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 461-471
+heading: '**VI. δ-Energy Operator (Tδ)**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Ψ
-- δ
-- μ
-- ν
 excerpt: 'Energy is defined as the “rate of deviation”: Tδ(Ψn):=∥δΨn∥T\_\\delta(\\Psi\_n)
   := \\|\\delta\\Psi\_n\\|Tδ​(Ψn​):=∥δΨn​∥ This is the precursor to the energy-momentum
   tensor under Meta-Math projection:'
-heading: '**VI. δ-Energy Operator (Tδ)**'
-id: GEN1-450
-lines: 461-471
-location: genesis-1/the-foundation-layer::vi-δ-energy-operator-tδ::b1
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Meta-Math
+- δ
+- Ψ
+- Ψn
+- ν
+- μ
+- energy-momentum
+aliases:
+- Bk766ed
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.000000000000002
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

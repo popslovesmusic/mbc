@@ -1,9 +1,20 @@
-block_type: paragraph
-concepts: []
-excerpt: No changes needed.
-heading: '**10.1 — Category Error Resolution**'
 id: INTK-9644
-lines: 540-542
 location: intake/abstract-editorial-review::section-10-conclusion::101-category-error-resolution::b1
-parent_heading: '**📄 Section 10 — Conclusion**'
 source: intake\ABSTRACT__Editorial_Review.md
+lines: 540-542
+heading: '**10.1 — Category Error Resolution**'
+parent_heading: '**📄 Section 10 — Conclusion**'
+block_type: paragraph
+excerpt: No changes needed.
+aliases:
+- Bk175cn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

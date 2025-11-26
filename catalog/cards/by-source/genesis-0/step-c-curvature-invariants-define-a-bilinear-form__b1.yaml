@@ -1,12 +1,33 @@
+id: GEN0-211
+location: genesis-0/tri-unity-theorem-equivalence-of::ii-δ-curvature-forces-a-metric::step-c-curvature-invariants-define-a-bilinear-form::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 824-848
+heading: '**Step C — Curvature invariants define a bilinear form**'
+parent_heading: '**II. Δ-Curvature Forces a Metric**'
 block_type: paragraph
-concepts:
-- δ
-- δ-metric
 excerpt: 'Given the δ-curvature tensor Rij,\\mathcal{R}\_{ij},Rij​, define curvature
   invariants:'
-heading: '**Step C — Curvature invariants define a bilinear form**'
-id: GEN0-211
-lines: 824-848
-location: genesis-0/tri-unity-theorem-equivalence-of::ii-δ-curvature-forces-a-metric::step-c-curvature-invariants-define-a-bilinear-form::b1
-parent_heading: '**II. Δ-Curvature Forces a Metric**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- ∂
+- δ
+- differential-geometric
+- lowest-order
+- metric structure is forced
+- δ-curvature
+- δ-parallel
+- δ-metric
+aliases:
+- Bk864gt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.4074074074074066
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

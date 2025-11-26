@@ -1,19 +1,42 @@
+id: GEN9-9106
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::10-summary-statement-for-insertion-into-the-main-text::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1178-1194
+heading: '**10\. Summary Statement (for insertion into the main text)**'
 block_type: paragraph
-concepts:
-- Atomic Orbitals
-- Axiom
-- Box
-- Category-Theoretic
-- Functorial Emergence
-- Theoretic Axiom Box
-- Π
-- Φ
-- δ
 excerpt: '**In IGSOA, orbitals exist because Π is the right bi-adjoint and left Kan
   extension of the δ-harmonic endofunctor through the Φ-geometric lifting functor.**
   Formally: δ⊣Φ⊣Π,Π≅LanΦ(δ),Π(Φ(Specδ))=Atomi...'
-heading: '**10\. Summary Statement (for insertion into the main text)**'
-id: GEN9-9106
-lines: 1178-1194
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::10-summary-statement-for-insertion-into-the-main-text::b1
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Π
+- δ
+- Φ
+- A full Lawvere-style hyperdoctrine version of δ-Geometry
+- A 1-page formal summary suitable for the appendix
+- IGSOA
+- A sealed Category-Theoretic Axiom Box
+- Axiom
+- Atomic Orbitals
+- Category-Theoretic
+- Box
+- Lawvere-style
+- Φ-geometric
+- δ-harmonic
+- δ-Geometry
+aliases:
+- Bk529io
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.447154471544716
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

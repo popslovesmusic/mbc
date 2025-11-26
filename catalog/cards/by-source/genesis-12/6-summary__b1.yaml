@@ -1,19 +1,41 @@
+id: GEN12-1739
+location: genesis-12/untitled-document::6-summary::b1
+source: genesis-12\Untitled_document.md
+lines: 270-296
+heading: '**6\. Summary**'
 block_type: paragraph
-concepts:
-- Adjacency Wave Equation
-- Axiom
-- Axiom Box
-- Box
-- Functoriality Theorem
-- Theorem
-- Π
-- Φ
-- δ
 excerpt: 'The CMB Functoriality Theorem establishes: All CMB anisotropies are Π-projections
   of Φ-evolved δ-curvatures.\\text{All CMB anisotropies are Π-projections of Φ-evolved
   δ-curvatures.}All CMB anisotropie...'
-heading: '**6\. Summary**'
-id: GEN12-1739
-lines: 270-296
-location: genesis-12/untitled-document::6-summary::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- δ-geometry
+- Π
+- →
+- Φ
+- A CMB anomaly table predicted from δ-geometry
+- Adjacency
+- Π-projections
+- δ-curvatures
+- Theorem
+- A Π-category detector formalism
+- Axiom
+- Φ-evolved
+- Box
+- Π-category
+aliases:
+- Bk772tc
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.103448275862068
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

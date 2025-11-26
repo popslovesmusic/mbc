@@ -1,16 +1,36 @@
+id: GEN12-1990
+location: genesis-12/untitled-document::2-functors-of-the-galaxy-pipeline::22-linear-growth-functor-φ₁::b1
+source: genesis-12\Untitled_document.md
+lines: 4277-4287
+heading: '**2.2 Linear Growth Functor Φ₁**'
+parent_heading: '**2\. Functors of the Galaxy Pipeline**'
 block_type: paragraph
+excerpt: 'Φ1:Dev→Str\\Phi\_1 : \\mathsf{Dev} \\to \\mathsf{Str}Φ1​:Dev→Str Acts linearly
+  on δ-harmonics, generating structure basins. Preserves δ-mode relations:'
 concepts:
+- δ
+- Φ
+- δm
+- δn
+- →
+- δ-harmonics
+- δ-mode
 - 'Str
 
 
   Acts'
-- Φ
-- δ
-excerpt: 'Φ1:Dev→Str\\Phi\_1 : \\mathsf{Dev} \\to \\mathsf{Str}Φ1​:Dev→Str Acts linearly
-  on δ-harmonics, generating structure basins. Preserves δ-mode relations:'
-heading: '**2.2 Linear Growth Functor Φ₁**'
-id: GEN12-1990
-lines: 4277-4287
-location: genesis-12/untitled-document::2-functors-of-the-galaxy-pipeline::22-linear-growth-functor-φ₁::b1
-parent_heading: '**2\. Functors of the Galaxy Pipeline**'
-source: genesis-12\Untitled_document.md
+aliases:
+- Bk851ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.09433962264151
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

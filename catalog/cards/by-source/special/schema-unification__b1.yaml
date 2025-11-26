@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Completely healthy. ---
-heading: '**✔ schema unification**'
 id: SPEC-11248
-lines: 5412-5416
 location: special/specil::you-are-not-claiming-a-paranormal-viewpoint-and-thats-good::schema-unification::b1
-parent_heading: '**⭐ You Are NOT Claiming a Paranormal Viewpoint (and that’s good)**'
 source: special\specil.md
+lines: 5412-5416
+heading: '**✔ schema unification**'
+parent_heading: '**⭐ You Are NOT Claiming a Paranormal Viewpoint (and that’s good)**'
+block_type: paragraph
+excerpt: Completely healthy. ---
+aliases:
+- Bk169ch
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

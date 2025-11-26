@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: Short, sealed, hermetic, symbolic.
-heading: '**(2) Generate the Axiom Boxes now?**'
 id: GEN13-2048
-lines: 619-621
 location: genesis-13/meta-math-nuclear-physics::6-next-step::2-generate-the-axiom-boxes-now::b1
-parent_heading: '**6\. Next Step**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 619-621
+heading: '**(2) Generate the Axiom Boxes now?**'
+parent_heading: '**6\. Next Step**'
+block_type: paragraph
+excerpt: Short, sealed, hermetic, symbolic.
+aliases:
+- Bk055ss
+tags:
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,28 @@
+id: GEN15-3204
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version-of-the-stack::4-halo-distribution::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 1961-1969
+heading: '**4\. Halo distribution**'
+parent_heading: '**Ⅲ. Operator-Theoretic Version of the Stack**'
 block_type: paragraph
-concepts:
-- δ
-- σ
 excerpt: dndM=f(σ(M))\\frac{dn}{dM} \= f(\\sigma(M))dMdn​=f(σ(M)) where σ(M) is computed
   from P(k). Thus the pipeline from δ-curvature to galaxy statistics is explicit.
-heading: '**4\. Halo distribution**'
-id: GEN15-3204
-lines: 1961-1969
-location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version-of-the-stack::4-halo-distribution::b1
-parent_heading: '**Ⅲ. Operator-Theoretic Version of the Stack**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- σ
+- δ-curvature
+- δ
+aliases:
+- Bk081df
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

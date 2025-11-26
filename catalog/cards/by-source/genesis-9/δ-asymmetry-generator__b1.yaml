@@ -1,10 +1,26 @@
+id: GEN9-9312
+location: genesis-9/does-meta-genesis-indicate-new-physics::3-the-δφ-operators-two-modes-of-one-generator::δ-asymmetry-generator::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1535-1537
+heading: '**δ̂ : asymmetry generator**'
+parent_heading: '**3\. The δ–Φ Operators: Two Modes of One Generator**'
 block_type: paragraph
-concepts: []
 excerpt: introduces deviation, distinction, fluctuation, curvature seed, uncertainty,
   and non-zero action.
-heading: '**δ̂ : asymmetry generator**'
-id: GEN9-9312
-lines: 1535-1537
-location: genesis-9/does-meta-genesis-indicate-new-physics::3-the-δφ-operators-two-modes-of-one-generator::δ-asymmetry-generator::b1
-parent_heading: '**3\. The δ–Φ Operators: Two Modes of One Generator**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- non-zero
+aliases:
+- Bk734id
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

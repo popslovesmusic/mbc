@@ -1,14 +1,33 @@
+id: GEN2-6357
+location: genesis-2/axioms-of-geometry-topos-compatible::φaxiom-box::axiom-φ-13-adjointness-with-δ-geometry::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 786-796
+heading: '**Axiom Φ-13 — Adjointness with δ-Geometry**'
+parent_heading: '**Φ–Axiom Box**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Φ
-- δ
 excerpt: 'There exists an adjoint pair Φ:δ-Geom    ⇄    Meta-Math:U\\Phi : \\delta\\text{-Geom}
   \\;\\;\\rightleftarrows\\;\\; \\text{Meta-Math} : UΦ:δ-Geom⇄Meta-Math:U preserving
   δ-structure:'
-heading: '**Axiom Φ-13 — Adjointness with δ-Geometry**'
-id: GEN2-6357
-lines: 786-796
-location: genesis-2/axioms-of-geometry-topos-compatible::φaxiom-box::axiom-φ-13-adjointness-with-δ-geometry::b1
-parent_heading: '**Φ–Axiom Box**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Meta-Math
+- δ
+- Φ
+- δ-Geom
+- δ-structure
+- ΦA
+- δA
+aliases:
+- Bk820te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

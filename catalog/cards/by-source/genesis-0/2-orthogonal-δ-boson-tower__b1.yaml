@@ -1,12 +1,30 @@
+id: GEN0-147
+location: genesis-0/feynman-rules-interaction-vertices::ii-physical-modes-radial-vs-orthogonal::2-orthogonal-δ-boson-tower::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 2133-2145
+heading: '**2\. Orthogonal δ-boson tower**'
+parent_heading: '**II. Physical Modes: Radial vs Orthogonal**'
 block_type: paragraph
-concepts:
-- γ
-- δ
 excerpt: 'All modes orthogonal to the vacuum direction u(m)u^{(m)}u(m) satisfy: u(m)δ^⊥(m)=0.u^{(m)}\\hat\\delta\_\\perp^{(m)}
   \= 0.u(m)δ^⊥(m)​=0. These excitations have mass:'
-heading: '**2\. Orthogonal δ-boson tower**'
-id: GEN0-147
-lines: 2133-2145
-location: genesis-0/feynman-rules-interaction-vertices::ii-physical-modes-radial-vs-orthogonal::2-orthogonal-δ-boson-tower::b1
-parent_heading: '**II. Physical Modes: Radial vs Orthogonal**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- Ξ
+- δ
+- γ
+- eigen-spectrum
+- δ-boson
+aliases:
+- Bk664am
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.246376811594203
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

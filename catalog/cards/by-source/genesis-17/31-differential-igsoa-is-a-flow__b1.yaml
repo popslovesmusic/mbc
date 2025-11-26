@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: Deviation evolves. Curvature changes. Meaning deforms.
-heading: 3.1 Differential → IGSOA is a flow
 id: GEN17-4694
-lines: 8152-8156
 location: genesis-17/box-calculus::3-combining-b-and-e-gives-the-true-𝓕::31-differential-igsoa-is-a-flow::b1
-parent_heading: '⭐ \*\*3. Combining B and E gives the true 𝓕:'
 source: genesis-17\box_calculus.md
+lines: 8152-8156
+heading: 3.1 Differential → IGSOA is a flow
+parent_heading: '⭐ \*\*3. Combining B and E gives the true 𝓕:'
+block_type: paragraph
+excerpt: Deviation evolves. Curvature changes. Meaning deforms.
+concepts:
+- Curvature
+- Deviation
+aliases:
+- Bk314de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

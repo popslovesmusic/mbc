@@ -1,13 +1,29 @@
+id: INTK-10868
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::definition-of-meta-time-τ::properties::b2
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3433-3445
+heading: Properties
+parent_heading: Definition of Meta-Time (τ)
 block_type: paragraph
-concepts:
-- Meta-Time
-- Time Metric
-- δ
 excerpt: '**Monotonic parameter**: - Orders resolution of deviation - Measures how
   much deviation geometry has been resolved'
-heading: Properties
-id: INTK-10868
-lines: 3433-3445
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::definition-of-meta-time-τ::properties::b2
-parent_heading: Definition of Meta-Time (τ)
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- Meta-Time Metric generator
+- dependent-mode
+- δ
+- Monotonic parameter
+- Causal ordering
+- Time Metric
+aliases:
+- Bk363mp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

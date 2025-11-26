@@ -1,24 +1,40 @@
-block_type: table
-concepts:
-- Standard Model
-- Standard Physics Narrative
-- The Standard Model
-- does
-- zero
-- Π
-- Φ
-- Φ-mode
-- δ
-- δ-geometry
-- μ
-- ν
-- ρ
-- σ
-excerpt: '* the math permits CP violation * the data forbids it'
-heading: '***(Narrative, Dual-Column, Cross-Referenced)***'
 id: GEN16-3722
-lines: 589-655
 location: genesis-16/quantum-measurement-in-igsoa-vs::why-natures-strong-force-is-more-symmetric-than-qcd-wants-it-to-be::narrative-dual-column-cross-referenced::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 589-655
+heading: '***(Narrative, Dual-Column, Cross-Referenced)***'
 parent_heading: '**Why Nature’s Strong Force Is More Symmetric Than QCD Wants It To
   Be**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+block_type: table
+excerpt: '* the math permits CP violation * the data forbids it'
+concepts:
+- δ
+- δ-geometry
+- IGSOA
+- Π-evaluation
+- θ
+- CP-odd
+- σ
+- ν
+- μ
+- Φ
+- ρ
+- Theorem
+- coherent-in-adjacency
+- δ-fabric
+- CP-even
+aliases:
+- Bk134in
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.92040520984081
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

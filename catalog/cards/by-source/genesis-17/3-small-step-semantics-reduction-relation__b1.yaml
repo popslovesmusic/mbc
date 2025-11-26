@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'This is the fundamental rule of IGSOA computation: ---'
-heading: 🔷 3\. Small-Step Semantics (Reduction Relation)
 id: GEN17-4815
-lines: 9712-9715
 location: genesis-17/box-calculus::3-small-step-semantics-reduction-relation::b1
 source: genesis-17\box_calculus.md
+lines: 9712-9715
+heading: 🔷 3\. Small-Step Semantics (Reduction Relation)
+block_type: paragraph
+excerpt: 'This is the fundamental rule of IGSOA computation: ---'
+concepts:
+- IGSOA
+aliases:
+- Bk704tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

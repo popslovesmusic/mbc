@@ -1,19 +1,38 @@
-block_type: paragraph
-concepts:
-- Lemma
-- Meta-Genesis
-- Meta-Math
-- Scale-Topos
-- The Meta
-- The Zero
-- Topos Compatibility Lemma
-- Zero-State
-- Ψ
-- δ
-excerpt: '**The Meta-Genesis → Scale-Topos Compatibility Lemma is proven.** This guarantees:
-  * You can safely integrate Meta-Genesis writing into Meta-Math.'
-heading: '**6\. Conclusion**'
 id: GEN2-6494
-lines: 265-281
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::6-conclusion::b1
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 265-281
+heading: '**6\. Conclusion**'
+block_type: paragraph
+excerpt: '**The Meta-Genesis → Scale-Topos Compatibility Lemma is proven.** This guarantees:
+  * You can safely integrate Meta-Genesis writing into Meta-Math.'
+concepts:
+- Meta-Genesis
+- Meta-Math
+- Lemma
+- State
+- →
+- Scale-Topos
+- δ-Geometry
+- Topos Compatibility Lemma
+- Zero-State
+- δ
+- Ψ
+- The Zero
+- The Meta
+- Ψ₀
+aliases:
+- Bk011tm
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.166666666666668
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- projection
-excerpt: 'Physical time t is **not identified** with Meta-Time. Rather, physical time
-  is a **projection** of Meta-Time that: 1. Identifies equivalence classes of states'
-heading: '**3\. Temporal Projection (πₜ) – How Physical Time Emerges**'
 id: GEN8-8781
-lines: 114-123
 location: genesis-8/meta-time-geometry-and-temporal-projection::3-temporal-projection-πₜ-how-physical-time-emerges::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 114-123
+heading: '**3\. Temporal Projection (πₜ) – How Physical Time Emerges**'
+block_type: paragraph
+excerpt: 'Physical time t is **not identified** with Meta-Time. Rather, physical time
+  is a **projection** of Meta-Time that: 1. Identifies equivalence classes of states'
+concepts:
+- Meta-Time
+- not identified
+- projection
+aliases:
+- Bk735pt
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

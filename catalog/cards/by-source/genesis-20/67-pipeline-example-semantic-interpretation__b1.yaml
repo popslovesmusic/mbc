@@ -1,13 +1,28 @@
+id: GEN20-6821
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::67-pipeline-example-semantic-interpretation::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2147-2156
+heading: '6.7 Pipeline Example: Semantic Interpretation'
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'A text fragment enters: 1. δ: distinctions appear in the wording 2. Φ: clustering
   of related meanings (semantic coherence)'
-heading: '6.7 Pipeline Example: Semantic Interpretation'
-id: GEN20-6821
-lines: 2147-2156
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::67-pipeline-example-semantic-interpretation::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Π
+- δ
+- Φ
+aliases:
+- Bk941tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

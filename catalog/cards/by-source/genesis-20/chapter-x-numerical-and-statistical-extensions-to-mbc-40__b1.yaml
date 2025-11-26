@@ -1,10 +1,24 @@
+id: GEN20-6721
+location: genesis-20/mbc-40-documentaitio-1::6-bottom-line::chapter-x-numerical-and-statistical-extensions-to-mbc-40::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 896-899
+heading: 'Chapter X: Numerical and Statistical Extensions to MBC-4.0'
+parent_heading: 6\. Bottom Line
 block_type: paragraph
-concepts: []
 excerpt: Or incorporate numerical considerations into later chapters. Just tell me
   how you want to proceed.
-heading: 'Chapter X: Numerical and Statistical Extensions to MBC-4.0'
-id: GEN20-6721
-lines: 896-899
-location: genesis-20/mbc-40-documentaitio-1::6-bottom-line::chapter-x-numerical-and-statistical-extensions-to-mbc-40::b1
-parent_heading: 6\. Bottom Line
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk160in
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

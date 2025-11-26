@@ -1,12 +1,28 @@
+id: GEN13-2289
+location: genesis-13/the-weight-of-light::1-categories-involved::iii-𝒢-category-of-π-geometric-spacetimes::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 376-382
+heading: '**(iii) 𝒢 \= Category of Π-Geometric Spacetimes**'
+parent_heading: '**1\. Categories Involved**'
 block_type: list
-concepts:
-- Morphisms
-- Objects
 excerpt: '* **Objects**: metric manifolds (M,g)(M,g)(M,g) * **Morphisms**: isometries
   or metric-preserving embeddings. ---'
-heading: '**(iii) 𝒢 \= Category of Π-Geometric Spacetimes**'
-id: GEN13-2289
-lines: 376-382
-location: genesis-13/the-weight-of-light::1-categories-involved::iii-𝒢-category-of-π-geometric-spacetimes::b1
-parent_heading: '**1\. Categories Involved**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- metric-preserving
+- Morphisms
+- Objects
+aliases:
+- Bk258om
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

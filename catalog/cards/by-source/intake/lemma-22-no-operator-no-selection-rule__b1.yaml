@@ -1,11 +1,30 @@
+id: INTK-10089
+location: intake/meta-genesis-physical-interpretation-papers::2-instability-of-perfect-symmetry::lemma-22-no-operator-no-selection-rule::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 273-287
+heading: '**Lemma 2.2 (No Operator → No Selection Rule).**'
+parent_heading: '**2\. Instability of Perfect Symmetry**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'If Ψ has no operator: Dom⁡(O)=∅,\\operatorname{Dom}(\\mathcal{O})=\\emptyset,Dom(O)=∅,
   then no selection rule exists to enforce invariance:'
-heading: '**Lemma 2.2 (No Operator → No Selection Rule).**'
-id: INTK-10089
-lines: 273-287
-location: intake/meta-genesis-physical-interpretation-papers::2-instability-of-perfect-symmetry::lemma-22-no-operator-no-selection-rule::b1
-parent_heading: '**2\. Instability of Perfect Symmetry**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Ψ
+- Proof
+- →
+- ∃
+- ¬
+- Ψ₀
+aliases:
+- Bk997ho
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.320754716981133
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

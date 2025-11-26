@@ -1,13 +1,30 @@
+id: GEN2-6331
+location: genesis-2/axioms-of-geometry-topos-compatible::4-φ-curvature-action-curvature-meta-einstein-alignment::axiom-mm-43-φ-bianchi-identity::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 511-517
+heading: '**Axiom MM-4.3 — Φ-Bianchi Identity**'
+parent_heading: '**4\. Φ-Curvature (Action Curvature; Meta-Einstein Alignment)**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- Φ
 excerpt: ∇\[X,Y\]ΦΦRΦ+∇\[Y,Z\]ΦΦRΦ+∇\[Z,X\]ΦΦRΦ=0.\\nabla^\\Phi\_{\[X,Y\]\_\\Phi}
   R\_\\Phi \+ \\nabla^\\Phi\_{\[Y,Z\]\_\\Phi} R\_\\Phi \+ \\nabla^\\Phi\_{\[Z,X\]\_\\Phi}
   R\_\\Phi \= 0.∇\[X,Y\]Φ​Φ​RΦ​+∇\[Y,Z\]Φ...
-heading: '**Axiom MM-4.3 — Φ-Bianchi Identity**'
-id: GEN2-6331
-lines: 511-517
-location: genesis-2/axioms-of-geometry-topos-compatible::4-φ-curvature-action-curvature-meta-einstein-alignment::axiom-mm-43-φ-bianchi-identity::b1
-parent_heading: '**4\. Φ-Curvature (Action Curvature; Meta-Einstein Alignment)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Φ
+- Meta-Einstein
+- ∇
+- ΦR
+aliases:
+- Bk183np
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.633802816901409
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

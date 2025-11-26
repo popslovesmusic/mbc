@@ -1,13 +1,33 @@
+id: GEN14-2791
+location: genesis-14/inflation-structure-formation::2-formal-δφπ-derivation-of-cmb-anisotropies::theorem-c₁-δφπ-cmb-anisotropy-theorem::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 2241-2257
+heading: '**Theorem C₁ (δ→Φ→Π → CMB Anisotropy Theorem)**'
+parent_heading: '**2\. Formal δ→Φ→Π Derivation of CMB Anisotropies**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Let δ=∑anhn\\delta \= \\sum a\_n h\_nδ=∑an​hn​. Let ϕn(∗)\\phi\_n^{(\*)}ϕn(∗)​
   be the Φ-frozen modes. Let eℓe\_\\elleℓ​ be the Π-projected multipoles.
-heading: '**Theorem C₁ (δ→Φ→Π → CMB Anisotropy Theorem)**'
-id: GEN14-2791
-lines: 2241-2257
-location: genesis-14/inflation-structure-formation::2-formal-δφπ-derivation-of-cmb-anisotropies::theorem-c₁-δφπ-cmb-anisotropy-theorem::b1
-parent_heading: '**2\. Formal δ→Φ→Π Derivation of CMB Anisotropies**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- CMB angular power spectrum is just the δ-harmonic amplitude ladder
+- Π
+- δ
+- ∑
+- Π-projected
+- δ-harmonic
+- Φ-frozen
+- Φ
+aliases:
+- Bk738la
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.95890410958904
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

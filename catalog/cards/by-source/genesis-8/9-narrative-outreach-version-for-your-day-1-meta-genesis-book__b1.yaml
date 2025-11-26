@@ -1,18 +1,42 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Meta-Time
-- The Zero State
-- push
-- remembers
-- time
-- Ψ
-excerpt: '*(Director’s style: cinematic, atmospheric)* **Before there was time, there
-  was Becoming.** Not the gentle sweep of a clock hand or the drifting of galaxies—'
-heading: '**9\. Narrative Outreach Version (for your Day 1 / Meta-Genesis book)**'
 id: GEN8-8789
-lines: 292-344
 location: genesis-8/meta-time-geometry-and-temporal-projection::9-narrative-outreach-version-for-your-day-1-meta-genesis-book::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 292-344
+heading: '**9\. Narrative Outreach Version (for your Day 1 / Meta-Genesis book)**'
+block_type: paragraph
+excerpt: '*(Director’s style: cinematic, atmospheric)* **Before there was time, there
+  was Becoming.** Not the gentle sweep of a clock hand or the drifting of galaxies—'
+concepts:
+- Meta-Time
+- Deviation
+- IGSOA
+- Axiom
+- formal theorem-proof appendix
+- page-long cinematic intro
+- Theorem
+- State
+- Proof
+- Box
+- theorem-proof
+- time
+- page-long
+- Τ
+- Ψ
+aliases:
+- Bk289ds
+tags:
+- proof
+- conflicted
+- ambiguous
+- axiom-box
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.309278350515463
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

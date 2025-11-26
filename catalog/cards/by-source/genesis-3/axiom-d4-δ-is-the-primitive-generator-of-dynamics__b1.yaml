@@ -1,10 +1,25 @@
+id: GEN3-7573
+location: genesis-3/the-tri-unity-theorem::i-δaxioms-deviational-principle::axiom-d4-δ-is-the-primitive-generator-of-dynamics::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1238-1242
+heading: '**Axiom D4 — δ Is the Primitive Generator of Dynamics**'
+parent_heading: '**I. δ–Axioms: Deviational Principle**'
 block_type: paragraph
+excerpt: Every change, evolution, or displacement derives from δ. ---
 concepts:
 - δ
-excerpt: Every change, evolution, or displacement derives from δ. ---
-heading: '**Axiom D4 — δ Is the Primitive Generator of Dynamics**'
-id: GEN3-7573
-lines: 1238-1242
-location: genesis-3/the-tri-unity-theorem::i-δaxioms-deviational-principle::axiom-d4-δ-is-the-primitive-generator-of-dynamics::b1
-parent_heading: '**I. δ–Axioms: Deviational Principle**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+aliases:
+- Bk849ec
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

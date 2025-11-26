@@ -1,11 +1,28 @@
+id: GEN15-3363
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::x-physical-interpretation-plain-english::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1727-1741
+heading: '**X. Physical Interpretation (plain English)**'
 block_type: list
-concepts:
-- δ
 excerpt: '* Halos aren''t round because δ-adjacency isn''t. * Outer halos are elongated
   because they integrate anisotropic δ from the entire cosmic web. * Inner halos are
   rounder because only the local δ matters.'
-heading: '**X. Physical Interpretation (plain English)**'
-id: GEN15-3363
-lines: 1727-1741
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::x-physical-interpretation-plain-english::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- δ-geometry
+- δ
+- IGSOA
+- δ-adjacency
+- δ-field
+- δ-tail
+aliases:
+- Bk944ha
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.21917808219178
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

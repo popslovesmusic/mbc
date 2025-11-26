@@ -1,18 +1,37 @@
-block_type: paragraph
-concepts:
-- Deviation Geometry
-- Galaxy Category
-- Genesis Category
-- Kernel Category
-- Observable Galaxy Category
-- Structure Category
-- Π
-- Φ
-- δ
-excerpt: 'A compact categorical diagram emphasising the compositional hierarchy: `Genesis
-  Category` `│ δ`'
-heading: '**4\. Category-Theoretic Commutative Stack**'
 id: GEN12-1951
-lines: 3525-3550
 location: genesis-12/untitled-document::4-category-theoretic-commutative-stack::b1
 source: genesis-12\Untitled_document.md
+lines: 3525-3550
+heading: '**4\. Category-Theoretic Commutative Stack**'
+block_type: paragraph
+excerpt: 'A compact categorical diagram emphasising the compositional hierarchy: `Genesis
+  Category` `│ δ`'
+concepts:
+- Φ
+- Deviation
+- δ
+- Π
+- Observable Galaxy Category
+- Galaxy Category
+- δ-mode
+- Structure Category
+- Deviation Geometry
+- Genesis Category
+- Kernel Category
+- Φ₁
+- Φ₂
+aliases:
+- Bk115cc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.696969696969695
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

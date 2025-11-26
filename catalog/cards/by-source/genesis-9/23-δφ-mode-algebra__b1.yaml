@@ -1,16 +1,34 @@
+id: GEN9-9296
+location: genesis-9/does-meta-genesis-indicate-new-physics::2-the-operator-algebra::23-δφ-mode-algebra::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 1295-1311
+heading: '**2.3 δ–Φ Mode Algebra**'
+parent_heading: '**2\. The Operator Algebra**'
 block_type: paragraph
-concepts:
-- creative
-- non-equilibrating
-- stabilizing
-- Φ
-- δ
 excerpt: 'We define the two-mode algebra as: \\mathfrak{A}\_{\\delta\\Phi} \= \\langle
   \\deltâ, Φ̂ \\mid Φ̂^2 \= Φ̂,\\; \\deltâ^2 \\neq \\deltâ,\\; \[\\deltâ, Φ̂\]\\neq
   0 \\rangle. Interpretation:'
-heading: '**2.3 δ–Φ Mode Algebra**'
-id: GEN9-9296
-lines: 1295-1311
-location: genesis-9/does-meta-genesis-indicate-new-physics::2-the-operator-algebra::23-δφ-mode-algebra::b1
-parent_heading: '**2\. The Operator Algebra**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- Φ
+- IGSOA
+- non-equilibrating
+- the heart of the IGSOA engine
+- two-mode
+- δ
+- stabilizing
+- creative
+aliases:
+- Bk170dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.698412698412698
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

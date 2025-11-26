@@ -1,16 +1,41 @@
+id: GEN7-8671
+location: genesis-7/why-curvature-gives-gravity::summary-statement::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 703-716
+heading: '**◼ SUMMARY STATEMENT**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Curvature Axiom Box
-- Curvature Diagram
-- Projection Chapter
-- δ
 excerpt: '**δ-curvature is the functorial, conserved, continuous curvature induced
   by deviation acting on adjacency. It necessarily generates a unique δ-compatible
   Einstein structure and governs all gravitation...'
-heading: '**◼ SUMMARY STATEMENT**'
-id: GEN7-8671
-lines: 703-716
-location: genesis-7/why-curvature-gives-gravity::summary-statement::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- δ
+- Curvature
+- Projection
+- IGSOA
+- Axiom
+- δ-Curvature
+- Box
+- spectral-geometry
+- δ-compatible
+- δ-curvature
+- δ-spectral
+- →
+- Curvature Axiom Box
+- Projection Chapter
+- Curvature Diagram
+aliases:
+- Bk160ct
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.388059701492537
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

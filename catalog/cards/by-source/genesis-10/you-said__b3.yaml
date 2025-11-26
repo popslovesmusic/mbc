@@ -1,14 +1,31 @@
+id: GEN10-900
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::6-final-sealed-statement::you-said::b3
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 2621-2623
+heading: '**You said:**'
+parent_heading: '**6\. Final Sealed Statement**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Spectral Triple Formulation
-- Thermodynamic Irreversibility
-- δ
 excerpt: “A δ-Spectral Triple Formulation of Thermodynamic Irreversibility in Meta-Genesis”
   (constructs entropy as a spectral invariant of δ-geometry)
-heading: '**You said:**'
-id: GEN10-900
-lines: 2621-2623
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::6-final-sealed-statement::you-said::b3
-parent_heading: '**6\. Final Sealed Statement**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+concepts:
+- Meta-Genesis
+- δ-geometry
+- δ
+- Thermodynamic Irreversibility
+- Spectral Triple Formulation
+- δ-Spectral
+aliases:
+- Bk333st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

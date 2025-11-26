@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'naturally leads to: * statistical updating * confidence propagation'
-heading: Metadata
 id: GEN20-7011
-lines: 4397-4404
 location: genesis-20/mbc-40-documentaitio-1::conclusion::132-how-advanced-topics-grow-naturally-from-basic-mbc::metadata::b1
-parent_heading: 13.2 How Advanced Topics Grow Naturally From Basic MBC
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 4397-4404
+heading: Metadata
+parent_heading: 13.2 How Advanced Topics Grow Naturally From Basic MBC
+block_type: paragraph
+excerpt: 'naturally leads to: * statistical updating * confidence propagation'
+aliases:
+- Bk139nl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

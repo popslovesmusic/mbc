@@ -1,13 +1,29 @@
+id: GEN1-573
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::3-deviational-dynamics::definition-31-δ-action-functional::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 884-892
+heading: '**Definition 3.1 — δ-Action Functional.**'
+parent_heading: '**3\. Deviational Dynamics**'
 block_type: paragraph
-concepts:
-- α
-- δ
 excerpt: Define Sδ\[δ\]=∫(δ†δ−α\[δ,δ\]).S\_\\delta\[\\delta\] \= \\int (\\delta^\\dagger\\delta
   \- \\alpha \[\\delta,\\delta\]).Sδ​\[δ\]=∫(δ†δ−α\[δ,δ\]). This integral is symbolic;
   it denotes evaluation under ...
-heading: '**Definition 3.1 — δ-Action Functional.**'
-id: GEN1-573
-lines: 884-892
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::3-deviational-dynamics::definition-31-δ-action-functional::b1
-parent_heading: '**3\. Deviational Dynamics**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- α
+- ∫
+- trace-like
+aliases:
+- Bk299dd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

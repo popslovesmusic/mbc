@@ -1,11 +1,22 @@
-block_type: paragraph
-concepts:
-- nor
-- Ψ
-excerpt: If A(Ψ)=∅,A(\\Psi) \= \\emptyset,A(Ψ)=∅, then Ψ\\PsiΨ lies outside all domains
-  and codomains.
-heading: '**3.3 Adjacency-Void Exclusion**'
 id: INTK-10201
-lines: 332-341
 location: intake/meta-genesis-meta-math-integration-papers::33-adjacency-void-exclusion::b1
 source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md
+lines: 332-341
+heading: '**3.3 Adjacency-Void Exclusion**'
+block_type: paragraph
+excerpt: If A(Ψ)=∅,A(\\Psi) \= \\emptyset,A(Ψ)=∅, then Ψ\\PsiΨ lies outside all domains
+  and codomains.
+concepts:
+- Ψ
+aliases:
+- Bk388pe
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.0303030303030303
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

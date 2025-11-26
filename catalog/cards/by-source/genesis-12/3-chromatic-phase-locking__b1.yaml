@@ -1,13 +1,33 @@
+id: GEN12-1835
+location: genesis-12/untitled-document::2-when-φ-becomes-nonlinear-the-first-galactic-seeds::3-chromatic-phase-locking::b1
+source: genesis-12\Untitled_document.md
+lines: 1765-1773
+heading: '**(3) Chromatic Phase Locking**'
+parent_heading: '**2\. When Φ Becomes Nonlinear: The First Galactic Seeds**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Φ-mode harmonics lock into **chromatic phases** (your χ-phases), creating
   rotational preference and density-wave symmetry in the forming halo. This is the
   origin of spirals— not angular momentum scave...
-heading: '**(3) Chromatic Phase Locking**'
-id: GEN12-1835
-lines: 1765-1773
-location: genesis-12/untitled-document::2-when-φ-becomes-nonlinear-the-first-galactic-seeds::3-chromatic-phase-locking::b1
-parent_heading: '**2\. When Φ Becomes Nonlinear: The First Galactic Seeds**'
-source: genesis-12\Untitled_document.md
+concepts:
+- phase-locked curvature patterns inherited from δ
+- density-wave
+- phase-locked
+- Φ-mode
+- χ
+- δ
+- Φ
+- chromatic phases
+aliases:
+- Bk387mh
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 19.51219512195122
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,31 @@
+id: GEN6-8267
+location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s8-δ-orientability-axiom::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 104-115
+heading: '**AXIOM S8 – δ-Orientability Axiom**'
+parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- Γ
-- δ
 excerpt: 'There exists a Hochschild p-cycle cδ such that: π(cδ)=Γδ\\pi(c\_{\\delta})
   \= \\Gamma\_{\\delta}π(cδ​)=Γδ​ where Γδ is the δ-grading operator.'
-heading: '**AXIOM S8 – δ-Orientability Axiom**'
-id: GEN6-8267
-lines: 104-115
-location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s8-δ-orientability-axiom::b1
-parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- δ
+- Γ
+- δ-grading
+- π
+- δ-harmonics
+- p-cycle
+aliases:
+- Bk272te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

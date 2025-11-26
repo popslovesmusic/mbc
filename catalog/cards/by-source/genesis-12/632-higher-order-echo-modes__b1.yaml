@@ -1,11 +1,24 @@
+id: GEN12-1681
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::63-gravitational-wave-echo-predictions::632-higher-order-echo-modes::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 2338-2351
+heading: '**6.3.2 Higher-Order Echo Modes**'
+parent_heading: '**6.3 Gravitational-Wave Echo Predictions**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'IGSOA predicts higher harmonic echo families that have not yet been identified.
   Search bands: * 0.3×'
-heading: '**6.3.2 Higher-Order Echo Modes**'
-id: GEN12-1681
-lines: 2338-2351
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::61-the-universality-prediction::63-gravitational-wave-echo-predictions::632-higher-order-echo-modes::b1
-parent_heading: '**6.3 Gravitational-Wave Echo Predictions**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- Φ
+aliases:
+- Bk229ip
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

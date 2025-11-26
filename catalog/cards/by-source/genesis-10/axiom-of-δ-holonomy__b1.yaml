@@ -1,13 +1,29 @@
+id: GEN10-744
+location: genesis-10/how-stillness-becomes-solid::the-δ-berry-connection-axiom::axiom-of-δ-holonomy::b1
+source: genesis-10\How_Stillness_Becomes_Solid_.md
+lines: 910-918
+heading: '**Axiom of δ-Holonomy**'
+parent_heading: '**The δ-Berry Connection Axiom**'
 block_type: paragraph
-concepts:
-- γ
-- δ
 excerpt: 'Parallel transport of δ-harmonics along any adjacency loop γ\\gammaγ is
   governed by: Holδ(γ)=exp⁡ ⁣(∮γAδ).\\mathrm{Hol}\_\\delta(\\gamma) \= \\exp\\\!\\left(
   \\oint\_\\gamma \\mathcal{A}\_\\delta \\ri...'
-heading: '**Axiom of δ-Holonomy**'
-id: GEN10-744
-lines: 910-918
-location: genesis-10/how-stillness-becomes-solid::the-δ-berry-connection-axiom::axiom-of-δ-holonomy::b1
-parent_heading: '**The δ-Berry Connection Axiom**'
-source: genesis-10\How_Stillness_Becomes_Solid_.md
+concepts:
+- γ
+- δ
+- Genesis-level
+- δ-harmonics
+aliases:
+- Bk069pt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.2727272727272725
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

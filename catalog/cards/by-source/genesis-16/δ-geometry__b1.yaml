@@ -1,11 +1,27 @@
+id: GEN16-3669
+location: genesis-16/quantum-measurement-in-igsoa-vs::cross-references-to-igsoa-core-concepts::δ-geometry::b1
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+lines: 17-21
+heading: '**δ-Geometry**'
+parent_heading: '**Cross-References to IGSOA Core Concepts**'
 block_type: list
-concepts:
-- δ
 excerpt: '* Encodes raw potentiality (superposition \= δ-degeneracy) * Measurement
   \= breaking δ-degeneracy via environmental adjacency'
-heading: '**δ-Geometry**'
-id: GEN16-3669
-lines: 17-21
-location: genesis-16/quantum-measurement-in-igsoa-vs::cross-references-to-igsoa-core-concepts::δ-geometry::b1
-parent_heading: '**Cross-References to IGSOA Core Concepts**'
-source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md
+concepts:
+- δ-degeneracy
+- δ
+aliases:
+- Bk396er
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

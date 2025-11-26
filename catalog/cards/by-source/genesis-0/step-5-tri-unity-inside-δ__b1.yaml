@@ -1,12 +1,32 @@
+id: GEN0-178
+location: genesis-0/tri-unity-theorem-equivalence-of::step-5-tri-unity-inside-δ::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 324-346
+heading: '**Step 5 — Tri-Unity inside δ**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- δ
 excerpt: 'We can now express the entire Triad as a single identity: (Curvature,Adjacency,Meta-Time)  =  (R,A,T)  =  The
   δ-closure triple.(\\text{Curvature}, \\text{Adjacency}, \\text{Meta-Time}) \\;=\\;
   (\\math...'
-heading: '**Step 5 — Tri-Unity inside δ**'
-id: GEN0-178
-lines: 324-346
-location: genesis-0/tri-unity-theorem-equivalence-of::step-5-tri-unity-inside-δ::b1
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Meta-Time
+- δ
+- Curvature
+- Adjacency
+- δ-closure
+- δ²
+- δ¹
+aliases:
+- Bk560cn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.343511450381679
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

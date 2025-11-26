@@ -1,16 +1,39 @@
+id: GEN13-2389
+location: genesis-13/the-weight-of-light::5-lift-theorem-every-kms-state-arises-from-δ::theorem-2-kms-δ-lift::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 1761-1779
+heading: '**Theorem 2 (KMS → δ-Lift).**'
+parent_heading: '**5\. Lift Theorem: Every KMS State Arises from δ**'
 block_type: paragraph
-concepts:
-- Π
-- Ω
-- β
-- δ
-- σ
-- ω
 excerpt: 'Let Ω\\OmegaΩ be a KMSβ\_\\betaβ​ state on A. There exists a unique δ-state
   ω\\omegaω on the δ-level such that: 1. Π∗(ω)=Ω\\Pi\_\*(\\omega) \= \\OmegaΠ∗​(ω)=Ω,'
-heading: '**Theorem 2 (KMS → δ-Lift).**'
-id: GEN13-2389
-lines: 1761-1779
-location: genesis-13/the-weight-of-light::5-lift-theorem-every-kms-state-arises-from-δ::theorem-2-kms-δ-lift::b1
-parent_heading: '**5\. Lift Theorem: Every KMS State Arises from δ**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- β
+- δ
+- ω
+- δ-excitation
+- Ω
+- δ-excitations
+- unique δ-excitation
+- Π
+- ↔
+- bijective correspondence
+- Π-image
+- δ-state
+- δ-level
+- σ
+aliases:
+- Bk524ls
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.068965517241379
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

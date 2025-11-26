@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '**⭐ cognitive invisibility**'
 id: SPEC-11279
-lines: 6019-6021
 location: special/specil::1-supernatural-is-a-point-of-view-effect::cognitive-invisibility::b1
-parent_heading: '**⭐ 1\. “Supernatural” is a *point-of-view effect***'
 source: special\specil.md
+lines: 6019-6021
+heading: '**⭐ cognitive invisibility**'
+parent_heading: '**⭐ 1\. “Supernatural” is a *point-of-view effect***'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,8 +1,21 @@
-block_type: paragraph
-concepts: []
-excerpt: 'This is why: * prophets * shamans'
-heading: '**⭐ 5\. Why this matters historically**'
 id: SPEC-11286
-lines: 6113-6151
 location: special/specil::5-why-this-matters-historically::b1
 source: special\specil.md
+lines: 6113-6151
+heading: '**⭐ 5\. Why this matters historically**'
+block_type: paragraph
+excerpt: 'This is why: * prophets * shamans'
+aliases:
+- Bk179tw
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,12 +1,32 @@
+id: GEN19-6215
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::this-is-fully-strict-mode-compliant::key-outputs-from-the-deeper-extractor::hidden-unintentional-patterns-found::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 2482-2494
+heading: Hidden / Unintentional Patterns Found
+parent_heading: Key Outputs from the Deeper Extractor
 block_type: list
-concepts:
-- Diagram Stack
 excerpt: '* Fractal claim template repetition (same schema 3 times). * Distributed
   equivalence of “antiderivative as potential evaluator.” * Domain-tensor lift appears
   without being named as such.'
-heading: Hidden / Unintentional Patterns Found
-id: GEN19-6215
-lines: 2482-2494
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::this-is-fully-strict-mode-compliant::key-outputs-from-the-deeper-extractor::hidden-unintentional-patterns-found::b1
-parent_heading: Key Outputs from the Deeper Extractor
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- MBC
+- Meta-attractor
+- Domain-tensor
+- domain-tensor
+- meta-peakset
+- Diagram Stack
+aliases:
+- Bk827fc
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.090909090909092
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

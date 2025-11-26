@@ -1,13 +1,31 @@
+id: GEN2-6297
+location: genesis-2/axioms-of-geometry-topos-compatible::1-δ-geometry-objects-and-morphisms::axiom-11-δ-objects-deviation-carrying-objects::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 41-49
+heading: '**Axiom 1.1 — δ-Objects (Deviation-Carrying Objects)**'
+parent_heading: '**1\. δ-Geometry: Objects and Morphisms**'
 block_type: paragraph
-concepts:
-- δ
-- δ-object
 excerpt: 'A **δ-object** is an object AAA in the topos **𝒯** equipped with a distinguished
   section δA:A→A\\delta\_A : A \\rightarrow AδA​:A→A interpreted as the **intrinsic
   deviation endomorphism**.'
-heading: '**Axiom 1.1 — δ-Objects (Deviation-Carrying Objects)**'
-id: GEN2-6297
-lines: 41-49
-location: genesis-2/axioms-of-geometry-topos-compatible::1-δ-geometry-objects-and-morphisms::axiom-11-δ-objects-deviation-carrying-objects::b1
-parent_heading: '**1\. δ-Geometry: Objects and Morphisms**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- δ
+- intrinsic deviation endomorphism
+- →
+- δ-object
+- δA
+aliases:
+- Bk149oo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

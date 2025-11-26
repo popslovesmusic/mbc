@@ -1,11 +1,23 @@
+id: GEN20-6952
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::124-example-4-contradiction-handling-supreme-closure::step-3-φ-formation-in-c::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3788-3795
+heading: Step 3 — Φ-formation in C
+parent_heading: 12.4 Example 4 — Contradiction Handling (Supreme Closure)
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Φ(C) must stabilize conflicting polarities: * tension emerges * semantic
   conflict recognized'
-heading: Step 3 — Φ-formation in C
-id: GEN20-6952
-lines: 3788-3795
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::124-example-4-contradiction-handling-supreme-closure::step-3-φ-formation-in-c::b1
-parent_heading: 12.4 Example 4 — Contradiction Handling (Supreme Closure)
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Φ
+aliases:
+- Bk693ms
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

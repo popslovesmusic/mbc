@@ -1,11 +1,30 @@
-block_type: paragraph
-concepts:
-- Ψ
-- δ
-excerpt: 'Change is typically defined as: change=ΔΨΔt.\\text{change} \= \\frac{\\Delta
-  \\Psi}{\\Delta t}.change=ΔtΔΨ​. But in Ψ₀ there is no t, no interval, no Δ.'
-heading: '**7\. Deviation as the Primitive of Change**'
 id: INTK-10132
-lines: 784-803
 location: intake/meta-genesis-physical-interpretation-papers::7-deviation-as-the-primitive-of-change::b1
 source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 784-803
+heading: '**7\. Deviation as the Primitive of Change**'
+block_type: paragraph
+excerpt: 'Change is typically defined as: change=ΔΨΔt.\\text{change} \= \\frac{\\Delta
+  \\Psi}{\\Delta t}.change=ΔtΔΨ​. But in Ψ₀ there is no t, no interval, no Δ.'
+concepts:
+- Δ
+- Ψ
+- δ
+- meta-time
+- origin of all change
+- Ψ₀
+aliases:
+- Bk023ct
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

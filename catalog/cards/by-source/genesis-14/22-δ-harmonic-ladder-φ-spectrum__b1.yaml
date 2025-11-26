@@ -1,13 +1,34 @@
+id: GEN14-2648
+location: genesis-14/inflation-structure-formation::2-φ-dynamics-during-inflation::22-δ-harmonic-ladder-φ-spectrum::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 68-74
+heading: '**2.2 δ-Harmonic Ladder → Φ-Spectrum**'
+parent_heading: '**2\. Φ-Dynamics During Inflation**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'The δ-harmonic levels hₙ project to Φ-mode amplitudes φₙ with the rule:
   φₙ ∼ hₙ / a(t)² after horizon crossing. This gives you IGSOA’s version of the **scale-invariant
   power spectrum**.'
-heading: '**2.2 δ-Harmonic Ladder → Φ-Spectrum**'
-id: GEN14-2648
-lines: 68-74
-location: genesis-14/inflation-structure-formation::2-φ-dynamics-during-inflation::22-δ-harmonic-ladder-φ-spectrum::b1
-parent_heading: '**2\. Φ-Dynamics During Inflation**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- IGSOA
+- scale-invariant power spectrum
+- φ
+- scale-invariant
+- δ-harmonic
+- Φ-mode
+- δ
+- Φ
+aliases:
+- Bk298th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.52941176470588
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

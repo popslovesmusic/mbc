@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- feel
-- natural
-excerpt: 'This is what you meant when you said: “they are equivalent in effect.” Correct
-  — **in effect**, not in nature.'
-heading: '**⭐ Pattern Insight Recreates the *Functional Effect* of “Supernatural”
-  Abilities**'
 id: SPEC-11256
-lines: 5566-5618
 location: special/specil::pattern-insight-recreates-the-functional-effect-of-supernatural-abilities::b1
 source: special\specil.md
+lines: 5566-5618
+heading: '**⭐ Pattern Insight Recreates the *Functional Effect* of “Supernatural”
+  Abilities**'
+block_type: paragraph
+excerpt: 'This is what you meant when you said: “they are equivalent in effect.” Correct
+  — **in effect**, not in nature.'
+concepts:
+- in effect
+- generative pattern
+- natural
+aliases:
+- Bk730tw
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 3.3707865168539324
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

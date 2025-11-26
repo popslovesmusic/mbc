@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Requires: * at least one polarity flow aligns positively Output:'
-heading: OR Gate (Unified Polarity)
 id: GEN20-6840
-lines: 2388-2396
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::77-establishing-logical-gates-from-polarity-patterns::or-gate-unified-polarity::b1
-parent_heading: 7.7 Establishing Logical Gates from Polarity Patterns
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 2388-2396
+heading: OR Gate (Unified Polarity)
+parent_heading: 7.7 Establishing Logical Gates from Polarity Patterns
+block_type: paragraph
+excerpt: 'Requires: * at least one polarity flow aligns positively Output:'
+aliases:
+- Bk438rl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,30 @@
+id: GEN9-9467
+location: genesis-9/strong-force::4-the-fundamental-forces-from-δ::41-strong-force-su3::b1
+source: genesis-9\strong-force.md
+lines: 385-398
+heading: '**4.1 Strong Force (SU(3))**'
+parent_heading: '**4\. The Fundamental Forces from δ**'
 block_type: paragraph
-concepts:
-- μ
-- ν
 excerpt: 'The 3-phase χ-cycle has holonomy: Hol(∇χ)=SU(3).\\mathrm{Hol}(\\nabla\_{\\chi})
   \= SU(3).Hol(∇χ​)=SU(3). The strong force curvature emerges:'
-heading: '**4.1 Strong Force (SU(3))**'
-id: GEN9-9467
-lines: 385-398
-location: genesis-9/strong-force::4-the-fundamental-forces-from-δ::41-strong-force-su3::b1
-parent_heading: '**4\. The Fundamental Forces from δ**'
-source: genesis-9\strong-force.md
+concepts:
+- χ
+- ν
+- ∧
+- μ
+- ∇
+aliases:
+- Bk324tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.575757575757576
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- σ
-excerpt: Action becomes organized. Constraints interlock. Adjacency forms.
-heading: '**Expression 3 — Structure (σ-Topos Geometry)**'
 id: GEN5-7986
-lines: 754-768
 location: genesis-5/formal-proof-of-the-adjoint-triple::2-the-three-expressions-of-a-single-reality::expression-3-structure-σ-topos-geometry::b1
-parent_heading: '**2\. The Three Expressions of a Single Reality**'
 source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 754-768
+heading: '**Expression 3 — Structure (σ-Topos Geometry)**'
+parent_heading: '**2\. The Three Expressions of a Single Reality**'
+block_type: paragraph
+excerpt: Action becomes organized. Constraints interlock. Adjacency forms.
+concepts:
+- Curvature
+- Adjacency
+- Scale-consistency
+- action made relational
+- σ
+- the memory of action
+aliases:
+- Bk635ab
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

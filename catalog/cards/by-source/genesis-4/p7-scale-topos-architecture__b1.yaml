@@ -1,11 +1,28 @@
+id: GEN4-7688
+location: genesis-4/meta-physics-axiom-box::iii-physics-axioms-projection-geometry-dynamics::p7-scale-topos-architecture::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1283-1295
+heading: '**P.7 — Scale-Topos Architecture**'
+parent_heading: '**III. PHYSICS AXIOMS (Projection, Geometry, Dynamics)**'
 block_type: paragraph
-concepts:
-- σ
 excerpt: 'MetaPhys=Sh(σ-Topos)\\mathbf{MetaPhys}=\\mathrm{Sh}(\\sigma\\text{-Topos})MetaPhys=Sh(σ-Topos)
   and the physical universe is the externalization: π:σ-Topos→Set.\\pi:\\sigma\\text{-Topos}\\to\\mathbf{Se...'
-heading: '**P.7 — Scale-Topos Architecture**'
-id: GEN4-7688
-lines: 1283-1295
-location: genesis-4/meta-physics-axiom-box::iii-physics-axioms-projection-geometry-dynamics::p7-scale-topos-architecture::b1
-parent_heading: '**III. PHYSICS AXIOMS (Projection, Geometry, Dynamics)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- σ
+- →
+- π
+aliases:
+- Bk739mt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.838709677419355
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

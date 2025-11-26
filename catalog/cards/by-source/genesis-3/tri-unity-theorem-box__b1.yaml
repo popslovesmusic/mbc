@@ -1,24 +1,43 @@
+id: GEN3-7495
+location: genesis-3/the-tri-unity-theorem::v-final-boxed-summary::tri-unity-theorem-box::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 224-240
+heading: '**Tri-Unity Theorem Box**'
+parent_heading: '**V. Final Boxed Summary**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Einstein Axiom
-- Foundation Layer
-- Layer
-- Meta-Einstein
-- Meta-Genesis
-- Meta-Math
-- The Tri
-- Tri-Unity
-- Unity Axiom Box
-- Φ
-- δ
 excerpt: δ=Origin of ActionΦ=Origin of Formπ=Origin of Realizationδ⇒Φ,Φ⇒π,π⇒δ⇒ (δ,Φ,π)
   is the minimal closed generating triple\\boxed{ \\delta \= \\text{Origin of Action}
   \\\\ \\Phi \= \\text{Origin of Form} \...
-heading: '**Tri-Unity Theorem Box**'
-id: GEN3-7495
-lines: 224-240
-location: genesis-3/the-tri-unity-theorem::v-final-boxed-summary::tri-unity-theorem-box::b1
-parent_heading: '**V. Final Boxed Summary**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- δ
+- Φ
+- π
+- Meta-Einstein
+- Meta-Genesis
+- Meta-Math
+- Tri-Unity
+- Foundation Layer
+- A physical-intuition translation version
+- Axiom
+- A fully formal category-theoretic proof
+- The Tri-Unity Axiom Box
+- A diagrammatic TikZ or Mermaid version
+- Layer
+- Proof
+aliases:
+- Bk793oo
+tags:
+- axiom-box
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.942028985507244
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

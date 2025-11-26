@@ -1,16 +1,33 @@
+id: GEN16-4099
+location: genesis-16/untitled-document::4-the-heart-of-the-equivalence::42-box-λ-box-gives-the-same-box::for-any-box-b::b1
+source: genesis-16\Untitled_document.md
+lines: 4584-4600
+heading: '**For any Box B:**'
+parent_heading: '**4.2 Box → λ → Box gives the same Box**'
 block_type: paragraph
-concepts:
-- Λ
-- Π
-- Σ
-- β
-- λ
 excerpt: 'Λ(B)=λ-term for Π(ΣB)\\Lambda(B) \= \\lambda\\text{-term for }\\Pi(\\Sigma\_B)Λ(B)=λ-term
   for Π(ΣB​) T(Λ(B))≅B\\mathcal{T}(\\Lambda(B)) \\cong BT(Λ(B))≅B because: * exponential
   ⇔ λ-abstraction'
-heading: '**For any Box B:**'
-id: GEN16-4099
-lines: 4584-4600
-location: genesis-16/untitled-document::4-the-heart-of-the-equivalence::42-box-λ-box-gives-the-same-box::for-any-box-b::b1
-parent_heading: '**4.2 Box → λ → Box gives the same Box**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Λ
+- λ
+- Π
+- Σ
+- Π-normal
+- β
+- ΣB
+aliases:
+- Bk608tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.475409836065573
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,27 @@
+id: GEN12-1778
+location: genesis-12/untitled-document::5-δ-harmonics-inflationary-spectrum::51-scalar-spectrum::b1
+source: genesis-12\Untitled_document.md
+lines: 913-931
+heading: '**5.1 Scalar Spectrum**'
+parent_heading: '**5\. δ-Harmonics → Inflationary Spectrum**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Scalar tilt: ns−1=fδ(k),n\_s \- 1 \= f\_{\\delta}(k),ns​−1=fδ​(k), an explicit
   function of δ-harmonic ladder spacing.'
-heading: '**5.1 Scalar Spectrum**'
-id: GEN12-1778
-lines: 913-931
-location: genesis-12/untitled-document::5-δ-harmonics-inflationary-spectrum::51-scalar-spectrum::b1
-parent_heading: '**5\. δ-Harmonics → Inflationary Spectrum**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- δ-harmonic
+aliases:
+- Bk325st
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

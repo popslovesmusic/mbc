@@ -1,14 +1,31 @@
+id: GEN16-4022
+location: genesis-16/untitled-document::3-second-adjoint-pair-φπphi-dashv-piφπ::34-show-they-are-inverse::2-gˇghatcheckg-ggˇg::b1
+source: genesis-16\Untitled_document.md
+lines: 3632-3646
+heading: '**2\. gˇ^=g\\hat{\\check{g}} \= ggˇ​^​=g**'
+parent_heading: '**3.4 Show they are inverse**'
 block_type: paragraph
-concepts:
-- Π
-- Σ
-- Φ
 excerpt: 'Compute: gˇ^(Σ1)=Π(gˇ(ΦΣ1))=Π(ι(g(Σ1)))=g(Σ1)\\hat{\\check{g}}(\\Sigma\_1)
   \= \\Pi\\left( \\check{g}(\\Phi\\Sigma\_1) \\right) \= \\Pi\\left( \\iota(g(\\Sigma\_1))
   \\right) \= g(\\Sigma\_1)gˇ​^​(Σ1​)=...'
-heading: '**2\. gˇ^=g\\hat{\\check{g}} \= ggˇ​^​=g**'
-id: GEN16-4022
-lines: 3632-3646
-location: genesis-16/untitled-document::3-second-adjoint-pair-φπphi-dashv-piφπ::34-show-they-are-inverse::2-gˇghatcheckg-ggˇg::b1
-parent_heading: '**3.4 Show they are inverse**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- Π
+- ι
+- Φ
+- Π-forms
+aliases:
+- Bk788ch
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.8125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

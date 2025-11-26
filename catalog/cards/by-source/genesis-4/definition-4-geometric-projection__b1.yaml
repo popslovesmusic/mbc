@@ -1,13 +1,28 @@
+id: GEN4-7843
+location: genesis-4/the-first-adjacency::2-definitions::definition-4-geometric-projection::b1
+source: genesis-4\The_First_Adjacency.md
+lines: 550-562
+heading: '**Definition 4 — Geometric Projection**'
+parent_heading: '**2\. Definitions**'
 block_type: paragraph
-concepts:
-- projects
-- δ
 excerpt: 'A geometric structure (M,g)(M,g)(M,g) *projects* from T\\mathcal{T}T if:
   1. MMM is a smooth manifold obtained by local completion of δ-neighborhoods. 2.
   The metric ggg satisfies:'
-heading: '**Definition 4 — Geometric Projection**'
-id: GEN4-7843
-lines: 550-562
-location: genesis-4/the-first-adjacency::2-definitions::definition-4-geometric-projection::b1
-parent_heading: '**2\. Definitions**'
-source: genesis-4\The_First_Adjacency.md
+concepts:
+- δ
+- δ-neighborhoods
+- δ-mode
+aliases:
+- Bk180gs
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.10958904109589
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

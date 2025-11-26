@@ -1,15 +1,42 @@
+id: GEN14-2752
+location: genesis-14/inflation-structure-formation::proof::3-π-metric-stability-drives-collapse-of-these-basins::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1614-1638
+heading: '**3\. Π-Metric Stability Drives Collapse of These Basins**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- converge
-- Π
-- δ
-- τ
 excerpt: 'Π evolves by the metric-stability equation (derived in Proof 8, but we may
   use the known IGSOA identity): g˙=− ∇κ.\\dot{g} \= \-\\,\\nabla\\kappa.g˙​=−∇κ.
   Thus curvature basins act as gravitational si...'
-heading: '**3\. Π-Metric Stability Drives Collapse of These Basins**'
-id: GEN14-2752
-lines: 1614-1638
-location: genesis-14/inflation-structure-formation::proof::3-π-metric-stability-drives-collapse-of-these-basins::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- χ
+- ∇
+- IGSOA
+- supermassive curvature concentrations form extremely early
+- Proof
+- proto-SMBH basins
+- τ
+- Π
+- κ
+- metric-stability
+- proto-SMBH
+- δ-Higgs
+- δ
+- Π-flow
+- nearly instantaneous
+aliases:
+- Bk996et
+tags:
+- proof
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.698412698412698
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

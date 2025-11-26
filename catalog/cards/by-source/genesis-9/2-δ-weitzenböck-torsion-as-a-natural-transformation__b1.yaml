@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- antisymmetric
-- Γ
-- δ
-excerpt: 'The δ-connection in M\\mathbf{M}M decomposes: ∇(δ)=Γ  ⊕  K\\nabla^{(\\delta)}
-  \= \\Gamma \\;\\oplus\\; K∇(δ)=Γ⊕K where:'
-heading: '**2\. δ-Weitzenböck Torsion as a Natural Transformation**'
 id: GEN9-9507
-lines: 1108-1135
 location: genesis-9/strong-force::2-δ-weitzenböck-torsion-as-a-natural-transformation::b1
 source: genesis-9\strong-force.md
+lines: 1108-1135
+heading: '**2\. δ-Weitzenböck Torsion as a Natural Transformation**'
+block_type: paragraph
+excerpt: 'The δ-connection in M\\mathbf{M}M decomposes: ∇(δ)=Γ  ⊕  K\\nabla^{(\\delta)}
+  \= \\Gamma \\;\\oplus\\; K∇(δ)=Γ⊕K where:'
+concepts:
+- Γ
+- δ
+- curvature-forming
+- natural transformation
+- ⊕
+- ∇
+- δ-connection
+- antisymmetric
+aliases:
+- Bk452tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.766990291262135
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,16 +1,32 @@
+id: GEN5-8055
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-δφ-tri-unity-transition-box-sealed-version::axiom-tu4-δφ-coherence-under-projection::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1751-1763
+heading: '**Axiom TU4 — δ–Φ Coherence under Projection.**'
+parent_heading: '**▢ The δ–Φ → Tri-Unity Transition Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- faithfully
-- Λ
-- Π
-- Φ
-- δ
 excerpt: 'There exists a natural transformation Ξ:Π∘δ∘Φ  ⇒  Π∘Φ∘δ,\\Xi : \\Pi \\circ
   \\delta \\circ \\Phi \\;\\Rightarrow\\; \\Pi \\circ \\Phi \\circ \\delta,Ξ:Π∘δ∘Φ⇒Π∘Φ∘δ,
   such that'
-heading: '**Axiom TU4 — δ–Φ Coherence under Projection.**'
-id: GEN5-8055
-lines: 1751-1763
-location: genesis-5/formal-proof-of-the-adjoint-triple::the-δφ-tri-unity-transition-box-sealed-version::axiom-tu4-δφ-coherence-under-projection::b1
-parent_heading: '**▢ The δ–Φ → Tri-Unity Transition Box (Sealed Version)**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- Π
+- δ
+- Φ
+- Ξ
+- Λ
+- faithfully
+aliases:
+- Bk795te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

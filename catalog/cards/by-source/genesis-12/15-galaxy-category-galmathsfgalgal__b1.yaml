@@ -1,12 +1,30 @@
+id: GEN12-1987
+location: genesis-12/untitled-document::1-the-categories-involved::15-galaxy-category-galmathsfgalgal::b1
+source: genesis-12\Untitled_document.md
+lines: 4238-4248
+heading: '**1.5 Galaxy Category Gal\\mathsf{Gal}Gal**'
+parent_heading: '**1\. The Categories Involved**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'Π:Ker→Gal\\Pi : \\mathsf{Ker} \\to \\mathsf{Gal}Π:Ker→Gal * **Objects:**
   galaxies Gi\\mathcal{G}\_iGi​. * **Morphisms:** luminous and matter-field maps preserving
   Π-projection.'
-heading: '**1.5 Galaxy Category Gal\\mathsf{Gal}Gal**'
-id: GEN12-1987
-lines: 4238-4248
-location: genesis-12/untitled-document::1-the-categories-involved::15-galaxy-category-galmathsfgalgal::b1
-parent_heading: '**1\. The Categories Involved**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Π
+- →
+- Π-projection
+- matter-field
+aliases:
+- Bk152kg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.121212121212121
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

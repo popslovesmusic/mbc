@@ -1,13 +1,29 @@
+id: GEN0-232
+location: genesis-0/tri-unity-theorem-equivalence-of::3-lemmas::lemma-5-structure-accumulates::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1087-1095
+heading: '**Lemma 5 — Structure Accumulates**'
+parent_heading: '**3\. Lemmas**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: 'Because δ is extensive: Ψn+1=δΨn contains strictly more structure than Ψn.\\Psi\_{n+1}=\\delta\\Psi\_n
   \\text{ contains strictly more structure than } \\Psi\_n.Ψn+1​=δΨn​ contains strictly
   more struct...'
-heading: '**Lemma 5 — Structure Accumulates**'
-id: GEN0-232
-lines: 1087-1095
-location: genesis-0/tri-unity-theorem-equivalence-of::3-lemmas::lemma-5-structure-accumulates::b1
-parent_heading: '**3\. Lemmas**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- Ψn
+- δ
+aliases:
+- Bk173be
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

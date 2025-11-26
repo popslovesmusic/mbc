@@ -1,18 +1,40 @@
+id: GEN10-805
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::1-the-sealed-master-axiom-box::axiom-box-ψ₀-δ-time-irreversibility-entropy-growth::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 971-1000
+heading: '**Axiom Box: Ψ₀ ⇒ δ ⇒ Time ⇒ Irreversibility ⇒ Entropy Growth**'
+parent_heading: '**1\. The Sealed Master Axiom Box**'
 block_type: list
+excerpt: 1. **NOT Axiom:** Perfect stillness is forbidden. ∄ idΨ0.\\nexists\\, id\_{Ψ₀}.∄idΨ0​​.
 concepts:
-- Adjacency Formation
-- Axiom
-- Curvature Formation
-- Deviation Axiom
-- Entropy Identification
-- Multiplicity Expansion
-- Φ
 - Ψ
 - δ
-excerpt: 1. **NOT Axiom:** Perfect stillness is forbidden. ∄ idΨ0.\\nexists\\, id\_{Ψ₀}.∄idΨ0​​.
-heading: '**Axiom Box: Ψ₀ ⇒ δ ⇒ Time ⇒ Irreversibility ⇒ Entropy Growth**'
-id: GEN10-805
-lines: 971-1000
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::1-the-sealed-master-axiom-box::axiom-box-ψ₀-δ-time-irreversibility-entropy-growth::b1
-parent_heading: '**1\. The Sealed Master Axiom Box**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+- Φ
+- Deviation
+- Adjacency
+- Curvature
+- Axiom
+- ≥
+- Δ
+- Non-invertibility
+- Ψ₀
+- ∈
+- →
+- Φ-Multiplicity
+- Entropy Identification
+aliases:
+- Bk001a
+tags:
+- A1
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.790697674418606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A1

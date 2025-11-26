@@ -1,14 +1,31 @@
+id: GEN17-5131
+location: genesis-17/mbc-schema-3::the-meta-genesis-layer-theorem::how-δ-ω-r-s-e-give-rise-to-a-recursive-universe-of-structure::b1
+source: genesis-17\MBC_Schema_3.md
+lines: 1950-1955
+heading: '***(How Δ, Ω, R, S, E give rise to a recursive universe of structure)***'
+parent_heading: '**THE META-GENESIS LAYER THEOREM**'
 block_type: paragraph
-concepts:
-- evolves
-- re-codes
-- re-forms
 excerpt: This is one of the deepest results in the entire MBC framework. It describes
   **why and how structure does not merely form**, but also **re-forms**, **re-codes**,
   and **evolves** through higher-order o...
-heading: '***(How Δ, Ω, R, S, E give rise to a recursive universe of structure)***'
-id: GEN17-5131
-lines: 1950-1955
-location: genesis-17/mbc-schema-3::the-meta-genesis-layer-theorem::how-δ-ω-r-s-e-give-rise-to-a-recursive-universe-of-structure::b1
-parent_heading: '**THE META-GENESIS LAYER THEOREM**'
-source: genesis-17\MBC_Schema_3.md
+concepts:
+- MBC
+- why and how structure does not merely form
+- higher-order
+- re-codes
+- re-forms
+- evolves
+aliases:
+- Bk127to
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 17.647058823529413
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

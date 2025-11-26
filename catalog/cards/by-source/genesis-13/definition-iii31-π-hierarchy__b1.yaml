@@ -1,14 +1,35 @@
+id: GEN13-2572
+location: genesis-13/what-biology-is-in-meta-genesis::section-iii3-π-stable-endomorphisms-and-bioenergetic-boundaries::definition-iii31-π-hierarchy::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1593-1619
+heading: '**Definition III.3.1 (Π-Hierarchy).**'
+parent_heading: '**SECTION III.3 — Π-Stable Endomorphisms and Bioenergetic Boundaries**'
 block_type: paragraph
-concepts:
-- Π
-- Π-hierarchy
-- Φ
-- δ
 excerpt: 'Define the **Π-hierarchy**: P0⊂P1⊂P2⊂⋯\\mathcal{P}\_0 \\subset \\mathcal{P}\_1
   \\subset \\mathcal{P}\_2 \\subset \\cdotsP0​⊂P1​⊂P2​⊂⋯ with:'
-heading: '**Definition III.3.1 (Π-Hierarchy).**'
-id: GEN13-2572
-lines: 1593-1619
-location: genesis-13/what-biology-is-in-meta-genesis::section-iii3-π-stable-endomorphisms-and-bioenergetic-boundaries::definition-iii31-π-hierarchy::b1
-parent_heading: '**SECTION III.3 — Π-Stable Endomorphisms and Bioenergetic Boundaries**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- ⊂
+- Π
+- ≈
+- Φ
+- ⊗
+- higher-order
+- Π-hierarchy
+- NADH-like
+- δ-packets
+- Π-stable
+- δ
+aliases:
+- Bk157dt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.476190476190476
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

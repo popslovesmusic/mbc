@@ -1,8 +1,19 @@
-block_type: paragraph
-concepts: []
-excerpt: '*(Kept strictly formal; no narrative tone.)* ---'
-heading: '**Proof (IGSOA Column → Standard Column)**'
 id: GEN18-5616
-lines: 259-263
 location: genesis-18/sealed-axiom-box::proof-igsoa-column-standard-column::b1
 source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 259-263
+heading: '**Proof (IGSOA Column → Standard Column)**'
+block_type: paragraph
+excerpt: '*(Kept strictly formal; no narrative tone.)* ---'
+aliases:
+- Bk501ks
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

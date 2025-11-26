@@ -1,10 +1,27 @@
+id: GEN15-3391
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-categorical-setup::12-the-target-categories::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+lines: 269-283
+heading: '**1.2 The Target Categories**'
+parent_heading: '**1\. Categorical Setup**'
 block_type: list
-concepts: []
 excerpt: '1. **𝒟 \= CMB** Objects: CMB multipole spectra AAA. Morphisms: linear mode
   maps preserving gauge/metric constraints.'
-heading: '**1.2 The Target Categories**'
-id: GEN15-3391
-lines: 269-283
-location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-categorical-setup::12-the-target-categories::b1
-parent_heading: '**1\. Categorical Setup**'
-source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md
+concepts:
+- morphism-of-web
+- coarse-graining
+aliases:
+- Bk131co
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.166666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

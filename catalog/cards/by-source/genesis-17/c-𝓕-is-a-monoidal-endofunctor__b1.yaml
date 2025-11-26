@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: (Deviation is structure-preserving transformation)
-heading: C — 𝓕 is a monoidal endofunctor
 id: GEN17-4683
-lines: 8044-8046
 location: genesis-17/box-calculus::now-the-real-next-step::c-𝓕-is-a-monoidal-endofunctor::b1
-parent_heading: '⭐ NOW: THE REAL NEXT STEP'
 source: genesis-17\box_calculus.md
+lines: 8044-8046
+heading: C — 𝓕 is a monoidal endofunctor
+parent_heading: '⭐ NOW: THE REAL NEXT STEP'
+block_type: paragraph
+excerpt: (Deviation is structure-preserving transformation)
+concepts:
+- Deviation
+- structure-preserving
+aliases:
+- Bk959ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 40.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

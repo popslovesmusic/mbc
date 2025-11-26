@@ -1,14 +1,30 @@
+id: GEN0-228
+location: genesis-0/tri-unity-theorem-equivalence-of::3-lemmas::lemma-1-existence-of-deviation::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1048-1055
+heading: '**Lemma 1 — Existence of Deviation**'
+parent_heading: '**3\. Lemmas**'
 block_type: paragraph
-concepts:
-- Axiom
-- From Axiom
-- Ψ
-- δ
 excerpt: 'From Axiom G1, perfect stillness is forbidden. Thus deviation must occur:
   ∃  δΨ0=Ψ1.\\exists\\;\\delta\\Psi\_0 \= \\Psi\_1.∃δΨ0​=Ψ1​.'
-heading: '**Lemma 1 — Existence of Deviation**'
-id: GEN0-228
-lines: 1048-1055
-location: genesis-0/tri-unity-theorem-equivalence-of::3-lemmas::lemma-1-existence-of-deviation::b1
-parent_heading: '**3\. Lemmas**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Ψ
+- Axiom
+- ∃
+- δ
+- From Axiom
+aliases:
+- Bk332fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.809523809523807
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

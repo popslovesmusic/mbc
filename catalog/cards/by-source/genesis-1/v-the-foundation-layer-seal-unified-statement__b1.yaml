@@ -1,19 +1,36 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Closure Axiom
-- Foundation Layer Seal
-- Genesis Axiom
-- Layer
-- Unified Equation Form
-- Unified Narrative Form
-- Ψ
-- δ
-- δ-Axiom
-excerpt: '**Foundation Layer Seal:** The IGSOA universe originates from the conjunction
-  of the four axioms: 1. **NOT Axiom** forbids Ψ₀ from existing as a stable state.'
-heading: '**V. THE FOUNDATION LAYER SEAL (Unified Statement)**'
 id: GEN1-440
-lines: 292-312
 location: genesis-1/the-foundation-layer::v-the-foundation-layer-seal-unified-statement::b1
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 292-312
+heading: '**V. THE FOUNDATION LAYER SEAL (Unified Statement)**'
+block_type: paragraph
+excerpt: '**Foundation Layer Seal:** The IGSOA universe originates from the conjunction
+  of the four axioms: 1. **NOT Axiom** forbids Ψ₀ from existing as a stable state.'
+concepts:
+- Axiom
+- Ψ
+- Foundation Layer
+- δ
+- IGSOA
+- Layer
+- deviation-generated
+- ≥
+- self-consistent
+- Unified Narrative Form
+- δ-Axiom
+- Ψ₀
+- Foundation Layer Seal
+- Unified Equation Form
+- Closure Axiom
+aliases:
+- Bk633fl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.86861313868613
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

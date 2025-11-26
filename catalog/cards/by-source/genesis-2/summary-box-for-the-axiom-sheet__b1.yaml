@@ -1,21 +1,41 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Deviational Geometry
-- Geometry Axiom Box
-- Geometry Projection Map
-- 'Math
-
-
-  This'
-- Meta-Einstein
-- Meta-Math
-- δ
-excerpt: '**δ-Geometry is a topos-valid internal geometry built from deviation.**
-  It consists of: 1. δ-objects with intrinsic deviation endomorphisms'
-heading: '**Summary Box (for the Axiom Sheet)**'
 id: GEN2-6314
-lines: 273-303
 location: genesis-2/axioms-of-geometry-topos-compatible::summary-box-for-the-axiom-sheet::b1
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 273-303
+heading: '**Summary Box (for the Axiom Sheet)**'
+block_type: paragraph
+excerpt: '**δ-Geometry is a topos-valid internal geometry built from deviation.**
+  It consists of: 1. δ-objects with intrinsic deviation endomorphisms'
+concepts:
+- δ
+- Meta-Einstein
+- Meta-Math
+- Deviational Geometry
+- Projection
+- Deviation
+- fully formal theorem-proof rewrite
+- δ-Geometry
+- Axiom
+- Theorem
+- Proof
+- Box
+- theorem-proof
+- δ-connections
+- diagrammatic topos version
+aliases:
+- Bk278gt
+tags:
+- axiom-box
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 21.487603305785125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

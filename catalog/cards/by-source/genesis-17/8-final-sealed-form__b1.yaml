@@ -1,13 +1,33 @@
-block_type: paragraph
-concepts:
-- Genesis Differential Equation
-- Meta-Genesis
-- The Meta
-- Σ
-- δ
-excerpt: 'The Meta-Genesis Differential Equation is: dΣdt=F(Σ;δ(Σ)) dt'
-heading: 🔷 8\. Final Sealed Form
 id: GEN17-4846
-lines: 10299-10329
 location: genesis-17/box-calculus::8-final-sealed-form::b1
 source: genesis-17\box_calculus.md
+lines: 10299-10329
+heading: 🔷 8\. Final Sealed Form
+block_type: paragraph
+excerpt: 'The Meta-Genesis Differential Equation is: dΣdt=F(Σ;δ(Σ)) dt'
+concepts:
+- Σ
+- Meta-Genesis
+- ≈
+- δ
+- ∇
+- ∞
+- Genesis Differential Equation
+- final-state
+- Σdt
+- The Meta
+aliases:
+- Bk198tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.867924528301888
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

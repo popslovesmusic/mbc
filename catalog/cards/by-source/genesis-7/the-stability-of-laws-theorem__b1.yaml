@@ -1,10 +1,27 @@
-block_type: paragraph
-concepts:
-- Deviational Geometry
-- Topos-Compatible
-excerpt: '*(Formal IGSOA | Deviational Geometry | Topos-Compatible)* ---'
-heading: '**🔷 THE STABILITY OF LAWS THEOREM**'
 id: GEN7-8482
-lines: 623-627
 location: genesis-7/the-complete-eft-lagrangian::the-stability-of-laws-theorem::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 623-627
+heading: '**🔷 THE STABILITY OF LAWS THEOREM**'
+block_type: paragraph
+excerpt: '*(Formal IGSOA | Deviational Geometry | Topos-Compatible)* ---'
+concepts:
+- Deviational Geometry
+- Deviation
+- IGSOA
+- Topos-Compatible
+aliases:
+- Bk900fi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 66.66666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

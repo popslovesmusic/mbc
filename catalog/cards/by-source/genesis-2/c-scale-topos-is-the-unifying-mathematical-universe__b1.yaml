@@ -1,12 +1,27 @@
+id: GEN2-6530
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::3-interpretation-of-the-diagram::c-scale-topos-is-the-unifying-mathematical-universe::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 803-805
+heading: '**(C) Scale-Topos is the unifying mathematical universe**'
+parent_heading: '**3\. Interpretation of the Diagram**'
 block_type: paragraph
-concepts:
-- All Meta
-- Meta-Math
 excerpt: All Meta-Math objects — operators, sheaves, fields, higher stacks — live
   here.
-heading: '**(C) Scale-Topos is the unifying mathematical universe**'
-id: GEN2-6530
-lines: 803-805
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::3-interpretation-of-the-diagram::c-scale-topos-is-the-unifying-mathematical-universe::b1
-parent_heading: '**3\. Interpretation of the Diagram**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- Meta-Math
+- All Meta
+aliases:
+- Bk909am
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

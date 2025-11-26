@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'To guarantee your whole literature remains compatible, the following must
-  hold:'
-heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
 id: INTK-9683
-lines: 589-591
 location: intake/axioms-geometry::section-6-consistency-checks-self-consistency-tests::b1
 source: intake\Axioms-geometry.md
+lines: 589-591
+heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
+block_type: paragraph
+excerpt: 'To guarantee your whole literature remains compatible, the following must
+  hold:'
+aliases:
+- Bk765gy
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

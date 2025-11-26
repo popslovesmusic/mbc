@@ -1,14 +1,33 @@
+id: GEN2-6447
+location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-3-δ-φ-curvature-and-energy-lifts::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1701-1723
+heading: '**Step 3 — δ ⇒ Φ Curvature and Energy Lifts**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Axiom
-- Unified Axiom
-- Φ
-- δ
 excerpt: 'From the Unified Axiom (U-3): Rδ⟶RΦ,(3a)R\_\\delta \\longrightarrow R\_\\Phi,
   \\tag{3a}Rδ​⟶RΦ​,(3a) and from (U-4):'
-heading: '**Step 3 — δ ⇒ Φ Curvature and Energy Lifts**'
-id: GEN2-6447
-lines: 1701-1723
-location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-3-δ-φ-curvature-and-energy-lifts::b1
-parent_heading: '**Proof**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- δ
+- Φ
+- Axiom
+- δ-functoriality
+- Φ-connections
+- δ-equation
+- Φ-equation
+- Unified Axiom
+aliases:
+- Bk055ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.256410256410255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

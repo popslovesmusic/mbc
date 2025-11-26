@@ -1,15 +1,33 @@
+id: GEN13-2605
+location: genesis-13/what-biology-is-in-meta-genesis::section-v2-full-functorial-stack-stillness-δ-φ-π-work::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2099-2119
+heading: '**SECTION V.2 — Full Functorial Stack: Stillness → δ → Φ → Π → Work**'
 block_type: paragraph
+excerpt: 'We now rewrite the δ–Φ–Π process as a *strict functorial stack*. Let the
+  categories be: * **𝒮**: Stillness'
 concepts:
+- →
+- Deviation
+- δ
+- Π
+- Φ
+- δ-packet
 - Deviational Structures
 - Harmonic Modes
 - Work Objects
-- Π
-- Φ
-- δ
-excerpt: 'We now rewrite the δ–Φ–Π process as a *strict functorial stack*. Let the
-  categories be: * **𝒮**: Stillness'
-heading: '**SECTION V.2 — Full Functorial Stack: Stillness → δ → Φ → Π → Work**'
-id: GEN13-2605
-lines: 2099-2119
-location: genesis-13/what-biology-is-in-meta-genesis::section-v2-full-functorial-stack-stillness-δ-φ-π-work::b1
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+aliases:
+- Bk555nr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.227272727272728
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

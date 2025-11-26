@@ -1,14 +1,39 @@
-block_type: paragraph
-concepts:
-- Deviational Levi
-- Deviational Riemann Curvature
-- Levi-Civita
-- Meta-Math
-- δ
-excerpt: '*(Formal derivation — canonical IGSOA / Meta-Math version)* Let: * gδg\_\\deltagδ​
-  be the **deviational metric**, induced from the inner product'
-heading: '**Meta-Einstein Equations Derived from δ-Curvature**'
 id: INTK-9664
-lines: 240-254
 location: intake/axioms-geometry::meta-einstein-equations-derived-from-δ-curvature::b1
 source: intake\Axioms-geometry.md
+lines: 240-254
+heading: '**Meta-Einstein Equations Derived from δ-Curvature**'
+block_type: paragraph
+excerpt: '*(Formal derivation — canonical IGSOA / Meta-Math version)* Let: * gδg\_\\deltagδ​
+  be the **deviational metric**, induced from the inner product'
+concepts:
+- δ
+- ∇
+- Meta-Math
+- Deviation
+- Curvature
+- IGSOA
+- Deviational Levi-Civita connection
+- Deviational Riemann Curvature
+- Levi-Civita
+- δg
+- δZ
+- deviational metric
+- Deviational Levi
+- δB
+- δA
+aliases:
+- Bk735fd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.940298507462686
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

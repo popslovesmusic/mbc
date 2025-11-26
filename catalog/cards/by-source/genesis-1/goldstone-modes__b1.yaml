@@ -1,12 +1,30 @@
+id: GEN1-416
+location: genesis-1/the-first-geometry::the-δ-higgs-mass-tower-and-degeneracy-structure::3-symmetry-and-degeneracy::goldstone-modes::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 872-880
+heading: '**Goldstone Modes**'
+parent_heading: '**3\. Symmetry and Degeneracy**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Every broken generator X∈gδ/hδX \\in \\mathfrak{g}\_\\delta / \\mathfrak{h}\_\\deltaX∈gδ​/hδ​
   yields a zero eigenvalue of the mass matrix: X(δ0)≠0⇒mk2=0.X(\\delta\_0) \\ne 0
   \\quad\\Rightarrow\\quad m...'
-heading: '**Goldstone Modes**'
-id: GEN1-416
-lines: 872-880
-location: genesis-1/the-first-geometry::the-δ-higgs-mass-tower-and-degeneracy-structure::3-symmetry-and-degeneracy::goldstone-modes::b1
-parent_heading: '**3\. Symmetry and Degeneracy**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- δ
+- ∈
+- ≠
+- δX
+aliases:
+- Bk070eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.797101449275362
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

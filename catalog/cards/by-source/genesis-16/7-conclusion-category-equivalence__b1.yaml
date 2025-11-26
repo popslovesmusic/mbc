@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- η
-excerpt: 'We have: 1. Functors FFF and GGG. 2. Natural iso η:1⇒G∘F\\eta:1\\Rightarrow
-  G\\circ Fη:1⇒G∘F.'
-heading: '**⭐ 7\. Conclusion: Category Equivalence**'
 id: GEN16-3999
-lines: 3313-3338
 location: genesis-16/untitled-document::7-conclusion-category-equivalence::b1
 source: genesis-16\Untitled_document.md
+lines: 3313-3338
+heading: '**⭐ 7\. Conclusion: Category Equivalence**'
+block_type: paragraph
+excerpt: 'We have: 1. Functors FFF and GGG. 2. Natural iso η:1⇒G∘F\\eta:1\\Rightarrow
+  G\\circ Fη:1⇒G∘F.'
+concepts:
+- category-theoretic
+- ε
+- η
+- Φ
+- Π
+aliases:
+- Bk848hf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.88235294117647
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

@@ -1,17 +1,42 @@
+id: GEN13-2044
+location: genesis-13/meta-math-nuclear-physics::4-tri-unity-perspective::why-δ-φ-π-produces-exactly-the-nuclear-theory-we-observe::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 572-586
+heading: '***Why δ → Φ → Π produces exactly the nuclear theory we observe***'
+parent_heading: '**4\. Tri-Unity Perspective**'
 block_type: paragraph
-concepts:
-- Theorem
-- Tri-Unity
-- Unity Nuclear Theorem
-- Π
-- Φ
-- δ
 excerpt: 'State the **Tri-Unity Nuclear Theorem**: Nuclear physics is the Π-projection
   of Φ-modes arising from δ-curved adjacency.\\boxed{ \\text{Nuclear physics is the
   Π-projection of Φ-modes arising from δ-cu...'
-heading: '***Why δ → Φ → Π produces exactly the nuclear theory we observe***'
-id: GEN13-2044
-lines: 572-586
-location: genesis-13/meta-math-nuclear-physics::4-tri-unity-perspective::why-δ-φ-π-produces-exactly-the-nuclear-theory-we-observe::b1
-parent_heading: '**4\. Tri-Unity Perspective**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Tri-Unity
+- Π-projection
+- Π
+- δ
+- Φ
+- Theorem
+- δ-curved
+- Φ-modes
+- Tri-Unity Nuclear Theorem
+- State
+- Proof
+- →
+- δ-curvature
+- Φ-operator
+- Unity Nuclear Theorem
+aliases:
+- Bk288st
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.9873417721519
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

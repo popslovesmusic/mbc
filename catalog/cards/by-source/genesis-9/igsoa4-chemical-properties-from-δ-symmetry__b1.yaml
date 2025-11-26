@@ -1,12 +1,26 @@
+id: GEN9-9054
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-what-igsoa-says::igsoa4-chemical-properties-from-δ-symmetry::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 406-430
+heading: '**(IGSOA4) Chemical Properties from δ-Symmetry**'
+parent_heading: '**2\. What IGSOA Says**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- δ
 excerpt: 'Instead of depending on electron spin, QM operators, or SO(3) invariance,
   IGSOA says: * valence * electronegativity'
-heading: '**(IGSOA4) Chemical Properties from δ-Symmetry**'
-id: GEN9-9054
-lines: 406-430
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-what-igsoa-says::igsoa4-chemical-properties-from-δ-symmetry::b1
-parent_heading: '**2\. What IGSOA Says**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- Tri-Unity
+- IGSOA
+- δ
+- δ-degeneracy
+aliases:
+- Bk214id
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

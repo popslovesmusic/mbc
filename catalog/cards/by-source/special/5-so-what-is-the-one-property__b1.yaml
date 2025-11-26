@@ -1,12 +1,33 @@
-block_type: paragraph
-concepts:
-- Deviational-Kinetic
-- Kinetic Potential
-- δ
-excerpt: 'In IGSOA, the clean definition is: **The one property is Deviational-Kinetic
-  Potential** (the ability to enforce non-zero and move).'
-heading: '**🌑 5\. So what is the *one* property?**'
 id: SPEC-11022
-lines: 857-870
 location: special/specil::5-so-what-is-the-one-property::b1
 source: special\specil.md
+lines: 857-870
+heading: '**🌑 5\. So what is the *one* property?**'
+block_type: paragraph
+excerpt: 'In IGSOA, the clean definition is: **The one property is Deviational-Kinetic
+  Potential** (the ability to enforce non-zero and move).'
+concepts:
+- The one property is Deviational-Kinetic Potential
+- Deviation
+- IGSOA
+- Definition
+- Deviational-Kinetic
+- non-zero
+- one property
+- δ
+- Kinetic Potential
+aliases:
+- Bk663it
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.565217391304348
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

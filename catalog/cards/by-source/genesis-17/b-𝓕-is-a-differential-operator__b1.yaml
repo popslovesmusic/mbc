@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- Σ
-excerpt: (Deviation is dΣ/dt)
-heading: B — 𝓕 is a differential operator
 id: GEN17-4682
-lines: 8040-8042
 location: genesis-17/box-calculus::now-the-real-next-step::b-𝓕-is-a-differential-operator::b1
-parent_heading: '⭐ NOW: THE REAL NEXT STEP'
 source: genesis-17\box_calculus.md
+lines: 8040-8042
+heading: B — 𝓕 is a differential operator
+parent_heading: '⭐ NOW: THE REAL NEXT STEP'
+block_type: paragraph
+excerpt: (Deviation is dΣ/dt)
+concepts:
+- Deviation
+- Σ
+aliases:
+- Bk185de
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

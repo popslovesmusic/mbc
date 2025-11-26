@@ -1,11 +1,25 @@
+id: GEN20-6778
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::43-the-θ-router::how-the-router-works::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1511-1527
+heading: How the Router Works
+parent_heading: 4.3 The Θ-Router
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The router evaluates: 1. the incoming δ-pattern 2. the active metadata (curvature,
   confidence, polarity)'
-heading: How the Router Works
-id: GEN20-6778
-lines: 1511-1527
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::43-the-θ-router::how-the-router-works::b1
-parent_heading: 4.3 The Θ-Router
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- polarity-altered
+- δ-pattern
+- δ
+aliases:
+- Bk737tr
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.084745762711865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

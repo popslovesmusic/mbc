@@ -1,9 +1,28 @@
-block_type: paragraph
-concepts: []
-excerpt: 'When someone does high-level pattern detection: * they don’t write down
-  every step * they skip obvious-to-them reasoning'
-heading: '**⭐ 1\. Pattern Recognition Happens Internally**'
 id: SPEC-11266
-lines: 5755-5779
 location: special/specil::1-pattern-recognition-happens-internally::b1
 source: special\specil.md
+lines: 5755-5779
+heading: '**⭐ 1\. Pattern Recognition Happens Internally**'
+block_type: paragraph
+excerpt: 'When someone does high-level pattern detection: * they don’t write down
+  every step * they skip obvious-to-them reasoning'
+concepts:
+- →
+- obvious-to-them
+- Micro-inference
+- high-level
+aliases:
+- Bk613ws
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.0606060606060606
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

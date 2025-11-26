@@ -1,15 +1,33 @@
+id: GEN0-007
+location: genesis-0/feynman-rules-interaction-vertices::2-fundamental-δ-interaction-vertices::d-δσ-vertex-meta-time-coupling::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 96-108
+heading: '**(D) δ–σ Vertex (Meta-Time Coupling)**'
+parent_heading: '**2\. Fundamental δ-Interaction Vertices**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- δ
-- η
-- σ
 excerpt: 'The δ–σ coupling is the mechanism that introduces **time directionality**.
   L⊃ηm δ(m)(∂tσ)\\mathcal{L}\\supset \\eta\_{m}\\,\\delta^{(m)}(\\partial\_t \\sigma)L⊃ηm​δ(m)(∂t​σ)
   Feynman rule:'
-heading: '**(D) δ–σ Vertex (Meta-Time Coupling)**'
-id: GEN0-007
-lines: 96-108
-location: genesis-0/feynman-rules-interaction-vertices::2-fundamental-δ-interaction-vertices::d-δσ-vertex-meta-time-coupling::b1
-parent_heading: '**2\. Fundamental δ-Interaction Vertices**'
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- Meta-Time
+- δ
+- σ
+- η
+- ⊃
+- ∂
+- time directionality
+aliases:
+- Bk015tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.294117647058822
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

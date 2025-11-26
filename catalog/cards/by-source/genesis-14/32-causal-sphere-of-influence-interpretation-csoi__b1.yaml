@@ -1,12 +1,27 @@
+id: GEN14-2651
+location: genesis-14/inflation-structure-formation::3-perturbation-seeding-the-δ-φ-freeze-out::32-causal-sphere-of-influence-interpretation-csoi::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 96-109
+heading: '**3.2 Causal Sphere of Influence Interpretation (CSOI)**'
+parent_heading: '**3\. Perturbation Seeding: The δ → Φ Freeze-out**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'You introduce CSOI as the **true causal horizon** (not lightcones). Inflation
   expands the CSOI tail, freezing δ-mode correlations over super-adjacent distances.
   This yields:'
-heading: '**3.2 Causal Sphere of Influence Interpretation (CSOI)**'
-id: GEN14-2651
-lines: 96-109
-location: genesis-14/inflation-structure-formation::3-perturbation-seeding-the-δ-φ-freeze-out::32-causal-sphere-of-influence-interpretation-csoi::b1
-parent_heading: '**3\. Perturbation Seeding: The δ → Φ Freeze-out**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- super-adjacent
+- δ-mode
+- δ
+- true causal horizon
+aliases:
+- Bk240yi
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.256410256410255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,9 +1,28 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Each “layer” of the stack expresses: 1. **IGSOA semantic logic diagram (left
-  column)** 2. **Standard logic/category-theory diagram (right column)**'
-heading: '**STRUCTURE OF THIS STACK**'
 id: GEN18-5794
-lines: 1866-1876
 location: genesis-18/sealed-axiom-box::structure-of-this-stack::b1
 source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1866-1876
+heading: '**STRUCTURE OF THIS STACK**'
+block_type: paragraph
+excerpt: 'Each “layer” of the stack expresses: 1. **IGSOA semantic logic diagram (left
+  column)** 2. **Standard logic/category-theory diagram (right column)**'
+concepts:
+- IGSOA
+- Cross-reference statement
+- category-theory
+- Cross-reference
+aliases:
+- Bk167el
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

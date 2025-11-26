@@ -1,15 +1,30 @@
+id: INTK-10387
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::not-axiom::implications-of-the-not-axiom::2-origin-of-deviation-δ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1178-1179
+heading: 2. Origin of Deviation (δ)
+parent_heading: Implications of the NOT Axiom
 block_type: paragraph
-concepts:
-- Axiom
-- Ontological Activity
-- Ψ
-- δ
 excerpt: The NOT Axiom is the ultimate source of **Deviation (δ)**. `δ` is the infinitesimal,
   inherent "flaw" or "imperfection" within the otherwise monistic and potentially
   symmetric IGSOA field. Since `Ψ₀` c...
-heading: 2. Origin of Deviation (δ)
-id: INTK-10387
-lines: 1178-1179
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::not-axiom::implications-of-the-not-axiom::2-origin-of-deviation-δ::b1
-parent_heading: Implications of the NOT Axiom
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- IGSOA
+- Deviation
+- Axiom
+- δ
+- Ψ
+- Ontological Activity
+- Ψ₀
+aliases:
+- Bk074tn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

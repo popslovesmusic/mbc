@@ -1,21 +1,39 @@
+id: GEN2-6401
+location: genesis-2/axioms-of-geometry-topos-compatible::one-line-summary::b2
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1312-1325
+heading: '**One-Line Summary**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Einstein Axiom Box
-- Foundation Layer Axiom Block
-- Foundation Seal
-- Layer
-- Meta-Einstein
-- Meta-Physics
-- The Meta
-- Φ
-- δ
 excerpt: '**δ is the intrinsic deviation that generates adjacency, scale, curvature,
   and energy, forming the geometric substrate beneath Φ-Math and Meta-Physics.** ---
   If you want next:'
-heading: '**One-Line Summary**'
-id: GEN2-6401
-lines: 1312-1325
-location: genesis-2/axioms-of-geometry-topos-compatible::one-line-summary::b2
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Meta-Einstein
+- Foundation Layer
+- δ
+- Φ
+- Axiom
+- →
+- Layer
+- Box
+- string-diagram
+- Foundation Layer Axiom Block
+- Meta-Physics
+- Φ-symmetric
+- Φ-Math
+- Einstein Axiom Box
+- Foundation Seal
+aliases:
+- Bk190ti
+tags:
+- axiom-box
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 23.52941176470588
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

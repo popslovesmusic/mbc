@@ -1,14 +1,31 @@
+id: INTK-10265
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::formal-definition::general-form-functional::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 531-540
+heading: General Form (Functional)
+parent_heading: Formal Definition
 block_type: paragraph
-concepts:
-- Meta-Addition
-- Meta-Time
-- Ψ
-- τ
 excerpt: 'Meta-Addition can be expressed as a functional that maps two input deviation
   fields to an output field: ``` ⊞: (Ψ_in₁, Ψ_in₂) ⟶ Ψ_out'
-heading: General Form (Functional)
-id: INTK-10265
-lines: 531-540
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::formal-definition::general-form-functional::b1
-parent_heading: Formal Definition
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Time
+- Ψ
+- non-linearities
+- Meta-Addition
+- Non-local
+- τ
+aliases:
+- Bk365ma
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

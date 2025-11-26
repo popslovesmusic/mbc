@@ -1,8 +1,21 @@
-block_type: paragraph
-concepts: []
-excerpt: A, B, C, D, or E?
-heading: '**Which format should I produce for C1d?**'
 id: GEN13-2522
-lines: 861-863
 location: genesis-13/what-biology-is-in-meta-genesis::which-format-should-i-produce-for-c1d::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 861-863
+heading: '**Which format should I produce for C1d?**'
+block_type: paragraph
+excerpt: A, B, C, D, or E?
+aliases:
+- Bk71135
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

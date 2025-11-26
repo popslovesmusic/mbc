@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- Foundation Layer Bo
-- Layer
-- Φ
-- δ
-excerpt: a combined δ \+ Φ Foundation Layer Bo
-heading: '**You said:**'
 id: GEN3-7566
-lines: 1166-1168
 location: genesis-3/the-tri-unity-theorem::vi-optional-extensions::you-said::b1
-parent_heading: '**VI. Optional Extensions**'
 source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1166-1168
+heading: '**You said:**'
+parent_heading: '**VI. Optional Extensions**'
+block_type: paragraph
+excerpt: a combined δ \+ Φ Foundation Layer Bo
+concepts:
+- Foundation Layer
+- Layer
+- δ
+- Φ
+- Foundation Layer Bo
+aliases:
+- Bk308cf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 71.42857142857143
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

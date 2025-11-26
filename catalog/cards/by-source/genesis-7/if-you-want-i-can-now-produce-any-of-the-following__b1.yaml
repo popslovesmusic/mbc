@@ -1,15 +1,41 @@
+id: GEN7-8626
+location: genesis-7/why-curvature-gives-gravity::if-you-want-i-can-now-produce-any-of-the-following::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 159-167
+heading: '**If you want, I can now produce any of the following:**'
 block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Meta-Einstein
-- δ
 excerpt: ✔ a **formal δ-Curvature → Meta-Einstein** theorem box ✔ a **spectral-triple
   version** (“δ-geometry as a C\*-module curvature”) ✔ a **δ-EFT Lagrangian** showing
   curvature terms emerging from δ-adjacen...
-heading: '**If you want, I can now produce any of the following:**'
-id: GEN7-8626
-lines: 159-167
-location: genesis-7/why-curvature-gives-gravity::if-you-want-i-can-now-produce-any-of-the-following::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- Meta-Einstein
+- δ-geometry
+- δ
+- Curvature
+- IGSOA
+- Axiom
+- spectral-triple version
+- Theorem
+- Box
+- δ-EFT Lagrangian
+- spectral-triple
+- δ-adjacency
+- δ-curvature
+- δ-Curvature
+- →
+aliases:
+- Bk141fc
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 34.54545454545455
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

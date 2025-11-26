@@ -1,13 +1,33 @@
+id: GEN19-5846
+location: genesis-19/mbc-4-1::7-θ-routing-tensor-meta-data-weight-tensor::definition::b1
+source: genesis-19\MBC-4_1.md
+lines: 338-347
+heading: '**Definition**'
+parent_heading: '**7\. Θ-Routing Tensor (Meta-Data Weight Tensor)**'
 block_type: table
-concepts:
-- Θ
-- δ
 excerpt: R^{i}\_{j} \= \\delta^{i}\_{j} \+ w\_\\Theta K^{i}\_{j} \\\] | Router tensor
   that perturbs polarity according to δ-metadata (confidence, adjacency, semantic
   load). | | \\(K^{i}\_{j}\\) \= polarity-shi...
-heading: '**Definition**'
-id: GEN19-5846
-lines: 338-347
-location: genesis-19/mbc-4-1::7-θ-routing-tensor-meta-data-weight-tensor::definition::b1
-parent_heading: '**7\. Θ-Routing Tensor (Meta-Data Weight Tensor)**'
-source: genesis-19\MBC-4_1.md
+concepts:
+- Θ
+- MBC
+- Router
+- polarity-shift
+- δ-metadata
+- δ
+- ↔
+aliases:
+- Bk096sm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.75
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

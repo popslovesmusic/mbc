@@ -1,12 +1,28 @@
+id: INTK-9590
+location: intake/abstract-editorial-review::abstract-editorial-review::2-one-sentence-about-π-gs-mathematical-structure::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 24-32
+heading: '**2\. One sentence about Π\_g’s mathematical structure**'
+parent_heading: '**ABSTRACT — Editorial Review**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'Something like: Π\_g is linear and annihilates global offsets, making it
   formally similar to gauge-removal operations across physics. This preempts reviewer
   skepticism.'
-heading: '**2\. One sentence about Π\_g’s mathematical structure**'
-id: INTK-9590
-lines: 24-32
-location: intake/abstract-editorial-review::abstract-editorial-review::2-one-sentence-about-π-gs-mathematical-structure::b1
-parent_heading: '**ABSTRACT — Editorial Review**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- gauge-removal
+- Π
+aliases:
+- Bk016sl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.333333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

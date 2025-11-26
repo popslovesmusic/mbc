@@ -1,16 +1,36 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- Mode
-- Mode-Stabilizer
-- Φ
-- δ
-- μ
-- ν
-excerpt: 'Define fields: * δ(x)\\delta(x)δ(x): fundamental deviation scalar * Aμ(a)(x)A\_\\mu^{(a)}(x)Aμ(a)​(x):
-  gauge fields on adjacency modes'
-heading: '**THE COMPLETE δ-EFT LAGRangian**'
 id: GEN7-8441
-lines: 2-24
 location: genesis-7/the-complete-eft-lagrangian::the-complete-δ-eft-lagrangian::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 2-24
+heading: '**THE COMPLETE δ-EFT LAGRangian**'
+block_type: paragraph
+excerpt: 'Define fields: * δ(x)\\delta(x)δ(x): fundamental deviation scalar * Aμ(a)(x)A\_\\mu^{(a)}(x)Aμ(a)​(x):
+  gauge fields on adjacency modes'
+concepts:
+- μ
+- Meta-Time
+- ν
+- δ
+- Mode
+- ψ
+- Φ
+- Mode-Stabilizer
+- δ-covariant
+- two-form
+- δ-metric
+- δ-Higgs
+aliases:
+- Bk766df
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.244897959183673
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

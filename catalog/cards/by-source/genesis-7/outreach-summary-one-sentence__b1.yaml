@@ -1,14 +1,35 @@
+id: GEN7-8640
+location: genesis-7/why-curvature-gives-gravity::outreach-summary-one-sentence::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 312-325
+heading: '**◼ OUTREACH SUMMARY (one sentence)**'
 block_type: paragraph
-concepts:
-- Box
-- Stability Box
-- Tri-Unity
-- δ
 excerpt: '**The universe has stable laws because the only thing that can change them—deviation—can
   itself change only in stable, coherent, and continuous ways.** --- If you want,
   I can now produce:'
-heading: '**◼ OUTREACH SUMMARY (one sentence)**'
-id: GEN7-8640
-lines: 312-325
-location: genesis-7/why-curvature-gives-gravity::outreach-summary-one-sentence::b1
-source: genesis-7\Why_-Curvature_Gives_Gravity.md
+concepts:
+- Tri-Unity
+- Tri-Unity compatible Stability Box
+- δ-EFT stability Lagrangian
+- Proof
+- Box
+- narrative cinematic version
+- δ
+- δ-EFT
+- Stability Box
+aliases:
+- Bk700tu
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

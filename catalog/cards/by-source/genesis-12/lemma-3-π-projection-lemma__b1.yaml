@@ -1,13 +1,36 @@
+id: GEN12-1731
+location: genesis-12/untitled-document::4-proof-structure::lemma-3-π-projection-lemma::b1
+source: genesis-12\Untitled_document.md
+lines: 165-177
+heading: '**Lemma 3 (Π-Projection Lemma)**'
+parent_heading: '**4\. Proof Structure**'
 block_type: paragraph
-concepts:
-- Proof Sketch
-- Π
-- Φ
 excerpt: '*Π preserves dynamical relations and induces observable morphisms.* **Proof
   Sketch:** From A3, Π is a linear projection on the Φ-objects.'
-heading: '**Lemma 3 (Π-Projection Lemma)**'
-id: GEN12-1731
-lines: 165-177
-location: genesis-12/untitled-document::4-proof-structure::lemma-3-π-projection-lemma::b1
-parent_heading: '**4\. Proof Structure**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Π
+- Φ
+- Proof
+- →
+- well-defined
+- Φ-objects
+- Proof Sketch
+aliases:
+- Bk003a
+tags:
+- proof
+- A3
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.20754716981132
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A3

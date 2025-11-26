@@ -1,13 +1,29 @@
+id: INTK-10312
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::core-concepts::5-peakset-probability-geometry-ppg::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 793-794
+heading: 5. Peakset Probability Geometry (PPG)
+parent_heading: Core Concepts
 block_type: paragraph
-concepts:
-- Meta-Algebraic
-- Meta-Fractal
 excerpt: The underlying Meta-Fractal space that provides the geometric context for
   all Meta-Algebraic operations. All operations are intrinsically linked to the PPG's
   local fractal dimension, curvature, and sc...
-heading: 5. Peakset Probability Geometry (PPG)
-id: INTK-10312
-lines: 793-794
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::core-concepts::5-peakset-probability-geometry-ppg::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Algebraic
+- Meta-Fractal
+- scale-layer
+aliases:
+- Bk187tu
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

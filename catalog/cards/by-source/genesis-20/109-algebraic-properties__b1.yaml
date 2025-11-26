@@ -1,10 +1,32 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: 'MBC algebra is: * non-associative in general * non-commutative (order matters)'
-heading: 10.9 Algebraic Properties
 id: GEN20-6899
-lines: 3294-3319
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::109-algebraic-properties::b1
-parent_heading: ✔️ Do you approve this companion structure?
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3294-3319
+heading: 10.9 Algebraic Properties
+parent_heading: ✔️ Do you approve this companion structure?
+block_type: paragraph
+excerpt: 'MBC algebra is: * non-associative in general * non-commutative (order matters)'
+concepts:
+- MBC
+- semantic-dependent
+- polarity-neutral
+- non-associative
+- non-commutative
+- Φ-stabilized
+- non-linear
+- Φ
+aliases:
+- Bk071ma
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.09433962264151
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

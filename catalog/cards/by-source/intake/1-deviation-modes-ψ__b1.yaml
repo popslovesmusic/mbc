@@ -1,13 +1,28 @@
+id: INTK-10308
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::core-concepts::1-deviation-modes-ψ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 781-782
+heading: 1. Deviation Modes (Ψ)
+parent_heading: Core Concepts
 block_type: paragraph
+excerpt: Fundamental "fields" or "states" in Meta-Math; generalized from scalar fields
+  to sections over functional fiber bundles. Form the elements of Meta-Vector Spaces.
 concepts:
 - Meta-Math
 - Meta-Vector
 - Vector Spaces
-excerpt: Fundamental "fields" or "states" in Meta-Math; generalized from scalar fields
-  to sections over functional fiber bundles. Form the elements of Meta-Vector Spaces.
-heading: 1. Deviation Modes (Ψ)
-id: INTK-10308
-lines: 781-782
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::core-concepts::1-deviation-modes-ψ::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+aliases:
+- Bk455ff
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,29 @@
+id: GEN8-8705
+location: genesis-8/corollary-einstein-compatibility-via::consequence::physical-interpretation::b1
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+lines: 88-97
+heading: '**Physical Interpretation**'
+parent_heading: '**Consequence**'
 block_type: paragraph
-concepts:
-- Field
-- Φ
-- δ
 excerpt: 'δ builds *geometry from deviation*. Φ builds *fields from geometry*. Einstein
   equations arise because:'
-heading: '**Physical Interpretation**'
-id: GEN8-8705
-lines: 88-97
-location: genesis-8/corollary-einstein-compatibility-via::consequence::physical-interpretation::b1
-parent_heading: '**Consequence**'
-source: genesis-8\Corollary__Einstein_Compatibility_via_.md
+concepts:
+- emerges as the unique Φ-compatible curvature form
+- Φ
+- Field
+- trace-stability
+- Φ-compatible
+- Φ-image
+- δ
+aliases:
+- Bk060bg
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

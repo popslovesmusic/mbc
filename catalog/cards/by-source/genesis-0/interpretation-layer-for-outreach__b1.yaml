@@ -1,20 +1,40 @@
+id: GEN0-179
+location: genesis-0/tri-unity-theorem-equivalence-of::interpretation-layer-for-outreach::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 348-360
+heading: '**Interpretation Layer (for outreach)**'
 block_type: list
-concepts:
-- Axiom
-- Box
-- Generative Consequences
-- Meta-Time
-- Theorem
-- Time Axiom Box
-- Tri-Unity
-- Unity Theorem Box
-- bends
-- δ
 excerpt: '* When δ first acts, it *creates places* → adjacency. * When δ acts in competing
   ways, it *bends* those places → curvature. * When δ acts repeatedly, it *creates
   sequence* → Meta-Time.'
-heading: '**Interpretation Layer (for outreach)**'
-id: GEN0-179
-lines: 348-360
-location: genesis-0/tri-unity-theorem-equivalence-of::interpretation-layer-for-outreach::b1
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- Meta-Time
+- Tri-Unity
+- Adjacency
+- Curvature
+- δ
+- Theorem
+- Axiom
+- Box
+- →
+- Tri-Unity Theorem Box
+- Generative Consequences
+- Unity Theorem Box
+- Time Axiom Box
+- three shadows
+aliases:
+- Bk559wf
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,36 @@
+id: GEN0-331
+location: genesis-0/why-the-first-action-is-necessary::3-commutators-δ-δ²-δ-δⁿ::general-form::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1438-1456
+heading: '**General Form:**'
+parent_heading: '**3\. Commutators: \[δ, δ²\], \[δ, δⁿ\]**'
 block_type: paragraph
-concepts:
-- Meta-Time
-- γ
-- δ
-- λ
 excerpt: '\[δm,δn\]=(n−m) γm,n δm+n−1\[\\delta^m, \\delta^n\] \= (n-m)\\, \\gamma\_{m,n}
   \\,\\delta^{m+n-1}\[δm,δn\]=(n−m)γm,n​δm+n−1 with: γm,n=∂∂klog⁡λk+min⁡(m,n).\\gamma\_{m,n}
   \= \\frac{\\partial}{\\partial...'
-heading: '**General Form:**'
-id: GEN0-331
-lines: 1438-1456
-location: genesis-0/why-the-first-action-is-necessary::3-commutators-δ-δ²-δ-δⁿ::general-form::b1
-parent_heading: '**3\. Commutators: \[δ, δ²\], \[δ, δⁿ\]**'
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- δ
+- Meta-Time
+- γ
+- ∂
+- δm
+- λ
+- δ-algebra
+- graded Lie algebra
+- n-m
+- δn
+aliases:
+- Bk897dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.989010989010989
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

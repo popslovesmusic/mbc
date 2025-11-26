@@ -1,12 +1,25 @@
+id: GEN11-1130
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::7-if-you-want-next::5-what-makes-this-a-prediction-vs-could-happen::d-weak-environmental-dependence::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 555-561
+heading: '**D) Weak environmental dependence**'
+parent_heading: '**5\. What makes this a *prediction* vs “could happen”**'
 block_type: paragraph
-concepts:
-- Λ
 excerpt: 'A primordial scar is not mainly produced by late-time surroundings, so it
   should be: * less sensitive to local tidal fields than a void of the same size in
   ΛCDM. ---'
-heading: '**D) Weak environmental dependence**'
-id: GEN11-1130
-lines: 555-561
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::7-if-you-want-next::5-what-makes-this-a-prediction-vs-could-happen::d-weak-environmental-dependence::b1
-parent_heading: '**5\. What makes this a *prediction* vs “could happen”**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- late-time
+- Λ
+aliases:
+- Bk727ps
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

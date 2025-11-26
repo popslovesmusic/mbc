@@ -1,11 +1,28 @@
+id: GEN2-6328
+location: genesis-2/axioms-of-geometry-topos-compatible::3-φ-logic-computation-proof-and-modality::axiom-mm-33-computation-as-φ-iteration::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 473-483
+heading: '**Axiom MM-3.3 — Computation as Φ-Iteration**'
+parent_heading: '**3\. Φ-Logic (Computation, Proof, and Modality)**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Computation is the iterative application of Φ: Φn(A)\\Phi^n(A)Φn(A) forms
   the internal computation chain.'
-heading: '**Axiom MM-3.3 — Computation as Φ-Iteration**'
-id: GEN2-6328
-lines: 473-483
-location: genesis-2/axioms-of-geometry-topos-compatible::3-φ-logic-computation-proof-and-modality::axiom-mm-33-computation-as-φ-iteration::b1
-parent_heading: '**3\. Φ-Logic (Computation, Proof, and Modality)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Φ
+- fixed-point
+- Φn
+aliases:
+- Bk240ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

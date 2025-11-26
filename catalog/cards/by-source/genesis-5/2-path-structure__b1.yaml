@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- path
-excerpt: 'A **path** in AAA is a finite sequence: x=x0∼Ax1∼A⋯∼Axn=y.x \= x\_0 \\sim\_A
-  x\_1 \\sim\_A \\cdots \\sim\_A x\_n \= y.x=x0​∼A​x1​∼A​⋯∼A​xn​=y. Let:'
-heading: '**2\. Path Structure**'
 id: GEN5-8167
-lines: 514-526
 location: genesis-5/the-ga-8-meta-einstein-theorem::2-path-structure::b1
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 514-526
+heading: '**2\. Path Structure**'
+block_type: paragraph
+excerpt: 'A **path** in AAA is a finite sequence: x=x0∼Ax1∼A⋯∼Axn=y.x \= x\_0 \\sim\_A
+  x\_1 \\sim\_A \\cdots \\sim\_A x\_n \= y.x=x0​∼A​x1​∼A​⋯∼A​xn​=y. Let:'
+concepts:
+- path
+- ∞
+aliases:
+- Bk847pa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.4096385542168677
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

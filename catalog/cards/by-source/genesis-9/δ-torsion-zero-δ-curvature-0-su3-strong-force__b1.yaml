@@ -1,10 +1,27 @@
-block_type: table
-concepts:
-- δ
-excerpt: '---'
-heading: '**δ-torsion zero, δ-curvature ≠ 0 → SU(3) strong force**'
 id: GEN9-9499
-lines: 996-1006
 location: genesis-9/strong-force::7-strong-force-summary::δ-torsion-zero-δ-curvature-0-su3-strong-force::b1
-parent_heading: '**7\. Strong Force Summary**'
 source: genesis-9\strong-force.md
+lines: 996-1006
+heading: '**δ-torsion zero, δ-curvature ≠ 0 → SU(3) strong force**'
+parent_heading: '**7\. Strong Force Summary**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- χ
+- δ
+- δ-curvature
+- eigen-spectrum
+- δ-connections
+aliases:
+- Bk293fo
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.953488372093023
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

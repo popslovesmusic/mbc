@@ -1,13 +1,29 @@
+id: GEN15-3276
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-explicit-functional-equivalence::2-the-canonical-dm-halo::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 307-321
+heading: '**2\. The canonical DM halo**'
+parent_heading: '**III. Explicit Functional Equivalence**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- ρ
 excerpt: 'The empirically successful profile is the NFW halo: ρNFW(r)∼1r(r+rs)2.\\rho\_{\\mathrm{NFW}}(r)
   \\sim \\frac{1}{r(r+r\_s)^2}.ρNFW​(r)∼r(r+rs​)21​. Φ\_DM produces:'
-heading: '**2\. The canonical DM halo**'
-id: GEN15-3276
-lines: 307-321
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-explicit-functional-equivalence::2-the-canonical-dm-halo::b1
-parent_heading: '**III. Explicit Functional Equivalence**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- Φ
+- ρ
+- Π
+- ΦDM
+aliases:
+- Bk019te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

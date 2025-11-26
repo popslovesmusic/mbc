@@ -1,10 +1,35 @@
-block_type: paragraph
-concepts:
-- Φ
-- δ
-excerpt: '`δ (Deviation)` `↑        ↓` `π ←────── Φ`'
-heading: '**IV. Diagrammatic Version (string diagram / topos diagram)**'
 id: GEN3-7494
-lines: 207-220
 location: genesis-3/the-tri-unity-theorem::iv-diagrammatic-version-string-diagram-topos-diagram::b1
 source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 207-220
+heading: '**IV. Diagrammatic Version (string diagram / topos diagram)**'
+block_type: paragraph
+excerpt: '`δ (Deviation)` `↑        ↓` `π ←────── Φ`'
+concepts:
+- Projection
+- Deviation
+- →
+- π
+- δ
+- Φ
+- ∃
+- state-update
+- topos-style
+- back-reacts
+- δG
+- ΦM
+aliases:
+- Bk294dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 22.22222222222222
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

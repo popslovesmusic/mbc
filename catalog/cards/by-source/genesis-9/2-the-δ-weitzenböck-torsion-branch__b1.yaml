@@ -1,11 +1,31 @@
-block_type: paragraph
-concepts:
-- Γ
-- δ
-excerpt: 'The δ-connection decomposes: ∇(δ)=Γ(δ)+K(δ)\\nabla^{(\\delta)} \= \\Gamma^{(\\delta)}
-  \+ K^{(\\delta)}∇(δ)=Γ(δ)+K(δ) with torsion:'
-heading: '**2\. The δ-Weitzenböck Torsion Branch**'
 id: GEN9-9563
-lines: 2185-2204
 location: genesis-9/strong-force::2-the-δ-weitzenböck-torsion-branch::b1
 source: genesis-9\strong-force.md
+lines: 2185-2204
+heading: '**2\. The δ-Weitzenböck Torsion Branch**'
+block_type: paragraph
+excerpt: 'The δ-connection decomposes: ∇(δ)=Γ(δ)+K(δ)\\nabla^{(\\delta)} \= \\Gamma^{(\\delta)}
+  \+ K^{(\\delta)}∇(δ)=Γ(δ)+K(δ) with torsion:'
+concepts:
+- δ
+- θ
+- Γ
+- ∇
+- δ-connection
+- δ-object
+- ≠
+aliases:
+- Bk197tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.07070707070707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

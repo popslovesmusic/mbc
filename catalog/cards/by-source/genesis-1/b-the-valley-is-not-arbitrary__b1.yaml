@@ -1,11 +1,26 @@
+id: GEN1-406
+location: genesis-1/the-first-geometry::3-what-makes-the-δ-higgs-manifold-unique::b-the-valley-is-not-arbitrary::b1
+source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 711-728
+heading: '**(B) The valley is not arbitrary.**'
+parent_heading: '**3\. What Makes the δ-Higgs Manifold Unique**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'Its depth and curvature are fixed by: * the δ-stability theorem * the requirement
   that adjacency become metric'
-heading: '**(B) The valley is not arbitrary.**'
-id: GEN1-406
-lines: 711-728
-location: genesis-1/the-first-geometry::3-what-makes-the-δ-higgs-manifold-unique::b-the-valley-is-not-arbitrary::b1
-parent_heading: '**3\. What Makes the δ-Higgs Manifold Unique**'
-source: genesis-1\THE_FIRST_GEOMETRY.md
+concepts:
+- Theorem
+- δ
+- δ-stability
+- δ-Higgs
+aliases:
+- Bk864id
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

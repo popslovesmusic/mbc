@@ -1,11 +1,31 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Math Objects
-excerpt: '**Axiom M1 — Math Objects** Objects of Math are **structured states**, each
-  admitting: 1. internal operators'
-heading: '**1\. Objects (Structured States)**'
 id: GEN2-6242
-lines: 248-272
 location: genesis-2/axioms-for-the-category-genesis::1-objects-structured-states::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 248-272
+heading: '**1\. Objects (Structured States)**'
+block_type: paragraph
+excerpt: '**Axiom M1 — Math Objects** Objects of Math are **structured states**, each
+  admitting: 1. internal operators'
+concepts:
+- Axiom
+- fully formed mathematical structures
+- adjacency-respecting
+- mode-stacks
+- structured states
+- Math Objects
+aliases:
+- Am063am
+tags:
+- -math-objects
+- axiom
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.955223880597014
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

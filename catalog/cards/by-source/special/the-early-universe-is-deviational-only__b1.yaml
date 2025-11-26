@@ -1,14 +1,32 @@
+id: SPEC-11006
+location: special/specil::2-the-first-moments-are-not-physical::the-early-universe-is-deviational-only::b1
+source: special\specil.md
+lines: 571-603
+heading: '**The early universe is “Deviational Only.”**'
+parent_heading: '**🌀 2\. The first moments are NOT physical**'
 block_type: paragraph
+excerpt: 'It contains: * δ-mode (asymmetry) * OA activity (realized kinetics)'
 concepts:
+- non-zero
+- δ-mode
+- δ
+- pure deviation realm
 - 'Gravity
 
 
   It'
-- δ
-excerpt: 'It contains: * δ-mode (asymmetry) * OA activity (realized kinetics)'
-heading: '**The early universe is “Deviational Only.”**'
-id: SPEC-11006
-lines: 571-603
-location: special/specil::2-the-first-moments-are-not-physical::the-early-universe-is-deviational-only::b1
-parent_heading: '**🌀 2\. The first moments are NOT physical**'
-source: special\specil.md
+- not yet
+aliases:
+- Bk219cm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

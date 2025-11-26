@@ -1,11 +1,31 @@
-block_type: table
-concepts:
-- Mathematical Interpretation
-- Σ
-- δ
-excerpt: '---'
-heading: '**0\. Ontological Primitives**'
 id: GEN16-3851
-lines: 1477-1486
 location: genesis-16/untitled-document::0-ontological-primitives::b1
 source: genesis-16\Untitled_document.md
+lines: 1477-1486
+heading: '**0\. Ontological Primitives**'
+block_type: table
+excerpt: '---'
+concepts:
+- Adjacency
+- IGSOA
+- Σ
+- →
+- ∈
+- Mathematical Interpretation
+- δ-semantic
+- δ
+aliases:
+- Bk580ii
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.75609756097561
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

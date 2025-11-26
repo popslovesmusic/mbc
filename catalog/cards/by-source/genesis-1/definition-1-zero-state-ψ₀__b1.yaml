@@ -1,11 +1,29 @@
+id: GEN1-481
+location: genesis-1/the-foundation-layer::i-preliminaries-definitions::definition-1-zero-state-ψ₀::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 976-990
+heading: '**Definition 1 (Zero-State Ψ₀).**'
+parent_heading: '**I. Preliminaries & Definitions**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'Ψ₀ is the unique state satisfying: 1. **No internal distinctions** 2. **No
   admissible operators**'
-heading: '**Definition 1 (Zero-State Ψ₀).**'
-id: GEN1-481
-lines: 976-990
-location: genesis-1/the-foundation-layer::i-preliminaries-definitions::definition-1-zero-state-ψ₀::b1
-parent_heading: '**I. Preliminaries & Definitions**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- ∀
+- No capacity for persistence
+- No internal distinctions
+- No admissible operators
+- No topology or metric
+- Ψ₀
+aliases:
+- Bk024tu
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.000000000000002
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,28 @@
+id: GEN0-356
+location: genesis-0/why-the-first-action-is-necessary::6-convergence-and-analytic-structure::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md
+lines: 1773-1779
+heading: '**6\. Convergence and Analytic Structure**'
 block_type: paragraph
-concepts:
-- α
-- β
-- γ
-- σ
 excerpt: 'Because: Zk∼k−γe−σk,mk2∼k2αe2βk,Z\_k \\sim k^{-\\gamma} e^{ \-\\sigma\\sqrt{k}
   }, \\qquad m\_k^2 \\sim k^{2\\alpha} e^{2\\beta\\sqrt{k}},Zk​∼k−γe−σk​,mk2​∼k2αe2βk​,
   the series converges absolutely for...'
-heading: '**6\. Convergence and Analytic Structure**'
-id: GEN0-356
-lines: 1773-1779
-location: genesis-0/why-the-first-action-is-necessary::6-convergence-and-analytic-structure::b1
-source: genesis-0\Why_the_First_Action_Is_Necessary.md
+concepts:
+- γ
+- α
+- β
+- σ
+aliases:
+- Bk239bs
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.51063829787234
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

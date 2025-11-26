@@ -1,12 +1,31 @@
+id: GEN6-8310
+location: genesis-6/spectral-triple-axiom-box-sealed-version::2-the-δ-spectral-triple-face-top-front-face::this-is-the-key-square-that-must-commute::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 715-735
+heading: '**This is the key square that must commute.**'
+parent_heading: '**2\. The δ-Spectral Triple Face (Top Front Face)**'
 block_type: paragraph
+excerpt: 'We encode the δ-triple: (Aδ,Hδ,Dδ)∈Tσ(\\mathbf{A}\_{\\delta},\\mathbf{H}\_{\\delta},\\mathbf{D}\_{\\delta})
+  \\in \\mathcal{T}\_{\\sigma}(Aδ​,Hδ​,Dδ​)∈Tσ​ into a geometric object via the functor:'
 concepts:
 - δ
 - σ
-excerpt: 'We encode the δ-triple: (Aδ,Hδ,Dδ)∈Tσ(\\mathbf{A}\_{\\delta},\\mathbf{H}\_{\\delta},\\mathbf{D}\_{\\delta})
-  \\in \\mathcal{T}\_{\\sigma}(Aδ​,Hδ​,Dδ​)∈Tσ​ into a geometric object via the functor:'
-heading: '**This is the key square that must commute.**'
-id: GEN6-8310
-lines: 715-735
-location: genesis-6/spectral-triple-axiom-box-sealed-version::2-the-δ-spectral-triple-face-top-front-face::this-is-the-key-square-that-must-commute::b1
-parent_heading: '**2\. The δ-Spectral Triple Face (Top Front Face)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+- ∈
+- δ-dimension
+- δ-curvature
+- δ-triple
+aliases:
+- Bk557et
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

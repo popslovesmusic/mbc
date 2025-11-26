@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: from the fractal eigenvalue law (2, 8, 18, 32).
-heading: '**(2) Automatically produces the correct electron counts (“magic numbers”)**'
 id: GEN6-8224
-lines: 217-219
 location: genesis-6/harmonics-atomic-orbitals::7-what-this-achieves-for-your-framework::2-automatically-produces-the-correct-electron-counts-magic-numbers::b1
-parent_heading: '**7\. What This Achieves for Your Framework**'
 source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 217-219
+heading: '**(2) Automatically produces the correct electron counts (“magic numbers”)**'
+parent_heading: '**7\. What This Achieves for Your Framework**'
+block_type: paragraph
+excerpt: from the fractal eigenvalue law (2, 8, 18, 32).
+aliases:
+- Bk145ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

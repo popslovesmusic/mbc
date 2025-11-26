@@ -1,9 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Which direction do you want to extend next?
-heading: '**✔ A spectral-triple version linking δ-adjacency → band structure**'
 id: GEN14-2963
-lines: 677-679
 location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::if-you-want-next::a-spectral-triple-version-linking-δ-adjacency-band-structure::b1
-parent_heading: '**If you want next:**'
 source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 677-679
+heading: '**✔ A spectral-triple version linking δ-adjacency → band structure**'
+parent_heading: '**If you want next:**'
+block_type: paragraph
+excerpt: Which direction do you want to extend next?
+aliases:
+- Bk944wd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

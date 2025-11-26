@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: δ-projection is inherently anisotropic at the Genesis-0 level. ---
-heading: '**4\. Large-scale dipole modulation**'
 id: GEN11-1008
-lines: 319-323
 location: genesis-11/how-curvature-could-generate-an-axis::5-summary-of-explicit-cmb-predictions::4-large-scale-dipole-modulation::b1
-parent_heading: '**5\. Summary of explicit CMB predictions**'
 source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 319-323
+heading: '**4\. Large-scale dipole modulation**'
+parent_heading: '**5\. Summary of explicit CMB predictions**'
+block_type: paragraph
+excerpt: δ-projection is inherently anisotropic at the Genesis-0 level. ---
+concepts:
+- δ-projection
+- δ
+aliases:
+- Bk752pi
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,28 @@
+id: GEN15-3325
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::next-directions-you-can-choose::the-csoieinstein-tensor-explicit-component-decomposition::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 1095-1097
+heading: '**• The CSOI–Einstein Tensor Explicit Component Decomposition**'
+parent_heading: '**Next directions you can choose:**'
 block_type: paragraph
-concepts:
-- Θ
-- μ
-- ν
 excerpt: (give all 10 independent components of Θμν\\Theta\_{\\mu\\nu}Θμν​ for spherical
   symmetry)
-heading: '**• The CSOI–Einstein Tensor Explicit Component Decomposition**'
-id: GEN15-3325
-lines: 1095-1097
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::next-directions-you-can-choose::the-csoieinstein-tensor-explicit-component-decomposition::b1
-parent_heading: '**Next directions you can choose:**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- ν
+- Θ
+- μ
+aliases:
+- Bk874ga
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

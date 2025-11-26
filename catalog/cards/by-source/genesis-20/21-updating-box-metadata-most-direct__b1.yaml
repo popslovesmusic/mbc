@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Each box can hold statistical state: * running averages * error measures'
-heading: 2.1 Updating Box Metadata (most direct)
 id: GEN20-6726
-lines: 935-954
 location: genesis-20/mbc-40-documentaitio-1::2-how-mbc-incorporates-real-time-statistical-updates::21-updating-box-metadata-most-direct::b1
-parent_heading: ✅ 2\. How MBC incorporates real-time statistical updates
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 935-954
+heading: 2.1 Updating Box Metadata (most direct)
+parent_heading: ✅ 2\. How MBC incorporates real-time statistical updates
+block_type: paragraph
+excerpt: 'Each box can hold statistical state: * running averages * error measures'
+concepts:
+- MBC
+- reinforcement-style
+- gradient-like
+aliases:
+- Bk952eb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 4.3478260869565215
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

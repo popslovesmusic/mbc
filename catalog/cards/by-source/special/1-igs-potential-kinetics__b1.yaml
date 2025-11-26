@@ -1,11 +1,27 @@
+id: SPEC-10994
+location: special/specil::the-three-kinetic-phases-of-igsoa::1-igs-potential-kinetics::b1
+source: special\specil.md
+lines: 390-417
+heading: '**1\. IGS — Potential Kinetics**'
+parent_heading: '**✅ The Three Kinetic Phases of IGSOA**'
 block_type: paragraph
-concepts:
-- Kinetic Potential
 excerpt: '“IGS” is the **potential state** of the IGSOA engine: * All possible motions
   * All possible deviations'
-heading: '**1\. IGS — Potential Kinetics**'
-id: SPEC-10994
-lines: 390-417
-location: special/specil::the-three-kinetic-phases-of-igsoa::1-igs-potential-kinetics::b1
-parent_heading: '**✅ The Three Kinetic Phases of IGSOA**'
-source: special\specil.md
+concepts:
+- IGSOA
+- Kinetic Potential
+- pure modal potential
+- potential state
+- kinetic intent
+aliases:
+- Bk916it
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.08
+is_technical: false
+concept_density: 7.042253521126761
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

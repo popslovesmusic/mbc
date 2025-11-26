@@ -1,18 +1,38 @@
+id: GEN20-6568
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::definition-box-algebra-its-role-in-box-calculus-dual-column::right-column-standard-mathematics-logic-language::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 8-22
+heading: '📗 Right Column: Standard Mathematics / Logic Language'
+parent_heading: Definition — Box Algebra & Its Role in Box Calculus (Dual-Column)
 block_type: table
+excerpt: '--- ---'
 concepts:
 - Box
 - Box Algebra
+- Π-evaluation
+- Φ-projection
+- δ-geometry
+- IGSOA
 - Box Calculus
-- Conventional Interpretation
-- Θ
 - Π
-- Σ
 - Φ
+- MBC
 - δ
-excerpt: '--- ---'
-heading: '📗 Right Column: Standard Mathematics / Logic Language'
-id: GEN20-6568
-lines: 8-22
-location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::definition-box-algebra-its-role-in-box-calculus-dual-column::right-column-standard-mathematics-logic-language::b1
-parent_heading: Definition — Box Algebra & Its Role in Box Calculus (Dual-Column)
-source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+- semantic-geometric
+- geometric-semantic
+- structure-building
+- polarity-operators
+aliases:
+- Bk888im
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.668711656441718
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

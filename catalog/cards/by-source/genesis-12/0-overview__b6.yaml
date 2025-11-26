@@ -1,13 +1,33 @@
+id: GEN12-1982
+location: genesis-12/untitled-document::0-overview::b6
+source: genesis-12\Untitled_document.md
+lines: 4178-4188
+heading: '**0\. Overview**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'In IGSOA, galaxy formation and evolution arise from the **functorial composition**:
   G  =  Π∘Φ2∘Φ1∘δ,\\mathcal{G} \\;=\\; \\Pi \\circ \\Phi\_2 \\circ \\Phi\_1 \\circ
   \\delta,G=Π∘Φ2​∘Φ1​∘δ, mapping the ...'
-heading: '**0\. Overview**'
-id: GEN12-1982
-lines: 4178-4188
-location: genesis-12/untitled-document::0-overview::b6
-source: genesis-12\Untitled_document.md
+concepts:
+- IGSOA
+- Φ
+- Π
+- δ
+- category-theoretic
+- Genesis-level
+- Π-category
+- functorial composition
+aliases:
+- Bk143ig
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.545454545454545
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

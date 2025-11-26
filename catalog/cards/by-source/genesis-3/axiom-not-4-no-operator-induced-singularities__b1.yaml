@@ -1,14 +1,31 @@
+id: GEN3-7303
+location: genesis-3/metagenesis::the-not-axiom::axiom-not-4-no-operator-induced-singularities::b1
+source: genesis-3\metagenesis.md
+lines: 480-496
+heading: '**Axiom NOT-4 (No Operator-Induced Singularities)**'
+parent_heading: '**THE NOT AXIOM**'
 block_type: paragraph
-concepts:
-- The Zero
-- Zero-State
-- Ψ
 excerpt: Operators may not create a domain/codomain that contains the Zero-State as
   a limit, boundary, or accumulation point. lim⁡n→∞On(G)≠Ψ0.\\lim\_{n\\rightarrow\\infty}\\mathcal{O}^n(G)
   \\neq \\Psi\_0.n→∞li...
-heading: '**Axiom NOT-4 (No Operator-Induced Singularities)**'
-id: GEN3-7303
-lines: 480-496
-location: genesis-3/metagenesis::the-not-axiom::axiom-not-4-no-operator-induced-singularities::b1
-parent_heading: '**THE NOT AXIOM**'
-source: genesis-3\metagenesis.md
+concepts:
+- State
+- Zero-State
+- Ψ
+- →
+- ∞
+- operator-based
+- ≠
+- The Zero
+aliases:
+- Bk107om
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.940298507462686
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,15 +1,30 @@
+id: INTK-10310
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::core-concepts::3-meta-vectors-v::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 787-788
+heading: 3. Meta-Vectors (V)
+parent_heading: Core Concepts
 block_type: paragraph
-concepts:
-- Fractal Matrix
-- Meta-Fractal
-- Meta-Vector
-- Vector Spaces
 excerpt: Generalized vectors whose components represent the amplitude and phase of
   deviation modes along specific deviation dimensions (e.g., the 9 fundamental deviation
   dimensions in the 9x9 Meta-Fractal Matr...
-heading: 3. Meta-Vectors (V)
-id: INTK-10310
-lines: 787-788
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::core-concepts::3-meta-vectors-v::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Fractal
+- Meta-Vector
+- Fractal Matrix
+- Vector Spaces
+aliases:
+- Bk658gv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.428571428571429
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

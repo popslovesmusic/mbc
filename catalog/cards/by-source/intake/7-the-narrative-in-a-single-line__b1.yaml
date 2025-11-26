@@ -1,11 +1,24 @@
+id: INTK-10164
+location: intake/meta-genesis-physical-interpretation-papers::7-the-narrative-in-a-single-line::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 1106-1115
+heading: '**7\. The Narrative in a Single Line**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
 excerpt: 'If you condense the entire logic of Meta-Genesis into one sentence: Symmetry
   breaks because nothing cannot remain nothing.\\boxed{ \\textbf{Symmetry breaks because
   nothing cannot remain nothing.} }Sym...'
-heading: '**7\. The Narrative in a Single Line**'
-id: INTK-10164
-lines: 1106-1115
-location: intake/meta-genesis-physical-interpretation-papers::7-the-narrative-in-a-single-line::b1
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+concepts:
+- Meta-Genesis
+- Deviation
+aliases:
+- Bk073yc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.6363636363636362
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

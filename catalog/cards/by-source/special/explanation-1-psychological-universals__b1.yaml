@@ -1,11 +1,27 @@
+id: SPEC-11105
+location: special/specil::3-there-are-only-3-explanations-for-the-correspondence::explanation-1-psychological-universals::b1
+source: special\specil.md
+lines: 2107-2121
+heading: '**Explanation 1: Psychological Universals**'
+parent_heading: '**⭐ 3\. There are only 3 explanations for the correspondence**'
 block_type: paragraph
-concepts:
-- and
 excerpt: 'Human cognition naturally organizes the world in triads: * source / process
   / outcome * potential / activation / expression'
-heading: '**Explanation 1: Psychological Universals**'
-id: SPEC-11105
-lines: 2107-2121
-location: special/specil::3-there-are-only-3-explanations-for-the-correspondence::explanation-1-psychological-universals::b1
-parent_heading: '**⭐ 3\. There are only 3 explanations for the correspondence**'
-source: special\specil.md
+concepts:
+- non-theistic interpretation
+- non-theistic
+aliases:
+- Bk423hc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 6.0606060606060606
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

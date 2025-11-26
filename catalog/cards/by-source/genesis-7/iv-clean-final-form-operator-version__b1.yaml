@@ -1,13 +1,36 @@
-block_type: paragraph
-concepts:
-- Ω
-- γ
-- δ
-- ω
-excerpt: 'Define the δ-spin connection: Ωi(δ):=ωi+Δωi(δ).\\Omega\_i(\\delta) := \\omega\_i
-  \+ \\Delta\\omega\_i(\\delta).Ωi​(δ):=ωi​+Δωi​(δ). Define the δ-field strength operator:'
-heading: '**IV. Clean Final Form (Operator Version)**'
 id: GEN7-8678
-lines: 804-824
 location: genesis-7/why-curvature-gives-gravity::iv-clean-final-form-operator-version::b1
 source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 804-824
+heading: '**IV. Clean Final Form (Operator Version)**'
+block_type: paragraph
+excerpt: 'Define the δ-spin connection: Ωi(δ):=ωi+Δωi(δ).\\Omega\_i(\\delta) := \\omega\_i
+  \+ \\Delta\\omega\_i(\\delta).Ωi​(δ):=ωi​+Δωi​(δ). Define the δ-field strength operator:'
+concepts:
+- δ
+- Ω
+- Ωi
+- π
+- γ
+- ω
+- ∂
+- Clifford-algebraic
+- Ωj
+- Δ
+- δ-field
+- δ-spin
+aliases:
+- Bk954dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

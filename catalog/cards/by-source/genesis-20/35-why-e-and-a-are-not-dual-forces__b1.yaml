@@ -1,10 +1,26 @@
+id: GEN20-6760
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::35-why-e-and-a-are-not-dual-forces::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1305-1317
+heading: 3.5 Why E and A Are Not Dual Forces
+parent_heading: ✔️ Do you approve this companion structure?
 block_type: paragraph
-concepts: []
 excerpt: 'In classical systems, forces that oppose each other create dualism: * attraction
   vs repulsion * smoothing vs sharpening'
-heading: 3.5 Why E and A Are Not Dual Forces
-id: GEN20-6760
-lines: 1305-1317
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::35-why-e-and-a-are-not-dual-forces::b1
-parent_heading: ✔️ Do you approve this companion structure?
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- IGSOA
+- MBC
+aliases:
+- Bk055cs
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 3.3333333333333335
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

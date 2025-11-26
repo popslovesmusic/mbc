@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Many systems use two-stage processes: * input → output * cause → effect'
-heading: 6.1 Why a Three-Stage Pipeline?
 id: GEN20-6808
-lines: 1987-2007
 location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::61-why-a-three-stage-pipeline::b1
-parent_heading: ✔️ Do you approve this companion structure?
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 1987-2007
+heading: 6.1 Why a Three-Stage Pipeline?
+parent_heading: ✔️ Do you approve this companion structure?
+block_type: paragraph
+excerpt: 'Many systems use two-stage processes: * input → output * cause → effect'
+concepts:
+- →
+- MBC
+- three-stage
+- two-stage
+aliases:
+- Bk257ms
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.128205128205128
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

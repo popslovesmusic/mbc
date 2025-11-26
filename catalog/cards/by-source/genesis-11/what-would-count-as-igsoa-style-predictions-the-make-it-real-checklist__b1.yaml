@@ -1,13 +1,37 @@
+id: GEN11-991
+location: genesis-11/how-curvature-could-generate-an-axis::what-would-count-as-igsoa-style-predictions-the-make-it-real-checklist::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 57-73
+heading: '**What would count as IGSOA-style predictions (the “make it real” checklist)**'
 block_type: paragraph
-concepts:
-- Non-Gaussian
-- the
-- δ
 excerpt: 'If you want δ-curvature to be more than a narrative fit, it should predict
   *new, checkable things*. Here are strong ones: 1. **Polarization axis coherence**
   If the axis is primordial, a related alignm...'
-heading: '**What would count as IGSOA-style predictions (the “make it real” checklist)**'
-id: GEN11-991
-lines: 57-73
-location: genesis-11/how-curvature-could-generate-an-axis::what-would-count-as-igsoa-style-predictions-the-make-it-real-checklist::b1
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+concepts:
+- Correlation with other large-angle anomalies
+- IGSOA
+- δ
+- δ-curvature
+- model-dependent
+- structure-wise
+- Polarization axis coherence
+- Non-Gaussian
+- large-angle
+- δ-family
+- E-mode
+- Scale dependence
+aliases:
+- Bk574yw
+tags:
+- qualified
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.911330049261084
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

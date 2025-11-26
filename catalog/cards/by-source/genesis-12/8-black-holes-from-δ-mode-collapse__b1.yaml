@@ -1,12 +1,28 @@
+id: GEN12-1845
+location: genesis-12/untitled-document::8-black-holes-from-δ-mode-collapse::b1
+source: genesis-12\Untitled_document.md
+lines: 1895-1912
+heading: '**8\. Black Holes from δ-Mode Collapse**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Black holes arise when δ-curvature crescendos beyond Φ’s stabilizing capacity.
   Where δ forms extremely tight nodes—especially 9-mode intersections—matter collapses
   into curvature singularities. These ...
-heading: '**8\. Black Holes from δ-Mode Collapse**'
-id: GEN12-1845
-lines: 1895-1912
-location: genesis-12/untitled-document::8-black-holes-from-δ-mode-collapse::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ-knot crystallization points
+- δ
+- Φ
+- δ-curvature
+- δ-knot
+- Φ-mode
+aliases:
+- Bk608bh
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

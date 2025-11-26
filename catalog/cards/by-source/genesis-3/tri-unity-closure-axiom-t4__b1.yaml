@@ -1,14 +1,32 @@
+id: GEN3-7518
+location: genesis-3/the-tri-unity-theorem::tri-unity-closure-axiom-t4::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 553-574
+heading: '**Tri-Unity Closure Axiom (T4)**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- unique
-- Φ
-- δ
 excerpt: 'The operators δ, Φ, and π form a **minimal closed generating triple**: δ⇒Φ,Φ⇒π,π⇒δ\\boxed{
   \\delta \\Rightarrow \\Phi,\\qquad \\Phi \\Rightarrow \\pi,\\qquad \\pi \\Rightarrow
   \\delta }δ⇒Φ,Φ⇒π,π⇒δ​ me...'
-heading: '**Tri-Unity Closure Axiom (T4)**'
-id: GEN3-7518
-lines: 553-574
-location: genesis-3/the-tri-unity-theorem::tri-unity-closure-axiom-t4::b1
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- π
+- δ
+- Φ
+- Tri-Unity
+- Deviation
+- minimal closed generating triple
+- no smaller
+- unique
+aliases:
+- Bk361to
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.722689075630252
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

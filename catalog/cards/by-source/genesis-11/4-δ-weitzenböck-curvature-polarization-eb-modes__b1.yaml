@@ -1,11 +1,37 @@
-block_type: table
-concepts:
-- Φ
-- δ
-excerpt: 'In IGSOA you have the Weitzenböck-like decomposition: * δ-torsion-like part
-  * δ-curvature-like part'
-heading: '**4\. δ-Weitzenböck Curvature → Polarization (E/B Modes)**'
 id: GEN11-1099
-lines: 95-115
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::4-δ-weitzenböck-curvature-polarization-eb-modes::b1
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 95-115
+heading: '**4\. δ-Weitzenböck Curvature → Polarization (E/B Modes)**'
+block_type: table
+excerpt: 'In IGSOA you have the Weitzenböck-like decomposition: * δ-torsion-like part
+  * δ-curvature-like part'
+concepts:
+- δ
+- IGSOA
+- single-origin explanation
+- δ-curvature
+- δ-torsion
+- δ-shear
+- δ-curvature-like
+- δ-torsion-like
+- single-origin
+- Φ-trace
+- B-mode
+- E-mode
+- Φ
+aliases:
+- Bk111iy
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.634920634920633
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

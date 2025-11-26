@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: 'You presented three models: Set, Vector/Tensor, Symbolic. Let me evaluate
-  them in relation to IGSOA’s ontology so you can choose deliberately. ---'
-heading: '**✅ Choosing the Algebra of Σ (The “Physics” of Box Calculus)**'
 id: GEN16-3783
-lines: 647-652
 location: genesis-16/untitled-document::choosing-the-algebra-of-σ-the-physics-of-box-calculus::b1
 source: genesis-16\Untitled_document.md
+lines: 647-652
+heading: '**✅ Choosing the Algebra of Σ (The “Physics” of Box Calculus)**'
+block_type: paragraph
+excerpt: 'You presented three models: Set, Vector/Tensor, Symbolic. Let me evaluate
+  them in relation to IGSOA’s ontology so you can choose deliberately. ---'
+concepts:
+- IGSOA
+aliases:
+- Bk626yp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.3478260869565215
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

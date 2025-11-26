@@ -1,19 +1,39 @@
-block_type: paragraph
-concepts:
-- Connes-Chamseddine
-- Meta-Einstein
-- Λ
-- Φ
-- α
-- δ
-- μ
-- ν
-- ρ
-- σ
-excerpt: 'Connes-Chamseddine spectral action: S(Dδ)=Tr⁡ f(Dδ/Λ),S(D\_\\delta) \= \\operatorname{Tr}\\,
-  f(D\_\\delta/\\Lambda),S(Dδ​)=Trf(Dδ​/Λ), expands as:'
-heading: '**6\. Curvature and Meta-Einstein from the Spectral Action**'
 id: GEN5-8188
-lines: 811-831
 location: genesis-5/the-ga-8-meta-einstein-theorem::6-curvature-and-meta-einstein-from-the-spectral-action::b1
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 811-831
+heading: '**6\. Curvature and Meta-Einstein from the Spectral Action**'
+block_type: paragraph
+excerpt: 'Connes-Chamseddine spectral action: S(Dδ)=Tr⁡ f(Dδ/Λ),S(D\_\\delta) \= \\operatorname{Tr}\\,
+  f(D\_\\delta/\\Lambda),S(Dδ​)=Trf(Dδ​/Λ), expands as:'
+concepts:
+- δ
+- Meta-Einstein
+- Curvature
+- Λ
+- α
+- Φ
+- μ
+- σ
+- ν
+- ρ
+- Φ-sector
+- Meta-Einstein equation
+- Connes-Chamseddine
+- ∫
+- δS
+aliases:
+- Bk312cc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.937888198757763
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

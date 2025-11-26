@@ -1,14 +1,32 @@
+id: GEN1-489
+location: genesis-1/the-foundation-layer::ii-lemmas-leading-to-the-theorem::lemma-4-ψ₀-cannot-exist::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1089-1098
+heading: '**Lemma 4 (Ψ₀ Cannot Exist).**'
+parent_heading: '**II. Lemmas Leading to the Theorem**'
 block_type: paragraph
-concepts:
-- Box
-- By Lemma
-- Lemma
-- Ψ
 excerpt: '**Proof:** By Lemma 2, Ψ₀ cannot persist. By Lemma 3, non-persistence ⇒
   non-existence.'
-heading: '**Lemma 4 (Ψ₀ Cannot Exist).**'
-id: GEN1-489
-lines: 1089-1098
-location: genesis-1/the-foundation-layer::ii-lemmas-leading-to-the-theorem::lemma-4-ψ₀-cannot-exist::b1
-parent_heading: '**II. Lemmas Leading to the Theorem**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Lemma
+- Proof
+- Ψ
+- Box
+- non-persistence
+- non-existence
+- By Lemma
+- Ψ₀
+aliases:
+- Bk822pl
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 29.629629629629626
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

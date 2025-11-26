@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- Σ
-- λ
-excerpt: 'Because F F is self-adjoint:'
-heading: 🔷 5\. Spectral Form
 id: GEN17-4842
-lines: 10214-10245
 location: genesis-17/box-calculus::5-spectral-form::b1
 source: genesis-17\box_calculus.md
+lines: 10214-10245
+heading: 🔷 5\. Spectral Form
+block_type: paragraph
+excerpt: 'Because F F is self-adjoint:'
+concepts:
+- ∑
+- λ
+- Σ
+- self-adjoint
+- Σdt
+aliases:
+- Bk341bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.230769230769234
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

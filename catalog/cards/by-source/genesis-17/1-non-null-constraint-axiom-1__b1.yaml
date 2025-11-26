@@ -1,10 +1,27 @@
+id: GEN17-4817
+location: genesis-17/box-calculus::3-small-step-semantics-reduction-relation::side-conditions-mandatory-igsoa-constraints::1-non-null-constraint-axiom-1::b1
+source: genesis-17\box_calculus.md
+lines: 9761-9771
+heading: 1\. Non-null constraint (Axiom 1\)
+parent_heading: ⭐ Side Conditions (Mandatory IGSOA Constraints)
 block_type: paragraph
+excerpt: Σt+1(Bi)≠0 Σ t+1
 concepts:
 - Σ
-excerpt: Σt+1(Bi)≠0 Σ t+1
-heading: 1\. Non-null constraint (Axiom 1\)
-id: GEN17-4817
-lines: 9761-9771
-location: genesis-17/box-calculus::3-small-step-semantics-reduction-relation::side-conditions-mandatory-igsoa-constraints::1-non-null-constraint-axiom-1::b1
-parent_heading: ⭐ Side Conditions (Mandatory IGSOA Constraints)
-source: genesis-17\box_calculus.md
+- ≠
+- Σt
+aliases:
+- Bk883d6
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 30.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

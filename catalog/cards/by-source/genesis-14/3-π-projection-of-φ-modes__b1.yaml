@@ -1,18 +1,41 @@
+id: GEN14-2715
+location: genesis-14/inflation-structure-formation::proof::3-π-projection-of-φ-modes::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1019-1049
+heading: '**3\. Π-Projection of Φ Modes**'
+parent_heading: '**Proof**'
 block_type: paragraph
+excerpt: 'Π is the functor that turns adjacency curvature into geometric curvature:
+  Π:Adj→Geom.\\Pi : \\text{Adj} \\rightarrow \\text{Geom}.Π:Adj→Geom. By definition,
+  Π preserves variance of Φ-mode amplitudes:'
 concepts:
+- Π
+- κ
+- IGSOA
+- Φ
+- Definition
+- curvature-variance
+- δ
+- Φ-mode
+- →
+- δ-amplitude
+- Φ-fixation
+- δ-harmonic
 - 'Thus
 
 
   Var'
-- Π
-- Φ
-- δ
-excerpt: 'Π is the functor that turns adjacency curvature into geometric curvature:
-  Π:Adj→Geom.\\Pi : \\text{Adj} \\rightarrow \\text{Geom}.Π:Adj→Geom. By definition,
-  Π preserves variance of Φ-mode amplitudes:'
-heading: '**3\. Π-Projection of Φ Modes**'
-id: GEN14-2715
-lines: 1019-1049
-location: genesis-14/inflation-structure-formation::proof::3-π-projection-of-φ-modes::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+aliases:
+- Bk233tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.923664122137405
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

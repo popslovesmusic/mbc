@@ -1,14 +1,32 @@
+id: GEN6-8247
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::1-the-core-idea-in-one-line::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md
+lines: 496-508
+heading: '**1\) The core idea in one line**'
+parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Π
-- δ
 excerpt: '**Flavor eigenstates are δ-harmonic eigenmodes in Meta-Math;** **mass eigenstates
   are δ-harmonic modes after Π-projection.** **Mixing \= the overlap matrix between
   these two bases.**'
-heading: '**1\) The core idea in one line**'
-id: GEN6-8247
-lines: 496-508
-location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::1-the-core-idea-in-one-line::b1
-parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
-source: genesis-6\-Harmonics__Atomic_Orbitals.md
+concepts:
+- δ
+- Meta-Math
+- δ-modes
+- δ-harmonic
+- Π-projection
+- Π
+aliases:
+- Bk038fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

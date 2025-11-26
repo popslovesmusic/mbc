@@ -1,21 +1,40 @@
+id: GEN14-3040
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-hermetic-sealed-axiom-box::axiom-box-meta-fractal-magnetic-genesis-axiom::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 1761-1780
+heading: '**Axiom Box: Meta-Fractal Magnetic Genesis Axiom**'
+parent_heading: '**II. Hermetic Sealed Axiom Box**'
 block_type: list
-concepts:
-- Fractal Asymmetry
-- Fractal Deviation
-- Magnetic Identity
-- Meta-Fractal
-- Mode
-- Mode Compression
-- Multiplicity Stabilization
-- Π
-- Φ
-- δ
-- σ
 excerpt: 1. **Fractal Deviation (δ):** δ generates fractal adjacency curvature with
   inherent spin-like degrees of freedom. 2. **Meta-Fractal Asymmetry:**
-heading: '**Axiom Box: Meta-Fractal Magnetic Genesis Axiom**'
-id: GEN14-3040
-lines: 1761-1780
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-hermetic-sealed-axiom-box::axiom-box-meta-fractal-magnetic-genesis-axiom::b1
-parent_heading: '**II. Hermetic Sealed Axiom Box**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- δ
+- Φ
+- →
+- Deviation
+- Π
+- δ-curvature
+- Mode
+- highest-degeneracy
+- σ
+- spin-alignment
+- Π-Multiplicity
+- Meta-Fractal
+- meta-fractal
+- Self-similar
+- Multiplicity Stabilization
+aliases:
+- Bk425fd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 27.173913043478258
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

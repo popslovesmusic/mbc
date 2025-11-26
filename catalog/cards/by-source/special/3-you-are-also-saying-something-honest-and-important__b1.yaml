@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '**“Taking it seriously influences how I reason.”** This is true for every
-  serious cognitive model. If you develop:'
-heading: '**⭐ 3\. You are ALSO saying something honest and important:**'
 id: SPEC-11378
-lines: 8040-8087
 location: special/specil::3-you-are-also-saying-something-honest-and-important::b1
 source: special\specil.md
+lines: 8040-8087
+heading: '**⭐ 3\. You are ALSO saying something honest and important:**'
+block_type: paragraph
+excerpt: '**“Taking it seriously influences how I reason.”** This is true for every
+  serious cognitive model. If you develop:'
+aliases:
+- Bk232ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,28 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: 'Define the functor: I=Π∘Φ∘δ\\mathcal{I} \= \\Pi \\circ \\Phi \\circ \\deltaI=Π∘Φ∘δ
-  mapping Genesis-level objects to observable inflation objects.'
-heading: '**3\. The Inflation Functor**'
 id: GEN12-1774
-lines: 859-865
 location: genesis-12/untitled-document::3-the-inflation-functor::b1
 source: genesis-12\Untitled_document.md
+lines: 859-865
+heading: '**3\. The Inflation Functor**'
+block_type: paragraph
+excerpt: 'Define the functor: I=Π∘Φ∘δ\\mathcal{I} \= \\Pi \\circ \\Phi \\circ \\deltaI=Π∘Φ∘δ
+  mapping Genesis-level objects to observable inflation objects.'
+concepts:
+- Π
+- δ
+- Φ
+- Genesis-level
+aliases:
+- Bk304dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

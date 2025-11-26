@@ -1,15 +1,31 @@
+id: INTK-10364
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::connection-to-operators-and-meta-geometry::meta-metric-g-ab::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1041-1042
+heading: Meta-Metric (G_AB)
+parent_heading: Connection to Operators and Meta-Geometry
 block_type: paragraph
-concepts:
-- Meta-Metric
-- Meta-Vectors
-- The Meta
-- Ψ
 excerpt: The Meta-Metric allows for the definition of an inner product `⟨V, W⟩_M`
   in `S_Ψ`, which then induces a notion of "distance" and "angle" between Meta-Vectors.
   This inner product is crucial for definin...
-heading: Meta-Metric (G_AB)
-id: INTK-10364
-lines: 1041-1042
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::connection-to-operators-and-meta-geometry::meta-metric-g-ab::b1
-parent_heading: Connection to Operators and Meta-Geometry
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Definition
+- Meta-Vectors
+- Meta-Metric
+- Ψ
+- The Meta
+aliases:
+- Bk441tm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

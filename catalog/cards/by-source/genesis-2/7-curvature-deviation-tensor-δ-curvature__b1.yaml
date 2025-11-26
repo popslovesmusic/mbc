@@ -1,16 +1,43 @@
+id: GEN2-6234
+location: genesis-2/axioms-for-the-category-genesis::7-curvature-deviation-tensor-δ-curvature::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 139-152
+heading: '**7\. Curvature / Deviation Tensor (δ-Curvature)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Deviational Curvature Operator
-- Meta-Einstein
-- Operator
-- Ψ
-- δ
 excerpt: 'We include δ as a curvature-like generator. **Axiom G9 — Deviational Curvature
   Operator** Each morphism f:Ψi→Ψjf : \\Psi\_i \\to \\Psi\_jf:Ψi​→Ψj​ has an associated
   δ-curvature:'
-heading: '**7\. Curvature / Deviation Tensor (δ-Curvature)**'
-id: GEN2-6234
-lines: 139-152
-location: genesis-2/axioms-for-the-category-genesis::7-curvature-deviation-tensor-δ-curvature::b1
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Meta-Einstein
+- Curvature
+- Deviation
+- δ
+- Ψ
+- Axiom
+- Operator
+- ∈
+- →
+- Deviational Curvature Operator
+- curvature-like
+- δ-curvature
+- Ψi
+- Ψj
+- Ψjf
+aliases:
+- Am268ic
+tags:
+- axiom
+- -deviational-curvature-operator
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.862068965517242
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,29 @@
+id: GEN5-8020
+location: genesis-5/formal-proof-of-the-adjoint-triple::one-sentence-seal-for-papers::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1248-1254
+heading: '**One-sentence seal for papers**'
 block_type: paragraph
-concepts:
-- No-Section
-- Section Theorem
-- Theorem
-- η
-- σ
 excerpt: The adjoint unit η:X→ULX is not naturally reversible; there is no functorial
   “undoing” of deviation.\\boxed{\\text{The adjoint unit } \\eta:X\\to ULX \\text{
   is not naturally reversible; there is no f...
-heading: '**One-sentence seal for papers**'
-id: GEN5-8020
-lines: 1248-1254
-location: genesis-5/formal-proof-of-the-adjoint-triple::one-sentence-seal-for-papers::b1
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- Theorem
+- geometric-to-operator
+- η
+- →
+- σ
+- No-Section
+- Section Theorem
+aliases:
+- Bk052ta
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.526881720430108
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

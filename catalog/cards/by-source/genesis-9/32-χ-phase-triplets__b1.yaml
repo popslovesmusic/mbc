@@ -1,10 +1,28 @@
+id: GEN9-9466
+location: genesis-9/strong-force::3-phase-cycles-the-bridge-from-degeneracy-to-symmetry::32-χ-phase-triplets::b1
+source: genesis-9\strong-force.md
+lines: 369-381
+heading: '**3.2 χ-phase (Triplets)**'
+parent_heading: '**3\. Phase-Cycles: The Bridge from Degeneracy to Symmetry**'
 block_type: paragraph
-concepts: []
 excerpt: 'A 3-fold degeneracy forms: χ∈Z3.\\chi \\in \\mathbb{Z}\_3.χ∈Z3​. Its automorphism
   group:'
-heading: '**3.2 χ-phase (Triplets)**'
-id: GEN9-9466
-lines: 369-381
-location: genesis-9/strong-force::3-phase-cycles-the-bridge-from-degeneracy-to-symmetry::32-χ-phase-triplets::b1
-parent_heading: '**3\. Phase-Cycles: The Bridge from Degeneracy to Symmetry**'
-source: genesis-9\strong-force.md
+concepts:
+- χ
+- ∈
+- strong interaction
+aliases:
+- Bk205fd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

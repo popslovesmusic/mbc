@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: → enforces →
-heading: '**Meta-Genesis (pure potential)**'
 id: GEN4-7715
-lines: 26-28
 location: genesis-4/the-adjoint-triple::the-adjoint-triple::meta-genesis-pure-potential::b1
-parent_heading: '**The Adjoint Triple**'
 source: genesis-4\The_Adjoint_Triple.md
+lines: 26-28
+heading: '**Meta-Genesis (pure potential)**'
+parent_heading: '**The Adjoint Triple**'
+block_type: paragraph
+excerpt: → enforces →
+concepts:
+- →
+aliases:
+- Bk473en
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 100.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

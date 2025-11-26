@@ -1,11 +1,31 @@
-block_type: table
-concepts:
-- Sealed Consequence
-- Π
-- δ
-excerpt: '*(Sealed)* sup⁡κ\<∞\\sup \\kappa \< \\inftysupκ\<∞ **Sealed Consequence:**'
-heading: '**BOX 11 — The No-Singularity Axiom**'
 id: GEN18-5245
-lines: 1475-1491
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::box-11-the-no-singularity-axiom::b1
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 1475-1491
+heading: '**BOX 11 — The No-Singularity Axiom**'
+block_type: table
+excerpt: '*(Sealed)* sup⁡κ\<∞\\sup \\kappa \< \\inftysupκ\<∞ **Sealed Consequence:**'
+concepts:
+- IGSOA
+- MBC
+- δ-peakset
+- δ
+- κ
+- ∞
+- δ-peaksets
+- Π
+- Sealed Consequence
+aliases:
+- Bk558ss
+tags:
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.0625
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,32 @@
+id: GEN15-3269
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::viii-if-you-want-next::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 198-202
+heading: '**VIII. If you want next:**'
 block_type: paragraph
-concepts:
-- Dark Matter Equivalence Map
-- Einstein Derivation
-- Meta-Einstein
-- Rotation Curve Diagram Stack
 excerpt: Say **“CSOI-Einstein Derivation”** → I give you the *Meta-Einstein field
   equations in CSOI form*. Say **“Rotation Curve Diagram Stack extended”** → I give
   a 9-layer version. Say **“The CSOI-Dark Matte...
-heading: '**VIII. If you want next:**'
-id: GEN15-3269
-lines: 198-202
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::viii-if-you-want-next::b1
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- Meta-Einstein
+- →
+- CSOI-Einstein
+- Rotation Curve Diagram Stack
+- Dark Matter Equivalence Map
+- CSOI-Dark
+- Einstein Derivation
+aliases:
+- Bk343sc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

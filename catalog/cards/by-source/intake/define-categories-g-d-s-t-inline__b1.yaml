@@ -1,12 +1,28 @@
+id: INTK-9596
+location: intake/abstract-editorial-review::section-2-igsoa-paradigm-a-functorial-approach::21-functor-pipeline-δ-φ-π::define-categories-g-d-s-t-inline::b1
+source: intake\ABSTRACT__Editorial_Review.md
+lines: 84-89
+heading: '**Define categories G, D, S, T inline**'
+parent_heading: '**2.1 — Functor pipeline (`δ → Φ → Π`)**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Right now, the reader may wonder what G, D, S, T are until they deduce it.
   Add a parenthetical: (where `G` \= Genesis objects, `D` \= deviational structures,
   `S` \= Φ-structures, `T` \= realized geome...'
-heading: '**Define categories G, D, S, T inline**'
-id: INTK-9596
-lines: 84-89
-location: intake/abstract-editorial-review::section-2-igsoa-paradigm-a-functorial-approach::21-functor-pipeline-δ-φ-π::define-categories-g-d-s-t-inline::b1
-parent_heading: '**2.1 — Functor pipeline (`δ → Φ → Π`)**'
-source: intake\ABSTRACT__Editorial_Review.md
+concepts:
+- Φ-structures
+- Φ
+aliases:
+- Bk677rn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,11 +1,26 @@
-block_type: paragraph
-concepts:
-- Meta-Genesis
-- Second Law
-excerpt: We now derive the Second Law not as a statistical statement but as a **geometric
-  consequence of the Meta-Genesis cycle**.
-heading: '**3\. The δ-Curvature Derivation**'
 id: GEN10-753
-lines: 62-64
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-δ-curvature-derivation::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 62-64
+heading: '**3\. The δ-Curvature Derivation**'
+block_type: paragraph
+excerpt: We now derive the Second Law not as a statistical statement but as a **geometric
+  consequence of the Meta-Genesis cycle**.
+concepts:
+- Meta-Genesis
+- geometric consequence of the Meta-Genesis cycle
+- Second Law
+aliases:
+- Bk337nd
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 14.285714285714285
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

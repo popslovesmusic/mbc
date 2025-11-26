@@ -1,14 +1,30 @@
+id: GEN14-2688
+location: genesis-14/inflation-structure-formation::proof-1-igsoa-only-δ-adjacency-instability-inflation::proof::5-apply-δ-eigenmode::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 620-626
+heading: '**5\. Apply δ-Eigenmode**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Π
-- δ
-- λ
 excerpt: 'Insert the eigenvalue equation W(δ)h=λhW(δ)h=\\lambda hW(δ)h=λh into Π:
   Π(W(δ))=λ.\\Pi(W(δ)) \= \\lambda.Π(W(δ))=λ. Thus the Π-curvature of the adjacency
   network is constant and positive.'
-heading: '**5\. Apply δ-Eigenmode**'
-id: GEN14-2688
-lines: 620-626
-location: genesis-14/inflation-structure-formation::proof-1-igsoa-only-δ-adjacency-instability-inflation::proof::5-apply-δ-eigenmode::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- Π
+- λ
+- Π-curvature
+aliases:
+- Bk301it
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.75609756097561
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

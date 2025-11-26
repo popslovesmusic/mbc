@@ -1,11 +1,27 @@
+id: GEN18-5182
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::key-corrections-in-mbc-40::𝓕-is-no-longer-fundamental::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 636-639
+heading: '**✔ 𝓕 is no longer fundamental**'
+parent_heading: '**Key Corrections in MBC-4.0**'
 block_type: paragraph
-concepts:
-- Corrected
 excerpt: 'In earlier versions 𝓕 was treated as the ultimate monistic substrate. **Corrected**:
   𝓕 is a *derived field* once IGSOA manifests deviation.'
-heading: '**✔ 𝓕 is no longer fundamental**'
-id: GEN18-5182
-lines: 636-639
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::key-corrections-in-mbc-40::𝓕-is-no-longer-fundamental::b1
-parent_heading: '**Key Corrections in MBC-4.0**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+concepts:
+- IGSOA
+- Corrected
+aliases:
+- Bk027ev
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,28 @@
+id: GEN19-6154
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-produce-next::a-the-formal-theorem::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1563-1565
+heading: A) The formal theorem
+parent_heading: '⭐ If you want, I can produce next:'
 block_type: paragraph
+excerpt: “The Semantic Tensor Field Theorem (nested slopes → curvature tensors)”
 concepts:
+- Theorem
 - Field
 - The Semantic Tensor Field Theorem
-- Theorem
-excerpt: “The Semantic Tensor Field Theorem (nested slopes → curvature tensors)”
-heading: A) The formal theorem
-id: GEN19-6154
-lines: 1563-1565
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::if-you-want-i-can-produce-next::a-the-formal-theorem::b1
-parent_heading: '⭐ If you want, I can produce next:'
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+- →
+aliases:
+- Bk367ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 44.44444444444444
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

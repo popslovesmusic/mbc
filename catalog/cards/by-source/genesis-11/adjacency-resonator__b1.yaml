@@ -1,12 +1,32 @@
+id: GEN11-1115
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::4-black-hole-near-horizon-region-δ-adjacency-amplifier::adjacency-resonator::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 392-408
+heading: '**Adjacency resonator**'
+parent_heading: '**4\. Black Hole Near-Horizon Region \= δ-Adjacency Amplifier**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
 excerpt: 'A region where adjacency cycles become **temporarily stable**, causing:
   * partial reflection of Φ-modes * trapped-mode re-emission'
-heading: '**Adjacency resonator**'
-id: GEN11-1115
-lines: 392-408
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::4-black-hole-near-horizon-region-δ-adjacency-amplifier::adjacency-resonator::b1
-parent_heading: '**4\. Black Hole Near-Horizon Region \= δ-Adjacency Amplifier**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+concepts:
+- trapped-mode
+- near-horizon
+- re-emission
+- Φ-modes
+- Π-level
+- Π
+- Φ
+- temporarily stable
+aliases:
+- Bk600rw
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.035087719298245
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

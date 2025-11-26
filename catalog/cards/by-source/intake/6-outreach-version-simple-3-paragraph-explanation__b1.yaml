@@ -1,12 +1,27 @@
+id: INTK-9876
+location: intake/meta-genesis-core-papers-foundations::6-outreach-version-simple-3-paragraph-explanation::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 1584-1595
+heading: '**6\. Outreach Version (Simple, 3-Paragraph Explanation)**'
 block_type: paragraph
-concepts:
-- Ψ
-- δ
 excerpt: Before the universe had space or time, it had no “locations” at all—nothing
   could be next to anything, because there weren’t any “things.” Ψ₀ was structureless.
   When the first deviation (δ) cracked th...
-heading: '**6\. Outreach Version (Simple, 3-Paragraph Explanation)**'
-id: INTK-9876
-lines: 1584-1595
-location: intake/meta-genesis-core-papers-foundations::6-outreach-version-simple-3-paragraph-explanation::b1
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Ψ
+- δ
+- Ψ₀
+aliases:
+- Bk300bt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.5294117647058822
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

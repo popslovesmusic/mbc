@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: 'We treat each cosmic stage as a functor between categories of structures:
-  * G\\mathcal{G}G: Genesis/curvature objects * H\\mathcal{H}H: harmonic-mode objects'
-heading: '**Ⅳ. Category-Theoretic Formulation**'
 id: GEN15-3228
-lines: 2229-2243
 location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-category-theoretic-formulation::b1
 source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2229-2243
+heading: '**Ⅳ. Category-Theoretic Formulation**'
+block_type: paragraph
+excerpt: 'We treat each cosmic stage as a functor between categories of structures:
+  * G\\mathcal{G}G: Genesis/curvature objects * H\\mathcal{H}H: harmonic-mode objects'
+concepts:
+- last-scattering
+- harmonic-mode
+- large-scale
+aliases:
+- Bk724te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

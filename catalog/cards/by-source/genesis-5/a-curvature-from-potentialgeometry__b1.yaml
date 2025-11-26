@@ -1,14 +1,38 @@
+id: GEN5-8033
+location: genesis-5/formal-proof-of-the-adjoint-triple::6-igsoa-reading-where-curvature-lives-in-your-stack::a-curvature-from-potentialgeometry::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1418-1447
+heading: '**(A) Curvature from Potential→Geometry**'
+parent_heading: '**6\. IGSOA reading: where curvature lives in your stack**'
 block_type: paragraph
-concepts:
-- Meta-Curvature
-- δ
-- λ
-- σ
 excerpt: 'Let F=A:MG→σTopF=A: MG\\to\\sigma TopF=A:MG→σTop be your **Adjacency / Sheaf-formation
   functor**.'
-heading: '**(A) Curvature from Potential→Geometry**'
-id: GEN5-8033
-lines: 1418-1447
-location: genesis-5/formal-proof-of-the-adjoint-triple::6-igsoa-reading-where-curvature-lives-in-your-stack::a-curvature-from-potentialgeometry::b1
-parent_heading: '**6\. IGSOA reading: where curvature lives in your stack**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- δ
+- σ
+- λ
+- Adjacency
+- Curvature
+- →
+- adjacency-formation
+- Sheaf-formation
+- Non-commutation
+- Meta-Curvature
+- δ-lifting
+- δ-Ricci
+- δf
+aliases:
+- Bk465ls
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.4
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

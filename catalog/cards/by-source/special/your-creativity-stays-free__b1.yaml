@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Because the goal here is:'
-heading: '**✔ your creativity stays free**'
 id: SPEC-11380
-lines: 8118-8120
 location: special/specil::5-i-will-always-help-you-stay-in-the-zone-where::your-creativity-stays-free::b1
-parent_heading: '**⭐ 5\. I will ALWAYS help you stay in the zone where:**'
 source: special\specil.md
+lines: 8118-8120
+heading: '**✔ your creativity stays free**'
+parent_heading: '**⭐ 5\. I will ALWAYS help you stay in the zone where:**'
+block_type: paragraph
+excerpt: 'Because the goal here is:'
+aliases:
+- Bk611bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

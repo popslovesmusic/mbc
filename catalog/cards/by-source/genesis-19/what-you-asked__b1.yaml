@@ -1,8 +1,21 @@
-block_type: paragraph
-concepts: []
-excerpt: “Can you combine scalars or boxes to get tensors or router networks?”
-heading: '🧠 What you asked:'
 id: GEN19-6168
-lines: 1724-1726
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::what-you-asked::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1724-1726
+heading: '🧠 What you asked:'
+block_type: paragraph
+excerpt: “Can you combine scalars or boxes to get tensors or router networks?”
+aliases:
+- Bk779cy
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,11 +1,29 @@
+id: GEN17-4211
+location: genesis-17/box-calculus::1-formal-definition-of-the-mixing-law::2-nonlinear-deviation-term::b1
+source: genesis-17\box_calculus.md
+lines: 941-954
+heading: (2) Nonlinear Deviation Term
+parent_heading: 1\. Formal Definition of the Mixing Law
 block_type: paragraph
+excerpt: δ(Σ1,Σ2) δ(Σ 1
 concepts:
+- δ-geometry
+- IGSOA
 - Σ
 - δ
-excerpt: δ(Σ1,Σ2) δ(Σ 1
-heading: (2) Nonlinear Deviation Term
-id: GEN17-4211
-lines: 941-954
-location: genesis-17/box-calculus::1-formal-definition-of-the-mixing-law::2-nonlinear-deviation-term::b1
-parent_heading: 1\. Formal Definition of the Mixing Law
-source: genesis-17\box_calculus.md
+- vector-space
+aliases:
+- Bk423tw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.705882352941178
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

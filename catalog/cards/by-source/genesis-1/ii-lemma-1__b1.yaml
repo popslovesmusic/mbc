@@ -1,11 +1,29 @@
+id: GEN1-500
+location: genesis-1/the-foundation-layer::ii-lemma-1::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 1287-1311
+heading: '**\*\*II. Lemma 1**'
 block_type: paragraph
-concepts:
-- Ψ
 excerpt: 'Any object in a topos must admit the identity morphism\*\* In any topos
   (indeed, in any category), every object X must have: id⁡X∈Hom(X,X).(2)\\operatorname{id}\_X
   \\in \\text{Hom}(X, X). \\tag{2}idX​...'
-heading: '**\*\*II. Lemma 1**'
-id: GEN1-500
-lines: 1287-1311
-location: genesis-1/the-foundation-layer::ii-lemma-1::b1
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- ∈
+- hom-set
+- ∉
+- Ψ₀
+aliases:
+- Bk594ao
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.787878787878788
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

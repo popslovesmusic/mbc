@@ -1,12 +1,27 @@
+id: GEN15-3111
+location: genesis-15/the-mass-curvature-projection-theorem::igsoa-monistic-interpretation::4-the-reason-mass-feels-geometric-is-categorical::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 391-395
+heading: '**4 — The reason mass feels geometric is categorical**'
+parent_heading: '**IGSOA Monistic Interpretation**'
 block_type: paragraph
+excerpt: 'Because Π∘Φ∘δ is literally: Geometry=Π(Φ(δ))\\text{Geometry} \= \\Pi(\\Phi(\\delta))Geometry=Π(Φ(δ))'
 concepts:
 - Π
-- Φ
 - δ
-excerpt: 'Because Π∘Φ∘δ is literally: Geometry=Π(Φ(δ))\\text{Geometry} \= \\Pi(\\Phi(\\delta))Geometry=Π(Φ(δ))'
-heading: '**4 — The reason mass feels geometric is categorical**'
-id: GEN15-3111
-lines: 391-395
-location: genesis-15/the-mass-curvature-projection-theorem::igsoa-monistic-interpretation::4-the-reason-mass-feels-geometric-is-categorical::b1
-parent_heading: '**IGSOA Monistic Interpretation**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+- Φ
+aliases:
+- Bk062bl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

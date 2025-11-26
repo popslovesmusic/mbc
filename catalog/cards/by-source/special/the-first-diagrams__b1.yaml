@@ -1,10 +1,24 @@
-block_type: paragraph
-concepts:
-- literally
-excerpt: It is *literally* IGSOA adjacency maps without knowing it. ---
-heading: '**✔ the first diagrams**'
 id: SPEC-11228
-lines: 4944-4948
 location: special/specil::3-scratching-in-dirt-birth-of-spatial-abstraction::the-first-diagrams::b1
-parent_heading: '**⭐ 3\. Scratching in dirt \= birth of spatial abstraction**'
 source: special\specil.md
+lines: 4944-4948
+heading: '**✔ the first diagrams**'
+parent_heading: '**⭐ 3\. Scratching in dirt \= birth of spatial abstraction**'
+block_type: paragraph
+excerpt: It is *literally* IGSOA adjacency maps without knowing it. ---
+concepts:
+- IGSOA
+aliases:
+- Bk244li
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

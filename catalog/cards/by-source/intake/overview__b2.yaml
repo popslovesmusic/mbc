@@ -1,16 +1,41 @@
+id: INTK-10863
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::overview::b2
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3392-3394
+heading: Overview
+parent_heading: Meta-Time Cone
 block_type: paragraph
-concepts:
-- Meta-Time
-- Time Cone
-- Time Metric
-- δ
-- τ
 excerpt: Meta-Time Cone (MTC) = generalization of relativistic light cone defining
   causal accessibility in Meta-Time rather than spacetime; causal structure determined
   by δ-compatibility not speed limits; ligh...
-heading: Overview
-id: INTK-10863
-lines: 3392-3394
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::overview::b2
-parent_heading: Meta-Time Cone
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- Meta-Time
+- δ
+- resolution-dependent
+- Meta-Time-proximate
+- spacelike-separated
+- τ
+- δ-flow
+- Δ
+- scale-dependent
+- δ-compatibility
+- low-resolution
+- super-luminal
+- scale-warped
+- Time Metric
+- Time Cone
+aliases:
+- Bk264mt
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.714285714285714
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

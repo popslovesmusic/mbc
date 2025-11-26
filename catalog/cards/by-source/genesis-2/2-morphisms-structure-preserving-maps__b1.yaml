@@ -1,11 +1,32 @@
+id: GEN2-6243
+location: genesis-2/axioms-for-the-category-genesis::2-morphisms-structure-preserving-maps::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 274-297
+heading: '**2\. Morphisms (Structure-Preserving Maps)**'
 block_type: paragraph
-concepts:
-- Axiom
 excerpt: '**Axiom M2 — Morphisms** Morphisms in Math preserve structural information:
   HomMath(X,Y)={f:X→Y∣f respects structure}.\\text{Hom}\_\\text{Math}(X,Y) \= \\{
   f : X \\to Y \\mid f \\text{ respects struct...'
-heading: '**2\. Morphisms (Structure-Preserving Maps)**'
-id: GEN2-6243
-lines: 274-297
-location: genesis-2/axioms-for-the-category-genesis::2-morphisms-structure-preserving-maps::b1
-source: genesis-2\Axioms_for_the_Category_Genesis.md
+concepts:
+- Axiom
+- →
+- primitive morphisms
+- rich morphisms
+aliases:
+- Am647am
+tags:
+- -morphisms
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

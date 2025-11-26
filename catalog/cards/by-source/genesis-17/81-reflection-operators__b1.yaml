@@ -1,11 +1,26 @@
+id: GEN17-4345
+location: genesis-17/box-calculus::8-expansion-direction-viii-meta-calculus-self-referential-layer::81-reflection-operators::b1
+source: genesis-17\box_calculus.md
+lines: 2677-2681
+heading: 8.1. Reflection Operators
+parent_heading: '⭐ 8\. Expansion Direction VIII: Meta-Calculus (Self-Referential Layer)'
 block_type: paragraph
-concepts:
-- Box
 excerpt: 'Define an operator: Ref(B)=Box describing Box B Ref(B)=Box describing Box
   B'
-heading: 8.1. Reflection Operators
-id: GEN17-4345
-lines: 2677-2681
-location: genesis-17/box-calculus::8-expansion-direction-viii-meta-calculus-self-referential-layer::81-reflection-operators::b1
-parent_heading: '⭐ 8\. Expansion Direction VIII: Meta-Calculus (Self-Referential Layer)'
-source: genesis-17\box_calculus.md
+concepts:
+- Box
+aliases:
+- Bk582do
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 6.666666666666667
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

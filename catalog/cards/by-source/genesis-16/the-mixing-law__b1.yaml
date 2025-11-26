@@ -1,12 +1,31 @@
+id: GEN16-3794
+location: genesis-16/untitled-document::the-mixing-law::b1
+source: genesis-16\Untitled_document.md
+lines: 813-819
+heading: '**⭐ THE MIXING LAW**'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
 excerpt: (the algebraic backbone that allows Box Calculus to “compute”) Below is the
   strict pen-and-paper definition, presented in your dual-column cross-referenced
   style. ---
-heading: '**⭐ THE MIXING LAW**'
-id: GEN16-3794
-lines: 813-819
-location: genesis-16/untitled-document::the-mixing-law::b1
-source: genesis-16\Untitled_document.md
+concepts:
+- Box Calculus
+- Definition
+- Box
+- cross-referenced
+- pen-and-paper
+- dual-column
+aliases:
+- Bk538ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

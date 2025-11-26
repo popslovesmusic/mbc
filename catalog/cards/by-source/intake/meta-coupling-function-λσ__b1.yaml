@@ -1,16 +1,32 @@
+id: INTK-10299
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::connection-to-deviation-calculus-and-operators::meta-coupling-function-λσ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 728-729
+heading: Meta-Coupling Function (λ(σ))
+parent_heading: Connection to Deviation Calculus and Operators
 block_type: paragraph
+excerpt: The scale-dependent **Meta-Coupling Function (λ(σ))** is a prime example
+  of a Meta-Scalar. Its multiplication with other deviation terms governs the balance
+  between plasticity and stability in the sys...
 concepts:
-- Coupling Function
+- scale-dependent
 - Meta-Coupling
 - Meta-Scalar
 - λ
 - σ
-excerpt: The scale-dependent **Meta-Coupling Function (λ(σ))** is a prime example
-  of a Meta-Scalar. Its multiplication with other deviation terms governs the balance
-  between plasticity and stability in the sys...
-heading: Meta-Coupling Function (λ(σ))
-id: INTK-10299
-lines: 728-729
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::connection-to-deviation-calculus-and-operators::meta-coupling-function-λσ::b1
-parent_heading: Connection to Deviation Calculus and Operators
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+- Coupling Function
+aliases:
+- Bk591ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.285714285714285
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

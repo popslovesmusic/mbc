@@ -1,11 +1,31 @@
-block_type: paragraph
-concepts:
-- Meta-Time
-- not
-excerpt: 'Meta-Time does **not** yield a block universe. The block model assumes:
-  * A fixed 4D manifold'
-heading: '**7\. Why Meta-Time ≠ Block Time**'
 id: GEN8-8787
-lines: 245-276
 location: genesis-8/meta-time-geometry-and-temporal-projection::7-why-meta-time-block-time::b1
 source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md
+lines: 245-276
+heading: '**7\. Why Meta-Time ≠ Block Time**'
+block_type: paragraph
+excerpt: 'Meta-Time does **not** yield a block universe. The block model assumes:
+  * A fixed 4D manifold'
+concepts:
+- Meta-Time
+- IGSOA
+- Deviation
+- Adjacency
+- not
+- pre-existing
+- growing causal geometry
+- Becoming theory
+aliases:
+- Bk658mt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.411764705882353
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

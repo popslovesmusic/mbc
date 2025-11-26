@@ -1,12 +1,27 @@
+id: INTK-10540
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::operations-and-formalism::3-lie-algebra-of-meta-fractal-transformations::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 2058-2059
+heading: 3. Lie Algebra of Meta-Fractal Transformations
+parent_heading: Operations and Formalism
 block_type: paragraph
-concepts:
-- Harmonic Symmetry Group
-- Meta-Geometry
 excerpt: Defines the symmetries (including the 3-6-9 Harmonic Symmetry Group) and
   transformations within Meta-Geometry, from which gauge forces emerge.
-heading: 3. Lie Algebra of Meta-Fractal Transformations
-id: INTK-10540
-lines: 2058-2059
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::operations-and-formalism::3-lie-algebra-of-meta-fractal-transformations::b1
-parent_heading: Operations and Formalism
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Geometry
+- Harmonic Symmetry Group
+aliases:
+- Bk695dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

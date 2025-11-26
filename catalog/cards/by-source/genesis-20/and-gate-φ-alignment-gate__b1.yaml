@@ -1,10 +1,25 @@
+id: GEN20-7165
+location: genesis-20/mbc-40-documentaitio-1::::and-gate-φ-alignment-gate::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 6596-6607
+heading: AND Gate (Φ-alignment gate)
+parent_heading: ​
 block_type: paragraph
+excerpt: 'Requires polarity coherence: ∣Θ1−Θ2∣\<ϵ ∣Θ'
 concepts:
 - Θ
-excerpt: 'Requires polarity coherence: ∣Θ1−Θ2∣\<ϵ ∣Θ'
-heading: AND Gate (Φ-alignment gate)
-id: GEN20-7165
-lines: 6596-6607
-location: genesis-20/mbc-40-documentaitio-1::::and-gate-φ-alignment-gate::b1
-parent_heading: ​
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk494rp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

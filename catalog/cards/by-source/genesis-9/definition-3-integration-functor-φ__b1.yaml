@@ -1,12 +1,30 @@
+id: GEN9-9261
+location: genesis-9/does-meta-genesis-indicate-new-physics::formal-definitions::definition-3-integration-functor-φ::b1
+source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 891-900
+heading: '**Definition 3\. (Integration Functor Φ)**'
+parent_heading: '**Formal Definitions**'
 block_type: paragraph
-concepts:
-- Φ
-- Ψ
 excerpt: 'Φ : IGS → IGS is the stabilizing endofunctor satisfying: * Φ attempts to
   minimize deviation (a smoothing operator) * Φ(x) ≠ Ψ₀ for all x ≠ Ψ₀'
-heading: '**Definition 3\. (Integration Functor Φ)**'
-id: GEN9-9261
-lines: 891-900
-location: genesis-9/does-meta-genesis-indicate-new-physics::formal-definitions::definition-3-integration-functor-φ::b1
-parent_heading: '**Formal Definitions**'
-source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+concepts:
+- Φ
+- ≠
+- Ψ
+- →
+- Ψ₀
+aliases:
+- Bk955ii
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

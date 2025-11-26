@@ -1,10 +1,28 @@
+id: GEN17-4179
+location: genesis-17/box-calculus::box-calculus-v02-closing-the-three-gaps::a-type-system-boundary-alphabet::typed-operators::b1
+source: genesis-17\box_calculus.md
+lines: 369-376
+heading: Typed Operators
+parent_heading: A) Type System / Boundary Alphabet
 block_type: table
+excerpt: '---'
 concepts:
 - τ
-excerpt: '---'
-heading: Typed Operators
-id: GEN17-4179
-lines: 369-376
-location: genesis-17/box-calculus::box-calculus-v02-closing-the-three-gaps::a-type-system-boundary-alphabet::typed-operators::b1
-parent_heading: A) Type System / Boundary Alphabet
-source: genesis-17\box_calculus.md
+- →
+- IGSOA
+- Merge
+aliases:
+- Bk353is
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.547169811320755
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

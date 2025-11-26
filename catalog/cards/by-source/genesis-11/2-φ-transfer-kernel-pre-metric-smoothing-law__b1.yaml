@@ -1,12 +1,29 @@
+id: GEN11-1209
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-δinflation-spectral-axiom::definitions::2-φ-transfer-kernel-pre-metric-smoothing-law::b1
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1448-1462
+heading: '**2\. Φ-Transfer Kernel (Pre-Metric Smoothing Law)**'
+parent_heading: '**DEFINITIONS**'
 block_type: paragraph
+excerpt: 'Φ(δk)=TΦ(k) δk\\Phi(\\delta\_{k}) \= \\mathcal{T}\_{\\Phi}(k) \\, \\delta\_{k}Φ(δk​)=TΦ​(k)δk​
+  where TΦ(k)\\mathcal{T}\_{\\Phi}(k)TΦ​(k) determines: * smoothing rate,'
 concepts:
 - Φ
 - δ
-excerpt: 'Φ(δk)=TΦ(k) δk\\Phi(\\delta\_{k}) \= \\mathcal{T}\_{\\Phi}(k) \\, \\delta\_{k}Φ(δk​)=TΦ​(k)δk​
-  where TΦ(k)\\mathcal{T}\_{\\Phi}(k)TΦ​(k) determines: * smoothing rate,'
-heading: '**2\. Φ-Transfer Kernel (Pre-Metric Smoothing Law)**'
-id: GEN11-1209
-lines: 1448-1462
-location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-δinflation-spectral-axiom::definitions::2-φ-transfer-kernel-pre-metric-smoothing-law::b1
-parent_heading: '**DEFINITIONS**'
-source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+- δk
+- phase-locking
+aliases:
+- Bk131pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

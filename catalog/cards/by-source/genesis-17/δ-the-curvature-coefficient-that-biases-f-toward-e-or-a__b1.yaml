@@ -1,11 +1,26 @@
+id: GEN17-4610
+location: genesis-17/box-calculus::3-deviation-δ-is-not-an-operator-it-is-the-mode-selector::δ-the-curvature-coefficient-that-biases-f-toward-e-or-a::b1
+source: genesis-17\box_calculus.md
+lines: 7302-7318
+heading: δ \= the curvature coefficient that biases F toward E or A.
+parent_heading: ⭐ 3\. DEVIATION δ IS NOT AN OPERATOR — IT IS THE “MODE SELECTOR”
 block_type: paragraph
+excerpt: 'In formulas: F(Σ;δ)={F+(Σ)=E(Σ),δ\>0F−(Σ)=A(Σ),δ\<0 F(Σ;δ)={'
 concepts:
 - Σ
 - δ
-excerpt: 'In formulas: F(Σ;δ)={F+(Σ)=E(Σ),δ\>0F−(Σ)=A(Σ),δ\<0 F(Σ;δ)={'
-heading: δ \= the curvature coefficient that biases F toward E or A.
-id: GEN17-4610
-lines: 7302-7318
-location: genesis-17/box-calculus::3-deviation-δ-is-not-an-operator-it-is-the-mode-selector::δ-the-curvature-coefficient-that-biases-f-toward-e-or-a::b1
-parent_heading: ⭐ 3\. DEVIATION δ IS NOT AN OPERATOR — IT IS THE “MODE SELECTOR”
-source: genesis-17\box_calculus.md
+aliases:
+- Bk280ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.651162790697675
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

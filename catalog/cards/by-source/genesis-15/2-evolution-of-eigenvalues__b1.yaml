@@ -1,12 +1,29 @@
+id: GEN15-3246
+location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::2-evolution-of-eigenvalues::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 2507-2509
+heading: '**2\. Evolution of eigenvalues**'
+parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
 block_type: paragraph
-concepts:
-- Φ
-- λ
 excerpt: λ˙n(t)=⟨Φn,κ˙Φn⟩.\\dot{\\lambda}\_n(t) \= \\langle \\Phi\_n , \\dot{\\kappa}
   \\Phi\_n \\rangle.λ˙n​(t)=⟨Φn​,κ˙Φn​⟩.
-heading: '**2\. Evolution of eigenvalues**'
-id: GEN15-3246
-lines: 2507-2509
-location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::2-evolution-of-eigenvalues::b1
-parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Φ
+- Φn
+- κ
+- λ
+aliases:
+- Bk528dl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

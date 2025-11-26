@@ -1,14 +1,33 @@
+id: GEN16-3859
+location: genesis-16/untitled-document::axiom-8-graph-grammar-axiom::b1
+source: genesis-16\Untitled_document.md
+lines: 1622-1640
+heading: '**⭐ AXIOM 8 — Graph Grammar Axiom**'
 block_type: paragraph
-concepts:
-- CycleWF
-- OpWF
-- TypeWF
-- converge
 excerpt: '**The legal operations over the graph follow a strict topology.** A reasoning
   graph G=(B,E)\\mathcal{G}=(B,\\mathcal{E})G=(B,E) is well-formed iff: WF(G)=TypeWF∧OpWF∧CycleWF\\boxed{
   \\mathrm{WF}(\\mat...'
-heading: '**⭐ AXIOM 8 — Graph Grammar Axiom**'
-id: GEN16-3859
-lines: 1622-1640
-location: genesis-16/untitled-document::axiom-8-graph-grammar-axiom::b1
-source: genesis-16\Untitled_document.md
+concepts:
+- ∧
+- CycleWF
+- TypeWF
+- OpWF
+- type-compatible
+- well-formed
+- E-halting
+- converge
+aliases:
+- Bk509tl
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

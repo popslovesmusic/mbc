@@ -1,10 +1,28 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Shift radius: Lδ,n=Lδ+δnL\_{\\delta,n} \= L\_\\delta \+ \\delta\_nLδ,n​=Lδ​+δn​
-  Compute new echo times:'
-heading: '**⭐ 7\. Compute mode-dependent echo shifts**'
 id: GEN11-1019
-lines: 501-509
 location: genesis-11/how-curvature-could-generate-an-axis::7-compute-mode-dependent-echo-shifts::b1
 source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 501-509
+heading: '**⭐ 7\. Compute mode-dependent echo shifts**'
+block_type: paragraph
+excerpt: 'Shift radius: Lδ,n=Lδ+δnL\_{\\delta,n} \= L\_\\delta \+ \\delta\_nLδ,n​=Lδ​+δn​
+  Compute new echo times:'
+concepts:
+- δ
+- Δ
+- δn
+- δnL
+aliases:
+- Bk588sr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.896551724137931
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

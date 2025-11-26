@@ -1,13 +1,28 @@
-block_type: paragraph
-concepts:
-- sounds
-- Π
-- Φ
-- δ
-excerpt: '“δ ≅ Φ ≅ Π because they are the same underlying reality” This *sounds* like
-  monism but collapses the structure. That statement wrongly implies:'
-heading: '**❌ The incorrect idea (to be fixed)**'
 id: SPEC-10968
-lines: 53-69
 location: special/specil::the-incorrect-idea-to-be-fixed::b1
 source: special\specil.md
+lines: 53-69
+heading: '**❌ The incorrect idea (to be fixed)**'
+block_type: paragraph
+excerpt: '“δ ≅ Φ ≅ Π because they are the same underlying reality” This *sounds* like
+  monism but collapses the structure. That statement wrongly implies:'
+concepts:
+- IGSOA
+- δ
+- Theorem
+- Π
+- Φ
+aliases:
+- Bk301bt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.82051282051282
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

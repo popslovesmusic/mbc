@@ -1,15 +1,33 @@
+id: GEN14-2717
+location: genesis-14/inflation-structure-formation::proof::5-independence-of-λₙ::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1068-1086
+heading: '**5\. Independence of λₙ**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- shape
-- universal
-- δ
-- λ
 excerpt: 'An important corollary: The variance depends only on ∣hn∣|h\_n|∣hn​∣, not
   on the spectral eigenvalue λn\\lambda\_nλn​. The δ-spectrum controls the *shape*
   of perturbations'
-heading: '**5\. Independence of λₙ**'
-id: GEN14-2717
-lines: 1068-1086
-location: genesis-14/inflation-structure-formation::proof::5-independence-of-λₙ::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- entirely determined by δ-harmonics
+- Corollary
+- λ
+- δ
+- δ-harmonics
+- δ-spectrum
+- flat at leading order
+- universal
+aliases:
+- Bk762ic
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.09433962264151
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,19 +1,40 @@
-block_type: list
-concepts:
-- Axiom
-- Box
-- Galaxy-Formation
-- Structure Axiom Box
-- Structure Equation Appendix
-- Structure-Formation
-- The Cosmic Web Resonance Table
-- Π
-- Φ
-- δ
-excerpt: '* Structure formation arises from δ-curvature modes. * Φ amplifies δ modes
-  with curvature-dependent growth. * Π projects growth into matter and metric structures.'
-heading: '**13\. Summary**'
 id: GEN12-1814
-lines: 1429-1463
 location: genesis-12/untitled-document::13-summary::b1
 source: genesis-12\Untitled_document.md
+lines: 1429-1463
+heading: '**13\. Summary**'
+block_type: list
+excerpt: '* Structure formation arises from δ-curvature modes. * Φ amplifies δ modes
+  with curvature-dependent growth. * Π projects growth into matter and metric structures.'
+concepts:
+- δ
+- A sealed δ-Structure Axiom Box
+- Axiom
+- →
+- curvature-dependent
+- Structure-Formation
+- Box
+- Π
+- Galaxy-Formation
+- Φ
+- The Cosmic Web Resonance Table
+- Structure Equation Appendix
+- Large-scale
+- δ-curvature
+- δ-Structure
+aliases:
+- Bk408sf
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

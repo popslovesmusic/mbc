@@ -1,11 +1,33 @@
-block_type: paragraph
-concepts:
-- The Riemannian Levi
-- δ
-excerpt: 'δ-connection is defined by: ∇iδδn=δn+1,i.\\nabla^\\delta\_i \\delta\_n \=
-  \\delta\_{n+1,i}.∇iδ​δn​=δn+1,i​. This is a **scale-shifting derivative**.'
-heading: '**4\. Projection of δ-Connection to Levi–Civita Connection**'
 id: GEN2-6505
-lines: 426-438
 location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::4-projection-of-δ-connection-to-levicivita-connection::b1
 source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 426-438
+heading: '**4\. Projection of δ-Connection to Levi–Civita Connection**'
+block_type: paragraph
+excerpt: 'δ-connection is defined by: ∇iδδn=δn+1,i.\\nabla^\\delta\_i \\delta\_n \=
+  \\delta\_{n+1,i}.∇iδ​δn​=δn+1,i​. This is a **scale-shifting derivative**.'
+concepts:
+- δ
+- ∇
+- scale-shifting derivative
+- δ-connection
+- δn
+- metric-compatible
+- Civita-compatible
+- scale-shifting
+- The Riemannian Levi
+aliases:
+- Bk931cd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.754098360655737
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

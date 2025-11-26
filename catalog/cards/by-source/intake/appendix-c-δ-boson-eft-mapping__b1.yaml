@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: (connecting the triad to your δ-spectrum, RG, and Lagrangian towers)
-heading: '**Appendix C — δ-Boson EFT Mapping**'
 id: INTK-10650
-lines: 1465-1467
 location: intake/volume-i-core-ontology-and-metagenesis-summary::appendix-a-completed::appendix-c-δ-boson-eft-mapping::b1
-parent_heading: '**Appendix A Completed**'
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1465-1467
+heading: '**Appendix C — δ-Boson EFT Mapping**'
+parent_heading: '**Appendix A Completed**'
+block_type: paragraph
+excerpt: (connecting the triad to your δ-spectrum, RG, and Lagrangian towers)
+concepts:
+- δ-spectrum
+- δ
+aliases:
+- Bk552ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

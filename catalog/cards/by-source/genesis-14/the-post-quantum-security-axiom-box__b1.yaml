@@ -1,19 +1,44 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Cloning Constraint
-- Hardness Under Quantum
-- Measurement Irreversibility
-- No Quantum Lift
-- No-Cloning
-- Quantum Attack Models
-- Π
-- Φ
-- δ
-excerpt: '*(Universal PQ Principle)* **Axiom PQ1 (δ-Independence of Quantum Attack
-  Models):** δ-sources must remain secure under both classical and quantum Φ-attacks.'
-heading: '**The Post-Quantum Security Axiom Box**'
 id: GEN14-2870
-lines: 1181-1209
 location: genesis-14/meta-math-and-cryptography::the-post-quantum-security-axiom-box::b1
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1181-1209
+heading: '**The Post-Quantum Security Axiom Box**'
+block_type: paragraph
+excerpt: '*(Universal PQ Principle)* **Axiom PQ1 (δ-Independence of Quantum Attack
+  Models):** δ-sources must remain secure under both classical and quantum Φ-attacks.'
+concepts:
+- δ
+- Axiom
+- Π
+- Φ
+- →
+- Post-quantum
+- ⊗
+- pre-measurement
+- structured-code
+- δ-Independence
+- Π-Measurement
+- Π-measurement
+- Measurement Irreversibility
+- Φ-No-Cloning
+- δ-sources
+aliases:
+- Am438up
+tags:
+- π-measurement-irreversibility
+- security-no-quantum-lift
+- hardness-under-quantum-φ
+- δ-independence-of-quantum-attack-models
+- axiom
+- φ-no-cloning-constraint
+is_formal: true
+statement_type: axiom
+axiom_count: 5
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 17.96875
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

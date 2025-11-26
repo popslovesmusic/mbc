@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'This is precise:'
-heading: '**🔥 2\. Time is only the ordering of deviation interactions**'
 id: SPEC-11052
-lines: 1264-1266
 location: special/specil::2-time-is-only-the-ordering-of-deviation-interactions::b1
 source: special\specil.md
+lines: 1264-1266
+heading: '**🔥 2\. Time is only the ordering of deviation interactions**'
+block_type: paragraph
+excerpt: 'This is precise:'
+aliases:
+- Bk256tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

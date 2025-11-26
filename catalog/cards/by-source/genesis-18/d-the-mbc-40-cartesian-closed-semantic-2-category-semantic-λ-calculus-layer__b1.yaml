@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Which extension should we build?
+id: GEN18-5530
+location: genesis-18/mbc-4::if-you-want-next::d-the-mbc-40-cartesian-closed-semantic-2-category-semantic-λ-calculus-layer::b1
+source: genesis-18\MBC-4.md
+lines: 1926-1928
 heading: '**D. The MBC-4.0 Cartesian-Closed Semantic 2-Category (Semantic λ-Calculus
   Layer)**'
-id: GEN18-5530
-lines: 1926-1928
-location: genesis-18/mbc-4::if-you-want-next::d-the-mbc-40-cartesian-closed-semantic-2-category-semantic-λ-calculus-layer::b1
 parent_heading: '**If you want next:**'
-source: genesis-18\MBC-4.md
+block_type: paragraph
+excerpt: Which extension should we build?
+aliases:
+- Bk598we
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

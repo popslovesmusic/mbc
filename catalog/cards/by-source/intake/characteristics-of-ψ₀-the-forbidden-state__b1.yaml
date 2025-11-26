@@ -1,17 +1,32 @@
+id: INTK-10407
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::ψ₀-zero-state::characteristics-of-ψ₀-the-forbidden-state::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1278-1288
+heading: Characteristics of Ψ₀ (The Forbidden State)
+parent_heading: Ψ₀ (Zero State)
 block_type: paragraph
-concepts:
-- Absolute Determinacy
-- Complete Stasis
-- Perfect Symmetry
-- Zero Degrees
-- Ψ
-- δ
 excerpt: '`Ψ₀` is characterized by the absolute fulfillment of the following conditions:
   1.  **Perfect Symmetry:** Complete and unbroken symmetry across all possible transformations,
   scales, and dimensions. Thi...'
-heading: Characteristics of Ψ₀ (The Forbidden State)
-id: INTK-10407
-lines: 1278-1288
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::ψ₀-zero-state::characteristics-of-ψ₀-the-forbidden-state::b1
-parent_heading: Ψ₀ (Zero State)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Deviation
+- δ
+- Ψ
+- self-contradictory
+- Ψ₀
+- Absolute Determinacy
+- Perfect Symmetry
+- Complete Stasis
+- Zero Degrees
+aliases:
+- Bk214ct
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.474820143884892
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,12 +1,31 @@
+id: GEN2-6514
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::7-the-projection-theorem::theorem-δ-riemann-projection-theorem::4-einstein-equation-emergence::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 545-561
+heading: '**(4) Einstein Equation Emergence**'
+parent_heading: '**Theorem. (δ → Riemann Projection Theorem)**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'If δ-dynamics satisfy a variational principle: δSδ\[X\]=0,\\delta S\_\\delta\[X\]
   \= 0,δSδ​\[X\]=0, then under projection:'
-heading: '**(4) Einstein Equation Emergence**'
-id: GEN2-6514
-lines: 545-561
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::7-the-projection-theorem::theorem-δ-riemann-projection-theorem::4-einstein-equation-emergence::b1
-parent_heading: '**Theorem. (δ → Riemann Projection Theorem)**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- δ
+- δ-dynamics
+- δS
+- π
+- Π
+- δ-curvature
+aliases:
+- Bk417ds
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

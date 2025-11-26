@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: Which direction shall we go? ChatGPT can make mistakes. Check important info.
-heading: '**D. δ → Φ → Π Crystalline Topology (symmetry-protected phases)**'
 id: GEN13-2261
-lines: 3138-3142
 location: genesis-13/meta-math-nuclear-physics::would-you-like-the-companion-sealed-axiom-box-set-for-this-diagram-stack::d-δ-φ-π-crystalline-topology-symmetry-protected-phases::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 3138-3142
+heading: '**D. δ → Φ → Π Crystalline Topology (symmetry-protected phases)**'
 parent_heading: '**Would you like the companion sealed Axiom Box set for this diagram
   stack?**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+block_type: paragraph
+excerpt: Which direction shall we go? ChatGPT can make mistakes. Check important info.
+aliases:
+- Bk119wd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

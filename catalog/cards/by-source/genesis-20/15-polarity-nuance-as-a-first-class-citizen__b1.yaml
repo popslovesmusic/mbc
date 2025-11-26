@@ -1,11 +1,28 @@
+id: GEN20-6689
+location: genesis-20/mbc-40-documentaitio-1::15-polarity-nuance-as-a-first-class-citizen::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 433-443
+heading: '1.5 Polarity: Nuance as a First-Class Citizen'
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'Most formal systems treat nuance as an afterthought or noise. MBC-4.0 does
   the opposite: it encodes nuance directly into the mechanics through polarity and
   the Θ-router. Polarity expresses directional...'
-heading: '1.5 Polarity: Nuance as a First-Class Citizen'
-id: GEN20-6689
-lines: 433-443
-location: genesis-20/mbc-40-documentaitio-1::15-polarity-nuance-as-a-first-class-citizen::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Polarity
+- MBC
+- Θ
+aliases:
+- Bk473mf
+tags:
+- qualified
+- definitive
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.912621359223301
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.2

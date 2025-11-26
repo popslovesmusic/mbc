@@ -1,14 +1,32 @@
+id: GEN16-4059
+location: genesis-16/untitled-document::0-what-we-must-prove-for-ccc::b1
+source: genesis-16\Untitled_document.md
+lines: 4079-4096
+heading: '**⭐ 0\. What We Must Prove for CCC**'
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Cartesian Closed
-- exponential
 excerpt: 'A category C\\mathbf{C}C is **Cartesian Closed** iff: 1. It has **finite
   products** (terminal object \+ binary products) 2. For every pair of objects A,BA,
   BA,B, the **exponential** BAB^ABA exists'
-heading: '**⭐ 0\. What We Must Prove for CCC**'
-id: GEN16-4059
-lines: 4079-4096
-location: genesis-16/untitled-document::0-what-we-must-prove-for-ccc::b1
-source: genesis-16\Untitled_document.md
+concepts:
+- Box Calculus
+- Box
+- exponential
+- Currying isomorphism
+- evaluation morphism
+- Cartesian Closed
+- finite products
+aliases:
+- Bk634cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.536585365853659
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

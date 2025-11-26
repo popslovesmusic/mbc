@@ -1,16 +1,32 @@
+id: INTK-10224
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::the-9x9-meta-fractal-matrix-representation::encoding-meta-geometry-and-operator-algebra::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 158-162
+heading: '**Encoding Meta-Geometry and Operator Algebra**'
+parent_heading: The 9x9 Meta-Fractal Matrix Representation
 block_type: paragraph
-concepts:
-- Fractal Matrix Representation
-- Meta-Fractal
-- Meta-Geometric
-- Meta-Math
-- δ
 excerpt: This document describes the **9x9 Meta-Fractal Matrix Representation**, a
   key mathematical tool within the IGSOA / Meta-Math framework. This matrix formally
   encodes the core Meta-Geometric relationshi...
-heading: '**Encoding Meta-Geometry and Operator Algebra**'
-id: INTK-10224
-lines: 158-162
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::the-9x9-meta-fractal-matrix-representation::encoding-meta-geometry-and-operator-algebra::b1
-parent_heading: The 9x9 Meta-Fractal Matrix Representation
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Math
+- IGSOA
+- Fractal Matrix Representation
+- Meta-Geometric
+- Meta-Fractal
+- δ
+aliases:
+- Bk429td
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

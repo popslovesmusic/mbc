@@ -1,12 +1,25 @@
+id: INTK-9747
+location: intake/meta-genesis-core-papers-foundations::plain-english-translation::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 87-103
+heading: '**Plain English Translation**'
 block_type: list
-concepts:
-- Meta-Genesis
-- NOTHING
 excerpt: '* *NOTHING* cannot exist as a physical, mathematical, or logical configuration.
   * No transformation can take “something” and turn it into “nothing.” * No dynamical
   law can generate “nothing” from anyt...'
-heading: '**Plain English Translation**'
-id: INTK-9747
-lines: 87-103
-location: intake/meta-genesis-core-papers-foundations::plain-english-translation::b1
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Meta-Genesis
+- Axiom
+- pre-informational
+aliases:
+- Bk910nc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.9473684210526314
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,16 +1,39 @@
+id: GEN17-4157
+location: genesis-17/box-calculus::box-calculus-technical-introduction-dual-column-cross-referenced::8-box-calculus-as-the-foundation-of-igsoa-reasoning::b1
+source: genesis-17\box_calculus.md
+lines: 127-135
+heading: 8\. Box Calculus as the Foundation of IGSOA Reasoning
+parent_heading: BOX CALCULUS — TECHNICAL INTRODUCTION (DUAL-COLUMN, CROSS-REFERENCED)
 block_type: table
+excerpt: '---'
 concepts:
-- Box
+- Π-evaluation
+- δ-geometry
 - Box Calculus
-- Standard Description
-- Without Box Calculus
+- →
+- IGSOA
+- δ
+- Box
 - Π
 - Φ
-- δ
-excerpt: '---'
-heading: 8\. Box Calculus as the Foundation of IGSOA Reasoning
-id: GEN17-4157
-lines: 127-135
-location: genesis-17/box-calculus::box-calculus-technical-introduction-dual-column-cross-referenced::8-box-calculus-as-the-foundation-of-igsoa-reasoning::b1
-parent_heading: BOX CALCULUS — TECHNICAL INTRODUCTION (DUAL-COLUMN, CROSS-REFERENCED)
-source: genesis-17\box_calculus.md
+- Φ-transformations
+- Π-evaluations
+- δ-states
+- δ-modes
+- Without Box Calculus
+- Standard Description
+aliases:
+- Bk574iv
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.480519480519483
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

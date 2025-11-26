@@ -1,13 +1,29 @@
-block_type: paragraph
-concepts:
-- Initiated Alike
-- Π
-- Φ
-- δ
-excerpt: '*(δ → Φ → Π for the Uninitiated and Initiated Alike)* ---'
-heading: '***A Narrative & Intuitive IGSOA Explanation***'
 id: GEN9-9075
-lines: 709-713
 location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::why-orbitals-exist-at-all::a-narrative-intuitive-igsoa-explanation::b1
-parent_heading: '**“Why Orbitals Exist at All”**'
 source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 709-713
+heading: '***A Narrative & Intuitive IGSOA Explanation***'
+parent_heading: '**“Why Orbitals Exist at All”**'
+block_type: paragraph
+excerpt: '*(δ → Φ → Π for the Uninitiated and Initiated Alike)* ---'
+concepts:
+- →
+- Π
+- δ
+- Φ
+- Initiated Alike
+aliases:
+- Bk543ft
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 55.55555555555556
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

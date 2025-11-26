@@ -1,10 +1,21 @@
+id: GEN17-4634
+location: genesis-17/box-calculus::::𝓢-the-structural-topos-operator::b1
+source: genesis-17\box_calculus.md
+lines: 7534-7538
+heading: ⭐ 𝓢 \= The Structural (Topos) Operator
+parent_heading: ⭐
 block_type: paragraph
-concepts: []
 excerpt: Not polarity. Not split/merge. 𝓢 simply determines how semantic structure
   reconfigures under 𝓕.
-heading: ⭐ 𝓢 \= The Structural (Topos) Operator
-id: GEN17-4634
-lines: 7534-7538
-location: genesis-17/box-calculus::::𝓢-the-structural-topos-operator::b1
-parent_heading: ⭐
-source: genesis-17\box_calculus.md
+aliases:
+- Bk454np
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

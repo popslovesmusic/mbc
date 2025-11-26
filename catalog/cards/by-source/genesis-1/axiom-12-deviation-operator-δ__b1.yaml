@@ -1,15 +1,31 @@
+id: GEN1-529
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::1-ontological-primitives::axiom-12-deviation-operator-δ::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 304-316
+heading: '**Axiom 1.2 — Deviation Operator (δ).**'
+parent_heading: '**1\. Ontological Primitives**'
 block_type: paragraph
-concepts:
-- not
-- the
-- Ψ
-- δ
 excerpt: 'The first act that can occur relative to Ψ₀ is deviation: ∃δ:H∖{Ψ0}→H.\\exists
   \\delta : \\mathcal{H}\\setminus\\{\\Psi\_0\\} \\to \\mathcal{H}.∃δ:H∖{Ψ0​}→H. δ
   is **not** a derivative, shift, or gener...'
-heading: '**Axiom 1.2 — Deviation Operator (δ).**'
-id: GEN1-529
-lines: 304-316
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::1-ontological-primitives::axiom-12-deviation-operator-δ::b1
-parent_heading: '**1\. Ontological Primitives**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- Ψ
+- ∃
+- →
+- non-stillness
+- the
+- Ψ₀
+- not
+aliases:
+- Bk504tf
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.698412698412698
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

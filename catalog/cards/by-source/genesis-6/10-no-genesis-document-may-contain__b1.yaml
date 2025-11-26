@@ -1,11 +1,27 @@
-block_type: list
-concepts:
-- after
-- δ
-excerpt: '* operators * Hilbert spaces * metrics'
-heading: '**10\. No Genesis Document May Contain:**'
 id: GEN6-8423
-lines: 962-994
 location: genesis-6/the-harmonic-spectral-triple::iv-semantic-interpretive-consistency-conditions::10-no-genesis-document-may-contain::b1
-parent_heading: '**IV. Semantic / Interpretive Consistency Conditions**'
 source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 962-994
+heading: '**10\. No Genesis Document May Contain:**'
+parent_heading: '**IV. Semantic / Interpretive Consistency Conditions**'
+block_type: list
+excerpt: '* operators * Hilbert spaces * metrics'
+concepts:
+- δ
+- δ-boson
+- after
+aliases:
+- Bk640oh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.375
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

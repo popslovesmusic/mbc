@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- All Proofs Collapse
-- δ
-excerpt: (“All Proofs Collapse to δ-Adjacency”) Which one would you like next?
-heading: '**🔵 MBC-4.0 *Reasoning Theorem***'
 id: GEN18-5731
-lines: 1270-1274
 location: genesis-18/sealed-axiom-box::next-items-i-can-generate::mbc-40-reasoning-theorem::b1
-parent_heading: '**Next Items I Can Generate**'
 source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1270-1274
+heading: '**🔵 MBC-4.0 *Reasoning Theorem***'
+parent_heading: '**Next Items I Can Generate**'
+block_type: paragraph
+excerpt: (“All Proofs Collapse to δ-Adjacency”) Which one would you like next?
+concepts:
+- Adjacency
+- δ-Adjacency
+- δ
+- All Proofs Collapse
+aliases:
+- Bk023ap
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: '**Volume I: Foundations of the δ-Stack** ---'
-heading: '***A Higher-Algebraic and Category-Theoretic Construction of δ-Meta-Physics***'
 id: INTK-10599
-lines: 782-786
 location: intake/volume-i-core-ontology-and-metagenesis-summary::curvature-adjacency-and-meta-time::a-higher-algebraic-and-category-theoretic-construction-of-δ-meta-physics::b1
-parent_heading: '**\*\*Curvature, Adjacency, and Meta-Time:**'
 source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 782-786
+heading: '***A Higher-Algebraic and Category-Theoretic Construction of δ-Meta-Physics***'
+parent_heading: '**\*\*Curvature, Adjacency, and Meta-Time:**'
+block_type: paragraph
+excerpt: '**Volume I: Foundations of the δ-Stack** ---'
+concepts:
+- δ-Stack
+- δ
+aliases:
+- Bk185vf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 28.57142857142857
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

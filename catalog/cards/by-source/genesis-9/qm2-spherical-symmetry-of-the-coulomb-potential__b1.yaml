@@ -1,13 +1,29 @@
+id: GEN9-9047
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::1-what-quantum-mechanics-says::qm2-spherical-symmetry-of-the-coulomb-potential::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 330-340
+heading: '**(QM2) Spherical Symmetry of the Coulomb Potential**'
+parent_heading: '**1\. What Quantum Mechanics Says**'
 block_type: paragraph
-concepts:
-- The Coulomb
-- central
 excerpt: 'The reason we get **s**, **p**, **d**, **f**, … shapes is that: * The Coulomb
   potential is **central** and **SO(3)-symmetric** * SO(3) ⇒ spherical harmonics ⇒
   angular momentum quantization'
-heading: '**(QM2) Spherical Symmetry of the Coulomb Potential**'
-id: GEN9-9047
-lines: 330-340
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::1-what-quantum-mechanics-says::qm2-spherical-symmetry-of-the-coulomb-potential::b1
-parent_heading: '**1\. What Quantum Mechanics Says**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- θ
+- The Coulomb
+- central
+aliases:
+- Bk664tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.285714285714286
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

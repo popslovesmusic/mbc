@@ -1,15 +1,32 @@
+id: INTK-10311
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::core-concepts::4-meta-tensors-t-ab::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 790-791
+heading: 4. Meta-Tensors (T_AB)
+parent_heading: Core Concepts
 block_type: paragraph
-concepts:
-- Meta-Curvature
-- Meta-Metric
-- Meta-Stress-Energy
-- Meta-Vectors
 excerpt: Generalized tensors (e.g., Meta-Metric, Meta-Curvature, Meta-Stress-Energy);
   they are functionals of deviation modes and describe multi-linear relationships
   between Meta-Vectors.
-heading: 4. Meta-Tensors (T_AB)
-id: INTK-10311
-lines: 790-791
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-algebra::core-concepts::4-meta-tensors-t-ab::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Curvature
+- Meta-Stress-Energy
+- Meta-Curvature
+- multi-linear
+- Meta-Vectors
+- Meta-Metric
+aliases:
+- Bk897gt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 24.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

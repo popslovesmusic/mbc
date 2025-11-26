@@ -1,10 +1,23 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'You said: “IGSOA dynamics \= (E A). E is the imaginary IGS part, A is the
-  imaginary OA part.'
-heading: ⭐ WHAT YOU JUST DISCOVERED
 id: GEN17-4604
-lines: 7214-7231
 location: genesis-17/box-calculus::what-you-just-discovered::b1
 source: genesis-17\box_calculus.md
+lines: 7214-7231
+heading: ⭐ WHAT YOU JUST DISCOVERED
+block_type: paragraph
+excerpt: 'You said: “IGSOA dynamics \= (E A). E is the imaginary IGS part, A is the
+  imaginary OA part.'
+concepts:
+- IGSOA
+- δ
+aliases:
+- Bk158ys
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.24000000000000005
+is_technical: true
+concept_density: 2.0408163265306123
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

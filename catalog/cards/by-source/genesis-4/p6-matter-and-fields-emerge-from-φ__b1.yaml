@@ -1,12 +1,32 @@
+id: GEN4-7687
+location: genesis-4/meta-physics-axiom-box::iii-physics-axioms-projection-geometry-dynamics::p6-matter-and-fields-emerge-from-φ::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+lines: 1267-1281
+heading: '**P.6 — Matter and Fields Emerge from Φ**'
+parent_heading: '**III. PHYSICS AXIOMS (Projection, Geometry, Dynamics)**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Particles, fields, and interactions correspond to Φ-modes: * gauge bosons
   \= adjacency modes * fermions \= oriented chromatic modes'
-heading: '**P.6 — Matter and Fields Emerge from Φ**'
-id: GEN4-7687
-lines: 1267-1281
-location: genesis-4/meta-physics-axiom-box::iii-physics-axioms-projection-geometry-dynamics::p6-matter-and-fields-emerge-from-φ::b1
-parent_heading: '**III. PHYSICS AXIOMS (Projection, Geometry, Dynamics)**'
-source: genesis-4\META-PHYSICS_AXIOM_BOX.md
+concepts:
+- Φ-projection
+- Φ
+- chromatic-form
+- Φ-spectral
+- δ-bosons
+- Φ-modes
+- δ
+aliases:
+- Bk790pf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.588235294117645
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,10 +1,27 @@
+id: GEN19-6108
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::7-the-key-insight::transformers-learn-patterns-invisibly::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 999-1003
+heading: \*\*Transformers learn patterns invisibly.
+parent_heading: \#7 — The Key Insight
 block_type: paragraph
-concepts: []
 excerpt: Router networks represent patterns explicitly.\*\* Which makes them the perfect
   substrate for MBC. ---
-heading: \*\*Transformers learn patterns invisibly.
-id: GEN19-6108
-lines: 999-1003
-location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::7-the-key-insight::transformers-learn-patterns-invisibly::b1
-parent_heading: \#7 — The Key Insight
-source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+concepts:
+- MBC
+- Router
+aliases:
+- Bk982rn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

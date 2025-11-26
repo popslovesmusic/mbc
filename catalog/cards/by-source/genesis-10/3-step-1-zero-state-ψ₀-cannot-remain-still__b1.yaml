@@ -1,11 +1,28 @@
-block_type: paragraph
-concepts:
-- structureless
-- Ψ
-excerpt: Ψ₀ \= **structureless**, perfectly symmetric, operator-free. * No geometry
-  * No adjacency
-heading: '**3\. Step 1 — Zero-State (Ψ₀) Cannot Remain Still**'
 id: GEN10-807
-lines: 1009-1037
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-step-1-zero-state-ψ₀-cannot-remain-still::b1
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1009-1037
+heading: '**3\. Step 1 — Zero-State (Ψ₀) Cannot Remain Still**'
+block_type: paragraph
+excerpt: Ψ₀ \= **structureless**, perfectly symmetric, operator-free. * No geometry
+  * No adjacency
+concepts:
+- Ψ
+- IGSOA
+- Ψ₀
+- →
+- operator-free
+- origin of asymmetry
+- structureless
+aliases:
+- Bk195sp
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 14.893617021276595
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,10 +1,25 @@
+id: GEN15-3110
+location: genesis-15/the-mass-curvature-projection-theorem::igsoa-monistic-interpretation::3-π-encodes-those-eigenvalues-into-metric-observables::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 387-389
+heading: '**3 — Π encodes those eigenvalues into metric observables**'
+parent_heading: '**IGSOA Monistic Interpretation**'
 block_type: paragraph
+excerpt: Π is the “reader” of the curvature spectrum.
 concepts:
 - Π
-excerpt: Π is the “reader” of the curvature spectrum.
-heading: '**3 — Π encodes those eigenvalues into metric observables**'
-id: GEN15-3110
-lines: 387-389
-location: genesis-15/the-mass-curvature-projection-theorem::igsoa-monistic-interpretation::3-π-encodes-those-eigenvalues-into-metric-observables::b1
-parent_heading: '**IGSOA Monistic Interpretation**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+aliases:
+- Bk454tr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

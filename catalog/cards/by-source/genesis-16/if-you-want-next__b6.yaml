@@ -1,14 +1,32 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- δ
-- η
-- λ
-excerpt: 'I can prove: * **η-long normal forms ↔ fully expanded Box graphs** * **Box
-  Calculus forms a typed λ-calculus with δ-curvature types**'
-heading: '**⭐ If you want next:**'
 id: GEN16-4101
-lines: 4634-4647
 location: genesis-16/untitled-document::if-you-want-next::b6
 source: genesis-16\Untitled_document.md
+lines: 4634-4647
+heading: '**⭐ If you want next:**'
+block_type: paragraph
+excerpt: 'I can prove: * **η-long normal forms ↔ fully expanded Box graphs** * **Box
+  Calculus forms a typed λ-calculus with δ-curvature types**'
+concepts:
+- Box Calculus
+- Box
+- IGSOA
+- ↔
+- δ-curvature
+- δ
+- λ
+- η
+aliases:
+- Bk486cp
+tags:
+- proof
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.02127659574468
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

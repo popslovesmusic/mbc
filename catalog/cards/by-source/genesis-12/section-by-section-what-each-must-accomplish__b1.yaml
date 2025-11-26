@@ -1,9 +1,25 @@
-block_type: paragraph
-concepts: []
-excerpt: Below is a short “goal list” for each section. We’ll expand each into full
-  text when you tell me **where to write**. ---
-heading: '**🔥 Section-by-Section: What Each Must Accomplish**'
 id: GEN12-1535
-lines: 79-84
 location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::section-by-section-what-each-must-accomplish::b1
 source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 79-84
+heading: '**🔥 Section-by-Section: What Each Must Accomplish**'
+block_type: paragraph
+excerpt: Below is a short “goal list” for each section. We’ll expand each into full
+  text when you tell me **where to write**. ---
+concepts:
+- where to write
+aliases:
+- Bk318bs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 4.3478260869565215
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

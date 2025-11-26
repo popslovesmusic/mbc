@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: dE=0.dE \= 0.dE=0.
-heading: '**First Law (δ-Persistence)**'
 id: GEN10-943
-lines: 3177-3179
 location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::11-the-δφπ-laws-of-thermodynamics-unified::first-law-δ-persistence::b1
-parent_heading: '**11\. The δ–Φ–Π Laws of Thermodynamics (Unified)**'
 source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 3177-3179
+heading: '**First Law (δ-Persistence)**'
+parent_heading: '**11\. The δ–Φ–Π Laws of Thermodynamics (Unified)**'
+block_type: paragraph
+excerpt: dE=0.dE \= 0.dE=0.
+aliases:
+- Bk94624
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

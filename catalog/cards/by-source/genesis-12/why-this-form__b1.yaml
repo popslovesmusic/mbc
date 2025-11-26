@@ -1,13 +1,35 @@
+id: GEN12-1749
+location: genesis-12/untitled-document::definition-21-δ-higgs-potential::why-this-form::b1
+source: genesis-12\Untitled_document.md
+lines: 422-432
+heading: '**Why this form?**'
+parent_heading: '**Definition 2.1 — δ-Higgs Potential**'
 block_type: list
-concepts:
-- Axiom
-- δ
 excerpt: '* The quadratic term follows from the NOT-Axiom (δ ≠ 0). * The cubic term
   encodes Genesis-level asymmetry (δ cannot return to exact symmetry). * The quartic
   term is required for global stability.'
-heading: '**Why this form?**'
-id: GEN12-1749
-lines: 422-432
-location: genesis-12/untitled-document::definition-21-δ-higgs-potential::why-this-form::b1
-parent_heading: '**Definition 2.1 — δ-Higgs Potential**'
-source: genesis-12\Untitled_document.md
+concepts:
+- IGSOA
+- Axiom
+- δ
+- Genesis-level
+- NOT-Axiom
+- ≠
+aliases:
+- Bk001a
+tags:
+- A4
+- A1
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A1
+- A4

@@ -1,13 +1,32 @@
-block_type: paragraph
-concepts:
-- causes
-- Π
-- Φ
-- δ
-excerpt: In IGSOA, causes are **not events**. They are **structural determinants**.
-  A “cause” is the condition that makes another condition *logically necessary*.
-heading: '**⭐ 3\. “Causes”**'
 id: GEN17-4931
-lines: 760-785
 location: genesis-17/key-points::3-causes::b1
 source: genesis-17\Key_Points.md
+lines: 760-785
+heading: '**⭐ 3\. “Causes”**'
+block_type: paragraph
+excerpt: In IGSOA, causes are **not events**. They are **structural determinants**.
+  A “cause” is the condition that makes another condition *logically necessary*.
+concepts:
+- Curvature
+- IGSOA
+- Π
+- Φ
+- first-second
+- before-after
+- structural determinants
+- δ
+- →
+- dependency sense
+- not events
+aliases:
+- Bk575ic
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 14.864864864864865
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

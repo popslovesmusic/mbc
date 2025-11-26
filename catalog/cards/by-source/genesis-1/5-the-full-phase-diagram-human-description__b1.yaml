@@ -1,17 +1,37 @@
-block_type: paragraph
-concepts:
-- Higgs True Vacuum
-- Inflation Region
-- Meta-Inflation
-- Meta-Reheating
-- Reheating Basin
-- Unstable Ridge
-- Ψ
-- δ
-excerpt: 'If you were to draw the δ-Higgs vacuum manifold on paper as a single diagram:
-  1. **Center point:** A forbidden peak labeled Ψ₀.'
-heading: '**5\. The Full Phase Diagram (Human Description)**'
 id: GEN1-408
-lines: 755-776
 location: genesis-1/the-first-geometry::5-the-full-phase-diagram-human-description::b1
 source: genesis-1\THE_FIRST_GEOMETRY.md
+lines: 755-776
+heading: '**5\. The Full Phase Diagram (Human Description)**'
+block_type: paragraph
+excerpt: 'If you were to draw the δ-Higgs vacuum manifold on paper as a single diagram:
+  1. **Center point:** A forbidden peak labeled Ψ₀.'
+concepts:
+- δ
+- δ-Higgs
+- rising-to-falling
+- particle-physics
+- Meta-Reheating
+- Meta-Inflation
+- sub-valleys
+- δ-Unstable
+- Ψ
+- Higgs True Vacuum
+- Inflation Region
+- Reheating Basin
+- Unstable Ridge
+- Ψ₀
+aliases:
+- Bk323yw
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.730337078651685
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

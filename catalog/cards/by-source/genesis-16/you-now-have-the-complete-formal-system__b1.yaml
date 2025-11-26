@@ -1,11 +1,35 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-excerpt: 'Box Calculus is now: * **a closed algebra** * **a terminating expansion
-  system**'
-heading: '**You Now Have: The Complete Formal System**'
 id: GEN16-3862
-lines: 1692-1708
 location: genesis-16/untitled-document::you-now-have-the-complete-formal-system::b1
 source: genesis-16\Untitled_document.md
+lines: 1692-1708
+heading: '**You Now Have: The Complete Formal System**'
+block_type: paragraph
+excerpt: 'Box Calculus is now: * **a closed algebra** * **a terminating expansion
+  system**'
+concepts:
+- Box Calculus
+- IGSOA
+- a category-compatible semantic calculus
+- an IGSOA-compliant deviation geometry
+- a fully normalized reasoning engine
+- category-compatible
+- Box
+- IGSOA-compliant
+- a terminating expansion system
+- a typed graph grammar
+- a closed algebra
+aliases:
+- Bk855bc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 36.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

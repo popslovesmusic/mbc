@@ -1,16 +1,32 @@
-block_type: paragraph
-concepts:
-- Laws Theorem
-- Theorem
-- Your Stability
-- Φ
-- δ
-- λ
-- μ
-excerpt: 'Your Stability of Laws Theorem demands: * At small Φ: universe unstable
-  → must roll ⇒ −μδ2\<0-\\mu\_\\delta^2 \< 0−μδ2​\<0'
-heading: '**5\. δ-Geometry Fixes the Sign Structure (Law Stability)**'
 id: GEN7-8579
-lines: 447-471
 location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::5-δ-geometry-fixes-the-sign-structure-law-stability::b1
 source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md
+lines: 447-471
+heading: '**5\. δ-Geometry Fixes the Sign Structure (Law Stability)**'
+block_type: paragraph
+excerpt: 'Your Stability of Laws Theorem demands: * At small Φ: universe unstable
+  → must roll ⇒ −μδ2\<0-\\mu\_\\delta^2 \< 0−μδ2​\<0'
+concepts:
+- δ
+- δ-geometry
+- μ
+- λ
+- Theorem
+- bounded-from-below
+- Φ
+- self-limit
+- →
+- Your Stability
+- Laws Theorem
+aliases:
+- Bk471ys
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.580246913580247
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,18 +1,40 @@
+id: GEN9-9359
+location: genesis-9/is-the-source-of-all-structure::7-if-you-want-i-can-generate-next::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 415-429
+heading: '**7\. If you want, I can generate next:**'
 block_type: paragraph
+excerpt: '**Options:** * ✅ The full *δ-Harmonic → Orbital Shapes* derivation (diagram
+  \+ formulas) * ✅ A TikZ or mermaid diagram of the “IGSOA Periodic Table Stack”'
 concepts:
+- IGSOA
+- δ
 - Axiom
-- Axiom Box
+- δ-Harmonic
 - Box
+- white-paper
+- δ-Geometry
+- δ-periodic
+- Periodic Table
+- →
+- Periodic Table Stack
 - Harmonic Origin
 - How Atoms Arise
 - Orbital Shapes
-- Periodic Table
-- Periodic Table Stack
-- δ
-excerpt: '**Options:** * ✅ The full *δ-Harmonic → Orbital Shapes* derivation (diagram
-  \+ formulas) * ✅ A TikZ or mermaid diagram of the “IGSOA Periodic Table Stack”'
-heading: '**7\. If you want, I can generate next:**'
-id: GEN9-9359
-lines: 415-429
-location: genesis-9/is-the-source-of-all-structure::7-if-you-want-i-can-generate-next::b1
-source: genesis-9\is_the_source_of_all_structure.md
+- Axiom Box
+aliases:
+- Bk832ot
+tags:
+- axiom-box
+- sealed
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.862068965517242
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

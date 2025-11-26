@@ -1,12 +1,27 @@
+id: GEN17-4191
+location: genesis-17/box-calculus::proceeding-operator-kernel-registry-v02-canonical-spec::before-i-generate-it::do-you-want-the-registry-to-be::a-minimal-core-spec::b1
+source: genesis-17\box_calculus.md
+lines: 537-554
+heading: A) Minimal-Core Spec
+parent_heading: 'Do you want the Registry to be:'
 block_type: paragraph
+excerpt: 'Only the primitives: * E * E,'
 concepts:
 - Π
 - Φ
 - ρ
-excerpt: 'Only the primitives: * E * E,'
-heading: A) Minimal-Core Spec
-id: GEN17-4191
-lines: 537-554
-location: genesis-17/box-calculus::proceeding-operator-kernel-registry-v02-canonical-spec::before-i-generate-it::do-you-want-the-registry-to-be::a-minimal-core-spec::b1
-parent_heading: 'Do you want the Registry to be:'
-source: genesis-17\box_calculus.md
+aliases:
+- Bk408ot
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

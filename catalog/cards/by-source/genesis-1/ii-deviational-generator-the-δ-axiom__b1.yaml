@@ -1,16 +1,42 @@
+id: GEN1-426
+location: genesis-1/the-foundation-layer::the-foundation-layer::ii-deviational-generator-the-δ-axiom::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 31-49
+heading: '**II. Deviational Generator: The δ-Axiom**'
+parent_heading: '**THE FOUNDATION LAYER**'
 block_type: paragraph
-concepts:
-- Axiom
-- Intrinsic Deviation
-- change
-- Ψ
-- δ
 excerpt: '**Axiom δ-1 (Intrinsic Deviation):** There exists a primitive operation
   **δ**, not derived from anything else, such that: 1. **δΨ₀ is well-defined even
   though Ψ₀ admits no operators**'
-heading: '**II. Deviational Generator: The δ-Axiom**'
-id: GEN1-426
-lines: 31-49
-location: genesis-1/the-foundation-layer::the-foundation-layer::ii-deviational-generator-the-δ-axiom::b1
-parent_heading: '**THE FOUNDATION LAYER**'
-source: genesis-1\THE_FOUNDATION_LAYER.md
+concepts:
+- Ψ
+- δ
+- δ is the only possible transformation that does not require pre-existing structure
+- Deviation
+- Axiom
+- δ carries an irreducible asymmetry
+- pre-existing
+- well-defined
+- ≠
+- possibility of change
+- Intrinsic Deviation
+- change
+- Ψ₀
+- not motion
+aliases:
+- Am928ai
+tags:
+- axiom
+- δ-1-intrinsic-deviation
+- conflicted
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.852713178294573
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

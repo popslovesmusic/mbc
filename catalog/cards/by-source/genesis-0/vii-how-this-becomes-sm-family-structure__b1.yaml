@@ -1,13 +1,36 @@
-block_type: paragraph
-concepts:
-- δ
-- μ
-- ν
-- τ
-excerpt: 'The δ-boson tower: * couples to fermions via the δ-Higgs * generates mass
-  (Yukawa-like) effects'
-heading: '**VII. How This Becomes SM Family Structure**'
 id: GEN0-153
-lines: 2248-2278
 location: genesis-0/feynman-rules-interaction-vertices::vii-how-this-becomes-sm-family-structure::b1
 source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 2248-2278
+heading: '**VII. How This Becomes SM Family Structure**'
+block_type: paragraph
+excerpt: 'The δ-boson tower: * couples to fermions via the δ-Higgs * generates mass
+  (Yukawa-like) effects'
+concepts:
+- ν
+- ↔
+- δ
+- δ-boson
+- δ-bosons
+- τ
+- μ
+- Yukawa-like
+- δ-Higgs
+- middle family
+- heavy family
+- light family
+aliases:
+- Bk601tb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.714285714285714
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

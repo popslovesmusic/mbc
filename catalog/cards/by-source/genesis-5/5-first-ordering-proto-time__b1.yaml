@@ -1,11 +1,30 @@
+id: GEN5-8156
+location: genesis-5/the-ga-8-meta-einstein-theorem::zero-state-universe-minimal-derivation-flow::5-first-ordering-proto-time::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 373-381
+heading: '**5\. First Ordering (Proto-Time)**'
+parent_heading: '**ZERO STATE → UNIVERSE (MINIMAL DERIVATION FLOW)**'
 block_type: paragraph
-concepts:
-- Meta-Time
 excerpt: 'Adjacency induces a partial order: A1⇒T1.A\_1 \\Rightarrow T\_1.A1​⇒T1​.
   This is **Meta-Time** (ordering of deviational steps).'
-heading: '**5\. First Ordering (Proto-Time)**'
-id: GEN5-8156
-lines: 373-381
-location: genesis-5/the-ga-8-meta-einstein-theorem::zero-state-universe-minimal-derivation-flow::5-first-ordering-proto-time::b1
-parent_heading: '**ZERO STATE → UNIVERSE (MINIMAL DERIVATION FLOW)**'
-source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+concepts:
+- Meta-Time
+- Adjacency
+aliases:
+- Bk001a
+tags:
+- A1
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A1

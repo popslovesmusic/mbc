@@ -1,11 +1,26 @@
+id: GEN1-577
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-32-the-meta-einstein-equation::step-2-variation-of-δ-curvature::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 911-913
+heading: '**Step 2 — Variation of δ-curvature.**'
+parent_heading: '**Theorem 3.2 — The Meta-Einstein Equation.**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: δ(\[δ,δ\])=\[X,δ\]+\[δ,X\].\\delta(\[\\delta,\\delta\]) \= \[X,\\delta\]
   \+ \[\\delta,X\].δ(\[δ,δ\])=\[X,δ\]+\[δ,X\].
-heading: '**Step 2 — Variation of δ-curvature.**'
-id: GEN1-577
-lines: 911-913
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-32-the-meta-einstein-equation::step-2-variation-of-δ-curvature::b1
-parent_heading: '**Theorem 3.2 — The Meta-Einstein Equation.**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+aliases:
+- Bk543dd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.761904761904762
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

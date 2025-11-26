@@ -1,18 +1,40 @@
+id: GEN13-2034
+location: genesis-13/meta-math-nuclear-physics::2-φ-layer-the-operator-algebra-of-nuclear-symmetry::22-φ-automorphisms-produce-nuclear-symmetry-groups::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 401-416
+heading: '**2.2 Φ-Automorphisms Produce Nuclear Symmetry Groups**'
+parent_heading: '**2\. Φ-Layer: The Operator Algebra of Nuclear Symmetry**'
 block_type: table
-concepts:
-- Automorphism Fixed
-- Automorphism Origin
-- Fixed-Point
-- Physical Group
-- Point Theorem
-- Theorem
-- Φ
-- δ
 excerpt: 'Formal statement: Gnuclear=Aut(Φ)G\_{\\text{nuclear}} \= \\mathrm{Aut}(\\Phi)Gnuclear​=Aut(Φ)
   Prove this using the **Φ-Automorphism Fixed-Point Theorem**.'
-heading: '**2.2 Φ-Automorphisms Produce Nuclear Symmetry Groups**'
-id: GEN13-2034
-lines: 401-416
-location: genesis-13/meta-math-nuclear-physics::2-φ-layer-the-operator-algebra-of-nuclear-symmetry::22-φ-automorphisms-produce-nuclear-symmetry-groups::b1
-parent_heading: '**2\. Φ-Layer: The Operator Algebra of Nuclear Symmetry**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- Φ-Automorphism Fixed-Point Theorem
+- Theorem
+- Φ-Automorphism
+- Fixed-Point
+- Φ-doublet
+- Φ-central
+- δ-tripled
+- δ
+- ⊗
+- →
+- Automorphism Origin
+- Automorphism Fixed
+- Physical Group
+- Point Theorem
+aliases:
+- Bk140pg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.229508196721312
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

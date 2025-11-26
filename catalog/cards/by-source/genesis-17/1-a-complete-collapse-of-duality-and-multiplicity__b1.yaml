@@ -1,11 +1,27 @@
+id: GEN17-4714
+location: genesis-17/box-calculus::1-a-complete-collapse-of-duality-and-multiplicity::b1
+source: genesis-17\box_calculus.md
+lines: 8312-8337
+heading: ⭐ 1\. A Complete Collapse of Duality and Multiplicity
 block_type: paragraph
+excerpt: 'By expressing: * E/A * Φ/Π'
 concepts:
+- IGSOA
+- dual-curvature
 - Π
 - Φ
 - ρ
-excerpt: 'By expressing: * E/A * Φ/Π'
-heading: ⭐ 1\. A Complete Collapse of Duality and Multiplicity
-id: GEN17-4714
-lines: 8312-8337
-location: genesis-17/box-calculus::1-a-complete-collapse-of-duality-and-multiplicity::b1
-source: genesis-17\box_calculus.md
+aliases:
+- Bk457ei
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 5.952380952380952
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

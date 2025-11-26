@@ -1,12 +1,32 @@
-block_type: paragraph
-concepts:
-- Axiom
-- before
-- δ
-excerpt: 'Each bullet point in Section 1 is **not independent** — they form a *logical
-  chain*: 1. **NOT Axiom → deviation must exist** (the zero-state cannot remain zero)'
-heading: '**✅ Why write a *full section* instead of bullet-by-bullet?**'
 id: GEN12-1547
-lines: 273-303
 location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::why-write-a-full-section-instead-of-bullet-by-bullet::b1
 source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 273-303
+heading: '**✅ Why write a *full section* instead of bullet-by-bullet?**'
+block_type: paragraph
+excerpt: 'Each bullet point in Section 1 is **not independent** — they form a *logical
+  chain*: 1. **NOT Axiom → deviation must exist** (the zero-state cannot remain zero)'
+concepts:
+- →
+- Adjacency
+- Curvature
+- Deviation
+- δ
+- Axiom
+- non-zero
+- zero-state
+- not independent
+aliases:
+- Bk220eb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.82608695652174
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

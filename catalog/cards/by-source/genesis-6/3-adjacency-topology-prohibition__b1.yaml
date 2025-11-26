@@ -1,17 +1,36 @@
+id: GEN6-8415
+location: genesis-6/the-harmonic-spectral-triple::i-ontological-compatibility-conditions::3-adjacency-topology-prohibition::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 807-829
+heading: '**3\. Adjacency / Topology Prohibition**'
+parent_heading: '**I. Ontological Compatibility Conditions**'
 block_type: paragraph
+excerpt: 'Meta-Genesis objects cannot possess: * adjacency * topology'
 concepts:
-- But Meta
-- First Adjacency
-- First Geometry
+- Adjacency
 - Meta-Genesis
 - Meta-Math
 - Meta-Time
-- must
 - δ
-excerpt: 'Meta-Genesis objects cannot possess: * adjacency * topology'
-heading: '**3\. Adjacency / Topology Prohibition**'
-id: GEN6-8415
-lines: 807-829
-location: genesis-6/the-harmonic-spectral-triple::i-ontological-compatibility-conditions::3-adjacency-topology-prohibition::b1
-parent_heading: '**I. Ontological Compatibility Conditions**'
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+- δ-derived
+- Meta-Time emergence
+- δ-adjacency
+- δ-harmonics
+- First Adjacency
+- First Geometry
+- But Meta
+- must
+aliases:
+- Bk720mg
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.967741935483872
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

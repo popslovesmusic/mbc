@@ -1,15 +1,30 @@
+id: GEN14-2771
+location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1955-1964
+heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
 block_type: paragraph
-concepts:
-- only
-- simultaneously
-- Π
-- Φ
-- δ
 excerpt: 'There exists a unique, continuous cosmological evolution C:δ⟶Φ⟶Π\\mathcal{C}:
   \\delta \\longrightarrow \\Phi \\longrightarrow \\PiC:δ⟶Φ⟶Π satisfying the following
   eight conditions **simultaneously**, ...'
-heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
-id: GEN14-2771
-lines: 1955-1964
-location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::b1
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- simultaneously
+aliases:
+- Bk997te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.904761904761903
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

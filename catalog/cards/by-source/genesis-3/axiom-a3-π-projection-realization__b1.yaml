@@ -1,13 +1,37 @@
+id: GEN3-7484
+location: genesis-3/the-tri-unity-theorem::i-preliminaries::axiom-a3-π-projection-realization::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 52-68
+heading: '**Axiom A3 — π (Projection / Realization)**'
+parent_heading: '**I. Preliminaries**'
 block_type: paragraph
-concepts:
-- Φ
-- Ψ
-- δ
 excerpt: 'A π-operator is a functor π:M→P\\pi: \\mathcal{M} \\to \\mathcal{P}π:M→P
   where P\\mathcal{P}P is the realized physical category.'
-heading: '**Axiom A3 — π (Projection / Realization)**'
-id: GEN3-7484
-lines: 52-68
-location: genesis-3/the-tri-unity-theorem::i-preliminaries::axiom-a3-π-projection-realization::b1
-parent_heading: '**I. Preliminaries**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- π
+- Φ
+- →
+- Φ-patterns
+- non-empty
+- ≠
+- δ
+- Ψ
+- Ψ₀
+aliases:
+- Bk003a
+tags:
+- A3
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.043478260869565
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A3

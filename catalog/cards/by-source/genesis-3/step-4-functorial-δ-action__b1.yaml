@@ -1,13 +1,30 @@
+id: GEN3-7560
+location: genesis-3/the-tri-unity-theorem::iv-formal-proof-sketch::step-4-functorial-δ-action::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1077-1085
+heading: '**Step 4: Functorial δ-action**'
+parent_heading: '**IV. Formal Proof Sketch**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'Since ι=Φ\\iota \= \\Phiι=Φ: ι∘δ=Φ∘δ=δ∘Φ=δM∘ι.\\iota\\circ\\delta \= \\Phi\\circ\\delta
   \= \\delta\\circ\\Phi \= \\delta\_\\mathcal{M}\\circ\\iota.ι∘δ=Φ∘δ=δ∘Φ=δM​∘ι. This
   proves (L4).'
-heading: '**Step 4: Functorial δ-action**'
-id: GEN3-7560
-lines: 1077-1085
-location: genesis-3/the-tri-unity-theorem::iv-formal-proof-sketch::step-4-functorial-δ-action::b1
-parent_heading: '**IV. Formal Proof Sketch**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- δ
+- Φ
+- ι
+- δM
+aliases:
+- Bk867si
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

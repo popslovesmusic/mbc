@@ -1,12 +1,27 @@
+id: GEN6-8303
+location: genesis-6/spectral-triple-axiom-box-sealed-version::theorem-toposoperator-equivalence::proof-categorical-internal-external::thus-every-axiom-s1s9-of-the-operator-triple-is-satisfied::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 563-570
+heading: '**Thus every axiom S1–S9 of the operator triple is satisfied.**'
+parent_heading: '**Proof (Categorical, internal → external)**'
 block_type: paragraph
-concepts:
-- σ
 excerpt: 'The converse direction uses the **sheaf condition / descent**: a σ-compatible
   family of local spectral triples glues uniquely into a single internal object triple.
   ∎'
-heading: '**Thus every axiom S1–S9 of the operator triple is satisfied.**'
-id: GEN6-8303
-lines: 563-570
-location: genesis-6/spectral-triple-axiom-box-sealed-version::theorem-toposoperator-equivalence::proof-categorical-internal-external::thus-every-axiom-s1s9-of-the-operator-triple-is-satisfied::b1
-parent_heading: '**Proof (Categorical, internal → external)**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- σ
+aliases:
+- Bk934tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.166666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

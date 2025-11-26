@@ -1,11 +1,28 @@
+id: GEN1-556
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-deviational-geometry-theoremlemmaproof-formalization::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 694-699
+heading: '**Chapter — Deviational Geometry: Theorem–Lemma–Proof Formalization**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: We assume a Hilbert space (or ∞-category enriched over Hilb), denoted H\\mathcal{H}H,
   and an operator δ:H→H\\delta:\\mathcal{H}\\to\\mathcal{H}δ:H→H that encodes deviation.
   The foundational axioms fro...
-heading: '**Chapter — Deviational Geometry: Theorem–Lemma–Proof Formalization**'
-id: GEN1-556
-lines: 694-699
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-deviational-geometry-theoremlemmaproof-formalization::b1
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- →
+- ∞
+aliases:
+- Bk752ah
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

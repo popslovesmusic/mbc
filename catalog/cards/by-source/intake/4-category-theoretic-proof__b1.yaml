@@ -1,12 +1,34 @@
-block_type: paragraph
-concepts:
-- Deviation Functor
-- Ψ
-- δ
-excerpt: 'Define the **Deviation Functor**: δ:C→C\\delta : \\mathfrak{C} \\to \\mathfrak{C}δ:C→C
-  acting on deviation levels.'
-heading: '**4\. Category-Theoretic Proof**'
 id: INTK-10022
-lines: 1226-1238
 location: intake/meta-genesis-mathematical-papers::4-category-theoretic-proof::b1
 source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 1226-1238
+heading: '**4\. Category-Theoretic Proof**'
+block_type: paragraph
+excerpt: 'Define the **Deviation Functor**: δ:C→C\\delta : \\mathfrak{C} \\to \\mathfrak{C}δ:C→C
+  acting on deviation levels.'
+concepts:
+- δ
+- Deviation
+- Functor
+- Ψ
+- →
+- ∉
+- ∈
+- Deviation Functor
+- δ¹
+- δ²
+- δ⁰
+aliases:
+- Bk882dt
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.37037037037037
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

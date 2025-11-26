@@ -1,14 +1,32 @@
-block_type: table
-concepts:
-- Box
-- Standard Theorem Language
-- Theorem
-- Π
-- Φ
-- δ
-excerpt: '---'
-heading: '**Dual-Column Cross-Reference Table**'
 id: GEN17-5113
-lines: 1467-1476
 location: genesis-17/mbc-schema-3::dual-column-cross-reference-table::b1
 source: genesis-17\MBC_Schema_3.md
+lines: 1467-1476
+heading: '**Dual-Column Cross-Reference Table**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- MBC
+- Box
+- Π
+- Theorem
+- symmetry-breaking
+- Φ
+- super-luminal
+- Standard Theorem Language
+- δ
+aliases:
+- Bk347st
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

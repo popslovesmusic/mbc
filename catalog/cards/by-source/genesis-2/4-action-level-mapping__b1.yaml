@@ -1,9 +1,26 @@
-block_type: paragraph
-concepts:
-- Φ
-excerpt: Φ-action defines **all physical actions**.
-heading: '**4\. Action-Level Mapping**'
 id: GEN2-6377
-lines: 1039-1041
 location: genesis-2/axioms-of-geometry-topos-compatible::4-action-level-mapping::b1
 source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1039-1041
+heading: '**4\. Action-Level Mapping**'
+block_type: paragraph
+excerpt: Φ-action defines **all physical actions**.
+concepts:
+- Φ-action
+- Φ
+- all physical actions
+aliases:
+- Bk121ad
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 50.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

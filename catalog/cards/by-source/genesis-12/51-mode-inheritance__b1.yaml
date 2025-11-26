@@ -1,12 +1,31 @@
+id: GEN12-1735
+location: genesis-12/untitled-document::5-consequences-for-cmb-physics::51-mode-inheritance::b1
+source: genesis-12\Untitled_document.md
+lines: 209-218
+heading: '**5.1 Mode Inheritance**'
+parent_heading: '**5\. Consequences for CMB Physics**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'CMB multipoles inherit δ-harmonic degeneracy classes. Thus: * Large-scale
   anomalies reflect low-ℓ δ-curvature signatures.'
-heading: '**5.1 Mode Inheritance**'
-id: GEN12-1735
-lines: 209-218
-location: genesis-12/untitled-document::5-consequences-for-cmb-physics::51-mode-inheritance::b1
-parent_heading: '**5\. Consequences for CMB Physics**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- Large-scale
+- δ-curvature
+- δ-harmonic
+- Φ-mode
+- Φ
+aliases:
+- Bk088cm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

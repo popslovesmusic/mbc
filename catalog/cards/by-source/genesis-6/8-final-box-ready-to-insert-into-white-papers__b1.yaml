@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: Below is the polished, canonical box. ---
-heading: '**8\. Final Box (ready to insert into white papers)**'
 id: GEN6-8378
-lines: 187-191
 location: genesis-6/the-harmonic-spectral-triple::8-final-box-ready-to-insert-into-white-papers::b1
 source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 187-191
+heading: '**8\. Final Box (ready to insert into white papers)**'
+block_type: paragraph
+excerpt: Below is the polished, canonical box. ---
+aliases:
+- Bk790bt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

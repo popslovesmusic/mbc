@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Universe Has Stable Laws
-excerpt: '*(Why the Universe Has Stable Laws)*'
-heading: '**◼ LAW STABILITY AXIOM BOX**'
 id: GEN7-8630
-lines: 186-188
 location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::b2
 source: genesis-7\Why_-Curvature_Gives_Gravity.md
+lines: 186-188
+heading: '**◼ LAW STABILITY AXIOM BOX**'
+block_type: paragraph
+excerpt: '*(Why the Universe Has Stable Laws)*'
+concepts:
+- Universe Has Stable Laws
+aliases:
+- Bk916wt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,9 +1,30 @@
-block_type: paragraph
-concepts:
-- Axiom
-excerpt: '**Axiom M13 — Closure** Math is closed under: * exponentials (function spaces)'
-heading: '**13\. Closure Under Structural Formation**'
 id: GEN2-6254
-lines: 512-533
 location: genesis-2/axioms-for-the-category-genesis::13-closure-under-structural-formation::b1
 source: genesis-2\Axioms_for_the_Category_Genesis.md
+lines: 512-533
+heading: '**13\. Closure Under Structural Formation**'
+block_type: paragraph
+excerpt: '**Axiom M13 — Closure** Math is closed under: * exponentials (function spaces)'
+concepts:
+- IGSOA
+- Axiom
+- deviation-based
+- ∞
+aliases:
+- Am756ac
+tags:
+- axiom
+- low-uncertainty
+- definitive
+- -closure
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

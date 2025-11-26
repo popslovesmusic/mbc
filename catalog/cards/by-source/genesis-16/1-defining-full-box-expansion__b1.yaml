@@ -1,13 +1,30 @@
+id: GEN16-4106
+location: genesis-16/untitled-document::1-defining-full-box-expansion::b1
+source: genesis-16\Untitled_document.md
+lines: 4694-4704
+heading: '**⭐ 1\. DEFINING FULL BOX EXPANSION**'
 block_type: paragraph
+excerpt: 'A Box BBB is **fully expanded** if: * all E-operators have been applied
+  until entropy stops * all latent operator components are made explicit'
 concepts:
 - Box
+- E-operators
 - Γ
 - Φ
 - ρ
-excerpt: 'A Box BBB is **fully expanded** if: * all E-operators have been applied
-  until entropy stops * all latent operator components are made explicit'
-heading: '**⭐ 1\. DEFINING FULL BOX EXPANSION**'
-id: GEN16-4106
-lines: 4694-4704
-location: genesis-16/untitled-document::1-defining-full-box-expansion::b1
-source: genesis-16\Untitled_document.md
+- fully expanded
+aliases:
+- Bk497bb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.76595744680851
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,27 @@
+id: GEN3-7454
+location: genesis-3/the-physics-box-diagram::corollaries::corollary-c-meta-causality::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1260-1264
+heading: '**Corollary C. Meta-Causality**'
+parent_heading: '**Corollaries**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'All physical causality arises from: δ⟶Φ⟶Physics.\\delta \\longrightarrow
   \\Phi \\longrightarrow \\text{Physics}.δ⟶Φ⟶Physics.'
-heading: '**Corollary C. Meta-Causality**'
-id: GEN3-7454
-lines: 1260-1264
-location: genesis-3/the-physics-box-diagram::corollaries::corollary-c-meta-causality::b1
-parent_heading: '**Corollaries**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- δ
+- Φ
+aliases:
+- Bk690ap
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.76470588235294
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

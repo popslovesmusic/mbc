@@ -1,17 +1,36 @@
+id: GEN12-1574
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::2-δ-φ-harmonicization::20-overview::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 661-680
+heading: '**2.0 Overview**'
+parent_heading: '**2\. δ → Φ (Harmonicization)**'
 block_type: paragraph
-concepts:
-- Axiom
-- Cosmic Pipeline
-- In Section
-- harmonicization
-- Φ
-- δ
 excerpt: 'In Section 1, deviation δ was shown to arise inevitably from the NOT Axiom,
   generating adjacency and intrinsic curvature. Section 2 establishes the next transformation
   in the IGSOA Cosmic Pipeline: **...'
-heading: '**2.0 Overview**'
-id: GEN12-1574
-lines: 661-680
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::2-δ-φ-harmonicization::20-overview::b1
-parent_heading: '**2\. δ → Φ (Harmonicization)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- IGSOA
+- δ
+- Φ
+- Axiom
+- δ-curvature
+- self-organizes
+- Φ-spectrum
+- Φ-harmonic
+- harmonicization
+- Φ-modes
+- spectral ladder
+- Cosmic Pipeline
+- In Section
+aliases:
+- Bk813sd
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.304347826086957
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

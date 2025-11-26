@@ -1,14 +1,30 @@
+id: GEN12-1585
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::2-δ-φ-harmonicization::26-φ-as-the-bridge-between-genesis-and-geometry::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 833-850
+heading: '**2.6 Φ as the Bridge Between Genesis and Geometry**'
+parent_heading: '**2\. δ → Φ (Harmonicization)**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ψ
-- δ
 excerpt: 'Φ is neither Genesis nor geometry. It is the intermediate layer: Ψ0→δΦ→Πgeometry.\\Psi\_0
   \\xrightarrow{\\delta} \\Phi \\xrightarrow{\\Pi} \\text{geometry}.Ψ0​δ​ΦΠ​geometry.'
-heading: '**2.6 Φ as the Bridge Between Genesis and Geometry**'
-id: GEN12-1585
-lines: 833-850
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::2-δ-φ-harmonicization::26-φ-as-the-bridge-between-genesis-and-geometry::b1
-parent_heading: '**2\. δ → Φ (Harmonicization)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Φ
+- Π
+- δ
+- Ψ
+- →
+- Πgeometry
+aliases:
+- Bk284ng
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.571428571428571
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

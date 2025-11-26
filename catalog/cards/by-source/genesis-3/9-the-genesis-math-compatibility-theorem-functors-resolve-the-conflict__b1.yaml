@@ -1,11 +1,30 @@
+id: GEN3-7289
+location: genesis-3/metagenesis::9-the-genesis-math-compatibility-theorem-functors-resolve-the-conflict::b1
+source: genesis-3\metagenesis.md
+lines: 259-279
+heading: '**9\. The Genesis → Math Compatibility Theorem (Functors Resolve the Conflict)**'
 block_type: paragraph
-concepts:
-- Theorem
 excerpt: '**Theorem.** The categories Genesis and Action do not conflict if and only
   if there exists a functor F:Genesis→ActionF: \\mathbf{Genesis} \\to \\mathbf{Action}F:Genesis→Action
   with a right adjoint. *P...'
-heading: '**9\. The Genesis → Math Compatibility Theorem (Functors Resolve the Conflict)**'
-id: GEN3-7289
-lines: 259-279
-location: genesis-3/metagenesis::9-the-genesis-math-compatibility-theorem-functors-resolve-the-conflict::b1
-source: genesis-3\metagenesis.md
+concepts:
+- Theorem
+- Proof
+- Axiom
+- →
+aliases:
+- Th011tt
+tags:
+- theorem
+- proof
+is_formal: true
+statement_type: theorem
+axiom_count: 0
+theorem_count: 1
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.166666666666666
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

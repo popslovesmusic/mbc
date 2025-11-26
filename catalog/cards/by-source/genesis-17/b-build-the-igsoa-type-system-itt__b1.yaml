@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: (types \= eigenmodes of 𝓕)
-heading: B. Build the IGSOA Type System (ITT)
 id: GEN17-4830
-lines: 10052-10054
 location: genesis-17/box-calculus::next-options::b-build-the-igsoa-type-system-itt::b1
-parent_heading: '⭐ Next Options:'
 source: genesis-17\box_calculus.md
+lines: 10052-10054
+heading: B. Build the IGSOA Type System (ITT)
+parent_heading: '⭐ Next Options:'
+block_type: paragraph
+excerpt: (types \= eigenmodes of 𝓕)
+aliases:
+- Bk378te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

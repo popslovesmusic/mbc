@@ -1,17 +1,43 @@
+id: GEN13-2456
+location: genesis-13/the-weight-of-light::9-hermetic-sealed-box-version::sealed-genesisaction-functor-box::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 2702-2732
+heading: '**█ SEALED GENESIS–ACTION FUNCTOR BOX █**'
+parent_heading: '**9\. Hermetic Sealed Box Version**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Time
-- Π
-- Φ
-- Ψ
-- δ
-- τ
 excerpt: '**Functor:** A:G0→D\\mathbb{A} : \\mathcal{G}\_0 \\to \\mathcal{D}A:G0​→D
   **Objects:**'
-heading: '**█ SEALED GENESIS–ACTION FUNCTOR BOX █**'
-id: GEN13-2456
-lines: 2702-2732
-location: genesis-13/the-weight-of-light::9-hermetic-sealed-box-version::sealed-genesisaction-functor-box::b1
-parent_heading: '**9\. Hermetic Sealed Box Version**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- δ
+- Meta-Genesis
+- Meta-Time
+- Deviation
+- τ
+- Ψ
+- Functor
+- δ-activation
+- δ-closure
+- Π
+- Ξ
+- Φ
+- →
+- naturality defect
+- initial functor
+aliases:
+- Bk000a
+tags:
+- definitive
+- A0
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.2
+is_technical: true
+concept_density: 9.467455621301776
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A0

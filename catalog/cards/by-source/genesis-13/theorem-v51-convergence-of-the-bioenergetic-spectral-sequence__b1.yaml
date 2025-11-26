@@ -1,14 +1,36 @@
+id: GEN13-2612
+location: genesis-13/what-biology-is-in-meta-genesis::section-v5-δφπ-bioenergetic-spectral-sequence::theorem-v51-convergence-of-the-bioenergetic-spectral-sequence::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 2224-2244
+heading: '**Theorem V.5.1 (Convergence of the Bioenergetic Spectral Sequence).**'
+parent_heading: '**SECTION V.5 — δ–Φ–Π Bioenergetic Spectral Sequence**'
 block_type: paragraph
-concepts:
-- converges
-- Π
-- Φ
-- δ
 excerpt: 'The spectral sequence: E0⇒E1⇒E2⇒E3E\_0 \\Rightarrow E\_1 \\Rightarrow E\_2
   \\Rightarrow E\_3E0​⇒E1​⇒E2​⇒E3​ **converges** to the Π-stable δ-work spectrum:'
-heading: '**Theorem V.5.1 (Convergence of the Bioenergetic Spectral Sequence).**'
-id: GEN13-2612
-lines: 2224-2244
-location: genesis-13/what-biology-is-in-meta-genesis::section-v5-δφπ-bioenergetic-spectral-sequence::theorem-v51-convergence-of-the-bioenergetic-spectral-sequence::b1
-parent_heading: '**SECTION V.5 — δ–Φ–Π Bioenergetic Spectral Sequence**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Π
+- δ
+- →
+- Π-closure
+- Φ-cycle
+- δ-work
+- Φ
+- ∞
+- δ-curvature
+- Π-stable
+- converges
+aliases:
+- Bk231ts
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.923076923076923
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

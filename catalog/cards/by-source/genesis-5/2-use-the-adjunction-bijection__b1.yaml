@@ -1,13 +1,29 @@
+id: GEN5-8003
+location: genesis-5/formal-proof-of-the-adjoint-triple::7-coda-unity-does-not-mean-simplicity::2-use-the-adjunction-bijection::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 970-984
+heading: '**2\. Use the adjunction bijection**'
+parent_heading: '**7\. Coda: Unity Does Not Mean Simplicity**'
 block_type: paragraph
-concepts:
-- Φ
-- η
 excerpt: 'Because L⊣UL \\dashv UL⊣U, there is a natural bijection ΦX,Y: HomMM(LX, Y)
   ≅ HomMG(X, UY)\\Phi\_{X,Y}:\\ \\mathrm{Hom}\_{MM}(LX,\\,Y)\\ \\cong\\ \\mathrm{Hom}\_{MG}(X,\\,UY)ΦX,Y​:
   HomMM​(LX,Y) ≅ HomMG...'
-heading: '**2\. Use the adjunction bijection**'
-id: GEN5-8003
-lines: 970-984
-location: genesis-5/formal-proof-of-the-adjoint-triple::7-coda-unity-does-not-mean-simplicity::2-use-the-adjunction-bijection::b1
-parent_heading: '**7\. Coda: Unity Does Not Mean Simplicity**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- η
+- Φ
+- ΦX
+aliases:
+- Bk443bd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.803738317757009
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

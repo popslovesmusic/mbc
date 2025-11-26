@@ -1,10 +1,26 @@
+id: INTK-10353
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v2-meta-addition-is-generally-not-commutative::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1004-1005
+heading: 'V.2 Meta-Addition is generally not Commutative:'
+parent_heading: Properties and Axioms (Generalized)
 block_type: paragraph
-concepts: []
 excerpt: '`V ⊞ W ≠ W ⊞ V`. (Reflects path dependence and inherent asymmetry of deviation
   interaction).'
-heading: 'V.2 Meta-Addition is generally not Commutative:'
-id: INTK-10353
-lines: 1004-1005
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v2-meta-addition-is-generally-not-commutative::b1
-parent_heading: Properties and Axioms (Generalized)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- ≠
+aliases:
+- Bk901rp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

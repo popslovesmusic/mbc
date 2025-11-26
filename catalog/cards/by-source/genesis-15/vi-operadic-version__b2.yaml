@@ -1,13 +1,34 @@
+id: GEN15-3299
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::vi-operadic-version::b2
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 678-704
+heading: '**VI. Operadic Version**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Let Oδ\\mathcal{O}\_\\deltaOδ​ be the deviation operad. * Photons follow
   Π-null, which evaluates Φ at null directions. * Φ is computed from δ-tail global
   adjacency.
-heading: '**VI. Operadic Version**'
-id: GEN15-3299
-lines: 678-704
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::vi-operadic-version::b2
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- δ
+- ∞
+- infinite-arity operation
+- Π
+- Π-null
+- Φ
+- infinite-arity
+- photon-level
+- δ-tail
+aliases:
+- Bk084lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.344827586206897
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

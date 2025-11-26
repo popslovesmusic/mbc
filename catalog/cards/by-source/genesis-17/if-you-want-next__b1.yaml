@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'I can produce any of the following:'
-heading: '**If you want next:**'
 id: GEN17-5094
-lines: 1197-1199
 location: genesis-17/mbc-schema-3::if-you-want-next::b1
 source: genesis-17\MBC_Schema_3.md
+lines: 1197-1199
+heading: '**If you want next:**'
+block_type: paragraph
+excerpt: 'I can produce any of the following:'
+aliases:
+- Bk654cp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

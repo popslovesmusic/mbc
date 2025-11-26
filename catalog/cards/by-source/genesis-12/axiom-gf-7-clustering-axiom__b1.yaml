@@ -1,12 +1,31 @@
+id: GEN12-1886
+location: genesis-12/untitled-document::sealed-axiom-box-the-δφπ-galaxy-formation-axiom::axiom-gf-7-clustering-axiom::b1
+source: genesis-12\Untitled_document.md
+lines: 2490-2502
+heading: '**Axiom GF-7 (Clustering Axiom).**'
+parent_heading: '**⟡ SEALED AXIOM BOX: The δ–Φ–Π Galaxy-Formation Axiom ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'Galaxy clustering patterns—clusters, filaments, and walls—are Π-images of
   the global δ-harmonics: * δ₃ → cluster nodes * δ₆ → filament chains'
-heading: '**Axiom GF-7 (Clustering Axiom).**'
-id: GEN12-1886
-lines: 2490-2502
-location: genesis-12/untitled-document::sealed-axiom-box-the-δφπ-galaxy-formation-axiom::axiom-gf-7-clustering-axiom::b1
-parent_heading: '**⟡ SEALED AXIOM BOX: The δ–Φ–Π Galaxy-Formation Axiom ⟡**'
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- →
+- dark-energy-driven
+- δ-harmonics
+- Π-images
+- Π
+- δ₉
+- δ₃
+- δ₆
+aliases:
+- Bk611gc
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 25.71428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,15 +1,32 @@
+id: GEN17-4391
+location: genesis-17/box-calculus::3-mapping-the-laws-axioms::axiom-vi-deviation-non-collapse::b1
+source: genesis-17\box_calculus.md
+lines: 3198-3207
+heading: Axiom VI — Deviation / Non-Collapse
+parent_heading: ⭐ 3\. Mapping the Laws (Axioms)
 block_type: table
+excerpt: G(Deviation Axiom)=NOT-Axiom G(Deviation Axiom)=NOT-Axiom ​
 concepts:
 - Axiom
-- Box
-- Box Calculus
-- Deviation Axiom
 - Meta-Math
+- Deviation
+- Box Calculus
+- NOT-Axiom
+- Box
 - Σ
-excerpt: G(Deviation Axiom)=NOT-Axiom G(Deviation Axiom)=NOT-Axiom ​
-heading: Axiom VI — Deviation / Non-Collapse
-id: GEN17-4391
-lines: 3198-3207
-location: genesis-17/box-calculus::3-mapping-the-laws-axioms::axiom-vi-deviation-non-collapse::b1
-parent_heading: ⭐ 3\. Mapping the Laws (Axioms)
-source: genesis-17\box_calculus.md
+- Deviation Axiom
+- ≠
+aliases:
+- Bk396bc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.03448275862069
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

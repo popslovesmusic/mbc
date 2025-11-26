@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: c≅su(3).\\mathfrak{c} \\cong su(3).c≅su(3).
-heading: '**Theorem 2.3 (Color Algebra \= SU(3)).**'
 id: GEN13-2120
-lines: 1512-1514
 location: genesis-13/meta-math-nuclear-physics::2-φ-operator-algebra-as-qcd::theorem-23-color-algebra-su3::b1
-parent_heading: '**2\. Φ-Operator Algebra as QCD**'
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1512-1514
+heading: '**Theorem 2.3 (Color Algebra \= SU(3)).**'
+parent_heading: '**2\. Φ-Operator Algebra as QCD**'
+block_type: paragraph
+excerpt: c≅su(3).\\mathfrak{c} \\cong su(3).c≅su(3).
+aliases:
+- Bk045mc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

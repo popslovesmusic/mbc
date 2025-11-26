@@ -1,11 +1,28 @@
+id: GEN13-2079
+location: genesis-13/meta-math-nuclear-physics::3-the-π-layer-real-nuclear-physics::proposition-37-π-collective-modes::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 968-980
+heading: '**Proposition 3.7 (Π-Collective Modes).**'
+parent_heading: '**3\. The Π-Layer: Real Nuclear Physics**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Φ-excitations of definite tensor rank project to: * rank-1 → giant dipole
   resonance (GDR) * rank-2 → giant quadrupole resonance (GQR)'
-heading: '**Proposition 3.7 (Π-Collective Modes).**'
-id: GEN13-2079
-lines: 968-980
-location: genesis-13/meta-math-nuclear-physics::3-the-π-layer-real-nuclear-physics::proposition-37-π-collective-modes::b1
-parent_heading: '**3\. The Π-Layer: Real Nuclear Physics**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- →
+- Φ-excitations
+- Φ
+aliases:
+- Bk294ed
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

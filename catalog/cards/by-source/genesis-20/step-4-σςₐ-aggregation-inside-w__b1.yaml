@@ -1,13 +1,28 @@
+id: GEN20-6941
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::122-example-2-semantic-disambiguation::step-4-σςₐ-aggregation-inside-w::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 3689-3695
+heading: Step 4 — ΣΣₐ aggregation inside W
+parent_heading: 12.2 Example 2 — Semantic Disambiguation
 block_type: paragraph
+excerpt: 'W aggregates adjacency influences: Θ\_W \= ΣΣₐ (Θ\_C1, Θ\_C2) Θ\_W \= \+0.7
+  (dominant)'
 concepts:
 - Θ
 - Σ
 - Φ
-excerpt: 'W aggregates adjacency influences: Θ\_W \= ΣΣₐ (Θ\_C1, Θ\_C2) Θ\_W \= \+0.7
-  (dominant)'
-heading: Step 4 — ΣΣₐ aggregation inside W
-id: GEN20-6941
-lines: 3689-3695
-location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::122-example-2-semantic-disambiguation::step-4-σςₐ-aggregation-inside-w::b1
-parent_heading: 12.2 Example 2 — Semantic Disambiguation
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk125aa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

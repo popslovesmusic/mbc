@@ -1,12 +1,30 @@
+id: GEN13-2597
+location: genesis-13/what-biology-is-in-meta-genesis::section-iv5-higher-order-δφπ-bioenergetic-structures::theorem-iv51-functorial-metabolic-network::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1975-1997
+heading: '**Theorem IV.5.1 (Functorial Metabolic Network).**'
+parent_heading: '**SECTION IV.5 — Higher-Order δ–Φ–Π Bioenergetic Structures**'
 block_type: paragraph
-concepts:
-- Π
-- δ
 excerpt: 'There exists a strict monoidal functor: M:Metδ→Vect\\mathcal{M}: \\mathbf{Met}\_\\delta
   \\to \\mathbf{Vect}M:Metδ​→Vect mapping:'
-heading: '**Theorem IV.5.1 (Functorial Metabolic Network).**'
-id: GEN13-2597
-lines: 1975-1997
-location: genesis-13/what-biology-is-in-meta-genesis::section-iv5-higher-order-δφπ-bioenergetic-structures::theorem-iv51-functorial-metabolic-network::b1
-parent_heading: '**SECTION IV.5 — Higher-Order δ–Φ–Π Bioenergetic Structures**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- →
+- δ
+- fully formal categorical foundation
+- ⊗
+- δ-transductions
+- Π-composition
+- δ-packets
+- Π
+aliases:
+- Bk246te
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.256410256410255
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

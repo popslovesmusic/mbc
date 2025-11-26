@@ -1,14 +1,38 @@
-block_type: paragraph
-concepts:
-- recursion
-- Π
-- Φ
-- Ω
-- δ
-excerpt: 'Let: * δ: 0 → Δ be the deviation functor from stillness * Φ: Δ → Χ be the
-  mode-dynamic functor'
-heading: '**5\. 2-Categorical / String Diagram Version**'
 id: GEN13-2485
-lines: 388-422
 location: genesis-13/what-biology-is-in-meta-genesis::5-2-categorical-string-diagram-version::b1
 source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 388-422
+heading: '**5\. 2-Categorical / String Diagram Version**'
+block_type: paragraph
+excerpt: 'Let: * δ: 0 → Δ be the deviation functor from stillness * Φ: Δ → Χ be the
+  mode-dynamic functor'
+concepts:
+- δ
+- →
+- Π
+- Φ
+- Χ
+- Δ
+- Π-fixed points
+- mode-dynamic
+- δ-curvature
+- δ-harmonics
+- δ-spectral
+- Π-fixed
+- Ω
+- endofunctor structure
+- δ-echo
+aliases:
+- Bk762lt
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 19.27710843373494
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.7

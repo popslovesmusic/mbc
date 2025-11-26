@@ -1,13 +1,28 @@
+id: GEN18-5789
+location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-produce-one-of-the-following-extensions::the-mbc-40-reasoning-corollaries::b1
+source: genesis-18\SEALED_AXIOM_BOX.md
+lines: 1835-1837
+heading: '**🔵 The MBC-4.0 Reasoning Corollaries**'
+parent_heading: '**If you want, I can now produce one of the following extensions:**'
 block_type: paragraph
+excerpt: (e.g., “No New Truths from Φ,” “All Proofs Normalize to δ-Paths,” etc.)
 concepts:
+- δ-Paths
+- δ
+- Φ
 - All Proofs Normalize
 - No New Truths
-- Φ
-- δ
-excerpt: (e.g., “No New Truths from Φ,” “All Proofs Normalize to δ-Paths,” etc.)
-heading: '**🔵 The MBC-4.0 Reasoning Corollaries**'
-id: GEN18-5789
-lines: 1835-1837
-location: genesis-18/sealed-axiom-box::if-you-want-i-can-now-produce-one-of-the-following-extensions::the-mbc-40-reasoning-corollaries::b1
-parent_heading: '**If you want, I can now produce one of the following extensions:**'
-source: genesis-18\SEALED_AXIOM_BOX.md
+aliases:
+- Bk492nt
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 35.714285714285715
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

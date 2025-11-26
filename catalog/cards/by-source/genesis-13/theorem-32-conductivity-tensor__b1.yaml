@@ -1,14 +1,32 @@
+id: GEN13-2189
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-i-electronic-material-properties::theorem-32-conductivity-tensor::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2222-2228
+heading: '**Theorem 3.2 — Conductivity Tensor**'
+parent_heading: '**3\. Π-Layer I: Electronic Material Properties**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- σ
 excerpt: σij=Π ⁣(∫BZf(E)FΦ,ij(k) ddk).\\sigma\_{ij} \= \\Pi\\\!\\left(\\int\_{\\text{BZ}}
   f(E) \\mathcal{F}\_{\\Phi,ij}(k)\\, d^dk \\right).σij​=Π(∫BZ​f(E)FΦ,ij​(k)ddk).
   Conductivity is Π-projection of Φ-Berry...
-heading: '**Theorem 3.2 — Conductivity Tensor**'
-id: GEN13-2189
-lines: 2222-2228
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-i-electronic-material-properties::theorem-32-conductivity-tensor::b1
-parent_heading: '**3\. Π-Layer I: Electronic Material Properties**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Π
+- Φ
+- ∫
+- σ
+- Π-projection
+- Φ-Berry
+aliases:
+- Bk587bd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

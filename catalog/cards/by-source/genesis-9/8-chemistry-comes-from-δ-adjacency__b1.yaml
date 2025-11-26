@@ -1,13 +1,31 @@
+id: GEN9-9338
+location: genesis-9/is-the-source-of-all-structure::8-chemistry-comes-from-δ-adjacency::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 160-173
+heading: '**8\. Chemistry comes from δ-adjacency**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Bonding is caused by **adjacency defects in δ-geometry**, not “forces”:
   * δ-adjacency defines when two local spectra can combine * Φ defines the allowed
   propagation pathways'
-heading: '**8\. Chemistry comes from δ-adjacency**'
-id: GEN9-9338
-lines: 160-173
-location: genesis-9/is-the-source-of-all-structure::8-chemistry-comes-from-δ-adjacency::b1
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- δ-geometry
+- adjacency defects in δ-geometry
+- δ
+- δ-adjacency
+- δ-spectra
+- Π
+- Φ
+aliases:
+- Bk025bc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.555555555555555
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,14 +1,36 @@
+id: GEN13-2590
+location: genesis-13/what-biology-is-in-meta-genesis::section-iv2-δφπ-symmetry-breaking::theorem-iv22-existence-of-broken-sectors-in-π-hierarchy::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1840-1865
+heading: '**Theorem IV.2.2 (Existence of Broken Sectors in Π-Hierarchy).**'
+parent_heading: '**SECTION IV.2 — δ–Φ–Π Symmetry Breaking**'
 block_type: paragraph
-concepts:
-- Higher Pn
-- Π
-- Φ
-- δ
 excerpt: 'Let: P0⊂P1⊂⋯⊂PN\\mathcal{P}\_0 \\subset \\mathcal{P}\_1 \\subset \\cdots
   \\subset \\mathcal{P}\_NP0​⊂P1​⊂⋯⊂PN​ be the Π-hierarchy from Part III.'
-heading: '**Theorem IV.2.2 (Existence of Broken Sectors in Π-Hierarchy).**'
-id: GEN13-2590
-lines: 1840-1865
-location: genesis-13/what-biology-is-in-meta-genesis::section-iv2-δφπ-symmetry-breaking::theorem-iv22-existence-of-broken-sectors-in-π-hierarchy::b1
-parent_heading: '**SECTION IV.2 — δ–Φ–Π Symmetry Breaking**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- ⊂
+- Proof
+- Π
+- symmetry-preserving
+- ≥
+- Π-hierarchy
+- ATP-like
+- Π-levels
+- δ
+- Φ
+- Higher Pn
+aliases:
+- Bk828lm
+tags:
+- proof
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.401709401709402
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,13 +1,29 @@
+id: INTK-10878
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::light-cone-as-projection::classical-light-cone::b2
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 3522-3527
+heading: Classical Light Cone
+parent_heading: Light Cone as Projection
 block_type: paragraph
-concepts:
-- μ
-- ν
-- τ
 excerpt: 'Light cone = projection of τ-null surface: ``` ΔS² = 0  ⟶  g_μν dx^μ dx^ν
   = 0'
-heading: Classical Light Cone
-id: INTK-10878
-lines: 3522-3527
-location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::light-cone-as-projection::classical-light-cone::b2
-parent_heading: Light Cone as Projection
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+concepts:
+- ν
+- μ
+- Δ
+- τ
+aliases:
+- Bk268lc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.666666666666668
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

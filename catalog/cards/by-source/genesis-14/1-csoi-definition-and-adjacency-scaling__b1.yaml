@@ -1,16 +1,41 @@
+id: GEN14-2739
+location: genesis-14/inflation-structure-formation::proof::1-csoi-definition-and-adjacency-scaling::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1343-1369
+heading: '**1\. CSOI: Definition and Adjacency Scaling**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Causal Sphere
-- Π
-- Φ
-- α
-- δ
 excerpt: 'The **Causal Sphere of Influence (CSOI)** is an IGSOA object defined by
   the closure: CSOI(x):={y  ∣  δk(x,y)≠0 for some k}‾,\\text{CSOI}(x) := \\overline{\\{
   y \\;|\\; \\delta^k(x,y) \\neq 0 \\text{ f...'
-heading: '**1\. CSOI: Definition and Adjacency Scaling**'
-id: GEN14-2739
-lines: 1343-1369
-location: genesis-14/inflation-structure-formation::proof::1-csoi-definition-and-adjacency-scaling::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- δ
+- IGSOA
+- non-zero δ-deviation influence
+- α
+- Φ
+- CSOI does not cut off sharply
+- Π-projection
+- δ-deviation
+- freeze-out
+- Φ-locking
+- non-zero
+- ≠
+- Π
+- δtail
+- Causal Sphere
+aliases:
+- Bk569tc
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.81081081081081
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

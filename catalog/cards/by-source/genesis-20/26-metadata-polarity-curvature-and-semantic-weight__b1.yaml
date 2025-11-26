@@ -1,11 +1,27 @@
+id: GEN20-6700
+location: genesis-20/mbc-40-documentaitio-1::26-metadata-polarity-curvature-and-semantic-weight::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 609-630
+heading: '2.6 Metadata: Polarity, Curvature, and Semantic Weight'
 block_type: paragraph
-concepts:
-- Θ
 excerpt: 'While most formal systems keep metadata separate from core logic, MBC-4.0
   embeds metadata directly into the structure. Metadata is not decoration; it is dynamically
   significant. Metadata includes:'
-heading: '2.6 Metadata: Polarity, Curvature, and Semantic Weight'
-id: GEN20-6700
-lines: 609-630
-location: genesis-20/mbc-40-documentaitio-1::26-metadata-polarity-curvature-and-semantic-weight::b1
-source: genesis-20\MBC_40_Documentaitio-1.md
+concepts:
+- Curvature
+- Adjacency
+- Polarity
+- MBC
+- Θ
+aliases:
+- Bk230wm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.05050505050505
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

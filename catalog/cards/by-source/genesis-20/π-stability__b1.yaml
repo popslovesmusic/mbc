@@ -1,12 +1,25 @@
+id: GEN20-7137
+location: genesis-20/mbc-40-documentaitio-1::a32-π-coherence-evaluation-validity::π-stability::b1
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 5984-5989
+heading: Π-Stability
+parent_heading: 'A3.2 Π-Coherence: Evaluation Validity'
 block_type: paragraph
+excerpt: 'Π(Φ)=Π(Π(Φ)) Π(Φ)=Π(Π(Φ)) Evaluation is idempotent: once meaning is realized,
+  re-evaluating yields no change.'
 concepts:
 - Π
 - Φ
-excerpt: 'Π(Φ)=Π(Π(Φ)) Π(Φ)=Π(Π(Φ)) Evaluation is idempotent: once meaning is realized,
-  re-evaluating yields no change.'
-heading: Π-Stability
-id: GEN20-7137
-lines: 5984-5989
-location: genesis-20/mbc-40-documentaitio-1::a32-π-coherence-evaluation-validity::π-stability::b1
-parent_heading: 'A3.2 Π-Coherence: Evaluation Validity'
-source: genesis-20\MBC_40_Documentaitio-1.md
+- re-evaluating
+aliases:
+- Bk639ei
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

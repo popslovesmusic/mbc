@@ -1,13 +1,34 @@
+id: GEN5-8046
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc8-physical-interpretation-seal::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 1612-1629
+heading: '**Axiom DC8 — Physical Interpretation Seal.**'
+parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
 block_type: paragraph
-concepts:
-- Meta-Einstein
-- The Deviational Curvature Functor
 excerpt: 'The Deviational Curvature Functor encapsulates: 1. **Deviation is functorial**:
   a universal transformation of objects. 2. **Projection is structural**: forming
   adjacency, geometry, metric.'
-heading: '**Axiom DC8 — Physical Interpretation Seal.**'
-id: GEN5-8046
-lines: 1612-1629
-location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc8-physical-interpretation-seal::b1
-parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- Curvature
+- Meta-Einstein
+- →
+- Deviation
+- Projection
+- Functor
+- Axiom
+- The Deviational Curvature Functor
+- Projection is structural
+- Deviation is functorial
+- ≠
+aliases:
+- Bk294td
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.359550561797752
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

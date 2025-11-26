@@ -1,14 +1,29 @@
+id: INTK-10400
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::δ-deviation::implications-and-role-in-igsoa::4-foundation-of-meta-time-τ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1240-1241
+heading: 4. Foundation of Meta-Time (τ)
+parent_heading: Implications and Role in IGSOA
 block_type: paragraph
+excerpt: The continuous flow of **Meta-Time (τ)** is defined by the evolution of `δ`.
+  `τ` is the ordering parameter for how `δ` rearranges itself. The irreversibility
+  of `δ` flow gives `τ` its unidirectional a...
 concepts:
 - Meta-Time
 - δ
 - τ
-excerpt: The continuous flow of **Meta-Time (τ)** is defined by the evolution of `δ`.
-  `τ` is the ordering parameter for how `δ` rearranges itself. The irreversibility
-  of `δ` flow gives `τ` its unidirectional a...
-heading: 4. Foundation of Meta-Time (τ)
-id: INTK-10400
-lines: 1240-1241
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::δ-deviation::implications-and-role-in-igsoa::4-foundation-of-meta-time-τ::b1
-parent_heading: Implications and Role in IGSOA
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+aliases:
+- Bk021tc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

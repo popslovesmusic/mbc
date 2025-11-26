@@ -1,10 +1,26 @@
+id: GEN17-4422
+location: genesis-17/box-calculus::ea::22-define-the-adjointness-condition::b1
+source: genesis-17\box_calculus.md
+lines: 3906-3955
+heading: 2.2 Define the adjointness condition
+parent_heading: E⊣A
 block_type: paragraph
+excerpt: 'We must show a natural bijection: Hom(EΣ1,Σ2)  ≅  Hom(Σ1,AΣ2) Hom(EΣ'
 concepts:
 - Σ
-excerpt: 'We must show a natural bijection: Hom(EΣ1,Σ2)  ≅  Hom(Σ1,AΣ2) Hom(EΣ'
-heading: 2.2 Define the adjointness condition
-id: GEN17-4422
-lines: 3906-3955
-location: genesis-17/box-calculus::ea::22-define-the-adjointness-condition::b1
-parent_heading: E⊣A
-source: genesis-17\box_calculus.md
+- →
+aliases:
+- Bk153ms
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.8169014084507045
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

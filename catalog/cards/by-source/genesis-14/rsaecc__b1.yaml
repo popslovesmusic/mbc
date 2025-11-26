@@ -1,12 +1,27 @@
+id: GEN14-2899
+location: genesis-14/meta-math-and-cryptography::4-consequences-for-each-cryptographic-branch::rsaecc::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1577-1580
+heading: '**RSA/ECC:**'
+parent_heading: '**4\. Consequences for Each Cryptographic Branch**'
 block_type: paragraph
+excerpt: Π publishes (N, e) or k·G but lacks δ (primes or scalar). No adjoint exists
+  for exponentiation or curve multiplication.
 concepts:
 - Π
 - δ
-excerpt: Π publishes (N, e) or k·G but lacks δ (primes or scalar). No adjoint exists
-  for exponentiation or curve multiplication.
-heading: '**RSA/ECC:**'
-id: GEN14-2899
-lines: 1577-1580
-location: genesis-14/meta-math-and-cryptography::4-consequences-for-each-cryptographic-branch::rsaecc::b1
-parent_heading: '**4\. Consequences for Each Cryptographic Branch**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+aliases:
+- Bk778pb
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.523809523809524
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

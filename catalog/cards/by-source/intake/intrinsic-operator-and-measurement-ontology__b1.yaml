@@ -1,19 +1,41 @@
+id: INTK-9791
+location: intake/meta-genesis-core-papers-foundations::deviation-δ-as-necessity::intrinsic-operator-and-measurement-ontology::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 472-488
+heading: '***(Intrinsic, Operator, and Measurement Ontology)***'
+parent_heading: '**DEVIATION (δ) AS NECESSITY**'
 block_type: paragraph
-concepts:
-- Operator
-- Zero State
-- first
-- measure
-- mechanism
-- necessary
-- Ψ
-- δ
 excerpt: Deviation **δ** is the *first* and *necessary* structure that emerges when
   the Zero State Ψ₀ becomes unstable. It is the **mechanism**, **measure**, and **mathematical
   operator** that transitions the ...
-heading: '***(Intrinsic, Operator, and Measurement Ontology)***'
-id: INTK-9791
-lines: 472-488
-location: intake/meta-genesis-core-papers-foundations::deviation-δ-as-necessity::intrinsic-operator-and-measurement-ontology::b1
-parent_heading: '**DEVIATION (δ) AS NECESSITY**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- δ
+- Deviation
+- Operator
+- State
+- →
+- pre-ontological
+- mathematical operator
+- Ψ
+- Intrinsic δ
+- Operator δ
+- Measured δ
+- Zero State
+- mechanism
+- measure
+- Ψ₀
+aliases:
+- Bk992dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 19.230769230769234
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

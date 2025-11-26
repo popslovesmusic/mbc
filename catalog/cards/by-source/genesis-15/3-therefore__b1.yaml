@@ -1,12 +1,29 @@
+id: GEN15-3277
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-explicit-functional-equivalence::3-therefore::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 323-331
+heading: '**3\. Therefore**'
+parent_heading: '**III. Explicit Functional Equivalence**'
 block_type: paragraph
-concepts:
-- Φ
 excerpt: 'Both generate the **same functional kinematic fixed point**: Φeff∼log⁡r,v(r)∼constant.\\Phi\_{\\mathrm{eff}}
   \\sim \\log r, \\quad v(r)\\sim\\text{constant}.Φeff​∼logr,v(r)∼constant. This is
   the essen...'
-heading: '**3\. Therefore**'
-id: GEN15-3277
-lines: 323-331
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-explicit-functional-equivalence::3-therefore::b1
-parent_heading: '**III. Explicit Functional Equivalence**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- same functional kinematic fixed point
+- Φ
+- Φeff
+aliases:
+- Bk765bg
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.6923076923076925
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

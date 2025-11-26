@@ -1,12 +1,24 @@
+id: GEN12-1606
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::36-π-as-a-functor-not-an-operator::b1
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 1166-1178
+heading: '**3.6 Π as a Functor (Not an Operator)**'
+parent_heading: '**3\. Φ → Π (Projection to Geometry)**'
 block_type: paragraph
-concepts:
-- functor
-- Π
 excerpt: 'Π is not a linear operator—it is a **functor**, meaning: * it preserves
   structure, * it preserves morphisms,'
-heading: '**3.6 Π as a Functor (Not an Operator)**'
-id: GEN12-1606
-lines: 1166-1178
-location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::36-π-as-a-functor-not-an-operator::b1
-parent_heading: '**3\. Φ → Π (Projection to Geometry)**'
-source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+concepts:
+- Π
+- functor
+aliases:
+- Bk822nl
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

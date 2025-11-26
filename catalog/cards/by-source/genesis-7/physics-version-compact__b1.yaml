@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Stable laws appear because:'
-heading: '**PHYSICS VERSION (Compact)**'
 id: GEN7-8462
-lines: 357-359
 location: genesis-7/the-complete-eft-lagrangian::physics-version-compact::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 357-359
+heading: '**PHYSICS VERSION (Compact)**'
+block_type: paragraph
+excerpt: 'Stable laws appear because:'
+aliases:
+- Bk692sl
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

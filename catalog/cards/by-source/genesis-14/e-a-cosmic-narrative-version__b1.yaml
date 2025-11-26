@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- Why Secrecy Exists
-excerpt: “**Why Secrecy Exists in the Universe**” Which one should I generate next?
-heading: '**E. A cosmic-narrative version**'
 id: GEN14-2881
-lines: 1333-1337
 location: genesis-14/meta-math-and-cryptography::if-you-want-i-can-now-generate::e-a-cosmic-narrative-version::b1
-parent_heading: '**If you want, I can now generate:**'
 source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1333-1337
+heading: '**E. A cosmic-narrative version**'
+parent_heading: '**If you want, I can now generate:**'
+block_type: paragraph
+excerpt: “**Why Secrecy Exists in the Universe**” Which one should I generate next?
+concepts:
+- Why Secrecy Exists in the Universe
+- Why Secrecy Exists
+aliases:
+- Bk654ws
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 16.666666666666664
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

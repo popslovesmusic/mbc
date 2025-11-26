@@ -1,14 +1,32 @@
+id: SPEC-10983
+location: special/specil::3-deviation-the-method-of-operation-of-igsoa::deviation-is-the-operational-mode-of-igsoa-on-a-2d-brane::b1
+source: special\specil.md
+lines: 256-272
+heading: '**Deviation is the *operational mode* of IGSOA on a 2D brane**'
+parent_heading: '**🌀 3\. Deviation: the “Method of Operation” of IGSOA**'
 block_type: list
-concepts:
-- Meta-Symmetry
-- Π
-- Φ
-- δ
 excerpt: '* The non-zero enforcement creates a **local dependent point** (your “peakset,”
   the first non-symmetric blip). * That blip has a \+non-zero value.'
-heading: '**Deviation is the *operational mode* of IGSOA on a 2D brane**'
-id: SPEC-10983
-lines: 256-272
-location: special/specil::3-deviation-the-method-of-operation-of-igsoa::deviation-is-the-operational-mode-of-igsoa-on-a-2d-brane::b1
-parent_heading: '**🌀 3\. Deviation: the “Method of Operation” of IGSOA**'
-source: special\specil.md
+concepts:
+- Deviation
+- IGSOA
+- non-zero
+- →
+- non-symmetric
+- Meta-Symmetry
+- Π
+- δ
+- local dependent point
+- Φ
+aliases:
+- Bk152tn
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.873015873015872
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

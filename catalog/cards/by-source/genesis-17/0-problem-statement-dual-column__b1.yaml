@@ -1,12 +1,32 @@
-block_type: table
-concepts:
-- Expansion Constraint
-- Halting Law
-- Mathematical Interpretation
-- Σ
-excerpt: This is the Expansion Constraint or E-Halting Law. ---
-heading: 0\. Problem Statement (Dual-Column)
 id: GEN17-4226
-lines: 1167-1176
 location: genesis-17/box-calculus::0-problem-statement-dual-column::b1
 source: genesis-17\box_calculus.md
+lines: 1167-1176
+heading: 0\. Problem Statement (Dual-Column)
+block_type: table
+excerpt: This is the Expansion Constraint or E-Halting Law. ---
+concepts:
+- IGSOA
+- Σ
+- →
+- Mathematical Interpretation
+- E-operator
+- E-Halting
+- Expansion Constraint
+- Halting Law
+- Σt
+aliases:
+- Bk758ii
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.112359550561797
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,20 +1,41 @@
+id: GEN2-6537
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::appendix-a-the-axioms-of-meta-genesis-revised::a0-overview::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 883-910
+heading: '**A.0 Overview**'
+parent_heading: '**Appendix A: The Axioms of Meta-Genesis (Revised)**'
 block_type: paragraph
-concepts:
-- Lemma
-- Meta-Genesis
-- Meta-Math
-- Scale-Topos
-- Topos Compatibility Lemma
-- zero-state
-- Π
-- Φ
-- δ
-- σ
 excerpt: 'Meta-Genesis (MG) provides the *potential layer* of the IGSOA framework.
   Its purpose is to formalize: * the **zero-state**,'
-heading: '**A.0 Overview**'
-id: GEN2-6537
-lines: 883-910
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::appendix-a-the-axioms-of-meta-genesis-revised::a0-overview::b1
-parent_heading: '**Appendix A: The Axioms of Meta-Genesis (Revised)**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- Meta-Genesis
+- δ-geometry
+- Meta-Math
+- Υ
+- δ
+- →
+- IGSOA
+- in canonical topos-compatible form
+- Lemma
+- σ
+- Theorem
+- Proof
+- topos-compatible
+- Π
+- δ-sheafification
+aliases:
+- Bk538mg
+tags:
+- proof
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.51219512195122
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

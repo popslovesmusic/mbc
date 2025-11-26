@@ -1,11 +1,28 @@
+id: GEN15-3289
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::if-you-want-the-next-layer::the-csoilensing-equivalence-theorem::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+lines: 490-494
+heading: '**• The CSOI–Lensing Equivalence Theorem**'
+parent_heading: '**If you want the next layer**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: (showing how δ-curvature reproduces DM gravitational lensing) Just tell me
   **which one next**.
-heading: '**• The CSOI–Lensing Equivalence Theorem**'
-id: GEN15-3289
-lines: 490-494
-location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::if-you-want-the-next-layer::the-csoilensing-equivalence-theorem::b1
-parent_heading: '**If you want the next layer**'
-source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md
+concepts:
+- δ-curvature
+- δ
+- which one next
+aliases:
+- Bk116sh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,15 +1,33 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Meta-Math
-- Nuclear Physics Axiom Box
-- Tri-Unity
-excerpt: 'If you want, I can convert this whole mapping into a **sealed “Meta-Math
-  → Nuclear Physics Axiom Box”**, matching your style: * minimal * symbolic'
-heading: '**4\. SEAL THIS AS A ONE-PAGE AXIOM BOX**'
 id: GEN13-2018
-lines: 225-242
 location: genesis-13/meta-math-nuclear-physics::4-seal-this-as-a-one-page-axiom-box::b1
 source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 225-242
+heading: '**4\. SEAL THIS AS A ONE-PAGE AXIOM BOX**'
+block_type: paragraph
+excerpt: 'If you want, I can convert this whole mapping into a **sealed “Meta-Math
+  → Nuclear Physics Axiom Box”**, matching your style: * minimal * symbolic'
+concepts:
+- Meta-Math
+- Tri-Unity
+- Axiom
+- Box
+- Nuclear Physics Axiom Box
+- →
+- Axiom Box
+aliases:
+- Bk358yw
+tags:
+- axiom-box
+- definitive
+- sealed
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.27906976744186
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,29 @@
+id: GEN17-4437
+location: genesis-17/box-calculus::4-the-full-adjoint-structure::b1
+source: genesis-17\box_calculus.md
+lines: 4418-4431
+heading: ⭐ 4\. THE FULL ADJOINT STRUCTURE
 block_type: paragraph
+excerpt: 'We now have: E⊣AandΦ⊣Π E⊣AandΦ⊣Π'
 concepts:
-- Box
 - Box Calculus
+- IGSOA
+- Box
 - Π
 - Φ
 - λ
-excerpt: 'We now have: E⊣AandΦ⊣Π E⊣AandΦ⊣Π'
-heading: ⭐ 4\. THE FULL ADJOINT STRUCTURE
-id: GEN17-4437
-lines: 4418-4431
-location: genesis-17/box-calculus::4-the-full-adjoint-structure::b1
-source: genesis-17\box_calculus.md
+aliases:
+- Bk593nh
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.909090909090908
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

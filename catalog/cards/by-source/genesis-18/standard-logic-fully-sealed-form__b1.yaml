@@ -1,12 +1,31 @@
+id: GEN18-5475
+location: genesis-18/mbc-4::x-the-full-formal-theorem-hermetic-box-form::standard-logic-fully-sealed-form::b1
+source: genesis-18\MBC-4.md
+lines: 1329-1335
+heading: '**Standard logic (fully sealed form)**'
+parent_heading: '**X. The Full Formal Theorem (Hermetic Box Form)**'
 block_type: paragraph
-concepts:
-- Semantic Logic Theorem
-- Theorem
 excerpt: ∀X,  Semantics(X)=Close(Eval(Unify(Relate(X))))  ∧  Semantics(Semantics(X))=Semantics(X)\\boxed{
   \\forall X,\\; \\text{Semantics}(X)= \\text{Close}\\big(\\text{Eval}(\\text{Unify}(\\text{Relate}(X)))\...
-heading: '**Standard logic (fully sealed form)**'
-id: GEN18-5475
-lines: 1329-1335
-location: genesis-18/mbc-4::x-the-full-formal-theorem-hermetic-box-form::standard-logic-fully-sealed-form::b1
-parent_heading: '**X. The Full Formal Theorem (Hermetic Box Form)**'
-source: genesis-18\MBC-4.md
+concepts:
+- MBC
+- Theorem
+- ∧
+- complete Semantic Logic Theorem
+- ∀
+- Semantic Logic Theorem
+aliases:
+- Bk390sc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.67741935483871
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

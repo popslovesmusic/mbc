@@ -1,15 +1,39 @@
-block_type: table
-concepts:
-- Geometry Narrative
-- Standard Physics Narrative
-- atemporal
-- moment
-- Π
-- δ
-excerpt: '---'
-heading: '**1\. The Pre-Temporal Condition**'
 id: GEN18-5147
-lines: 8-15
 location: genesis-18/chapter-how-expansion-happened-before-time-existed::chapter-how-expansion-happened-before-time-existed::1-the-pre-temporal-condition::b1
-parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
 source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 8-15
+heading: '**1\. The Pre-Temporal Condition**'
+parent_heading: '**Chapter: How Expansion Happened Before Time Existed**'
+block_type: table
+excerpt: '---'
+concepts:
+- IGSOA
+- δ-operator is dormant
+- kinetic-potential
+- adjacency-network
+- δ
+- non-temporal
+- pre-geometry
+- Standard Physics Narrative
+- δ-Geometry
+- δ-operator
+- pre-cosmic
+- Π-level
+- Π
+- one undivided object
+- Geometry Narrative
+aliases:
+- Bk166sp
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.404624277456648
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

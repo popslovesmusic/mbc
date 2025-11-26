@@ -1,13 +1,30 @@
-block_type: table
-concepts:
-- Box
-- Γ
-- σ
-- τ
-excerpt: 'eval: BσBτ×Bτ→Bσ eval: B σ'
-heading: 3.2 Application / Modus Ponens
 id: GEN17-4577
-lines: 6723-6762
 location: genesis-17/box-calculus::curryhoward-for-box-calculus::3-structural-rules-as-box-operators::32-application-modus-ponens::b1
-parent_heading: 3\. Structural Rules as Box Operators
 source: genesis-17\box_calculus.md
+lines: 6723-6762
+heading: 3.2 Application / Modus Ponens
+parent_heading: 3\. Structural Rules as Box Operators
+block_type: table
+excerpt: 'eval: BσBτ×Bτ→Bσ eval: B σ'
+concepts:
+- τ
+- σ
+- →
+- Γ
+- IGSOA
+- Box
+aliases:
+- Bk117if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

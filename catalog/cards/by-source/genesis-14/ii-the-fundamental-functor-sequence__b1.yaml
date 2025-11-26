@@ -1,13 +1,29 @@
+id: GEN14-3066
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-the-fundamental-functor-sequence::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 2090-2098
+heading: '**II. The Fundamental Functor Sequence**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'Magnetic order arises from the composite functor: Adjδ→F1Fractδ→F2SpinΦ→F3MagΠ\\mathbf{Adj}\_\\delta
   \\xrightarrow{F\_1} \\mathbf{Fract}\_\\delta \\xrightarrow{F\_2} \\mathbf{Spin}\_\\Phi
   \\xrightarro...'
-heading: '**II. The Fundamental Functor Sequence**'
-id: GEN14-3066
-lines: 2090-2098
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::ii-the-fundamental-functor-sequence::b1
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- δ
+- →
+- Π
+- Φ
+aliases:
+- Bk614mo
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.30232558139535
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,29 @@
+id: GEN10-847
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-from-ψ₀-to-δ-geometry::33-the-first-adjacency-δψ₀::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 1582-1600
+heading: '**3.3 The First Adjacency (δΨ₀)**'
+parent_heading: '**3\. From Ψ₀ to δ-Geometry**'
 block_type: paragraph
+excerpt: 'Adjacency is the primitive relation from which: * topology, * metric,'
 concepts:
-- irreducible
+- Adjacency
 - Ψ
 - δ
-excerpt: 'Adjacency is the primitive relation from which: * topology, * metric,'
-heading: '**3.3 The First Adjacency (δΨ₀)**'
-id: GEN10-847
-lines: 1582-1600
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-from-ψ₀-to-δ-geometry::33-the-first-adjacency-δψ₀::b1
-parent_heading: '**3\. From Ψ₀ to δ-Geometry**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+- non-zero
+aliases:
+- Bk001a
+tags:
+- A1
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3
+identifiers:
+- A1

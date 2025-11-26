@@ -1,13 +1,35 @@
+id: GEN13-2530
+location: genesis-13/what-biology-is-in-meta-genesis::2-φ-mode-structure-of-transduction::definition-21-φ-harmonic-rotor-object::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 990-1003
+heading: '**Definition 2.1 (Φ-Harmonic Rotor Object).**'
+parent_heading: '**2\. Φ-Mode Structure of Transduction**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: 'A Φ-harmonic rotor is an object R∈Ob(H)R \\in \\mathrm{Ob}(\\mathcal{H})R∈Ob(H)
   such that: Φ(Δδ)≅LR\\Phi(\\Delta\_\\delta) \\cong \\mathcal{L}\_RΦ(Δδ​)≅LR​ where
   LR\\mathcal{L}\_RLR​ is the Lie genera...'
-heading: '**Definition 2.1 (Φ-Harmonic Rotor Object).**'
-id: GEN13-2530
-lines: 990-1003
-location: genesis-13/what-biology-is-in-meta-genesis::2-φ-mode-structure-of-transduction::definition-21-φ-harmonic-rotor-object::b1
-parent_heading: '**2\. Φ-Mode Structure of Transduction**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- IGSOA
+- ∈
+- θ
+- Φ
+- δ
+- Δ
+- δ-asymmetry
+- Φ-harmonic
+- Φ-mode
+aliases:
+- Bk202hr
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.112359550561797
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

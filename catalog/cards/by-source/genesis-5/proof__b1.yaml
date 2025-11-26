@@ -1,13 +1,32 @@
+id: GEN5-8103
+location: genesis-5/meta-einstein-axiom-box-language-sealed::lemma-3-φ-metric-and-φ-ricci-are-δ-images::proof::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+lines: 241-245
+heading: '***Proof.***'
+parent_heading: '**Lemma 3 — Φ-metric and Φ-Ricci are δ-images**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Because ∇ΦgΦ=0\\nabla^\\Phi g^\\Phi \= 0∇ΦgΦ=0 and ∇δgδ=0\\nabla^\\delta
   g^\\delta \= 0∇δgδ=0, and ∇Φ\\nabla^\\Phi∇Φ is the conjugate of ∇δ\\nabla^\\delta∇δ,
   the unique compatible metric must be the i...
-heading: '***Proof.***'
-id: GEN5-8103
-lines: 241-245
-location: genesis-5/meta-einstein-axiom-box-language-sealed::lemma-3-φ-metric-and-φ-ricci-are-δ-images::proof::b1
-parent_heading: '**Lemma 3 — Φ-metric and Φ-Ricci are δ-images**'
-source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md
+concepts:
+- ∇
+- δ
+- Φ
+- Υ
+- δg
+- Φg
+aliases:
+- Bk857bn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 11.538461538461538
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

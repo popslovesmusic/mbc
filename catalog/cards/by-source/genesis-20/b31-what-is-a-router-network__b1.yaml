@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts:
-- Router Network
-excerpt: 'A Router Network is a graph: R=(R,ER,⪯R) R=(R,E'
-heading: B3.1 What Is a Router Network?
 id: GEN20-7198
-lines: 7168-7185
 location: genesis-20/mbc-40-documentaitio-1::b31-what-is-a-router-network::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 7168-7185
+heading: B3.1 What Is a Router Network?
+block_type: paragraph
+excerpt: 'A Router Network is a graph: R=(R,ER,⪯R) R=(R,E'
+concepts:
+- Router
+- router-to-router
+- router-level
+- Router Network
+aliases:
+- Bk259rn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.523809523809524
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

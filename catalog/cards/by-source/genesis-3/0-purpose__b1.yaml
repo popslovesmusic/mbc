@@ -1,19 +1,41 @@
+id: GEN3-7400
+location: genesis-3/the-physics-box-diagram::0-purpose::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 509-527
+heading: '**0\. Purpose**'
 block_type: paragraph
-concepts:
-- Axiom
-- Box
-- Physics Diagram Stack
-- This Axiom Box
-- axioms
-- closed
-- commutative
-- Φ
-- δ
 excerpt: 'To define the unified three-layer structure of the IGSOA framework: (δ)
   Deviation  ⟶  (Φ) Form  ⟶  Physics,\\text{(δ) Deviation} \\;\\longrightarrow\\;
   \\text{(Φ) Form} \\;\\longrightarrow\\; \\text{P...'
-heading: '**0\. Purpose**'
-id: GEN3-7400
-lines: 509-527
-location: genesis-3/the-physics-box-diagram::0-purpose::b1
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Deviation
+- δ
+- Φ
+- IGSOA
+- Axiom
+- Box
+- proto-geometry
+- three-layer
+- Φ-layer
+- δ-layer
+- Physics Diagram Stack
+- mutually consistent
+- This Axiom Box
+- commutative
+- axioms
+aliases:
+- Bk507dt
+tags:
+- axiom-box
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.51219512195122
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,20 +1,38 @@
+id: GEN13-2541
+location: genesis-13/what-biology-is-in-meta-genesis::8-the-chapter-continues::part-iii::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 1168-1178
+heading: '**PART III**'
+parent_heading: '**8\. The Chapter Continues…**'
 block_type: list
-concepts:
-- Algebraic Form
-- Biological Work
-- Driven Metabolic Cycles
-- Endofunctor Collapse Conditions
-- Spectral Triple
-- Stability Theorem
-- Stable Morphisms
-- Theorem
-- Π
-- δ
 excerpt: '* Full δ-Spectral Triple for Bioenergetics * C\*-Algebraic Form of Biological
   Work * Π-Stable Morphisms and Hierarchies'
-heading: '**PART III**'
-id: GEN13-2541
-lines: 1168-1178
-location: genesis-13/what-biology-is-in-meta-genesis::8-the-chapter-continues::part-iii::b1
-parent_heading: '**8\. The Chapter Continues…**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- Theorem
+- Endofunctor Collapse Conditions
+- δ
+- δ-Spectral
+- Driven Metabolic Cycles
+- δ-Driven
+- Π-Stable
+- Π
+- Stability Theorem
+- Stable Morphisms
+- Spectral Triple
+- Biological Work
+- Algebraic Form
+aliases:
+- Bk282fs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 48.148148148148145
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

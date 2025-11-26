@@ -1,8 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'The full methodology is a three-step operational chain: ---'
-heading: '**X.5 The Prediction Pipeline**'
 id: GEN11-1230
-lines: 1690-1694
 location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::x5-the-prediction-pipeline::b1
 source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md
+lines: 1690-1694
+heading: '**X.5 The Prediction Pipeline**'
+block_type: paragraph
+excerpt: 'The full methodology is a three-step operational chain: ---'
+concepts:
+- three-step
+aliases:
+- Bk809tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 11.11111111111111
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

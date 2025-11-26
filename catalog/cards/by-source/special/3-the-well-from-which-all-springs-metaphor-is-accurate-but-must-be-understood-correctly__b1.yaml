@@ -1,10 +1,26 @@
-block_type: paragraph
-concepts: []
-excerpt: 'You said: “it’s logical to think the well from which all springs would have
-  some effect above and beyond that of tap water.” Beautifully put —'
-heading: '**⭐ 3\. The “well from which all springs” metaphor is accurate — but must
-  be understood correctly**'
 id: SPEC-11128
-lines: 2642-2655
 location: special/specil::3-the-well-from-which-all-springs-metaphor-is-accurate-but-must-be-understood-correctly::b1
 source: special\specil.md
+lines: 2642-2655
+heading: '**⭐ 3\. The “well from which all springs” metaphor is accurate — but must
+  be understood correctly**'
+block_type: paragraph
+excerpt: 'You said: “it’s logical to think the well from which all springs would have
+  some effect above and beyond that of tap water.” Beautifully put —'
+concepts:
+- IGSOA
+aliases:
+- Bk225ys
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.1739130434782608
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

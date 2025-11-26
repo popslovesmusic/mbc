@@ -1,11 +1,32 @@
-block_type: table
-concepts:
-- Mathematical Polarity
-- Σ
-- δ
-excerpt: 'Same meaning: E only runs while it yields meaningful new structure. ---'
-heading: AXIOM III — THE EXPANSION AXIOM (Growth / Thermodynamics)
 id: GEN17-4305
-lines: 2307-2316
 location: genesis-17/box-calculus::axiom-iii-the-expansion-axiom-growth-thermodynamics::b1
 source: genesis-17\box_calculus.md
+lines: 2307-2316
+heading: AXIOM III — THE EXPANSION AXIOM (Growth / Thermodynamics)
+block_type: table
+excerpt: 'Same meaning: E only runs while it yields meaningful new structure. ---'
+concepts:
+- Σ
+- Δ
+- Polarity
+- IGSOA
+- δ
+- deviation-energy
+- ≤
+- κ
+- Mathematical Polarity
+aliases:
+- Bk443ip
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.5
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.7

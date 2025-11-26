@@ -1,13 +1,29 @@
+id: GEN13-2039
+location: genesis-13/meta-math-nuclear-physics::3-π-layer-the-physical-nuclear-regime::31-π-projection-of-the-strong-force::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 484-502
+heading: '**3.1 Π-Projection of the Strong Force**'
+parent_heading: '**3\. Π-Layer: The Physical Nuclear Regime**'
 block_type: paragraph
-concepts:
-- Force Structure Equation
-- Strong-Force
-- Π
 excerpt: 'Define the map: Π(T)=Vstrong(r)\\Pi(T) \= V\_{\\text{strong}}(r)Π(T)=Vstrong​(r)
   Show:'
-heading: '**3.1 Π-Projection of the Strong Force**'
-id: GEN13-2039
-lines: 484-502
-location: genesis-13/meta-math-nuclear-physics::3-π-layer-the-physical-nuclear-regime::31-π-projection-of-the-strong-force::b1
-parent_heading: '**3\. Π-Layer: The Physical Nuclear Regime**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Π
+- Π-Strong-Force
+- short-range
+- Force Structure Equation
+aliases:
+- Bk858dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.526315789473683
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

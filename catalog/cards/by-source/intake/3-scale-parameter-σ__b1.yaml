@@ -1,15 +1,30 @@
+id: INTK-10417
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::core-concepts::3-scale-parameter-σ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1345-1346
+heading: 3. Scale Parameter (σ)
+parent_heading: Core Concepts
 block_type: paragraph
-concepts:
-- Fractal Space
-- Meta-Calculus
-- Meta-Fractal
-- σ
 excerpt: A continuous variable describing the local resolution or granularity of the
   Meta-Fractal Space. Meta-Calculus incorporates derivatives and integrals that explicitly
   depend on σ.
-heading: 3. Scale Parameter (σ)
-id: INTK-10417
-lines: 1345-1346
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::core-concepts::3-scale-parameter-σ::b1
-parent_heading: Core Concepts
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Meta-Calculus
+- Meta-Fractal
+- σ
+- Fractal Space
+aliases:
+- Bk237cv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

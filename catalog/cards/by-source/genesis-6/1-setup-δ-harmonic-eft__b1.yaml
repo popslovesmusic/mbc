@@ -1,16 +1,36 @@
-block_type: paragraph
-concepts:
-- Λ
-- α
-- β
-- γ
-- δ
-- λ
-- μ
-excerpt: 'Each δ-mode is labeled by a triple (n,m,k)∈Z3(n,m,k)\\in\\mathbb Z^3(n,m,k)∈Z3
-  and has:'
-heading: '**1\. Setup: δ-Harmonic EFT**'
 id: GEN6-8430
-lines: 1070-1097
 location: genesis-6/the-harmonic-spectral-triple::1-setup-δ-harmonic-eft::b1
 source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 1070-1097
+heading: '**1\. Setup: δ-Harmonic EFT**'
+block_type: paragraph
+excerpt: 'Each δ-mode is labeled by a triple (n,m,k)∈Z3(n,m,k)\\in\\mathbb Z^3(n,m,k)∈Z3
+  and has:'
+concepts:
+- λ
+- ψ
+- μ
+- γ
+- δ
+- β
+- ∈
+- Λ
+- ∑
+- α
+- δ-analogue
+- δ-mode
+aliases:
+- Bk984em
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.454545454545454
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

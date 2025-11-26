@@ -1,12 +1,31 @@
-block_type: table
-concepts:
-- Potential
-- Realized Mathematical Action
-- Structured Geometry
-- σ
-excerpt: '`MG  --L-->  σ-Topos  --R-->  MM` `|           |            ^` `|           |            |`'
-heading: '**4\. The Full Adjoint Triple Diagram**'
 id: GEN4-7728
-lines: 222-243
 location: genesis-4/the-adjoint-triple::4-the-full-adjoint-triple-diagram::b1
 source: genesis-4\The_Adjoint_Triple.md
+lines: 222-243
+heading: '**4\. The Full Adjoint Triple Diagram**'
+block_type: table
+excerpt: '`MG  --L-->  σ-Topos  --R-->  MM` `|           |            ^` `|           |            |`'
+concepts:
+- IGSOA
+- three-stage adjoint triple
+- σ
+- →
+- Realized Mathematical Action
+- three-stage
+- Structured Geometry
+- Potential
+aliases:
+- Bk109ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 13.793103448275861
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

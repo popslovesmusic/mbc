@@ -1,14 +1,31 @@
+id: GEN17-4679
+location: genesis-17/box-calculus::::b10
+source: genesis-17\box_calculus.md
+lines: 8008-8026
+heading: ⭐
 block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Deviation Flow
-- Operator
 excerpt: '1 Primitive: Deviation⟹1 Operator: the Deviation Flow F⟹2 Shadows: IGS (low
   curvature) / OA (high curvature) 1 Primitive: Deviation⟹1 Operator: the Deviation
   Flow F⟹2 Shadows: IGS (low curvature) / OA...'
-heading: ⭐
-id: GEN17-4679
-lines: 8008-8026
-location: genesis-17/box-calculus::::b10
-source: genesis-17\box_calculus.md
+concepts:
+- Deviation
+- Box Calculus
+- IGSOA
+- Operator
+- Box
+- Deviation Flow
+aliases:
+- Bk071pd
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 9.090909090909092
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

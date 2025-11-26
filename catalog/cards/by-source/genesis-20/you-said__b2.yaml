@@ -1,11 +1,24 @@
+id: GEN20-6671
+location: genesis-20/mbc-40-documentaitio-1::example-now-correct::you-said::b2
+source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 256-258
+heading: 'You said:'
+parent_heading: 'Example (now correct):'
 block_type: paragraph
-concepts: []
 excerpt: i need a careful drafting so we will do in chapters on at a time with opportunity
   to review . this should be technica but less formal keeping in mind the need for
   general understand by associated prof...
-heading: 'You said:'
-id: GEN20-6671
-lines: 256-258
-location: genesis-20/mbc-40-documentaitio-1::example-now-correct::you-said::b2
-parent_heading: 'Example (now correct):'
-source: genesis-20\MBC_40_Documentaitio-1.md
+aliases:
+- Bk725nc
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

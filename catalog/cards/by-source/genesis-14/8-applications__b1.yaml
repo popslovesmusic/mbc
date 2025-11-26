@@ -1,12 +1,31 @@
+id: GEN14-2920
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::main-paper-outline-formal::8-applications::b1
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+lines: 148-158
+heading: '**8\. Applications**'
+parent_heading: '**Main Paper Outline (formal)**'
 block_type: list
-concepts:
-- Π
-- δ
 excerpt: '* IGSOA view of phase transitions * δ-Hessian → free energy landscape *
   CMB thermodynamics'
-heading: '**8\. Applications**'
-id: GEN14-2920
-lines: 148-158
-location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::main-paper-outline-formal::8-applications::b1
-parent_heading: '**Main Paper Outline (formal)**'
-source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md
+concepts:
+- IGSOA
+- Π-multiplicity
+- δ-Hessian
+- Π
+- δ
+- →
+aliases:
+- Bk116iv
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 33.33333333333333
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

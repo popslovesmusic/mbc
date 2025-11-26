@@ -1,15 +1,38 @@
-block_type: paragraph
-concepts:
-- Meta-Genesis
-- Meta-Math
-- Tri-Unity
-- Unity Transition
-- Φ
-- δ
-excerpt: '**The δ–Φ → Tri-Unity Transition** consists of: * **δ**: Deviational potential
-  (Meta-Genesis) * **Φ**: Form-generating field (Meta-Math)'
-heading: '**✦ Summary (Box Version)**'
 id: GEN4-7817
-lines: 1676-1698
 location: genesis-4/the-adjoint-triple::summary-box-version::b2
 source: genesis-4\The_Adjoint_Triple.md
+lines: 1676-1698
+heading: '**✦ Summary (Box Version)**'
+block_type: paragraph
+excerpt: '**The δ–Φ → Tri-Unity Transition** consists of: * **δ**: Deviational potential
+  (Meta-Genesis) * **Φ**: Form-generating field (Meta-Math)'
+concepts:
+- Tri-Unity
+- Meta-Genesis
+- Meta-Math
+- δ
+- Deviation
+- Φ
+- π
+- the Tri-Unity of Deviation
+- →
+- Form-generating
+- one coherent reality
+- Unity Transition
+- δL
+- ΦR
+aliases:
+- Bk654tt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 19.444444444444446
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

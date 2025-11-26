@@ -1,11 +1,33 @@
-block_type: list
-concepts:
-- Π
-- δ
-excerpt: '* 6s, 6p, 6d * Actinides (5f filling) * 7s, 7p, early 7d/5f interactions'
-heading: '**Includes:**'
 id: GEN9-9145
-lines: 1857-1868
 location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::δ-harmonic-shell-n-67::includes::b1
-parent_heading: '**δ-Harmonic Shell n \= 6,7**'
 source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1857-1868
+heading: '**Includes:**'
+parent_heading: '**δ-Harmonic Shell n \= 6,7**'
+block_type: list
+excerpt: '* 6s, 6p, 6d * Actinides (5f filling) * 7s, 7p, early 7d/5f interactions'
+concepts:
+- IGSOA
+- Π
+- δ-curvature interference
+- curvature-mode
+- δ-curvature
+- Π-space
+- δ
+- Π₅f
+- Π₆d
+aliases:
+- Bk899af
+tags:
+- conflicted
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.0
+has_contradictions: true
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.6

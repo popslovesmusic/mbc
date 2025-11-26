@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Box
-- Γ
-- Π
-excerpt: 'IGSOA: Γ∣=ΠB Γ∣='
-heading: 3\. Semantic Entailment (|=)
 id: GEN20-6630
-lines: 829-842
 location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::i-core-semantic-inference-judgments::3-semantic-entailment::b1
-parent_heading: I. Core Semantic Inference Judgments
 source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md
+lines: 829-842
+heading: 3\. Semantic Entailment (|=)
+parent_heading: I. Core Semantic Inference Judgments
+block_type: paragraph
+excerpt: 'IGSOA: Γ∣=ΠB Γ∣='
+concepts:
+- Γ
+- IGSOA
+- Π
+- Box
+- Π-stable
+- ΠB
+aliases:
+- Bk900im
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 18.181818181818183
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

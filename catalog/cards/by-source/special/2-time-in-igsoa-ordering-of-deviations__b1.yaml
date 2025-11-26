@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Time begins the moment: * δ₀ appears * δ₁ follows'
-heading: '**🕒 2\. Time in IGSOA \= Ordering of Deviations**'
 id: SPEC-11039
-lines: 1092-1122
 location: special/specil::2-time-in-igsoa-ordering-of-deviations::b1
 source: special\specil.md
+lines: 1092-1122
+heading: '**🕒 2\. Time in IGSOA \= Ordering of Deviations**'
+block_type: paragraph
+excerpt: 'Time begins the moment: * δ₀ appears * δ₁ follows'
+concepts:
+- δ
+- a strict ordering
+- δ₂
+- δ₁
+- δ₀
+aliases:
+- Bk098tb
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.195121951219512
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

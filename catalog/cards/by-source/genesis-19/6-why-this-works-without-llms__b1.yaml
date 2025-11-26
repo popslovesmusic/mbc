@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Because MBC is structural, not statistical: * Boxes represent meaning explicitly
-  * Routers carry semantic relationships explicitly'
-heading: \#6 — Why This Works Without LLMs
 id: GEN19-6105
-lines: 967-977
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::6-why-this-works-without-llms::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 967-977
+heading: \#6 — Why This Works Without LLMs
+block_type: paragraph
+excerpt: 'Because MBC is structural, not statistical: * Boxes represent meaning explicitly
+  * Routers carry semantic relationships explicitly'
+concepts:
+- Polarity
+- MBC
+- graph-theoretic
+aliases:
+- Bk741bm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 8.571428571428571
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

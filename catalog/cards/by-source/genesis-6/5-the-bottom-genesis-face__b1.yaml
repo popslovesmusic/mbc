@@ -1,14 +1,33 @@
+id: GEN6-8317
+location: genesis-6/spectral-triple-axiom-box-sealed-version::3-the-full-cubes-commutativity-conditions::5-the-bottom-genesis-face::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+lines: 793-799
+heading: '**(5) The Bottom Genesis Face**'
+parent_heading: '**3\. The Full Cube’s Commutativity Conditions**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- Ψ
-- δ
-- σ
 excerpt: Fσ(Ψ0)→  δ  HδF\_{\\sigma}(\\Psi\_{0}) \\xrightarrow{\\;\\delta\\;} \\mathbf{H}\_\\deltaFσ​(Ψ0​)δ​Hδ​
   is the **δ-generation chain**; Meta-Genesis guarantees the start of the chain. ---
-heading: '**(5) The Bottom Genesis Face**'
-id: GEN6-8317
-lines: 793-799
-location: genesis-6/spectral-triple-axiom-box-sealed-version::3-the-full-cubes-commutativity-conditions::5-the-bottom-genesis-face::b1
-parent_heading: '**3\. The Full Cube’s Commutativity Conditions**'
-source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md
+concepts:
+- Meta-Genesis
+- δ
+- δ-generation chain
+- Ψ
+- σ
+- δ-generation
+- →
+- δF
+aliases:
+- Bk113sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.806451612903224
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,13 +1,30 @@
+id: GEN10-758
+location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-δ-curvature-derivation::35-step-5-the-second-law-is-δ-geometric::b1
+source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+lines: 123-145
+heading: '**3.5 Step 5: The Second Law is δ-Geometric**'
+parent_heading: '**3\. The δ-Curvature Derivation**'
 block_type: paragraph
+excerpt: 'Putting it all together: 1. NOT ⇒ δ forced 2. δ forced ⇒ adjacency forced'
 concepts:
 - Meta-Genesis
-- Second Law
-- Φ
 - δ
-excerpt: 'Putting it all together: 1. NOT ⇒ δ forced 2. δ forced ⇒ adjacency forced'
-heading: '**3.5 Step 5: The Second Law is δ-Geometric**'
-id: GEN10-758
-lines: 123-145
-location: genesis-10/meta-genesis-as-the-ontological-ground-of-the-second-law::3-the-δ-curvature-derivation::35-step-5-the-second-law-is-δ-geometric::b1
-parent_heading: '**3\. The δ-Curvature Derivation**'
-source: genesis-10\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md
+- Φ-expansion
+- ≥
+- Φ
+- ∂
+- coarse-graining
+- Second Law
+- δ-geometric
+aliases:
+- Bk318pa
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 12.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

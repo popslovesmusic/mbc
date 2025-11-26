@@ -1,14 +1,31 @@
+id: GEN12-1884
+location: genesis-12/untitled-document::sealed-axiom-box-the-δφπ-galaxy-formation-axiom::axiom-gf-5-π-realization-condition::b1
+source: genesis-12\Untitled_document.md
+lines: 2464-2478
+heading: '**Axiom GF-5 (Π-Realization Condition).**'
+parent_heading: '**⟡ SEALED AXIOM BOX: The δ–Φ–Π Galaxy-Formation Axiom ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- ρ
 excerpt: 'A curvature kernel Ki=Φ2(Bi)K\_i \= \\Phi\_2(B\_i)Ki​=Φ2​(Bi​) becomes a
   galaxy iff: 1. local baryon density exceeds the cooling threshold, 2. Φ₂-mode amplitude
   reaches a stable attractor,'
-heading: '**Axiom GF-5 (Π-Realization Condition).**'
-id: GEN12-1884
-lines: 2464-2478
-location: genesis-12/untitled-document::sealed-axiom-box-the-δφπ-galaxy-formation-axiom::axiom-gf-5-π-realization-condition::b1
-parent_heading: '**⟡ SEALED AXIOM BOX: The δ–Φ–Π Galaxy-Formation Axiom ⟡**'
-source: genesis-12\Untitled_document.md
+concepts:
+- Φ
+- ρ
+- Π
+- ∧
+- Φ₂
+aliases:
+- Bk177ck
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.747126436781609
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

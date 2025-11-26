@@ -1,13 +1,31 @@
+id: GEN3-7562
+location: genesis-3/the-tri-unity-theorem::iv-formal-proof-sketch::step-6-full-faithfulness-on-charts::b1
+source: genesis-3\The_Tri-Unity_Theorem.md
+lines: 1097-1107
+heading: '**Step 6: Full faithfulness on charts**'
+parent_heading: '**IV. Formal Proof Sketch**'
 block_type: paragraph
-concepts:
-- Meta-Math
-- Φ
-- δ
 excerpt: Local δ-patches behave like local harmonic charts under Φ. Meta-Math preserves
   these by construction (mode-preserving functor). Thus the Hom-sets correspond bijectively.
-heading: '**Step 6: Full faithfulness on charts**'
-id: GEN3-7562
-lines: 1097-1107
-location: genesis-3/the-tri-unity-theorem::iv-formal-proof-sketch::step-6-full-faithfulness-on-charts::b1
-parent_heading: '**IV. Formal Proof Sketch**'
-source: genesis-3\The_Tri-Unity_Theorem.md
+concepts:
+- Meta-Math
+- mode-preserving
+- δ-patches
+- Hom-sets
+- δ
+- Φ
+aliases:
+- Bk978lp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 21.428571428571427
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

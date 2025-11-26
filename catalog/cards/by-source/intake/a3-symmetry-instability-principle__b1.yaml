@@ -1,13 +1,29 @@
+id: INTK-9830
+location: intake/meta-genesis-core-papers-foundations::2-assumptions-axioms-used::a3-symmetry-instability-principle::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md
+lines: 949-965
+heading: '**(A3) Symmetry Instability Principle**'
+parent_heading: '**2\. Assumptions (Axioms Used)**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- non-empty
-- Ψ
 excerpt: 'In any **non-empty** substrate with **maximal symmetry**: R(Ψ0)=∞R(\\Psi\_0)=\\inftyR(Ψ0​)=∞
   meaning:'
-heading: '**(A3) Symmetry Instability Principle**'
-id: INTK-9830
-lines: 949-965
-location: intake/meta-genesis-core-papers-foundations::2-assumptions-axioms-used::a3-symmetry-instability-principle::b1
-parent_heading: '**2\. Assumptions (Axioms Used)**'
-source: intake\Meta-Genesis_Core_Papers_Foundations.md
+concepts:
+- Meta-Genesis
+- Ψ
+- ∞
+- non-empty
+- maximal symmetry
+aliases:
+- Bk588an
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 10.638297872340425
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

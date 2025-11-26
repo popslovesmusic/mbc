@@ -1,17 +1,38 @@
-block_type: list
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Meta-Einstein
-- Topos-Ready
-- Tri-Unity
-- Φ
-- δ
-excerpt: '* The **δ-EFT Axiom Box** in a printable *PDF format*? * A **Tri-Unity embedding**
-  version (δ–Φ–π compatibility)? * A **Topos-Ready version** with naturality diagrams?'
-heading: '**Would you like:**'
 id: GEN7-8479
-lines: 582-592
 location: genesis-7/the-complete-eft-lagrangian::would-you-like::b1
 source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md
+lines: 582-592
+heading: '**Would you like:**'
+block_type: list
+excerpt: '* The **δ-EFT Axiom Box** in a printable *PDF format*? * A **Tri-Unity embedding**
+  version (δ–Φ–π compatibility)? * A **Topos-Ready version** with naturality diagrams?'
+concepts:
+- Meta-Einstein
+- Tri-Unity
+- Axiom
+- Meta-Einstein companion Axiom Box
+- Box
+- δ
+- Topos-Ready version
+- Tri-Unity embedding
+- δ-EFT
+- δ-EFT Axiom Box
+- Topos-Ready
+- π
+- Φ
+- Axiom Box
+aliases:
+- Bk594te
+tags:
+- axiom-box
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 31.11111111111111
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

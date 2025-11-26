@@ -1,12 +1,35 @@
+id: GEN0-042
+location: genesis-0/feynman-rules-interaction-vertices::4-metric-emerges-as-a-δ-projection::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 541-547
+heading: '**4\. Metric emerges as a δ-projection**'
 block_type: paragraph
-concepts:
-- α
-- δ
 excerpt: 'Define the **δ-metric projection map**: πδ:D→TM\\pi\_\\delta : D\\to T\\mathcal
   Mπδ​:D→TM gab=∑mαm ∇a(δ)δ(m)∇b(δ)δ(m)g\_{ab} \= \\sum\_m \\alpha\_m\\, \\nabla^{(\\delta)}\_a
   \\delta^{(m)} \\nabla^{(\\...'
-heading: '**4\. Metric emerges as a δ-projection**'
-id: GEN0-042
-lines: 541-547
-location: genesis-0/feynman-rules-interaction-vertices::4-metric-emerges-as-a-δ-projection::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- δ
+- δ-geometry
+- ∇
+- δ-metric projection map
+- Theorem
+- π
+- ∑
+- α
+- →
+- δ-metric
+aliases:
+- Bk946dt
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.151515151515152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

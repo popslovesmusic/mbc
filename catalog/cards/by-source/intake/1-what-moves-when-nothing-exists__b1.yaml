@@ -1,13 +1,29 @@
+id: INTK-10053
+location: intake/meta-genesis-outreach-narrative-papers::the-first-movement::1-what-moves-when-nothing-exists::b1
+source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+lines: 519-544
+heading: '**1\. What Moves When Nothing Exists?**'
+parent_heading: '**THE FIRST MOVEMENT**'
 block_type: paragraph
-concepts:
-- First Movement
-- The First Movement
-- δ
 excerpt: The First Movement is not a change in position. There is no position. It
   is not a temporal event.
-heading: '**1\. What Moves When Nothing Exists?**'
-id: INTK-10053
-lines: 519-544
-location: intake/meta-genesis-outreach-narrative-papers::the-first-movement::1-what-moves-when-nothing-exists::b1
-parent_heading: '**THE FIRST MOVEMENT**'
-source: intake\Meta-Genesis_Outreach__Narrative_Papers.md
+concepts:
+- First Movement
+- δ
+- The First Movement
+- zero-state
+- ≠
+aliases:
+- Bk169tf
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.05050505050505
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

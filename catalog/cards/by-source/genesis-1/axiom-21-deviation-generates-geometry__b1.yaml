@@ -1,11 +1,27 @@
+id: GEN1-530
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::2-deviational-structure::axiom-21-deviation-generates-geometry::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+lines: 320-346
+heading: '**Axiom 2.1 — Deviation Generates Geometry.**'
+parent_heading: '**2\. Deviational Structure**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'All geometric structure emerges as the closure of δ under composition: G=⟨δ⟩closure.\\mathcal{G}
   \= \\langle \\delta \\rangle\_{\\text{closure}}.G=⟨δ⟩closure​. This includes:'
-heading: '**Axiom 2.1 — Deviation Generates Geometry.**'
-id: GEN1-530
-lines: 320-346
-location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::2-deviational-structure::axiom-21-deviation-generates-geometry::b1
-parent_heading: '**2\. Deviational Structure**'
-source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md
+concepts:
+- δ
+- matter-energy
+aliases:
+- Bk978ag
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.545454545454546
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

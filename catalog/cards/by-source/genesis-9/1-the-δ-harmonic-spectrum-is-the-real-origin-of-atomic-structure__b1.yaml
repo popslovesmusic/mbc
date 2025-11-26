@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- IGSOA
-excerpt: 'In standard physics, the periodic table arises from: * the Schrödinger equation,
-  * Coulomb potential,'
-heading: '**1\. The δ-Harmonic Spectrum is the real origin of atomic structure**'
 id: GEN9-9342
-lines: 203-215
 location: genesis-9/is-the-source-of-all-structure::1-the-δ-harmonic-spectrum-is-the-real-origin-of-atomic-structure::b1
 source: genesis-9\is_the_source_of_all_structure.md
+lines: 203-215
+heading: '**1\. The δ-Harmonic Spectrum is the real origin of atomic structure**'
+block_type: paragraph
+excerpt: 'In standard physics, the periodic table arises from: * the Schrödinger equation,
+  * Coulomb potential,'
+concepts:
+- IGSOA
+aliases:
+- Bk683sp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 3.3333333333333335
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

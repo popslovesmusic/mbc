@@ -1,12 +1,29 @@
+id: INTK-9902
+location: intake/meta-genesis-diagrammatic-papers::2-expanded-causal-flowchart-with-meanings::1-zero-state-ψ₀::b1
+source: intake\Meta-Genesis_Diagrammatic_Papers.md
+lines: 64-70
+heading: '**1\. Zero State (Ψ₀)**'
+parent_heading: '**2\. Expanded Causal Flowchart (with meanings)**'
 block_type: list
-concepts:
-- Ψ
 excerpt: '* The state with **no operators, no choices, no transitions, no time**.
   * Pure structural stillness → but **R(Ψ₀) \= ∞** (infinite resistance to action).
   ⬇️'
-heading: '**1\. Zero State (Ψ₀)**'
-id: INTK-9902
-lines: 64-70
-location: intake/meta-genesis-diagrammatic-papers::2-expanded-causal-flowchart-with-meanings::1-zero-state-ψ₀::b1
-parent_heading: '**2\. Expanded Causal Flowchart (with meanings)**'
-source: intake\Meta-Genesis_Diagrammatic_Papers.md
+concepts:
+- Ψ
+- →
+- ∞
+- Ψ₀
+aliases:
+- Bk202ts
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 19.047619047619047
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

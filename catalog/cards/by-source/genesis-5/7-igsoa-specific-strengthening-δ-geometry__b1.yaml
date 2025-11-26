@@ -1,13 +1,35 @@
-block_type: paragraph
-concepts:
-- γ
-- δ
-- δ-metric
-- δ-weights
-excerpt: 'Deviation (δ) induces **weighted adjacency**: * δ supplies additional structure:
-  local curvature, bending, orientation, deviation magnitude.'
-heading: '**7\. IGSOA-Specific Strengthening: δ-Geometry**'
 id: GEN5-8176
-lines: 618-636
 location: genesis-5/the-ga-8-meta-einstein-theorem::7-igsoa-specific-strengthening-δ-geometry::b1
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 618-636
+heading: '**7\. IGSOA-Specific Strengthening: δ-Geometry**'
+block_type: paragraph
+excerpt: 'Deviation (δ) induces **weighted adjacency**: * δ supplies additional structure:
+  local curvature, bending, orientation, deviation magnitude.'
+concepts:
+- δ
+- δ-geometry
+- Deviation
+- IGSOA
+- γ
+- ∈
+- ∑
+- →
+- δ-weights
+- δ-metric
+- weighted adjacency
+aliases:
+- Bk446di
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 11.458333333333332
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

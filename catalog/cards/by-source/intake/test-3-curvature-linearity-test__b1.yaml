@@ -1,11 +1,26 @@
+id: INTK-9686
+location: intake/axioms-geometry::section-6-consistency-checks-self-consistency-tests::test-3-curvature-linearity-test::b1
+source: intake\Axioms-geometry.md
+lines: 601-603
+heading: '**Test 3 – Curvature-Linearity Test**'
+parent_heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
 block_type: paragraph
-concepts:
-- Meta-Math
 excerpt: All curvature defined in Meta-Math must be explainable as adjacency asymmetry
   in MG.
-heading: '**Test 3 – Curvature-Linearity Test**'
-id: INTK-9686
-lines: 601-603
-location: intake/axioms-geometry::section-6-consistency-checks-self-consistency-tests::test-3-curvature-linearity-test::b1
-parent_heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
-source: intake\Axioms-geometry.md
+concepts:
+- Meta-Math
+aliases:
+- Bk110ac
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 7.142857142857142
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

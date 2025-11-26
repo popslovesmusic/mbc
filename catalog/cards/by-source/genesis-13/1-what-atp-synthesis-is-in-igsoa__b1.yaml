@@ -1,16 +1,40 @@
+id: GEN13-2496
+location: genesis-13/what-biology-is-in-meta-genesis::c1-δ-flux-atp-synthesis-the-meta-genesis-bioenergetics-derivation::1-what-atp-synthesis-is-in-igsoa::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+lines: 506-534
+heading: '**1\. What ATP Synthesis *Is* in IGSOA**'
+parent_heading: '**(C1) δ-Flux → ATP Synthesis: The Meta-Genesis Bioenergetics Derivation**'
 block_type: paragraph
-concepts:
-- same
-- Π
-- Φ
-- Ψ
-- δ
 excerpt: 'ATP synthesis is simply: **δ-asymmetry forcibly trapped in a Π-boundary
   and expressed through a Φ-mode that stores deviation as a discrete chemical potential
   packet.** In normal biology: proton gradie...'
-heading: '**1\. What ATP Synthesis *Is* in IGSOA**'
-id: GEN13-2496
-lines: 506-534
-location: genesis-13/what-biology-is-in-meta-genesis::c1-δ-flux-atp-synthesis-the-meta-genesis-bioenergetics-derivation::1-what-atp-synthesis-is-in-igsoa::b1
-parent_heading: '**(C1) δ-Flux → ATP Synthesis: The Meta-Genesis Bioenergetics Derivation**'
-source: genesis-13\What_Biology_Is_in_Meta-Genesis.md
+concepts:
+- δ
+- Π
+- Φ
+- IGSOA
+- →
+- Φ-mediated flux transduction
+- Π-stabilized δ-packet
+- Φ-mode
+- Δ
+- non-equilibrium
+- Π-stabilized
+- δ-harmonics
+- δ-asymmetry
+- Φ-mediated
+- Π-boundary
+aliases:
+- Bk219as
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 17.699115044247787
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

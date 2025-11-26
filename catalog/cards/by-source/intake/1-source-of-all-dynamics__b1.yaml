@@ -1,13 +1,25 @@
+id: INTK-10397
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::δ-deviation::implications-and-role-in-igsoa::1-source-of-all-dynamics::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1231-1232
+heading: 1. Source of All Dynamics
+parent_heading: Implications and Role in IGSOA
 block_type: paragraph
-concepts:
-- Axiom
-- δ
 excerpt: '`δ` is the ultimate driver of all physical and ontological dynamics. All
   apparent forces, interactions, and evolutionary processes are manifestations of
   `δ` attempting to navigate the constraints impo...'
-heading: 1. Source of All Dynamics
-id: INTK-10397
-lines: 1231-1232
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::δ-deviation::implications-and-role-in-igsoa::1-source-of-all-dynamics::b1
-parent_heading: Implications and Role in IGSOA
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Axiom
+- δ
+aliases:
+- Bk478tu
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

@@ -1,14 +1,28 @@
+id: GEN14-2891
+location: genesis-14/meta-math-and-cryptography::3-main-theorem-the-no-lift-theorem-for-cryptography::goal::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1471-1481
+heading: '**Goal**'
+parent_heading: '**3\. Main Theorem: The No-Lift Theorem for Cryptography**'
 block_type: paragraph
+excerpt: 'Show that **no functor** L:P→DL : \\mathcal{P} \\to \\mathcal{D}L:P→D can
+  satisfy: L∘Π∘Φ=idD.L \\circ Π \\circ Φ \= \\mathrm{id}\_{\\mathcal{D}}.L∘Π∘Φ=idD​.
+  Equivalent to:'
 concepts:
 - Π
 - Φ
 - Ψ
-excerpt: 'Show that **no functor** L:P→DL : \\mathcal{P} \\to \\mathcal{D}L:P→D can
-  satisfy: L∘Π∘Φ=idD.L \\circ Π \\circ Φ \= \\mathrm{id}\_{\\mathcal{D}}.L∘Π∘Φ=idD​.
-  Equivalent to:'
-heading: '**Goal**'
-id: GEN14-2891
-lines: 1471-1481
-location: genesis-14/meta-math-and-cryptography::3-main-theorem-the-no-lift-theorem-for-cryptography::goal::b1
-parent_heading: '**3\. Main Theorem: The No-Lift Theorem for Cryptography**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+- →
+- no functor
+aliases:
+- Bk640st
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.803921568627452
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

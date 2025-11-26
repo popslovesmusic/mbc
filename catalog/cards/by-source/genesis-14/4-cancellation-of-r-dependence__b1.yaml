@@ -1,13 +1,39 @@
+id: GEN14-2742
+location: genesis-14/inflation-structure-formation::proof::4-cancellation-of-r-dependence::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 1422-1466
+heading: '**4\. Cancellation of r-dependence**'
+parent_heading: '**Proof**'
 block_type: paragraph
+excerpt: 'For large r: * local curvature falls as r⁻², * δ-tail curvature falls as
+  r⁻¹.'
 concepts:
 - Π
 - Φ
+- IGSOA
+- δ-tail
 - δ
-excerpt: 'For large r: * local curvature falls as r⁻², * δ-tail curvature falls as
-  r⁻¹.'
-heading: '**4\. Cancellation of r-dependence**'
-id: GEN14-2742
-lines: 1422-1466
-location: genesis-14/inflation-structure-formation::proof::4-cancellation-of-r-dependence::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+- ∂
+- Π-normalization law
+- Φδ-tail
+- ≈
+- →
+- ∞
+- Π-normalization
+- rotation-curve
+- Π-geometric
+- Φlocal
+aliases:
+- Bk757fl
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.653061224489796
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

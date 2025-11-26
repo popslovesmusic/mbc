@@ -1,13 +1,40 @@
+id: GEN11-1002
+location: genesis-11/how-curvature-could-generate-an-axis::1-start-with-the-δ-mode-field-during-inflation::3-temperature-anisotropy-from-δ-geometry::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md
+lines: 241-275
+heading: '**3\. Temperature anisotropy from δ-geometry**'
+parent_heading: '**1\. Start with the δ-mode field during inflation**'
 block_type: paragraph
-concepts:
-- Φ
-- β
-- δ
 excerpt: 'CMB temperature: ΔTT(n^)=∑ℓmaℓmYℓm(n^)\\frac{\\Delta T}{T}(\\hat{n}) \=
   \\sum\_{\\ell m} a\_{\\ell m} Y\_{\\ell m}(\\hat{n})TΔT​(n^)=ℓm∑​aℓm​Yℓm​(n^) Coefficients:'
-heading: '**3\. Temperature anisotropy from δ-geometry**'
-id: GEN11-1002
-lines: 241-275
-location: genesis-11/how-curvature-could-generate-an-axis::1-start-with-the-δ-mode-field-during-inflation::3-temperature-anisotropy-from-δ-geometry::b1
-parent_heading: '**1\. Start with the δ-mode field during inflation**'
-source: genesis-11\How_-curvature_could_generate_an_Axis.md
+concepts:
+- δ
+- Δ
+- IGSOA
+- ∫
+- red-tilted δ-modes
+- β
+- ∑
+- δ-mode
+- Φ
+- low-k dominance
+- Axis-of-Evil
+- δ-projected
+- red-tilted
+- δ-modes
+- low-k
+aliases:
+- Bk704ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 7.8125
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

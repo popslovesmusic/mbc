@@ -1,12 +1,30 @@
-block_type: paragraph
-concepts:
-- Box
-- Box Calculus
-- Σ
-excerpt: 'For any Box X X with maps:'
-heading: Universality
 id: GEN17-4480
-lines: 5250-5298
 location: genesis-17/box-calculus::3-binary-products::universality::b1
-parent_heading: ⭐ 3\. Binary Products
 source: genesis-17\box_calculus.md
+lines: 5250-5298
+heading: Universality
+parent_heading: ⭐ 3\. Binary Products
+block_type: paragraph
+excerpt: 'For any Box X X with maps:'
+concepts:
+- Σ
+- →
+- Box Calculus
+- Box
+- ⊗
+- ΣX
+aliases:
+- Bk186fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.521739130434782
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

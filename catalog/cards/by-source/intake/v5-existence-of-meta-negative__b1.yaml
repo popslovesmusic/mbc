@@ -1,10 +1,26 @@
+id: INTK-10356
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v5-existence-of-meta-negative::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 1013-1014
+heading: 'V.5 Existence of Meta-Negative:'
+parent_heading: Properties and Axioms (Generalized)
 block_type: paragraph
+excerpt: For every `V ∈ S_Ψ`, there exists a `(-V) ∈ S_Ψ` such that `V ⊞ (-V) = vec{0}`.
 concepts:
 - Ψ
-excerpt: For every `V ∈ S_Ψ`, there exists a `(-V) ∈ S_Ψ` such that `V ⊞ (-V) = vec{0}`.
-heading: 'V.5 Existence of Meta-Negative:'
-id: INTK-10356
-lines: 1013-1014
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v5-existence-of-meta-negative::b1
-parent_heading: Properties and Axioms (Generalized)
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+- ∈
+aliases:
+- Bk518fe
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

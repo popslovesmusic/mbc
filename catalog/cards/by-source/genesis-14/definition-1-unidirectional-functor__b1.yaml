@@ -1,13 +1,28 @@
+id: GEN14-2887
+location: genesis-14/meta-math-and-cryptography::1-category-setup::12-the-transformation-category-tmathcaltt::definition-1-unidirectional-functor::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 1412-1424
+heading: '**Definition 1\. (Unidirectional Functor)**'
+parent_heading: '**1.2 The Transformation Category T\\mathcal{T}T**'
 block_type: paragraph
-concepts:
-- unidirectional
-- Φ
 excerpt: 'Φ is *unidirectional* if **no right adjoint exists**: Φ⊣Gwith G right adjointΦ
   \\dashv G \\quad\\text{with } G \\text{ right adjoint}Φ⊣Gwith G right adjoint and
   also **no natural Φ⁻¹ exists**:'
-heading: '**Definition 1\. (Unidirectional Functor)**'
-id: GEN14-2887
-lines: 1412-1424
-location: genesis-14/meta-math-and-cryptography::1-category-setup::12-the-transformation-category-tmathcaltt::definition-1-unidirectional-functor::b1
-parent_heading: '**1.2 The Transformation Category T\\mathcal{T}T**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- Φ
+- one-wayness
+- no right adjoint exists
+- ∉
+- ∈
+aliases:
+- Bk133ur
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.064516129032258
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

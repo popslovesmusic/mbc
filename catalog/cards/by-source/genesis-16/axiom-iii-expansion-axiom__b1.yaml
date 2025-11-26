@@ -1,12 +1,25 @@
+id: GEN16-4127
+location: genesis-16/untitled-document::1-resource-sensitivity-exists-in-box-calculus::axiom-iii-expansion-axiom::b1
+source: genesis-16\Untitled_document.md
+lines: 4941-4949
+heading: '**Axiom III (Expansion Axiom):**'
+parent_heading: '**⭐ 1\. RESOURCE SENSITIVITY EXISTS IN BOX CALCULUS**'
 block_type: paragraph
-concepts:
-- Σ
 excerpt: 'E(Σ) allowed iff ΔH(Σ)\>ϵE(\\Sigma) \\text{ allowed iff } \\Delta H(\\Sigma)
   \> \\epsilonE(Σ) allowed iff ΔH(Σ)\>ϵ Meaning: * you cannot “duplicate” information
   freely (cost exists)'
-heading: '**Axiom III (Expansion Axiom):**'
-id: GEN16-4127
-lines: 4941-4949
-location: genesis-16/untitled-document::1-resource-sensitivity-exists-in-box-calculus::axiom-iii-expansion-axiom::b1
-parent_heading: '**⭐ 1\. RESOURCE SENSITIVITY EXISTS IN BOX CALCULUS**'
-source: genesis-16\Untitled_document.md
+concepts:
+- Σ
+- Δ
+aliases:
+- Bk721ai
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.555555555555555
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

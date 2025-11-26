@@ -1,19 +1,39 @@
+id: GEN18-5361
+location: genesis-18/mbc-4::mbc-40-semantic-operator-table::7-full-cross-referenced-meta-operator-hierarchy::igsoa-mbc-core-semantic-logic-layer-agent-layer::b1
+source: genesis-18\MBC-4.md
+lines: 121-142
+heading: '**IGSOA → MBC Core → Semantic Logic Layer → Agent Layer**'
+parent_heading: '**7\. Full Cross-Referenced Meta-Operator Hierarchy**'
 block_type: paragraph
+excerpt: '`IGSOA (monistic dynamics)` `|` `v`'
 concepts:
-- Semantic Logic Diagram Stack
-- Γ
-- Θ
-- Λ
+- IGSOA
+- MBC
 - Π
 - Σ
-- Φ
-- Ψ
-- Ω
 - δ
-excerpt: '`IGSOA (monistic dynamics)` `|` `v`'
-heading: '**IGSOA → MBC Core → Semantic Logic Layer → Agent Layer**'
-id: GEN18-5361
-lines: 121-142
-location: genesis-18/mbc-4::mbc-40-semantic-operator-table::7-full-cross-referenced-meta-operator-hierarchy::igsoa-mbc-core-semantic-logic-layer-agent-layer::b1
-parent_heading: '**7\. Full Cross-Referenced Meta-Operator Hierarchy**'
-source: genesis-18\MBC-4.md
+- Φ
+- →
+- Semantic Logic Diagram Stack
+- Π-Operators
+- Φ-Operators
+- δ-Operators
+- Ω
+- Ξ
+- Κ
+- Ψ
+aliases:
+- Bk449im
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 37.254901960784316
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

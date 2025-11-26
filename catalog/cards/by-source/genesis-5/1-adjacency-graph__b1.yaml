@@ -1,10 +1,25 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'From AAA, form a graph: * **Vertices:** sites of AAA. * **Edges:** an edge
-  (x,y)(x,y)(x,y) iff x∼Ayx \\sim\_A yx∼A​y.'
-heading: '**1\. Adjacency Graph**'
 id: GEN5-8166
-lines: 494-512
 location: genesis-5/the-ga-8-meta-einstein-theorem::1-adjacency-graph::b1
 source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md
+lines: 494-512
+heading: '**1\. Adjacency Graph**'
+block_type: paragraph
+excerpt: 'From AAA, form a graph: * **Vertices:** sites of AAA. * **Edges:** an edge
+  (x,y)(x,y)(x,y) iff x∼Ayx \\sim\_A yx∼A​y.'
+concepts:
+- δ-generation
+- δ
+aliases:
+- Bk495fa
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 3.7037037037037033
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

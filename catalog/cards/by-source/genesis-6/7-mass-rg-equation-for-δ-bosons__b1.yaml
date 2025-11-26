@@ -1,11 +1,27 @@
+id: GEN6-8437
+location: genesis-6/the-harmonic-spectral-triple::7-mass-rg-equation-for-δ-bosons::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md
+lines: 1213-1229
+heading: '**7\. Mass RG Equation for δ-Bosons**'
 block_type: paragraph
+excerpt: 'Recall: mnmk2=∣Λnmk∣.m\_{nmk}^2 \= |\\Lambda\_{nmk}|.mnmk2​=∣Λnmk​∣. Then:'
 concepts:
+- ∂
 - Λ
 - β
 - μ
-excerpt: 'Recall: mnmk2=∣Λnmk∣.m\_{nmk}^2 \= |\\Lambda\_{nmk}|.mnmk2​=∣Λnmk​∣. Then:'
-heading: '**7\. Mass RG Equation for δ-Bosons**'
-id: GEN6-8437
-lines: 1213-1229
-location: genesis-6/the-harmonic-spectral-triple::7-mass-rg-equation-for-δ-bosons::b1
-source: genesis-6\The_-Harmonic_Spectral_Triple.md
+aliases:
+- Bk339rn
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.7735849056603774
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

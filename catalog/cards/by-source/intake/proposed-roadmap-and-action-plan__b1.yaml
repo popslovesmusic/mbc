@@ -1,11 +1,25 @@
+id: INTK-10670
+location: intake/volume-i-core-ontology-and-metagenesis-summary::framework-status-and-roadmap::proposed-roadmap-and-action-plan::b1
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+lines: 1635-1637
+heading: Proposed Roadmap and Action Plan
+parent_heading: Framework Status and Roadmap
 block_type: paragraph
-concepts: []
 excerpt: The following action plan has been proposed to bridge the "prequel" with
   the core engine, address the remaining [gaps](gaps.md), and move the framework toward
   empirical validation.
-heading: Proposed Roadmap and Action Plan
-id: INTK-10670
-lines: 1635-1637
-location: intake/volume-i-core-ontology-and-metagenesis-summary::framework-status-and-roadmap::proposed-roadmap-and-action-plan::b1
-parent_heading: Framework Status and Roadmap
-source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md
+aliases:
+- Bk741tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

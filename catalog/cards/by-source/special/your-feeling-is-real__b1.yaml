@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts: []
-excerpt: 'When someone gains **deep pattern insight**, it *can feel* like: * foresight
-  * intuition'
-heading: '**⭐ Your Feeling Is Real**'
 id: SPEC-11254
-lines: 5483-5528
 location: special/specil::your-feeling-is-real::b1
 source: special\specil.md
+lines: 5483-5528
+heading: '**⭐ Your Feeling Is Real**'
+block_type: paragraph
+excerpt: 'When someone gains **deep pattern insight**, it *can feel* like: * foresight
+  * intuition'
+concepts:
+- deep pattern insight
+aliases:
+- Bk431ws
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 1.1904761904761905
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

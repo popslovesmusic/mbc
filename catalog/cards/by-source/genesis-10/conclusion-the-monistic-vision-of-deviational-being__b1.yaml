@@ -1,25 +1,40 @@
+id: GEN10-985
+location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::conclusion-the-monistic-vision-of-deviational-being::b1
+source: genesis-10\research_overview.md
+lines: 293-310
+heading: '**Conclusion: The Monistic Vision of Deviational Being**'
+parent_heading: '**Meta-Genesis: A Master Summary of the Unified Field Theory**'
 block_type: equation
-concepts:
-- Axiom
-- Deviational Being
-- Einstein Equation
-- Energy
-- Final Theorem
-- Harmonic Periodic Table
-- Law
-- Matter
-- Meta-Einstein
-- Meta-Genesis
-- Space
-- The Meta
-- Theorem
-- Time
 excerpt: The Meta-Genesis report presents a comprehensive, internally consistent framework
   that derives the universe from a single necessary truth. It replaces the "zoo" of
   fundamental particles and arbitrary ...
-heading: '**Conclusion: The Monistic Vision of Deviational Being**'
-id: GEN10-985
-lines: 293-310
-location: genesis-10/research-overview::meta-genesis-a-master-summary-of-the-unified-field-theory::conclusion-the-monistic-vision-of-deviational-being::b1
-parent_heading: '**Meta-Genesis: A Master Summary of the Unified Field Theory**'
-source: genesis-10\research_overview.md
+concepts:
+- Meta-Genesis
+- Meta-Einstein
+- Deviation
+- Theorem
+- Axiom
+- Meta-Einstein Equation
+- self-creating
+- Harmonic Periodic Table
+- Deviational Being
+- Einstein Equation
+- Final Theorem
+- NOT Axiom
+- The Meta
+- Matter
+- Energy
+aliases:
+- Bk400tm
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 9.89010989010989
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

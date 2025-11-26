@@ -1,15 +1,32 @@
+id: GEN12-1748
+location: genesis-12/untitled-document::definition-21-δ-higgs-potential::b1
+source: genesis-12\Untitled_document.md
+lines: 410-420
+heading: '**Definition 2.1 — δ-Higgs Potential**'
 block_type: paragraph
-concepts:
-- Meta-Genesis
-- α
-- β
-- γ
-- δ
 excerpt: 'Vδ(δ)  =  α ∥δ∥2  +  β δ3  +  γ ∥δ∥4,V\_\\delta(\\delta) \\;=\\; \\alpha\\,\\|\\delta\\|^2
   \\;+\\; \\beta\\,\\delta^3 \\;+\\; \\gamma\\,\\|\\delta\\|^4,Vδ​(δ)=α∥δ∥2+βδ3+γ∥δ∥4,
   with: * **quadratic term...'
-heading: '**Definition 2.1 — δ-Higgs Potential**'
-id: GEN12-1748
-lines: 410-420
-location: genesis-12/untitled-document::definition-21-δ-higgs-potential::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- δ
+- Meta-Genesis
+- β
+- γ
+- α
+- quadratic term
+- quartic term
+- cubic term
+aliases:
+- Bk228dd
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.09433962264151
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

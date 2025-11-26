@@ -1,14 +1,35 @@
-block_type: table
-concepts:
-- Standard Category Theory
-- Π
-- Σ
-- Φ
-- δ
-excerpt: 'Π is formally a functor: Π:IGSOAδ,Φ→BoxNet\\Pi : \\mathrm{IGSOA}\_{\\delta,\\Phi}
-  \\to \\mathrm{BoxNet}Π:IGSOAδ,Φ​→BoxNet ---'
-heading: '**6\. Category-Theoretic Form**'
 id: GEN17-5012
-lines: 112-126
 location: genesis-17/mbc-schema-3::6-category-theoretic-form::b1
 source: genesis-17\MBC_Schema_3.md
+lines: 112-126
+heading: '**6\. Category-Theoretic Form**'
+block_type: table
+excerpt: 'Π is formally a functor: Π:IGSOAδ,Φ→BoxNet\\Pi : \\mathrm{IGSOA}\_{\\delta,\\Phi}
+  \\to \\mathrm{BoxNet}Π:IGSOAδ,Φ​→BoxNet ---'
+concepts:
+- IGSOA
+- Π
+- δ
+- Φ
+- →
+- Functor
+- Σ
+- δ-variations
+- Π-connectors
+- Standard Category Theory
+- Φ-ladders
+aliases:
+- Bk721sc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.37037037037037
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

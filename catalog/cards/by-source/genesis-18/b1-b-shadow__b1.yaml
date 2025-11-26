@@ -1,16 +1,34 @@
+id: GEN18-5193
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::b-shadow-operators::b1-b-shadow::b1
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+lines: 734-745
+heading: '**B1 — B-Shadow**'
+parent_heading: '**B. SHADOW OPERATORS**'
 block_type: table
+excerpt: '---'
 concepts:
-- Box
-- Class
+- IGSOA
 - Definition
+- Box
+- →
 - Field
+- structural-pattern
+- low-curvature
+- Signature
+- Class
 - Notes
 - Role
-- Signature
-excerpt: '---'
-heading: '**B1 — B-Shadow**'
-id: GEN18-5193
-lines: 734-745
-location: genesis-18/chapter-how-expansion-happened-before-time-existed::b-shadow-operators::b1-b-shadow::b1
-parent_heading: '**B. SHADOW OPERATORS**'
-source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md
+aliases:
+- Bk586fv
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 25.581395348837212
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

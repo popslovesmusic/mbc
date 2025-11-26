@@ -1,8 +1,22 @@
-block_type: paragraph
-concepts: []
-excerpt: 'If you want, I can deliver a fully formalized version:'
-heading: '**📦 Want me to produce…?**'
 id: SPEC-10975
-lines: 167-169
 location: special/specil::want-me-to-produce::b1
 source: special\specil.md
+lines: 167-169
+heading: '**📦 Want me to produce…?**'
+block_type: paragraph
+excerpt: 'If you want, I can deliver a fully formalized version:'
+aliases:
+- Bk806yw
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

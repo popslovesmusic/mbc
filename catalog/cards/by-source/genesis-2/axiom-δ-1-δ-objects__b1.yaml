@@ -1,11 +1,29 @@
+id: GEN2-6460
+location: genesis-2/axioms-of-geometry-topos-compatible::iii-δ-layer-intrinsic-deviation-geometry::axiom-δ-1-δ-objects::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 1892-1898
+heading: '**Axiom (δ-1) — δ-Objects**'
+parent_heading: '**III. δ-Layer (Intrinsic Deviation / Geometry)**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: A δ-object is a pair (A,δA)(A,\\delta\_A)(A,δA​) with δA:A→A.\\delta\_A:A\\to
   A.δA​:A→A. ---
-heading: '**Axiom (δ-1) — δ-Objects**'
-id: GEN2-6460
-lines: 1892-1898
-location: genesis-2/axioms-of-geometry-topos-compatible::iii-δ-layer-intrinsic-deviation-geometry::axiom-δ-1-δ-objects::b1
-parent_heading: '**III. δ-Layer (Intrinsic Deviation / Geometry)**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- δ
+- δA
+- →
+- δ-object
+aliases:
+- Bk966op
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 16.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

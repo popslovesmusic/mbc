@@ -1,12 +1,27 @@
+id: GEN8-8960
+location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::prerequisite-axioms-used::3-tri-unity-compatibility-axioms::b1
+source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 839-860
+heading: '**3\. Tri-Unity Compatibility Axioms**'
+parent_heading: '**Prerequisite Axioms Used**'
 block_type: paragraph
+excerpt: 3.1 \[δ,Φ\]=Π δ.\[\\delta,\\Phi\] \= \\Pi\\,\\delta.\[δ,Φ\]=Πδ. 3.2
 concepts:
 - Π
-- Φ
 - δ
-excerpt: 3.1 \[δ,Φ\]=Π δ.\[\\delta,\\Phi\] \= \\Pi\\,\\delta.\[δ,Φ\]=Πδ. 3.2
-heading: '**3\. Tri-Unity Compatibility Axioms**'
-id: GEN8-8960
-lines: 839-860
-location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::prerequisite-axioms-used::3-tri-unity-compatibility-axioms::b1
-parent_heading: '**Prerequisite Axioms Used**'
-source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+- Φ
+- Tri-curvature
+aliases:
+- Bk880dp
+tags:
+- qualified
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.128205128205128
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

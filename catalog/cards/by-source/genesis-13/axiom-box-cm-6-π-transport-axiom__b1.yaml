@@ -1,16 +1,39 @@
+id: GEN13-2246
+location: genesis-13/meta-math-nuclear-physics::sealed-axiom-box-set-condensed-matter-physics::axiom-box-cm-6-π-transport-axiom::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 2826-2847
+heading: '**AXIOM BOX CM-6: Π-Transport Axiom**'
+parent_heading: '**SEALED AXIOM BOX SET — CONDENSED MATTER PHYSICS**'
 block_type: paragraph
+excerpt: '**SEAL:** CM-6 **Axiom.** Π-projection maps Φ-curvature to conductivity:'
 concepts:
-- Axiom
-- End Seal
-- Quantum Hall
 - Π
 - Φ
-- ν
 - σ
-excerpt: '**SEAL:** CM-6 **Axiom.** Π-projection maps Φ-curvature to conductivity:'
-heading: '**AXIOM BOX CM-6: Π-Transport Axiom**'
-id: GEN13-2246
-lines: 2826-2847
-location: genesis-13/meta-math-nuclear-physics::sealed-axiom-box-set-condensed-matter-physics::axiom-box-cm-6-π-transport-axiom::b1
-parent_heading: '**SEALED AXIOM BOX SET — CONDENSED MATTER PHYSICS**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+- Axiom
+- Π-projection
+- ∫
+- ν
+- Φ-curvature
+- Φ-geometry
+- Π-shadows
+- Φ-Chern
+- Quantum Hall
+- End Seal
+aliases:
+- Am970sa
+tags:
+- axiom
+- definitive
+- low-uncertainty
+is_formal: true
+statement_type: axiom
+axiom_count: 1
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.66265060240964
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

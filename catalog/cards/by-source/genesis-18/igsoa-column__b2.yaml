@@ -1,14 +1,30 @@
+id: GEN18-5456
+location: genesis-18/mbc-4::i-statement-of-the-theorem::igsoa-column::b2
+source: genesis-18\MBC-4.md
+lines: 1105-1109
+heading: '**IGSOA column**'
+parent_heading: '**I. Statement of the Theorem**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- Ω
-- δ
 excerpt: 'For any δ-structured domain XXX, the semantic content of XXX is given by:
   S(X):=Ω(Π∘Φ∘δ(X))\\mathcal{S}(X) := \\Omega\\big(\\Pi \\circ \\Phi \\circ \\delta(X)\\big)S(X):=Ω(Π∘Φ∘δ(X))'
-heading: '**IGSOA column**'
-id: GEN18-5456
-lines: 1105-1109
-location: genesis-18/mbc-4::i-statement-of-the-theorem::igsoa-column::b2
-parent_heading: '**I. Statement of the Theorem**'
-source: genesis-18\MBC-4.md
+concepts:
+- δ
+- Ω
+- Π
+- Φ
+- δ-structured
+aliases:
+- Bk747fa
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.5
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

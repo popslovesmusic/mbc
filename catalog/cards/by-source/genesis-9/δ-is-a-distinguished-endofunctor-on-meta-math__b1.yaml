@@ -1,11 +1,26 @@
+id: GEN9-9126
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-where-δ-lives-in-that-spine::δ-is-a-distinguished-endofunctor-on-meta-math::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 1544-1558
+heading: '**δ is a distinguished endofunctor on Meta-Math**'
+parent_heading: '**2\. Where δ Lives in That Spine**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'δ:M→M.\\delta : \\mathcal{M} \\to \\mathcal{M}.δ:M→M. Interpretation: *
   MG says “potential must deviate”'
-heading: '**δ is a distinguished endofunctor on Meta-Math**'
-id: GEN9-9126
-lines: 1544-1558
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::2-where-δ-lives-in-that-spine::δ-is-a-distinguished-endofunctor-on-meta-math::b1
-parent_heading: '**2\. Where δ Lives in That Spine**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- δ
+- →
+- the internal engine of MM
+- as an endofunctor
+aliases:
+- Bk680dm
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.16326530612245
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

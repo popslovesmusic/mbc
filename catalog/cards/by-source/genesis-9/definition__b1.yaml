@@ -1,13 +1,32 @@
+id: GEN9-9410
+location: genesis-9/is-the-source-of-all-structure::6-operator-theoretic-reconstruction-of-atomic-orbitals::definition::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 1127-1145
+heading: '**Definition.**'
+parent_heading: '**6\. Operator-Theoretic Reconstruction of Atomic Orbitals**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- α
 excerpt: 'An *atomic orbital* in IGSOA is: On,α≡Π(Φ(ψn,α))∈Hclassical.\\mathcal{O}\_{n,\\alpha}
   \\equiv \\Pi \\Big( \\Phi(\\psi\_{n,\\alpha}) \\Big) \\in \\mathcal{H}\_{\\text{classical}}.On,α​≡Π(Φ(ψn,α​))∈Hcla...'
-heading: '**Definition.**'
-id: GEN9-9410
-lines: 1127-1145
-location: genesis-9/is-the-source-of-all-structure::6-operator-theoretic-reconstruction-of-atomic-orbitals::definition::b1
-parent_heading: '**6\. Operator-Theoretic Reconstruction of Atomic Orbitals**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- α
+- IGSOA
+- ψ
+- Π
+- ∈
+- Δ
+- Φ
+aliases:
+- Bk391ao
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 4.861111111111112
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

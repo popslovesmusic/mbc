@@ -1,12 +1,27 @@
+id: GEN12-1956
+location: genesis-12/untitled-document::1-before-there-was-light-there-was-δ::b1
+source: genesis-12\Untitled_document.md
+lines: 3606-3630
+heading: '**1\. Before There Was Light, There Was δ**'
 block_type: paragraph
-concepts:
-- blueprints
-- δ
 excerpt: Long before the CMB, long before atoms, long before photons traveled freely,
   the universe was filled with the **pure imprint of deviation**. δ was the first
   disturbance— the first insistence that stil...
-heading: '**1\. Before There Was Light, There Was δ**'
-id: GEN12-1956
-lines: 3606-3630
-location: genesis-12/untitled-document::1-before-there-was-light-there-was-δ::b1
-source: genesis-12\Untitled_document.md
+concepts:
+- pure imprint of deviation
+- long-wave
+- δ
+aliases:
+- Bk169lb
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.1914893617021276
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

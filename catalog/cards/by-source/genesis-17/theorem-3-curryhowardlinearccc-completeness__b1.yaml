@@ -1,11 +1,30 @@
+id: GEN17-4751
+location: genesis-17/box-calculus::v-formal-closure-of-the-system::theorem-3-curryhowardlinearccc-completeness::b1
+source: genesis-17\box_calculus.md
+lines: 8798-8809
+heading: Theorem 3 (Curry–Howard–Linear–CCC Completeness)
+parent_heading: 🔷 V. Formal Closure of the System
 block_type: paragraph
-concepts:
-- λ
 excerpt: 'Because 𝓕 is a self-adjoint differential operator and admits a functional
   calculus, the monistic calculus supports: * typed λ-calculus * linear logic (\!)'
-heading: Theorem 3 (Curry–Howard–Linear–CCC Completeness)
-id: GEN17-4751
-lines: 8798-8809
-location: genesis-17/box-calculus::v-formal-closure-of-the-system::theorem-3-curryhowardlinearccc-completeness::b1
-parent_heading: 🔷 V. Formal Closure of the System
-source: genesis-17\box_calculus.md
+concepts:
+- Proof
+- self-adjoint
+- λ
+aliases:
+- Bk243bs
+tags:
+- direct-from-functional-calculus-and-spectral-decomposition
+- proof
+- definitive
+- low-uncertainty
+is_formal: true
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 8.823529411764707
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

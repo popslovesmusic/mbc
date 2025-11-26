@@ -1,16 +1,37 @@
+id: GEN19-5924
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-gate-synthesis-table-sealed::notes-sealed-consistency-with-your-system::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+lines: 732-746
+heading: '**Notes (sealed consistency with your system)**'
+parent_heading: '**Θ-Gate Synthesis Table (sealed)**'
 block_type: list
-concepts:
-- Full Semantic Logic Operator Table
-- Gate Tensor Forms
-- Operator
-- Θ
-- δ
 excerpt: 1. **Single-router gates** (NOT/AND/OR/IMPLIES) are **linearly Θ-separable**
   in polarity space, so one Θ-router suffices. 2. **XOR is not Θ-separable**, so it
   requires **router stacking** (δ→Θ→Θ), exa...
-heading: '**Notes (sealed consistency with your system)**'
-id: GEN19-5924
-lines: 732-746
-location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-gate-synthesis-table-sealed::notes-sealed-consistency-with-your-system::b1
-parent_heading: '**Θ-Gate Synthesis Table (sealed)**'
-source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md
+concepts:
+- Θ
+- MBC
+- δ
+- Operator
+- Gate
+- Single-router gates
+- Full Semantic Logic Operator Table
+- →
+- Single-router
+- δ-adjacency
+- δ-metadata
+- No subjectivity enters
+- Gate Tensor Forms
+- router stacking
+aliases:
+- Bk744sr
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.461538461538462
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

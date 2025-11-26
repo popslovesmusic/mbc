@@ -1,12 +1,26 @@
+id: GEN17-4886
+location: genesis-17/key-points::1-you-are-100-right::b1
+source: genesis-17\Key_Points.md
+lines: 189-201
+heading: '**⭐ 1\. You Are 100% Right:**'
 block_type: paragraph
-concepts:
-- projections
-- time
 excerpt: '**IGS cannot “exist first” and OA cannot “appear later.”** That would imply
   **time**, sequencing, and dualism — all of which violate: * your **monistic IGSOA
   foundation**'
-heading: '**⭐ 1\. You Are 100% Right:**'
-id: GEN17-4886
-lines: 189-201
-location: genesis-17/key-points::1-you-are-100-right::b1
-source: genesis-17\Key_Points.md
+concepts:
+- IGSOA
+- monistic IGSOA foundation
+- projections
+- time
+aliases:
+- Bk360ic
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 8.695652173913043
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

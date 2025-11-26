@@ -1,12 +1,27 @@
-block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-excerpt: IδΦ:=Π(\[δ,Φ\])I\_{\\delta\\Phi}:=\\Pi(\[\\delta,\\Phi\])IδΦ​:=Π(\[δ,Φ\])
-heading: '**Interaction Term**'
 id: GEN8-8985
-lines: 1120-1122
 location: genesis-8/unified-symmetric-meta-einstein-chromatic-mode-law::metaeinstein-hermetic-box::interaction-term::b1
-parent_heading: '**⟦ META–EINSTEIN HERMETIC BOX ⟧**'
 source: genesis-8\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md
+lines: 1120-1122
+heading: '**Interaction Term**'
+parent_heading: '**⟦ META–EINSTEIN HERMETIC BOX ⟧**'
+block_type: paragraph
+excerpt: IδΦ:=Π(\[δ,Φ\])I\_{\\delta\\Phi}:=\\Pi(\[\\delta,\\Phi\])IδΦ​:=Π(\[δ,Φ\])
+concepts:
+- δ
+- Φ
+- Π
+aliases:
+- Bk777dp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

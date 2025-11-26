@@ -1,14 +1,29 @@
+id: GEN3-7462
+location: genesis-3/the-physics-box-diagram::1-the-not-axiom-non-ontic-totality::axiom-n2-not-implies-non-sustainability::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+lines: 1368-1377
+heading: '**Axiom N2: NOT Implies Non-Sustainability**'
+parent_heading: '**1\. THE NOT AXIOM (Non-Ontic Totality)**'
 block_type: paragraph
-concepts:
-- Zero State
-- self-contradictory
-- Ψ
 excerpt: 'Perfect stillness (complete absence of deviation) is **self-contradictory**:
   Ψ0 cannot persist as Ψ0.Ψ\_0 \\text{ cannot persist as } Ψ\_0.Ψ0​ cannot persist
   as Ψ0​. This is the **fundamental asymmetr...'
-heading: '**Axiom N2: NOT Implies Non-Sustainability**'
-id: GEN3-7462
-lines: 1368-1377
-location: genesis-3/the-physics-box-diagram::1-the-not-axiom-non-ontic-totality::axiom-n2-not-implies-non-sustainability::b1
-parent_heading: '**1\. THE NOT AXIOM (Non-Ontic Totality)**'
-source: genesis-3\THE_Physics_BOX_DIAGRAM.md
+concepts:
+- Ψ
+- State
+- self-contradictory
+- ontologically unstable
+- fundamental asymmetry
+- Zero State
+aliases:
+- Bk425ps
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 15.789473684210526
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

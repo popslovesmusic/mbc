@@ -1,14 +1,32 @@
+id: GEN5-7962
+location: genesis-5/formal-proof-of-the-adjoint-triple::topostheoretic-axiom-box-the-genesismathtopos-adjoint-triple::axiom-t9-interpretation-principle::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+lines: 373-385
+heading: '**Axiom T9 (Interpretation Principle).**'
+parent_heading: '**▢ Topos–Theoretic Axiom Box: The Genesis–Math–Topos Adjoint Triple**'
 block_type: paragraph
-concepts:
-- Foundation Layer
-- Layer
-- σ
 excerpt: 'The adjoint triple expresses the fundamental philosophical trinity: * **MG
   (potential)** → structured by **L** → **MM (action)** * **MM (action)** → geometry
   via **U** → **σTop (structure)**'
-heading: '**Axiom T9 (Interpretation Principle).**'
-id: GEN5-7962
-lines: 373-385
-location: genesis-5/formal-proof-of-the-adjoint-triple::topostheoretic-axiom-box-the-genesismathtopos-adjoint-triple::axiom-t9-interpretation-principle::b1
-parent_heading: '**▢ Topos–Theoretic Axiom Box: The Genesis–Math–Topos Adjoint Triple**'
-source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md
+concepts:
+- →
+- Foundation Layer
+- IGSOA
+- Layer
+- σ
+- topos-theoretic
+aliases:
+- Bk769ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,29 @@
-block_type: table
-concepts:
-- Σ
-- λ
-- τ
-excerpt: Denote types by τ τ.
-heading: 'World A: Types'
 id: GEN17-4571
-lines: 6616-6625
 location: genesis-17/box-calculus::curryhoward-for-box-calculus::1-the-four-worlds::world-a-types::b1
-parent_heading: 1\. The Four Worlds
 source: genesis-17\box_calculus.md
+lines: 6616-6625
+heading: 'World A: Types'
+parent_heading: 1\. The Four Worlds
+block_type: table
+excerpt: Denote types by τ τ.
+concepts:
+- IGSOA
+- τ
+- meaning-vector
+- λ
+- Σ
+aliases:
+- Bk373if
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.157894736842104
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

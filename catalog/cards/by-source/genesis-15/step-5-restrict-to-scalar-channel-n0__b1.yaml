@@ -1,15 +1,35 @@
+id: GEN15-3131
+location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-5-restrict-to-scalar-channel-n0::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+lines: 800-818
+heading: '**Step 5 — Restrict to scalar channel (n=0)**'
+parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
-- λ
 excerpt: 'Higgs \= scalar channel: Φ(Kδ)scalar=λ0(ϵ) Φ0†Φ0\\Phi(\\mathcal{K}\_\\delta)\_{\\text{scalar}}
   \= \\lambda\_0(\\epsilon)\\,\\Phi\_0^\\dagger\\Phi\_0Φ(Kδ​)scalar​=λ0​(ϵ)Φ0†​Φ0​
   Write the scalar amplitu...'
-heading: '**Step 5 — Restrict to scalar channel (n=0)**'
-id: GEN15-3131
-lines: 800-818
-location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-5-restrict-to-scalar-channel-n0::b1
-parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
-source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md
+concepts:
+- Φ
+- λ
+- Φ-amplitude
+- ε
+- δ
+- Π
+- δ-nonlinearity
+- self-coupling
+- scalar curvature eigenvalue
+aliases:
+- Bk721hs
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.7164179104477615
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

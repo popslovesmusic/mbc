@@ -1,11 +1,31 @@
+id: GEN0-122
+location: genesis-0/feynman-rules-interaction-vertices::v-connection-to-the-369-fractal-spectrum::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+lines: 1800-1822
+heading: '**V. Connection to the 3–6–9 fractal spectrum**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: 'The adjacency Hessian Ξmn\\Xi\_{mn}Ξmn​ is block-structured by fractal mode
   shells: Ξ=(Ξ3∗∗∗Ξ6∗∗∗Ξ9)\\Xi \= \\begin{pmatrix} \\Xi\_{3}& \* & \* \\\\ \*& \\Xi\_{6}&
   \*\\\\ \*& \*& \\Xi\_{9} \\end{pmatr...'
-heading: '**V. Connection to the 3–6–9 fractal spectrum**'
-id: GEN0-122
-lines: 1800-1822
-location: genesis-0/feynman-rules-interaction-vertices::v-connection-to-the-369-fractal-spectrum::b1
-source: genesis-0\-Feynman_Rules__Interaction_Vertices.md
+concepts:
+- Ξ
+- δ
+- δ-boson
+- δ-bosons
+- block-structured
+- δ-flavor
+aliases:
+- Bk749ta
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.122448979591836
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

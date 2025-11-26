@@ -1,10 +1,31 @@
-block_type: paragraph
-concepts:
-- δ
-excerpt: 'Once the 6-cycle becomes self-consistent, IGSOA produces a **third layer**:
-  * the stability layer * the harmonic return layer'
-heading: '**⭐ 3\. 9 — The Stability Lattice**'
 id: SPEC-11068
-lines: 1518-1556
 location: special/specil::3-9-the-stability-lattice::b1
 source: special\specil.md
+lines: 1518-1556
+heading: '**⭐ 3\. 9 — The Stability Lattice**'
+block_type: paragraph
+excerpt: 'Once the 6-cycle becomes self-consistent, IGSOA produces a **third layer**:
+  * the stability layer * the harmonic return layer'
+concepts:
+- IGSOA
+- meta-consistency
+- self-consistent
+- cross-realm
+- δ-boson
+- δ
+- third layer
+aliases:
+- Bk496ot
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 8.235294117647058
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,25 @@
+id: INTK-9969
+location: intake/meta-genesis-mathematical-papers::3-category-theoretic-domain-exclusion::definition-zero-state-as-an-isolated-object::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md
+lines: 354-373
+heading: '**Definition (Zero-State as an Isolated Object).**'
+parent_heading: '**3\. Category-Theoretic Domain Exclusion**'
 block_type: paragraph
-concepts:
-- none
-- Ψ
 excerpt: 'Define the category C\\mathfrak{C}C of all structured states. Define an
   object XXX to be “structured” if it has: * morphisms'
-heading: '**Definition (Zero-State as an Isolated Object).**'
-id: INTK-9969
-lines: 354-373
-location: intake/meta-genesis-mathematical-papers::3-category-theoretic-domain-exclusion::definition-zero-state-as-an-isolated-object::b1
-parent_heading: '**3\. Category-Theoretic Domain Exclusion**'
-source: intake\Meta-Genesis_Mathematical_Papers.md
+concepts:
+- Ψ
+- hom-sets
+- none
+aliases:
+- Bk353dt
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.521739130434782
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

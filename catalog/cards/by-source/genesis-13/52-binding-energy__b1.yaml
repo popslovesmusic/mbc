@@ -1,14 +1,32 @@
+id: GEN13-2158
+location: genesis-13/meta-math-nuclear-physics::5-π-layer-iii-nuclear-physics-stabilization::52-binding-energy::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1925-1931
+heading: '**5.2 Binding Energy**'
+parent_heading: '**5\. Π-Layer III: Nuclear Physics Stabilization**'
 block_type: paragraph
+excerpt: B(A,Z)=−Π ⁣\[Hessδ(Φ)\]A,Z.B(A,Z) \= \-\\Pi\\\!\\left\[ \\mathrm{Hess}\_\\delta(\\Phi)
+  \\right\]\_{A,Z}.B(A,Z)=−Π\[Hessδ​(Φ)\]A,Z​. The semi-empirical mass formula is
+  a Π-shadow of Φ-Hessian polynomia...
 concepts:
 - Π
 - Φ
 - δ
-excerpt: B(A,Z)=−Π ⁣\[Hessδ(Φ)\]A,Z.B(A,Z) \= \-\\Pi\\\!\\left\[ \\mathrm{Hess}\_\\delta(\\Phi)
-  \\right\]\_{A,Z}.B(A,Z)=−Π\[Hessδ​(Φ)\]A,Z​. The semi-empirical mass formula is
-  a Π-shadow of Φ-Hessian polynomia...
-heading: '**5.2 Binding Energy**'
-id: GEN13-2158
-lines: 1925-1931
-location: genesis-13/meta-math-nuclear-physics::5-π-layer-iii-nuclear-physics-stabilization::52-binding-energy::b1
-parent_heading: '**5\. Π-Layer III: Nuclear Physics Stabilization**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+- semi-empirical
+- Φ-Hessian
+- Π-shadow
+aliases:
+- Bk199lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 13.636363636363635
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

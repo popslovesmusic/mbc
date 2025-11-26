@@ -1,13 +1,28 @@
+id: GEN13-2161
+location: genesis-13/meta-math-nuclear-physics::6-fully-unified-formal-pipeline::61-δ-φ-qcd::b1
+source: genesis-13\Meta-Math__Nuclear_Physics.md
+lines: 1951-1955
+heading: '**6.1 δ → Φ → QCD**'
+parent_heading: '**6\. Fully Unified Formal Pipeline**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: Color triplet=En(δ)\\text{Color triplet} \= E\_n(\\delta)Color triplet=En​(δ)
   Gluons=Der(AΦ)\\text{Gluons} \= \\mathrm{Der}(\\mathcal{A}\_\\Phi)Gluons=Der(AΦ​)
   Confinement=Φ(T)\\text{Confinement} \= \...
-heading: '**6.1 δ → Φ → QCD**'
-id: GEN13-2161
-lines: 1951-1955
-location: genesis-13/meta-math-nuclear-physics::6-fully-unified-formal-pipeline::61-δ-φ-qcd::b1
-parent_heading: '**6\. Fully Unified Formal Pipeline**'
-source: genesis-13\Meta-Math__Nuclear_Physics.md
+concepts:
+- Φ
+- δ
+aliases:
+- Bk571ct
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 5.263157894736842
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

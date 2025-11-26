@@ -1,12 +1,27 @@
+id: GEN0-257
+location: genesis-0/tri-unity-theorem-equivalence-of::4-physical-interpretation::deviation-is-inevitability::b1
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+lines: 1452-1464
+heading: '**Deviation is inevitability:**'
+parent_heading: '**4\. Physical Interpretation**'
 block_type: paragraph
-concepts:
-- The Universe
-- δ
 excerpt: The first crack in absolute stillness is the first movement. The first movement
   is the first moment. The first moment is the beginning of the universe.
-heading: '**Deviation is inevitability:**'
-id: GEN0-257
-lines: 1452-1464
-location: genesis-0/tri-unity-theorem-equivalence-of::4-physical-interpretation::deviation-is-inevitability::b1
-parent_heading: '**4\. Physical Interpretation**'
-source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md
+concepts:
+- δ
+- The Universe
+aliases:
+- Bk122tf
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 2.3529411764705883
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

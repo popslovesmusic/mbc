@@ -1,13 +1,31 @@
+id: GEN14-2815
+location: genesis-14/meta-math-and-cryptography::how-deviation-becomes-secrecy::5-the-key-a-carefully-controlled-δ::b1
+source: genesis-14\Meta-Math_and_Cryptography.md
+lines: 403-420
+heading: '**5\. The Key: A Carefully Controlled δ**'
+parent_heading: '**How Deviation Becomes Secrecy**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: Keys are not mystical objects. They are simply **privileged deviations**.
   A key is a δ-state that only one party knows.
-heading: '**5\. The Key: A Carefully Controlled δ**'
-id: GEN14-2815
-lines: 403-420
-location: genesis-14/meta-math-and-cryptography::how-deviation-becomes-secrecy::5-the-key-a-carefully-controlled-δ::b1
-parent_heading: '**How Deviation Becomes Secrecy**'
-source: genesis-14\Meta-Math_and_Cryptography.md
+concepts:
+- δ
+- Π
+- Φ-transform
+- δ-state
+- privileged deviations
+- Φ
+- key-δ
+aliases:
+- Bk479ka
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 7.777777777777778
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

@@ -1,13 +1,29 @@
+id: INTK-10097
+location: intake/meta-genesis-physical-interpretation-papers::5-incompatibility-of-stillness-with-the-axioms::theorem-51-stillness-is-not-a-fixed-point::b1
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+lines: 360-369
+heading: '**Theorem 5.1 (Stillness Is Not a Fixed Point).**'
+parent_heading: '**5\. Incompatibility of Stillness With the Axioms**'
 block_type: paragraph
+excerpt: 'There exists no state S such that: S=Ψ0andS→S.S \= \\Psi\_0 \\quad\\text{and}\\quad
+  S\\to S.S=Ψ0​andS→S. **Proof.**'
 concepts:
 - Axiom
 - Lemma
+- Proof
 - Ψ
-excerpt: 'There exists no state S such that: S=Ψ0andS→S.S \= \\Psi\_0 \\quad\\text{and}\\quad
-  S\\to S.S=Ψ0​andS→S. **Proof.**'
-heading: '**Theorem 5.1 (Stillness Is Not a Fixed Point).**'
-id: INTK-10097
-lines: 360-369
-location: intake/meta-genesis-physical-interpretation-papers::5-incompatibility-of-stillness-with-the-axioms::theorem-51-stillness-is-not-a-fixed-point::b1
-parent_heading: '**5\. Incompatibility of Stillness With the Axioms**'
-source: intake\Meta-Genesis_Physical_Interpretation_Papers.md
+- →
+aliases:
+- Bk244te
+tags:
+- proof
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.151515151515152
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

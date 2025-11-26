@@ -1,14 +1,36 @@
+id: GEN14-2706
+location: genesis-14/inflation-structure-formation::proof::5-mass-tower-emergence::b1
+source: genesis-14\Inflation__Structure_Formation.md
+lines: 866-888
+heading: '**5\. Mass Tower Emergence**'
+parent_heading: '**Proof**'
 block_type: paragraph
-concepts:
-- Π
-- Φ
-- δ
 excerpt: 'The δ-Higgs manifold is χ-stratified: Mδ-Higgs=⋃iMχi.\\mathcal{M}\_{\\delta\\text{-Higgs}}
   \= \\bigcup\_i \\mathcal{M}\_{\\chi\_i}.Mδ-Higgs​=i⋃​Mχi​​. Each χ-phase corresponds
   to a stable mass-eigenst...'
-heading: '**5\. Mass Tower Emergence**'
-id: GEN14-2706
-lines: 866-888
-location: genesis-14/inflation-structure-formation::proof::5-mass-tower-emergence::b1
-parent_heading: '**Proof**'
-source: genesis-14\Inflation__Structure_Formation.md
+concepts:
+- χ
+- δ-Higgs
+- δ
+- Mδ-Higgs
+- Π
+- ι
+- mass-eigenstructure
+- δ-Higgs mass tower
+- Π-images
+- Φ
+aliases:
+- Bk329th
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: true
+concept_density: 9.00900900900901
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

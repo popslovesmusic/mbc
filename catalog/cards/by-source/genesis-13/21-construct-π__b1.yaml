@@ -1,11 +1,29 @@
+id: GEN13-2332
+location: genesis-13/the-weight-of-light::2-second-adjoint-pair-φ-π::21-construct-π::b1
+source: genesis-13\The_Weight_of_Light.md
+lines: 999-1019
+heading: '**2.1 Construct Π\***'
+parent_heading: '**2\. Second Adjoint Pair: Φ ⊣ Π**'
 block_type: paragraph
-concepts:
-- Π
 excerpt: 'The Π-pullback functor: \\Pi^\\\!\* : \\mathcal{G} \\to \\mathcal{P} assigns
   to a geometry (M,g)(M,g)(M,g):'
-heading: '**2.1 Construct Π\***'
-id: GEN13-2332
-lines: 999-1019
-location: genesis-13/the-weight-of-light::2-second-adjoint-pair-φ-π::21-construct-π::b1
-parent_heading: '**2\. Second Adjoint Pair: Φ ⊣ Π**'
-source: genesis-13\The_Weight_of_Light.md
+concepts:
+- dynamics corresponding to a geometry
+- Π
+- ∇
+- Π-pullback
+aliases:
+- Bk070tp
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 6.25
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

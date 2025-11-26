@@ -1,16 +1,35 @@
-block_type: paragraph
-concepts:
-- Axiom
-- Axiom Box
-- Box
-- Cosmic Pipeline
-- Non-Zero
-- The First Non
-- δ
-excerpt: '**Section 1: Genesis → Deviation (δ)** (approx. 1–2 pages) * Short intro
-  (3–5 sentences)'
-heading: '**✅ Structure I recommend for Section 1**'
 id: GEN12-1548
-lines: 305-336
 location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::structure-i-recommend-for-section-1::b1
 source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md
+lines: 305-336
+heading: '**✅ Structure I recommend for Section 1**'
+block_type: paragraph
+excerpt: '**Section 1: Genesis → Deviation (δ)** (approx. 1–2 pages) * Short intro
+  (3–5 sentences)'
+concepts:
+- Deviation
+- Axiom
+- δ
+- Box
+- δ-curvature
+- Non-Zero
+- →
+- Cosmic Pipeline
+- The First Non
+- Axiom Box
+aliases:
+- Bk469sg
+tags:
+- axiom-box
+- conflicted
+- sealed
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.0
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

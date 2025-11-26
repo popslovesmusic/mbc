@@ -1,11 +1,27 @@
+id: GEN2-6531
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::3-interpretation-of-the-diagram::d-riemann-geometry-is-a-shadow-effective-image::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+lines: 807-811
+heading: '**(D) Riemann Geometry is a *shadow* (effective image)**'
+parent_heading: '**3\. Interpretation of the Diagram**'
 block_type: paragraph
-concepts:
-- δ
 excerpt: The entire classical universe is the projected boundary of the δ-sheaf space.
   ---
-heading: '**(D) Riemann Geometry is a *shadow* (effective image)**'
-id: GEN2-6531
-lines: 807-811
-location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::3-interpretation-of-the-diagram::d-riemann-geometry-is-a-shadow-effective-image::b1
-parent_heading: '**3\. Interpretation of the Diagram**'
-source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md
+concepts:
+- δ-sheaf
+- δ
+aliases:
+- Bk164te
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 15.384615384615385
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

@@ -1,12 +1,30 @@
+id: GEN2-6334
+location: genesis-2/axioms-of-geometry-topos-compatible::5-φ-energy-and-dynamics::axiom-mm-53-conservation-law::b1
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+lines: 539-545
+heading: '**Axiom MM-5.3 — Conservation Law**'
+parent_heading: '**5\. Φ-Energy and Dynamics**'
 block_type: paragraph
-concepts:
-- Φ
-- δ
 excerpt: ∇Φ⋅TΦ=0.\\nabla^\\Phi \\cdot T\_\\Phi \= 0.∇Φ⋅TΦ​=0. Topos-valid and mirrors
   δ-conservation. ---
-heading: '**Axiom MM-5.3 — Conservation Law**'
-id: GEN2-6334
-lines: 539-545
-location: genesis-2/axioms-of-geometry-topos-compatible::5-φ-energy-and-dynamics::axiom-mm-53-conservation-law::b1
-parent_heading: '**5\. Φ-Energy and Dynamics**'
-source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md
+concepts:
+- Φ
+- ∇
+- δ-conservation
+- Topos-valid
+- δ
+aliases:
+- Bk764np
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 26.31578947368421
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

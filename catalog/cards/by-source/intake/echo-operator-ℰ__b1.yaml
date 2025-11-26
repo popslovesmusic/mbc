@@ -1,15 +1,30 @@
+id: INTK-10283
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::connection-to-deviation-calculus-and-operators::echo-operator-ℰ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+lines: 632-633
+heading: Echo Operator (ℰ)
+parent_heading: Connection to Deviation Calculus and Operators
 block_type: paragraph
-concepts:
-- Echo Operator
-- Meta-Aggregation
-- Operator
-- The Echo Operator
 excerpt: The information accumulated in `C(t)` through Meta-Aggregation provides the
   "memory kernel" (`K`) for the **Echo Operator (ℰ)**. The Echo Operator then feeds
   back this historical context into the pres...
-heading: Echo Operator (ℰ)
-id: INTK-10283
-lines: 632-633
-location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::connection-to-deviation-calculus-and-operators::echo-operator-ℰ::b1
-parent_heading: Connection to Deviation Calculus and Operators
-source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md
+concepts:
+- Operator
+- Meta-Aggregation
+- Echo Operator
+- The Echo Operator
+aliases:
+- Bk616ti
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 9.75609756097561
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

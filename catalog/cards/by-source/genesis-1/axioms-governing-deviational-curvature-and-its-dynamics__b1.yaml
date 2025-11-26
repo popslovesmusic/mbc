@@ -1,9 +1,23 @@
-block_type: paragraph
-concepts: []
-excerpt: '---'
-heading: '***(Axioms Governing Deviational Curvature and Its Dynamics)***'
 id: GEN1-458
-lines: 582-584
 location: genesis-1/the-foundation-layer::the-meta-einstein-axiom-box::axioms-governing-deviational-curvature-and-its-dynamics::b1
-parent_heading: '**THE META-EINSTEIN AXIOM BOX**'
 source: genesis-1\THE_FOUNDATION_LAYER.md
+lines: 582-584
+heading: '***(Axioms Governing Deviational Curvature and Its Dynamics)***'
+parent_heading: '**THE META-EINSTEIN AXIOM BOX**'
+block_type: paragraph
+excerpt: '---'
+aliases:
+- Bk081cb
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

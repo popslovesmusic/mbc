@@ -1,12 +1,29 @@
-block_type: table
-concepts:
-- Box
-- Field
-- Router Network
-- Tensor Field
-excerpt: '---'
-heading: 🧩 Clean Mapping Table
 id: GEN19-6167
-lines: 1710-1722
 location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::clean-mapping-table::b1
 source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md
+lines: 1710-1722
+heading: 🧩 Clean Mapping Table
+block_type: table
+excerpt: '---'
+concepts:
+- MBC
+- Router
+- Field
+- Box
+- Router Network
+- Tensor Field
+aliases:
+- Bk034lm
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 13.333333333333334
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0

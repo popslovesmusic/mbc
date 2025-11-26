@@ -1,9 +1,24 @@
-block_type: paragraph
-concepts:
-- Π
-excerpt: 'Suppose you have a dataset: * Feature A: 0.82 * Feature B: 0.31'
-heading: 5\. Practical Example
 id: GEN20-6719
-lines: 866-882
 location: genesis-20/mbc-40-documentaitio-1::5-practical-example::b1
 source: genesis-20\MBC_40_Documentaitio-1.md
+lines: 866-882
+heading: 5\. Practical Example
+block_type: paragraph
+excerpt: 'Suppose you have a dataset: * Feature A: 0.82 * Feature B: 0.31'
+concepts:
+- MBC
+- Π
+aliases:
+- Bk615sy
+tags:
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 3.1746031746031744
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

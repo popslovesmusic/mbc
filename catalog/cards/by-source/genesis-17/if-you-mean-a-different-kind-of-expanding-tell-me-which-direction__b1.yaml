@@ -1,9 +1,24 @@
-block_type: list
-concepts: []
-excerpt: '* Expand the operator set? * Expand the axioms? * Expand the categorical
-  structure?'
-heading: '⭐ If you mean a different kind of “expanding,” tell me which direction:'
 id: GEN17-4566
-lines: 6565-6574
 location: genesis-17/box-calculus::if-you-mean-a-different-kind-of-expanding-tell-me-which-direction::b1
 source: genesis-17\box_calculus.md
+lines: 6565-6574
+heading: '⭐ If you mean a different kind of “expanding,” tell me which direction:'
+block_type: list
+excerpt: '* Expand the operator set? * Expand the axioms? * Expand the categorical
+  structure?'
+concepts:
+- higher-categorical
+aliases:
+- Bk667et
+tags:
+- ambiguous
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: false
+concept_density: 2.4390243902439024
+has_contradictions: false
+has_ambiguity: true
+is_definitive: false
+max_severity: 0.5

@@ -1,15 +1,38 @@
+id: GEN9-9184
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::9-conclusion-matter-as-a-δ-harmonic-phenomenon::1-s-block-groups-12-χ-near-0-1::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+lines: 2394-2416
+heading: '**1\) s-block (Groups 1–2): χ near 0 → \+1**'
+parent_heading: '**9\. Conclusion: Matter as a δ-Harmonic Phenomenon**'
 block_type: paragraph
-concepts:
-- Tri-Unity
-- positive
-- Φ
-- δ
 excerpt: '**Color band:** the “cool / base” band at the left edge (your table shows
   these as the most uniform band). **IGSOA meaning:** s-block orbitals are **isotropic
   Φ-modes**. Their χ-phase is **near the Tr...'
-heading: '**1\) s-block (Groups 1–2): χ near 0 → \+1**'
-id: GEN9-9184
-lines: 2394-2416
-location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::9-conclusion-matter-as-a-δ-harmonic-phenomenon::1-s-block-groups-12-χ-near-0-1::b1
-parent_heading: '**9\. Conclusion: Matter as a δ-Harmonic Phenomenon**'
-source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md
+concepts:
+- χ
+- δ
+- →
+- Tri-Unity
+- IGSOA
+- δ-curvature
+- near the Tri-Unity equilibrium
+- δ-balanced
+- isotropic Φ-modes
+- ≈
+- δ-compression
+- positive
+- two-bond
+- Φ-modes
+- s-block
+aliases:
+- Bk603cb
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 12.23021582733813
+has_contradictions: false
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.3

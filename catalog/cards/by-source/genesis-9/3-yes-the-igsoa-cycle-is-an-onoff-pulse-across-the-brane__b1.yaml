@@ -1,9 +1,27 @@
-block_type: paragraph
-concepts: []
-excerpt: 'Your idea: the systematic IGSOA cycle is an on-off pulse across the brane:
-  OA keeps the non-zero promise'
-heading: '**3\. Yes: The IGSOA Cycle *Is* an On–Off Pulse Across the Brane**'
 id: GEN9-9243
-lines: 590-602
 location: genesis-9/does-meta-genesis-indicate-new-physics::3-yes-the-igsoa-cycle-is-an-onoff-pulse-across-the-brane::b1
 source: genesis-9\Does_Meta-Genesis_Indicate_New_Physics.md
+lines: 590-602
+heading: '**3\. Yes: The IGSOA Cycle *Is* an On–Off Pulse Across the Brane**'
+block_type: paragraph
+excerpt: 'Your idea: the systematic IGSOA cycle is an on-off pulse across the brane:
+  OA keeps the non-zero promise'
+concepts:
+- IGSOA
+- non-zero
+- on-off
+aliases:
+- Bk834yi
+tags:
+- qualified
+- conflicted
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.16
+is_technical: false
+concept_density: 6.122448979591836
+has_contradictions: true
+has_ambiguity: false
+is_definitive: false
+max_severity: 0.6

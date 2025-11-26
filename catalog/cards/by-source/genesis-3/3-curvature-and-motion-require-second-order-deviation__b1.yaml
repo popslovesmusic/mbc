@@ -1,11 +1,29 @@
+id: GEN3-7286
+location: genesis-3/metagenesis::8-physical-interpretation::3-curvature-and-motion-require-second-order-deviation::b1
+source: genesis-3\metagenesis.md
+lines: 245-247
+heading: '**(3) Curvature and motion require second-order deviation**'
+parent_heading: '**8\. Physical Interpretation**'
 block_type: paragraph
+excerpt: δ2Ψ0↦A2\\delta^2\\Psi\_0 \\mapsto A\_2δ2Ψ0​↦A2​
 concepts:
 - Ψ
 - δ
-excerpt: δ2Ψ0↦A2\\delta^2\\Psi\_0 \\mapsto A\_2δ2Ψ0​↦A2​
-heading: '**(3) Curvature and motion require second-order deviation**'
-id: GEN3-7286
-lines: 245-247
-location: genesis-3/metagenesis::8-physical-interpretation::3-curvature-and-motion-require-second-order-deviation::b1
-parent_heading: '**8\. Physical Interpretation**'
-source: genesis-3\metagenesis.md
+aliases:
+- Bk002a
+tags:
+- A2
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 20.0
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
+identifiers:
+- A2

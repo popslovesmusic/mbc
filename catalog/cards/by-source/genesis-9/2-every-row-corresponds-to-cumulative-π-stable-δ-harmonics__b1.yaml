@@ -1,12 +1,30 @@
+id: GEN9-9419
+location: genesis-9/is-the-source-of-all-structure::interpretation-of-the-igsoa-grid::2-every-row-corresponds-to-cumulative-π-stable-δ-harmonics::b1
+source: genesis-9\is_the_source_of_all_structure.md
+lines: 1307-1315
+heading: '**2\. Every row corresponds to cumulative Π-stable δ-harmonics.**'
+parent_heading: '**INTERPRETATION OF THE IGSOA GRID**'
 block_type: paragraph
-concepts:
-- automatically
-- Π
 excerpt: 'Row capacities: {2,  8,  18,  32,  50,  72,…}\\{2,\\;8,\\;18,\\;32,\\;50,\\;72,\\ldots\\}{2,8,18,32,50,72,…}
   come **automatically** from:'
-heading: '**2\. Every row corresponds to cumulative Π-stable δ-harmonics.**'
-id: GEN9-9419
-lines: 1307-1315
-location: genesis-9/is-the-source-of-all-structure::interpretation-of-the-igsoa-grid::2-every-row-corresponds-to-cumulative-π-stable-δ-harmonics::b1
-parent_heading: '**INTERPRETATION OF THE IGSOA GRID**'
-source: genesis-9\is_the_source_of_all_structure.md
+concepts:
+- ∑
+- Π
+- ≤
+- Δ
+- automatically
+aliases:
+- Bk021rc
+tags:
+- definitive
+- low-uncertainty
+is_formal: false
+axiom_count: 0
+theorem_count: 0
+conversational_score: 0.0
+is_technical: true
+concept_density: 10.869565217391305
+has_contradictions: false
+has_ambiguity: false
+is_definitive: true
+max_severity: 0.0
