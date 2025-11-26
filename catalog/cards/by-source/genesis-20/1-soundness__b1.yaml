@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Π
+excerpt: 'If Π\* exists and all functorial squares commute: Ai⊢Bi  ⟹  Π∗(Ai)⊨Π∗(Bi)
+  A'
+heading: 1\. Soundness
+id: GEN20-6650
+lines: 1107-1127
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::category-theoretic-consequences::1-soundness::b1
+parent_heading: Category-Theoretic Consequences
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md

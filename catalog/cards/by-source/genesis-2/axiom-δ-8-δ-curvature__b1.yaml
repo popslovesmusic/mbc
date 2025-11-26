@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: Rδ(X,Y)Z=∇Xδ∇YδZ−∇Yδ∇XδZ−∇\[X,Y\]δδZ.R\_\\delta(X,Y)Z \= \\nabla^\\delta\_X\\nabla^\\delta\_Y
+  Z \-\\nabla^\\delta\_Y\\nabla^\\delta\_X Z \-\\nabla^\\delta\_{\[X,Y\]\_\\delta}Z.Rδ​(X,Y)Z=∇Xδ​∇Yδ​Z−∇Yδ​...
+heading: '**Axiom (δ-8) — δ-Curvature**'
+id: GEN2-6412
+lines: 1412-1416
+location: genesis-2/axioms-of-geometry-topos-compatible::section-i-δ-layer-intrinsic-deviation-geometry::axiom-δ-8-δ-curvature::b1
+parent_heading: '**Section I — δ-Layer (Intrinsic Deviation / Geometry)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

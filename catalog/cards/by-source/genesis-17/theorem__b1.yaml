@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Π
+- Σ
+- δ
+excerpt: 'Every valid MBC derivation terminates. Formally: ∀Σ: ∃n: ⟨G,Σ⟩→n⟨G,P0Σ⟩'
+heading: 'Theorem:'
+id: GEN17-4825
+lines: 9973-9993
+location: genesis-17/box-calculus::7-strong-normalization-theorem::theorem::b1
+parent_heading: 🔷 7\. Strong Normalization Theorem
+source: genesis-17\box_calculus.md

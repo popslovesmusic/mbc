@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Two states are adjacent if they share the same deviation value: A(x,y)=1  ⟺  δ(x)=δ(y).A(x,y)
+  \= 1 \\iff \\delta(x) \= \\delta(y).A(x,y)=1⟺δ(x)=δ(y). Adjacency is **equivalence-class
+  geometry** induce...'
+heading: '**Axiom 3.1 — Adjacency Defined by Shared Deviation.**'
+id: GEN1-533
+lines: 390-400
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::3-adjacency-locality-and-proto-spacetime::axiom-31-adjacency-defined-by-shared-deviation::b1
+parent_heading: '**3\. Adjacency, Locality, and Proto-Spacetime**'
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Lemma
+- forced
+- Ψ
+- δ
+excerpt: Once deviation exists, it induces curvature without any geometric postulate.
+  **Definition.** Curvature in IGSOA is the failure of adjacency relations to be transitive,
+  symmetric, or flatly composable.
+heading: '**1.3 Why δ-Curvature is Automatic and Requires No Assumptions**'
+id: GEN12-1557
+lines: 424-450
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::1-genesis-deviation-δ::13-why-δ-curvature-is-automatic-and-requires-no-assumptions::b1
+parent_heading: '**1\. Genesis → Deviation (δ)**'
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md

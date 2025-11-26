@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Adjacency distortions induced by deviation must satisfy a coherence condition:
+  Aij′=Aij+ΔAijwith∂kΔAij globally consistent.\\mathcal{A}''\_{ij} \= \\mathcal{A}\_{ij}
+  \+ \\Delta \\mathcal{A}\_{ij} \\qua...'
+heading: '**Axiom LS-2 (Adjacency Coherence)**'
+id: GEN7-8632
+lines: 200-209
+location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::axiom-ls-2-adjacency-coherence::b1
+parent_heading: '**◼ LAW STABILITY AXIOM BOX**'
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

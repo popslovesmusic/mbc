@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Ψ
+- δ
+excerpt: 'Let Ψ₀ be the zero-state of the NOT Axiom. In any topos 𝓣, Ψ₀ cannot be
+  an object because it violates the identity-morphism axiom. Therefore, a morphism
+  δ : Ψ₀ → Ψ₁ must be introduced by the internal ...'
+heading: '**Theorem.**'
+id: GEN1-506
+lines: 1400-1404
+location: genesis-1/the-foundation-layer::vii-theorem::theorem::b1
+parent_heading: '**\*\*VII. Theorem**'
+source: genesis-1\THE_FOUNDATION_LAYER.md

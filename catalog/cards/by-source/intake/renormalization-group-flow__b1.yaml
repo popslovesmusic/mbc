@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Meta-Scalar
+- Renormalization Group
+- Scalar Multiplication
+- λ
+- σ
+excerpt: Meta-Scalar Multiplication is the mathematical operation that encodes the
+  **Renormalization Group flow**. As λ(σ) changes with σ, it effectively "multiplies"
+  the deviation field by a scale-dependent f...
+heading: Renormalization Group Flow
+id: INTK-10300
+lines: 731-732
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::connection-to-deviation-calculus-and-operators::renormalization-group-flow::b1
+parent_heading: Connection to Deviation Calculus and Operators
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

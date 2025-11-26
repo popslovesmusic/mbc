@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Action Functor
+- Deviational Curvature Functor
+- Meta-Einstein
+- δ
+excerpt: 'Deviation composes additively: δm∘δn=δm+n.\\delta^m \\circ \\delta^n \=
+  \\delta^{m+n}.δm∘δn=δm+n. This is the foundation of:'
+heading: '**Axiom δ-8 (δ-Compositional Law)**'
+id: GEN3-7352
+lines: 1151-1169
+location: genesis-3/metagenesis::deviational-axioms::axiom-δ-8-δ-compositional-law::b1
+parent_heading: '**DEVIATIONAL AXIOMS**'
+source: genesis-3\metagenesis.md

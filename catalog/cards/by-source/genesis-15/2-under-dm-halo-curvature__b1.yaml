@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Rotation Curve Theorem
+- Theorem
+- Φ
+- α
+- ρ
+excerpt: 'For a dark matter halo (e.g., NFW): ρDM(r)∼1r(r+rs)2.\\rho\_{\\mathrm{DM}}(r)
+  \\sim \\frac{1}{r(r+r\_s)^2}.ρDM​(r)∼r(r+rs​)21​. Φ gives at large r:'
+heading: '**2\. Under DM halo curvature**'
+id: GEN15-3296
+lines: 584-614
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-explicit-equivalence-lens-equation::2-under-dm-halo-curvature::b1
+parent_heading: '**III. Explicit Equivalence: Lens Equation**'
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- converge
+- Π
+- δ
+- τ
+excerpt: 'Π evolves by the metric-stability equation (derived in Proof 8, but we may
+  use the known IGSOA identity): g˙=− ∇κ.\\dot{g} \= \-\\,\\nabla\\kappa.g˙​=−∇κ.
+  Thus curvature basins act as gravitational si...'
+heading: '**3\. Π-Metric Stability Drives Collapse of These Basins**'
+id: GEN14-2752
+lines: 1614-1638
+location: genesis-14/inflation-structure-formation::proof::3-π-metric-stability-drives-collapse-of-these-basins::b1
+parent_heading: '**Proof**'
+source: genesis-14\Inflation__Structure_Formation.md

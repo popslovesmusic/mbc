@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: 'For any operator O\\mathcal{O}O, define its curvature signature: κO=R(OΨ)−R(Ψ).\\kappa\_\\mathcal{O}
+  \= R(\\mathcal{O}\\Psi) \- R(\\Psi).κO​=R(OΨ)−R(Ψ). Then the state must satisfy:'
+heading: '**4.2 Curvature Compatibility**'
+id: INTK-10178
+lines: 103-115
+location: intake/meta-genesis-meta-math-integration-papers::4-curvature-boundary-conditions::42-curvature-compatibility::b1
+parent_heading: '**4\. Curvature Boundary Conditions**'
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

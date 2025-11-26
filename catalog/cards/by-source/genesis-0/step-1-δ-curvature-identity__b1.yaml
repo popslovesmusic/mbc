@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Γ
+- α
+- δ
+excerpt: 'By definition: Rabmn=\[∇a(δ),∇b(δ)\]mn.\\mathcal{R}\_{ab}{}^{m}{}\_{n} \=
+  \[\\nabla^{(\\delta)}\_a, \\nabla^{(\\delta)}\_b\]^{m}{}\_{n}.Rab​mn​=\[∇a(δ)​,∇b(δ)​\]mn​.
+  Using the induced metric:'
+heading: '**Step 1\. δ-curvature identity**'
+id: GEN0-083
+lines: 1226-1244
+location: genesis-0/feynman-rules-interaction-vertices::3-proof-sketch-igsoa-formal::step-1-δ-curvature-identity::b1
+parent_heading: '**3\. Proof Sketch (IGSOA formal)**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

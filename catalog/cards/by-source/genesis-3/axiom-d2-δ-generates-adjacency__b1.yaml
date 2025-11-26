@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: For any X∈GX\\in\\mathcal{G}X∈G, Adjδ(X,Y)  ⟺  δ(X)→Y.\\mathrm{Adj}\_\\delta(X,Y)
+  \\iff \\delta(X)\\to Y.Adjδ​(X,Y)⟺δ(X)→Y. ---
+heading: '**Axiom D2 — δ Generates Adjacency**'
+id: GEN3-7571
+lines: 1222-1228
+location: genesis-3/the-tri-unity-theorem::i-δaxioms-deviational-principle::axiom-d2-δ-generates-adjacency::b1
+parent_heading: '**I. δ–Axioms: Deviational Principle**'
+source: genesis-3\The_Tri-Unity_Theorem.md

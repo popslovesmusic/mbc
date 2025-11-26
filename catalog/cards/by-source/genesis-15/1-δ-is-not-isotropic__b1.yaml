@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- local
+- triaxial
+- δ
+excerpt: 'Even if the *local* δ-geometry is nearly isotropic, the **CSOI-tail integrates
+  anisotropies over large causal spheres**. Thus: δtail(x)=∫C(x)K(r,θ,ϕ) dy\\delta\_{\\rm
+  tail}(x) \= \\int\_{\\mathcal{C}(...'
+heading: '**1\. δ is not isotropic.**'
+id: GEN15-3353
+lines: 1523-1551
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::ii-why-δ-generates-triaxial-halos-the-geometric-argument::1-δ-is-not-isotropic::b1
+parent_heading: '**II. Why δ generates triaxial halos (the geometric argument)**'
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Strings
+- Φ
+- μ
+- ν
+excerpt: 'P(∇ΦRΦ)=∇MetaFμν=0\\mathcal{P}(\\nabla^\\Phi R\_\\Phi) \= \\nabla\_{\\text{Meta}}
+  F\_{\\mu\\nu} \= 0P(∇ΦRΦ​)=∇Meta​Fμν​=0 Ensures: * gauge covariance'
+heading: '**2.3 Φ-Bianchi Identity → Physical Bianchi Identity**'
+id: GEN2-6372
+lines: 967-979
+location: genesis-2/axioms-of-geometry-topos-compatible::2-geometric-dynamic-mapping::23-φ-bianchi-identity-physical-bianchi-identity::b1
+parent_heading: '**2\. Geometric / Dynamic Mapping**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

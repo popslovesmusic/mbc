@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- α
+- δ
+excerpt: 'Because CSOI introduces a nonlocal adjacency domain: δCSOI(r)≈Ar+εadj.\\delta\_{\\mathrm{CSOI}}(r)
+  \\approx \\frac{A}{r} \+ \\varepsilon\_{\\text{adj}}.δCSOI​(r)≈rA​+εadj​. Φ integrates
+  this into:'
+heading: '**1\. Under δ-CSOI curvature**'
+id: GEN15-3295
+lines: 566-582
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-explicit-equivalence-lens-equation::1-under-δ-csoi-curvature::b1
+parent_heading: '**III. Explicit Equivalence: Lens Equation**'
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md

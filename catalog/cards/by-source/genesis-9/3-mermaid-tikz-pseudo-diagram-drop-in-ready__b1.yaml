@@ -1,0 +1,23 @@
+block_type: paragraph
+concepts:
+- Angular Symmetry
+- Chemical Behavior
+- Element Ordering
+- Geometric Lifting
+- Harmonic Spectrum
+- Mermaid-style
+- Nodal Topology
+- Periodic Table
+- Tri-Unity
+- Unity Modes
+- Π
+- Φ
+- δ
+- λ
+excerpt: 'Here is a **Mermaid-style** block you can embed immediately: `flowchart
+  TD` `A[δ-Harmonic Spectrum<br/>Spec_δ: λ_{n,k}, χ ∈ ℤ₁₂<br/>Tri-Unity Modes]`'
+heading: '**3\. Mermaid / TikZ Pseudo-Diagram (drop-in ready)**'
+id: GEN9-9036
+lines: 238-271
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::3-mermaid-tikz-pseudo-diagram-drop-in-ready::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md

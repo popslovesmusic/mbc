@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'Define the transport defect: Cδ(Ψn)=∇δ(∇δ(Ψn))−∇δ2(Ψn).C\_\\delta(\\Psi\_n)
+  \= \\nabla\_\\delta(\\nabla\_\\delta(\\Psi\_n)) \- \\nabla\_\\delta^2(\\Psi\_n).Cδ​(Ψn​)=∇δ​(∇δ​(Ψn​))−∇δ2​(Ψn​).
+  Then:'
+heading: '**Lemma 2 (δ-Transport Defect).**'
+id: GEN4-7897
+lines: 1445-1453
+location: genesis-4/the-first-adjacency::4-noncommutativity-curvature::lemma-2-δ-transport-defect::b1
+parent_heading: '**4\. Noncommutativity ⇒ Curvature**'
+source: genesis-4\The_First_Adjacency.md

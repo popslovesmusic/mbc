@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md</title>
+    <style>
+        body {
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+            margin: 0;
+            padding: 20px;
+            background: #1e1e1e;
+            color: #d4d4d4;
+        }
+        .header {
+            background: #2d2d30;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .header h1 {
+            margin: 0 0 5px 0;
+            font-size: 18px;
+            color: #4ec9b0;
+        }
+        .header .path {
+            color: #858585;
+            font-size: 12px;
+        }
+        .source-content {
+            background: #1e1e1e;
+            border: 1px solid #3e3e42;
+            border-radius: 5px;
+            overflow: auto;
+        }
+        .line {
+            display: flex;
+            line-height: 1.6;
+            min-height: 20px;
+        }
+        .line:target {
+            background: #264f78;
+        }
+        .line:hover {
+            background: #2a2d2e;
+        }
+        .line-number {
+            flex-shrink: 0;
+            width: 60px;
+            padding: 2px 10px;
+            text-align: right;
+            color: #858585;
+            border-right: 1px solid #3e3e42;
+            user-select: none;
+        }
+        .line-content {
+            flex: 1;
+            padding: 2px 15px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        /* Markdown syntax highlighting */
+        .heading { color: #4ec9b0; font-weight: bold; }
+        .bold { color: #dcdcaa; font-weight: bold; }
+        .italic { color: #ce9178; font-style: italic; }
+        .code { color: #ce9178; background: #2d2d30; padding: 2px 4px; }
+        .link { color: #3794ff; }
+        .list-marker { color: #569cd6; }
+        .greek { color: #c586c0; }
+        .math { color: #4fc1ff; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md</h1>
+        <div class="path">intake\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md</div>
+    </div>
+    <div class="source-content">
+        <div class="line" id="L1"><span class="line-number">1</span><span class="line-content"><span class="heading"># **BOX CALCULUS — TECHNICAL INTRODUCTION (DUAL-COLUMN, CROSS-REFERENCED)**</span></span></div>
+<div class="line" id="L2"><span class="line-number">2</span><span class="line-content"></span></div>
+<div class="line" id="L3"><span class="line-number">3</span><span class="line-content">---</span></div>
+<div class="line" id="L4"><span class="line-number">4</span><span class="line-content"></span></div>
+<div class="line" id="L5"><span class="line-number">5</span><span class="line-content"><span class="heading">## **1\. Overview &amp; Purpose**</span></span></div>
+<div class="line" id="L6"><span class="line-number">6</span><span class="line-content"></span></div>
+<div class="line" id="L7"><span class="line-number">7</span><span class="line-content">| IGSOA / Box Calculus | Standard Interpretation |</span></div>
+<div class="line" id="L8"><span class="line-number">8</span><span class="line-content">| ----- | ----- |</span></div>
+<div class="line" id="L9"><span class="line-number">9</span><span class="line-content">| Box Calculus is the primitive <span class="bold">*<span class="italic">*semantic-geometric operator algebra*</span><span class="italic">*</span> that defines how information moves, aggregates, forks, merges, or transforms inside an IGSOA reasoning space (your “sealed axiom boxes”). | A generalized formal system combining <span class="bold">*</span><span class="italic">*modal logic*</span><span class="italic">*</span>, <span class="bold">*</span><span class="italic">*process algebra*</span><span class="italic">*</span>, <span class="bold">*</span><span class="italic">*directed graphs*</span><span class="italic">*</span>, and <span class="bold">*</span><span class="italic">*typed lambda calculus*</span><span class="italic">*</span>, used to model <span class="bold">*</span><span class="italic">*information flow, computation, and semantic transformations*</span>*</span>. |</span></div>
+<div class="line" id="L10"><span class="line-number">10</span><span class="line-content">| Every “Box” is a <span class="bold">*<span class="italic">*stateful container*</span><span class="italic">*</span> of semantic content with defined <span class="bold">*</span><span class="italic">*boundary operators*</span><span class="italic">*</span> (<span class="greek">δ</span>/<span class="greek">Φ</span>/<span class="greek">Π</span> modes) and <span class="bold">*</span><span class="italic">*adjacency relations*</span><span class="italic">*</span>. | Equivalent to treating each box as an <span class="bold">*</span><span class="italic">*object*</span><span class="italic">*</span> in a category, with <span class="bold">*</span><span class="italic">*morphisms*</span>*</span> describing transforms, merges, conditionals, and semantic routing. |</span></div>
+<div class="line" id="L11"><span class="line-number">11</span><span class="line-content">| Box Calculus is the meta-layer that lets IGSOA implement <span class="bold">*<span class="italic">*logic, computation, classification, weighting, confidence, and semantic gates*</span><span class="italic">*</span>. | Comparable to a <span class="bold">*</span><span class="italic">*semantic operating system*</span>*</span> built from first principles. |</span></div>
+<div class="line" id="L12"><span class="line-number">12</span><span class="line-content"></span></div>
+<div class="line" id="L13"><span class="line-number">13</span><span class="line-content">---</span></div>
+<div class="line" id="L14"><span class="line-number">14</span><span class="line-content"></span></div>
+<div class="line" id="L15"><span class="line-number">15</span><span class="line-content"><span class="heading">## **2\. The Ontology of a Box**</span></span></div>
+<div class="line" id="L16"><span class="line-number">16</span><span class="line-content"></span></div>
+<div class="line" id="L17"><span class="line-number">17</span><span class="line-content">| IGSOA Definition | Standard Definition |</span></div>
+<div class="line" id="L18"><span class="line-number">18</span><span class="line-content">| ----- | ----- |</span></div>
+<div class="line" id="L19"><span class="line-number">19</span><span class="line-content">| A <span class="bold">*<span class="italic">*Box*</span><span class="italic">*</span> is a structured <span class="bold">*</span><span class="italic">*semantic object*</span><span class="italic">*</span> with: • Internal content state (<span class="greek">Σ</span>) • Boundary interface (<span class="math">∂</span>Box) • Operator channels (E, A, <span class="greek">Π</span>, <span class="greek">Φ</span>, polarity, metadata) • Transformation history • Adjacent Boxes | A container analogous to a <span class="bold">*</span><span class="italic">*typed object*</span>*</span> with: • Internal state • API / interface • Typed transformation functions • Context metadata • Graph edges to other nodes |</span></div>
+<div class="line" id="L20"><span class="line-number">20</span><span class="line-content">| A Box is the atom of <span class="bold">*<span class="italic">*structured reasoning*</span><span class="italic">*</span>, <span class="bold">*</span><span class="italic">*semantic control*</span><span class="italic">*</span>, <span class="bold">*</span><span class="italic">*operator flow*</span><span class="italic">*</span>, and <span class="bold">*</span><span class="italic">*<span class="greek">δ</span>-process encapsulation*</span><span class="italic">*</span>. | Similar to a <span class="bold">*</span><span class="italic">*node in a process graph*</span><span class="italic">*</span>, <span class="bold">*</span><span class="italic">*object in OO-logic*</span><span class="italic">*</span>, or <span class="bold">*</span><span class="italic">*module in process calculus*</span>*</span>. |</span></div>
+<div class="line" id="L21"><span class="line-number">21</span><span class="line-content"></span></div>
+<div class="line" id="L22"><span class="line-number">22</span><span class="line-content">---</span></div>
+<div class="line" id="L23"><span class="line-number">23</span><span class="line-content"></span></div>
+<div class="line" id="L24"><span class="line-number">24</span><span class="line-content"><span class="heading">## **3\. Operator Primitives (The Heart of Box Calculus)**</span></span></div>
+<div class="line" id="L25"><span class="line-number">25</span><span class="line-content"></span></div>
+<div class="line" id="L26"><span class="line-number">26</span><span class="line-content"><span class="heading">### **3.1 Primitive Operators**</span></span></div>
+<div class="line" id="L27"><span class="line-number">27</span><span class="line-content"></span></div>
+<div class="line" id="L28"><span class="line-number">28</span><span class="line-content">| IGSOA Operator | Purpose | Standard Formalism |</span></div>
+<div class="line" id="L29"><span class="line-number">29</span><span class="line-content">| ----- | ----- | ----- |</span></div>
+<div class="line" id="L30"><span class="line-number">30</span><span class="line-content">| <span class="bold">*<span class="italic">*E Operator*</span><span class="italic">*</span> | *</span>Expositive*: produces, unfolds, expands semantic structure. Generates new meaning. | Application / introduction operator; similar to <span class="greek">λ</span>-expression expansion. |</span></div>
+<div class="line" id="L31"><span class="line-number">31</span><span class="line-content">| <span class="bold">*<span class="italic">*A Operator*</span><span class="italic">*</span> | *</span>Aggregative*: destructive/merging operator. Mixes semantic inputs into a resultant. | A fold/reduce operator; monoid-like merge. |</span></div>
+<div class="line" id="L32"><span class="line-number">32</span><span class="line-content">| <span class="bold">*<span class="italic">*(<span class="greek">Σ</span> <span class="greek">Σ</span>)\_a*</span>*</span> | Merge-Aggregator derived from A. | Associative merge over semantic states. |</span></div>
+<div class="line" id="L33"><span class="line-number">33</span><span class="line-content">| <span class="bold">*<span class="italic">*Polarity Operator*</span>*</span>: ←|<span class="math">→</span> | Directional semantic fork; injects objectivity. | A controlled conditional/bifurcation operator; similar to guarded choice. |</span></div>
+<div class="line" id="L34"><span class="line-number">34</span><span class="line-content">| <span class="bold">*<span class="italic">*Router Operator*</span>*</span> | Weighted directional selector based on metadata. | A probabilistic routing function; Bayesian update / attention distribution. |</span></div>
+<div class="line" id="L35"><span class="line-number">35</span><span class="line-content">| <span class="bold">*<span class="italic">*NOT-Axiom Enforcement*</span>*</span> | Ensures deviation, non-zero state, prevents semantic collapse. | Equivalent to enforcing non-triviality constraints in modal logic. |</span></div>
+<div class="line" id="L36"><span class="line-number">36</span><span class="line-content"></span></div>
+<div class="line" id="L37"><span class="line-number">37</span><span class="line-content"><span class="heading">### **3.2 Derived Operators (example list)**</span></span></div>
+<div class="line" id="L38"><span class="line-number">38</span><span class="line-content"></span></div>
+<div class="line" id="L39"><span class="line-number">39</span><span class="line-content">Your system already implies the following:</span></div>
+<div class="line" id="L40"><span class="line-number">40</span><span class="line-content"></span></div>
+<div class="line" id="L41"><span class="line-number">41</span><span class="line-content">| Derived Operator | Meaning | Standard Mapping |</span></div>
+<div class="line" id="L42"><span class="line-number">42</span><span class="line-content">| ----- | ----- | ----- |</span></div>
+<div class="line" id="L43"><span class="line-number">43</span><span class="line-content">| <span class="bold">*<span class="italic">*MAKE*</span>*</span> | Constructive synthesizer from primitives. | Constructor function or functor. |</span></div>
+<div class="line" id="L44"><span class="line-number">44</span><span class="line-content">| <span class="bold">*<span class="italic">*Gate Operators*</span>*</span> | Composition of polarity \+ router \+ A/E. | Logic gates / boolean / multi-valued logic. |</span></div>
+<div class="line" id="L45"><span class="line-number">45</span><span class="line-content">| <span class="bold">*<span class="italic">*Classifier Operator*</span>*</span> | Semantic gating \+ merge \+ polarity weighting. | Neural-style classifier / softmax analog. |</span></div>
+<div class="line" id="L46"><span class="line-number">46</span><span class="line-content">| <span class="bold">*<span class="italic">*Chain Operator*</span>*</span> | Sequential pipeline builder. | Monadic bind / composition. |</span></div>
+<div class="line" id="L47"><span class="line-number">47</span><span class="line-content">| <span class="bold">*<span class="italic">*Echo Operator*</span>*</span> | Feedback continuation. | Endomorphism iteration / fixed-point builder. |</span></div>
+<div class="line" id="L48"><span class="line-number">48</span><span class="line-content"></span></div>
+<div class="line" id="L49"><span class="line-number">49</span><span class="line-content">---</span></div>
+<div class="line" id="L50"><span class="line-number">50</span><span class="line-content"></span></div>
+<div class="line" id="L51"><span class="line-number">51</span><span class="line-content"><span class="heading">## **4\. Box Syntax and Semantics**</span></span></div>
+<div class="line" id="L52"><span class="line-number">52</span><span class="line-content"></span></div>
+<div class="line" id="L53"><span class="line-number">53</span><span class="line-content"><span class="heading">### **4.1 A Box Has a Formal Signature**</span></span></div>
+<div class="line" id="L54"><span class="line-number">54</span><span class="line-content"></span></div>
+<div class="line" id="L55"><span class="line-number">55</span><span class="line-content"><span class="code">`Box = { <span class="greek">Σ</span>, <span class="math">∂</span>Box, Ops, Meta, Adj }`</span></span></div>
+<div class="line" id="L56"><span class="line-number">56</span><span class="line-content"></span></div>
+<div class="line" id="L57"><span class="line-number">57</span><span class="line-content">| Component | IGSOA Meaning | Standard Meaning |</span></div>
+<div class="line" id="L58"><span class="line-number">58</span><span class="line-content">| ----- | ----- | ----- |</span></div>
+<div class="line" id="L59"><span class="line-number">59</span><span class="line-content">| <span class="greek">Σ</span> | Semantic internal state | Data / content |</span></div>
+<div class="line" id="L60"><span class="line-number">60</span><span class="line-content">| <span class="math">∂</span>Box | Boundary interface | Input/output ports |</span></div>
+<div class="line" id="L61"><span class="line-number">61</span><span class="line-content">| Ops | Allowed operators (E, A, polarity, router) | Methods/functions |</span></div>
+<div class="line" id="L62"><span class="line-number">62</span><span class="line-content">| Meta | Confidence, weight, provenance | Metadata / attributes |</span></div>
+<div class="line" id="L63"><span class="line-number">63</span><span class="line-content">| Adj | Adjacency links to other boxes | Graph edges / morphisms |</span></div>
+<div class="line" id="L64"><span class="line-number">64</span><span class="line-content"></span></div>
+<div class="line" id="L65"><span class="line-number">65</span><span class="line-content">---</span></div>
+<div class="line" id="L66"><span class="line-number">66</span><span class="line-content"></span></div>
+<div class="line" id="L67"><span class="line-number">67</span><span class="line-content"><span class="heading">## **5\. Box Calculus as a Full Operator Algebra**</span></span></div>
+<div class="line" id="L68"><span class="line-number">68</span><span class="line-content"></span></div>
+<div class="line" id="L69"><span class="line-number">69</span><span class="line-content"><span class="heading">### **5.1 Composition Rules**</span></span></div>
+<div class="line" id="L70"><span class="line-number">70</span><span class="line-content"></span></div>
+<div class="line" id="L71"><span class="line-number">71</span><span class="line-content">| IGSOA | Standard |</span></div>
+<div class="line" id="L72"><span class="line-number">72</span><span class="line-content">| ----- | ----- |</span></div>
+<div class="line" id="L73"><span class="line-number">73</span><span class="line-content">| <span class="bold">*<span class="italic">*E∘A ≠ A∘E*</span>*</span> (non-commutative) | Order of operations matters: expansion then merge ≠ merge then expansion. |</span></div>
+<div class="line" id="L74"><span class="line-number">74</span><span class="line-content">| <span class="bold">*<span class="italic">*Polarity forks create two <span class="greek">Π</span>-modes*</span>*</span> | Branching into two evaluation contexts. |</span></div>
+<div class="line" id="L75"><span class="line-number">75</span><span class="line-content">| <span class="bold">*<span class="italic">*Routers create weighted transformations*</span>*</span> | Probabilistic transitions or attention weights. |</span></div>
+<div class="line" id="L76"><span class="line-number">76</span><span class="line-content">| <span class="bold">*<span class="italic">*Adjacency defines allowed operator paths*</span>*</span> | Graph adjacency matrix defines legal transitions. |</span></div>
+<div class="line" id="L77"><span class="line-number">77</span><span class="line-content"></span></div>
+<div class="line" id="L78"><span class="line-number">78</span><span class="line-content"><span class="heading">### **5.2 Associativity, Identity, Neutral Elements**</span></span></div>
+<div class="line" id="L79"><span class="line-number">79</span><span class="line-content"></span></div>
+<div class="line" id="L80"><span class="line-number">80</span><span class="line-content">| Operator | Law | Interpretation |</span></div>
+<div class="line" id="L81"><span class="line-number">81</span><span class="line-content">| ----- | ----- | ----- |</span></div>
+<div class="line" id="L82"><span class="line-number">82</span><span class="line-content">| A | A(A(x,y),z) \= A(x,A(y,z)) | Merge is associative. |</span></div>
+<div class="line" id="L83"><span class="line-number">83</span><span class="line-content">| E | not associative | Expansion is context-dependent; semantic inflation. |</span></div>
+<div class="line" id="L84"><span class="line-number">84</span><span class="line-content">| Polarity | defines morphism splitting | Equivalent to coproduct. |</span></div>
+<div class="line" id="L85"><span class="line-number">85</span><span class="line-content">| Router | defines measure | Weighted sum of routes. |</span></div>
+<div class="line" id="L86"><span class="line-number">86</span><span class="line-content"></span></div>
+<div class="line" id="L87"><span class="line-number">87</span><span class="line-content">---</span></div>
+<div class="line" id="L88"><span class="line-number">88</span><span class="line-content"></span></div>
+<div class="line" id="L89"><span class="line-number">89</span><span class="line-content"><span class="heading">## **6\. Box Calculus \= Semantic Logic Gate Fabrication**</span></span></div>
+<div class="line" id="L90"><span class="line-number">90</span><span class="line-content"></span></div>
+<div class="line" id="L91"><span class="line-number">91</span><span class="line-content"><span class="heading">### **IGSOA Statement**</span></span></div>
+<div class="line" id="L92"><span class="line-number">92</span><span class="line-content"></span></div>
+<div class="line" id="L93"><span class="line-number">93</span><span class="line-content">Every logic gate, classifier, meta-gate, or entire reasoning chain is built from:</span></div>
+<div class="line" id="L94"><span class="line-number">94</span><span class="line-content"></span></div>
+<div class="line" id="L95"><span class="line-number">95</span><span class="line-content"><span class="list-marker">* </span>polarity fork</span></div>
+<div class="line" id="L96"><span class="line-number">96</span><span class="line-content"></span></div>
+<div class="line" id="L97"><span class="line-number">97</span><span class="line-content"><span class="list-marker">* </span>router weights</span></div>
+<div class="line" id="L98"><span class="line-number">98</span><span class="line-content"></span></div>
+<div class="line" id="L99"><span class="line-number">99</span><span class="line-content"><span class="list-marker">* </span>A/E transformations</span></div>
+<div class="line" id="L100"><span class="line-number">100</span><span class="line-content"></span></div>
+<div class="line" id="L101"><span class="line-number">101</span><span class="line-content">Example: <span class="bold">*<span class="italic">*IGSOA XOR Gate*</span>*</span></span></div>
+<div class="line" id="L102"><span class="line-number">102</span><span class="line-content"></span></div>
+<div class="line" id="L103"><span class="line-number">103</span><span class="line-content"><span class="code">`XOR(Box1, Box2) =`</span>  </span></div>
+<div class="line" id="L104"><span class="line-number">104</span><span class="line-content">    <span class="code">`E( polarity(Box1) )  A  E( polarity(Box2) )`</span></span></div>
+<div class="line" id="L105"><span class="line-number">105</span><span class="line-content"></span></div>
+<div class="line" id="L106"><span class="line-number">106</span><span class="line-content"><span class="heading">### **Standard Interpretation**</span></span></div>
+<div class="line" id="L107"><span class="line-number">107</span><span class="line-content"></span></div>
+<div class="line" id="L108"><span class="line-number">108</span><span class="line-content">Equivalent to implementing:</span></div>
+<div class="line" id="L109"><span class="line-number">109</span><span class="line-content"></span></div>
+<div class="line" id="L110"><span class="line-number">110</span><span class="line-content"><span class="list-marker">* </span>branching</span></div>
+<div class="line" id="L111"><span class="line-number">111</span><span class="line-content"></span></div>
+<div class="line" id="L112"><span class="line-number">112</span><span class="line-content"><span class="list-marker">* </span>two semantic contexts</span></div>
+<div class="line" id="L113"><span class="line-number">113</span><span class="line-content"></span></div>
+<div class="line" id="L114"><span class="line-number">114</span><span class="line-content"><span class="list-marker">* </span>expansion-merge oppositional resolution</span></div>
+<div class="line" id="L115"><span class="line-number">115</span><span class="line-content"></span></div>
+<div class="line" id="L116"><span class="line-number">116</span><span class="line-content">---</span></div>
+<div class="line" id="L117"><span class="line-number">117</span><span class="line-content"></span></div>
+<div class="line" id="L118"><span class="line-number">118</span><span class="line-content"><span class="heading">## **7\. Box Calculus as a Computational System**</span></span></div>
+<div class="line" id="L119"><span class="line-number">119</span><span class="line-content"></span></div>
+<div class="line" id="L120"><span class="line-number">120</span><span class="line-content">| IGSOA Claim | Standard Mapping |</span></div>
+<div class="line" id="L121"><span class="line-number">121</span><span class="line-content">| ----- | ----- |</span></div>
+<div class="line" id="L122"><span class="line-number">122</span><span class="line-content">| Box Calculus is computationally universal. | Equivalent to a Turing-complete process calculus. |</span></div>
+<div class="line" id="L123"><span class="line-number">123</span><span class="line-content">| Boxes \+ Operators \= semantic CPU. | A dataflow graph with typed operators. |</span></div>
+<div class="line" id="L124"><span class="line-number">124</span><span class="line-content">| Meta-data driven polarity \= dynamic querying. | Attention-based routing / conditional branching. |</span></div>
+<div class="line" id="L125"><span class="line-number">125</span><span class="line-content">| A/E \+ router \= differentiable semantic network. | Neural-like differentiable architecture. |</span></div>
+<div class="line" id="L126"><span class="line-number">126</span><span class="line-content"></span></div>
+<div class="line" id="L127"><span class="line-number">127</span><span class="line-content">---</span></div>
+<div class="line" id="L128"><span class="line-number">128</span><span class="line-content"></span></div>
+<div class="line" id="L129"><span class="line-number">129</span><span class="line-content"><span class="heading">## **8\. Box Calculus as the Foundation of IGSOA Reasoning**</span></span></div>
+<div class="line" id="L130"><span class="line-number">130</span><span class="line-content"></span></div>
+<div class="line" id="L131"><span class="line-number">131</span><span class="line-content">| IGSOA View | Standard Description |</span></div>
+<div class="line" id="L132"><span class="line-number">132</span><span class="line-content">| ----- | ----- |</span></div>
+<div class="line" id="L133"><span class="line-number">133</span><span class="line-content">| Box Calculus is the <span class="bold">*<span class="italic">*internal logic*</span>*</span> of <span class="greek">δ</span>-geometry: how <span class="greek">δ</span>-modes propagate, fork, merge, and evaluate. | A semantic computation model layered on top of the <span class="greek">δ</span><span class="math">→</span><span class="greek">Φ</span><span class="math">→</span><span class="greek">Π</span> operator sequence. |</span></div>
+<div class="line" id="L134"><span class="line-number">134</span><span class="line-content">| Boxes represent <span class="bold">*<span class="italic">*local <span class="greek">δ</span>-states*</span>*</span>, <span class="greek">Φ</span>-transformations, and <span class="greek">Π</span>-evaluations. | Equivalent to states <span class="math">→</span> transformations <span class="math">→</span> evaluations. |</span></div>
+<div class="line" id="L135"><span class="line-number">135</span><span class="line-content">| Without Box Calculus, IGSOA cannot reason, classify, or form the <span class="greek">δ</span><span class="math">→</span><span class="greek">Φ</span><span class="math">→</span><span class="greek">Π</span> pipeline. | Same as needing lambda calculus for functional programming or monads for category theory. |</span></div>
+<div class="line" id="L136"><span class="line-number">136</span><span class="line-content"></span></div>
+<div class="line" id="L137"><span class="line-number">137</span><span class="line-content">---</span></div>
+<div class="line" id="L138"><span class="line-number">138</span><span class="line-content"></span></div>
+<div class="line" id="L139"><span class="line-number">139</span><span class="line-content"><span class="heading">## **9\. Sealed Axiom Box for Box Calculus (IGSOA Canonical Form)**</span></span></div>
+<div class="line" id="L140"><span class="line-number">140</span><span class="line-content"></span></div>
+<div class="line" id="L141"><span class="line-number">141</span><span class="line-content"><span class="heading">### **Box Calculus Axiom Box**</span></span></div>
+<div class="line" id="L142"><span class="line-number">142</span><span class="line-content"></span></div>
+<div class="line" id="L143"><span class="line-number">143</span><span class="line-content"><span class="bold">*<span class="italic">*Axiom 1 — State Axiom*</span>*</span>  </span></div>
+<div class="line" id="L144"><span class="line-number">144</span><span class="line-content"> Every Box contains a semantic state <span class="greek">Σ</span> and a boundary <span class="math">∂</span>Box.</span></div>
+<div class="line" id="L145"><span class="line-number">145</span><span class="line-content"></span></div>
+<div class="line" id="L146"><span class="line-number">146</span><span class="line-content"><span class="bold">*<span class="italic">*Axiom 2 — Operator Axiom*</span>*</span>  </span></div>
+<div class="line" id="L147"><span class="line-number">147</span><span class="line-content"> All transformations are composed of E, A, polarity, router, and adjoint-derived operators.</span></div>
+<div class="line" id="L148"><span class="line-number">148</span><span class="line-content"></span></div>
+<div class="line" id="L149"><span class="line-number">149</span><span class="line-content"><span class="bold">*<span class="italic">*Axiom 3 — Deviation Axiom*</span>*</span>  </span></div>
+<div class="line" id="L150"><span class="line-number">150</span><span class="line-content"> No Box may reduce to the zero-state; deviation enforces non-collapse (NOT axiom).</span></div>
+<div class="line" id="L151"><span class="line-number">151</span><span class="line-content"></span></div>
+<div class="line" id="L152"><span class="line-number">152</span><span class="line-content"><span class="bold">*<span class="italic">*Axiom 4 — Adjacency Axiom*</span>*</span>  </span></div>
+<div class="line" id="L153"><span class="line-number">153</span><span class="line-content"> Boxes connect via adjacency networks; permitted operators follow adjacency relations.</span></div>
+<div class="line" id="L154"><span class="line-number">154</span><span class="line-content"></span></div>
+<div class="line" id="L155"><span class="line-number">155</span><span class="line-content"><span class="bold">*<span class="italic">*Axiom 5 — Merge-Expansion Duality*</span>*</span>  </span></div>
+<div class="line" id="L156"><span class="line-number">156</span><span class="line-content"> A and E are non-commutative duals; meaning-making arises from their alternation.</span></div>
+<div class="line" id="L157"><span class="line-number">157</span><span class="line-content"></span></div>
+<div class="line" id="L158"><span class="line-number">158</span><span class="line-content"><span class="bold">*<span class="italic">*Axiom 6 — Polarity Principle*</span>*</span>  </span></div>
+<div class="line" id="L159"><span class="line-number">159</span><span class="line-content"> All semantic directionality arises from polarity forks and router weighting.</span></div>
+<div class="line" id="L160"><span class="line-number">160</span><span class="line-content"></span></div>
+<div class="line" id="L161"><span class="line-number">161</span><span class="line-content"><span class="bold">*<span class="italic">*Axiom 7 — Evaluation Axiom (<span class="greek">Π</span>-mode)*</span>*</span>  </span></div>
+<div class="line" id="L162"><span class="line-number">162</span><span class="line-content"> A Box becomes a realized semantic entity only upon <span class="greek">Π</span>-evaluation.</span></div>
+<div class="line" id="L163"><span class="line-number">163</span><span class="line-content"></span></div>
+    </div>
+</body>
+</html>

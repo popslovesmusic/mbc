@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'For each state Ψn\\Psi\_nΨn​, define the δ-neighborhood: Nδ(Ψn)={Ψm:Ψm is
+  adjacent to Ψn via a δ-path}.N\_\\delta(\\Psi\_n) \= \\{\\Psi\_m : \\Psi\_m \\text{
+  is adjacent to } \\Psi\_n \\text{ via a δ-...'
+heading: '**Axiom 6 — δ-Neighborhood Axiom (Locality Axiom)**'
+id: GEN4-7861
+lines: 862-878
+location: genesis-4/the-first-adjacency::axiom-6-δ-neighborhood-axiom-locality-axiom::b1
+source: genesis-4\The_First_Adjacency.md

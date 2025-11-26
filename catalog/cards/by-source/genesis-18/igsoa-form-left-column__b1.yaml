@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Hierarchy Axioms
+- Monistic Consistency Axioms
+- Semantic Logic Axioms
+- δ
+excerpt: 'If the Monistic Consistency Axioms, δ-Hierarchy Axioms, and Semantic Logic
+  Axioms hold, then: Every valid reasoning step is equivalent to a δ-adjacency step.\\boxed{
+  \\textbf{Every valid reasoning ste...'
+heading: '**IGSOA Form (Left Column)**'
+id: GEN18-5771
+lines: 1663-1671
+location: genesis-18/sealed-axiom-box::statement-of-the-theorem::igsoa-form-left-column::b1
+parent_heading: '**STATEMENT OF THE THEOREM**'
+source: genesis-18\SEALED_AXIOM_BOX.md

@@ -1,0 +1,15 @@
+block_type: list
+concepts:
+- Meta-Fields
+- Meta-Time
+- Ψ
+- τ
+excerpt: '- **Purpose:** To describe the evolution of Meta-Fields along the continuous
+  Meta-Time (τ) axis. - **Behavior:** The fundamental operator in the Meta-PDE. -
+  **Equation:** `∂_τ Ψ` is the direct rate of...'
+heading: 3. Meta-Time Derivative (∂_τ)
+id: INTK-10422
+lines: 1365-1368
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::meta-calculus-operations::3-meta-time-derivative-τ::b1
+parent_heading: Meta-Calculus Operations
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Harmonic Ladder
+- Φ
+- δ
+- λ
+excerpt: Φ(κ)=⨁ℓλℓIdΦℓ\\Phi(\\kappa)=\\bigoplus\_{\\ell} \\lambda\_{\\ell}\\mathrm{Id}\_{\\Phi\_{\\ell}}Φ(κ)=ℓ⨁​λℓ​IdΦℓ​​
+  Each λₗ is the amplitude of the δ-Harmonic Ladder. These form the primordial curvature
+  ...
+heading: '**Step 1: Φ decomposes κ into harmonic eigenmodes**'
+id: GEN15-3217
+lines: 2145-2153
+location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-proof-derived-from-the-functor-stack::step-1-φ-decomposes-κ-into-harmonic-eigenmodes::b1
+parent_heading: '**Ⅱ. Proof (Derived from the Functor Stack)**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

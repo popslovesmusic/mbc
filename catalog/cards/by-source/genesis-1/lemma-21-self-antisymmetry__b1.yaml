@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: Rδ†=− Rδ.\\mathcal{R}\_{\\delta}^\\dagger \= \-\\,\\mathcal{R}\_{\\delta}.Rδ†​=−Rδ​.
+  **Proof.** \[δ,δ\]†=(δδ−δδ)†=δ†δ†−δ†δ†=−\[δ,δ\].\[\\delta,\\delta\]^\\dagger \=
+  (\\delta\\delta \- \\delta\\delta)^...
+heading: '**Lemma 2.1 — Self-Antisymmetry.**'
+id: GEN1-608
+lines: 1204-1214
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::2-properties-of-δ-curvature::lemma-21-self-antisymmetry::b1
+parent_heading: '**2\. Properties of δ-Curvature**'
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

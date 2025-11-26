@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- α
+- β
+- γ
+- δ
+- σ
+excerpt: 'For large p2p^2p2: Dδ(p)∼∫1∞dk  Zkp2−mk2≈Ap2+Bp2(log⁡p)2+O(p−3),D\_\\delta(p)
+  \\sim \\int\_1^\\infty dk \\; \\frac{Z\_k}{p^2 \- m\_k^2} \\approx \\frac{A}{p^2}
+  \+ \\frac{B}{p^2(\\log p)^2} \+ \\mathca...'
+heading: '**7\. Closed-Form Asymptotics**'
+id: GEN0-358
+lines: 1793-1809
+location: genesis-0/why-the-first-action-is-necessary::7-closed-form-asymptotics::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md

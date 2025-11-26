@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Theorem
+- equivalent
+- Π
+- Φ
+- δ
+excerpt: '**Theorem.** Let δ:GMG→Gδ,Φ:Gδ→F,Π:F→C\\delta : \\mathcal{G}\_{\\text{MG}}
+  \\rightarrow \\mathcal{G}\_\\delta, \\qquad \\Phi : \\mathcal{G}\_\\delta \\rightarrow
+  \\mathcal{F}, \\qquad \\Pi : \\mathcal...'
+heading: '***Sealed Axiom-Box Level Statement***'
+id: GEN8-8737
+lines: 499-536
+location: genesis-8/corollary-einstein-compatibility-via::theorem-δφπ-equivalence-theorem::sealed-axiom-box-level-statement::b1
+parent_heading: '**◆ Theorem (δ–Φ–Π Equivalence Theorem).**'
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md

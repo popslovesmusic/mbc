@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Π
+- λ
+excerpt: ns(k)=1+ddln⁡kln⁡Π(λk).n\_s(k) \= 1 \+ \\frac{d}{d\\ln k}\\ln\\Pi(\\lambda\_k).ns​(k)=1+dlnkd​lnΠ(λk​).
+heading: '**P6.1 Spectral Index Running**'
+id: GEN12-1707
+lines: 2621-2623
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-predictions::axiom-p6-inflation-predictions::p61-spectral-index-running::b1
+parent_heading: '**Axiom P6 (Inflation Predictions).**'
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md

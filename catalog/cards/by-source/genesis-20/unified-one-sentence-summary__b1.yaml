@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Proof System
+- Semantic Inference Diagram Stack
+- Semantic Inference Rules
+- Θ
+- Π
+- Σ
+- Φ
+- δ
+excerpt: The MBC-4.0 Semantic Inference Rules define formal derivation (⊢), routing
+  implication (⇒), and semantic entailment (|=) using the δ→Φ→Θ→ΣΣₐ→Π pipeline, giving
+  IGSOA a complete and sound inference cal...
+heading: Unified One-Sentence Summary
+id: GEN20-6640
+lines: 909-914
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::unified-one-sentence-summary::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md

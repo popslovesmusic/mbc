@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Berry Connection
+- Geometry Hilbert
+- Π
+- Φ
+- δ
+- λ
+excerpt: 'Let δ\\deltaδ be the fundamental deviational operator on the Genesis–Geometry
+  Hilbert module H\\mathcal{H}H, and let {ψn}\\{\\psi\_n\\}{ψn​} be any δ-harmonic
+  frame satisfying: δ2ψn=λnψn.\\delta^2 \\p...'
+heading: '**Axiom δ-B (The Deviational Berry Connection)**'
+id: GEN10-743
+lines: 894-908
+location: genesis-10/how-stillness-becomes-solid::the-δ-berry-connection-axiom::axiom-δ-b-the-deviational-berry-connection::b1
+parent_heading: '**The δ-Berry Connection Axiom**'
+source: genesis-10\How_Stillness_Becomes_Solid_.md

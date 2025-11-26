@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Performs spectral decomposition of A. H(A):=Eigenmodes of Laplacian(A)H(A)
+  := \\text{Eigenmodes of Laplacian}(A)H(A):=Eigenmodes of Laplacian(A) This gives:'
+heading: '**H — Harmonic Projector**'
+id: GEN8-8796
+lines: 448-464
+location: genesis-8/meta-time-geometry-and-temporal-projection::2-the-four-projectors::h-harmonic-projector::b1
+parent_heading: '**2\. THE FOUR PROJECTORS**'
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

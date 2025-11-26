@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Meta-Math
+- No Meta
+- Ψ
+excerpt: No Meta-Math operator may reference Ψ0\\Psi\_0Ψ0​.
+heading: '**Test 1 – Zero-State Domain Test**'
+id: INTK-9684
+lines: 593-595
+location: intake/axioms-geometry::section-6-consistency-checks-self-consistency-tests::test-1-zero-state-domain-test::b1
+parent_heading: '**Section 6 — Consistency Checks (Self-Consistency Tests)**'
+source: intake\Axioms-geometry.md

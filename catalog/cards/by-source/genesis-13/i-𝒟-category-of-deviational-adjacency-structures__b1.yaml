@@ -1,0 +1,14 @@
+block_type: list
+concepts:
+- Morphisms
+- Objects
+- δ
+excerpt: '* **Objects**: adjacency fields AAA, or equivalently δ-fields: δ:Adj→R\\delta
+  : \\mathrm{Adj} \\to \\mathbb{R}δ:Adj→R. * **Morphisms**: adjacency-preserving maps
+  f:A1→A2f : A\_1 \\to A\_2f:A1​→A2​ tha...'
+heading: '**(i) 𝒟 \= Category of Deviational Adjacency Structures**'
+id: GEN13-2287
+lines: 356-362
+location: genesis-13/the-weight-of-light::1-categories-involved::i-𝒟-category-of-deviational-adjacency-structures::b1
+parent_heading: '**1\. Categories Involved**'
+source: genesis-13\The_Weight_of_Light.md

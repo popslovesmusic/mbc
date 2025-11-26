@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Derived Symbol
+- Σ
+- δ
+- λ
+- ρ
+excerpt: 'Formally: Σ+:=∑λk\>0PkΣ,Σ−:=∑λk\<0PkΣ Σ'
+heading: 5.3 ρ and R are spectral cut/glue
+id: GEN17-4765
+lines: 9020-9083
+location: genesis-17/box-calculus::monistic-box-calculus-syntax-v10::5-derived-operator-syntax-sugar-not-primitive::53-ρ-and-r-are-spectral-cutglue::b1
+parent_heading: 5\. Derived Operator Syntax (Sugar, Not Primitive)
+source: genesis-17\box_calculus.md

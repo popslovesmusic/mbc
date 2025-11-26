@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: Σt+1={E(Σt)ΔH(Σt)\>ϵ ∧ Ft\>0 ∧ ∥ΔΣt∥\>δ ∧ ∥δ(E(Σt))∥\>κΣtotherwise\\boxed{
+  \\Sigma\_{t+1} \= \\begin{cases} E(\\Sigma\_t) & \\Delta H(\\Sigma\_t) \> \\epsilon
+  \\ \\wedge\\ F\_t\>0 \\ \\wedge\\ \\|\\De...
+heading: '**⭐ 4\. The Final E-Transition Equation (with Halting Conditions)**'
+id: GEN16-3824
+lines: 1106-1126
+location: genesis-16/untitled-document::4-the-final-e-transition-equation-with-halting-conditions::b1
+source: genesis-16\Untitled_document.md

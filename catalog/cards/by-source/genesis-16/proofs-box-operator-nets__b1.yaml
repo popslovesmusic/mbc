@@ -1,0 +1,15 @@
+block_type: list
+concepts:
+- Box
+- Linear Logic
+- Thus Box Calculus
+- Π
+- δ
+excerpt: '* Each LL inference rule maps to a Box operator * Cut corresponds to merging
+  edges * Cut-elimination corresponds to Π-evaluation'
+heading: '**Proofs ↦ Box operator nets**'
+id: GEN16-4139
+lines: 5122-5134
+location: genesis-16/untitled-document::5-the-full-embedding::proofs-box-operator-nets::b1
+parent_heading: '**⭐ 5\. The Full Embedding**'
+source: genesis-16\Untitled_document.md

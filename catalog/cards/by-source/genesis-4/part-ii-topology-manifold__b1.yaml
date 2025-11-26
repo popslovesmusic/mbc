@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Genesis Closure Principle
+- Local Euclidean
+- δ
+excerpt: 'To obtain a differentiable manifold MMM: 1. δ-neighborhoods must be **locally
+  finite** 2. adjacency must satisfy the **Genesis Closure Principle**:'
+heading: '**Part II — Topology ⇒ Manifold**'
+id: GEN4-7846
+lines: 620-643
+location: genesis-4/the-first-adjacency::4-proof::part-ii-topology-manifold::b1
+parent_heading: '**4\. Proof**'
+source: genesis-4\The_First_Adjacency.md

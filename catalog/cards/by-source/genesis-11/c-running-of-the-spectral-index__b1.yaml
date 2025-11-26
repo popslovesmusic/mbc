@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- α
+- δ
+excerpt: αs=dnsdln⁡k=d2(dln⁡k)2ln⁡∣TΦ(k) δk∣2\\boxed{ \\alpha\_s \= \\frac{d n\_s}{d\\ln
+  k} \= \\frac{d^2}{(d\\ln k)^2} \\ln |\\mathcal{T}\_{\\Phi}(k)\\,\\delta\_k|^{2}
+  }αs​=dlnkdns​​=(dlnk)2d2​ln∣TΦ​(k)δk​∣2​...
+heading: '**(C) Running of the Spectral Index**'
+id: GEN11-1215
+lines: 1512-1518
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::core-spectral-consequences::c-running-of-the-spectral-index::b1
+parent_heading: '**CORE SPECTRAL CONSEQUENCES**'
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md

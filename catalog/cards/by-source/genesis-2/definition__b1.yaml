@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Γ
+- Π
+- δ
+excerpt: Π(∇δ)=∇LC\\Pi(\\nabla^\\delta) \= \\nabla^{LC}Π(∇δ)=∇LC where Γijk=12gkℓ(∂igjℓ+∂jgiℓ−∂ℓgij)\\Gamma^k\_{ij}
+  \= \\frac12 g^{k\\ell} (\\partial\_i g\_{j\\ell} \+ \\partial\_j g\_{i\\ell} \-
+  \\partial\_\\...
+heading: '**Definition:**'
+id: GEN2-6506
+lines: 440-459
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::4-projection-of-δ-connection-to-levicivita-connection::definition::b1
+parent_heading: '**4\. Projection of δ-Connection to Levi–Civita Connection**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

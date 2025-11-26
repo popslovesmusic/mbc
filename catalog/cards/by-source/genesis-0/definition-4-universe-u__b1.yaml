@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: U:=⋃n=0∞ΨnwithΨn+1=δΨn.U := \\bigcup\_{n=0}^{\\infty}\\Psi\_n \\quad\\text{with}\\quad\\Psi\_{n+1}
+  \= \\delta\\Psi\_n.U:=n=0⋃∞​Ψn​withΨn+1​=δΨn​. ---
+heading: '**Definition 4 — Universe (U)**'
+id: GEN0-227
+lines: 1040-1044
+location: genesis-0/tri-unity-theorem-equivalence-of::2-key-definitions::definition-4-universe-u::b1
+parent_heading: '**2\. Key Definitions**'
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md

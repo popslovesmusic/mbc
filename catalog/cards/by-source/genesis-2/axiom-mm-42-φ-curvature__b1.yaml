@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: RΦ(X,Y)Z:=∇XΦ∇YΦZ−∇YΦ∇XΦZ−∇\[X,Y\]ΦΦZ.R\_\\Phi(X,Y)Z := \\nabla^\\Phi\_X
+  \\nabla^\\Phi\_Y Z \- \\nabla^\\Phi\_Y \\nabla^\\Phi\_X Z \- \\nabla^\\Phi\_{\[X,Y\]\_\\Phi}
+  Z.RΦ​(X,Y)Z:=∇XΦ​∇YΦ​Z−∇YΦ​∇XΦ​Z−∇...
+heading: '**Axiom MM-4.2 — Φ-Curvature**'
+id: GEN2-6330
+lines: 501-509
+location: genesis-2/axioms-of-geometry-topos-compatible::4-φ-curvature-action-curvature-meta-einstein-alignment::axiom-mm-42-φ-curvature::b1
+parent_heading: '**4\. Φ-Curvature (Action Curvature; Meta-Einstein Alignment)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

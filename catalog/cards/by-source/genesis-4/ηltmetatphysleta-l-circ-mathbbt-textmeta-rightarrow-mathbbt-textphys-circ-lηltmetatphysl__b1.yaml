@@ -1,0 +1,13 @@
+block_type: table
+concepts:
+- η
+- σ
+excerpt: 'This is the fundamental natural transformation of IGSOA. Diagram: `MG ----T_meta---->
+  MG`'
+heading: '**η:L∘TMeta⇒TPhys∘L\\eta: L \\circ \\mathbb{T}\_{\\text{Meta}} \\Rightarrow
+  \\mathbb{T}\_{\\text{Phys}} \\circ Lη:L∘TMeta​⇒TPhys​∘L**'
+id: GEN4-7737
+lines: 369-389
+location: genesis-4/the-adjoint-triple::part-2-natural-transformations-between-them::1-projection-transformation-meta-time-physical-time::ηltmetatphysleta-l-circ-mathbbt-textmeta-rightarrow-mathbbt-textphys-circ-lηltmetatphysl::b1
+parent_heading: '**1\. Projection Transformation (Meta-Time → Physical Time)**'
+source: genesis-4\The_Adjoint_Triple.md

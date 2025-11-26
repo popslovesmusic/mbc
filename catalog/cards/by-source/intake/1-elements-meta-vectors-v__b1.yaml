@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Meta-Time
+- Meta-Vector
+- σ
+- τ
+excerpt: A **Meta-Vector** `V` is a generalized vector whose components `(V)_i` represent
+  deviation modes, peakset amplitudes, or operator values along specific deviation
+  dimensions. These components are not s...
+heading: '1. Elements: Meta-Vectors (V)'
+id: INTK-10346
+lines: 980-981
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::formal-definition::1-elements-meta-vectors-v::b1
+parent_heading: Formal Definition
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+- λ
+- ρ
+excerpt: 'Perturbations δρ obey the Π-level evolution equation: δρ¨k+2Π(H)δρ˙k+cs2k2δρk=Sk(t).\\ddot{\\delta\\rho}\_k
+  \+ 2\\Pi(H) \\dot{\\delta\\rho}\_k \+ c\_s^2 k^2 \\delta\\rho\_k \= S\_k(t).δρ¨​k​+2Π(H)δρ˙​...'
+heading: '**Ⅲ. Operator-Theoretic Perturbation Growth**'
+id: GEN15-3175
+lines: 1601-1619
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-perturbation-growth::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

@@ -1,0 +1,13 @@
+block_type: list
+concepts:
+- curvature
+- δ
+excerpt: 1. **IGS-like smoothing field exists** — perfectly symmetric, perfectly uniform,
+  zero-curvature, no gradients. 2. **A deviation occurs** (your δ). A tiny departure
+  from perfect symmetry introduces **c...
+heading: '**The correct sequence is:**'
+id: GEN17-4873
+lines: 60-80
+location: genesis-17/key-points::the-answer::the-correct-sequence-is::b1
+parent_heading: '**⭐ The Answer:**'
+source: genesis-17\Key_Points.md

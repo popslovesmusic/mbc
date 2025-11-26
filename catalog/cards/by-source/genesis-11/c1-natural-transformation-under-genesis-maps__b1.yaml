@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts: []
+excerpt: 'For any morphism f:G→G′f:G\\to G''f:G→G′: CMB(G′)∘CMB(f)=CMB(G).\\mathcal{CMB}(G'')\\circ
+  \\mathcal{CMB}(f) \= \\mathcal{CMB}(G).CMB(G′)∘CMB(f)=CMB(G). Thus **CMB patterns
+  transform naturally** under Ge...'
+heading: '**C1. Natural Transformation Under Genesis Maps**'
+id: GEN11-1306
+lines: 871-879
+location: genesis-11/the-adjacency-wave-equation::corollaries-sealed::c1-natural-transformation-under-genesis-maps::b1
+parent_heading: '**Corollaries (Sealed)**'
+source: genesis-11\The_Adjacency_Wave_Equation.md

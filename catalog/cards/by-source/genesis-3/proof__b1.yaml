@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Lemma
+- Φ
+- δ
+excerpt: 'Assume π exists but δ does not. Then π acts on Φ-structures, but Φ itself
+  requires δ (Lemma 1). So Φ collapses, and π would have:'
+heading: '**Proof.**'
+id: GEN3-7492
+lines: 167-187
+location: genesis-3/the-tri-unity-theorem::iii-formal-proof::lemma-3-π-δ::proof::b1
+parent_heading: '**Lemma 3: π ⇒ δ**'
+source: genesis-3\The_Tri-Unity_Theorem.md

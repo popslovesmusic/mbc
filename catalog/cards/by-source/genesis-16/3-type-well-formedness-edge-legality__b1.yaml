@@ -1,0 +1,13 @@
+block_type: table
+concepts:
+- Box
+- τ
+excerpt: 'For each edge i→ji\\to ji→j: TypeWF(G)  ⟺  ∀(i→j)∈E: τiout⪯τjin\\boxed{
+  \\mathrm{TypeWF}(\\mathcal{G}) \\iff \\forall (i\\to j)\\in\\mathcal{E}:\\ \\tau^{out}\_i
+  \\preceq \\tau^{in}\_j }TypeWF(G)⟺∀(i→...'
+heading: '**3\. Type-Well-Formedness (Edge Legality)**'
+id: GEN16-3834
+lines: 1252-1266
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::3-type-well-formedness-edge-legality::b1
+parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
+source: genesis-16\Untitled_document.md

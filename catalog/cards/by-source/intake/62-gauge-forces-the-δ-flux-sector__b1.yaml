@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Mills Lagrangian
+- Yang-Mills
+- δ
+excerpt: The `¼ F_AB^CD(δ) F_CD(δ) G_AB(δ)` term is a generalization of the Yang-Mills
+  Lagrangian. *   The internal indices `CD` reflect the **internal symmetries of the
+  deviation field itself** (e.g., the 3-6...
+heading: '**6.2 Gauge Forces (The δ-Flux Sector)**'
+id: INTK-10217
+lines: 94-100
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::6-interpretation-of-terms-and-emergent-physics::62-gauge-forces-the-δ-flux-sector::b1
+parent_heading: '**6. Interpretation of Terms and Emergent Physics**'
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

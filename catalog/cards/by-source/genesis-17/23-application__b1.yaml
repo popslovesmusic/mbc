@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- 'Box
+
+
+  This'
+- First Box
+- Second Box
+excerpt: 'T(MN)=eval(T(M), T(N)) T(MN)=eval(T(M), T(N)) Where:'
+heading: 2.3 Application
+id: GEN17-4500
+lines: 5673-5697
+location: genesis-17/box-calculus::2-explicit-translation-λ-box::23-application::b1
+parent_heading: ⭐ 2\. Explicit Translation λ → Box
+source: genesis-17\box_calculus.md

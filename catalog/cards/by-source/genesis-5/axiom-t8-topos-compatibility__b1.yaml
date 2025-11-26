@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- σ
+excerpt: The middle category σTop\\sigma TopσTop is a Grothendieck topos. The functor
+  U:MM→σTopU:MM \\to \\sigma TopU:MM→σTop preserves finite limits, and the functor
+  R:σTop→MGR:\\sigma Top \\to MGR:σTop→MG pr...
+heading: '**Axiom T8 (Topos Compatibility).**'
+id: GEN5-7961
+lines: 365-371
+location: genesis-5/formal-proof-of-the-adjoint-triple::topostheoretic-axiom-box-the-genesismathtopos-adjoint-triple::axiom-t8-topos-compatibility::b1
+parent_heading: '**▢ Topos–Theoretic Axiom Box: The Genesis–Math–Topos Adjoint Triple**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

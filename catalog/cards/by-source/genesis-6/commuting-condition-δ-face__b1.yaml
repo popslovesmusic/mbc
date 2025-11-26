@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Φ
+- Ψ
+- δ
+- σ
+excerpt: 'The top face is: \\requireAMScdHδ→DδGeom(Hδ)Fσ↓↓FMFσ(Ψ0)→FMFM(Ψ0)\\require{AMScd}
+  \\begin{CD} \\mathbf{H}\_{\\delta} @\>{D\_{\\delta}}\>\> \\mathsf{Geom}(\\mathbf{H}\_{\\delta})
+  \\\\ @V{F\_{\\sigma}}V...'
+heading: '**COMMUTING CONDITION (δ-Face)**'
+id: GEN6-8311
+lines: 737-753
+location: genesis-6/spectral-triple-axiom-box-sealed-version::2-the-δ-spectral-triple-face-top-front-face::commuting-condition-δ-face::b1
+parent_heading: '**2\. The δ-Spectral Triple Face (Top Front Face)**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- From Axioms
+- Π
+- Φ
+- δ
+excerpt: 'From Axioms 1–7: Π∘Φ∘δ=the unique fixed-point projection of FIGSOA.\\boxed{
+  \\Pi \\circ \\Phi \\circ \\delta \= \\text{the unique fixed-point projection of
+  } \\mathcal{F}\_{\\text{IGSOA}}. }Π∘Φ∘δ=the ...'
+heading: '**Conclusion (IGSOA Form)**'
+id: GEN18-5631
+lines: 381-401
+location: genesis-18/sealed-axiom-box::conclusion-igsoa-form::b1
+source: genesis-18\SEALED_AXIOM_BOX.md

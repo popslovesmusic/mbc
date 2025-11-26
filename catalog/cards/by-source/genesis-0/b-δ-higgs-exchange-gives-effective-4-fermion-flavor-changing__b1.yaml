@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'Tree-level δ exchange yields: Leff∼∑i,j,k,l,myij(m)ykl(m)p2−mδ,m2(ΨˉiΨj)(ΨˉkΨl)\\mathcal
+  L\_{\\text{eff}} \\sim \\sum\_{i,j,k,l,m} \\frac{y\_{ij}^{(m)}y\_{kl}^{(m)}}{p^2-m\_{\\delta,m}^2}
+  (\\bar\\Psi\...'
+heading: '**(B) δ-Higgs exchange gives effective 4-fermion flavor changing**'
+id: GEN0-032
+lines: 393-407
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::7-δ-higgs-flavor-vertices-feynman-rules::b-δ-higgs-exchange-gives-effective-4-fermion-flavor-changing::b1
+parent_heading: '**7\. δ-Higgs / flavor vertices (Feynman rules)**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

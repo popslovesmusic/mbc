@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Causal Sphere
+- locales
+- δ
+excerpt: 'Internal preorders in a topos correspond to **locales** (point-free spaces).
+  Thus from Step 3: (Obj(MetaPhys),⪯)(\\mathrm{Obj}(\\mathbf{MetaPhys}),\\preceq)(Obj(MetaPhys),⪯)'
+heading: '**Step 4 — The internal preorder induces an internal locale**'
+id: GEN4-7654
+lines: 762-791
+location: genesis-4/meta-physics-axiom-box::step-4-the-internal-preorder-induces-an-internal-locale::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md

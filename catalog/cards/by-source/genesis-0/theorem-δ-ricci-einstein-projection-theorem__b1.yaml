@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Deviational Geometry
+- General Relativity
+excerpt: π(Rab)=Rab\\boxed{ \\pi(\\mathcal{R}\_{ab}) \= R\_{ab} }π(Rab​)=Rab​​ π(Gab)=Gab\\boxed{
+  \\pi(\\mathcal{G}\_{ab}) \= G\_{ab} }π(Gab​)=Gab​​ Thus, **General Relativity is
+  the projected image of Deviati...
+heading: '**Theorem (δ-Ricci → Einstein Projection Theorem)**'
+id: GEN0-090
+lines: 1344-1350
+location: genesis-0/feynman-rules-interaction-vertices::6-boxed-axiomtheorem-pair-drop-in-format::theorem-δ-ricci-einstein-projection-theorem::b1
+parent_heading: '**6\. Boxed Axiom/Theorem Pair (drop-in format)**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

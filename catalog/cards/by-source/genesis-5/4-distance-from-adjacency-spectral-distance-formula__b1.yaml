@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+- ω
+excerpt: 'Define a Dirac-type operator DDD (to be linked to δ later). The **Connes
+  distance** between pure states associated to projections px,pyp\_x, p\_ypx​,py​:
+  d(x,y)=sup⁡{∣ωx(a)−ωy(a)∣:a∈A, ∥\[D,a\]∥≤1}.d(...'
+heading: '**4\. Distance from Adjacency: Spectral Distance Formula**'
+id: GEN5-8186
+lines: 766-785
+location: genesis-5/the-ga-8-meta-einstein-theorem::4-distance-from-adjacency-spectral-distance-formula::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md

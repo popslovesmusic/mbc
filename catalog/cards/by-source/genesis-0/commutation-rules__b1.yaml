@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Affine Lie
+- γ
+- δ
+excerpt: \[δ(m),δ(n)\]=(n−m) γm,n δ(m+n−1).\[\\delta^{(m)}, \\delta^{(n)}\] \= (n-m)
+  \\, \\gamma\_{m,n} \\, \\delta^{(m+n-1)}.\[δ(m),δ(n)\]=(n−m)γm,n​δ(m+n−1). \[A,δ(n)\]=n δ(n).\[A,
+  \\delta^{(n)}\] \= n\\,\\d...
+heading: '**Commutation Rules:**'
+id: GEN0-340
+lines: 1522-1538
+location: genesis-0/why-the-first-action-is-necessary::5-δ-algebra-as-a-graded-fractal-lie-algebra::commutation-rules::b1
+parent_heading: '**5\. δ-Algebra as a Graded Fractal Lie Algebra**'
+source: genesis-0\Why_the_First_Action_Is_Necessary.md

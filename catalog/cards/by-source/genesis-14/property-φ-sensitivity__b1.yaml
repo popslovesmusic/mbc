@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: Small δ-differences produce large Φ-differences internally (avalanche property).
+heading: '**Property (Φ-Sensitivity):**'
+id: GEN14-2828
+lines: 586-588
+location: genesis-14/meta-math-and-cryptography::4-φ-the-cryptographic-transformation-functor::property-φ-sensitivity::b1
+parent_heading: '**4\. Φ: The Cryptographic Transformation Functor**'
+source: genesis-14\Meta-Math_and_Cryptography.md

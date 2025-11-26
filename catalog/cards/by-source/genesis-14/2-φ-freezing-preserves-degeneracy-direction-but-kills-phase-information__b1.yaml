@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+excerpt: 'The Φ-trace collapses time-evolving modes to their frozen amplitudes (Proof
+  2): ϕn,ℓ,m(∗)=lim⁡t→∞Φ(hn,ℓ,m(t)).\\phi\_{n,\\ell,m}^{(\*)} \= \\lim\_{t\\to\\infty}
+  \\Phi(h\_{n,\\ell,m}(t)).ϕn,ℓ,m(∗)​=t→∞...'
+heading: '**2\. Φ-Freezing Preserves Degeneracy Direction but Kills Phase Information**'
+id: GEN14-2725
+lines: 1191-1205
+location: genesis-14/inflation-structure-formation::proof::2-φ-freezing-preserves-degeneracy-direction-but-kills-phase-information::b1
+parent_heading: '**Proof**'
+source: genesis-14\Inflation__Structure_Formation.md

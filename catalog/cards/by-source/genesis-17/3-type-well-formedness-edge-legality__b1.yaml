@@ -1,0 +1,11 @@
+block_type: table
+concepts:
+- Box
+- τ
+excerpt: 'For each edge i→j i→j:'
+heading: 3\. Type-Well-Formedness (Edge Legality)
+id: GEN17-4247
+lines: 1481-1504
+location: genesis-17/box-calculus::graph-grammar-for-box-calculus-topology-legal-wiring::3-type-well-formedness-edge-legality::b1
+parent_heading: ⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)
+source: genesis-17\box_calculus.md

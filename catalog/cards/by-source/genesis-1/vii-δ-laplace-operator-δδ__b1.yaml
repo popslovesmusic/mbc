@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'The δ-Laplace operator is the δ-second derivative: ΔδΨn:=Rδ(Ψn)=Ψn+2−2Ψn+1+Ψn\\Delta\_\\delta
+  \\Psi\_n := R\_\\delta(\\Psi\_n) \= \\Psi\_{n+2} \- 2\\Psi\_{n+1} \+ \\Psi\_nΔδ​Ψn​:=Rδ​(Ψn​)=Ψn+2​−2Ψn+1​...'
+heading: '**VII. δ-Laplace Operator (Δδ)**'
+id: GEN1-451
+lines: 473-489
+location: genesis-1/the-foundation-layer::vii-δ-laplace-operator-δδ::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md

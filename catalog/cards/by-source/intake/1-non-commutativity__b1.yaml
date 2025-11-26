@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: Generally, `Ψ₁ ⊞ Ψ₂ ≠ Ψ₂ ⊞ Ψ₁` due to the path-dependent nature of deviation
+  interactions. The order of combination matters.
+heading: 1. Non-Commutativity
+id: INTK-10266
+lines: 544-545
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-addition::properties::1-non-commutativity::b1
+parent_heading: Properties
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

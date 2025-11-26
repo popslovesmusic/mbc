@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Lemma
+- Shell Factorization Lemma
+- Π
+- Φ
+excerpt: 'Define decomposition: Φn=Φ(orb)⊗Φ(spin)⊗Φ(iso)\\Phi\_n \= \\Phi^{(\\text{orb})}
+  \\otimes \\Phi^{(\\text{spin})} \\otimes \\Phi^{(\\text{iso})}Φn​=Φ(orb)⊗Φ(spin)⊗Φ(iso)
+  Show the emergent nuclear struct...'
+heading: '**2.4 Φ-Tensor Factorization → Nuclear Shell Model**'
+id: GEN13-2036
+lines: 442-462
+location: genesis-13/meta-math-nuclear-physics::2-φ-layer-the-operator-algebra-of-nuclear-symmetry::24-φ-tensor-factorization-nuclear-shell-model::b1
+parent_heading: '**2\. Φ-Layer: The Operator Algebra of Nuclear Symmetry**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

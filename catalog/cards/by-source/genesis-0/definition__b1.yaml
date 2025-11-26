@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- γ
+- σ
+excerpt: 'Zk:=Z1 k−γexp⁡(−σk)Z\_k := Z\_1\\, k^{-\\gamma} \\exp(-\\sigma\\sqrt{k})Zk​:=Z1​k−γexp(−σk​)
+  with: * γ\>0\\gamma \> 0γ\>0 \= fractal suppression exponent,'
+heading: '**Definition.**'
+id: GEN0-354
+lines: 1747-1759
+location: genesis-0/why-the-first-action-is-necessary::4-spectral-weights-and-fractal-renormalization::definition::b1
+parent_heading: '**4\. Spectral Weights and Fractal Renormalization**'
+source: genesis-0\Why_the_First_Action_Is_Necessary.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- Ψ
+- δ
+- σ
+excerpt: 'We define Φ on objects: 1. **Φ(Ψ₀)** \= terminal sheaf **1** * Because Ψ₀
+  has no adjacency, no variation, and no internal variation.'
+heading: '**3\. Definition of the Functor Φ: MG → σ-Topos**'
+id: GEN2-6481
+lines: 90-114
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::3-definition-of-the-functor-φ-mg-σ-topos::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

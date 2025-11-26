@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: Any localized deviation in adjacency space, δ(x)=δ0+ϵ ∣x−x∗∣−p,\\delta(x)=\\delta\_0+\\epsilon
+  \\, |x-x\_\*|^{-p},δ(x)=δ0​+ϵ∣x−x∗​∣−p, projects to a metric well
+heading: '**Axiom δ–CMB-5 (Localized Adjacency Defects)**'
+id: GEN11-1040
+lines: 722-736
+location: genesis-11/how-curvature-could-generate-an-axis::the-δ-cmb-projection-axiom::axiom-δcmb-5-localized-adjacency-defects::b1
+parent_heading: '**The δ → CMB Projection Axiom**'
+source: genesis-11\How_-curvature_could_generate_an_Axis.md

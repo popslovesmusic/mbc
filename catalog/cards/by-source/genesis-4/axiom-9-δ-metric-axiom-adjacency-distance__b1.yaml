@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'There exists a δ-mode operator δ(k)\\delta^{(k)}δ(k) such that the metric
+  tensor ggg on MMM is a monotone functional of δ-variation: g(x,y)=f(δ(k)(x,y)),g(x,y)
+  \= f(\\delta^{(k)}(x,y)),g(x,y)=f(δ(k)(x...'
+heading: '**Axiom 9 — δ-Metric Axiom (Adjacency ⇒ Distance)**'
+id: GEN4-7864
+lines: 908-922
+location: genesis-4/the-first-adjacency::axiom-9-δ-metric-axiom-adjacency-distance::b1
+source: genesis-4\The_First_Adjacency.md

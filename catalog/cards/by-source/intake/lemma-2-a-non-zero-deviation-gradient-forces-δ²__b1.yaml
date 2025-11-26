@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'Because the deviation operator measures change, and we now have a change:
+  δ(δΨ0)=δ2Ψ0.\\delta(\\delta\\Psi\_0)=\\delta^2\\Psi\_0.δ(δΨ0​)=δ2Ψ0​. Thus δ¹ determines
+  δ².'
+heading: '**Lemma 2 — A non-zero deviation gradient forces δ².**'
+id: INTK-10017
+lines: 1126-1134
+location: intake/meta-genesis-mathematical-papers::2-minimal-structure-proof-algebraic::lemma-2-a-non-zero-deviation-gradient-forces-δ²::b1
+parent_heading: '**2\. Minimal-Structure Proof (Algebraic)**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

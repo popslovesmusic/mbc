@@ -1,0 +1,11 @@
+block_type: table
+concepts:
+- Category Theory Polarity
+- Semantic Polarity
+excerpt: 'Thus IGSOA predicts: E must be left adjoint to A. Now we prove it formally.'
+heading: 2.1 IGSOA Meaning (Intuition Column)
+id: GEN17-4421
+lines: 3892-3904
+location: genesis-17/box-calculus::ea::21-igsoa-meaning-intuition-column::b1
+parent_heading: E⊣A
+source: genesis-17\box_calculus.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: AΦ(n)(k)=⟨un(k)∣∇kun(k)⟩,\\mathcal{A}\_\\Phi^{(n)}(k)=\\langle u\_{n}(k)|\\nabla\_k
+  u\_{n}(k)\\rangle,AΦ(n)​(k)=⟨un​(k)∣∇k​un​(k)⟩, where unu\_nun​ are normalized Φ-modes.
+  ---
+heading: '**Definition 2.3 — Φ-Berry Connection**'
+id: GEN13-2183
+lines: 2172-2178
+location: genesis-13/meta-math-nuclear-physics::2-φ-layer-band-theory-and-operator-algebra::definition-23-φ-berry-connection::b1
+parent_heading: '**2\. Φ-Layer: Band Theory and Operator Algebra**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

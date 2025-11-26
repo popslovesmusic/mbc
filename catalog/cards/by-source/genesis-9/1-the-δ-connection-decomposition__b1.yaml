@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- strong
+- weak
+- Γ
+- δ
+- δ-curvature
+- δ-torsion
+excerpt: 'Start with the δ-connection on adjacency: ∇(δ)=Γ(δ)+K(δ).\\nabla^{(\\delta)}
+  \= \\Gamma^{(\\delta)} \+ K^{(\\delta)}.∇(δ)=Γ(δ)+K(δ). Where'
+heading: '**1\. The δ-Connection Decomposition**'
+id: GEN9-9493
+lines: 847-869
+location: genesis-9/strong-force::1-the-δ-connection-decomposition::b1
+source: genesis-9\strong-force.md

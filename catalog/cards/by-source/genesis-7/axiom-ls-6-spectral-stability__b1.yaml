@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- δ
+- λ
+excerpt: 'All δ-modes have a stable spectral decomposition: δ=∑nλnΠn,\\delta \= \\sum\_n
+  \\lambda\_n \\Pi\_n,δ=n∑​λn​Πn​, and the eigenvalues satisfy:'
+heading: '**Axiom LS-6 (Spectral Stability)**'
+id: GEN7-8636
+lines: 250-264
+location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::axiom-ls-6-spectral-stability::b1
+parent_heading: '**◼ LAW STABILITY AXIOM BOX**'
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

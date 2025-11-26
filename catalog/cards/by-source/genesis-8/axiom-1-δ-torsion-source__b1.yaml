@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Γ
+- δ
+- μ
+- ν
+- ρ
+excerpt: Deviation δ induces a Weitzenböck torsion tensor Tμνρ(δ)=Γμνδρ−ΓνμδρT^\\rho\_{\\mu\\nu}(\\delta)
+  \= \\Gamma^\\delta\_{\\mu\\nu}{}^\\rho \- \\Gamma^\\delta\_{\\nu\\mu}{}^\\rhoTμνρ​(δ)=Γμνδ​ρ−Γνμδ​ρ
+  who...
+heading: '**Axiom 1 — δ-Torsion Source**'
+id: GEN8-8897
+lines: 2382-2390
+location: genesis-8/meta-time-geometry-and-temporal-projection::::axiom-1-δ-torsion-source::b1
+parent_heading: '**────────────────────────────────────────────**'
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

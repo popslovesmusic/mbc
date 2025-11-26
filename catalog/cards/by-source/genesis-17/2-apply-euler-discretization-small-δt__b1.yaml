@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: 'Let: * discrete times * tn=nΔt'
+heading: 🔷 2\. Apply Euler Discretization (small Δt)
+id: GEN17-4858
+lines: 10414-10468
+location: genesis-17/box-calculus::derivation-continuous-mgde-discrete-mbc-step-rule::2-apply-euler-discretization-small-δt::b1
+parent_heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
+source: genesis-17\box_calculus.md

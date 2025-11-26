@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Meta-Causal
+- δ
+excerpt: X⪯δY  ⟺  Y=δn(X) for some n.X \\preceq\_\\delta Y \\iff Y=\\delta^n(X)\\
+  \\text{for some } n.X⪯δ​Y⟺Y=δn(X) for some n. This δ-order is the **Meta-Causal
+  structure** (the CSI). ---
+heading: '**δ.5 — δ Generates Causality**'
+id: GEN4-7676
+lines: 1145-1151
+location: genesis-4/meta-physics-axiom-box::i-δaxioms-deviation-generator-of-structure-and-dynamics::δ5-δ-generates-causality::b1
+parent_heading: '**I. δ–AXIOMS (Deviation \= Generator of Structure and Dynamics)**'
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md

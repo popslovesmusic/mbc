@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Box
+- Π
+- δ
+- λ
+- μ
+- ν
+- σ
+excerpt: Π(□δRδ=0)⇒□gRμνλσ=0.\\Pi(\\Box\_\\delta \\mathcal{R}\_\\delta \= 0\) \\Rightarrow
+  \\Box\_g R\_{\\mu\\nu\\lambda\\sigma} \= 0.Π(□δ​Rδ​=0)⇒□g​Rμνλσ​=0. **Proof.** Π(\[δ,X\])=\[∇,Π(X)\].\\Pi(\[\\delta,X\...
+heading: '**Theorem 8.1 — δ-Waves Project to Gravitational Waves.**'
+id: GEN1-631
+lines: 1443-1457
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::8-projection-to-classical-dynamics::theorem-81-δ-waves-project-to-gravitational-waves::b1
+parent_heading: '**8\. Projection to Classical Dynamics**'
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

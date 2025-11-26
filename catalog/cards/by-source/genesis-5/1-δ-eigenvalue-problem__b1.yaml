@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+- λ
+excerpt: 'A function (or state) ψ:M→C\\psi: M \\to \\mathbb{C}ψ:M→C is a **δ-harmonic
+  eigenmode** if: Δδψ=λψ.\\Delta\_\\delta \\psi \= \\lambda \\psi.Δδ​ψ=λψ. Write the
+  spectrum:'
+heading: '**1\. δ-Eigenvalue Problem**'
+id: GEN5-8195
+lines: 915-929
+location: genesis-5/the-ga-8-meta-einstein-theorem::1-δ-eigenvalue-problem::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md

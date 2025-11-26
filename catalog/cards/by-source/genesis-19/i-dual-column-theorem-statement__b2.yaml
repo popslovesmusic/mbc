@@ -1,0 +1,18 @@
+block_type: table
+concepts:
+- Geometry Column
+- Reasoning Column
+- Standard Logic
+- Theorem
+- Θ
+- Π
+- Φ
+- δ
+excerpt: '**Theorem (informal form):** **Every valid reasoning step in MBC-4.0 is
+  equivalent to a polarity-preserving transformation under the δ→Φ→Π operator chain.**
+  Equivalently:'
+heading: '**I. Dual-Column Theorem Statement**'
+id: GEN19-5928
+lines: 770-782
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-dual-column-theorem-statement::b2
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

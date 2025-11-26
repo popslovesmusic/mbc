@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Θ
+- α
+excerpt: Sometimes one Box routes **several semantic lanes** a=1..Aa=1..Aa=1..A. Each
+  lane has its own curvature component κi(a)\\kappa\_i^{(a)}κi(a)​ and metadata bias
+  α(a)\\alpha^{(a)}α(a). wi(a)=exp⁡ ⁣(α(a)...
+heading: '**5\. Multi-Channel Θ-Routing (vector polarity lanes)**'
+id: GEN19-5889
+lines: 257-264
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::5-multi-channel-θ-routing-vector-polarity-lanes::b1
+parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

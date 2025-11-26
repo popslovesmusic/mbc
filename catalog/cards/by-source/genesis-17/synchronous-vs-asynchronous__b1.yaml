@@ -1,0 +1,11 @@
+block_type: table
+concepts:
+- Gauss-Seidel
+- Σ
+excerpt: 'Formally: * Sync: * ∀i: Σi(t+1)=Apply(…Σ(t)…)'
+heading: Synchronous vs Asynchronous
+id: GEN17-4182
+lines: 406-443
+location: genesis-17/box-calculus::box-calculus-v02-closing-the-three-gaps::c-the-tick-global-transition-semantics::synchronous-vs-asynchronous::b1
+parent_heading: C) The Tick / Global Transition Semantics
+source: genesis-17\box_calculus.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- saturated
+- Ψ
+- δ
+excerpt: 'A boundary is **saturated** when further operator action would violate any
+  previous condition: Bound(Ψ)={Ψ:δ(Ψ)=0∨A(Ψ)=∅∨R(Ψ)=∞}.\\mathrm{Bound}(\\Psi) \=
+  \\{\\Psi: \\delta(\\Psi)=0 \\lor A(\\Psi)=\\e...'
+heading: '**6\. Boundary Saturation**'
+id: INTK-10182
+lines: 138-150
+location: intake/meta-genesis-meta-math-integration-papers::6-boundary-saturation::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

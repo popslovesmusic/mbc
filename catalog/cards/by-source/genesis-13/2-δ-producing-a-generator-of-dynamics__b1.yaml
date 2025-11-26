@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Lemma
+- One-Parameter
+- Parameter Group
+- derivation
+- Π
+- Φ
+- δ
+- σ
+excerpt: 'Let δ:D→D\\delta : \\mathcal{D} \\to \\mathcal{D}δ:D→D be the deviation
+  operator. Let AAA be a C\*-algebra representing Π-projected observables of the system.
+  Define a densely-defined *derivation*:'
+heading: '**2\. δ-Producing a Generator of Dynamics**'
+id: GEN13-2385
+lines: 1704-1722
+location: genesis-13/the-weight-of-light::2-δ-producing-a-generator-of-dynamics::b1
+source: genesis-13\The_Weight_of_Light.md

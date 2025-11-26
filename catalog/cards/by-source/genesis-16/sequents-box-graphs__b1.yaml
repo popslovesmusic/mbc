@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Box
+excerpt: 'A sequent: A1,A2,…,An⊢BA\_1, A\_2, \\dots, A\_n \\vdash BA1​,A2​,…,An​⊢B
+  corresponds to a Box graph:'
+heading: '**Sequents ↦ Box graphs**'
+id: GEN16-4138
+lines: 5112-5120
+location: genesis-16/untitled-document::5-the-full-embedding::sequents-box-graphs::b1
+parent_heading: '**⭐ 5\. The Full Embedding**'
+source: genesis-16\Untitled_document.md

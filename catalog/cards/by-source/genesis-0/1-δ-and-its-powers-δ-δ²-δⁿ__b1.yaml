@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Fractal Grading Law
+- δ
+excerpt: 'The nth-order deviation operator is: δ(n):=δ∘δ∘⋯∘δ⏟n times\\delta^{(n)}
+  := \\underbrace{\\delta \\circ \\delta \\circ \\cdots \\circ \\delta}\_{n\\ \\text{times}}δ(n):=n
+  timesδ∘δ∘⋯∘δ​​ and satisfies t...'
+heading: '**1\. δ and its Powers: δ, δ², δⁿ**'
+id: GEN0-325
+lines: 1362-1386
+location: genesis-0/why-the-first-action-is-necessary::1-δ-and-its-powers-δ-δ²-δⁿ::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md

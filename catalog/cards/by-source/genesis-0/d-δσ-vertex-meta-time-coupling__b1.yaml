@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Meta-Time
+- δ
+- η
+- σ
+excerpt: 'The δ–σ coupling is the mechanism that introduces **time directionality**.
+  L⊃ηm δ(m)(∂tσ)\\mathcal{L}\\supset \\eta\_{m}\\,\\delta^{(m)}(\\partial\_t \\sigma)L⊃ηm​δ(m)(∂t​σ)
+  Feynman rule:'
+heading: '**(D) δ–σ Vertex (Meta-Time Coupling)**'
+id: GEN0-007
+lines: 96-108
+location: genesis-0/feynman-rules-interaction-vertices::2-fundamental-δ-interaction-vertices::d-δσ-vertex-meta-time-coupling::b1
+parent_heading: '**2\. Fundamental δ-Interaction Vertices**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

@@ -1,0 +1,15 @@
+block_type: list
+concepts:
+- p-orbitals
+- s-orbitals
+- Π
+- Φ
+- δ
+excerpt: '* **s-orbitals** \= terminal Φ-objects under Π * **p-orbitals** \= first
+  nontrivial coequalizers of Φ-splitting * **d,f,\\ldots** \= higher left Kan extensions
+  along the δ-eigen tower'
+heading: '**9\. Categorical Meaning of Orbital Shapes**'
+id: GEN9-9105
+lines: 1166-1176
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::9-categorical-meaning-of-orbital-shapes::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md

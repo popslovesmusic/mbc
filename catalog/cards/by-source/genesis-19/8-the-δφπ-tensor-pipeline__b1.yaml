@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Adjacency Tensor
+- Functor Application
+- Π
+- Φ
+- δ
+excerpt: 'This formalizes semantics as: 1. **δ-Adjacency Tensor** 2. **Φ-Functor Application
+  (curvature routing)**'
+heading: '**8\. The δ→Φ→Π Tensor Pipeline**'
+id: GEN19-5847
+lines: 349-357
+location: genesis-19/mbc-4-1::8-the-δφπ-tensor-pipeline::b1
+source: genesis-19\MBC-4_1.md

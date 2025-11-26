@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Action
+- Meta-Curvature
+- Meta-Time
+- δ
+- τ
+excerpt: 'The HGM-EE is obtained from a variational principle on the **Meta-Action
+  (S[δ])**: `S[δ] = ∫ dτ dPPG [ R(δ) - ½ F(δ)² + L_matter(δ) ]` where:'
+heading: '**4. Derivation of the Equation**'
+id: INTK-10213
+lines: 48-63
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::4-derivation-of-the-equation::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

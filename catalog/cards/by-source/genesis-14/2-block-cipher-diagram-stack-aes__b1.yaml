@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Ciphertext Projection
+- Keyed Round Transform
+- Π
+- Φ
+- δ
+excerpt: '`δ-key (128/192/256-bit entropy)` `│` `▼`'
+heading: '**2\. BLOCK CIPHER DIAGRAM STACK (AES)**'
+id: GEN14-2848
+lines: 828-844
+location: genesis-14/meta-math-and-cryptography::2-block-cipher-diagram-stack-aes::b1
+source: genesis-14\Meta-Math_and_Cryptography.md

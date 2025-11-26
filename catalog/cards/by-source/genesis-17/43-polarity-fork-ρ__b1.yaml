@@ -1,0 +1,12 @@
+block_type: table
+concepts:
+- Σ
+- ρ
+excerpt: 'If your state space expects a single Σ output, define a boxed pair state:
+  Spair:=S×S S'
+heading: 4.3 Polarity Fork ρ
+id: GEN17-4169
+lines: 281-293
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::4-operator-specific-transition-rules::43-polarity-fork-ρ::b1
+parent_heading: 4\. Operator-Specific Transition Rules
+source: genesis-17\box_calculus.md

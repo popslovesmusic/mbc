@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- actual
+- left-exact
+- potential
+- Φ
+- δ
+- σ
+excerpt: 'MG is **potential**, scale-free, synthetic. σ-Topos is **actual**, scale-indexed,
+  sheaf-theoretic. We must verify that:'
+heading: '**2\. Compatibility Problem**'
+id: GEN2-6480
+lines: 75-88
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::2-compatibility-problem::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

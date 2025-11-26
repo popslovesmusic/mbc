@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Corollary
+- Ψ
+- δ
+excerpt: '**No operator is defined on Ψ0\\Psi\_0Ψ0​.** Dom⁡(O)∩{Ψ0}=∅\\operatorname{Dom}(\\mathcal{O})
+  \\cap \\{\\Psi\_0\\} \= \\varnothingDom(O)∩{Ψ0​}=∅ for every operator O\\mathcal{O}O.'
+heading: '**Axiom 1 — Zero-State Exclusion**'
+id: INTK-9649
+lines: 14-28
+location: intake/axioms-geometry::axiom-1-zero-state-exclusion::b1
+source: intake\Axioms-geometry.md

@@ -1,0 +1,21 @@
+block_type: paragraph
+concepts:
+- Box
+- Fibration Condition
+- Modal Structure
+- Orbital Extensions
+- Orbital Interpretation
+- Tri-Unity
+- Unity Naturality
+- Π
+- Φ
+- δ
+excerpt: 'The structure: (S,P,δ,Φ,Π,□δ)(\\mathcal{S}, \\mathbb{P}, \\delta, \\Phi,
+  \\Pi, \\Box\_\\delta)(S,P,δ,Φ,Π,□δ​) forms a **Lawvere hyperdoctrine with modal
+  structure**, satisfying:'
+heading: '**Theorem (Lawvere Hyperdoctrine of IGSOA δ-Geometry)**'
+id: GEN9-9118
+lines: 1430-1454
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::8-the-δ-geometry-hyperdoctrine-theorem::theorem-lawvere-hyperdoctrine-of-igsoa-δ-geometry::b1
+parent_heading: '**8\. The δ-Geometry Hyperdoctrine Theorem**'
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md

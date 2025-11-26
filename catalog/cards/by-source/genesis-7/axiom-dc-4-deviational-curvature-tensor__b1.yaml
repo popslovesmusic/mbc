@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Γ
+- δ
+excerpt: 'The δ-curvature tensor is: Rijklδ=∂kΓijlδ−∂lΓijkδ+ΓimsδΓsjlδ−ΓjmsδΓsilδ.R^\\delta\_{ijkl}
+  \= \\partial\_k \\Gamma^\\delta\_{ijl} \- \\partial\_l \\Gamma^\\delta\_{ijk} \+
+  \\Gamma^\\delta\_{ims}\\Gamma...'
+heading: '**Axiom DC-4 — Deviational Curvature Tensor**'
+id: GEN7-8661
+lines: 566-574
+location: genesis-7/why-curvature-gives-gravity::ii-curvature-axioms::axiom-dc-4-deviational-curvature-tensor::b1
+parent_heading: '**II. CURVATURE AXIOMS**'
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

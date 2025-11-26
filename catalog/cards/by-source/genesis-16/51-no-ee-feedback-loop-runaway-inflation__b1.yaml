@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- ρ
+excerpt: 'E→E edge is illegal unless interrupted\\boxed{ E \\to E\\ \\text{edge is
+  illegal unless interrupted} }E→E edge is illegal unless interrupted​ Formal: ¬∃
+  path i→j→k:Op(i)=E, Op(j)=E\\neg\\exists\\ \\te...'
+heading: '**5.1 No E→E feedback loop (runaway inflation)**'
+id: GEN16-3840
+lines: 1350-1362
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::5-forbidden-local-patterns-rejection-rules::51-no-ee-feedback-loop-runaway-inflation::b1
+parent_heading: '**5\. Forbidden Local Patterns (Rejection Rules)**'
+source: genesis-16\Untitled_document.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Box
+- Π
+excerpt: 'For any Box **Bᵢ**, construct: **CSOI(Bᵢ) \= { Bⱼ | Π(Bᵢ, Bⱼ) or Π(Bᵢ, Bₖ)∘Π(Bₖ,
+  Bⱼ) … }** This is the transitive closure of Π.'
+heading: '**4\. The Π-graph defines the Causal Sphere of Influence.**'
+id: GEN17-4962
+lines: 1196-1209
+location: genesis-17/key-points::proof-sketch-monistic-structural-proof::4-the-π-graph-defines-the-causal-sphere-of-influence::b1
+parent_heading: '**Proof Sketch (Monistic Structural Proof).**'
+source: genesis-17\Key_Points.md

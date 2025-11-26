@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Box
+- Γ
+- Σ
+- Ω
+- μ
+excerpt: 'Given a Box object B=⟨Σ,Γ,Δ,Ω⟩B=\\langle\\Sigma,\\Gamma,\\Delta,\\Omega\\rangleB=⟨Σ,Γ,Δ,Ω⟩,
+  G(B)=MBG(B)=M\_BG(B)=MB​ with semantic carrier:'
+heading: '**On Objects**'
+id: GEN16-3992
+lines: 3167-3177
+location: genesis-16/untitled-document::4-define-the-functor-gbcmmg-mathbfbcto-mathbfmmgbcmm::on-objects::b1
+parent_heading: '**4\. Define the Functor G:BC→MMG: \\mathbf{BC}\\to \\mathbf{MM}G:BC→MM**'
+source: genesis-16\Untitled_document.md

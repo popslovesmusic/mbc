@@ -1,0 +1,18 @@
+block_type: list
+concepts:
+- Adjacency Preservation
+- Curvature Preservation
+- Harmonic Preservation
+- Order Preservation
+- Π
+- δ
+- λ
+excerpt: 1. **Order Preservation** λi\<λj⇒Π(ϕi)\<Π(ϕj).\\lambda\_i \< \\lambda\_j
+  \\quad\\Rightarrow\\quad \\Pi(\\phi\_i) \< \\Pi(\\phi\_j).λi​\<λj​⇒Π(ϕi​)\<Π(ϕj​).
+  2. **Adjacency Preservation**
+heading: '**Functorial Preservation Laws**'
+id: GEN12-1607
+lines: 1180-1200
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::36-π-as-a-functor-not-an-operator::functorial-preservation-laws::b1
+parent_heading: '**3.6 Π as a Functor (Not an Operator)**'
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md

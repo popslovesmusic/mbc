@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- η
+excerpt: 'Consider U(Lf)∘ηX:X→U(LX′).U(Lf)\\circ \\eta\_X : X \\to U(LX'').U(Lf)∘ηX​:X→U(LX′).
+  Apply ΦX,LX′−1\\Phi^{-1}\_{X,LX''}ΦX,LX′−1​:'
+heading: '**3.1 Left side under Φ−1\\Phi^{-1}Φ−1**'
+id: GEN5-8005
+lines: 991-1015
+location: genesis-5/formal-proof-of-the-adjoint-triple::7-coda-unity-does-not-mean-simplicity::3-proof-of-naturality::31-left-side-under-φ1phi-1φ1::b1
+parent_heading: '**3\. Proof of naturality**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

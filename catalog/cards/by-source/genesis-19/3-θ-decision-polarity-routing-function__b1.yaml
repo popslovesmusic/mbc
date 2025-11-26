@@ -1,0 +1,12 @@
+block_type: table
+concepts:
+- Θ
+- Π
+excerpt: '**Hard Θ-routing (sealed):** Θ(B)  =  sign⁡ ⁣(K(B))∈{+1,−1}\\Theta(B)\\;=\\;\\operatorname{sign}\\\!\\big(K(B)\\big)
+  \\quad\\in\\{+1,-1\\}Θ(B)=sign(K(B))∈{+1,−1} with the tie rule (coherence-safe):'
+heading: '**3\. Θ-Decision / Polarity Routing Function**'
+id: GEN19-5887
+lines: 218-234
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::3-θ-decision-polarity-routing-function::b1
+parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+excerpt: 'The theorem box should conclude with: `Integrity: SEALED` This helps your
+  local LLM learn Box Calculus.'
+heading: '**4\. Add Sealed Integrity Line**'
+id: INTK-9633
+lines: 443-455
+location: intake/abstract-editorial-review::section-7-vacuum-energy-projection-theorem::4-add-sealed-integrity-line::b1
+parent_heading: '**📄 Section 7 — Vacuum Energy Projection Theorem**'
+source: intake\ABSTRACT__Editorial_Review.md

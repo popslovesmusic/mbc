@@ -1,0 +1,19 @@
+block_type: paragraph
+concepts:
+- Adjacency Preservation
+- Commutator Preservation
+- Curvature Preservation
+- Full Faithfulness
+- Local Patches
+- Meta-Math
+- Φ
+- δ
+excerpt: 'There exists a faithful, curvature-preserving functor ι:Gδ↪M\\iota : \\mathcal{G}\_{\\delta}
+  \\hookrightarrow \\mathcal{M}ι:Gδ​↪M from the category of δ-geometric objects into
+  the Meta-Math category s...'
+heading: '**Lemma (Meta-Math / δ-Geometry Compatibility)**'
+id: GEN3-7555
+lines: 965-998
+location: genesis-3/the-tri-unity-theorem::ii-statement-of-the-lemma::lemma-meta-math-δ-geometry-compatibility::b1
+parent_heading: '**II. Statement of the Lemma**'
+source: genesis-3\The_Tri-Unity_Theorem.md

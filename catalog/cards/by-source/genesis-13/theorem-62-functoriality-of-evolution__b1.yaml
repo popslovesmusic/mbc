@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: Evol(1X)=1Evol(X),Evol(g∘f)=Evol(g)∘Evol(f).\\mathcal{E}vol(\\mathbb{1}\_X)=\\mathbb{1}\_{\\mathcal{E}vol(X)},
+  \\quad \\mathcal{E}vol(g\\circ f)=\\mathcal{E}vol(g)\\circ \\mathcal{E}vol(f).Evol(1X​)=1...
+heading: '**Theorem 6.2 (Functoriality of Evolution).**'
+id: GEN13-2636
+lines: 2534-2540
+location: genesis-13/what-biology-is-in-meta-genesis::6-evolutionary-functor-bioenergetics-population-trajectories::theorem-62-functoriality-of-evolution::b1
+parent_heading: '**6\. Evolutionary Functor: Bioenergetics → Population Trajectories**'
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

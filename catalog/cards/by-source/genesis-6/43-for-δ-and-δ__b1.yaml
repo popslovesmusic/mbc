@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- bounded
+- Φ
+- δ
+excerpt: 'These are unbounded, but aaa must be in Aδ\\mathcal A\_\\deltaAδ​, not DδD\_\\deltaDδ​;
+  the commutator condition is: For each bounded algebra element aaa, the commutator
+  \[Dδ,a\]\[D\_\\delta,a\]\[Dδ​,...'
+heading: '**4.3 For δ and δ†**'
+id: GEN6-8404
+lines: 614-642
+location: genesis-6/the-harmonic-spectral-triple::4-boundedness-of-commutators-dδad-deltaadδa::43-for-δ-and-δ::b1
+parent_heading: '**4\. Boundedness of commutators \[Dδ,a\]\[D\_\\delta,a\]\[Dδ​,a\]**'
+source: genesis-6\The_-Harmonic_Spectral_Triple.md

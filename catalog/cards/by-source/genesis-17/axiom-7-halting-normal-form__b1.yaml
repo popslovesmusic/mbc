@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Π
+- Σ
+excerpt: 'A derivation halts when it reaches the ground-state projector induced by
+  𝓕: ∃n:Σ(n)=P0Σ(n) ∃n:Σ'
+heading: 🔷 AXIOM 7 – Halting / Normal Form
+id: GEN17-4783
+lines: 9376-9394
+location: genesis-17/box-calculus::axiom-7-halting-normal-form::b1
+source: genesis-17\box_calculus.md

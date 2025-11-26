@@ -1,0 +1,572 @@
+{
+  "source_count": 81,
+  "sources": [
+    {
+      "path": "HGG-\\genesis-0\\-Feynman_Rules__Interaction_Vertices.md",
+      "checksum": "c98819fdba88e57701d83debffb91a1dd2471b2b278ea7b8a9b7edbbdab0cc39",
+      "size_bytes": 83099,
+      "line_count": 2325,
+      "relative_path": "genesis-0\\-Feynman_Rules__Interaction_Vertices.md"
+    },
+    {
+      "path": "HGG-\\genesis-0\\Tri-Unity_Theorem_Equivalence_of___.md",
+      "checksum": "edb00f93e044db7f0af11f24d52c9bc53fe68cce80347a38a9b454d9857b06a9",
+      "size_bytes": 46574,
+      "line_count": 1513,
+      "relative_path": "genesis-0\\Tri-Unity_Theorem_Equivalence_of___.md"
+    },
+    {
+      "path": "HGG-\\genesis-0\\Why_the_First_Action_Is_Necessary.md",
+      "checksum": "cf52a0a1c2f919399a61667fdff138c8b99a1f1672a54b08d3f0b660c870eedf",
+      "size_bytes": 50683,
+      "line_count": 1924,
+      "relative_path": "genesis-0\\Why_the_First_Action_Is_Necessary.md"
+    },
+    {
+      "path": "HGG-\\genesis-1\\THE_FIRST_GEOMETRY.md",
+      "checksum": "bbf422ab16fab45c5d542f4e9c972924e58a152294e4c14590a63d102c85163b",
+      "size_bytes": 32526,
+      "line_count": 1021,
+      "relative_path": "genesis-1\\THE_FIRST_GEOMETRY.md"
+    },
+    {
+      "path": "HGG-\\genesis-1\\THE_FOUNDATION_LAYER.md",
+      "checksum": "0bf53b5e5c889121d3d3bebd417a6ef47d877078b1cccc79d474c92a3255e211",
+      "size_bytes": 45817,
+      "line_count": 1443,
+      "relative_path": "genesis-1\\THE_FOUNDATION_LAYER.md"
+    },
+    {
+      "path": "HGG-\\genesis-1\\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md",
+      "checksum": "a7a11721c04e8b23005aed889f870f8627c5c0e6a1a350d4adf0bfb303926eba",
+      "size_bytes": 54320,
+      "line_count": 1987,
+      "relative_path": "genesis-1\\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md"
+    },
+    {
+      "path": "HGG-\\genesis-10\\How_Stillness_Becomes_Solid_.md",
+      "checksum": "004377466e17a5621ca5fdec7ef7971265c75761e80aa601ead8fc92157c57a9",
+      "size_bytes": 38069,
+      "line_count": 984,
+      "relative_path": "genesis-10\\How_Stillness_Becomes_Solid_.md"
+    },
+    {
+      "path": "HGG-\\genesis-10\\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md",
+      "checksum": "880612150797bafa1f363d2c936c92768895cd2777a09c3ee281fd34f8d99f3b",
+      "size_bytes": 91027,
+      "line_count": 3218,
+      "relative_path": "genesis-10\\Meta-Genesis_as_the_Ontological_Ground_of_the_Second_Law_.md"
+    },
+    {
+      "path": "HGG-\\genesis-10\\research_overview.md",
+      "checksum": "a2a19d47dc2ebd8777d2e65444bc56cbee9bb033df5aa9d992c60dcb43786d4d",
+      "size_bytes": 29199,
+      "line_count": 310,
+      "relative_path": "genesis-10\\research_overview.md"
+    },
+    {
+      "path": "HGG-\\genesis-11\\How_-curvature_could_generate_an_Axis.md",
+      "checksum": "f5e05fa35dac37281910e03b5b1effb1511221b0f5094b09557a7a61d65adcbc",
+      "size_bytes": 56398,
+      "line_count": 1534,
+      "relative_path": "genesis-11\\How_-curvature_could_generate_an_Axis.md"
+    },
+    {
+      "path": "HGG-\\genesis-11\\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md",
+      "checksum": "78c653c8875f82e72446eb9812f646c9cce369b5e1d1c3f5b682e3282bdc67e8",
+      "size_bytes": 56964,
+      "line_count": 1796,
+      "relative_path": "genesis-11\\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md"
+    },
+    {
+      "path": "HGG-\\genesis-11\\The_Adjacency_Wave_Equation.md",
+      "checksum": "ec05789cbbb3ebc2b24d057607a8bd41d62c7e99f5f4615a446f8c7f4d27feb2",
+      "size_bytes": 42560,
+      "line_count": 1201,
+      "relative_path": "genesis-11\\The_Adjacency_Wave_Equation.md"
+    },
+    {
+      "path": "HGG-\\genesis-12\\Chapter__The_CMB_Functoriality_Theorem.md",
+      "checksum": "23afe8620de88fc4675094426a8cd30e41af8f71cf07cd6ce9d40e248df86a2d",
+      "size_bytes": 76188,
+      "line_count": 2727,
+      "relative_path": "genesis-12\\Chapter__The_CMB_Functoriality_Theorem.md"
+    },
+    {
+      "path": "HGG-\\genesis-12\\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md",
+      "checksum": "46c8f24ff9cb6981ef89abbb8996d9ddeae89130529446a3fbdbc29c5b822f91",
+      "size_bytes": 75698,
+      "line_count": 2691,
+      "relative_path": "genesis-12\\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md"
+    },
+    {
+      "path": "HGG-\\genesis-12\\Untitled_document.md",
+      "checksum": "c6f008ef27625dc8559465844e13df21cd881c3ac5d59f7b1b681d19fa585b94",
+      "size_bytes": 131804,
+      "line_count": 4443,
+      "relative_path": "genesis-12\\Untitled_document.md"
+    },
+    {
+      "path": "HGG-\\genesis-13\\Meta-Math__Nuclear_Physics.md",
+      "checksum": "51aea311de22f32229fe2855eb1e63b50819223c804b8c97e880287f146708b6",
+      "size_bytes": 86456,
+      "line_count": 3142,
+      "relative_path": "genesis-13\\Meta-Math__Nuclear_Physics.md"
+    },
+    {
+      "path": "HGG-\\genesis-13\\The_Weight_of_Light.md",
+      "checksum": "a3364852c975ba170b2826a4859a676ba5468e8c03a842e737c9b067018767c2",
+      "size_bytes": 91830,
+      "line_count": 2744,
+      "relative_path": "genesis-13\\The_Weight_of_Light.md"
+    },
+    {
+      "path": "HGG-\\genesis-13\\What_Biology_Is_in_Meta-Genesis.md",
+      "checksum": "8649d0f4c9101e70ae2e640f4de1b71595661714550329b6af177ada10f0c3a6",
+      "size_bytes": 76265,
+      "line_count": 2634,
+      "relative_path": "genesis-13\\What_Biology_Is_in_Meta-Genesis.md"
+    },
+    {
+      "path": "HGG-\\genesis-14\\Inflation__Structure_Formation.md",
+      "checksum": "c063849a48963fc082eb3601e33ae6a9a8c8463f7b6b71e867e5d0235e8f20b4",
+      "size_bytes": 74157,
+      "line_count": 2396,
+      "relative_path": "genesis-14\\Inflation__Structure_Formation.md"
+    },
+    {
+      "path": "HGG-\\genesis-14\\Meta-Math_and_Cryptography.md",
+      "checksum": "723dd65d84cdaa9d00b0493406e048d1fae566a69c3f888055c5f2b6ed85deab",
+      "size_bytes": 49357,
+      "line_count": 1624,
+      "relative_path": "genesis-14\\Meta-Math_and_Cryptography.md"
+    },
+    {
+      "path": "HGG-\\genesis-14\\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md",
+      "checksum": "afa617887bc1bf61abbf7c07816f56eb0aa4d9901d651c33b8727d438c09b640",
+      "size_bytes": 69497,
+      "line_count": 2305,
+      "relative_path": "genesis-14\\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md"
+    },
+    {
+      "path": "HGG-\\genesis-15\\The_Mass__Curvature_Projection_Theorem_.md",
+      "checksum": "10ebb4a8773c23df4eadca73c2ec7951dbdf8ed7568e592a62768f0fa981e030",
+      "size_bytes": 87828,
+      "line_count": 2657,
+      "relative_path": "genesis-15\\The_Mass__Curvature_Projection_Theorem_.md"
+    },
+    {
+      "path": "HGG-\\genesis-15\\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md",
+      "checksum": "1187d747b13a71840bed5494bc3d2289ce650df137d8f701a3dc7dc82178d6d4",
+      "size_bytes": 55028,
+      "line_count": 1791,
+      "relative_path": "genesis-15\\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md"
+    },
+    {
+      "path": "HGG-\\genesis-15\\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md",
+      "checksum": "fa6ae3a350b5e216c8aae9f918d5790627a673fb4f5102fbf59db3dfbb8e2554",
+      "size_bytes": 56918,
+      "line_count": 1986,
+      "relative_path": "genesis-15\\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md"
+    },
+    {
+      "path": "HGG-\\genesis-16\\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED_1.md",
+      "checksum": "d3e57961574e5ebe819bfacd586cc72ecf8e6e1e7cfd609efee7274bb09e8ecf",
+      "size_bytes": 93783,
+      "line_count": 2166,
+      "relative_path": "genesis-16\\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED_1.md"
+    },
+    {
+      "path": "HGG-\\genesis-16\\Quantum_Measurement_in_IGSOA_vs.md",
+      "checksum": "8d73af90948385f0d69d05e63ef00fb98018376c6fffc8a5c135bcf76de16334",
+      "size_bytes": 47495,
+      "line_count": 782,
+      "relative_path": "genesis-16\\Quantum_Measurement_in_IGSOA_vs.md"
+    },
+    {
+      "path": "HGG-\\genesis-16\\Untitled_document.md",
+      "checksum": "6e5e49f7a26057b7963f0588ac8a67c938547683f96f59eda43a866d1ebba3a0",
+      "size_bytes": 179273,
+      "line_count": 5203,
+      "relative_path": "genesis-16\\Untitled_document.md"
+    },
+    {
+      "path": "HGG-\\genesis-17\\box_calculus.md",
+      "checksum": "444474235753c19350a24c71fcac818f20004f623243967b305f3893c3fe664e",
+      "size_bytes": 255872,
+      "line_count": 10733,
+      "relative_path": "genesis-17\\box_calculus.md"
+    },
+    {
+      "path": "HGG-\\genesis-17\\Key_Points.md",
+      "checksum": "838687807597c1f074317583c16f0ca46fdd390040cca6509cf9e0a8442b97a9",
+      "size_bytes": 47059,
+      "line_count": 1683,
+      "relative_path": "genesis-17\\Key_Points.md"
+    },
+    {
+      "path": "HGG-\\genesis-17\\MBC_Schema_3.md",
+      "checksum": "1035ebdf280211634ae73569264ed4c507ead07fac975c27561238f8ae814f14",
+      "size_bytes": 63766,
+      "line_count": 2170,
+      "relative_path": "genesis-17\\MBC_Schema_3.md"
+    },
+    {
+      "path": "HGG-\\genesis-18\\Chapter__How_Expansion_Happened_Before_Time_Existed.md",
+      "checksum": "b5b93c3dfcfbfa513eeefae93dac9d2c676c5418d00a46e9345ce230b2d858af",
+      "size_bytes": 105022,
+      "line_count": 2814,
+      "relative_path": "genesis-18\\Chapter__How_Expansion_Happened_Before_Time_Existed.md"
+    },
+    {
+      "path": "HGG-\\genesis-18\\MBC-4.md",
+      "checksum": "3e26e9da5ac00560840a6fae6f1fde0ebb0091dd7eaf1f825eedd53ed02296c0",
+      "size_bytes": 67720,
+      "line_count": 2548,
+      "relative_path": "genesis-18\\MBC-4.md"
+    },
+    {
+      "path": "HGG-\\genesis-18\\SEALED_AXIOM_BOX.md",
+      "checksum": "35b7d61b75efd68fb9b0b41a575a8d715f9697a174605b9d6cd0d0717689c2c5",
+      "size_bytes": 58677,
+      "line_count": 2081,
+      "relative_path": "genesis-18\\SEALED_AXIOM_BOX.md"
+    },
+    {
+      "path": "HGG-\\genesis-19\\MBC-4_1.md",
+      "checksum": "43951f128389d99b63fef94d2eb565473d52e76cfd8869161afd903eed01a39e",
+      "size_bytes": 22501,
+      "line_count": 598,
+      "relative_path": "genesis-19\\MBC-4_1.md"
+    },
+    {
+      "path": "HGG-\\genesis-19\\The_Polarity_Algebra_Axiom_Box_sealed.md",
+      "checksum": "0ad4344e577680a62327d664ba8d9964e36b8b03a818ead28c4510156cba5669",
+      "size_bytes": 64523,
+      "line_count": 1877,
+      "relative_path": "genesis-19\\The_Polarity_Algebra_Axiom_Box_sealed.md"
+    },
+    {
+      "path": "HGG-\\genesis-19\\What_You_Can_Do_With_MBC_Complete_Capability_Map.md",
+      "checksum": "f4ef8328c6f64da716a0e5f360da9235738061d34639b954815ce02f6ebdf3c6",
+      "size_bytes": 2932812,
+      "line_count": 2610,
+      "relative_path": "genesis-19\\What_You_Can_Do_With_MBC_Complete_Capability_Map.md"
+    },
+    {
+      "path": "HGG-\\genesis-2\\Axioms_for_the_Category_Genesis.md",
+      "checksum": "822839395dd85307e82938715b5249f57a282e47171958e3df89ac2844445e0c",
+      "size_bytes": 31140,
+      "line_count": 1197,
+      "relative_path": "genesis-2\\Axioms_for_the_Category_Genesis.md"
+    },
+    {
+      "path": "HGG-\\genesis-2\\Axioms_of_-Geometry_Topos-Compatible.md",
+      "checksum": "8ef77a0efdde3d539327276bef51df53c7647c6d878586a2c430509dee2e5e31",
+      "size_bytes": 55763,
+      "line_count": 2018,
+      "relative_path": "genesis-2\\Axioms_of_-Geometry_Topos-Compatible.md"
+    },
+    {
+      "path": "HGG-\\genesis-2\\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md",
+      "checksum": "4d17c9a1d478079e498ee288c2cf11afe2f7e3ccef7b587718e516a82c882423",
+      "size_bytes": 41912,
+      "line_count": 1490,
+      "relative_path": "genesis-2\\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md"
+    },
+    {
+      "path": "HGG-\\genesis-20\\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md",
+      "checksum": "d49366a1bb4043b5ac4f93b5f956710d94d2a96aef91a643699c963b19b409e2",
+      "size_bytes": 65655,
+      "line_count": 1198,
+      "relative_path": "genesis-20\\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md"
+    },
+    {
+      "path": "HGG-\\genesis-20\\MBC_40_Documentaitio-1.md",
+      "checksum": "6f3f1abd7dedaafccf071fb10cb7b343ba34f11a97856a9e27958587df18632a",
+      "size_bytes": 216889,
+      "line_count": 8285,
+      "relative_path": "genesis-20\\MBC_40_Documentaitio-1.md"
+    },
+    {
+      "path": "HGG-\\genesis-20\\universal_splitpy.md",
+      "checksum": "f0baa5f91e57bf8e9e1644064818f9fedc50a5cbc553a2a05f7b1cdf978b4983",
+      "size_bytes": 5632,
+      "line_count": 172,
+      "relative_path": "genesis-20\\universal_splitpy.md"
+    },
+    {
+      "path": "HGG-\\genesis-3\\metagenesis.md",
+      "checksum": "5c6beb24013e180a787b0d31dfdc497b99a4036f23deece91f13ebe5471ba20f",
+      "size_bytes": 41013,
+      "line_count": 1269,
+      "relative_path": "genesis-3\\metagenesis.md"
+    },
+    {
+      "path": "HGG-\\genesis-3\\THE_Physics_BOX_DIAGRAM.md",
+      "checksum": "98157f20cb5b0f78d7ccbd396dc9aedd50940ad7d602e30f584c1555bb746341",
+      "size_bytes": 47758,
+      "line_count": 1597,
+      "relative_path": "genesis-3\\THE_Physics_BOX_DIAGRAM.md"
+    },
+    {
+      "path": "HGG-\\genesis-3\\The_Tri-Unity_Theorem.md",
+      "checksum": "5143b42758a8c66590baee09a7bca99e7d8e0f44612981a5f1cf71dcbec7fdb9",
+      "size_bytes": 41634,
+      "line_count": 1416,
+      "relative_path": "genesis-3\\The_Tri-Unity_Theorem.md"
+    },
+    {
+      "path": "HGG-\\genesis-4\\META-PHYSICS_AXIOM_BOX.md",
+      "checksum": "c9194a2fd2c52b6324fd31d302dd0ad6a21d1abfaba0e9086d18712fc811fee7",
+      "size_bytes": 49554,
+      "line_count": 1587,
+      "relative_path": "genesis-4\\META-PHYSICS_AXIOM_BOX.md"
+    },
+    {
+      "path": "HGG-\\genesis-4\\The_Adjoint_Triple.md",
+      "checksum": "5d37af24d687575eb04186125de589dee9d34d8f0dc690e9784b04be2cbb9ef6",
+      "size_bytes": 49073,
+      "line_count": 1710,
+      "relative_path": "genesis-4\\The_Adjoint_Triple.md"
+    },
+    {
+      "path": "HGG-\\genesis-4\\The_First_Adjacency.md",
+      "checksum": "3207cdfd3089a945bd5838e075db2c6f3b5f329b2841ada57df01c1d432cb299",
+      "size_bytes": 59290,
+      "line_count": 2152,
+      "relative_path": "genesis-4\\The_First_Adjacency.md"
+    },
+    {
+      "path": "HGG-\\genesis-5\\Formal_Proof_of_the_Adjoint_Triple.md",
+      "checksum": "13ba256d9e575263dea6cf1ba082426a41947558cafc2b694225d8be3c6fb59a",
+      "size_bytes": 74428,
+      "line_count": 2180,
+      "relative_path": "genesis-5\\Formal_Proof_of_the_Adjoint_Triple.md"
+    },
+    {
+      "path": "HGG-\\genesis-5\\Meta-Einstein_Axiom_Box_-language_sealed.md",
+      "checksum": "938a949b79f34a54d0e922af2bfa35a88d21646edd1d6a2b0b2fcca33e9af322",
+      "size_bytes": 25022,
+      "line_count": 742,
+      "relative_path": "genesis-5\\Meta-Einstein_Axiom_Box_-language_sealed.md"
+    },
+    {
+      "path": "HGG-\\genesis-5\\THE_GA-8__META-EINSTEIN_THEOREM.md",
+      "checksum": "2b0a7fef79a759479705b6ce97debe56bbc1702919ac0977a07d2e369f71f104",
+      "size_bytes": 35720,
+      "line_count": 1150,
+      "relative_path": "genesis-5\\THE_GA-8__META-EINSTEIN_THEOREM.md"
+    },
+    {
+      "path": "HGG-\\genesis-6\\-Harmonics__Atomic_Orbitals.md",
+      "checksum": "28878c5479c07a6de1ad98c4c12ee2bb1ae1b300b5981016b5280d5388e6d051",
+      "size_bytes": 29757,
+      "line_count": 714,
+      "relative_path": "genesis-6\\-Harmonics__Atomic_Orbitals.md"
+    },
+    {
+      "path": "HGG-\\genesis-6\\Spectral_Triple_Axiom_Box_Sealed_Version.md",
+      "checksum": "4a3c9cf56e98c82c4ef5dc5c9d283eb85fb1212f536c2c5271ff672597d2392f",
+      "size_bytes": 56604,
+      "line_count": 1538,
+      "relative_path": "genesis-6\\Spectral_Triple_Axiom_Box_Sealed_Version.md"
+    },
+    {
+      "path": "HGG-\\genesis-6\\The_-Harmonic_Spectral_Triple.md",
+      "checksum": "66d5896fadec156e6919272a666ecaed6b9c5d0750cbcc4fa251a91b8f61a033",
+      "size_bytes": 46272,
+      "line_count": 1277,
+      "relative_path": "genesis-6\\The_-Harmonic_Spectral_Triple.md"
+    },
+    {
+      "path": "HGG-\\genesis-7\\THE_COMPLETE_-EFT_LAGRangian.md",
+      "checksum": "d1c617f46d4fddb17239d18cdc6571e0d5e9654753ab8cdadea68e77a376c8e9",
+      "size_bytes": 56607,
+      "line_count": 1713,
+      "relative_path": "genesis-7\\THE_COMPLETE_-EFT_LAGRangian.md"
+    },
+    {
+      "path": "HGG-\\genesis-7\\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md",
+      "checksum": "cdc9eaecce19decb26374daafeadd48729a2b7445e801690fe43d7b163f99326",
+      "size_bytes": 36365,
+      "line_count": 996,
+      "relative_path": "genesis-7\\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md"
+    },
+    {
+      "path": "HGG-\\genesis-7\\Why_-Curvature_Gives_Gravity.md",
+      "checksum": "ca4512612d1155863acb416e7693f7d680bc9a4dc9b57d1c6fb98a2ea2db1135",
+      "size_bytes": 45161,
+      "line_count": 1241,
+      "relative_path": "genesis-7\\Why_-Curvature_Gives_Gravity.md"
+    },
+    {
+      "path": "HGG-\\genesis-8\\Corollary__Einstein_Compatibility_via_.md",
+      "checksum": "e55140e33f8c720d0f713fd3db7e656ce471361bc4a8ed05ec287385ddf8a3f7",
+      "size_bytes": 39739,
+      "line_count": 1114,
+      "relative_path": "genesis-8\\Corollary__Einstein_Compatibility_via_.md"
+    },
+    {
+      "path": "HGG-\\genesis-8\\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md",
+      "checksum": "2fbd00de159abf8d69ffb5b3a1b4476a961c2a64dd48fbbd24d691556fc50e49",
+      "size_bytes": 69307,
+      "line_count": 2480,
+      "relative_path": "genesis-8\\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md"
+    },
+    {
+      "path": "HGG-\\genesis-8\\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md",
+      "checksum": "e93878b016dd3fdde060ab222651f83fd6b6378c7d17a93137e06a5605564e94",
+      "size_bytes": 46239,
+      "line_count": 1490,
+      "relative_path": "genesis-8\\Unified____Symmetric_Meta-Einstein__Chromatic_Mode_Law.md"
+    },
+    {
+      "path": "HGG-\\genesis-9\\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md",
+      "checksum": "d29c4816c26c8ab25037f53b40bdb778a1e06d79434148b61ba47c5167786d33",
+      "size_bytes": 87949,
+      "line_count": 2703,
+      "relative_path": "genesis-9\\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md"
+    },
+    {
+      "path": "HGG-\\genesis-9\\Does_Meta-Genesis_Indicate_New_Physics.md",
+      "checksum": "cfbbb298758416e4e5d1faef73baa2305591dda36291222dee92f24813a6ab80",
+      "size_bytes": 47261,
+      "line_count": 1791,
+      "relative_path": "genesis-9\\Does_Meta-Genesis_Indicate_New_Physics.md"
+    },
+    {
+      "path": "HGG-\\genesis-9\\is_the_source_of_all_structure.md",
+      "checksum": "6d0d85738bd596007004d2fef7dc2210a4e45f7e4c7231d7141edb1728fdadc8",
+      "size_bytes": 49519,
+      "line_count": 1500,
+      "relative_path": "genesis-9\\is_the_source_of_all_structure.md"
+    },
+    {
+      "path": "HGG-\\genesis-9\\strong-force.md",
+      "checksum": "850ce709674c5edb5afa20d1ab2334b93639e5cb0e49b5f1b743d6115c342d3f",
+      "size_bytes": 83394,
+      "line_count": 2549,
+      "relative_path": "genesis-9\\strong-force.md"
+    },
+    {
+      "path": "HGG-\\intake\\ABSTRACT__Editorial_Review.md",
+      "checksum": "66084f29b4262f18daba33daf6963724a60faf78cf04d6a6fad2b155fc94f62a",
+      "size_bytes": 14445,
+      "line_count": 581,
+      "relative_path": "intake\\ABSTRACT__Editorial_Review.md"
+    },
+    {
+      "path": "HGG-\\intake\\Axioms-geometry.md",
+      "checksum": "b03cd5d79dcaf2b8ac11537ef77ec94d48eda144a364f876fd02985e18182238",
+      "size_bytes": 68364,
+      "line_count": 917,
+      "relative_path": "intake\\Axioms-geometry.md"
+    },
+    {
+      "path": "HGG-\\intake\\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md",
+      "checksum": "52a4f118d63221e74f9789f1ac2223c68da71f2b138d379a3c2510a43a75de0e",
+      "size_bytes": 7729,
+      "line_count": 164,
+      "relative_path": "intake\\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md"
+    },
+    {
+      "path": "HGG-\\intake\\Core_Insight___is_a_Projection_Artifact.md",
+      "checksum": "3a9ccba4cc18c0edd3c0f73c8124089e590d97baf3dc23194099c43333419ba7",
+      "size_bytes": 6202,
+      "line_count": 265,
+      "relative_path": "intake\\Core_Insight___is_a_Projection_Artifact.md"
+    },
+    {
+      "path": "HGG-\\intake\\MBC 4.0-2.md",
+      "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_bytes": 0,
+      "line_count": 1,
+      "relative_path": "intake\\MBC 4.0-2.md"
+    },
+    {
+      "path": "HGG-\\intake\\Meta-Genesis_Core_Papers_Foundations.md",
+      "checksum": "bda76aa86ab9139b558c0d576ffc3aa1faad288fdd34fe33b9cf0ca461ac7ff2",
+      "size_bytes": 51124,
+      "line_count": 1880,
+      "relative_path": "intake\\Meta-Genesis_Core_Papers_Foundations.md"
+    },
+    {
+      "path": "HGG-\\intake\\Meta-Genesis_Diagrammatic_Papers.md",
+      "checksum": "ee4816128058211bc6bcdef70c0062ee2b98f28b2dd512f614fb69d23aa18a4c",
+      "size_bytes": 23490,
+      "line_count": 741,
+      "relative_path": "intake\\Meta-Genesis_Diagrammatic_Papers.md"
+    },
+    {
+      "path": "HGG-\\intake\\Meta-Genesis_Mathematical_Papers.md",
+      "checksum": "ba2aedc11685d3d4bd21611fab00d56d155d049a1a4a11338ec96707a98fc62d",
+      "size_bytes": 40698,
+      "line_count": 1353,
+      "relative_path": "intake\\Meta-Genesis_Mathematical_Papers.md"
+    },
+    {
+      "path": "HGG-\\intake\\Meta-Genesis_Outreach__Narrative_Papers.md",
+      "checksum": "dc9458ec666d09ea62b037db4a360a7b71eec5cdc46ca915980551101ad9ee82",
+      "size_bytes": 22456,
+      "line_count": 937,
+      "relative_path": "intake\\Meta-Genesis_Outreach__Narrative_Papers.md"
+    },
+    {
+      "path": "HGG-\\intake\\Meta-Genesis_Physical_Interpretation_Papers.md",
+      "checksum": "d6b160fda2860c2a0d8c5f3bab3a6fec4527c9af0318a7b25ea247bc11f4c329",
+      "size_bytes": 31646,
+      "line_count": 1135,
+      "relative_path": "intake\\Meta-Genesis_Physical_Interpretation_Papers.md"
+    },
+    {
+      "path": "HGG-\\intake\\Meta-Genesis__Meta-Math_Integration_Papers.md",
+      "checksum": "16113138f759f4002ec534f60e75ebeacd89897917cb1176245a706b2dfbb551",
+      "size_bytes": 13742,
+      "line_count": 419,
+      "relative_path": "intake\\Meta-Genesis__Meta-Math_Integration_Papers.md"
+    },
+    {
+      "path": "HGG-\\intake\\Skip to content.md",
+      "checksum": "5293800c3b46c06614ccf19d3ac759efdc6e98a7f1ec441f766a6e4a72fcaa02",
+      "size_bytes": 67392,
+      "line_count": 4268,
+      "relative_path": "intake\\Skip to content.md"
+    },
+    {
+      "path": "HGG-\\intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md",
+      "checksum": "7f9fb86143845d7764a7d5206fae1f2f9f6261c95558dab41338c4e006530fbb",
+      "size_bytes": 127732,
+      "line_count": 2084,
+      "relative_path": "intake\\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md"
+    },
+    {
+      "path": "HGG-\\intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md",
+      "checksum": "5c658086165218d1ec8d13c10000511a874d432ed764094b3ed9f206686a9f0f",
+      "size_bytes": 172702,
+      "line_count": 4345,
+      "relative_path": "intake\\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md"
+    },
+    {
+      "path": "HGG-\\intake\\Volume_Structure_Gap_Analysis.md",
+      "checksum": "0fa670de004de4ad76cecf399028405029c77c337885861041a3132cef580b7a",
+      "size_bytes": 21823,
+      "line_count": 658,
+      "relative_path": "intake\\Volume_Structure_Gap_Analysis.md"
+    },
+    {
+      "path": "HGG-\\special\\specil.md",
+      "checksum": "915bad5fec64e798fd3528dcf51f3e82fbdd3f6cec008450ebce553956661b52",
+      "size_bytes": 195669,
+      "line_count": 8932,
+      "relative_path": "special\\specil.md"
+    },
+    {
+      "path": "HGG-\\special\\universal_splitpy.md",
+      "checksum": "f0baa5f91e57bf8e9e1644064818f9fedc50a5cbc553a2a05f7b1cdf978b4983",
+      "size_bytes": 5632,
+      "line_count": 172,
+      "relative_path": "special\\universal_splitpy.md"
+    }
+  ]
+}

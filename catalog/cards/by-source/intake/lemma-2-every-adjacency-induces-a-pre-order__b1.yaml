@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Define: X⪯Y  ⟺  (X=Y) or (X∼Y).X \\preceq Y \\iff (X=Y)\\text{ or }(X\\sim
+  Y).X⪯Y⟺(X=Y) or (X∼Y). Reflexive:'
+heading: '**Lemma 2 — Every adjacency induces a pre-order.**'
+id: INTK-10002
+lines: 924-940
+location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-2-every-adjacency-induces-a-pre-order::b1
+parent_heading: '**4\. Full Formal Proof**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

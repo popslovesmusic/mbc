@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Cosmic Microwave Background
+- Π
+- Φ
+- δ
+excerpt: For any Genesis object G∈GG \\in \\mathcal{G}G∈G, CMB(G)  =  (O∘Π∘Φ∘δ)(G)\\boxed{
+  \\mathrm{CMB}(G) \\;=\\; (\\mathfrak{O}\\circ \\Pi\\circ\\Phi\\circ\\delta)(G) }CMB(G)=(O∘Π∘Φ∘δ)(G)​
+  This composition ...
+heading: '**Theorem (sealed): CMB as the Π∘Φ∘δ Projection**'
+id: GEN11-1247
+lines: 131-139
+location: genesis-11/the-adjacency-wave-equation::the-δφπ-functor-projection-theorem-cmb-version::theorem-sealed-cmb-as-the-πφδ-projection::b1
+parent_heading: '**The δ→Φ→Π Functor Projection Theorem (CMB Version)**'
+source: genesis-11\The_Adjacency_Wave_Equation.md

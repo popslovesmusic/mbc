@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Box
+- Π
+- Φ
+- δ
+excerpt: CSOI=Π(BoxΦ),and so CSOI exists  ⟺  δ≠0.\\text{CSOI} \= \\Pi(\\mathbf{Box}\_\\Phi),
+  \\quad \\text{and so CSOI exists} \\iff \\delta\\neq 0.CSOI=Π(BoxΦ​),and so CSOI
+  exists⟺δ=0. ---
+heading: '**5\. CSOI exists only under δ**'
+id: GEN18-5293
+lines: 2093-2097
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::sealed-axiom-box-the-δ-genesis-axiom::sealed-consequences::5-csoi-exists-only-under-δ::b1
+parent_heading: '**Sealed Consequences**'
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md

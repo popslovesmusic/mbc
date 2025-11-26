@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: Gen→δDev↓↓Φ1Str→Φ2Ker↓↓ΠGal→EGalt\\begin{array}{ccc} \\mathsf{Gen} & \\xrightarrow{\\delta}
+  & \\mathsf{Dev} \\\\ \\downarrow & & \\downarrow\\Phi\_1 \\\\ \\mathsf{Str} & \\xrightarrow{\\Phi\_2}
+  & \\ma...
+heading: '**5.1 Formation Square**'
+id: GEN12-1999
+lines: 4397-4403
+location: genesis-12/untitled-document::5-commutative-diagrams::51-formation-square::b1
+parent_heading: '**5\. Commutative Diagrams**'
+source: genesis-12\Untitled_document.md

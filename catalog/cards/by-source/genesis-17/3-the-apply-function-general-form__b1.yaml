@@ -1,0 +1,15 @@
+block_type: table
+concepts:
+- Box
+- Box Calculus
+- Standard Formalism
+- Θ
+- Σ
+excerpt: 'Context extractor θ (shared across all ops): θ:A→Θ,θ(Adj)=(ΣˉN,wˉN,mˉN,κ)
+  θ:A→Θ,θ(Adj)=('
+heading: 3\. The Apply Function (General Form)
+id: GEN17-4165
+lines: 205-252
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::3-the-apply-function-general-form::b1
+parent_heading: Formal Transition Function for Box Calculus
+source: genesis-17\box_calculus.md

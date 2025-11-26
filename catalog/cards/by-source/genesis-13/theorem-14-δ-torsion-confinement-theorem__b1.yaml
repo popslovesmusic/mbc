@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- γ
+- δ
+excerpt: Let T≠0T \\neq 0T=0. Then for every δ-adjacency pair (x,y)(x,y)(x,y), there
+  exists a δ-flux-tube bundle Fxy={γ∣δ(γ) extremizes torsion}\\mathcal{F}\_{xy} \=
+  \\left\\{ \\gamma \\mid \\delta(\\gamma) \\...
+heading: '**Theorem 1.4 (δ-Torsion Confinement Theorem).**'
+id: GEN13-2063
+lines: 751-764
+location: genesis-13/meta-math-nuclear-physics::1-the-δ-layer-nuclear-pre-geometry::theorem-14-δ-torsion-confinement-theorem::b1
+parent_heading: '**1\. The δ-Layer: Nuclear Pre-Geometry**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

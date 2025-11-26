@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meta-Genesis__Meta-Math_Integration_Papers.md</title>
+    <style>
+        body {
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+            margin: 0;
+            padding: 20px;
+            background: #1e1e1e;
+            color: #d4d4d4;
+        }
+        .header {
+            background: #2d2d30;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .header h1 {
+            margin: 0 0 5px 0;
+            font-size: 18px;
+            color: #4ec9b0;
+        }
+        .header .path {
+            color: #858585;
+            font-size: 12px;
+        }
+        .source-content {
+            background: #1e1e1e;
+            border: 1px solid #3e3e42;
+            border-radius: 5px;
+            overflow: auto;
+        }
+        .line {
+            display: flex;
+            line-height: 1.6;
+            min-height: 20px;
+        }
+        .line:target {
+            background: #264f78;
+        }
+        .line:hover {
+            background: #2a2d2e;
+        }
+        .line-number {
+            flex-shrink: 0;
+            width: 60px;
+            padding: 2px 10px;
+            text-align: right;
+            color: #858585;
+            border-right: 1px solid #3e3e42;
+            user-select: none;
+        }
+        .line-content {
+            flex: 1;
+            padding: 2px 15px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        /* Markdown syntax highlighting */
+        .heading { color: #4ec9b0; font-weight: bold; }
+        .bold { color: #dcdcaa; font-weight: bold; }
+        .italic { color: #ce9178; font-style: italic; }
+        .code { color: #ce9178; background: #2d2d30; padding: 2px 4px; }
+        .link { color: #3794ff; }
+        .list-marker { color: #569cd6; }
+        .greek { color: #c586c0; }
+        .math { color: #4fc1ff; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Meta-Genesis__Meta-Math_Integration_Papers.md</h1>
+        <div class="path">intake\Meta-Genesis__Meta-Math_Integration_Papers.md</div>
+    </div>
+    <div class="source-content">
+        <div class="line" id="L1"><span class="line-number">1</span><span class="line-content"><span class="heading"># **Boundary Conditions for Operators**</span></span></div>
+<div class="line" id="L2"><span class="line-number">2</span><span class="line-content"></span></div>
+<div class="line" id="L3"><span class="line-number">3</span><span class="line-content"><span class="heading">### ***(IGSOA / Meta-Math Canonical Version)***</span></span></div>
+<div class="line" id="L4"><span class="line-number">4</span><span class="line-content"></span></div>
+<div class="line" id="L5"><span class="line-number">5</span><span class="line-content">Operators in the IGSOA framework do <span class="bold">*<span class="italic">*not*</span><span class="italic">*</span> act freely on all states. They require the correct <span class="bold">*</span><span class="italic">*ontological domain*</span><span class="italic">*</span>, <span class="bold">*</span><span class="italic">*deviation gradient*</span><span class="italic">*</span>, and <span class="bold">*</span><span class="italic">*adjacency structure*</span>*</span> to be well-defined.  </span></div>
+<div class="line" id="L6"><span class="line-number">6</span><span class="line-content"> This section states the <span class="bold">*<span class="italic">*minimal and maximal conditions*</span>*</span> under which an operator is allowed to exist or act.</span></div>
+<div class="line" id="L7"><span class="line-number">7</span><span class="line-content"></span></div>
+<div class="line" id="L8"><span class="line-number">8</span><span class="line-content">---</span></div>
+<div class="line" id="L9"><span class="line-number">9</span><span class="line-content"></span></div>
+<div class="line" id="L10"><span class="line-number">10</span><span class="line-content"><span class="heading"># **1\. Ontological Boundary Conditions**</span></span></div>
+<div class="line" id="L11"><span class="line-number">11</span><span class="line-content"></span></div>
+<div class="line" id="L12"><span class="line-number">12</span><span class="line-content"><span class="heading">### **1.1 Domain of Definition**</span></span></div>
+<div class="line" id="L13"><span class="line-number">13</span><span class="line-content"></span></div>
+<div class="line" id="L14"><span class="line-number">14</span><span class="line-content">An operator</span></div>
+<div class="line" id="L15"><span class="line-number">15</span><span class="line-content"></span></div>
+<div class="line" id="L16"><span class="line-number">16</span><span class="line-content">O:H<span class="math">→</span>H\\mathcal{O} : \\mathcal{H} \\to \\mathcal{H}O:H<span class="math">→</span>H</span></div>
+<div class="line" id="L17"><span class="line-number">17</span><span class="line-content"></span></div>
+<div class="line" id="L18"><span class="line-number">18</span><span class="line-content">is only definable if its domain <span class="bold">*<span class="italic">*excludes*</span>*</span> the static zero-state:</span></div>
+<div class="line" id="L19"><span class="line-number">19</span><span class="line-content"></span></div>
+<div class="line" id="L20"><span class="line-number">20</span><span class="line-content"><span class="greek">Ψ</span>0<span class="math">∉</span>Dom(O).\\Psi\_0 \\notin \\mathrm{Dom}(\\mathcal{O}).<span class="greek">Ψ</span>0​<span class="math">∈</span>/Dom(O).</span></div>
+<div class="line" id="L21"><span class="line-number">21</span><span class="line-content"></span></div>
+<div class="line" id="L22"><span class="line-number">22</span><span class="line-content"><span class="bold">*<span class="italic">*Reason:*</span>*</span>  </span></div>
+<div class="line" id="L23"><span class="line-number">23</span><span class="line-content"> At <span class="greek">Ψ</span>0\\Psi\_0<span class="greek">Ψ</span>0​, the deviation is zero, the metric is undefined, and no adjacency graph exists. Thus:</span></div>
+<div class="line" id="L24"><span class="line-number">24</span><span class="line-content"></span></div>
+<div class="line" id="L25"><span class="line-number">25</span><span class="line-content">O<span class="greek">Ψ</span>0is ontologically meaningless.\\mathcal{O}\\Psi\_0 \\quad \\text{is ontologically meaningless}.O<span class="greek">Ψ</span>0​is ontologically meaningless.</span></div>
+<div class="line" id="L26"><span class="line-number">26</span><span class="line-content"></span></div>
+<div class="line" id="L27"><span class="line-number">27</span><span class="line-content">This is the <span class="bold">*<span class="italic">*Operator Domain Exclusion Principle*</span>*</span>.</span></div>
+<div class="line" id="L28"><span class="line-number">28</span><span class="line-content"></span></div>
+<div class="line" id="L29"><span class="line-number">29</span><span class="line-content">---</span></div>
+<div class="line" id="L30"><span class="line-number">30</span><span class="line-content"></span></div>
+<div class="line" id="L31"><span class="line-number">31</span><span class="line-content"><span class="heading">### **1.2 Ontological Admissibility**</span></span></div>
+<div class="line" id="L32"><span class="line-number">32</span><span class="line-content"></span></div>
+<div class="line" id="L33"><span class="line-number">33</span><span class="line-content">An operator is admissible only if the state possesses:</span></div>
+<div class="line" id="L34"><span class="line-number">34</span><span class="line-content"></span></div>
+<div class="line" id="L35"><span class="line-number">35</span><span class="line-content">1. <span class="bold">*<span class="italic">*Nonzero deviation:*</span>*</span>  </span></div>
+<div class="line" id="L36"><span class="line-number">36</span><span class="line-content">    <span class="greek">δ</span>(<span class="greek">Ψ</span>)\&gt;0\\delta(\\Psi) \&gt; 0<span class="greek">δ</span>(<span class="greek">Ψ</span>)\&gt;0  </span></div>
+<div class="line" id="L37"><span class="line-number">37</span><span class="line-content">2. <span class="bold">*<span class="italic">*Nonzero adjacency:*</span>*</span>  </span></div>
+<div class="line" id="L38"><span class="line-number">38</span><span class="line-content">    A(<span class="greek">Ψ</span>)≠∅A(\\Psi) \\neq \\emptysetA(<span class="greek">Ψ</span>)=∅  </span></div>
+<div class="line" id="L39"><span class="line-number">39</span><span class="line-content">3. <span class="bold">*<span class="italic">*Non-degenerate curvature:*</span>*</span>  </span></div>
+<div class="line" id="L40"><span class="line-number">40</span><span class="line-content">    R(<span class="greek">Ψ</span>)\&lt;∞.R(\\Psi) \&lt; \\infty.R(<span class="greek">Ψ</span>)\&lt;∞.</span></div>
+<div class="line" id="L41"><span class="line-number">41</span><span class="line-content"></span></div>
+<div class="line" id="L42"><span class="line-number">42</span><span class="line-content">If any fails, the operator is said to encounter a <span class="bold">*<span class="italic">*boundary obstruction*</span>*</span>, and cannot act.</span></div>
+<div class="line" id="L43"><span class="line-number">43</span><span class="line-content"></span></div>
+<div class="line" id="L44"><span class="line-number">44</span><span class="line-content">---</span></div>
+<div class="line" id="L45"><span class="line-number">45</span><span class="line-content"></span></div>
+<div class="line" id="L46"><span class="line-number">46</span><span class="line-content"><span class="heading"># **2\. Deviational Boundary Conditions**</span></span></div>
+<div class="line" id="L47"><span class="line-number">47</span><span class="line-content"></span></div>
+<div class="line" id="L48"><span class="line-number">48</span><span class="line-content">Operators in Meta-Math act on <span class="bold">*<span class="italic">*gradients of deviation*</span>*</span>, not the static value.</span></div>
+<div class="line" id="L49"><span class="line-number">49</span><span class="line-content"></span></div>
+<div class="line" id="L50"><span class="line-number">50</span><span class="line-content"><span class="heading">### **2.1 Deviational Gradient Requirement**</span></span></div>
+<div class="line" id="L51"><span class="line-number">51</span><span class="line-content"></span></div>
+<div class="line" id="L52"><span class="line-number">52</span><span class="line-content"><span class="math">∇</span><span class="greek">δ</span><span class="greek">Ψ</span>≠0⟹O<span class="greek">Ψ</span> well-defined.\\nabla\_\\delta \\Psi \\neq 0 \\quad \\Longrightarrow \\quad \\mathcal{O}\\Psi\\ \\text{well-defined}.<span class="math">∇</span><span class="greek">δ</span>​<span class="greek">Ψ</span>=0⟹O<span class="greek">Ψ</span> well-defined.</span></div>
+<div class="line" id="L53"><span class="line-number">53</span><span class="line-content"></span></div>
+<div class="line" id="L54"><span class="line-number">54</span><span class="line-content"><span class="heading">### **2.2 Deviational Rank Condition**</span></span></div>
+<div class="line" id="L55"><span class="line-number">55</span><span class="line-content"></span></div>
+<div class="line" id="L56"><span class="line-number">56</span><span class="line-content">If an operator changes deviation by rank kkk:</span></div>
+<div class="line" id="L57"><span class="line-number">57</span><span class="line-content"></span></div>
+<div class="line" id="L58"><span class="line-number">58</span><span class="line-content">O(<span class="greek">δ</span>)=<span class="greek">δ</span>+k,\\mathcal{O}(\\delta) \= \\delta \+ k,O(<span class="greek">δ</span>)=<span class="greek">δ</span>+k,</span></div>
+<div class="line" id="L59"><span class="line-number">59</span><span class="line-content"></span></div>
+<div class="line" id="L60"><span class="line-number">60</span><span class="line-content">then the state must support that rank:</span></div>
+<div class="line" id="L61"><span class="line-number">61</span><span class="line-content"></span></div>
+<div class="line" id="L62"><span class="line-number">62</span><span class="line-content">rank(<span class="greek">Ψ</span>)≥k.\\text{rank}(\\Psi) \\ge k.rank(<span class="greek">Ψ</span>)≥k.</span></div>
+<div class="line" id="L63"><span class="line-number">63</span><span class="line-content"></span></div>
+<div class="line" id="L64"><span class="line-number">64</span><span class="line-content">This prevents “over-extending” a state beyond the structure it can host.</span></div>
+<div class="line" id="L65"><span class="line-number">65</span><span class="line-content"></span></div>
+<div class="line" id="L66"><span class="line-number">66</span><span class="line-content">---</span></div>
+<div class="line" id="L67"><span class="line-number">67</span><span class="line-content"></span></div>
+<div class="line" id="L68"><span class="line-number">68</span><span class="line-content"><span class="heading"># **3\. Adjacency Boundary Conditions**</span></span></div>
+<div class="line" id="L69"><span class="line-number">69</span><span class="line-content"></span></div>
+<div class="line" id="L70"><span class="line-number">70</span><span class="line-content">Every operator is required to respect adjacency because adjacency is the <span class="bold">*<span class="italic">*foundation of dynamics*</span>*</span> in IGSOA.</span></div>
+<div class="line" id="L71"><span class="line-number">71</span><span class="line-content"></span></div>
+<div class="line" id="L72"><span class="line-number">72</span><span class="line-content"><span class="heading">### **3.1 Adjacency Preservation**</span></span></div>
+<div class="line" id="L73"><span class="line-number">73</span><span class="line-content"></span></div>
+<div class="line" id="L74"><span class="line-number">74</span><span class="line-content">An operator must satisfy:</span></div>
+<div class="line" id="L75"><span class="line-number">75</span><span class="line-content"></span></div>
+<div class="line" id="L76"><span class="line-number">76</span><span class="line-content">O(A(<span class="greek">Ψ</span>))⊆A(O<span class="greek">Ψ</span>).\\mathcal{O}(A(\\Psi)) \\subseteq A(\\mathcal{O}\\Psi).O(A(<span class="greek">Ψ</span>))⊆A(O<span class="greek">Ψ</span>).</span></div>
+<div class="line" id="L77"><span class="line-number">77</span><span class="line-content"></span></div>
+<div class="line" id="L78"><span class="line-number">78</span><span class="line-content"><span class="heading">### **3.2 Adjacency Extension Bound**</span></span></div>
+<div class="line" id="L79"><span class="line-number">79</span><span class="line-content"></span></div>
+<div class="line" id="L80"><span class="line-number">80</span><span class="line-content">An operator altering adjacency must do so boundedly:</span></div>
+<div class="line" id="L81"><span class="line-number">81</span><span class="line-content"></span></div>
+<div class="line" id="L82"><span class="line-number">82</span><span class="line-content">∣A(O<span class="greek">Ψ</span>)∣−∣A(<span class="greek">Ψ</span>)∣≤<span class="greek">α</span>O,|A(\\mathcal{O}\\Psi)| \- |A(\\Psi)| \\le \\alpha\_\\mathcal{O},∣A(O<span class="greek">Ψ</span>)∣−∣A(<span class="greek">Ψ</span>)∣≤<span class="greek">α</span>O​,</span></div>
+<div class="line" id="L83"><span class="line-number">83</span><span class="line-content"></span></div>
+<div class="line" id="L84"><span class="line-number">84</span><span class="line-content">where <span class="greek">α</span>O\\alpha\_\\mathcal{O}<span class="greek">α</span>O​ is the operator’s <span class="bold">*<span class="italic">*adjacency index*</span>*</span>.</span></div>
+<div class="line" id="L85"><span class="line-number">85</span><span class="line-content"></span></div>
+<div class="line" id="L86"><span class="line-number">86</span><span class="line-content">This prevents nonlocal “explosions” of adjacency unless the operator is explicitly allowed (e.g., Meta-Time operators).</span></div>
+<div class="line" id="L87"><span class="line-number">87</span><span class="line-content"></span></div>
+<div class="line" id="L88"><span class="line-number">88</span><span class="line-content">---</span></div>
+<div class="line" id="L89"><span class="line-number">89</span><span class="line-content"></span></div>
+<div class="line" id="L90"><span class="line-number">90</span><span class="line-content"><span class="heading"># **4\. Curvature Boundary Conditions**</span></span></div>
+<div class="line" id="L91"><span class="line-number">91</span><span class="line-content"></span></div>
+<div class="line" id="L92"><span class="line-number">92</span><span class="line-content">Curvature R(<span class="greek">Ψ</span>)R(\\Psi)R(<span class="greek">Ψ</span>) is the generalized IGSOA curvature (Meta-curvature).</span></div>
+<div class="line" id="L93"><span class="line-number">93</span><span class="line-content"></span></div>
+<div class="line" id="L94"><span class="line-number">94</span><span class="line-content"><span class="heading">### **4.1 Finite Curvature Domain**</span></span></div>
+<div class="line" id="L95"><span class="line-number">95</span><span class="line-content"></span></div>
+<div class="line" id="L96"><span class="line-number">96</span><span class="line-content">An operator can act only if:</span></div>
+<div class="line" id="L97"><span class="line-number">97</span><span class="line-content"></span></div>
+<div class="line" id="L98"><span class="line-number">98</span><span class="line-content">R(<span class="greek">Ψ</span>)\&lt;∞.R(\\Psi) \&lt; \\infty.R(<span class="greek">Ψ</span>)\&lt;∞.</span></div>
+<div class="line" id="L99"><span class="line-number">99</span><span class="line-content"></span></div>
+<div class="line" id="L100"><span class="line-number">100</span><span class="line-content">If curvature diverges, the operator boundary is reached.</span></div>
+<div class="line" id="L101"><span class="line-number">101</span><span class="line-content"></span></div>
+<div class="line" id="L102"><span class="line-number">102</span><span class="line-content"><span class="heading">### **4.2 Curvature Compatibility**</span></span></div>
+<div class="line" id="L103"><span class="line-number">103</span><span class="line-content"></span></div>
+<div class="line" id="L104"><span class="line-number">104</span><span class="line-content">For any operator O\\mathcal{O}O, define its curvature signature:</span></div>
+<div class="line" id="L105"><span class="line-number">105</span><span class="line-content"></span></div>
+<div class="line" id="L106"><span class="line-number">106</span><span class="line-content">κO=R(O<span class="greek">Ψ</span>)−R(<span class="greek">Ψ</span>).\\kappa\_\\mathcal{O} \= R(\\mathcal{O}\\Psi) \- R(\\Psi).κO​=R(O<span class="greek">Ψ</span>)−R(<span class="greek">Ψ</span>).</span></div>
+<div class="line" id="L107"><span class="line-number">107</span><span class="line-content"></span></div>
+<div class="line" id="L108"><span class="line-number">108</span><span class="line-content">Then the state must satisfy:</span></div>
+<div class="line" id="L109"><span class="line-number">109</span><span class="line-content"></span></div>
+<div class="line" id="L110"><span class="line-number">110</span><span class="line-content">∣κO∣≤Rcrit(<span class="greek">Ψ</span>),|\\kappa\_\\mathcal{O}| \\le R\_{\\text{crit}}(\\Psi),∣κO​∣≤Rcrit​(<span class="greek">Ψ</span>),</span></div>
+<div class="line" id="L111"><span class="line-number">111</span><span class="line-content"></span></div>
+<div class="line" id="L112"><span class="line-number">112</span><span class="line-content">so curvature cannot be changed faster than the state can support.</span></div>
+<div class="line" id="L113"><span class="line-number">113</span><span class="line-content"></span></div>
+<div class="line" id="L114"><span class="line-number">114</span><span class="line-content">---</span></div>
+<div class="line" id="L115"><span class="line-number">115</span><span class="line-content"></span></div>
+<div class="line" id="L116"><span class="line-number">116</span><span class="line-content"><span class="heading"># **5\. Meta-Time Boundary Conditions**</span></span></div>
+<div class="line" id="L117"><span class="line-number">117</span><span class="line-content"></span></div>
+<div class="line" id="L118"><span class="line-number">118</span><span class="line-content">Meta-Time (T⋆\\mathbb{T}\_\\starT⋆​) is a generator, not a coordinate.</span></div>
+<div class="line" id="L119"><span class="line-number">119</span><span class="line-content"></span></div>
+<div class="line" id="L120"><span class="line-number">120</span><span class="line-content"><span class="heading">### **5.1 Meta-Time Action Constraint**</span></span></div>
+<div class="line" id="L121"><span class="line-number">121</span><span class="line-content"></span></div>
+<div class="line" id="L122"><span class="line-number">122</span><span class="line-content">Let T\\mathfrak{T}T be the Meta-Time operator.  </span></div>
+<div class="line" id="L123"><span class="line-number">123</span><span class="line-content"> Its action is allowed only if:</span></div>
+<div class="line" id="L124"><span class="line-number">124</span><span class="line-content"></span></div>
+<div class="line" id="L125"><span class="line-number">125</span><span class="line-content"><span class="math">∂</span>⋆A(<span class="greek">Ψ</span>)≠0.\\partial\_\\star A(\\Psi) \\neq 0.<span class="math">∂</span>⋆​A(<span class="greek">Ψ</span>)=0.</span></div>
+<div class="line" id="L126"><span class="line-number">126</span><span class="line-content"></span></div>
+<div class="line" id="L127"><span class="line-number">127</span><span class="line-content">Meta-Time can only act when adjacency is already evolving.</span></div>
+<div class="line" id="L128"><span class="line-number">128</span><span class="line-content"></span></div>
+<div class="line" id="L129"><span class="line-number">129</span><span class="line-content"><span class="heading">### **5.2 Meta-Time Consistency**</span></span></div>
+<div class="line" id="L130"><span class="line-number">130</span><span class="line-content"></span></div>
+<div class="line" id="L131"><span class="line-number">131</span><span class="line-content">T(<span class="greek">Ψ</span>0) undefined.\\mathfrak{T}(\\Psi\_0) \\ \\text{undefined}.T(<span class="greek">Ψ</span>0​) undefined.</span></div>
+<div class="line" id="L132"><span class="line-number">132</span><span class="line-content"></span></div>
+<div class="line" id="L133"><span class="line-number">133</span><span class="line-content">Because Meta-Time presupposes a nonzero deviation field, it cannot act at Genesis.</span></div>
+<div class="line" id="L134"><span class="line-number">134</span><span class="line-content"></span></div>
+<div class="line" id="L135"><span class="line-number">135</span><span class="line-content">---</span></div>
+<div class="line" id="L136"><span class="line-number">136</span><span class="line-content"></span></div>
+<div class="line" id="L137"><span class="line-number">137</span><span class="line-content"><span class="heading"># **6\. Boundary Saturation**</span></span></div>
+<div class="line" id="L138"><span class="line-number">138</span><span class="line-content"></span></div>
+<div class="line" id="L139"><span class="line-number">139</span><span class="line-content">A boundary is <span class="bold">*<span class="italic">*saturated*</span>*</span> when further operator action would violate any previous condition:</span></div>
+<div class="line" id="L140"><span class="line-number">140</span><span class="line-content"></span></div>
+<div class="line" id="L141"><span class="line-number">141</span><span class="line-content">Bound(<span class="greek">Ψ</span>)={<span class="greek">Ψ</span>:<span class="greek">δ</span>(<span class="greek">Ψ</span>)=0<span class="math">∨</span>A(<span class="greek">Ψ</span>)=∅<span class="math">∨</span>R(<span class="greek">Ψ</span>)=∞}.\\mathrm{Bound}(\\Psi) \= \\{\\Psi: \\delta(\\Psi)=0 \\lor A(\\Psi)=\\emptyset \\lor R(\\Psi)=\\infty\\}.Bound(<span class="greek">Ψ</span>)={<span class="greek">Ψ</span>:<span class="greek">δ</span>(<span class="greek">Ψ</span>)=0<span class="math">∨</span>A(<span class="greek">Ψ</span>)=∅<span class="math">∨</span>R(<span class="greek">Ψ</span>)=∞}.</span></div>
+<div class="line" id="L142"><span class="line-number">142</span><span class="line-content"></span></div>
+<div class="line" id="L143"><span class="line-number">143</span><span class="line-content">If a state hits boundary saturation, all operators suspend:</span></div>
+<div class="line" id="L144"><span class="line-number">144</span><span class="line-content"></span></div>
+<div class="line" id="L145"><span class="line-number">145</span><span class="line-content">O<span class="greek">Ψ</span>=<span class="greek">Ψ</span>.\\mathcal{O}\\Psi \= \\Psi.O<span class="greek">Ψ</span>=<span class="greek">Ψ</span>.</span></div>
+<div class="line" id="L146"><span class="line-number">146</span><span class="line-content"></span></div>
+<div class="line" id="L147"><span class="line-number">147</span><span class="line-content">This provides the IGSOA analog of reflective boundary / absorbing boundary depending on operator class.</span></div>
+<div class="line" id="L148"><span class="line-number">148</span><span class="line-content"></span></div>
+<div class="line" id="L149"><span class="line-number">149</span><span class="line-content">---</span></div>
+<div class="line" id="L150"><span class="line-number">150</span><span class="line-content"></span></div>
+<div class="line" id="L151"><span class="line-number">151</span><span class="line-content"><span class="heading"># **7\. Genesis Boundary Condition (Special Case)**</span></span></div>
+<div class="line" id="L152"><span class="line-number">152</span><span class="line-content"></span></div>
+<div class="line" id="L153"><span class="line-number">153</span><span class="line-content">At Genesis:</span></div>
+<div class="line" id="L154"><span class="line-number">154</span><span class="line-content"></span></div>
+<div class="line" id="L155"><span class="line-number">155</span><span class="line-content"><span class="greek">Ψ</span>=<span class="greek">Ψ</span>0,\\Psi \= \\Psi\_0,<span class="greek">Ψ</span>=<span class="greek">Ψ</span>0​,</span></div>
+<div class="line" id="L156"><span class="line-number">156</span><span class="line-content"></span></div>
+<div class="line" id="L157"><span class="line-number">157</span><span class="line-content">all operators are <span class="bold">*<span class="italic">*forbidden*</span><span class="italic">*</span>, except the <span class="bold">*</span><span class="italic">*Deviation Operator*</span>*</span>:</span></div>
+<div class="line" id="L158"><span class="line-number">158</span><span class="line-content"></span></div>
+<div class="line" id="L159"><span class="line-number">159</span><span class="line-content"><span class="greek">δ</span>:<span class="greek">Ψ</span>0↦<span class="greek">δ</span><span class="greek">Ψ</span>0.\\delta : \\Psi\_0 \\mapsto \\delta\\Psi\_0.<span class="greek">δ</span>:<span class="greek">Ψ</span>0​↦<span class="greek">δ</span><span class="greek">Ψ</span>0​.</span></div>
+<div class="line" id="L160"><span class="line-number">160</span><span class="line-content"></span></div>
+<div class="line" id="L161"><span class="line-number">161</span><span class="line-content">This is the <span class="bold">*<span class="italic">*First Action*</span>*</span> and the only operator that bypasses all boundary constraints because it defines the post-boundary domain itself.</span></div>
+<div class="line" id="L162"><span class="line-number">162</span><span class="line-content"></span></div>
+<div class="line" id="L163"><span class="line-number">163</span><span class="line-content">---</span></div>
+<div class="line" id="L164"><span class="line-number">164</span><span class="line-content"></span></div>
+<div class="line" id="L165"><span class="line-number">165</span><span class="line-content"><span class="heading"># **8\. Summary Table**</span></span></div>
+<div class="line" id="L166"><span class="line-number">166</span><span class="line-content"></span></div>
+<div class="line" id="L167"><span class="line-number">167</span><span class="line-content">| Boundary Type | Condition | Consequence |</span></div>
+<div class="line" id="L168"><span class="line-number">168</span><span class="line-content">| ----- | ----- | ----- |</span></div>
+<div class="line" id="L169"><span class="line-number">169</span><span class="line-content">| <span class="bold">*<span class="italic">*Ontological*</span>*</span> | <span class="greek">Ψ</span>≠<span class="greek">Ψ</span>0\\Psi \\neq \\Psi\_0<span class="greek">Ψ</span>=<span class="greek">Ψ</span>0​ | Operators exist |</span></div>
+<div class="line" id="L170"><span class="line-number">170</span><span class="line-content">| <span class="bold">*<span class="italic">*Deviation*</span>*</span> | <span class="greek">δ</span>(<span class="greek">Ψ</span>)\&gt;0\\delta(\\Psi)\&gt;0<span class="greek">δ</span>(<span class="greek">Ψ</span>)\&gt;0 | Operator gradients defined |</span></div>
+<div class="line" id="L171"><span class="line-number">171</span><span class="line-content">| <span class="bold">*<span class="italic">*Adjacency*</span>*</span> | A(<span class="greek">Ψ</span>)≠∅A(\\Psi)\\neq\\emptysetA(<span class="greek">Ψ</span>)=∅ | Dynamics possible |</span></div>
+<div class="line" id="L172"><span class="line-number">172</span><span class="line-content">| <span class="bold">*<span class="italic">*Curvature*</span>*</span> | R(<span class="greek">Ψ</span>)\&lt;∞R(\\Psi)\&lt;\\inftyR(<span class="greek">Ψ</span>)\&lt;∞ | Geometry consistent |</span></div>
+<div class="line" id="L173"><span class="line-number">173</span><span class="line-content">| <span class="bold">*<span class="italic">*Meta-Time*</span>*</span> | <span class="math">∂</span>⋆A(<span class="greek">Ψ</span>)≠0\\partial\_\\star A(\\Psi)\\neq 0<span class="math">∂</span>⋆​A(<span class="greek">Ψ</span>)=0 | Temporal evolution defined |</span></div>
+<div class="line" id="L174"><span class="line-number">174</span><span class="line-content">| <span class="bold">*<span class="italic">*Genesis*</span>*</span> | Only <span class="greek">δ</span>\\delta<span class="greek">δ</span> acts | Beginning of meta-dynamics |</span></div>
+<div class="line" id="L175"><span class="line-number">175</span><span class="line-content"></span></div>
+<div class="line" id="L176"><span class="line-number">176</span><span class="line-content">---</span></div>
+<div class="line" id="L177"><span class="line-number">177</span><span class="line-content"></span></div>
+<div class="line" id="L178"><span class="line-number">178</span><span class="line-content">If you'd like, I can now also generate:</span></div>
+<div class="line" id="L179"><span class="line-number">179</span><span class="line-content"></span></div>
+<div class="line" id="L180"><span class="line-number">180</span><span class="line-content"><span class="heading">### **✔ A diagram version**</span></span></div>
+<div class="line" id="L181"><span class="line-number">181</span><span class="line-content"></span></div>
+<div class="line" id="L182"><span class="line-number">182</span><span class="line-content"><span class="heading">### **✔ A categorical reformulation (operators as morphisms respecting boundary objects)**</span></span></div>
+<div class="line" id="L183"><span class="line-number">183</span><span class="line-content"></span></div>
+<div class="line" id="L184"><span class="line-number">184</span><span class="line-content"><span class="heading">### **✔ A “movie director” outreach version for general readers**</span></span></div>
+<div class="line" id="L185"><span class="line-number">185</span><span class="line-content"></span></div>
+<div class="line" id="L186"><span class="line-number">186</span><span class="line-content"><span class="heading">### **✔ A formal appendix with theorems \+ proofs**</span></span></div>
+<div class="line" id="L187"><span class="line-number">187</span><span class="line-content"></span></div>
+<div class="line" id="L188"><span class="line-number">188</span><span class="line-content"><span class="heading">### **✔ Insert this into the Genesis → Meta-Math flow as Section 1.7**</span></span></div>
+<div class="line" id="L189"><span class="line-number">189</span><span class="line-content"></span></div>
+<div class="line" id="L190"><span class="line-number">190</span><span class="line-content">Which version do you want next?</span></div>
+<div class="line" id="L191"><span class="line-number">191</span><span class="line-content"></span></div>
+<div class="line" id="L192"><span class="line-number">192</span><span class="line-content"><span class="heading">##### **You said:**</span></span></div>
+<div class="line" id="L193"><span class="line-number">193</span><span class="line-content"></span></div>
+<div class="line" id="L194"><span class="line-number">194</span><span class="line-content">Domains, Codomains, and Exclusions</span></div>
+<div class="line" id="L195"><span class="line-number">195</span><span class="line-content"></span></div>
+<div class="line" id="L196"><span class="line-number">196</span><span class="line-content"><span class="heading">###### **ChatGPT said:**</span></span></div>
+<div class="line" id="L197"><span class="line-number">197</span><span class="line-content"></span></div>
+<div class="line" id="L198"><span class="line-number">198</span><span class="line-content">Below is the <span class="bold">*<span class="italic">*clean, canonical IGSOA / Meta-Math version of*</span>*</span></span></div>
+<div class="line" id="L199"><span class="line-number">199</span><span class="line-content"></span></div>
+<div class="line" id="L200"><span class="line-number">200</span><span class="line-content"><span class="heading"># **Domains, Codomains, and Exclusions**</span></span></div>
+<div class="line" id="L201"><span class="line-number">201</span><span class="line-content"></span></div>
+<div class="line" id="L202"><span class="line-number">202</span><span class="line-content">This is written at the <span class="bold">*<span class="italic">*same formal level*</span>*</span> as your operator boundary conditions, the NOT Axiom, and the Genesis transition proofs.</span></div>
+<div class="line" id="L203"><span class="line-number">203</span><span class="line-content"></span></div>
+<div class="line" id="L204"><span class="line-number">204</span><span class="line-content">It establishes <span class="bold">*<span class="italic">*exactly which kinds of states an operator may act on, which results it may produce, and which situations are strictly forbidden.*</span>*</span>  </span></div>
+<div class="line" id="L205"><span class="line-number">205</span><span class="line-content"> This is a core section for your Genesis–Action Interface.</span></div>
+<div class="line" id="L206"><span class="line-number">206</span><span class="line-content"></span></div>
+<div class="line" id="L207"><span class="line-number">207</span><span class="line-content">---</span></div>
+<div class="line" id="L208"><span class="line-number">208</span><span class="line-content"></span></div>
+<div class="line" id="L209"><span class="line-number">209</span><span class="line-content"><span class="heading"># **1\. Domains**</span></span></div>
+<div class="line" id="L210"><span class="line-number">210</span><span class="line-content"></span></div>
+<div class="line" id="L211"><span class="line-number">211</span><span class="line-content">The <span class="bold">*<span class="italic">*domain*</span><span class="italic">*</span> of an operator O\\mathcal{O}O is the set of states on which the operator is *</span>admissible*:</span></div>
+<div class="line" id="L212"><span class="line-number">212</span><span class="line-content"></span></div>
+<div class="line" id="L213"><span class="line-number">213</span><span class="line-content">Dom(O)={<span class="greek">Ψ</span><span class="math">∈</span>H∣O(<span class="greek">Ψ</span>) is well-defined}.\\mathrm{Dom}(\\mathcal{O}) \= \\{\\Psi \\in \\mathcal{H} \\mid \\mathcal{O}(\\Psi)\\ \\text{is well-defined}\\}.Dom(O)={<span class="greek">Ψ</span><span class="math">∈</span>H∣O(<span class="greek">Ψ</span>) is well-defined}.</span></div>
+<div class="line" id="L214"><span class="line-number">214</span><span class="line-content"></span></div>
+<div class="line" id="L215"><span class="line-number">215</span><span class="line-content">In IGSOA, a domain is valid only when all three base structures exist:</span></div>
+<div class="line" id="L216"><span class="line-number">216</span><span class="line-content"></span></div>
+<div class="line" id="L217"><span class="line-number">217</span><span class="line-content"><span class="heading">### **1.1 Deviational Domain Condition**</span></span></div>
+<div class="line" id="L218"><span class="line-number">218</span><span class="line-content"></span></div>
+<div class="line" id="L219"><span class="line-number">219</span><span class="line-content"><span class="greek">δ</span>(<span class="greek">Ψ</span>)\&gt;0.\\delta(\\Psi) \&gt; 0.<span class="greek">δ</span>(<span class="greek">Ψ</span>)\&gt;0.</span></div>
+<div class="line" id="L220"><span class="line-number">220</span><span class="line-content"></span></div>
+<div class="line" id="L221"><span class="line-number">221</span><span class="line-content">States with zero deviation cannot host operators; deviation is the <span class="italic">*first prerequisite for action*</span>.</span></div>
+<div class="line" id="L222"><span class="line-number">222</span><span class="line-content"></span></div>
+<div class="line" id="L223"><span class="line-number">223</span><span class="line-content">---</span></div>
+<div class="line" id="L224"><span class="line-number">224</span><span class="line-content"></span></div>
+<div class="line" id="L225"><span class="line-number">225</span><span class="line-content"><span class="heading">### **1.2 Adjacency Domain Condition**</span></span></div>
+<div class="line" id="L226"><span class="line-number">226</span><span class="line-content"></span></div>
+<div class="line" id="L227"><span class="line-number">227</span><span class="line-content">A(<span class="greek">Ψ</span>)≠∅.A(\\Psi) \\neq \\emptyset.A(<span class="greek">Ψ</span>)=∅.</span></div>
+<div class="line" id="L228"><span class="line-number">228</span><span class="line-content"></span></div>
+<div class="line" id="L229"><span class="line-number">229</span><span class="line-content">Adjacency is the structure that supports computation, geometry, and dynamics.  </span></div>
+<div class="line" id="L230"><span class="line-number">230</span><span class="line-content"> Without adjacency, O\\mathcal{O}O has nowhere to “propagate.”</span></div>
+<div class="line" id="L231"><span class="line-number">231</span><span class="line-content"></span></div>
+<div class="line" id="L232"><span class="line-number">232</span><span class="line-content">---</span></div>
+<div class="line" id="L233"><span class="line-number">233</span><span class="line-content"></span></div>
+<div class="line" id="L234"><span class="line-number">234</span><span class="line-content"><span class="heading">### **1.3 Curvature Domain Condition**</span></span></div>
+<div class="line" id="L235"><span class="line-number">235</span><span class="line-content"></span></div>
+<div class="line" id="L236"><span class="line-number">236</span><span class="line-content">R(<span class="greek">Ψ</span>)\&lt;∞.R(\\Psi) \&lt; \\infty.R(<span class="greek">Ψ</span>)\&lt;∞.</span></div>
+<div class="line" id="L237"><span class="line-number">237</span><span class="line-content"></span></div>
+<div class="line" id="L238"><span class="line-number">238</span><span class="line-content">Infinite curvature (or undefined curvature) destroys the metric and invalidates operator behavior.</span></div>
+<div class="line" id="L239"><span class="line-number">239</span><span class="line-content"></span></div>
+<div class="line" id="L240"><span class="line-number">240</span><span class="line-content">---</span></div>
+<div class="line" id="L241"><span class="line-number">241</span><span class="line-content"></span></div>
+<div class="line" id="L242"><span class="line-number">242</span><span class="line-content"><span class="heading">### **1.4 Summary**</span></span></div>
+<div class="line" id="L243"><span class="line-number">243</span><span class="line-content"></span></div>
+<div class="line" id="L244"><span class="line-number">244</span><span class="line-content">Dom(O)⊆{<span class="greek">Ψ</span>∣<span class="greek">δ</span>(<span class="greek">Ψ</span>)\&gt;0, A(<span class="greek">Ψ</span>)≠∅, R(<span class="greek">Ψ</span>)\&lt;∞}.\\mathrm{Dom}(\\mathcal{O}) \\subseteq \\{\\Psi \\mid \\delta(\\Psi)\&gt;0,\\ A(\\Psi)\\neq\\emptyset,\\ R(\\Psi)\&lt;\\infty\\}.Dom(O)⊆{<span class="greek">Ψ</span>∣<span class="greek">δ</span>(<span class="greek">Ψ</span>)\&gt;0, A(<span class="greek">Ψ</span>)=∅, R(<span class="greek">Ψ</span>)\&lt;∞}.</span></div>
+<div class="line" id="L245"><span class="line-number">245</span><span class="line-content"></span></div>
+<div class="line" id="L246"><span class="line-number">246</span><span class="line-content">Only after all three are satisfied does an operator become eligible to act.</span></div>
+<div class="line" id="L247"><span class="line-number">247</span><span class="line-content"></span></div>
+<div class="line" id="L248"><span class="line-number">248</span><span class="line-content">---</span></div>
+<div class="line" id="L249"><span class="line-number">249</span><span class="line-content"></span></div>
+<div class="line" id="L250"><span class="line-number">250</span><span class="line-content"><span class="heading"># **2\. Codomains**</span></span></div>
+<div class="line" id="L251"><span class="line-number">251</span><span class="line-content"></span></div>
+<div class="line" id="L252"><span class="line-number">252</span><span class="line-content">The <span class="bold">*<span class="italic">*codomain*</span><span class="italic">*</span> of an operator is the set of all *</span>possible outputs* it is allowed to produce:</span></div>
+<div class="line" id="L253"><span class="line-number">253</span><span class="line-content"></span></div>
+<div class="line" id="L254"><span class="line-number">254</span><span class="line-content">Cod(O)⊆H.\\mathrm{Cod}(\\mathcal{O}) \\subseteq \\mathcal{H}.Cod(O)⊆H.</span></div>
+<div class="line" id="L255"><span class="line-number">255</span><span class="line-content"></span></div>
+<div class="line" id="L256"><span class="line-number">256</span><span class="line-content">In IGSOA, codomains must respect:</span></div>
+<div class="line" id="L257"><span class="line-number">257</span><span class="line-content"></span></div>
+<div class="line" id="L258"><span class="line-number">258</span><span class="line-content">---</span></div>
+<div class="line" id="L259"><span class="line-number">259</span><span class="line-content"></span></div>
+<div class="line" id="L260"><span class="line-number">260</span><span class="line-content"><span class="heading">## **2.1 Deviational Codomain Bound**</span></span></div>
+<div class="line" id="L261"><span class="line-number">261</span><span class="line-content"></span></div>
+<div class="line" id="L262"><span class="line-number">262</span><span class="line-content">If</span></div>
+<div class="line" id="L263"><span class="line-number">263</span><span class="line-content"></span></div>
+<div class="line" id="L264"><span class="line-number">264</span><span class="line-content">O:<span class="greek">Ψ</span>↦<span class="greek">Ψ</span>′,\\mathcal{O} : \\Psi \\mapsto \\Psi',O:<span class="greek">Ψ</span>↦<span class="greek">Ψ</span>′,</span></div>
+<div class="line" id="L265"><span class="line-number">265</span><span class="line-content"></span></div>
+<div class="line" id="L266"><span class="line-number">266</span><span class="line-content">then</span></div>
+<div class="line" id="L267"><span class="line-number">267</span><span class="line-content"></span></div>
+<div class="line" id="L268"><span class="line-number">268</span><span class="line-content"><span class="greek">δ</span>(<span class="greek">Ψ</span>′)≥<span class="greek">δ</span>(<span class="greek">Ψ</span>)−ΔO−\\delta(\\Psi') \\ge \\delta(\\Psi) \- \\Delta^{-}\_\\mathcal{O}<span class="greek">δ</span>(<span class="greek">Ψ</span>′)≥<span class="greek">δ</span>(<span class="greek">Ψ</span>)−ΔO−​</span></div>
+<div class="line" id="L269"><span class="line-number">269</span><span class="line-content"></span></div>
+<div class="line" id="L270"><span class="line-number">270</span><span class="line-content">and</span></div>
+<div class="line" id="L271"><span class="line-number">271</span><span class="line-content"></span></div>
+<div class="line" id="L272"><span class="line-number">272</span><span class="line-content"><span class="greek">δ</span>(<span class="greek">Ψ</span>′)≤<span class="greek">δ</span>(<span class="greek">Ψ</span>)+ΔO+\\delta(\\Psi') \\le \\delta(\\Psi) \+ \\Delta^{+}\_\\mathcal{O}<span class="greek">δ</span>(<span class="greek">Ψ</span>′)≤<span class="greek">δ</span>(<span class="greek">Ψ</span>)+ΔO+​</span></div>
+<div class="line" id="L273"><span class="line-number">273</span><span class="line-content"></span></div>
+<div class="line" id="L274"><span class="line-number">274</span><span class="line-content">where ΔO±\\Delta^{\\pm}\_\\mathcal{O}ΔO±​ are the operator’s <span class="bold">*<span class="italic">*deviation bounds*</span>*</span>.</span></div>
+<div class="line" id="L275"><span class="line-number">275</span><span class="line-content"></span></div>
+<div class="line" id="L276"><span class="line-number">276</span><span class="line-content">An operator cannot arbitrarily collapse or inflate deviation.</span></div>
+<div class="line" id="L277"><span class="line-number">277</span><span class="line-content"></span></div>
+<div class="line" id="L278"><span class="line-number">278</span><span class="line-content">---</span></div>
+<div class="line" id="L279"><span class="line-number">279</span><span class="line-content"></span></div>
+<div class="line" id="L280"><span class="line-number">280</span><span class="line-content"><span class="heading">## **2.2 Adjacency Codomain Conservation**</span></span></div>
+<div class="line" id="L281"><span class="line-number">281</span><span class="line-content"></span></div>
+<div class="line" id="L282"><span class="line-number">282</span><span class="line-content">A(<span class="greek">Ψ</span>′)⊇A(<span class="greek">Ψ</span>)−<span class="greek">Γ</span>O,A(\\Psi') \\supseteq A(\\Psi) \- \\Gamma\_\\mathcal{O},A(<span class="greek">Ψ</span>′)⊇A(<span class="greek">Ψ</span>)−<span class="greek">Γ</span>O​, A(<span class="greek">Ψ</span>′)⊆A(<span class="greek">Ψ</span>)+<span class="greek">Λ</span>O,A(\\Psi') \\subseteq A(\\Psi) \+ \\Lambda\_\\mathcal{O},A(<span class="greek">Ψ</span>′)⊆A(<span class="greek">Ψ</span>)+<span class="greek">Λ</span>O​,</span></div>
+<div class="line" id="L283"><span class="line-number">283</span><span class="line-content"></span></div>
+<div class="line" id="L284"><span class="line-number">284</span><span class="line-content">where <span class="greek">Γ</span>O\\Gamma\_\\mathcal{O}<span class="greek">Γ</span>O​ and <span class="greek">Λ</span>O\\Lambda\_\\mathcal{O}<span class="greek">Λ</span>O​ are the <span class="bold">*<span class="italic">*adjacency contraction / extension indices*</span>*</span>.</span></div>
+<div class="line" id="L285"><span class="line-number">285</span><span class="line-content"></span></div>
+<div class="line" id="L286"><span class="line-number">286</span><span class="line-content">Operators cannot violate adjacency conservation unless they are Meta-Time operators.</span></div>
+<div class="line" id="L287"><span class="line-number">287</span><span class="line-content"></span></div>
+<div class="line" id="L288"><span class="line-number">288</span><span class="line-content">---</span></div>
+<div class="line" id="L289"><span class="line-number">289</span><span class="line-content"></span></div>
+<div class="line" id="L290"><span class="line-number">290</span><span class="line-content"><span class="heading">## **2.3 Curvature Codomain Admissibility**</span></span></div>
+<div class="line" id="L291"><span class="line-number">291</span><span class="line-content"></span></div>
+<div class="line" id="L292"><span class="line-number">292</span><span class="line-content">R(<span class="greek">Ψ</span>′)\&lt;∞,R(\\Psi') \&lt; \\infty,R(<span class="greek">Ψ</span>′)\&lt;∞,</span></div>
+<div class="line" id="L293"><span class="line-number">293</span><span class="line-content"></span></div>
+<div class="line" id="L294"><span class="line-number">294</span><span class="line-content">and</span></div>
+<div class="line" id="L295"><span class="line-number">295</span><span class="line-content"></span></div>
+<div class="line" id="L296"><span class="line-number">296</span><span class="line-content">∣R(<span class="greek">Ψ</span>′)−R(<span class="greek">Ψ</span>)∣≤κO,|R(\\Psi') \- R(\\Psi)| \\le \\kappa\_\\mathcal{O},∣R(<span class="greek">Ψ</span>′)−R(<span class="greek">Ψ</span>)∣≤κO​,</span></div>
+<div class="line" id="L297"><span class="line-number">297</span><span class="line-content"></span></div>
+<div class="line" id="L298"><span class="line-number">298</span><span class="line-content">where κO\\kappa\_\\mathcal{O}κO​ is the operator’s curvature signature.</span></div>
+<div class="line" id="L299"><span class="line-number">299</span><span class="line-content"></span></div>
+<div class="line" id="L300"><span class="line-number">300</span><span class="line-content">---</span></div>
+<div class="line" id="L301"><span class="line-number">301</span><span class="line-content"></span></div>
+<div class="line" id="L302"><span class="line-number">302</span><span class="line-content"><span class="heading"># **3\. Exclusions**</span></span></div>
+<div class="line" id="L303"><span class="line-number">303</span><span class="line-content"></span></div>
+<div class="line" id="L304"><span class="line-number">304</span><span class="line-content">Exclusions define the <span class="bold">*<span class="italic">*forbidden*</span>*</span> sets for operators.  </span></div>
+<div class="line" id="L305"><span class="line-number">305</span><span class="line-content"> These are states or transitions that <span class="bold">*<span class="italic">*no operator is ever allowed*</span>*</span> to produce or act on.</span></div>
+<div class="line" id="L306"><span class="line-number">306</span><span class="line-content"></span></div>
+<div class="line" id="L307"><span class="line-number">307</span><span class="line-content">---</span></div>
+<div class="line" id="L308"><span class="line-number">308</span><span class="line-content"></span></div>
+<div class="line" id="L309"><span class="line-number">309</span><span class="line-content"><span class="heading"># **3.1 Zero-State (Ψ₀) Exclusion**</span></span></div>
+<div class="line" id="L310"><span class="line-number">310</span><span class="line-content"></span></div>
+<div class="line" id="L311"><span class="line-number">311</span><span class="line-content"><span class="greek">Ψ</span>0<span class="math">∉</span>Dom(O)and<span class="greek">Ψ</span>0<span class="math">∉</span>Cod(O)\\Psi\_0 \\notin \\mathrm{Dom}(\\mathcal{O}) \\quad\\text{and}\\quad \\Psi\_0 \\notin \\mathrm{Cod}(\\mathcal{O})<span class="greek">Ψ</span>0​<span class="math">∈</span>/Dom(O)and<span class="greek">Ψ</span>0​<span class="math">∈</span>/Cod(O)</span></div>
+<div class="line" id="L312"><span class="line-number">312</span><span class="line-content"></span></div>
+<div class="line" id="L313"><span class="line-number">313</span><span class="line-content">for all operators except the deviation operator <span class="greek">δ</span>\\delta<span class="greek">δ</span> at Genesis.</span></div>
+<div class="line" id="L314"><span class="line-number">314</span><span class="line-content"></span></div>
+<div class="line" id="L315"><span class="line-number">315</span><span class="line-content">This is the <span class="bold">*<span class="italic">*Operator Domain Exclusion Principle*</span>*</span>.</span></div>
+<div class="line" id="L316"><span class="line-number">316</span><span class="line-content"></span></div>
+<div class="line" id="L317"><span class="line-number">317</span><span class="line-content">---</span></div>
+<div class="line" id="L318"><span class="line-number">318</span><span class="line-content"></span></div>
+<div class="line" id="L319"><span class="line-number">319</span><span class="line-content"><span class="heading"># **3.2 Zero-Deviation Exclusion**</span></span></div>
+<div class="line" id="L320"><span class="line-number">320</span><span class="line-content"></span></div>
+<div class="line" id="L321"><span class="line-number">321</span><span class="line-content">Any state with</span></div>
+<div class="line" id="L322"><span class="line-number">322</span><span class="line-content"></span></div>
+<div class="line" id="L323"><span class="line-number">323</span><span class="line-content"><span class="greek">δ</span>(<span class="greek">Ψ</span>)=0\\delta(\\Psi) \= 0<span class="greek">δ</span>(<span class="greek">Ψ</span>)=0</span></div>
+<div class="line" id="L324"><span class="line-number">324</span><span class="line-content"></span></div>
+<div class="line" id="L325"><span class="line-number">325</span><span class="line-content">is completely excluded from domains and codomains.</span></div>
+<div class="line" id="L326"><span class="line-number">326</span><span class="line-content"></span></div>
+<div class="line" id="L327"><span class="line-number">327</span><span class="line-content">Such states are <span class="bold">*<span class="italic">*operator-null*</span>*</span>.</span></div>
+<div class="line" id="L328"><span class="line-number">328</span><span class="line-content"></span></div>
+<div class="line" id="L329"><span class="line-number">329</span><span class="line-content">---</span></div>
+<div class="line" id="L330"><span class="line-number">330</span><span class="line-content"></span></div>
+<div class="line" id="L331"><span class="line-number">331</span><span class="line-content"><span class="heading"># **3.3 Adjacency-Void Exclusion**</span></span></div>
+<div class="line" id="L332"><span class="line-number">332</span><span class="line-content"></span></div>
+<div class="line" id="L333"><span class="line-number">333</span><span class="line-content">If</span></div>
+<div class="line" id="L334"><span class="line-number">334</span><span class="line-content"></span></div>
+<div class="line" id="L335"><span class="line-number">335</span><span class="line-content">A(<span class="greek">Ψ</span>)=∅,A(\\Psi) \= \\emptyset,A(<span class="greek">Ψ</span>)=∅,</span></div>
+<div class="line" id="L336"><span class="line-number">336</span><span class="line-content"></span></div>
+<div class="line" id="L337"><span class="line-number">337</span><span class="line-content">then <span class="greek">Ψ</span>\\Psi<span class="greek">Ψ</span> lies outside all domains and codomains.  </span></div>
+<div class="line" id="L338"><span class="line-number">338</span><span class="line-content"> A state with no adjacency is one that cannot be acted upon <span class="italic">*nor*</span> obtained as output.</span></div>
+<div class="line" id="L339"><span class="line-number">339</span><span class="line-content"></span></div>
+<div class="line" id="L340"><span class="line-number">340</span><span class="line-content">---</span></div>
+<div class="line" id="L341"><span class="line-number">341</span><span class="line-content"></span></div>
+<div class="line" id="L342"><span class="line-number">342</span><span class="line-content"><span class="heading"># **3.4 Infinite Curvature Exclusion**</span></span></div>
+<div class="line" id="L343"><span class="line-number">343</span><span class="line-content"></span></div>
+<div class="line" id="L344"><span class="line-number">344</span><span class="line-content">States with</span></div>
+<div class="line" id="L345"><span class="line-number">345</span><span class="line-content"></span></div>
+<div class="line" id="L346"><span class="line-number">346</span><span class="line-content">R(<span class="greek">Ψ</span>)=∞R(\\Psi) \= \\inftyR(<span class="greek">Ψ</span>)=∞</span></div>
+<div class="line" id="L347"><span class="line-number">347</span><span class="line-content"></span></div>
+<div class="line" id="L348"><span class="line-number">348</span><span class="line-content">are structurally inconsistent.  </span></div>
+<div class="line" id="L349"><span class="line-number">349</span><span class="line-content"> Operators cannot act on them or produce them.</span></div>
+<div class="line" id="L350"><span class="line-number">350</span><span class="line-content"></span></div>
+<div class="line" id="L351"><span class="line-number">351</span><span class="line-content">This prevents curvature singularities from destabilizing the meta-geometry.</span></div>
+<div class="line" id="L352"><span class="line-number">352</span><span class="line-content"></span></div>
+<div class="line" id="L353"><span class="line-number">353</span><span class="line-content">---</span></div>
+<div class="line" id="L354"><span class="line-number">354</span><span class="line-content"></span></div>
+<div class="line" id="L355"><span class="line-number">355</span><span class="line-content"><span class="heading"># **4\. Meta-Time Special Exclusion**</span></span></div>
+<div class="line" id="L356"><span class="line-number">356</span><span class="line-content"></span></div>
+<div class="line" id="L357"><span class="line-number">357</span><span class="line-content">The Meta-Time operator T\\mathfrak{T}T has a special constraint:</span></div>
+<div class="line" id="L358"><span class="line-number">358</span><span class="line-content"></span></div>
+<div class="line" id="L359"><span class="line-number">359</span><span class="line-content"><span class="math">∂</span>⋆A(<span class="greek">Ψ</span>)=0⇒T(<span class="greek">Ψ</span>) undefined.\\partial\_\\star A(\\Psi) \= 0 \\quad\\Rightarrow\\quad \\mathfrak{T}(\\Psi) \\ \\text{undefined}.<span class="math">∂</span>⋆​A(<span class="greek">Ψ</span>)=0⇒T(<span class="greek">Ψ</span>) undefined.</span></div>
+<div class="line" id="L360"><span class="line-number">360</span><span class="line-content"></span></div>
+<div class="line" id="L361"><span class="line-number">361</span><span class="line-content">Meta-Time is forbidden from acting when adjacency is static.</span></div>
+<div class="line" id="L362"><span class="line-number">362</span><span class="line-content"></span></div>
+<div class="line" id="L363"><span class="line-number">363</span><span class="line-content">Also:</span></div>
+<div class="line" id="L364"><span class="line-number">364</span><span class="line-content"></span></div>
+<div class="line" id="L365"><span class="line-number">365</span><span class="line-content">T(<span class="greek">Ψ</span>0) undefined.\\mathfrak{T}(\\Psi\_0) \\ \\text{undefined}.T(<span class="greek">Ψ</span>0​) undefined.</span></div>
+<div class="line" id="L366"><span class="line-number">366</span><span class="line-content"></span></div>
+<div class="line" id="L367"><span class="line-number">367</span><span class="line-content">---</span></div>
+<div class="line" id="L368"><span class="line-number">368</span><span class="line-content"></span></div>
+<div class="line" id="L369"><span class="line-number">369</span><span class="line-content"><span class="heading"># **5\. Unreachable States**</span></span></div>
+<div class="line" id="L370"><span class="line-number">370</span><span class="line-content"></span></div>
+<div class="line" id="L371"><span class="line-number">371</span><span class="line-content">The set of states that <span class="bold">*<span class="italic">*no operator can ever reach*</span>*</span> is:</span></div>
+<div class="line" id="L372"><span class="line-number">372</span><span class="line-content"></span></div>
+<div class="line" id="L373"><span class="line-number">373</span><span class="line-content">Excl={<span class="greek">Ψ</span>∣<span class="greek">δ</span>(<span class="greek">Ψ</span>)=0 <span class="math">∨</span> A(<span class="greek">Ψ</span>)=∅ <span class="math">∨</span> R(<span class="greek">Ψ</span>)=∞}.\\mathrm{Excl} \= \\{\\Psi \\mid \\delta(\\Psi)=0 \\ \\lor\\ A(\\Psi)=\\emptyset \\ \\lor\\ R(\\Psi)=\\infty\\}.Excl={<span class="greek">Ψ</span>∣<span class="greek">δ</span>(<span class="greek">Ψ</span>)=0 <span class="math">∨</span> A(<span class="greek">Ψ</span>)=∅ <span class="math">∨</span> R(<span class="greek">Ψ</span>)=∞}.</span></div>
+<div class="line" id="L374"><span class="line-number">374</span><span class="line-content"></span></div>
+<div class="line" id="L375"><span class="line-number">375</span><span class="line-content">These are absolute exclusions.</span></div>
+<div class="line" id="L376"><span class="line-number">376</span><span class="line-content"></span></div>
+<div class="line" id="L377"><span class="line-number">377</span><span class="line-content">---</span></div>
+<div class="line" id="L378"><span class="line-number">378</span><span class="line-content"></span></div>
+<div class="line" id="L379"><span class="line-number">379</span><span class="line-content"><span class="heading"># **6\. Canonical Summary (clean table)**</span></span></div>
+<div class="line" id="L380"><span class="line-number">380</span><span class="line-content"></span></div>
+<div class="line" id="L381"><span class="line-number">381</span><span class="line-content">| Category | Condition | Allowed? | Notes |</span></div>
+<div class="line" id="L382"><span class="line-number">382</span><span class="line-content">| ----- | ----- | ----- | ----- |</span></div>
+<div class="line" id="L383"><span class="line-number">383</span><span class="line-content">| <span class="bold">*<span class="italic">*Domain*</span>*</span> | <span class="greek">δ</span>\&gt;0\\delta\&gt;0<span class="greek">δ</span>\&gt;0, A≠∅A\\neq\\emptysetA=∅, R\&lt;∞R\&lt;\\inftyR\&lt;∞ | ✔ | All operators |</span></div>
+<div class="line" id="L384"><span class="line-number">384</span><span class="line-content">| <span class="bold">*<span class="italic">*Codomain*</span>*</span> | Output obeys deviation, adjacency, curvature bounds | ✔ | Cannot exit admissible region |</span></div>
+<div class="line" id="L385"><span class="line-number">385</span><span class="line-content">| <span class="bold">*<span class="italic">*Zero-State*</span>*</span> | <span class="greek">Ψ</span>=<span class="greek">Ψ</span>0\\Psi=\\Psi\_0<span class="greek">Ψ</span>=<span class="greek">Ψ</span>0​ | ✘ | Only <span class="greek">δ</span>\\delta<span class="greek">δ</span> at Genesis |</span></div>
+<div class="line" id="L386"><span class="line-number">386</span><span class="line-content">| <span class="bold">*<span class="italic">*Zero-Deviation*</span>*</span> | <span class="greek">δ</span>=0\\delta=0<span class="greek">δ</span>=0 | ✘ | Operator-null |</span></div>
+<div class="line" id="L387"><span class="line-number">387</span><span class="line-content">| <span class="bold">*<span class="italic">*Adjacency Void*</span>*</span> | A=∅A=\\emptysetA=∅ | ✘ | No propagation possible |</span></div>
+<div class="line" id="L388"><span class="line-number">388</span><span class="line-content">| <span class="bold">*<span class="italic">*Infinite Curvature*</span>*</span> | R=∞R=\\inftyR=∞ | ✘ | Metric breakdown |</span></div>
+<div class="line" id="L389"><span class="line-number">389</span><span class="line-content">| <span class="bold">*<span class="italic">*Meta-Time Static*</span>*</span> | <span class="math">∂</span>⋆A=0\\partial\_\\star A \= 0<span class="math">∂</span>⋆​A=0 | ✘ | No temporal evolution |</span></div>
+<div class="line" id="L390"><span class="line-number">390</span><span class="line-content"></span></div>
+<div class="line" id="L391"><span class="line-number">391</span><span class="line-content">---</span></div>
+<div class="line" id="L392"><span class="line-number">392</span><span class="line-content"></span></div>
+<div class="line" id="L393"><span class="line-number">393</span><span class="line-content"><span class="heading"># **7\. Ultra-Compact Version (for axioms page)**</span></span></div>
+<div class="line" id="L394"><span class="line-number">394</span><span class="line-content"></span></div>
+<div class="line" id="L395"><span class="line-number">395</span><span class="line-content"><span class="bold">*<span class="italic">*Axiom (Domain–Codomain Consistency).*</span>*</span>  </span></div>
+<div class="line" id="L396"><span class="line-number">396</span><span class="line-content"> For any operator O\\mathcal{O}O:</span></div>
+<div class="line" id="L397"><span class="line-number">397</span><span class="line-content"></span></div>
+<div class="line" id="L398"><span class="line-number">398</span><span class="line-content">Dom(O)={<span class="greek">Ψ</span>∣<span class="greek">δ</span>(<span class="greek">Ψ</span>)\&gt;0, A(<span class="greek">Ψ</span>)≠∅, R(<span class="greek">Ψ</span>)\&lt;∞},\\mathrm{Dom}(\\mathcal{O}) \= \\{\\Psi \\mid \\delta(\\Psi)\&gt;0,\\ A(\\Psi)\\neq\\emptyset,\\ R(\\Psi)\&lt;\\infty\\},Dom(O)={<span class="greek">Ψ</span>∣<span class="greek">δ</span>(<span class="greek">Ψ</span>)\&gt;0, A(<span class="greek">Ψ</span>)=∅, R(<span class="greek">Ψ</span>)\&lt;∞}, Cod(O)⊆Dom(O),\\mathrm{Cod}(\\mathcal{O}) \\subseteq \\mathrm{Dom}(\\mathcal{O}),Cod(O)⊆Dom(O), Excl={<span class="greek">Ψ</span>0, <span class="greek">Ψ</span>:<span class="greek">δ</span>=0, A=∅, R=∞}.\\mathrm{Excl} \= \\{\\Psi\_0,\\ \\Psi:\\delta=0,\\ A=\\emptyset,\\ R=\\infty\\}.Excl={<span class="greek">Ψ</span>0​, <span class="greek">Ψ</span>:<span class="greek">δ</span>=0, A=∅, R=∞}.</span></div>
+<div class="line" id="L399"><span class="line-number">399</span><span class="line-content"></span></div>
+<div class="line" id="L400"><span class="line-number">400</span><span class="line-content">No operator may act on or produce an excluded state.</span></div>
+<div class="line" id="L401"><span class="line-number">401</span><span class="line-content"></span></div>
+<div class="line" id="L402"><span class="line-number">402</span><span class="line-content">---</span></div>
+<div class="line" id="L403"><span class="line-number">403</span><span class="line-content"></span></div>
+<div class="line" id="L404"><span class="line-number">404</span><span class="line-content">If you want, I can now produce:</span></div>
+<div class="line" id="L405"><span class="line-number">405</span><span class="line-content"></span></div>
+<div class="line" id="L406"><span class="line-number">406</span><span class="line-content"><span class="heading">### **✔ A categorical version (domains/codomains as subobjects \+ boundary morphisms)**</span></span></div>
+<div class="line" id="L407"><span class="line-number">407</span><span class="line-content"></span></div>
+<div class="line" id="L408"><span class="line-number">408</span><span class="line-content"><span class="heading">### **✔ A Meta-Genesis version (first allowable transition)**</span></span></div>
+<div class="line" id="L409"><span class="line-number">409</span><span class="line-content"></span></div>
+<div class="line" id="L410"><span class="line-number">410</span><span class="line-content"><span class="heading">### **✔ A “movie director” outreach version**</span></span></div>
+<div class="line" id="L411"><span class="line-number">411</span><span class="line-content"></span></div>
+<div class="line" id="L412"><span class="line-number">412</span><span class="line-content"><span class="heading">### **✔ A formal theorem \+ proof version**</span></span></div>
+<div class="line" id="L413"><span class="line-number">413</span><span class="line-content"></span></div>
+<div class="line" id="L414"><span class="line-number">414</span><span class="line-content"><span class="heading">### **✔ Insert this as Section 1.8 in your Meta-Math axioms**</span></span></div>
+<div class="line" id="L415"><span class="line-number">415</span><span class="line-content"></span></div>
+<div class="line" id="L416"><span class="line-number">416</span><span class="line-content">Which one should I generate next?</span></div>
+<div class="line" id="L417"><span class="line-number">417</span><span class="line-content"></span></div>
+<div class="line" id="L418"><span class="line-number">418</span><span class="line-content">ChatGPT can make mistakes. Check important info.  </span></div>
+    </div>
+</body>
+</html>

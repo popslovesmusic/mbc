@@ -1,0 +1,11 @@
+block_type: table
+concepts:
+- δ
+excerpt: 'Per fixed nnn, the number of δ-bosons up through ℓ \= L is: Nδ(n;L)=∑ℓ=0L(2ℓ+1)=(L+1)2.N\_\\delta(n;L)=\\sum\_{\\ell=0}^{L}(2\\ell+1)=(L+1)^2.Nδ​(n;L)=ℓ=0∑L​(2ℓ+1)=(L+1)2.
+  So:'
+heading: '**Table B — Multiplet Count per Radial Shell**'
+id: GEN6-8241
+lines: 402-420
+location: genesis-6/harmonics-atomic-orbitals::2-δ-boson-spectrum-table-369-shell-tower::table-b-multiplet-count-per-radial-shell::b1
+parent_heading: '**2\) δ-Boson Spectrum Table (3–6–9 Shell Tower)**'
+source: genesis-6\-Harmonics__Atomic_Orbitals.md

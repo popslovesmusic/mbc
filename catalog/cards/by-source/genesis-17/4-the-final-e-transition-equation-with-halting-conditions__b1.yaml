@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: Σt+1={E(Σt)ΔH(Σt)\>ϵ ∧ Ft\>0 ∧ ∥ΔΣt∥\>δ ∧ ∥δ(E(Σt))∥\>κΣtotherwise Σ t+1
+heading: ⭐ 4\. The Final E-Transition Equation (with Halting Conditions)
+id: GEN17-4237
+lines: 1326-1367
+location: genesis-17/box-calculus::4-the-final-e-transition-equation-with-halting-conditions::b1
+source: genesis-17\box_calculus.md

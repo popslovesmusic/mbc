@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- ν
+- σ
+excerpt: σνX.P(X)=lim⁡n→∞σPn(+1)σ\_{\\nu X. P(X)} \= \\lim\_{n\\to\\infty} σ\_{P^n(+1)}σνX.P(X)​=n→∞lim​σPn(+1)​
+  ---
+heading: '**2\. Co-Fixed Point (ν)**'
+id: GEN19-5999
+lines: 1783-1787
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iv-meta-reasoning-operators::2-co-fixed-point-ν::b1
+parent_heading: '**IV. META-REASONING OPERATORS**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

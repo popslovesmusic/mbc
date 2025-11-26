@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: The IGSOA-QCD Lagrangian is LIGSOA-QCD=⟨ψ,DΦψ⟩+⟨FΦ,FΦ⟩,\\mathcal{L}\_{\\text{IGSOA-QCD}}
+  \= \\langle\\psi, D\_\\Phi\\psi\\rangle \+ \\langle F\_\\Phi, F\_\\Phi\\rangle,LIGSOA-QCD​=⟨ψ,DΦ​ψ⟩+⟨FΦ​,FΦ​⟩,
+  ...
+heading: '**Proposition 2.6 — Φ-Interacting Lagrangian**'
+id: GEN13-2124
+lines: 1542-1556
+location: genesis-13/meta-math-nuclear-physics::2-φ-operator-algebra-as-qcd::proposition-26-φ-interacting-lagrangian::b1
+parent_heading: '**2\. Φ-Operator Algebra as QCD**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

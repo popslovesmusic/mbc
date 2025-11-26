@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+- ρ
+excerpt: 'Gal(t)=Ghalo(δρ(t)).\\mathfrak{Gal}(t) \= \\mathcal{G}\_{\\mathrm{halo}}(\\delta\\rho(t)).Gal(t)=Ghalo​(δρ(t)).
+  Thus: ddtGal(t)=DGhalo⋅DG⋅DΠ⋅DΦ⋅κ˙(t).\\frac{d}{dt}\\mathfrak{Gal}(t) \= D\_{\\mathcal{G...'
+heading: '**4\. Halo/Galaxy functor maps density evolution to galaxies**'
+id: GEN15-3244
+lines: 2487-2499
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-proof-from-the-functor-stack::4-halogalaxy-functor-maps-density-evolution-to-galaxies::b1
+parent_heading: '**Ⅲ. Proof From the Functor Stack**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

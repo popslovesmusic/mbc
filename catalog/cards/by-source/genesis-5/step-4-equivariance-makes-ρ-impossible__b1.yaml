@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Rightarrow Id
+- all
+- and
+- δ
+- η
+- ρ
+- σ
+excerpt: 'Equation (Eq) says: σ∘ρX  =  ρX∘ULσ.\\sigma\\circ \\rho\_X \\;=\\; \\rho\_X\\circ
+  UL\\sigma .σ∘ρX​=ρX​∘ULσ. But ULσUL\\sigmaULσ permutes free generators, while σ\\sigmaσ
+  permutes the original indistin...'
+heading: '**Step 4: Equivariance makes ρ impossible**'
+id: GEN5-8017
+lines: 1169-1207
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-no-lift-theorem-formal::proof-by-contradiction::step-4-equivariance-makes-ρ-impossible::b1
+parent_heading: '**Proof (by contradiction)**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

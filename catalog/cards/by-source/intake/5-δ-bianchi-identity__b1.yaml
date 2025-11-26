@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Levi-Civita
+- The Deviational Levi
+- δ
+excerpt: 'The Deviational Levi-Civita connection satisfies: ∇AδGδAB=0.\\nabla^\\delta\_A
+  G^\\delta{}^{AB} \= 0.∇Aδ​GδAB=0. This holds because:'
+heading: '**5\. δ-Bianchi Identity**'
+id: INTK-9669
+lines: 312-328
+location: intake/axioms-geometry::5-δ-bianchi-identity::b1
+source: intake\Axioms-geometry.md

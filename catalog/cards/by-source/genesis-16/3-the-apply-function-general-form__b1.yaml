@@ -1,0 +1,15 @@
+block_type: table
+concepts:
+- Box
+- Box Calculus
+- Standard Formalism
+- Θ
+- Σ
+excerpt: '**Context extractor θ (shared across all ops):** θ:A→Θ,θ(Adj)=(ΣˉN,wˉN,mˉN,κ)\\theta:\\mathbb{A}\\to
+  \\Theta,\\quad \\theta(\\mathrm{Adj}) \= \\big(\\bar{\\Sigma}\_N,\\bar{w}\_N,\\bar{m}\_N,\\kappa\\b...'
+heading: '**3\. The Apply Function (General Form)**'
+id: GEN16-3752
+lines: 220-240
+location: genesis-16/untitled-document::formal-transition-function-for-box-calculus::3-the-apply-function-general-form::b1
+parent_heading: '**Formal Transition Function for Box Calculus**'
+source: genesis-16\Untitled_document.md

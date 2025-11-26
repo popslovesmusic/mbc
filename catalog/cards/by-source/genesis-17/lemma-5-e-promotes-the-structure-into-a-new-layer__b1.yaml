@@ -1,0 +1,16 @@
+block_type: table
+concepts:
+- Box
+- Genesis Layer
+- Layer
+- Meta-Box
+- Meta-Genesis
+- Ω
+excerpt: 'Therefore: E(ΩΔ(X))∈MC.E(\\Omega\\Delta(X)) \\in \\mathcal{MC}.E(ΩΔ(X))∈MC.
+  This is the **Meta-Genesis Layer**.'
+heading: '**Lemma 5 — E promotes the structure into a new layer.**'
+id: GEN17-5139
+lines: 2075-2087
+location: genesis-17/mbc-schema-3::proof-dual-column-formal-proof::lemma-5-e-promotes-the-structure-into-a-new-layer::b1
+parent_heading: '**PROOF (Dual-Column Formal Proof)**'
+source: genesis-17\MBC_Schema_3.md

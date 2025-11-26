@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Meta-Math
+- Π
+- Φ
+- δ
+excerpt: 'A hash function **H** is a deterministic but chaotic compression map. In
+  IGSOA/Meta-Math terms: * **Hashing \= δ-amplification through Φ-chaoticity \+ Π-compression**'
+heading: '**3\. Cryptographic Hashing as a δ-Operator**'
+id: GEN14-2802
+lines: 65-91
+location: genesis-14/meta-math-and-cryptography::3-cryptographic-hashing-as-a-δ-operator::b1
+source: genesis-14\Meta-Math_and_Cryptography.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Math
+- Π
+- δ
+excerpt: 'All secure cryptography is a manifestation of: Cryptographic security≡categorical
+  impossibility of lifting Π back to δ.\\boxed{ \\textbf{Cryptographic security} \\equiv
+  \\text{categorical impossibilit...'
+heading: '**The δ–Φ–Π Cryptographic Projection Principle**'
+id: GEN14-2877
+lines: 1306-1316
+location: genesis-14/meta-math-and-cryptography::unified-consequence::the-δφπ-cryptographic-projection-principle::b1
+parent_heading: '**Unified Consequence**'
+source: genesis-14\Meta-Math_and_Cryptography.md

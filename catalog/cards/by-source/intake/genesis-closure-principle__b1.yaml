@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: δΨ0 exists⟹∀n≥1, δnΨ0 must exist.\\boxed{ \\delta\\Psi\_0\\ \\text{exists}
+  \\quad\\Longrightarrow\\quad \\forall n\\ge 1,\\ \\delta^{n}\\Psi\_0\\ \\text{must
+  exist}. }δΨ0​ exists⟹∀n≥1, δnΨ0​ must exis...
+heading: '**Genesis Closure Principle**'
+id: INTK-10015
+lines: 1091-1106
+location: intake/meta-genesis-mathematical-papers::1-formal-statement::genesis-closure-principle::b1
+parent_heading: '**1\. Formal Statement**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

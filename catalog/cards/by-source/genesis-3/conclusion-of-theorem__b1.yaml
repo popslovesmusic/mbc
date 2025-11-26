@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'By combining Lemmas 1–3, we obtain: δΦ=Φδ⟹Rδ=RΦ=TδΦ\\boxed{ \\delta \\Phi
+  \= \\Phi \\delta \\quad\\Longrightarrow\\quad \\mathcal{R}\_\\delta \= \\mathcal{R}\_\\Phi
+  \= T\_{\\delta\\Phi} }δΦ=Φδ⟹Rδ​=RΦ​...'
+heading: '**Conclusion of Theorem**'
+id: GEN3-7433
+lines: 958-964
+location: genesis-3/the-physics-box-diagram::conclusion-of-theorem::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md

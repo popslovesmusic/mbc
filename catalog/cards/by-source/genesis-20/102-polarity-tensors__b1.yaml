@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Θ
+excerpt: 'We define a polarity tensor Θ⃗ to represent the directional influence profile
+  of a box. For a box with n incoming influences: Θ⃗ \= (Θ₁, Θ₂, … , Θₙ)'
+heading: 10.2 Polarity Tensors
+id: GEN20-6886
+lines: 3110-3116
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::102-polarity-tensors::b1
+parent_heading: ✔️ Do you approve this companion structure?
+source: genesis-20\MBC_40_Documentaitio-1.md

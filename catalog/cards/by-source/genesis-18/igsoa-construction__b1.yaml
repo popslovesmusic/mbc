@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Θ
+- Π
+- Φ
+- δ
+excerpt: A∨ΘB:=Π(Φ(δ∨(A,B)))⋅max⁡(Θ(A),Θ(B))A \\vee\_\\Theta B := \\Pi(\\Phi(\\delta\_{\\lor}(A,B)))
+  \\cdot \\max(\\Theta(A),\\Theta(B))A∨Θ​B:=Π(Φ(δ∨​(A,B)))⋅max(Θ(A),Θ(B))
+heading: '**IGSOA Construction**'
+id: GEN18-5544
+lines: 2084-2086
+location: genesis-18/mbc-4::2-polarity-or-θ-or::igsoa-construction::b1
+parent_heading: '**2\. Polarity OR (Θ-OR)**'
+source: genesis-18\MBC-4.md

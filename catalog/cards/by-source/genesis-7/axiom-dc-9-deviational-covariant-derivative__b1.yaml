@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Γ
+- δ
+excerpt: 'Given any vector field XXX: ∇iδXj=∂iXj+ΓikδjXk.\\nabla^\\delta\_i X^j \=
+  \\partial\_i X^j \+ \\Gamma^\\delta\_{ik}{}^j X^k.∇iδ​Xj=∂i​Xj+Γikδ​jXk. This derivative
+  is the unique δ-compatible operator.'
+heading: '**Axiom DC-9 — Deviational Covariant Derivative**'
+id: GEN7-8666
+lines: 637-645
+location: genesis-7/why-curvature-gives-gravity::iv-operator-theoretic-axioms::axiom-dc-9-deviational-covariant-derivative::b1
+parent_heading: '**IV. OPERATOR-THEORETIC AXIOMS**'
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

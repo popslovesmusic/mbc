@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Event Index
+- Meta-Aggregation
+- Meta-Time
+- τ
+excerpt: Meta-Aggregation is directly tied to the discrete **Event Index (t)**. Each
+  successful aggregation marks a "tick" in the progression of `t`, distinct from the
+  continuous flow of **Meta-Time (τ)**, whi...
+heading: Meta-Time (τ) and Event Index (t)
+id: INTK-10284
+lines: 635-636
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::connection-to-deviation-calculus-and-operators::meta-time-τ-and-event-index-t::b1
+parent_heading: Connection to Deviation Calculus and Operators
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

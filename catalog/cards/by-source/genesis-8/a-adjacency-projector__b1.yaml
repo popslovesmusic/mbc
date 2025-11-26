@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- graph
+- Ψ
+- δ
+excerpt: Extracts adjacency relations induced by deviation. A(δΨ):={(i,j)∣δΨ  couples
+  DOFs i,j}A(\\delta\\Psi) := \\{(i,j)\\mid \\delta\\Psi\\;\\text{couples DOFs }i,j\\}A(δΨ):={(i,j)∣δΨcouples
+  DOFs i,j} Yield...
+heading: '**A — Adjacency Projector**'
+id: GEN8-8795
+lines: 440-446
+location: genesis-8/meta-time-geometry-and-temporal-projection::2-the-four-projectors::a-adjacency-projector::b1
+parent_heading: '**2\. THE FOUR PROJECTORS**'
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

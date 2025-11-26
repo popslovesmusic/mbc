@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- δ
+- λ
+excerpt: 'A **δ-lifting of F** (a categorical connection) is a natural transformation
+  λ:F∘δ⇒δD∘F.\\lambda : F\\circ\\delta \\Rightarrow \\delta\_D\\circ F .λ:F∘δ⇒δD​∘F.
+  Componentwise:'
+heading: '**Definition 3.2 (δ-lifting / connection)**'
+id: GEN5-8028
+lines: 1344-1358
+location: genesis-5/formal-proof-of-the-adjoint-triple::3-lifting-δ-across-a-projection-functor::definition-32-δ-lifting-connection::b1
+parent_heading: '**3\. Lifting δ across a projection functor**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

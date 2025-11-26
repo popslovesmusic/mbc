@@ -1,0 +1,11 @@
+block_type: list
+concepts:
+- δ
+excerpt: '* Soundness via WF predicate and normalization theorem. * Termination via
+  entropy \+ stabilizers \+ grammars. * Completeness relative to δ-semantic truth.'
+heading: My Version
+id: GEN17-4292
+lines: 2174-2183
+location: genesis-17/box-calculus::3-soundness-consistency-sketch-comparison::my-version::b1
+parent_heading: ⭐ 3\. Soundness & Consistency Sketch — Comparison
+source: genesis-17\box_calculus.md

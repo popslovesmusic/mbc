@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: 'IGSOA-specific: ∥δ(E(Σ))∥\<κ⇒E halts ∥δ(E(Σ))∥\<κ⇒E halts'
+heading: 3.5 CURVATURE CONSTRAINT
+id: GEN17-4236
+lines: 1318-1324
+location: genesis-17/box-calculus::3-formal-halting-law::35-curvature-constraint::b1
+parent_heading: ⭐ 3\. Formal Halting Law
+source: genesis-17\box_calculus.md

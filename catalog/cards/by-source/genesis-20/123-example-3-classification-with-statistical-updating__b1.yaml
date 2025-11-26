@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Box
+excerpt: 'Suppose an MBC classifier distinguishes cats vs dogs. We define: * Box S:
+  incoming signal (image or features)'
+heading: 12.3 Example 3 — Classification With Statistical Updating
+id: GEN20-6943
+lines: 3711-3719
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::123-example-3-classification-with-statistical-updating::b1
+parent_heading: ✔️ Do you approve this companion structure?
+source: genesis-20\MBC_40_Documentaitio-1.md

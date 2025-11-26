@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Σ
+- Φ
+excerpt: 'Compute: f^ˇ(ΦΣ1)=ι(Π(f(ΦΣ1)))\\check{\\hat{f}}(\\Phi\\Sigma\_1) \= \\iota\\left(
+  \\Pi(f(\\Phi\\Sigma\_1)) \\right)f^​ˇ​(ΦΣ1​)=ι(Π(f(ΦΣ1​))) But Π is idempotent:'
+heading: '**1\. f^ˇ=f\\check{\\hat{f}} \= ff^​ˇ​=f**'
+id: GEN16-4021
+lines: 3616-3630
+location: genesis-16/untitled-document::3-second-adjoint-pair-φπphi-dashv-piφπ::34-show-they-are-inverse::1-fˇfcheckhatf-ffˇf::b1
+parent_heading: '**3.4 Show they are inverse**'
+source: genesis-16\Untitled_document.md

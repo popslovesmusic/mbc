@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- failure
+- δ
+- λ
+excerpt: For every morphism f:X→Yf:X\\to Yf:X→Y in C\\mathcal{C}C, the **deviational
+  curvature** is the 2-cell Kf=δD(Ff)∘λX  −  λY∘F(δf),\\mathcal{K}\_f \= \\delta\_{\\mathcal{D}}(Ff)\\circ
+  \\lambda\_X \\;-\\;...
+heading: '**Axiom DC5 — Curvature (Naturality Defect).**'
+id: GEN5-8043
+lines: 1566-1582
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc5-curvature-naturality-defect::b1
+parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

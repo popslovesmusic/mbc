@@ -1,0 +1,17 @@
+block_type: table
+concepts:
+- Standard Example
+- Π
+- Φ
+- α
+- δ
+- μ
+- ρ
+excerpt: 'Associativity up to 2-cell: α:μ∘(μ,id)⇒μ∘(id,μ)\\alpha:\\mu\\circ(\\mu,\\mathrm{id})
+  \\Rightarrow \\mu\\circ(\\mathrm{id},\\mu)α:μ∘(μ,id)⇒μ∘(id,μ) Φ-realization:'
+heading: '**8\. Minimal Example (δ-Binary Mode)**'
+id: GEN18-5230
+lines: 1217-1237
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::2-category-operadic-formulation-of-δ-modes::8-minimal-example-δ-binary-mode::b1
+parent_heading: '**2-Category & Operadic Formulation of δ-Modes**'
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md

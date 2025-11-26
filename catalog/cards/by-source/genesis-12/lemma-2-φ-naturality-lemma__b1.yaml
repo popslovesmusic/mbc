@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Proof Sketch
+- Φ
+- δ
+excerpt: '*Φ acts as a covariant functor on δ-spectra.* **Proof Sketch:** From A2,
+  Φ-evolution preserves δ-mode relationships.'
+heading: '**Lemma 2 (Φ-Naturality Lemma)**'
+id: GEN12-1730
+lines: 151-163
+location: genesis-12/untitled-document::4-proof-structure::lemma-2-φ-naturality-lemma::b1
+parent_heading: '**4\. Proof Structure**'
+source: genesis-12\Untitled_document.md

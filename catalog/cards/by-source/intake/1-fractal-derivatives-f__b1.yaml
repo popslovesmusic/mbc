@@ -1,0 +1,16 @@
+block_type: list
+concepts:
+- Fractal Space
+- Meta-Fractal
+- Riemann-Liouville
+- Ψ
+- α
+excerpt: '- **Purpose:** To define derivatives on functions over fractal sets. - **Behavior:**
+  Operates on functions `f(x)` where `x` is in a Meta-Fractal Space. Can take forms
+  like Riemann-Liouville, Caputo, o...'
+heading: 1. Fractal Derivatives (∂_F)
+id: INTK-10420
+lines: 1355-1358
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::meta-calculus-operations::1-fractal-derivatives-f::b1
+parent_heading: Meta-Calculus Operations
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

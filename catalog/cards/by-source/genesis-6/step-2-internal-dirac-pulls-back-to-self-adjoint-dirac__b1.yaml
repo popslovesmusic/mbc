@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: Because x∗x^\*x∗ preserves adjoints and domains for internal unbounded operators
+  in a Hilbert object, Dδ\\mathbf{D}\_\\deltaDδ​ (T4) becomes a densely defined essentially
+  self-adjoint operator Dδ,xD\_...
+heading: '**Step 2: Internal Dirac pulls back to self-adjoint Dirac**'
+id: GEN6-8298
+lines: 526-531
+location: genesis-6/spectral-triple-axiom-box-sealed-version::theorem-toposoperator-equivalence::proof-categorical-internal-external::step-2-internal-dirac-pulls-back-to-self-adjoint-dirac::b1
+parent_heading: '**Proof (Categorical, internal → external)**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

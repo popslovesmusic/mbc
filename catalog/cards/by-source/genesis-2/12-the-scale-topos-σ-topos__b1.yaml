@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Math
+- Scale-Topos
+- The Scale
+- σ
+excerpt: 'The Scale-Topos is your **infinite-scale sheaf topos** used by Meta-Math.
+  Objects: * Sheaves **F: σᵒᵖ → Set** indexed by scale-site σ.'
+heading: '**1.2 The Scale-Topos (σ-Topos)**'
+id: GEN2-6479
+lines: 47-73
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-preliminaries-definitions::12-the-scale-topos-σ-topos::b1
+parent_heading: '**1\. Preliminaries & Definitions**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

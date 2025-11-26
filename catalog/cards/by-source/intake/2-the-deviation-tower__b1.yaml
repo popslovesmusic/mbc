@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- First Movement
+- Meta-Fractal
+- Ψ
+- δ
+excerpt: 'Define iterated deviations: δ0X:=X,δ1X:=δX,δn+1X:=δ(δnX).\\delta^0 X :=
+  X,\\qquad \\delta^1 X := \\delta X, \\qquad \\delta^{n+1}X := \\delta(\\delta^n
+  X).δ0X:=X,δ1X:=δX,δn+1X:=δ(δnX). The collection'
+heading: '**2\. The Deviation Tower**'
+id: INTK-9946
+lines: 40-66
+location: intake/meta-genesis-mathematical-papers::2-the-deviation-tower::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md

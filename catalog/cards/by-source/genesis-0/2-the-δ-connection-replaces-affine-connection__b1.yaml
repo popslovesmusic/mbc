@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Γ
+- δ
+- δ-connection
+excerpt: 'Define the **δ-connection** ∇(δ)\\nabla^{(\\delta)}∇(δ) on DDD by: ∇a(δ)δ(m)=∂aδ(m)+Γan(m) δ(n)\\nabla^{(\\delta)}\_a
+  \\delta^{(m)} \= \\partial\_a \\delta^{(m)} \+ \\Gamma^{(m)}\_{a n}\\, \\delta^{(n...'
+heading: '**2\. The δ-Connection (replaces affine connection)**'
+id: GEN0-040
+lines: 513-524
+location: genesis-0/feynman-rules-interaction-vertices::2-the-δ-connection-replaces-affine-connection::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

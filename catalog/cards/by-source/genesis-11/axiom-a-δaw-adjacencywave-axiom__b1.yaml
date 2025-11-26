@@ -1,0 +1,21 @@
+block_type: paragraph
+concepts:
+- Adjacency Laplacian
+- Adjacency Wave Equation
+- Deviation Operator
+- Genesis-Time
+- Meta-Time
+- Operator
+- Time Parameter
+- Ψ
+- δ
+- τ
+excerpt: 'Let **𝒜** be the fundamental *adjacency object* of IGSOA, equipped with:
+  * a **δ-Deviation Operator** `δ: Obj → Obj`, * an **Adjacency Laplacian** `Δₐ :=
+  ∂ₐ·∂ₐ` induced by the adjacency derivative `∂ₐ...'
+heading: '**Axiom A-δAW (Adjacency–Wave Axiom).**'
+id: GEN11-1238
+lines: 6-20
+location: genesis-11/the-adjacency-wave-equation::the-δadjacency-wave-equation::axiom-a-δaw-adjacencywave-axiom::b1
+parent_heading: '**The δ–Adjacency Wave Equation**'
+source: genesis-11\The_Adjacency_Wave_Equation.md

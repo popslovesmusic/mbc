@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- α
+- δ
+excerpt: 'Leff⊃δ(x) K(x−y) δ(y)\\mathcal{L}\_{\\text{eff}}\\supset \\delta(x)\\,K(x-y)\\,\\delta(y)Leff​⊃δ(x)K(x−y)δ(y)
+  Feynman rule: VδKδ=−iK\~(p)V\_{\\delta K \\delta} \= \-i \\tilde{K}(p)VδKδ​=−iK\~(p)'
+heading: '**Effective δ-Nonlocal 2-vertex**'
+id: GEN0-016
+lines: 172-186
+location: genesis-0/feynman-rules-interaction-vertices::5-adjacency-induced-effective-nonlocal-vertices::effective-δ-nonlocal-2-vertex::b1
+parent_heading: '**5\. Adjacency-Induced Effective Nonlocal Vertices**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

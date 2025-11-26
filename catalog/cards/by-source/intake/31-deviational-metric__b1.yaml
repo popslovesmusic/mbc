@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- not
+- δ
+excerpt: 'Distance is **not** assumed. It is the minimal number of δ-applications
+  connecting two states: dδ(Si,Sj)=min⁡{n∣δnSi=Sj}.d\_{\\delta}(S\_i, S\_j)=\\min
+  \\{n\\mid \\delta^n S\_i \= S\_j\\}.dδ​(Si​,Sj​)...'
+heading: '**3.1 Deviational Metric**'
+id: INTK-9932
+lines: 582-598
+location: intake/meta-genesis-diagrammatic-papers::3-constructed-geometric-structures::31-deviational-metric::b1
+parent_heading: '**3\. Constructed Geometric Structures**'
+source: intake\Meta-Genesis_Diagrammatic_Papers.md

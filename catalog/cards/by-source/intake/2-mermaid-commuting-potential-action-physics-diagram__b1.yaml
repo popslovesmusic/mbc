@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Meta-Einstein
+- Ψ
+- δ
+- μ
+- ν
+excerpt: '`flowchart LR` `ZS["Ψ₀"] -->|"Deviation necessity"| P1["Ψ₁ = δΨ₀"]` `P1
+  -->|"iterated δ"| H["𝓗"]`'
+heading: '**2\) Mermaid: Commuting “Potential ↔ Action ↔ Physics” Diagram**'
+id: INTK-9701
+lines: 794-811
+location: intake/axioms-geometry::if-you-want-next::2-mermaid-commuting-potential-action-physics-diagram::b1
+parent_heading: '**If you want next:**'
+source: intake\Axioms-geometry.md

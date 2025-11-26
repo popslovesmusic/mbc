@@ -1,0 +1,17 @@
+block_type: table
+concepts:
+- Bilinear Polarity Product
+- Inner Product
+- Standard Math
+- Structure Constant Table
+- The Canonical
+- Θ
+- δ
+excerpt: We need a metric for raising/lowering indices and for contraction. g\_{ij}
+  \= \\begin{pmatrix} \+1 & 0 & 0 & 0 \\\\ 0 & \-1 & 0 & 0 \\\\ 0 & 0 & 0 & 0 \\\\
+  0 & 0 & 0 & 0 \\end{pmatrix} \\\] | • Θ+ amp...
+heading: '**3\. Polarity Metric (Θ-Metric)**'
+id: GEN19-5842
+lines: 297-310
+location: genesis-19/mbc-4-1::3-polarity-metric-θ-metric::b1
+source: genesis-19\MBC-4_1.md

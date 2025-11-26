@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- α
+- β
+- γ
+- δ
+- λ
+- μ
+excerpt: 'Putting all contributions into the master equation: ∇a(δ)(gab∇b(δ)δ(m))=μδ2δ(m)+λδ∥δ∥2δ(m)−α∇a(δ)∇(δ)aδ(m)−β(∇(δ)δ)2∇a(δ)∇(δ)aδ(m)−γ∂A∂δ(m)\\boxed{
+  \\nabla^{(\\delta)}\_a \\left( g^{ab} \\nabla^{(\\de...'
+heading: '**IV. Assemble the vacuum equation**'
+id: GEN0-103
+lines: 1468-1476
+location: genesis-0/feynman-rules-interaction-vertices::iv-assemble-the-vacuum-equation::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

@@ -1,0 +1,11 @@
+block_type: table
+concepts:
+- δ
+excerpt: 'The general rule: modes=3×(adjacency DOF)\\text{modes} \= 3 \\times (\\text{adjacency
+  DOF})modes=3×(adjacency DOF) Where “adjacency DOF” \= number of independent ways
+  deviation can propagate.'
+heading: '**🔥 4\. Why this works: Degrees of freedom multiply modes**'
+id: SPEC-11086
+lines: 1771-1789
+location: special/specil::4-why-this-works-degrees-of-freedom-multiply-modes::b1
+source: special\specil.md

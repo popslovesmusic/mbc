@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Deviational Geometry
+- projection
+- δ
+- μ
+- ν
+excerpt: 'Apply projection π∗ \\pi\_\*π∗​: * GABδ↦GμνG^\\delta\_{AB} \\mapsto G\_{\\mu\\nu}GABδ​↦Gμν​
+  * TABδ↦TμνT^\\delta\_{AB} \\mapsto T\_{\\mu\\nu}TABδ​↦Tμν​'
+heading: '**7\. Full Projection to Classical Einstein Field Equation**'
+id: INTK-9671
+lines: 348-366
+location: intake/axioms-geometry::7-full-projection-to-classical-einstein-field-equation::b1
+source: intake\Axioms-geometry.md

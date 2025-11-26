@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- δ
+- μ
+- ν
+excerpt: 'Every adjacency mode generates a gauge curvature: Aμν(a)=∂μAν(a)−∂νAμ(a)+fabcAμ(b)Aν(c).\\mathcal{A}\_{\\mu\\nu}^{(a)}
+  \= \\partial\_\\mu A\_\\nu^{(a)} \- \\partial\_\\nu A\_\\mu^{(a)} \+ f^{abc}A\_\\...'
+heading: '**Axiom 6 — δ-Gauge Correspondence (Adjacency → Gauge Fields)**'
+id: GEN7-8473
+lines: 490-499
+location: genesis-7/the-complete-eft-lagrangian::the-δ-eft-axiom-box-sealed::axiom-6-δ-gauge-correspondence-adjacency-gauge-fields::b1
+parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

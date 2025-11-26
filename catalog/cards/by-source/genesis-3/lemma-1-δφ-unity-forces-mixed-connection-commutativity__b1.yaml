@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: '**Statement.** If δΦ=Φδ\\delta\\Phi \= \\Phi\\deltaδΦ=Φδ then the mixed
+  covariant derivatives commute: \[∇δ,∇Φ\]=0.\[\\nabla\_\\delta , \\nabla\_\\Phi\]
+  \= 0.\[∇δ​,∇Φ​\]=0.'
+heading: '**Lemma 1\. δ–Φ Unity Forces Mixed-Connection Commutativity**'
+id: GEN3-7445
+lines: 1079-1106
+location: genesis-3/the-physics-box-diagram::lemma-1-δφ-unity-forces-mixed-connection-commutativity::b1
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md

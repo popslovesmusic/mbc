@@ -1,0 +1,12 @@
+block_type: list
+concepts:
+- Advanced Volume
+- Θ
+excerpt: '* Θ (polarity) represented as weighted directional metadata * combine()
+  functions for polarity alignment * resolve() functions for polarity conflict'
+heading: 'Key Components:'
+id: GEN20-7033
+lines: 4734-4748
+location: genesis-20/mbc-40-documentaitio-1::conclusion::144-polarity-algebra-implementation::key-components::b1
+parent_heading: 14.4 Polarity Algebra Implementation
+source: genesis-20\MBC_40_Documentaitio-1.md

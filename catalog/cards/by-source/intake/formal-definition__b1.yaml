@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Time
+- Time Cone
+- δ
+- τ
+excerpt: 'Given system state δ(x,τ₀), Meta-Time Cone: ``` C(δ₀) = { δ | ∃ τ > τ₀ with
+  M(δ₀,δ) ≥ 0 }'
+heading: Formal Definition
+id: INTK-10812
+lines: 2510-2520
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::meta-time-cone-definition::formal-definition::b1
+parent_heading: Meta-Time Cone Definition
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md

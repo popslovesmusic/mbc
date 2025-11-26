@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Box
+- Π
+excerpt: Π↛E\\boxed{ \\Pi \\not\\to E }Π→E​ If a Π output feeds back, it must go
+  to A or a new Box spawn. ---
+heading: '**5.2 No Π→E reopening (resolution is terminal)**'
+id: GEN16-3841
+lines: 1364-1370
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::5-forbidden-local-patterns-rejection-rules::52-no-πe-reopening-resolution-is-terminal::b1
+parent_heading: '**5\. Forbidden Local Patterns (Rejection Rules)**'
+source: genesis-16\Untitled_document.md

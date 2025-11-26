@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Given any δ-object X∈SX \\in \\mathcal{S}X∈S, there exists a functor A:S→S\\mathcal{A}:
+  \\mathcal{S} \\to \\mathcal{S}A:S→S defined by:'
+heading: '**Theorem A.2.1 (Existence of A\\mathcal{A}A).**'
+id: INTK-10632
+lines: 1203-1215
+location: intake/volume-i-core-ontology-and-metagenesis-summary::a2-existence-of-the-adjacency-functor::theorem-a21-existence-of-amathcalaa::b1
+parent_heading: '**A.2 Existence of the Adjacency Functor**'
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md

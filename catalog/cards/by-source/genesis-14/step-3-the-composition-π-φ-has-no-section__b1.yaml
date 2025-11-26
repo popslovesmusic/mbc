@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- Ψ
+- δ
+excerpt: 'Assume a lift exists: L:P→D,L∘Π∘Φ=idD.L : \\mathcal{P} \\to \\mathcal{D},
+  \\quad L ∘ Π ∘ Φ \= \\mathrm{id}\_{\\mathcal{D}}.L:P→D,L∘Π∘Φ=idD​. Then L must reconstruct
+  all δ from the projected space.'
+heading: '**Step 3 — The composition Π ∘ Φ has no section.**'
+id: GEN14-2895
+lines: 1524-1547
+location: genesis-14/meta-math-and-cryptography::3-main-theorem-the-no-lift-theorem-for-cryptography::31-proof-structure::step-3-the-composition-π-φ-has-no-section::b1
+parent_heading: '**3.1 Proof Structure**'
+source: genesis-14\Meta-Math_and_Cryptography.md

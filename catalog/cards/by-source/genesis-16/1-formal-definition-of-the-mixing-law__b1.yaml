@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Aggregation Operator
+- Operator
+- Σ
+- α
+- β
+- δ
+excerpt: 'We define the **Aggregation Operator A** as the canonical merge over Σ-states:
+  A(Σ1,Σ2)=Σ1⊕Σ2=α Σ1+β Σ2+δ(Σ1,Σ2)\\boxed{ A(\\Sigma\_1, \\Sigma\_2) \= \\Sigma\_1
+  \\oplus \\Sigma\_2 \= \\alpha\\,\\Sigma...'
+heading: '**1\. Formal Definition of the Mixing Law**'
+id: GEN16-3796
+lines: 834-842
+location: genesis-16/untitled-document::1-formal-definition-of-the-mixing-law::b1
+source: genesis-16\Untitled_document.md

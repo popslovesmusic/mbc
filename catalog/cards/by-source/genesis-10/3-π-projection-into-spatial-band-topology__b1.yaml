@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- δ
+- ν
+excerpt: 'Let Π\\PiΠ be the spatial projection operator producing Bloch-type sectors:
+  ψ↦ψk=Π(ψ).\\psi \\mapsto \\psi\_k \= \\Pi(\\psi).ψ↦ψk​=Π(ψ). Π pushes δ-curvature
+  to spatial Berry curvature:'
+heading: '**(3) Π-Projection into Spatial Band Topology**'
+id: GEN10-736
+lines: 821-835
+location: genesis-10/how-stillness-becomes-solid::the-δ-φ-π-z₂-invariant-axiom::3-π-projection-into-spatial-band-topology::b1
+parent_heading: '**The δ → Φ → Π Z₂ Invariant Axiom**'
+source: genesis-10\How_Stillness_Becomes_Solid_.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: The near-horizon adjacency operator admits a δ-harmonic expansion δ(r)=δ0+∑n=1∞δn ψn(r),\\delta(r)=\\delta\_0+\\sum\_{n=1}^{\\infty}\\delta\_n\\,\\psi\_n(r),δ(r)=δ0​+n=1∑∞​δn​ψn​(r),
+  where the eigenmo...
+heading: '**Axiom δH-1 (δ-Harmonic Decomposition of Adjacency)**'
+id: GEN11-1046
+lines: 805-821
+location: genesis-11/how-curvature-could-generate-an-axis::the-δ-harmonic-echo-spectrum-axiom::axiom-δh-1-δ-harmonic-decomposition-of-adjacency::b1
+parent_heading: '**The δ-Harmonic Echo Spectrum Axiom**'
+source: genesis-11\How_-curvature_could_generate_an_Axis.md

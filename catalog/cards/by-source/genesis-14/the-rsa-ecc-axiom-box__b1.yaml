@@ -1,0 +1,21 @@
+block_type: paragraph
+concepts:
+- Algebraic Public
+- Axiom
+- Key Systems
+- No Natural Inversion
+- One-Way
+- Public Projection
+- Public-Key
+- Trapdoor Consistency
+- Way Morphism
+- Π
+- Φ
+- δ
+excerpt: '*(Algebraic Public-Key Systems)* **Axiom PK1 (Algebraic δ-Secrets):** RSA:
+  δ \= (p, q).'
+heading: '**The RSA / ECC Axiom Box**'
+id: GEN14-2868
+lines: 1121-1149
+location: genesis-14/meta-math-and-cryptography::the-rsa-ecc-axiom-box::b1
+source: genesis-14\Meta-Math_and_Cryptography.md

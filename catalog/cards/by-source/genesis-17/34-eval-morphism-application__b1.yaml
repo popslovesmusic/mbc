@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Λ
+excerpt: 'If B \= eval(F, X): Λ(B)=Λ(F) Λ(X) Λ(B)=Λ(F)Λ(X)'
+heading: 3.4 eval morphism → application
+id: GEN17-4506
+lines: 5781-5786
+location: genesis-17/box-calculus::3-explicit-translation-box-λ::34-eval-morphism-application::b1
+parent_heading: ⭐ 3\. Explicit Translation Box → λ
+source: genesis-17\box_calculus.md

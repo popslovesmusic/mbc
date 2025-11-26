@@ -1,0 +1,12 @@
+block_type: list
+concepts:
+- Self-adjoint
+- δ
+excerpt: 1. **Unbounded, densely defined** 2. **Self-adjoint** on its natural domain
+  3. **Compact resolvent**
+heading: '**Properties:**'
+id: GEN6-8371
+lines: 79-86
+location: genesis-6/the-harmonic-spectral-triple::3-dirac-like-operator-dδd-deltadδ::properties::b1
+parent_heading: '**3\. Dirac-Like Operator DδD\_\\deltaDδ​**'
+source: genesis-6\The_-Harmonic_Spectral_Triple.md

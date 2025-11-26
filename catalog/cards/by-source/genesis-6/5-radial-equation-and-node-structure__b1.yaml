@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+- λ
+excerpt: 'Radial part: 1r2ddr(r2δrdRdr)−λℓ(δ)r2R+2mℏ2V(r)R=−k2R(10)\\frac{1}{r^2}\\frac{d}{dr}\\Big(r^2\\delta\_r\\frac{dR}{dr}\\Big)
+  \-\\frac{\\lambda\_\\ell^{(\\delta)}}{r^2}R \+ \\frac{2m}{\\hbar^2}V(r)R \= ...'
+heading: '**5\. Radial Equation and Node Structure**'
+id: GEN6-8218
+lines: 161-181
+location: genesis-6/harmonics-atomic-orbitals::5-radial-equation-and-node-structure::b1
+source: genesis-6\-Harmonics__Atomic_Orbitals.md

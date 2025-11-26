@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- functorial
+- Φ
+- Ψ
+- δ
+- η
+- σ
+excerpt: 'Define: δnΨ0:=δ(δn−1Ψ0).(A.2.3)\\delta^n \\Psi\_0 := \\delta(\\delta^{n-1}\\Psi\_0).
+  \\tag{A.2.3}δnΨ0​:=δ(δn−1Ψ0​).(A.2.3) The δ-tower:'
+heading: '**Axiom A5 (Iterated Deviations).**'
+id: GEN2-6542
+lines: 998-1014
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a2-deviational-structure::axiom-a5-iterated-deviations::b1
+parent_heading: '**A.2 Deviational Structure**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

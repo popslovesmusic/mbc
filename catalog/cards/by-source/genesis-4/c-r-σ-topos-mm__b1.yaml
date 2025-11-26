@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Action Realization
+- Categorical Meta
+- Math Extraction Functor
+- Meta-Einstein
+- Meta-Lagrangian
+- Meta-Math
+- δ
+- σ
+excerpt: Right adjoint of U′U'U′. Meta-Math Extraction Functor (“Action Realization”)
+  R(F)=RealizedOperators(F)R(\\mathcal{F}) \= \\text{RealizedOperators}(\\mathcal{F})R(F)=RealizedOperators(F)
+heading: '**(C) R : σ-Topos → MM**'
+id: GEN4-7724
+lines: 146-171
+location: genesis-4/the-adjoint-triple::2-the-functors-of-the-adjoint-triple::c-r-σ-topos-mm::b1
+parent_heading: '**2\. The Functors of the Adjoint Triple**'
+source: genesis-4\The_Adjoint_Triple.md

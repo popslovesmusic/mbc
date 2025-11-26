@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Λ
+- β
+- δ
+- λ
+- μ
+excerpt: Because loops are spectral sums over δ-harmonics, ∑λn\<Λ1(λn+m2)k∼∫Λdμδ(λ) λ−k,\\sum\_{\\lambda\_n\<\\Lambda}
+  \\frac{1}{(\\lambda\_n+m^2)^k} \\sim \\int^{\\Lambda} d\\mu\_\\delta(\\lambda)\\,\\lambda^...
+heading: '**2\) One-Loop δ-Beta Functions (Minimal Form)**'
+id: GEN6-8329
+lines: 926-944
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::2-one-loop-δ-beta-functions-minimal-form::b1
+parent_heading: '**If you want next:**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

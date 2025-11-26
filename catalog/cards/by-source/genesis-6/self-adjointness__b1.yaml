@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: Adjacency is self-adjoint, δ increments adjacency symmetrically, so ∂δAdj
+  is essentially self-adjoint on the δ-polynomial domain. ---
+heading: '**Self-adjointness:**'
+id: GEN6-8273
+lines: 182-186
+location: genesis-6/spectral-triple-axiom-box-sealed-version::2-δ-dirac-operator-satisfies-s2::self-adjointness::b1
+parent_heading: '**(2) δ-Dirac Operator Satisfies S2**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

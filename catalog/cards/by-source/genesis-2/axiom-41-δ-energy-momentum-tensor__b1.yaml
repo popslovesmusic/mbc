@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Every δ-object carries a canonical internal tensor Tδ:A⊗A→RT\_\\delta :
+  A \\otimes A \\rightarrow \\mathbb{R}Tδ​:A⊗A→R defined via the δ-Lagrangian internal
+  to the topos.'
+heading: '**Axiom 4.1 — δ-Energy-Momentum Tensor**'
+id: GEN2-6306
+lines: 164-174
+location: genesis-2/axioms-of-geometry-topos-compatible::4-deviational-energy-and-dynamics::axiom-41-δ-energy-momentum-tensor::b1
+parent_heading: '**4\. Deviational Energy and Dynamics**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- μ
+- ν
+excerpt: P(∇Φ⋅TΦ=0)↦∇Meta⋅TμνMeta=0.\\mathcal{P}(\\nabla^\\Phi \\cdot T\_\\Phi \=
+  0\) \\quad\\mapsto\\quad \\nabla\_{\\text{Meta}} \\cdot T\_{\\mu\\nu}^{\\text{Meta}}
+  \= 0.P(∇Φ⋅TΦ​=0)↦∇Meta​⋅TμνMeta​=0. This e...
+heading: '**3.3 Φ-Conservation → Physical Conservation**'
+id: GEN2-6376
+lines: 1019-1037
+location: genesis-2/axioms-of-geometry-topos-compatible::3-matter-energy-mapping::33-φ-conservation-physical-conservation::b1
+parent_heading: '**3\. Matter / Energy Mapping**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

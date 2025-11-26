@@ -1,0 +1,25 @@
+block_type: table
+concepts:
+- Operator
+- Semantic Logic
+- Standard Analogue
+- Θ
+- Π
+- Π-Resolve
+- Π-Stabilize
+- Σ
+- Φ
+- Φ-Carry
+- Φ-Compose
+- Φ-Project
+- Ω
+- δ
+- δ-Fork
+excerpt: '**Cross-reference:** Operators ΣΣₐ and Θ come from your router/polarity
+  system. ---'
+heading: '**2\. Derived Semantic Operators (“Functional Layer”)**'
+id: GEN18-5356
+lines: 29-47
+location: genesis-18/mbc-4::mbc-40-semantic-operator-table::2-derived-semantic-operators-functional-layer::b1
+parent_heading: '**MBC-4.0 Semantic Operator Table**'
+source: genesis-18\MBC-4.md

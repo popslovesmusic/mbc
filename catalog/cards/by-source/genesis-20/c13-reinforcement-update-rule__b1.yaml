@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Θ
+- α
+- β
+excerpt: 'When signals are consistent: w(t+1)=w(t)+α(Θ) w'
+heading: C1.3 Reinforcement Update Rule
+id: GEN20-7262
+lines: 8113-8136
+location: genesis-20/mbc-40-documentaitio-1::c13-reinforcement-update-rule::b1
+source: genesis-20\MBC_40_Documentaitio-1.md

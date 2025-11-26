@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- colimit
+- Π
+- Φ
+- δ
+- ρ
+excerpt: Π is a functor Π:BoxΦ→Poset\\Pi:\\mathbf{Box}\_\\Phi \\to \\mathbf{Poset}Π:BoxΦ​→Poset
+  such that for any T in Oδ(2)\\mathcal{O}^{(2)}\_\\deltaOδ(2)​,
+heading: '**Standard Kan Law**'
+id: GEN18-5264
+lines: 1774-1786
+location: genesis-18/chapter-how-expansion-happened-before-time-existed::part-iii-π-as-a-left-kan-extension-causal-evaluation::2-left-kan-extension-π-is-the-universal-causal-realization::standard-kan-law::b1
+parent_heading: '**2\. Left Kan Extension: Π is the Universal Causal Realization**'
+source: genesis-18\Chapter__How_Expansion_Happened_Before_Time_Existed.md

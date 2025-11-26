@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- σ
+excerpt: 'There exists a functor U:MM→σTopU : MM \\to \\sigma TopU:MM→σTop that forgets
+  operator action and retains only the sheaf-wise adjacency data.'
+heading: '**Axiom D (Structural Forgetful Functor).**'
+id: GEN5-7936
+lines: 38-46
+location: genesis-5/formal-proof-of-the-adjoint-triple::0-preliminaries-and-axiom-assumptions::axiom-d-structural-forgetful-functor::b1
+parent_heading: '**0\. Preliminaries and Axiom Assumptions**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

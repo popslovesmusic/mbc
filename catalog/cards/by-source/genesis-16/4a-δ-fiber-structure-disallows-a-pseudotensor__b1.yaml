@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- orientation-odd
+- δ
+excerpt: The ε-tensor requires an **orientation-odd** 4-form. The δ-bundle curvature
+  lives in a **3-fibered adjacency space**, not a 4-form manifold. Thus ε is undefined
+  in δ-geometry.
+heading: '**4a. δ-Fiber Structure Disallows a Pseudotensor**'
+id: GEN16-3711
+lines: 501-505
+location: genesis-16/quantum-measurement-in-igsoa-vs::proof-igsoa-side::4-the-cp-odd-contraction-is-geometrically-forbidden::4a-δ-fiber-structure-disallows-a-pseudotensor::b1
+parent_heading: '**4\. The CP-Odd Contraction is Geometrically Forbidden**'
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md

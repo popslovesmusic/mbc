@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- δ
+- λ
+excerpt: To every harmonic triplet (λn,1,λn,2,λn,3)(\\lambda\_{n,1},\\lambda\_{n,2},\\lambda\_{n,3})(λn,1​,λn,2​,λn,3​)
+  there exists a **unique orbital class** Πn=span{ψn,1,ψn,2,ψn,3},\\Pi\_{n} \= \\text{span}...
+heading: '**Axiom H2 — Degeneracy–Orbit Correspondence**'
+id: GEN9-9025
+lines: 24-38
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::axiom-box-the-δ-harmonic-periodic-table-theorem::axiom-h2-degeneracyorbit-correspondence::b1
+parent_heading: '**AXIOM BOX — The δ-Harmonic Periodic Table Theorem**'
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md

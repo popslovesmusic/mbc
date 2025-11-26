@@ -1,0 +1,9 @@
+block_type: paragraph
+concepts: []
+excerpt: MBC never becomes a numeric engine. * It does not compute gradients in the
+  neural-network sense. * It does not run linear algebra as its core mechanism.
+heading: ✅ 4\. How this differs from traditional numerical systems
+id: GEN20-6733
+lines: 1028-1039
+location: genesis-20/mbc-40-documentaitio-1::4-how-this-differs-from-traditional-numerical-systems::b1
+source: genesis-20\MBC_40_Documentaitio-1.md

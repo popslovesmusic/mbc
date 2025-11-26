@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'The CSOI extension modifies the curvature functional by extending adjacency:
+  δCSOI(x)=∫C(x)Kδ(∣x−y∣) dy,\\delta\_{\\mathrm{CSOI}}(x) \= \\int\_{\\mathcal{C}(x)}
+  K\_\\delta(|x-y|)\\,dy,δCSOI​(x)=∫C(x)​...'
+heading: '**II. Construction of the CSOI Tensor Θμν\\Theta\_{\\mu\\nu}Θμν​**'
+id: GEN15-3312
+lines: 843-849
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::ii-construction-of-the-csoi-tensor-θμνtheta-munuθμν::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md

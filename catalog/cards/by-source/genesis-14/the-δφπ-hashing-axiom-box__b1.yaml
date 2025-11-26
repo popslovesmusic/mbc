@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Collision Stability
+- Deviation Injection
+- No-Lift
+- One-Page
+- Projection Collapse
+- Π
+- Φ
+- δ
+excerpt: '*(Hermetic, One-Page)* **Axiom H1 (Deviation Injection):** Every hash function
+  begins with a δ-difference; no δ \= 0 system is secure.'
+heading: '**The δ→Φ→Π Hashing Axiom Box**'
+id: GEN14-2866
+lines: 1067-1091
+location: genesis-14/meta-math-and-cryptography::the-δφπ-hashing-axiom-box::b1
+source: genesis-14\Meta-Math_and_Cryptography.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'A topology T\\mathcal{T}T is **induced by adjacency** if: U⊆A is open   ⟺  ∀Ψn∈U,
+  Nδ(Ψn)⊆U.U \\subseteq \\mathcal{A} \\text{ is open } \\iff \\forall \\Psi\_n \\in
+  U,\\ N\_\\delta(\\Psi\_n) \\subseteq...'
+heading: '**Definition 3 — Topological Realization**'
+id: GEN4-7842
+lines: 542-548
+location: genesis-4/the-first-adjacency::2-definitions::definition-3-topological-realization::b1
+parent_heading: '**2\. Definitions**'
+source: genesis-4\The_First_Adjacency.md

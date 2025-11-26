@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- η
+excerpt: 'For each object Δ∈C\\Delta \\in \\mathcal{C}Δ∈C, define: ηΔ=Δ⟶ΦΦ(Δ)⟶ΠΠ(Φ(Δ))⟶LL(Π(Φ(Δ)))⟶NN(L(Π(Φ(Δ))))=F(Δ)\\eta\_\\Delta
+  \= \\Delta \\overset{\\Phi}{\\longrightarrow} \\Phi(\\Delta) \\overset{\\Pi}{...'
+heading: '**6\. Definition of η (the Transformation Components)**'
+id: GEN15-3400
+lines: 372-380
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::6-definition-of-η-the-transformation-components::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- 1-morphisms
+- Π
+- Φ
+- δ
+excerpt: 'We must show a **pasting identity in the bicategory**: FMP∘FGM    ≅    Π∘Φ∘δF\_{MP}\\circ
+  F\_{GM} \\;\\;\\cong\\;\\; \\Pi\\circ\\Phi\\circ\\deltaFMP​∘FGM​≅Π∘Φ∘δ as **1-morphisms**,
+  with the isomorphis...'
+heading: '**2\. The Goal in 2-Categorical Terms**'
+id: GEN13-2428
+lines: 2246-2270
+location: genesis-13/the-weight-of-light::2-the-goal-in-2-categorical-terms::b1
+source: genesis-13\The_Weight_of_Light.md

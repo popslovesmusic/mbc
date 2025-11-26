@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- new
+- Ψ
+- δ
+excerpt: 'Each application of δ yields a **new** state: δ:Ψn↦Ψn+1\\delta : \\Psi\_n
+  \\mapsto \\Psi\_{n+1}δ:Ψn​↦Ψn+1​ with:'
+heading: '**δ-Axiom 5 — Generativity**'
+id: GEN2-6283
+lines: 979-995
+location: genesis-2/axioms-for-the-category-genesis::δ-axiom-5-generativity::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md

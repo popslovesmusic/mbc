@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Γ
+- α
+- δ
+- μ
+- ν
+excerpt: 'δ induces curvature: Rμν(δ)=∇μ∇νδ−Γμνα∂αδ,\\mathcal{R}\_{\\mu\\nu}(\\delta)
+  \= \\nabla\_\\mu\\nabla\_\\nu\\delta \- \\Gamma^\\alpha\_{\\mu\\nu}\\partial\_\\alpha\\delta,Rμν​(δ)=∇μ​∇ν​δ−Γμνα​∂α​δ,
+  and ...'
+heading: '**Axiom 6 — Deviational Geometry Compatibility**'
+id: GEN7-8506
+lines: 967-980
+location: genesis-7/the-complete-eft-lagrangian::axiom-6-deviational-geometry-compatibility::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

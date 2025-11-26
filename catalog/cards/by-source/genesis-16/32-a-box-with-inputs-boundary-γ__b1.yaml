@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Box
+- Γ
+- Λ
+- λ
+excerpt: 'If Γ contains variables x1,…,xnx\_1,\\ldots,x\_nx1​,…,xn​: Λ(B)=λx1.⋯λxn.Λ(internal
+  Box)\\Lambda(B) \= \\lambda x\_1.\\cdots\\lambda x\_n.\\Lambda(\\text{internal Box})Λ(B)=λx1​.⋯λxn​.Λ(internal
+  Box) ...'
+heading: '**3.2 A Box with inputs (boundary Γ)**'
+id: GEN16-4091
+lines: 4518-4524
+location: genesis-16/untitled-document::3-explicit-translation-box-λ::32-a-box-with-inputs-boundary-γ::b1
+parent_heading: '**⭐ 3\. Explicit Translation Box → λ**'
+source: genesis-16\Untitled_document.md

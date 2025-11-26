@@ -1,0 +1,12 @@
+block_type: table
+concepts:
+- Layer
+- σ
+excerpt: '**Layer 1:** * r1=A∨B=sign⁡(σA+σB+0.5)r\_1 \= A\\lor B \= \\operatorname{sign}(\\sigma\_A+\\sigma\_B+0.5)r1​=A∨B=sign(σA​+σB​+0.5)
+  * r2=A∧B=sign⁡(σA+σB−1.5)r\_2 \= A\\land B \= \\operatorname{sign}(\\...'
+heading: '**5\. XOR (requires 2-layer Θ-network)**'
+id: GEN19-5960
+lines: 1110-1128
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-canonical-operator-table-dual-column::5-xor-requires-2-layer-θ-network::b1
+parent_heading: '**I. Canonical Operator Table (dual-column)**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

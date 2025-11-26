@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- branching
+- difference
+- Ψ
+- δ
+excerpt: 'Adjacency alone is “flat” until you attempt to propagate δ along *different
+  adjacency branches*. Take two δ-displacements: δi, δj.\\delta\_i,\\ \\delta\_j .δi​,
+  δj​.'
+heading: '**Step 2 — δ on adjacency forces Curvature**'
+id: GEN0-175
+lines: 254-277
+location: genesis-0/tri-unity-theorem-equivalence-of::proof::step-2-δ-on-adjacency-forces-curvature::b1
+parent_heading: '**Proof**'
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md

@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- complete
+- full
+- non-monoidal
+- partial
+- weak
+- Ψ
+- δ
+excerpt: 'Genesis is a *weak*, *partial*, *non-monoidal* proto-category with: * **no
+  identities at Ψ₀** * **no invertible morphisms**'
+heading: '**🔶 Step 1 — Genesis and Math are defined on disjoint structural primitives**'
+id: GEN2-6261
+lines: 606-650
+location: genesis-2/axioms-for-the-category-genesis::step-1-genesis-and-math-are-defined-on-disjoint-structural-primitives::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md

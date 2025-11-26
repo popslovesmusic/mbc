@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- δ
+- δ-connection
+- λ
+excerpt: 'There is a natural transformation λ:F∘δ⇒δD∘F\\lambda : F\\circ \\delta \\Rightarrow
+  \\delta\_{\\mathcal{D}} \\circ Fλ:F∘δ⇒δD​∘F called the **deviational lifting** or
+  **δ-connection**, expressing how d...'
+heading: '**Axiom DC4 — Deviational Lifting (Connection).**'
+id: GEN5-8042
+lines: 1550-1564
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc4-deviational-lifting-connection::b1
+parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

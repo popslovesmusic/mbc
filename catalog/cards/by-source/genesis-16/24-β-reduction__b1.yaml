@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- In Box Calculus
+- Π
+- Σ
+- β
+- λ
+excerpt: 'In λ-calculus: (λx.M) N    →    M\[x:=N\](\\lambda x.M)\\, N\\;\\;\\to\\;\\;
+  M\[x:=N\](λx.M)N→M\[x:=N\] In Box Calculus:'
+heading: '**⭐ 2.4 β-reduction**'
+id: GEN16-4088
+lines: 4478-4500
+location: genesis-16/untitled-document::2-explicit-translation-λ-box::24-β-reduction::b1
+parent_heading: '**⭐ 2\. Explicit Translation λ → Box**'
+source: genesis-16\Untitled_document.md

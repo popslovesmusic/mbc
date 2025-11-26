@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'A:S→S\\mathcal{A}: \\mathcal{S} \\to \\mathcal{S}A:S→S is a functor that
+  acts on δ-objects by: A(X)=⨁Y∼XHom(X,Y)\\mathcal{A}(X) \= \\bigoplus\_{Y \\sim X}
+  \\text{Hom}(X,Y)A(X)=Y∼X⨁​Hom(X,Y)'
+heading: '**Definition 5.1 (Adjacency Functor).**'
+id: INTK-10609
+lines: 927-937
+location: intake/volume-i-core-ontology-and-metagenesis-summary::5-adjacency-as-a-higher-linear-functor::definition-51-adjacency-functor::b1
+parent_heading: '**5\. Adjacency as a Higher-Linear Functor**'
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md

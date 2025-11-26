@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Meta-Fractal
+- Tensor Product
+excerpt: '**Axiom M5 — Tensor Product** Math carries a symmetric monoidal product:
+  ⊗:Math×Math→Math\\otimes : \\text{Math} \\times \\text{Math} \\to \\text{Math}⊗:Math×Math→Math'
+heading: '**5\. Symmetric Monoidal Structure**'
+id: GEN2-6246
+lines: 327-360
+location: genesis-2/axioms-for-the-category-genesis::5-symmetric-monoidal-structure::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- naturality
+- Π
+- Φ
+- λ
+excerpt: 'Now use the second adjunction: Φ⊣Π.\\Phi \\dashv \\Pi.Φ⊣Π. This gives:'
+heading: '**STEP 3 — Π interprets eigenvalues as metric mass-shells**'
+id: GEN15-3105
+lines: 292-327
+location: genesis-15/the-mass-curvature-projection-theorem::step-3-π-interprets-eigenvalues-as-metric-mass-shells::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

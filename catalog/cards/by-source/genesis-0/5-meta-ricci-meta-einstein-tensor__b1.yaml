@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Einstein Equation
+- Einstein Tensor
+- Meta-Einstein
+- Meta-Ricci
+- β
+- δ
+excerpt: 'Having the δ-curvature tensor, define **Meta-Ricci**: Rab=∑m,nβmn Rabmn\\mathcal{R}\_{ab}
+  \= \\sum\_{m,n}\\beta\_{mn}\\,\\mathcal{R}\_{ab}{}^{m}{}\_{n}Rab​=m,n∑​βmn​Rab​mn​
+  Define **Meta-Einstein Tens...'
+heading: '**5\. Meta-Ricci & Meta-Einstein Tensor**'
+id: GEN0-044
+lines: 559-573
+location: genesis-0/feynman-rules-interaction-vertices::5-meta-ricci-meta-einstein-tensor::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

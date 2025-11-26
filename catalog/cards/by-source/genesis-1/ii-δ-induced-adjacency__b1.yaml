@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'The adjacency operator **A** emerges from differences between successive
+  δ-states: A(Ψn,Ψn+1)=1A(\\Psi\_n, \\Psi\_{n+1}) \= 1A(Ψn​,Ψn+1​)=1 More generally:'
+heading: '**II. δ-Induced Adjacency**'
+id: GEN1-446
+lines: 391-404
+location: genesis-1/the-foundation-layer::ii-δ-induced-adjacency::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md

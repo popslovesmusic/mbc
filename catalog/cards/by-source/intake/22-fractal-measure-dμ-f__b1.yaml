@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- α
+- μ
+excerpt: F is equipped with a **fractal measure (dμ_F)**, which generalizes Lebesgue
+  measure. For a small region, `dμ_F(x) ~ dx^α(x)`, where `α(x)` is the local fractal
+  dimension. This means the "density" of p...
+heading: '**2.2. Fractal Measure (dμ_F)**'
+id: INTK-10246
+lines: 352-354
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-meta-fractal-base-space-f::22-fractal-measure-dμ-f::b1
+parent_heading: '**2. The Meta-Fractal Base Space (F)**'
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

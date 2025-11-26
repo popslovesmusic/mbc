@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Connect Figma
+- Meta-Time
+- Projected Physics
+excerpt: '`\begin{tikzpicture}[` `node distance=2.2cm,` `box/.style={draw, rounded
+  corners, thick, align=center, minimum width=3.8cm, minimum height=1.1cm},`'
+heading: '**5\) TikZ: Adjacency → Meta-Time → Dynamics Wiring**'
+id: INTK-9704
+lines: 889-917
+location: intake/axioms-geometry::tikz-latex-paper-ready-geometry-stack::5-tikz-adjacency-meta-time-dynamics-wiring::b1
+parent_heading: '**TikZ (LaTeX) — Paper-Ready Geometry Stack**'
+source: intake\Axioms-geometry.md

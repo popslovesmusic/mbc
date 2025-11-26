@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts: []
+excerpt: 'Cycles require a topological boundary, but adjacency arises before topology
+  exists. Thus: X⪯Y⪯X⇒X=Y.X\\preceq Y\\preceq X \\Rightarrow X=Y.X⪯Y⪯X⇒X=Y.'
+heading: '**Lemma 3 — Cycles are forbidden at δ².**'
+id: INTK-10003
+lines: 942-956
+location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-3-cycles-are-forbidden-at-δ²::b1
+parent_heading: '**4\. Full Formal Proof**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

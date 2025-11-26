@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Deviation Operator
+- Field
+- Meta-Deviation
+- Meta-Field
+- Meta-Time
+- Operator
+- Ψ
+- τ
+excerpt: 'A Meta-PDE generally takes the form: `∂_τ Ψ = D[Ψ]` Where:'
+heading: Structure of Meta-PDEs
+id: INTK-10432
+lines: 1426-1436
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-differential-equations-meta-pdes::structure-of-meta-pdes::b1
+parent_heading: Meta-Differential Equations (Meta-PDEs)
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

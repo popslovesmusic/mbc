@@ -1,0 +1,13 @@
+block_type: list
+concepts:
+- Π
+- Φ
+- δ
+excerpt: '* Deduction (Π-reasoning) * Abduction (Φ → δ backtracking) * Induction (pattern
+  extraction via router weight evolution)'
+heading: ✔ 4\. Build a Full Reasoning Engine
+id: GEN19-6012
+lines: 42-49
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::ii-reasoning-inference::4-build-a-full-reasoning-engine::b1
+parent_heading: II. REASONING & INFERENCE
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md

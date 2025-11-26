@@ -1,0 +1,11 @@
+block_type: table
+concepts:
+- Box
+- λ
+excerpt: 'A program is a path: w=Op1⋯Opn w=Op'
+heading: 5.3 Boxes ↔ Programs
+id: GEN17-4584
+lines: 6908-6940
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::5-proof-of-the-correspondence::53-boxes-programs::b1
+parent_heading: 5\. Proof of the Correspondence
+source: genesis-17\box_calculus.md

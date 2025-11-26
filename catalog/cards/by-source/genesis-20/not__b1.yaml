@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Θ
+- Π
+excerpt: 'NOT is polarity inversion: Π(Not A) \= Π(Θ\_inverted(A))'
+heading: NOT
+id: GEN20-6857
+lines: 2622-2625
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::84-logical-operators-as-router-configurations::not::b1
+parent_heading: 8.4 Logical Operators as Router Configurations
+source: genesis-20\MBC_40_Documentaitio-1.md

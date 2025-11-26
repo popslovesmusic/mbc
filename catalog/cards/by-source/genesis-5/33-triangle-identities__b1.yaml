@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- α
+- β
+excerpt: R(βZ)∘αRZ=idRZR(\\beta\_Z)\\circ \\alpha\_{R Z} \= id\_{R Z}R(βZ​)∘αRZ​=idRZ​
+  and βUY∘U(αY)=idUY.\\beta\_{U Y} \\circ U(\\alpha\_Y) \= id\_{U Y}.βUY​∘U(αY​)=idUY​.
+heading: '**3.3 Triangle identities**'
+id: GEN5-7948
+lines: 174-192
+location: genesis-5/formal-proof-of-the-adjoint-triple::3-proof-that-uru-dashv-rur::33-triangle-identities::b1
+parent_heading: '**3\. Proof that U⊣RU \\dashv RU⊣R**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

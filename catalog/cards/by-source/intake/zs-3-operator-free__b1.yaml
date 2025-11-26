@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: 'There exists **no valid operator** whose domain or codomain includes Ψ₀:
+  ∀E∈E,Dom(E)≠Ψ0andCod(E)≠Ψ0\\forall E \\in \\mathbb{E},\\quad \\text{Dom}(E)\\neq
+  \\Psi\_0 \\quad \\text{and}\\quad \\text{Cod}(...'
+heading: '**(ZS-3) Operator-Free**'
+id: INTK-9764
+lines: 266-272
+location: intake/meta-genesis-core-papers-foundations::1-formal-definition::definition-ψ₀-zero-state-ontological-substrate::zs-3-operator-free::b1
+parent_heading: '**Definition (Ψ₀): Zero State Ontological Substrate**'
+source: intake\Meta-Genesis_Core_Papers_Foundations.md

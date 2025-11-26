@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+- ν
+excerpt: 'Diagonalize MΨM\_\\PsiMΨ​: UL†MΨUR=diag(m1,m2,m3,… )U\_L^\\dagger M\_\\Psi
+  U\_R \= \\text{diag}(m\_1,m\_2,m\_3,\\dots)UL†​MΨ​UR​=diag(m1​,m2​,m3​,…) The observable
+  weak-basis mixing is then:'
+heading: '**5\. Flavor mixing (CKM / PMNS as δ-mode interference)**'
+id: GEN0-028
+lines: 347-365
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::5-flavor-mixing-ckm-pmns-as-δ-mode-interference::b1
+parent_heading: '**The δ-Higgs / Flavor-Mass Sector**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

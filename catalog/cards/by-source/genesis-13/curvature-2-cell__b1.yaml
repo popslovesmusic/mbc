@@ -1,0 +1,19 @@
+block_type: paragraph
+concepts:
+- 2-morphism
+- 'Id
+
+
+  This'
+- Tri-Unity
+- Φ
+- δ
+excerpt: 'Deviation curvature is a **2-morphism** expressing the failure of strict
+  naturality: Rδ:Φ∘δ⇒δ∘IdR\_\\delta : \\Phi\\circ\\delta \\Rightarrow \\delta\\circ
+  \\mathrm{Id}Rδ​:Φ∘δ⇒δ∘Id This curvature 2-cel...'
+heading: '**Curvature 2-cell**'
+id: GEN13-2431
+lines: 2292-2302
+location: genesis-13/the-weight-of-light::3-2-cells-units-counits-curvature-coherence::curvature-2-cell::b1
+parent_heading: '**3\. 2-Cells: Units, Counits, Curvature, Coherence**'
+source: genesis-13\The_Weight_of_Light.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- adjacency
+- Π
+- Φ
+- δ
+excerpt: 'In IGSOA, **adjacency** is the pre-metric structure: a graph-like relation
+  that determines *who can affect whom* before metric distances exist. The key point:'
+heading: '***δ → Adjacency → Φ-propagation → GW phase return***'
+id: GEN11-1109
+lines: 263-274
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::how-adjacency-structure-can-cause-gravitational-wave-echoes-igsoa-version::δ-adjacency-φ-propagation-gw-phase-return::b1
+parent_heading: '**How Adjacency Structure Can Cause Gravitational-Wave Echoes (IGSOA
+  Version)**'
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md

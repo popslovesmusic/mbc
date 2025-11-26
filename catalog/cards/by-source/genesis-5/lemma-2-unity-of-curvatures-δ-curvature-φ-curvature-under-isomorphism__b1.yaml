@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: Under the same assumptions, RΦ=(∇Φ)2=Υ (∇δ)2 Υ−1=Υ Rδ Υ−1.\\mathcal{R}^\\Phi
+  \= (\\nabla^\\Phi)^2 \= \\Upsilon\\, (\\nabla^\\delta)^2 \\,\\Upsilon^{-1} \= \\Upsilon
+  \\,\\mathcal{R}^\\delta\\,\\Upsilon...
+heading: '**Lemma 2 — Unity of Curvatures (δ-curvature \= Φ-curvature under isomorphism)**'
+id: GEN5-8100
+lines: 215-219
+location: genesis-5/meta-einstein-axiom-box-language-sealed::lemma-2-unity-of-curvatures-δ-curvature-φ-curvature-under-isomorphism::b1
+source: genesis-5\Meta-Einstein_Axiom_Box_-language_sealed.md

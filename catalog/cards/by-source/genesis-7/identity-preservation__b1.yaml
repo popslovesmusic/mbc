@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Meta-Math
+excerpt: F(idX)=idF(X).F(\\mathrm{id}\_X)=\\mathrm{id}\_{F(X)}.F(idX​)=idF(X)​. Genesis
+  identity corresponds to the identity operator in Meta-Math.
+heading: '**Identity Preservation**'
+id: GEN7-8532
+lines: 1341-1345
+location: genesis-7/the-complete-eft-lagrangian::3-functoriality-conditions::identity-preservation::b1
+parent_heading: '**3\. Functoriality Conditions**'
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

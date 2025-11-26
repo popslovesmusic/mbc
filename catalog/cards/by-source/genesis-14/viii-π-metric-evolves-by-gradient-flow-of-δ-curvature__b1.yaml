@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'The geometric metric obeys the Π-stability equation: g˙=−∇κ.\\boxed{\\dot
+  g \= \-\\nabla \\kappa}.g˙​=−∇κ​. This is the IGSOA analogue of Einstein evolution
+  but derived from:'
+heading: '**(VIII) Π-Metric Evolves by Gradient Flow of δ-Curvature**'
+id: GEN14-2779
+lines: 2071-2087
+location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::viii-π-metric-evolves-by-gradient-flow-of-δ-curvature::b1
+parent_heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
+source: genesis-14\Inflation__Structure_Formation.md

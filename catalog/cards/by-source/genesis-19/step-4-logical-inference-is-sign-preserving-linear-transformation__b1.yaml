@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Gate Synthesis Table
+- Modus Ponens
+- Θ
+excerpt: 'Modus Ponens: (A⇒B)∧A⊢B(A \\Rightarrow B)\\land A \\vdash B(A⇒B)∧A⊢B corresponds
+  to'
+heading: '**Step 4\. Logical inference is sign-preserving linear transformation**'
+id: GEN19-5940
+lines: 889-899
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-b-standard-logic-proof::step-4-logical-inference-is-sign-preserving-linear-transformation::b1
+parent_heading: '**III-B. Standard Logic Proof**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

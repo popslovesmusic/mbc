@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Define δ-curvature via the torsion-like Weitzenböck operator: Wδ=δ−1dδ.\\mathcal{W}\_\\delta
+  \= \\delta^{-1} d\\delta.Wδ​=δ−1dδ. This curvature is built only from:'
+heading: '**2\. δ-Weitzenböck Curvature is Parity-Locked**'
+id: GEN16-3708
+lines: 447-469
+location: genesis-16/quantum-measurement-in-igsoa-vs::proof-igsoa-side::2-δ-weitzenböck-curvature-is-parity-locked::b1
+parent_heading: '**Proof (IGSOA Side)**'
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md

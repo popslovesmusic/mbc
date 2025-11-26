@@ -1,0 +1,12 @@
+block_type: list
+concepts:
+- Box
+- Σ
+excerpt: '* atomic A ↦ Box with Σ\_A * A ⊗ B ↦ Box product BA×BBB\_A \\times B\_BBA​×BB​
+  * A ⊸ B ↦ exponential Box BBBAB\_B^{B\_A}BBBA​​'
+heading: '**Formulas ↦ Boxes**'
+id: GEN16-4137
+lines: 5104-5110
+location: genesis-16/untitled-document::5-the-full-embedding::formulas-boxes::b1
+parent_heading: '**⭐ 5\. The Full Embedding**'
+source: genesis-16\Untitled_document.md

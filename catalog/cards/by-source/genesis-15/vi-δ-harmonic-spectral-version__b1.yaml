@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'The CSOI tail arises from an **accumulation of low-frequency δ-harmonics**:
+  δCSOI=∑nanδn,an∼n−1.\\delta\_{\\mathrm{CSOI}} \= \\sum\_{n} a\_n\\delta\_n, \\quad
+  a\_n \\sim n^{-1}.δCSOI​=n∑​an​δn​,an​∼n−...'
+heading: '**VI. δ-Harmonic / Spectral Version**'
+id: GEN15-3340
+lines: 1344-1360
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::vi-δ-harmonic-spectral-version::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md

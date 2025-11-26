@@ -1,0 +1,20 @@
+block_type: paragraph
+concepts:
+- Adjacency Coherence Axiom
+- Axiom
+- colimital
+- initiality
+- unit
+- universality
+- Ψ
+- δ
+- η
+excerpt: 'GA-8 is the **Genesis–Adjacency Coherence Axiom**: **GA-8.** For every Genesis
+  transition Ψ→δΨ′\\Psi \\xrightarrow{\\delta} \\Psi''Ψδ​Ψ′ the induced adjacency
+  refinement'
+heading: '**II. STATEMENT OF GA-8**'
+id: GEN5-8138
+lines: 45-67
+location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::ii-statement-of-ga-8::b1
+parent_heading: '**THE GA-8 → META-EINSTEIN THEOREM**'
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md

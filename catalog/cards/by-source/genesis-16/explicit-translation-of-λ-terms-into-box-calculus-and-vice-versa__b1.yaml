@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+- Meta-Math
+- λ
+excerpt: 'This is the highest-level proof so far: we show that **every λ-expression
+  is exactly representable as a Box Calculus structure**, and that **Box Calculus
+  contains λ-calculus internally**. This proves ...'
+heading: '***(Explicit translation of λ-terms into Box Calculus and vice-versa)***'
+id: GEN16-4080
+lines: 4357-4374
+location: genesis-16/untitled-document::box-calculus-λ-calculus-equivalence::explicit-translation-of-λ-terms-into-box-calculus-and-vice-versa::b1
+parent_heading: '**⭐ BOX CALCULUS ↔ λ-CALCULUS EQUIVALENCE**'
+source: genesis-16\Untitled_document.md

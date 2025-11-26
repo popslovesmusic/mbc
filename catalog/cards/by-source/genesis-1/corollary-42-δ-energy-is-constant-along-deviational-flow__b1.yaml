@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Theorem
+- δ
+excerpt: ddt(δ†δ)=0.\\frac{d}{dt}(\\delta^\\dagger\\delta)=0.dtd​(δ†δ)=0. **Proof.**
+  Apply ddt\\frac{d}{dt}dtd​ interpreted as \[δ,⋅\]\[\\delta,\\cdot\]\[δ,⋅\], and
+  use Theorem 4.1.
+heading: '**Corollary 4.2 — δ-Energy Is Constant Along Deviational Flow.**'
+id: GEN1-615
+lines: 1285-1294
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::4-dynamical-consequences-of-the-meta-einstein-equation::corollary-42-δ-energy-is-constant-along-deviational-flow::b1
+parent_heading: '**4\. Dynamical Consequences of the Meta-Einstein Equation**'
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

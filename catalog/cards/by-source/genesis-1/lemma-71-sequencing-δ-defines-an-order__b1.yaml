@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: '**Statement.** Define t≺t′  ⟺  δt precedes δt′.t \\prec t'' \\iff \\delta^t
+  \\text{ precedes } \\delta^{t''}.t≺t′⟺δt precedes δt′.'
+heading: '**Lemma 7.1 — Sequencing δ Defines an Order.**'
+id: GEN1-591
+lines: 1042-1051
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::lemma-71-sequencing-δ-defines-an-order::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

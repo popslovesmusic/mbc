@@ -1,0 +1,13 @@
+block_type: table
+concepts:
+- Θ
+- Π
+- δ
+excerpt: '**Interpretation:** AND collapses to the **minimum curvature direction**,
+  unless overridden by router metadata. This is the geometry:'
+heading: '**MBC-4.0 Θ-Enhanced AND**'
+id: GEN19-5824
+lines: 63-82
+location: genesis-19/mbc-4-1::31-polarity-and-θ-and::mbc-40-θ-enhanced-and::b1
+parent_heading: '**3.1 Polarity AND (Θ-AND)**'
+source: genesis-19\MBC-4_1.md

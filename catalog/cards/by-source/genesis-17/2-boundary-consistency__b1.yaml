@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Γ
+- Σ
+excerpt: (ports must still be type-compatible) Type(Σt+1(Bi))⪯Γi Type(Σ
+heading: 2\. Boundary consistency
+id: GEN17-4818
+lines: 9773-9785
+location: genesis-17/box-calculus::3-small-step-semantics-reduction-relation::side-conditions-mandatory-igsoa-constraints::2-boundary-consistency::b1
+parent_heading: ⭐ Side Conditions (Mandatory IGSOA Constraints)
+source: genesis-17\box_calculus.md

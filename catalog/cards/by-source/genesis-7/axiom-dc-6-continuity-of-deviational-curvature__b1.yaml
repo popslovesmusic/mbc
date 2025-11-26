@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Law Stability
+- δ
+excerpt: 'For any admissible perturbation ϵ\\epsilonϵ: Rδ(δ+ϵ)=Rδ(δ)+O(ϵ).R^\\delta(\\delta
+  \+ \\epsilon) \= R^\\delta(\\delta) \+ O(\\epsilon).Rδ(δ+ϵ)=Rδ(δ)+O(ϵ). Curvature
+  varies smoothly with deviation; disc...'
+heading: '**Axiom DC-6 — Continuity of Deviational Curvature**'
+id: GEN7-8663
+lines: 588-597
+location: genesis-7/why-curvature-gives-gravity::ii-curvature-axioms::axiom-dc-6-continuity-of-deviational-curvature::b1
+parent_heading: '**II. CURVATURE AXIOMS**'
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

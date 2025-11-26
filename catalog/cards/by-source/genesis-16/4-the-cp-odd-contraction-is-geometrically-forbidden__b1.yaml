@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- μ
+- ν
+- ρ
+- σ
+excerpt: 'The CP-odd invariant in QCD is: GG\~=ϵμνρσGμνGρσ.G\\tilde{G} \= \\epsilon^{\\mu\\nu\\rho\\sigma}G\_{\\mu\\nu}G\_{\\rho\\sigma}.GG\~=ϵμνρσGμν​Gρσ​.
+  In IGSOA this expression **cannot be formed**, becaus...'
+heading: '**4\. The CP-Odd Contraction is Geometrically Forbidden**'
+id: GEN16-3710
+lines: 493-499
+location: genesis-16/quantum-measurement-in-igsoa-vs::proof-igsoa-side::4-the-cp-odd-contraction-is-geometrically-forbidden::b1
+parent_heading: '**Proof (IGSOA Side)**'
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md

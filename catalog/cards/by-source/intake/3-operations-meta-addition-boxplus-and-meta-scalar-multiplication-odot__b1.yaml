@@ -1,0 +1,19 @@
+block_type: paragraph
+concepts:
+- Meta-Addition
+- Meta-Scalar
+- Meta-Vector
+- Meta-Vectors
+- Scalar Multiplication
+- Ψ
+- λ
+excerpt: 'The space is equipped with: - **Meta-Addition ($\boxplus$):** For any two
+  Meta-Vectors `V₁, V₂ ∈ S_Ψ`, their sum `V₁ ⊞ V₂ ∈ S_Ψ`. This operation is non-linear
+  and generally non-commutative/non-associa...'
+heading: '3. Operations: Meta-Addition ($\boxplus$) and Meta-Scalar Multiplication
+  ($\odot$)'
+id: INTK-10348
+lines: 986-989
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::formal-definition::3-operations-meta-addition-boxplus-and-meta-scalar-multiplication-odot::b1
+parent_heading: Formal Definition
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

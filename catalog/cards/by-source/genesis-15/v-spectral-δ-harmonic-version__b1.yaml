@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- identical
+- δ
+excerpt: 'In IGSOA, δ-curvature decomposes into: δ(r)=∑n≥0an δn(r).\\delta(r) \= \\sum\_{n\\ge
+  0} a\_n\\, \\delta\_n(r).δ(r)=n≥0∑​an​δn​(r). CSOI forces a slow spectral decay:'
+heading: '**V. Spectral (δ-Harmonic) Version**'
+id: GEN15-3298
+lines: 654-676
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-spectral-δ-harmonic-version::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md

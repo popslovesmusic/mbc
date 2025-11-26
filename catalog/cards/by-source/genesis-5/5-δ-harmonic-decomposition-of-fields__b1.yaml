@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'Any field Φ\\PhiΦ (scalar, spinor, vector) admits a δ-harmonic decomposition:
+  Φ(x)=∑n=0∞Φn ψn(x),\\Phi(x) \= \\sum\_{n=0}^\\infty \\Phi\_n \\,\\psi\_n(x),Φ(x)=n=0∑∞​Φn​ψn​(x),
+  where the coefficients a...'
+heading: '**5\. δ-Harmonic Decomposition of Fields**'
+id: GEN5-8199
+lines: 973-985
+location: genesis-5/the-ga-8-meta-einstein-theorem::5-δ-harmonic-decomposition-of-fields::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md

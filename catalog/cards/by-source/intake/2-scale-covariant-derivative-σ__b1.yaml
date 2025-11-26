@@ -1,0 +1,15 @@
+block_type: list
+concepts:
+- Meta-Connection
+- Meta-Fields
+- Ψ
+- σ
+excerpt: '- **Purpose:** To describe how Meta-Fields change as one moves between different
+  scale layers of the PPG, while maintaining gauge invariance. - **Behavior:** Requires
+  a Meta-Connection (A_σ) to compen...'
+heading: 2. Scale-Covariant Derivative (∇_σ)
+id: INTK-10421
+lines: 1360-1363
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::meta-calculus-operations::2-scale-covariant-derivative-σ::b1
+parent_heading: Meta-Calculus Operations
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

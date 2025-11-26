@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- merge-weights
+- α
+- β
+excerpt: α,β∈R\\alpha,\\beta \\in \\mathbb{R}α,β∈R These are **merge-weights** derived
+  from the Boxes’ metadata (confidence, relevance, harmony).
+heading: '**(1) Linear Combination Term**'
+id: GEN16-3797
+lines: 844-848
+location: genesis-16/untitled-document::1-formal-definition-of-the-mixing-law::1-linear-combination-term::b1
+parent_heading: '**1\. Formal Definition of the Mixing Law**'
+source: genesis-16\Untitled_document.md

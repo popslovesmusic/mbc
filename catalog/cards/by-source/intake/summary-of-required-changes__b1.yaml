@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Axiom Box
+- Box
+- Π
+- Φ
+- δ
+excerpt: 'These are minor editorial refinements, not structural rewrites: * Add clarifications
+  about Φ-domain being non-metric. * Strengthen functorial properties of Π\_g.'
+heading: '**⭐ SUMMARY OF REQUIRED CHANGES**'
+id: INTK-9623
+lines: 313-327
+location: intake/abstract-editorial-review::summary-of-required-changes::b1
+source: intake\ABSTRACT__Editorial_Review.md

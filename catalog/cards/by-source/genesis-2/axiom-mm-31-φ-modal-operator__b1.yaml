@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- necessity-operator
+- Φ
+excerpt: 'Φ acts as a **necessity-operator** internally: □ΦP  :=  “P is invariant
+  under Φ-flow”.\\square\_\\Phi P \\; := \\; \\text{“P is invariant under Φ-flow”}.□Φ​P:=“P
+  is invariant under Φ-flow”. Logical ne...'
+heading: '**Axiom MM-3.1 — Φ-Modal Operator**'
+id: GEN2-6326
+lines: 453-461
+location: genesis-2/axioms-of-geometry-topos-compatible::3-φ-logic-computation-proof-and-modality::axiom-mm-31-φ-modal-operator::b1
+parent_heading: '**3\. Φ-Logic (Computation, Proof, and Modality)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

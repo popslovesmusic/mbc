@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Box
+- Θ
+- Π
+- Φ
+- δ
+excerpt: 'A box must store: * δ\_content (raw deviation pattern) * Φ\_state (stabilized
+  internal structure)'
+heading: Box Object
+id: GEN20-7027
+lines: 4627-4642
+location: genesis-20/mbc-40-documentaitio-1::conclusion::142-minimal-data-structures-required::box-object::b1
+parent_heading: 14.2 Minimal Data Structures Required
+source: genesis-20\MBC_40_Documentaitio-1.md

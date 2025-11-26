@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'The δ-Ricci tensor is: Ricδ(X,Y)=Tr(Z↦Rδ(Z,X)Y).\\mathrm{Ric}\_\\delta(X,Y)
+  \= \\mathrm{Tr}(Z\\mapsto R\_\\delta(Z,X)Y).Ricδ​(X,Y)=Tr(Z↦Rδ​(Z,X)Y). The δ-scalar
+  curvature:'
+heading: '**6\. Ricci Contraction and δ-Scalar**'
+id: GEN3-7324
+lines: 783-800
+location: genesis-3/metagenesis::6-ricci-contraction-and-δ-scalar::b1
+source: genesis-3\metagenesis.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- α
+- δ
+- σ
+excerpt: 'There exists a functor Φ:MG→Sh(σ)\\Phi: \\mathbf{MG} \\to \\mathbf{Sh}(\\sigma)Φ:MG→Sh(σ)
+  such that:'
+heading: '**Lemma (Meta-Genesis → Scale-Topos Compatibility).**'
+id: GEN2-6483
+lines: 133-164
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::4-compatibility-lemma::lemma-meta-genesis-scale-topos-compatibility::b1
+parent_heading: '**4\. Compatibility Lemma**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

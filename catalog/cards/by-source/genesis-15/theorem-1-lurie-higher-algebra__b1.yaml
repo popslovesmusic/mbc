@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'Every ∞-operad 𝒪 whose algebras live in 𝒞 induces a monad T on 𝒞 via: T(X)=U(F(X))T(X)
+  \= U(F(X))T(X)=U(F(X)) where:'
+heading: '**Theorem 1 (Lurie, Higher Algebra).**'
+id: GEN15-3436
+lines: 853-881
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::1-from-operad-to-monad-in-categories::theorem-1-lurie-higher-algebra::b1
+parent_heading: '**🔷 1\. From Operad to Monad (in ∞-categories)**'
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md

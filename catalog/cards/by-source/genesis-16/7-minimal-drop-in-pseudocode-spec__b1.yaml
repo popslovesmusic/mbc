@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+- Pre
+- theta
+excerpt: '`def Apply(Op, Sigma, Adj_in):` `params = theta(Adj_in)          # extract
+  context` `if not Pre(Op, Sigma, Adj_in, params):`'
+heading: '**7\. Minimal “Drop-In” Pseudocode Spec**'
+id: GEN16-3761
+lines: 323-334
+location: genesis-16/untitled-document::formal-transition-function-for-box-calculus::7-minimal-drop-in-pseudocode-spec::b1
+parent_heading: '**Formal Transition Function for Box Calculus**'
+source: genesis-16\Untitled_document.md

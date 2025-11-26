@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: 'A state Ψ is infinitely degenerate if: R(Ψ):=∣Conf(Ψ)∣=∞,R(\\Psi) := |\\text{Conf}(\\Psi)|
+  \= \\infty,R(Ψ):=∣Conf(Ψ)∣=∞, where Conf(Ψ) is the space of admissible next-states.'
+heading: '**Definition 2.1 (Infinite Degeneracy).**'
+id: INTK-10088
+lines: 259-271
+location: intake/meta-genesis-physical-interpretation-papers::2-instability-of-perfect-symmetry::definition-21-infinite-degeneracy::b1
+parent_heading: '**2\. Instability of Perfect Symmetry**'
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md

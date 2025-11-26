@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: Ψn↔Ψn+1\\Psi\_n \\leftrightarrow \\Psi\_{n+1}Ψn​↔Ψn+1​ cannot be commuted
+  or reversed.
+heading: '**Reason 2 — Adjacency is monotonic.**'
+id: GEN4-7879
+lines: 1163-1167
+location: genesis-4/the-first-adjacency::5-why-ordering-must-crystallize::reason-2-adjacency-is-monotonic::b1
+parent_heading: '**5\. Why Ordering MUST crystallize**'
+source: genesis-4\The_First_Adjacency.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- ρ
+excerpt: 'Assume that such a ρ\\rhoρ exists. Then for each object X∈MGX\\in MGX∈MG
+  we have a morphism ρX:ULX→X\\rho\_X : ULX \\to XρX​:ULX→X'
+heading: '**Proof (by contradiction)**'
+id: GEN5-8013
+lines: 1122-1129
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-no-lift-theorem-formal::proof-by-contradiction::b1
+parent_heading: '**The No-Lift Theorem (Formal)**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

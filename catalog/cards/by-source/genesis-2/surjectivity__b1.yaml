@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- σ
+excerpt: 'Every natural transformation between Φ(X) and Φ(Y) corresponds to a unique
+  MG morphism: * MG has no hidden structure * σ-Topos cannot generate structures absent
+  in MG because Φ(X) is the free sheaf ge...'
+heading: '**Surjectivity**'
+id: GEN2-6490
+lines: 232-244
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::5-proof::55-full-faithfulness::surjectivity::b1
+parent_heading: '**5.5 Full Faithfulness**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

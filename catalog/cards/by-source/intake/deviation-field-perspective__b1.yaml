@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Meta-Connection
+- Meta-Metric
+- Meta-Scalar
+- Ψ
+- λ
+- σ
+- τ
+excerpt: 'Given a Meta-Scalar λ(σ,τ) and a deviation field Ψ(x,τ): ``` Ψ_res(x,τ)
+  = λ(σ,τ) ⊙ Ψ(x,τ)'
+heading: Deviation Field Perspective
+id: INTK-10293
+lines: 683-693
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::formal-definition::deviation-field-perspective::b1
+parent_heading: Formal Definition
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

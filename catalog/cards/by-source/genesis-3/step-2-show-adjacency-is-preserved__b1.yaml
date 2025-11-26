@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Triangle Axiom
+- Φ
+- δ
+excerpt: 'δ-geometric adjacency is: X∼δY  ⟺  δ(X)→YX \\sim\_\\delta Y \\iff \\delta(X)
+  \\to YX∼δ​Y⟺δ(X)→Y But Φ is δ-covariant (Triangle Axiom):'
+heading: '**Step 2: Show adjacency is preserved**'
+id: GEN3-7558
+lines: 1043-1061
+location: genesis-3/the-tri-unity-theorem::iv-formal-proof-sketch::step-2-show-adjacency-is-preserved::b1
+parent_heading: '**IV. Formal Proof Sketch**'
+source: genesis-3\The_Tri-Unity_Theorem.md

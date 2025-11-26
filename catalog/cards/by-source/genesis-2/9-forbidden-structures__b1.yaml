@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Axiom
+- No Dual Objects
+- No Inverses
+- No Symmetric Monoidal Structure
+- The Zero State
+excerpt: 'To ensure absolute compatibility with your framework: **Axiom G11 — No Symmetric
+  Monoidal Structure** Genesis cannot support tensor products or monoidal unit objects.'
+heading: '**9\. Forbidden Structures**'
+id: GEN2-6236
+lines: 167-183
+location: genesis-2/axioms-for-the-category-genesis::9-forbidden-structures::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md

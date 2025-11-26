@@ -1,0 +1,16 @@
+block_type: list
+concepts:
+- Φ
+- Ψ
+- α
+- δ
+- δ-generation
+- δ-tower
+- η
+excerpt: '1. **Ψ₀** exists and is terminal (A1). 2. **η : Ψ₀→δΨ₀** breaks identity
+  (A2). 3. **δΨ₀** carries minimal structure (A3).'
+heading: '**A.7 The Complete Meta-Genesis Axiom List (Condensed)**'
+id: GEN2-6550
+lines: 1131-1159
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a7-the-complete-meta-genesis-axiom-list-condensed::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Fractal Matrix
+- Meta-Fractal
+- Meta-Time
+- Meta-Vector
+- ξ
+- σ
+- τ
+excerpt: 'A Meta-Vector `V` can be represented as an ordered tuple of deviation-quantities:
+  ``` V = (ξ₁, ξ₂, ..., ξ_N)'
+heading: Components of a Meta-Vector
+id: INTK-10371
+lines: 1083-1092
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector::formal-definition::components-of-a-meta-vector::b1
+parent_heading: Formal Definition
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Every operator in Action arises as the image of some deviational morphism:
+  ∀O∈HomAction ∃n:O=F(δn).\\forall \\mathcal{O} \\in \\mathrm{Hom}\_{\\mathbf{Action}}
+  \\ \\exists n: \\mathcal{O} \= F(\\delta...'
+heading: '**4.2 Fullness on Operator Classes**'
+id: GEN3-7277
+lines: 130-143
+location: genesis-3/metagenesis::4-structural-properties-of-f::42-fullness-on-operator-classes::b1
+parent_heading: '**4\. Structural Properties of F**'
+source: genesis-3\metagenesis.md

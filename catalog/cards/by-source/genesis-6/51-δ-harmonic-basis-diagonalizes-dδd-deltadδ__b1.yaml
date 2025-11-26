@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Λ
+- δ
+excerpt: 'Each eigenvector satisfies: Dδψnmk=Λnmkψnmk.D\_\\delta\\psi\_{nmk}= \\Lambda\_{nmk}\\psi\_{nmk}.Dδ​ψnmk​=Λnmk​ψnmk​.
+  Thus'
+heading: '**5.1 δ-harmonic basis diagonalizes DδD\_\\deltaDδ​**'
+id: GEN6-8406
+lines: 648-658
+location: genesis-6/the-harmonic-spectral-triple::5-compact-resolvent-of-dδd-deltadδ::51-δ-harmonic-basis-diagonalizes-dδd-deltadδ::b1
+parent_heading: '**5\. Compact resolvent of DδD\_\\deltaDδ​**'
+source: genesis-6\The_-Harmonic_Spectral_Triple.md

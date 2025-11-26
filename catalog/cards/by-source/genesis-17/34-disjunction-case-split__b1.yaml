@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Γ
+- Σ
+- ρ
+- σ
+- τ
+excerpt: ρ(Σ)→(Σ+,Σ−),R(Σ+,Σ−)→Σresolved ρ(Σ)→(Σ \+
+heading: 3.4 Disjunction / Case Split
+id: GEN17-4579
+lines: 6798-6825
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::3-structural-rules-as-box-operators::34-disjunction-case-split::b1
+parent_heading: 3\. Structural Rules as Box Operators
+source: genesis-17\box_calculus.md

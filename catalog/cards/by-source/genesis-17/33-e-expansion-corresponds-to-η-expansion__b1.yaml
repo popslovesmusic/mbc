@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Box
+- Full Box
+- Γ
+- η
+- λ
+excerpt: Thus η-long form forces all E-operators to be exhaustively applied.
+heading: 3.3 E-expansion corresponds to η-expansion
+id: GEN17-4525
+lines: 6032-6041
+location: genesis-17/box-calculus::3-proof-η-long-normal-form-fully-expanded-box-graph::33-e-expansion-corresponds-to-η-expansion::b1
+parent_heading: '⭐ 3\. PROOF: η-LONG NORMAL FORM → FULLY EXPANDED BOX GRAPH'
+source: genesis-17\box_calculus.md

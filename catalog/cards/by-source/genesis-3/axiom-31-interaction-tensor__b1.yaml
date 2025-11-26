@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'Deviation and form induce a unified symmetric tensor: TδΦ:=δ(Φ)+Φ(δ).T\_{\\delta\\Phi}
+  := \\delta(\\Phi) \+ \\Phi(\\delta).TδΦ​:=δ(Φ)+Φ(δ). This is the **δ/Φ source tensor**
+  encoding:'
+heading: '**Axiom 3.1 (Interaction Tensor)**'
+id: GEN3-7406
+lines: 615-631
+location: genesis-3/the-physics-box-diagram::3-source-tensor-the-δφ-stressdeviation-field::axiom-31-interaction-tensor::b1
+parent_heading: '**3\. Source Tensor: The δ/Φ Stress–Deviation Field**'
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- potentiality
+- Φ
+- σ
+excerpt: 'MG is not cartesian closed: ∃X,Y∈MG such that no \[X,Y\] exists.(A.4.3)\\exists
+  X,Y \\in MG\\ \\text{such that no }\[X,Y\]\\text{ exists.} \\tag{A.4.3}∃X,Y∈MG such
+  that no \[X,Y\] exists.(A.4.3) This ...'
+heading: '**Axiom A9 (No Internal Hom).**'
+id: GEN2-6546
+lines: 1064-1080
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a4-structural-axioms::axiom-a9-no-internal-hom::b1
+parent_heading: '**A.4 Structural Axioms**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

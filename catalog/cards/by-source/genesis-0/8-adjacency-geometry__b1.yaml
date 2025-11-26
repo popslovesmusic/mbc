@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- γ
+- δ
+excerpt: 'Adjacency A\\mathcal AA determines topology and nonlocality. Define: Aab=∑mγm ∂aδ(m)∂bδ(m)\\mathcal{A}\_a{}^{b}
+  \= \\sum\_m \\gamma\_m\\, \\partial\_a \\delta^{(m)} \\partial^b \\delta^{(m)}Aa​b=m∑​γm...'
+heading: '**8\. Adjacency geometry**'
+id: GEN0-047
+lines: 607-625
+location: genesis-0/feynman-rules-interaction-vertices::8-adjacency-geometry::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

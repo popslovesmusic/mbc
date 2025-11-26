@@ -1,0 +1,85 @@
+
+============================================================
+Card: GEN0-001
+Heading: ***The Deviational Quantum Field Theory (DQFT) Vertex Dictionary***
+Concepts: ['Meta-Time', 'IGSOA', 'δ', 'δ-coupling', 'δ-spectrum']
+Aliases: ['Bk075tr']
+Tags: ['conflicted']
+Is Formal: False
+Statement Type: None
+Axiom Count: 0
+Conversational Score: 0.00
+Is Technical: True
+Contradictions: True
+Ambiguity: False
+Definitive: False
+Max Severity: 0.60
+Excerpt: These rules follow the same logic as standard QFT, but with the **δ-operator as the primitive genera...
+
+============================================================
+Card: GEN0-002
+Heading: **δ-Boson Propagator**
+Concepts: ['δ', 'ε', 'Δ', 'mass-scaling']
+Aliases: ['Bk925dd']
+Tags: ['low-uncertainty', 'definitive']
+Is Formal: False
+Statement Type: None
+Axiom Count: 0
+Conversational Score: 0.00
+Is Technical: True
+Contradictions: False
+Ambiguity: False
+Definitive: True
+Max Severity: 0.00
+Excerpt: Δδ(m)(p)=ip2−mδ,m2+iε\\Delta\_{\\delta}^{(m)}(p)=\\frac{i}{p^{2}-m\_{\\delta,m}^{2}+i\\varepsilon}Δδ...
+
+============================================================
+Card: GEN0-003
+Heading: **2\. Fundamental δ-Interaction Vertices**
+Concepts: ['QED', 'δ', 'primitive', 'δ generates them']
+Aliases: ['Bk971ba']
+Tags: ['conflicted']
+Is Formal: False
+Statement Type: None
+Axiom Count: 0
+Conversational Score: 0.00
+Is Technical: True
+Contradictions: True
+Ambiguity: False
+Definitive: False
+Max Severity: 0.60
+Excerpt: Below are the **primitive** vertices — these are analogous to the QED/QCD/Fermi primitives, but **δ ...
+
+============================================================
+Card: GEN0-004
+Heading: **δδδ Interaction (cubic vertex)**
+Concepts: ['δ', 'λ', 'self-fractal reinforcement', '⊃', 'Meta-Lagrangian']
+Aliases: ['Bk941af']
+Tags: ['low-uncertainty', 'definitive']
+Is Formal: False
+Statement Type: None
+Axiom Count: 0
+Conversational Score: 0.00
+Is Technical: True
+Contradictions: False
+Ambiguity: False
+Definitive: True
+Max Severity: 0.00
+Excerpt: Arises from the cubic term of the Meta-Lagrangian L⊃λnmk δ(n)δ(m)δ(k)\\mathcal{L}\\supset \\lambda\_...
+
+============================================================
+Card: GEN0-005
+Heading: **δ producing geometric adjacency (nonlocality generator)**
+Concepts: ['Adjacency', 'δ', '∂', '⊃', 'bends adjacency structure']
+Aliases: ['Bk388am']
+Tags: ['low-uncertainty', 'definitive']
+Is Formal: False
+Statement Type: None
+Axiom Count: 0
+Conversational Score: 0.00
+Is Technical: True
+Contradictions: False
+Ambiguity: False
+Definitive: True
+Max Severity: 0.00
+Excerpt: L⊃δ(n) Aab ∂a∂b\\mathcal{L}\\supset \\delta^{(n)}\\,\\mathcal{A}^{ab}\\,\\partial\_a\\partial\_bL⊃δ(...

@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Box
+- Γ
+- λ
+- σ
+- τ
+excerpt: Bτ→σ  :=  BσBτ B τ→σ
+heading: 3.1 Implication / Function Space
+id: GEN17-4576
+lines: 6687-6721
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::3-structural-rules-as-box-operators::31-implication-function-space::b1
+parent_heading: 3\. Structural Rules as Box Operators
+source: genesis-17\box_calculus.md

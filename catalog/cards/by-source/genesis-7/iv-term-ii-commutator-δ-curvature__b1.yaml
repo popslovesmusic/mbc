@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Geometry Axiom
+- Ω
+- γ
+- δ
+excerpt: '(II)=γij∇iδ∇jδ.(II) \= \\gamma^{ij} \\nabla^\\delta\_i\\nabla^\\delta\_j.(II)=γij∇iδ​∇jδ​.
+  We antisymmetrize explicitly: γij∇iδ∇jδ=12γij(∇iδ∇jδ−∇jδ∇iδ).\\gamma^{ij}\\nabla^\\delta\_i\\nabla^\\delta\_j...'
+heading: '**◼ IV. Term (II): Commutator → δ-Curvature**'
+id: GEN7-8697
+lines: 1136-1187
+location: genesis-7/why-curvature-gives-gravity::iv-term-ii-commutator-δ-curvature::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

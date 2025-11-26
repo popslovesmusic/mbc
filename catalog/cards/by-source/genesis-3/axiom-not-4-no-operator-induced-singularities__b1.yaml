@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- The Zero
+- Zero-State
+- Ψ
+excerpt: Operators may not create a domain/codomain that contains the Zero-State as
+  a limit, boundary, or accumulation point. lim⁡n→∞On(G)≠Ψ0.\\lim\_{n\\rightarrow\\infty}\\mathcal{O}^n(G)
+  \\neq \\Psi\_0.n→∞li...
+heading: '**Axiom NOT-4 (No Operator-Induced Singularities)**'
+id: GEN3-7303
+lines: 480-496
+location: genesis-3/metagenesis::the-not-axiom::axiom-not-4-no-operator-induced-singularities::b1
+parent_heading: '**THE NOT AXIOM**'
+source: genesis-3\metagenesis.md

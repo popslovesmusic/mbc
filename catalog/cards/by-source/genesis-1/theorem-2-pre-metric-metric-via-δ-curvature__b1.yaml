@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Consistency Condition
+- First Metric Condition
+- γ
+- δ
+excerpt: 'If δ-curvature satisfies the Consistency Condition: Kδ(γ1∘γ2)=Kδ(γ1)+Kδ(γ2)\\mathcal{K}\_\\delta(\\gamma\_1
+  \\circ \\gamma\_2) \= \\mathcal{K}\_\\delta(\\gamma\_1)+\\mathcal{K}\_\\delta(\\gamma\_2)Kδ​...'
+heading: '**Theorem 2 (Pre-Metric → Metric via δ-Curvature).**'
+id: GEN1-372
+lines: 186-202
+location: genesis-1/the-first-geometry::ii-formal-version-the-axiom-theorem-pipeline::theorem-2-pre-metric-metric-via-δ-curvature::b1
+parent_heading: '**II. Formal Version (The Axiom → Theorem Pipeline)**'
+source: genesis-1\THE_FIRST_GEOMETRY.md

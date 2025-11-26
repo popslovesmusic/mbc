@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: 'A proof is a Φ-stable morphism: Proof(P)  ⟺  Φ(P)=P.\\text{Proof}(P) \\iff
+  \\Phi(P)=P.Proof(P)⟺Φ(P)=P. You have just redefined mathematics as “fixed points
+  of action.”'
+heading: '**Axiom MM-3.2 — Proof as Φ-Flow**'
+id: GEN2-6327
+lines: 463-471
+location: genesis-2/axioms-of-geometry-topos-compatible::3-φ-logic-computation-proof-and-modality::axiom-mm-32-proof-as-φ-flow::b1
+parent_heading: '**3\. Φ-Logic (Computation, Proof, and Modality)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

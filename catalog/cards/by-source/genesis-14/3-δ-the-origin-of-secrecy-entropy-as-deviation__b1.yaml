@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- ontological
+excerpt: In classical cryptography, randomness is required. In IGSOA terms, this randomness
+  is not optional; it is **ontological**.
+heading: '**3\. δ: The Origin of Secrecy (Entropy as Deviation)**'
+id: GEN14-2825
+lines: 559-562
+location: genesis-14/meta-math-and-cryptography::3-δ-the-origin-of-secrecy-entropy-as-deviation::b1
+source: genesis-14\Meta-Math_and_Cryptography.md

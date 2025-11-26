@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Hence Tr
+- δ
+excerpt: T7 says the internal trace exists; pullback preserves the trace on compact
+  operators. Hence Tr((1+Dδ,x2)−p/2)\<∞ \\mathrm{Tr}((1+D\_{\\delta,x}^2)^{-p/2})
+  \<\\inftyTr((1+Dδ,x2​)−p/2)\<∞. ---
+heading: '**Step 5: Internal trace convergence → external summability**'
+id: GEN6-8301
+lines: 548-553
+location: genesis-6/spectral-triple-axiom-box-sealed-version::theorem-toposoperator-equivalence::proof-categorical-internal-external::step-5-internal-trace-convergence-external-summability::b1
+parent_heading: '**Proof (Categorical, internal → external)**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

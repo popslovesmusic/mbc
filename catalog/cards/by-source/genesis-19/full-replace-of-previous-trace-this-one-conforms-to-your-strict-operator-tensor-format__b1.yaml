@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Θ
+- Π
+- Σ
+- Φ
+- α
+- δ
+excerpt: '{ "mbc\_version": "4.0-strict", "trace\_id": "trace\_ftc\_strict\_01", "input":
+  { "type": "text", "domain\_hint": \["calculus", "fundamental-theorem"\], "content\_ref":
+  "calculus\_text\_block\_01", "l...'
+heading: (Full replace of previous trace — this one conforms to your strict operator-tensor
+  format.)
+id: GEN19-6207
+lines: 2390-2393
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::mbc-40-strict-mode-json-trace::full-replace-of-previous-trace-this-one-conforms-to-your-strict-operator-tensor-format::b1
+parent_heading: ✅ MBC-4.0 STRICT-MODE JSON TRACE
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md

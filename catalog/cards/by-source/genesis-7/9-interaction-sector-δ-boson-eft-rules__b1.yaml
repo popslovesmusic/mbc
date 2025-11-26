@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+- μ
+- ν
+excerpt: 'This is what you use for Feynman rules: Lint=g1 δ (∂δ)2+g2 δ3+g3 δ Φ2+g4 δ ψˉψ+g5 δ AμνAμν\\boxed{
+  \\mathcal{L}\_{\\text{int}} \= g\_1\\,\\delta\\,(\\partial\\delta)^2 \+ g\_2\\,\\delta^3
+  \+ g\_3\\,\\...'
+heading: '**9\. Interaction Sector (δ-Boson EFT Rules)**'
+id: GEN7-8450
+lines: 156-174
+location: genesis-7/the-complete-eft-lagrangian::9-interaction-sector-δ-boson-eft-rules::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

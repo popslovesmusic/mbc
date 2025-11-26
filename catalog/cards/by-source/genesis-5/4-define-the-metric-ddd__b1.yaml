@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- induced
+- γ
+excerpt: 'The metric is the **minimal number of adjacency steps**: d(x,y):=min⁡γ∈P(x,y)ℓ(γ).d(x,y)
+  := \\min\_{\\gamma \\in \\mathcal{P}(x,y)} \\ell(\\gamma).d(x,y):=γ∈P(x,y)min​ℓ(γ).
+  This definition is forced:'
+heading: '**4\. Define the Metric ddd**'
+id: GEN5-8169
+lines: 538-549
+location: genesis-5/the-ga-8-meta-einstein-theorem::4-define-the-metric-ddd::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md

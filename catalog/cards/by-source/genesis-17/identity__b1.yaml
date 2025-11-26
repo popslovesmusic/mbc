@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Box
+- Each Box
+excerpt: Each Box has an identity morphism corresponding to “self-adjacency.” ---
+heading: '**Identity:**'
+id: GEN17-5056
+lines: 656-660
+location: genesis-17/mbc-schema-3::4-the-box-category-𝓑::identity::b1
+parent_heading: '**4\. The Box Category (𝓑)**'
+source: genesis-17\MBC_Schema_3.md

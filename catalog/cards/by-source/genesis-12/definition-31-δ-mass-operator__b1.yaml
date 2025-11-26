@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Mass Tower
+- α
+- β
+- γ
+- δ
+- δ-Hessian
+excerpt: 'Mδ  ≡  H(Vδ)  =  ∂2Vδ∂δ2.M\_\\delta \\;\\equiv\\; H(V\_\\delta) \\;=\\;
+  \\frac{\\partial^2 V\_\\delta}{\\partial\\delta^2}.Mδ​≡H(Vδ​)=∂δ2∂2Vδ​​. Explicitly:
+  Mδ(δ)=2α+6β δ+12γ δ2.M\_\\delta(\\delta) \=...'
+heading: '**Definition 3.1 — δ-Mass Operator**'
+id: GEN12-1751
+lines: 438-448
+location: genesis-12/untitled-document::definition-31-δ-mass-operator::b1
+source: genesis-12\Untitled_document.md

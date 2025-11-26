@@ -1,0 +1,19 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Algebra
+- Box Composition
+- Θ
+- Π
+- Σ
+- Φ
+- δ
+excerpt: '{ "mbc\_version": "4.0", "module": "composition", "sealed": true, "description":
+  "Machine-readable schema for the Box Composition operator in Box Algebra (MBC-4.0).",
+  "operator": { "name": "compose", ...'
+heading: (Sealed, canonical, version-locked)
+id: GEN20-6601
+lines: 542-545
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::mbc-40-composition-specification-machine-readable-json::sealed-canonical-version-locked::b1
+parent_heading: ✅ MBC-4.0 Composition Specification (Machine-Readable JSON)
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md

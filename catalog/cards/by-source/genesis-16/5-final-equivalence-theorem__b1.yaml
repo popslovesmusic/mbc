@@ -1,0 +1,21 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+- closed
+- faithful
+- full
+- monoidal
+- normalizing
+- Π
+- β
+- δ
+- λ
+excerpt: 'BoxCalc  ≃  λ-Calculus\\boxed{ \\mathbf{BoxCalc} \\;\\simeq\\; \\lambda\\text{-Calculus}
+  }BoxCalc≃λ-Calculus​ The equivalence is: * **full** (every λ-term appears in Box
+  Calculus)'
+heading: '**⭐ 5\. FINAL EQUIVALENCE THEOREM**'
+id: GEN16-4100
+lines: 4602-4632
+location: genesis-16/untitled-document::5-final-equivalence-theorem::b1
+source: genesis-16\Untitled_document.md

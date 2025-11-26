@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Θ
+- δ
+- σ
+excerpt: All δ-flows in domain D must affirm (Θ⁺). Negative curvature anywhere forces
+  universal failure. Θ(∀x∈D. P(x))=sign⁡ ⁣(min⁡x∈DσP(x))\\Theta(\\forall x\\in D.\\,P(x))
+  \= \\operatorname{sign}\\\!\\left(\...
+heading: '**IGSOA Form**'
+id: GEN19-5976
+lines: 1578-1583
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-quantifiers-in-θ-logic::1-universal-quantifier::igsoa-form::b1
+parent_heading: '**1\. Universal Quantifier — ∀**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

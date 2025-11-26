@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- two
+- Π
+- Φ
+- δ
+excerpt: 'If you can formalize any **two** legs rigorously, the third is forced: *
+  Rigorous δ-axioms \+ closure → Φ exists uniquely. * Rigorous δ-laws \+ faithful
+  projection → Φ is whatever makes Πδ consistent.'
+heading: '**Corollary 1 (Two-leg sufficiency)**'
+id: GEN0-165
+lines: 131-143
+location: genesis-0/tri-unity-theorem-equivalence-of::corollaries-the-useful-spells::corollary-1-two-leg-sufficiency::b1
+parent_heading: '**Corollaries (the useful “spells”)**'
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md

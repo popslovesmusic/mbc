@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- σ
+excerpt: 'The functors UUU and RRR form a right adjunction: U⊣R,U \\dashv R,U⊣R, equivalently,
+  for all Y∈MMY\\in MMY∈MM, Z∈σTopZ\\in \\sigma TopZ∈σTop,'
+heading: '**Axiom T6 (Adjunction U ⊣ R).**'
+id: GEN5-7959
+lines: 341-353
+location: genesis-5/formal-proof-of-the-adjoint-triple::topostheoretic-axiom-box-the-genesismathtopos-adjoint-triple::axiom-t6-adjunction-u-r::b1
+parent_heading: '**▢ Topos–Theoretic Axiom Box: The Genesis–Math–Topos Adjoint Triple**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- Now Box Calculus
+- Σ
+- η
+- σ
+excerpt: 'Define stochastic E-operator: E(Σ)=Σ+η(t),η∼N(0,σ2)E(\\Sigma) \= \\Sigma
+  \+ \\eta(t), \\quad \\eta \\sim \\mathcal{N}(0,\\sigma^2)E(Σ)=Σ+η(t),η∼N(0,σ2) Now
+  Box Calculus captures *uncertainty-aware rea...'
+heading: '**4.3. Stochastic Expansion Operator**'
+id: GEN16-3918
+lines: 2336-2344
+location: genesis-16/untitled-document::4-expansion-direction-iv-probabilistic-bayesian-lifting::43-stochastic-expansion-operator::b1
+parent_heading: '**4\. Expansion Direction IV: Probabilistic & Bayesian Lifting**'
+source: genesis-16\Untitled_document.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'The free Feynman propagator for the δₖ mode is: Dk(p)=iZkp2−mk2+iϵ.D\_k(p)
+  \= \\frac{i Z\_k}{p^2 \- m\_k^2 \+ i\\epsilon}.Dk​(p)=p2−mk2​+iϵiZk​​. where:'
+heading: '**Definition (Level-k δ-Propagator).**'
+id: GEN0-352
+lines: 1721-1733
+location: genesis-0/why-the-first-action-is-necessary::3-single-mode-propagator::definition-level-k-δ-propagator::b1
+parent_heading: '**3\. Single-Mode Propagator**'
+source: genesis-0\Why_the_First_Action_Is_Necessary.md

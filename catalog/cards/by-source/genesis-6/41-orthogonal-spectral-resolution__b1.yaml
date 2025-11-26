@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Λ
+- Φ
+- δ
+- λ
+excerpt: Hδ=⨁nmkHnmk\\mathcal{H}\_\\delta \= \\bigoplus\_{nmk} \\mathcal{H}\_{nmk}Hδ​=nmk⨁​Hnmk​
+  Dδ∣Hnmk=ΛnmkD\_\\delta\\big|\\mathcal{H}\_{nmk} \= \\Lambda\_{nmk}Dδ​​Hnmk​=Λnmk​
+  and Λnmk=λnmk+λnmk∗+ϕnmk\\Lamb...
+heading: '**4.1 Orthogonal spectral resolution**'
+id: GEN6-8374
+lines: 103-123
+location: genesis-6/the-harmonic-spectral-triple::4-δ-harmonic-spectral-decomposition-c-version::41-orthogonal-spectral-resolution::b1
+parent_heading: '**4\. δ-Harmonic Spectral Decomposition (C\* version)**'
+source: genesis-6\The_-Harmonic_Spectral_Triple.md

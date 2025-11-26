@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- Ψ
+- δ
+excerpt: Without key-δ, Φ⁻¹ does not exist, so no L can invert Ψ.
+heading: '**Block ciphers:**'
+id: GEN14-2898
+lines: 1573-1575
+location: genesis-14/meta-math-and-cryptography::4-consequences-for-each-cryptographic-branch::block-ciphers::b1
+parent_heading: '**4\. Consequences for Each Cryptographic Branch**'
+source: genesis-14\Meta-Math_and_Cryptography.md

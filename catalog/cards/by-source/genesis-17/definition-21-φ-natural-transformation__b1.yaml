@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'A natural transformation Φ:δ⇒K\\Phi: \\delta \\Rightarrow KΦ:δ⇒K assigns
+  to each IGSOA-object XXX a morphism:'
+heading: '**Definition 2.1 (Φ Natural Transformation)**'
+id: GEN17-5050
+lines: 580-596
+location: genesis-17/mbc-schema-3::2-φ-as-a-natural-transformation::definition-21-φ-natural-transformation::b1
+parent_heading: '**2\. Φ as a Natural Transformation**'
+source: genesis-17\MBC_Schema_3.md

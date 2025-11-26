@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Deviational Curvature
+- Operator
+- Ψ
+- δ
+excerpt: '**Axiom ME-1 (Deviational Curvature):** Curvature is defined as the second
+  deviation of structure: Rδ(Ψn):=δ2Ψn−2 δΨn+ΨnR\_\\delta(\\Psi\_n) := \\delta^2\\Psi\_n
+  \- 2\\,\\delta\\Psi\_n \+ \\Psi\_nRδ​(...'
+heading: '**I. The Curvature Axiom (Δ-Deviation Curvature)**'
+id: GEN1-459
+lines: 586-610
+location: genesis-1/the-foundation-layer::i-the-curvature-axiom-δ-deviation-curvature::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md

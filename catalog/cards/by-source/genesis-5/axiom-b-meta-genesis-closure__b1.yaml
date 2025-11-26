@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Genesis Closure Principle
+- σ
+excerpt: 'There exists a functor R:σTop→MGR : \\sigma Top \\to MGR:σTop→MG that collapses
+  a scale-tower sheaf to a **global potential** by the Genesis Closure Principle.'
+heading: '**Axiom B (Meta-Genesis Closure).**'
+id: GEN5-7934
+lines: 22-28
+location: genesis-5/formal-proof-of-the-adjoint-triple::0-preliminaries-and-axiom-assumptions::axiom-b-meta-genesis-closure::b1
+parent_heading: '**0\. Preliminaries and Axiom Assumptions**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

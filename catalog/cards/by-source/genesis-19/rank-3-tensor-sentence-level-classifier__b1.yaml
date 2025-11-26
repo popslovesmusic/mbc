@@ -1,0 +1,11 @@
+block_type: list
+concepts:
+- Θ
+excerpt: '* Θ+Θ+Θ0 → supported but incomplete * Θ+Θ−Θ+ → mixed reasoning path * Θ−Θ−Θ+
+  → contradictory thrust with minor rescue'
+heading: '**Rank-3 tensor → sentence-level classifier**'
+id: GEN19-5864
+lines: 532-544
+location: genesis-19/mbc-4-1::7-compound-polarity-multi-label-classification::rank-3-tensor-sentence-level-classifier::b1
+parent_heading: '**7\. Compound Polarity → Multi-Label Classification**'
+source: genesis-19\MBC-4_1.md

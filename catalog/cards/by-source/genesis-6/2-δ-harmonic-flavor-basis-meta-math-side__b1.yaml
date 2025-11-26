@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Meta-Math
+- Ω
+- α
+- δ
+- λ
+- ν
+excerpt: 'You already defined δ-harmonics as eigenfunctions of the δ-angular Laplacian:
+  ΔΩ,δ Yℓm(δ)  =  −λℓ(δ) Yℓm(δ).\\Delta\_{\\Omega,\\delta}\\,Y^{(\\delta)}\_{\\ell
+  m} \\;=\\; \-\\lambda^{(\\delta)}\_{\\ell...'
+heading: '**2\) δ-Harmonic flavor basis (Meta-Math side)**'
+id: GEN6-8248
+lines: 510-533
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::2-δ-harmonic-flavor-basis-meta-math-side::b1
+parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
+source: genesis-6\-Harmonics__Atomic_Orbitals.md

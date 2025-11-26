@@ -1,0 +1,9 @@
+block_type: paragraph
+concepts: []
+excerpt: 'If a loop fails to converge, it must be: * marked unstable * isolated'
+heading: Failure Condition
+id: GEN20-7140
+lines: 6043-6052
+location: genesis-20/mbc-40-documentaitio-1::a33-loop-stability-cycle-coherence-condition::failure-condition::b1
+parent_heading: A3.3 Loop Stability (Cycle Coherence Condition)
+source: genesis-20\MBC_40_Documentaitio-1.md

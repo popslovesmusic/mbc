@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: A δ-adjacency object is a triple Xδ=(V,E,δ),X\_\\delta \= (V,E,\\delta),Xδ​=(V,E,δ),
+  where VVV is the vertex set, E⊆V×VE\\subseteq V\\times VE⊆V×V adjacency relations,
+  and
+heading: '**Definition 1.1 — δ-Adjacency Graph**'
+id: GEN13-2109
+lines: 1403-1415
+location: genesis-13/meta-math-nuclear-physics::1-δ-geometry-as-pre-qcd-structure::definition-11-δ-adjacency-graph::b1
+parent_heading: '**1\. δ-Geometry as Pre-QCD Structure**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- Ω
+- δ
+excerpt: AND(A,B)=Ω ⁣\[Π(Φ(δ\_∧(A,B)))\]OR(A,B)=Ω ⁣\[Π(Φ(δ\_∨(A,B)))\]¬A=Ω ⁣\[Π(δ−(A))\]XOR(A,B)=Ω ⁣\[Πresolve(Φ(δ∨(A,B)))\]A⇒B=Ω ⁣\[Π(Φlift(A→B))\]\\begin{aligned}
+  \\boxed{\\text{AND}(A,B)} &= \\Omega\\\!\\le...
+heading: '**IGSOA hermetic forms**'
+id: GEN18-5499
+lines: 1595-1597
+location: genesis-18/mbc-4::7-hermetic-box-forms::igsoa-hermetic-forms::b1
+parent_heading: '**7\. Hermetic Box Forms**'
+source: genesis-18\MBC-4.md

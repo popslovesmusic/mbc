@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: T5 exactly says the commutator lives in the **bounded endomorphism subobject**.
+  Left exact pullback sends that subobject to bounded operators on Hδ,xH\_{\\delta,x}Hδ,x​.
+  So \[Dδ,x,a\]\[D\_{\\delta,x},...
+heading: '**Step 3: Bounded commutators are stable under pullback**'
+id: GEN6-8299
+lines: 533-539
+location: genesis-6/spectral-triple-axiom-box-sealed-version::theorem-toposoperator-equivalence::proof-categorical-internal-external::step-3-bounded-commutators-are-stable-under-pullback::b1
+parent_heading: '**Proof (Categorical, internal → external)**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

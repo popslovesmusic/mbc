@@ -1,0 +1,14 @@
+block_type: list
+concepts:
+- Box
+- Box Calculus
+- Σ
+- δ
+- λ
+excerpt: 1. Box Calculus ↔ λ-Calculus equivalence (explicit translation of λ-terms
+  into Box Calculus) 2. Box Calculus is a bicartesian closed category
+heading: '⭐ Next proofs we can do:'
+id: GEN17-4490
+lines: 5558-5569
+location: genesis-17/box-calculus::next-proofs-we-can-do::b1
+source: genesis-17\box_calculus.md

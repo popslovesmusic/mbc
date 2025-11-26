@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Left Kan Extension
+- Sheafification Functor
+- δ
+- σ
+excerpt: '**δ-Sheafification Functor / Left Kan Extension** This is the core topos-move:
+  * Turns every δ-object into a σ-indexed sheaf'
+heading: '**1.2 Υ : DG₍δ₎ → Sh(σ)**'
+id: GEN2-6522
+lines: 677-705
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-meaning-of-each-arrow::12-υ-dgδ-shσ::b1
+parent_heading: '**1\. The Meaning of Each Arrow**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

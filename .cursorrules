@@ -1,0 +1,19 @@
+# HGG Semantic Catalog - Agent Instructions
+
+See AGENT.md for complete operational instructions.
+
+## Quick Context
+- Semantic catalog of 81 markdown files (Meta-Genesis physics theory)
+- 11,429 indexed blocks (axioms, theorems, concepts)
+- Data: catalog/indexes/cards.jsonl (read-only sources in HGG-/)
+
+## Primary Commands
+- Read cards: catalog/indexes/cards.jsonl
+- Read segments: catalog/indexes/segments.jsonl
+- Never modify: HGG-/ directory
+- Rebuild: python hgg-index.py build
+
+## Key Files
+- AGENT.md - Full agent instructions
+- README.md - Project overview
+- docs/ - Complete documentation

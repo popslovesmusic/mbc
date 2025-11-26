@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- δ
+- μ
+- ν
+excerpt: 'Expand the δ-metric in δ-harmonics: gδ,μν(x)=∑n=0∞gμν(n)ψn(x).g\_{\\delta,\\mu\\nu}(x)
+  \= \\sum\_{n=0}^\\infty g\_{\\mu\\nu}^{(n)} \\psi\_n(x).gδ,μν​(x)=n=0∑∞​gμν(n)​ψn​(x).
+  This is used for:'
+heading: '**11\. δ-Harmonic Expansion of the Metric**'
+id: GEN5-8205
+lines: 1065-1081
+location: genesis-5/the-ga-8-meta-einstein-theorem::11-δ-harmonic-expansion-of-the-metric::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md

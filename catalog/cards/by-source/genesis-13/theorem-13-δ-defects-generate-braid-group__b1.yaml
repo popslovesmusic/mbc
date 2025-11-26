@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: The fundamental group π1(M∖Dδ)\\pi\_1(M\\setminus \\mathcal{D}\_\\delta)π1​(M∖Dδ​)
+  is isomorphic to the **braid group** BnB\_nBn​ for n=∣Dδ∣n=\\lvert\\mathcal{D}\_\\delta\\rvertn=∣Dδ​∣.
+heading: '**Theorem 1.3 (δ-Defects Generate Braid Group).**'
+id: GEN13-2214
+lines: 2455-2465
+location: genesis-13/meta-math-nuclear-physics::1-δ-layer-topology-defects-and-braid-groups::theorem-13-δ-defects-generate-braid-group::b1
+parent_heading: '**1\. δ-Layer: Topology, Defects, and Braid Groups**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

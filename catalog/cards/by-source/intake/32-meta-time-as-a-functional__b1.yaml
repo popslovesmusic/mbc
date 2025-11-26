@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'Define: T\[Ψ\]=∑n∥δ(Ψn)∥T\[\\Psi\] \= \\sum\_{n} \\|\\delta(\\Psi\_n)\\|T\[Ψ\]=n∑​∥δ(Ψn​)∥
+  This measures the **accumulated deviation** along a history.'
+heading: '**3.2 Meta-Time as a Functional**'
+id: INTK-9890
+lines: 1736-1746
+location: intake/meta-genesis-core-papers-foundations::3-how-meta-time-forms-mathematically::32-meta-time-as-a-functional::b1
+parent_heading: '**3\. How Meta-Time Forms Mathematically**'
+source: intake\Meta-Genesis_Core_Papers_Foundations.md

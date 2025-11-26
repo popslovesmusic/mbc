@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'If an operator changes deviation by rank kkk: O(δ)=δ+k,\\mathcal{O}(\\delta)
+  \= \\delta \+ k,O(δ)=δ+k, then the state must support that rank:'
+heading: '**2.2 Deviational Rank Condition**'
+id: INTK-10172
+lines: 55-67
+location: intake/meta-genesis-meta-math-integration-papers::2-deviational-boundary-conditions::22-deviational-rank-condition::b1
+parent_heading: '**2\. Deviational Boundary Conditions**'
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

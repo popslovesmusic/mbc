@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Θ
+- δ
+excerpt: 'MBC does not use physical time or temporal ordering. Instead, “real-time
+  flow” refers to semantic update cycles driven by: * incoming deviations (δ-events)'
+heading: B4.1 What “Real-Time” Means in MBC
+id: GEN20-7229
+lines: 7556-7583
+location: genesis-20/mbc-40-documentaitio-1::b41-what-real-time-means-in-mbc::b1
+source: genesis-20\MBC_40_Documentaitio-1.md

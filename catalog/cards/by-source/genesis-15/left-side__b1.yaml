@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- η
+excerpt: F(f)∘ηΔ=(N∘L∘Π∘Φ)(f)∘(N∘L∘Π∘Φ)(idΔ)F(f) \\circ \\eta\_\\Delta \= \\left(
+  N \\circ L \\circ \\Pi \\circ \\Phi \\right)(f) \\circ \\left( N \\circ L \\circ
+  \\Pi \\circ \\Phi \\right)(\\text{id}\_\\Delta...
+heading: '**Left side:**'
+id: GEN15-3405
+lines: 430-456
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-proof-of-naturality::now-show-equality::left-side::b1
+parent_heading: '**Now Show Equality**'
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md

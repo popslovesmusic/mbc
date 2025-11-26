@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- λ
+excerpt: 'Φ(κ(t))=⨁nλn(t)IdΦn(t)\\Phi(\\kappa(t)) \= \\bigoplus\_n \\lambda\_n(t)\\mathrm{Id}\_{\\Phi\_n(t)}Φ(κ(t))=n⨁​λn​(t)IdΦn​(t)​
+  Thus harmonic modes evolve: * new eigenvalues'
+heading: '**1\. Φ decomposes curvature at time t**'
+id: GEN15-3241
+lines: 2449-2461
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-proof-from-the-functor-stack::1-φ-decomposes-curvature-at-time-t::b1
+parent_heading: '**Ⅲ. Proof From the Functor Stack**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Box
+- Θ
+- δ
+excerpt: 'For any closed adjacency cycle CCC returning to BBB: ∏e∈CΘ(e)=+1\\prod\_{e\\in
+  C}\\Theta(e)=+1e∈C∏​Θ(e)=+1 If a cycle yields −1-1−1, it is flagged as a **δ-contradiction
+  defect** (not allowed under A4...'
+heading: '**6\. Θ-Closure Check (no contradictory polarity loops)**'
+id: GEN19-5890
+lines: 266-278
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::6-θ-closure-check-no-contradictory-polarity-loops::b1
+parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

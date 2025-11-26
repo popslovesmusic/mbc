@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Θ
+excerpt: 'The function Θ:Rn→{±1},K↦sign⁡(K)\\Theta: \\mathbb{R}^n\\to\\{±1\\},\\qquad
+  K\\mapsto \\operatorname{sign}(K)Θ:Rn→{±1},K↦sign(K) is deterministic.'
+heading: '**Step 5 — Therefore polarity is fully determined**'
+id: GEN19-5911
+lines: 482-491
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::standard-column::step-5-therefore-polarity-is-fully-determined::b1
+parent_heading: '**Standard Column**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

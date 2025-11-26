@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- not
+- Π
+excerpt: 'Causal order is *not* primitive. It is the result of Π modulo connectivity:
+  C=Π(B)\\mathcal{C} \= \\Pi(\\mathcal{B})C=Π(B)'
+heading: '**5\. Causal Order as a Functor**'
+id: GEN17-5057
+lines: 662-682
+location: genesis-17/mbc-schema-3::5-causal-order-as-a-functor::b1
+source: genesis-17\MBC_Schema_3.md

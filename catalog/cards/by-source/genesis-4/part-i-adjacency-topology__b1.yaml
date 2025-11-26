@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- preorder
+- Ψ
+- δ
+excerpt: 'Given A\\mathcal{A}A with its δ-edge relation: Ψm≤δΨnif there exists a finite
+  δ-path from m to n.\\Psi\_m \\le\_\\delta \\Psi\_n \\quad\\text{if there exists
+  a finite δ-path from } m \\text{ to } n.Ψm...'
+heading: '**Part I — Adjacency ⇒ Topology**'
+id: GEN4-7845
+lines: 599-618
+location: genesis-4/the-first-adjacency::4-proof::part-i-adjacency-topology::b1
+parent_heading: '**4\. Proof**'
+source: genesis-4\The_First_Adjacency.md

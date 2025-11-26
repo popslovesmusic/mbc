@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'Define the Φ-pullback functor: \\Phi^\\\!\* : \\mathcal{P} \\to \\mathcal{D}
+  by assigning to each dynamical system P=(X,a,F)P=(X,a,\\mathcal{F})P=(X,a,F) the
+  adjacency object whose δ-curvature is the ...'
+heading: '**1.1 Construction of the Right Adjoint Φ\***'
+id: GEN13-2325
+lines: 920-936
+location: genesis-13/the-weight-of-light::1-first-adjoint-pair-δ-φ::goal::11-construction-of-the-right-adjoint-φ::b1
+parent_heading: '**Goal:**'
+source: genesis-13\The_Weight_of_Light.md

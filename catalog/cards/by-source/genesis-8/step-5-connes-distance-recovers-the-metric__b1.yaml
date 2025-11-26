@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- The Connes
+- δ
+- μ
+- ν
+excerpt: 'The Connes-like distance formula over Aδ\\mathcal{A}\_\\deltaAδ​ yields
+  a function: dδ(x,y)d\_\\delta(x,y)dδ​(x,y) whose second-order variation defines
+  the metric coefficients:'
+heading: '**Step 5 — Connes distance recovers the metric**'
+id: GEN8-8854
+lines: 1572-1580
+location: genesis-8/meta-time-geometry-and-temporal-projection::4-full-proof-igsoa-formal-version::step-5-connes-distance-recovers-the-metric::b1
+parent_heading: '**4\. Full Proof (IGSOA Formal Version)**'
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

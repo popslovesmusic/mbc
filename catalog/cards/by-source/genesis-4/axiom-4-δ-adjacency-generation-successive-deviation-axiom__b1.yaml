@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- monotone
+- Ψ
+- δ
+excerpt: 'Successive deviations generate a sequence of states: Ψn+1=δΨn,\\Psi\_{n+1}
+  \= \\delta \\Psi\_n,Ψn+1​=δΨn​, and the adjacency relation extends accordingly:'
+heading: '**Axiom 4 — δ-Adjacency Generation (Successive Deviation Axiom)**'
+id: GEN4-7859
+lines: 828-840
+location: genesis-4/the-first-adjacency::axiom-4-δ-adjacency-generation-successive-deviation-axiom::b1
+source: genesis-4\The_First_Adjacency.md

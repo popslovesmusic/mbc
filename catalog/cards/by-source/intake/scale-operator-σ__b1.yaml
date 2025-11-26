@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Meta-Scalar
+- Operator
+- Scalar Multiplication
+- Scale Operator
+- Σ
+excerpt: The **Scale Operator (Σ̂)**, which governs transformations along the scale
+  dimension, is deeply intertwined with Meta-Scalar Multiplication. `Σ̂` can be seen
+  as the generator of these scale-dependent ...
+heading: Scale Operator (Σ̂)
+id: INTK-10301
+lines: 734-735
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::connection-to-deviation-calculus-and-operators::scale-operator-σ::b1
+parent_heading: Connection to Deviation Calculus and Operators
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

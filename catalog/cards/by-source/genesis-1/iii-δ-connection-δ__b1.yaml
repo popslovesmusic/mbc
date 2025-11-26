@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Non-linear
+- Non-symmetric
+- connection
+- Ψ
+- δ
+excerpt: 'The δ-connection is the minimal connection consistent with δ-action: ∇δΨn:=Ψn+1−Ψn\\nabla\_\\delta
+  \\Psi\_n := \\Psi\_{n+1} \- \\Psi\_n∇δ​Ψn​:=Ψn+1​−Ψn​ Key properties:'
+heading: '**III. δ-Connection (∇δ)**'
+id: GEN1-447
+lines: 406-422
+location: genesis-1/the-foundation-layer::iii-δ-connection-δ::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md

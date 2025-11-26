@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Axiom
+- not
+- Ψ
+excerpt: Let **𝓣** be a topos representing the universe of possible states. Objects
+  of 𝓣 represent “structured states” or “configurations.” Morphisms in 𝓣 represent
+  admissible operations.
+heading: '**I. Setup in a Topos**'
+id: GEN1-499
+lines: 1259-1285
+location: genesis-1/the-foundation-layer::i-setup-in-a-topos::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md

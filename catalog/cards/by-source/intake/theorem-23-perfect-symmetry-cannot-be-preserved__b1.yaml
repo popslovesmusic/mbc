@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- From Def
+- From Lemma
+- Lemma
+- Ψ
+excerpt: 'If a state is infinitely degenerate and lacks a stabilizing operator, then
+  it must evolve: Ψ0⟶Ψ1≠Ψ0.\\Psi\_0 \\longrightarrow \\Psi\_1 \\neq \\Psi\_0.Ψ0​⟶Ψ1​=Ψ0​.
+  **Proof.**'
+heading: '**Theorem 2.3 (Perfect Symmetry Cannot Be Preserved).**'
+id: INTK-10090
+lines: 289-301
+location: intake/meta-genesis-physical-interpretation-papers::2-instability-of-perfect-symmetry::theorem-23-perfect-symmetry-cannot-be-preserved::b1
+parent_heading: '**2\. Instability of Perfect Symmetry**'
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md

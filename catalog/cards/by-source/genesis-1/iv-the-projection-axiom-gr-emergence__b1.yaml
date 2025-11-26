@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Axiom
+- General Relativity
+- Meta-Einstein
+- Spacetime Manifold
+- shadow
+- δ
+- μ
+- ν
+excerpt: '**Axiom ME-4 (Projection to Spacetime GR):** There exists a projection functor:
+  P:Hδ→(Spacetime Manifold)\\mathcal{P}: \\mathcal{H}\_\\delta \\to \\text{(Spacetime
+  Manifold)}P:Hδ​→(Spacetime Manifold)'
+heading: '**IV. The Projection Axiom (GR Emergence)**'
+id: GEN1-462
+lines: 660-684
+location: genesis-1/the-foundation-layer::iv-the-projection-axiom-gr-emergence::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md

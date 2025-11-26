@@ -1,0 +1,12 @@
+block_type: list
+concepts:
+- Θ
+- σ
+excerpt: '* Inputs are polarities: σA=Θ(A)∈{+1,−1},σB=Θ(B)∈{+1,−1}\\sigma\_A \= \\Theta(A)
+  \\in \\{+1,-1\\},\\qquad \\sigma\_B \= \\Theta(B) \\in \\{+1,-1\\}σA​=Θ(A)∈{+1,−1},σB​=Θ(B)∈{+1,−1}
+  * Θ-router computes...'
+heading: '**0\. Encoding (sealed for this table)**'
+id: GEN19-5954
+lines: 1038-1048
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::0-encoding-sealed-for-this-table::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

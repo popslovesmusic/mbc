@@ -1,0 +1,10 @@
+block_type: list
+concepts:
+- η
+excerpt: '1. Apply f: Δ→fΔ′\\Delta \\xrightarrow{f} \\Delta''Δf​Δ′ 2. Apply η to Δ′\\Delta''Δ′:'
+heading: '**Right Side: Follow f Then η**'
+id: GEN15-3403
+lines: 410-424
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-proof-of-naturality::right-side-follow-f-then-η::b1
+parent_heading: '**7\. Proof of Naturality**'
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md

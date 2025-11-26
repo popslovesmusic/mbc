@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Θ
+- Π
+- Φ
+- δ
+excerpt: 'input → box A → box B → box C → output Pipeline: * δ(A) \= input distinction'
+heading: Example 1 — Basic MBC Inference Engine
+id: GEN20-7036
+lines: 4790-4801
+location: genesis-20/mbc-40-documentaitio-1::conclusion::147-implementation-examples::example-1-basic-mbc-inference-engine::b1
+parent_heading: 14.7 Implementation Examples
+source: genesis-20\MBC_40_Documentaitio-1.md

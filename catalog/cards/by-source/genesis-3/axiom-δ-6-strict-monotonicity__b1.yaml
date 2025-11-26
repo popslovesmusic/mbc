@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Zero-State
+- irreversible
+- Ψ
+- δ
+excerpt: 'Deviation is **irreversible** and **strictly increasing**: δn+1Ψ0≠δnΨ0,∀n.\\delta^{n+1}\\Psi\_0
+  \\neq \\delta^n\\Psi\_0, \\quad \\forall n.δn+1Ψ0​=δnΨ0​,∀n. No retraction to a
+  lower deviational state ...'
+heading: '**Axiom δ-6 (Strict Monotonicity)**'
+id: GEN3-7350
+lines: 1127-1136
+location: genesis-3/metagenesis::deviational-axioms::axiom-δ-6-strict-monotonicity::b1
+parent_heading: '**DEVIATIONAL AXIOMS**'
+source: genesis-3\metagenesis.md

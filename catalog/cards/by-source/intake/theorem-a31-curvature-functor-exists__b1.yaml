@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Let ∇δ:IdS⇒End(S)\\nabla\_\\delta : \\text{Id}\_{\\mathcal{S}} \\Rightarrow
+  \\text{End}(\\mathcal{S})∇δ​:IdS​⇒EndS​ be a δ-connection.'
+heading: '**Theorem A.3.1 (Curvature Functor Exists).**'
+id: INTK-10634
+lines: 1241-1254
+location: intake/volume-i-core-ontology-and-metagenesis-summary::a3-existence-of-curvature::theorem-a31-curvature-functor-exists::b1
+parent_heading: '**A.3 Existence of Curvature**'
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md

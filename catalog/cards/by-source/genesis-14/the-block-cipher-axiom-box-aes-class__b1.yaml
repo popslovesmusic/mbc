@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Avalanche Condition
+- Axiom
+- Ciphertext Projection
+- Lift Security
+- No-Lift
+- Round Structure
+- Π
+- Φ
+- δ
+excerpt: '**Axiom BC1 (Keyed δ-Asymmetry):** A block cipher requires a δ-key whose
+  asymmetry defines the entire transformation. **Axiom BC2 (Φ-Round Structure):**'
+heading: '**The Block Cipher Axiom Box (AES-class)**'
+id: GEN14-2867
+lines: 1095-1117
+location: genesis-14/meta-math-and-cryptography::the-block-cipher-axiom-box-aes-class::b1
+source: genesis-14\Meta-Math_and_Cryptography.md

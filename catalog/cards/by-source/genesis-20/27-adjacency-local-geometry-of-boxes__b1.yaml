@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+excerpt: 'Adjacency describes the local geometric relationship between boxes. If two
+  boxes are adjacent, their deviation fields overlap or interact. This is crucial
+  because: * deviation propagates through adjac...'
+heading: '2.7 Adjacency: Local Geometry of Boxes'
+id: GEN20-6701
+lines: 632-644
+location: genesis-20/mbc-40-documentaitio-1::27-adjacency-local-geometry-of-boxes::b1
+source: genesis-20\MBC_40_Documentaitio-1.md

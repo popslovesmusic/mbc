@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Γ
+- σ
+excerpt: 'There exists a functor R:σTop→MGR : \\sigma Top \\to MGR:σTop→MG such that
+  for any scale-sheaf Z∈σTopZ\\in \\sigma TopZ∈σTop,'
+heading: '**Axiom T4 (Genesis Collapse Functor).**'
+id: GEN5-7957
+lines: 313-325
+location: genesis-5/formal-proof-of-the-adjoint-triple::topostheoretic-axiom-box-the-genesismathtopos-adjoint-triple::axiom-t4-genesis-collapse-functor::b1
+parent_heading: '**▢ Topos–Theoretic Axiom Box: The Genesis–Math–Topos Adjoint Triple**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

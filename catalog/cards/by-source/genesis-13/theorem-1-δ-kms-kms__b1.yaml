@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Π
+- Ω
+- β
+- δ
+- σ
+- ω
+excerpt: If ω\\omegaω is δ-KMSβ\_\\betaβ​, then Ω=Π∗(ω)\\Omega \= \\Pi\_\*(\\omega)Ω=Π∗​(ω)
+  is a **KMSβ\_\\betaβ​** state for the standard modular automorphism group σᵗ of
+  Π(A).
+heading: '**Theorem 1 (δ-KMS → KMS).**'
+id: GEN13-2388
+lines: 1742-1757
+location: genesis-13/the-weight-of-light::4-π-projection-produces-standard-kms-states::theorem-1-δ-kms-kms::b1
+parent_heading: '**4\. Π-Projection Produces Standard KMS States**'
+source: genesis-13\The_Weight_of_Light.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- not
+excerpt: Operators in the IGSOA framework do **not** act freely on all states. They
+  require the correct **ontological domain**, **deviation gradient**, and **adjacency
+  structure** to be well-defined. This sect...
+heading: '***(IGSOA / Meta-Math Canonical Version)***'
+id: INTK-10167
+lines: 4-9
+location: intake/meta-genesis-meta-math-integration-papers::boundary-conditions-for-operators::igsoa-meta-math-canonical-version::b1
+parent_heading: '**Boundary Conditions for Operators**'
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

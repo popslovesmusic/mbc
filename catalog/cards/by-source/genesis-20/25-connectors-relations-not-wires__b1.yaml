@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Box
+excerpt: Boxes do not sit alone; they communicate through connectors. A connector
+  is not a pipe or channel. It is a dependency relation describing how one box’s content
+  affects another.
+heading: '2.5 Connectors: Relations, Not Wires'
+id: GEN20-6699
+lines: 586-607
+location: genesis-20/mbc-40-documentaitio-1::25-connectors-relations-not-wires::b1
+source: genesis-20\MBC_40_Documentaitio-1.md

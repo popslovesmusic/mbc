@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'A more rigorous, Hilbert-space-like proof. You want the zero-state to be:
+  Ψ0∉H,Ψ0∉D(O),Ψ0∉Hδ.\\Psi\_0 \\notin \\mathcal{H},\\qquad \\Psi\_0 \\notin D(\\mathcal{O}),\\qquad
+  \\Psi\_0 \\notin \\mathcal{H...'
+heading: '**2\. Functional-Analytic Domain Exclusion**'
+id: INTK-9964
+lines: 287-297
+location: intake/meta-genesis-mathematical-papers::2-functional-analytic-domain-exclusion::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md

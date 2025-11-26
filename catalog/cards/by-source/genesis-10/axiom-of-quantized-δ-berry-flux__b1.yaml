@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: 'For any closed adjacency cycle Σ\\SigmaΣ: ∫ΣFδ=m δ0,m∈Z.\\int\_{\\Sigma}
+  \\mathcal{F}\_\\delta \= m\\,\\delta\_0, \\qquad m\\in\\mathbb{Z}.∫Σ​Fδ​=mδ0​,m∈Z.
+  This integer is the **δ-Berry flux quantum**...'
+heading: '**Axiom of Quantized δ-Berry Flux**'
+id: GEN10-746
+lines: 934-942
+location: genesis-10/how-stillness-becomes-solid::the-δ-berry-connection-axiom::axiom-of-quantized-δ-berry-flux::b1
+parent_heading: '**The δ-Berry Connection Axiom**'
+source: genesis-10\How_Stillness_Becomes_Solid_.md

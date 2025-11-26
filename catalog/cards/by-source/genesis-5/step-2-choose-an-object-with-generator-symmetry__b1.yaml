@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Meta-Genesis
+- generator-swap
+- δ
+- σ
+excerpt: 'By your Meta-Genesis axioms, there exist potential objects with at least
+  two independent δ-directions. Formally: there exists X∈MGX\\in MGX∈MG with a nontrivial
+  automorphism group, e.g. an object carr...'
+heading: '**Step 2: Choose an object with generator-symmetry**'
+id: GEN5-8015
+lines: 1145-1154
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-no-lift-theorem-formal::proof-by-contradiction::step-2-choose-an-object-with-generator-symmetry::b1
+parent_heading: '**Proof (by contradiction)**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

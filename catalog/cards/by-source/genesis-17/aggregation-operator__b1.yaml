@@ -1,0 +1,13 @@
+block_type: table
+concepts:
+- Box
+- Merges Box
+- Operator
+- Σ
+excerpt: '---'
+heading: '**Aggregation Operator**'
+id: GEN17-5029
+lines: 383-389
+location: genesis-17/mbc-schema-3::2-canonical-mbc-operator-table-clean-final::aggregation-operator::b1
+parent_heading: '**(2) Canonical MBC Operator Table (Clean, Final)**'
+source: genesis-17\MBC_Schema_3.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- α
+- δ
+- λ
+- μ
+- ν
+excerpt: 'This is the “pure deviation” dynamics: Lδ-kin=12 gμν(∂μδ)(∂νδ)−12mδ2 δ2\\boxed{
+  \\mathcal{L}\_{\\delta\\text{-kin}} \= \\frac{1}{2}\\,g^{\\mu\\nu}(\\partial\_\\mu\\delta)(\\partial\_\\nu\\delta)
+  \- \\...'
+heading: '**2\. δ-Kinetic (Deviation Scalar Sector)**'
+id: GEN7-8443
+lines: 34-46
+location: genesis-7/the-complete-eft-lagrangian::2-δ-kinetic-deviation-scalar-sector::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

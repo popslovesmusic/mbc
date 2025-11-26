@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Axiom
+- By Axiom
+- Lemma
+- Ψ
+- δ
+excerpt: ¬∃O(Ψ0)⟹δ(Ψ0)≠0.\\boxed{ \\neg\\exists \\mathcal{O}(\\Psi\_0) \\quad \\Longrightarrow
+  \\quad \\delta(\\Psi\_0) \\neq 0\. }¬∃O(Ψ0​)⟹δ(Ψ0​)=0.​ **Proof.** By Axiom 0 and
+  Lemma 3.1. ∎
+heading: '**Theorem 3.2 (First Deviation Theorem).**'
+id: INTK-10092
+lines: 313-320
+location: intake/meta-genesis-physical-interpretation-papers::3-necessity-of-the-first-deviation::theorem-32-first-deviation-theorem::b1
+parent_heading: '**3\. Necessity of the First Deviation**'
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md

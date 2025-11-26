@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- completion
+- time
+- δ
+excerpt: Adjacency chains depend on consistent ordering to define δ-neighborhoods.
+  Thus ordering is not an addition to adjacency. It is the **completion** of adjacency.
+heading: '**Reason 4 — Without order, adjacency contradicts itself.**'
+id: GEN4-7881
+lines: 1173-1185
+location: genesis-4/the-first-adjacency::5-why-ordering-must-crystallize::reason-4-without-order-adjacency-contradicts-itself::b1
+parent_heading: '**5\. Why Ordering MUST crystallize**'
+source: genesis-4\The_First_Adjacency.md

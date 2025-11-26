@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: 'Compute the effect of propagation/smoothing: X=Φ(D).X \= \\Phi(\\mathscr{D}).X=Φ(D).
+  Analyze:'
+heading: '**Step 2 — Apply Φ-Evolution**'
+id: GEN11-1232
+lines: 1706-1722
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::x5-the-prediction-pipeline::step-2-apply-φ-evolution::b1
+parent_heading: '**X.5 The Prediction Pipeline**'
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md

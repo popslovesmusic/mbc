@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Σ
+- σ
+excerpt: 'A polarity router computes the sign of a weighted sum: **σ \= sign( Σ wᵢ
+  xᵢ )** equivalent to a perceptron-like classifier, but operating on semantic curvature
+  rather than numeric features.'
+heading: '**Standard Statement**'
+id: GEN19-5877
+lines: 88-96
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iv-the-polarity-router-law-core-of-the-θ-system::standard-statement::b1
+parent_heading: '**IV. The Polarity Router Law (core of the Θ-system)**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

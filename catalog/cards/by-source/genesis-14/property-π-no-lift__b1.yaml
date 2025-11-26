@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Lift Theorem
+- No-Lift
+- Theorem
+- Π
+- δ
+excerpt: 'No functor exists such that L:Π(X)→δ(X)L: \\Pi(X) \\to \\delta(X)L:Π(X)→δ(X)
+  satisfying'
+heading: '**Property (Π-No Lift):**'
+id: GEN14-2832
+lines: 637-651
+location: genesis-14/meta-math-and-cryptography::5-π-projection-as-the-source-of-irreversibility::property-π-no-lift::b1
+parent_heading: '**5\. Π: Projection as the Source of Irreversibility**'
+source: genesis-14\Meta-Math_and_Cryptography.md

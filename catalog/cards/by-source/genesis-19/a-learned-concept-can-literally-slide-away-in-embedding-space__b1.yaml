@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts: []
+excerpt: even though it still works on the training set. That is catastrophic drift.
+  ---
+heading: A learned concept can literally “slide away” in embedding space
+id: GEN19-6075
+lines: 701-705
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::3-no-built-in-semantic-anchoring::a-learned-concept-can-literally-slide-away-in-embedding-space::b1
+parent_heading: 3\. No Built-in Semantic Anchoring
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+- ν
+excerpt: For systems with time-reversal operator TTT, νZ2=∮∂BZAΦmod  2.\\nu\_{Z\_2}
+  \= \\oint\_{\\partial \\mathrm{BZ}} \\mathcal{A}\_\\Phi \\mod 2.νZ2​​=∮∂BZ​AΦ​mod2.
+  This invariant arises from parity of δ-ad...
+heading: '**Proposition 2.6 — Z₂ Invariant**'
+id: GEN13-2186
+lines: 2198-2206
+location: genesis-13/meta-math-nuclear-physics::2-φ-layer-band-theory-and-operator-algebra::proposition-26-z₂-invariant::b1
+parent_heading: '**2\. Φ-Layer: Band Theory and Operator Algebra**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

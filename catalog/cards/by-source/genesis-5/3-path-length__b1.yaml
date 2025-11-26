@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts: []
+excerpt: 'Each adjacency step carries **unit cost** (universal measure assumption):
+  ℓ(path)=n.\\ell(\\text{path}) \= n.ℓ(path)=n. No geometry is assumed—only **counting
+  of adjacency steps**.'
+heading: '**3\. Path Length**'
+id: GEN5-8168
+lines: 528-536
+location: genesis-5/the-ga-8-meta-einstein-theorem::3-path-length::b1
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md

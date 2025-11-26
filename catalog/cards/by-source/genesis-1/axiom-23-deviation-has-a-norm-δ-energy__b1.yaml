@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- δ
+- δ-energy
+excerpt: 'There exists an inner product on H\\mathcal{H}H satisfying: ∥δψ∥2=⟨ψ,δ†δ ψ⟩.\\|\\delta\\psi\\|^2
+  \= \\langle \\psi, \\delta^\\dagger \\delta \\, \\psi \\rangle.∥δψ∥2=⟨ψ,δ†δψ⟩. This
+  defines **δ-energy*...'
+heading: '**Axiom 2.3 — Deviation Has a Norm (δ-Energy).**'
+id: GEN1-532
+lines: 366-386
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::chapter-axioms-of-deviational-geometry::2-deviational-structure::axiom-23-deviation-has-a-norm-δ-energy::b1
+parent_heading: '**2\. Deviational Structure**'
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts: []
+excerpt: 'A projection πT\\pi\_TπT​ that preserves adjacency must satisfy: X⪯Y⇒πT(X)≤πT(Y).X\\preceq
+  Y \\Rightarrow \\pi\_T(X)\\le \\pi\_T(Y).X⪯Y⇒πT​(X)≤πT​(Y). This is the definition
+  of a **poset morphism**.'
+heading: '**Lemma 4 — Projection that preserves order must be monotonic.**'
+id: INTK-10004
+lines: 958-966
+location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-4-projection-that-preserves-order-must-be-monotonic::b1
+parent_heading: '**4\. Full Formal Proof**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

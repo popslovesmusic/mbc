@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'Partial orders generate higher relational structure: * transitive closure
+  * consistency maintenance'
+heading: '**Lemma 4 — Every partial order demands consistency extension.**'
+id: INTK-10019
+lines: 1144-1160
+location: intake/meta-genesis-mathematical-papers::2-minimal-structure-proof-algebraic::lemma-4-every-partial-order-demands-consistency-extension::b1
+parent_heading: '**2\. Minimal-Structure Proof (Algebraic)**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

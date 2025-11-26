@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- Ω
+- δ
+excerpt: 'δ:I→D\\delta : \\mathcal{I} \\to \\mathcal{D}δ:I→D Φ:D→D\\Phi : \\mathcal{D}
+  \\to \\mathcal{D}Φ:D→D Π:D→B\\Pi : \\mathcal{D} \\to \\mathcal{B}Π:D→B Ω:B→MB\\Omega
+  : \\mathcal{B} \\to \\mathcal{MB}Ω:B→M...'
+heading: '**Core Functors**'
+id: GEN17-5084
+lines: 1086-1088
+location: genesis-17/mbc-schema-3::4-functorial-structure-in-mbc-40::core-functors::b1
+parent_heading: '**4\. Functorial Structure in MBC-4.0**'
+source: genesis-17\MBC_Schema_3.md

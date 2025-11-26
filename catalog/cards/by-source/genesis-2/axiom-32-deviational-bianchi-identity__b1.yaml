@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: The δ-curvature satisfies ∇\[X,Y\]δδRδ+∇\[Y,Z\]δδRδ+∇\[Z,X\]δδRδ=0.\\nabla^\\delta\_{\[X,Y\]\_\\delta}
+  R\_\\delta \+ \\nabla^\\delta\_{\[Y,Z\]\_\\delta} R\_\\delta \+ \\nabla^\\delta\_{\[Z,X\]\_\\delt...
+heading: '**Axiom 3.2 — Deviational Bianchi Identity**'
+id: GEN2-6304
+lines: 138-146
+location: genesis-2/axioms-of-geometry-topos-compatible::3-deviational-curvature::axiom-32-deviational-bianchi-identity::b1
+parent_heading: '**3\. Deviational Curvature**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

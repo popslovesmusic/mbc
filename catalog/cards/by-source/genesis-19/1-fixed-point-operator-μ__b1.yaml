@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Θ
+- μ
+- σ
+excerpt: σμX.P(X)=lim⁡n→∞σPn(−1)σ\_{\\mu X. P(X)} \= \\lim\_{n\\to\\infty} σ\_{P^n(-1)}σμX.P(X)​=n→∞lim​σPn(−1)​
+  Iterate Θ-routing until stable polarity. ---
+heading: '**1\. Fixed Point Operator (μ)**'
+id: GEN19-5998
+lines: 1775-1781
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iv-meta-reasoning-operators::1-fixed-point-operator-μ::b1
+parent_heading: '**IV. META-REASONING OPERATORS**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

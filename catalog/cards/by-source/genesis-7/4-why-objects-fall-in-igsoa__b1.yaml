@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Γ
+- δ
+- τ
+excerpt: 'Because adjacency is deformed, shortest paths are deformed. The δ-geodesic
+  equation is: DuiDτ=δΓjkiujuk=0\\frac{D u^i}{D\\tau} \= \\delta\\Gamma^i\_{jk} u^j
+  u^k \= 0DτDui​=δΓjki​ujuk=0'
+heading: '**4\. Why Objects “Fall” in IGSOA**'
+id: GEN7-8622
+lines: 91-111
+location: genesis-7/why-curvature-gives-gravity::4-why-objects-fall-in-igsoa::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

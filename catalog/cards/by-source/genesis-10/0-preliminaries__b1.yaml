@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- band
+- Π
+- Π-projection
+- Φ
+- δ
+excerpt: A band structure is traditionally the spectrum of the one-electron Hamiltonian
+  in a periodic potential. In IGSOA, a *band* is the **Π-projection** of a **Φ-stabilized
+  harmonic degeneracy** in the **δ-...
+heading: '**0\. Preliminaries**'
+id: GEN10-676
+lines: 128-139
+location: genesis-10/how-stillness-becomes-solid::δ-harmonic-band-structure-derivation::0-preliminaries::b1
+parent_heading: '**δ-Harmonic → Band-Structure Derivation**'
+source: genesis-10\How_Stillness_Becomes_Solid_.md

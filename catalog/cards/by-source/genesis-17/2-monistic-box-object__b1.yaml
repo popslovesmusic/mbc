@@ -1,0 +1,15 @@
+block_type: table
+concepts:
+- Box
+- Formal Definition
+- Γ
+- Σ
+- Ω
+- δ
+excerpt: 'So a well-formed Box is: Bi=⟨Σi,Γi,Ωi⟩,Σi≠0 B'
+heading: 2\. Monistic Box Object
+id: GEN17-4759
+lines: 8891-8920
+location: genesis-17/box-calculus::monistic-box-calculus-syntax-v10::2-monistic-box-object::b1
+parent_heading: ⭐ MONISTIC BOX CALCULUS SYNTAX v1.0
+source: genesis-17\box_calculus.md

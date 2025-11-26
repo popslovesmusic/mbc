@@ -1,0 +1,14 @@
+block_type: list
+concepts:
+- Box
+- Every Box
+- idempotent
+- Π
+excerpt: '* Π is **idempotent**: Π(Π(x))=Π(x)\\Pi(\\Pi(x))=\\Pi(x)Π(Π(x))=Π(x) * Π
+  is **terminal among semantic states**:'
+heading: '**Why Π gives a terminal object:**'
+id: GEN16-4063
+lines: 4121-4136
+location: genesis-16/untitled-document::2-the-terminal-object::why-π-gives-a-terminal-object::b1
+parent_heading: '**⭐ 2\. The Terminal Object**'
+source: genesis-16\Untitled_document.md

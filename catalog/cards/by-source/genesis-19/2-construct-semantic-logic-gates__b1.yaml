@@ -1,0 +1,11 @@
+block_type: list
+concepts:
+- δ
+excerpt: '* Semantic AND/OR based on meaning, not boolean bits * Contextual XOR (conflict/resolution
+  detection) * Implication based on δ-adjacency rather than syntax'
+heading: ✔ 2\. Construct Semantic Logic Gates
+id: GEN19-6010
+lines: 22-27
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::i-computation-logic::2-construct-semantic-logic-gates::b1
+parent_heading: I. COMPUTATION & LOGIC
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md

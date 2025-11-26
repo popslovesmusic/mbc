@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'For states Ψᵢ: δ(Ψi+1)=f(δ(Ψi))\\delta(\\Psi\_{i+1}) \= f(\\delta(\\Psi\_i))δ(Ψi+1​)=f(δ(Ψi​))
+  Deviation is self-propagating.'
+heading: '**(δ-Operator-4) Compositionality**'
+id: INTK-9800
+lines: 566-572
+location: intake/meta-genesis-core-papers-foundations::2-operator-δ-mathematical-action::δ-operator-4-compositionality::b1
+parent_heading: '**2\. Operator δ (Mathematical Action)**'
+source: intake\Meta-Genesis_Core_Papers_Foundations.md

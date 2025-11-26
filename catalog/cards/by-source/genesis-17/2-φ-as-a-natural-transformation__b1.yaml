@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'Φ is not a functor. Φ is a **natural transformation** between two functors:
+  δ,K:I→D\\delta, K: \\mathcal{I} \\to \\mathcal{D}δ,K:I→D'
+heading: '**2\. Φ as a Natural Transformation**'
+id: GEN17-5049
+lines: 566-578
+location: genesis-17/mbc-schema-3::2-φ-as-a-natural-transformation::b1
+source: genesis-17\MBC_Schema_3.md

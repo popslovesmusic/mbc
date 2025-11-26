@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Meta-Time
+- Physical Time
+- Physical-Time
+- η
+excerpt: 'With the natural transformation: η:LTMeta⇒TPhysL\\eta : L\\mathbb{T}\_{\\text{Meta}}
+  \\Rightarrow \\mathbb{T}\_{\\text{Phys}}Lη:LTMeta​⇒TPhys​L The factorization is:'
+heading: '**TPhys=L∘TMeta∘U\\mathbb{T}\_{\\text{Phys}} \= L \\circ \\mathbb{T}\_{\\text{Meta}}
+  \\circ UTPhys​=L∘TMeta​∘U**'
+id: GEN4-7741
+lines: 443-456
+location: genesis-4/the-adjoint-triple::part-2-natural-transformations-between-them::3-the-genesistime-factorization::tphysltmetaumathbbt-textphys-l-circ-mathbbt-textmeta-circ-utphysltmetau::b1
+parent_heading: '**3\. The Genesis–Time Factorization**'
+source: genesis-4\The_Adjoint_Triple.md

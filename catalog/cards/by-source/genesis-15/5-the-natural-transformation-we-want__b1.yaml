@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+- η
+excerpt: 'Consider: * Functor F=N∘L∘Π∘ΦF \= N \\circ L \\circ \\Pi \\circ \\PhiF=N∘L∘Π∘Φ
+  * Functor G=idCG \= \\text{id}\_{\\mathcal{C}}G=idC​ (the identity functor on δ-adjacency)'
+heading: '**5\. The Natural Transformation We Want**'
+id: GEN15-3399
+lines: 349-370
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::5-the-natural-transformation-we-want::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md

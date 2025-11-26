@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'The δ-valence of a state Ψn\\Psi\_nΨn​ is: vδ(Ψn)=∣Nδ(Ψn)∣v\_\\delta(\\Psi\_n)
+  \= |N\_\\delta(\\Psi\_n)|vδ​(Ψn​)=∣Nδ​(Ψn​)∣ the number of states in its δ-neighborhood.'
+heading: '**Definition 2 — δ-Valence**'
+id: GEN4-7892
+lines: 1390-1396
+location: genesis-4/the-first-adjacency::2-formal-foundations-curvature-without-geometry::definition-2-δ-valence::b1
+parent_heading: '**2\. Formal Foundations — Curvature Without Geometry**'
+source: genesis-4\The_First_Adjacency.md

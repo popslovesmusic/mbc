@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Bochner Laplacian
+- δ
+excerpt: 'We now put the pieces together: Dδ2=∇δ∗∇δ+L(δ)+14Rδ+Q(δ).D\_\\delta^2 \=
+  \\nabla\_\\delta^\\ast\\nabla\_\\delta \+ \\mathcal{L}(\\delta) \+ \\frac{1}{4}R^\\delta
+  \+ \\mathcal{Q}(\\delta).Dδ2​=∇δ∗​∇δ​+...'
+heading: '**◼ V. Combine (I) and (II)**'
+id: GEN7-8698
+lines: 1189-1211
+location: genesis-7/why-curvature-gives-gravity::v-combine-i-and-ii::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

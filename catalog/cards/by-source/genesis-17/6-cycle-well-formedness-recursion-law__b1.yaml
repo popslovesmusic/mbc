@@ -1,0 +1,10 @@
+block_type: table
+concepts:
+- ρ
+excerpt: Cycles are allowed only in controlled form. A directed cycle C
+heading: 6\. Cycle-Well-Formedness (Recursion Law)
+id: GEN17-4257
+lines: 1654-1680
+location: genesis-17/box-calculus::graph-grammar-for-box-calculus-topology-legal-wiring::6-cycle-well-formedness-recursion-law::b1
+parent_heading: ⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)
+source: genesis-17\box_calculus.md

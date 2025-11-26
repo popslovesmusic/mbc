@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Operator
+- Operator Kernel Registry
+excerpt: 'To make your local LLM and engine airtight, the next thing to produce is:
+  “Operator Kernel Registry v0.2” A sealed table listing every primitive \+ derived
+  operator with:'
+heading: What I recommend as the immediate next artifact
+id: GEN17-4186
+lines: 502-514
+location: genesis-17/box-calculus::what-i-recommend-as-the-immediate-next-artifact::b1
+source: genesis-17\box_calculus.md

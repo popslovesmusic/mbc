@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Deviational Curvature
+- new
+- Π
+- Φ
+- δ
+- λ
+excerpt: 'Recall your Deviational Curvature definition for a projection FFF: KfF=δD(Ff)∘λX−λY∘F(δf).\\mathcal{K}^F\_f
+  \= \\delta\_D(Ff)\\circ \\lambda\_X \- \\lambda\_Y\\circ F(\\delta f).KfF​=δD​(Ff)∘λX​−λY​∘F...'
+heading: '**Interpretation in your curvature-as-defect language**'
+id: GEN5-8067
+lines: 1944-1959
+location: genesis-5/formal-proof-of-the-adjoint-triple::interpretation-in-your-curvature-as-defect-language::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

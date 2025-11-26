@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'If K∉ker⁡ΦK\\notin \\ker\\PhiK∈/kerΦ, then: Spec⁡(Wδ,X′)≠Spec⁡(Wδ,X).\\operatorname{Spec}(W\_{\\delta,X''})\\neq
+  \\operatorname{Spec}(W\_{\\delta,X}).Spec(Wδ,X′​)=Spec(Wδ,X​). *Proof.* Φ preserves
+  spec...'
+heading: '**Lemma 4.2 (Non-trivial Variation).**'
+id: GEN13-2630
+lines: 2470-2480
+location: genesis-13/what-biology-is-in-meta-genesis::4-variation-as-δ-perturbation-functor::lemma-42-non-trivial-variation::b1
+parent_heading: '**4\. Variation as δ-Perturbation Functor**'
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

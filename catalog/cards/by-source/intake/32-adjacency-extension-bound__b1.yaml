@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Time
+- Ψ
+- α
+excerpt: 'An operator altering adjacency must do so boundedly: ∣A(OΨ)∣−∣A(Ψ)∣≤αO,|A(\\mathcal{O}\\Psi)|
+  \- |A(\\Psi)| \\le \\alpha\_\\mathcal{O},∣A(OΨ)∣−∣A(Ψ)∣≤αO​, where αO\\alpha\_\\mathcal{O}αO​
+  is the opera...'
+heading: '**3.2 Adjacency Extension Bound**'
+id: INTK-10175
+lines: 79-89
+location: intake/meta-genesis-meta-math-integration-papers::3-adjacency-boundary-conditions::32-adjacency-extension-bound::b1
+parent_heading: '**3\. Adjacency Boundary Conditions**'
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

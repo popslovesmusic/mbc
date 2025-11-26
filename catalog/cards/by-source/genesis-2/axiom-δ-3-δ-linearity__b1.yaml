@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: δ(f+g)=δ(f)+δ(g),δ(cf)=c δ(f).\\delta(f+g)=\\delta(f)+\\delta(g),\\qquad
+  \\delta(cf)=c\\,\\delta(f).δ(f+g)=δ(f)+δ(g),δ(cf)=cδ(f). ---
+heading: '**Axiom (δ-3) — δ-Linearity**'
+id: GEN2-6407
+lines: 1376-1380
+location: genesis-2/axioms-of-geometry-topos-compatible::section-i-δ-layer-intrinsic-deviation-geometry::axiom-δ-3-δ-linearity::b1
+parent_heading: '**Section I — δ-Layer (Intrinsic Deviation / Geometry)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

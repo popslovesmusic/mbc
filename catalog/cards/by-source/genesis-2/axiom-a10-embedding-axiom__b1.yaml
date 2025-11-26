@@ -1,0 +1,23 @@
+block_type: paragraph
+concepts:
+- Adjacency Preservation
+- Full Faithfulness
+- Left Exactness
+- Lemma
+- Logical Compatibility
+- Meta-Genesis
+- Scale-Topos
+- Topos Compatibility Lemma
+- Φ
+- α
+- δ
+- δ-Naturality
+- σ
+excerpt: 'There exists a functor: Φ=Υ∘i:MG→Sh(σ)(A.5.1)\\Phi \= Υ\\circ i : MG \\to
+  Sh(\\sigma) \\tag{A.5.1}Φ=Υ∘i:MG→Sh(σ)(A.5.1) such that:'
+heading: '**Axiom A10 (Embedding Axiom).**'
+id: GEN2-6547
+lines: 1084-1105
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a5-topos-compatibility-axiom::axiom-a10-embedding-axiom::b1
+parent_heading: '**A.5 Topos Compatibility Axiom**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

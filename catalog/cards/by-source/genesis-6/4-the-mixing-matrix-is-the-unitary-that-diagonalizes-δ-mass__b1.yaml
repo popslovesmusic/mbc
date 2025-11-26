@@ -1,0 +1,19 @@
+block_type: paragraph
+concepts:
+- CKM
+- PMNS
+- Uf Mf Uf
+- Uu Ud
+- Π
+- α
+- δ
+- ν
+excerpt: 'Define mass eigenstates: ∣fi⟩mass=∑α(Uf)iα ∣fα⟩flavor(D1)\\big| f\_i \\big\\rangle\_{\\text{mass}}
+  \= \\sum\_{\\alpha} (U\_f)\_{i\\alpha}\\, \\big|f\_\\alpha\\big\\rangle\_{\\text{flavor}}
+  \\tag{D1}​f...'
+heading: '**4\) The mixing matrix is the unitary that diagonalizes δ-mass**'
+id: GEN6-8250
+lines: 568-590
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::4-the-mixing-matrix-is-the-unitary-that-diagonalizes-δ-mass::b1
+parent_heading: '**δ-Harmonics → CKM/PMNS Mixing**'
+source: genesis-6\-Harmonics__Atomic_Orbitals.md

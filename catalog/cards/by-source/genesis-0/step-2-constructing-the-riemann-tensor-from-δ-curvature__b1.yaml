@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Geometry Axiom
+- α
+- β
+- δ
+excerpt: 'Define the projected curvature: Rabcd=∑mn(αmβmn) ∇c(δ)δ(m) ∇d(δ)δ(n)−(c↔d).R\_{ab
+  c d} \= \\sum\_{mn} \\left( \\alpha\_m \\beta\_{mn} \\right) \\, \\nabla^{(\\delta)}\_c
+  \\delta^{(m)} \\, \\nabla^{(\\...'
+heading: '**Step 2\. Constructing the Riemann tensor from δ-curvature**'
+id: GEN0-084
+lines: 1246-1262
+location: genesis-0/feynman-rules-interaction-vertices::3-proof-sketch-igsoa-formal::step-2-constructing-the-riemann-tensor-from-δ-curvature::b1
+parent_heading: '**3\. Proof Sketch (IGSOA formal)**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- η
+excerpt: 'Left side \= Right side: F(f)∘ηΔ=ηΔ′∘fF(f)\\circ \\eta\_\\Delta \= \\eta\_{\\Delta''}
+  \\circ fF(f)∘ηΔ​=ηΔ′​∘f Thus the square commutes for all fff.'
+heading: '**Equality**'
+id: GEN15-3407
+lines: 468-476
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-proof-of-naturality::now-show-equality::equality::b1
+parent_heading: '**Now Show Equality**'
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md

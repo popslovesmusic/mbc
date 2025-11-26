@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Reasoning Equivalence
+- Θ
+- Π
+- Φ
+- δ
+excerpt: 'Let: * δ-adjacency structure: δ(B)={κi,mi}\\delta(B)=\\{\\kappa\_i, m\_i\\}δ(B)={κi​,mi​}
+  * Φ-transform (structural simplification): Φ(δ(B))={κ\~j,m\~j}\\Phi(\\delta(B))
+  \= \\{ \\tilde \\kappa\_j, \\t...'
+heading: '**II. Formal Theorem Statement (sealed)**'
+id: GEN19-5929
+lines: 784-806
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-formal-theorem-statement-sealed::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Gate Synthesis Table
+- Θ
+excerpt: 'Using the Θ-Gate Synthesis Table: * AND \= sign-sum with negative bias *
+  OR \= sign-sum with positive bias'
+heading: '**V. Corollary: Reasoning Gates \= Polarity Gates**'
+id: GEN19-5944
+lines: 927-943
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::v-corollary-reasoning-gates-polarity-gates::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

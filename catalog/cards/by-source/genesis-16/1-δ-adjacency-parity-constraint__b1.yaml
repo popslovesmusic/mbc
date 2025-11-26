@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'In IGSOA, every adjacency relation is a **symmetric deviation tensor** up
+  to a χ-phase: δij=δjieiχ\\delta\_{ij} \= \\delta\_{ji} e^{i\\chi}δij​=δji​eiχ This
+  χ-phase is CP-even.'
+heading: '**1\. δ-Adjacency Parity Constraint**'
+id: GEN16-3695
+lines: 325-332
+location: genesis-16/quantum-measurement-in-igsoa-vs::cross-referenced-igsoa-explanation::1-δ-adjacency-parity-constraint::b1
+parent_heading: '**Cross-Referenced IGSOA Explanation**'
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md

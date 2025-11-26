@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- codomain
+excerpt: 'The **codomain** of an operator is the set of all *possible outputs* it
+  is allowed to produce: Cod(O)⊆H.\\mathrm{Cod}(\\mathcal{O}) \\subseteq \\mathcal{H}.Cod(O)⊆H.
+  In IGSOA, codomains must respect:'
+heading: '**2\. Codomains**'
+id: INTK-10194
+lines: 251-259
+location: intake/meta-genesis-meta-math-integration-papers::2-codomains::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

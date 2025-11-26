@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Einstein Lagrangian
+- Linearized Feynman
+- Meta-Einstein
+- δ
+- μ
+- ν
+excerpt: 'From your Meta-Einstein Lagrangian: L⊃12δ(m)R\[g\]\\mathcal{L} \\supset
+  \\frac{1}{2} \\delta^{(m)} R\[g\]L⊃21​δ(m)R\[g\] Linearized Feynman vertex with
+  graviton hμνh\_{\\mu\\nu}hμν​:'
+heading: '**(E) δ–Gravity Vertex (δ–Curvature–Einstein Projection)**'
+id: GEN0-008
+lines: 110-124
+location: genesis-0/feynman-rules-interaction-vertices::2-fundamental-δ-interaction-vertices::e-δgravity-vertex-δcurvatureeinstein-projection::b1
+parent_heading: '**2\. Fundamental δ-Interaction Vertices**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: 'Given two distinct morphisms f,g: X→Y in MG, their images on deviation levels
+  differ, hence Φ(f)≠Φ(g).'
+heading: '**Injectivity**'
+id: GEN2-6489
+lines: 226-230
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::5-proof::55-full-faithfulness::injectivity::b1
+parent_heading: '**5.5 Full Faithfulness**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

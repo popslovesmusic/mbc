@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- non-symmetric
+- Ψ
+- δ
+- μ
+- ν
+excerpt: 'The δ-generated metric is defined via δ-inner products over adjacency chains:
+  gδ(Ψi,Ψj):=⟨Ψi,Ψj⟩δ:=∑k=min⁡(i,j)max⁡(i,j)∥δΨk∥g\_\\delta(\\Psi\_i, \\Psi\_j) :=
+  \\langle \\Psi\_i, \\Psi\_j \\rangle\_\\d...'
+heading: '**V. δ-Metric (gδ)**'
+id: GEN1-449
+lines: 443-459
+location: genesis-1/the-foundation-layer::v-δ-metric-gδ::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md

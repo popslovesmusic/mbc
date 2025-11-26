@@ -1,0 +1,23 @@
+block_type: list
+concepts:
+- Axiom
+- Curvature-Preserving
+- Deviational Axiom
+- Deviational Second
+- Einstein Tensor Form
+- Order Term
+- Preserving Functor
+- Second-Order
+- Substitution
+- The Einstein
+- Unity Axiom
+- Φ
+- δ
+excerpt: '1. **δ-Curvature as Deviational Second-Order Term** Rδ=δ†δ\\mathcal{R}\_{\\delta}
+  \= \\delta^\\dagger \\deltaRδ​=δ†δ is uniquely forced by the Deviational Axiom:
+  curvature \= second-order failure of a...'
+heading: '**Proof Sketch (Formal)**'
+id: GEN8-8704
+lines: 49-84
+location: genesis-8/corollary-einstein-compatibility-via::proof-sketch-formal::b1
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md

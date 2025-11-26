@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Γ
+- Σ
+- Ω
+excerpt: 'Take the **tensor product of semantic states**: Σ1×2:=Σ1⊗Σ2\\Sigma\_{1 \\times
+  2} := \\Sigma\_1 \\otimes \\Sigma\_2Σ1×2​:=Σ1​⊗Σ2​ and combine metadata, boundary,
+  and operator tables pairwise.'
+heading: '**Definition in Box Calculus:**'
+id: GEN16-4065
+lines: 4144-4154
+location: genesis-16/untitled-document::3-binary-products::definition-in-box-calculus::b1
+parent_heading: '**⭐ 3\. Binary Products**'
+source: genesis-16\Untitled_document.md

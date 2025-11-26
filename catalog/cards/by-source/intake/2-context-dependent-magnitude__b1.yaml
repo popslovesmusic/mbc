@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Geometric
+- Meta-Metric
+- Meta-Vector
+excerpt: The "magnitude" or "length" of a Meta-Vector (defined via the Meta-Metric)
+  is not fixed but depends on the local Meta-Geometric curvature and the configuration
+  of other deviation fields.
+heading: 2. Context-Dependent Magnitude
+id: INTK-10374
+lines: 1108-1109
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector::properties::2-context-dependent-magnitude::b1
+parent_heading: Properties
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

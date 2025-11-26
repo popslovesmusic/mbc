@@ -1,0 +1,15 @@
+block_type: list
+concepts:
+- Π
+- Φ
+- δ
+- λ
+- μ
+excerpt: 1. δ defines curvature Kδ=δ†δ\\mathcal{K}\_\\delta=\\delta^\\dagger\\deltaKδ​=δ†δ.
+  2. Φ decomposes curvature into eigenvalues λn\\lambda\_nλn​. 3. The scalar eigenvalue
+  has expansion
+heading: '**What we just proved (tight statement)**'
+id: GEN15-3135
+lines: 887-906
+location: genesis-15/the-mass-curvature-projection-theorem::what-we-just-proved-tight-statement::b1
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

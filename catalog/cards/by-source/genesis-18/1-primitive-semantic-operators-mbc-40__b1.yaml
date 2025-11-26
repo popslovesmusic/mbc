@@ -1,0 +1,25 @@
+block_type: table
+concepts:
+- Computation Interpretation
+- Operator
+- Standard Logic
+- Θ
+- Π
+- Π-Collapse
+- Π-Gate
+- Σ
+- Φ
+- Φ-Bind
+- Φ-Lift
+- Ω
+- δ
+- δ-Link
+- λ
+excerpt: 'These are **semantic primitives induced directly from IGSOA’s monistic dynamics**.
+  **Cross-reference:** δ→Φ→Π stack provides: relation → meaning formation → truth.'
+heading: '**1\. Primitive Semantic Operators (MBC-4.0)**'
+id: GEN18-5355
+lines: 8-27
+location: genesis-18/mbc-4::mbc-40-semantic-operator-table::1-primitive-semantic-operators-mbc-40::b1
+parent_heading: '**MBC-4.0 Semantic Operator Table**'
+source: genesis-18\MBC-4.md

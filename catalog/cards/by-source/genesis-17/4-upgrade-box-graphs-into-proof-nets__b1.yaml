@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Box
+excerpt: 'Right now: * Box graphs are computation graphs. * They correspond to proofs
+  via Curry–Howard.'
+heading: ⭐ 4\. Upgrade Box Graphs into Proof Nets
+id: GEN17-4598
+lines: 7140-7154
+location: genesis-17/box-calculus::4-upgrade-box-graphs-into-proof-nets::b1
+source: genesis-17\box_calculus.md

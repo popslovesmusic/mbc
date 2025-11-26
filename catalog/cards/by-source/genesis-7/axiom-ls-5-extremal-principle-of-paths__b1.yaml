@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- δ
+- τ
+excerpt: 'Entities follow extremal adjacency trajectories defined by δ-curvature:
+  DuiDτ=0.\\frac{D u^i}{D\\tau}=0.DτDui​=0. If curvature varies smoothly and cannot
+  invert itself (LS-1), then extremal trajectori...'
+heading: '**Axiom LS-5 (Extremal Principle of Paths)**'
+id: GEN7-8635
+lines: 238-248
+location: genesis-7/why-curvature-gives-gravity::law-stability-axiom-box::axiom-ls-5-extremal-principle-of-paths::b1
+parent_heading: '**◼ LAW STABILITY AXIOM BOX**'
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

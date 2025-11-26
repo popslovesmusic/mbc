@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Meta-Einstein
+- δ
+- μ
+- ν
+excerpt: Standard geometry gives δ(R∣g∣)=(Rμν−12gμνR)δgμν∣g∣+boundary.\\delta(\\mathcal
+  R \\sqrt{|g|}) \= \\left( R\_{\\mu\\nu} \- \\tfrac12 g\_{\\mu\\nu} \\mathcal R \\right)\\delta
+  g^{\\mu\\nu}\\sqrt{|g|} \+...
+heading: '**3\. Variation of the Gravitational Part**'
+id: GEN3-7334
+lines: 898-924
+location: genesis-3/metagenesis::9-the-deviational-curvature-functor-and-meta-einstein-equation::canonical-variational-principle-in-δ-geometry::3-variation-of-the-gravitational-part::b1
+parent_heading: '**Canonical Variational Principle in δ-Geometry**'
+source: genesis-3\metagenesis.md

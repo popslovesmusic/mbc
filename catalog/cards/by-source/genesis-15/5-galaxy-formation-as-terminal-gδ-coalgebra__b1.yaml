@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- co-evolution
+- terminal
+- β
+- γ
+- δ
+excerpt: 'A coalgebra (A, γ) is **terminal** if for any other coalgebra (B, β) there
+  is a unique coalgebra morphism: B→A.B \\to A.B→A.'
+heading: '**🔷 5\. Galaxy Formation as Terminal Gδ-Coalgebra**'
+id: GEN15-3493
+lines: 1873-1902
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::5-galaxy-formation-as-terminal-gδ-coalgebra::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md

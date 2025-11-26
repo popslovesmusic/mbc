@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Tri-Unity
+- Unity Diagram
+- Φ
+- δ
+excerpt: 'The three generators must satisfy the **Tri-Unity Diagram**: F∘δ≅Φ∘F,π∘Φ≅Φ∘π,π∘δ≅δ∘π.\\boxed{
+  F\\circ \\delta \\quad\\cong\\quad \\Phi\\circ F, \\qquad \\pi\\circ \\Phi \\quad\\cong\\quad
+  \\Phi\\circ ...'
+heading: '**Axiom 5 — Tri-Unity Consistency Condition**'
+id: GEN7-8520
+lines: 1156-1165
+location: genesis-7/the-complete-eft-lagrangian::axiom-5-tri-unity-consistency-condition::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

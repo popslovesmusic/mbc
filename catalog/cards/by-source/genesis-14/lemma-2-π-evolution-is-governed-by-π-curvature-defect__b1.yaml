@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'Π is the right adjoint in: Φ⊣Π.\\Phi \\dashv \\Pi.Φ⊣Π. For any geometric
+  object Y∈GeomY\\in\\mathrm{Geom}Y∈Geom,'
+heading: '**Lemma 2 — Π evolution is governed by Π-curvature defect**'
+id: GEN14-2761
+lines: 1770-1794
+location: genesis-14/inflation-structure-formation::proof::lemma-2-π-evolution-is-governed-by-π-curvature-defect::b1
+parent_heading: '**Proof**'
+source: genesis-14\Inflation__Structure_Formation.md

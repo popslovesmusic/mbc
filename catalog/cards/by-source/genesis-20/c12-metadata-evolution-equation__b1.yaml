@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Θ
+- Π
+excerpt: 'The metadata update rule is: M(t+1)=U(M(t),Π,{Θi},C) M'
+heading: C1.2 Metadata Evolution Equation
+id: GEN20-7261
+lines: 8091-8111
+location: genesis-20/mbc-40-documentaitio-1::c12-metadata-evolution-equation::b1
+source: genesis-20\MBC_40_Documentaitio-1.md

@@ -1,0 +1,13 @@
+block_type: list
+concepts:
+- Π
+- Φ
+- η
+excerpt: '1. Apply η: Δ→ηΔF(Δ)\\Delta \\xrightarrow{\\eta\_\\Delta} F(\\Delta)ΔηΔ​​F(Δ)
+  2. Apply F(f):'
+heading: '**Left Side: Follow η Then F(f)**'
+id: GEN15-3402
+lines: 391-408
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-proof-of-naturality::left-side-follow-η-then-ff::b1
+parent_heading: '**7\. Proof of Naturality**'
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md

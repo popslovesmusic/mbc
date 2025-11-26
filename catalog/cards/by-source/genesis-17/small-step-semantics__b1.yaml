@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'Local rule: X  →δ  X′  →Φ  X′′  →Π  □X \\;\\xrightarrow{\\delta}\\; X''
+  \\;\\xrightarrow{\\Phi}\\; X'''' \\;\\xrightarrow{\\Pi}\\; \\BoxXδ​X′Φ​X′′Π​□ ---'
+heading: '**Small-Step Semantics**'
+id: GEN17-5014
+lines: 136-142
+location: genesis-17/mbc-schema-3::7-operational-semantics::small-step-semantics::b1
+parent_heading: '**7\. Operational Semantics**'
+source: genesis-17\MBC_Schema_3.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- η
+excerpt: 'We must show: for any morphism f:Δ→Δ′f: \\Delta \\to \\Delta''f:Δ→Δ′ in
+  C\\mathcal{C}C: F(f)∘ηΔ=ηΔ′∘fF(f) \\circ \\eta\_\\Delta \= \\eta\_{\\Delta''} \\circ
+  fF(f)∘ηΔ​=ηΔ′​∘f'
+heading: '**7\. Proof of Naturality**'
+id: GEN15-3401
+lines: 382-389
+location: genesis-15/the-cmb-structure-formation-galaxy-formation-pipeline::7-proof-of-naturality::b1
+source: genesis-15\The___CMB__Structure_Formation__Galaxy_Formation_Pipeline.md

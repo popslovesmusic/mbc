@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Axiom
+- GF-2
+- Π
+- Φ
+- δ
+excerpt: 'Let two curvature basins Bi,BjB\_i, B\_jBi​,Bj​ be distinct: Bi≠Bj.B\_i
+  \\neq B\_j.Bi​=Bj​. By definition of δ-basins and Axiom **GF-2**, their curvature
+  gradients differ:'
+heading: '**2\. (Uniqueness)**'
+id: GEN12-1895
+lines: 2589-2609
+location: genesis-12/untitled-document::part-i-existence-and-uniqueness::2-uniqueness::b1
+parent_heading: '**Part I — Existence and Uniqueness**'
+source: genesis-12\Untitled_document.md

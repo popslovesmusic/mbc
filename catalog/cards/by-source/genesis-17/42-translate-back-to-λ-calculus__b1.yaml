@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Box
+- Full-Expand
+- Γ
+- Λ
+- η
+- λ
+excerpt: 'Using Λ Λ:'
+heading: 4.2 Translate back to λ-calculus
+id: GEN17-4529
+lines: 6079-6105
+location: genesis-17/box-calculus::4-proof-fully-expanded-box-graph-η-long-normal-form::42-translate-back-to-λ-calculus::b1
+parent_heading: '⭐ 4\. PROOF: FULLY EXPANDED BOX GRAPH → η-LONG NORMAL FORM'
+source: genesis-17\box_calculus.md

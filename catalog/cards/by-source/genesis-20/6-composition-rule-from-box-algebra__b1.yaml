@@ -1,0 +1,19 @@
+block_type: table
+concepts:
+- Composition Theorem
+- Derived Inference Rules
+- Federated Inference Rule
+- Polarity-Weighted
+- Semantic Stability Rule
+- Theorem
+- Weighted Deduction
+- Θ
+excerpt: \\frac{A ⊢ B \\quad B ⊢ C}{A ⊢ C} \\\] | Transitivity of ⊢ | In IGSOA, this
+  is guaranteed by \*\*Composition Theorem\*\*. \--- \#\# \*\*7. Semantic Stability
+  Rule\*\* | \*\*IGSOA\*\* | \*\*Standard\*\...
+heading: 6\. Composition Rule (from Box-Algebra)
+id: GEN20-6634
+lines: 867-874
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::ii-primitive-inference-rules-in-mbc-40::6-composition-rule-from-box-algebra::b1
+parent_heading: II. Primitive Inference Rules in MBC-4.0
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md

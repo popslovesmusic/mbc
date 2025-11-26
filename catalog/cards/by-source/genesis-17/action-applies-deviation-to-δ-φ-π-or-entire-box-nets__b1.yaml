@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- functors
+- Π
+- δ
+excerpt: 'Δ:F→F\\Delta : \\mathcal{F} \\to \\mathcal{F}Δ:F→F Where **𝓕** is the category
+  of *functors* used inside MBC. Interpretation:'
+heading: '**Action: Applies deviation *to* δ, Φ, Π, or entire Box-nets.**'
+id: GEN17-5077
+lines: 914-939
+location: genesis-17/mbc-schema-3::1-new-primitive-meta-operators::11-meta-deviation-operator-δ::action-applies-deviation-to-δ-φ-π-or-entire-box-nets::b1
+parent_heading: '**1.1 Meta-Deviation Operator (Δ)**'
+source: genesis-17\MBC_Schema_3.md

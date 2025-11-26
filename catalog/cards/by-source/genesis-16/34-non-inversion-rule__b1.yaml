@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Π
+- Σ
+excerpt: E cannot undo Π-evaluation. E(Π(Σ))=Π(Σ)E(\\Pi(\\Sigma)) \= \\Pi(\\Sigma)E(Π(Σ))=Π(Σ)
+  Π resolves meaning; expansion cannot reopen it.
+heading: '**3.4 NON-INVERSION RULE**'
+id: GEN16-3822
+lines: 1088-1094
+location: genesis-16/untitled-document::3-formal-halting-law::34-non-inversion-rule::b1
+parent_heading: '**⭐ 3\. Formal Halting Law**'
+source: genesis-16\Untitled_document.md

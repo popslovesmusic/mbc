@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: ∀Ψ∈State(U),Id(Ψ)≠∅\\forall \\Psi \\in State(\\mathcal{U}),\\quad \\mathrm{Id}(\\Psi)
+  \\neq \\varnothing∀Ψ∈State(U),Id(Ψ)=∅ No legal transformation reduces an instantiated
+  configuration to absolute no...
+heading: '**(NOT-2) The Identity Map on Ψ Cannot Yield the Empty Set.**'
+id: INTK-9741
+lines: 27-33
+location: intake/meta-genesis-core-papers-foundations::the-not-axiom-fully-formal::not-2-the-identity-map-on-ψ-cannot-yield-the-empty-set::b1
+parent_heading: '**THE NOT AXIOM (Fully Formal)**'
+source: intake\Meta-Genesis_Core_Papers_Foundations.md

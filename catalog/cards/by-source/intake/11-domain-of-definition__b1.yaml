@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Operator
+- Operator Domain Exclusion Principle
+- excludes
+- Ψ
+excerpt: 'An operator O:H→H\\mathcal{O} : \\mathcal{H} \\to \\mathcal{H}O:H→H is only
+  definable if its domain **excludes** the static zero-state:'
+heading: '**1.1 Domain of Definition**'
+id: INTK-10168
+lines: 13-30
+location: intake/meta-genesis-meta-math-integration-papers::1-ontological-boundary-conditions::11-domain-of-definition::b1
+parent_heading: '**1\. Ontological Boundary Conditions**'
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Ψ
+- γ
+- δ
+- μ
+- ξ
+excerpt: 'The minimal IGSOA flavor / mass sector: Lmass+flavor=∑i,j,m\[  yij(m)  ΨˉiΨj  δ(m)\]  +  ∑i,j,m\[  ξij(m)  ΨˉiγμΨj  ∂μδ(m)\]\\mathcal
+  L\_{\\text{mass+flavor}} \= \\sum\_{i,j,m} \\Big\[ \\;y^{(m)}\_{ij...'
+heading: '**3\. Flavor-mass Lagrangian (δ-native Yukawa)**'
+id: GEN0-025
+lines: 295-305
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::3-flavor-mass-lagrangian-δ-native-yukawa::b1
+parent_heading: '**The δ-Higgs / Flavor-Mass Sector**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

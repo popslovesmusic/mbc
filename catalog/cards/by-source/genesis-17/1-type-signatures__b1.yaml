@@ -1,0 +1,17 @@
+block_type: table
+concepts:
+- Box
+- Box Calculus
+- Let Op
+- Standard Formalism
+- Π
+- Σ
+- Φ
+- ρ
+excerpt: '---'
+heading: 1\. Type Signatures
+id: GEN17-4163
+lines: 188-195
+location: genesis-17/box-calculus::formal-transition-function-for-box-calculus::1-type-signatures::b1
+parent_heading: Formal Transition Function for Box Calculus
+source: genesis-17\box_calculus.md

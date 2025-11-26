@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Zero State
+- Ψ
+- δ
+excerpt: 'Given the Zero State Ψ₀, the following are equivalent: 1. Ψ₀ is non-empty.
+  2. Ψ₀ has maximal symmetry.'
+heading: '**Theorem (Deviation Necessity Theorem)**'
+id: INTK-9808
+lines: 644-669
+location: intake/meta-genesis-core-papers-foundations::unified-theorem-δ-as-necessity::theorem-deviation-necessity-theorem::b1
+parent_heading: '**Unified Theorem: δ as Necessity**'
+source: intake\Meta-Genesis_Core_Papers_Foundations.md

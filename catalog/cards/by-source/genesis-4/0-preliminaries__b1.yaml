@@ -1,0 +1,19 @@
+block_type: paragraph
+concepts:
+- 'Math
+
+
+  We'
+- Meta-Genesis
+- Meta-Math
+- Meta-Time
+- Operator
+- colimit-preserving
+- σ
+excerpt: 'We assume the standard adjoint triple of IGSOA: MG→Lσ-Topos→RMMMG \\xrightarrow{L}
+  \\sigma\\text{-Topos} \\xrightarrow{R} MMMGL​σ-ToposR​MM with adjunctions:'
+heading: '**0\. Preliminaries**'
+id: GEN4-7763
+lines: 797-819
+location: genesis-4/the-adjoint-triple::0-preliminaries::b1
+source: genesis-4\The_Adjoint_Triple.md

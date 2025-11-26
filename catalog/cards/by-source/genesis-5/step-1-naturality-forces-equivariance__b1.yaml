@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- automorphism
+- ρ
+- σ
+excerpt: 'For any morphism f:X→X′f:X\\to X''f:X→X′ in MGMGMG, naturality gives the
+  commuting square: f∘ρX  =  ρX′∘ULf.(Nat-ρ)f\\circ \\rho\_X \\;=\\; \\rho\_{X''}\\circ
+  ULf . \\tag{Nat-ρ}f∘ρX​=ρX′​∘ULf.(Nat-ρ) In...'
+heading: '**Step 1: Naturality forces equivariance**'
+id: GEN5-8014
+lines: 1131-1143
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-no-lift-theorem-formal::proof-by-contradiction::step-1-naturality-forces-equivariance::b1
+parent_heading: '**Proof (by contradiction)**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

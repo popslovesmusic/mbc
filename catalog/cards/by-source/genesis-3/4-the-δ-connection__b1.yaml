@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Γ
+- Ψ
+- δ
+excerpt: 'Curvature must be deviation-derived. Define the δ-connection on an Action
+  object AAA by: ∇δ=∂+Γδ\\nabla\_\\delta \= \\partial \+ \\Gamma\_\\delta∇δ​=∂+Γδ​'
+heading: '**4\. The δ-Connection**'
+id: GEN3-7321
+lines: 733-755
+location: genesis-3/metagenesis::4-the-δ-connection::b1
+source: genesis-3\metagenesis.md

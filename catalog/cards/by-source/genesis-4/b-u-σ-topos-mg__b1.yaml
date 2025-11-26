@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- "Underlying Potential Forgetful Functor  \n Right"
+- σ
+excerpt: 'Underlying Potential Forgetful Functor Right adjoint of LLL It **forgets
+  sheaf structure** and returns the pure adjacency potential:'
+heading: '**(B) U : σ-Topos → MG**'
+id: GEN4-7723
+lines: 128-144
+location: genesis-4/the-adjoint-triple::2-the-functors-of-the-adjoint-triple::b-u-σ-topos-mg::b1
+parent_heading: '**2\. The Functors of the Adjoint Triple**'
+source: genesis-4\The_Adjoint_Triple.md

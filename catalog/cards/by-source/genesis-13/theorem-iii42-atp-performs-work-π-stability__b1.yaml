@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Ω
+- δ
+- ω
+excerpt: 'Let A∈ΩA \\in \\OmegaA∈Ω be a Π-fixed point. Then: WδA=ωA,ω\>0W\_\\delta
+  A \= \\omega A,\\quad \\omega \> 0Wδ​A=ωA,ω\>0 if and only if:'
+heading: '**Theorem III.4.2 (ATP Performs Work ⇔ Π-Stability).**'
+id: GEN13-2576
+lines: 1670-1691
+location: genesis-13/what-biology-is-in-meta-genesis::section-iii4-the-work-operator-wδw-deltawδ::theorem-iii42-atp-performs-work-π-stability::b1
+parent_heading: '**SECTION III.4 — The Work Operator WδW\_\\deltaWδ​**'
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

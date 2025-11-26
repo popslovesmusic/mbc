@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Math No
+- Meta-Math
+- No-Lift
+- Π
+- Φ
+- δ
+excerpt: 'We construct cryptographic systems categorically by embedding them in a
+  **three-layer fibration**: δ  →    Φ      X  →    Π      Y\\delta \\;\\xrightarrow{\\;\\;Φ\\;\\;}\\;
+  X \\;\\xrightarrow{\\;\\;Π\...'
+heading: '**Category-Theoretic Derivation of Cryptography as a δ–Φ–Π Projection Theory**'
+id: GEN14-2884
+lines: 1352-1376
+location: genesis-14/meta-math-and-cryptography::category-theoretic-derivation-of-cryptography-as-a-δφπ-projection-theory::b1
+source: genesis-14\Meta-Math_and_Cryptography.md

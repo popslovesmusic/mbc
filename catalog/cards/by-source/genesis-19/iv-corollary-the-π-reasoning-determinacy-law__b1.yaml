@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Θ
+- Π
+- Φ
+- δ
+excerpt: ∀ B,Θ(B) is uniquely determined by δ(B)\\boxed{ \\forall\\,B,\\quad \\Theta(B)
+  \\text{ is uniquely determined by } \\delta(B) }∀B,Θ(B) is uniquely determined by
+  δ(B)​ There is **no degree of freedom**...
+heading: '**IV. Corollary: The Π-Reasoning Determinacy Law**'
+id: GEN19-5943
+lines: 917-925
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iv-corollary-the-π-reasoning-determinacy-law::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

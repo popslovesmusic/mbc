@@ -1,0 +1,21 @@
+block_type: paragraph
+concepts:
+- '----------------------------------------------------------'
+- '-----------------------------------------------------------'
+- Box
+- Meta-Box
+- Meta-Boxes
+- Meta-Operators
+- Monistic Box Calculus
+- Π
+- Σ
+- Φ
+- Ω
+- δ
+excerpt: '`{` `"$schema": "https://json-schema.org/draft/2020-12/schema",` `"title":
+  "MBC_4_0_Schema",`'
+heading: '**📦 MBC-4.0 JSON Schema (Complete)**'
+id: GEN17-5126
+lines: 1646-1909
+location: genesis-17/mbc-schema-3::mbc-40-json-schema-complete::b1
+source: genesis-17\MBC_Schema_3.md

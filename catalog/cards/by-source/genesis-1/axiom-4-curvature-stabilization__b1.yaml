@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- γ
+- δ
+excerpt: 'Define the δ-curvature operator: Kδ(γ)=δ(δ(γ))\\mathcal{K}\_\\delta(\\gamma)
+  \= \\delta(\\delta(\\gamma))Kδ​(γ)=δ(δ(γ)) This operator enforces consistency of
+  path compositions and eliminates degenerac...'
+heading: '**Axiom 4 (Curvature Stabilization).**'
+id: GEN1-371
+lines: 176-184
+location: genesis-1/the-first-geometry::ii-formal-version-the-axiom-theorem-pipeline::axiom-4-curvature-stabilization::b1
+parent_heading: '**II. Formal Version (The Axiom → Theorem Pipeline)**'
+source: genesis-1\THE_FIRST_GEOMETRY.md

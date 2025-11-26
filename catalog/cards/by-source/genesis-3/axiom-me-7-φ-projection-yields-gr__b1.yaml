@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- μ
+- ν
+excerpt: 'Applying the Φ-projection functor PΦP\_\\PhiPΦ​ gives: PΦ(RΦ)=GμνP\_\\Phi(\\mathcal{R}\_\\Phi)
+  \= G\_{\\mu\\nu}PΦ​(RΦ​)=Gμν​ where GμνG\_{\\mu\\nu}Gμν​ is the standard Einstein
+  tensor.'
+heading: '**Axiom ME-7 (Φ-Projection Yields GR)**'
+id: GEN3-7390
+lines: 405-411
+location: genesis-3/the-physics-box-diagram::v-projection-to-physics::axiom-me-7-φ-projection-yields-gr::b1
+parent_heading: '**V. Projection to Physics**'
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md

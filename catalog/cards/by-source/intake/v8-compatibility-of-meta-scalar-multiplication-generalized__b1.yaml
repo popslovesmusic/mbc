@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- λ
+excerpt: '`(λ₁ ⊙ λ₂) ⊙ V = λ₁ ⊙ (λ₂ ⊙ V)` (May require specific definition of `λ₁
+  ⊙ λ₂`).'
+heading: 'V.8 Compatibility of Meta-Scalar Multiplication (Generalized):'
+id: INTK-10359
+lines: 1022-1023
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v8-compatibility-of-meta-scalar-multiplication-generalized::b1
+parent_heading: Properties and Axioms (Generalized)
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

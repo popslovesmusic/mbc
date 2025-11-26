@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- δ
+- λ
+- μ
+excerpt: 'Let δ:C→C\\delta:C\\to Cδ:C→C and δD:D→D\\delta\_D:D\\to DδD​:D→D be endofunctors,
+  and let λ:Fδ⇒δDF\\lambda:F\\delta\\Rightarrow \\delta\_DFλ:Fδ⇒δD​F be a δ-lifting.
+  Then: 1. The assignment f↦Kff\\map...'
+heading: '**Theorem 5.1**'
+id: GEN5-8031
+lines: 1394-1410
+location: genesis-5/formal-proof-of-the-adjoint-triple::5-the-curvaturenaturality-defect-theorem::theorem-51::b1
+parent_heading: '**5\. The Curvature–Naturality Defect Theorem**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

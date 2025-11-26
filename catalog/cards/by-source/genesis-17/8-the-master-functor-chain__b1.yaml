@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Π
+- Φ
+- δ
+excerpt: IGSOA→δD→ΦD→ΠB→OCIGSOA \\xrightarrow{\\delta} \\mathcal{D} \\xrightarrow{\\Phi}
+  \\mathcal{D} \\xrightarrow{\\Pi} \\mathcal{B} \\xrightarrow{O} \\mathcal{C}IGSOAδ​DΦ​DΠ​BO​C
+  In simplified physical form...
+heading: '**8\. The Master Functor Chain**'
+id: GEN17-5065
+lines: 776-786
+location: genesis-17/mbc-schema-3::8-the-master-functor-chain::b1
+source: genesis-17\MBC_Schema_3.md

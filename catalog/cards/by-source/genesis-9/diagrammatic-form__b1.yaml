@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: S→δSΦ↓↓ΦG→ΠO\\begin{CD} \\mathcal{S} @\>\\delta\>\> \\mathcal{S} \\\\ @V\\Phi
+  VV @VV\\Phi V \\\\ \\mathcal{G} @\>\>\\Pi\> \\mathcal{O} \\end{CD}SΦ↓⏐​G​δ​Π​​S↓⏐​ΦO​
+  commutes up to canonical natural iso...
+heading: '**Diagrammatic Form**'
+id: GEN9-9099
+lines: 1124-1130
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::6-the-orbital-emergence-theorem-categorical-form::diagrammatic-form::b1
+parent_heading: '**6\. The Orbital Emergence Theorem (Categorical Form)**'
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md

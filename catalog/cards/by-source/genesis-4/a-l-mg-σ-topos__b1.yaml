@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Geometry Left Adjoint
+- The Structuring Functor
+- δ
+- σ
+excerpt: 'Genesis-to-Geometry Left Adjoint “The Structuring Functor” Takes a pure
+  Genesis adjacency state and produces its **σ-sheaf envelope**, i.e.:'
+heading: '**(A) L : MG → σ-Topos**'
+id: GEN4-7722
+lines: 105-126
+location: genesis-4/the-adjoint-triple::2-the-functors-of-the-adjoint-triple::a-l-mg-σ-topos::b1
+parent_heading: '**2\. The Functors of the Adjoint Triple**'
+source: genesis-4\The_Adjoint_Triple.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'Both δ and Φ preserve: * adjoints: Φ(A†)=Φ(A)†\\Phi(A^\\dagger)=\\Phi(A)^\\daggerΦ(A†)=Φ(A)†
+  * traces: Tr(Φ(R))=Tr(R)\\mathrm{Tr}(\\Phi(R))=\\mathrm{Tr}(R)Tr(Φ(R))=Tr(R)'
+heading: '**Step 4 — Trace and adjoint invariance eliminate algebraic contradictions**'
+id: GEN8-8727
+lines: 390-407
+location: genesis-8/corollary-einstein-compatibility-via::proof-formal-version::step-4-trace-and-adjoint-invariance-eliminate-algebraic-contradictions::b1
+parent_heading: '**◆ Proof (Formal Version) ◆**'
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md

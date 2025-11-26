@@ -1,0 +1,16 @@
+block_type: table
+concepts:
+- Chain Operator
+- Classifier Operator
+- Derived Operator
+- Echo Operator
+- Gate Operators
+- Operator
+- Standard Mapping
+excerpt: 'Your system already implies the following: ---'
+heading: 3.2 Derived Operators (example list)
+id: GEN17-4150
+lines: 40-52
+location: genesis-17/box-calculus::box-calculus-technical-introduction-dual-column-cross-referenced::3-operator-primitives-the-heart-of-box-calculus::32-derived-operators-example-list::b1
+parent_heading: 3\. Operator Primitives (The Heart of Box Calculus)
+source: genesis-17\box_calculus.md

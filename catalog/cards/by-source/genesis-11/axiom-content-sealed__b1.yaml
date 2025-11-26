@@ -1,0 +1,19 @@
+block_type: list
+concepts:
+- Adjacency Confinement
+- Echo Duality
+- Echo Path Length
+- Resonant Band
+- Universal Echo Law
+- quasi-discrete
+- δ
+- ω
+excerpt: '1. **Discrete δ-Resonant Band.** The δ-curvature defect in Rδ\\mathcal{R}\_\\deltaRδ​
+  forces the spectrum of Wδ\\mathcal{W}\_\\deltaWδ​ to become **quasi-discrete**:
+  ωn=n Δδ+εn,∣εn∣≪Δδ.\\omega\_n \= n...'
+heading: '**Axiom Content (Sealed)**'
+id: GEN11-1267
+lines: 416-433
+location: genesis-11/the-adjacency-wave-equation::the-gw-echo-spectrum-axiom::axiom-content-sealed::b1
+parent_heading: '**The GW Echo Spectrum Axiom**'
+source: genesis-11\The_Adjacency_Wave_Equation.md

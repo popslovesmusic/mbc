@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- natural
+- Θ
+- δ
+excerpt: 'By construction of C\\mathcal{C}C, objects of C\\mathcal{C}C are δ-curvatures.
+  The unique δ-coherent natural transformation Θ:M⇒C\\Theta : \\mathcal{M} \\Rightarrow
+  \\mathcal{C}Θ:M⇒C'
+heading: '**Step 3\. Interpret Θ as curvature: Θ \= δ-Ricci**'
+id: GEN5-8142
+lines: 153-178
+location: genesis-5/the-ga-8-meta-einstein-theorem::the-ga-8-meta-einstein-theorem::iv-formal-proof::step-3-interpret-θ-as-curvature-θ-δ-ricci::b1
+parent_heading: '**IV. FORMAL PROOF**'
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md

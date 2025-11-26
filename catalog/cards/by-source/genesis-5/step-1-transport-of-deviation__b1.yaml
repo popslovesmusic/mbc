@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- δ
+- λ
+excerpt: 'The δ-connection for Π gives: λ:Πδ⇒δGeoΠ.\\lambda:\\Pi\\delta \\Rightarrow
+  \\delta\_{Geo}\\Pi.λ:Πδ⇒δGeo​Π. This ensures Π can “see” deviation.'
+heading: '**Step 1 — Transport of Deviation.**'
+id: GEN5-8074
+lines: 2049-2062
+location: genesis-5/formal-proof-of-the-adjoint-triple::proof::step-1-transport-of-deviation::b1
+parent_heading: '**Proof.**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

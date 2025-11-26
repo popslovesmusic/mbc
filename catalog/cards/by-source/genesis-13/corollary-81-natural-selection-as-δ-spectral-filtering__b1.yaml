@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- μ
+excerpt: 'Selection is equivalent to spectral filtering: μt+Δt∝1{f≥θt}μt\\mu\_{t+\\Delta
+  t}\\propto \\mathbf{1}\_{\\{\\mathfrak{f}\\ge \\theta\_t\\}}\\mu\_tμt+Δt​∝1{f≥θt​}​μt​
+  for some threshold θt\\theta\_tθt​...'
+heading: '**Corollary 8.1 (Natural Selection as δ-Spectral Filtering).**'
+id: GEN13-2638
+lines: 2570-2578
+location: genesis-13/what-biology-is-in-meta-genesis::8-corollaries-ultra-formal::corollary-81-natural-selection-as-δ-spectral-filtering::b1
+parent_heading: '**8\. Corollaries (Ultra-Formal)**'
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- The Hessian
+- δ
+- η
+- λ
+excerpt: 'The Hessian matrix is: Hmn=∫ddx  ψm(x) V′′(ϕ0) ψn(x)H\_{mn} \= \\int d^dx\\;
+  \\psi\_m(x)\\, V''''(\\phi\_0)\\, \\psi\_n(x)Hmn​=∫ddxψm​(x)V′′(ϕ0​)ψn​(x) Since:'
+heading: '**5\. The δ-Hessian → Mass Tower**'
+id: GEN8-8888
+lines: 2196-2210
+location: genesis-8/meta-time-geometry-and-temporal-projection::5-the-δ-hessian-mass-tower::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

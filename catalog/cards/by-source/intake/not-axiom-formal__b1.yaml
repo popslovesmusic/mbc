@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'If a state contains no operator capable of stabilizing it, it cannot remain
+  invariant. Formally: Dom⁡(O)=∅⇒Ψ↛Ψ.\\operatorname{Dom}(\\mathcal{O}) \= \\varnothing
+  \\quad\\Rightarrow\\quad \\Psi \\not\\...'
+heading: '**NOT Axiom (Formal)**'
+id: INTK-10127
+lines: 685-706
+location: intake/meta-genesis-physical-interpretation-papers::3-why-deviation-must-exist-the-not-axiom::not-axiom-formal::b1
+parent_heading: '**3\. Why Deviation Must Exist: The NOT Axiom**'
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md

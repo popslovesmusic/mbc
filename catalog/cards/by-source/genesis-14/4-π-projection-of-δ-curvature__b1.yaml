@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'Π is the geometric projector from adjacency data into observable metric
+  geometry. It satisfies the projection rule: Π(W(δ))=a˙2a2.\\Pi(W(δ)) \= \\frac{\\dot{a}^2}{a^2}.Π(W(δ))=a2a˙2​.'
+heading: '**4\. Π Projection of δ-Curvature**'
+id: GEN14-2687
+lines: 607-618
+location: genesis-14/inflation-structure-formation::proof-1-igsoa-only-δ-adjacency-instability-inflation::proof::4-π-projection-of-δ-curvature::b1
+parent_heading: '**Proof**'
+source: genesis-14\Inflation__Structure_Formation.md

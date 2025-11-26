@@ -1,0 +1,12 @@
+block_type: list
+concepts:
+- Θ
+- Π
+- δ
+excerpt: '* Each reasoning node has its own geometric universe. * They never merge
+  their δ-structures. * They only share Π (evaluated truth) and Θ (routing metadata).'
+heading: IGSOA Intuition (Plain-Language Interpretation)
+id: GEN20-6654
+lines: 1166-1175
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::igsoa-intuition-plain-language-interpretation::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md

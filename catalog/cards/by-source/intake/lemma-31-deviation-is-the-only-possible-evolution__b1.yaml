@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Lemma
+- Ψ
+- δ
+excerpt: 'Since Ψ₀ cannot remain equal to itself (Lemma 1.1) and cannot evolve under
+  any operator (Dom(O)=∅), the only meaningful evolution is: Ψ0↦δ(Ψ0).\\Psi\_0 \\mapsto
+  \\delta(\\Psi\_0).Ψ0​↦δ(Ψ0​). ---'
+heading: '**Lemma 3.1 (Deviation is the Only Possible Evolution).**'
+id: INTK-10091
+lines: 305-311
+location: intake/meta-genesis-physical-interpretation-papers::3-necessity-of-the-first-deviation::lemma-31-deviation-is-the-only-possible-evolution::b1
+parent_heading: '**3\. Necessity of the First Deviation**'
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md

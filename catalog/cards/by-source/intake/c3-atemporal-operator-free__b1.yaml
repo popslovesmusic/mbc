@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: ¬(∃T),¬(∃E),Dom(E),Cod(E)≠Ψ0.\\neg(\\exists T),\\qquad \\neg(\\exists E),\\qquad
+  \\text{Dom}(E), \\text{Cod}(E) \\neq \\Psi\_0.¬(∃T),¬(∃E),Dom(E),Cod(E)=Ψ0​.
+heading: '**(C3) Atemporal / Operator-Free**'
+id: INTK-9845
+lines: 1201-1203
+location: intake/meta-genesis-core-papers-foundations::2-necessary-conditions-axioms-feeding-the-transition::c3-atemporal-operator-free::b1
+parent_heading: '**2\. Necessary Conditions (Axioms Feeding the Transition)**'
+source: intake\Meta-Genesis_Core_Papers_Foundations.md

@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- Meta-Math
+- Γ
+- Σ
+- Ω
+excerpt: 'Take any Box B=⟨Σ,Γ,Δ,Ω⟩B=\\langle\\Sigma,\\Gamma,\\Delta,\\Omega\\rangleB=⟨Σ,Γ,Δ,Ω⟩:
+  * G(B)G(B)G(B) converts B to Meta-Math object MBM\_BMB​ * F(G(B))F(G(B))F(G(B))
+  reconverts that into Box structure...'
+heading: '**5.2 Natural Iso ε:F(G(B))→B\\varepsilon: F(G(B)) \\to Bε:F(G(B))→B**'
+id: GEN16-3997
+lines: 3251-3283
+location: genesis-16/untitled-document::5-construct-the-natural-isomorphisms::52-natural-iso-εfgbbvarepsilon-fgb-to-bεfgbb::b1
+parent_heading: '**⭐ 5\. Construct the Natural Isomorphisms**'
+source: genesis-16\Untitled_document.md

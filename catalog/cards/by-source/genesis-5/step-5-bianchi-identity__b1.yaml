@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Riemannian Bianchi
+- Π
+- δ
+- σ
+excerpt: 'Because δ in σTop\\sigma TopσTop satisfies the (co)monadic Bianchi identity:
+  δ(K)+K∘δ+(coherences)=0,\\delta(\\mathcal{K}) \+ \\mathcal{K}\\circ\\delta \+ (\\text{coherences})
+  \= 0,δ(K)+K∘δ+(coherence...'
+heading: '**Step 5 — Bianchi identity.**'
+id: GEN5-8078
+lines: 2115-2129
+location: genesis-5/formal-proof-of-the-adjoint-triple::proof::step-5-bianchi-identity::b1
+parent_heading: '**Proof.**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Classical Projection Axiom
+- Π
+- Φ
+- δ
+excerpt: 'Assume RΦ=Φ(Rδ)\\mathcal{R}\_\\Phi \= \\Phi(\\mathcal{R}\_\\delta)RΦ​=Φ(Rδ​)
+  exists. Π acts only on Φ-images (domain closure). Apply Π:'
+heading: '***Field curvature forces classical curvature.***'
+id: GEN8-8740
+lines: 576-602
+location: genesis-8/corollary-einstein-compatibility-via::part-ii-2-3::field-curvature-forces-classical-curvature::b1
+parent_heading: '**Part II — (2) ⇒ (3)**'
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Bochner Laplacian
+- Ω
+- δ
+excerpt: '(I)=gij∇iδ∇jδ.(I) \= g^{ij}\\nabla^\\delta\_i\\nabla^\\delta\_j.(I)=gij∇iδ​∇jδ​.
+  By definition, this is the **Bochner Laplacian**: ∇δ∗∇δ=gij(∇iδ∇jδ−∇∇iejδ),\\nabla\_\\delta^\\ast
+  \\nabla\_\\delta \= g...'
+heading: '**◼ III. Term (I): The Bochner (Laplacian) Part**'
+id: GEN7-8696
+lines: 1118-1134
+location: genesis-7/why-curvature-gives-gravity::iii-term-i-the-bochner-laplacian-part::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

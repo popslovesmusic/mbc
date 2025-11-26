@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Adjacency
+- Deviational Norm
+- δ
+excerpt: 'Define the **Deviational Norm**: ∥A∥δ=⟨A,A⟩δ.\\|A\\|\_\\delta \= \\sqrt{\\langle
+  A, A\\rangle\_\\delta}.∥A∥δ​=⟨A,A⟩δ​​. Then **Adjacency** is primitive and given
+  by:'
+heading: '**Axiom 4 — Adjacency from Deviational Distance**'
+id: INTK-9652
+lines: 70-92
+location: intake/axioms-geometry::axiom-4-adjacency-from-deviational-distance::b1
+source: intake\Axioms-geometry.md

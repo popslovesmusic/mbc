@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- δ
+excerpt: 'If f:X→Yf:X\\to Yf:X→Y is a metabolic morphism with fδf\_\\deltafδ​ injective,
+  then: f(Y)≥f(X).\\mathfrak{f}(Y)\\ge \\mathfrak{f}(X).f(Y)≥f(X). *Proof.* Intertwining
+  preserves spectrum order; Π-compat...'
+heading: '**Lemma 2.2 (Functorial Fitness Monotonicity).**'
+id: GEN13-2625
+lines: 2422-2432
+location: genesis-13/what-biology-is-in-meta-genesis::2-fitness-as-a-δ-work-functional::lemma-22-functorial-fitness-monotonicity::b1
+parent_heading: '**2\. Fitness as a δ-Work Functional**'
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

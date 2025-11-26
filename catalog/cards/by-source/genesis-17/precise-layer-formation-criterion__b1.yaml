@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Genesis Layer
+- Layer
+- Meta-Genesis
+- The Meta
+- iff
+- Ω
+excerpt: 'The Meta-Genesis Layer exists **iff**: ∃X∈B∪MB:R(Ω(Δ(X)))=Ω(Δ(X)).\\exists
+  X \\in \\mathcal{B} \\cup \\mathcal{MB} : \\quad R(\\Omega(\\Delta(X))) \= \\Omega(\\Delta(X)).∃X∈B∪MB:R(Ω(Δ(X)))=Ω(Δ(X)).
+  Th...'
+heading: '**PRECISE LAYER FORMATION CRITERION**'
+id: GEN17-5134
+lines: 2012-2032
+location: genesis-17/mbc-schema-3::precise-layer-formation-criterion::b1
+source: genesis-17\MBC_Schema_3.md

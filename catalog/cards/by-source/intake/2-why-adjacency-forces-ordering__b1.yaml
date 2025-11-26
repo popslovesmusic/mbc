@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Reflexivity
+- before
+- pre-order
+- primitive
+- Ψ
+- δ
+excerpt: 'Adjacency means “this is next to that,” or more formally a binary relation:
+  R: X∼Y.R:\\ X \\sim Y.R: X∼Y. Even minimal adjacency must satisfy:'
+heading: '**2\. Why adjacency forces ordering**'
+id: INTK-9999
+lines: 846-875
+location: intake/meta-genesis-mathematical-papers::2-why-adjacency-forces-ordering::b1
+source: intake\Meta-Genesis_Mathematical_Papers.md

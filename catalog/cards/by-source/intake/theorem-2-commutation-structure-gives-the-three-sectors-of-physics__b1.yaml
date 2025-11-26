@@ -1,0 +1,23 @@
+block_type: table
+concepts:
+- Gauge
+- Gauge Sector
+- Gravitational Sector
+- 'Gravitational Sector
+
+
+  Then'
+- Gravity
+- Meta-Time
+- Operator
+- Operator Equation
+- Quantum Sector
+excerpt: 'Define commutators: \[A,T\]=Quantum Sector\[\\mathcal{A},\\mathcal{T}\]
+  \= \\text{Quantum Sector}\[A,T\]=Quantum Sector \[C,A\]=Gauge Sector\[\\mathcal{C},\\mathcal{A}\]
+  \= \\text{Gauge Sector}\[C,A\]...'
+heading: '**Theorem 2 — Commutation Structure Gives the Three Sectors of Physics.**'
+id: INTK-10569
+lines: 451-471
+location: intake/volume-i-core-ontology-and-metagenesis-summary::2-rigorous-theorem-based-formulation::theorem-2-commutation-structure-gives-the-three-sectors-of-physics::b1
+parent_heading: '**2\. Rigorous Theorem-Based Formulation**'
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md

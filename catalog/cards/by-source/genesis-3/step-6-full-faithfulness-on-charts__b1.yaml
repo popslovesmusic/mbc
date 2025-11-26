@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Meta-Math
+- Φ
+- δ
+excerpt: Local δ-patches behave like local harmonic charts under Φ. Meta-Math preserves
+  these by construction (mode-preserving functor). Thus the Hom-sets correspond bijectively.
+heading: '**Step 6: Full faithfulness on charts**'
+id: GEN3-7562
+lines: 1097-1107
+location: genesis-3/the-tri-unity-theorem::iv-formal-proof-sketch::step-6-full-faithfulness-on-charts::b1
+parent_heading: '**IV. Formal Proof Sketch**'
+source: genesis-3\The_Tri-Unity_Theorem.md

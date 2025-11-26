@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'For any morphism f:G→G′f: G \\to G''f:G→G′ in 𝒢, CMB(G′)∘OΠΦδ(f)=OΠΦδ(G′)  ⟺  CMB
+  patterns transform naturally with Genesis morphisms\\begin{aligned} \\mathrm{CMB}(G'')\\circ
+  \\mathfrak{O}\\Pi\\Phi\\del...'
+heading: '**Naturality Condition (Sealed)**'
+id: GEN11-1249
+lines: 168-177
+location: genesis-11/the-adjacency-wave-equation::the-δφπ-functor-projection-theorem-cmb-version::naturality-condition-sealed::b1
+parent_heading: '**The δ→Φ→Π Functor Projection Theorem (CMB Version)**'
+source: genesis-11\The_Adjacency_Wave_Equation.md

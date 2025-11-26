@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- α
+- β
+excerpt: ∣ℓα−ℓβ∣≤ℓK≤ℓα+ℓβ.(S2)|\\ell\_\\alpha-\\ell\_\\beta|\\le \\ell\_K \\le \\ell\_\\alpha+\\ell\_\\beta
+  . \\tag{S2}∣ℓα​−ℓβ​∣≤ℓK​≤ℓα​+ℓβ​.(S2)
+heading: '**Triangle rule (δ-harmonic)**'
+id: GEN6-8252
+lines: 603-605
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::5-what-fixes-the-size-of-mixing::triangle-rule-δ-harmonic::b1
+parent_heading: '**5\) What fixes the *size* of mixing?**'
+source: genesis-6\-Harmonics__Atomic_Orbitals.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: 'E cannot produce smaller and smaller details indefinitely. Define a “resolution
+  floor”: if ∥Σt+1−Σt∥\<δ, then E halts.'
+heading: 3.3 RESOLUTION PRINCIPLE
+id: GEN17-4234
+lines: 1298-1309
+location: genesis-17/box-calculus::3-formal-halting-law::33-resolution-principle::b1
+parent_heading: ⭐ 3\. Formal Halting Law
+source: genesis-17\box_calculus.md

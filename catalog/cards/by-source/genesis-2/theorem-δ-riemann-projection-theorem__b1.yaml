@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- connection-preserving
+- curvature-preserving
+- faithful
+- metric-preserving
+- natural
+- well-defined
+- Π
+- δ
+excerpt: 'Π:DGδ→RG\\Pi: \\mathbf{DG}\_\\delta \\to \\mathbf{RG}Π:DGδ​→RG defined above
+  is: * **well-defined**'
+heading: '**Theorem. (δ → Riemann Projection Theorem)**'
+id: GEN2-6510
+lines: 513-531
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::7-the-projection-theorem::theorem-δ-riemann-projection-theorem::b1
+parent_heading: '**7\. The Projection Theorem**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- In Deviational Geometry
+- Levi-Civita
+- deviation-preserving
+- δ
+- δ-transport
+excerpt: 'A connection ∇ is normally defined to compare vectors at nearby points.
+  In Deviational Geometry: ∇δ:=δ∘P\\nabla\_{\\delta} := \\delta \\circ P∇δ​:=δ∘P'
+heading: '**3.2 Deviational Connection**'
+id: INTK-9933
+lines: 600-618
+location: intake/meta-genesis-diagrammatic-papers::3-constructed-geometric-structures::32-deviational-connection::b1
+parent_heading: '**3\. Constructed Geometric Structures**'
+source: intake\Meta-Genesis_Diagrammatic_Papers.md

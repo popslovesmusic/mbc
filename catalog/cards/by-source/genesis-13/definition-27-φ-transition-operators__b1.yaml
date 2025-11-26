@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+- τ
+excerpt: 'A transition operator is any τ:Φn→Φm,\\tau : \\Phi\_n \\to \\Phi\_m,τ:Φn​→Φm​,
+  implementing δ-adjacency change.'
+heading: '**Definition 2.7 (Φ-Transition Operators).**'
+id: GEN13-2072
+lines: 871-881
+location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::definition-27-φ-transition-operators::b1
+parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

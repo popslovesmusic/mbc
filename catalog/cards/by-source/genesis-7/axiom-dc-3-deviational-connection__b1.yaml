@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- must
+- Γ
+- δ
+excerpt: 'There exists a δ-induced affine connection: Γijδ=F(A,ΔA),\\Gamma^\\delta\_{ij}
+  \= F(\\mathcal{A},\\Delta\\mathcal{A}),Γijδ​=F(A,ΔA), functorially determined from
+  (A,ΔA\\mathcal{A},\\Delta\\mathcal{A}A...'
+heading: '**Axiom DC-3 — Deviational Connection**'
+id: GEN7-8660
+lines: 552-562
+location: genesis-7/why-curvature-gives-gravity::i-structural-axioms::axiom-dc-3-deviational-connection::b1
+parent_heading: '**I. STRUCTURAL AXIOMS**'
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

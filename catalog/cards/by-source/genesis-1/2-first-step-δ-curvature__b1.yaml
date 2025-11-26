@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Bianchi Identity
+- Jacobi Identity
+- not
+- Ψ
+- δ
+excerpt: 'We define **curvature as a pure δ-commutator**: Rδ:=\[δ,δ\].\\mathcal{R}\_{\\delta}
+  := \[\\delta , \\delta \].Rδ​:=\[δ,δ\]. Because δ is *not* a classical differential
+  operator, the commutator does *n...'
+heading: '**2\. First Step: δ-Curvature**'
+id: GEN1-516
+lines: 75-95
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::2-first-step-δ-curvature::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

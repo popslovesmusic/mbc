@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts: []
+excerpt: 'Define what kinds of operator chains are allowed. This is your “composition
+  law” / “adjacency constraints.” Which gap should we complete next in the formal
+  system: B or C?'
+heading: 'Gap C: Graph Grammar (Topology and legal wiring)'
+id: GEN17-4222
+lines: 1142-1146
+location: genesis-17/box-calculus::next-step::gap-c-graph-grammar-topology-and-legal-wiring::b1
+parent_heading: ❓ Next Step
+source: genesis-17\box_calculus.md

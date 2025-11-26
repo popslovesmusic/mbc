@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Edge Modes
+- Π
+- Φ
+- δ
+excerpt: Let Aδ\\mathcal{A}\_\\deltaAδ​ be a δ-adjacency network decomposed into two
+  curvature plateaus κbulk=const,κvacuum=const,\\kappa\_{\\text{bulk}} \= \\text{const},
+  \\qquad \\kappa\_{\\text{vacuum}} \= ...
+heading: '**Theorem (Bulk–Edge Correspondence in δ-Geometry)**'
+id: GEN14-3004
+lines: 1193-1221
+location: genesis-14/thermodynamic-potentials-from-meta-genesis-trace-curvature-defects-and-d0df9b::the-bulkedge-correspondence-theorem-δ-geometry::theorem-bulkedge-correspondence-in-δ-geometry::b1
+parent_heading: '**THE BULK–EDGE CORRESPONDENCE THEOREM (δ-Geometry)**'
+source: genesis-14\Thermodynamic_Potentials_from_Meta-Genesis__-Trace_Curvature_Defects_and__d0df9b.md

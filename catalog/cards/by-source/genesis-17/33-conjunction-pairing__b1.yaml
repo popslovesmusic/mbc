@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Box
+- Γ
+- Σ
+- σ
+- τ
+excerpt: Bτ∧σ:=Bτ×Bσ B τ∧σ
+heading: 3.3 Conjunction / Pairing
+id: GEN17-4578
+lines: 6764-6796
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::3-structural-rules-as-box-operators::33-conjunction-pairing::b1
+parent_heading: 3\. Structural Rules as Box Operators
+source: genesis-17\box_calculus.md

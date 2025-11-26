@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Field
+- Λ
+- δ
+- λ
+- μ
+excerpt: You already have a δ-spectral triple (Aδ,Hδ,Dδ)(\\mathcal A\_\\delta,\\mathcal
+  H\_\\delta,\\mathcal D\_\\delta)(Aδ​,Hδ​,Dδ​). Use it to define the kinetic operator
+  and spectral measure. **Field:** rea...
+heading: '**0\) Setup: δ-Boson EFT on δ-Spectral Geometry**'
+id: GEN6-8327
+lines: 879-896
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next::0-setup-δ-boson-eft-on-δ-spectral-geometry::b1
+parent_heading: '**If you want next:**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

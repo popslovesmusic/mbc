@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- δ
+- λ
+excerpt: 'δ acts on adjacency objects AAA with a self-adjoint spectrum: W(δ)hn,ℓ,m=λnhn,ℓ,m.W(\\delta)
+  h\_{n,\\ell,m} \= \\lambda\_n h\_{n,\\ell,m}.W(δ)hn,ℓ,m​=λn​hn,ℓ,m​. For each eigenvalue
+  λn\\lambda\_nλn​, ...'
+heading: '**1\. δ-Harmonic Multiplets and Adjacency Symmetry**'
+id: GEN14-2724
+lines: 1173-1189
+location: genesis-14/inflation-structure-formation::proof::1-δ-harmonic-multiplets-and-adjacency-symmetry::b1
+parent_heading: '**Proof**'
+source: genesis-14\Inflation__Structure_Formation.md

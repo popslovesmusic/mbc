@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'From the compatibility condition (U-compat): Φ(δA)=δ(ΦA),(4)\\Phi(\\delta
+  A)=\\delta(\\Phi A), \\tag{4}Φ(δA)=δ(ΦA),(4) we have the equality of mixed actions
+  on curvature:'
+heading: '**Step 4 — δ–Φ Compatibility locks curvature and energy**'
+id: GEN2-6448
+lines: 1725-1752
+location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-4-δφ-compatibility-locks-curvature-and-energy::b1
+parent_heading: '**Proof**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

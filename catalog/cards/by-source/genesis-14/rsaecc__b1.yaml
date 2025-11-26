@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Π
+- δ
+excerpt: Π publishes (N, e) or k·G but lacks δ (primes or scalar). No adjoint exists
+  for exponentiation or curve multiplication.
+heading: '**RSA/ECC:**'
+id: GEN14-2899
+lines: 1577-1580
+location: genesis-14/meta-math-and-cryptography::4-consequences-for-each-cryptographic-branch::rsaecc::b1
+parent_heading: '**4\. Consequences for Each Cryptographic Branch**'
+source: genesis-14\Meta-Math_and_Cryptography.md

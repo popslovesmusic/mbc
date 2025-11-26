@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Π
+- δ
+excerpt: 'Define the Π-stable capacity function: C(n)≡∑k=1n∣Π(Δk)∣.C(n) \\equiv \\sum\_{k=1}^{n}
+  \\lvert \\Pi(\\Delta\_k) \\rvert.C(n)≡k=1∑n​∣Π(Δk​)∣. Evaluating:'
+heading: '**4\. Atomic number arises from cumulative Π-stable occupancy**'
+id: GEN9-9391
+lines: 828-852
+location: genesis-9/is-the-source-of-all-structure::proof-formal::4-atomic-number-arises-from-cumulative-π-stable-occupancy::b1
+parent_heading: '**Proof (Formal)**'
+source: genesis-9\is_the_source_of_all_structure.md

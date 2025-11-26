@@ -1,0 +1,15 @@
+block_type: list
+concepts:
+- Φ
+- Ψ
+- δ
+- σ
+excerpt: '* **δᵐ(x)** : deviation boson/fractal mode, label mmm in the 3–6–9 spectrum
+  * **Ψᵢ(x)** : fermion multiplet (i \= flavor / sector index) * **Φᵃ(x)** : chromatic
+  field multiplet (a \= gauge/flavor chan...'
+heading: '**1\. Fields and indices**'
+id: GEN0-023
+lines: 267-279
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::1-fields-and-indices::b1
+parent_heading: '**The δ-Higgs / Flavor-Mass Sector**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Each δ-object admits a δ-connection ∇δ\\nabla^\\delta∇δ and curvature RδR\_\\deltaRδ​:
+  Rδ(X,Y)Z=∇Xδ∇YδZ−∇Yδ∇XδZ−∇\[X,Y\]δδZ.R\_\\delta(X,Y)Z \= \\nabla^\\delta\_X\\nabla^\\delta\_YZ
+  \-\\nabla^\\delta\...'
+heading: '**Axiom (δ-4) — δ-Connection and δ-Curvature**'
+id: GEN2-6463
+lines: 1916-1922
+location: genesis-2/axioms-of-geometry-topos-compatible::iii-δ-layer-intrinsic-deviation-geometry::axiom-δ-4-δ-connection-and-δ-curvature::b1
+parent_heading: '**III. δ-Layer (Intrinsic Deviation / Geometry)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

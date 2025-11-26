@@ -1,0 +1,16 @@
+block_type: table
+concepts:
+- Box
+- Γ
+- Π
+- Σ
+- Ω
+- δ
+excerpt: 'Primitive token set: L0={Σ, δ, F, S, Γ, Ω, Box⟨⟩, Graph⟨⟩, →F\[δ\], \[ \], ×, ;}
+  L'
+heading: 1.1 Primitive Tokens
+id: GEN17-4803
+lines: 9561-9585
+location: genesis-17/box-calculus::monistic-box-calculus-formal-syntax-grammar-v10::1-lexical-alphabet-tokens::11-primitive-tokens::b1
+parent_heading: 1\. Lexical Alphabet (Tokens)
+source: genesis-17\box_calculus.md

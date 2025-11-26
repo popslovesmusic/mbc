@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- graph
+- δ
+excerpt: 'Let **𝓐** be a set of distinguishable post-deviation states. Define an adjacency
+  relation: A∼δBA \\sim\_\\delta BA∼δ​B'
+heading: '**Axiom 1 (Adjacency Relation).**'
+id: GEN1-367
+lines: 88-109
+location: genesis-1/the-first-geometry::ii-formal-version-the-axiom-theorem-pipeline::axiom-1-adjacency-relation::b1
+parent_heading: '**II. Formal Version (The Axiom → Theorem Pipeline)**'
+source: genesis-1\THE_FIRST_GEOMETRY.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: 'In formulas: F(Σ;δ)={F+(Σ)=E(Σ),δ\>0F−(Σ)=A(Σ),δ\<0 F(Σ;δ)={'
+heading: δ \= the curvature coefficient that biases F toward E or A.
+id: GEN17-4610
+lines: 7302-7318
+location: genesis-17/box-calculus::3-deviation-δ-is-not-an-operator-it-is-the-mode-selector::δ-the-curvature-coefficient-that-biases-f-toward-e-or-a::b1
+parent_heading: ⭐ 3\. DEVIATION δ IS NOT AN OPERATOR — IT IS THE “MODE SELECTOR”
+source: genesis-17\box_calculus.md

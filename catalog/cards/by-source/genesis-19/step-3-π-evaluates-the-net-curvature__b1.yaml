@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Θ
+- Π
+excerpt: 'The Π operator collapses the structure into a unique polarity: Θ(B)=sign⁡ ⁣(∑jw^jκ\~j).\\Theta(B)=\\operatorname{sign}\\\!\\Big(\\sum\_j
+  \\hat w\_j \\tilde \\kappa\_j\\Big).Θ(B)=sign(j∑​w^j​κ\~j​).'
+heading: '**Step 3\. Π evaluates the net curvature**'
+id: GEN19-5933
+lines: 838-842
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-a-igsoa-proof-δ-geometry-language::step-3-π-evaluates-the-net-curvature::b1
+parent_heading: '**III-A. IGSOA Proof (δ-geometry language)**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

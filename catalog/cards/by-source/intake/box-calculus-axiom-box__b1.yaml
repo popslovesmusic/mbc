@@ -1,0 +1,25 @@
+block_type: paragraph
+concepts:
+- Adjacency Axiom
+- Axiom
+- Box
+- Deviation Axiom
+- Evaluation Axiom
+- Every Box
+- Expansion Duality
+- Merge-Expansion
+- No Box
+- Operator
+- Operator Axiom
+- Polarity Principle
+- State Axiom
+- Π
+- Σ
+excerpt: '**Axiom 1 — State Axiom** Every Box contains a semantic state Σ and a boundary
+  ∂Box. **Axiom 2 — Operator Axiom**'
+heading: '**Box Calculus Axiom Box**'
+id: INTK-9717
+lines: 142-164
+location: intake/box-calculus-technical-introduction-dual-column-cross-referenced::box-calculus-technical-introduction-dual-column-cross-referenced::9-sealed-axiom-box-for-box-calculus-igsoa-canonical-form::box-calculus-axiom-box::b1
+parent_heading: '**9\. Sealed Axiom Box for Box Calculus (IGSOA Canonical Form)**'
+source: intake\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md

@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Adjacency Invariant
+- Curvature Conservation
+- Geometric Symmetry
+- Physical Law
+- Stable Pattern
+- Topological Invariant
+- δ
+excerpt: '`flowchart TD` `A["δ-Stable Pattern P"] --> B["Adjacency Invariant"]` `B
+  --> C["Topological Invariant"]`'
+heading: '**6\. From Stability to Physics (Projection Chain)**'
+id: GEN4-7928
+lines: 2092-2103
+location: genesis-4/the-first-adjacency::6-from-stability-to-physics-projection-chain::b1
+source: genesis-4\The_First_Adjacency.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Compute: Kδ=(δ0+ϵ)†(δ0+ϵ)\\mathcal{K}\_\\delta \= (\\delta\_0+\\epsilon)^\\dagger(\\delta\_0+\\epsilon)Kδ​=(δ0​+ϵ)†(δ0​+ϵ)
+  \=δ0†δ0+δ0†ϵ+ϵ†δ0+ϵ†ϵ= \\delta\_0^\\dagger\\delta\_0 \+ \\delta\_0^\\dagger\\...'
+heading: '**Step 3 — Expand the curvature operator**'
+id: GEN15-3129
+lines: 760-779
+location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-3-expand-the-curvature-operator::b1
+parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

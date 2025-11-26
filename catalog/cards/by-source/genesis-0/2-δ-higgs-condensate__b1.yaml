@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- geometric
+- δ
+- δ-VEV
+excerpt: 'Assume the δ-field has a stable vacuum configuration: δ(0)(x)=vδ+δ^(0)(x)\\delta^{(0)}(x)
+  \= v\_\\delta \+ \\hat\\delta^{(0)}(x)δ(0)(x)=vδ​+δ^(0)(x) * vδv\_\\deltavδ​ is
+  the **δ-VEV** (not a number yo...'
+heading: '**2\. δ-Higgs condensate**'
+id: GEN0-024
+lines: 281-293
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::2-δ-higgs-condensate::b1
+parent_heading: '**The δ-Higgs / Flavor-Mass Sector**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

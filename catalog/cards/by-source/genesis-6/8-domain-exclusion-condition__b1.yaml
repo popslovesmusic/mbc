@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- The Dirac
+- not
+- Ψ
+- δ
+excerpt: 'The Dirac operator must satisfy: D(Dδ)⊊Hδ,Ψ0∉D(Dδ).\\mathcal D(D\_\\delta)
+  \\subsetneq \\mathcal H\_\\delta, \\qquad \\Psi\_0 \\notin \\mathcal D(D\_\\delta).D(Dδ​)⊊Hδ​,Ψ0​∈/D(Dδ​).
+  Genesis states are...'
+heading: '**8\. Domain Exclusion Condition**'
+id: GEN6-8421
+lines: 922-934
+location: genesis-6/the-harmonic-spectral-triple::iii-structural-consistency-conditions::8-domain-exclusion-condition::b1
+parent_heading: '**III. Structural Consistency Conditions**'
+source: genesis-6\The_-Harmonic_Spectral_Triple.md

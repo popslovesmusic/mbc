@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: Dom(O)⊆{Ψ∣δ(Ψ)\>0, A(Ψ)≠∅, R(Ψ)\<∞}.\\mathrm{Dom}(\\mathcal{O}) \\subseteq
+  \\{\\Psi \\mid \\delta(\\Psi)\>0,\\ A(\\Psi)\\neq\\emptyset,\\ R(\\Psi)\<\\infty\\}.Dom(O)⊆{Ψ∣δ(Ψ)\>0,
+  A(Ψ)=∅, R(Ψ)\<∞}. Only...
+heading: '**1.4 Summary**'
+id: INTK-10193
+lines: 243-249
+location: intake/meta-genesis-meta-math-integration-papers::1-domains::14-summary::b1
+parent_heading: '**1\. Domains**'
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

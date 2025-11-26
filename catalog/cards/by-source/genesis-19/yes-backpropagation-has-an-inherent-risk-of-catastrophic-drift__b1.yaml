@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts: []
+excerpt: 'Backpropagation (BP) is built on iteratively modifying internal weights
+  by pushing local error signals backward through a layered network. This has three
+  fundamental failure modes: ---'
+heading: '✅ Yes: Backpropagation Has an Inherent Risk of Catastrophic Drift'
+id: GEN19-6069
+lines: 648-652
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::yes-backpropagation-has-an-inherent-risk-of-catastrophic-drift::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md

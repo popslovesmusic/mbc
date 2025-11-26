@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Ω
+- δ
+- ω
+excerpt: 'Let A∈ΩA \\in \\OmegaA∈Ω. Then: Rδ(A)=Δδ−ωAA≠0,ωA∈Spec⁡(Wδ).\\mathcal{R}\_\\delta(A)
+  \= \\Delta\_\\delta \- \\omega\_A A \\neq 0, \\quad \\omega\_A \\in \\operatorname{Spec}(W\_\\delta).Rδ​(A)=Δδ​−ωA​...'
+heading: '**Theorem IV.1.2 (δ-Flux Replenishment).**'
+id: GEN13-2586
+lines: 1791-1802
+location: genesis-13/what-biology-is-in-meta-genesis::section-iv1-δ-flux-replenishment-theorem::theorem-iv12-δ-flux-replenishment::b1
+parent_heading: '**SECTION IV.1 — δ-Flux Replenishment Theorem**'
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

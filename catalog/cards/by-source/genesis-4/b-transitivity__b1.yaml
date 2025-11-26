@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Suppose: X⪯YandY⪯Z.X\\preceq Y \\quad\\text{and}\\quad Y\\preceq Z.X⪯YandY⪯Z.
+  Then internally there exist integers n,mn,mn,m such that:'
+heading: '**(b) Transitivity**'
+id: GEN4-7652
+lines: 736-752
+location: genesis-4/meta-physics-axiom-box::step-3-internal-transitivity-formal-δ-time::b-transitivity::b1
+parent_heading: '**Step 3 — Internal transitivity (formal δ-time)**'
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md

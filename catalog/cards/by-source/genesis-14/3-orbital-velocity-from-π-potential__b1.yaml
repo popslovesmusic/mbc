@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- sum
+- Π
+- Φ
+- δ
+excerpt: 'In IGSOA, the orbital velocity is determined by: v2(r)=r ∂rΦΠ(r).v^2(r)
+  \= r \\, \\partial\_r \\Phi\_\\Pi(r).v2(r)=r∂r​ΦΠ​(r). Using ΦΠ(r)∼1/r\\Phi\_\\Pi(r)
+  \\sim 1/rΦΠ​(r)∼1/r:'
+heading: '**3\. Orbital Velocity from Π-Potential**'
+id: GEN14-2741
+lines: 1395-1420
+location: genesis-14/inflation-structure-formation::proof::3-orbital-velocity-from-π-potential::b1
+parent_heading: '**Proof**'
+source: genesis-14\Inflation__Structure_Formation.md

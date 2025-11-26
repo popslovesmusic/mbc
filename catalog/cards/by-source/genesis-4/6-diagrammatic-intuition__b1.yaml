@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Adjacency Graph
+- end
+- Ψ
+- δ
+excerpt: '`graph LR` `A0["Ψ₀"] -->|δ| A1["Ψ₁"]` `A1 -->|δ| A2["Ψ₂"]`'
+heading: '**6\. Diagrammatic Intuition**'
+id: GEN4-7900
+lines: 1505-1527
+location: genesis-4/the-first-adjacency::6-diagrammatic-intuition::b1
+source: genesis-4\The_First_Adjacency.md

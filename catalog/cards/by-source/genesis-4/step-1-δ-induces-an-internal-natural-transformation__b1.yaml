@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Axiom
+- δ
+- σ
+excerpt: 'In an ∞-topos: * every endofunctor induces an internal action on all sheaves;
+  * iteration of an endofunctor forms an internal monoid object.'
+heading: '**Step 1 — δ induces an internal natural transformation**'
+id: GEN4-7648
+lines: 669-693
+location: genesis-4/meta-physics-axiom-box::step-1-δ-induces-an-internal-natural-transformation::b1
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md

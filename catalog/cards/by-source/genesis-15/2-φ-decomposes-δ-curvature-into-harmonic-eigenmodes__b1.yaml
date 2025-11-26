@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Harmonic Ladder
+- Trace Axiom
+- Φ
+- δ
+- λ
+excerpt: 'By the Φ-Trace Axiom, Φ acts as a spectral projector on δ: Φ:Kδ↦{λn,Φn}\\Phi
+  : \\mathcal{K}\_\\delta \\mapsto \\big\\{ \\lambda\_n, \\Phi\_n \\big\\}Φ:Kδ​↦{λn​,Φn​}
+  This gives the **δ-Harmonic Ladder*...'
+heading: '**2\. Φ decomposes δ-curvature into harmonic eigenmodes**'
+id: GEN15-3090
+lines: 67-79
+location: genesis-15/the-mass-curvature-projection-theorem::proof-operator-theoretic::2-φ-decomposes-δ-curvature-into-harmonic-eigenmodes::b1
+parent_heading: '**Proof (operator-theoretic)**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

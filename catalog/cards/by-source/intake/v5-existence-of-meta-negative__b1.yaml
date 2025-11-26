@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: For every `V ∈ S_Ψ`, there exists a `(-V) ∈ S_Ψ` such that `V ⊞ (-V) = vec{0}`.
+heading: 'V.5 Existence of Meta-Negative:'
+id: INTK-10356
+lines: 1013-1014
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v5-existence-of-meta-negative::b1
+parent_heading: Properties and Axioms (Generalized)
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

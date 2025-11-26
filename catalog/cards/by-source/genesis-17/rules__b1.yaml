@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Π
+- Σ
+- Φ
+- δ
+excerpt: '`δ(IGSOA) → Φ` `Π(Φ) → Box` `Π(Box₁, Box₂) → CausalLink`'
+heading: '**Rules**'
+id: GEN17-5017
+lines: 167-173
+location: genesis-17/mbc-schema-3::9-minimal-syntax-for-llm-usage::rules::b1
+parent_heading: '**9\. Minimal Syntax (For LLM Usage)**'
+source: genesis-17\MBC_Schema_3.md

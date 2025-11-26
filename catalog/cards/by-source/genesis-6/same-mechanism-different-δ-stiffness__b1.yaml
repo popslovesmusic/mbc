@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Neutrinos
+- Quarks
+- α
+- β
+- δ
+- ν
+excerpt: The mixing angles scale like θαβ(f)∼∣δMαβ(f)∣∣mβ(f)−mα(f)∣.(A1)\\theta\_{\\alpha\\beta}^{(f)}
+  \\sim \\frac{|\\delta\\mathcal{M}^{(f)}\_{\\alpha\\beta}|} {|m^{(f)}\_\\beta \-
+  m^{(f)}\_\\alpha|}. \\tag{...
+heading: '***Same mechanism, different δ-stiffness***'
+id: GEN6-8254
+lines: 631-649
+location: genesis-6/harmonics-atomic-orbitals::δ-harmonics-ckmpmns-mixing::6-why-pmns-is-large-but-ckm-is-small::same-mechanism-different-δ-stiffness::b1
+parent_heading: '**6\) Why PMNS is large but CKM is small**'
+source: genesis-6\-Harmonics__Atomic_Orbitals.md

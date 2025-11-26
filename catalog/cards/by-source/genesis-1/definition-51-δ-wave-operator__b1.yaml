@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Box
+- δ
+excerpt: 'Define the bi-directional deviational wave operator: □δ:=adδ2+adδ†2,\\Box\_\\delta
+  := \\mathrm{ad}\_\\delta^2 \+ \\mathrm{ad}\_{\\delta^\\dagger}^2,□δ​:=adδ2​+adδ†2​,
+  where'
+heading: '**Definition 5.1 — δ-Wave Operator.**'
+id: GEN1-619
+lines: 1332-1342
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::5-deviational-waves-δ-waves::definition-51-δ-wave-operator::b1
+parent_heading: '**5\. Deviational Waves (δ-Waves)**'
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

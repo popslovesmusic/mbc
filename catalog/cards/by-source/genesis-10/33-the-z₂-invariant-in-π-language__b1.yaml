@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- δ
+- ν
+excerpt: 'Define: ν=∑k=TRIMsgn det⁡\[w(k)\]( mod 2),\\nu \= \\sum\_{k \= \\text{TRIM}}
+  \\mathrm{sgn}\\,\\det\[w(k)\] \\quad (\\bmod 2),ν=k=TRIM∑​sgndet\[w(k)\](mod2),
+  where w(k)w(k)w(k) is the sewing matrix con...'
+heading: '**3.3 The Z₂ Invariant in Π-Language**'
+id: GEN10-716
+lines: 561-579
+location: genesis-10/how-stillness-becomes-solid::3-π-projection-momentum-space-bands-and-the-z₂-invariant::33-the-z₂-invariant-in-π-language::b1
+parent_heading: '**3\. Π-Projection: Momentum-Space, Bands, and the Z₂ Invariant**'
+source: genesis-10\How_Stillness_Becomes_Solid_.md

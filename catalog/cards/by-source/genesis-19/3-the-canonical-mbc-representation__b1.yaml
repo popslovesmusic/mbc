@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Causal Links
+- Concept Boxes
+- Implication Paths
+- Relation Routers
+- Θ
+- Π
+- Σ
+- Φ
+- δ
+excerpt: 'Here is how the pipeline looks properly in MBC notation: 1\. δ-layer (decomposition)
+  Text → {Concept Boxes} \+ {Relation Routers}'
+heading: 3\. The Canonical MBC Representation
+id: GEN19-6061
+lines: 536-556
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::3-the-canonical-mbc-representation::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md

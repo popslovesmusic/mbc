@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Σ
+- Ω
+- η
+- τ
+excerpt: Apply(Op,Σ,Adj,Ω)={Opθ(Adj,Ω)(Σ,Adj,Ω)TypeOK∧AdjOK∧NOTOK∧FuelOK⊥otherwise\\boxed{
+  \\mathrm{Apply}(Op,\\Sigma,\\mathrm{Adj},\\Omega)= \\begin{cases} Op\_{\\theta(\\mathrm{Adj},\\Omega)}(\\Sigma,\\mathr...
+heading: '**Final v0.2 “Apply” Kernel (All Gaps Closed)**'
+id: GEN16-3771
+lines: 431-446
+location: genesis-16/untitled-document::final-v02-apply-kernel-all-gaps-closed::b1
+source: genesis-16\Untitled_document.md

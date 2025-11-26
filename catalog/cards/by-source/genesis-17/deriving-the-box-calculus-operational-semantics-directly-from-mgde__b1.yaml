@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+- Meta-Genesis
+- Σ
+- δ
+excerpt: 'This shows exactly how the continuous IGSOA equation: dΣdt=F(Σ;δ) dt'
+heading: (Deriving the Box Calculus operational semantics directly from MGDE)
+id: GEN17-4855
+lines: 10371-10398
+location: genesis-17/box-calculus::discrete-meta-genesis-equation-box-calculus-stepping-rules::deriving-the-box-calculus-operational-semantics-directly-from-mgde::b1
+parent_heading: ⭐ Discrete Meta-Genesis Equation → Box Calculus Stepping Rules
+source: genesis-17\box_calculus.md

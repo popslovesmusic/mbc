@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Bianchi-consistent
+- Meta-Time
+- Γ
+- α
+- δ
+- μ
+- ν
+excerpt: 'Define the δ-induced curvature tensor: Rμν(δ)=∂μ∂νδ−Γμνα∂αδ\\mathcal{R}\_{\\mu\\nu}(\\delta)
+  \= \\partial\_\\mu\\partial\_\\nu \\delta \- \\Gamma^\\alpha\_{\\mu\\nu}\\partial\_\\alpha\\deltaRμν​(δ)=∂μ...'
+heading: '**δ-GEOMETRY VERSION: The Deviational Curvature Stability Theorem**'
+id: GEN7-8460
+lines: 312-342
+location: genesis-7/the-complete-eft-lagrangian::δ-geometry-version-the-deviational-curvature-stability-theorem::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

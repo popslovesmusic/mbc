@@ -1,0 +1,19 @@
+block_type: paragraph
+concepts:
+- Anomalous Dimension
+- Shell Flow
+- Spectral Flow
+- Λ
+- β
+- γ
+- δ
+- μ
+- ρ
+excerpt: (1) Spectral Flow:dΛnmkdln⁡μ=Λnmk.(2) Anomalous Dimension:γnmk=12+ϵ2(∂fϕ).(3)
+  Mass RG:βmnmk2=(2+ϵ(∂fϕ))mnmk2.(4) Coupling RG:dgnmkdln⁡μ=Anmkgnmk+∑B g+Cg3+ϵ(∂fϕ)gnmk.(5)
+  Shell Flow:dsdln⁡μ=s,dρdln⁡μ=2ρ...
+heading: '**9\. Compact Final Form: δ-RG Equation Set**'
+id: GEN6-8439
+lines: 1259-1265
+location: genesis-6/the-harmonic-spectral-triple::9-compact-final-form-δ-rg-equation-set::b1
+source: genesis-6\The_-Harmonic_Spectral_Triple.md

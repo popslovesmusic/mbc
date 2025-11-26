@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Thus Math
+excerpt: No. Functors need not preserve monoidal structure unless they are *monoidal
+  functors*. Here, **FFF is intentionally non-monoidal**.
+heading: '**Conflict 2: Does the monoidal structure of Math force Genesis to have
+  one?**'
+id: GEN2-6269
+lines: 746-757
+location: genesis-2/axioms-for-the-category-genesis::step-4-conflicts-that-cannot-arise::conflict-2-does-the-monoidal-structure-of-math-force-genesis-to-have-one::b1
+parent_heading: '**🔶 Step 4 — Conflicts That Cannot Arise**'
+source: genesis-2\Axioms_for_the_Category_Genesis.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+- ρ
+excerpt: Ngal(M,t)=Ghalo(δρ).\\mathcal{N}\_{\\mathrm{gal}}(M,t) \= \\mathcal{G}\_{\\mathrm{halo}}(\\delta\\rho).Ngal​(M,t)=Ghalo​(δρ).
+  This gives the halo mass function, merger trees, galaxy clustering, and vo...
+heading: '**Step 5: Halo functor yields galaxies**'
+id: GEN15-3221
+lines: 2179-2185
+location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-proof-derived-from-the-functor-stack::step-5-halo-functor-yields-galaxies::b1
+parent_heading: '**Ⅱ. Proof (Derived from the Functor Stack)**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

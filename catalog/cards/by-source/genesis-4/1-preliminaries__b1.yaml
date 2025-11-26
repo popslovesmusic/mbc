@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- First Adjacency
+- Zero-State
+- Ψ
+- δ
+excerpt: 'Let: * Ψ0\\Psi\_0Ψ0​ be the Zero-State (no relations, no adjacency graph).
+  * Ψ1=δΨ0\\Psi\_1 \= \\delta \\Psi\_0Ψ1​=δΨ0​ the first deviated state.'
+heading: '**1\. Preliminaries**'
+id: GEN4-7839
+lines: 490-518
+location: genesis-4/the-first-adjacency::1-preliminaries::b1
+source: genesis-4\The_First_Adjacency.md

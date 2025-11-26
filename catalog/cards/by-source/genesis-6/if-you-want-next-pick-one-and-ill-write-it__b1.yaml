@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Internal Spectral Distance Theorem
+- Meta-Math
+- Naturality Defect
+- Theorem
+- δ
+- σ
+excerpt: '**A.** *Internal Spectral Distance Theorem:* dδ(x,y)=sup⁡a∈Aδ{∣a(x)−a(y)∣:∥\[Dδ,a\]∥≤1}d\_\\delta(x,y)=\\sup\_{a\\in\\mathbf{A}\_\\delta}\\{|a(x)-a(y)|:\\|\[\\mathbf{D}\_\\delta,a\]\\|\\le1\\}dδ​(x,y)...'
+heading: '**If you want next (pick one and I’ll write it):**'
+id: GEN6-8305
+lines: 606-620
+location: genesis-6/spectral-triple-axiom-box-sealed-version::if-you-want-next-pick-one-and-ill-write-it::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

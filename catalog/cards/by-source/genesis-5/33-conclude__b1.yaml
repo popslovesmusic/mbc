@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- η
+excerpt: 'From (Left) and (Right), both sides map under Φ−1\\Phi^{-1}Φ−1 to the same
+  morphism LfLfLf. Since Φ−1\\Phi^{-1}Φ−1 is bijective, the original morphisms are
+  equal: U(Lf)∘ηX  =  ηX′∘f.U(Lf)\\circ \\eta\...'
+heading: '**3.3 Conclude**'
+id: GEN5-8007
+lines: 1037-1046
+location: genesis-5/formal-proof-of-the-adjoint-triple::7-coda-unity-does-not-mean-simplicity::3-proof-of-naturality::33-conclude::b1
+parent_heading: '**3\. Proof of naturality**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

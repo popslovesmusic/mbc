@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: 'Logical relations inside a Φ-object arise from Φ-action: ⊢Φ  ⊆  Hom⁡(1,A)\\vdash\_\\Phi
+  \\; \\subseteq \\; \\operatorname{Hom}(1, A)⊢Φ​⊆Hom(1,A) A sequent is valid only
+  if it is **stable under Φ-flow*...'
+heading: '**Axiom MM-1.2 — Φ-Relations (Logic as Action)**'
+id: GEN2-6321
+lines: 376-387
+location: genesis-2/axioms-of-geometry-topos-compatible::1-φ-objects-and-morphisms::axiom-mm-12-φ-relations-logic-as-action::b1
+parent_heading: '**1\. Φ-Objects and Morphisms**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

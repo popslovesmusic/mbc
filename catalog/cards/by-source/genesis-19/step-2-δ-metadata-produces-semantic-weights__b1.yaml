@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- α
+excerpt: 'Metadata mim\_imi​ is not noise: it is structural information about adjacency
+  relevance. Router parameters α\\alphaα convert metadata → objective weight wi=exp⁡(α⋅mi).w\_i=\\exp(\\alpha\\cdot
+  m\_i).wi...'
+heading: '**Step 2 — δ-metadata produces semantic weights**'
+id: GEN19-5901
+lines: 397-402
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::igsoa-column::step-2-δ-metadata-produces-semantic-weights::b1
+parent_heading: '**IGSOA Column**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

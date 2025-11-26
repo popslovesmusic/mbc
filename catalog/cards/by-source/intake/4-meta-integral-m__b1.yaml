@@ -1,0 +1,16 @@
+block_type: list
+concepts:
+- Fractal Spaces
+- Meta-Fractal
+- Ψ
+- μ
+- τ
+excerpt: '- **Purpose:** To define integration over Meta-Fractal Spaces. - **Behavior:**
+  Uses fractal measures (`dμ_F`) and can involve non-local kernels to account for
+  entanglement and long-range correlations....'
+heading: 4. Meta-Integral (∫_M)
+id: INTK-10423
+lines: 1370-1373
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-calculus::meta-calculus-operations::4-meta-integral-m::b1
+parent_heading: Meta-Calculus Operations
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

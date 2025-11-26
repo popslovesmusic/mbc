@@ -1,0 +1,24 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Deviational Geometry
+- Meta-Einstein
+- Meta-Time
+- Stability Theorem
+- Theorem
+- Λ
+- Ψ
+- α
+- β
+- γ
+- δ
+- λ
+- μ
+excerpt: V(δ)=Λδ+μδ22∥δ∥2+λδ4∥δ∥4+α2(∇(δ)δ)2+β4(∇(δ)δ)4+γ A\[δ\],μδ2\<0,λδ\>0.\\boxed{
+  \\begin{aligned} V(\\delta) &= \\Lambda\_{\\delta} \+ \\frac{\\mu\_\\delta^2}{2}\\|\\delta\\|^2
+  \+ \\frac{\\lambda\_\\delt...
+heading: '**IV. Drop-in “δ-Higgs Sector Axiom Box”**'
+id: GEN0-063
+lines: 877-900
+location: genesis-0/feynman-rules-interaction-vertices::iv-drop-in-δ-higgs-sector-axiom-box::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

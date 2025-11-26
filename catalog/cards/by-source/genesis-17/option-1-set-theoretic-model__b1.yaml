@@ -1,0 +1,13 @@
+block_type: table
+concepts:
+- Mathematical Behavior
+- Σ
+- δ
+excerpt: 'Verdict: Too rigid for IGSOA. IGSOA uses weighted, harmonic, δ-curvature-like
+  semantics — not crisp sets. ---'
+heading: Option 1 — Set-Theoretic Model
+id: GEN17-4197
+lines: 728-740
+location: genesis-17/box-calculus::dual-column-evaluation-igsoa-meaning-vs-mathematical-behavior::option-1-set-theoretic-model::b1
+parent_heading: 'Dual-Column Evaluation: IGSOA Meaning vs. Mathematical Behavior'
+source: genesis-17\box_calculus.md

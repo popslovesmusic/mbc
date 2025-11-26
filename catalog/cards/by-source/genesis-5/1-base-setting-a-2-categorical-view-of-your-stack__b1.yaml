@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- 0-cells
+- 1-cells
+- 2-cells
+- Cat
+- δ
+- σ
+excerpt: Work in a 2-category **Cat** (or a suitable 2-subcategory) whose * **0-cells**
+  are categories (MG, MM, σTop, …), * **1-cells** are functors,
+heading: '**1\. Base setting: a 2-categorical view of your stack**'
+id: GEN5-8023
+lines: 1268-1283
+location: genesis-5/formal-proof-of-the-adjoint-triple::1-base-setting-a-2-categorical-view-of-your-stack::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

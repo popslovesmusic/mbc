@@ -1,0 +1,12 @@
+block_type: list
+concepts:
+- Meta-Vector
+- Meta-Vectors
+excerpt: '- Combines two Meta-Vectors, resulting in a new Meta-Vector that reflects
+  non-linear interference and interaction. - `V_res = V₁ ⊞ V₂`'
+heading: 1. Meta-Addition ($\boxplus$)
+id: INTK-10378
+lines: 1121-1123
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector::connection-to-meta-algebraic-operations::1-meta-addition-boxplus::b1
+parent_heading: Connection to Meta-Algebraic Operations
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

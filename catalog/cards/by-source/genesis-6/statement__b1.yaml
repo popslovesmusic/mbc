@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- δ
+- σ
+excerpt: If (Aδ,Hδ,Dδ)(\\mathbf{A}\_\\delta,\\mathbf{H}\_\\delta,\\mathbf{D}\_\\delta)(Aδ​,Hδ​,Dδ​)
+  satisfies T1–T9 in Tσ\\mathcal{T}\_\\sigmaTσ​, then for every **geometric point**
+  (context/scale) x:Set→Tσx:\...
+heading: '**Statement**'
+id: GEN6-8296
+lines: 494-508
+location: genesis-6/spectral-triple-axiom-box-sealed-version::theorem-toposoperator-equivalence::statement::b1
+parent_heading: '**THEOREM (Topos–Operator Equivalence)**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

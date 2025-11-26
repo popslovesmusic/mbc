@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Λ
+- δ
+excerpt: A δ-lattice is a pair Λδ=(V,E,δ)\\Lambda\_\\delta \= (V, E, \\delta)Λδ​=(V,E,δ)
+  where VVV is a site set, E⊂V×VE\\subset V\\times VE⊂V×V adjacency, and
+heading: '**Definition 1.1 — δ-Adjacency Lattice**'
+id: GEN13-2176
+lines: 2093-2107
+location: genesis-13/meta-math-nuclear-physics::1-δ-layer-lattice-geometry-and-emergent-order::definition-11-δ-adjacency-lattice::b1
+parent_heading: '**1\. δ-Layer: Lattice Geometry and Emergent Order**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

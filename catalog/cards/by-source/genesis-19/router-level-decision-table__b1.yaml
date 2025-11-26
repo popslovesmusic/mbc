@@ -1,0 +1,12 @@
+block_type: table
+concepts:
+- Agent Action
+- Polarity State
+- Θ
+excerpt: This gives your agent a **state machine** based on curvature. ---
+heading: '**(Router-Level Decision Table)**'
+id: GEN19-5856
+lines: 450-461
+location: genesis-19/mbc-4-1::2-polarity-semantic-action-selector::router-level-decision-table::b1
+parent_heading: '**2\. Polarity → Semantic Action Selector**'
+source: genesis-19\MBC-4_1.md

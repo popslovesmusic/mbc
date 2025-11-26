@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'A morphism f:X→Yf : X \\to Yf:X→Y in Mχ\\mathbf{M}\_\\chiMχ​ must satisfy:
+  πχY∘f=πχX.\\pi\_\\chi^Y \\circ f \= \\pi\_\\chi^X.πχY​∘f=πχX​. In other words:'
+heading: '**3\. Morphisms in Mχ\\mathbf{M}\_\\chiMχ​: Preservation of the χ-fibration**'
+id: GEN9-9523
+lines: 1431-1449
+location: genesis-9/strong-force::3-morphisms-in-mχmathbfm-chimχ-preservation-of-the-χ-fibration::b1
+source: genesis-9\strong-force.md

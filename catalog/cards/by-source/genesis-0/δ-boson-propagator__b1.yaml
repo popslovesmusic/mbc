@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: Δδ(m)(p)=ip2−mδ,m2+iε\\Delta\_{\\delta}^{(m)}(p)=\\frac{i}{p^{2}-m\_{\\delta,m}^{2}+i\\varepsilon}Δδ(m)​(p)=p2−mδ,m2​+iεi​
+  Where mδ,m=m0 3a(m)6b(m)9c(m)m\_{\\delta,m}=m\_{0}\\,3^{a(m)}6^{b(m)}9^{c(m)}...
+heading: '**δ-Boson Propagator**'
+id: GEN0-002
+lines: 26-36
+location: genesis-0/feynman-rules-interaction-vertices::1-propagators::δ-boson-propagator::b1
+parent_heading: '**1\. Propagators**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

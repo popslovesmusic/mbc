@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- δ
+- μ
+excerpt: 'Let (M,gδ)(M, g\_\\delta)(M,gδ​) be a δ-geometric manifold (or δ-graph limit).
+  Define the **δ-Laplace operator**: Δδ:=∇δμ∇δ,μ,\\Delta\_\\delta := \\nabla\_\\delta^\\mu
+  \\nabla\_{\\delta,\\mu},Δδ​:=∇δμ...'
+heading: '***(Fully Formal)***'
+id: GEN5-8194
+lines: 896-913
+location: genesis-5/the-ga-8-meta-einstein-theorem::δ-harmonic-spectral-decomposition::fully-formal::b1
+parent_heading: '**δ-HARMONIC SPECTRAL DECOMPOSITION**'
+source: genesis-5\THE_GA-8__META-EINSTEIN_THEOREM.md

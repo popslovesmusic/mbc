@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Θ
+- δ
+excerpt: 'This means your agents (LLMs, classifiers, workflow engines) can use **Θ-logic**
+  to: * resolve ambiguity * detect semantic tension'
+heading: '**✔ Curvature-Based Truth Evaluator**'
+id: GEN19-5834
+lines: 207-223
+location: genesis-19/mbc-4-1::6-how-this-powers-semantic-reasoning-agents::curvature-based-truth-evaluator::b1
+parent_heading: '**6\. How This Powers Semantic Reasoning Agents**'
+source: genesis-19\MBC-4_1.md

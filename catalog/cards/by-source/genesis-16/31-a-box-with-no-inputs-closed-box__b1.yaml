@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Box
+- The Box
+- Λ
+- Π
+- Σ
+- λ
+excerpt: Λ(B)=a closed λ-term representing Π(ΣB)\\Lambda(B) \= \\text{a closed λ-term
+  representing } \\Pi(\\Sigma\_B)Λ(B)=a closed λ-term representing Π(ΣB​) The Box
+  evaluates to a normal form; this becomes a ...
+heading: '**3.1 A Box with no inputs (closed Box)**'
+id: GEN16-4090
+lines: 4510-4516
+location: genesis-16/untitled-document::3-explicit-translation-box-λ::31-a-box-with-no-inputs-closed-box::b1
+parent_heading: '**⭐ 3\. Explicit Translation Box → λ**'
+source: genesis-16\Untitled_document.md

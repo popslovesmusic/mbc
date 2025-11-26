@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Γ
+- Σ
+- Ω
+- μ
+excerpt: Given a Box object B=⟨Σ,Γ,Δ,Ω⟩ B=⟨Σ,Γ,Δ,Ω⟩,
+heading: On Objects
+id: GEN17-4405
+lines: 3484-3501
+location: genesis-17/box-calculus::gbcmm::on-objects::b1
+parent_heading: G:BC→MM
+source: genesis-17\box_calculus.md

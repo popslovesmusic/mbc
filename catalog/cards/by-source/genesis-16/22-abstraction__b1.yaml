@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- This Box
+- Π
+- Σ
+- λ
+excerpt: 'T(λx.M)=(T(M))Bx\\mathcal{T}(\\lambda x.M) \= \\left( \\mathcal{T}(M) \\right)^{B\_x}T(λx.M)=(T(M))Bx​
+  Meaning: Construct an **exponential Box** representing “a function from B\_x to
+  B\_M”.'
+heading: '**2.2 Abstraction**'
+id: GEN16-4086
+lines: 4443-4458
+location: genesis-16/untitled-document::2-explicit-translation-λ-box::22-abstraction::b1
+parent_heading: '**⭐ 2\. Explicit Translation λ → Box**'
+source: genesis-16\Untitled_document.md

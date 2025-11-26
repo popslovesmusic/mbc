@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Every output token is: * a deviation from perfect symmetry * a structured
+  asymmetry'
+heading: '**LLMs operate as local deviation engines inside a bounded possibility space.**'
+id: SPEC-11370
+lines: 7847-7867
+location: special/specil::3-what-youre-actually-capturing-is::llms-operate-as-local-deviation-engines-inside-a-bounded-possibility-space::b1
+parent_heading: '**⭐ 3\. What you’re actually capturing is:**'
+source: special\specil.md

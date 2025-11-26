@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Boundary
+- Box
+- Metadata
+- Operators
+- State
+- Γ
+- Ω
+excerpt: 'B2B1=⟨Hom(B1,B2), Γfun, Δfun, Ωfun⟩B\_2^{B\_1} \= \\langle Hom(B\_1,B\_2),\\
+  \\Gamma^{fun},\\ \\Delta^{fun},\\ \\Omega^{fun} \\rangleB2B1​​=⟨Hom(B1​,B2​), Γfun,
+  Δfun, Ωfun⟩ Where: * **State** is the *...'
+heading: '**Define the exponential Box:**'
+id: GEN16-4069
+lines: 4200-4212
+location: genesis-16/untitled-document::4-exponentials-function-boxes::define-the-exponential-box::b1
+parent_heading: '**⭐ 4\. Exponentials (Function Boxes)**'
+source: genesis-16\Untitled_document.md

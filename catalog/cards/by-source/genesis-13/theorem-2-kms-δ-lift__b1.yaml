@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Π
+- Ω
+- β
+- δ
+- σ
+- ω
+excerpt: 'Let Ω\\OmegaΩ be a KMSβ\_\\betaβ​ state on A. There exists a unique δ-state
+  ω\\omegaω on the δ-level such that: 1. Π∗(ω)=Ω\\Pi\_\*(\\omega) \= \\OmegaΠ∗​(ω)=Ω,'
+heading: '**Theorem 2 (KMS → δ-Lift).**'
+id: GEN13-2389
+lines: 1761-1779
+location: genesis-13/the-weight-of-light::5-lift-theorem-every-kms-state-arises-from-δ::theorem-2-kms-δ-lift::b1
+parent_heading: '**5\. Lift Theorem: Every KMS State Arises from δ**'
+source: genesis-13\The_Weight_of_Light.md

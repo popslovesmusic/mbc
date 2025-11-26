@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Γ
+- α
+- δ
+- μ
+- ν
+excerpt: 'δ generates curvature: Rμν(δ)=∇μ∇νδ−Γμνα∂αδ.\\mathcal{R}\_{\\mu\\nu}(\\delta)
+  \= \\nabla\_\\mu\\nabla\_\\nu \\delta \- \\Gamma^\\alpha\_{\\mu\\nu}\\partial\_\\alpha
+  \\delta.Rμν​(δ)=∇μ​∇ν​δ−Γμνα​∂α​δ. ...'
+heading: '**Axiom 4 — δ-Geometry Compatibility**'
+id: GEN7-8471
+lines: 462-475
+location: genesis-7/the-complete-eft-lagrangian::the-δ-eft-axiom-box-sealed::axiom-4-δ-geometry-compatibility::b1
+parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

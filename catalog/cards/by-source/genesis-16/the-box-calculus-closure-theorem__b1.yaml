@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Box
+- Standard Mathematical Statement
+- Π
+- λ
+excerpt: 'Formally: WF(G)⇒∀ paths w: w↓Π\\boxed{ \\mathrm{WF}(\\mathcal{G}) \\Rightarrow
+  \\forall\\ \\text{paths } w:\\ w \\downarrow\_{\\Pi} }WF(G)⇒∀ paths w: w↓Π​​ Where
+  “↓” denotes termination.'
+heading: '**⭐ THE BOX CALCULUS CLOSURE THEOREM**'
+id: GEN16-3861
+lines: 1656-1690
+location: genesis-16/untitled-document::the-box-calculus-closure-theorem::b1
+source: genesis-16\Untitled_document.md

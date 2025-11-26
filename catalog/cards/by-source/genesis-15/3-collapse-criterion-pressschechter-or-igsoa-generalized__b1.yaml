@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+- σ
+excerpt: 'σ2(M)=∫P(k)W2(kR)dk.\\sigma^2(M)=\\int P(k)W^2(kR)dk.σ2(M)=∫P(k)W2(kR)dk.
+  Collapse if: σ(M)\>δc.\\sigma(M)\>\\delta\_c.σ(M)\>δc​.'
+heading: '**3\. Collapse criterion (Press–Schechter or IGSOA-generalized)**'
+id: GEN15-3226
+lines: 2211-2217
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version::3-collapse-criterion-pressschechter-or-igsoa-generalized::b1
+parent_heading: '**Ⅲ. Operator-Theoretic Version**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

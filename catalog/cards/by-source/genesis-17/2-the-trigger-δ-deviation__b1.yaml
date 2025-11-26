@@ -1,0 +1,16 @@
+block_type: table
+concepts:
+- Operator
+- Standard Physics Description
+- The Deviation Operator
+- necessary
+- not
+- δ
+excerpt: '**Cross-reference:** This is the MBC primitive rule: δ(IGSOA)=first break
+  in smoothness\\delta(IGSOA) \= \\text{first break in smoothness}δ(IGSOA)=first break
+  in smoothness'
+heading: '**2\. The Trigger: δ (Deviation)**'
+id: GEN17-5100
+lines: 1247-1259
+location: genesis-17/mbc-schema-3::2-the-trigger-δ-deviation::b1
+source: genesis-17\MBC_Schema_3.md

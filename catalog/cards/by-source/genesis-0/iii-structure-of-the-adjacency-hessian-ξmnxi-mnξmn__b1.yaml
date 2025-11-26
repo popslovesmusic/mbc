@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- 3-sector
+- 6-sector
+- 9-sector
+- δ
+excerpt: 'Adjacency arises from the **δ-geometry → topology** mapping, so Ξ\\XiΞ inherits
+  the fractal mode structure: Ξ=(Ξ3Ξ3−6Ξ3−9Ξ6−3Ξ6Ξ6−9Ξ9−3Ξ9−6Ξ9)\\Xi \= \\begin{pmatrix}
+  \\Xi\_{3} & \\Xi\_{3-6} & \\Xi\_{...'
+heading: '**III. Structure of the Adjacency Hessian Ξmn\\Xi\_{mn}Ξmn​**'
+id: GEN0-148
+lines: 2147-2165
+location: genesis-0/feynman-rules-interaction-vertices::iii-structure-of-the-adjacency-hessian-ξmnxi-mnξmn::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

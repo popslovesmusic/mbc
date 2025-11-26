@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Deviational Riemann Tensor
+- δ
+excerpt: Curvature measures **failure of deviation to commute along adjacent paths**.
+  Rδ(i,j)=δiδj−δjδi.R\_{\\delta}(i,j)=\\delta\_i \\delta\_j \- \\delta\_j \\delta\_i.Rδ​(i,j)=δi​δj​−δj​δi​.
+  This is the Devi...
+heading: '**3.3 Deviational Curvature**'
+id: INTK-9934
+lines: 620-643
+location: intake/meta-genesis-diagrammatic-papers::3-constructed-geometric-structures::33-deviational-curvature::b1
+parent_heading: '**3\. Constructed Geometric Structures**'
+source: intake\Meta-Genesis_Diagrammatic_Papers.md

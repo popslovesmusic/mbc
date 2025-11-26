@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'The CMB lensing potential operator is: LCMB  :=  Π∘Φ∘δ\\mathcal{L}\_{\\mathrm{CMB}}
+  \\;:=\\; \\Pi\\circ\\Phi\\circ\\deltaLCMB​:=Π∘Φ∘δ restricted to **adjacency curvature
+  gradients**.'
+heading: '**4\. Lensing operator is the Π-projection of the same δ-band**'
+id: GEN11-1260
+lines: 311-329
+location: genesis-11/the-adjacency-wave-equation::formal-derivation-hermetic::4-lensing-operator-is-the-π-projection-of-the-same-δ-band::b1
+parent_heading: '**Formal Derivation (Hermetic)**'
+source: genesis-11\The_Adjacency_Wave_Equation.md

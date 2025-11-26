@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Γ
+- δ
+- τ
+excerpt: 'Geodesics are extremal with respect to the δ-connection: DuiDτ=duidτ+Γjkδiujuk=0.\\frac{D
+  u^i}{D\\tau} \= \\frac{d u^i}{d\\tau} \+ \\Gamma^\\delta\_{jk}{}^i u^j u^k \= 0.DτDui​=dτdui​+Γjkδ​iujuk=0.
+  Th...'
+heading: '**Axiom DC-10 — Necessity of Extremal Trajectories**'
+id: GEN7-8667
+lines: 647-655
+location: genesis-7/why-curvature-gives-gravity::iv-operator-theoretic-axioms::axiom-dc-10-necessity-of-extremal-trajectories::b1
+parent_heading: '**IV. OPERATOR-THEORETIC AXIOMS**'
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

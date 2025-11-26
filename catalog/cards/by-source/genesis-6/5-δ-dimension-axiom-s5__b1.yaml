@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- α
+- δ
+- λ
+excerpt: 'Given λₙ \~ n^α: Tr((1+Dδ2)−p/2)=∑n=1∞n−αp\\mathrm{Tr}\\left((1 \+ \\mathcal{D}\_{\\delta}^{2})^{-p/2}\\right)
+  \= \\sum\_{n=1}^{\\infty} n^{-\\alpha p}Tr((1+Dδ2​)−p/2)=n=1∑∞​n−αp This converges
+  iff:'
+heading: '**(5) δ-Dimension Axiom (S5)**'
+id: GEN6-8277
+lines: 223-240
+location: genesis-6/spectral-triple-axiom-box-sealed-version::5-δ-dimension-axiom-s5::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

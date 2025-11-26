@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Curvature adds under composition of deviations: Rδ(a+b)=Rδ(a)⊕Rδ(b).R\_\\delta^{(a+b)}
+  \= R\_\\delta^{(a)} \\oplus R\_\\delta^{(b)}.Rδ(a+b)​=Rδ(a)​⊕Rδ(b)​. Thus:'
+heading: '**8.3 Monoidal Structure**'
+id: GEN3-7328
+lines: 826-836
+location: genesis-3/metagenesis::8-functorial-laws::83-monoidal-structure::b1
+parent_heading: '**8\. Functorial Laws**'
+source: genesis-3\metagenesis.md

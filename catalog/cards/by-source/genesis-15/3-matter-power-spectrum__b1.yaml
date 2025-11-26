@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- λ
+excerpt: 'P(k)=T2(k) Pprim(k)P(k)=T^2(k)\\,P\_{\\mathrm{prim}}(k)P(k)=T2(k)Pprim​(k)
+  with: Pprim(k)=Π(∑ℓλℓ∣Φℓ(k)∣2).P\_{\\mathrm{prim}}(k) \= \\Pi\\left(\\sum\_\\ell
+  \\lambda\_\\ell |\\Phi\_\\ell(k)|^2\\right)....'
+heading: '**3\. Matter power spectrum**'
+id: GEN15-3203
+lines: 1953-1959
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-operator-theoretic-version-of-the-stack::3-matter-power-spectrum::b1
+parent_heading: '**Ⅲ. Operator-Theoretic Version of the Stack**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

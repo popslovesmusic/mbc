@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- undefined
+- Ψ
+excerpt: ∀ O,OΨ0 is meaningless.\\boxed{ \\forall\\,\\mathcal{O},\\quad \\mathcal{O}\\Psi\_0\\
+  \\text{is meaningless.} }∀O,OΨ0​ is meaningless.​ This is not “zero map to zero.”
+  It is **undefined** in the stric...
+heading: '**Theorem 2 (Hilbert Exclusion).**'
+id: INTK-9967
+lines: 337-344
+location: intake/meta-genesis-mathematical-papers::2-functional-analytic-domain-exclusion::theorem-2-hilbert-exclusion::b1
+parent_heading: '**2\. Functional-Analytic Domain Exclusion**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

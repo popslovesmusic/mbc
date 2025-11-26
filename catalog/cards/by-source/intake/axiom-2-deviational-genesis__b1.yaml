@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Minimality Condition
+- Ψ
+- δ
+excerpt: 'There exists a unique minimal extension of Ψ0\\Psi\_0Ψ0​ on which δ\\deltaδ
+  becomes defined: Ψ1:=δΨ0\\Psi\_1 := \\delta \\Psi\_0Ψ1​:=δΨ0​ is the **first admissible
+  state**, and'
+heading: '**Axiom 2 — Deviational Genesis**'
+id: INTK-9650
+lines: 30-49
+location: intake/axioms-geometry::axiom-2-deviational-genesis::b1
+source: intake\Axioms-geometry.md

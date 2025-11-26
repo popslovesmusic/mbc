@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Γ
+- δ
+- μ
+- ν
+- ρ
+excerpt: Tμνρ(δ)=Γμνδρ−ΓνμδρT^\\rho\_{\\mu\\nu}(\\delta) \= \\Gamma^\\delta\_{\\mu\\nu}{}^\\rho
+  \- \\Gamma^\\delta\_{\\nu\\mu}{}^\\rhoTμνρ​(δ)=Γμνδ​ρ−Γνμδ​ρ This is the **primitive
+  gravitational object** in δ-...
+heading: '**Torsion Tensor**'
+id: GEN8-8884
+lines: 2114-2122
+location: genesis-8/meta-time-geometry-and-temporal-projection::1-the-δ-weitzenböck-torsion-operator::torsion-tensor::b1
+parent_heading: '**1\. The δ-Weitzenböck Torsion Operator**'
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

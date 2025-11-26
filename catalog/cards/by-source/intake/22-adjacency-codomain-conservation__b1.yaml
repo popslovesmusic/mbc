@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Meta-Time
+- Γ
+- Λ
+- Ψ
+excerpt: A(Ψ′)⊇A(Ψ)−ΓO,A(\\Psi') \\supseteq A(\\Psi) \- \\Gamma\_\\mathcal{O},A(Ψ′)⊇A(Ψ)−ΓO​,
+  A(Ψ′)⊆A(Ψ)+ΛO,A(\\Psi') \\subseteq A(\\Psi) \+ \\Lambda\_\\mathcal{O},A(Ψ′)⊆A(Ψ)+ΛO​,
+  where ΓO\\Gamma\_\\mathcal{O}...
+heading: '**2.2 Adjacency Codomain Conservation**'
+id: INTK-10196
+lines: 281-289
+location: intake/meta-genesis-meta-math-integration-papers::2-codomains::22-adjacency-codomain-conservation::b1
+parent_heading: '**2\. Codomains**'
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

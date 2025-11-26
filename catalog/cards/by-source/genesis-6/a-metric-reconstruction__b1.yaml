@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Meta-Einstein
+- δ
+excerpt: 'Topos-internal spectral metric \= geometric metric in Meta-Einstein. dδ(x,y)=sup⁡{∣a(x)−a(y)∣:∥\[Dδ,a\]∥≤1}d\_\\delta(x,y)
+  \= \\sup \\{|a(x)-a(y)| : \\|\[\\mathbf{D}\_\\delta,a\]\\|\\le1\\}dδ​(x,y)=su...'
+heading: '**A. Metric Reconstruction**'
+id: GEN6-8320
+lines: 819-827
+location: genesis-6/spectral-triple-axiom-box-sealed-version::4-why-this-forces-meta-einstein-geometry::a-metric-reconstruction::b1
+parent_heading: '**4\. WHY THIS FORCES META-EINSTEIN GEOMETRY**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

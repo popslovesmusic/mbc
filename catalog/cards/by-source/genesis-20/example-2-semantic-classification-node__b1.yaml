@@ -1,0 +1,19 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Cat
+- 'Box Decision
+
+
+  Polarity'
+- Box Dog
+- Box Input
+- Π
+excerpt: 'Box Input → {Box Cat, Box Dog} → Box Decision Polarity-weighted choice:
+  * Router selects dominant polarity'
+heading: Example 2 — Semantic Classification Node
+id: GEN20-7037
+lines: 4803-4810
+location: genesis-20/mbc-40-documentaitio-1::conclusion::147-implementation-examples::example-2-semantic-classification-node::b1
+parent_heading: 14.7 Implementation Examples
+source: genesis-20\MBC_40_Documentaitio-1.md

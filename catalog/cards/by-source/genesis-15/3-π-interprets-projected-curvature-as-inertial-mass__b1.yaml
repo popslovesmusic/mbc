@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Box
+- Π
+- Φ
+- δ
+- λ
+excerpt: 'Π is the functor that converts internal spectra into metric quantities (observable
+  physics). For each mode: Mn=Π(λn)M\_n \= \\Pi(\\lambda\_n)Mn​=Π(λn​)'
+heading: '**3\. Π interprets projected curvature as inertial mass**'
+id: GEN15-3091
+lines: 81-98
+location: genesis-15/the-mass-curvature-projection-theorem::proof-operator-theoretic::3-π-interprets-projected-curvature-as-inertial-mass::b1
+parent_heading: '**Proof (operator-theoretic)**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Θ
+excerpt: '“Any strong consistent polarity propagates.” Formally: Θout=max⁡(∣Θ1∣,∣Θ2∣)⋅sign\_majority'
+heading: Semantic OR
+id: GEN20-7188
+lines: 6962-6984
+location: genesis-20/mbc-40-documentaitio-1::b24-semantic-or-unified-influence-gate::semantic-or::b1
+parent_heading: B2.4 Semantic OR (Unified Influence Gate)
+source: genesis-20\MBC_40_Documentaitio-1.md

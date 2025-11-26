@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: Define the δ-Hessian Hessδ(Φn)=DΦ2∣En.\\mathrm{Hess}\_\\delta(\\Phi\_n) \=
+  D\_\\Phi^2|\_{E\_n}.Hessδ​(Φn​)=DΦ2​∣En​​. Then the mass spectrum is
+heading: '**Theorem 2.4 (Φ-Mass Tower Theorem).**'
+id: GEN13-2069
+lines: 831-851
+location: genesis-13/meta-math-nuclear-physics::2-the-φ-layer-nuclear-operator-algebra::theorem-24-φ-mass-tower-theorem::b1
+parent_heading: '**2\. The Φ-Layer: Nuclear Operator Algebra**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

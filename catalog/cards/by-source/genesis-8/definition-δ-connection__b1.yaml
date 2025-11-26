@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Γ
+- δ
+- μ
+excerpt: ∇μδ=∂μ+Γμδ\\nabla^\\delta\_\\mu \= \\partial\_\\mu \+ \\Gamma^\\delta\_{\\mu}∇μδ​=∂μ​+Γμδ​
+  where Γδ\\Gamma^\\deltaΓδ is built from adjacency deformation, not metric derivatives.
+heading: '**Definition (δ-Connection)**'
+id: GEN8-8883
+lines: 2108-2112
+location: genesis-8/meta-time-geometry-and-temporal-projection::1-the-δ-weitzenböck-torsion-operator::definition-δ-connection::b1
+parent_heading: '**1\. The δ-Weitzenböck Torsion Operator**'
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

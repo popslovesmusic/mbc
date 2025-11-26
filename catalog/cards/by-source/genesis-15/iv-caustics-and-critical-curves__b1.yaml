@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Arcs
+- Double Einstein
+- β
+- δ
+- μ
+excerpt: 'Lensing caustics occur where the **Jacobian determinant** vanishes: J=∣∂β∂θ∣.J
+  \= \\left| \\frac{\\partial \\beta}{\\partial\\theta} \\right|.J=​∂θ∂β​​. From:'
+heading: '**IV. Caustics and Critical Curves**'
+id: GEN15-3338
+lines: 1254-1302
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iv-caustics-and-critical-curves::b1
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md

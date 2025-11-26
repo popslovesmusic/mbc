@@ -1,0 +1,12 @@
+block_type: table
+concepts:
+- Box
+- Standard Meaning
+- Σ
+excerpt: '`Box = { Σ, ∂Box, Ops, Meta, Adj }` ---'
+heading: '**4.1 A Box Has a Formal Signature**'
+id: GEN16-3738
+lines: 54-66
+location: genesis-16/untitled-document::box-calculus-technical-introduction-dual-column-cross-referenced::4-box-syntax-and-semantics::41-a-box-has-a-formal-signature::b1
+parent_heading: '**4\. Box Syntax and Semantics**'
+source: genesis-16\Untitled_document.md

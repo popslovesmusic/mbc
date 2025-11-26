@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Σ
+excerpt: 'Modify A to incorporate Bayes updates: Σnew=Σ1⋅Σ2Z Σ'
+heading: 4.2. Bayesian Merge Rule
+id: GEN17-4330
+lines: 2557-2572
+location: genesis-17/box-calculus::4-expansion-direction-iv-probabilistic-bayesian-lifting::42-bayesian-merge-rule::b1
+parent_heading: '4\. Expansion Direction IV: Probabilistic & Bayesian Lifting'
+source: genesis-17\box_calculus.md

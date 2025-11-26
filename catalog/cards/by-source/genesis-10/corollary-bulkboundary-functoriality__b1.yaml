@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- δ
+- ν
+excerpt: 'Let ι:Abulk→Aedge\\iota: \\mathfrak{A}\_\\text{bulk} \\to \\mathfrak{A}\_\\text{edge}ι:Abulk​→Aedge​
+  be the boundary morphism. Then: νδbulk≠νδedge⟹spec(Π∘ι(Dδ)) contains protected boundary
+  modes.\\nu\...'
+heading: '**Corollary (Bulk–Boundary Functoriality)**'
+id: GEN10-728
+lines: 734-743
+location: genesis-10/how-stillness-becomes-solid::the-δφπ-z₂-operator-algebraic-invariant::corollary-bulkboundary-functoriality::b1
+parent_heading: '**The δ→Φ→Π Z₂ Operator-Algebraic Invariant**'
+source: genesis-10\How_Stillness_Becomes_Solid_.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- resistance
+- Ψ
+excerpt: lim⁡Ψ→Ψ0R(Ψ)=∞,\\lim\_{\\Psi \\to \\Psi\_0} R(\\Psi) \= \\infty,Ψ→Ψ0​lim​R(Ψ)=∞,
+  where **R** is the *resistance* (deviation cost) to states approaching zero content.
+  Thus any process attempting to col...
+heading: '**(NOT-5) The Zero-Content Limit is Not Realizable.**'
+id: INTK-9744
+lines: 57-65
+location: intake/meta-genesis-core-papers-foundations::the-not-axiom-fully-formal::not-5-the-zero-content-limit-is-not-realizable::b1
+parent_heading: '**THE NOT AXIOM (Fully Formal)**'
+source: intake\Meta-Genesis_Core_Papers_Foundations.md

@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- σ
+excerpt: 'We must show: HomσTop(UY,  Z)  ≅  HomMM(Y,  RZ).(U–R)\\text{Hom}\_{\\sigma
+  Top}(UY,\\; Z) \\;\\cong\\; \\text{Hom}\_{MM}(Y,\\; RZ). \\tag{U–R}HomσTop​(UY,Z)≅HomMM​(Y,RZ).(U–R)'
+heading: '**3\. Proof that U⊣RU \\dashv RU⊣R**'
+id: GEN5-7944
+lines: 134-138
+location: genesis-5/formal-proof-of-the-adjoint-triple::3-proof-that-uru-dashv-rur::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

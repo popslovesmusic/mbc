@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- β
+- δ
+excerpt: 'Same reason: (∇(δ)δ)2=0⇒(Mβ)mn=0.(\\nabla^{(\\delta)}\\delta)^2 \= 0 \\quad
+  \\Rightarrow\\quad (M\_\\beta)\_{mn}=0.(∇(δ)δ)2=0⇒(Mβ​)mn​=0. ---'
+heading: '**4\. Gradient-quartic term**'
+id: GEN0-115
+lines: 1681-1687
+location: genesis-0/feynman-rules-interaction-vertices::i-compute-the-hessian-term-by-term::4-gradient-quartic-term::b1
+parent_heading: '**I. Compute the Hessian term-by-term**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

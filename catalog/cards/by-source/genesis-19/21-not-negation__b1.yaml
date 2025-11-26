@@ -1,0 +1,12 @@
+block_type: table
+concepts:
+- Polarity Logic
+- Standard Logic
+- Θ
+excerpt: Negation flips directional curvature except when polarity is neutral. ---
+heading: '**2.1 NOT / Negation**'
+id: GEN19-5821
+lines: 25-36
+location: genesis-19/mbc-4-1::2-unary-operators-θ-mode::21-not-negation::b1
+parent_heading: '**2\. Unary Operators (Θ-Mode)**'
+source: genesis-19\MBC-4_1.md

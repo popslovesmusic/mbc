@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Θ
+excerpt: 'While most formal systems keep metadata separate from core logic, MBC-4.0
+  embeds metadata directly into the structure. Metadata is not decoration; it is dynamically
+  significant. Metadata includes:'
+heading: '2.6 Metadata: Polarity, Curvature, and Semantic Weight'
+id: GEN20-6700
+lines: 609-630
+location: genesis-20/mbc-40-documentaitio-1::26-metadata-polarity-curvature-and-semantic-weight::b1
+source: genesis-20\MBC_40_Documentaitio-1.md

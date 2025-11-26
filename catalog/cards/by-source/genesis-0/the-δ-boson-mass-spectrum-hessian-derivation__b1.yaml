@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Hessian
+- Λ
+- α
+- β
+- γ
+- δ
+- λ
+- μ
+excerpt: 'We begin with the δ-Higgs potential: V(δ)=Λδ+μδ22 ∥δ∥2+λδ4 ∥δ∥4+α2(∇(δ)δ)2+β4(∇(δ)δ)4+γ A\[δ\].V(\\delta)
+  \= \\Lambda\_{\\delta} \+ \\frac{\\mu\_\\delta^2}{2}\\,\\|\\delta\\|^2 \+ \\frac{\\lambda\_\\d...'
+heading: '**The δ-Boson Mass Spectrum: Hessian Derivation**'
+id: GEN0-110
+lines: 1593-1617
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-boson-mass-spectrum-hessian-derivation::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

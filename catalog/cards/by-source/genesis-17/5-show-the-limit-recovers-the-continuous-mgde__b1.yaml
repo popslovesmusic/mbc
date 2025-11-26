@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+- Meta-Genesis
+- Σ
+- δ
+excerpt: 'Take the limit as Δt → 0\. Define: F\[δ\]=Id+Δt Fδ'
+heading: 🔷 5\. Show the Limit Recovers the Continuous MGDE
+id: GEN17-4862
+lines: 10583-10632
+location: genesis-17/box-calculus::derivation-continuous-mgde-discrete-mbc-step-rule::5-show-the-limit-recovers-the-continuous-mgde::b1
+parent_heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
+source: genesis-17\box_calculus.md

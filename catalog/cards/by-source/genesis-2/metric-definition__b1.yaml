@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Define the metric by: gij(p)=∂2εδ∂xi∂xj(p).g\_{ij}(p) \= \\frac{\\partial^2
+  \\varepsilon\_\\delta}{\\partial x^i \\partial x^j}(p).gij​(p)=∂xi∂xj∂2εδ​​(p).
+  Interpretation:'
+heading: '**Metric definition:**'
+id: GEN2-6504
+lines: 408-424
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::3-projection-of-δ-spectrum-to-a-riemannian-metric::metric-definition::b1
+parent_heading: '**3\. Projection of δ-Spectrum to a Riemannian Metric**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

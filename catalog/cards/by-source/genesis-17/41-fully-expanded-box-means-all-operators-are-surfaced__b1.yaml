@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Γ
+- Σ
+- Φ
+excerpt: 'A Box is fully expanded iff: * all E expansions are maximal * Φ-structure
+  is explicit'
+heading: 4.1 Fully expanded Box means all operators are surfaced
+id: GEN17-4528
+lines: 6064-6077
+location: genesis-17/box-calculus::4-proof-fully-expanded-box-graph-η-long-normal-form::41-fully-expanded-box-means-all-operators-are-surfaced::b1
+parent_heading: '⭐ 4\. PROOF: FULLY EXPANDED BOX GRAPH → η-LONG NORMAL FORM'
+source: genesis-17\box_calculus.md

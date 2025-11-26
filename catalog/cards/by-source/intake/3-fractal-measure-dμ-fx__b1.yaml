@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- α
+- μ
+excerpt: A measure defined on F, accounting for its fractal nature, often of the form
+  `dμ_F(x) ~ dx^α(x)`.
+heading: 3. Fractal Measure (dμ_F(x))
+id: INTK-10445
+lines: 1522-1523
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::core-concepts::3-fractal-measure-dμ-fx::b1
+parent_heading: Core Concepts
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

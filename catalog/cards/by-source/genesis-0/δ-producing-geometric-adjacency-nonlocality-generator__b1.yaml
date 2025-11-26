@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Geometric Adjacency
+- Quantum Nonlocality
+- δ
+excerpt: L⊃δ(n) Aab ∂a∂b\\mathcal{L}\\supset \\delta^{(n)}\\,\\mathcal{A}^{ab}\\,\\partial\_a\\partial\_bL⊃δ(n)Aab∂a​∂b​
+  **Feynman rule:** VδAdj(n)=−i Aab papbV\_{\\delta\\mathrm{Adj}}^{(n)} \= \-i\\,\\mathcal...
+heading: '**δ producing geometric adjacency (nonlocality generator)**'
+id: GEN0-005
+lines: 63-74
+location: genesis-0/feynman-rules-interaction-vertices::2-fundamental-δ-interaction-vertices::b-δadjacency-vertex::δ-producing-geometric-adjacency-nonlocality-generator::b1
+parent_heading: '**(B) δ–Adjacency Vertex**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

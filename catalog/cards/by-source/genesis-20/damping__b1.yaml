@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Θ
+- α
+excerpt: 'Polarity change attenuated: Θ(t+1)=αFR(Θ(t))+(1−α)Θ(t) Θ'
+heading: 'Damping:'
+id: GEN20-7249
+lines: 7848-7869
+location: genesis-20/mbc-40-documentaitio-1::b48-router-saturation-damping::damping::b1
+parent_heading: B4.8 Router Saturation & Damping
+source: genesis-20\MBC_40_Documentaitio-1.md

@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Σ
+excerpt: 'Cycles converge to equilibrium: Σt+1=f(Σt) ⇒ Σ\\\* Σ'
+heading: 5.2. Fixed-Point Theorem
+id: GEN17-4334
+lines: 2597-2608
+location: genesis-17/box-calculus::5-expansion-direction-v-computational-universality::52-fixed-point-theorem::b1
+parent_heading: '5\. Expansion Direction V: Computational Universality'
+source: genesis-17\box_calculus.md

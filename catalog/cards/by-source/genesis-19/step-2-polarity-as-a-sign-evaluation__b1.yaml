@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Θ
+excerpt: 'Define: Θ(B)={+1,K\>0−1,K\<0\\Theta(B) \= \\begin{cases} \+1,\&K\>0\\\\\[4pt\]
+  \-1,\&K\<0 \\end{cases}Θ(B)={+1,−1,​K\>0K\<0​ with tie-breaking: Θ(B)=+1\\Theta(B)=+1Θ(B)=+1
+  if K=0K=0K=0.'
+heading: '**Step 2 — Polarity as a sign evaluation**'
+id: GEN19-5908
+lines: 449-455
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::standard-column::step-2-polarity-as-a-sign-evaluation::b1
+parent_heading: '**Standard Column**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

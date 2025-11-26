@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Under Riemann
+- Π
+- δ
+- μ
+- ν
+excerpt: 'Under Riemann projection: * Πδ\\Pi\\deltaΠδ becomes the **first covariant
+  derivative** (connection 1-form ∇\\nabla∇). * δGeoΠ\\delta\_{Geo}\\PiδGeo​Π becomes
+  the **second covariant derivative** (commu...'
+heading: '**Step 4 — Identify Π(δ) with covariant differentiation.**'
+id: GEN5-8077
+lines: 2099-2113
+location: genesis-5/formal-proof-of-the-adjoint-triple::proof::step-4-identify-πδ-with-covariant-differentiation::b1
+parent_heading: '**Proof.**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

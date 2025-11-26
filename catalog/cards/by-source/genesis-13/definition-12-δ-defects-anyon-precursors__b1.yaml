@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ω
+- δ
+excerpt: Let Dδ={x∈M∣Ωδ(x)≠0}\\mathcal{D}\_\\delta \= \\{x\\in M \\mid \\Omega\_\\delta(x)\\neq
+  0\\}Dδ​={x∈M∣Ωδ​(x)=0} be the set of δ-curvature defects.
+heading: '**Definition 1.2 — δ-Defects (Anyon Precursors)**'
+id: GEN13-2213
+lines: 2439-2453
+location: genesis-13/meta-math-nuclear-physics::1-δ-layer-topology-defects-and-braid-groups::definition-12-δ-defects-anyon-precursors::b1
+parent_heading: '**1\. δ-Layer: Topology, Defects, and Braid Groups**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

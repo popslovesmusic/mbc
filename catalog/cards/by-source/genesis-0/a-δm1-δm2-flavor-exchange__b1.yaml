@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- μ
+excerpt: Vmix(m1,m2)=−i μm1m2V\_{\\text{mix}}^{(m\_1,m\_2)} \= \-i\\,\\mu\_{m\_1m\_2}Vmix(m1​,m2​)​=−iμm1​m2​​
+  This is where your **3–6–9 → CKM/PMNS** mapping emerges. ---
+heading: '**(A) δ(m1) ↔ δ(m2) Flavor Exchange**'
+id: GEN0-014
+lines: 160-166
+location: genesis-0/feynman-rules-interaction-vertices::4-mode-mixing-vertices-unique-to-δ-theory::a-δm1-δm2-flavor-exchange::b1
+parent_heading: '**4\. Mode-Mixing Vertices (unique to δ-theory)**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

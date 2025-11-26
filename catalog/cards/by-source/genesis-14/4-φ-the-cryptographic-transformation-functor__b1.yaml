@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Meta-Math
+- Φ
+excerpt: 'All cryptographic algorithms—block ciphers, public-key systems, hash functions—are
+  instances of **Φ**. Φ has two essential Meta-Math properties:'
+heading: '**4\. Φ: The Cryptographic Transformation Functor**'
+id: GEN14-2827
+lines: 580-584
+location: genesis-14/meta-math-and-cryptography::4-φ-the-cryptographic-transformation-functor::b1
+source: genesis-14\Meta-Math_and_Cryptography.md

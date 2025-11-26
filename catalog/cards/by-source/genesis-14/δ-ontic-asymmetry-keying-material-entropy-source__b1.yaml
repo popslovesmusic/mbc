@@ -1,0 +1,12 @@
+block_type: list
+concepts:
+- Meta-Math
+- δ
+excerpt: '* δ distinguishes one message from another. * δ distinguishes one ciphertext
+  from another. * δ distinguishes one authentication code from another.'
+heading: '**δ \= ontic asymmetry \= keying material \= entropy source**'
+id: GEN14-2826
+lines: 564-578
+location: genesis-14/meta-math-and-cryptography::3-δ-the-origin-of-secrecy-entropy-as-deviation::δ-ontic-asymmetry-keying-material-entropy-source::b1
+parent_heading: '**3\. δ: The Origin of Secrecy (Entropy as Deviation)**'
+source: genesis-14\Meta-Math_and_Cryptography.md

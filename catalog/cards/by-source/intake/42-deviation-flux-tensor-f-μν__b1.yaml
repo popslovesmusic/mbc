@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- The Deviation Flux
+- μ
+- ν
+excerpt: The Deviation Flux `F_μν` (the gauge field strength) is derived from an antisymmetric
+  sub-block, representing how deviation flows and curls. It captures the interaction
+  triad dynamics.
+heading: '**4.2. Deviation Flux Tensor (F_μν)**'
+id: INTK-10234
+lines: 246-248
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::4-operators-as-matrix-elements-and-sub-blocks::42-deviation-flux-tensor-f-μν::b1
+parent_heading: '**4. Operators as Matrix Elements and Sub-Blocks**'
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

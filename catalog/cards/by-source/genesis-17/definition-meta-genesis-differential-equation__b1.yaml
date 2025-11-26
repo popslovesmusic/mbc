@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: dΣdt=F(Σ(t);δ(Σ(t))) dt dΣ
+heading: '⭐ Definition (Meta-Genesis Differential Equation):'
+id: GEN17-4837
+lines: 10131-10143
+location: genesis-17/box-calculus::definition-meta-genesis-differential-equation::b1
+source: genesis-17\box_calculus.md

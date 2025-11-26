@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Meta-Genesis
+- Scale-Topos
+- Π
+- Φ
+- δ
+- σ
+excerpt: 'There exists a chain of functors: MG→iDGδ→ΥSh(σ)→ΠRGMG \\xrightarrow{i}
+  DG\_{\\delta} \\xrightarrow{Υ} Sh(\\sigma) \\xrightarrow{\\Pi} RGMGi​DGδ​Υ​Sh(σ)Π​RG
+  such that:'
+heading: '**Theorem (Topos Embedding).**'
+id: GEN2-6532
+lines: 815-845
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::4-full-topos-theoretic-statement::theorem-topos-embedding::b1
+parent_heading: '**4\. Full Topos-Theoretic Statement**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

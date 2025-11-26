@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- projection
+- Γ
+- Π
+- Φ
+- Ω
+- δ
+excerpt: 'The ATP object AAA satisfies: A=F(f)A \= \\mathcal{F}(f)A=F(f) for some
+  f∈Γ(∂M)f \\in \\Gamma(\\partial M)f∈Γ(∂M), with:'
+heading: '**Proposition II.4.1 (ATP Synthesis as Operator Composition).**'
+id: GEN13-2559
+lines: 1412-1424
+location: genesis-13/what-biology-is-in-meta-genesis::section-ii4-composite-operator-formalism::proposition-ii41-atp-synthesis-as-operator-composition::b1
+parent_heading: '**SECTION II.4 — Composite Operator Formalism**'
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

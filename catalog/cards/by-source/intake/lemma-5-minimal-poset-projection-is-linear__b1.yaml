@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'Given a poset that comes from a deviation ladder, the only faithful linearization
+  is: δnΨ0↦n.\\delta^n\\Psi\_0 \\mapsto n.δnΨ0​↦n. Thus:'
+heading: '**Lemma 5 — Minimal poset projection is linear.**'
+id: INTK-10005
+lines: 968-978
+location: intake/meta-genesis-mathematical-papers::4-full-formal-proof::lemma-5-minimal-poset-projection-is-linear::b1
+parent_heading: '**4\. Full Formal Proof**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

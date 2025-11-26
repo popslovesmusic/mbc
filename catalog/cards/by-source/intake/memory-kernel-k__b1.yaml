@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Causal History
+- Echo Operator
+- Memory Kernel
+- Operator
+- Read More
+- The Memory Kernel
+excerpt: The Memory Kernel K is a component of the Echo Operator (E) in the IGSOA
+  framework. It is responsible for determining how past events, stored in the Causal
+  History (C), influence the present state of ...
+heading: Memory Kernel K
+id: INTK-10731
+lines: 1896-1897
+location: intake/volume-i-core-ontology-and-metagenesis-summary::glossary::memory-kernel-k::b1
+parent_heading: Glossary
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md

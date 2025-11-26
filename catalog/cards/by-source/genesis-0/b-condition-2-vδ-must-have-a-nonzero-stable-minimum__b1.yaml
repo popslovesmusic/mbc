@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Stability Theorem
+- The Universe
+- Theorem
+- Λ
+- Ψ
+- δ
+- μ
+excerpt: 'The Universe must “roll away” from Ψ₀ into Ψ₁. Thus: dVdδ∣δ=0\<0\\frac{dV}{d\\delta}\\bigg|\_{\\delta=0}
+  \< 0dδdV​​δ=0​\<0'
+heading: '**B. Condition 2: V(δ) must have a nonzero stable minimum**'
+id: GEN0-058
+lines: 749-770
+location: genesis-0/feynman-rules-interaction-vertices::ii-why-this-form-is-mandatory-derivation-from-the-ψ₀-ψ₁-stability-theorem::b-condition-2-vδ-must-have-a-nonzero-stable-minimum::b1
+parent_heading: '**II. Why this form is mandatory (derivation from the Ψ₀ → Ψ₁ Stability
+  Theorem)**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

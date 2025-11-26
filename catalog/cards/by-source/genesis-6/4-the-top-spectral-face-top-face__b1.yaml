@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Spectral Triple
+- δ
+- σ
+excerpt: FM∘Dδ=Dδ∘FσF\_{M} \\circ D\_{\\delta} \= D\_{\\delta} \\circ F\_{\\sigma}FM​∘Dδ​=Dδ​∘Fσ​
+  This ensures the δ-Spectral Triple is **functorially natural** in the entire framework.
+  ---
+heading: '**(4) The Top Spectral Face (top face)**'
+id: GEN6-8316
+lines: 785-791
+location: genesis-6/spectral-triple-axiom-box-sealed-version::3-the-full-cubes-commutativity-conditions::4-the-top-spectral-face-top-face::b1
+parent_heading: '**3\. The Full Cube’s Commutativity Conditions**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Meta-Negative
+- Meta-Vector
+excerpt: For every Meta-Vector `V`, there exists a **Meta-Negative ($-V$)** such that
+  `V ⊞ (-V) = vec{0}`. This operation is non-trivial and often involves phase inversion
+  or counter-deviation.
+heading: 5. Meta-Negative ($-V$)
+id: INTK-10350
+lines: 994-995
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::formal-definition::5-meta-negative-v::b1
+parent_heading: Formal Definition
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

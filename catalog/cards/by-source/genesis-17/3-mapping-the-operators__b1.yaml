@@ -1,0 +1,15 @@
+block_type: table
+concepts:
+- Box
+- Box Calculus
+- Linear Logic
+- Polarity Split
+- Π
+- ρ
+excerpt: We now map the four primitive IGSOA operators to the four structural modalities
+  of Linear Logic. This is a perfect structural match. ---
+heading: ⭐ 3\. MAPPING THE OPERATORS
+id: GEN17-4543
+lines: 6268-6280
+location: genesis-17/box-calculus::3-mapping-the-operators::b1
+source: genesis-17\box_calculus.md

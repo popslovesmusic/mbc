@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'For each morphism f:X→Yf:X\\to Yf:X→Y, we assume that: f\\\*⊣∃fand∀f⊣f\\\*.f^\\\*
+  \\dashv \\exists\_f \\quad\\text{and}\\quad \\forall\_f \\dashv f^\\\*.f\\\*⊣∃f​and∀f​⊣f\\\*.
+  Thus:'
+heading: '**4\. Existential and Universal Adjoints (δ-Quantifiers)**'
+id: GEN9-9113
+lines: 1318-1342
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::4-existential-and-universal-adjoints-δ-quantifiers::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md

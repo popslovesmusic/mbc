@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- symmetric
+- δ
+- μ
+- ν
+excerpt: 'In IGSOA, δ acts as a functor: δ:G→M\\delta : \\mathbf{G} \\to \\mathbf{M}δ:G→M
+  and its geometric expression in M\\mathbf{M}M is the δ-connection:'
+heading: '**1\. δ-curvature as a natural transformation**'
+id: GEN9-9521
+lines: 1371-1397
+location: genesis-9/strong-force::1-δ-curvature-as-a-natural-transformation::b1
+source: genesis-9\strong-force.md

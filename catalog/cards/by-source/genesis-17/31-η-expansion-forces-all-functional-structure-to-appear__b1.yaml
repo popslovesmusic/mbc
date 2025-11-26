@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- η
+- λ
+excerpt: 'In η-long form: * every λ-abstraction corresponding to a function type is
+  explicit * every application position is explicit'
+heading: 3.1 η-expansion forces all functional structure to appear
+id: GEN17-4523
+lines: 5999-6011
+location: genesis-17/box-calculus::3-proof-η-long-normal-form-fully-expanded-box-graph::31-η-expansion-forces-all-functional-structure-to-appear::b1
+parent_heading: '⭐ 3\. PROOF: η-LONG NORMAL FORM → FULLY EXPANDED BOX GRAPH'
+source: genesis-17\box_calculus.md

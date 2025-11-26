@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Anti-Idempotence
+- Polarity Tensor Identities
+- δ
+excerpt: \\Pi(\\Phi(\\delta(T))) \= g\_{ij} \\, R^i\_k R^j\_\\ell \\, T^{k\\ell} \\\]
+  | Semantic meaning \= weighted polarity contraction of δ-adjacency structure. |
+  This is \*the\* tensor equation of MBC-4.0 ...
+heading: '**Pipeline Formula**'
+id: GEN19-5848
+lines: 359-366
+location: genesis-19/mbc-4-1::8-the-δφπ-tensor-pipeline::pipeline-formula::b1
+parent_heading: '**8\. The δ→Φ→Π Tensor Pipeline**'
+source: genesis-19\MBC-4_1.md

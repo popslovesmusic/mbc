@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'Π maps adjacency curvature to geometric curvature: κn,ℓ,m=Π(ϕn,ℓ,m(∗)).\\kappa\_{n,\\ell,m}
+  \= \\Pi(\\phi\_{n,\\ell,m}^{(\*)}).κn,ℓ,m​=Π(ϕn,ℓ,m(∗)​). Π is dimension-forcing:'
+heading: '**3\. Π-Projection Converts Multiplet Rank Into Geometric Dimensionality**'
+id: GEN14-2726
+lines: 1207-1233
+location: genesis-14/inflation-structure-formation::proof::3-π-projection-converts-multiplet-rank-into-geometric-dimensionality::b1
+parent_heading: '**Proof**'
+source: genesis-14\Inflation__Structure_Formation.md

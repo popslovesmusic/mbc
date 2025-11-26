@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Fractal
+- δ
+- σ
+excerpt: In standard QFT, fermion masses and CKM/PMNS mixing are inserted by hand
+  via Yukawa matrices. In IGSOA, **mass and flavor are not inputs** — they are **δ-mode
+  spectral responses** of matter fields emb...
+heading: '**0\. Principle (what replaces “fundamental Yukawas”)**'
+id: GEN0-022
+lines: 253-265
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::0-principle-what-replaces-fundamental-yukawas::b1
+parent_heading: '**The δ-Higgs / Flavor-Mass Sector**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

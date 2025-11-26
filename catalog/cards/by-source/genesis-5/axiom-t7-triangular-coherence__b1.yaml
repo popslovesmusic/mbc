@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- α
+- β
+- η
+excerpt: 'The unit and counit of both adjunctions satisfy the triangle identities:
+  ϵLX∘L(ηX)=idLX,U(ϵY)∘ηUY=idUY,\\epsilon\_{LX} \\circ L(\\eta\_X) \= id\_{LX},\\qquad
+  U(\\epsilon\_Y) \\circ \\eta\_{UY}=id\_{UY...'
+heading: '**Axiom T7 (Triangular Coherence).**'
+id: GEN5-7960
+lines: 355-363
+location: genesis-5/formal-proof-of-the-adjoint-triple::topostheoretic-axiom-box-the-genesismathtopos-adjoint-triple::axiom-t7-triangular-coherence::b1
+parent_heading: '**▢ Topos–Theoretic Axiom Box: The Genesis–Math–Topos Adjoint Triple**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

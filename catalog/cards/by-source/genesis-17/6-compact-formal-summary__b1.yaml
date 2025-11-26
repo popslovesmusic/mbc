@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Box
+- Causal Sphere
+- Π
+excerpt: '**Π is a functor Π : 𝓑 → Poset that assigns to each Box its partially ordered
+  dependency structure, and to each dependency morphism a monotone map preserving
+  causal relations.** **Π encodes the comple...'
+heading: '**⭐ 6\. Compact Formal Summary**'
+id: GEN17-4976
+lines: 1419-1428
+location: genesis-17/key-points::6-compact-formal-summary::b1
+source: genesis-17\Key_Points.md

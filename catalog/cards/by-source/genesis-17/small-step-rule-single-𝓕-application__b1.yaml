@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Box
+- Σ
+- δ
+excerpt: δt=δ(Σt)⟨G,Σt⟩ → ⟨G, Σt+1⟩ ⟨G,Σ t
+heading: ⭐ SMALL-STEP RULE (Single 𝓕-Application)
+id: GEN17-4816
+lines: 9717-9757
+location: genesis-17/box-calculus::3-small-step-semantics-reduction-relation::small-step-rule-single-𝓕-application::b1
+parent_heading: 🔷 3\. Small-Step Semantics (Reduction Relation)
+source: genesis-17\box_calculus.md

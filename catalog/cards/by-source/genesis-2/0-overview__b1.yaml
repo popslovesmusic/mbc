@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- DGδ
+- Π
+- δ
+- δ-connections
+- δ-curvature
+- δ-modes
+excerpt: 'We construct a **projection functor** Π:DGδ⟶RG\\Pi : \\mathbf{DG}\_\\delta
+  \\longrightarrow \\mathbf{RG}Π:DGδ​⟶RG from your δ-geometry category (**DGδ**) to
+  the category of Riemannian manifolds and sm...'
+heading: '**0\. Overview**'
+id: GEN2-6499
+lines: 312-334
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::0-overview::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- δ
+- η
+- μ
+excerpt: 'If δ\\deltaδ is a monad (δ,η,μ)(\\delta,\\eta,\\mu)(δ,η,μ) or comonad (δ,ε,Δ)(\\delta,\\varepsilon,\\Delta)(δ,ε,Δ),
+  then the curvature satisfies a **categorical Bianchi identity**: δD(K)  +  K∘δ  +  (...'
+heading: '**Axiom DC7 — (Co)Monadic Bianchi Identity.**'
+id: GEN5-8045
+lines: 1601-1610
+location: genesis-5/formal-proof-of-the-adjoint-triple::the-deviational-curvature-functor-box-sealed-version::axiom-dc7-comonadic-bianchi-identity::b1
+parent_heading: '**▢ The Deviational Curvature Functor Box (Sealed Version)**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

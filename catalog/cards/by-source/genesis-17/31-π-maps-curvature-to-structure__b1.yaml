@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Π
+excerpt: 'Objects: X∈D↦Π(X)∈BX \\in \\mathcal{D} \\quad \\mapsto \\quad \\Pi(X) \\in
+  \\mathcal{B}X∈D↦Π(X)∈B Morphisms:'
+heading: '**3.1 Π maps curvature to structure**'
+id: GEN17-5053
+lines: 624-632
+location: genesis-17/mbc-schema-3::3-π-as-a-geometric-functor::31-π-maps-curvature-to-structure::b1
+parent_heading: '**3\. Π as a Geometric Functor**'
+source: genesis-17\MBC_Schema_3.md

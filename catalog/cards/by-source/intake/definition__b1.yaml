@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Deviation-Generated
+- Generated Subspace
+- Ψ
+- δ
+excerpt: 'The **Deviation-Generated Subspace** Hδ\\mathcal{H}\_\\deltaHδ​ is: Hδ:=span⁡{δnΨ0:n∈N0}.\\boxed{
+  \\mathcal{H}\_\\delta := \\operatorname{span} \\left\\{ \\delta^n\\Psi\_0 : n \\in
+  \\mathbb{N}\_0 \\ri...'
+heading: '**Definition.**'
+id: INTK-9947
+lines: 70-82
+location: intake/meta-genesis-mathematical-papers::3-definition-of-the-deviation-generated-subspace::definition::b1
+parent_heading: '**3\. Definition of the Deviation-Generated Subspace**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

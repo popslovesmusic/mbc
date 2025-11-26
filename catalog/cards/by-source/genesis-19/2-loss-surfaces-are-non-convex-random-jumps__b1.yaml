@@ -1,0 +1,9 @@
+block_type: paragraph
+concepts: []
+excerpt: 'Backprop tries to descend the loss surface, but the surface is full of:
+  * pits * cliffs'
+heading: 2\. Loss Surfaces Are Non-Convex → Random Jumps
+id: GEN19-6072
+lines: 670-680
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::2-loss-surfaces-are-non-convex-random-jumps::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md

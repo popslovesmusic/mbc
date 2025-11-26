@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: The δ-curvature is defined by Rδ(X,Y)Z≡∇Xδ∇YδZ−∇Yδ∇XδZ−∇\[X,Y\]δδZ.R\_\\delta(X,Y)Z
+  \\equiv \\nabla^\\delta\_X \\nabla^\\delta\_Y Z \- \\nabla^\\delta\_Y \\nabla^\\delta\_X
+  Z \- \\nabla^\\delta\_{\[X,...
+heading: '**Axiom 3.1 — δ-Curvature Tensor**'
+id: GEN2-6303
+lines: 122-136
+location: genesis-2/axioms-of-geometry-topos-compatible::3-deviational-curvature::axiom-31-δ-curvature-tensor::b1
+parent_heading: '**3\. Deviational Curvature**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

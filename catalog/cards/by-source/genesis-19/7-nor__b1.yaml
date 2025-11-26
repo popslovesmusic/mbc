@@ -1,0 +1,11 @@
+block_type: table
+concepts:
+- σ
+excerpt: \=sign⁡(−(σA+σB+0.5))= \\operatorname{sign}(-(\\sigma\_A+\\sigma\_B+0.5))=sign(−(σA​+σB​+0.5))
+  **Router parameters:** w1=w2=−1,  b=−0.5w\_1=w\_2=-1,\\; b=-0.5w1​=w2​=−1,b=−0.5
+heading: '**7\. NOR**'
+id: GEN19-5963
+lines: 1150-1162
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::ii-derived-operators::7-nor::b1
+parent_heading: '**II. Derived Operators**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

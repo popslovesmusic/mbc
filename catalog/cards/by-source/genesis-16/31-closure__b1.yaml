@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Σ
+excerpt: Σ1,Σ2∈V⇒Σ1⊕Σ2∈V\\Sigma\_1,\\Sigma\_2 \\in \\mathscr{V} \\quad\\Rightarrow\\quad
+  \\Sigma\_1\\oplus\\Sigma\_2 \\in \\mathscr{V}Σ1​,Σ2​∈V⇒Σ1​⊕Σ2​∈V
+heading: '**3.1 Closure**'
+id: GEN16-3801
+lines: 885-887
+location: genesis-16/untitled-document::3-algebraic-properties-of-the-mixing-law::31-closure::b1
+parent_heading: '**3\. Algebraic Properties of the Mixing Law**'
+source: genesis-16\Untitled_document.md

@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Adjacency Graph
+- Differentiable Manifold
+- Mode
+- Mode Metric
+- Smooth Metric Tensor
+- Topology Closure
+- δ
+excerpt: '`flowchart TD` `A["δ-Adjacency Graph (Qualitative)"]` `B["δ-Variation  Δδ  (Quantitative
+  on graph)"]`'
+heading: '**6\. Diagrammatic Overview**'
+id: GEN4-7912
+lines: 1807-1822
+location: genesis-4/the-first-adjacency::6-diagrammatic-overview::b1
+source: genesis-4\The_First_Adjacency.md

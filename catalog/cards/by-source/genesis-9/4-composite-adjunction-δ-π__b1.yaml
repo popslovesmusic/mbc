@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'Adjunctions compose: δ  ⊣  Φ  ⊣  Π⟹δ  ⊣  Π.\\delta \\;\\dashv\\; \\Phi \\;\\dashv\\;
+  \\Pi \\quad\\Longrightarrow\\quad \\delta \\;\\dashv\\; \\Pi.δ⊣Φ⊣Π⟹δ⊣Π. Thus Π is
+  the **right bi-adjoint** of δ.'
+heading: '**4\. Composite Adjunction: δ ⊣ Π**'
+id: GEN9-9096
+lines: 1074-1086
+location: genesis-9/axiom-box-the-harmonic-periodic-table-theorem::4-composite-adjunction-δ-π::b1
+source: genesis-9\AXIOM_BOX__The_-Harmonic_Periodic_Table_Theorem.md

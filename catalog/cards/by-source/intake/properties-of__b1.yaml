@@ -1,0 +1,16 @@
+block_type: list
+concepts:
+- Context-Dependence
+- Information Accumulation
+- Meta-Time
+- Non-Commutativity
+- Time Metric
+excerpt: 1.  **Irreversibility:** Once `ψ_actual(t)` is aggregated into `C(t)`, it
+  cannot be disaggregated without fundamentally altering the nature of the causal
+  past. This is the mathematical encoding of "hi...
+heading: Properties of `⊕`
+id: INTK-10281
+lines: 620-625
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::formal-definition::properties-of::b1
+parent_heading: Formal Definition
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

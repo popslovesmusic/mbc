@@ -1,0 +1,22 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Algebra
+- "Composition  \nJust"
+- Machine-Readable
+- Semantic Logic Gate Derivation
+- The Box Algebra
+- The Composition Diagram Stack
+- Θ
+- Π
+- Σ
+- Φ
+- δ
+excerpt: Composition in Box Algebra is the functorial δ→Φ→Θ→ΣΣₐ→Π pipeline, guaranteeing
+  that any two δ-compatible Boxes combine into a new Box with well-defined geometric,
+  semantic, polarity, aggregated, and ...
+heading: VI. Unified One-Sentence Summary
+id: GEN20-6596
+lines: 497-507
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::vi-unified-one-sentence-summary::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md

@@ -1,0 +1,12 @@
+block_type: table
+concepts:
+- alignment
+- semantic
+- Θ
+excerpt: '*(No numeric values, just relational rules)* This table is **semantic**,
+  not numeric: signs denote *alignment*, not truth values.'
+heading: '**XI. Canonical Polarity Truth Table (General Form)**'
+id: GEN18-5595
+lines: 2514-2530
+location: genesis-18/mbc-4::xi-canonical-polarity-truth-table-general-form::b1
+source: genesis-18\MBC-4.md

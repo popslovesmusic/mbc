@@ -1,0 +1,11 @@
+block_type: table
+concepts:
+- Formal Meaning
+- δ
+excerpt: 'The graph G does not change during reduction: Gt+1=Gt G'
+heading: 4\. Topology is immutable
+id: GEN17-4820
+lines: 9813-9831
+location: genesis-17/box-calculus::3-small-step-semantics-reduction-relation::side-conditions-mandatory-igsoa-constraints::4-topology-is-immutable::b1
+parent_heading: ⭐ Side Conditions (Mandatory IGSOA Constraints)
+source: genesis-17\box_calculus.md

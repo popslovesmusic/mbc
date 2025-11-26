@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Following Connes
+- Φ
+- α
+- δ
+- μ
+- ν
+excerpt: 'Following Connes’ NCG logic, a gauge field is an **inner derivation** of
+  the C\*-module: δα(A)=\[α,A\]A∈Aδ.\\delta\_\\alpha(A) \= \[\\alpha, A\] \\qquad
+  A \\in \\mathcal{A}\_\\delta.δα​(A)=\[α,A\]A∈Aδ...'
+heading: '**4\. Gauge Fields as Inner Derivations**'
+id: GEN9-9539
+lines: 1770-1790
+location: genesis-9/strong-force::4-gauge-fields-as-inner-derivations::b1
+source: genesis-9\strong-force.md

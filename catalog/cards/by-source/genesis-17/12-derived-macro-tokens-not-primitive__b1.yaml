@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Π
+- Σ
+- Φ
+- δ
+- ρ
+excerpt: 'Important: these appear in surface syntax only; they expand away. ---'
+heading: 1.2 Derived / Macro Tokens (Not Primitive)
+id: GEN17-4804
+lines: 9587-9599
+location: genesis-17/box-calculus::monistic-box-calculus-formal-syntax-grammar-v10::1-lexical-alphabet-tokens::12-derived-macro-tokens-not-primitive::b1
+parent_heading: 1\. Lexical Alphabet (Tokens)
+source: genesis-17\box_calculus.md

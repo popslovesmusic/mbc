@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts: []
+excerpt: 'P⊢Q  ⟺  ∃f:P→Q.\\boxed{ P \\vdash Q \\iff \\exists f: P \\to Q. }P⊢Q⟺∃f:P→Q.​
+  That is: **All proofs are arrows.**'
+heading: '**Standard Logic Conclusion**'
+id: GEN18-5785
+lines: 1807-1817
+location: genesis-18/sealed-axiom-box::conclusion-of-proof::standard-logic-conclusion::b1
+parent_heading: '**CONCLUSION OF PROOF**'
+source: genesis-18\SEALED_AXIOM_BOX.md

@@ -1,0 +1,21 @@
+block_type: table
+concepts:
+- Box
+- Box Calculus Category
+- Math Category
+- Meta-Math
+- Operator
+- Parallel Box
+- monoidal
+- Γ
+- Π
+- Σ
+- Ω
+- μ
+excerpt: 'Thus both categories are **monoidal**: (BC,⊗,IBC),(MM,⊗,IMM)(\\mathbf{BC},\\otimes,I\_{BC}),
+  \\qquad (\\mathbf{MM},\\otimes,I\_{MM})(BC,⊗,IBC​),(MM,⊗,IMM​) ---'
+heading: '**1\. Define the Two Categories**'
+id: GEN16-3987
+lines: 3085-3099
+location: genesis-16/untitled-document::1-define-the-two-categories::b1
+source: genesis-16\Untitled_document.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Time
+- Ψ
+- δ
+excerpt: 'Define the δ-connection as the map: ∇δ:Ψn↦Nδ(Ψn+1)\\nabla\_\\delta : \\Psi\_n
+  \\mapsto N\_\\delta(\\Psi\_{n+1})∇δ​:Ψn​↦Nδ​(Ψn+1​) which transports the δ-neighborhood
+  of each state forward along the Me...'
+heading: '**Definition (δ-Connection).**'
+id: GEN4-7895
+lines: 1413-1431
+location: genesis-4/the-first-adjacency::3-the-δ-connection::definition-δ-connection::b1
+parent_heading: '**3\. The δ-Connection**'
+source: genesis-4\The_First_Adjacency.md

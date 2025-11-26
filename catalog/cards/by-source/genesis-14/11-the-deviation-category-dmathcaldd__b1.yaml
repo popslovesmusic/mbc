@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Axiom
+- δ
+excerpt: 'Objects: non-zero asymmetry states (keys, entropy seeds, secret primes,
+  short vectors). Morphisms: structure-preserving transformations of secret state
+  (renormalizations, key-derivations). Important: ...'
+heading: '**1.1 The Deviation Category D\\mathcal{D}D**'
+id: GEN14-2885
+lines: 1380-1389
+location: genesis-14/meta-math-and-cryptography::1-category-setup::11-the-deviation-category-dmathcaldd::b1
+parent_heading: '**1\. Category Setup**'
+source: genesis-14\Meta-Math_and_Cryptography.md

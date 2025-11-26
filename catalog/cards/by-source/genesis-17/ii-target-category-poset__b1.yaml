@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Poset
+excerpt: 'Define **Poset** as the category of partially ordered sets: * **Objects:**
+  sets endowed with a partial order * **Morphisms:** monotonic (order-preserving)
+  maps'
+heading: '**II. Target Category: Poset**'
+id: GEN17-4985
+lines: 1520-1532
+location: genesis-17/key-points::ii-target-category-poset::b1
+source: genesis-17\Key_Points.md

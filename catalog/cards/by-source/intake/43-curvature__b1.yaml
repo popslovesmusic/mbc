@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Deviation can “curve” adjacency graphs: R(a)∝∑b∈N(a)δ2(a,b).\\mathcal{R}(a)
+  \\propto \\sum\_{b\\in N(a)}\\delta^2(a,b).R(a)∝b∈N(a)∑​δ2(a,b). Where N(a) is the
+  adjacency neighborhood.'
+heading: '**4.3 Curvature**'
+id: INTK-9874
+lines: 1524-1544
+location: intake/meta-genesis-core-papers-foundations::4-why-adjacency-is-foundational::43-curvature::b1
+parent_heading: '**4\. Why Adjacency Is Foundational**'
+source: intake\Meta-Genesis_Core_Papers_Foundations.md

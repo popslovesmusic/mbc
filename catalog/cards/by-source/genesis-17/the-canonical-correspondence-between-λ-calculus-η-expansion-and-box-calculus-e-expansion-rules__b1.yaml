@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+- η
+- λ
+excerpt: This is the most elegant equivalence so far, because η-long normal forms
+  in λ-calculus correspond exactly to the “maximally exposed” structure of a Box graph
+  where all latent operator structure has be...
+heading: (The canonical correspondence between λ-calculus η-expansion and Box Calculus
+  E-expansion rules)
+id: GEN17-4517
+lines: 5902-5914
+location: genesis-17/box-calculus::η-long-normal-forms-fully-expanded-box-graphs::the-canonical-correspondence-between-λ-calculus-η-expansion-and-box-calculus-e-expansion-rules::b1
+parent_heading: ⭐ η-LONG NORMAL FORMS ↔ FULLY EXPANDED BOX GRAPHS
+source: genesis-17\box_calculus.md

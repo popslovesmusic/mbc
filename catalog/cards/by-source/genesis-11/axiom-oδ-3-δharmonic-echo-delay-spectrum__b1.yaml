@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: Each δ-harmonic mode produces a distinct echo delay Δtn=2c∫x−x+dxveff(x,n),\\Delta
+  t\_n=\\frac{2}{c}\\int\_{x\_-}^{x\_+}\\frac{dx}{v\_{\\rm eff}(x,n)},Δtn​=c2​∫x−​x+​​veff​(x,n)dx​,
+  which forms the **...
+heading: '**Axiom Oδ-3 (δ–Harmonic Echo Delay Spectrum)**'
+id: GEN11-1071
+lines: 1175-1193
+location: genesis-11/how-curvature-could-generate-an-axis::the-δecho-observation-axiom::axiom-oδ-3-δharmonic-echo-delay-spectrum::b1
+parent_heading: '**The δ–Echo Observation Axiom**'
+source: genesis-11\How_-curvature_could_generate_an_Axis.md

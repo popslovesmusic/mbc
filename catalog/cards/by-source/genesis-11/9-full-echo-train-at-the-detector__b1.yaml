@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Your signal becomes: h(t)=h0(t)+∑n=1Nϵn h0(t−Δtn)h(t)=h\_0(t)+\\sum\_{n=1}^N
+  \\epsilon\_n \\, h\_0(t-\\Delta t\_n)h(t)=h0​(t)+n=1∑N​ϵn​h0​(t−Δtn​) Typical amplitudes:'
+heading: '**⭐ 9\. FULL ECHO TRAIN AT THE DETECTOR**'
+id: GEN11-1025
+lines: 549-559
+location: genesis-11/how-curvature-could-generate-an-axis::9-full-echo-train-at-the-detector::b1
+source: genesis-11\How_-curvature_could_generate_an_Axis.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Compatibility Lemma
+- Lemma
+- Φ
+- δ
+- σ
+excerpt: '**The canonical embedding functor: Φ \= Υ ∘ i** This is the one from the
+  **Compatibility Lemma**. Φ=Υ∘i\\Phi \= Υ \\circ iΦ=Υ∘i'
+heading: '**1.3 Φ : MG → Sh(σ)**'
+id: GEN2-6523
+lines: 707-722
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::1-the-meaning-of-each-arrow::13-φ-mg-shσ::b1
+parent_heading: '**1\. The Meaning of Each Arrow**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

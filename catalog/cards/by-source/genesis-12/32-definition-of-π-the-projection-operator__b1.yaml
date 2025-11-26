@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- how
+- projection
+- Π
+- Φ
+excerpt: 'Π is the functor that takes structured spectral information and produces
+  geometric relations. Formally: Π:Φ⟶Geom\\Pi : \\Phi \\longrightarrow \\mathsf{Geom}Π:Φ⟶Geom'
+heading: '**3.2 Definition of Π: The Projection Operator**'
+id: GEN12-1602
+lines: 1071-1093
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::3-φ-π-projection-to-geometry::32-definition-of-π-the-projection-operator::b1
+parent_heading: '**3\. Φ → Π (Projection to Geometry)**'
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md

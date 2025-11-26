@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Π
+- δ
+- μ
+- ν
+excerpt: '**Statement.** Under the functor Π\\PiΠ of Axiom 6: 1. Π(\[δ,δ\])=Rμν−12Rgμν\\Pi(\[\\delta,\\delta\])
+  \= R\_{\\mu\\nu} \- \\frac12 R g\_{\\mu\\nu}Π(\[δ,δ\])=Rμν​−21​Rgμν​.'
+heading: '**Theorem 5.1 — The Projection Functor Converts δ-Geometry Into GR.**'
+id: GEN1-583
+lines: 958-969
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::theorem-51-the-projection-functor-converts-δ-geometry-into-gr::b1
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: For an object Y∈MMY\\in MMY∈MM, UY=UnderlyingSheaf(Y)UY \= \\text{UnderlyingSheaf}(Y)UY=UnderlyingSheaf(Y)
+  \= forget all δ-actions, retain only scale-adjacency sheaf properties.
+heading: '**Definition of U.**'
+id: GEN5-7940
+lines: 83-91
+location: genesis-5/formal-proof-of-the-adjoint-triple::2-proof-that-lul-dashv-ulu::definition-of-u::b1
+parent_heading: '**2\. Proof that L⊣UL \\dashv UL⊣U**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

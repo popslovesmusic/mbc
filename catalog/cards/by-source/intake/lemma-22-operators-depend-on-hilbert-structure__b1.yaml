@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: 'Every linear operator requires: O:D(O)⊆H→H.\\mathcal{O}: D(\\mathcal{O})
+  \\subseteq \\mathcal{H} \\to \\mathcal{H}.O:D(O)⊆H→H. Since Ψ0∉H\\Psi\_0\\notin
+  \\mathcal{H}Ψ0​∈/H, we have:'
+heading: '**Lemma 2.2 (Operators depend on Hilbert structure).**'
+id: INTK-9966
+lines: 325-335
+location: intake/meta-genesis-mathematical-papers::2-functional-analytic-domain-exclusion::lemma-22-operators-depend-on-hilbert-structure::b1
+parent_heading: '**2\. Functional-Analytic Domain Exclusion**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

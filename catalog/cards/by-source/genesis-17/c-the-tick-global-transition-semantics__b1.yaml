@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Box
+- Box Calculus
+- Standard Formalism
+- Σ
+- Ω
+excerpt: You already wrote the desired form; we now make it clock-rigorous.
+heading: C) The Tick / Global Transition Semantics
+id: GEN17-4181
+lines: 395-404
+location: genesis-17/box-calculus::box-calculus-v02-closing-the-three-gaps::c-the-tick-global-transition-semantics::b1
+parent_heading: Box Calculus v0.2 — Closing the Three Gaps
+source: genesis-17\box_calculus.md

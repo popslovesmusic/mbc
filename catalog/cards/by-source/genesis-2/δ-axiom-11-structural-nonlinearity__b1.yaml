@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- not
+- δ
+excerpt: 'Deviation does **not** distribute linearly: δ(a+b)≠δa+δb.\\delta(a+b) \\neq
+  \\delta a \+ \\delta b.δ(a+b)=δa+δb. This bans superposition at the genesis level;
+  superposition only emerges in Math.'
+heading: '**δ-Axiom 11 — Structural Nonlinearity**'
+id: GEN2-6289
+lines: 1099-1115
+location: genesis-2/axioms-for-the-category-genesis::δ-axiom-11-structural-nonlinearity::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md

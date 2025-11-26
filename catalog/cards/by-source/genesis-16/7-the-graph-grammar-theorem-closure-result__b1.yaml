@@ -1,0 +1,17 @@
+block_type: table
+concepts:
+- Box
+- Standard Statement
+- Theorem
+- Π
+- Φ
+- ρ
+excerpt: '**Theorem (Termination-to-Π):** If WF(G)\\mathrm{WF}(\\mathcal{G})WF(G),
+  then every maximal path in G\\mathcal{G}G is of the form: w=E∗(A/ρR)∗Φ?Πw \= E^\*
+  (A/\\rho\\mathcal{R})^\* \\Phi? \\Piw=E∗(A/ρR...'
+heading: '**7\. The Graph Grammar Theorem (Closure Result)**'
+id: GEN16-3845
+lines: 1414-1427
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::7-the-graph-grammar-theorem-closure-result::b1
+parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
+source: genesis-16\Untitled_document.md

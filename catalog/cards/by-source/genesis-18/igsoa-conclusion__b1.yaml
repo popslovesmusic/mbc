@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'P⊢Q   ⟺   P⇝δQ.\\boxed{ P \\vdash Q \\ \\iff\\ P \\rightsquigarrow\_\\delta
+  Q. }P⊢Q ⟺ P⇝δ​Q.​ That is: **All reasoning is δ-adjacency.**'
+heading: '**IGSOA Conclusion**'
+id: GEN18-5784
+lines: 1797-1805
+location: genesis-18/sealed-axiom-box::conclusion-of-proof::igsoa-conclusion::b1
+parent_heading: '**CONCLUSION OF PROOF**'
+source: genesis-18\SEALED_AXIOM_BOX.md

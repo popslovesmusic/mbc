@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- δ
+- μ
+- ν
+excerpt: 'Define the **δ-spectral metric** between two pure states x,y∈Aδ\\\*x, y\\in
+  \\mathcal{A}\_\\delta^\\\*x,y∈Aδ\\\*​: dδ(x,y)=sup⁡f∈Aδ{∣x(f)−y(f)∣:∥\[Dδ,f\]∥≤1}d\_\\delta(x,y)
+  \= \\sup\_{f\\in \\mathcal{...'
+heading: '**2\. The Distance Formula (δ-Connes Metric)**'
+id: GEN8-8848
+lines: 1494-1512
+location: genesis-8/meta-time-geometry-and-temporal-projection::2-the-distance-formula-δ-connes-metric::b1
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- σ
+excerpt: A central component of MFDA is the **scale-covariant derivative (∇_σ)**.
+  This derivative describes how fields change as one moves across different scale
+  layers of the PPG.
+heading: '**4. Scale-Covariant Derivative (∇_σ)**'
+id: INTK-10252
+lines: 384-386
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::4-scale-covariant-derivative-σ::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

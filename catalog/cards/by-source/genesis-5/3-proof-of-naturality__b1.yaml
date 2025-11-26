@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: Take any f:X→X′f:X\\to X'f:X→X′ in MGMGMG. We want to show (Nat). Apply Φ−1\\Phi^{-1}Φ−1
+  to both sides of (Nat). Since Φ\\PhiΦ is a bijection, it’s enough to show their
+  images under Φ−1\\Phi^{-1}Φ−1 a...
+heading: '**3\. Proof of naturality**'
+id: GEN5-8004
+lines: 986-989
+location: genesis-5/formal-proof-of-the-adjoint-triple::7-coda-unity-does-not-mean-simplicity::3-proof-of-naturality::b1
+parent_heading: '**7\. Coda: Unity Does Not Mean Simplicity**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

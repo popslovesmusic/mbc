@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Λ
+- λ
+excerpt: Λ(T(λx.M))=Λ((T(M))Bx)=λx.Λ(T(M))=λx.M\\Lambda(\\mathcal{T}(\\lambda x.M))
+  \= \\Lambda((\\mathcal{T}(M))^{B\_x}) \= \\lambda x.\\Lambda(\\mathcal{T}(M)) \=
+  \\lambda x.MΛ(T(λx.M))=Λ((T(M))Bx​)=λx.Λ(T(M...
+heading: '**For abstraction:**'
+id: GEN16-4097
+lines: 4568-4570
+location: genesis-16/untitled-document::4-the-heart-of-the-equivalence::41-λ-box-λ-gives-the-same-λ-term::for-abstraction::b1
+parent_heading: '**4.1 λ → Box → λ gives the same λ-term**'
+source: genesis-16\Untitled_document.md

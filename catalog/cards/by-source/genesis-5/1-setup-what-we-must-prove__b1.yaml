@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- natural
+- η
+- σ
+excerpt: 'Let L:MG→MM,U:MM→σTopL: MG \\to MM,\\qquad U: MM \\to \\sigma TopL:MG→MM,U:MM→σTop
+  and suppose L⊣UL \\dashv UL⊣U with unit η\\etaη.'
+heading: '**1\. Setup: what we must prove**'
+id: GEN5-8002
+lines: 944-968
+location: genesis-5/formal-proof-of-the-adjoint-triple::7-coda-unity-does-not-mean-simplicity::1-setup-what-we-must-prove::b1
+parent_heading: '**7\. Coda: Unity Does Not Mean Simplicity**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

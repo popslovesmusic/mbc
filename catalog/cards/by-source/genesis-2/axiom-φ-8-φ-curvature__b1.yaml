@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: RΦ(X,Y)Z=∇XΦ∇YΦZ−∇YΦ∇XΦZ−∇\[X,Y\]ΦΦZ.R\_\\Phi(X,Y)Z \= \\nabla^\\Phi\_X\\nabla^\\Phi\_Y
+  Z \-\\nabla^\\Phi\_Y\\nabla^\\Phi\_X Z \-\\nabla^\\Phi\_{\[X,Y\]\_\\Phi}Z.RΦ​(X,Y)Z=∇XΦ​∇YΦ​Z−∇YΦ​∇XΦ​Z−∇\[X,Y\]...
+heading: '**Axiom (Φ-8) — Φ-Curvature**'
+id: GEN2-6426
+lines: 1508-1512
+location: genesis-2/axioms-of-geometry-topos-compatible::section-ii-φ-layer-action-flow-meta-math::axiom-φ-8-φ-curvature::b1
+parent_heading: '**Section II — Φ-Layer (Action-Flow / Meta-Math)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

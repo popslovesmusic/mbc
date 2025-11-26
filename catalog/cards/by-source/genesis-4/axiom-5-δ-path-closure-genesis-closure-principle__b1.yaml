@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'If Ψa\\Psi\_aΨa​ and Ψb\\Psi\_bΨb​ are connected by a finite δ-path: Ψa↔Ψi1↔⋯↔Ψb,\\Psi\_a
+  \\leftrightarrow \\Psi\_{i\_1} \\leftrightarrow \\cdots \\leftrightarrow \\Psi\_b,Ψa​↔Ψi1​​↔⋯↔Ψb​,
+  then:'
+heading: '**Axiom 5 — δ-Path Closure (Genesis Closure Principle)**'
+id: GEN4-7860
+lines: 842-860
+location: genesis-4/the-first-adjacency::axiom-5-δ-path-closure-genesis-closure-principle::b1
+source: genesis-4\The_First_Adjacency.md

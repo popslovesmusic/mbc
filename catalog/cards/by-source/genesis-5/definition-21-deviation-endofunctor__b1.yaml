@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+- η
+excerpt: 'A **deviation structure** on CCC is a pointed endofunctor δ:C→C,η:IdC⇒δ.\\delta
+  : C \\to C, \\qquad \\eta:\\mathrm{Id}\_C \\Rightarrow \\delta .δ:C→C,η:IdC​⇒δ.
+  * On objects: X↦δXX \\mapsto \\delta XX↦...'
+heading: '**Definition 2.1 (Deviation endofunctor)**'
+id: GEN5-8024
+lines: 1287-1303
+location: genesis-5/formal-proof-of-the-adjoint-triple::2-δ-as-a-pointed-endofunctor-the-first-deviation::definition-21-deviation-endofunctor::b1
+parent_heading: '**2\. δ as a pointed endofunctor (the “first deviation”)**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

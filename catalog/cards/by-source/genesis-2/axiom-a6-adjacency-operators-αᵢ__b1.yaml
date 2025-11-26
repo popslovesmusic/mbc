@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- α
+- σ
+excerpt: 'Each GkG\_kGk​ (k-adjacency Genesis state) admits automorphisms: αi:Gk→Gk(A.3.1)\\alpha\_i
+  : G\_k \\to G\_k \\tag{A.3.1}αi​:Gk​→Gk​(A.3.1) representing symmetry and adjacency
+  transformations.'
+heading: '**Axiom A6 (Adjacency Operators αᵢ).**'
+id: GEN2-6543
+lines: 1018-1032
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a3-emergent-adjacency::axiom-a6-adjacency-operators-αᵢ::b1
+parent_heading: '**A.3 Emergent Adjacency**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

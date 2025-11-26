@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+- σ
+excerpt: Each δ-object has a scale-indexed family Aσ(σ∈Σ)A\_\\sigma \\quad (\\sigma\\in\\Sigma)Aσ​(σ∈Σ)
+  with restriction morphisms satisfying internal sheaf (gluing) laws.
+heading: '**Axiom δ-6 — Scale-Stack (Internal Sheaf Structure)**'
+id: GEN2-6392
+lines: 1233-1241
+location: genesis-2/axioms-of-geometry-topos-compatible::δaxiom-box::axiom-δ-6-scale-stack-internal-sheaf-structure::b1
+parent_heading: '**δ–Axiom Box**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

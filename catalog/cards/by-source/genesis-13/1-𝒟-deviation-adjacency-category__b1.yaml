@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Objects: adjacency fields AAA, with δ-structure. Morphisms: adjacency-preserving
+  maps f:A→A′f: A\\to A''f:A→A′ satisfying: ∂δ′∘f=f∗(∂δ).\\partial\\delta'' \\circ
+  f \= f^\*(\\partial\\delta).∂δ′∘f=f∗(∂δ)...'
+heading: '**1\. 𝒟 — *Deviation / Adjacency Category***'
+id: GEN13-2321
+lines: 877-882
+location: genesis-13/the-weight-of-light::0-setup-the-three-categories::1-𝒟-deviation-adjacency-category::b1
+parent_heading: '**0\. Setup: the Three Categories**'
+source: genesis-13\The_Weight_of_Light.md

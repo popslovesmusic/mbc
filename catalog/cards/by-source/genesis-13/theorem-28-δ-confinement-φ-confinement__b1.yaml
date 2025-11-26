@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: T≠0⇒FΦ≠0.T\\neq 0 \\quad\\Rightarrow\\quad F\_\\Phi\\neq 0.T=0⇒FΦ​=0. Thus
+  confinement is preserved across δ→Φ. ---
+heading: '**Theorem 2.8 (δ-Confinement ⇒ Φ-Confinement).**'
+id: GEN13-2126
+lines: 1569-1575
+location: genesis-13/meta-math-nuclear-physics::2-φ-operator-algebra-as-qcd::theorem-28-δ-confinement-φ-confinement::b1
+parent_heading: '**2\. Φ-Operator Algebra as QCD**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

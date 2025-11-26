@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Causal Network
+excerpt: 'Describes entire causal structures: ⟨IGSOA⟩⇒Causal Network\\langle \\text{IGSOA}
+  \\rangle \\Rightarrow \\text{Causal Network}⟨IGSOA⟩⇒Causal Network'
+heading: '**Big-Step Semantics**'
+id: GEN17-5013
+lines: 130-134
+location: genesis-17/mbc-schema-3::7-operational-semantics::big-step-semantics::b1
+parent_heading: '**7\. Operational Semantics**'
+source: genesis-17\MBC_Schema_3.md

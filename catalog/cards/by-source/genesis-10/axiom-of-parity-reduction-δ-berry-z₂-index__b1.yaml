@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+- ν
+excerpt: 'Define: νδ=(∫ΣFδ/δ0) mod 2.\\boxed{ \\nu\_\\delta \= \\left( \\int\_\\Sigma
+  \\mathcal{F}\_\\delta/\\delta\_0 \\right) \\bmod 2\. }νδ​=(∫Σ​Fδ​/δ0​)mod2.​ This
+  is the **δ-Berry parity invariant**, the G...'
+heading: '**Axiom of Parity Reduction (δ-Berry Z₂ Index)**'
+id: GEN10-747
+lines: 944-952
+location: genesis-10/how-stillness-becomes-solid::the-δ-berry-connection-axiom::axiom-of-parity-reduction-δ-berry-z₂-index::b1
+parent_heading: '**The δ-Berry Connection Axiom**'
+source: genesis-10\How_Stillness_Becomes_Solid_.md

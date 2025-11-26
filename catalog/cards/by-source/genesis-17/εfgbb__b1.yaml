@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Meta-Math
+- Γ
+- Σ
+- Ω
+excerpt: 'Take any Box B=⟨Σ,Γ,Δ,Ω⟩ B=⟨Σ,Γ,Δ,Ω⟩:'
+heading: ε:F(G(B))→B
+id: GEN17-4410
+lines: 3640-3720
+location: genesis-17/box-calculus::5-construct-the-natural-isomorphisms::εfgbb::b1
+parent_heading: ⭐ 5\. Construct the Natural Isomorphisms
+source: genesis-17\box_calculus.md

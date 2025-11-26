@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Deviational Geometry
+- Thus General Relativity
+- δ
+- μ
+- ν
+- ρ
+- σ
+excerpt: 'Let π:H→M\\pi: \\mathcal{H} \\to \\mathcal{M}π:H→M be the projection from
+  deviational space to classical spacetime. Then: π∗(gμν)=gδ,\\pi^\*(g\_{\\mu\\nu})
+  \= g\_\\delta,π∗(gμν​)=gδ​, π∗(δ)=∂t,\\pi\_\...'
+heading: '**Axiom 9 — Projection to Classical Geometry**'
+id: INTK-9657
+lines: 142-151
+location: intake/axioms-geometry::axiom-9-projection-to-classical-geometry::b1
+source: intake\Axioms-geometry.md

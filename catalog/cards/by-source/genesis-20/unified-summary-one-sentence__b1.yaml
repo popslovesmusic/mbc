@@ -1,0 +1,21 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Algebra
+- Box Calculus
+- Semantic Logic Gate Theorem
+- The Box Algebra Composition Theorem
+- Theorem
+- Θ
+- Π
+- Σ
+- Φ
+- δ
+excerpt: Box Algebra is the closed algebra of δ-generated Boxes, with operators {E,
+  A, δ, Φ, Π, Θ, ΣΣₐ} defining lawful transformations; Box Calculus is the procedural
+  system built on this algebra to perform r...
+heading: Unified Summary (One Sentence)
+id: GEN20-6584
+lines: 261-273
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::unified-summary-one-sentence::b1
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md

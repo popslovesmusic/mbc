@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: 'Any object in a topos must admit the identity morphism\*\* In any topos
+  (indeed, in any category), every object X must have: id⁡X∈Hom(X,X).(2)\\operatorname{id}\_X
+  \\in \\text{Hom}(X, X). \\tag{2}idX​...'
+heading: '**\*\*II. Lemma 1**'
+id: GEN1-500
+lines: 1287-1311
+location: genesis-1/the-foundation-layer::ii-lemma-1::b1
+source: genesis-1\THE_FOUNDATION_LAYER.md

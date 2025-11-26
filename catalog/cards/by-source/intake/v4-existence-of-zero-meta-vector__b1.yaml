@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: There exists a `vec{0} ∈ S_Ψ` such that for all `V ∈ S_Ψ`, `V ⊞ vec{0} =
+  V`.
+heading: 'V.4 Existence of Zero Meta-Vector:'
+id: INTK-10355
+lines: 1010-1011
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::properties-and-axioms-generalized::v4-existence-of-zero-meta-vector::b1
+parent_heading: Properties and Axioms (Generalized)
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

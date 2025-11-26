@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Γ
+- δ
+excerpt: 'Define the δ-connection on the adjacency graph AAA: ∇δ=d+Γδ,\\nabla\_\\delta
+  \= d \+ \\Gamma\_\\delta,∇δ​=d+Γδ​, where Γδ\\Gamma\_\\deltaΓδ​ encodes the local
+  deviation structure.'
+heading: '**1.1 Deviational Connection**'
+id: GEN10-706
+lines: 445-451
+location: genesis-10/how-stillness-becomes-solid::1-δ-geometry-curvature-parity-on-adjacency-space::11-deviational-connection::b1
+parent_heading: '**1\. δ-Geometry: Curvature Parity on Adjacency Space**'
+source: genesis-10\How_Stillness_Becomes_Solid_.md

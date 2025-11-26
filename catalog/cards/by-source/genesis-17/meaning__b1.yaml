@@ -1,0 +1,13 @@
+block_type: list
+concepts:
+- Box
+- Π
+- Φ
+excerpt: '* Φ gives the “finest curvature field.” * Π gives the “coarsest structured
+  Box” consistent with Φ. Formally:'
+heading: '**Meaning**'
+id: GEN17-5062
+lines: 728-750
+location: genesis-17/mbc-schema-3::6-the-mbc-adjoint-triple::62-φ-π-right-adjoint::meaning::b1
+parent_heading: '**6.2 Φ ⊣ Π (Right Adjoint)**'
+source: genesis-17\MBC_Schema_3.md

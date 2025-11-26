@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- γ
+- δ
+- ω
+excerpt: 'Define the **δ-Dirac operator** (deviation-modified Dirac operator): Dδ:=γi(∂i+ωi+Δωi(δ))\\mathcal{D}\_\\delta
+  := \\gamma^i \\left( \\partial\_i \+ \\omega\_i \+ \\Delta \\omega\_i(\\delta) \\right)Dδ...'
+heading: '**I. Setup: The δ-Dirac Operator**'
+id: GEN7-8675
+lines: 736-752
+location: genesis-7/why-curvature-gives-gravity::i-setup-the-δ-dirac-operator::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

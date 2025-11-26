@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- laws
+- Ψ
+- δ
+excerpt: 'Deviation must close under composition: δ∘δ∈End(Ψ1).\\delta \\circ \\delta
+  \\in \\text{End}(\\Psi\_1).δ∘δ∈End(Ψ1​). Patterns that do not close are unstable
+  and return to Ψ₀.'
+heading: '**Axiom 3 — Deviational Closure (Operator Stability)**'
+id: GEN7-8470
+lines: 449-460
+location: genesis-7/the-complete-eft-lagrangian::the-δ-eft-axiom-box-sealed::axiom-3-deviational-closure-operator-stability::b1
+parent_heading: '**🔶 THE δ-EFT AXIOM BOX (SEALED)**'
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

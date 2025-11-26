@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Ψ
+excerpt: 'If Ψ has no operator: Dom⁡(O)=∅,\\operatorname{Dom}(\\mathcal{O})=\\emptyset,Dom(O)=∅,
+  then no selection rule exists to enforce invariance:'
+heading: '**Lemma 2.2 (No Operator → No Selection Rule).**'
+id: INTK-10089
+lines: 273-287
+location: intake/meta-genesis-physical-interpretation-papers::2-instability-of-perfect-symmetry::lemma-22-no-operator-no-selection-rule::b1
+parent_heading: '**2\. Instability of Perfect Symmetry**'
+source: intake\Meta-Genesis_Physical_Interpretation_Papers.md

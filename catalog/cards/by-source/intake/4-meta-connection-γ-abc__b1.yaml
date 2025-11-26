@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Meta-Metric
+- δ
+excerpt: Describes how deviation-vectors (δ-forms) are parallel transported across
+  the PPG. It is uniquely determined by the Meta-Metric and defines how "paths" are
+  curved in this space.
+heading: 4. Meta-Connection (Γ_ABC)
+id: INTK-10533
+lines: 2035-2036
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-geometry::core-concepts::4-meta-connection-γ-abc::b1
+parent_heading: Core Concepts
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Ciphertext Layer
+- Layer
+- One-Way
+- Public Key
+- Way Algebraic Transformation
+- Π
+- Φ
+- δ
+excerpt: '`δ-secret primes (p, q)` `│` `▼`'
+heading: '**3\. RSA DIAGRAM STACK (Public-Key Cryptography)**'
+id: GEN14-2850
+lines: 858-873
+location: genesis-14/meta-math-and-cryptography::3-rsa-diagram-stack-public-key-cryptography::b1
+source: genesis-14\Meta-Math_and_Cryptography.md

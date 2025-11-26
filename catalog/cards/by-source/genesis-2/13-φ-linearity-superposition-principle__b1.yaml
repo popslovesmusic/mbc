@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: P(Φ(f+g))=P(Φ(f))+P(Φ(g))\\mathcal{P}(\\Phi(f+g)) \= \\mathcal{P}(\\Phi(f))+\\mathcal{P}(\\Phi(g))P(Φ(f+g))=P(Φ(f))+P(Φ(g))
+  This is the mathematical origin of linear wave equations and physical superp...
+heading: '**1.3 Φ-Linearity → Superposition Principle**'
+id: GEN2-6367
+lines: 915-921
+location: genesis-2/axioms-of-geometry-topos-compatible::1-operator-level-mapping::13-φ-linearity-superposition-principle::b1
+parent_heading: '**1\. Operator-Level Mapping**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

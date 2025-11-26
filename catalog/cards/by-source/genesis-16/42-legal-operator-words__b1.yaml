@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts: []
+excerpt: We define legality by a grammar G\\mathfrak{G}G. w legal  ⟺  w∈L(G)\\boxed{
+  w\\ \\text{legal} \\iff w \\in L(\\mathfrak{G}) }w legal⟺w∈L(G)​ ---
+heading: '**4.2 Legal Operator Words**'
+id: GEN16-3837
+lines: 1280-1286
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::4-operator-well-formedness-sequence-grammar::42-legal-operator-words::b1
+parent_heading: '**4\. Operator-Well-Formedness (Sequence Grammar)**'
+source: genesis-16\Untitled_document.md

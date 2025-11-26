@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- γ
+- δ
+- λ
+- μ
+excerpt: 'Summing contributions: (Mδ2)mn=μδ2δmn⏟quadratic+λδvδ2(δmn+2u(m)u(n))⏟quartic+γΞmn⏟adjacency(M\_\\delta^2)\_{mn}
+  \= \\underbrace{ \\mu\_\\delta^2 \\delta\_{mn} }\_{\\text{quadratic}} \+ \\underbrace{
+  \...'
+heading: '**II. Assemble the full Hessian**'
+id: GEN0-117
+lines: 1716-1738
+location: genesis-0/feynman-rules-interaction-vertices::ii-assemble-the-full-hessian::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

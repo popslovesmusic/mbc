@@ -1,0 +1,11 @@
+block_type: table
+concepts: []
+excerpt: WF(G)  ⟺  TypeWF(G)∧OpWF(G)∧CycleWF(G)\\boxed{ \\mathrm{WF}(\\mathcal{G})
+  \\iff \\mathrm{TypeWF}(\\mathcal{G}) \\wedge \\mathrm{OpWF}(\\mathcal{G}) \\wedge
+  \\mathrm{CycleWF}(\\mathcal{G}) }WF(G)⟺TypeW...
+heading: '**2\. Well-Formedness Predicate**'
+id: GEN16-3833
+lines: 1240-1250
+location: genesis-16/untitled-document::graph-grammar-for-box-calculus-topology-legal-wiring::2-well-formedness-predicate::b1
+parent_heading: '**⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)**'
+source: genesis-16\Untitled_document.md

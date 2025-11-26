@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Deviational Geometry
+- Φ
+- δ
+- μ
+excerpt: There exists a functional Sδ\[Φ\]=∫MLδ(Φ,δΦ,gδ) dμδS\_\\delta\[\\Phi\] \=
+  \\int\_{\\mathcal{M}} \\mathcal{L}\_\\delta(\\Phi, \\delta \\Phi, g\_\\delta)\\,
+  d\\mu\_\\deltaSδ​\[Φ\]=∫M​Lδ​(Φ,δΦ,gδ​)dμδ​ s...
+heading: '**Axiom 8 — Deviational Action Principle**'
+id: INTK-9656
+lines: 128-140
+location: intake/axioms-geometry::axiom-8-deviational-action-principle::b1
+source: intake\Axioms-geometry.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Lagrangian
+- δ
+- λ
+excerpt: Arises from the cubic term of the Meta-Lagrangian L⊃λnmk δ(n)δ(m)δ(k)\\mathcal{L}\\supset
+  \\lambda\_{nmk}\\,\\delta^{(n)}\\delta^{(m)}\\delta^{(k)}L⊃λnmk​δ(n)δ(m)δ(k) **Feynman
+  rule:**
+heading: '**δδδ Interaction (cubic vertex)**'
+id: GEN0-004
+lines: 46-59
+location: genesis-0/feynman-rules-interaction-vertices::2-fundamental-δ-interaction-vertices::a-the-pure-deviation-3-vertex::δδδ-interaction-cubic-vertex::b1
+parent_heading: '**(A) The Pure-Deviation 3-Vertex**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

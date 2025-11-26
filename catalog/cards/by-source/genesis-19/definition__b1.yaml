@@ -1,0 +1,13 @@
+block_type: table
+concepts:
+- Θ
+- δ
+excerpt: R^{i}\_{j} \= \\delta^{i}\_{j} \+ w\_\\Theta K^{i}\_{j} \\\] | Router tensor
+  that perturbs polarity according to δ-metadata (confidence, adjacency, semantic
+  load). | | \\(K^{i}\_{j}\\) \= polarity-shi...
+heading: '**Definition**'
+id: GEN19-5846
+lines: 338-347
+location: genesis-19/mbc-4-1::7-θ-routing-tensor-meta-data-weight-tensor::definition::b1
+parent_heading: '**7\. Θ-Routing Tensor (Meta-Data Weight Tensor)**'
+source: genesis-19\MBC-4_1.md

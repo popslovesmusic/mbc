@@ -1,0 +1,21 @@
+block_type: table
+concepts:
+- Operator
+- Γ
+- Θ
+- Λ
+- Π
+- Σ
+- Φ
+- Ψ
+- Ψ-Synthesize
+- Ω
+- δ
+excerpt: '**Cross-reference:** These directly support your agent workflows and will
+  plug into your RAG/memory system. ---'
+heading: '**4\. Semantic Workflow Operators (Agent-layer, MBC-4.0)**'
+id: GEN18-5358
+lines: 67-81
+location: genesis-18/mbc-4::mbc-40-semantic-operator-table::4-semantic-workflow-operators-agent-layer-mbc-40::b1
+parent_heading: '**MBC-4.0 Semantic Operator Table**'
+source: genesis-18\MBC-4.md

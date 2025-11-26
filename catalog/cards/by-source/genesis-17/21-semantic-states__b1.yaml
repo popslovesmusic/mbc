@@ -1,0 +1,24 @@
+block_type: table
+concepts:
+- Axiom
+- Boundary Typing Judgment
+- Box
+- Box Objects
+- Curvature Terms
+- Derivation Well
+- Derived Surface Syntax
+- Formedness Judgments
+- Graph Objects
+- Graph Well
+- Halting Syntax
+- Layer
+- Macro Layer
+- Normal Form
+- Single-Step
+excerpt: but again, Π is sugar. ---
+heading: 2.1 Semantic States
+id: GEN17-4806
+lines: 9606-9615
+location: genesis-17/box-calculus::monistic-box-calculus-formal-syntax-grammar-v10::2-abstract-syntax-bnf-production-rules::21-semantic-states::b1
+parent_heading: 2\. Abstract Syntax (BNF / Production Rules)
+source: genesis-17\box_calculus.md

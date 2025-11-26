@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- σ
+excerpt: σ-Topos has exponentials, but Φ(MG-objects) land in a subcategory where exponentials
+  are not required. This is standard in embedding small cartesian categories inside
+  a topos. Thus MG embeds consisten...
+heading: '**(3) MG has no exponentials.**'
+id: GEN2-6493
+lines: 256-263
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::5-proof::56-no-contradiction::3-mg-has-no-exponentials::b1
+parent_heading: '**5.6 No Contradiction**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

@@ -1,0 +1,21 @@
+block_type: list
+concepts:
+- Axiom
+- Box
+- Federated Execution Engine Spec
+- Federated Geometry Axiom Box
+- Federated Meta
+- Federated Reasoning Diagram Stack
+- Meta-Category
+- Π
+- Φ
+- δ
+excerpt: 1. Federated Geometry Axiom Box (sealed) 2. Federated Reasoning Diagram Stack
+  (δ→Φ→Π across agents) 3. Federated Meta-Category (2-category with Π as terminal
+  2-functor)
+heading: Options
+id: GEN20-6657
+lines: 1190-1198
+location: genesis-20/definition-box-algebra-its-role-in-box-calculus-dual-column::unified-one-sentence-summary::options::b1
+parent_heading: Unified One-Sentence Summary
+source: genesis-20\Definition__Box_Algebra__Its_Role_in_Box_Calculus_Dual-Column.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'In any slice category **𝒯/A**, δ acts as an internal derivation: δ(f+g)=δf+δg,δ(cf)=c δf\\delta(f+g)
+  \= \\delta f \+ \\delta g,\\qquad \\delta (c f) \= c \\, \\delta fδ(f+g)=δf+δg,δ(cf)=cδf
+  for all in...'
+heading: '**Axiom 2.1 — δ-Linearity (Internal)**'
+id: GEN2-6300
+lines: 78-86
+location: genesis-2/axioms-of-geometry-topos-compatible::2-deviational-algebra-δ-as-an-internal-operator::axiom-21-δ-linearity-internal::b1
+parent_heading: '**2\. Deviational Algebra (δ as an Internal Operator)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

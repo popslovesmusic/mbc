@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Θ
+excerpt: Θ(B)=sign⁡(wTx\~).\\Theta(B) \= \\operatorname{sign}(w^T \\tilde x).Θ(B)=sign(wTx\~).
+heading: '**Step 3\. Π is a sign classifier**'
+id: GEN19-5939
+lines: 885-887
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-b-standard-logic-proof::step-3-π-is-a-sign-classifier::b1
+parent_heading: '**III-B. Standard Logic Proof**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

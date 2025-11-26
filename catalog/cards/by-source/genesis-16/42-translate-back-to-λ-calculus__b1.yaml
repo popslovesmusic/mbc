@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- Full-Expand
+- Γ
+- Λ
+- η
+- λ
+excerpt: 'Using Λ\\LambdaΛ: * fully exposed operator graph ↦ λ-term with full explicit
+  application * full boundary Γ ↦ full λ-abstraction list'
+heading: '**4.2 Translate back to λ-calculus**'
+id: GEN16-4116
+lines: 4827-4849
+location: genesis-16/untitled-document::4-proof-fully-expanded-box-graph-η-long-normal-form::42-translate-back-to-λ-calculus::b1
+parent_heading: '**⭐ 4\. PROOF: FULLY EXPANDED BOX GRAPH → η-LONG NORMAL FORM**'
+source: genesis-16\Untitled_document.md

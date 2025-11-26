@@ -1,0 +1,21 @@
+block_type: paragraph
+concepts:
+- Adjoint Triple
+- Axiom
+- Curvature Axiom
+- Metric Axiom
+- Trace Axiom
+- Tri-Unity
+- Π
+- Φ
+- δ
+- μ
+- ν
+excerpt: 'This theorem assumes only the following axioms already present in your framework:
+  1. **(δ-Curvature Axiom)** The deviation operator δ generates torsion-type curvature'
+heading: '**Sealed Axiom Context (minimal prerequisites)**'
+id: GEN15-3087
+lines: 8-30
+location: genesis-15/the-mass-curvature-projection-theorem::the-mass-curvature-projection-theorem::sealed-axiom-context-minimal-prerequisites::b1
+parent_heading: '**The Mass \= Curvature Projection Theorem ⟡**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

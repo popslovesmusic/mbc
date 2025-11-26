@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- unidirectional
+- Φ
+excerpt: 'Φ is *unidirectional* if **no right adjoint exists**: Φ⊣Gwith G right adjointΦ
+  \\dashv G \\quad\\text{with } G \\text{ right adjoint}Φ⊣Gwith G right adjoint and
+  also **no natural Φ⁻¹ exists**:'
+heading: '**Definition 1\. (Unidirectional Functor)**'
+id: GEN14-2887
+lines: 1412-1424
+location: genesis-14/meta-math-and-cryptography::1-category-setup::12-the-transformation-category-tmathcaltt::definition-1-unidirectional-functor::b1
+parent_heading: '**1.2 The Transformation Category T\\mathcal{T}T**'
+source: genesis-14\Meta-Math_and_Cryptography.md

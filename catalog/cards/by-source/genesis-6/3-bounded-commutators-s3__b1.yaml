@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'For a ∈ 𝒜δ: \[Dδ,P(δ)\]=(∂δP)(δ)\[\\mathcal{D}\_{\\delta}, P(\\delta)\]
+  \= (\\partial\_{\\delta} P)(\\delta)\[Dδ​,P(δ)\]=(∂δ​P)(δ) which is again a polynomial
+  in δ — hence bounded.'
+heading: '**(3) Bounded Commutators (S3)**'
+id: GEN6-8275
+lines: 202-210
+location: genesis-6/spectral-triple-axiom-box-sealed-version::3-bounded-commutators-s3::b1
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

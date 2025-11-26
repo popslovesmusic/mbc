@@ -1,0 +1,10 @@
+block_type: table
+concepts:
+- Θ
+excerpt: 'Using polarity encoding: * \+1≡True / Θ++1 \\equiv \\text{True / Θ}^++1≡True
+  / Θ+ * −1≡False / Θ−-1 \\equiv \\text{False / Θ}^-−1≡False / Θ−'
+heading: '**III. Universal Table (𝛉-logic truth table)**'
+id: GEN19-5965
+lines: 1180-1199
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-universal-table-𝛉-logic-truth-table::b1
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

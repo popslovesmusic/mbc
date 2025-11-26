@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Γ
+- α
+- δ
+- μ
+- ν
+excerpt: 'Define δ-curvature: Rμν(δ)=∇μ∇νδ−Γμνα∂αδ.\\mathcal{R}\_{\\mu\\nu}(\\delta)
+  \= \\nabla\_\\mu\\nabla\_\\nu \\delta \- \\Gamma^\\alpha\_{\\mu\\nu}\\partial\_\\alpha\\delta.Rμν​(δ)=∇μ​∇ν​δ−Γμνα​∂α​δ.'
+heading: '**Part III: Deviational Geometry Proof**'
+id: GEN7-8493
+lines: 776-780
+location: genesis-7/the-complete-eft-lagrangian::part-iii-deviational-geometry-proof::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

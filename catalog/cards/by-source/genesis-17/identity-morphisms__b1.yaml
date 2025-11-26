@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Box
+excerpt: '`id_B : B → B` represents trivial dependency (“a Box depends on itself for
+  its identity”). **𝓑 is a small category.**'
+heading: '**Identity Morphisms:**'
+id: GEN17-4984
+lines: 1510-1518
+location: genesis-17/key-points::i-underlying-categories::1-the-category-of-boxes-𝓑::identity-morphisms::b1
+parent_heading: '**1\. The Category of Boxes: 𝓑**'
+source: genesis-17\Key_Points.md

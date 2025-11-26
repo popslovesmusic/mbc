@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: For each δ-harmonic, κn:=Π(Φ(hn(∗)))\\kappa\_n := \\Pi(\\Phi(h\_n^{(\*)}))κn​:=Π(Φ(hn(∗)​))
+  has variance
+heading: '**(IV) δ→Φ→Π Mapping Implies κₙ Variance \= |hₙ|²**'
+id: GEN14-2775
+lines: 2009-2021
+location: genesis-14/inflation-structure-formation::theorem-inflationstructure-cascade-theorem::iv-δφπ-mapping-implies-κₙ-variance-hₙ²::b1
+parent_heading: '**Theorem (Inflation–Structure Cascade Theorem)**'
+source: genesis-14\Inflation__Structure_Formation.md

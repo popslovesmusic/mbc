@@ -1,0 +1,13 @@
+block_type: table
+concepts:
+- Θ
+- η
+- σ
+excerpt: 'We define: ΘX=χLX∘R(ηX)\\Theta\_X \= \\chi\_{LX} \\circ R(\\eta\_X)ΘX​=χLX​∘R(ηX​)
+  Diagrammatically:'
+heading: '**Step 3 — Compose natural transformations**'
+id: GEN4-7770
+lines: 908-935
+location: genesis-4/the-adjoint-triple::3-formal-proof-sketch::step-3-compose-natural-transformations::b1
+parent_heading: '**3\. Formal Proof Sketch**'
+source: genesis-4\The_Adjoint_Triple.md

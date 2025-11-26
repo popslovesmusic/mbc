@@ -1,0 +1,12 @@
+block_type: table
+concepts:
+- Box
+- Standard Meaning
+- Σ
+excerpt: '`Box = { Σ, ∂Box, Ops, Meta, Adj }` ---'
+heading: '**4.1 A Box Has a Formal Signature**'
+id: INTK-9710
+lines: 54-66
+location: intake/box-calculus-technical-introduction-dual-column-cross-referenced::box-calculus-technical-introduction-dual-column-cross-referenced::4-box-syntax-and-semantics::41-a-box-has-a-formal-signature::b1
+parent_heading: '**4\. Box Syntax and Semantics**'
+source: intake\BOX_CALCULUS__TECHNICAL_INTRODUCTION_DUAL-COLUMN_CROSS-REFERENCED.md

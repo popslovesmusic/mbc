@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+- Σ
+excerpt: 'We treat Box Calculus as a monoidal category: * Objects: semantic states
+  Σ * Morphisms: Box operators'
+heading: ⭐ 1\. FORMAL SETUP
+id: GEN17-4420
+lines: 3867-3884
+location: genesis-17/box-calculus::1-formal-setup::b1
+source: genesis-17\box_calculus.md

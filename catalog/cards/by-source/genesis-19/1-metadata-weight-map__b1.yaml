@@ -1,0 +1,17 @@
+block_type: table
+concepts:
+- multiplicative
+- positive
+- tilts
+- Θ
+- α
+- δ
+excerpt: '**Equation (Θ-weight):** wi  =  exp⁡(α⋅mi)w\_i \\;=\\; \\exp(\\alpha \\cdot
+  m\_i)wi​=exp(α⋅mi​) * α⋅mi \\alpha \\cdot m\_iα⋅mi​ is the **metadata-polarity inner
+  product**.'
+heading: '**1\. Metadata → Weight Map**'
+id: GEN19-5885
+lines: 178-196
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::1-metadata-weight-map::b1
+parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

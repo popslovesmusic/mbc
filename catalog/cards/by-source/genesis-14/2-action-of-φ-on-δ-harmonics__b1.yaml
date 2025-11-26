@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- α
+- δ
+excerpt: 'By definition, Φ is a smoothing/locking functor minimizing δ-curvature:
+  Φ(hn)(t)=a(t)−2hn(t).\\Phi(h\_n)(t) \= a(t)^{-2} h\_n(t).Φ(hn​)(t)=a(t)−2hn​(t).
+  Insert the time dependence:'
+heading: '**2\. Action of Φ on δ-Harmonics**'
+id: GEN14-2693
+lines: 681-689
+location: genesis-14/inflation-structure-formation::proof-2-igsoa-only-φ-mode-freeze-out-from-δ-harmonic-expansion::proof::2-action-of-φ-on-δ-harmonics::b1
+parent_heading: '**Proof**'
+source: genesis-14\Inflation__Structure_Formation.md

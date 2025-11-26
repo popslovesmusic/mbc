@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Non-invertibility
+- exactly
+- Φ
+- δ
+- σ
+excerpt: 'For all objects X∈MGX \\in MGX∈MG, there exists a morphism: δX:X→δX(A.2.1)\\delta\_X
+  : X \\to \\delta X \\tag{A.2.1}δX​:X→δX(A.2.1) which satisfies:'
+heading: '**Axiom A4 (δ-Generation).**'
+id: GEN2-6541
+lines: 974-996
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a2-deviational-structure::axiom-a4-δ-generation::b1
+parent_heading: '**A.2 Deviational Structure**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

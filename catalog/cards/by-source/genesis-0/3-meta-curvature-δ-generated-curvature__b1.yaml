@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Meta-Curvature
+- Not Riemann
+- Γ
+- δ
+excerpt: 'The commutator of δ-covariant derivatives defines **Meta-Curvature**: Rabmn=\[∇a(δ), ∇b(δ)\]mn\\boxed{
+  \\mathcal{R}\_{ab}{}^{m}{}\_{n} \= \\left\[\\nabla^{(\\delta)}\_a,\\, \\nabla^{(\\delta)}\_b\\rig...'
+heading: '**3\. Meta-Curvature (δ-generated curvature)**'
+id: GEN0-041
+lines: 526-539
+location: genesis-0/feynman-rules-interaction-vertices::3-meta-curvature-δ-generated-curvature::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- ω
+excerpt: 'For the Φ-spectrum Φn\\Phi\_nΦn​, Π(Φn)=(nℏω,j,ℓ,shell occupancy).\\Pi(\\Phi\_n)
+  \= (n\\hbar\\omega, j, \\ell, \\text{shell occupancy}).Π(Φn​)=(nℏω,j,ℓ,shell occupancy).
+  This reproduces:'
+heading: '**Theorem 3.3 (Nuclear Shell Model via Π-Projection).**'
+id: GEN13-2075
+lines: 914-930
+location: genesis-13/meta-math-nuclear-physics::3-the-π-layer-real-nuclear-physics::theorem-33-nuclear-shell-model-via-π-projection::b1
+parent_heading: '**3\. The Π-Layer: Real Nuclear Physics**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

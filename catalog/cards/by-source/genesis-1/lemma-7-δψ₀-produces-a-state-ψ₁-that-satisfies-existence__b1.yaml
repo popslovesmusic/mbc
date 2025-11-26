@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Box
+- Ψ
+- δ
+excerpt: '**Proof:** By definition: Ψ1:=δΨ0.\\Psi\_1 := \\delta\\Psi\_0.Ψ1​:=δΨ0​.'
+heading: '**Lemma 7 (δΨ₀ Produces a State Ψ₁ That Satisfies Existence).**'
+id: GEN1-492
+lines: 1157-1181
+location: genesis-1/the-foundation-layer::ii-lemmas-leading-to-the-theorem::lemma-7-δψ₀-produces-a-state-ψ₁-that-satisfies-existence::b1
+parent_heading: '**II. Lemmas Leading to the Theorem**'
+source: genesis-1\THE_FOUNDATION_LAYER.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- unique
+- Ψ
+- δ
+excerpt: 'A topology T\\mathcal{T}T is induced on A={Ψn}\\mathcal{A} \= \\{\\Psi\_n\\}A={Ψn​}
+  by declaring: U⊆A is open   ⟺  ∀Ψn∈U, Nδ(Ψn)⊆U.U \\subseteq \\mathcal{A} \\text{
+  is open } \\iff \\forall \\Psi\_n \...'
+heading: '**Axiom 7 — Alexandrov Induction (Adjacency ⇒ Topology Axiom)**'
+id: GEN4-7862
+lines: 880-888
+location: genesis-4/the-first-adjacency::axiom-7-alexandrov-induction-adjacency-topology-axiom::b1
+source: genesis-4\The_First_Adjacency.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Closure Under Deviation
+- Genesis Closure Principle
+- Ψ
+- δ
+excerpt: '**Axiom G10 — Closure Under Deviation** Genesis is closed under formation
+  of deviation-derived objects: Ψn⇒δΨn⇒Ψn+1.\\Psi\_n \\Rightarrow \\delta\\Psi\_n
+  \\Rightarrow \\Psi\_{n+1}.Ψn​⇒δΨn​⇒Ψn+1​.'
+heading: '**8\. Genesis Closure**'
+id: GEN2-6235
+lines: 154-165
+location: genesis-2/axioms-for-the-category-genesis::8-genesis-closure::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md

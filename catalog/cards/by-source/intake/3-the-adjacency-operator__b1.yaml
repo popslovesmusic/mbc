@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Θ
+- Ψ
+- δ
+excerpt: 'Once Ψ₁ exists and δ becomes a proper operator, adjacency is induced by
+  δ via: A=Θ(δ)\\mathcal{A} \= \\Theta(\\delta)A=Θ(δ) where Θ maps “amount of deviation”
+  to “structural proximity.”'
+heading: '**3\. The Adjacency Operator**'
+id: INTK-9870
+lines: 1477-1493
+location: intake/meta-genesis-core-papers-foundations::3-the-adjacency-operator::b1
+source: intake\Meta-Genesis_Core_Papers_Foundations.md

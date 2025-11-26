@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Box
+- Corollary
+- δ
+excerpt: □δRδ=0.\\boxed{ \\Box\_\\delta \\mathcal{R}\_\\delta \= 0\. }□δ​Rδ​=0.​ **Proof.**
+  Follows from Corollary 4.4 and the Bianchi identity which kills source terms.
+heading: '**Theorem 5.2 — δ-Curvature Satisfies a Wave Equation.**'
+id: GEN1-620
+lines: 1344-1353
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::5-deviational-waves-δ-waves::theorem-52-δ-curvature-satisfies-a-wave-equation::b1
+parent_heading: '**5\. Deviational Waves (δ-Waves)**'
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Box
+excerpt: 'We begin with a minimal reasoning network: * Box A: “The signal is present.”
+  * Box B: “If the signal is present, output X.”'
+heading: 12.1 Example 1 — Simple Propositional Reasoning in MBC
+id: GEN20-6930
+lines: 3605-3611
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::121-example-1-simple-propositional-reasoning-in-mbc::b1
+parent_heading: ✔️ Do you approve this companion structure?
+source: genesis-20\MBC_40_Documentaitio-1.md

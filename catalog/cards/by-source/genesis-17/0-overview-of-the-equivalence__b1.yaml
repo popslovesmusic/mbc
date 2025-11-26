@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- "Box  \n   Every"
+- Exponential Boxes
+- Γ
+- Π
+- β
+- λ
+excerpt: 'We prove a bi-directional translation: 1. λ → Box Every λ-term can be represented
+  as a Box network.'
+heading: ⭐ 0\. OVERVIEW OF THE EQUIVALENCE
+id: GEN17-4494
+lines: 5596-5610
+location: genesis-17/box-calculus::0-overview-of-the-equivalence::b1
+source: genesis-17\box_calculus.md

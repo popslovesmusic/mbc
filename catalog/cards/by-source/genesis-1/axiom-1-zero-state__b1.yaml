@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Deviational Geometry
+- Ψ
+- δ
+excerpt: There exists a unique state Ψ0∈H\\Psi\_0 \\in \\mathcal{H}Ψ0​∈H such that
+  δ(Ψ0) is undefined,\\delta(\\Psi\_0) \\text{ is undefined},δ(Ψ0​) is undefined,
+  and for all operators OOO definable in Deviati...
+heading: '**Axiom 1 (Zero State).**'
+id: GEN1-558
+lines: 705-717
+location: genesis-1/the-meta-einstein-equation-derived-purely-from-axioms::1-axiomatic-foundation::axiom-1-zero-state::b1
+parent_heading: '**1\. Axiomatic Foundation**'
+source: genesis-1\The_Meta-Einstein_Equation_Derived_Purely_From_-Axioms.md

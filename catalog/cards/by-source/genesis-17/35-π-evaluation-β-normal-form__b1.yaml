@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- Thus Box
+- Λ
+- Π
+- β
+- λ
+excerpt: Λ(Π(B))=Λ(B) in β-normal form Λ(Π(B))=Λ(B) in β-normal form Thus Box evaluation
+  produces the λ-normal form.
+heading: ⭐ 3.5 Π-evaluation → β-normal-form
+id: GEN17-4507
+lines: 5788-5793
+location: genesis-17/box-calculus::3-explicit-translation-box-λ::35-π-evaluation-β-normal-form::b1
+parent_heading: ⭐ 3\. Explicit Translation Box → λ
+source: genesis-17\box_calculus.md

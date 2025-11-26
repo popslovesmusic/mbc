@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Deviational Geometry
+- δ
+- μ
+- ν
+excerpt: S=12κδ∫Rδ∣gδ∣ dμδ+∫Lδ∣gδ∣ dμδ ,δS=0⇒GMeta=κδTδ≡δR=T\\boxed{ S=\\frac{1}{2\\kappa\_\\delta}\\int
+  \\mathcal R\_\\delta \\sqrt{|g\_\\delta|}\\,d\\mu\_\\delta \+\\int \\mathcal L\_\\delta
+  \\sqrt{|g\_\\del...
+heading: '**7\. One-line “sealed” version for axiom boxes**'
+id: GEN3-7338
+lines: 970-982
+location: genesis-3/metagenesis::9-the-deviational-curvature-functor-and-meta-einstein-equation::canonical-variational-principle-in-δ-geometry::7-one-line-sealed-version-for-axiom-boxes::b1
+parent_heading: '**Canonical Variational Principle in δ-Geometry**'
+source: genesis-3\metagenesis.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+- Σ
+- δ
+- λ
+excerpt: 'i.e.: δ:Σ↦DΣ δ:Σ↦DΣ'
+heading: ⭐ δ is defined as a monoidal comonad differential
+id: GEN17-4595
+lines: 7089-7109
+location: genesis-17/box-calculus::2-replace-informal-δ-curvature-with-a-formal-differential-structure::δ-is-defined-as-a-monoidal-comonad-differential::b1
+parent_heading: ⭐ 2\. Replace informal δ-curvature with a formal differential structure
+source: genesis-17\box_calculus.md

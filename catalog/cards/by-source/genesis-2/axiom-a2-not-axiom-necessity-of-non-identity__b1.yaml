@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- Ψ
+- δ
+- η
+excerpt: 'There exists a primitive morphism: η:Ψ0→δΨ0(A.1.2)\\eta : \\Psi\_0 \\to
+  \\delta\\Psi\_0 \\tag{A.1.2}η:Ψ0​→δΨ0​(A.1.2) such that:'
+heading: '**Axiom A2 (NOT Axiom — Necessity of Non-Identity).**'
+id: GEN2-6539
+lines: 932-952
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a1-primitive-objects-of-meta-genesis::axiom-a2-not-axiom-necessity-of-non-identity::b1
+parent_heading: '**A.1 Primitive Objects of Meta-Genesis**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

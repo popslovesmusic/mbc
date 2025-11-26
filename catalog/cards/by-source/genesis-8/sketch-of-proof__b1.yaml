@@ -1,0 +1,13 @@
+block_type: list
+concepts:
+- Meta-Time
+- Quotienting Meta
+- δ
+excerpt: 1. Meta-Time provides a global ordering ≤ₘ. 2. Deviational flow δ(Τ) generates
+  adjacency graphs A(δ(Τ)). 3. Adjacent states differ by finite adjacency transitions.
+heading: '**Sketch of Proof**'
+id: GEN8-8786
+lines: 227-243
+location: genesis-8/meta-time-geometry-and-temporal-projection::6-the-temporal-projection-theorem::theorem-temporal-projection::sketch-of-proof::b1
+parent_heading: '**Theorem (Temporal Projection)**'
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

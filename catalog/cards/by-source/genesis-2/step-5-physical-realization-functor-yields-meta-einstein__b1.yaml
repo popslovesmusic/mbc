@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Einstein Equation
+- Field
+- Field Equation
+- Meta-Einstein
+- Physical Realization
+- Φ
+- μ
+- ν
+excerpt: 'By definition of the Physical Realization functor P\\mathcal{P}P: P(RΦ)=GμνMeta,P(TΦ)=TμνMeta.(8)\\mathcal{P}(R\_\\Phi)
+  \= G\_{\\mu\\nu}^{\\text{Meta}}, \\qquad \\mathcal{P}(T\_\\Phi) \= T\_{\\mu\\nu}...'
+heading: '**Step 5 — Physical Realization Functor yields Meta-Einstein**'
+id: GEN2-6449
+lines: 1754-1770
+location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-5-physical-realization-functor-yields-meta-einstein::b1
+parent_heading: '**Proof**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

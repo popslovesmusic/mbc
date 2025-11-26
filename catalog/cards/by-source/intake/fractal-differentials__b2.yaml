@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Meta-Fractal
+- On Meta
+- α
+- μ
+- ω
+excerpt: 'On Meta-Fractal base F, fractal measure element: ``` dμ_F(x) := lim_(ε→0)
+  ε^(-α(x)) Vol(B_ε(x))'
+heading: Fractal Differentials
+id: INTK-10901
+lines: 3922-3938
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::meta-fractal-calculus-integration::fractal-differentials::b2
+parent_heading: Meta-Fractal Calculus Integration
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md

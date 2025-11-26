@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Ω
+- δ
+excerpt: We formalize how δ-packets must regenerate δ-gradients for the system to
+  remain non-equilibrium. Let A∈ΩA \\in \\OmegaA∈Ω be a Π-fixed δ-packet (ATP object).
+  Let WδW\_\\deltaWδ​ be the work operator o...
+heading: '**SECTION IV.1 — δ-Flux Replenishment Theorem**'
+id: GEN13-2584
+lines: 1763-1775
+location: genesis-13/what-biology-is-in-meta-genesis::section-iv1-δ-flux-replenishment-theorem::b1
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

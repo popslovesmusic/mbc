@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Invertible Morphisms Exist
+- Meta-Math
+excerpt: '**Axiom M9 — Invertible Morphisms Exist** Math admits invertible morphisms
+  (isomorphisms): f:X→Y invertible  ⟺  ∃f−1.f : X\\to Y \\text{ invertible} \\iff
+  \\exists f^{-1}.f:X→Y invertible⟺∃f−1.'
+heading: '**9\. Invertibility and Isomorphisms**'
+id: GEN2-6250
+lines: 421-443
+location: genesis-2/axioms-for-the-category-genesis::9-invertibility-and-isomorphisms::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md

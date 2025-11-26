@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- nonlocality
+- topology
+- Ψ
+- δ
+excerpt: 'Ψ₀ has *no adjacency*. Ψ₁ must have *some adjacency*. Thus δ must generate
+  adjacency:'
+heading: '**E. Condition 5: Adjacency functional A\[δ\]\\mathcal A\[\\delta\]A\[δ\]**'
+id: GEN0-061
+lines: 825-848
+location: genesis-0/feynman-rules-interaction-vertices::ii-why-this-form-is-mandatory-derivation-from-the-ψ₀-ψ₁-stability-theorem::e-condition-5-adjacency-functional-aδmathcal-adeltaaδ::b1
+parent_heading: '**II. Why this form is mandatory (derivation from the Ψ₀ → Ψ₁ Stability
+  Theorem)**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'The composite functor: Φ∘δ:GMG→M\\Phi\\circ\\delta : \\mathcal{G}\_{\\text{MG}}
+  \\to \\mathcal{M}Φ∘δ:GMG​→M is total, well-defined, structure-preserving, and natural.'
+heading: '**Step 5 — Compositionality closes the system**'
+id: GEN8-8728
+lines: 409-426
+location: genesis-8/corollary-einstein-compatibility-via::proof-formal-version::step-5-compositionality-closes-the-system::b1
+parent_heading: '**◆ Proof (Formal Version) ◆**'
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md

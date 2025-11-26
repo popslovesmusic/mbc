@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+- σ
+excerpt: Each δ-object carries a **scale-indexed tower of localizations** Aσ,σ∈ΣA\_\\sigma,
+  \\quad \\sigma \\in \\SigmaAσ​,σ∈Σ with restriction morphisms satisfying the internal
+  sheaf/gluing laws of the topos.
+heading: '**Axiom 1.3 — Scale Stack (Internal Sheaf Condition)**'
+id: GEN2-6299
+lines: 64-74
+location: genesis-2/axioms-of-geometry-topos-compatible::1-δ-geometry-objects-and-morphisms::axiom-13-scale-stack-internal-sheaf-condition::b1
+parent_heading: '**1\. δ-Geometry: Objects and Morphisms**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Compatibility Corollary
+- Corollary
+- Π
+- Φ
+- δ
+excerpt: '**Φ-Compatibility Corollary.** Under the assumptions above, the Riemann
+  projection of deviational curvature is Φ-compatible: ΠδΦ  ≅  ΠΦδ\\boxed{ \\Pi\\delta\\Phi
+  \\;\\cong\\; \\Pi\\Phi\\delta }ΠδΦ≅ΠΦδ...'
+heading: '**Statement**'
+id: GEN5-8065
+lines: 1914-1925
+location: genesis-5/formal-proof-of-the-adjoint-triple::corollary-φ-compatibility-of-the-δriemann-projection::statement::b1
+parent_heading: '**Corollary (Φ-Compatibility of the δ→Riemann Projection)**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

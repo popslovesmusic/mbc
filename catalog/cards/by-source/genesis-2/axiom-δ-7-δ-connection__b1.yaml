@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: ∇δ(fg)=(∇δf)g+f(∇δg)+(δf)g.\\nabla^\\delta(fg) \= (\\nabla^\\delta f) g \+
+  f(\\nabla^\\delta g) \+ (\\delta f) g.∇δ(fg)=(∇δf)g+f(∇δg)+(δf)g. ---
+heading: '**Axiom (δ-7) — δ-Connection**'
+id: GEN2-6411
+lines: 1406-1410
+location: genesis-2/axioms-of-geometry-topos-compatible::section-i-δ-layer-intrinsic-deviation-geometry::axiom-δ-7-δ-connection::b1
+parent_heading: '**Section I — δ-Layer (Intrinsic Deviation / Geometry)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

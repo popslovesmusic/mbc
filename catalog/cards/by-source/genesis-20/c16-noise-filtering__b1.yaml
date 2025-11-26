@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Θ
+- σ
+excerpt: 'If metadata estimates high noise: σ(t+1)=f(σ(t),Θ,M) σ'
+heading: C1.6 Noise Filtering
+id: GEN20-7265
+lines: 8176-8192
+location: genesis-20/mbc-40-documentaitio-1::c16-noise-filtering::b1
+source: genesis-20\MBC_40_Documentaitio-1.md

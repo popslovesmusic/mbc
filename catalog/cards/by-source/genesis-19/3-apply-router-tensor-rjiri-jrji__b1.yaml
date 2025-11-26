@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: Weighted by δ-metadata. This shifts polarity before final decision.
+heading: '**3\. Apply router tensor RjiR^i\_jRji​**'
+id: GEN19-5859
+lines: 489-493
+location: genesis-19/mbc-4-1::3-polarity-vectors-semantic-weight-maps::classification-formula::3-apply-router-tensor-rjiri-jrji::b1
+parent_heading: '**Classification Formula**'
+source: genesis-19\MBC-4_1.md

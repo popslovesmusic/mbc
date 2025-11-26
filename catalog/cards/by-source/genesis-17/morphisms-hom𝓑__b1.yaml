@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- iff
+- Φ
+- δ
+excerpt: 'A morphism: `f : Bᵢ → Bⱼ` exists **iff** the Φ-structure of **Bⱼ** *depends
+  functionally* on the δ-structure of **Bᵢ**.'
+heading: '**Morphisms (Hom𝓑):**'
+id: GEN17-4982
+lines: 1477-1489
+location: genesis-17/key-points::i-underlying-categories::1-the-category-of-boxes-𝓑::morphisms-hom𝓑::b1
+parent_heading: '**1\. The Category of Boxes: 𝓑**'
+source: genesis-17\Key_Points.md

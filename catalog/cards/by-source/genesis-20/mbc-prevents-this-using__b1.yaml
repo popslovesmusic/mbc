@@ -1,0 +1,10 @@
+block_type: list
+concepts:
+- Φ
+excerpt: '* Φ-stability rules * metadata convergence bounds * polarity damping'
+heading: 'MBC prevents this using:'
+id: GEN20-7241
+lines: 7765-7776
+location: genesis-20/mbc-40-documentaitio-1::b45-dynamic-instability-and-how-mbc-avoids-it::mbc-prevents-this-using::b1
+parent_heading: B4.5 Dynamic Instability (and How MBC Avoids It)
+source: genesis-20\MBC_40_Documentaitio-1.md

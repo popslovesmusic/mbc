@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Zero-State
+- Ψ
+excerpt: ∂L∂Ψ=?,∂L∂(∂Ψ)=?\\frac{\\partial \\mathcal{L}}{\\partial \\Psi} \= ?, \\quad
+  \\frac{\\partial \\mathcal{L}}{\\partial (\\partial \\Psi)} \= ?∂Ψ∂L​=?,∂(∂Ψ)∂L​=?
+  Both require structure that Ψ₀ specifica...
+heading: '**There are no Euler–Lagrange equations**'
+id: GEN0-273
+lines: 244-260
+location: genesis-0/why-the-first-action-is-necessary::3-stillness-cannot-minimize-anything::there-are-no-eulerlagrange-equations::b1
+parent_heading: '**3\. Stillness Cannot Minimize Anything**'
+source: genesis-0\Why_the_First_Action_Is_Necessary.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Nodes
+- Ψ
+- δ
+excerpt: Before δ, Ψ₀ has **no neighbors** (no relations). The first adjacency relation
+  *is created by δΨ₀ itself*. **Nodes** * **Ψ₀** — zero state, operator-free
+heading: '**1\. Minimal Adjacency Graph (the birth of adjacency)**'
+id: INTK-9913
+lines: 184-212
+location: intake/meta-genesis-diagrammatic-papers::3-ultra-compressed-one-line-version::1-minimal-adjacency-graph-the-birth-of-adjacency::b1
+parent_heading: '**3\. Ultra-Compressed One-Line Version**'
+source: intake\Meta-Genesis_Diagrammatic_Papers.md

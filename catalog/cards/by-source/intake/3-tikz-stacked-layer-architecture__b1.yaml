@@ -1,0 +1,21 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Classical Physics
+- Deviation Necessity
+- Deviation Operator
+- Deviational Geometry
+- Einstein Dynamics
+- Meta-Einstein
+- Meta-Genesis
+- Meta-Math
+- Operator
+- Zero-State
+excerpt: '`\begin{tikzpicture}[` `box/.style={draw, rounded corners, thick, align=center,
+  minimum width=11cm, minimum height=1.2cm},` `arrow/.style={->, thick}`'
+heading: '**3\) TikZ: Stacked-Layer Architecture**'
+id: INTK-9702
+lines: 815-864
+location: intake/axioms-geometry::tikz-latex-paper-ready-geometry-stack::3-tikz-stacked-layer-architecture::b1
+parent_heading: '**TikZ (LaTeX) — Paper-Ready Geometry Stack**'
+source: intake\Axioms-geometry.md

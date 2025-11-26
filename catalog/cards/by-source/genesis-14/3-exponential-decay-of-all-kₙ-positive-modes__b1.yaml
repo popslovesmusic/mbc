@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- freeze
+- Π
+excerpt: 'Since 2+kn\>02+k\_n \> 02+kn​\>0 for all modes with nonzero adjacency wavenumber:
+  ϕn(t)⟶0.\\phi\_n(t) \\longrightarrow 0.ϕn​(t)⟶0. These modes **freeze** in the sense
+  that their evolving value becomes...'
+heading: '**3\. Exponential Decay of All kₙ-Positive Modes**'
+id: GEN14-2694
+lines: 691-697
+location: genesis-14/inflation-structure-formation::proof-2-igsoa-only-φ-mode-freeze-out-from-δ-harmonic-expansion::proof::3-exponential-decay-of-all-kₙ-positive-modes::b1
+parent_heading: '**Proof**'
+source: genesis-14\Inflation__Structure_Formation.md

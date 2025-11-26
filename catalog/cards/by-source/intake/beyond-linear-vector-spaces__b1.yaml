@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Meta-Math
+- Meta-Metric
+- Meta-Scalars
+- Meta-Vector
+- Vector Space
+excerpt: 'Traditional vector spaces are built on assumptions of linearity, real/complex
+  scalar fields, and Euclidean or pseudo-Euclidean metrics. These are insufficient
+  for Meta-Math because: - The underlying "...'
+heading: Beyond Linear Vector Spaces
+id: INTK-10344
+lines: 966-974
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector-space::motivation::beyond-linear-vector-spaces::b1
+parent_heading: Motivation
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- not
+- zero-neighborhood
+- Ψ
+- δ
+excerpt: 'Define the *zero-neighborhood* as: N0={Ψ0, δΨ0\_ε}\\mathcal{N}\_0 \= \\{\\Psi\_0,\\,
+  \\delta\\Psi\_0\\\_{\\varepsilon}\\}N0​={Ψ0​,δΨ0​\_ε} where δΨ0\_ε\\delta\\Psi\_0\\\_{\\varepsilon}δΨ0​\_ε
+  represen...'
+heading: '**Axiom NOT-1 (Operator-Free Neighborhood)**'
+id: GEN3-7300
+lines: 432-444
+location: genesis-3/metagenesis::the-not-axiom::axiom-not-1-operator-free-neighborhood::b1
+parent_heading: '**THE NOT AXIOM**'
+source: genesis-3\metagenesis.md

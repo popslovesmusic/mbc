@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: 'State evolution is governed only by 𝓕: Σt+1=F(Σt;δt) Σ'
+heading: 🔷 AXIOM 5 – Monistic Transition Law
+id: GEN17-4781
+lines: 9330-9346
+location: genesis-17/box-calculus::axiom-5-monistic-transition-law::b1
+source: genesis-17\box_calculus.md

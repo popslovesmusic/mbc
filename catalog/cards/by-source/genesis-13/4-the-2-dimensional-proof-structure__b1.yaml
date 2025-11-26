@@ -1,0 +1,11 @@
+block_type: equation
+concepts:
+- Tri-Unity
+excerpt: 'The proof reduces to showing a pasting equality: \\raisebox{-0.4cm}{ \\(\\begin{tikzcd}\[column
+  sep=huge,row sep=huge\] \\mathcal{G}\_0 \\arrow\[r,"F\_{GM}"\] \\arrow\[d,"\\delta"''\]
+  & \\mathcal{M} \\...'
+heading: '**4\. The 2-Dimensional Proof Structure**'
+id: GEN13-2432
+lines: 2304-2314
+location: genesis-13/the-weight-of-light::4-the-2-dimensional-proof-structure::b1
+source: genesis-13\The_Weight_of_Light.md

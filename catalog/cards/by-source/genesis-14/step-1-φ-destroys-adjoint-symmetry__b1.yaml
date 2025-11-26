@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'Assume for contradiction there exists Φ−1Φ^{-1}Φ−1 or a right adjoint GGG:
+  Φ⊣G.Φ \\dashv G.Φ⊣G. Then from adjunction:'
+heading: '**Step 1 — Φ destroys adjoint symmetry.**'
+id: GEN14-2893
+lines: 1487-1507
+location: genesis-14/meta-math-and-cryptography::3-main-theorem-the-no-lift-theorem-for-cryptography::31-proof-structure::step-1-φ-destroys-adjoint-symmetry::b1
+parent_heading: '**3.1 Proof Structure**'
+source: genesis-14\Meta-Math_and_Cryptography.md

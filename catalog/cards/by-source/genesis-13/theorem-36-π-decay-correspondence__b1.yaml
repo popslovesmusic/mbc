@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- α
+- β
+- γ
+- τ
+excerpt: 'Let τn→m\\tau\_{n\\to m}τn→m​ be a Φ-transition operator. Then: * Π(τiso)=β±-decay\\Pi(\\tau\_{iso})
+  \= \\beta^\\pm\\text{-decay}Π(τiso​)=β±-decay * Π(τspin)=γ-decay\\Pi(\\tau\_{spin})
+  \= \\gamma\\tex...'
+heading: '**Theorem 3.6 (Π-Decay Correspondence).**'
+id: GEN13-2078
+lines: 950-966
+location: genesis-13/meta-math-nuclear-physics::3-the-π-layer-real-nuclear-physics::theorem-36-π-decay-correspondence::b1
+parent_heading: '**3\. The Π-Layer: Real Nuclear Physics**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

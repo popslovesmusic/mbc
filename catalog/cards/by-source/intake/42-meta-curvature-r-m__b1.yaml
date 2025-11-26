@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Fractal Differential
+- Meta-Fractal
+excerpt: The curvature (`R_M`) is then defined as the non-integrability of these higher-gauge
+  connections. This is a generalization of both Riemann curvature and gauge field
+  strength. `R_M = d_M A_M + A_M ∧_M ...
+heading: '**4.2. Meta-Curvature (R_M)**'
+id: INTK-10468
+lines: 1648-1655
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::4-higher-gauge-meta-connections-and-curvature::42-meta-curvature-r-m::b1
+parent_heading: '**4. Higher-Gauge Meta-Connections and Curvature**'
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- σ
+excerpt: The most crucial aspect of `⊙` is its explicit dependence on the **scale
+  parameter (σ)**. This allows a single "scalar" to induce different effects at different
+  scales, leading to non-trivial renormal...
+heading: 'Key Property: Scale-Dependence'
+id: INTK-10295
+lines: 711-713
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-scalar-multiplication::formal-definition::key-property-scale-dependence::b1
+parent_heading: Formal Definition
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

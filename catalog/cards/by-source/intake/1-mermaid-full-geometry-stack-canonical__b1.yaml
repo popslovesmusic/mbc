@@ -1,0 +1,25 @@
+block_type: paragraph
+concepts:
+- Adjacency Graph
+- Axiom
+- Classical Physics
+- Deviation Necessity
+- Deviation Operator
+- Deviational Geometry Layer
+- Deviational Levi
+- Deviational Metric
+- Deviational State Space
+- Einstein Dynamics
+- Einstein Eq
+- Einstein Tensor
+- Genesis Layer
+- Layer
+- Levi-Civita
+excerpt: '`flowchart TD` `%% ===== LAYER 0: META-GENESIS (POTENTIAL) =====` `subgraph
+  MG["Meta-Genesis Layer (Potential)"]`'
+heading: '**1\) Mermaid: Full Geometry Stack (canonical)**'
+id: INTK-9700
+lines: 723-792
+location: intake/axioms-geometry::if-you-want-next::1-mermaid-full-geometry-stack-canonical::b1
+parent_heading: '**If you want next:**'
+source: intake\Axioms-geometry.md

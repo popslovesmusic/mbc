@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- CP-even
+- δ
+- δ-harmonic
+excerpt: 'In IGSOA, the fundamental object is the **adjacency potential** δ:X×X→C,\\delta:
+  X\\times X\\to \\mathbb{C},δ:X×X→C, satisfying the symmetric constraint'
+heading: '**1\. δ-Adjacency is CP-Even by Construction**'
+id: GEN16-3707
+lines: 424-445
+location: genesis-16/quantum-measurement-in-igsoa-vs::proof-igsoa-side::1-δ-adjacency-is-cp-even-by-construction::b1
+parent_heading: '**Proof (IGSOA Side)**'
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md

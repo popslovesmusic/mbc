@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- ATP
+- Discrete Spectrum
+- Fixed Point
+- Π
+- Φ
+- Ω
+- δ
+- σ
+excerpt: 'Let σ∈S\\sigma \\in \\mathcal{S}σ∈S be any seed state. Define: F=Π∘Φ∘δ\\mathcal{F}
+  \= \\Pi \\circ \\Phi \\circ \\deltaF=Π∘Φ∘δ'
+heading: '**Theorem 5.1 (Bioenergetic Fixation Theorem).**'
+id: GEN13-2536
+lines: 1067-1097
+location: genesis-13/what-biology-is-in-meta-genesis::5-bioenergetic-fixed-point-theorem-main-result::theorem-51-bioenergetic-fixation-theorem::b1
+parent_heading: '**5\. Bioenergetic Fixed-Point Theorem (Main Result)**'
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

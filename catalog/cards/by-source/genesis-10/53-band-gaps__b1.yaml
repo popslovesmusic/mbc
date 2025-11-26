@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+- λ
+- ω
+excerpt: 'Band gaps appear automatically when: ω(λn+1,k)−ω(λn,k)\>0∀k.\\omega(\\lambda\_{n+1},
+  k) \- \\omega(\\lambda\_n, k) \> 0 \\quad\\forall k.ω(λn+1​,k)−ω(λn​,k)\>0∀k. This
+  is a **δ-curvature gap**, not an...'
+heading: '**5.3 Band Gaps**'
+id: GEN10-690
+lines: 289-302
+location: genesis-10/how-stillness-becomes-solid::5-band-structure-emerges::53-band-gaps::b1
+parent_heading: '**5\. Band Structure Emerges**'
+source: genesis-10\How_Stillness_Becomes_Solid_.md

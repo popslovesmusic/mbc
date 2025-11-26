@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: Φ is uniquely characterized as the **universal extension of δ to dynamics**.
+  Φ=Lanδ(id)\\Phi \= \\mathsf{Lan}\_\\delta(\\mathrm{id})Φ=Lanδ​(id) This means Φ
+  is the *best possible* way to extend δ to p...
+heading: '**Lemma L2 — Φ is the Universal Left Kan Extension of δ**'
+id: GEN13-2363
+lines: 1465-1473
+location: genesis-13/the-weight-of-light::2-lemmas::lemma-l2-φ-is-the-universal-left-kan-extension-of-δ::b1
+parent_heading: '**2\. Lemmas**'
+source: genesis-13\The_Weight_of_Light.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Meta-Time
+- α
+- δ
+- μ
+- ν
+excerpt: 'Meta-Time must preserve structural composition: π(δ∘δ)=π(δ)∘π(δ).\\pi(\\delta\\circ\\delta)
+  \= \\pi(\\delta)\\circ\\pi(\\delta).π(δ∘δ)=π(δ)∘π(δ). This implies (by naturality
+  of π):'
+heading: '**🔶 Step 3 — Meta-Time Ordering Enforces Bianchi Identity (G7)**'
+id: GEN7-8548
+lines: 1595-1614
+location: genesis-7/the-complete-eft-lagrangian::step-3-meta-time-ordering-enforces-bianchi-identity-g7::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+- λ
+excerpt: '\[δ,δ(n)\]=Cn δ(n+1)\[\\delta, \\delta^{(n)}\] \= C\_n \\, \\delta^{(n+1)}\[δ,δ(n)\]=Cn​δ(n+1)
+  where: Cn=Δlog⁡λk+n.C\_n \= \\Delta \\log \\lambda\_{k+n} .Cn​=Δlogλk+n​.'
+heading: '**Fundamental Commutator:**'
+id: GEN0-328
+lines: 1417-1428
+location: genesis-0/why-the-first-action-is-necessary::3-commutators-δ-δ²-δ-δⁿ::fundamental-commutator::b1
+parent_heading: '**3\. Commutators: \[δ, δ²\], \[δ, δⁿ\]**'
+source: genesis-0\Why_the_First_Action_Is_Necessary.md

@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Ciphertext Points
+- Group Law Geometric Morphism
+- Public Key
+- Π
+- Φ
+- δ
+excerpt: '*(Same pattern but with geometric Φ)* `δ-scalar (private key k)` `│`'
+heading: '**4\. ELLIPTIC-CURVE DIAGRAM STACK (ECC)**'
+id: GEN14-2852
+lines: 889-906
+location: genesis-14/meta-math-and-cryptography::4-elliptic-curve-diagram-stack-ecc::b1
+source: genesis-14\Meta-Math_and_Cryptography.md

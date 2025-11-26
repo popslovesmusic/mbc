@@ -1,0 +1,13 @@
+block_type: list
+concepts:
+- Meta-Metric
+- Meta-Vector
+- Vector Space
+excerpt: '- Defined using the Meta-Metric (G_AB), which allows calculation of generalized
+  "angles" and "lengths" in the Meta-Vector Space. - `⟨V₁, V₂⟩_G = G_AB (V₁)^A (V₂)^B`'
+heading: 3. Inner Product (Meta-Dot Product)
+id: INTK-10380
+lines: 1129-1131
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-vector::connection-to-meta-algebraic-operations::3-inner-product-meta-dot-product::b1
+parent_heading: Connection to Meta-Algebraic Operations
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Total Composition
+- total
+excerpt: '**Axiom M4 — Total Composition** For any composable morphisms: f:X→Y,g:Y→Z,f
+  : X\\to Y,\\quad g:Y\\to Z,f:X→Y,g:Y→Z,'
+heading: '**4\. Composition**'
+id: GEN2-6245
+lines: 312-325
+location: genesis-2/axioms-for-the-category-genesis::4-composition::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md

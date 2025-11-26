@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Operator
+- Operator Domain Exclusion Principle
+- Ψ
+- δ
+excerpt: Ψ0∉Dom(O)andΨ0∉Cod(O)\\Psi\_0 \\notin \\mathrm{Dom}(\\mathcal{O}) \\quad\\text{and}\\quad
+  \\Psi\_0 \\notin \\mathrm{Cod}(\\mathcal{O})Ψ0​∈/Dom(O)andΨ0​∈/Cod(O) for all operators
+  except the deviation o...
+heading: '**3.1 Zero-State (Ψ₀) Exclusion**'
+id: INTK-10199
+lines: 310-318
+location: intake/meta-genesis-meta-math-integration-papers::31-zero-state-ψ₀-exclusion::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

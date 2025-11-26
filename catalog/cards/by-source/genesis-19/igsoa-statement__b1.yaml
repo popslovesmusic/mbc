@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Θ
+- Σ
+- δ
+excerpt: 'The polarity of a routed semantic flow is determined by the **net curvature
+  bias** of all incoming δ-modes weighted by their adjacency metadata. **Θ-route(B)
+  \= sign( Σ wᵢ · κᵢ )** Where:'
+heading: '**IGSOA Statement**'
+id: GEN19-5876
+lines: 76-86
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iv-the-polarity-router-law-core-of-the-θ-system::igsoa-statement::b1
+parent_heading: '**IV. The Polarity Router Law (core of the Θ-system)**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

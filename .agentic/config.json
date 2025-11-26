@@ -1,0 +1,53 @@
+{
+  "project": {
+    "name": "HGG Semantic Catalog",
+    "type": "knowledge-base",
+    "domain": "physics-theory",
+    "description": "Semantic indexing system for Meta-Genesis physics theory markdown documents"
+  },
+  "instructions": {
+    "primary": "../AGENT.md",
+    "quick_start": "../README.md",
+    "documentation": "../docs/"
+  },
+  "data": {
+    "format": "jsonl",
+    "primary_index": "../catalog/indexes/cards.jsonl",
+    "segments": "../catalog/indexes/segments.jsonl",
+    "sources": "../HGG-/",
+    "html_browser": "../catalog-html/index.html"
+  },
+  "constraints": {
+    "read_only_paths": [
+      "HGG-/"
+    ],
+    "safe_operations": [
+      "read catalog/*",
+      "read catalog-html/*",
+      "run python hgg-index.py",
+      "generate reports"
+    ],
+    "prohibited": [
+      "modify HGG-/",
+      "delete catalog without user confirmation"
+    ]
+  },
+  "quick_reference": {
+    "load_cards": "cards = [json.loads(line) for line in open('catalog/indexes/cards.jsonl')]",
+    "search_axioms": "[c for c in cards if 'axiom' in c['heading'].lower()]",
+    "get_concepts": "[c['concepts'] for c in cards]",
+    "rebuild_catalog": "python hgg-index.py build"
+  },
+  "context": {
+    "total_sources": 81,
+    "total_cards": 11429,
+    "directories": ["genesis-0", "genesis-1", "...", "genesis-20", "intake", "special"],
+    "key_concepts": ["δ-geometry", "Meta-Time", "Box Calculus", "Φ-projection", "Π-evaluation"],
+    "content_types": ["axioms", "theorems", "proofs", "concepts", "conversations"]
+  },
+  "tools": {
+    "cli": "python hgg-index.py",
+    "html_generator": "python generate-html-catalog.py",
+    "query_language": "jq (for JSONL files)"
+  }
+}

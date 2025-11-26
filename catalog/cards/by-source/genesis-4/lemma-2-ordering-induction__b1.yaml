@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Meta-Time
+- Ψ
+- δ
+excerpt: 'If deviation is applied repeatedly: Ψ0→δΨ1→δΨ2→δ⋯ ,\\Psi\_0 \\xrightarrow{\\delta}
+  \\Psi\_1 \\xrightarrow{\\delta} \\Psi\_2 \\xrightarrow{\\delta} \\cdots,Ψ0​δ​Ψ1​δ​Ψ2​δ​⋯,
+  then there exists a canonic...'
+heading: '**Lemma 2 (Ordering Induction).**'
+id: GEN4-7874
+lines: 1091-1101
+location: genesis-4/the-first-adjacency::3-why-deviation-forces-ordering-formal-derivation::lemma-2-ordering-induction::b1
+parent_heading: '**3\. Why Deviation Forces Ordering (Formal Derivation)**'
+source: genesis-4\The_First_Adjacency.md

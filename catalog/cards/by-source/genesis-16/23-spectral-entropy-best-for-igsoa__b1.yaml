@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: 'If Σ=∑iciei\\Sigma=\\sum\_i c\_i e\_iΣ=∑i​ci​ei​ in a δ-harmonic basis:
+  H(Σ)=−∑i∣ci∣2log⁡∣ci∣2H(\\Sigma) \= \-\\sum\_i |c\_i|^2 \\log |c\_i|^2H(Σ)=−i∑​∣ci​∣2log∣ci​∣2
+  This one is the most natural:'
+heading: '**2.3 Spectral Entropy (best for IGSOA)**'
+id: GEN16-3818
+lines: 1048-1062
+location: genesis-16/untitled-document::2-what-is-semantic-entropy-hσhsigmahς::23-spectral-entropy-best-for-igsoa::b1
+parent_heading: '**2\. What is Semantic Entropy H(Σ)H(\\Sigma)H(Σ)?**'
+source: genesis-16\Untitled_document.md

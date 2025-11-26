@@ -1,0 +1,23 @@
+block_type: code
+concepts:
+- Energy Tensor
+- Field
+- Gauge Field Strength Term
+- Higher-Gauge
+- Meta-Metric
+- Meta-Ricci
+- Meta-Stress-Energy
+- Metric Tensor
+- Mills Lagrangian
+- Ricci Scalar
+- Ricci Tensor
+- Yang-Mills
+- δ
+excerpt: '```latex \boxed{ \mathcal{R}_{AB}(\delta) - \frac{1}{2} G_{AB}(\delta) \mathcal{R}(\delta)
+  + \frac{1}{4} \mathcal{F}_{AB}{}^{CD}(\delta) \mathcal{F}_{CD}(\delta) G_{AB}(\delta)
+  = 8\pi \mathcal{T}_{AB}...'
+heading: '**5. The Equation (Full Form)**'
+id: INTK-10214
+lines: 65-81
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::5-the-equation-full-form::b1
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Λ
+- λ
+excerpt: Λ(T(MN))=Λ(eval(T(M),T(N)))=Λ(T(M))Λ(T(N))=MN\\Lambda(\\mathcal{T}(MN)) \=
+  \\Lambda(eval(\\mathcal{T}(M),\\mathcal{T}(N))) \= \\Lambda(\\mathcal{T}(M))\\Lambda(\\mathcal{T}(N))
+  \= MNΛ(T(MN))=Λ(eval(T(...
+heading: '**For application:**'
+id: GEN16-4098
+lines: 4572-4580
+location: genesis-16/untitled-document::4-the-heart-of-the-equivalence::41-λ-box-λ-gives-the-same-λ-term::for-application::b1
+parent_heading: '**4.1 λ → Box → λ gives the same λ-term**'
+source: genesis-16\Untitled_document.md

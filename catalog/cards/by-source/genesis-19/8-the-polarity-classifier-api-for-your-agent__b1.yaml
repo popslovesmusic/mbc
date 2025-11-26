@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- τ
+excerpt: (You can plug this directly into your local RAG agent.) `classify_polarity(v):`
+  `score = A*v.plus - B*v.minus`
+heading: '**8\. The Polarity Classifier API (for your agent)**'
+id: GEN19-5865
+lines: 546-561
+location: genesis-19/mbc-4-1::8-the-polarity-classifier-api-for-your-agent::b1
+source: genesis-19\MBC-4_1.md

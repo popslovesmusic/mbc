@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Echo Operator
+- Meta-Aggregation
+- Operator
+- The Echo Operator
+excerpt: The information accumulated in `C(t)` through Meta-Aggregation provides the
+  "memory kernel" (`K`) for the **Echo Operator (ℰ)**. The Echo Operator then feeds
+  back this historical context into the pres...
+heading: Echo Operator (ℰ)
+id: INTK-10283
+lines: 632-633
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-aggregation::connection-to-deviation-calculus-and-operators::echo-operator-ℰ::b1
+parent_heading: Connection to Deviation Calculus and Operators
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

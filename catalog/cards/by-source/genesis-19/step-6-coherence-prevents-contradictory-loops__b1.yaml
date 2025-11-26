@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Θ
+- δ
+excerpt: 'A δ-flow cannot reverse polarity on a closed path (Axiom A4). Thus all cycles
+  satisfy: ∏Θ=+1,\\prod \\Theta \= \+1,∏Θ=+1,'
+heading: '**Step 6 — Coherence prevents contradictory loops**'
+id: GEN19-5905
+lines: 428-437
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::iii-dual-column-proof::igsoa-column::step-6-coherence-prevents-contradictory-loops::b1
+parent_heading: '**IGSOA Column**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

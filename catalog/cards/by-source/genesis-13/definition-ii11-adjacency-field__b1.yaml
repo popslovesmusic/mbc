@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: 'Let A:∂M→R+A: \\partial M \\to \\mathbb{R}^+A:∂M→R+ be an adjacency density.
+  The **δ-adjacency operator** is: Aδf=−∇∂M⋅(A∇∂Mf)\\mathcal{A}\_\\delta f \= \-\\nabla\_{\\partial
+  M} \\cdot (A \\nabla\_{\\...'
+heading: '**Definition II.1.1 (Adjacency Field).**'
+id: GEN13-2550
+lines: 1248-1269
+location: genesis-13/what-biology-is-in-meta-genesis::section-ii1-δ-adjacency-curvature-on-π-preboundaries::definition-ii11-adjacency-field::b1
+parent_heading: '**SECTION II.1 — δ-Adjacency Curvature on Π-Preboundaries**'
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

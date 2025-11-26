@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: For any formal objects X,YX,YX,Y, δ(aX+bY)=a δX+b δY.\\delta(aX \+ bY)=a\\,\\delta
+  X \+ b\\,\\delta Y.δ(aX+bY)=aδX+bδY.
+heading: '**Axiom 2 (Linearity on Deviations).**'
+id: INTK-9944
+lines: 24-28
+location: intake/meta-genesis-mathematical-papers::formalization-of-the-deviation-generated-subspace-hδmathcalh-deltahδ::1-pre-geometry-setup::axiom-2-linearity-on-deviations::b1
+parent_heading: '**1\. Pre-Geometry Setup**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

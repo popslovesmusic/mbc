@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Given an operator morphism O:A→A’\\mathcal{O}:A\\to A’O:A→A’, we define:
+  Cδ(O)=curvature-preserving pushforward O\\\*\\mathcal{C}\_\\delta(\\mathcal{O})
+  \= \\text{curvature-preserving pushforward } \\...'
+heading: '**3.2 On Morphisms**'
+id: GEN3-7320
+lines: 717-731
+location: genesis-3/metagenesis::3-construction-of-the-functor::32-on-morphisms::b1
+parent_heading: '**3\. Construction of the Functor**'
+source: genesis-3\metagenesis.md

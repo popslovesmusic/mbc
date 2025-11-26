@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Box
+- Monistic Box Calculus
+- Π
+- Σ
+- Φ
+- δ
+excerpt: 'A strict, formal JSON schema describing IGSOA → δ → Φ → Π → Box → Causal
+  network. `{` `"$schema": "https://json-schema.org/draft/2020-12/schema",`'
+heading: '**(1) MBC JSON Schema 3.0**'
+id: GEN17-5023
+lines: 219-338
+location: genesis-17/mbc-schema-3::1-mbc-json-schema-30::b1
+source: genesis-17\MBC_Schema_3.md

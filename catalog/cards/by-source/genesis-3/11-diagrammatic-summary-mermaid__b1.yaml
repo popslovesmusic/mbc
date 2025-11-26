@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Adjacency Object
+- Curvature Object
+- Dynamical Object
+- end
+- Ψ
+- δ
+excerpt: '`flowchart LR` `A0["Ψ₀ (no structure)"]` `A1["δΨ₀ (adjacency)"]`'
+heading: '**11\. Diagrammatic Summary (Mermaid)**'
+id: GEN3-7291
+lines: 303-329
+location: genesis-3/metagenesis::11-diagrammatic-summary-mermaid::b1
+source: genesis-3\metagenesis.md

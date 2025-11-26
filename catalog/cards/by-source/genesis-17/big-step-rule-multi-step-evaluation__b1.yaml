@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+- Π
+- Σ
+excerpt: ⟨G,Σ0⟩→∗⟨G,Σn⟩Σn=P0Σn⟨G,Σ0⟩ ⇓ Σn ⟨G,Σ 0
+heading: ⭐ BIG-STEP RULE (Multi-step evaluation)
+id: GEN17-4822
+lines: 9838-9882
+location: genesis-17/box-calculus::4-big-step-semantics-evaluation::big-step-rule-multi-step-evaluation::b1
+parent_heading: 🔷 4\. Big-Step Semantics (Evaluation)
+source: genesis-17\box_calculus.md

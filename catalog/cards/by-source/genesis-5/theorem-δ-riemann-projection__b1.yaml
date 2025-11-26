@@ -1,0 +1,25 @@
+block_type: paragraph
+concepts:
+- Alignment Endofunctor
+- Chromatic Field
+- Deviation Endofunctor
+- Deviational Curvature
+- Field
+- Interchange Law
+- Mode
+- Mode-Alignment
+- Riemann Projection Functor
+- deviation-shadow
+- Λ
+- Π
+- Φ
+- δ
+- λ
+excerpt: 'Let: * δ:σTop→σTop\\delta : \\sigma Top \\to \\sigma Topδ:σTop→σTop be the
+  **Deviation Endofunctor** on the scale-topos. * Φ:σTop→σTop\\Phi : \\sigma Top \\to
+  \\sigma TopΦ:σTop→σTop be the **Chromatic...'
+heading: '**Theorem (δ → Riemann Projection).**'
+id: GEN5-8072
+lines: 2007-2031
+location: genesis-5/formal-proof-of-the-adjoint-triple::theorem-δ-riemann-projection::b1
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'Deviation must be stable under composition: δ∘δ∈End(Ψ1).\\delta\\circ\\delta
+  \\in \\text{End}(\\Psi\_1).δ∘δ∈End(Ψ1​). Patterns that fail closure collapse back
+  to Ψ₀.'
+heading: '**Axiom 3 — Closure Under Composition (Law Criterion)**'
+id: GEN7-8503
+lines: 924-935
+location: genesis-7/the-complete-eft-lagrangian::axiom-3-closure-under-composition-law-criterion::b1
+source: genesis-7\THE_COMPLETE_-EFT_LAGRangian.md

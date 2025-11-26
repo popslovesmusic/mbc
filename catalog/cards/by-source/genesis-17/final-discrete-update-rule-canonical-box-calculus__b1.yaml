@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Σ
+- Ω
+- δ
+excerpt: Σt+1(Bi)=F\[δt(Bi)\] ⁣(Σt(Bi)+∑Bj→Biwji Σt(Bj)) Σ t+1
+heading: ⭐ Final Discrete Update Rule (Canonical Box Calculus)
+id: GEN17-4863
+lines: 10634-10703
+location: genesis-17/box-calculus::derivation-continuous-mgde-discrete-mbc-step-rule::final-discrete-update-rule-canonical-box-calculus::b1
+parent_heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
+source: genesis-17\box_calculus.md

@@ -1,0 +1,15 @@
+block_type: list
+concepts:
+- Field
+- Meta-Field
+- Ψ
+- α
+excerpt: '- **Definition:** Derivatives tailored to the local fractal dimension `α(x)`.
+  - **Application:** For a Meta-Field `Ψ_F`, `∂_F Ψ_F` describes its rate of change
+  in a way that respects the local scaling...'
+heading: 2. Local Fractal Derivatives (∂_F)
+id: INTK-10449
+lines: 1538-1541
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::key-operators::2-local-fractal-derivatives-f::b1
+parent_heading: Key Operators
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

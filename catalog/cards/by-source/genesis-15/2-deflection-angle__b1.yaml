@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- α
+excerpt: 'Π-null gives: α^(r)=∇⊥Φ=Ar.\\hat{\\alpha}(r) \= \\nabla\_{\\perp} \\Phi
+  \= \\frac{A}{r}.α^(r)=∇⊥​Φ=rA​. This matches the asymptotic NFW halo deflection.'
+heading: '**2\. Deflection angle**'
+id: GEN15-3335
+lines: 1210-1218
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::iii-explicit-derivation::2-deflection-angle::b1
+parent_heading: '**III. Explicit derivation**'
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md

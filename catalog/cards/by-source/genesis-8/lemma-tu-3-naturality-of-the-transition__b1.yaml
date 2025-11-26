@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Lemma
+- The Tri
+- Tri-Unity
+- Unity Transition
+- structural
+- Φ
+- δ
+excerpt: '**Lemma (Naturality).** The Tri-Unity Transition commutes with morphisms
+  in all three categories: π∘Φ∘δ is a natural transformation\\pi\\circ\\Phi\\circ\\delta
+  \\text{ is a natural transformation}π∘Φ∘...'
+heading: '**◆ Lemma TU-3 (Naturality of the Transition) ◆**'
+id: GEN8-8714
+lines: 209-221
+location: genesis-8/corollary-einstein-compatibility-via::lemma-tu-3-naturality-of-the-transition::b1
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'Any morphism f:(A,ΦA)→(B,ΦB)f : (A,\\Phi\_A) \\to (B,\\Phi\_B)f:(A,ΦA​)→(B,ΦB​)
+  must satisfy:'
+heading: '**Axiom MM-1.3 — Φ-Functoriality**'
+id: GEN2-6322
+lines: 389-403
+location: genesis-2/axioms-of-geometry-topos-compatible::1-φ-objects-and-morphisms::axiom-mm-13-φ-functoriality::b1
+parent_heading: '**1\. Φ-Objects and Morphisms**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

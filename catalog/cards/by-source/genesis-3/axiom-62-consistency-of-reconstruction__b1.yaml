@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'For every physical law L∈PL \\in \\mathcal{P}L∈P, the reconstruction chain
+  satisfies: Gδ∘HΦ(L)G\_\\delta \\circ H\_\\Phi (L)Gδ​∘HΦ​(L) recovers the minimal
+  δ-structure generating that law.'
+heading: '**Axiom 6.2 (Consistency of Reconstruction)**'
+id: GEN3-7413
+lines: 715-727
+location: genesis-3/the-physics-box-diagram::6-the-δφphysics-closure-principle::axiom-62-consistency-of-reconstruction::b1
+parent_heading: '**6\. The δ–Φ–Physics Closure Principle**'
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md

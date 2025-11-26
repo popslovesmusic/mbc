@@ -1,0 +1,13 @@
+block_type: list
+concepts:
+- Π
+- Φ
+- δ
+excerpt: '* **Objects:** Boxes \= Π(Φ(δ(IGSOA))) * **Morphisms:** Π-adjacencies (causal
+  links, spatial relations) Composition is induced by chaining Π-connectors.'
+heading: '**Definition 4.1 (Box Category 𝓑)**'
+id: GEN17-5055
+lines: 648-654
+location: genesis-17/mbc-schema-3::4-the-box-category-𝓑::definition-41-box-category-𝓑::b1
+parent_heading: '**4\. The Box Category (𝓑)**'
+source: genesis-17\MBC_Schema_3.md

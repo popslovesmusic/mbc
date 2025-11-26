@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- λ
+excerpt: 'At time t: Pn(k,t)=Π(λn(t)∣Φn(k,t)∣2).\\mathcal{P}\_n(k,t)=\\Pi\\left(\\lambda\_n(t)|\\Phi\_n(k,t)|^2\\right).Pn​(k,t)=Π(λn​(t)∣Φn​(k,t)∣2).
+  Changes here correspond to:'
+heading: '**2\. Π interprets harmonic flow as evolving observable potentials**'
+id: GEN15-3242
+lines: 2463-2479
+location: genesis-15/the-mass-curvature-projection-theorem::ⅲ-proof-from-the-functor-stack::2-π-interprets-harmonic-flow-as-evolving-observable-potentials::b1
+parent_heading: '**Ⅲ. Proof From the Functor Stack**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

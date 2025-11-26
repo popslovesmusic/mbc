@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- δ
+- λ
+excerpt: For each δ-harmonic mode hnh\_nhn​ satisfying W(δ)hn=λnhn,W(\\delta) h\_n
+  \= \\lambda\_n h\_n,W(δ)hn​=λn​hn​, the Π-projected curvature perturbation mode
+  κn\\kappa\_nκn​ obeys
+heading: '**Theorem C₁ (δ → Π Curvature Variance Theorem)**'
+id: GEN14-2712
+lines: 957-969
+location: genesis-14/inflation-structure-formation::proof-4-igsoa-only-κₙ-variance-hₙ²::theorem-c₁-δ-π-curvature-variance-theorem::b1
+parent_heading: '**PROOF 4 (IGSOA-ONLY): κₙ Variance \= |hₙ|²**'
+source: genesis-14\Inflation__Structure_Formation.md

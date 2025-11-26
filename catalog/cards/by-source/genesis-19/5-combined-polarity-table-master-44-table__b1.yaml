@@ -1,0 +1,11 @@
+block_type: table
+concepts:
+- Logic Master Table
+- Θ
+excerpt: This is the canonical MBC-4.0 Θ-Logic Master Table. You can treat this table
+  as the **polarity algebra** inside the MBC-4.0 semantic engine. ---
+heading: '**5\. Combined Polarity Table (Master 4×4 Table)**'
+id: GEN19-5832
+lines: 182-195
+location: genesis-19/mbc-4-1::5-combined-polarity-table-master-44-table::b1
+source: genesis-19\MBC-4_1.md

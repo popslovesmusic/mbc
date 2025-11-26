@@ -1,0 +1,11 @@
+block_type: list
+concepts:
+- Box
+- Σ
+excerpt: '* atomic A ↦ Box with Σ\_A * A ⊗ B ↦ Box product * BA×BB'
+heading: Formulas ↦ Boxes
+id: GEN17-4550
+lines: 6357-6375
+location: genesis-17/box-calculus::5-the-full-embedding::formulas-boxes::b1
+parent_heading: ⭐ 5\. The Full Embedding
+source: genesis-17\box_calculus.md

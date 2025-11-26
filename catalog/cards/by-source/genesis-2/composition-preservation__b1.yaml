@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- not
+- Ψ
+excerpt: 'Genesis only permits composition when valid; Math always permits composition.
+  Thus: If g∘fg\\circ fg∘f exists in Genesis,'
+heading: '**Composition Preservation**'
+id: GEN2-6266
+lines: 703-713
+location: genesis-2/axioms-for-the-category-genesis::step-3-construction-of-the-functor::composition-preservation::b1
+parent_heading: '**\*\*🔶 Step 3 — Construction of the Functor**'
+source: genesis-2\Axioms_for_the_Category_Genesis.md

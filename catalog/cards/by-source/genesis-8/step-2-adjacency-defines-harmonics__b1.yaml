@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- The Laplacian
+- δ
+- λ
+excerpt: 'The Laplacian Δδ\\Delta\_\\deltaΔδ​ of A(δ)A(\\delta)A(δ) produces δ-harmonic
+  eigenvalues and modes: Δδ∣n⟩=λn2∣n⟩\\Delta\_\\delta |n\\rangle \= \\lambda\_n^2
+  |n\\rangleΔδ​∣n⟩=λn2​∣n⟩'
+heading: '**Step 2 — adjacency defines harmonics**'
+id: GEN8-8851
+lines: 1550-1554
+location: genesis-8/meta-time-geometry-and-temporal-projection::4-full-proof-igsoa-formal-version::step-2-adjacency-defines-harmonics::b1
+parent_heading: '**4\. Full Proof (IGSOA Formal Version)**'
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

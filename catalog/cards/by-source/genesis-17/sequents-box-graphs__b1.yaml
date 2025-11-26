@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- Box
+excerpt: 'A sequent: A1,A2,…,An⊢B A'
+heading: Sequents ↦ Box graphs
+id: GEN17-4551
+lines: 6377-6411
+location: genesis-17/box-calculus::5-the-full-embedding::sequents-box-graphs::b1
+parent_heading: ⭐ 5\. The Full Embedding
+source: genesis-17\box_calculus.md

@@ -1,0 +1,16 @@
+block_type: table
+concepts:
+- Box
+- Box Calculus Polarity
+- Howard Polarity
+- "Programs  \nTypes"
+- Standard Curry
+- Theorem
+- Π
+excerpt: 'Theorem (CH-BC): There is an isomorphism between four domains: Types  ≃  Propositions  ≃  Boxes  ≃  Programs'
+heading: 0\. Statement of the Theorem
+id: GEN17-4570
+lines: 6599-6612
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::0-statement-of-the-theorem::b1
+parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
+source: genesis-17\box_calculus.md

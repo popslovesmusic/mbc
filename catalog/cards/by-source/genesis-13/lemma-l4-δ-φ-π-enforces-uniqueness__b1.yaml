@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: If δ ⊣ Φ and Φ ⊣ Π both hold, then the triple is unique up to isomorphism.
+  (δ,Φ,Π)≅(δ′,Φ′,Π′).(\\delta,\\Phi,\\Pi) \\cong (\\delta', \\Phi', \\Pi').(δ,Φ,Π)≅(δ′,Φ′,Π′).
+  ---
+heading: '**Lemma L4 — δ ⊣ Φ ⊣ Π Enforces Uniqueness**'
+id: GEN13-2365
+lines: 1485-1491
+location: genesis-13/the-weight-of-light::2-lemmas::lemma-l4-δ-φ-π-enforces-uniqueness::b1
+parent_heading: '**2\. Lemmas**'
+source: genesis-13\The_Weight_of_Light.md

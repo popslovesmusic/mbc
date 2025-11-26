@@ -1,0 +1,13 @@
+block_type: list
+concepts:
+- Riemann-Liouville
+- ν
+excerpt: '- **Definition:** Generalize integer-order derivatives to arbitrary (non-integer)
+  orders. - **Types:** Riemann-Liouville, Caputo, etc. - **Application:** Used to
+  define rates of change on fractal sets...'
+heading: 1. Fractional Derivatives
+id: INTK-10448
+lines: 1532-1536
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::key-operators::1-fractional-derivatives::b1
+parent_heading: Key Operators
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

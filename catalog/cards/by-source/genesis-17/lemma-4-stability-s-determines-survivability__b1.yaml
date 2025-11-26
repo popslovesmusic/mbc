@@ -1,0 +1,11 @@
+block_type: table
+concepts:
+- Ω
+excerpt: 'Thus the candidate must also satisfy: S(ΩΔ(X))≥Scrit.S(\\Omega\\Delta(X))
+  \\ge S\_{crit}.S(ΩΔ(X))≥Scrit​. ---'
+heading: '**Lemma 4 — Stability S determines survivability.**'
+id: GEN17-5138
+lines: 2062-2073
+location: genesis-17/mbc-schema-3::proof-dual-column-formal-proof::lemma-4-stability-s-determines-survivability::b1
+parent_heading: '**PROOF (Dual-Column Formal Proof)**'
+source: genesis-17\MBC_Schema_3.md

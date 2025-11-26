@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: ∇\[X,Y\]ΦΦRΦ+∇\[Y,Z\]ΦΦRΦ+∇\[Z,X\]ΦΦRΦ=0.\\nabla^\\Phi\_{\[X,Y\]\_\\Phi}R\_\\Phi
+  \+\\nabla^\\Phi\_{\[Y,Z\]\_\\Phi}R\_\\Phi \+\\nabla^\\Phi\_{\[Z,X\]\_\\Phi}R\_\\Phi
+  \=0.∇\[X,Y\]Φ​Φ​RΦ​+∇\[Y,Z\]Φ​Φ​RΦ​...
+heading: '**Axiom (Φ-9) — Φ-Bianchi Identity**'
+id: GEN2-6427
+lines: 1514-1518
+location: genesis-2/axioms-of-geometry-topos-compatible::section-ii-φ-layer-action-flow-meta-math::axiom-φ-9-φ-bianchi-identity::b1
+parent_heading: '**Section II — Φ-Layer (Action-Flow / Meta-Math)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

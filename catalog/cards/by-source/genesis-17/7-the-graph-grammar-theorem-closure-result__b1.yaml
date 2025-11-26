@@ -1,0 +1,15 @@
+block_type: table
+concepts:
+- Box
+- Standard Statement
+- Theorem
+- Π
+- Φ
+- ρ
+excerpt: 'Theorem (Termination-to-Π): If WF(G)'
+heading: 7\. The Graph Grammar Theorem (Closure Result)
+id: GEN17-4258
+lines: 1682-1701
+location: genesis-17/box-calculus::graph-grammar-for-box-calculus-topology-legal-wiring::7-the-graph-grammar-theorem-closure-result::b1
+parent_heading: ⭐ GRAPH GRAMMAR FOR BOX CALCULUS (Topology & Legal Wiring)
+source: genesis-17\box_calculus.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Π
+- Σ
+excerpt: E cannot undo Π-evaluation. E(Π(Σ))=Π(Σ) E(Π(Σ))=Π(Σ)
+heading: 3.4 NON-INVERSION RULE
+id: GEN17-4235
+lines: 1311-1316
+location: genesis-17/box-calculus::3-formal-halting-law::34-non-inversion-rule::b1
+parent_heading: ⭐ 3\. Formal Halting Law
+source: genesis-17\box_calculus.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Deviation δ defines a graph A(δ)A(\\delta)A(δ) with vertices \= DOFs and
+  edges \= deviation couplings. Thus: Aδ=C\\\*(A)\\mathcal{A}\_\\delta \= C^{\\\*}(A)Aδ​=C\\\*(A)'
+heading: '**Step 1 — δ generates adjacency**'
+id: GEN8-8850
+lines: 1542-1548
+location: genesis-8/meta-time-geometry-and-temporal-projection::4-full-proof-igsoa-formal-version::step-1-δ-generates-adjacency::b1
+parent_heading: '**4\. Full Proof (IGSOA Formal Version)**'
+source: genesis-8\META-TIME_GEOMETRY_AND_TEMPORAL_PROJECTION.md

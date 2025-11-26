@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- first-order
+- δ
+excerpt: 'Deviation acts as a genuine differential: \[\[Dδ,π(a)\],Jδπ(b)Jδ−1\]=0\[\[\\mathcal{D}\_{\\delta},
+  \\pi(a)\], J\_{\\delta} \\pi(b) J\_{\\delta}^{-1}\] \= 0\[\[Dδ​,π(a)\],Jδ​π(b)Jδ−1​\]=0
+  for all a, b ...'
+heading: '**AXIOM S7 – δ-First-Order Axiom**'
+id: GEN6-8266
+lines: 91-102
+location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s7-δ-first-order-axiom::b1
+parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

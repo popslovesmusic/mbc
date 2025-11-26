@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: ∇Φ(fg)=(∇Φf)g+f(∇Φg)+(Φf)g.\\nabla^\\Phi(fg) \= (\\nabla^\\Phi f) g \+ f(\\nabla^\\Phi
+  g) \+ (\\Phi f) g.∇Φ(fg)=(∇Φf)g+f(∇Φg)+(Φf)g. ---
+heading: '**Axiom (Φ-7) — Φ-Connection**'
+id: GEN2-6425
+lines: 1502-1506
+location: genesis-2/axioms-of-geometry-topos-compatible::section-ii-φ-layer-action-flow-meta-math::axiom-φ-7-φ-connection::b1
+parent_heading: '**Section II — Φ-Layer (Action-Flow / Meta-Math)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

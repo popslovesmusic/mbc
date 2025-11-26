@@ -1,0 +1,18 @@
+block_type: table
+concepts:
+- Box
+- Box Calculus
+- Type Theory
+- Γ
+- Π
+- ρ
+- σ
+- τ
+excerpt: 'This is the core Curry–Howard mapping for Box Calculus. So the mapping is:
+  τ↔P,M:τ↔proof of P,Bτ↔P,Π↔normalization'
+heading: 2\. Dictionary of Correspondence
+id: GEN17-4575
+lines: 6663-6683
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::2-dictionary-of-correspondence::b1
+parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
+source: genesis-17\box_calculus.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: 'IGSOA-specific: ∥δ(E(Σ))∥\<κ⇒E halts\\|\\delta(E(\\Sigma))\\| \< \\kappa
+  \\quad \\Rightarrow \\quad E \\text{ halts}∥δ(E(Σ))∥\<κ⇒E halts If δ-curvature contribution
+  falls below threshold, expansion st...'
+heading: '**3.5 CURVATURE CONSTRAINT**'
+id: GEN16-3823
+lines: 1096-1104
+location: genesis-16/untitled-document::3-formal-halting-law::35-curvature-constraint::b1
+parent_heading: '**⭐ 3\. Formal Halting Law**'
+source: genesis-16\Untitled_document.md

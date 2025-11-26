@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Boson Propagator Tower
+- Ψ
+- δ
+excerpt: 'Excitations δ^(m)\\hat\\delta^{(m)}δ^(m) couple to fermions with strength
+  proportional to their mass: L⊃∑i,j,myij(m)ΨˉiΨjδ^(m)\\mathcal L \\supset \\sum\_{i,j,m}
+  y^{(m)}\_{ij} \\bar\\Psi\_i\\Psi\_j \\...'
+heading: '**6\. Physical δ-Higgs particles**'
+id: GEN0-029
+lines: 367-381
+location: genesis-0/feynman-rules-interaction-vertices::the-δ-higgs-flavor-mass-sector::6-physical-δ-higgs-particles::b1
+parent_heading: '**The δ-Higgs / Flavor-Mass Sector**'
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

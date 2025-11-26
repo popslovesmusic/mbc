@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Γ
+- δ
+excerpt: 'There exists a unique δ-connection ∇δ:Γ(A)→Γ(A⊗T∗A)\\nabla^\\delta : \\Gamma(A)
+  \\to \\Gamma(A \\otimes T^\\ast A)∇δ:Γ(A)→Γ(A⊗T∗A) satisfying a δ-Leibniz rule'
+heading: '**Axiom 2.3 — δ-Connection**'
+id: GEN2-6302
+lines: 106-118
+location: genesis-2/axioms-of-geometry-topos-compatible::2-deviational-algebra-δ-as-an-internal-operator::axiom-23-δ-connection::b1
+parent_heading: '**2\. Deviational Algebra (δ as an Internal Operator)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

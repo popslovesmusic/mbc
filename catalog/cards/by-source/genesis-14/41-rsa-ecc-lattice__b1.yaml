@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Lift Theorem
+- Meta-Math
+- No-Lift
+- Theorem
+- Π
+- Φ
+- δ
+excerpt: 'All public-key systems are built on: * Hard inversion problems * Asymmetric
+  structure'
+heading: '**4.1 RSA / ECC / Lattice**'
+id: GEN14-2803
+lines: 95-125
+location: genesis-14/meta-math-and-cryptography::4-public-key-cryptography-in-δφπ-language::41-rsa-ecc-lattice::b1
+parent_heading: '**4\. Public-Key Cryptography in δ/Φ/Π Language**'
+source: genesis-14\Meta-Math_and_Cryptography.md

@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Box
+- 'Box
+
+
+  This'
+- First Box
+- Second Box
+excerpt: 'T(MN)=eval(T(M), T(N))\\mathcal{T}(MN) \= eval\\left( \\mathcal{T}(M),\\
+  \\mathcal{T}(N) \\right)T(MN)=eval(T(M), T(N)) Where: * First Box \= function Box'
+heading: '**2.3 Application**'
+id: GEN16-4087
+lines: 4460-4476
+location: genesis-16/untitled-document::2-explicit-translation-λ-box::23-application::b1
+parent_heading: '**⭐ 2\. Explicit Translation λ → Box**'
+source: genesis-16\Untitled_document.md

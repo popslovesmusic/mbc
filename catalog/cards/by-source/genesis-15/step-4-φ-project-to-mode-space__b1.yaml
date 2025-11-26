@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+- λ
+excerpt: 'Apply Φ: Φ(Kδ)=Φ(K0)+Φ(K1)+Φ(K2)\\Phi(\\mathcal{K}\_\\delta) \= \\Phi(\\mathcal{K}\_0)
+  \+ \\Phi(\\mathcal{K}\_1) \+ \\Phi(\\mathcal{K}\_2)Φ(Kδ​)=Φ(K0​)+Φ(K1​)+Φ(K2​) Now
+  use the spectral decomposition...'
+heading: '**Step 4 — Φ-project to mode space**'
+id: GEN15-3130
+lines: 781-798
+location: genesis-15/the-mass-curvature-projection-theorem::δ-higgs-potential-derivation-step-by-step::step-4-φ-project-to-mode-space::b1
+parent_heading: '**⟡ δ-Higgs Potential Derivation (Step-by-Step) ⟡**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

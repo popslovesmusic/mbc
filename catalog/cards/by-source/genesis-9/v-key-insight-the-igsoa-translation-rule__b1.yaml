@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- δ
+excerpt: '**Every element Z corresponds to a unique δ-adjacency filling pattern**:
+  Z=∑k=1nΠ(Degeneracy(k)).Z \= \\sum\_{k=1}^{n} \\Pi(\\text{Degeneracy}(k)).Z=k=1∑n​Π(Degeneracy(k)).
+  The periodic table is the *...'
+heading: '**V. Key Insight (The IGSOA Translation Rule)**'
+id: GEN9-9382
+lines: 685-697
+location: genesis-9/is-the-source-of-all-structure::v-key-insight-the-igsoa-translation-rule::b1
+source: genesis-9\is_the_source_of_all_structure.md

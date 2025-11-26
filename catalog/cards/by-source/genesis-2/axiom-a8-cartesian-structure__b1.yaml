@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Φ
+- Ψ
+- δ
+excerpt: 'MG is a **cartesian category**: X×Y∈MG,Ψ0 terminal.(A.4.1)X\\times Y \\in
+  MG,\\qquad \\Psi\_0\\text{ terminal}. \\tag{A.4.1}X×Y∈MG,Ψ0​ terminal.(A.4.1) By
+  the compatibility lemma:'
+heading: '**Axiom A8 (Cartesian Structure).**'
+id: GEN2-6545
+lines: 1050-1062
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a4-structural-axioms::axiom-a8-cartesian-structure::b1
+parent_heading: '**A.4 Structural Axioms**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+excerpt: Let qi∈HΦ,i=1,2,3.q\_i\\in\\mathcal{H}\_\\Phi, \\quad i=1,2,3.qi​∈HΦ​,i=1,2,3.
+  Then their Π-projection is
+heading: '**Theorem 3.2 (Quark → Hadron Projection).**'
+id: GEN13-2129
+lines: 1591-1603
+location: genesis-13/meta-math-nuclear-physics::3-π-projection-to-qcd-observables::theorem-32-quark-hadron-projection::b1
+parent_heading: '**3\. Π-Projection to QCD Observables**'
+source: genesis-13\Meta-Math__Nuclear_Physics.md

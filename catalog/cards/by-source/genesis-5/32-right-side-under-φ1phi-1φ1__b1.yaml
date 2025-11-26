@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- η
+excerpt: 'Now take the right side: ηX′∘f:X→U(LX′).\\eta\_{X''}\\circ f : X \\to U(LX'').ηX′​∘f:X→U(LX′).
+  Apply ΦX,LX′−1\\Phi^{-1}\_{X,LX''}ΦX,LX′−1​. Naturality of Φ\\PhiΦ in the XXX-slot
+  gives:'
+heading: '**3.2 Right side under Φ−1\\Phi^{-1}Φ−1**'
+id: GEN5-8006
+lines: 1017-1035
+location: genesis-5/formal-proof-of-the-adjoint-triple::7-coda-unity-does-not-mean-simplicity::3-proof-of-naturality::32-right-side-under-φ1phi-1φ1::b1
+parent_heading: '**3\. Proof of naturality**'
+source: genesis-5\Formal_Proof_of_the_Adjoint_Triple.md

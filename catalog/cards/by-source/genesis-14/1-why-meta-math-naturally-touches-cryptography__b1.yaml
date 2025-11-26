@@ -1,0 +1,18 @@
+block_type: paragraph
+concepts:
+- Meta-Math
+- exactly
+- Π
+- Π-Projection
+- Φ
+- Φ-Processing
+- δ
+excerpt: Cryptography is fundamentally about **distinguishing states** (keys, ciphertexts,
+  hashes) under operations that deliberately compress, randomize, or hide structure.
+  Your **Meta-Math** framework alread...
+heading: '**1\. Why Meta-Math *Naturally* Touches Cryptography**'
+id: GEN14-2800
+lines: 6-33
+location: genesis-14/meta-math-and-cryptography::meta-math-and-cryptography::1-why-meta-math-naturally-touches-cryptography::b1
+parent_heading: '**Meta-Math and Cryptography**'
+source: genesis-14\Meta-Math_and_Cryptography.md

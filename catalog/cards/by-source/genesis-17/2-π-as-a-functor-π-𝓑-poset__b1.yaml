@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Box
+- Poset
+- Π
+excerpt: 'Let **Poset** be the category of partially ordered sets with monotone maps.
+  Define the functor: `Π : 𝓑 → Poset`'
+heading: '**⭐ 2\. Π as a Functor: Π : 𝓑 → Poset**'
+id: GEN17-4970
+lines: 1304-1338
+location: genesis-17/key-points::2-π-as-a-functor-π-𝓑-poset::b1
+source: genesis-17\Key_Points.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Ψ
+excerpt: 'Any morphism f:Ψi→Ψjf : \\Psi\_i \\rightarrow \\Psi\_jf:Ψi​→Ψj​ in the Genesis
+  category projects to a corresponding morphism of observables: Obs(f)=(LC∘Π∘H∘Δ)(f).\\mathsf{Obs}(f)
+  \= (\\mathsf{LC}\\cir...'
+heading: '**Axiom F3 (Genesis Morphism Projection).**'
+id: GEN12-1665
+lines: 2120-2130
+location: genesis-12/discussion-what-the-cosmic-pipeline-chapter-must-do::sealed-axiom-box-functoriality::axiom-f3-genesis-morphism-projection::b1
+parent_heading: '**⟡ SEALED AXIOM BOX — Functoriality ⟡**'
+source: genesis-12\Discussion__What_the_Cosmic_Pipeline_Chapter_Must_Do.md

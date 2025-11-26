@@ -1,0 +1,13 @@
+block_type: table
+concepts:
+- Θ
+- Π
+- δ
+excerpt: '**Interpretation:** OR collapses to the **maximum curvature direction**,
+  unless router overrides. Geometry:'
+heading: '**MBC-4.0 Θ-Enhanced OR**'
+id: GEN19-5826
+lines: 95-114
+location: genesis-19/mbc-4-1::32-polarity-or-θ-or::mbc-40-θ-enhanced-or::b1
+parent_heading: '**3.2 Polarity OR (Θ-OR)**'
+source: genesis-19\MBC-4_1.md

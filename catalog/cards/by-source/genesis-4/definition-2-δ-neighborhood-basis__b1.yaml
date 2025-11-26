@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+- δ-neighborhood
+excerpt: 'For each state Ψn\\Psi\_nΨn​, define the **δ-neighborhood**: Nδ(Ψn)={Ψm:Ψm
+  adjacent to Ψn via a finite δ-path}.N\_\\delta(\\Psi\_n) \= \\{\\Psi\_m : \\Psi\_m
+  \\text{ adjacent to } \\Psi\_n \\text{ via...'
+heading: '**Definition 2 — δ-Neighborhood Basis**'
+id: GEN4-7841
+lines: 536-540
+location: genesis-4/the-first-adjacency::2-definitions::definition-2-δ-neighborhood-basis::b1
+parent_heading: '**2\. Definitions**'
+source: genesis-4\The_First_Adjacency.md

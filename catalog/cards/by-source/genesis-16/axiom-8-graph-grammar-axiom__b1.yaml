@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- CycleWF
+- OpWF
+- TypeWF
+- converge
+excerpt: '**The legal operations over the graph follow a strict topology.** A reasoning
+  graph G=(B,E)\\mathcal{G}=(B,\\mathcal{E})G=(B,E) is well-formed iff: WF(G)=TypeWF∧OpWF∧CycleWF\\boxed{
+  \\mathrm{WF}(\\mat...'
+heading: '**⭐ AXIOM 8 — Graph Grammar Axiom**'
+id: GEN16-3859
+lines: 1622-1640
+location: genesis-16/untitled-document::axiom-8-graph-grammar-axiom::b1
+source: genesis-16\Untitled_document.md

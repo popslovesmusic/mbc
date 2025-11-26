@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Levi-Civita
+- Γ
+- δ
+- δ-curvature
+- δ-torsion
+excerpt: 'The δ-connection ∇(δ)\\nabla^{(\\delta)}∇(δ) on adjacency has the standard
+  decomposition: ∇(δ)=Γ(δ)+K(δ),\\nabla^{(\\delta)} \= \\Gamma^{(\\delta)} \+ K^{(\\delta)},∇(δ)=Γ(δ)+K(δ),
+  where:'
+heading: '**1\. The Weitzenböck Connection in δ-Geometry**'
+id: GEN9-9480
+lines: 585-611
+location: genesis-9/strong-force::1-the-weitzenböck-connection-in-δ-geometry::b1
+source: genesis-9\strong-force.md

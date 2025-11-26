@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Identity Everywhere
+- identity-complete
+excerpt: '**Axiom M3 — Identity Everywhere** Every object XXX has an identity morphism:
+  idX:X→X.\\mathrm{id}\_X : X \\to X.idX​:X→X.'
+heading: '**3\. Identity Morphisms**'
+id: GEN2-6244
+lines: 299-310
+location: genesis-2/axioms-for-the-category-genesis::3-identity-morphisms::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md

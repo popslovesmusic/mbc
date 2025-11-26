@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- must
+- Γ
+- δ
+excerpt: 'Define the δ-adjacency connection: Γijδ=f(Ai,δAi)\\Gamma^\\delta\_{ij} \=
+  f(\\mathcal{A}\_i,\\delta \\mathcal{A}\_i)Γijδ​=f(Ai​,δAi​) The induced δ-curvature
+  is:'
+heading: '**3\. The δ-Curvature Tensor**'
+id: GEN7-8621
+lines: 70-89
+location: genesis-7/why-curvature-gives-gravity::3-the-δ-curvature-tensor::b1
+source: genesis-7\Why_-Curvature_Gives_Gravity.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- α
+excerpt: At each point `x` in F, there's a local fractal dimension `α(x)` that dictates
+  how the space scales in its vicinity.
+heading: 2. Local Fractal Dimension (α(x))
+id: INTK-10444
+lines: 1519-1520
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::meta-fractal-calculus::core-concepts::2-local-fractal-dimension-αx::b1
+parent_heading: Core Concepts
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

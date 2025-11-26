@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Stability Theorem
+- Theorem
+- Ψ
+- δ
+- λ
+- μ
+excerpt: 'Assume a vacuum solution: δ(m)(x)=vδu(m)with u(m)u(m)=1.\\delta^{(m)}(x)
+  \= v\_{\\delta} u^{(m)} \\quad \\text{with } u^{(m)}u^{(m)}=1.δ(m)(x)=vδ​u(m)with
+  u(m)u(m)=1. (Vacuum amplitude times direction...'
+heading: '**V. The Vacuum Ansatz**'
+id: GEN0-104
+lines: 1478-1522
+location: genesis-0/feynman-rules-interaction-vertices::v-the-vacuum-ansatz::b1
+source: genesis-0\-Feynman_Rules__Interaction_Vertices.md

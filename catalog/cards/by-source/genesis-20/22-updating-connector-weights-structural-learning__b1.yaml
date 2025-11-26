@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts: []
+excerpt: 'Connectors represent dependency strength. They can adapt based on statistical
+  metrics: * correlation strength'
+heading: 2.2 Updating Connector Weights (structural learning)
+id: GEN20-6727
+lines: 956-973
+location: genesis-20/mbc-40-documentaitio-1::2-how-mbc-incorporates-real-time-statistical-updates::22-updating-connector-weights-structural-learning::b1
+parent_heading: ✅ 2\. How MBC incorporates real-time statistical updates
+source: genesis-20\MBC_40_Documentaitio-1.md

@@ -1,0 +1,13 @@
+block_type: table
+concepts:
+- Box
+- Π
+- Φ
+- τ
+excerpt: 'Let: * τΦ\\tau\_\\PhiτΦ​: curvature amplification time * τΠ\\tau\_\\PiτΠ​:
+  projection/ordering time'
+heading: '**Lemma 3 — If Φ grows faster than Π stabilizes, ordering cannot form.**'
+id: GEN17-5117
+lines: 1508-1531
+location: genesis-17/mbc-schema-3::lemma-3-if-φ-grows-faster-than-π-stabilizes-ordering-cannot-form::b1
+source: genesis-17\MBC_Schema_3.md

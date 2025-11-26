@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Deviational Action Principle
+- From Axiom
+- Φ
+- δ
+- μ
+- ν
+excerpt: 'From Axiom 8 (Deviational Action Principle): Sδ\[Φ\]=∫HLδ(Φ,δΦ,gδ) dμδ.S\_\\delta\[\\Phi\]
+  \= \\int\_{\\mathcal{H}} \\mathcal{L}\_\\delta(\\Phi, \\delta\\Phi, g\_\\delta)\\,
+  d\\mu\_\\delta.Sδ​\[Φ\]=∫H...'
+heading: '**4\. Deviational Stress–Energy Tensor**'
+id: INTK-9668
+lines: 294-310
+location: intake/axioms-geometry::4-deviational-stressenergy-tensor::b1
+source: intake\Axioms-geometry.md

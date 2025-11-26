@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- λ
+excerpt: λ˙n(t)=⟨Φn,κ˙Φn⟩.\\dot{\\lambda}\_n(t) \= \\langle \\Phi\_n , \\dot{\\kappa}
+  \\Phi\_n \\rangle.λ˙n​(t)=⟨Φn​,κ˙Φn​⟩.
+heading: '**2\. Evolution of eigenvalues**'
+id: GEN15-3246
+lines: 2507-2509
+location: genesis-15/the-mass-curvature-projection-theorem::ⅳ-operator-theoretic-evolution-equations::2-evolution-of-eigenvalues::b1
+parent_heading: '**Ⅳ. Operator-Theoretic Evolution Equations**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

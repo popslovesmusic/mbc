@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Deviation Operator
+- Deviational State Space
+- Operator
+- Zero-State
+- Ψ
+- δ
+excerpt: '*(Version 1.0 — canonical reference form)* Let Ψ0\\Psi\_0Ψ0​ denote the
+  **Zero-State** (operator-free, atemporal, structureless), and let H\\mathcal{H}H
+  denote the **Deviational State Space** (the spa...'
+heading: '**Axioms of Deviational Geometry (Formal)**'
+id: INTK-9648
+lines: 2-12
+location: intake/axioms-geometry::axioms-of-deviational-geometry-formal::b1
+source: intake\Axioms-geometry.md

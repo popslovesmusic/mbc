@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts: []
+excerpt: 'F(w):=dA(w)+A(w)∧A(w).F^{(w)} := \\mathrm{d}A^{(w)} \+ A^{(w)}\\wedge A^{(w)}.F(w):=dA(w)+A(w)∧A(w).
+  This is the categorical Yang–Mills curvature: the obstruction to the naturality
+  of A(w)A^{(w)}A(w).'
+heading: '**The weak curvature**'
+id: GEN9-9512
+lines: 1226-1237
+location: genesis-9/strong-force::5-weak-force-as-internal-natural-transformations::the-weak-curvature::b1
+parent_heading: '**5\. Weak Force as Internal Natural Transformations**'
+source: genesis-9\strong-force.md

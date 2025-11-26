@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Zero-State
+- topos-terminal
+- Φ
+- Ψ
+- σ
+excerpt: 'There exists a unique object Ψ0∈MG\\Psi\_0 \\in MGΨ0​∈MG such that: 1. Ψ0\\Psi\_0Ψ0​
+  admits **no adjacency**; 2. Ψ0\\Psi\_0Ψ0​ admits **no internal morphisms except
+  the identity**;'
+heading: '**Axiom A1 (Zero-State Ψ₀).**'
+id: GEN2-6538
+lines: 914-930
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::a1-primitive-objects-of-meta-genesis::axiom-a1-zero-state-ψ₀::b1
+parent_heading: '**A.1 Primitive Objects of Meta-Genesis**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

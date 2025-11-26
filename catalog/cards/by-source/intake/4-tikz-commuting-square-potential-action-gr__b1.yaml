@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts: []
+excerpt: '`\begin{tikzpicture}[>=stealth, node distance=3.0cm]` `\node (Psi0) {$\Psi_0$};`
+  `\node[right of=Psi0] (H) {$\mathcal{H}$};`'
+heading: '**4\) TikZ: Commuting Square (Potential → Action → GR)**'
+id: INTK-9703
+lines: 866-887
+location: intake/axioms-geometry::tikz-latex-paper-ready-geometry-stack::4-tikz-commuting-square-potential-action-gr::b1
+parent_heading: '**TikZ (LaTeX) — Paper-Ready Geometry Stack**'
+source: intake\Axioms-geometry.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Axiom
+- By Axiom
+- δ
+excerpt: 'By Axiom (δ-11): δRδ=Tδ.(1)\\delta R\_\\delta \= T\_\\delta. \\tag{1}δRδ​=Tδ​.(1)
+  This holds for every δ-object in every slice of the ambient topos.'
+heading: '**Step 1 — δ-Curvature satisfies the δ-Field Equation**'
+id: GEN2-6445
+lines: 1681-1689
+location: genesis-2/axioms-of-geometry-topos-compatible::proof::step-1-δ-curvature-satisfies-the-δ-field-equation::b1
+parent_heading: '**Proof**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: '*Given δ–Φ coherent curvature and the δ/Φ interaction tensor, the only consistent
+  curvature law is* Rδ=RΦ=TδΦ.\\mathcal{R}\_\\delta \= \\mathcal{R}\_\\Phi \= T\_{\\delta\\Phi}.Rδ​=RΦ​=TδΦ​.'
+heading: '**Lemma 3 (Unified Curvature Equals Interaction Tensor)**'
+id: GEN3-7431
+lines: 926-930
+location: genesis-3/the-physics-box-diagram::proof::lemma-3-unified-curvature-equals-interaction-tensor::b1
+parent_heading: '**Proof**'
+source: genesis-3\THE_Physics_BOX_DIAGRAM.md

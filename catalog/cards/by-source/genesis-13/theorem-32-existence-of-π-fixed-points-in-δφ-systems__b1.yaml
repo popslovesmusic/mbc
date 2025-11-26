@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- Ω
+- δ
+excerpt: 'For any composite functor: Π∘Φ∘δ:S→P\\Pi \\circ \\Phi \\circ \\delta : \\mathcal{S}
+  \\to \\mathcal{P}Π∘Φ∘δ:S→P there exists at least one fixed point in P\\mathcal{P}P:'
+heading: '**Theorem 3.2 (Existence of Π-Fixed Points in δ–Φ Systems).**'
+id: GEN13-2533
+lines: 1033-1045
+location: genesis-13/what-biology-is-in-meta-genesis::3-π-closure-and-stabilization::theorem-32-existence-of-π-fixed-points-in-δφ-systems::b1
+parent_heading: '**3\. Π-Closure and Stabilization**'
+source: genesis-13\What_Biology_Is_in_Meta-Genesis.md

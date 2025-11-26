@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: Φ(δR)(x)=∫ ⁣TΦ(k) δk eik⋅x dk\\Phi(\\delta\\mathcal{R})(x) \= \\int\\\! \\mathcal{T}\_{\\Phi}(k)\\,\\delta\_k\\,e^{ik\\cdot
+  x}\\,dkΦ(δR)(x)=∫TΦ​(k)δk​eik⋅xdk where TΦ(k)\\mathcal{T}\_\\Phi(k)TΦ​(k) gi...
+heading: '**Φ-Uniformization (Genesis Smoothing)**'
+id: GEN11-1184
+lines: 1213-1217
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::sealed-axiom-box-the-δinflation-projection-axiom::definitions::φ-uniformization-genesis-smoothing::b1
+parent_heading: '**DEFINITIONS**'
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md

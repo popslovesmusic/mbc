@@ -1,0 +1,17 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Morphisms
+- Objects
+- Zero-State
+- Ψ
+- δ
+excerpt: '**Objects**: Pre-structural states GGG generated from the Zero-State Ψ₀
+  by allowable applications of δ. Ob(Genesis)={Ψ0, δΨ0, δ2Ψ0,… }\\mathrm{Ob}(\\mathbf{Genesis})
+  \= \\{ \\Psi\_0,\\, \\delta\\Psi\_...'
+heading: '**1.1 Category 𝓖: Genesis**'
+id: GEN3-7271
+lines: 23-41
+location: genesis-3/metagenesis::1-the-two-categories::11-category-𝓖-genesis::b1
+parent_heading: '**1\. The Two Categories**'
+source: genesis-3\metagenesis.md

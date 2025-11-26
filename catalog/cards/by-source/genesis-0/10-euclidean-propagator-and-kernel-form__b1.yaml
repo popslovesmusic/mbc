@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Wick-rotated propagator: Dδ(pE)=∑k=1∞ZkpE2+mk2.D\_\\delta(p\_E) \= \\sum\_{k=1}^{\\infty}
+  \\frac{Z\_k}{p\_E^2 \+ m\_k^2}.Dδ​(pE​)=k=1∑∞​pE2​+mk2​Zk​​. This defines the **δ-heat
+  kernel**:'
+heading: '**10\. Euclidean Propagator and Kernel Form**'
+id: GEN0-361
+lines: 1841-1861
+location: genesis-0/why-the-first-action-is-necessary::10-euclidean-propagator-and-kernel-form::b1
+source: genesis-0\Why_the_First_Action_Is_Necessary.md

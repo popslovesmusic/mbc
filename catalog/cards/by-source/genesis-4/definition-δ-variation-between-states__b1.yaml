@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+- δ-variation
+excerpt: 'Define the **δ-variation** between states Ψi,Ψj\\Psi\_i, \\Psi\_jΨi​,Ψj​
+  as: Δδ(Ψi,Ψj)=the minimal number of δ-transformations needed to relate them\\Delta\_\\delta(\\Psi\_i,\\Psi\_j)
+  \= \\text{the mi...'
+heading: '**Definition — δ-Variation Between States**'
+id: GEN4-7908
+lines: 1695-1705
+location: genesis-4/the-first-adjacency::3-δ-variation-as-a-proto-metric::definition-δ-variation-between-states::b1
+parent_heading: '**3\. δ-Variation as a Proto-Metric**'
+source: genesis-4\The_First_Adjacency.md

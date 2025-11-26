@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Σ
+- δ
+excerpt: dΣdt=F(Σ(t);δ(Σ(t))) dt dΣ
+heading: 🔷 1\. Start with the MGDE
+id: GEN17-4857
+lines: 10404-10412
+location: genesis-17/box-calculus::derivation-continuous-mgde-discrete-mbc-step-rule::1-start-with-the-mgde::b1
+parent_heading: '⭐ DERIVATION: Continuous MGDE → Discrete MBC Step Rule'
+source: genesis-17\box_calculus.md

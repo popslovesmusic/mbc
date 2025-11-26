@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Θ
+- Π
+- Φ
+excerpt: 'To prove that “A implies C” under context B: 1. A and B form a Φ-structure
+  2. Θ-router propagates polarity'
+heading: 'Example:'
+id: GEN20-6865
+lines: 2747-2765
+location: genesis-20/mbc-40-documentaitio-1::do-you-approve-this-companion-structure::89-proof-like-reasoning-in-mbc::example::b1
+parent_heading: 8.9 Proof-Like Reasoning in MBC
+source: genesis-20\MBC_40_Documentaitio-1.md

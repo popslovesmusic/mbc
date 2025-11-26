@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Curvature is defined purely from deviation: Rδ(X,Y)Z:=∇Xδ∇YδZ−∇Yδ∇XδZ−∇\[X,Y\]δZ.R^\\delta(X,Y)Z
+  := \\nabla^\\delta\_X \\nabla^\\delta\_Y Z \- \\nabla^\\delta\_Y \\nabla^\\delta\_X
+  Z \- \\nabla^\\delt...'
+heading: '**Axiom 6 — Deviational Curvature**'
+id: INTK-9654
+lines: 104-116
+location: intake/axioms-geometry::axiom-6-deviational-curvature::b1
+source: intake\Axioms-geometry.md

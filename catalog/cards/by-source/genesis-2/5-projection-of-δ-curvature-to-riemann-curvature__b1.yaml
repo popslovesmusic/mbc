@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Γ
+- Π
+- δ
+excerpt: 'δ-curvature: Rδ(δn)=\[∇iδ,∇jδ\]δn.\\mathcal{R}\_\\delta(\\delta\_n) \= \[\\nabla^\\delta\_i,\\nabla^\\delta\_j\]\\delta\_n.Rδ​(δn​)=\[∇iδ​,∇jδ​\]δn​.
+  Projection:'
+heading: '**5\. Projection of δ-Curvature to Riemann Curvature**'
+id: GEN2-6507
+lines: 461-473
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::5-projection-of-δ-curvature-to-riemann-curvature::b1
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

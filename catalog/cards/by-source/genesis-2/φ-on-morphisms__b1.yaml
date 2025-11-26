@@ -1,0 +1,14 @@
+block_type: list
+concepts:
+- Φ
+- Ψ
+- α
+- δ
+- η
+excerpt: '1. **Φ(η: Ψ₀ → δΨ₀)** Becomes the natural transformation 1 → F₁'
+heading: '**Φ on morphisms:**'
+id: GEN2-6482
+lines: 116-129
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::3-definition-of-the-functor-φ-mg-σ-topos::φ-on-morphisms::b1
+parent_heading: '**3\. Definition of the Functor Φ: MG → σ-Topos**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'δΨ0\\delta\\Psi\_0δΨ0​ is *not equal* to Ψ0\\Psi\_0Ψ0​. Hence: ∃ S={Ψ0,δΨ0}\\exists\\,
+  S \= \\{\\Psi\_0, \\delta\\Psi\_0\\}∃S={Ψ0​,δΨ0​} with a valid distinction.'
+heading: '**Lemma 2 (Deviation provides domain structure).**'
+id: INTK-9986
+lines: 604-617
+location: intake/meta-genesis-mathematical-papers::3-fully-formal-proof::31-algebraic-proof::lemma-2-deviation-provides-domain-structure::b1
+parent_heading: '**3.1 Algebraic Proof**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

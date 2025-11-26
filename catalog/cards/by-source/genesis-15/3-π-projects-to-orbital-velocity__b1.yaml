@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- radius-independent
+- Π
+- Φ
+excerpt: 'Orbital velocity under Π: v(r)=r ∂rΦeff(r).v(r) \= \\sqrt{r\\, \\partial\_r
+  \\Phi\_{\\mathrm{eff}}(r)}.v(r)=r∂r​Φeff​(r)​. For Φ∼log⁡r\\Phi \\sim \\log rΦ∼logr:'
+heading: '**3\. Π projects to orbital velocity**'
+id: GEN15-3265
+lines: 139-151
+location: genesis-15/the-rotation-curve-theorem-csoi-tail-edition::v-the-igsoa-formal-proof-sketch::3-π-projects-to-orbital-velocity::b1
+parent_heading: '**V. The IGSOA-Formal Proof Sketch**'
+source: genesis-15\The_Rotation_Curve_Theorem_CSOI-Tail_Edition.md

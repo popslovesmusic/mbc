@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Box
+- Box Calculus
+- Σ
+- α
+- β
+- δ
+excerpt: '**Meaning merge is a weighted linear combination plus a δ-curvature correction.**
+  A(Σ1,Σ2)=α Σ1+β Σ2+δ(Σ1,Σ2)\\boxed{ A(\\Sigma\_1,\\Sigma\_2) \= \\alpha\\,\\Sigma\_1
+  \+ \\beta\\,\\Sigma\_2 \+ \\delta...'
+heading: '**⭐ AXIOM 2 — Aggregation (Mixing) Axiom**'
+id: GEN16-3853
+lines: 1504-1524
+location: genesis-16/untitled-document::axiom-2-aggregation-mixing-axiom::b1
+source: genesis-16\Untitled_document.md

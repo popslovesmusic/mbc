@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Deviational Levi
+- Levi-Civita
+- δ
+excerpt: 'There exists a unique torsion-free connection ∇δ\\nabla^\\delta∇δ compatible
+  with the deviational metric: ∇δgδ=0.\\nabla^\\delta g\_\\delta \= 0.∇δgδ​=0. This
+  is the **Deviational Levi-Civita connecti...'
+heading: '**Axiom 5 — Deviational Connection**'
+id: INTK-9653
+lines: 94-102
+location: intake/axioms-geometry::axiom-5-deviational-connection::b1
+source: intake\Axioms-geometry.md

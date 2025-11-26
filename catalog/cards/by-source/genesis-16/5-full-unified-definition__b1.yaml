@@ -1,0 +1,16 @@
+block_type: table
+concepts:
+- Apply
+- Box
+- Box Calculus
+- Standard Formalism
+- Σ
+excerpt: 'Where preconditions typically include: Pre(Op,Σ,Adj):=(Adjacency-legal)∧(NOT-axiom
+  preserved)∧(type compatibility)\\mathrm{Pre}(Op,\\Sigma,\\mathrm{Adj}) := \\big(\\text{Adjacency-legal}\\big)\\wedge
+  ...'
+heading: '**5\. Full Unified Definition**'
+id: GEN16-3759
+lines: 299-309
+location: genesis-16/untitled-document::formal-transition-function-for-box-calculus::5-full-unified-definition::b1
+parent_heading: '**Formal Transition Function for Box Calculus**'
+source: genesis-16\Untitled_document.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Box
+- Π
+- Σ
+excerpt: 'No separate Π-axiom needed; halting is a spectral fact. A Box halts iff
+  its flow reaches a stable spectral projector: Halts(B)  ⟺  ∃n: Σ(n)=P0Σ(n)'
+heading: 7\. Normal Form (Halting) in Monistic Terms
+id: GEN17-4769
+lines: 9155-9169
+location: genesis-17/box-calculus::monistic-box-calculus-syntax-v10::7-normal-form-halting-in-monistic-terms::b1
+parent_heading: ⭐ MONISTIC BOX CALCULUS SYNTAX v1.0
+source: genesis-17\box_calculus.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Axiom
+excerpt: '**Axiom M2 — Morphisms** Morphisms in Math preserve structural information:
+  HomMath(X,Y)={f:X→Y∣f respects structure}.\\text{Hom}\_\\text{Math}(X,Y) \= \\{
+  f : X \\to Y \\mid f \\text{ respects struct...'
+heading: '**2\. Morphisms (Structure-Preserving Maps)**'
+id: GEN2-6243
+lines: 274-297
+location: genesis-2/axioms-for-the-category-genesis::2-morphisms-structure-preserving-maps::b1
+source: genesis-2\Axioms_for_the_Category_Genesis.md

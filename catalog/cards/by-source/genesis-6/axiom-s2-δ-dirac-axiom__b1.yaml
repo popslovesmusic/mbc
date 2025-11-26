@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'The δ-Dirac operator **𝒟δ** is densely defined, essentially self-adjoint,
+  with compact resolvent: (1+Dδ2)−1/2is compact.(1 \+ \\mathcal{D}\_{\\delta}^{2})^{-1/2}
+  \\quad \\text{is compact.}(1+Dδ2​)−1/2...'
+heading: '**AXIOM S2 – δ-Dirac Axiom**'
+id: GEN6-8261
+lines: 35-44
+location: genesis-6/spectral-triple-axiom-box-sealed-version::δspectral-triple-axiom-box-sealed-version::axiom-s2-δ-dirac-axiom::b1
+parent_heading: '**δ–Spectral Triple Axiom Box (Sealed Version)**'
+source: genesis-6\Spectral_Triple_Axiom_Box_Sealed_Version.md

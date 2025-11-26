@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- Causal Sphere
+- Π
+- δ
+excerpt: '**Π : 𝓑 → Poset** is the unique functor that assigns to each Box **B** the
+  partially ordered set of all Boxes structurally dependent on it, and assigns to
+  each δ-induced morphism an order-preserving m...'
+heading: '**VI. Final Formal Statement**'
+id: GEN17-4999
+lines: 1659-1669
+location: genesis-17/key-points::vi-final-formal-statement::b1
+source: genesis-17\Key_Points.md

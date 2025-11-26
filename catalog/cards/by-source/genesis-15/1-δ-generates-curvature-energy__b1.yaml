@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Deviation is the fundamental asymmetry; its operator norm defines a curvature
+  scalar: Kδ=δ†δ\\mathcal{K}\_\\delta \= \\delta^\\dagger \\deltaKδ​=δ†δ This object
+  is positive semi-definite and contains ...'
+heading: '**1\. δ generates curvature energy**'
+id: GEN15-3089
+lines: 57-65
+location: genesis-15/the-mass-curvature-projection-theorem::proof-operator-theoretic::1-δ-generates-curvature-energy::b1
+parent_heading: '**Proof (operator-theoretic)**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

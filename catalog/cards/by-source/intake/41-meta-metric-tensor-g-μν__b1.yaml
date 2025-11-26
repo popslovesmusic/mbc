@@ -1,0 +1,19 @@
+block_type: paragraph
+concepts:
+- Einstein Equation
+- Gauge Meta
+- Higher-Gauge
+- Meta-Einstein
+- Meta-Metric
+- The Meta
+- μ
+- ν
+excerpt: The Meta-Metric `G_μν` (from the Higher-Gauge Meta-Einstein Equation) is
+  derived from a symmetric sub-block of `M_IJ`, typically a 4x4 or 5x5 submatrix involving
+  the spatial/temporal-analog dimensions...
+heading: '**4.1. Meta-Metric Tensor (G_μν)**'
+id: INTK-10233
+lines: 242-244
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::4-operators-as-matrix-elements-and-sub-blocks::41-meta-metric-tensor-g-μν::b1
+parent_heading: '**4. Operators as Matrix Elements and Sub-Blocks**'
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'ns−1=ddln⁡kln⁡∣TΦ(k) δk∣2\\boxed{ n\_s \- 1 \= \\frac{d}{d\\ln k}\\ln \\left|\\mathcal{T}\_{\\Phi}(k)\\,\\delta\_k\\right|^2
+  }ns​−1=dlnkd​ln∣TΦ​(k)δk​∣2​ Thus tilt arises from: * δ-harmonic slope'
+heading: '**Tilt**'
+id: GEN11-1212
+lines: 1480-1492
+location: genesis-11/how-igsoa-modes-map-to-cmb-anisotropies::core-spectral-consequences::a-scalar-power-spectrum::tilt::b1
+parent_heading: '**(A) Scalar Power Spectrum**'
+source: genesis-11\How_IGSOA_-Modes_Map_to_CMB_Anisotropies.md

@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: 'Φ acts linearly on internal hom-objects: Φ(f+g)=Φ(f)+Φ(g),Φ(cf)=c Φ(f).\\Phi(f+g)
+  \= \\Phi(f) \+ \\Phi(g),\\qquad \\Phi(c f)=c\\,\\Phi(f).Φ(f+g)=Φ(f)+Φ(g),Φ(cf)=cΦ(f).
+  Same form as δ-linearity.'
+heading: '**Axiom MM-2.1 — Φ-Linearity**'
+id: GEN2-6323
+lines: 407-415
+location: genesis-2/axioms-of-geometry-topos-compatible::2-φ-algebra-action-generated-algebra::axiom-mm-21-φ-linearity::b1
+parent_heading: '**2\. Φ-Algebra (Action-Generated Algebra)**'
+source: genesis-2\Axioms_of_-Geometry_Topos-Compatible.md

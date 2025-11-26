@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Φ
+- δ
+excerpt: '**(C1) Adjoint symmetry** Φ(δ†)=Φ(δ)†.\\Phi(\\delta^\\dagger)=\\Phi(\\delta)^\\dagger.Φ(δ†)=Φ(δ)†.
+  **(C2) Trace symmetry**'
+heading: '**Clauses / Constraints**'
+id: GEN8-8769
+lines: 1052-1068
+location: genesis-8/corollary-einstein-compatibility-via::meta-einstein-axiom-box-δφ-symmetric-form::clauses-constraints::b1
+parent_heading: '**◆ Meta-Einstein Axiom Box (δ/Φ-Symmetric Form) ◆**'
+source: genesis-8\Corollary__Einstein_Compatibility_via_.md

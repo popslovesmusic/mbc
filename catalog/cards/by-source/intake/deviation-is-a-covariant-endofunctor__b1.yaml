@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'Thus: δ acting once   ⟹  δ acting twice   ⟹  ⋯\\delta\\text{ acting once
+  } \\implies \\delta \\text{ acting twice } \\implies \\cdotsδ acting once ⟹δ acting
+  twice ⟹⋯ A functor cannot map an object int...'
+heading: '**Deviation is a covariant endofunctor.**'
+id: INTK-10023
+lines: 1240-1258
+location: intake/meta-genesis-mathematical-papers::4-category-theoretic-proof::deviation-is-a-covariant-endofunctor::b1
+parent_heading: '**4\. Category-Theoretic Proof**'
+source: intake\Meta-Genesis_Mathematical_Papers.md

@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- δ
+- σ
+excerpt: 'We remove the δ-term by defining: u(r)=e12∫rδ(s)ds u\~(r).u(r) \= e^{\\frac{1}{2}\\int^r
+  \\delta(s) ds}\\,\\tilde u(r).u(r)=e21​∫rδ(s)dsu\~(r). Compute the derivatives:'
+heading: '**6\. δ-Removal Through Integrating Factor**'
+id: GEN7-8561
+lines: 127-148
+location: genesis-7/weitzenbck-atomic-orbital-derivation-long-form::6-δ-removal-through-integrating-factor::b1
+source: genesis-7\Weitzenbck__Atomic_Orbital_Derivation_Long_Form.md

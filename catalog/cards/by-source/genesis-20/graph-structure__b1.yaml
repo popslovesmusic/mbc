@@ -1,0 +1,11 @@
+block_type: paragraph
+concepts:
+- Φ
+excerpt: 'Use a directed acyclic graph (preferred) or a graph with stabilized loops:
+  A → B → C \\      ↑'
+heading: Graph Structure
+id: GEN20-7029
+lines: 4658-4666
+location: genesis-20/mbc-40-documentaitio-1::conclusion::142-minimal-data-structures-required::graph-structure::b1
+parent_heading: 14.2 Minimal Data Structures Required
+source: genesis-20\MBC_40_Documentaitio-1.md

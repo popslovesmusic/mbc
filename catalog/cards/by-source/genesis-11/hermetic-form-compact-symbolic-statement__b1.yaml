@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Echo Spectrum
+- Ψ
+- δ
+- ω
+excerpt: GW Echo Spectrum  :=  {ωn}n∈NwhereWδΨn=ωn2Ψn and ωn+1−ωn=Δδ.\\boxed{ \\text{GW
+  Echo Spectrum} \\;:=\\; \\{\\omega\_n\\}\_{n\\in\\mathbb{N}} \\quad\\text{where}\\quad
+  \\mathcal{W}\_\\delta\\Psi\_n=\\om...
+heading: '**Hermetic Form (Compact Symbolic Statement)**'
+id: GEN11-1268
+lines: 435-441
+location: genesis-11/the-adjacency-wave-equation::the-gw-echo-spectrum-axiom::hermetic-form-compact-symbolic-statement::b1
+parent_heading: '**The GW Echo Spectrum Axiom**'
+source: genesis-11\The_Adjacency_Wave_Equation.md

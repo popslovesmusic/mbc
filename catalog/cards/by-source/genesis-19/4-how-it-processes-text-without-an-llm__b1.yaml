@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- "Boxes  \nRelationships"
+- "Claims  \nMeta"
+- 'Contradictions
+
+
+  Then'
+- "Routers  \nStatements"
+excerpt: 'You feed text into a semantic parser (rule-based or simple statistical).
+  This breaks the text into: Concepts → Boxes'
+heading: \#4 — How It Processes Text Without an LLM
+id: GEN19-6101
+lines: 917-927
+location: genesis-19/what-you-can-do-with-mbc-complete-capability-map::4-how-it-processes-text-without-an-llm::b1
+source: genesis-19\What_You_Can_Do_With_MBC_Complete_Capability_Map.md

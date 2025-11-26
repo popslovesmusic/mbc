@@ -1,0 +1,12 @@
+block_type: table
+concepts:
+- Θ
+- δ
+excerpt: '**Net drive:** K(B)  =  ∑i∈N(B)w^i κiK(B)\\;=\\;\\sum\_{i\\in N(B)} \\hat
+  w\_i\\,\\kappa\_iK(B)=i∈N(B)∑​w^i​κi​ (If you don’t normalize, same form with wiw\_iwi​.)'
+heading: '**2\. Curvature Aggregation (δ → Θ pre-activation)**'
+id: GEN19-5886
+lines: 198-216
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::θ-router-equations-δ-metadata-polarity-routing-function::2-curvature-aggregation-δ-θ-pre-activation::b1
+parent_heading: '**Θ-Router Equations (δ-metadata → Polarity Routing Function)**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

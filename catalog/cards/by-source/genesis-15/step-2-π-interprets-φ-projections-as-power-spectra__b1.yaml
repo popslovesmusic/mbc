@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+- λ
+excerpt: Pℓ(k)=Π ⁣(λℓ∣Φℓ(k)∣2).\\mathcal{P}\_{\\ell}(k) \= \\Pi\\\!\\left(\\lambda\_\\ell|\\Phi\_\\ell(k)|^2\\right).Pℓ​(k)=Π(λℓ​∣Φℓ​(k)∣2).
+  This gives the **primordial scalar/tensor spectra**. ---
+heading: '**Step 2: Π interprets Φ-projections as power spectra**'
+id: GEN15-3218
+lines: 2155-2161
+location: genesis-15/the-mass-curvature-projection-theorem::ⅱ-proof-derived-from-the-functor-stack::step-2-π-interprets-φ-projections-as-power-spectra::b1
+parent_heading: '**Ⅱ. Proof (Derived from the Functor Stack)**'
+source: genesis-15\The_Mass__Curvature_Projection_Theorem_.md

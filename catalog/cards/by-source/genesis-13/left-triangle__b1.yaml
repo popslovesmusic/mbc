@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Π
+- Φ
+excerpt: \\Phi(P) \\to \\Phi(\\Pi^\\\!\*\\Phi(P)) \\to P Φ(P) → Π\*Φ(P) → Φ(P) commutes
+  because Π\*Φ \= geodesic reconstruction.
+heading: '**Left Triangle:**'
+id: GEN13-2335
+lines: 1051-1055
+location: genesis-13/the-weight-of-light::2-second-adjoint-pair-φ-π::24-triangle-identities::left-triangle::b1
+parent_heading: '**2.4 Triangle identities**'
+source: genesis-13\The_Weight_of_Light.md

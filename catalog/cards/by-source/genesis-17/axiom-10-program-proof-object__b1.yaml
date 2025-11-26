@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: A valid computation \= a δ-schedule \+ 𝓕-flow on a structural graph. D=⟨G=(B,E),
+  (δt)t=1n, Fn⟩ D=⟨G=(B,E), (δ
+heading: 🔷 AXIOM 10 – Program / Proof Object
+id: GEN17-4791
+lines: 9472-9487
+location: genesis-17/box-calculus::axiom-10-program-proof-object::b1
+source: genesis-17\box_calculus.md

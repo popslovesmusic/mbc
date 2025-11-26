@@ -1,0 +1,14 @@
+block_type: table
+concepts:
+- Axiom
+- Realization Axiom
+- Π
+- Σ
+- β
+excerpt: 'So: Π(Σ)  ≡  normal form of the proof/program Π(Σ)≡normal form of the proof/program'
+heading: 4\. Normalization \= Π-Evaluation
+id: GEN17-4580
+lines: 6827-6839
+location: genesis-17/box-calculus::curryhoward-for-box-calculus::4-normalization-π-evaluation::b1
+parent_heading: ⭐ CURRY–HOWARD FOR BOX CALCULUS
+source: genesis-17\box_calculus.md

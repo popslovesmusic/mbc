@@ -1,0 +1,13 @@
+block_type: paragraph
+concepts:
+- k-stable
+- δ
+excerpt: 'A relational pattern PPP defined on adjacency graph A\\mathcal{A}A is **k-stable**
+  if: δk(P)≅P,\\delta^k(P) \\cong P,δk(P)≅P, meaning the pattern is preserved under
+  k applications of δ,'
+heading: '**Definition — k-Stable Pattern**'
+id: GEN4-7919
+lines: 1979-1986
+location: genesis-4/the-first-adjacency::2-formalization-the-law-of-pattern-stability::definition-k-stable-pattern::b1
+parent_heading: '**2\. Formalization — The Law of Pattern Stability**'
+source: genesis-4\The_First_Adjacency.md

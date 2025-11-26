@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Θ
+- Π
+- Φ
+- δ
+excerpt: '∀A,B:semantic truth=Π(Φ(δ(A,B),Θ(A,B)))\\boxed{ \\forall A,B: \\text{semantic
+  truth} \= \\Pi(\\Phi(\\delta(A,B),\\Theta(A,B))) }∀A,B:semantic truth=Π(Φ(δ(A,B),Θ(A,B)))​'
+heading: '**IGSOA (canonical form)**'
+id: GEN18-5593
+lines: 2504-2506
+location: genesis-18/mbc-4::x-the-mbc-40-polarity-logic-theorem::igsoa-canonical-form::b1
+parent_heading: '**X. The MBC-4.0 Polarity Logic Theorem**'
+source: genesis-18\MBC-4.md

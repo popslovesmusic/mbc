@@ -1,0 +1,19 @@
+block_type: table
+concepts:
+- Box
+- Box Operator
+- Math Primitive
+- Meta-Math
+- Operator
+- Π
+- Φ
+- ρ
+excerpt: 'So the functor on operators is: G(E)=Gen, G(A)=Comp, G(ρ)=Split, G(R)=Select,
+  G(Φ)=Rewrite, G(Π)=Realize. G(E)=Gen, G(A)=Comp, G(ρ)=Split, G(R)=Select, G(Φ)=Rewrite,
+  G(Π)=Realize.'
+heading: 2.1 Operator-by-Operator Reverse Image
+id: GEN17-4384
+lines: 3120-3135
+location: genesis-17/box-calculus::2-mapping-the-operators-primitives::21-operator-by-operator-reverse-image::b1
+parent_heading: ⭐ 2\. Mapping the Operators (Primitives)
+source: genesis-17\box_calculus.md

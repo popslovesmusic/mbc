@@ -1,0 +1,19 @@
+block_type: paragraph
+concepts:
+- Interpretation
+- Layer
+- branches
+- one
+- reachable
+- spine
+- Ψ
+- δ
+excerpt: Once the first movement happens, δ doesn’t just make *one* successor — it
+  makes a **small adjacency neighborhood** (the tiniest “graph-universe” that can
+  host structure). Let’s label the **first disti...
+heading: '**2\. Layered Adjacency Graph (first “states” that appear)**'
+id: INTK-9914
+lines: 214-279
+location: intake/meta-genesis-diagrammatic-papers::3-ultra-compressed-one-line-version::2-layered-adjacency-graph-first-states-that-appear::b1
+parent_heading: '**3\. Ultra-Compressed One-Line Version**'
+source: intake\Meta-Genesis_Diagrammatic_Papers.md

@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Fractal Differential
+- Meta-Fractal
+- α
+- μ
+excerpt: 'The standard exterior derivative `d` is replaced by the **Meta-Fractal Differential
+  (d_F)**. For a scalar function `f` on F: `d_F f(x) = ∂_F f(x) dμ_F(x)` where `∂_F`
+  is a generalized fractional/fract...'
+heading: '**3.1. Fractal Differential (d_F)**'
+id: INTK-10249
+lines: 366-372
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::3-meta-fractal-differential-forms-ωk-f::31-fractal-differential-d-f::b1
+parent_heading: '**3. Meta-Fractal Differential Forms (Ω^k_F)**'
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

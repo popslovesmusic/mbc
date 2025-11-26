@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Box
+- By Lemma
+- Lemma
+- Ψ
+excerpt: '**Proof:** By Lemma 2, Ψ₀ cannot persist. By Lemma 3, non-persistence ⇒
+  non-existence.'
+heading: '**Lemma 4 (Ψ₀ Cannot Exist).**'
+id: GEN1-489
+lines: 1089-1098
+location: genesis-1/the-foundation-layer::ii-lemmas-leading-to-the-theorem::lemma-4-ψ₀-cannot-exist::b1
+parent_heading: '**II. Lemmas Leading to the Theorem**'
+source: genesis-1\THE_FOUNDATION_LAYER.md

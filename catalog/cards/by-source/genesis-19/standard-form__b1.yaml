@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- any
+- Θ
+- σ
+excerpt: 'Min-sign aggregator: * If **any** σ \= –1 → output \= –1 * Otherwise \+1'
+heading: '**Standard Form**'
+id: GEN19-5977
+lines: 1585-1598
+location: genesis-19/the-polarity-algebra-axiom-box-sealed::i-quantifiers-in-θ-logic::1-universal-quantifier::standard-form::b1
+parent_heading: '**1\. Universal Quantifier — ∀**'
+source: genesis-19\The_Polarity_Algebra_Axiom_Box_sealed.md

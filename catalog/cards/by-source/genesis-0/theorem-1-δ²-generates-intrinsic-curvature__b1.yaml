@@ -1,0 +1,14 @@
+block_type: paragraph
+concepts:
+- Axiom
+- Deviational Axiom
+- δ
+excerpt: 'From the Deviational Axiom: δiδj≠δjδi⟹Rij(x)≠0.\\delta\_i\\delta\_j \\neq
+  \\delta\_j\\delta\_i \\quad\\Longrightarrow\\quad \\mathcal{R}\_{ij}(x)\\neq 0.δi​δj​=δj​δi​⟹Rij​(x)=0.
+  Thus curvature is *not...'
+heading: '**Theorem 1 — δ² Generates Intrinsic Curvature**'
+id: GEN0-207
+lines: 770-778
+location: genesis-0/tri-unity-theorem-equivalence-of::i-δ-curvature-the-second-deviation-layer::theorem-1-δ²-generates-intrinsic-curvature::b1
+parent_heading: '**I. Δ-Curvature: The Second Deviation Layer**'
+source: genesis-0\Tri-Unity_Theorem_Equivalence_of___.md

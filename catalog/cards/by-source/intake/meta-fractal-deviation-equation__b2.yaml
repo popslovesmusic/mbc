@@ -1,0 +1,15 @@
+block_type: paragraph
+concepts:
+- Core Deviation
+- Meta-Fractal
+- α
+- δ
+- τ
+excerpt: 'Core Deviation PDE on Meta-Fractal base: ``` ∂_τ δ(x,τ) = [A + H + E + F]
+  δ(x,τ)'
+heading: Meta-Fractal Deviation Equation
+id: INTK-10905
+lines: 4026-4045
+location: intake/volume-i-core-ontology-and-metagenesis-summary::meta-time-cone::meta-fractal-calculus-integration::meta-fractal-deviation-equation::b2
+parent_heading: Meta-Fractal Calculus Integration
+source: intake\Volume_I_Core_Ontology_and_MetaGenesis_Summary.md

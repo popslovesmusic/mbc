@@ -1,0 +1,16 @@
+block_type: paragraph
+concepts:
+- Meta-Fields
+- Meta-Geometry
+- Scale-Stack
+- The Scale
+- scale-filtration
+excerpt: 'The Scale-Stack S is equipped with a **scale-filtration**: `S₀ ↪ S₁ ↪ ⋯
+  ↪ S_∞` where `S_k` represents the category of Meta-Fields or deviation configurations
+  observable at scale `k`. This mathematical...'
+heading: '**2.2. Scale-Filtration**'
+id: INTK-10462
+lines: 1618-1623
+location: intake/volume-ii-metacalculus-metageometry-fractals-summary::2-the-scale-stack-s-an-topos::22-scale-filtration::b1
+parent_heading: '**2. The Scale-Stack (S): An ∞-Topos**'
+source: intake\Volume_II_MetaCalculus_MetaGeometry_Fractals_Summary.md

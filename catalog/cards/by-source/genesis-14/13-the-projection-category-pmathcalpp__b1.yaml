@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Π
+excerpt: 'Objects: observable outputs (ciphertexts, digests, signatures, public keys).
+  Morphisms: public morphisms (decrypt-with-known-key, verify-signature, compare digests).
+  Π is a **projection functor**:'
+heading: '**1.3 The Projection Category P\\mathcal{P}P**'
+id: GEN14-2888
+lines: 1426-1437
+location: genesis-14/meta-math-and-cryptography::1-category-setup::13-the-projection-category-pmathcalpp::b1
+parent_heading: '**1\. Category Setup**'
+source: genesis-14\Meta-Math_and_Cryptography.md

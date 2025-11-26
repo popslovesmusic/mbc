@@ -1,0 +1,12 @@
+block_type: paragraph
+concepts:
+- Ψ
+- δ
+excerpt: 'The set of states that **no operator can ever reach** is: Excl={Ψ∣δ(Ψ)=0
+  ∨ A(Ψ)=∅ ∨ R(Ψ)=∞}.\\mathrm{Excl} \= \\{\\Psi \\mid \\delta(\\Psi)=0 \\ \\lor\\
+  A(\\Psi)=\\emptyset \\ \\lor\\ R(\\Psi)=\\infty...'
+heading: '**5\. Unreachable States**'
+id: INTK-10204
+lines: 370-378
+location: intake/meta-genesis-meta-math-integration-papers::5-unreachable-states::b1
+source: intake\Meta-Genesis__Meta-Math_Integration_Papers.md

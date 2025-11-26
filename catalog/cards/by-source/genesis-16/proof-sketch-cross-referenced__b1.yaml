@@ -1,0 +1,15 @@
+block_type: table
+concepts:
+- Proof Sketch
+- Standard Proof Sketch
+- Π
+- Φ
+- δ
+excerpt: LA:D→F,ΦS∣A=LA(δS)\\mathcal{L}\_A:\\mathcal{D}\\to\\mathcal{F},\\quad \\Phi\_{S|A}=\\mathcal{L}\_A(\\delta\_S)LA​:D→F,ΦS∣A​=LA​(δS​)
+  *(↔ Standard P3)* | **P3. Decoherence suppresses interference.** En...
+heading: '**Proof Sketch (Cross-Referenced)**'
+id: GEN16-3680
+lines: 123-152
+location: genesis-16/quantum-measurement-in-igsoa-vs::the-δφπ-collapse-free-measurement-theorem::proof-sketch-cross-referenced::b1
+parent_heading: '**The δ→Φ→Π Collapse-Free Measurement Theorem**'
+source: genesis-16\Quantum_Measurement_in_IGSOA_vs.md

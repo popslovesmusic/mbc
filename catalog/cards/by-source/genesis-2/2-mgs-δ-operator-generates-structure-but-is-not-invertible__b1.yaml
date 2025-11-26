@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- σ
+excerpt: σ-Topos refinement is also not invertible → compatible.
+heading: '**(2) MG’s δ-operator generates structure but is not invertible.**'
+id: GEN2-6492
+lines: 252-254
+location: genesis-2/meta-genesis-scale-topos-compatibility-lemma::5-proof::56-no-contradiction::2-mgs-δ-operator-generates-structure-but-is-not-invertible::b1
+parent_heading: '**5.6 No Contradiction**'
+source: genesis-2\Meta-Genesis__Scale-Topos_Compatibility_Lemma.md

@@ -1,0 +1,10 @@
+block_type: paragraph
+concepts:
+- δ
+excerpt: 'X⪯Y  ⟺  ∃n:δnX→Y.X\\preceq Y \\iff \\exists n: \\delta^n X\\to Y.X⪯Y⟺∃n:δnX→Y.'
+heading: '**Axiom MP.3 — Meta-Causality**'
+id: GEN4-7637
+lines: 561-563
+location: genesis-4/meta-physics-axiom-box::v-meta-physics-axioms-curvature-causality-projection::axiom-mp3-meta-causality::b1
+parent_heading: '**V. META-PHYSICS AXIOMS (Curvature, Causality, Projection)**'
+source: genesis-4\META-PHYSICS_AXIOM_BOX.md
