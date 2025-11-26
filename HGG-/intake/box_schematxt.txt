@@ -1,0 +1,98 @@
+﻿{
+  "type": "object",
+  "title": "IGSOA_Box",
+  "description": "Universal schema for IGSOA Box Calculus elements.",
+  "required": [
+    "box_type",
+    "name",
+    "domain",
+    "content"
+  ],
+
+
+  "properties": {
+    "box_type": {
+      "type": "string",
+      "enum": [
+        "AXIOM",
+        "DEFINITION",
+        "THEOREM",
+        "PROOF",
+        "DERIVATION",
+        "SEALED"
+      ],
+      "description": "The logical type of the box."
+    },
+
+
+    "name": {
+      "type": "string",
+      "description": "Unique name for the box."
+    },
+
+
+    "domain": {
+      "type": "string",
+      "enum": [
+        "δ",
+        "Φ",
+        "Π",
+        "Mixed"
+      ],
+      "description": "Ontological domain of the box content."
+    },
+
+
+    "references": {
+      "type": "array",
+      "description": "Optional list of referenced box names.",
+      "items": {
+        "type": "string"
+      }
+    },
+
+
+    "content": {
+      "type": "object",
+      "description": "Box-specific payload.",
+      "properties": {
+        "axioms": {
+          "type": "array",
+          "description": "Axioms (AXIOM boxes only or SEALED boxes).",
+          "items": { "type": "string" }
+        },
+        "definitions": {
+          "type": "array",
+          "description": "Definitions (DEF and SEALED).",
+          "items": { "type": "string" }
+        },
+        "statements": {
+          "type": "array",
+          "description": "Theorem statements or CLAIMS fields.",
+          "items": { "type": "string" }
+        },
+        "steps": {
+          "type": "array",
+          "description": "Proof or derivation steps.",
+          "items": { "type": "string" }
+        },
+        "predictions": {
+          "type": "array",
+          "description": "Optional predictions (SEALED only).",
+          "items": { "type": "string" }
+        },
+        "notes": {
+          "type": "string",
+          "description": "Optional informal notes."
+        }
+      }
+    },
+
+
+    "integrity": {
+      "type": "string",
+      "enum": ["SEALED", "OPEN"],
+      "description": "SEALED = immutable box; OPEN = editable."
+    }
+  }
+}

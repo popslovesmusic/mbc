@@ -1,0 +1,340 @@
+﻿{
+  "schema_version": "mbc-monistic-box-calculus-a2z-v1",
+  "purpose": "Cheat-sheet JSON for a local LLM to write consistently in Monistic Box Calculus (MBC) within IGSOA/Meta-Genesis. Defines primitives, shadows, derived operators, syntax, semantics, rewrite laws, and an A–Z glossary.",
+  "core_monism": {
+    "one_process": {
+      "name": "𝓕 (the monistic process)",
+      "aka": ["deviation-cycle", "IGSOA-process", "δ-process"],
+      "informal": "Reality/computation is a single inseparable process. All distinctions are projections/shadows of 𝓕.",
+      "formal_hint": "Treat 𝓕 as the only ontic primitive; all operators are modes, projections, or derived compositions."
+    },
+    "two_shadows": [
+      {
+        "name": "IGS-shadow",
+        "symbol": "IGS",
+        "type": "projection_shadow",
+        "informal": "Low-curvature / smoothing / potential-limit view of 𝓕.",
+        "role": "Tends toward symmetry, coherence, expansion, smoothing."
+      },
+      {
+        "name": "OA-shadow",
+        "symbol": "OA",
+        "type": "projection_shadow",
+        "informal": "High-curvature / action / nonzero-state-limit view of 𝓕.",
+        "role": "Tends toward asymmetry, event, cut, selection, action."
+      }
+    ],
+    "duality_warning": "IGS and OA are not two substances. They are two projection-layers of one process 𝓕. Do not reify them as independent."
+  },
+  "primitive_operators": [
+    {
+      "name": "E",
+      "symbol": "E",
+      "type": "primitive",
+      "arity": 1,
+      "informal": "Expansion / smoothing / potential push of the monistic process.",
+      "notes": [
+        "Often aligns with IGS-shadow behaviors.",
+        "Not 'good' or 'bad'—just a mode."
+      ],
+      "rewrite_laws": [
+        "E(E(x)) => E^2(x) (power notation allowed)",
+        "E(x) composed with A(x) yields IGSOA-cycle when closed."
+      ],
+      "example": "E(Box[p]) = smooth potential amplification of p"
+    },
+    {
+      "name": "A",
+      "symbol": "A",
+      "type": "primitive",
+      "arity": 1,
+      "informal": "Action / cut / nonzero insistence mode of the monistic process.",
+      "notes": [
+        "Often aligns with OA-shadow behaviors.",
+        "Introduces curvature, selection, or eventful deviation."
+      ],
+      "rewrite_laws": [
+        "A(A(x)) => A^2(x)",
+        "A(E(x)) is valid; order matters unless a commutation rule is stated."
+      ],
+      "example": "A(Box[p]) = force p into a realized/actionful state"
+    },
+    {
+      "name": "δ",
+      "symbol": "δ",
+      "type": "primitive_mode",
+      "arity": 0,
+      "informal": "Deviation itself; the universal nonzero initiator.",
+      "notes": [
+        "δ is the ontological asymmetry that enforces the NOT axiom.",
+        "In physics-mode: uncertainty; in math-mode: insistence; in genesis-mode: asymmetry."
+      ],
+      "rewrite_laws": [
+        "δ ≠ 0 (sealed axiom)",
+        "δ triggers Φ then Π in projection stacks."
+      ]
+    }
+  ],
+  "canonical_cycle": {
+    "name": "IGSOA-cycle",
+    "symbolic_form": "(E A) E",
+    "informal": "One process seen as alternating smoothing and action; inseparable as a single composite.",
+    "notes": [
+      "Use parentheses to stress unity: (EA)E not E·A·E as separate things.",
+      "The imaginary labels i_IGS and a_OA are only reminders of inseparability."
+    ]
+  },
+  "box_syntax": {
+    "box": {
+      "name": "Box",
+      "symbol": "□",
+      "informal": "A context/segment of computation/reality; units are nested boxes.",
+      "grammar": [
+        "□[content]",
+        "□[□[...]] (nesting)",
+        "Operators prefix boxes: E□[x], A□[x], Σ□[x1,x2,...]"
+      ],
+      "semantics": "A box is not a container of 'stuff' but a stabilized cut/projection of 𝓕."
+    },
+    "wires_and_ports": {
+      "informal": "Boxes can have inputs/outputs (ports). Routing/polarity attaches metadata to ports."
+    }
+  },
+  "derived_operators": [
+    {
+      "name": "Σ (aggregate/merge)",
+      "symbol": "Σ",
+      "type": "derived",
+      "arity": "n-ary",
+      "informal": "Network aggregation: takes multiple connections/concepts and mixes into one.",
+      "formal_hint": "Σ(x1,...,xn) := fold_A/E over adjacency links",
+      "example": "(Σ Σ)A = merge-of-merges under action-mode"
+    },
+    {
+      "name": "Router / Polarity Fork",
+      "symbol": "<--|--->",
+      "type": "derived_control",
+      "arity": 2,
+      "informal": "Directional fork with objective polarity weights. Chooses branch tendency.",
+      "notes": [
+        "Polarity is objective; nuance is subjective.",
+        "Weights are metadata attached from prior processes."
+      ],
+      "example": "Route(p; wL,wR) => left if wL>wR else right"
+    },
+    {
+      "name": "Φ (field/mode lift)",
+      "symbol": "Φ",
+      "type": "derived_projection",
+      "arity": 1,
+      "informal": "Middle projection: turns δ-structure into a field/mode dynamics.",
+      "stack_role": "δ → Φ → Π"
+    },
+    {
+      "name": "Π (evaluation/realization)",
+      "symbol": "Π",
+      "type": "derived_projection",
+      "arity": 1,
+      "informal": "Final projection: yields realized observable/output.",
+      "stack_role": "δ → Φ → Π"
+    }
+  ],
+  "operational_semantics": {
+    "small_step": {
+      "informal": "Rewrite boxes locally by operator rules: □[x] -> □[x']",
+      "meta_rule": "Prefer minimal primitive rewrites (E,A,δ) before derived ones."
+    },
+    "big_step": {
+      "informal": "Evaluate an entire boxed expression to a Π-level outcome.",
+      "meta_rule": "Big-step = Π ∘ Φ ∘ δ applied to the boxed input."
+    }
+  },
+  "rewrite_rules": [
+    {
+      "name": "Monistic Inseparability",
+      "rule": "Do not split 𝓕 into IGS and OA as separate causes. Always rewrite through 𝓕.",
+      "pattern": "IGS(x) + OA(x) => 𝓕(x) with IGS/OA as annotations only"
+    },
+    {
+      "name": "NOT Axiom (sealed)",
+      "rule": "Nothingness cannot remain pure; δ enforces nonzero deviation.",
+      "pattern": "Ψ0 (pure zero) => Ψ0 + δ"
+    },
+    {
+      "name": "Projection Stack",
+      "rule": "Any physical/semantic observable is Π(Φ(δ(...))).",
+      "pattern": "Observable(x) => Π(Φ(δ(x)))"
+    },
+    {
+      "name": "Shadow Agreement",
+      "rule": "If a claim is made in IGS-language, include its OA-shadow counterpart (and vice versa).",
+      "pattern": "Claim_IGS(x) => Claim_OA(x) + Monistic_Join"
+    }
+  ],
+  "writing_guidelines_for_llm": {
+    "tone": [
+      "Treat MBC as a rigorous language, not metaphor.",
+      "Always remind: one process, two shadows."
+    ],
+    "structure": [
+      "Define symbols on first use.",
+      "Use boxes to segment arguments.",
+      "When giving a theorem/derivation, prefer δ→Φ→Π stack explicitly."
+    ],
+    "avoid": [
+      "Calling IGS and OA 'two things'.",
+      "Reifying modes into substances.",
+      "Mixing subjective nuance with objective polarity."
+    ]
+  },
+  "glossary_A_to_Z": {
+    "A": {
+      "term": "Action-mode",
+      "symbol": "A",
+      "definition": "Primitive operator: high-curvature insistence/cut of 𝓕 (OA-shadow aligned)."
+    },
+    "B": {
+      "term": "Box",
+      "symbol": "□",
+      "definition": "Stabilized projection-context of 𝓕; fundamental syntactic unit."
+    },
+    "C": {
+      "term": "Causal Sphere of Influence",
+      "symbol": "CSOI",
+      "definition": "Isotropic causal accessibility field; generalizes light cone in IGSOA."
+    },
+    "D": {
+      "term": "Deviation",
+      "symbol": "δ",
+      "definition": "Universal nonzero initiator; asymmetry-enforcer across realms."
+    },
+    "E": {
+      "term": "Expansion-mode",
+      "symbol": "E",
+      "definition": "Primitive operator: smoothing/potential push of 𝓕 (IGS-shadow aligned)."
+    },
+    "F": {
+      "term": "𝓕 (Monistic Process)",
+      "symbol": "𝓕",
+      "definition": "The one ontic process from which all operators and shadows derive."
+    },
+    "G": {
+      "term": "Genesis-level",
+      "symbol": "Ψ₀→δ",
+      "definition": "Ontological layer where deviation first appears from zero-state."
+    },
+    "H": {
+      "term": "Harmony Ladder",
+      "symbol": "3–6–9",
+      "definition": "Spectral/harmonic stratification used to index δ-modes."
+    },
+    "I": {
+      "term": "IGS-shadow",
+      "symbol": "IGS",
+      "definition": "Low-curvature smoothing projection of 𝓕."
+    },
+    "J": {
+      "term": "Join (Monistic)",
+      "symbol": "⊔",
+      "definition": "Implicit operator reminding that IGS/OA views rejoin into 𝓕."
+    },
+    "K": {
+      "term": "Kan/Universal Mapping View",
+      "symbol": "Lan/Ran",
+      "definition": "Category-theoretic lens: Π often expressed as a Kan extension."
+    },
+    "L": {
+      "term": "Layer",
+      "symbol": "ℒ",
+      "definition": "Your preferred term for shadows/projections; avoids misleading duality."
+    },
+    "M": {
+      "term": "Merge/Aggregate",
+      "symbol": "Σ",
+      "definition": "Derived n-ary operator combining many concepts/links."
+    },
+    "N": {
+      "term": "NOT Axiom",
+      "symbol": "¬0",
+      "definition": "Sealed axiom: pure zero-state cannot persist; δ must arise."
+    },
+    "O": {
+      "term": "OA-shadow",
+      "symbol": "OA",
+      "definition": "High-curvature action projection of 𝓕."
+    },
+    "P": {
+      "term": "Projection Stack",
+      "symbol": "δ→Φ→Π",
+      "definition": "Canonical pipeline from deviation to field-mode to realized output."
+    },
+    "Q": {
+      "term": "Quantization of Modes",
+      "symbol": "δ_n",
+      "definition": "Discrete δ-eigenmodes indexed by harmonic ladder."
+    },
+    "R": {
+      "term": "Router/Polarity Fork",
+      "symbol": "<--|--->",
+      "definition": "Derived control selecting direction based on objective polarity weights."
+    },
+    "S": {
+      "term": "Sealed Axiom Box",
+      "symbol": "□⟦axiom⟧",
+      "definition": "A boxed statement treated as invariant within a derivation."
+    },
+    "T": {
+      "term": "Tri-Unity",
+      "symbol": "δ,Φ,Π",
+      "definition": "Three-level unity of initiation, dynamics, realization."
+    },
+    "U": {
+      "term": "Uncertainty (Physics-mode of δ)",
+      "symbol": "Δ",
+      "definition": "How deviation appears in physical projection."
+    },
+    "V": {
+      "term": "Valence/Polarity Weight",
+      "symbol": "w±",
+      "definition": "Objective directional probability attached as metadata."
+    },
+    "W": {
+      "term": "Weitzenböck-style δ-curvature",
+      "symbol": "𝓡_δ",
+      "definition": "Deviation-curvature invariant used in your field equations."
+    },
+    "X": {
+      "term": "eXemplification vs Encoding (bridge)",
+      "symbol": "Ex/En",
+      "definition": "Borrowed Zalta framing for concrete vs abstract property relations."
+    },
+    "Y": {
+      "term": "Yukawa-like δ-coupling",
+      "symbol": "Y_δ",
+      "definition": "Derived operator giving mass/interaction strengths in δ-EFT."
+    },
+    "Z": {
+      "term": "Zero-State",
+      "symbol": "Ψ₀",
+      "definition": "Idealized pure stillness; unstable under NOT axiom, births δ."
+    }
+  },
+  "example_snippets": [
+    {
+      "title": "Basic monistic evaluation",
+      "input": "□[p]",
+      "expansion": "δ(p) -> Φ(δ(p)) -> Π(Φ(δ(p)))",
+      "reading": "p is never evaluated directly; it is realized through the stack."
+    },
+    {
+      "title": "IGSOA cycle annotation",
+      "input": "(EA)E □[p]",
+      "reading": "One inseparable act of 𝓕 viewed as smoothing–action–smoothing."
+    },
+    {
+      "title": "Aggregation under action",
+      "input": "A Σ(□[p], □[q], □[r])",
+      "reading": "Actively merge p,q,r into one actionful composite."
+    }
+  ]
+}
